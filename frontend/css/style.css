@@ -357,6 +357,37 @@ table td, table th {
   line-height: 1.5;
   border-radius: 0.85rem;
   padding: 0.6rem 0.9rem;
+  white-space: pre-wrap; /* respeta saltos de linea sueltos (texto plano, errores) */
+}
+/* El tutor responde en Markdown (convertido a HTML real via marked.js, ver
+   main.js). Tailwind CDN resetea el estilo por defecto de listas/parrafos
+   (preflight), asi que hay que devolvérselo aqui dentro de la burbuja. */
+.chat-texto p {
+  margin: 0 0 0.5rem;
+}
+.chat-texto p:last-child {
+  margin-bottom: 0;
+}
+.chat-texto ul,
+.chat-texto ol {
+  margin: 0.3rem 0 0.5rem;
+  padding-left: 1.25rem;
+}
+.chat-texto ul {
+  list-style: disc;
+}
+.chat-texto ol {
+  list-style: decimal;
+}
+.chat-texto li {
+  margin-bottom: 0.2rem;
+}
+.chat-texto strong {
+  color: #fde68a; /* amber-200, para que la negrita destaque sobre el fondo oscuro */
+  font-weight: 700;
+}
+.chat-bubble-usuario .chat-texto strong {
+  color: #ffffff;
 }
 .chat-bubble-ia .chat-texto {
   background-color: rgba(17, 24, 39, 0.6);

@@ -608,7 +608,20 @@ function pintarBurbujaChat(texto, autor) {
     <span class="chat-avatar">${autor === "ia" ? "&#128657;" : "&#128100;"}</span>
     <div class="chat-texto"></div>
   `;
-  burbuja.querySelector(".chat-texto").textContent = texto;
+
+  const textoEl = burbuja.querySelector(".chat-texto");
+  if (autor === "ia") {
+    // El tutor responde en Markdown: se convierte a HTML con marked.js y se
+    // sanitiza con DOMPurify antes de insertarlo. marked.js NO sanitiza por
+    // si solo — sin DOMPurify, una respuesta con HTML/JS incrustado (via
+    // prompt injection desde un PDF cargado, por ejemplo) se ejecutaria tal
+    // cual en la pagina.
+    textoEl.innerHTML = DOMPurify.sanitize(marked.parse(texto));
+  } else {
+    // El texto del propio usuario nunca se interpreta como HTML.
+    textoEl.textContent = texto;
+  }
+
   chatMensajesEl.appendChild(burbuja);
   chatMensajesEl.scrollTop = chatMensajesEl.scrollHeight;
   return burbuja;
