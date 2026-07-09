@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tracker Analitico de Oposiciones</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body class="bg-gray-950 text-gray-100 min-h-screen">
+
+  <!-- ============ PANTALLA DE ACCESO (Login / Registro) ============ -->
+  <div id="auth-gate" class="min-h-screen w-full flex items-center justify-center p-6">
+    <div class="w-full max-w-sm bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-8">
+      <div class="flex items-center gap-3 mb-6">
+        <div class="w-9 h-9 rounded-lg bg-gradient-to-br from-orange-600 to-amber-500 flex items-center justify-center flex-shrink-0 shadow-lg shadow-orange-900/40">
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-white" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 2c1 3-2 4-2 7a4 4 0 108 0c0-1-.3-1.9-.8-2.7.9.4 2.8 1.9 2.8 5.2a6 6 0 11-12 0c0-4.2 2.7-6.2 4-9.5z" />
+          </svg>
+        </div>
+        <div>
+          <h1 class="text-sm font-semibold leading-tight text-white">Tracker Oposiciones</h1>
+          <p class="text-gray-500 text-xs mt-0.5">Accede a tu cuenta para continuar</p>
+        </div>
+      </div>
+
+      <a href="/api/auth/google/login"
+         class="w-full flex items-center justify-center gap-2 bg-white text-gray-800 font-medium rounded-lg py-2.5 text-sm hover:bg-gray-100 transition mb-4">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" viewBox="0 0 24 24">
+          <path fill="#4285F4" d="M23.52 12.27c0-.85-.08-1.67-.22-2.45H12v4.64h6.47a5.53 5.53 0 0 1-2.4 3.63v3h3.88c2.27-2.09 3.57-5.17 3.57-8.82Z"/>
+          <path fill="#34A853" d="M12 24c3.24 0 5.96-1.07 7.95-2.91l-3.88-3c-1.08.72-2.46 1.15-4.07 1.15-3.13 0-5.78-2.11-6.73-4.96H1.27v3.09A12 12 0 0 0 12 24Z"/>
+          <path fill="#FBBC05" d="M5.27 14.28A7.2 7.2 0 0 1 4.89 12c0-.79.14-1.56.38-2.28V6.63H1.27A12 12 0 0 0 0 12c0 1.94.46 3.77 1.27 5.37l4-3.09Z"/>
+          <path fill="#EA4335" d="M12 4.77c1.76 0 3.35.6 4.6 1.79l3.44-3.44C17.95 1.19 15.24 0 12 0 7.31 0 3.26 2.69 1.27 6.63l4 3.09C6.22 6.88 8.87 4.77 12 4.77Z"/>
+        </svg>
+        Continuar con Google
+      </a>
+
+      <div class="flex items-center gap-3 mb-4">
+        <div class="h-px flex-1 bg-gray-700"></div>
+        <span class="text-xs text-gray-500">o</span>
+        <div class="h-px flex-1 bg-gray-700"></div>
+      </div>
+
+      <div id="auth-tabs" class="flex gap-2 mb-6">
+        <button type="button" data-auth-tab="login" class="auth-tab-btn tab-btn active px-4 py-2 rounded-lg text-sm font-medium transition flex-1">
+          Iniciar sesion
+        </button>
+        <button type="button" data-auth-tab="registro" class="auth-tab-btn tab-btn px-4 py-2 rounded-lg text-sm font-medium transition flex-1">
+          Crear cuenta
+        </button>
+      </div>
+
+      <form id="form-login" class="auth-panel space-y-4">
+        <div>
+          <label class="block text-sm font-medium mb-1 text-gray-300" for="login-email">Email</label>
+          <input type="email" id="login-email" required class="field" autocomplete="username" />
+        </div>
+        <div>
+          <label class="block text-sm font-medium mb-1 text-gray-300" for="login-password">Contraseña</label>
+          <input type="password" id="login-password" required class="field" autocomplete="current-password" />
+        </div>
+        <button type="button" id="link-olvido-password" class="text-xs text-gray-400 hover:text-amber-400 underline underline-offset-2 transition">
+          ¿Has olvidado tu contraseña?
+        </button>
+        <p id="login-error" class="text-sm text-red-400 hidden"></p>
+        <button type="submit" class="btn-primary w-full">Entrar</button>
+      </form>
+
+      <form id="form-registro" class="auth-panel space-y-4 hidden">
+        <div>
+          <label class="block text-sm font-medium mb-1 text-gray-300" for="registro-email">Email</label>
+          <input type="email" id="registro-email" required class="field" autocomplete="username" />
+        </div>
+        <div>
+          <label class="block text-sm font-medium mb-1 text-gray-300" for="registro-password">Contraseña (minimo 8 caracteres)</label>
+          <input type="password" id="registro-password" minlength="8" required class="field" autocomplete="new-password" />
+        </div>
+        <p id="registro-error" class="text-sm text-red-400 hidden"></p>
+        <button type="submit" class="btn-primary w-full">Crear cuenta y entrar</button>
+      </form>
+
+      <!-- Recuperar contraseña: paso 1, pedir el email -->
+      <form id="form-olvido" class="auth-panel space-y-4 hidden">
+        <p class="text-sm text-gray-400">
+          Introduce tu email y te enviaremos un enlace para recuperar el acceso a tu cuenta.
+        </p>
+        <div>
+          <label class="block text-sm font-medium mb-1 text-gray-300" for="olvido-email">Email</label>
+          <input type="email" id="olvido-email" required class="field" autocomplete="username" />
+        </div>
+        <p id="olvido-mensaje" class="text-sm text-gray-300 hidden"></p>
+        <button type="submit" class="btn-primary w-full">Enviar enlace de recuperacion</button>
+        <button type="button" id="link-volver-login" class="text-xs text-gray-400 hover:text-amber-400 underline underline-offset-2 transition">
+          Volver a iniciar sesion
+        </button>
+      </form>
+
+      <!-- Recuperar contraseña: paso 2, se muestra solo si la URL trae ?reset_token=... -->
+      <form id="form-reset" class="auth-panel space-y-4 hidden">
+        <p class="text-sm text-gray-400">Escribe tu nueva contraseña.</p>
+        <div>
+          <label class="block text-sm font-medium mb-1 text-gray-300" for="reset-password">Nueva contraseña (minimo 8 caracteres)</label>
+          <input type="password" id="reset-password" minlength="8" required class="field" autocomplete="new-password" />
+        </div>
+        <p id="reset-error" class="text-sm text-red-400 hidden"></p>
+        <button type="submit" class="btn-primary w-full">Guardar nueva contraseña</button>
+      </form>
+    </div>
+  </div>
+
+  <!-- ============ APP (tras iniciar sesion) ============ -->
+  <div id="app-shell" class="hidden lg:flex min-h-screen">
+
+  <!-- Sidebar / nav principal -->
+  <aside class="lg:w-72 lg:min-h-screen bg-gray-900 border-b lg:border-b-0 lg:border-r border-gray-800 flex-shrink-0">
+    <div class="px-6 py-5 border-b border-gray-800 flex items-center gap-3">
+      <div class="w-9 h-9 rounded-lg bg-gradient-to-br from-orange-600 to-amber-500 flex items-center justify-center flex-shrink-0 shadow-lg shadow-orange-900/40">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-white" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M12 2c1 3-2 4-2 7a4 4 0 108 0c0-1-.3-1.9-.8-2.7.9.4 2.8 1.9 2.8 5.2a6 6 0 11-12 0c0-4.2 2.7-6.2 4-9.5z" />
+        </svg>
+      </div>
+      <div>
+        <h1 class="text-sm font-semibold leading-tight text-white">Tracker Oposiciones</h1>
+        <p class="text-gray-500 text-xs mt-0.5">Bombero / cuerpos operativos</p>
+      </div>
+    </div>
+    <nav class="p-3 flex lg:flex-col gap-1">
+      <button type="button" data-view="dashboard"
+              class="nav-view-btn active flex items-center gap-3 w-full px-4 py-3 rounded-xl text-sm font-medium transition">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M3 3v18h18" />
+          <path stroke-linecap="round" stroke-linejoin="round" d="M7 15l4-5 3 3 5-7" />
+        </svg>
+        <span>Dashboard Analitico</span>
+      </button>
+      <button type="button" data-view="guia"
+              class="nav-view-btn flex items-center gap-3 w-full px-4 py-3 rounded-xl text-sm font-medium transition">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M12 6.25C10.5 5 8.4 4.5 6 4.5c-.83 0-1.63.08-2.4.24A1 1 0 0 0 3 5.72v12.06a1 1 0 0 0 1.2.98c.7-.15 1.44-.22 2.2-.22 2.1 0 4.02.55 5.6 1.7m0-14.01c1.5-1.25 3.6-1.75 6-1.75.83 0 1.63.08 2.4.24a1 1 0 0 1 .6.98v12.06a1 1 0 0 1-1.2.98 11 11 0 0 0-2.2-.22c-2.1 0-4.02.55-5.6 1.7m0-14.01v14.01" />
+        </svg>
+        <span>Guia del Opositor</span>
+      </button>
+      <button type="button" data-view="pro"
+              class="nav-view-btn flex items-center gap-3 w-full px-4 py-3 rounded-xl text-sm font-medium transition">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M13 2 3 14h7l-1 8 11-14h-7l1-6z" />
+        </svg>
+        <span>Plan Pro (Premium)</span>
+      </button>
+      <button type="button" id="btn-logout"
+              class="nav-view-btn flex items-center gap-3 w-full px-4 py-3 rounded-xl text-sm font-medium transition mt-2">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 9V5.25A2.25 2.25 0 0013.5 3h-6a2.25 2.25 0 00-2.25 2.25v13.5A2.25 2.25 0 007.5 21h6a2.25 2.25 0 002.25-2.25V15M18 12H8.25m9.75 0-3-3m3 3-3 3" />
+        </svg>
+        <span>Cerrar sesion</span>
+      </button>
+    </nav>
+  </aside>
+
+  <div class="flex-1 min-w-0">
+    <!-- ============ VISTA: DASHBOARD ANALITICO ============ -->
+    <main id="view-dashboard" class="view max-w-6xl mx-auto p-6 lg:p-8 space-y-8">
+
+      <!-- Analista Estrategico Global -->
+      <section class="relative rounded-2xl overflow-hidden border border-gray-800 shadow-xl">
+        <div class="absolute inset-0">
+          <img src="https://images.unsplash.com/photo-1634468413956-831adf9d5a06?q=80&w=1600&auto=format&fit=crop"
+               alt="Bombero entrenando frente al fuego" class="w-full h-full object-cover opacity-50" />
+          <div class="absolute inset-0 bg-gradient-to-r from-gray-950/95 via-gray-950/80 to-gray-950/30"></div>
+        </div>
+
+        <div class="relative z-10 p-6 lg:p-8">
+          <p class="text-xs font-semibold uppercase tracking-widest text-amber-400 mb-1">Analista Estrategico Global</p>
+
+          <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-6">
+            <div>
+              <div class="text-5xl font-bold bg-gradient-to-r from-orange-400 to-amber-300 bg-clip-text text-transparent" id="dashboard-nota-total">--</div>
+              <p class="text-gray-400 text-sm mt-1">Nota Total Oposicion (sobre 10)</p>
+            </div>
+
+            <div class="flex gap-8">
+              <div class="min-w-[140px]">
+                <div class="flex items-center justify-between text-sm mb-1.5">
+                  <span class="text-gray-400">Fisica</span>
+                  <span class="font-semibold text-white" id="dashboard-nota-fisica">--</span>
+                </div>
+                <div class="h-1.5 bg-gray-800 rounded-full overflow-hidden">
+                  <div id="barra-fisica" class="h-full bg-gradient-to-r from-orange-600 to-amber-400 rounded-full transition-all" style="width: 0%"></div>
+                </div>
+              </div>
+              <div class="min-w-[140px]">
+                <div class="flex items-center justify-between text-sm mb-1.5">
+                  <span class="text-gray-400">Teorica</span>
+                  <span class="font-semibold text-white" id="dashboard-nota-teorica">--</span>
+                </div>
+                <div class="h-1.5 bg-gray-800 rounded-full overflow-hidden">
+                  <div id="barra-teorica" class="h-full bg-gradient-to-r from-orange-600 to-amber-400 rounded-full transition-all" style="width: 0%"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="mt-6 flex items-start gap-3 bg-black/30 border border-amber-500/20 rounded-xl p-4 text-sm text-gray-200">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-amber-400 flex-shrink-0 mt-0.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M13 2 3 14h7l-1 8 11-14h-7l1-6z" />
+            </svg>
+            <span id="dashboard-veredicto">Cargando veredicto del entrenador...</span>
+          </div>
+        </div>
+      </section>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <!-- Formularios -->
+        <section class="md:col-span-2 bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6">
+          <!-- Tabs -->
+          <div class="flex gap-2 mb-6">
+            <button type="button" data-tab="fisico"
+                    class="tab-btn active px-4 py-2 rounded-lg text-sm font-medium transition">
+              Fisico
+            </button>
+            <button type="button" data-tab="teorico"
+                    class="tab-btn px-4 py-2 rounded-lg text-sm font-medium transition">
+              Simulacro Teorico
+            </button>
+          </div>
+
+          <!-- Panel Fisico -->
+          <div id="panel-fisico" class="tab-panel">
+            <h2 class="text-lg font-semibold mb-4 text-white">Registrar marca del dia</h2>
+            <form id="form-marca" class="space-y-5">
+              <div>
+                <label class="block text-sm font-medium mb-1 text-gray-300" for="fecha">Fecha</label>
+                <input type="date" id="fecha" name="fecha" class="field" />
+              </div>
+
+              <div>
+                <label class="block text-sm font-medium mb-1 text-gray-300" for="dominadas">Dominadas (repeticiones)</label>
+                <input type="number" id="dominadas" name="dominadas" min="0" step="1" required class="field" />
+              </div>
+
+              <div>
+                <label class="block text-sm font-medium mb-1 text-gray-300" for="sprint">Sprint 100m lisos (segundos)</label>
+                <input type="number" id="sprint" name="sprint_100m" min="0" step="0.01" required
+                       placeholder="ej. 13.45" class="field" />
+              </div>
+
+              <fieldset>
+                <legend class="block text-sm font-medium mb-1 text-gray-300">Carrera 1500m</legend>
+                <div class="flex gap-3">
+                  <input type="number" id="carrera_min" min="0" step="1" required placeholder="min" class="field w-1/2" />
+                  <input type="number" id="carrera_seg" min="0" max="59" step="1" required placeholder="seg" class="field w-1/2" />
+                </div>
+              </fieldset>
+
+              <fieldset>
+                <legend class="block text-sm font-medium mb-1 text-gray-300">Natacion 100m</legend>
+                <div class="flex gap-3">
+                  <input type="number" id="natacion_min" min="0" step="1" required placeholder="min" class="field w-1/2" />
+                  <input type="number" id="natacion_seg" min="0" max="59" step="1" required placeholder="seg" class="field w-1/2" />
+                </div>
+              </fieldset>
+
+              <button type="submit" class="btn-primary w-full">
+                Guardar y calcular
+              </button>
+            </form>
+
+            <div id="resultado" class="mt-6 hidden">
+              <h3 class="font-semibold mb-2 text-white">Puntuacion detallada</h3>
+              <table class="w-full text-sm border-collapse">
+                <thead>
+                  <tr class="text-left border-b border-gray-700 text-gray-400">
+                    <th class="py-1.5 font-medium">Prueba</th>
+                    <th class="py-1.5 font-medium">Marca</th>
+                    <th class="py-1.5 font-medium">Puntos</th>
+                  </tr>
+                </thead>
+                <tbody id="tabla-detalle" class="text-gray-200"></tbody>
+              </table>
+              <div id="recomendacion" class="mt-4 rounded-lg bg-amber-500/10 border border-amber-500/30 text-amber-300 text-sm p-3"></div>
+            </div>
+          </div>
+
+          <!-- Panel Teorico -->
+          <div id="panel-teorico" class="tab-panel hidden">
+            <h2 class="text-lg font-semibold mb-4 text-white">Registrar simulacro teorico</h2>
+            <form id="form-teorica" class="space-y-5">
+              <div>
+                <label class="block text-sm font-medium mb-1 text-gray-300" for="teorica-fecha">Fecha</label>
+                <input type="date" id="teorica-fecha" name="fecha" class="field" />
+              </div>
+
+              <div>
+                <label class="block text-sm font-medium mb-1 text-gray-300" for="aciertos">Aciertos</label>
+                <input type="number" id="aciertos" min="0" step="1" required class="field" />
+              </div>
+
+              <div>
+                <label class="block text-sm font-medium mb-1 text-gray-300" for="fallos">Fallos</label>
+                <input type="number" id="fallos" min="0" step="1" required class="field" />
+              </div>
+
+              <div>
+                <label class="block text-sm font-medium mb-1 text-gray-300" for="blancos">Blancos</label>
+                <input type="number" id="blancos" min="0" step="1" required class="field" />
+              </div>
+
+              <button type="submit" class="btn-primary w-full">
+                Guardar simulacro
+              </button>
+            </form>
+
+            <div id="resultado-teorica" class="mt-6 hidden">
+              <p class="text-sm text-gray-400">Nota del simulacro (sobre 10)</p>
+              <div class="text-4xl font-bold bg-gradient-to-r from-orange-400 to-amber-300 bg-clip-text text-transparent" id="nota-teorica-resultado">--</div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Panel lateral -->
+        <aside class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 h-fit">
+          <h2 class="text-lg font-semibold mb-2 text-white">Nota Global Fisica</h2>
+          <p class="text-xs text-gray-500 mb-4">Ultimo registro (sobre 10)</p>
+          <div class="text-5xl font-bold bg-gradient-to-r from-orange-400 to-amber-300 bg-clip-text text-transparent" id="nota-global">--</div>
+          <p class="text-sm text-gray-500 mt-6" id="ultima-fecha"></p>
+        </aside>
+      </div>
+    </main>
+
+    <!-- ============ VISTA: GUIA DEL OPOSITOR ============ -->
+    <main id="view-guia" class="view hidden max-w-6xl mx-auto p-6 lg:p-8 space-y-6">
+      <section class="relative rounded-2xl overflow-hidden border border-gray-800 shadow-xl">
+        <div class="absolute inset-0">
+          <img src="https://images.unsplash.com/photo-1576707995936-a6cffe26ef7b?q=80&w=1600&auto=format&fit=crop"
+               alt="Equipo de bomberos actuando" class="w-full h-full object-cover opacity-45" />
+          <div class="absolute inset-0 bg-gradient-to-t from-gray-950 via-gray-950/80 to-gray-950/25"></div>
+        </div>
+        <div class="relative z-10 p-6 lg:p-8">
+          <h2 class="text-2xl font-bold text-white">Guia del Opositor</h2>
+          <p class="text-gray-300 text-sm mt-2 max-w-2xl">
+            Todo lo que necesitas saber antes de tu primera convocatoria: requisitos, permisos y donde
+            encontrar el temario oficial. Empieza aqui si es tu primera vez.
+          </p>
+        </div>
+      </section>
+
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+        <!-- Card: Requisitos Minimos -->
+        <article class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 space-y-4">
+          <div class="flex items-center gap-3">
+            <div class="icon-badge">
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+              </svg>
+            </div>
+            <h3 class="font-semibold text-lg text-white">Requisitos Minimos</h3>
+          </div>
+
+          <div class="space-y-3">
+            <div class="req-block">
+              <p class="req-label">Edad</p>
+              <p class="req-text">Tener 16 años cumplidos y no exceder la edad maxima de jubilacion forzosa.</p>
+            </div>
+            <div class="req-block">
+              <p class="req-label">Titulacion academica</p>
+              <p class="req-text">Titulo de Bachiller o Tecnico o equivalente (ej. Grado Medio en Emergencias y Proteccion Civil).</p>
+            </div>
+            <div class="req-block">
+              <p class="req-label">Acreditaciones especificas</p>
+              <p class="req-text">Licencia Basica de Navegacion y Titulacion de nivel basico en Prevencion de Riesgos Laborales (minimo 50 horas).</p>
+            </div>
+          </div>
+        </article>
+
+        <!-- Card: Permisos de Conducir -->
+        <article class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 space-y-4">
+          <div class="flex items-center gap-3">
+            <div class="icon-badge">
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M8 17l-1 3H4l1.5-6.5A2 2 0 017.44 12h9.12a2 2 0 011.94 1.5L20 19h-3l-1-3H8z" />
+                <circle cx="8" cy="19" r="1.4" stroke-linecap="round" stroke-linejoin="round" />
+                <circle cx="16" cy="19" r="1.4" stroke-linecap="round" stroke-linejoin="round" />
+                <path stroke-linecap="round" stroke-linejoin="round" d="M6 12l1.2-4.2A2 2 0 019.1 6.3h5.8a2 2 0 011.9 1.5L18 12" />
+              </svg>
+            </div>
+            <h3 class="font-semibold text-lg text-white">Permisos de Conducir</h3>
+          </div>
+
+          <div class="rounded-lg overflow-hidden h-28 -mt-1">
+            <img src="https://images.unsplash.com/photo-1531431199010-1f9985f83baa?q=80&w=800&auto=format&fit=crop"
+                 alt="Camiones de bomberos" class="w-full h-full object-cover" />
+          </div>
+
+          <p class="text-sm text-gray-400">
+            Esquema habitual de carnets exigidos para plazas de bombero conductor (varia segun el parque y la
+            convocatoria):
+          </p>
+
+          <div class="space-y-3">
+            <div class="license-row">
+              <span class="license-badge">B</span>
+              <div class="text-sm">
+                <p class="font-medium text-white">Turismo / vehiculo ligero</p>
+                <p class="text-gray-400">Vehiculos de intervencion ligeros y de mando. Suele ser el minimo de acceso.</p>
+              </div>
+            </div>
+            <div class="license-row">
+              <span class="license-badge">C</span>
+              <div class="text-sm">
+                <p class="font-medium text-white">Camion rigido</p>
+                <p class="text-gray-400">Habilita para conducir autobombas y vehiculos pesados de intervencion.</p>
+              </div>
+            </div>
+            <div class="license-row">
+              <span class="license-badge">C+E</span>
+              <div class="text-sm">
+                <p class="font-medium text-white">Camion con remolque / articulado</p>
+                <p class="text-gray-400">Necesario para autoescalas, nodrizas y vehiculos con remolque de gran tonelaje.</p>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <!-- Card: Fuentes del Temario -->
+        <article class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 space-y-4">
+          <div class="flex items-center gap-3">
+            <div class="icon-badge">
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 6.25C10.5 5 8.4 4.5 6 4.5c-.83 0-1.63.08-2.4.24A1 1 0 003 5.72v12.06a1 1 0 001.2.98c.7-.15 1.44-.22 2.2-.22 2.1 0 4.02.55 5.6 1.7m0-14.01c1.5-1.25 3.6-1.75 6-1.75.83 0 1.63.08 2.4.24a1 1 0 01.6.98v12.06a1 1 0 01-1.2.98 11 11 0 00-2.2-.22c-2.1 0-4.02.55-5.6 1.7m0-14.01v14.01" />
+              </svg>
+            </div>
+            <h3 class="font-semibold text-lg text-white">Fuentes del Temario</h3>
+          </div>
+
+          <div>
+            <p class="text-xs font-semibold uppercase tracking-wide text-gray-500 mb-2">Legislacion (BOE, dominio publico)</p>
+            <ul class="space-y-2 text-sm">
+              <li>
+                <a href="https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229" target="_blank" rel="noopener" class="link-boe">
+                  Constitucion Espanola
+                </a>
+              </li>
+              <li>
+                <a href="https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392" target="_blank" rel="noopener" class="link-boe">
+                  Ley 7/1985, Bases del Regimen Local
+                </a>
+              </li>
+              <li>
+                <a href="https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292" target="_blank" rel="noopener" class="link-boe">
+                  Ley 31/1995, Prevencion de Riesgos Laborales
+                </a>
+              </li>
+              <li>
+                <a href="https://www.boe.es/legislacion/" target="_blank" rel="noopener" class="link-boe">
+                  Buscador de legislacion consolidada (BOE)
+                </a>
+              </li>
+            </ul>
+            <p class="text-xs text-gray-500 mt-1">Verifica siempre la version consolidada vigente en boe.es.</p>
+          </div>
+
+          <div>
+            <p class="text-xs font-semibold uppercase tracking-wide text-gray-500 mb-2">Bibliografia de referencia (temas tecnicos)</p>
+            <ul class="space-y-1.5 text-sm text-gray-400 list-disc list-inside">
+              <li>Manuales de fundamentos de extincion de incendios (quimica y fisica del fuego)</li>
+              <li>Manuales de hidraulica aplicada a la extincion (caudales, presiones, perdida de carga)</li>
+              <li>Manuales de construccion e instalaciones (comportamiento del fuego en edificios)</li>
+              <li>Temarios especificos de academias de preparacion (CEP, MAD, Ediciones Rodio u otras)</li>
+            </ul>
+            <p class="text-xs text-gray-500 mt-1">Contrasta siempre con el temario oficial de tu convocatoria.</p>
+          </div>
+        </article>
+      </div>
+    </main>
+
+    <!-- ============ VISTA: PLAN PRO (PREMIUM) ============ -->
+    <main id="view-pro" class="view hidden max-w-6xl mx-auto p-6 lg:p-8 space-y-6">
+
+      <!-- Estado bloqueado -->
+      <section id="pro-locked" class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-10 text-center max-w-xl mx-auto">
+        <div class="w-16 h-16 mx-auto rounded-2xl bg-gradient-to-br from-orange-600 to-amber-500 flex items-center justify-center shadow-lg shadow-orange-900/40 mb-5">
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+            <rect x="5" y="11" width="14" height="9" rx="2" stroke-linecap="round" stroke-linejoin="round" />
+            <path stroke-linecap="round" stroke-linejoin="round" d="M8 11V7a4 4 0 118 0v4" />
+          </svg>
+        </div>
+        <h2 class="text-xl font-bold text-white">Plan Pro: analitica avanzada y entrenamiento a medida</h2>
+        <p class="text-gray-400 text-sm mt-2 max-w-md mx-auto">
+          Desbloquea la evolucion grafica de tu Nota Global Oposicion y una rutina de entrenamiento
+          especifica, basada en evidencia, para tu punto mas debil.
+        </p>
+
+        <ul class="text-left text-sm text-gray-300 mt-6 space-y-2 max-w-sm mx-auto">
+          <li class="flex items-center gap-2"><span class="text-amber-400">✓</span> Grafica de evolucion de tu nota global</li>
+          <li class="flex items-center gap-2"><span class="text-amber-400">✓</span> Deteccion automatica de tu punto debil</li>
+          <li class="flex items-center gap-2"><span class="text-amber-400">✓</span> Rutina semanal con respaldo cientifico</li>
+        </ul>
+
+        <button type="button" id="btn-desbloquear" class="btn-primary mt-7 px-8">
+          Desbloquear por 9,99&euro;
+        </button>
+
+        <div class="mt-4">
+          <button type="button" id="btn-simular-pago" class="text-xs text-gray-500 hover:text-amber-400 underline underline-offset-2 transition">
+            Simular pago (solo desarrollo)
+          </button>
+        </div>
+      </section>
+
+      <!-- Estado desbloqueado -->
+      <div id="pro-unlocked" class="hidden space-y-6">
+        <div class="flex items-center justify-between">
+          <div>
+            <h2 class="text-xl font-bold text-white">Plan Pro</h2>
+            <p class="text-gray-500 text-sm">Analitica avanzada y entrenamiento especifico</p>
+          </div>
+          <span class="text-xs font-semibold uppercase tracking-wide bg-amber-500/10 text-amber-400 border border-amber-500/30 rounded-full px-3 py-1">
+            Activo
+          </span>
+        </div>
+
+        <!-- ===== 1. Acondicionamiento Fisico Estrategico ===== -->
+        <div class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="seccion-numero">1</span>
+            <h3 class="text-lg font-bold text-white">Acondicionamiento Fisico Estrategico</h3>
+          </div>
+
+          <section class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6">
+            <h3 class="font-semibold text-white mb-1">Evolucion de la Nota Global Oposicion</h3>
+            <p class="text-xs text-gray-500 mb-4">Combinada 50% fisica / 50% teorica, sobre 10</p>
+            <div class="relative" style="height: 280px;">
+              <canvas id="grafica-evolucion"></canvas>
+            </div>
+            <p id="grafica-vacia" class="text-sm text-gray-500 mt-3 hidden">
+              Aun no hay suficientes registros (necesitas al menos una marca fisica y un simulacro teorico) para trazar la evolucion.
+            </p>
+          </section>
+
+          <section class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 lg:p-8">
+            <div class="flex items-center gap-3 mb-6">
+              <div class="icon-badge">
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" />
+                </svg>
+              </div>
+              <div>
+                <h3 class="font-semibold text-white text-lg">Entrenamiento Especifico</h3>
+                <p class="text-xs text-gray-500">Programa basado en evidencia para tu punto mas debil</p>
+              </div>
+            </div>
+            <div id="entrenamiento-contenido" class="text-sm text-gray-400">Cargando analisis...</div>
+          </section>
+        </div>
+
+        <!-- ===== 2. Alto Rendimiento Teorico ===== -->
+        <div class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="seccion-numero">2</span>
+            <h3 class="text-lg font-bold text-white">Alto Rendimiento Teorico</h3>
+          </div>
+          <p class="text-sm text-gray-500 -mt-4 ml-11">
+            Tecnicas de estudio con respaldo en neurociencia cognitiva, aplicadas directamente al temario de oposicion.
+          </p>
+
+          <div id="tecnicas-estudio-contenido" class="grid grid-cols-1 xl:grid-cols-2 gap-6 text-sm text-gray-400">
+            Cargando tecnicas de estudio...
+          </div>
+        </div>
+
+        <!-- ===== Tutor Inteligente 24/7 (RAG) ===== -->
+        <div class="space-y-4">
+          <div class="flex items-center gap-3">
+            <div class="icon-badge">
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M8 10h.01M12 10h.01M16 10h.01M21 12a9 9 0 1 1-4.06-7.516L21 3l-1.06 4.484A8.96 8.96 0 0 1 21 12Z" />
+              </svg>
+            </div>
+            <div>
+              <h3 class="text-lg font-bold text-white">Tutor Inteligente 24/7</h3>
+              <p class="text-xs text-gray-500">Pregunta sobre tus rutinas de entrenamiento o tus tecnicas de estudio</p>
+            </div>
+          </div>
+
+          <section class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-4 lg:p-5">
+            <div id="chat-mensajes" class="chat-mensajes">
+              <div class="chat-bubble chat-bubble-ia">
+                <span class="chat-avatar">&#128657;</span>
+                <div class="chat-texto">
+                  Hola, soy tu tutor del Plan Pro. Preguntame sobre tus rutinas de entrenamiento o
+                  tus tecnicas de estudio, solo puedo asesorarte sobre ese contenido.
+                </div>
+              </div>
+            </div>
+            <form id="form-chat" class="chat-input-row">
+              <input type="text" id="chat-input" class="field flex-1" placeholder="Ej: ¿como mejoro mis dominadas?" autocomplete="off" />
+              <button type="submit" class="btn-primary chat-enviar">Enviar</button>
+            </form>
+          </section>
+        </div>
+      </div>
+    </main>
+  </div>
+  <!-- /app-shell -->
+  </div>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

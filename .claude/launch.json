@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "oposiciones-api",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["backend/run.py"],
+      "port": 5001,
+      "autoPort": true
+    }
+  ]
+}
