@@ -40,7 +40,7 @@ async function fetchAutenticado(url, options = {}) {
 function mostrarAuthGate() {
   authGateEl.classList.remove("hidden");
   appShellEl.classList.add("hidden");
-}
+ }
 
 function mostrarApp() {
   authGateEl.classList.add("hidden");
