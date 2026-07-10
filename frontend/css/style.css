@@ -440,3 +440,96 @@ table td, table th {
     transform: translateY(-2px);
   }
 }
+
+/* ---------- Modo Enfoque (Pomodoro a pantalla completa) ---------- */
+
+/* Boton de la sidebar que activa el modo. Distinto del resto de nav-view-btn
+   a proposito, para que se lea como una accion especial, no como otra vista. */
+.btn-tactico {
+  color: #fbbf24; /* amber-400 */
+  border: 1px solid rgba(245, 158, 11, 0.3);
+  background-color: rgba(245, 158, 11, 0.06);
+}
+.btn-tactico:hover {
+  background-color: rgba(245, 158, 11, 0.12);
+  border-color: rgba(245, 158, 11, 0.5);
+  color: #fde68a; /* amber-200 */
+}
+
+/* Estado oculto general (reforzado con !important: el modo enfoque debe
+   ganar siempre, sin depender del orden de las utilidades de Tailwind CDN). */
+.hidden {
+  display: none !important;
+}
+
+/* Cuando el modo enfoque esta activo, limpiamos el fondo */
+body.modo-enfoque-activo {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+  overflow: hidden; /* Evita scrolls innecesarios */
+}
+
+/* Ocultar el resto de la aplicacion (barras laterales, menus, etc.) */
+body.modo-enfoque-activo > *:not(#pantalla-enfoque) {
+  display: none !important;
+}
+
+/* Contenedor principal de enfoque centrado */
+#pantalla-enfoque {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: #000000;
+}
+
+.contenedor-pomodoro {
+  text-align: center;
+}
+
+/* Reloj gigante y limpio */
+#timer-display {
+  font-size: 8rem;
+  font-weight: 300;
+  font-family: monospace;
+  letter-spacing: -2px;
+  margin-bottom: 3rem;
+  color: #ffffff;
+}
+
+/* Botones discretos que no distraigan */
+.controles-timer button, .btn-salir {
+  background: none;
+  border: 1px solid #333333;
+  color: #888888;
+  padding: 0.8rem 2rem;
+  margin: 0 0.5rem;
+  cursor: pointer;
+  font-size: 1rem;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+.controles-timer button:hover, .btn-salir:hover {
+  border-color: #ffffff;
+  color: #ffffff;
+  background-color: #111111;
+}
+
+.btn-salir {
+  margin-top: 5rem;
+  display: block;
+  width: 100%;
+  font-size: 0.9rem;
+  border-color: #222222;
+}
+
+@media (max-width: 480px) {
+  #timer-display {
+    font-size: 4.5rem;
+  }
+}

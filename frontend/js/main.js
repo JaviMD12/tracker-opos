@@ -806,6 +806,78 @@ formTeorica.addEventListener("submit", async (event) => {
   }
 });
 
+// ---------- Modo Enfoque (Pomodoro a pantalla completa) ----------
+let timerInterval;
+let tiempoRestante = 25 * 60; // 25 minutos en segundos
+let timerCorriendo = false;
+
+// Sonido de alarma al terminar la sesion de enfoque, cargado en memoria de antemano.
+const sonidoAlarma = new Audio("https://cdn.pixabay.com/audio/2021/08/04/audio_0625c1539c.mp3");
+
+const pantallaEnfoque = document.getElementById("pantalla-enfoque");
+const timerDisplay = document.getElementById("timer-display");
+
+// Interruptores de pantalla
+document.getElementById("btn-activar-enfoque").addEventListener("click", () => {
+  document.body.classList.add("modo-enfoque-activo");
+  pantallaEnfoque.classList.remove("hidden");
+});
+
+document.getElementById("btn-desactivar-enfoque").addEventListener("click", () => {
+  document.body.classList.remove("modo-enfoque-activo");
+  pantallaEnfoque.classList.add("hidden");
+  pausarTimer();
+});
+
+// Logica del temporizador
+function actualizarDisplayTimer() {
+  const minutos = Math.floor(tiempoRestante / 60);
+  const segundos = tiempoRestante % 60;
+  timerDisplay.textContent = `${minutos.toString().padStart(2, "0")}:${segundos.toString().padStart(2, "0")}`;
+}
+
+function iniciarTimer() {
+  if (timerCorriendo) return;
+  timerCorriendo = true;
+  timerInterval = setInterval(() => {
+    if (tiempoRestante > 0) {
+      tiempoRestante--;
+      actualizarDisplayTimer();
+    } else {
+      // EL TIEMPO SE HA ACABADO
+      clearInterval(timerInterval);
+      timerCorriendo = false;
+
+      sonidoAlarma.play().catch((err) => {
+        // Los navegadores pueden bloquear el audio si no detectan gesto
+        // reciente del usuario; no rompemos el flujo si esto pasa.
+        console.warn("No se pudo reproducir el sonido de alarma", err);
+      });
+
+      // A diferencia de alert() (que bloquea el hilo y podria cortar el
+      // audio), mostrarToast() no bloquea nada, asi que no hace falta
+      // ningun setTimeout para dar margen a que el audio empiece a sonar.
+      mostrarToast("¡Sesion de enfoque terminada! Tomate un descanso.", "success");
+      // Aqui en el futuro avisaremos al backend para guardar la racha.
+    }
+  }, 1000);
+}
+
+function pausarTimer() {
+  clearInterval(timerInterval);
+  timerCorriendo = false;
+}
+
+function reiniciarTimer() {
+  pausarTimer();
+  tiempoRestante = 25 * 60;
+  actualizarDisplayTimer();
+}
+
+document.getElementById("btn-timer-start").addEventListener("click", iniciarTimer);
+document.getElementById("btn-timer-pause").addEventListener("click", pausarTimer);
+document.getElementById("btn-timer-reset").addEventListener("click", reiniciarTimer);
+
 // ---------- Arranque: parametros de la URL (?token=, ?reset_token=) o token guardado ----------
 // "token" lo pone /api/auth/google/callback al redirigir (login ya resuelto).
 // "reset_token" lo pone el enlace del email de recuperacion (aun falta que el

@@ -9,12 +9,11 @@ La base vectorial se construye en memoria (sin persistir a disco) combinando:
 Todo se trocea con `RecursiveCharacterTextSplitter` (chunks de 1000 caracteres,
 solapamiento de 200) antes de indexarse en Chroma.
 
-La inicializacion es perezosa (lazy): no se llama a Gemini ni se leen los
+La inicializacion es perezosa (lazy): no se llama a OpenAI ni se leen los
 documentos hasta la primera pregunta, para que el resto de la aplicacion siga
 funcionando aunque la clave de API no este configurada todavia.
 """
 
-import time
 from pathlib import Path
 
 from langchain_chroma import Chroma
@@ -25,26 +24,20 @@ from langchain_community.document_loaders import (
 )
 from langchain_core.documents import Document
 from langchain_core.messages import HumanMessage, SystemMessage
-from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 from app.services.rutinas import RUTINAS_PRO, TECNICAS_ESTUDIO_PRO
 
-# GEMINI_API_KEY se carga desde backend/.env (ver app/main.py, load_dotenv()).
-# Si no esta configurada, GoogleGenerativeAIEmbeddings/ChatGoogleGenerativeAI
-# fallan al primer uso real (inicializacion perezosa, ver _obtener_vectorstore),
-# no al importar este modulo.
+# OPENAI_API_KEY se carga desde backend/.env (ver app/main.py, load_dotenv()).
+# Si no esta configurada, OpenAIEmbeddings/ChatOpenAI fallan al primer uso real
+# (inicializacion perezosa, ver _obtener_vectorstore), no al importar este modulo.
 
-MODELO_CHAT = "gemini-2.5-flash"
+MODELO_CHAT = "gpt-4o-mini"
+MODELO_EMBEDDINGS = "text-embedding-3-small"
 FRAGMENTOS_A_RECUPERAR = 4
 CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 200
-
-# El tier gratuito de Gemini para gemini-embedding-001 limita embed_content a
-# 100 peticiones/minuto. Se indexa por debajo de ese limite y se pausa entre
-# lotes para no romper la construccion inicial del vectorstore.
-TAMANO_LOTE_EMBEDDING = 90
-PAUSA_ENTRE_LOTES_SEGUNDOS = 61
 
 # Carpeta donde el usuario deposita sus propios PDFs/TXT de estudio y
 # entrenamiento para ampliar el conocimiento del tutor. Se crea sola si no
@@ -150,22 +143,8 @@ def _obtener_vectorstore() -> Chroma:
             chunk_size=CHUNK_SIZE, chunk_overlap=CHUNK_OVERLAP
         )
         fragmentos = splitter.split_documents(documentos)
-        embeddings = GoogleGenerativeAIEmbeddings(model="models/gemini-embedding-001")
-        vectorstore = Chroma(embedding_function=embeddings)
-
-        # El tier gratuito de Gemini limita embed_content a 100 peticiones por
-        # minuto. Con varios PDFs cargados los fragmentos superan ese limite
-        # facilmente, y enviarlos todos de golpe (como hacia Chroma.from_documents)
-        # dispara un 429 en la primera indexacion. Los insertamos en lotes por
-        # debajo del limite, con una pausa entre lotes: esto solo ocurre una vez
-        # por arranque del servidor (el vectorstore es un singleton lazy).
-        for inicio in range(0, len(fragmentos), TAMANO_LOTE_EMBEDDING):
-            lote = fragmentos[inicio : inicio + TAMANO_LOTE_EMBEDDING]
-            vectorstore.add_documents(lote)
-            if inicio + TAMANO_LOTE_EMBEDDING < len(fragmentos):
-                time.sleep(PAUSA_ENTRE_LOTES_SEGUNDOS)
-
-        _vectorstore = vectorstore
+        embeddings = OpenAIEmbeddings(model=MODELO_EMBEDDINGS)
+        _vectorstore = Chroma.from_documents(fragmentos, embeddings)
     return _vectorstore
 
 
@@ -176,7 +155,7 @@ def preguntar_al_tutor(query: str) -> str:
     fragmentos = vectorstore.similarity_search(query, k=FRAGMENTOS_A_RECUPERAR)
     contexto = "\n\n---\n\n".join(doc.page_content for doc in fragmentos)
 
-    llm = ChatGoogleGenerativeAI(model=MODELO_CHAT, temperature=0.3)
+    llm = ChatOpenAI(model=MODELO_CHAT, temperature=0.3)
     mensajes = [
         SystemMessage(content=SYSTEM_PROMPT),
         HumanMessage(

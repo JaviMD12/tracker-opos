@@ -152,6 +152,12 @@
         </svg>
         <span>Plan Pro (Premium)</span>
       </button>
+      <button type="button" id="btn-activar-enfoque" class="btn-tactico flex items-center gap-3 w-full px-4 py-3 rounded-xl text-sm font-medium transition mt-2">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M12 6v6l4 2m6-2a10 10 0 1 1-20 0 10 10 0 0 1 20 0Z" />
+        </svg>
+        <span>Activar Modo Enfoque</span>
+      </button>
       <button type="button" id="btn-logout"
               class="nav-view-btn flex items-center gap-3 w-full px-4 py-3 rounded-xl text-sm font-medium transition mt-2">
         <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
@@ -607,6 +613,22 @@
     </main>
   </div>
   <!-- /app-shell -->
+  </div>
+
+  <!-- ============ MODO ENFOQUE (Pomodoro a pantalla completa) ============ -->
+  <!-- Hijo directo de <body> a proposito: el CSS de modo-enfoque-activo oculta
+       todos los demas hijos directos de <body> (auth-gate, app-shell) cuando
+       este modo esta activo. -->
+  <div id="pantalla-enfoque" class="hidden">
+    <div class="contenedor-pomodoro">
+      <div id="timer-display">25:00</div>
+      <div class="controles-timer">
+        <button type="button" id="btn-timer-start">Iniciar</button>
+        <button type="button" id="btn-timer-pause">Pausar</button>
+        <button type="button" id="btn-timer-reset">Reiniciar</button>
+      </div>
+      <button type="button" id="btn-desactivar-enfoque" class="btn-salir">Salir del Modo Enfoque</button>
+    </div>
   </div>
 
   <script src="js/main.js"></script>
