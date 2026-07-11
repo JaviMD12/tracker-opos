@@ -33,5 +33,20 @@ app.include_router(pro.router)
 app.include_router(pagos.router)
 app.include_router(chat.router)
 
+
+@app.middleware("http")
+async def sin_cache_en_frontend(request, call_next):
+    """StaticFiles no manda Cache-Control por defecto: sin esto, el navegador
+    puede quedarse con una copia vieja de index.html/css/js durante dias (cache
+    heuristica) y cambios reales en el codigo no se ven ni con F5 normal, solo
+    con hard-refresh. no-cache obliga a revalidar (If-None-Match) en cada
+    carga; si el archivo no cambio, el servidor responde 304 igualmente
+    rapido, asi que no cuesta rendimiento real."""
+    response = await call_next(request)
+    if request.method == "GET" and not request.url.path.startswith("/api/"):
+        response.headers["Cache-Control"] = "no-cache"
+    return response
+
+
 FRONTEND_DIR = Path(__file__).resolve().parent.parent.parent / "frontend"
 app.mount("/", StaticFiles(directory=FRONTEND_DIR, html=True), name="frontend")

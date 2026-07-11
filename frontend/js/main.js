@@ -878,6 +878,12 @@ document.getElementById("btn-timer-start").addEventListener("click", iniciarTime
 document.getElementById("btn-timer-pause").addEventListener("click", pausarTimer);
 document.getElementById("btn-timer-reset").addEventListener("click", reiniciarTimer);
 
+document.getElementById("btn-timer-descanso").addEventListener("click", () => {
+  pausarTimer();
+  tiempoRestante = 5 * 60; // Lo ponemos en 5 minutos
+  actualizarDisplayTimer();
+});
+
 // ---------- Arranque: parametros de la URL (?token=, ?reset_token=) o token guardado ----------
 // "token" lo pone /api/auth/google/callback al redirigir (login ya resuelto).
 // "reset_token" lo pone el enlace del email de recuperacion (aun falta que el
