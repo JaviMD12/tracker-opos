@@ -598,6 +598,36 @@
           </div>
         </div>
 
+        <!-- ===== 3. Tablon de Plazas en Tiempo Real ===== -->
+        <div class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="seccion-numero">3</span>
+            <h3 class="text-lg font-bold text-white">Tablon de Plazas en Tiempo Real</h3>
+          </div>
+          <p class="text-sm text-gray-500 -mt-4 ml-11">
+            Convocatorias de BOE/BOJA para bombero/emergencias, detectadas automaticamente.
+          </p>
+
+          <div class="relative">
+            <div id="tablon-convocatorias-contenido" class="grid grid-cols-1 lg:grid-cols-2 gap-4 text-sm text-gray-400">
+              Cargando convocatorias...
+            </div>
+
+            <!-- Overlay de bloqueo: solo se muestra si el backend confirma que el usuario no es Pro -->
+            <div id="tablon-bloqueado" class="hidden absolute inset-0 flex items-center justify-center p-4">
+              <div class="tablon-cta">
+                <p class="font-semibold text-white text-lg mb-2">¡Contenido Exclusivo!</p>
+                <p class="text-sm text-gray-300 mb-5">
+                  Desbloquea el Tablon Automatizado con el Plan Pro para enterarte antes que nadie de las nuevas plazas.
+                </p>
+                <button type="button" id="btn-desbloquear-tablon" class="btn-primary px-6">
+                  Desbloquear por 9,99&euro;
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <!-- ===== Tutor Inteligente 24/7 (RAG) ===== -->
         <div class="space-y-4">
           <div class="flex items-center gap-3">

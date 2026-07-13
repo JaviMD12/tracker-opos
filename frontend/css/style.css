@@ -348,6 +348,64 @@ table td, table th {
   padding: 1rem 1.15rem;
 }
 
+/* ---------- Plan Pro: Tablon de Plazas en Tiempo Real ---------- */
+.convocatoria-card {
+  background-color: rgba(30, 41, 59, 0.6); /* slate-800/60 */
+  border: 1px solid #334155; /* slate-700 */
+  border-radius: 1rem;
+  padding: 1.1rem 1.25rem;
+}
+.convocatoria-titulo {
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 0.95rem;
+  margin-bottom: 0.3rem;
+}
+.convocatoria-meta {
+  font-size: 0.8rem;
+  color: #94a3b8; /* slate-400 */
+  margin-bottom: 0.6rem;
+}
+.convocatoria-plazo {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: #fdba74; /* orange-300 */
+  background-color: rgba(249, 115, 22, 0.12);
+  border: 1px solid rgba(249, 115, 22, 0.35);
+  border-radius: 9999px;
+  padding: 0.2rem 0.6rem;
+  margin-bottom: 0.6rem;
+}
+.convocatoria-requisitos {
+  font-size: 0.78rem;
+  color: #cbd5e1; /* slate-300 */
+  list-style: disc;
+  padding-left: 1.1rem;
+  line-height: 1.5;
+}
+
+/* Tarjetas de ejemplo mostradas a usuarios no-Pro: visibles en su forma,
+   ilegibles en su contenido, y no interactuables. */
+.tablon-blur {
+  filter: blur(4px);
+  pointer-events: none;
+  user-select: none;
+}
+
+/* Cuadro tactico superpuesto sobre el tablon bloqueado */
+.tablon-cta {
+  max-width: 26rem;
+  text-align: center;
+  background-color: rgba(15, 23, 42, 0.92); /* slate-900/92 */
+  border: 1px solid rgba(249, 115, 22, 0.5); /* orange-500/50 */
+  border-radius: 1rem;
+  padding: 1.5rem 1.75rem;
+  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.45);
+}
+
 /* ---------- Plan Pro: Tutor Inteligente (chat RAG) ---------- */
 .chat-mensajes {
   display: flex;

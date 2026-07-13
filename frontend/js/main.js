@@ -327,10 +327,10 @@ function mostrarEstadoPro() {
   proUnlockedBox.classList.toggle("hidden", !desbloqueado);
 }
 
-btnDesbloquear.addEventListener("click", async () => {
-  const textoOriginal = btnDesbloquear.textContent;
-  btnDesbloquear.disabled = true;
-  btnDesbloquear.textContent = "Redirigiendo a pago seguro...";
+async function iniciarCheckoutStripe(boton) {
+  const textoOriginal = boton.textContent;
+  boton.disabled = true;
+  boton.textContent = "Redirigiendo a pago seguro...";
 
   try {
     const res = await fetchAutenticado("/api/pagos/checkout", { method: "POST" });
@@ -338,8 +338,8 @@ btnDesbloquear.addEventListener("click", async () => {
 
     if (!res.ok) {
       mostrarToast(data.detail ?? "No se pudo iniciar el pago.", "error");
-      btnDesbloquear.disabled = false;
-      btnDesbloquear.textContent = textoOriginal;
+      boton.disabled = false;
+      boton.textContent = textoOriginal;
       return;
     }
 
@@ -347,10 +347,12 @@ btnDesbloquear.addEventListener("click", async () => {
   } catch (err) {
     console.error("No se pudo iniciar el checkout de Stripe", err);
     mostrarToast("No se pudo conectar con el backend de pagos.", "error");
-    btnDesbloquear.disabled = false;
-    btnDesbloquear.textContent = textoOriginal;
+    boton.disabled = false;
+    boton.textContent = textoOriginal;
   }
-});
+}
+
+btnDesbloquear.addEventListener("click", () => iniciarCheckoutStripe(btnDesbloquear));
 btnSimularPago.addEventListener("click", desbloquearPro);
 
 // ---------- Toasts ----------
@@ -590,10 +592,78 @@ async function cargarTecnicasEstudio() {
   }
 }
 
+// ---------- Plan Pro: Tablon de Plazas en Tiempo Real ----------
+const tablonContenido = document.getElementById("tablon-convocatorias-contenido");
+const tablonBloqueado = document.getElementById("tablon-bloqueado");
+const btnDesbloquearTablon = document.getElementById("btn-desbloquear-tablon");
+
+btnDesbloquearTablon.addEventListener("click", () => iniciarCheckoutStripe(btnDesbloquearTablon));
+
+function pintarConvocatorias(convocatorias, bloqueado) {
+  tablonContenido.innerHTML = convocatorias
+    .map(
+      (c) => `
+      <article class="convocatoria-card${bloqueado ? " tablon-blur" : ""}">
+        <p class="convocatoria-titulo">${c.titulo}</p>
+        <p class="convocatoria-meta">${c.organismo} &middot; ${c.localidad}</p>
+        <span class="convocatoria-plazo">Quedan ${c.dias_plazo} dias</span>
+        <ul class="convocatoria-requisitos">
+          ${c.requisitos.map((r) => `<li>${r}</li>`).join("")}
+        </ul>
+      </article>`
+    )
+    .join("");
+  tablonBloqueado.classList.toggle("hidden", !bloqueado);
+}
+
+// Datos de ejemplo solo para dar forma al tablon cuando esta bloqueado
+// (blureados, nunca legibles): el usuario no-Pro no recibe datos reales.
+const CONVOCATORIAS_EJEMPLO_BLOQUEADO = [
+  {
+    titulo: "Bombero/a - Consorcio Provincial",
+    organismo: "Diputacion Provincial",
+    localidad: "Localidad de ejemplo",
+    dias_plazo: 15,
+    requisitos: ["Requisito de ejemplo", "Requisito de ejemplo"],
+  },
+  {
+    titulo: "Bombero/a Conductor",
+    organismo: "Ayuntamiento",
+    localidad: "Localidad de ejemplo",
+    dias_plazo: 9,
+    requisitos: ["Requisito de ejemplo", "Requisito de ejemplo"],
+  },
+];
+
+async function cargarTablonConvocatorias() {
+  try {
+    const res = await fetchAutenticado("/api/convocatorias");
+
+    if (res.status === 403) {
+      pintarConvocatorias(CONVOCATORIAS_EJEMPLO_BLOQUEADO, true);
+      return;
+    }
+
+    if (!res.ok) {
+      tablonContenido.innerHTML = `<p class="text-gray-500">No se pudo cargar el tablon de convocatorias.</p>`;
+      tablonBloqueado.classList.add("hidden");
+      return;
+    }
+
+    const data = await res.json();
+    pintarConvocatorias(data, false);
+  } catch (err) {
+    console.error("No se pudo cargar el tablon de convocatorias", err);
+    tablonContenido.innerHTML = `<p class="text-gray-500">No se pudo conectar con el backend.</p>`;
+    tablonBloqueado.classList.add("hidden");
+  }
+}
+
 function cargarPlanPro() {
   cargarGraficaEvolucion();
   cargarEntrenamientoEspecifico();
   cargarTecnicasEstudio();
+  cargarTablonConvocatorias();
 }
 
 // ---------- Tutor Inteligente 24/7 (chat RAG) ----------

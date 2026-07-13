@@ -1,8 +1,11 @@
+import json
 import os
 
 import stripe
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends, HTTPException, Request
+from sqlalchemy.orm import Session
 
+from app.database import get_db
 from app.models.usuario import Usuario
 from app.services.security import get_current_user
 
@@ -11,6 +14,7 @@ router = APIRouter(prefix="/api/pagos", tags=["pagos"])
 # La clave real vive en backend/.env (STRIPE_SECRET_KEY), cargado por app/main.py
 # antes de que este router se importe. Nunca hardcodear la clave aqui.
 stripe.api_key = os.environ.get("STRIPE_SECRET_KEY")
+STRIPE_WEBHOOK_SECRET = os.environ.get("STRIPE_WEBHOOK_SECRET")
 
 DOMINIO_APP = "http://localhost:8000"
 PRECIO_PLAN_PRO_CENTIMOS = 999  # 9,99 EUR
@@ -33,6 +37,9 @@ def crear_sesion_checkout(current_user: Usuario = Depends(get_current_user)):
                     "quantity": 1,
                 }
             ],
+            # Permite identificar al usuario en el webhook de confirmacion
+            # (checkout.session.completed), que no lleva JWT propio.
+            client_reference_id=str(current_user.id),
             success_url=f"{DOMINIO_APP}/?pago=exito",
             cancel_url=f"{DOMINIO_APP}/?pago=cancelado",
         )
@@ -43,3 +50,36 @@ def crear_sesion_checkout(current_user: Usuario = Depends(get_current_user)):
         ) from exc
 
     return {"session_id": session.id, "url": session.url}
+
+
+@router.post("/webhook")
+async def webhook_stripe(request: Request, db: Session = Depends(get_db)):
+    """Recibe la confirmacion real de pago de Stripe y activa el Plan Pro.
+
+    Sin esto, is_pro nunca pasa a True: el checkout por si solo no confirma
+    que el pago se completo, solo abre la sesion. En local, Stripe solo
+    puede llamar a esta URL a traves de `stripe listen --forward-to
+    localhost:.../api/pagos/webhook` (o en produccion, con la URL publica
+    dada de alta en el Dashboard de Stripe).
+    """
+    payload = await request.body()
+    firma = request.headers.get("stripe-signature")
+
+    try:
+        # construct_event ya valida la firma; nos quedamos con el JSON plano
+        # (en vez del StripeObject que devuelve) para no depender de su API
+        # de atributos/objetos anidados al leer los campos que necesitamos.
+        stripe.Webhook.construct_event(payload, firma, STRIPE_WEBHOOK_SECRET)
+        evento = json.loads(payload)
+    except (ValueError, stripe.SignatureVerificationError) as exc:
+        raise HTTPException(status_code=400, detail="Webhook de Stripe invalido") from exc
+
+    if evento.get("type") == "checkout.session.completed":
+        usuario_id = evento.get("data", {}).get("object", {}).get("client_reference_id")
+        if usuario_id:
+            usuario = db.query(Usuario).filter(Usuario.id == int(usuario_id)).first()
+            if usuario:
+                usuario.is_pro = True
+                db.commit()
+
+    return {"received": True}

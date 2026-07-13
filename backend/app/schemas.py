@@ -101,6 +101,14 @@ class WorkoutOut(BaseModel):
     duration_minutes: int | None
 
 
+class ConvocatoriaOut(BaseModel):
+    titulo: str
+    organismo: str
+    localidad: str
+    dias_plazo: int
+    requisitos: list[str]
+
+
 class DashboardGlobal(BaseModel):
     nota_fisica: dict | None
     nota_teorica: dict | None
