@@ -239,6 +239,10 @@ formReset.addEventListener("submit", async (event) => {
   }
 });
 
+const form = document.getElementById("form-marca");
+const resultadoBox = document.getElementById("resultado");
+const tablaDetalle = document.getElementById("tabla-detalle");
+const recomendacionBox = document.getElementById("recomendacion");
 const notaGlobalEl = document.getElementById("nota-global");
 const ultimaFechaEl = document.getElementById("ultima-fecha");
 
@@ -677,6 +681,38 @@ if (formChat) {
   });
 }
 
+function minSegAsegundos(minInputId, segInputId) {
+  const min = Number(document.getElementById(minInputId).value || 0);
+  const seg = Number(document.getElementById(segInputId).value || 0);
+  return min * 60 + seg;
+}
+
+function pintarResultado(data) {
+  tablaDetalle.innerHTML = "";
+  for (const clave in data.detalle) {
+    const prueba = data.detalle[clave];
+    const fila = document.createElement("tr");
+    fila.className = "border-b border-slate-100";
+    fila.innerHTML = `
+      <td class="py-1">${prueba.nombre}</td>
+      <td class="py-1">${prueba.valor} ${prueba.unidad}</td>
+      <td class="py-1 font-semibold">${prueba.puntos.toFixed(2)}</td>
+    `;
+    tablaDetalle.appendChild(fila);
+  }
+
+  if (data.recomendacion) {
+    recomendacionBox.textContent = data.recomendacion.mensaje;
+    recomendacionBox.classList.remove("hidden");
+  } else {
+    recomendacionBox.textContent = "Ya tienes 10 puntos en todas las pruebas.";
+  }
+
+  resultadoBox.classList.remove("hidden");
+  notaGlobalEl.textContent = `${data.nota_global.toFixed(2)} / 10`;
+  ultimaFechaEl.textContent = `Registrado el ${data.marca.fecha}`;
+}
+
 function pintarResultadoTeorica(data) {
   notaTeoricaResultadoEl.textContent = data.nota_calculada.toFixed(2);
   resultadoTeoricaBox.classList.remove("hidden");
@@ -705,41 +741,19 @@ async function cargarDashboardGlobal() {
   }
 }
 
-// ---------- Registro de Entrenamiento (formulario dinamico) ----------
-const formWorkout = document.getElementById("form-workout");
-const workoutTypeSelect = document.getElementById("workoutType");
-const camposCardio = document.getElementById("campos-cardio");
-const camposFuerza = document.getElementById("campos-fuerza");
-
-function manejarCambioTipoEntrenamiento() {
-  const esFuerza = workoutTypeSelect.value === "Fuerza";
-  camposFuerza.classList.toggle("hidden", !esFuerza);
-  camposCardio.classList.toggle("hidden", esFuerza);
-}
-
-workoutTypeSelect.addEventListener("change", manejarCambioTipoEntrenamiento);
-manejarCambioTipoEntrenamiento();
-
-async function manejarSubmitEntrenamiento(event) {
+form.addEventListener("submit", async (event) => {
   event.preventDefault();
 
-  const tipo = workoutTypeSelect.value;
   const payload = {
-    workout_type: tipo,
-    notes: document.getElementById("workout-notes").value || null,
+    fecha: document.getElementById("fecha").value || null,
+    dominadas: Number(document.getElementById("dominadas").value),
+    sprint_100m: Number(document.getElementById("sprint").value),
+    carrera_1500m: minSegAsegundos("carrera_min", "carrera_seg"),
+    natacion_100m: minSegAsegundos("natacion_min", "natacion_seg"),
   };
 
-  if (tipo === "Fuerza") {
-    payload.exercise_name = document.getElementById("exercise_name").value;
-    payload.weight_kg = Number(document.getElementById("weight_kg").value);
-    payload.reps = Number(document.getElementById("reps").value);
-  } else {
-    payload.distance_km = Number(document.getElementById("distance_km").value);
-    payload.duration_minutes = Number(document.getElementById("duration_minutes").value);
-  }
-
   try {
-    const res = await fetchAutenticado("/api/workouts", {
+    const res = await fetchAutenticado("/api/marcas", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(payload),
@@ -747,20 +761,18 @@ async function manejarSubmitEntrenamiento(event) {
 
     if (!res.ok) {
       const error = await res.json();
-      mostrarToast(`Error al guardar: ${error.detail ?? "revisa los datos"}`, "error");
+      alert(`Error al guardar: ${JSON.stringify(error.detail ?? error)}`);
       return;
     }
 
-    formWorkout.reset();
-    manejarCambioTipoEntrenamiento();
-    mostrarToast("Entrenamiento registrado.", "success");
+    const data = await res.json();
+    pintarResultado(data);
+    cargarDashboardGlobal();
   } catch (err) {
-    console.error("No se pudo registrar el entrenamiento", err);
-    mostrarToast("No se pudo conectar con el backend.", "error");
+    console.error(err);
+    alert("No se pudo conectar con el backend.");
   }
-}
-
-formWorkout.addEventListener("submit", manejarSubmitEntrenamiento);
+});
 
 // ---------- Racha de Actividad (Heatmap estilo GitHub) ----------
 const heatmapContainer = document.getElementById("heatmap-container");
