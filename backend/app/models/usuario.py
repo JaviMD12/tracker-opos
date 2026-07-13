@@ -20,3 +20,6 @@ class Usuario(Base):
     simulacros_teoricos = relationship(
         "SimulacroTeorico", back_populates="usuario", cascade="all, delete-orphan"
     )
+    workouts = relationship(
+        "Workout", back_populates="usuario", cascade="all, delete-orphan"
+    )

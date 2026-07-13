@@ -725,7 +725,7 @@ async function manejarSubmitEntrenamiento(event) {
 
   const tipo = workoutTypeSelect.value;
   const payload = {
-    workoutType: tipo,
+    workout_type: tipo,
     notes: document.getElementById("workout-notes").value || null,
   };
 
@@ -739,7 +739,7 @@ async function manejarSubmitEntrenamiento(event) {
   }
 
   try {
-    const res = await fetchAutenticado("/api/workouts/", {
+    const res = await fetchAutenticado("/api/workouts", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(payload),

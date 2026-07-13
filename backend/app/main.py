@@ -14,7 +14,8 @@ from app.database import Base, engine  # noqa: E402
 from app.models.marca import MarcaFisica  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.simulacro import SimulacroTeorico  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.usuario import Usuario  # noqa: F401,E402 (registra el modelo en Base)
-from app.routers import auth, chat, dashboard, marcas, pagos, pro, teorica  # noqa: E402
+from app.models.workout import Workout  # noqa: F401,E402 (registra el modelo en Base)
+from app.routers import auth, chat, dashboard, marcas, pagos, pro, teorica, workouts  # noqa: E402
 from app.services.security import SECRET_KEY  # noqa: E402
 
 Base.metadata.create_all(bind=engine)
@@ -32,6 +33,7 @@ app.include_router(dashboard.router)
 app.include_router(pro.router)
 app.include_router(pagos.router)
 app.include_router(chat.router)
+app.include_router(workouts.router)
 
 
 @app.middleware("http")

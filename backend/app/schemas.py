@@ -1,4 +1,5 @@
 from datetime import date, datetime
+from typing import Literal
 
 from pydantic import BaseModel, ConfigDict, Field
 
@@ -69,6 +70,35 @@ class SimulacroTeoricoOut(BaseModel):
 class SimulacroTeoricoCalculado(BaseModel):
     simulacro: SimulacroTeoricoOut
     nota_calculada: float
+
+
+class WorkoutCreate(BaseModel):
+    fecha: date | None = Field(default=None, description="Si se omite, se usa la fecha de hoy")
+    workout_type: Literal["Fuerza", "Carrera", "Natacion"]
+    notes: str | None = Field(default=None, max_length=2000)
+
+    # Fuerza
+    exercise_name: str | None = None
+    weight_kg: float | None = Field(default=None, ge=0)
+    reps: int | None = Field(default=None, ge=0)
+
+    # Carrera / Natacion
+    distance_km: float | None = Field(default=None, ge=0)
+    duration_minutes: int | None = Field(default=None, ge=0)
+
+
+class WorkoutOut(BaseModel):
+    model_config = ConfigDict(from_attributes=True)
+
+    id: int
+    fecha: date
+    workout_type: str
+    notes: str | None
+    exercise_name: str | None
+    weight_kg: float | None
+    reps: int | None
+    distance_km: float | None
+    duration_minutes: int | None
 
 
 class DashboardGlobal(BaseModel):
