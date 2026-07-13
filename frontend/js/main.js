@@ -239,10 +239,6 @@ formReset.addEventListener("submit", async (event) => {
   }
 });
 
-const form = document.getElementById("form-marca");
-const resultadoBox = document.getElementById("resultado");
-const tablaDetalle = document.getElementById("tabla-detalle");
-const recomendacionBox = document.getElementById("recomendacion");
 const notaGlobalEl = document.getElementById("nota-global");
 const ultimaFechaEl = document.getElementById("ultima-fecha");
 
@@ -681,38 +677,6 @@ if (formChat) {
   });
 }
 
-function minSegAsegundos(minInputId, segInputId) {
-  const min = Number(document.getElementById(minInputId).value || 0);
-  const seg = Number(document.getElementById(segInputId).value || 0);
-  return min * 60 + seg;
-}
-
-function pintarResultado(data) {
-  tablaDetalle.innerHTML = "";
-  for (const clave in data.detalle) {
-    const prueba = data.detalle[clave];
-    const fila = document.createElement("tr");
-    fila.className = "border-b border-slate-100";
-    fila.innerHTML = `
-      <td class="py-1">${prueba.nombre}</td>
-      <td class="py-1">${prueba.valor} ${prueba.unidad}</td>
-      <td class="py-1 font-semibold">${prueba.puntos.toFixed(2)}</td>
-    `;
-    tablaDetalle.appendChild(fila);
-  }
-
-  if (data.recomendacion) {
-    recomendacionBox.textContent = data.recomendacion.mensaje;
-    recomendacionBox.classList.remove("hidden");
-  } else {
-    recomendacionBox.textContent = "Ya tienes 10 puntos en todas las pruebas.";
-  }
-
-  resultadoBox.classList.remove("hidden");
-  notaGlobalEl.textContent = `${data.nota_global.toFixed(2)} / 10`;
-  ultimaFechaEl.textContent = `Registrado el ${data.marca.fecha}`;
-}
-
 function pintarResultadoTeorica(data) {
   notaTeoricaResultadoEl.textContent = data.nota_calculada.toFixed(2);
   resultadoTeoricaBox.classList.remove("hidden");
@@ -741,19 +705,41 @@ async function cargarDashboardGlobal() {
   }
 }
 
-form.addEventListener("submit", async (event) => {
+// ---------- Registro de Entrenamiento (formulario dinamico) ----------
+const formWorkout = document.getElementById("form-workout");
+const workoutTypeSelect = document.getElementById("workoutType");
+const camposCardio = document.getElementById("campos-cardio");
+const camposFuerza = document.getElementById("campos-fuerza");
+
+function manejarCambioTipoEntrenamiento() {
+  const esFuerza = workoutTypeSelect.value === "Fuerza";
+  camposFuerza.classList.toggle("hidden", !esFuerza);
+  camposCardio.classList.toggle("hidden", esFuerza);
+}
+
+workoutTypeSelect.addEventListener("change", manejarCambioTipoEntrenamiento);
+manejarCambioTipoEntrenamiento();
+
+async function manejarSubmitEntrenamiento(event) {
   event.preventDefault();
 
+  const tipo = workoutTypeSelect.value;
   const payload = {
-    fecha: document.getElementById("fecha").value || null,
-    dominadas: Number(document.getElementById("dominadas").value),
-    sprint_100m: Number(document.getElementById("sprint").value),
-    carrera_1500m: minSegAsegundos("carrera_min", "carrera_seg"),
-    natacion_100m: minSegAsegundos("natacion_min", "natacion_seg"),
+    workoutType: tipo,
+    notes: document.getElementById("workout-notes").value || null,
   };
 
+  if (tipo === "Fuerza") {
+    payload.exercise_name = document.getElementById("exercise_name").value;
+    payload.weight_kg = Number(document.getElementById("weight_kg").value);
+    payload.reps = Number(document.getElementById("reps").value);
+  } else {
+    payload.distance_km = Number(document.getElementById("distance_km").value);
+    payload.duration_minutes = Number(document.getElementById("duration_minutes").value);
+  }
+
   try {
-    const res = await fetchAutenticado("/api/marcas", {
+    const res = await fetchAutenticado("/api/workouts/", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(payload),
@@ -761,18 +747,66 @@ form.addEventListener("submit", async (event) => {
 
     if (!res.ok) {
       const error = await res.json();
-      alert(`Error al guardar: ${JSON.stringify(error.detail ?? error)}`);
+      mostrarToast(`Error al guardar: ${error.detail ?? "revisa los datos"}`, "error");
       return;
     }
 
-    const data = await res.json();
-    pintarResultado(data);
-    cargarDashboardGlobal();
+    formWorkout.reset();
+    manejarCambioTipoEntrenamiento();
+    mostrarToast("Entrenamiento registrado.", "success");
   } catch (err) {
-    console.error(err);
-    alert("No se pudo conectar con el backend.");
+    console.error("No se pudo registrar el entrenamiento", err);
+    mostrarToast("No se pudo conectar con el backend.", "error");
   }
-});
+}
+
+formWorkout.addEventListener("submit", manejarSubmitEntrenamiento);
+
+// ---------- Racha de Actividad (Heatmap estilo GitHub) ----------
+const heatmapContainer = document.getElementById("heatmap-container");
+
+function nivelIntensidad(intensity) {
+  if (intensity >= 3) return "intensity-3";
+  if (intensity === 2) return "intensity-2";
+  if (intensity === 1) return "intensity-1";
+  return null;
+}
+
+function renderHeatmap(data) {
+  const intensidadPorFecha = new Map(data.map((d) => [d.date, d.intensity]));
+  heatmapContainer.innerHTML = "";
+
+  const hoy = new Date();
+  for (let i = data.length - 1; i >= 0; i--) {
+    const fecha = new Date(hoy);
+    fecha.setDate(hoy.getDate() - i);
+    const clave = fecha.toISOString().slice(0, 10);
+
+    const celda = document.createElement("div");
+    celda.className = "heatmap-cell";
+    const intensidad = intensidadPorFecha.get(clave) ?? 0;
+    const clase = nivelIntensidad(intensidad);
+    if (clase) celda.classList.add(clase);
+    celda.title = `${clave}: ${intensidad} actividad${intensidad === 1 ? "" : "es"}`;
+
+    heatmapContainer.appendChild(celda);
+  }
+}
+
+function generarDatosMockHeatmap(dias) {
+  const datos = [];
+  const hoy = new Date();
+  for (let i = dias - 1; i >= 0; i--) {
+    const fecha = new Date(hoy);
+    fecha.setDate(hoy.getDate() - i);
+    const alAzar = Math.random();
+    const intensity = alAzar > 0.4 ? Math.ceil((alAzar - 0.4) * 5) : 0;
+    datos.push({ date: fecha.toISOString().slice(0, 10), intensity });
+  }
+  return datos;
+}
+
+renderHeatmap(generarDatosMockHeatmap(60));
 
 formTeorica.addEventListener("submit", async (event) => {
   event.preventDefault();
