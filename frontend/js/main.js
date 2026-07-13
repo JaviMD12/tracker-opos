@@ -604,12 +604,12 @@ function pintarConvocatorias(convocatorias, bloqueado) {
     .map(
       (c) => `
       <article class="convocatoria-card${bloqueado ? " tablon-blur" : ""}">
-        <p class="convocatoria-titulo">${c.titulo}</p>
-        <p class="convocatoria-meta">${c.organismo} &middot; ${c.localidad}</p>
-        <span class="convocatoria-plazo">Quedan ${c.dias_plazo} dias</span>
-        <ul class="convocatoria-requisitos">
-          ${c.requisitos.map((r) => `<li>${r}</li>`).join("")}
-        </ul>
+        <p class="convocatoria-titulo">${c.titulo_plaza}</p>
+        <p class="convocatoria-meta">${c.organismo_localidad}</p>
+        <span class="convocatoria-plazo">${
+          c.plazo_dias != null ? `Quedan ${c.plazo_dias} dias` : "Plazo no especificado"
+        }</span>
+        <p class="convocatoria-requisitos">${c.requisitos_minimos ?? "Sin requisitos detallados"}</p>
       </article>`
     )
     .join("");
@@ -620,18 +620,16 @@ function pintarConvocatorias(convocatorias, bloqueado) {
 // (blureados, nunca legibles): el usuario no-Pro no recibe datos reales.
 const CONVOCATORIAS_EJEMPLO_BLOQUEADO = [
   {
-    titulo: "Bombero/a - Consorcio Provincial",
-    organismo: "Diputacion Provincial",
-    localidad: "Localidad de ejemplo",
-    dias_plazo: 15,
-    requisitos: ["Requisito de ejemplo", "Requisito de ejemplo"],
+    titulo_plaza: "Bombero/a - Consorcio Provincial",
+    organismo_localidad: "Diputacion Provincial - Localidad de ejemplo",
+    plazo_dias: 15,
+    requisitos_minimos: "Requisito de ejemplo, requisito de ejemplo.",
   },
   {
-    titulo: "Bombero/a Conductor",
-    organismo: "Ayuntamiento",
-    localidad: "Localidad de ejemplo",
-    dias_plazo: 9,
-    requisitos: ["Requisito de ejemplo", "Requisito de ejemplo"],
+    titulo_plaza: "Bombero/a Conductor",
+    organismo_localidad: "Ayuntamiento - Localidad de ejemplo",
+    plazo_dias: 9,
+    requisitos_minimos: "Requisito de ejemplo, requisito de ejemplo.",
   },
 ];
 

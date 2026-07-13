@@ -102,11 +102,14 @@ class WorkoutOut(BaseModel):
 
 
 class ConvocatoriaOut(BaseModel):
-    titulo: str
-    organismo: str
-    localidad: str
-    dias_plazo: int
-    requisitos: list[str]
+    model_config = ConfigDict(from_attributes=True)
+
+    id: int
+    titulo_plaza: str
+    organismo_localidad: str
+    plazo_dias: int | None
+    requisitos_minimos: str | None
+    fecha_publicacion: datetime
 
 
 class DashboardGlobal(BaseModel):

@@ -382,8 +382,6 @@ table td, table th {
 .convocatoria-requisitos {
   font-size: 0.78rem;
   color: #cbd5e1; /* slate-300 */
-  list-style: disc;
-  padding-left: 1.1rem;
   line-height: 1.5;
 }
 

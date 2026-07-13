@@ -6,11 +6,14 @@ from dotenv import load_dotenv
 # lee STRIPE_SECRET_KEY al importarse, asi que el orden aqui es critico.
 load_dotenv(Path(__file__).resolve().parent.parent / ".env")
 
+from apscheduler.schedulers.background import BackgroundScheduler  # noqa: E402
+from apscheduler.triggers.cron import CronTrigger  # noqa: E402
 from fastapi import FastAPI  # noqa: E402
 from fastapi.staticfiles import StaticFiles  # noqa: E402
 from starlette.middleware.sessions import SessionMiddleware  # noqa: E402
 
 from app.database import Base, engine  # noqa: E402
+from app.models.convocatoria import Convocatoria  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.marca import MarcaFisica  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.simulacro import SimulacroTeorico  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.usuario import Usuario  # noqa: F401,E402 (registra el modelo en Base)
@@ -26,6 +29,7 @@ from app.routers import (  # noqa: E402
     teorica,
     workouts,
 )
+from app.services.scraper_boletines import ejecutar_scraping_boletines  # noqa: E402
 from app.services.security import SECRET_KEY  # noqa: E402
 
 Base.metadata.create_all(bind=engine)
@@ -45,6 +49,31 @@ app.include_router(pagos.router)
 app.include_router(chat.router)
 app.include_router(workouts.router)
 app.include_router(convocatorias.router)
+
+# Cron del scraper de boletines (BOE/BOJA): se ejecuta a las 03:00 (hora de
+# Madrid) para no competir por recursos con el trafico normal de la app.
+# Nota: con varios workers (gunicorn -w N en produccion), cada worker crearia
+# su propio scheduler y el job se dispararia N veces a esa hora; el
+# UniqueConstraint de Convocatoria.url_origen evita duplicados en BD, pero
+# convendria revisar esto (p.ej. un solo worker dedicado al cron) antes de
+# escalar a mas de un worker en Render.
+scheduler = BackgroundScheduler(timezone="Europe/Madrid")
+
+
+@app.on_event("startup")
+def iniciar_scheduler_boletines():
+    scheduler.add_job(
+        ejecutar_scraping_boletines,
+        trigger=CronTrigger(hour=3, minute=0),
+        id="scraping_boletines_diario",
+        replace_existing=True,
+    )
+    scheduler.start()
+
+
+@app.on_event("shutdown")
+def detener_scheduler_boletines():
+    scheduler.shutdown(wait=False)
 
 
 @app.middleware("http")
