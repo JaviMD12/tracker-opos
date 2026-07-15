@@ -3,3 +3,4 @@
 *.db.bak
 __pycache__/
 *.pyc
+backend/chroma_db_data/

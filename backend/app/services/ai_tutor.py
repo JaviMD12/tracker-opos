@@ -2,16 +2,24 @@
 y cualquier documento (PDF o TXT) que el usuario deposite en
 `backend/app/conocimiento/`.
 
-La base vectorial se construye en memoria (sin persistir a disco) combinando:
+La base vectorial combina:
 - el texto plano generado a partir de los diccionarios `RUTINAS_PRO` y
   `TECNICAS_ESTUDIO_PRO`;
 - todos los PDF y TXT encontrados en `conocimiento/`.
 Todo se trocea con `RecursiveCharacterTextSplitter` (chunks de 1000 caracteres,
 solapamiento de 200) antes de indexarse en Chroma.
 
-La inicializacion es perezosa (lazy): no se llama a OpenAI ni se leen los
-documentos hasta la primera pregunta, para que el resto de la aplicacion siga
-funcionando aunque la clave de API no este configurada todavia.
+El indice se persiste en disco en `backend/chroma_db_data/` (ver
+CARPETA_PERSISTENCIA_VECTORSTORE): la primera vez que se usa el Tutor IA o los
+Simulacros tras un `git clone` (o si se borra esa carpeta) se reconstruye
+leyendo los PDFs y llamando a OpenAI para los embeddings, lo cual tarda 1-2
+minutos con el volumen actual de documentos; en cualquier arranque posterior,
+se carga directamente desde disco en menos de 2 segundos, sin volver a leer
+los PDFs ni gastar llamadas a OpenAI. Tutor IA y Simulacros comparten la misma
+instancia (_vectorstore, con inicializacion perezosa: no se llama a OpenAI ni
+se toca el disco hasta la primera pregunta/generacion, para que el resto de la
+aplicacion siga funcionando aunque la clave de API no este configurada
+todavia).
 """
 
 import json
@@ -46,6 +54,12 @@ CHUNK_OVERLAP = 200
 # importar este modulo).
 CARPETA_CONOCIMIENTO = Path(__file__).resolve().parent.parent / "conocimiento"
 CARPETA_CONOCIMIENTO.mkdir(parents=True, exist_ok=True)
+
+# Indice de Chroma persistido en disco (backend/chroma_db_data/). No se crea
+# aqui al importar el modulo a proposito: si no existe todavia, es la señal
+# que usa _obtener_vectorstore() para decidir si tiene que reconstruir el
+# indice desde los PDFs (CASO B) o si puede cargarlo tal cual (CASO A).
+CARPETA_PERSISTENCIA_VECTORSTORE = Path(__file__).resolve().parent.parent.parent / "chroma_db_data"
 
 SYSTEM_PROMPT = (
     "Eres un preparador fisico de elite, fisiologo deportivo, tutor academico "
@@ -149,16 +163,48 @@ def _cargar_documentos_conocimiento() -> list[Document]:
     return documentos
 
 
+def _indice_persistido_existe() -> bool:
+    """True si CARPETA_PERSISTENCIA_VECTORSTORE ya tiene un indice de Chroma
+    creado en una ejecucion anterior (carpeta presente y con contenido)."""
+    return CARPETA_PERSISTENCIA_VECTORSTORE.exists() and any(
+        CARPETA_PERSISTENCIA_VECTORSTORE.iterdir()
+    )
+
+
 def _obtener_vectorstore() -> Chroma:
+    """Devuelve el vectorstore compartido por el Tutor IA y los Simulacros,
+    cargandolo una sola vez por proceso (_vectorstore como singleton lazy).
+
+    CASO A (ya indexado): si CARPETA_PERSISTENCIA_VECTORSTORE tiene datos de
+    una ejecucion anterior, se abre directamente desde disco (rapido, sin
+    leer PDFs ni llamar a OpenAI para generar embeddings).
+    CASO B (primera vez / carpeta vacia o borrada): se reconstruye el indice
+    completo desde los PDFs/TXT de conocimiento/ y se persiste en disco para
+    que la proxima carga sea instantanea.
+    """
     global _vectorstore
-    if _vectorstore is None:
-        documentos = _construir_documentos_diccionarios() + _cargar_documentos_conocimiento()
-        splitter = RecursiveCharacterTextSplitter(
-            chunk_size=CHUNK_SIZE, chunk_overlap=CHUNK_OVERLAP
+    if _vectorstore is not None:
+        return _vectorstore
+
+    embeddings = OpenAIEmbeddings(model=MODELO_EMBEDDINGS)
+
+    if _indice_persistido_existe():
+        _vectorstore = Chroma(
+            persist_directory=str(CARPETA_PERSISTENCIA_VECTORSTORE),
+            embedding_function=embeddings,
         )
-        fragmentos = splitter.split_documents(documentos)
-        embeddings = OpenAIEmbeddings(model=MODELO_EMBEDDINGS)
-        _vectorstore = Chroma.from_documents(fragmentos, embeddings)
+        return _vectorstore
+
+    documentos = _construir_documentos_diccionarios() + _cargar_documentos_conocimiento()
+    splitter = RecursiveCharacterTextSplitter(
+        chunk_size=CHUNK_SIZE, chunk_overlap=CHUNK_OVERLAP
+    )
+    fragmentos = splitter.split_documents(documentos)
+    _vectorstore = Chroma.from_documents(
+        fragmentos,
+        embeddings,
+        persist_directory=str(CARPETA_PERSISTENCIA_VECTORSTORE),
+    )
     return _vectorstore
 
 
