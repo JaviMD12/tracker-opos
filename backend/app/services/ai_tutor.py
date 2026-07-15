@@ -14,6 +14,7 @@ documentos hasta la primera pregunta, para que el resto de la aplicacion siga
 funcionando aunque la clave de API no este configurada todavia.
 """
 
+import json
 from pathlib import Path
 
 from langchain_chroma import Chroma
@@ -117,6 +118,16 @@ def _construir_documentos_diccionarios() -> list[Document]:
     return documentos
 
 
+def _sanear_texto_unicode(texto: str) -> str:
+    """Elimina surrogates UTF-16 sueltos que pypdf a veces deja al extraer
+    texto de PDFs con fuentes/codificaciones no estandar (frecuente en PDFs
+    escaneados/exportados desde Word). Sin esto, Chroma (chromadb, bindings
+    en Rust) revienta con UnicodeEncodeError al indexar ese fragmento,
+    tumbando el vectorstore entero (afecta al Tutor IA y a los Simulacros
+    por igual, ya que comparten el mismo vectorstore)."""
+    return texto.encode("utf-8", errors="ignore").decode("utf-8")
+
+
 def _cargar_documentos_conocimiento() -> list[Document]:
     """Escanea backend/app/conocimiento/ y carga todos los PDF y TXT que encuentre."""
     documentos: list[Document] = []
@@ -131,6 +142,9 @@ def _cargar_documentos_conocimiento() -> list[Document]:
         silent_errors=True,
     )
     documentos.extend(cargador_txt.load())
+
+    for documento in documentos:
+        documento.page_content = _sanear_texto_unicode(documento.page_content)
 
     return documentos
 
@@ -201,3 +215,43 @@ def generar_plan_estudio_convocatoria(titulo_plaza: str, requisitos_minimos: str
     ]
     respuesta = llm.invoke(mensajes)
     return respuesta.content
+
+
+SYSTEM_PROMPT_SIMULACRO = (
+    "Eres un tribunal oficial de oposiciones de bomberos y emergencias. Tu "
+    "objetivo es generar un examen tipo test a partir del temario oficial. "
+    "Usa vocabulario técnico preciso (por ejemplo, usa 'hidrante' en lugar de "
+    "términos genéricos como 'aparato'). Debes devolver ÚNICAMENTE un objeto "
+    'JSON válido con esta estructura exacta: {"preguntas": [{"pregunta": '
+    '"texto", "opciones": ["A", "B", "C", "D"], "correcta": 0, "explicacion": '
+    '"Por qué es correcta"}]}. El campo \'correcta\' es el índice (0 a 3) de '
+    "la respuesta válida."
+)
+
+
+def generar_simulacro_test(tema: str, num_preguntas: int) -> dict:
+    """Genera un examen tipo test (RAG + gpt-4o-mini) sobre un tema del
+    temario, reutilizando el mismo vectorstore que el Tutor IA (rutinas,
+    tecnicas de estudio y documentos de conocimiento) como contexto."""
+    vectorstore = _obtener_vectorstore()
+    fragmentos = vectorstore.similarity_search(tema, k=FRAGMENTOS_A_RECUPERAR)
+    contexto = "\n\n---\n\n".join(doc.page_content for doc in fragmentos)
+
+    user_prompt = (
+        f"Tema: {tema}\n"
+        f"Numero de preguntas a generar: {num_preguntas}\n\n"
+        "Contexto disponible del temario:\n"
+        f"{contexto or '(sin contexto adicional; usa tu conocimiento general del temario oficial de oposiciones de bomberos)'}"
+    )
+
+    llm = ChatOpenAI(
+        model=MODELO_CHAT,
+        temperature=0.4,
+        model_kwargs={"response_format": {"type": "json_object"}},
+    )
+    mensajes = [
+        SystemMessage(content=SYSTEM_PROMPT_SIMULACRO),
+        HumanMessage(content=user_prompt),
+    ]
+    respuesta = llm.invoke(mensajes)
+    return json.loads(respuesta.content)

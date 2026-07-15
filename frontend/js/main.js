@@ -278,6 +278,7 @@ const views = {
   dashboard: document.getElementById("view-dashboard"),
   guia: document.getElementById("view-guia"),
   pro: document.getElementById("view-pro"),
+  simulacros: document.getElementById("view-simulacros"),
 };
 
 function activarVista(nombre) {
@@ -305,6 +306,8 @@ const proLockedBox = document.getElementById("pro-locked");
 const proUnlockedBox = document.getElementById("pro-unlocked");
 const btnDesbloquear = document.getElementById("btn-desbloquear");
 const btnSimularPago = document.getElementById("btn-simular-pago");
+const simulacrosLockedBox = document.getElementById("simulacros-locked");
+const simulacrosUnlockedBox = document.getElementById("simulacros-unlocked");
 
 function clavePlanPro() {
   const usuarioId = obtenerUsuarioIdDesdeToken();
@@ -326,6 +329,12 @@ function mostrarEstadoPro() {
   const desbloqueado = proEstaDesbloqueado();
   proLockedBox.classList.toggle("hidden", desbloqueado);
   proUnlockedBox.classList.toggle("hidden", !desbloqueado);
+  // Simulacros IA comparte el mismo muro de pago que el resto del Plan Pro:
+  // la proteccion real esta en el backend (403 en /api/simulacros/generar
+  // si is_pro es False), esto solo evita ensenar el generador de forma
+  // inutil a quien no lo puede usar.
+  simulacrosLockedBox.classList.toggle("hidden", desbloqueado);
+  simulacrosUnlockedBox.classList.toggle("hidden", !desbloqueado);
 }
 
 async function iniciarCheckoutStripe(boton) {
@@ -354,6 +363,9 @@ async function iniciarCheckoutStripe(boton) {
 }
 
 btnDesbloquear.addEventListener("click", () => iniciarCheckoutStripe(btnDesbloquear));
+
+const btnDesbloquearSimulacros = document.getElementById("btn-desbloquear-simulacros");
+btnDesbloquearSimulacros.addEventListener("click", () => iniciarCheckoutStripe(btnDesbloquearSimulacros));
 btnSimularPago.addEventListener("click", desbloquearPro);
 
 // ---------- Toasts ----------
@@ -963,6 +975,145 @@ formTeorica.addEventListener("submit", async (event) => {
     console.error(err);
     alert("No se pudo conectar con el backend.");
   }
+});
+
+// ---------- Simulacros IA (examen tipo test generado por IA) ----------
+const simulacroTemaSelect = document.getElementById("simulacro-tema");
+const simulacroNumPreguntasSelect = document.getElementById("simulacro-num-preguntas");
+const btnGenerarSimulacro = document.getElementById("btn-generar-simulacro");
+const simulacroConfigBox = document.getElementById("simulacro-config");
+const simulacroTestBox = document.getElementById("simulacro-test");
+const simulacroPreguntasEl = document.getElementById("simulacro-preguntas");
+const btnCorregirSimulacro = document.getElementById("btn-corregir-simulacro");
+const simulacroResultadoBox = document.getElementById("simulacro-resultado");
+const simulacroNotaEl = document.getElementById("simulacro-nota");
+const btnNuevoSimulacro = document.getElementById("btn-nuevo-simulacro");
+
+// Preguntas del simulacro en curso, guardadas en memoria para poder
+// corregirlas contra el indice "correcta" sin volver a llamar al backend.
+let preguntasSimulacroActual = [];
+let temaSimulacroActual = "";
+
+function pintarPreguntasSimulacro(preguntas) {
+  simulacroPreguntasEl.innerHTML = preguntas
+    .map(
+      (p, indice) => `
+      <div class="simulacro-pregunta" data-indice="${indice}">
+        <p class="simulacro-enunciado">${indice + 1}. ${p.pregunta}</p>
+        <div class="simulacro-opciones">
+          ${p.opciones
+            .map(
+              (opcion, opcionIndice) => `
+            <label class="simulacro-opcion">
+              <input type="radio" name="simulacro-pregunta-${indice}" value="${opcionIndice}" />
+              <span>${opcion}</span>
+            </label>`
+            )
+            .join("")}
+        </div>
+        <div class="simulacro-explicacion hidden"></div>
+      </div>`
+    )
+    .join("");
+}
+
+btnGenerarSimulacro.addEventListener("click", async () => {
+  const tema = simulacroTemaSelect.value;
+  const numPreguntas = Number(simulacroNumPreguntasSelect.value);
+  const textoOriginal = btnGenerarSimulacro.textContent;
+
+  btnGenerarSimulacro.disabled = true;
+  btnGenerarSimulacro.textContent = "Generando simulacro...";
+
+  try {
+    const res = await fetchAutenticado("/api/simulacros/generar", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ tema, num_preguntas: numPreguntas }),
+    });
+    const data = await res.json();
+
+    if (!res.ok) {
+      mostrarToast(data.detail ?? "No se pudo generar el simulacro.", "error");
+      return;
+    }
+
+    preguntasSimulacroActual = data.preguntas;
+    temaSimulacroActual = tema;
+
+    pintarPreguntasSimulacro(preguntasSimulacroActual);
+    simulacroResultadoBox.classList.add("hidden");
+    simulacroConfigBox.classList.add("hidden");
+    simulacroTestBox.classList.remove("hidden");
+  } catch (err) {
+    console.error("No se pudo generar el simulacro", err);
+    mostrarToast("No se pudo conectar con el backend.", "error");
+  } finally {
+    btnGenerarSimulacro.disabled = false;
+    btnGenerarSimulacro.textContent = textoOriginal;
+  }
+});
+
+btnCorregirSimulacro.addEventListener("click", async () => {
+  let aciertos = 0;
+
+  document.querySelectorAll(".simulacro-pregunta").forEach((preguntaEl) => {
+    const indice = Number(preguntaEl.dataset.indice);
+    const correcta = preguntasSimulacroActual[indice].correcta;
+    const opcionesEls = preguntaEl.querySelectorAll(".simulacro-opcion");
+    const seleccionada = preguntaEl.querySelector(
+      `input[name="simulacro-pregunta-${indice}"]:checked`
+    );
+    const valorSeleccionado = seleccionada ? Number(seleccionada.value) : null;
+
+    if (valorSeleccionado === correcta) aciertos++;
+
+    opcionesEls.forEach((opcionEl, opcionIndice) => {
+      const input = opcionEl.querySelector("input");
+      input.disabled = true;
+      if (opcionIndice === correcta) {
+        opcionEl.classList.add("opcion-correcta");
+      } else if (opcionIndice === valorSeleccionado) {
+        opcionEl.classList.add("opcion-incorrecta");
+      }
+    });
+
+    const explicacionEl = preguntaEl.querySelector(".simulacro-explicacion");
+    explicacionEl.textContent = preguntasSimulacroActual[indice].explicacion;
+    explicacionEl.classList.remove("hidden");
+  });
+
+  const total = preguntasSimulacroActual.length;
+  const nota = (aciertos / total) * 10;
+  simulacroNotaEl.textContent = `${nota.toFixed(2)} / 10`;
+  simulacroResultadoBox.classList.remove("hidden");
+  btnCorregirSimulacro.classList.add("hidden");
+
+  // Guardado silencioso: no bloqueamos ni avisamos al usuario si esto falla,
+  // ya tiene su correccion delante y no queremos interrumpirle por un fallo
+  // de persistencia que no afecta a lo que esta viendo.
+  try {
+    await fetchAutenticado("/api/simulacros/guardar", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        tema: temaSimulacroActual,
+        aciertos,
+        total_preguntas: total,
+      }),
+    });
+  } catch (err) {
+    console.error("No se pudo guardar el resultado del simulacro", err);
+  }
+});
+
+btnNuevoSimulacro.addEventListener("click", () => {
+  preguntasSimulacroActual = [];
+  simulacroPreguntasEl.innerHTML = "";
+  simulacroResultadoBox.classList.add("hidden");
+  simulacroTestBox.classList.add("hidden");
+  btnCorregirSimulacro.classList.remove("hidden");
+  simulacroConfigBox.classList.remove("hidden");
 });
 
 // ---------- Modo Enfoque (Pomodoro a pantalla completa) ----------

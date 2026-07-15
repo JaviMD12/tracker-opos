@@ -105,6 +105,17 @@ class SesionEstudioCreate(BaseModel):
     duracion_minutos: int = Field(gt=0)
 
 
+class SimulacroGenerarIn(BaseModel):
+    tema: str = Field(min_length=1, max_length=200)
+    num_preguntas: int = Field(gt=0, le=50)
+
+
+class ResultadoSimulacroCreate(BaseModel):
+    tema: str = Field(min_length=1, max_length=200)
+    aciertos: int = Field(ge=0)
+    total_preguntas: int = Field(gt=0)
+
+
 class HeatmapDia(BaseModel):
     date: str
     intensity: int

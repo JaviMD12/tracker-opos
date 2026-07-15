@@ -26,3 +26,6 @@ class Usuario(Base):
     sesiones_estudio = relationship(
         "SesionEstudio", back_populates="usuario", cascade="all, delete-orphan"
     )
+    resultados_simulacro = relationship(
+        "ResultadoSimulacro", back_populates="usuario", cascade="all, delete-orphan"
+    )

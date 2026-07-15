@@ -15,6 +15,7 @@ from starlette.middleware.sessions import SessionMiddleware  # noqa: E402
 from app.database import Base, engine  # noqa: E402
 from app.models.convocatoria import Convocatoria  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.marca import MarcaFisica  # noqa: F401,E402 (registra el modelo en Base)
+from app.models.resultado_simulacro import ResultadoSimulacro  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.sesion_estudio import SesionEstudio  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.simulacro import SimulacroTeorico  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.usuario import Usuario  # noqa: F401,E402 (registra el modelo en Base)
@@ -28,6 +29,7 @@ from app.routers import (  # noqa: E402
     marcas,
     pagos,
     pro,
+    simulacros,
     teorica,
     tutor,
     workouts,
@@ -54,6 +56,7 @@ app.include_router(chat.router)
 app.include_router(workouts.router)
 app.include_router(convocatorias.router)
 app.include_router(tutor.router)
+app.include_router(simulacros.router)
 
 # Cron del scraper de boletines (BOE/BOJA): se ejecuta a las 03:00 (hora de
 # Madrid) para no competir por recursos con el trafico normal de la app.
