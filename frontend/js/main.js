@@ -47,6 +47,7 @@ function mostrarApp() {
   appShellEl.classList.remove("hidden");
   mostrarEstadoPro();
   cargarDashboardGlobal();
+  cargarHeatmap();
   procesarRetornoDePago();
 }
 
@@ -610,11 +611,60 @@ function pintarConvocatorias(convocatorias, bloqueado) {
           c.plazo_dias != null ? `Quedan ${c.plazo_dias} dias` : "Plazo no especificado"
         }</span>
         <p class="convocatoria-requisitos">${c.requisitos_minimos ?? "Sin requisitos detallados"}</p>
+        ${
+          bloqueado
+            ? ""
+            : `
+        <button type="button" class="btn-plan-ia" data-convocatoria-id="${c.id}">
+          &#9889; Generar Plan de Estudio IA
+        </button>
+        <div class="plan-ia-contenido hidden"></div>`
+        }
       </article>`
     )
     .join("");
   tablonBloqueado.classList.toggle("hidden", !bloqueado);
 }
+
+// Delegacion de eventos: las tarjetas se regeneran en cada carga del tablon,
+// asi que un listener fijo en el contenedor evita tener que re-engancharlo
+// cada vez que pintarConvocatorias() reescribe el innerHTML.
+tablonContenido.addEventListener("click", async (event) => {
+  const boton = event.target.closest(".btn-plan-ia");
+  if (!boton) return;
+
+  const convocatoriaId = boton.dataset.convocatoriaId;
+  const tarjeta = boton.closest(".convocatoria-card");
+  const contenedorPlan = tarjeta.querySelector(".plan-ia-contenido");
+  const textoOriginal = boton.textContent;
+
+  boton.disabled = true;
+  boton.textContent = "Analizando convocatoria...";
+
+  try {
+    const res = await fetchAutenticado(`/api/tutor/analizar-plaza/${convocatoriaId}`, {
+      method: "POST",
+    });
+    const data = await res.json();
+
+    if (!res.ok) {
+      mostrarToast(data.detail ?? "No se pudo generar el plan de estudio.", "error");
+      return;
+    }
+
+    // El plan viene en Markdown: se convierte a HTML con marked.js y se
+    // sanitiza con DOMPurify antes de insertarlo (mismo patron que el chat
+    // del Tutor IA, ver pintarBurbujaChat()).
+    contenedorPlan.innerHTML = DOMPurify.sanitize(marked.parse(data.plan_estudio_md));
+    contenedorPlan.classList.remove("hidden");
+  } catch (err) {
+    console.error("No se pudo generar el plan de estudio IA", err);
+    mostrarToast("No se pudo conectar con el backend.", "error");
+  } finally {
+    boton.disabled = false;
+    boton.textContent = textoOriginal;
+  }
+});
 
 // Datos de ejemplo solo para dar forma al tablon cuando esta bloqueado
 // (blureados, nunca legibles): el usuario no-Pro no recibe datos reales.
@@ -846,8 +896,7 @@ form.addEventListener("submit", async (event) => {
 const heatmapContainer = document.getElementById("heatmap-container");
 
 function nivelIntensidad(intensity) {
-  if (intensity >= 3) return "intensity-3";
-  if (intensity === 2) return "intensity-2";
+  if (intensity >= 2) return "intensity-2";
   if (intensity === 1) return "intensity-1";
   return null;
 }
@@ -873,20 +922,16 @@ function renderHeatmap(data) {
   }
 }
 
-function generarDatosMockHeatmap(dias) {
-  const datos = [];
-  const hoy = new Date();
-  for (let i = dias - 1; i >= 0; i--) {
-    const fecha = new Date(hoy);
-    fecha.setDate(hoy.getDate() - i);
-    const alAzar = Math.random();
-    const intensity = alAzar > 0.4 ? Math.ceil((alAzar - 0.4) * 5) : 0;
-    datos.push({ date: fecha.toISOString().slice(0, 10), intensity });
+async function cargarHeatmap() {
+  try {
+    const res = await fetchAutenticado("/api/actividad/heatmap");
+    if (!res.ok) return;
+    const data = await res.json();
+    renderHeatmap(data);
+  } catch (err) {
+    console.error("No se pudo cargar el heatmap de actividad", err);
   }
-  return datos;
 }
-
-renderHeatmap(generarDatosMockHeatmap(60));
 
 formTeorica.addEventListener("submit", async (event) => {
   event.preventDefault();
@@ -924,6 +969,11 @@ formTeorica.addEventListener("submit", async (event) => {
 let timerInterval;
 let tiempoRestante = 25 * 60; // 25 minutos en segundos
 let timerCorriendo = false;
+// Solo se guarda una SesionEstudio cuando termina un ciclo de TRABAJO, nunca
+// un descanso; estas dos variables llevan la cuenta de cual de los dos esta
+// corriendo ahora mismo.
+let duracionCicloActualMinutos = 25;
+let cicloActualEsTrabajo = true;
 
 // Sonido de alarma al terminar la sesion de enfoque, cargado en memoria de antemano.
 const sonidoAlarma = new Audio("https://cdn.pixabay.com/audio/2021/08/04/audio_0625c1539c.mp3");
@@ -972,9 +1022,27 @@ function iniciarTimer() {
       // audio), mostrarToast() no bloquea nada, asi que no hace falta
       // ningun setTimeout para dar margen a que el audio empiece a sonar.
       mostrarToast("¡Sesion de enfoque terminada! Tomate un descanso.", "success");
-      // Aqui en el futuro avisaremos al backend para guardar la racha.
+
+      if (cicloActualEsTrabajo) {
+        guardarSesionEstudio(duracionCicloActualMinutos);
+      }
     }
   }, 1000);
+}
+
+async function guardarSesionEstudio(duracionMinutos) {
+  try {
+    const res = await fetchAutenticado("/api/actividad/sesion-estudio", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ duracion_minutos: duracionMinutos }),
+    });
+    if (res.ok) cargarHeatmap();
+  } catch (err) {
+    // No interrumpimos la celebracion del Pomodoro por esto: se registra
+    // en consola y ya esta, la sesion en si ya se completo igualmente.
+    console.error("No se pudo guardar la sesion de estudio", err);
+  }
 }
 
 function pausarTimer() {
@@ -985,6 +1053,8 @@ function pausarTimer() {
 function reiniciarTimer() {
   pausarTimer();
   tiempoRestante = 25 * 60;
+  duracionCicloActualMinutos = 25;
+  cicloActualEsTrabajo = true;
   actualizarDisplayTimer();
 }
 
@@ -995,6 +1065,8 @@ document.getElementById("btn-timer-reset").addEventListener("click", reiniciarTi
 document.getElementById("btn-timer-descanso").addEventListener("click", () => {
   pausarTimer();
   tiempoRestante = 5 * 60; // Lo ponemos en 5 minutos
+  duracionCicloActualMinutos = 5;
+  cicloActualEsTrabajo = false;
   actualizarDisplayTimer();
 });
 

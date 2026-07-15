@@ -167,3 +167,37 @@ def preguntar_al_tutor(query: str) -> str:
     ]
     respuesta = llm.invoke(mensajes)
     return respuesta.content
+
+
+SYSTEM_PROMPT_PLAN_ESTUDIO = (
+    "Eres un analista experto en oposiciones públicas. Tu objetivo es leer "
+    "convocatorias oficiales y extraer un plan de estudio milimétrico."
+)
+
+
+def generar_plan_estudio_convocatoria(titulo_plaza: str, requisitos_minimos: str) -> str:
+    """Genera un plan de ataque en Markdown para una convocatoria concreta del
+    Tablon de Plazas Premium, adaptado exclusivamente al cuerpo real de la
+    plaza (el prompt ya no fuerza temario de bomberos/hidraulica de forma
+    fija: el propio texto le exige identificar el cuerpo antes de redactar,
+    para que una plaza administrativa no reciba temario de bomberos)."""
+    user_prompt = (
+        "Analiza la siguiente convocatoria oficial. "
+        f"Plaza: '{titulo_plaza}'. Extracto: '{requisitos_minimos}'. "
+        "INSTRUCCIONES ESTRICTAS: "
+        "1. Identifica el cuerpo exacto basándote en el título. "
+        "2. Resume los requisitos reales o plazos. "
+        "3. Construye un plan de ataque en Markdown adaptado EXCLUSIVAMENTE a "
+        "la naturaleza de esta plaza (ej. si es puramente administrativa, "
+        "enfócate en legislación; si es de bomberos, en fuego e hidráulica). "
+        "NO mezcles temarios. "
+        "4. Si el extracto está muy vacío, avisa al usuario de consultar las "
+        "bases, pero ofrécele las materias troncales habituales del cuerpo."
+    )
+    llm = ChatOpenAI(model=MODELO_CHAT, temperature=0.3)
+    mensajes = [
+        SystemMessage(content=SYSTEM_PROMPT_PLAN_ESTUDIO),
+        HumanMessage(content=user_prompt),
+    ]
+    respuesta = llm.invoke(mensajes)
+    return respuesta.content

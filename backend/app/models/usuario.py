@@ -23,3 +23,6 @@ class Usuario(Base):
     workouts = relationship(
         "Workout", back_populates="usuario", cascade="all, delete-orphan"
     )
+    sesiones_estudio = relationship(
+        "SesionEstudio", back_populates="usuario", cascade="all, delete-orphan"
+    )

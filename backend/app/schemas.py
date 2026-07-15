@@ -101,6 +101,15 @@ class WorkoutOut(BaseModel):
     duration_minutes: int | None
 
 
+class SesionEstudioCreate(BaseModel):
+    duracion_minutos: int = Field(gt=0)
+
+
+class HeatmapDia(BaseModel):
+    date: str
+    intensity: int
+
+
 class ConvocatoriaOut(BaseModel):
     model_config = ConfigDict(from_attributes=True)
 
