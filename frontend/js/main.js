@@ -291,6 +291,7 @@ function activarVista(nombre) {
 
   if (nombre === "premium" && proEstaDesbloqueado()) {
     cargarZonaPremium();
+    verificarTourPremium();
   }
 }
 
@@ -738,6 +739,136 @@ function cargarZonaPremium() {
   cargarEntrenamientoEspecifico();
   cargarTecnicasEstudio();
   cargarTablonConvocatorias();
+}
+
+// ---------- Tour Guiado: onboarding de la Zona Premium ----------
+// Se muestra una unica vez por usuario (is_pro real + tour_premium_completado
+// en false, ver GET /api/usuarios/me), la primera vez que entra en la Zona
+// Premium. Al terminar se registra en el backend para no volver a mostrarlo.
+const PASOS_TOUR_PREMIUM = [
+  {
+    selector: "#tour-tablon",
+    texto: "El radar activado. Filtramos el ruido y te mostramos solo plazas reales de emergencias. Usa la IA para analizar los requisitos en segundos.",
+  },
+  {
+    selector: "#tour-tutor",
+    texto: "Tu sargento 24/7. Pregúntale dudas técnicas sobre el CTE, hidráulica o legislación. Nunca duerme.",
+  },
+  {
+    selector: "#tour-simulacros",
+    texto: "Fuego real. Genera exámenes tipo test a medida basados en el temario oficial para blindar tus conocimientos.",
+  },
+];
+
+let pasoTourActual = 0;
+let elementoResaltadoTour = null;
+let overlayTourEl = null;
+let tooltipTourEl = null;
+
+function limpiarResaltadoTour() {
+  if (elementoResaltadoTour) {
+    elementoResaltadoTour.classList.remove("tour-highlight");
+    elementoResaltadoTour = null;
+  }
+}
+
+function posicionarTooltipTour(elementoResaltado) {
+  const margen = 12;
+  const rect = elementoResaltado.getBoundingClientRect();
+
+  tooltipTourEl.style.top = `${rect.bottom + window.scrollY + margen}px`;
+  tooltipTourEl.style.left = `${rect.left + window.scrollX}px`;
+
+  // Si se sale por la derecha de la ventana, lo pegamos al borde (con
+  // margen), una vez que el navegador ya calculo su ancho real.
+  requestAnimationFrame(() => {
+    const maximoLeft = window.innerWidth - tooltipTourEl.offsetWidth - 20;
+    if (rect.left + window.scrollX > maximoLeft) {
+      tooltipTourEl.style.left = `${Math.max(20, maximoLeft)}px`;
+    }
+  });
+}
+
+function pintarPasoTour(indice) {
+  limpiarResaltadoTour();
+
+  const paso = PASOS_TOUR_PREMIUM[indice];
+  const elemento = document.querySelector(paso.selector);
+  if (!elemento) {
+    avanzarTour();
+    return;
+  }
+
+  elemento.scrollIntoView({ behavior: "smooth", block: "center" });
+  elemento.classList.add("tour-highlight");
+  elementoResaltadoTour = elemento;
+
+  const esUltimoPaso = indice === PASOS_TOUR_PREMIUM.length - 1;
+  tooltipTourEl.innerHTML = `
+    <p class="tour-tooltip-paso">Paso ${indice + 1} de ${PASOS_TOUR_PREMIUM.length}</p>
+    <p class="tour-tooltip-texto">${paso.texto}</p>
+    <div class="tour-tooltip-acciones">
+      <button type="button" id="btn-tour-siguiente" class="btn-primary px-5">
+        ${esUltimoPaso ? "Finalizar" : "Siguiente"}
+      </button>
+    </div>
+  `;
+  document.getElementById("btn-tour-siguiente").addEventListener("click", avanzarTour);
+
+  posicionarTooltipTour(elemento);
+}
+
+function avanzarTour() {
+  pasoTourActual++;
+  if (pasoTourActual >= PASOS_TOUR_PREMIUM.length) {
+    finalizarTourPremium();
+    return;
+  }
+  pintarPasoTour(pasoTourActual);
+}
+
+function iniciarTourPremium() {
+  pasoTourActual = 0;
+
+  overlayTourEl = document.createElement("div");
+  overlayTourEl.className = "tour-overlay";
+  document.body.appendChild(overlayTourEl);
+
+  tooltipTourEl = document.createElement("div");
+  tooltipTourEl.className = "tour-tooltip";
+  document.body.appendChild(tooltipTourEl);
+
+  pintarPasoTour(pasoTourActual);
+}
+
+async function finalizarTourPremium() {
+  limpiarResaltadoTour();
+  overlayTourEl?.remove();
+  tooltipTourEl?.remove();
+  overlayTourEl = null;
+  tooltipTourEl = null;
+
+  // Fetch silencioso: el usuario ya vio el tour completo delante suyo, no le
+  // bloqueamos ni avisamos si esto falla (en la proxima visita se volveria a
+  // verificar contra el backend y, como mucho, se le mostraria otra vez).
+  try {
+    await fetchAutenticado("/api/usuarios/tour-completado", { method: "POST" });
+  } catch (err) {
+    console.error("No se pudo registrar el tour premium como completado", err);
+  }
+}
+
+async function verificarTourPremium() {
+  try {
+    const res = await fetchAutenticado("/api/usuarios/me");
+    if (!res.ok) return;
+    const perfil = await res.json();
+    if (perfil.is_pro && !perfil.tour_premium_completado) {
+      iniciarTourPremium();
+    }
+  } catch (err) {
+    console.error("No se pudo verificar el estado del tour premium", err);
+  }
 }
 
 // ---------- Tutor Inteligente 24/7 (chat RAG) ----------

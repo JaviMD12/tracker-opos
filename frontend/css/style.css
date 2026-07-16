@@ -644,6 +644,61 @@ table td, table th {
   }
 }
 
+/* ---------- Tour Guiado (onboarding de la Zona Premium) ---------- */
+/* Overlay oscuro a pantalla completa. z-index por encima de todo lo demas
+   (toasts incluidos, #toast-container esta en 100) salvo del propio tooltip
+   y del elemento resaltado, que deben quedar por delante de el. */
+.tour-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 300;
+  background-color: rgba(0, 0, 0, 0.75);
+}
+
+/* Se aplica al contenedor de la seccion activa del tour: lo saca por encima
+   del overlay y le da un resplandor naranja para que destaque sobre el fondo
+   oscurecido. Ninguno de sus ancestros tiene position/transform/opacity, asi
+   que el z-index escala hasta el contexto de apilamiento raiz sin quedar
+   atrapado por un ancestro intermedio. */
+.tour-highlight {
+  position: relative;
+  z-index: 301;
+  border-radius: 1rem;
+  box-shadow: 0 0 0 3px rgba(249, 115, 22, 0.55), 0 0 40px rgba(249, 115, 22, 0.35);
+}
+
+/* Globo de texto explicativo, posicionado junto al elemento resaltado
+   (top/left calculados en JS a partir de su getBoundingClientRect). */
+.tour-tooltip {
+  position: absolute;
+  z-index: 302;
+  max-width: 22rem;
+  background-color: #1e293b;
+  color: #ffffff;
+  border: 1px solid #f97316;
+  border-radius: 0.85rem;
+  padding: 1.1rem 1.25rem;
+  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.5);
+  font-size: 0.875rem;
+  line-height: 1.55;
+}
+.tour-tooltip-paso {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #fdba74; /* orange-300 */
+  margin-bottom: 0.45rem;
+}
+.tour-tooltip-texto {
+  color: #e2e8f0; /* slate-200 */
+  margin-bottom: 1rem;
+}
+.tour-tooltip-acciones {
+  display: flex;
+  justify-content: flex-end;
+}
+
 /* ---------- Modo Enfoque (Pomodoro a pantalla completa) ---------- */
 
 /* Boton de la sidebar que activa el modo. Distinto del resto de nav-view-btn

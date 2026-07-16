@@ -33,6 +33,7 @@ from app.routers import (  # noqa: E402
     simulacros,
     teorica,
     tutor,
+    usuarios,
     workouts,
 )
 from app.services.scraper_boletines import ejecutar_scraping_boletines  # noqa: E402
@@ -52,6 +53,7 @@ def _asegurar_columna(tabla: str, columna: str, tipo_sql: str) -> None:
 
 
 _asegurar_columna("usuarios", "stripe_customer_id", "VARCHAR")
+_asegurar_columna("usuarios", "tour_premium_completado", "BOOLEAN NOT NULL DEFAULT false")
 
 app = FastAPI(title="Tracker Analitico de Oposiciones")
 
@@ -71,6 +73,7 @@ app.include_router(workouts.router)
 app.include_router(convocatorias.router)
 app.include_router(tutor.router)
 app.include_router(simulacros.router)
+app.include_router(usuarios.router)
 
 # Cron del scraper de boletines (BOE/BOJA): se ejecuta a las 03:00 (hora de
 # Madrid) para no competir por recursos con el trafico normal de la app.

@@ -15,6 +15,7 @@ class UsuarioOut(BaseModel):
     id: int
     email: str
     is_pro: bool
+    tour_premium_completado: bool
     fecha_registro: datetime
 
 
