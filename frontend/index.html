@@ -145,19 +145,12 @@
         </svg>
         <span>Guia del Opositor</span>
       </button>
-      <button type="button" data-view="pro"
+      <button type="button" data-view="premium"
               class="nav-view-btn flex items-center gap-3 w-full px-4 py-3 rounded-xl text-sm font-medium transition">
         <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
           <path stroke-linecap="round" stroke-linejoin="round" d="M13 2 3 14h7l-1 8 11-14h-7l1-6z" />
         </svg>
-        <span>Plan Pro (Premium)</span>
-      </button>
-      <button type="button" data-view="simulacros"
-              class="nav-view-btn flex items-center gap-3 w-full px-4 py-3 rounded-xl text-sm font-medium transition">
-        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
-        </svg>
-        <span>Simulacros IA</span>
+        <span>Zona Premium</span>
       </button>
       <button type="button" id="btn-activar-enfoque" class="btn-tactico flex items-center gap-3 w-full px-4 py-3 rounded-xl text-sm font-medium transition mt-2">
         <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
@@ -509,27 +502,28 @@
       </div>
     </main>
 
-    <!-- ============ VISTA: PLAN PRO (PREMIUM) ============ -->
-    <main id="view-pro" class="view hidden max-w-6xl mx-auto p-6 lg:p-8 space-y-6">
+    <!-- ============ VISTA: ZONA PREMIUM ============ -->
+    <main id="view-premium" class="view hidden max-w-6xl mx-auto p-6 lg:p-8 space-y-6">
 
-      <!-- Estado bloqueado -->
-      <section id="pro-locked" class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-10 text-center max-w-xl mx-auto">
+      <!-- Estado bloqueado: un unico cartel de venta (upsell) para toda la Zona Premium -->
+      <section id="premium-locked" class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-10 text-center max-w-xl mx-auto">
         <div class="w-16 h-16 mx-auto rounded-2xl bg-gradient-to-br from-orange-600 to-amber-500 flex items-center justify-center shadow-lg shadow-orange-900/40 mb-5">
           <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
             <rect x="5" y="11" width="14" height="9" rx="2" stroke-linecap="round" stroke-linejoin="round" />
             <path stroke-linecap="round" stroke-linejoin="round" d="M8 11V7a4 4 0 118 0v4" />
           </svg>
         </div>
-        <h2 class="text-xl font-bold text-white">Plan Pro: analitica avanzada y entrenamiento a medida</h2>
+        <h2 class="text-xl font-bold text-white">Zona Premium: analitica avanzada, IA y convocatorias en tiempo real</h2>
         <p class="text-gray-400 text-sm mt-2 max-w-md mx-auto">
-          Desbloquea la evolucion grafica de tu Nota Global Oposicion y una rutina de entrenamiento
-          especifica, basada en evidencia, para tu punto mas debil.
+          Desbloquea el Tablon de Plazas automatizado, el Tutor IA 24/7, Simulacros tipo test generados por
+          IA y tu evolucion grafica con entrenamiento a medida.
         </p>
 
         <ul class="text-left text-sm text-gray-300 mt-6 space-y-2 max-w-sm mx-auto">
-          <li class="flex items-center gap-2"><span class="text-amber-400">✓</span> Grafica de evolucion de tu nota global</li>
-          <li class="flex items-center gap-2"><span class="text-amber-400">✓</span> Deteccion automatica de tu punto debil</li>
-          <li class="flex items-center gap-2"><span class="text-amber-400">✓</span> Rutina semanal con respaldo cientifico</li>
+          <li class="flex items-center gap-2"><span class="text-amber-400">✓</span> Tablon de Plazas en tiempo real (BOE/BOJA)</li>
+          <li class="flex items-center gap-2"><span class="text-amber-400">✓</span> Tutor Inteligente 24/7</li>
+          <li class="flex items-center gap-2"><span class="text-amber-400">✓</span> Simulacros tipo test generados por IA</li>
+          <li class="flex items-center gap-2"><span class="text-amber-400">✓</span> Evolucion grafica y entrenamiento especifico</li>
         </ul>
 
         <button type="button" id="btn-desbloquear" class="btn-primary mt-7 px-8">
@@ -543,12 +537,12 @@
         </div>
       </section>
 
-      <!-- Estado desbloqueado -->
-      <div id="pro-unlocked" class="hidden space-y-6">
+      <!-- Estado desbloqueado: todos los modulos premium listos para usar -->
+      <div id="premium-unlocked" class="hidden space-y-6">
         <div class="flex items-center justify-between">
           <div>
-            <h2 class="text-xl font-bold text-white">Plan Pro</h2>
-            <p class="text-gray-500 text-sm">Analitica avanzada y entrenamiento especifico</p>
+            <h2 class="text-xl font-bold text-white">Zona Premium</h2>
+            <p class="text-gray-500 text-sm">Analitica avanzada, IA y convocatorias en tiempo real</p>
           </div>
           <div class="flex items-center gap-3">
             <button type="button" id="btn-gestionar-suscripcion"
@@ -575,7 +569,7 @@
               <canvas id="grafica-evolucion"></canvas>
             </div>
             <p id="grafica-vacia" class="text-sm text-gray-500 mt-3 hidden">
-              Aun no hay suficientes registros (necesitas al menos una marca fisica y un simulacro teorico) para trazar la evolucion.
+              Registra tus primeras marcas fisicas para visualizar tu evolucion.
             </p>
           </section>
 
@@ -620,23 +614,8 @@
             Convocatorias de BOE/BOJA para bombero/emergencias, detectadas automaticamente.
           </p>
 
-          <div class="relative">
-            <div id="tablon-convocatorias-contenido" class="grid grid-cols-1 lg:grid-cols-2 gap-4 text-sm text-gray-400">
-              Cargando convocatorias...
-            </div>
-
-            <!-- Overlay de bloqueo: solo se muestra si el backend confirma que el usuario no es Pro -->
-            <div id="tablon-bloqueado" class="hidden absolute inset-0 flex items-center justify-center p-4">
-              <div class="tablon-cta">
-                <p class="font-semibold text-white text-lg mb-2">¡Contenido Exclusivo!</p>
-                <p class="text-sm text-gray-300 mb-5">
-                  Desbloquea el Tablon Automatizado con el Plan Pro para enterarte antes que nadie de las nuevas plazas.
-                </p>
-                <button type="button" id="btn-desbloquear-tablon" class="btn-primary px-6">
-                  Desbloquear por 9,99&euro;
-                </button>
-              </div>
-            </div>
+          <div id="tablon-convocatorias-contenido" class="grid grid-cols-1 lg:grid-cols-2 gap-4 text-sm text-gray-400">
+            Cargando convocatorias...
           </div>
         </div>
 
@@ -670,78 +649,59 @@
             </form>
           </section>
         </div>
-      </div>
-    </main>
 
-    <!-- ============ VISTA: SIMULACROS IA (PREMIUM) ============ -->
-    <main id="view-simulacros" class="view hidden max-w-4xl mx-auto p-6 lg:p-8 space-y-6">
-
-      <!-- Estado bloqueado: mismo cartel tactico que el Tablon Premium -->
-      <section id="simulacros-locked" class="tablon-cta mx-auto">
-        <div class="w-16 h-16 mx-auto rounded-2xl bg-gradient-to-br from-orange-600 to-amber-500 flex items-center justify-center shadow-lg shadow-orange-900/40 mb-5">
-          <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
-            <rect x="5" y="11" width="14" height="9" rx="2" stroke-linecap="round" stroke-linejoin="round" />
-            <path stroke-linecap="round" stroke-linejoin="round" d="M8 11V7a4 4 0 118 0v4" />
-          </svg>
-        </div>
-        <p class="font-semibold text-white text-lg mb-2">¡Contenido Exclusivo!</p>
-        <p class="text-sm text-gray-300 mb-5">
-          Mejora tu plan para desbloquear simulacros tipo test ilimitados generados por IA,
-          adaptados al temario oficial de tu convocatoria.
-        </p>
-        <button type="button" id="btn-desbloquear-simulacros" class="btn-primary px-8">
-          Desbloquear por 9,99&euro;
-        </button>
-      </section>
-
-      <!-- Estado desbloqueado -->
-      <div id="simulacros-unlocked" class="hidden space-y-6">
-        <div>
-          <h2 class="text-xl font-bold text-white">Simulacros IA</h2>
-          <p class="text-gray-500 text-sm">Examenes tipo test generados a partir del temario oficial</p>
-        </div>
-
-        <!-- Paso 1: Configuracion -->
-        <section id="simulacro-config" class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 lg:p-8">
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-            <div>
-              <label class="block text-sm font-medium mb-1 text-gray-300" for="simulacro-tema">Tema</label>
-              <select id="simulacro-tema" class="field">
-                <option value="Legislacion">Legislacion</option>
-                <option value="Hidraulica">Hidraulica</option>
-                <option value="Fuego">Fuego</option>
-              </select>
-            </div>
-            <div>
-              <label class="block text-sm font-medium mb-1 text-gray-300" for="simulacro-num-preguntas">Numero de preguntas</label>
-              <select id="simulacro-num-preguntas" class="field">
-                <option value="5">5</option>
-                <option value="10" selected>10</option>
-                <option value="20">20</option>
-              </select>
-            </div>
+        <!-- ===== 5. Simulacros IA ===== -->
+        <div class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="seccion-numero">4</span>
+            <h3 class="text-lg font-bold text-white">Simulacros IA</h3>
           </div>
-          <button type="button" id="btn-generar-simulacro" class="btn-primary w-full">
-            Generar Simulacro
-          </button>
-        </section>
+          <p class="text-sm text-gray-500 -mt-4 ml-11">
+            Examenes tipo test generados a partir del temario oficial.
+          </p>
 
-        <!-- Paso 2 y 3: Test y correccion -->
-        <section id="simulacro-test" class="hidden bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 lg:p-8">
-          <div id="simulacro-preguntas" class="space-y-6"></div>
-
-          <button type="button" id="btn-corregir-simulacro" class="btn-primary w-full mt-6">
-            Corregir Examen
-          </button>
-
-          <div id="simulacro-resultado" class="hidden mt-6 text-center">
-            <p class="text-sm text-gray-400">Tu nota</p>
-            <div class="text-5xl font-bold bg-gradient-to-r from-orange-400 to-amber-300 bg-clip-text text-transparent" id="simulacro-nota">--</div>
-            <button type="button" id="btn-nuevo-simulacro" class="text-xs text-gray-500 hover:text-amber-400 underline underline-offset-2 transition mt-4">
-              Generar otro simulacro
+          <!-- Paso 1: Configuracion -->
+          <section id="simulacro-config" class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 lg:p-8">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+              <div>
+                <label class="block text-sm font-medium mb-1 text-gray-300" for="simulacro-tema">Tema</label>
+                <select id="simulacro-tema" class="field">
+                  <option value="Legislacion">Legislacion</option>
+                  <option value="Hidraulica">Hidraulica</option>
+                  <option value="Fuego">Fuego</option>
+                </select>
+              </div>
+              <div>
+                <label class="block text-sm font-medium mb-1 text-gray-300" for="simulacro-num-preguntas">Numero de preguntas</label>
+                <select id="simulacro-num-preguntas" class="field">
+                  <option value="5">5</option>
+                  <option value="10" selected>10</option>
+                  <option value="20">20</option>
+                </select>
+              </div>
+            </div>
+            <button type="button" id="btn-generar-simulacro" class="btn-primary w-full">
+              Generar Simulacro
             </button>
-          </div>
-        </section>
+          </section>
+
+          <!-- Paso 2 y 3: Test y correccion -->
+          <section id="simulacro-test" class="hidden bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 lg:p-8">
+            <div id="simulacro-preguntas" class="space-y-6"></div>
+
+            <button type="button" id="btn-corregir-simulacro" class="btn-primary w-full mt-6">
+              Corregir Examen
+            </button>
+
+            <div id="simulacro-resultado" class="hidden mt-6 text-center">
+              <p class="text-sm text-gray-400">Tu nota</p>
+              <div class="text-5xl font-bold bg-gradient-to-r from-orange-400 to-amber-300 bg-clip-text text-transparent" id="simulacro-nota">--</div>
+              <button type="button" id="btn-nuevo-simulacro" class="text-xs text-gray-500 hover:text-amber-400 underline underline-offset-2 transition mt-4">
+                Generar otro simulacro
+              </button>
+            </div>
+          </section>
+        </div>
       </div>
     </main>
   </div>

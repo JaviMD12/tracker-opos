@@ -45,7 +45,7 @@ function mostrarAuthGate() {
 function mostrarApp() {
   authGateEl.classList.add("hidden");
   appShellEl.classList.remove("hidden");
-  mostrarEstadoPro();
+  mostrarEstadoPremium();
   cargarDashboardGlobal();
   cargarHeatmap();
   procesarRetornoDePago();
@@ -272,13 +272,12 @@ tabButtons.forEach((btn) => {
   });
 });
 
-// Navegacion principal (SPA basica): Dashboard Analitico <-> Guia del Opositor <-> Plan Pro
+// Navegacion principal (SPA basica): Dashboard Analitico <-> Guia del Opositor <-> Zona Premium
 const navButtons = document.querySelectorAll(".nav-view-btn");
 const views = {
   dashboard: document.getElementById("view-dashboard"),
   guia: document.getElementById("view-guia"),
-  pro: document.getElementById("view-pro"),
-  simulacros: document.getElementById("view-simulacros"),
+  premium: document.getElementById("view-premium"),
 };
 
 function activarVista(nombre) {
@@ -290,8 +289,8 @@ function activarVista(nombre) {
     el.classList.toggle("hidden", nombreVista !== nombre);
   });
 
-  if (nombre === "pro" && proEstaDesbloqueado()) {
-    cargarPlanPro();
+  if (nombre === "premium" && proEstaDesbloqueado()) {
+    cargarZonaPremium();
   }
 }
 
@@ -299,15 +298,16 @@ navButtons.forEach((btn) => {
   btn.addEventListener("click", () => activarVista(btn.dataset.view));
 });
 
-// ---------- Plan Pro: muro de pago (simulado) ----------
+// ---------- Zona Premium: muro de pago (simulado) ----------
 // La clave se namespacea por usuario_id (extraido del JWT) para que dos
 // cuentas distintas en el mismo navegador no compartan el desbloqueo.
-const proLockedBox = document.getElementById("pro-locked");
-const proUnlockedBox = document.getElementById("pro-unlocked");
+// Un unico muro de pago para toda la Zona Premium (Tablon, Tutor IA,
+// Simulacros IA, grafica/entrenamiento): antes cada modulo llevaba su
+// propio candado y podian desincronizarse entre si (ver Bug 1 del tablon).
+const premiumLockedBox = document.getElementById("premium-locked");
+const premiumUnlockedBox = document.getElementById("premium-unlocked");
 const btnDesbloquear = document.getElementById("btn-desbloquear");
 const btnSimularPago = document.getElementById("btn-simular-pago");
-const simulacrosLockedBox = document.getElementById("simulacros-locked");
-const simulacrosUnlockedBox = document.getElementById("simulacros-unlocked");
 
 function clavePlanPro() {
   const usuarioId = obtenerUsuarioIdDesdeToken();
@@ -318,23 +318,17 @@ function proEstaDesbloqueado() {
   return localStorage.getItem(clavePlanPro()) === "true";
 }
 
-function desbloquearPro() {
+function desbloquearPremium() {
   localStorage.setItem(clavePlanPro(), "true");
-  proLockedBox.classList.add("hidden");
-  proUnlockedBox.classList.remove("hidden");
-  cargarPlanPro();
+  premiumLockedBox.classList.add("hidden");
+  premiumUnlockedBox.classList.remove("hidden");
+  cargarZonaPremium();
 }
 
-function mostrarEstadoPro() {
+function mostrarEstadoPremium() {
   const desbloqueado = proEstaDesbloqueado();
-  proLockedBox.classList.toggle("hidden", desbloqueado);
-  proUnlockedBox.classList.toggle("hidden", !desbloqueado);
-  // Simulacros IA comparte el mismo muro de pago que el resto del Plan Pro:
-  // la proteccion real esta en el backend (403 en /api/simulacros/generar
-  // si is_pro es False), esto solo evita ensenar el generador de forma
-  // inutil a quien no lo puede usar.
-  simulacrosLockedBox.classList.toggle("hidden", desbloqueado);
-  simulacrosUnlockedBox.classList.toggle("hidden", !desbloqueado);
+  premiumLockedBox.classList.toggle("hidden", desbloqueado);
+  premiumUnlockedBox.classList.toggle("hidden", !desbloqueado);
 }
 
 async function iniciarCheckoutStripe(boton) {
@@ -363,10 +357,7 @@ async function iniciarCheckoutStripe(boton) {
 }
 
 btnDesbloquear.addEventListener("click", () => iniciarCheckoutStripe(btnDesbloquear));
-
-const btnDesbloquearSimulacros = document.getElementById("btn-desbloquear-simulacros");
-btnDesbloquearSimulacros.addEventListener("click", () => iniciarCheckoutStripe(btnDesbloquearSimulacros));
-btnSimularPago.addEventListener("click", desbloquearPro);
+btnSimularPago.addEventListener("click", desbloquearPremium);
 
 // ---------- Plan Pro: Portal de Cliente de Stripe (gestion de suscripcion) ----------
 const btnGestionarSuscripcion = document.getElementById("btn-gestionar-suscripcion");
@@ -426,9 +417,9 @@ function procesarRetornoDePago() {
   if (!pago) return;
 
   if (pago === "exito") {
-    desbloquearPro();
-    activarVista("pro");
-    mostrarToast("¡Bienvenido al Plan Pro! Ya tienes acceso a tus graficas y rutinas.", "success");
+    desbloquearPremium();
+    activarVista("premium");
+    mostrarToast("¡Bienvenido a la Zona Premium! Ya tienes acceso a todos los modulos.", "success");
   } else if (pago === "cancelado") {
     mostrarToast("El pago no se ha completado. Puedes intentarlo de nuevo cuando quieras.", "error");
   }
@@ -441,20 +432,36 @@ function procesarRetornoDePago() {
 
 let graficaEvolucion = null;
 
+// Estado Vacio: se usa tanto cuando el usuario aun no tiene registros como
+// cuando la peticion falla, para que la grafica nunca se quede rota o en
+// blanco sin explicacion (ver Bug 2 del refactor de UI).
+function mostrarEstadoVacioGrafica(mensaje) {
+  const canvas = document.getElementById("grafica-evolucion");
+  const vaciaMsg = document.getElementById("grafica-vacia");
+  canvas.classList.add("hidden");
+  vaciaMsg.textContent = mensaje;
+  vaciaMsg.classList.remove("hidden");
+}
+
 async function cargarGraficaEvolucion() {
   const canvas = document.getElementById("grafica-evolucion");
   const vaciaMsg = document.getElementById("grafica-vacia");
+
   try {
     const res = await fetchAutenticado("/api/dashboard/evolucion");
-    if (!res.ok) return;
+    if (!res.ok) {
+      mostrarEstadoVacioGrafica("No se pudo cargar tu evolucion ahora mismo. Intentalo de nuevo en unos minutos.");
+      return;
+    }
+
     const data = await res.json();
     const puntos = data.puntos || [];
 
     if (puntos.length === 0) {
-      canvas.classList.add("hidden");
-      vaciaMsg.classList.remove("hidden");
+      mostrarEstadoVacioGrafica("Registra tus primeras marcas fisicas para visualizar tu evolucion.");
       return;
     }
+
     canvas.classList.remove("hidden");
     vaciaMsg.classList.add("hidden");
 
@@ -508,6 +515,7 @@ async function cargarGraficaEvolucion() {
     });
   } catch (err) {
     console.error("No se pudo cargar la evolucion", err);
+    mostrarEstadoVacioGrafica("No se pudo cargar tu evolucion ahora mismo. Intentalo de nuevo en unos minutos.");
   }
 }
 
@@ -635,37 +643,27 @@ async function cargarTecnicasEstudio() {
   }
 }
 
-// ---------- Plan Pro: Tablon de Plazas en Tiempo Real ----------
+// ---------- Zona Premium: Tablon de Plazas en Tiempo Real ----------
 const tablonContenido = document.getElementById("tablon-convocatorias-contenido");
-const tablonBloqueado = document.getElementById("tablon-bloqueado");
-const btnDesbloquearTablon = document.getElementById("btn-desbloquear-tablon");
 
-btnDesbloquearTablon.addEventListener("click", () => iniciarCheckoutStripe(btnDesbloquearTablon));
-
-function pintarConvocatorias(convocatorias, bloqueado) {
+function pintarConvocatorias(convocatorias) {
   tablonContenido.innerHTML = convocatorias
     .map(
       (c) => `
-      <article class="convocatoria-card${bloqueado ? " tablon-blur" : ""}">
+      <article class="convocatoria-card">
         <p class="convocatoria-titulo">${c.titulo_plaza}</p>
         <p class="convocatoria-meta">${c.organismo_localidad}</p>
         <span class="convocatoria-plazo">${
           c.plazo_dias != null ? `Quedan ${c.plazo_dias} dias` : "Plazo no especificado"
         }</span>
         <p class="convocatoria-requisitos">${c.requisitos_minimos ?? "Sin requisitos detallados"}</p>
-        ${
-          bloqueado
-            ? ""
-            : `
         <button type="button" class="btn-plan-ia" data-convocatoria-id="${c.id}">
           &#9889; Generar Plan de Estudio IA
         </button>
-        <div class="plan-ia-contenido hidden"></div>`
-        }
+        <div class="plan-ia-contenido hidden"></div>
       </article>`
     )
     .join("");
-  tablonBloqueado.classList.toggle("hidden", !bloqueado);
 }
 
 // Delegacion de eventos: las tarjetas se regeneran en cada carga del tablon,
@@ -708,48 +706,34 @@ tablonContenido.addEventListener("click", async (event) => {
   }
 });
 
-// Datos de ejemplo solo para dar forma al tablon cuando esta bloqueado
-// (blureados, nunca legibles): el usuario no-Pro no recibe datos reales.
-const CONVOCATORIAS_EJEMPLO_BLOQUEADO = [
-  {
-    titulo_plaza: "Bombero/a - Consorcio Provincial",
-    organismo_localidad: "Diputacion Provincial - Localidad de ejemplo",
-    plazo_dias: 15,
-    requisitos_minimos: "Requisito de ejemplo, requisito de ejemplo.",
-  },
-  {
-    titulo_plaza: "Bombero/a Conductor",
-    organismo_localidad: "Ayuntamiento - Localidad de ejemplo",
-    plazo_dias: 9,
-    requisitos_minimos: "Requisito de ejemplo, requisito de ejemplo.",
-  },
-];
-
 async function cargarTablonConvocatorias() {
   try {
     const res = await fetchAutenticado("/api/convocatorias");
 
     if (res.status === 403) {
-      pintarConvocatorias(CONVOCATORIAS_EJEMPLO_BLOQUEADO, true);
+      // La Zona Premium ya se muestra desbloqueada en local (proEstaDesbloqueado
+      // dio true), pero el backend -la fuente real de verdad para is_pro- dice
+      // lo contrario. No se pinta ninguna capa/CTA de bloqueo sobre las plazas
+      // (ver Bug 1 del refactor de UI): solo un aviso de texto, sin duplicar el
+      // muro de pago que ya vive en la Zona Premium.
+      tablonContenido.innerHTML = `<p class="text-gray-500">No se pudo verificar tu Plan Pro para el Tablon. Si acabas de pagar, recarga la pagina en unos segundos.</p>`;
       return;
     }
 
     if (!res.ok) {
       tablonContenido.innerHTML = `<p class="text-gray-500">No se pudo cargar el tablon de convocatorias.</p>`;
-      tablonBloqueado.classList.add("hidden");
       return;
     }
 
     const data = await res.json();
-    pintarConvocatorias(data, false);
+    pintarConvocatorias(data);
   } catch (err) {
     console.error("No se pudo cargar el tablon de convocatorias", err);
     tablonContenido.innerHTML = `<p class="text-gray-500">No se pudo conectar con el backend.</p>`;
-    tablonBloqueado.classList.add("hidden");
   }
 }
 
-function cargarPlanPro() {
+function cargarZonaPremium() {
   cargarGraficaEvolucion();
   cargarEntrenamientoEspecifico();
   cargarTecnicasEstudio();
