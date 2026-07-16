@@ -10,6 +10,7 @@ from apscheduler.schedulers.background import BackgroundScheduler  # noqa: E402
 from apscheduler.triggers.cron import CronTrigger  # noqa: E402
 from fastapi import FastAPI  # noqa: E402
 from fastapi.staticfiles import StaticFiles  # noqa: E402
+from sqlalchemy import inspect, text  # noqa: E402
 from starlette.middleware.sessions import SessionMiddleware  # noqa: E402
 
 from app.database import Base, engine  # noqa: E402
@@ -38,6 +39,19 @@ from app.services.scraper_boletines import ejecutar_scraping_boletines  # noqa: 
 from app.services.security import SECRET_KEY  # noqa: E402
 
 Base.metadata.create_all(bind=engine)
+
+
+def _asegurar_columna(tabla: str, columna: str, tipo_sql: str) -> None:
+    """create_all no anade columnas a tablas que ya existen. Sin Alembic,
+    esto asegura que columnas nuevas (ej. stripe_customer_id) esten presentes
+    en bases de datos creadas antes de este cambio, sin borrar/recrear la BD."""
+    columnas_existentes = {c["name"] for c in inspect(engine).get_columns(tabla)}
+    if columna not in columnas_existentes:
+        with engine.begin() as conn:
+            conn.execute(text(f"ALTER TABLE {tabla} ADD COLUMN {columna} {tipo_sql}"))
+
+
+_asegurar_columna("usuarios", "stripe_customer_id", "VARCHAR")
 
 app = FastAPI(title="Tracker Analitico de Oposiciones")
 

@@ -12,6 +12,7 @@ class Usuario(Base):
     email = Column(String, unique=True, index=True, nullable=False)
     hashed_password = Column(String, nullable=False)
     is_pro = Column(Boolean, nullable=False, default=False)
+    stripe_customer_id = Column(String, nullable=True)
     fecha_registro = Column(DateTime(timezone=True), nullable=False, server_default=func.now())
 
     marcas_fisicas = relationship(

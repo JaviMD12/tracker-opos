@@ -75,11 +75,47 @@ async def webhook_stripe(request: Request, db: Session = Depends(get_db)):
         raise HTTPException(status_code=400, detail="Webhook de Stripe invalido") from exc
 
     if evento.get("type") == "checkout.session.completed":
-        usuario_id = evento.get("data", {}).get("object", {}).get("client_reference_id")
+        sesion = evento.get("data", {}).get("object", {})
+        usuario_id = sesion.get("client_reference_id")
         if usuario_id:
             usuario = db.query(Usuario).filter(Usuario.id == int(usuario_id)).first()
             if usuario:
                 usuario.is_pro = True
+                # Necesario para poder abrir despues el Portal de Cliente de
+                # Stripe (POST /api/pagos/portal), que requiere el customer id.
+                stripe_customer_id = sesion.get("customer")
+                if stripe_customer_id:
+                    usuario.stripe_customer_id = stripe_customer_id
                 db.commit()
 
     return {"received": True}
+
+
+@router.post("/portal")
+def crear_sesion_portal(
+    request: Request, current_user: Usuario = Depends(get_current_user)
+):
+    """Crea una sesion del Portal de Cliente de Stripe para que el usuario
+    gestione tarjeta, facturas y cancelacion de su suscripcion de forma
+    autonoma, sin pasar por soporte."""
+    if not current_user.stripe_customer_id:
+        raise HTTPException(
+            status_code=400,
+            detail=(
+                "No se encontro un cliente de Stripe asociado a esta cuenta. "
+                "Si pagaste antes de esta actualizacion, contacta con soporte."
+            ),
+        )
+
+    try:
+        session = stripe.billing_portal.Session.create(
+            customer=current_user.stripe_customer_id,
+            return_url=request.headers.get("referer", DOMINIO_APP),
+        )
+    except stripe.error.StripeError as exc:
+        raise HTTPException(
+            status_code=502,
+            detail=f"No se pudo abrir el portal de Stripe: {exc.user_message or str(exc)}",
+        ) from exc
+
+    return {"url": session.url}

@@ -368,6 +368,36 @@ const btnDesbloquearSimulacros = document.getElementById("btn-desbloquear-simula
 btnDesbloquearSimulacros.addEventListener("click", () => iniciarCheckoutStripe(btnDesbloquearSimulacros));
 btnSimularPago.addEventListener("click", desbloquearPro);
 
+// ---------- Plan Pro: Portal de Cliente de Stripe (gestion de suscripcion) ----------
+const btnGestionarSuscripcion = document.getElementById("btn-gestionar-suscripcion");
+
+async function iniciarPortalStripe(boton) {
+  const textoOriginal = boton.textContent;
+  boton.disabled = true;
+  boton.textContent = "Abriendo portal...";
+
+  try {
+    const res = await fetchAutenticado("/api/pagos/portal", { method: "POST" });
+    const data = await res.json();
+
+    if (!res.ok) {
+      mostrarToast(data.detail ?? "No se pudo abrir el portal de suscripcion.", "error");
+      boton.disabled = false;
+      boton.textContent = textoOriginal;
+      return;
+    }
+
+    window.location.href = data.url;
+  } catch (err) {
+    console.error("No se pudo abrir el portal de Stripe", err);
+    mostrarToast("No se pudo conectar con el backend de pagos.", "error");
+    boton.disabled = false;
+    boton.textContent = textoOriginal;
+  }
+}
+
+btnGestionarSuscripcion.addEventListener("click", () => iniciarPortalStripe(btnGestionarSuscripcion));
+
 // ---------- Toasts ----------
 function mostrarToast(mensaje, tipo = "info") {
   let contenedor = document.getElementById("toast-container");
