@@ -16,7 +16,7 @@ router = APIRouter(prefix="/api/pagos", tags=["pagos"])
 stripe.api_key = os.environ.get("STRIPE_SECRET_KEY")
 STRIPE_WEBHOOK_SECRET = os.environ.get("STRIPE_WEBHOOK_SECRET")
 
-DOMINIO_APP = os.environ.get("DOMINIO_APP", "http://localhost:8000")
+DOMINIO_APP = os.environ.get("DOMINIO_APP", "https://opotracker.tech")
 PRECIO_PLAN_PRO_CENTIMOS = 999  # 9,99 EUR
 
 
