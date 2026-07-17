@@ -40,6 +40,12 @@ def crear_sesion_checkout(current_user: Usuario = Depends(get_current_user)):
             # Permite identificar al usuario en el webhook de confirmacion
             # (checkout.session.completed), que no lleva JWT propio.
             client_reference_id=str(current_user.id),
+            # En mode="payment" (pago unico) Stripe NO crea un Customer por
+            # defecto -- sin esto, el webhook nunca recibe un "customer" que
+            # guardar en stripe_customer_id, y el Portal de Cliente
+            # (POST /api/pagos/portal) no tiene forma de identificar al
+            # usuario en Stripe aunque is_pro se haya activado bien.
+            customer_creation="always",
             success_url=f"{DOMINIO_APP}/?pago=exito",
             cancel_url=f"{DOMINIO_APP}/?pago=cancelado",
         )
