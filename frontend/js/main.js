@@ -308,7 +308,6 @@ navButtons.forEach((btn) => {
 const premiumLockedBox = document.getElementById("premium-locked");
 const premiumUnlockedBox = document.getElementById("premium-unlocked");
 const btnDesbloquear = document.getElementById("btn-desbloquear");
-const btnSimularPago = document.getElementById("btn-simular-pago");
 
 function clavePlanPro() {
   const usuarioId = obtenerUsuarioIdDesdeToken();
@@ -358,7 +357,6 @@ async function iniciarCheckoutStripe(boton) {
 }
 
 btnDesbloquear.addEventListener("click", () => iniciarCheckoutStripe(btnDesbloquear));
-btnSimularPago.addEventListener("click", desbloquearPremium);
 
 // ---------- Plan Pro: Portal de Cliente de Stripe (gestion de suscripcion) ----------
 const btnGestionarSuscripcion = document.getElementById("btn-gestionar-suscripcion");
