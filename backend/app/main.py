@@ -59,7 +59,18 @@ app = FastAPI(title="Tracker Analitico de Oposiciones")
 
 # Requerido por Authlib para guardar el state/nonce del login con Google entre
 # la redireccion a accounts.google.com y la vuelta a /api/auth/google/callback.
-app.add_middleware(SessionMiddleware, secret_key=SECRET_KEY)
+# https_only=True: en produccion siempre se sirve por HTTPS (detras del
+# proxy), asi que la cookie de sesion se marca "Secure" explicitamente en vez
+# de depender del valor por defecto (False). same_site="lax" (ya es el valor
+# por defecto, se deja explicito a proposito): permite que la cookie viaje en
+# la redireccion GET de vuelta desde accounts.google.com -- es exactamente el
+# caso que SameSite=Lax esta diseñado para permitir, "strict" la bloquearia.
+app.add_middleware(
+    SessionMiddleware,
+    secret_key=SECRET_KEY,
+    same_site="lax",
+    https_only=True,
+)
 
 app.include_router(actividad.router)
 app.include_router(auth.router)

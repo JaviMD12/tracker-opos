@@ -23,7 +23,7 @@ from app.services.security import (
 
 router = APIRouter(prefix="/api/auth", tags=["auth"])
 
-DOMINIO_APP = "http://localhost:8000"
+DOMINIO_APP = os.environ.get("DOMINIO_APP", "https://opotracker.tech")
 WEBHOOK_RECUPERACION_URL = os.environ.get("WEBHOOK_RECUPERACION_URL")
 
 
