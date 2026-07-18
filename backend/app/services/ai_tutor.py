@@ -10,19 +10,22 @@ Todo se trocea con `RecursiveCharacterTextSplitter` (chunks de 1000 caracteres,
 solapamiento de 200) antes de indexarse en Chroma.
 
 El indice se persiste en disco en `backend/chroma_db_data/` (ver
-CARPETA_PERSISTENCIA_VECTORSTORE): la primera vez que se usa el Tutor IA o los
-Simulacros tras un `git clone` (o si se borra esa carpeta) se reconstruye
-leyendo los PDFs y llamando a OpenAI para los embeddings, lo cual tarda 1-2
-minutos con el volumen actual de documentos; en cualquier arranque posterior,
-se carga directamente desde disco en menos de 2 segundos, sin volver a leer
-los PDFs ni gastar llamadas a OpenAI. Tutor IA y Simulacros comparten la misma
-instancia (_vectorstore, con inicializacion perezosa: no se llama a OpenAI ni
-se toca el disco hasta la primera pregunta/generacion, para que el resto de la
-aplicacion siga funcionando aunque la clave de API no este configurada
-todavia).
+CARPETA_PERSISTENCIA_VECTORSTORE): la primera vez que se usa el Tutor IA tras
+un `git clone` (o si se borra esa carpeta) se reconstruye leyendo los PDFs y
+llamando a OpenAI para los embeddings, lo cual tarda 1-2 minutos con el
+volumen actual de documentos; en cualquier arranque posterior, se carga
+directamente desde disco en menos de 2 segundos, sin volver a leer los PDFs
+ni gastar llamadas a OpenAI (_vectorstore, con inicializacion perezosa: no se
+llama a OpenAI ni se toca el disco hasta la primera pregunta, para que el
+resto de la aplicacion siga funcionando aunque la clave de API no este
+configurada todavia).
+
+Nota: los Simulacros IA ya NO usan este vectorstore -- se sirven desde un
+banco de preguntas precargado (ver app/models/pregunta_test.py y
+backend/generar_banco.py), para que la respuesta al frontend sea una consulta
+SQL en vez de una llamada a OpenAI en cada peticion.
 """
 
-import json
 from pathlib import Path
 
 from langchain_chroma import Chroma
@@ -263,41 +266,3 @@ def generar_plan_estudio_convocatoria(titulo_plaza: str, requisitos_minimos: str
     return respuesta.content
 
 
-SYSTEM_PROMPT_SIMULACRO = (
-    "Eres un tribunal oficial de oposiciones de bomberos y emergencias. Tu "
-    "objetivo es generar un examen tipo test a partir del temario oficial. "
-    "Usa vocabulario técnico preciso (por ejemplo, usa 'hidrante' en lugar de "
-    "términos genéricos como 'aparato'). Debes devolver ÚNICAMENTE un objeto "
-    'JSON válido con esta estructura exacta: {"preguntas": [{"pregunta": '
-    '"texto", "opciones": ["A", "B", "C", "D"], "correcta": 0, "explicacion": '
-    '"Por qué es correcta"}]}. El campo \'correcta\' es el índice (0 a 3) de '
-    "la respuesta válida."
-)
-
-
-def generar_simulacro_test(tema: str, num_preguntas: int) -> dict:
-    """Genera un examen tipo test (RAG + gpt-4o-mini) sobre un tema del
-    temario, reutilizando el mismo vectorstore que el Tutor IA (rutinas,
-    tecnicas de estudio y documentos de conocimiento) como contexto."""
-    vectorstore = _obtener_vectorstore()
-    fragmentos = vectorstore.similarity_search(tema, k=FRAGMENTOS_A_RECUPERAR)
-    contexto = "\n\n---\n\n".join(doc.page_content for doc in fragmentos)
-
-    user_prompt = (
-        f"Tema: {tema}\n"
-        f"Numero de preguntas a generar: {num_preguntas}\n\n"
-        "Contexto disponible del temario:\n"
-        f"{contexto or '(sin contexto adicional; usa tu conocimiento general del temario oficial de oposiciones de bomberos)'}"
-    )
-
-    llm = ChatOpenAI(
-        model=MODELO_CHAT,
-        temperature=0.4,
-        model_kwargs={"response_format": {"type": "json_object"}},
-    )
-    mensajes = [
-        SystemMessage(content=SYSTEM_PROMPT_SIMULACRO),
-        HumanMessage(content=user_prompt),
-    ]
-    respuesta = llm.invoke(mensajes)
-    return json.loads(respuesta.content)

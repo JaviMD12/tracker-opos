@@ -6,12 +6,13 @@ from app.database import Base
 
 
 class ResultadoSimulacro(Base):
-    """Resultado de un simulacro tipo test generado por IA (Plan Pro).
+    """Resultado de un simulacro tipo test (Plan Pro), servido desde el banco
+    de preguntas precargado (ver `models.pregunta_test.PreguntaTest`).
 
     Distinto de `SimulacroTeorico` (el autoinforme manual de aciertos/fallos/
     blancos del dashboard gratuito): este modelo registra las notas de los
-    examenes generados por `services.ai_tutor.generar_simulacro_test`, para
-    alimentar en el futuro el dashboard con la evolucion por tema.
+    examenes generados a partir de ese banco, para alimentar en el futuro el
+    dashboard con la evolucion por tema.
     """
 
     __tablename__ = "resultados_simulacro"

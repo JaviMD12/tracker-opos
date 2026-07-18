@@ -16,6 +16,7 @@ from starlette.middleware.sessions import SessionMiddleware  # noqa: E402
 from app.database import Base, engine  # noqa: E402
 from app.models.convocatoria import Convocatoria  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.marca import MarcaFisica  # noqa: F401,E402 (registra el modelo en Base)
+from app.models.pregunta_test import PreguntaTest  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.resultado_simulacro import ResultadoSimulacro  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.sesion_estudio import SesionEstudio  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.simulacro import SimulacroTeorico  # noqa: F401,E402 (registra el modelo en Base)
