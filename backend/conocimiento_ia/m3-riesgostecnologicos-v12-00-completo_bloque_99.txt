@@ -1,0 +1,68 @@
+# Parte 6. Riesgo eléctrico
+
+## 1. Caracterización
+
+### b) Transformador
+- **Tipos de transformadores:**
+  - **De aceite:** Puede contener piralenos, que son tóxicos y cancerígenos. Su retirada es obligatoria en España por mandato legislativo.
+  - **Seco:** Bobinas cubiertas con resina epoxi, auto-extinguible en caso de incendio.
+
+### c) Cuadro de baja tensión
+- Elementos:
+  - Interruptor conectado a la salida del secundario del transformador.
+  - Aparatos de medida en baja tensión.
+  - Interruptores de salida en la línea de baja tensión.
+
+## 2. Centros de transformación en plantas industriales
+- **Características:**
+  - Demandas de energía elevadas, tensiones superiores a la nominal de servicio.
+  - Acometida siempre trifásica para edificios de gran consumo.
+  - Instalación interior de alumbrado conectada en monofásico, equilibrando las fases de entrada.
+
+## 3. Centros de transformación de vías férreas
+- **Tensiones:**
+  - Generalmente 3 kV, hasta 20-25 kV en alta velocidad (corriente alterna, 50 Hz).
+- **Catenaria:** Conjunto de cables alimentadores y elementos de tracción.
+- **Protecciones:**
+  - **Corriente continua:**
+    - Cable tierra, descargadores de sobretensiones, tomas de tierra, conexiones equipotenciales, viseras, pantallas y barreras mecánicas.
+  - **Corriente alterna:**
+    - Similar a continua, con adición de frenos y bloqueos.
+
+## 4. Centros de transformación de instalaciones de alumbrado público
+- **Características:**
+  - Instalación sobre fachadas o subterránea, formando una red mallada.
+  - Cada lámpara tiene fusible de protección.
+  - Distribución de farolas por fase para equilibrio del sistema.
+
+## 5. Instalaciones de enlace
+- **Definición:** Conexión entre la red de distribución y las instalaciones interiores.
+- **Elementos:**
+  - **Acometida:** Parte entre la red de distribución y la caja general de protección (CGP).
+  - **Caja general de protección (CGP):** Aloja elementos de protección, única por cada 160 kW o fracción.
+  - **Línea general de alimentación (LGA):** Conecta CGP con centralización de contadores.
+  - **Contadores centralizados:** Miden el consumo total de energía.
+
+## 6. Grado de electrificación de la vivienda
+- **Definición:** Carga eléctrica que soporta la instalación eléctrica.
+- **Cálculo:** Suma de potencias de elementos receptores, con reducción del 40%.
+- **Grados de electrificación:**
+  - **Básico:** Potencias no inferiores a 5.750 W a 230 V.
+  - **Elevado:** Potencias no inferiores a 9.200 W a 230 V.
+
+## 7. Medidas de seguridad con riesgo eléctrico
+- **Importancia:** Prevención de accidentes eléctricos en industrias y hogares.
+- **Tensión peligrosa:** La muerte puede ocurrir con tensiones a partir de 60 V.
+- **Tipos de contacto eléctrico:**
+  - **Directo:** Tocar un conductor eléctrico.
+  - **Indirecto:** Tocar un elemento en contacto con la fuente eléctrica.
+
+### 7.1. Medidas de protección
+- **Clase A:** Impiden el paso de corriente eléctrica.
+- **Clase B:** Corte automático de corriente en caso de defectos.
+
+## Datos técnicos clave
+- **Tensiones en vías férreas:** 3 kV (normal), 20-25 kV (alta velocidad).
+- **Grado de electrificación básico:** 5.750 W a 230 V.
+- **Grado de electrificación elevado:** 9.200 W a 230 V.
+- **Tensión de red eléctrica en España:** 220 V CA.

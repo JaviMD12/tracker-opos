@@ -1,0 +1,92 @@
+# Estabilización de Estructuras
+
+## Intervención en Edificaciones
+
+### Requisitos Previos
+- **Conocimiento técnico básico** de la construcción.
+- **Técnicas específicas** y adecuadas de intervención.
+- **Valoración y análisis** de la estabilización de edificaciones afectadas.
+- **Planteamiento táctico** de intervención.
+
+### Recursos Necesarios
+- 1 Mando de Intervención (MI)
+- 1 Jefe de Dotación (CJD)
+- 4 Bomberos (BB)
+- 1 Bomba pesada
+- 1 Vehículo de apeos
+
+## Caso Práctico 1: Estabilización de un Muro de Contención
+
+### Descripción del Muro
+- **Altura máxima del relleno**: 5 metros.
+- **Longitud del muro**: 20 metros.
+- **Condición actual**: Muro roto, girando hacia la calle.
+
+### Esquema Estructural
+- **Fase 0**: Estructura hiperestática de grado 3.
+- **Fase 1**: Estructura isostática.
+- **Fase 2**: Mecanismo de grado 1 (riesgo de colapso inminente).
+
+### Causas del Problema
+- **Sobrecargas**:
+  - Peso de la piscina llena de agua.
+  - Empuje horizontal del terreno en el trasdós del muro.
+
+### Objetivos de la Intervención
+- **Evacuación de la vivienda** y clausura de la parcela.
+- **Cerramiento y balizamiento** de la vía pública a una distancia no inferior a 2h (h = altura del muro).
+- **Estabilización del muro**: asegurar la fase 1, descargar el muro, demoler y reconstruir.
+
+### Cargas a Estabilizar
+- **Peso del agua**: debe eliminarse completamente (vaciar piscina).
+- **Empuje del terreno**: 
+  - Grava o arena: 3.3 kN/m² por cada metro de profundidad.
+
+### Técnicas de Estabilización
+- **Apeo estandarizado** para muros de hasta 6 metros de altura.
+- **Resistencia del apeo**:
+  - Con Puntales A30: 25 kN.
+  - Con doble tablón embridado C18: 35 kN.
+
+### Cálculo de Conjuntos Estructurales
+- **Opción 1**: Puntales A30
+  - Distancia (d) = 25 kN / (3.3 kN/m² x 5 m) = 1.50 m.
+  - Total: 8 unidades de conjuntos estructurales.
+  
+- **Opción 2**: Doble tablón embridado C18
+  - Distancia (d) = 35 kN / (3.3 kN/m² x 5 m) = 2.10 m.
+  - Total: 6 unidades de conjuntos estructurales.
+
+## Caso Práctico 2: Estabilidad de Taludes Artificiales
+
+### Descripción
+- Se ha levantado un nuevo muro de hormigón armado de 1.5 metros de altura con un terraplén de inclinación de 60º.
+
+### Objetivos
+- **Evacuación de la vivienda** y clausura de la parcela.
+- **Cerramiento y balizamiento** de la vía pública a una distancia de 2h.
+
+### Análisis de Estabilidad
+- El ángulo natural de rozamiento no debe superar los 30º.
+- Opciones para estabilidad:
+  - Desmontar parcialmente el talud.
+  - Aumentar la altura del muro.
+
+## Caso Práctico 3: Estabilización de Rotación de Fachada
+
+### Descripción
+- Un bloque de viviendas sufre rotación externa del muro de carga de fachada.
+
+### Esquema Estructural
+- **Fase 0**: Estructura hiperestática de grado 1.
+- **Fase 1**: Estructura isostática.
+- **Fase 2**: Mecanismo (riesgo de colapso).
+
+### Causas
+- Fallo de los nudos entre la cubierta y los muros debido a pudrición de viguetas.
+
+### Objetivos
+- **Evacuación del bloque de viviendas** y cierre de la calle bajo el muro.
+
+### Consideraciones Finales
+- La intervención debe ser rápida y efectiva para garantizar la seguridad de los ocupantes y transeúntes.

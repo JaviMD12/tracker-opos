@@ -1,0 +1,83 @@
+# Propiedades de los Fluidos
+
+Dentro de la mecánica, la hidráulica estudia las propiedades mecánicas de los fluidos en función de sus propiedades específicas y de las fuerzas y condiciones a las que pueden estar sometidos.
+
+## 1.1. Masa
+- **Definición**: Cantidad de materia que posee un cuerpo.
+- **Unidad**: Kilogramo (kg).
+
+## 1.2. Densidad
+- **Definición**: Cantidad de masa en un determinado volumen de una sustancia.
+- **Símbolo**: ρ
+- **Unidades**: kg/m³
+
+## 1.3. Peso Específico
+- **Definición**: Relación entre el peso de un cuerpo y el volumen que ocupa.
+- **Símbolo**: γ
+- **Unidades**: N/m³
+
+## 1.4. Densidad Relativa y Peso Específico Relativo
+- **Definición**: Comparación de los valores absolutos de densidad y peso específico con los de una sustancia patrón (agua a 4ºC y 1 atm).
+
+## 1.5. Viscosidad
+- **Definición**: Oposición de un fluido a las deformaciones tangenciales, debido a las fuerzas de cohesión molecular.
+- **Símbolo**: μ
+- **Características**:
+  - Se manifiesta en líquidos en movimiento.
+  - Relación entre el esfuerzo cortante y el gradiente de velocidad.
+- **Fluido Ideal**: Carece de viscosidad.
+
+### Tabla 1. Densidades Relativas
+- Mercurio: 13,6
+- Hierro: 7,8
+- Grava: 2,2
+- Hielo: 0,85
+- Aceite: 0,8
+- Madera: 0,5
+
+## 1.6. Presión de Vapor
+- **Definición**: Presión en la que la fase líquida y el vapor se encuentran en equilibrio dinámico a una temperatura concreta.
+- **Ejemplo**: 
+  - A 15 ºC: 0,0173 kgf/cm²
+  - A 100 ºC: 1,033 bares
+
+### Tabla 2. Presión de Vapor de Agua
+| Tª (ºC) | PVapor (kg/cm²) |
+|---------|------------------|
+| 0       | 0,006            |
+| 10      | 0,012            |
+| 20      | 0,023            |
+| 30      | 0,043            |
+| 40      | 0,075            |
+| 50      | 0,125            |
+| 60      | 0,203            |
+| 70      | 0,317            |
+| 80      | 0,482            |
+| 90      | 0,714            |
+| 100     | 1,033            |
+
+## 1.7. Tensión Superficial
+- **Definición**: Cantidad de energía necesaria para aumentar la superficie de un líquido por unidad de área.
+- **Características**:
+  - Manifiesta las fuerzas intermoleculares en los líquidos.
+  - Explica la formación de gotas en los líquidos.
+
+# 2. Hidrostática
+La hidrostática estudia los fluidos en estado de equilibrio. Para que un fluido esté en equilibrio, no deben existir fuerzas que alteren su movimiento o posición.
+
+## 2.1. Presión
+- **Definición**: Proyección de la fuerza en dirección perpendicular por unidad de superficie.
+- **Símbolo**: p
+- **Unidad**: Pascal (Pa)
+
+### Presión Atmosférica
+- **Definición**: Presión que ejerce la atmósfera sobre cualquier punto de la superficie terrestre.
+- **Equivalencia**:
+  - 1 ATM = 1,033 kg/cm²
+  - 1 bar = 1,019 kg/cm²
+  - 1 ATM = 10,33 m.c.a.
+  - 1 bar = 100000 Pa
+
+## 2.2. Ecuación Fundamental de la Hidrostática
+- **Definición**: Ecuación de equilibrio de una masa líquida.
+- **Descripción**: La diferencia de presiones entre dos puntos en una columna de líquido está dada por el peso de la columna de líquido.

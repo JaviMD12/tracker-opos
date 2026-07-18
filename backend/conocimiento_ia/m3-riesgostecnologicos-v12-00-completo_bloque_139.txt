@@ -1,0 +1,112 @@
+# Glosario
+
+## Definiciones Técnicas
+
+- **Cisterna cerrada herméticamente**: 
+  - Destinada al transporte de líquidos con una presión de cálculo de al menos **4 bar**.
+  - Puede transportar materias sólidas (pulverulentas o granulares) sin importar su presión de cálculo.
+  - Aberturas que se pueden cerrar herméticamente.
+
+- **Clases ADR**: 
+  - 13 grupos que clasifican mercancías peligrosas según sus características y peligros.
+
+- **Comburente**: 
+  - Sustancia que aporta oxígeno a la combustión.
+
+- **Combustible**: 
+  - Sustancia capaz de reaccionar y producir calor o energía.
+
+- **Condiciones normales**: 
+  - Medidas a **1 atm** y **21º C**.
+
+- **Contaminación radiactiva**: 
+  - Presencia de sustancias radiactivas > **0.4 Bq/cm²**.
+
+- **Densidad**: 
+  - Relación entre masa y volumen (g/cm³).
+
+- **Densidad relativa**: 
+  - Comparativa entre densidades, adimensional.
+
+- **Detectores de gases**: 
+  - Aparato que emite señal óptica o acústica al detectar gas en el ambiente.
+
+- **Detonación**: 
+  - Velocidad de propagación de ondas de presión > **340 m/s**.
+
+- **Diamante de peligro**: 
+  - Sistema de identificación de productos químicos peligrosos (NFPA).
+
+- **Efecto dominó**: 
+  - Concatenación de efectos que aumenta las consecuencias de un incidente.
+
+- **Espuma**: 
+  - Agente extintor que forma una capa sobre el combustible, impidiendo el contacto con el oxígeno.
+
+- **Gas inflamable**: 
+  - A **20° C** y **101.3 kPa**:
+    - Inflamabilidad en mezclas de hasta **13%** con aire.
+    - Franja de inflamabilidad mínima de **12 puntos de porcentaje**.
+
+- **GLP (Gases licuados del petróleo)**: 
+  - Mezcla de propano y butano.
+
+- **LII (Límite Inferior de Inflamabilidad)**: 
+  - Concentración mínima de vapor/gas en aire para propagación de llama, por ejemplo, **2.6%** de vapor de acetona en aire.
+
+- **Materias autorreactivas**: 
+  - Térmicamente inestables que pueden descomponerse de forma exotérmica sin oxígeno.
+
+- **Materias pirofóricas**: 
+  - Productos susceptibles de inflamación espontánea.
+
+## Equipos y Componentes
+
+- **Contador**: 
+  - Equipo de medida de energía eléctrica.
+
+- **Cuadro de mando y protección**: 
+  - Cuadro eléctrico con protecciones como ICP, ID y PIA.
+
+- **Interruptor de Control de Potencia (ICP)**: 
+  - Limita el consumo contratado.
+
+- **Interruptor Diferencial (ID)**: 
+  - Corta la corriente ante una derivación a tierra.
+
+- **Interruptor General Automático (IGA)**: 
+  - Corta la corriente de entrada al cuadro general.
+
+- **Galga rotativa**: 
+  - Proporciona medición precisa de GLP o amoníaco.
+
+## Seguridad y Protección
+
+- **Efracción**: 
+  - Resistencia a entradas forzadas.
+
+- **Elementos vulnerables**: 
+  - Personas, medio ambiente o bienes que pueden sufrir daños.
+
+- **Embalaje**: 
+  - Recipiente para retención de sustancias.
+
+- **Espumógeno**: 
+  - Producto que produce espuma para extinción de incendios.
+
+- **Estallido**: 
+  - Rotura de un recipiente por aumento de presión interior.
+
+- **Irradiación**: 
+  - Emisión de radiaciones, medida en roentgen, rad, sievert y rem.
+
+## Normativas y Códigos
+
+- **IATA**: 
+  - Asociación Internacional de Transporte Aéreo.
+
+- **IMDG**: 
+  - Código internacional de transporte de mercancías peligrosas por vía marítima.
+
+- **IMO**: 
+  - Organización Marítima Internacional.

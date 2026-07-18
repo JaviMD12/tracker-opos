@@ -1,0 +1,70 @@
+# Parte 2. Estructuras Colapsadas
+
+## 1. Antecedentes
+- **Colapso de elementos constructivos**: Activación de protocolos de bomberos con personal de guardia.
+- **Intervenciones en España**: Excepcionales, como el terremoto de Lorca.
+- **Zonas de alto riesgo**: Áreas con alta probabilidad de desastres naturales y sin medidas adecuadas se consideran de "alta vulnerabilidad".
+- **Equipos específicos**: BREC (Búsqueda y Rescate en Estructuras Colapsadas) y USAR (Urban Search and Rescue).
+
+## 2. Derrumbes
+### Definición
+- **Derrumbe**: Colapso y desprendimiento total o parcial de una construcción.
+
+### 2.1. Derrumbes por causas naturales
+- **Desastre natural**: Fenómenos que superan umbrales de normalidad (ej. escala Richter para sismos).
+
+#### 2.1.1. Terremoto
+- **Definición**: Sacudida brusca de la corteza terrestre por liberación de energía.
+- **Causas**: Ruptura de fallas geológicas, fricción de placas tectónicas, procesos volcánicos.
+- **Escalas de medición**: MSK, Richter.
+- **Puntos singulares**:
+  - **Hipocentro**: Zona interior donde se produce el terremoto.
+  - **Epicentro**: Área en la superficie donde las ondas sísmicas son más intensas.
+- **Tipos de ondas sísmicas**:
+  - Ondas P (longitudinales)
+  - Ondas S (transversales)
+  - Ondas superficiales (Rayleigh y Love)
+
+#### 2.1.2. Alud o corrimiento de tierra
+- **Definición**: Desastre relacionado con avalanchas de tierra y otros elementos.
+- **Causas**: Terremotos, erupciones volcánicas, inestabilidad del terreno.
+- **Tipologías**:
+  - **Deslizamientos**: Movimiento de grandes masas de terreno.
+  - **Flujo de arcilla**: Movimiento lento en terrenos arcillosos.
+  - **Licuefacción**: Terreno que fluye como un líquido.
+  - **Reptación**: Movimiento lento en capas superiores de laderas.
+
+#### 2.1.3. Riesgos cósmicos
+- **Definición**: Riesgos naturales derivados del espacio exterior.
+- **Tipologías**:
+  - **Asteroides**: Cuerpos rocosos que giran alrededor del Sol.
+  - **Meteoritos**: Fragmentos de materia extraterrestre que generan luz al entrar en la atmósfera.
+
+#### 2.1.4. Riesgo volcánico
+- **Definición**: Estructura geológica que emite magma, lava y gases.
+- **Causas**: Erupciones de actividad violenta.
+- **Tipologías**:
+  - **Avalanchas volcánicas**: Combinación de agua y cenizas.
+  - **Erupciones fisurales**: Dislocaciones en la corteza terrestre.
+
+### 2.2. Derrumbes por causas antrópicas
+- **Causas comunes**: 
+  - Falta de mantenimiento.
+  - Reformas mal ejecutadas.
+  - Construcción en zonas de alto riesgo.
+  - Explosiones de gas.
+  - Atentados terroristas.
+  - Incendios.
+
+### 2.3. Tipos de derrumbes
+- **Huecos de vida**: Espacios donde pueden encontrarse supervivientes.
+
+#### 2.3.1. Tipologías generales
+- **Oblicuo, lateral o de plano inclinado**: Colapso de pilares o muros.
+- **Superposición de planos o derrumbe total**: Escombros en estratos horizontales o inclinados.
+- **Marquesina**: Hueco libre entre escombros, importante para rescates.
+
+## Datos técnicos clave
+- **Terremotos**: Escala Richter para medición.
+- **Erupción del Nevado de Ruiz (1985)**: 24,000 muertos en Colombia.
+- **Intervención en derrumbes**: Uso de maquinaria pesada y equipos caninos para rescate.

@@ -1,0 +1,70 @@
+# Rastreo y Búsqueda en Incendios
+
+## Rastreo y búsqueda por equipo independiente
+La simultaneidad en las tareas de ataque y búsqueda de víctimas reduce el tiempo para salvarlas, aumentando así la probabilidad de supervivencia.
+
+### Proceso de rastreo
+- **Referencia de pared**: Se sigue una pared para regresar al punto de inicio.
+- **Cuerda guía**: Útil en recintos de más de **30 m²**.
+
+### Modos de acceso
+1. **Por el interior**: Se busca en áreas accesibles desde el interior, frecuentemente detrás del punto de máximo avance del tendido.
+2. **Por el exterior (VEIS)**: Principal método en EE.UU., se utiliza en Europa con vehículos de acceso en altura y escaleras correderas.
+
+### Secuencia de acceso exterior
+1. Acceso a través de la ventana con vehículo o escalera.
+2. Cierre de la puerta para evitar el flujo de gases.
+3. Rastreo de la estancia con herramienta de mano.
+4. Salida por la misma ventana para evitar la exposición a gases.
+
+## Rastreo y búsqueda con técnicas de VPP defensiva
+Los gases de incendio son el mayor riesgo para las víctimas. La ventilación VPP defensiva busca retirar el peligro (humo y temperatura) de la zona de la víctima.
+
+### Secuencia de VPP defensiva
+1. **Confinamiento del incendio**: Cierre de la puerta o colocación de cortina de bloqueo de humo.
+2. **Técnicas de ventilación VPP**: Para ganar visibilidad en espacios comunes.
+3. **Ventilación secuencial**: De recintos inundados de humo en busca de víctimas.
+
+# Valoración de Incendios de Interior
+
+## Importancia de la valoración
+La valoración es crucial para evitar errores tácticos que pueden generar riesgos. Debe ser continua y considerar:
+
+- **Urgencia**: Decisiones en tiempo real.
+- **Incertidumbre**: Información no siempre fiable.
+- **Continuidad**: La situación del incendio cambia rápidamente.
+- **Integralidad**: Implica identificar acciones prioritarias y evaluar recursos.
+
+## Fases de la valoración
+1. **Valoración inicial**:
+   - **Valoración perimetral 360º**.
+   - **Valoración interior**.
+2. **Valoración continua**.
+3. **Valoración final**.
+
+### Valoración inicial
+- **Objetivos**:
+  - Identificar acciones prioritarias (confinamiento, evacuación, corte de servicios).
+  - Establecer un plan de acción que incluya sectorización y reparto de funciones.
+
+### Valoración continua
+- Basada en parámetros de lectura de incendios y evaluación de recursos.
+- Permite introducir correcciones al plan de acción según la eficacia de las acciones emprendidas.
+
+### Valoración final
+- Asegura la ausencia de puntos calientes y la estabilidad estructural.
+- Debe ser documentada en una hoja de recomendaciones.
+
+## Lectura del incendio
+El método B-SAHF (Building, Smoke, Airtrack, Heat, Flame) es fundamental para valorar el incendio.
+
+### Parámetros a considerar
+- **Edificio**: Tipo y cantidad de combustible, distribución, inflamabilidad de la estructura.
+- **Estabilidad estructural**: Estructuras de ladrillo y hormigón limitan la propagación del incendio, mientras que las de madera pueden comprometer la estabilidad.
+
+### Tabla 23: Método B-SAHF
+- **B**: Building (edificio)
+- **S**: Smoke (humo)
+- **A**: Airtrack (flujo de gases)
+- **H**: Heat (calor)
+- **F**: Flame (llama)

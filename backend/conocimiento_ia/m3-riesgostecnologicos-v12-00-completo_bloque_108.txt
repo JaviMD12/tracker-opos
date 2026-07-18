@@ -1,0 +1,84 @@
+# Parte 7. NRBQ
+
+## Caracterización
+
+- Un átomo eléctricamente neutro tiene el mismo número de protones que de electrones.
+- Los átomos que tienen el mismo número de protones pero diferente número de neutrones se llaman **isótopos**.
+  - **Isótopos de Hidrógeno**:
+    - \( Z = 1 \), \( A = 1 \) (0 neutrones)
+    - \( Z = 1 \), \( A = 2 \) (1 neutrón)
+    - \( Z = 1 \), \( A = 3 \) (2 neutrones)
+
+## Moléculas, Elementos y Compuestos Químicos
+
+- **Moléculas**: Grupos de átomos con propiedades físico-químicas.
+  - Ejemplos: Oxígeno (O), Hidrógeno (H), Agua (H₂O), Dióxido de carbono (CO₂).
+- **Elementos químicos**: Átomos de un solo tipo.
+- **Compuestos químicos**: Átomos de diferentes tipos.
+
+## Estados de Agregación y Cambios de Estado
+
+La materia se presenta en tres estados:
+1. **Sólido**
+   - Volumen: **Constante**
+   - Forma: **Constante**
+   - Fuerzas predominantes: **Atracción**
+2. **Líquido**
+   - Volumen: **Constante**
+   - Forma: **Variable**
+   - Fuerzas predominantes: **Atracción**
+3. **Gaseoso**
+   - Volumen: **Variable**
+   - Forma: **Variable**
+   - Fuerzas predominantes: **Repulsión**
+
+### Cambios de Estado
+
+- **Fusión**: Sólido a líquido al absorber calor.
+  - **Punto de fusión**: Temperatura a la que ocurre.
+- **Vaporización (Evaporación)**: Líquido a gas.
+- **Ebullición**: Vaporización que afecta toda la masa del líquido.
+  - **Punto de ebullición**: Temperatura a la que ocurre.
+
+#### Tabla 2: Punto de fusión y ebullición en sustancias comunes
+
+| Materia | Tª Fusión (ºC) | Tª Ebullición (ºC) |
+|---------|----------------|---------------------|
+| Agua    | 0              | 100                 |
+| Alcohol | -117           | 78                  |
+| Hierro  | 1535           | 3000                |
+| Gasolina| -193           | 130                 |
+
+#### Tabla 3: Punto de ebullición del agua a diferentes presiones (KPa) / altitudes
+
+| ALTITUD (m) | PRESIÓN (KPa) | P. EBULLICIÓN (ºC) |
+|-------------|---------------|---------------------|
+| 0           | 101           | 100                 |
+| 500         | 95            | 98                  |
+| 1000        | 89            | 96                  |
+| 2500        | 74            | 92                  |
+
+### Procesos Físicos Regresivos
+
+- **Solidificación**: Líquido a sólido.
+- **Condensación**: Gas a líquido.
+- **Sublimación regresiva**: Gas a sólido.
+
+## Diagrama de Fases
+
+- **Punto triple (A)**: Equilibrio entre sólido, líquido y gas.
+- **Punto crítico (B)**: Temperatura máxima donde líquido y gas coexisten en equilibrio.
+
+### Comparación de Temperaturas Características
+
+#### Tabla 5: Diferencias entre temperaturas características del agua y dióxido de carbono
+
+| AGUA | PRESIÓN (atm) | Tª (ºC) | DIOXIDO DE CARBONO | PRESIÓN (atm) | Tª (ºC) |
+|------|---------------|---------|--------------------|---------------|---------|
+| FUSIÓN | 1             | 0       | N/A                | N/A           | N/A     |
+| EBULLICIÓN | 1         | 100     | N/A                | N/A           | N/A     |
+| SUBLIMACIÓN | N/A      | N/A     | 1                  | -78           |         |
+| PUNTO TRIPLE | 0.06    | 0.01    | 5.2                | -56.4         |         |
+| PUNTO CRÍTICO | 218    | 374     | 73                 | 31.1          |         |
+
+- El hielo flota sobre el agua debido a la diferencia en la curva entre la fase sólida y líquida.

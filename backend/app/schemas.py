@@ -117,6 +117,10 @@ class ResultadoSimulacroCreate(BaseModel):
     total_preguntas: int = Field(gt=0)
 
 
+class SugerenciaCreate(BaseModel):
+    mensaje: str = Field(min_length=1, max_length=2000)
+
+
 class HeatmapDia(BaseModel):
     date: str
     intensity: int

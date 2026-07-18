@@ -1,0 +1,73 @@
+# 1.2. Ataque Directo
+
+El ataque directo es una técnica para extinguir incendios mediante la aplicación de agua directamente sobre los combustibles incendiados. Esta técnica interrumpe los procesos de pirólisis y reduce el aporte de gases inflamables.
+
+## Características del Ataque Directo
+
+### Ventajas
+- Permite atacar directamente el motor del incendio.
+- Efectos muy rápidos sobre la extinción.
+
+### Inconvenientes
+- Se pierde el equilibrio térmico dentro del recinto.
+- El vapor de agua en exceso puede empeorar la visibilidad.
+- Posibles quemaduras por exceso de vapor en caso de víctimas en el interior.
+- Desplazamiento de gases de incendio a otras estancias.
+
+## Descripción del Proceso
+- Se puede realizar desde el interior o exterior.
+- Normalmente se realiza tras localizar el foco del incendio.
+- Puede realizarse a través de una ventana o apertura si el acceso interior es inseguro.
+- Se aplica agua continuamente, moviendo el chorro para cubrir todas las superficies del combustible.
+- Se busca una buena profundidad en el chorro con patrones de cono cerrados.
+- El chorro sólido tiene un efecto de penetración recomendable en muchos combustibles.
+- La eficiencia busca que las gotas de agua se evaporen, robando calor y formando una fina película de agua.
+- Se debe minimizar la escorrentía, seleccionando un caudal no muy alto y distribuyendo el agua homogéneamente.
+- Tras cada aplicación, se debe permitir un tiempo de reposo para recobrar el equilibrio térmico y evaluar la efectividad.
+
+### Condiciones de Uso
+El ataque directo solo debe emplearse cuando se haya localizado visualmente el foco y se tenga certeza de que el chorro de agua impactará en los combustibles incendiados.
+
+## Parámetros Técnicos del Ataque Directo
+
+- **Posición**: Interior o exterior.
+- **Caudal**: Medio (100 lpm a 250 lpm).
+- **Cono**: 0º a 15º.
+- **Patrón de pulsaciones**:
+  - Aplicaciones de larga duración (>20”).
+  - Periodos de pausa de entre 15” y 45”.
+
+### Ejemplo de Cálculo
+En un recinto confinado de 5x5m y 2,5m de altura, con un friso de madera incendiado a 500ºC, se requiere:
+- **Calor específico de la madera**: 0,49 kJ/kg.
+- **Energía necesaria para reducir la temperatura a 200ºC**: 36.750 kJ.
+- **Poder de absorción del agua**: 2.600 kJ/kg.
+- **Cantidad de agua necesaria**: 10,2 L para refrigerar 5 mm superficiales de combustible.
+
+# 1.3. Enfriamiento de Gases
+
+El enfriamiento de gases es una técnica cuyo objetivo es reducir la inflamabilidad del colchón de gases, proporcionando seguridad al equipo de bomberos.
+
+## Características del Enfriamiento de Gases
+
+### Ventajas
+- Progresión más segura frente a fenómenos de rápido desarrollo (flashover y backdraft).
+- Mantiene el equilibrio térmico y conserva la capa inferior visible.
+
+### Inconvenientes
+- No es una técnica de extinción.
+- Una excesiva aplicación puede retrasar el acceso al foco del incendio.
+- No se puede evaluar el efecto de enfriamiento.
+
+## Descripción del Proceso
+- Se realizan pulsaciones de agua de corta duración y caudal bajo.
+- Se busca introducir una niebla de agua en el colchón de gases.
+- Las pulsaciones deben ser más largas y con un movimiento de barrido ligero.
+- Se debe permitir un tiempo de reposo tras cada aplicación para evaluar la efectividad.
+
+### Impacto del Agua
+- El impacto de agua contra las paredes no enfría el colchón de gases, lo que puede romper el equilibrio térmico.
+- La efectividad del enfriamiento depende de la cantidad de agua que se evapore en el colchón de gases.
+
+## Consideraciones Finales
+La experiencia y conocimientos en dinámica de incendios son vitales para evaluar la efectividad del enfriamiento y asegurar la progresión interior del equipo de bomberos.

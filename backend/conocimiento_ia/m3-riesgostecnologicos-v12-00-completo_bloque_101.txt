@@ -1,0 +1,117 @@
+# Parte 6. Riesgo eléctrico
+
+## Caracterización
+
+La resistencia de la piel al paso de la corriente eléctrica varía según las condiciones fisiológicas, el estado del organismo y el medio en el que se encuentre. Los límites de resistencia de la piel son:
+
+- **1.000 a 100.000 óhmios** (valores normales).
+- **1.600 óhmios** en medio seco.
+- **800 óhmios** en medio húmedo.
+- **200 óhmios** si el cuerpo está sumergido.
+
+### Efectos de la Corriente
+
+- **Ley de Ohm**: Para una tensión de línea de **220 V** y una resistencia de **1.000 óhmios**, la intensidad eléctrica es de **22 mA**, superando el umbral de seguridad de **30 mA**.
+
+#### Tabla 5. Efectos en el organismo según resistencia y tensión (Iberdrola, 2007)
+
+| R Cuerpo y R Contacto | Tensión de la corriente | Efectos |
+|-----------------------|------------------------|---------|
+| 500-1.000 óhmios     | 100 V                  | Muerte cierta |
+|                       | 1.000 V                | Quemaduras ligeras |
+|                       | 10.000 V               | Muerte probable |
+| 5.000 óhmios         | 100 V                  | Shock molesto |
+|                       | 1.000 V                | Muerte segura |
+|                       | 10.000 V               | Quemaduras serias |
+| 50.000 óhmios        | 100 V                  | Sensación apenas perceptible |
+|                       | 1.000 V                | Shock molesto |
+|                       | 10.000 V               | Muerte segura |
+
+### Tensión de Seguridad
+
+La tensión de seguridad (U L) es la tensión por debajo de la cual no hay peligro para las personas. Según la Norma UNE 20460:
+
+- **50 V** para locales secos.
+- **25 V** para locales húmedos.
+- **12 V** para locales mojados.
+
+**Ejemplo de cálculo**:
+- En local seco: \( V = I \cdot R = 2500 \cdot 0.03 = 75 \, V \)
+- En local húmedo: \( V = I \cdot R = 1000 \cdot 0.03 = 30 \, V \)
+
+### Frecuencia y Forma de la Corriente
+
+#### Efectos de la Corriente Alterna
+
+- Aumentar la frecuencia reduce el riesgo de fibrilación ventricular, pero aumenta el riesgo de quemaduras.
+- La intensidad de tetanización es de **10 mA a 50 Hz**, aumentando a **90 mA en corriente continua** y **80 mA a 5 kHz**.
+
+#### Efectos de la Corriente Continua
+
+- Menos peligrosa que la alterna; el umbral de fibrilación ventricular es más elevado.
+
+#### Efectos de Corrientes Impulsionales
+
+- Umbral de dolor: **50 a 100 × 10^6 A²s**.
+- Fibrilación ventricular puede ocurrir con impulsos de duración inferior a **10 ms**.
+
+### Tiempo de Contacto
+
+- Para fibrilación ventricular, el tiempo de contacto debe ser de al menos **1 segundo**.
+
+### Trayectoria Interna
+
+- La corriente fluye por el camino de menor resistencia, siendo más peligrosa si atraviesa órganos vitales.
+
+### Normativa
+
+El **Reglamento Electrotécnico de Baja Tensión (REBT)** establece condiciones técnicas y garantías para instalaciones eléctricas:
+
+- **REAL DECRETO 842/2002**, de **2 de agosto**.
+- Se aplica a instalaciones que distribuyan energía eléctrica con tensiones nominales:
+  - **Corriente alterna ≤ 1.000 V**
+  - **Corriente continua ≤ 1.500 V**
+
+#### Clasificación de Tensiones (REBT, 2002)
+
+| Clasificación        | CA                | CC                |
+|---------------------|-------------------|-------------------|
+| Muy baja tensión     | Un ≤ 50 V         | Un ≤ 75 V         |
+| Tensión usual        | 50 < Un ≤ 500 V   | 75 < Un ≤ 750 V   |
+| Tensión especial      | 500 < Un ≤ 1.000 V| 750 < Un ≤ 1.500 V|
+
+### Tipos de Suministro
+
+- **Suministros normales**: Un solo punto de entrega.
+- **Suministros complementarios**: Garantizan continuidad.
+  - **Suministro de socorro**: 15% del contratado.
+  - **Suministro de reserva**: 25% del contratado.
+  - **Suministro duplicado**: > 50% del contratado.
+
+### Responsabilidades
+
+La empresa suministradora es responsable de la acometida y su inspección. Las instalaciones de enlace incluyen:
+
+- Caja general de protección.
+- Línea general de alimentación.
+- Derivaciones individuales.
+
+### Otras Fuentes de Regulación
+
+- **Reglamento de Líneas Áreas de Alta Tensión**: Corriente alterna trifásica a **50 Hz**, tensión nominal ≥ **1.000 V**.
+- **UNESA**: Colabora en la elaboración de normativas para garantizar la seguridad y fiabilidad de las instalaciones eléctricas.
+
+#### Índice de Instrucciones Técnicas Complementarias
+
+- ITC-BT-01: Terminología
+- ITC-BT-02: Normas de referencia
+- ITC-BT-03: Instaladores autorizados
+- ITC-BT-04: Documentación y puesta en servicio
+- ITC-BT-05: Verificaciones e inspecciones
+- ITC-BT-06: Redes aéreas
+- ITC-BT-07: Redes subterráneas
+- ITC-BT-08: Conexión del neutro
+- ITC-BT-09: Alumbrado exterior
+- ITC-BT-10: Previsión de cargas
+
+(continúa con más instrucciones técnicas según sea necesario)

@@ -1,0 +1,66 @@
+# Geometría de Pilares y Estructuras
+
+## Partes de un Pilar
+- **Capitel**: Parte superior que recibe los esfuerzos de los elementos horizontales.
+- **Fuste**: Cuerpo del pilar.
+- **Basa o apoyo**: Elemento constructivo que transmite los esfuerzos al cimiento.
+
+## Rigidez de Soportes
+### Soportes de Acero
+- **Compresión axial**: Vertical hacia abajo, transmitido por la placa de base.
+- **Tracción axial**: Vertical hacia arriba, menos frecuente, transmitido por pernos de anclaje.
+- **Momento flector**: Combinación de compresión y tracción en los pernos.
+- **Otros esfuerzos**: Cortante (viento, sismo) y momento torsor (raro).
+
+### Pilares de Hormigón Armado
+- Soportan compresiones sin armadura, pero requieren armaduras longitudinales para pandeos y flexiones.
+- **Armaduras**: Auxiliadas por estribos y zunchos.
+
+## Pórticos o Marcos
+- **Definición**: Unión de vigas y pilares que proporciona resistencia y rigidez.
+- **Rigidez**: Aumenta con uniones empotradas, permitiendo estructuras de grandes luces y pequeños cantos.
+
+### Nudos de Acero
+- **Clasificación según CTE DB SE-A**:
+  - **Rígidas**: Transmiten momentos.
+  - **Semirrígidas**: Giro relativo entre barras, pero transmisión de momentos.
+  - **Simples**: Articulaciones sin coartar giros.
+
+## Arcos
+### Definición
+Elemento lineal que recoge cargas verticales y las transmite a los elementos estructurales.
+
+### Partes de un Arco
+- **Centro**: Punto de referencia.
+- **Vértice**: Punto más alto.
+- **Arranques**: Extremos inferiores.
+- **Dovela**: Pieza en forma de cuña.
+- **Clave/Llave**: Dovela central.
+- **Imposta**: Hilada sobre la que se asienta el arco.
+
+### Dimensiones
+- **Luz**: Distancia entre arranques.
+- **Flecha**: Altura del arco respecto a la línea de arranque.
+- **Esbeltez**: Relación entre flecha y luz.
+
+### Rigidez
+- **Línea de presiones**: Define la estabilidad del arco.
+- **Sistemas constructivos para estabilización**:
+  - **Tirantes**: Trabajan a tracción.
+  - **Contrafuertes**: Redirigen fuerzas horizontales.
+  - **Arbotantes**: Absorben esfuerzos horizontales.
+
+## Tipologías de Arcos
+- **Función estructural**: Aligerantes y estructurales.
+- **Geometría**: Arcos de un solo centro, dos centros, tres o más centros.
+
+## Elementos Estructurales Horizontales
+### Elementos Simples: Viguetas y Vigas
+- **Viguetas**: Elemento horizontal que trabaja a flexión.
+  - **Separaciones**: Entre 0,60 m y 0,90 m, hasta 1,20 m según cargas.
+  - **Tipos**:
+    - **In situ**: Construidas en obra con acero de armar.
+    - **Semiviguetas**: Prefabricadas, requieren hormigonado in situ.
+
+### Elementos Compuestos: Forjados y Losas
+- Reciben y transmiten cargas verticales a elementos verticales.

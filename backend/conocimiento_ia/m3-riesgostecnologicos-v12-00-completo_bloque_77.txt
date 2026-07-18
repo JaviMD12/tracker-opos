@@ -1,0 +1,74 @@
+# Caracterización de Ascensores
+
+Un ascensor es un sistema seguro de movilidad vertical diseñado para mover personas o bienes entre diferentes niveles de altura. Está compuesto por partes mecánicas, eléctricas y electrónicas que funcionan conjuntamente. La inclinación del ascensor nunca supera los **15 grados**.
+
+## Normativa y Rescate
+
+- La normativa europea sobre ascensores en España regula el rescate de personas.
+- La mayoría de los accidentes están relacionados con caídas por el hueco del ascensor durante la manipulación de las puertas del piso.
+- Las llaves de emergencia no deben estar al alcance de personas no responsables.
+- El rescate debe ser realizado por:
+  - Ascensorista
+  - Propietario, portero, vigilante o personal formado
+  - Bomberos instruidos
+
+### Instrucciones de Rescate
+
+- La respuesta al rescate debe ser proporcional a la situación.
+- Se deben seguir las instrucciones del fabricante, generalmente ubicadas en el cuarto de máquinas.
+- Moviendo la cabina y usando la llave de emergencia se pueden abordar diferentes situaciones.
+
+## Tipos de Ascensores
+
+### 1. Por su Sistema de Funcionamiento
+
+#### 1.1. Ascensores Eléctricos o de Adherencia
+
+- **Funcionamiento**: La corriente eléctrica alimenta los motores y el reglaje de paradas.
+- **Tracción**: Basada en la adherencia mediante cables de acero o cintas planas.
+- **Velocidades**:
+  - **Con engranajes**: 0,1 a 1,75 m/s (montacargas industriales).
+  - **Sin engranajes**: 2 a 10 m/s (transporte de pasajeros en edificios altos).
+
+#### 1.2. Ascensores Hidráulicos
+
+- **Funcionamiento**: Una bomba impulsa un fluido a presión hacia el pistón, moviendo la cabina.
+- **Velocidad**: 0,1 a 1,75 m/s.
+- **Clasificación**:
+  - **Impulsión directa 1:1**: 1 cm de pistón = 1 cm de cabina.
+  - **Impulsión directa lateral**: Pistón en parte superior, cilindro en el fondo.
+  - **Impulsión diferencial 2:1**: 1 cm de pistón = 2 cm de cabina.
+  - **Doble impulsión**: Montacargas para grandes cargas.
+
+### 2. Por su Uso
+
+- **Ascensor de emergencia**: Obligatorio en edificios con altura de evacuación > 28 m (15 m en hospitales).
+  - **Características mínimas**:
+    - Capacidad de carga mínima: **630 kg**.
+    - Superficie mínima de cabina: **1,40 m²**.
+    - Llamada prioritaria para bomberos con dos fuentes de alimentación.
+    - Velocidad suficiente para completar el recorrido en **1 minuto o menos**.
+  
+- **Ascensor panorámico**: Similar a convencionales, no participa en protección contra incendios.
+- **Doble cabina**: Dos cabinas superpuestas para pisos impares y pares.
+- **Ascensor inclinado**: Facilita acceso a lugares de difícil comunicación.
+- **Ascensor para unifamiliares**: Similar a convencionales.
+- **Ascensor para minusválidos**: Diseñado para personas con discapacidad.
+- **Ascensor industrial y montacargas**: Soportan grandes cargas.
+
+### 3. Otros Tipos de Sistemas
+
+- **Escaleras móviles o mecánicas**: Conjunto de escalones enlazados, utilizan un mecanismo tractor.
+- **Andenes móviles**: Tecnología similar a escaleras mecánicas, pero con placas móviles.
+
+## Partes Comunes de un Ascensor
+
+- **Cuarto de máquinas**: Ubicación del mecanismo de tracción.
+  - **Ubicaciones**:
+    - Parte superior del recinto.
+    - Parte inferior del recinto.
+    - Recinto contiguo al recinto (ascensores hidráulicos).
+  
+- **Modelos sin cuarto de máquinas**: 
+  - Parte superior del hueco del foso.
+  - Parte inferior del hueco del foso.

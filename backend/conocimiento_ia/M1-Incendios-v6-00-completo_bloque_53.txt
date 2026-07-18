@@ -1,0 +1,44 @@
+# Caracterización
+
+## 1. Normativa vigente
+
+- **Derogación de la NBE/CPI-96**: El 29 de septiembre de 2006, se derogó la Norma básica de edificación: condiciones de protección de incendios contra edificios (NBE/CPI-96).
+- **Código Técnico de la Edificación (CTE)**: Se aplica el artículo 11 (Seguridad en caso de incendio - SI).
+- **Real Decreto 393/2007**: Aprobado el 23 de marzo, establece la obligación de elaborar, implantar y mantener planes de autoprotección en centros y establecimientos que puedan originar situaciones de emergencia.
+- **Catálogo de Actividades**: Incluye actividades industriales a las que se aplican las disposiciones del Real Decreto.
+
+### Real Decreto 2267/2004
+- **Fecha de aprobación**: 3 de diciembre.
+- **Objetivo**: Conseguir un grado suficiente de seguridad en caso de incendio en establecimientos e instalaciones de uso industrial.
+- **Definición de industrias**: Actividades dedicadas a:
+  - Obtención, reparación, mantenimiento, transformación o reutilización de productos industriales, envasado y embalaje.
+  - Aprovechamiento, recuperación y eliminación de residuos o subproductos.
+
+### Recintos de almacenamiento
+- **Definición**: Espacio dedicado a albergar productos de cualquier tipo, cubierto o no.
+- **Aplicación del RSCIEI**:
+  - Zonas de almacenamiento de vehículos o mercancías.
+  - Equipos e instalaciones en procesos productivos o de almacenamiento.
+  - Almacenamientos con carga de fuego total igual o superior a **3 millones de Megajulios (MJ)** (720,000 Megacalorías - Mcal).
+
+## 2. Tipos de establecimientos industriales
+
+### 2.1. Ubicación en relación con el entorno
+
+#### 2.1.1. Establecimientos industriales ubicados en un edificio
+- **Tipo A**: Parte de un edificio, con otros establecimientos de uso industrial o diferente.
+- **Tipo B**: Ocupa completamente un edificio adosado a otros a una distancia ≤ 3 metros.
+- **Tipo C**: Ocupa completamente un edificio o varios a una distancia > 3 metros de otros establecimientos.
+
+#### 2.1.2. Establecimientos industriales en espacios abiertos
+- **Tipo D**: Ocupa un espacio abierto, puede estar cubierto, pero con fachadas sin cerramiento lateral.
+- **Tipo E**: Ocupa un espacio abierto, parcialmente cubierto (hasta 50% de su superficie) con fachadas sin cerramiento lateral.
+
+### 2.2. Nivel de riesgo intrínseco
+- **Clasificación**: Según configuración (A, B, C, D, E) y sectores o áreas de incendio.
+- **Carga de fuego**:
+  - **Nivel alto**: Industrias químicas, talleres y fábricas de pintura, barnices y pirotécnicas.
+  - **Nivel medio y bajo**: Resto de industrias.
+  
+### Fórmula para determinar la densidad de carga de fuego ponderada y corregida (Qe):
+- Se utiliza para evaluar el nivel de riesgo intrínseco de un edificio o conjunto de sectores en un establecimiento industrial.

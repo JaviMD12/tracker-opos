@@ -1,0 +1,109 @@
+# II.3.5. Acero
+
+El acero es un material más elástico que el hormigón armado, lo que implica mayor deformación potencial en sismos. Los parámetros clave que condicionan su comportamiento son:
+
+- **Rigidez** y **uniones** utilizadas.
+  
+## Tipos de estructuras de acero:
+
+- **Estructuras soldadas**:
+  - **Estructuras rígidas**: resistentes a momentos. Fallo por fractura en la unión columna-viga.
+  - **Estructuras entramadas**:
+    - **Pórticos arriostrados** (triangulación incompleta): fallo en la soldadura de riostras a vigas/columnas.
+    - **Pórticos en celosía** (triangulación completa): fallo por pandeo de elementos diagonales.
+
+- **Estructuras atornilladas**: fallos en nudos por:
+  - Fallo de tornillos (cortante).
+  - Desgarramiento o sección insuficiente de placas de conexión.
+
+---
+
+# II.3.6. Madera
+
+Las estructuras de madera son ligeras y flexibles, pero presentan riesgos en sismos debido a:
+
+1. **Resistencia inadecuada de muros en primeros pisos**:
+   - Garajes o espacios diáfanos amplios en planta baja.
+   - Grandes aberturas (escaparates, portales).
+   
+2. **Conexiones precarias** entre cimentación y soleras o entrepisos, generando deslizamiento.
+
+3. **Otros fallos**:
+   - Anclajes inadecuados.
+   - Insectos xilófagos (termitas).
+   - Reducción de sección útil por pudriciones.
+   - Humedad.
+
+---
+
+# 10.2.4. Patologías por causas accidentales – Impacto
+
+## Definición
+Riesgo de impacto: choque violento entre un cuerpo y una edificación debido a una fuerza brusca.
+
+### Marco legal
+- Se debe considerar el CTE DB SE AE para dimensionar elementos resistentes ante impactos accidentales (ej. impacto de vehículos).
+
+### Factores
+Las características de las acciones de impacto dependen de:
+- **Masa** del cuerpo.
+- **Velocidad** del cuerpo impactante.
+- **Capacidad de deformación** y amortiguación.
+
+### Prescripciones para impactos de vehículos:
+- **Exterior**: según ordenanza municipal.
+- **Interior**: en zonas de circulación de vehículos.
+  
+### Valores de cálculo:
+- **Vehículos hasta 30 kN**: 
+  - 50 kN en dirección paralela a la vía.
+  - 25 kN en dirección perpendicular.
+  
+- **Carretillas elevadoras**: fuerza estática equivalente = 5 veces el peso máximo autorizado.
+
+### Riesgo de impacto asociado a intervenciones de bomberos
+El impacto puede causar colapso inmediato de la edificación. Se destaca la importancia de los cerramientos prefabricados en la estabilidad estructural.
+
+---
+
+# 11. Estado de Ruina
+
+## 11.1. Evaluación de la seguridad en la edificación
+La seguridad se alcanza cuando un edificio soporta acciones para las que fue diseñado. La normativa vigente permite suponer seguridad, aunque no garantiza certeza absoluta.
+
+### Escalafones de catalogación:
+- **Estado de confianza**: sin riesgo aparente.
+- **Estado de precariedad**: carencias que disminuyen la seguridad.
+- **Estado de peligro/ruina**: incapacidad para soportar acciones permanentes o variables.
+
+---
+
+## 11.2. Ruina
+
+### Definición
+Ruina: estado de una edificación afectada por patologías que comprometen su estabilidad o habitabilidad.
+
+### Tipologías de ruina:
+- **Ruina funcional**: inutilidad sin afectar estabilidad.
+- **Ruina constructiva**:
+  - **Ruina potencial**: primeros vicios constructivos.
+  - **Vicios graves**: impiden uso y habitabilidad.
+  - **Ruina física**: riesgo inminente de colapso.
+
+### Síntomas de ruina:
+- **Primarios**: grietas y fisuras.
+- **Secundarios**: deformaciones, disgregación de materiales, empujes, separación de elementos.
+
+---
+
+## 11.2.1. Síntomas primarios: grietas y fisuras
+
+### Definición
+Grietas y fisuras son manifestaciones de lesiones en edificaciones, evaluadas por forma, posición y amplitud.
+
+### Origen
+Surgen por la superación de la capacidad mecánica de un elemento constructivo.
+
+### Manifestaciones:
+- **Fisuras**: afección superficial, generalmente estéticas.
+- **Grietas**: interrupción en la transmisión de esfuerzos, reduciendo capacidad portante.

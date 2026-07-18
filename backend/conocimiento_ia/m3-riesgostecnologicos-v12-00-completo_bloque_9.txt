@@ -1,0 +1,123 @@
+# Análisis de Cables de Acero y Materiales Orgánicos
+
+## Cables de Acero
+
+### Ejemplo de Cables
+- **Denominación**: Φ10mm -> 6 x 19 +1
+  - Compuesto por 6 cordones de 19 alambres cada uno y alma textil.
+  
+### Resistencia
+- **Cargas Estáticas** (70% límite rotura):
+  - Cálculo: \( 0,7 \times 55,3 = 38,71 \, \text{KN} \) → **40,0 KN**
+  
+- **Cargas Dinámicas** (40% límite rotura):
+  - Cálculo: \( 0,4 \times 55,3 = 22,12 \, \text{KN} \) → **20,0 KN**
+
+### Tabla 14: Cargas de Rotura en el Cable de Acero según su Diámetro
+| Diámetro (mm) | Peso (kg/m) | Carga de rotura mínima (kg) |
+|---------------|-------------|------------------------------|
+| 3             | 0,0311     | 498                          |
+| 4             | 0,0554     | 885                          |
+| 5             | 0,0865     | 1.380                        |
+| 6             | 0,1250     | 1.990                        |
+| 7             | 0,1700     | 2.710                        |
+| 8             | 0,2210     | 3.540                        |
+| 9             | 0,2800     | 4.480                        |
+| 10            | 0,3460     | 5.530                        |
+| 11            | 0,4190     | 6.690                        |
+| 12            | 0,4980     | 7.970                        |
+| 13            | 0,5850     | 9.350                        |
+| 14            | 0,6780     | 10.800                       |
+| 16            | 0,8860     | 14.200                       |
+| 18            | 1,1200     | 17.900                       |
+| 20            | 1,3800     | 22.100                       |
+| 22            | 1,6700     | 26.800                       |
+| 24            | 1,9900     | 31.900                       |
+
+## Uniones en Construcción
+
+### Tipos de Uniones
+1. **Roblonado/Remachado**:
+   - Unión mediante roblones cilíndricos/troncocónicos.
+   - Limitado en uso actual, sustituido por sistemas atornillados desde 1970.
+
+2. **Tornillos**:
+   - Unión metálica en frío con vástago roscado y tuerca.
+   - **Tipos**:
+     - **Ordinarios T / Calibrados TC**: Diferencia en diámetro del agujero.
+     - **Alta Resistencia TR**: Mayor esfuerzo de rozamiento, requiere par de apriete especificado.
+
+### Características Mecánicas de los Tornillos
+- **Norma**: EN ISO 898-1
+- **Código**: X.Y
+  - X: Tensión de rotura (N/mm²)
+  - Y: % de carga de rotura en límite elástico.
+
+### Ejemplo de Tornillo
+- **Clase 8.8**: Carga de rotura mínima a **800 N/mm²**, límite elástico al **80%** (640 N/mm²).
+
+### Clases Resistentes de Tornillos
+- 4.6, 5.6, 5.8, 6.8, 8.8, 10.9, 12.9
+
+## Soldadura
+- Proceso de unión de materiales:
+  - **Sin aportación de material**: por fusión o presión.
+  - **Con aportación de material**: ordinaria o autógena.
+
+## Materiales Orgánicos: Madera
+
+### Definición
+- Materia leñosa y lignocelulósica entre médula y corteza de un árbol.
+
+### Características Físicas y Propiedades
+- **Densidad**: 350 - 500 kg/m³ (variable según especie y humedad).
+- **Humedad**: 12-20% (máxima) y 7-15% (mínima) según CTE DB SE M.
+- **Anisotropía**: Comportamiento mecánico diferente en direcciones.
+- **Higroscopicidad**: Absorción o pérdida de agua según condiciones ambientales.
+- **Conductividad Térmica**: Buen aislante, baja dilatación.
+- **Comportamiento Mecánico**: Buen comportamiento a flexión, compresión y tracción.
+
+### Tipologías según CTE DB SE M
+- **Madera Aserrada**
+- **Madera Laminada**
+- **Madera Microlaminada**
+- **Tableros**
+
+### Madera Aserrada
+- **Definición**: Pieza de madera maciza obtenida por aserrado.
+- **Tipologías**:
+  - **Coníferas** (maderas blandas): Cedro, pino, etc.
+    - Nomenclatura: "C" + resistencia característica (N/mm²).
+  - **Frondosas** (maderas duras): Cerezo, roble, etc.
+    - Nomenclatura: "D" + resistencia característica (N/mm²).
+
+### Comportamiento Mecánico
+- Diferencias en resistencia a compresión y tracción según clase resistente.
+
+### Tablas de Resistencias
+- **Coníferas**:
+  | Clase Resistente | Flexión (fm,k) | Tracción Paralela (ft,0,k) | Compresión Paralela (fc,0,k) |
+  |------------------|----------------|-----------------------------|------------------------------|
+  | C14              | 14             | 8                           | 16                           |
+  | C16              | 16             | 10                          | 17                           |
+  | ...              | ...            | ...                         | ...                          |
+
+- **Frondosas**:
+  | Clase Resistente | Flexión (fm,k) | Tracción Paralela (ft,0,k) | Compresión Paralela (fc,0,k) |
+  |------------------|----------------|-----------------------------|------------------------------|
+  | D30              | 30             | 18                          | 23                           |
+  | D35              | 35             | 21                          | 25                           |
+  | ...              | ...            | ...                         | ...                          |
+
+### Madera Laminada
+- **Definición**: Elemento formado por láminas de madera encoladas.
+- **Tipologías**:
+  - **Homogénea**: Misma clase resistente.
+  - **Combinada**: Distintas clases resistentes.
+
+### Resistencias de Madera Laminada
+| Clase Resistente | Flexión (fm,k) | Tracción Paralela (ft,0,k) | Compresión Paralela (fc,0,k) |
+|------------------|----------------|-----------------------------|------------------------------|
+| GL24h            | 24             | 16.5                        | 24                           |
+| GL28h            | 28             | 19.5                        | 26.5                         |
+| ...              | ...            | ...                         | ...                          |

@@ -1,0 +1,91 @@
+# Combustibles Forestales
+
+## 1. Introducción
+- El clima veraniego en zonas forestales se caracteriza por prolongadas sequías, lo que ha llevado a la estabilización de bosques con especies que requieren fuego para su reproducción.
+- En España, las especies más comunes son:
+  - **Pino Carrasco** (*Pinus halepensis*)
+  - **Pino Piñonero** (*Pinus pinea*)
+  - **Pinaster** (*Pinus pinaster*)
+  - **Laricio** (*Pinus nigra*)
+
+## 2. Tipos de Combustibles
+- Clasificación según velocidad de propagación y resistencia al control:
+  - **Bajo**
+  - **Medio**
+  - **Alto**
+  - **Extremo**
+
+## 3. Características del Combustible
+- **Tamaño y forma**:
+  - **Fino**: 0-5 mm (hojarascas, pasto)
+  - **Regulares**: 5-25 mm (ramillas)
+  - **Medianos**: 25-75 mm (ramas)
+  - **Gruesos**: >75 mm (troncos)
+  
+- **Compactación**: Espacio entre partículas; mayor espacio = mayor velocidad de propagación.
+- **Densidad**: Mayor densidad = mayor resistencia a la ignición.
+- **Sustancias químicas**: Resinas y aceites que aumentan la propagación.
+- **Humedad**: 
+  - **Vivos**: Varía en función del clima (máximo en primavera, mínimo en verano).
+  - **Muertos**: Ligado a la humedad ambiental.
+  
+- **Tiempo de retardo**: Tiempo que tarda un combustible en equilibrar su humedad con el ambiente.
+  - **De una hora**: <6 mm (hierbas)
+  - **De diez horas**: 6 mm a 2.5 cm (ramas pequeñas)
+  - **De cien horas**: 2.5-7.5 cm (ramas mayores)
+  - **De mil horas**: 7.5-20 cm (troncos)
+
+## 4. Disponibilidad y Distribución Espacial del Combustible
+- **Cantidad de combustible** (fitomasa):
+  - Pastos y arbustos: **1-10 Tm/Ha**
+  - Matorrales: **10-40 Tm/Ha**
+  
+- **Divisiones**:
+  - **Cantidad total**: Fitomasa que podría arder en condiciones extremas.
+  - **Cantidad disponible**: Combustible que realmente se quema en un incendio.
+  - **Cantidad restante**: Combustible que no arderá por diversas razones.
+
+## 5. Modelos de Combustibles (Rothermel)
+- **Grupos**:
+  - **Pastos**: Modelos 1-3
+  - **Matorral**: Modelos 4-7
+  - **Hojarasca bajo arbolado**: Modelos 8-10
+  - **Ramaje y restos de operaciones silvícolas**: Modelos 11-13
+
+### Descripción de Modelos
+- **Modelo 1**: Carga de combustible: **1-2 t/ha** (praderas naturales).
+- **Modelo 4**: Carga de combustible: **25-35 t/ha** (matorrales densos).
+- **Modelo 8**: Carga de combustible: **10-12 t/ha** (bosques cerrados).
+
+## 6. Clasificación de Especies según su Inflamabilidad
+- **Muy inflamables**:
+  - Brezo (*Calluna vulgaris*)
+  - Eucalipto (*Eucalyptus sp.*)
+  - Pino Carrasco (*Pinus halepensis*)
+  
+- **Medianamente inflamables**:
+  - Madroño (*Arbutus unedo*)
+  - Enebro (*Juniperus oxycedrus*)
+
+## 7. Factores del Incendio que Determinan su Comportamiento
+- **Longitud de llama**: Distancia entre la base y la punta de la llama (en metros).
+- **Intensidad lineal del fuego**: Potencia por unidad de frente.
+- **Velocidad de propagación**: 
+  - **Lineal**: Tiempo que tardará el fuego en llegar a una línea.
+  - **Perimetral**: Velocidad de crecimiento del perímetro del fuego.
+  - **Areal**: Área afectada.
+
+## 8. Clasificación e Identificación de Alarma por el Humo
+- **Según el origen**:
+  - **Legítimos**: Quemadas autorizadas.
+  - **Ilegítimos**: Incendios.
+  
+- **Según el color**:
+  - **Gris café**: Matorrales.
+  - **Negro**: Matorrales densos, alta intensidad.
+  
+- **Según el volumen**: Proporcional a la cantidad y tipo de combustible incendiado.
+- **Según el ángulo de elevación**:
+  - **Vertical**: Poco viento, fácil control.
+  - **Diagonal**: Vientos moderados, peligroso.
+  - **Tumbada**: Fuertes vientos, difícil control.

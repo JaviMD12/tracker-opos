@@ -1,0 +1,86 @@
+# Incendios en Almacenamientos de Sólidos, Líquidos y Gases
+
+## 4.2. Incendios de Almacenamientos de Sólidos
+- **Factores de gravedad**: Naturaleza combustible del sólido, cantidad y continuidad.
+- **Comparativa**: Menor peligrosidad que incendios de líquidos, gases o pulverulentos.
+- **Estrategias de control**:
+  - Desalimentación y pérdida de continuidad.
+  - Controlar la combustión del sólido.
+
+## 4.3. Incendios de Almacenamientos de Líquidos y Gases
+- **Clasificación de incendios**:
+  - **Incendio de charco**.
+  - **Incendio de tanque**.
+  - **Dardo de fuego**.
+- **Riesgos**: Alta inflamabilidad y poder térmico de los combustibles.
+- **Fenómenos asociados**: 
+  - **BLEVE** (Bola de fuego).
+  - Formación de nubes tóxicas.
+
+### 4.3.1. Incendio de Charco
+- **Definición**: Vertido de líquido inflamable que forma un charco.
+- **Condiciones**: 
+  - Espesor reducido o en cubetos.
+  - Necesidad de un punto de ignición.
+- **Evaporación**: Depende de la volatilidad, temperatura, y velocidad del viento.
+- **Precauciones**: Prohibición de prácticas que generen puntos de ignición (ej. fumar, soldar).
+
+### 4.3.2. Incendio de Tanque
+- **Peligrosidad**: Mayor que el incendio de charco.
+- **Fenómeno asociado**: **BoilOver**.
+- **Evolución del incendio**:
+  - Quema de fracciones volátiles.
+  - Formación de una capa superficial caliente.
+  - Onda de calor > 200 ºC que puede provocar explosiones.
+
+### 4.3.3. Dardo de Fuego
+- **Definición**: Fuga de vapores o gases inflamables.
+- **Proceso**: Formación de un chorro turbulento (jet) que se mezcla con el aire.
+- **Ignición**: Si la nube inflamable alcanza un punto de ignición, se produce el incendio.
+
+## 4.4. Incendios de Materiales Pulverulentos
+- **Velocidad de combustión**: Aumenta con la superficie de contacto.
+- **Clasificación de partículas**:
+  - Partículas > 0,5 mm: Combustión rápida, sin explosión.
+  - Partículas < 0,5 mm: Combustión muy rápida, potencial explosivo.
+- **Elección del agente extintor**: Basada en la naturaleza del polvo y condiciones del incendio.
+
+### Capacidades de Agentes Extintores para Incendios de Sólidos Pulverulentos
+1. **Agua**:
+   - Uso frecuente, excepto en metales reactivos.
+   - Aplicación nebulizada.
+   - Limitaciones: No penetra en masas de polvo > 1 m.
+2. **Espuma Física**:
+   - Uso limitado, no penetra en depósitos de polvo.
+3. **Polvo Químico Seco**:
+   - Principalmente para metales reactivos.
+4. **Anhídrido Carbónico y Nitrógeno**:
+   - Efectivos en volúmenes cerrados.
+   - Mantener por períodos prolongados.
+5. **Hidrocarburos Halogenados y Gases Especiales**:
+   - Uso limitado a incendios de pequeña entidad.
+
+# Uso de Espumas en Incendios Industriales
+- **Definición**: Combinación de concentrado espumógeno, agua y aire.
+- **Efectividad**: Depende de la calidad del concentrado y mantenimiento de equipos.
+
+## 5.1. Formas de Generación de Espumas
+1. **Premezcla**: Espumógeno y agua ya mezclados.
+2. **Proporcionador (Hidromezclador)**:
+   - Mezcla agua y espumógeno.
+   - Proporción entre 1% y 6%.
+3. **Tanque a presión sin membrana**: Depósito presurizado con espumógeno.
+4. **Tanque de membrana**: Agua presiona una membrana que expulsa espumógeno.
+5. **Sistema de bombeo**: Compuesto por varios elementos para controlar la mezcla.
+6. **Proporcionador de presión balanceada en línea**: Similar al sistema de bombeo, pero para distancias largas.
+7. **Boquillas auto-aspirantes**: Integradas en la boquilla de descarga.
+8. **Bombas Hidráulicas**: Mezcla mediante difusión volumétrica.
+9. **Otros sistemas portátiles (pro-pak)**: Usados para diversos tipos de incendios.
+
+## 5.2. Tipos de Espuma
+### 5.2.1. Espumas de Baja Expansión
+- **Ratio de expansión**: 20:1.
+- **Uso**: Incendios de líquidos inflamables y fuegos de clase A.
+- **Características**:
+  - Capa hermética a vapores.
+  - Excelente adherencia.

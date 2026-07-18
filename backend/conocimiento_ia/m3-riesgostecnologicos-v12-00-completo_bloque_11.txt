@@ -1,0 +1,88 @@
+# Análisis Estructural de un Columpio
+
+## Componentes del Columpio
+Para un correcto funcionamiento, un columpio debe tener:
+- **Empotramientos**: En la base del conjunto y entre las piezas de la estructura principal (larguero y postes).
+- **Articulaciones**: Permiten que el columpio oscile, situadas en los encuentros con el larguero superior y con el asiento.
+- **Apoyo**: El asiento actúa como un apoyo simple al sentarse.
+
+## Fallos en el Funcionamiento del Columpio
+El columpio dejará de funcionar correctamente si:
+- **Empotramiento**: Se rompe la base o alguna de sus piezas rígidas.
+- **Articulación**: Se bloquea o rompe la articulación columpio-larguero.
+- **Apoyo**: El exceso de velocidad provoca la caída del ocupante.
+
+## Conceptos de Estructuras
+### I. Isostaticidad e Hiperestaticidad
+Los nudos de un conjunto estructural deben analizarse en conjunto, considerando los siguientes conceptos:
+
+### I.1. Estructuras Isostáticas
+- **Definición**: Sistema estructural con equilibrio limitado, suficiente para ser estable.
+- **Análisis**: Se aplica la 1ª ley de Newton:
+  - \( \sum F = 0 \)
+  - \( \sum M = 0 \)
+- **Ventajas**:
+  - No generan nuevas tensiones por diferencias de temperatura.
+- **Inconvenientes**:
+  - Incremento de tensión por fallo de elementos puede causar colapso.
+
+### I.2. Estructuras Hiperestáticas
+- **Definición**: Sistema estructural con fuerte equilibrio y mayor seguridad.
+- **Análisis**: Considera la compatibilidad de movimientos entre elementos.
+- **Ventajas**:
+  - Mayor seguridad y menor costo material.
+  - Elementos de mayores luces y menor sección.
+  - Menores deformaciones ante cargas.
+- **Inconvenientes**:
+  - Sensibilidad ante asentamientos, desplazamientos y variaciones de temperatura.
+  - Requiere refuerzo de secciones junto a nudos rígidos.
+
+### I.3. Estructuras Hipostáticas
+- **Definición**: Sistemas inestables que no logran el equilibrio ante la acción de una fuerza.
+
+## Identificación de Estructuras
+### I.4. Análisis de Estabilidad
+Para identificar la estabilidad de un conjunto estructural, se utilizan los siguientes parámetros:
+
+- **Visión externa**:
+  - **GLE**: Grados de Libertad Externos (valor 3).
+  - **CE**: Coacciones Externas (1ud por apoyo, 2uds por articulaciones, 3uds por empotramientos).
+
+- **Visión interna**:
+  - **GLI**: Grados de Libertad Internos \( GLI = 3(N-1) \).
+  - **CI**: Coacciones Internas, calculadas según la tipología de barras:
+    - Barras apoyadas: \( CI = n-1 \)
+    - Barras articuladas: \( CI = 2(n-1) \)
+    - Barras empotradas: \( CI = 3(n-1) \)
+
+### Cálculo de Estaticidad
+- **Cálculo**: 
+  - Identificar \( GLE \), \( GLI \), \( CE \), \( CI \).
+  - Calcular el grado de hiperestatismo:
+    - \( GL < C \): Estructura hiperestática.
+    - \( GL = C \): Estructura isostática.
+    - \( GL > C \): Estructura hipostática (mecanismo).
+
+### Ejemplo de Cálculo
+- **Datos**:
+  - \( N = 7 \) (total de barras)
+  - \( GLE = 3 \)
+  - \( CE = 6 \)
+  - \( GLI = 3(N-1) = 18 \)
+  - \( CI = 16 \)
+- **Resultados**:
+  - \( GL = 21 \)
+  - \( C = 22 \)
+  - **Conclusión**: \( GL < C \) indica que es una estructura hiperestática.
+
+## Aplicación en el Cuerpo Humano
+El cuerpo humano puede ser analizado como una estructura que combina articulaciones y empotramientos, permitiendo transformarse en un mecanismo, estructura isostática o hiperestática según la situación.
+
+### Ejemplo de Equilibrio
+- **Posiciones**:
+  - **A dos manos**: Apoyos sobre palmas y pies contra pared.
+  - **A dos manos y cabeza**: Apoyos sobre palmas y cabeza, pies contra pared.
+- **Estabilidad**: Ambas posiciones pueden ser consideradas isostáticas, pero la posición más exigente puede ofrecer mayor estabilidad estructural.
+
+## Conclusión
+El análisis de estructuras es fundamental para comprender el comportamiento de sistemas tanto en ingeniería como en aplicaciones prácticas, como el equilibrio del cuerpo humano.

@@ -1,0 +1,101 @@
+# Automotores y Vehículos Ferroviarios
+
+## 3.4.2. Automotores
+- **Definición**: Trenes autopropulsados que forman una única unidad inseparable, con motor integrado en los coches.
+- **Tipos**: 
+  - Tracción diésel
+  - Tracción eléctrica
+- **Características**: La propulsión se distribuye en todos los coches.
+
+## 3.4.3. Coches
+- **Definición**: Vehículos destinados a transportar viajeros.
+- **Tipos**:
+  - Coches litera
+  - Coches de cafetería
+  - Coches restaurante
+  - Furgones generadores
+  - Coches laboratorio
+
+## 3.4.4. Vagones
+- **Definición**: Vehículos dedicados a transportar mercancías.
+- **Tipos**:
+  - Vagones tolvas
+  - Vagones cisternas
+  - Vagones cerrados
+  - Plataformas para automóviles
+  - Plataformas para contenedores
+
+## 3.4.5. Bogies
+- **Definición**: Dispositivos giratorios con dos ejes o más, cada uno con dos ruedas, que soportan un vehículo ferroviario.
+- **Tipos**:
+  - Bogies tractores
+  - Bogies remolcados (sin fuerza de tracción)
+
+## 4. Aparatos de Unión entre Vagones
+### a) Acoples Manuales
+- **Descripción**: Enganche manual por un operario con cadena y gancho.
+- **Componentes**: Gancho de tracción, tensor, palanca del tensor, husillos y brida.
+
+### b) Acoples Semipermanentes
+- **Descripción**: Unen vehículos de ramas que circulan siempre unidas, enganchados y desenganchados en el taller.
+
+### c) Acoples Automáticos
+- **Descripción**: Se enganchan solos al topar los vehículos, sin necesidad de operario.
+- **Ejemplo**: Acople Scharfenberg, utilizado en la mayoría de automotores europeos.
+
+## 5. Dispositivos de Frenos
+### 5.1. Tubería de Freno Automático (TFA)
+- **Descripción**: Tubería de aire comprimido que recorre todo el tren.
+- **Presiones**:
+  - Afloje: 5 kg/cm²
+  - Frenada máxima: 3,5 kg/cm²
+  - Urgencias: 0 kg/cm²
+
+### 5.2. Tubería de Depósitos Principales (TDP)
+- **Descripción**: Alimenta válvulas relé del equipo de freno.
+- **Presión**: 7-10 kg/cm².
+
+### 5.3. Semiacoplamientos (SA)
+- **Descripción**: Conectan tuberías de aire comprimido entre vehículos.
+
+### 5.4. Grifo de Aislamiento
+- **Descripción**: Permite la continuidad o cierre de tuberías.
+- **Colores**: 
+  - TFA: Azul
+  - TDP: Rojo
+
+### 5.5. Freno de Estacionamiento
+- **Descripción**: Consiste en un volante que gira un tornillo (husillo) para frenar el vagón.
+
+## 6. Elementos de Seguridad de los Trenes
+- **Normativa**: Especificaciones Técnicas de Interoperabilidad (ETI) y Especificaciones Técnicas de Homologación (ETH).
+- **Plan de autoprotección**: Conjunto de acciones para controlar y prevenir riesgos.
+
+### a) Extintores de Emergencia
+- **Distribución**:
+  - Cabeza tractora: 2 extintores en cabina (polvo 6 kg 27A 233B) y 2 en sala de máquinas.
+  - Cada coche: 1 extintor (polvo 6 kg 27A 233B).
+
+### b) Ventanas de Socorro
+- **Descripción**: Mínimo dos por coche, señalizadas y con martillo para rotura.
+
+### c) Escaleras de Emergencia
+- **Ubicación**: Normalmente en el almacén de la cafetería y en la sala de máquinas.
+
+### d) Puertas de Acceso
+- **Descripción**: Sistema de emergencia para apertura desde el exterior.
+
+### e) Cuadro Eléctrico de Instalaciones
+- **Ubicación**: En las dos primeras cabezas motrices.
+
+### f) Alumbrado de Emergencia
+- **Descripción**: Baterías auxiliares con capacidad de dos horas.
+
+### g) Depósitos de Combustible
+- **Capacidad**: Aproximadamente 1400 l de gasoil.
+
+### h) Cable de Shuntado
+- **Descripción**: Dispositivo de seguridad para proteger equipos durante trabajos en la vía.
+
+### i) Pértiga y Cable de Puesta a Tierra
+- **Descripción**: Dispositivo de seguridad para trabajos en la vía.

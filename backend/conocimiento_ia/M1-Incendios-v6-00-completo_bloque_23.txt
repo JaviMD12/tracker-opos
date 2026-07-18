@@ -1,0 +1,77 @@
+# Temario de Oposición: Incendios de Interior y Ventilación
+
+## 1. Conceptos Clave
+
+### 1.1. Parámetros Físicos
+- **Densidad (ρ)**: kg/m³
+- **Presión (P)**: Pa
+- **Volumen (V)**: m³
+- **Temperatura Absoluta (Ta)**: ºK
+- **Temperatura (T)**: ºC
+
+### 1.2. Referencia de Aire
+- **Temperatura**: 20ºC
+- **Densidad**: 1.2 kg/m³
+
+## 2. Ley de Stefan-Boltzmann
+- **Potencia emitida por unidad de superficie (P)**: W/m²
+- **Relación**: La potencia se ajusta a la cuarta potencia de la temperatura.
+- A **500 ºC**, la energía radiada es **64 veces mayor** que a temperatura ambiente.
+
+## 3. Estratos en el Incendio
+- **Estrato Superior**: Gases de incendio que ascienden, con presiones superiores a las exteriores.
+- **Estrato Inferior**: Aire frío y denso, con presiones por debajo de las exteriores.
+- **Plano Neutro**: Límite horizontal donde las presiones son idénticas a las exteriores.
+
+## 4. Fases del Incendio
+
+### 4.1. Fase de Crecimiento
+- **Pirólisis**: Comienza a altas temperaturas, enriqueciendo el colchón de gases en combustibles.
+- **Inflamabilidad**: Depende de la temperatura y concentración de oxígeno.
+- **Rollover**: Inflamación puntual en el colchón de gases.
+- **Flashover**: Inflamación generalizada en todo el recinto.
+
+### 4.2. Fase de Pleno Desarrollo
+- **Consumo de Oxígeno**: Disminuye debido a:
+  - Combustión generalizada.
+  - Incendio confinado o con ventilación insuficiente.
+  - Demanda elevada de oxígeno.
+- **Temperatura Interior**: Depende de la potencia del incendio y las pérdidas de calor.
+- **Incendios Ventilados vs. Confinados**:
+  - Ventilados: Estratos diferenciados, aire fresco en la parte inferior.
+  - Confinados: Plano neutro cae al suelo, visibilidad nula.
+
+### 4.3. Fase de Decaimiento
+- **Pérdida de Temperatura**: El incendio decae por consumo de combustible o falta de ventilación.
+- **Curva de Temperaturas**: Se estabiliza, la potencia no depende del combustible sino de la falta de oxígeno.
+
+## 5. Incendios Limitados
+
+### 5.1. Incendios Limitados por el Combustible (ILC)
+- **Definición**: Emisión de calor y crecimiento limitados por características del combustible.
+- **Potencia del Incendio (Q)**:
+  - Fórmula: \( Q = m_c \cdot H_c \)
+  - **m_c**: tasa de combustión [kg/s]
+  - **H_c**: poder calorífico del combustible [MJ/kg]
+
+### 5.2. Incendios Limitados por la Ventilación (ILV)
+- **Definición**: Crecimiento limitado por la cantidad de oxígeno disponible.
+- **Potencia del Incendio (Q)**:
+  - Fórmula: \( Q = k \cdot H_c \cdot A \cdot h \)
+  - **k**: constante (k=0,092)
+  - **A**: área de la apertura de ventilación [m²]
+  - **h**: altura de la apertura de ventilación [m]
+
+### 5.3. Regla de Thornton
+- **Energía por Oxígeno**: 13,1 kJ/g de oxígeno.
+
+## 6. Ejemplos y Cálculos
+- **Ejemplo de Potencia**: Calcular potencia de un incendio que reduce la concentración de oxígeno de 21% a 5% en 5 minutos en un recinto de 80 m³.
+
+## 7. Diferencias entre ILC e ILV
+- **Evolución de Parámetros**: La transición de ILC a ILV afecta significativamente las condiciones interiores y la intervención de bomberos.
+- **Concentración de Gases Tóxicos**: Aumenta en ILV, generando riesgos adicionales.
+
+---
+
+Este temario proporciona una visión estructurada y técnica sobre incendios de interior y ventilación, incluyendo definiciones, fórmulas y ejemplos relevantes para la preparación de oposiciones.

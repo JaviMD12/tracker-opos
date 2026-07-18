@@ -1,0 +1,91 @@
+# Acciones del Terreno y Estabilización de Estructuras
+
+## 1. Acciones del Terreno
+
+### Suelos
+- **Cohesivos (arcillas)**: 5 kN/m por cada metro de profundidad.
+- **No cohesivos (grava, arena)**: 3.3 kN/m por cada metro de profundidad.
+
+### Acciones Variables
+- **Sobrecarga de Uso**:
+  - Zonas sin acceso a personas: **1 kN/m²**
+  - Zonas con acceso a personas: 
+    - General: **2 kN/m²**
+    - Uso comercial: **5 kN/m²**
+  - Estabilizaciones urgentes: **0 kN/m²**.
+
+- **Viento**:
+  - Valor general: **0.5 kN/m²**
+  - Elementos expuestos: **1.5 kN/m²**.
+
+- **Nieve**:
+  - Altitud < 1000 m: **1.0 kN/m²**.
+  - Altitud > 1000 m: Estudio específico requerido.
+
+## 2. Volumen General de Medios Necesarios
+
+### Resistencia a Compresión Axial
+- **Puntales A30 (h = 3 m)**: **17 kN**.
+- **Tablones C18 (200 x 76 mm; h = 3 m)**:
+  - 2 tablones embridados: **57 kN**.
+  - 3 tablones embridados: **201 kN**.
+  - 4 tablones embridados: **341 kN**.
+
+### Cálculos de Capacidad Resistente
+- **2 tablones embridados**: 
+  - Compresión axial: **57 kN**.
+  - Masa: **35 kg**.
+- **1 unidad de puntal telescópico A30**: 
+  - Compresión axial: **15 kN**.
+  - Masa: **10 kg**.
+
+## 3. Ubicación de los Elementos del Apeo
+
+### Consideraciones para la Estabilización
+- Los nudos intermedios se consideran como empotramientos.
+- Puntos de momento nulo:
+  - Nudos apoyados.
+  - A un tercio o un quinto del nudo empotrado.
+
+### Ejemplo de Ubicación
+- Puntal debe colocarse donde la viga actúe como articulación (momento nulo).
+
+## 4. Apeos Estandarizados
+
+### Proceso de Estabilización
+- Cálculo de la estructura auxiliar es necesario antes de iniciar el apeo.
+- Diseño de apeos estandarizados para intervenciones frecuentes.
+
+### Materiales y Recursos
+- Furgón de apeos con material limitado:
+  - Capacidad para desarrollar **4 conjuntos estructurales para h < 3 m**.
+  - Capacidad para **2 conjuntos estructurales para h < 6 m**.
+
+## 5. Organización de los Trabajos
+
+### Aspectos Primordiales
+- Evaluar si el apeo se realiza solo con bomberos o con otros servicios.
+- Determinar el tipo de apuntalamiento y materiales necesarios.
+- Previsión de refuerzos de personal y materiales.
+- Duración estimada del apeo.
+
+### Zonas de Intervención
+- **Área de intervención**: Zona de riesgo de colapso.
+- **Área de apoyo logístico**: Acopio de materiales y tareas auxiliares.
+
+## 6. Capacidad de los Recursos Disponibles
+
+### Medidas hacia la Población
+- **Confinamiento de ocupantes**: Mantener a los habitantes en el edificio.
+- **Evacuación de ocupantes**: Asegurar rutas de escape y apeos de emergencia.
+
+### Medidas hacia la Edificación
+- Apear para estabilizar.
+- Realizar demoliciones controladas si es necesario.
+- Cortar servicios (electricidad, gas, agua) para evitar riesgos adicionales.
+
+## 7. Valoración Dinámica de la Estabilización
+
+### Revaluación Continua
+- Reevaluar el planteamiento estructural y soluciones aplicadas.
+- Comprobar el éxito de las acciones y prolongar medidas de seguridad si es necesario.

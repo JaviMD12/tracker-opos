@@ -1,0 +1,79 @@
+# Ventilación en Incendios
+
+## Tipos de Ventiladores
+
+### Ventiladores Eléctricos
+- **Conectados a generador o red eléctrica**: 
+  - Ventajas: Silenciosos, sin gases de combustión, aislables a nivel ATEX, utilizables en extractores.
+  - Desventajas: Dependencia de cableado eléctrico, potencias inferiores a motores térmicos.
+
+### Ventiladores Eléctricos a Batería
+- **Características**: Alimentados por batería incorporada.
+- **Limitaciones**: Potencia y autonomía limitadas, solo viables como ventiladores auxiliares.
+
+### Ventiladores Hidráulicos por Turbina
+- **Funcionamiento**: Turbina solidaria a la hélice, alimentada por agua de la bomba de bomberos.
+- **Ventajas**: Evitan gases de escape y son aptos para extracción.
+- **Desventajas**: Requieren logística mayor y esfuerzo en instalación.
+
+### Ventilación Hidráulica por Flujo de Manguera
+- **Método**: Movimiento de gases por arrastre de flujo de agua.
+- **Uso**: Opción para ventilación final tras extinguir el incendio.
+
+## Clasificación Táctica de Ventilación Forzada
+- **Ventilación Defensiva**: 
+  - No atraviesa el foco del incendio, evitando aporte adicional de oxígeno.
+  
+- **Ventilación Ofensiva**: 
+  - Atraviesa el foco del incendio, proveyendo aire fresco y generando crecimiento en incendios ILV.
+
+## Ventilación en Presión Positiva Defensiva (VPP Defensiva)
+- **Objetivo**: Expulsar gases acumulados sin aportar oxígeno.
+- **Ventajas**:
+  - Mejora la supervivencia de víctimas.
+  - Permite operaciones de búsqueda con visibilidad.
+  - Asegura rutas de escape.
+  
+- **Pasos**:
+  1. Confinamiento del incendio.
+  2. Apertura de salida de gases.
+  3. Apertura de entrada de aire fresco.
+  4. Inicio de ventilación.
+  5. Valoración del funcionamiento.
+  6. Progresión interior rápida.
+  7. Búsqueda y rescate.
+
+## Ventilación en Presión Positiva Ofensiva (VPP Ofensiva)
+- **Objetivo**: Cambiar condiciones en el recinto de incendio para facilitar el avance.
+- **Ventajas**:
+  - Mejora visibilidad y supervivencia de víctimas.
+  - Reduce temperatura y cantidad de combustible.
+
+- **Pasos**:
+  1. Apertura de salida de gases.
+  2. Apertura de entrada de aire fresco.
+  3. Inicio de ventilación.
+  4. Valoración del funcionamiento.
+  5. Progresión interior rápida.
+  6. Control del incendio.
+
+### Datos Técnicos Clave
+- **Densidad del aire**: ρ = 1,2 kg/m³ a 25ºC.
+- **Densidad de gases de incendio**: ρ = 0,46 kg/m³ a 500ºC.
+
+## Presurización de Recintos
+- **Objetivo**: Crear diferenciales de presión para proteger zonas anexas del incendio.
+- **Funcionamiento**: Flujo de gases se desplaza de áreas de mayor a menor presión, evitando la entrada de gases de incendio.
+
+## Uso de Ventiladores de Presión Positiva
+- **Funcionamiento**: Crean un flujo de aire a gran velocidad mediante hélice radial.
+- **Huella del Ventilador**:
+  - **Zonas**:
+    - Dardo a alta velocidad.
+    - Bulbo de aire succionado.
+
+### Consideraciones de Seguridad
+- Coordinar con técnicas de aplicación de agua.
+- Prever crecimiento del incendio.
+- No situar personal en la ruta caliente de gases.
+- Abrir salida de gases primero para evitar mezcla con aire exterior.

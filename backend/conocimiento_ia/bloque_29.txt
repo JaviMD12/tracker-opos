@@ -1,0 +1,54 @@
+# Técnicas de Intervención en Incendios
+
+## 1. Efectos sobre la Propagación del Incendio
+
+- **Principio de Presurización**: La presurización de un recinto adyacente al incendio evita la propagación hacia este.
+- **Diferenciales de presión**: Diferenciales de presión relativamente pequeños (5 Pa) pueden evitar la propagación de gases, incluso con pequeñas aperturas.
+
+## 2. Técnicas de Intervención
+
+### Objetivos de las Técnicas de Intervención
+- Reducir la inflamabilidad de los gases de incendio.
+- Reducir la tasa de pirólisis de los combustibles.
+- Reducir la temperatura del recinto.
+- Aumentar la visibilidad en el interior del recinto.
+- Mejorar la respirabilidad de la atmósfera.
+- Rastrear la presencia de víctimas en el interior.
+
+### 1. Aplicación de Agua
+- **Efecto**: Genera enfriamiento por absorción de calor y dilución de los gases de incendio con vapor de agua.
+- **Importancia**: Conocer cuándo y por qué se realiza la aplicación es fundamental para su correcta utilización.
+
+#### 1.1. Ataque Indirecto
+- **Descripción**: Inundación del recinto con vapor de agua desde un punto exterior.
+- **Ventajas**:
+  - Permite un ataque desde una posición segura.
+- **Inconvenientes**:
+  - Pérdida de visibilidad.
+  - Posibles quemaduras por exceso de vapor.
+  - Desplazamiento de gases de incendio a otras estancias.
+
+#### Proceso de Aplicación
+- **Desde un punto exterior**: Aplicación de agua prolongada hasta llenar el recinto con vapor.
+- **Condiciones**: La aplicación debe ajustarse a las condiciones del incendio y la geometría del recinto.
+
+#### Parámetros de Aplicación
+- **Caudal**: Medio a alto (100 lpm a 500 lpm).
+- **Cono**: 15º a 30º.
+- **Patrón de pulsaciones**:
+  - Pulsaciones de media a larga duración (3’’ a 20’’).
+  - Pausas de entre 15” y 45” para permitir la distribución del vapor.
+
+#### Ejemplo de Cálculo
+- **Recinto confinado**: 5x5 m de planta y 2,5 m de altura.
+- **Volumen de agua líquida necesario**: 30,3 L de vapor de agua (equivalente a dos pulsaciones de 6” a 150 lpm con efectividad del 100%).
+
+### Consideraciones de Seguridad
+- Valorar la aplicación de ataque indirecto con presencia de víctimas.
+- Ausencia de personal de intervención en el interior del recinto.
+- Controlar el desplazamiento de gases de incendio a otras estancias.
+
+## Resumen de Ataque Indirecto
+- **Objetivo**: Extinción mediante inundación con vapor de agua.
+- **Movimiento de lanza**: En "T" para fuerte gradiente térmico o en "O" para grandes volúmenes.
+- **Consideraciones de seguridad**: Evaluar condiciones del incendio y posibles riesgos para víctimas.

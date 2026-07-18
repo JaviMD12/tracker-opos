@@ -1,0 +1,127 @@
+# 5.1.2. Concentración de Vapores
+
+## Combustible/Comburente
+No todas las mezclas combustible/comburente son susceptibles de entrar en combustión. Existen límites de inflamabilidad:
+
+- **Límite Superior de Inflamabilidad (LSI)**: Máxima concentración de vapores combustibles en el aire capaz de entrar en combustión. Por encima del LSI no hay combustión por falta de comburente.
+- **Límite Inferior de Inflamabilidad (LII)**: Mínima concentración de vapores combustibles en el aire capaz de entrar en combustión. Por debajo del LII no hay combustión por falta de combustible.
+
+### Rango de Inflamabilidad
+- **Punto Ideal de Combustión (PIC)**: Condiciones óptimas para la combustión.
+- **Punto Estequiométrico (PE)**: Punto donde se genera una explosión si la reacción se produce.
+
+### Tabla 3. Rangos de Inflamabilidad
+
+| SUSTANCIA               | L.I.I. | L.S.I. |
+|-------------------------|--------|--------|
+| AMONIACO                | 16     | 25     |
+| MONÓXIDO DE CARBONO    | 15,5   | 74     |
+| METANO                  | 5      | 15     |
+| ALCOHOL ETÍLICO        | 4,3    | 7,1    |
+| CLORURO DE VINILO      | 3,6    | 33     |
+| ETANO                   | 3      | 14,4   |
+| ACETILENO               | 2,5    | 81     |
+| ACETONA                 | 2,5    | 19,3   |
+| PROPILENO               | 2,4    | 11     |
+| PROPANO                 | 2,2    | 9,5    |
+| BUTANO                  | 1,8    | 8,4    |
+| PENTANO                 | 1,5    | 7,8    |
+| GASOLINA                | 1,5    | 7,6    |
+| BENCENO                 | 1,4    | 7,1    |
+| AGUARRÁS                | 1,1    | 6      |
+| GASOIL                  | 0,6    | 6,5    |
+
+### Tabla 4. Temperaturas de Inflamación y Autoinflamación
+
+| COMBUSTIBLE            | TEMPERATURA INFLAMACIÓN | TEMPERATURA AUTOINFLAMACIÓN |
+|------------------------|-------------------------|------------------------------|
+| Poliamida              | 420 ºC                  | 425 ºC                       |
+| Polietileno            | 345 ºC                  | 490 ºC                       |
+| Aceite                 | 232 ºC                  | 343 ºC                       |
+| Madera                 | 225 ºC                  | 280 ºC                       |
+| Glicerina              | 160 ºC                  | 370 ºC                       |
+| Gasoil                 | 60 ºC                   | 330 ºC                       |
+| Alcohol etílico        | 18 ºC                   | 425 ºC                       |
+| Acetona                | -18 ºC                  | 540 ºC                       |
+| Gasolina               | -39 ºC                  | 285 ºC                       |
+| Butano                 | -60 ºC                  | 287 ºC                       |
+| Propano                | -104 ºC                 | 450 ºC                       |
+| Gas natural            | -180 ºC                 | 482 ºC                       |
+| Metano                 | -188 ºC                 | 537 ºC                       |
+| Hidrógeno              | -259 ºC                 | 580 ºC                       |
+
+# 5.3. Energía de Activación. Calor
+Para iniciar un fuego, los reactivos (comburente y combustible) deben estar en condiciones favorables. La **energía de activación** es la energía mínima necesaria para iniciar la reacción, proporcionada por fuentes de ignición:
+
+- **Origen químico**: Reacciones exotérmicas que generan calor.
+- **Origen mecánico**: Choques o roces entre metales que generan calor y chispas.
+- **Origen eléctrico**: Calor generado por el paso de corriente eléctrica.
+- **Origen térmico o directo**.
+- **Origen biológico**: Calor de la fermentación.
+- **Origen natural**: Calor de rayos.
+
+## Fuentes de Ignición
+- **Llamas**: Fuente segura de ignición para vapores inflamables.
+- **Chispas eléctricas**: Deben tener suficiente energía para ignición.
+- **Superficies calientes**: Pueden ser fuentes de ignición si tienen suficiente temperatura.
+- **Brasas**: Calor por radiación en la combustión final de madera.
+
+# 5.2. Comburente
+Un **comburente** es un agente oxidante que permite la combustión. El oxígeno (O₂) es el comburente más común, presente en aproximadamente un 21% en volumen en el aire. 
+
+- Proporción mínima de oxígeno necesaria para la combustión: **15%** (por debajo de este porcentaje, el fuego se apaga).
+- Algunos compuestos, como la nitrocelulosa, pueden arder sin aporte externo de oxígeno.
+
+### Tabla 5. Composición del Aire (Comburente)
+
+| Composición del Aire | % en Volumen | % en Peso |
+|----------------------|---------------|-----------|
+| Nitrógeno            | 78,03         | 75,45     |
+| Oxígeno              | 20,99         | 23,2      |
+| Argón                | 0,94          | 1,3       |
+| CO₂                  | 0,03          | 0,05      |
+| Otros                | 0,01          | despreciable |
+
+# 5.4. Reacciones en Cadena (REC)
+Las reacciones en cadena son procesos que permiten la progresión de la combustión. Se caracterizan por:
+
+- **Automantenimiento**: La combustión se mantiene por eliminación de radicales libres.
+- La velocidad de reacción se duplica con un aumento de **10 ºC** y puede multiplicarse por un millón con un aumento de **200 ºC**.
+
+# 5.5. Agentes Pasivos
+Los **agentes pasivos** afectan el triángulo y tetraedro del fuego, absorbiendo o robando energía (calor). Ejemplos:
+
+- Gases no inflamables: Dióxido de carbono y vapor de agua.
+- Hollín: Partículas de carbón.
+- Agua: Temperatura y humedad.
+- Nitrógeno: Componente inerte del aire (79% en volumen).
+
+# Sustancias Combustibles e Inflamables
+- **Pirólisis**: Descomposición de una sustancia por calor.
+- **Punto de ignición**: Temperatura a la cual un combustible líquido produce vapores suficientes para mantener la combustión.
+- **Punto de inflamación**: Temperatura a la cual un combustible líquido emana vapores suficientes para formar una mezcla inflamable.
+
+## Diferencias
+- **Sustancia combustible**: Punto de ignición bajo, capaz de mantener el fuego.
+- **Sustancia inflamable**: Facilita la emisión de gases que arden.
+
+# 6. Tipos de Incendios
+Clasificación según la norma EN 2:
+
+## 6.1. Según la Naturaleza del Combustible
+### 6.1.1. Fuegos Clase A
+- Originados por combustibles sólidos (madera, carbón, paja).
+- Producen brasas y tienen un alto punto de fusión.
+
+### 6.1.2. Fuegos Clase B
+- Provocados por combustibles líquidos o sólidos con bajo punto de fusión.
+- No producen brasas.
+
+### 6.1.3. Fuegos Clase C
+- Fuegos de gases (propano, butano, metano).
+
+### 6.1.4. Fuegos Clase D
+- Originados por metales, difíciles de extinguir.
+
+### 6.1.5. Fuegos Clase F
+- Originados por aceites de cocina y grasas.

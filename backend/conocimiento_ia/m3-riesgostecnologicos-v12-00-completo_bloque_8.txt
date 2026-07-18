@@ -1,0 +1,82 @@
+# Productos de Acero en Construcción
+
+## III.1.6 Acero Laminado en Caliente (Chapasy Perfiles)
+
+### Perfiles Disponibles
+- **IPN**
+- **IPE**
+- **HEB** (base)
+- **HEA** (ligero)
+- **HEM** (pesado)
+- **UPN** (U normal)
+- **UPE** (U europeo)
+- **U** (U comercial)
+- **L** (L lados iguales)
+- **LD** (L lados desiguales)
+- **T**
+- **Redondo**
+- **Cuadrado**
+- **Rectangular**
+- **Hexagonal**
+
+### Chapas
+- **Medias:** 3 mm < e < 4,75 mm
+- **Gruesas:** e > 4,75 mm
+
+### Perfiles Más Comunes
+- **Perfiles “I”:** IPN e IPE
+  - **Diferencia:** El espesor del ala del IPN disminuye con la distancia del alma, mientras que el del IPE permanece constante. El IPN está en desuso por requerir más material para la misma sección resistente.
+  
+- **Perfiles “H”:** HEA/HEB/HEM
+  - **Características:** Mayor resistencia en sentido longitudinal y transversal, recomendables para pilares. El HEB es el más común.
+
+- **Perfiles “U”:** UPE y UPN
+  - **Uso:** Vigas de poca entidad o elementos constructivos metálicos.
+
+### Otros Perfiles
+- **Modelos en L, LD y T.**
+
+## III.1.7 Productos Huecos para la Construcción
+- **Acabados en Caliente:** Perfiles huecos estructurales de sección constante, espesor ≥ 2 mm.
+- **Conformados en Frío:** Perfiles huecos estructurales soldados, espesor ≥ 2 mm.
+
+## III.1.8 Perfiles de Sección Abierta Conformados en Frío
+- **Tipologías Frecuentes:** Secciones en L, U, C, Z y Omega.
+
+## III.1.9 Productos Planos de Acero Recubiertos
+- **Revestimientos Orgánicos:** Poliester, poliuretano, PVDF, resina epoxi, etc. Proporcionan brillo, dureza y resistencia química.
+
+## III.2 Acero de Armar
+- **Definición:** Productos fabricados en caliente para armaduras pasivas de hormigón armado.
+- **Marco Legal:** UNE EN 10080
+- **Productos Comerciales:** Barras rectas o rollos de acero corrugado soldable.
+- **Diámetros Disponibles:** 6, 8, 10, 12, 14, 16, 20, 25, 32 y 40 mm.
+- **Nomenclatura:** B 400/500 S/SD
+  - **B:** Acero en barras
+  - **Clase Resistente (Límite Elástico):** 400/500 MPa (N/mm²)
+  - **Propiedades:** S = Soldable; SD = Soldable y Dúctil.
+
+### Identificación del Acero para Hormigón Armado
+- **B 400 S:** Corrugas con misma inclinación, distinta separación.
+- **B 400 SD:** Corrugas con misma inclinación y separación.
+- **B 500 S:** Corrugas con misma inclinación, una serie de dos corrugas.
+- **B 500 SD:** Dos sectores iguales, series de dos corrugas con distinta inclinación.
+
+## III.3 Acero para Pretensados
+- **Definición:** Productos de acero para fabricación de armaduras activas.
+- **Nomenclatura del Acero:** Y1570, Y1670, Y1770, Y1860
+  - **Clase Resistente (Carga de Rotura):** 1570/1670/1770/1860 MPa (N/mm²).
+- **Coeficientes de Seguridad:**
+  - **Estáticas:** 70% de la carga de rotura.
+  - **Dinámicas:** 40% de la carga de rotura.
+
+### Productos Comerciales
+- **Alambre:** Sección maciza, liso o grafilado.
+- **Cordón:** Alambres arrollados helicoidalmente.
+- **Cable:** Compuesto por cordones metálicos dispuestos helicoidalmente.
+
+### Nomenclatura del Cable
+- **Formato:** C x A + N
+  - **C:** Número de cordones
+  - **A:** Número de alambres en cada cordón
+  - **N:** Número de almas textiles.

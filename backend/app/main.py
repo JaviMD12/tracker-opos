@@ -26,6 +26,7 @@ from app.routers import (  # noqa: E402
     actividad,
     auth,
     chat,
+    contacto,
     convocatorias,
     dashboard,
     marcas,
@@ -75,6 +76,7 @@ app.add_middleware(
 
 app.include_router(actividad.router)
 app.include_router(auth.router)
+app.include_router(contacto.router)
 app.include_router(marcas.router)
 app.include_router(teorica.router)
 app.include_router(dashboard.router)

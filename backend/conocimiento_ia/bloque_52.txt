@@ -1,0 +1,56 @@
+# Incendios en Túneles
+
+## Supuestos Prácticos
+
+### 1. Incendio en un Túnel con Dos Tubos ComuniCados
+
+#### Planteamiento:
+- Se registra un incendio en un túnel que cuenta con dos tubos.
+
+#### Intervención:
+1. Detener el tráfico en ambos tubos del túnel.
+2. Los bomberos deben entrar por el tubo no afectado, permitiendo solo el acceso a vehículos de extinción.
+3. Si el incendio es causado por un vehículo, dirigir esfuerzos a sofocar el fuego (zona aguas abajo) y evacuar la zona libre de humo (zona aguas arriba).
+4. Equipos de refuerzo deben ayudar en el control y extinción del fuego o en la evacuación y rescate de personas atrapadas (aguas abajo).
+
+**Nota:** En zonas urbanas, los vehículos aguas abajo pueden tener dificultades para salir cuando el humo se propaga. Se deben emplear técnicas de ventilación en presión positiva (VPP) tras la extinción del incendio. Si el fuego no está controlado, invertir el flujo de aire para ventilar el humo sin aumentar la potencia del incendio.
+
+### 2. Incendio en un Túnel de un Solo Tubo con Circulación Bidireccional
+
+#### Planteamiento:
+- Se registra un incendio en un túnel que cuenta con un solo tubo.
+
+#### Intervención:
+1. Evaluar la situación y asegurar que la dirección del flujo de aire es favorable.
+2. Atacar el incendio; si no es posible, dejar espacio para operaciones de evacuación. Evacuar a los ocupantes en la zona libre de humo (aguas arriba) y habilitar el acceso aguas abajo para rescate.
+3. Tras el rescate y la extinción del fuego, usar un ventilador para expulsar el humo (técnicas VPP).
+4. Si no se puede sofocar el fuego, invertir la dirección del flujo de aire para mejorar la visibilidad en la zona aguas abajo.
+
+## Consideraciones Técnicas
+
+- **Instalaciones adecuadas:** Los túneles deben contar con instalaciones que faciliten la evacuación y la actuación segura de los equipos de bomberos.
+- **Técnicas de intervención:**
+  - Despliegue de tendidos para extinción.
+  - Rescate y evacuación de víctimas.
+  - Control de la ventilación.
+  - Orientación y progresión en túneles.
+  
+- **Valoración del incendio:**
+  - Escenario dinámico con muchas variables.
+  - Necesidad de intervención rápida: los incendios de vehículos se propagan rápidamente en los primeros **5-10 minutos**.
+  - Intervención ideal dentro de los **10 minutos** siguientes a la alarma de incendio.
+
+- **Lectura del incendio:**
+  - Debe ser integral, identificando acciones prioritarias y el estado de recursos.
+  - Momentos de valoración: inicial, exterior, interior, continua y final.
+  - Indicadores a considerar:
+    - Características del túnel.
+    - Temperatura de los gases.
+    - Nivel de radiación.
+    - Tasa de liberación.
+    - Propagación del fuego.
+    - Características y distribución de humo, llamas y flujo de gases.
+    - Amenazas en el entorno.
+    - Características del pavimento.
+    - Presencia de personas en el túnel.
+    - Equipamiento disponible.

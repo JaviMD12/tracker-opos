@@ -1,0 +1,79 @@
+# Nudos y Polipastos
+
+## 1. Nudos
+
+### 1.2. Nudos Tensores
+
+- **Ventaja mecánica**: 3:1, permite realizar una gran fuerza de tracción.
+- **Usos**: Tensados rápidos y fáciles con poco esfuerzo.
+
+#### 1.2.6. Nudos Direccionales
+
+##### a) Nudo de Siete
+- **Características**: Nudo direccional con un firme y un seno en un sentido.
+- **Usos**: Tensado de tirolinas, tensores para arriostrar elementos.
+- **Pérdida de resistencia**: 30-35%.
+
+##### b) Nudo Romano
+- **Características**: Más resistente que el nudo de siete, se afloja mejor.
+- **Usos**: Tensores de cuerda, tirolinas.
+- **Pérdida de resistencia**: 20-30%.
+
+#### 1.2.7. Nudos Especiales
+
+##### a) Nudo Dinámico (Medio Ballestrinque)
+- **Usos**: Aseguramiento, descensor de fortuna.
+- **Fuerza de frenado**: 150-300 kg.
+- **Pérdida de resistencia**: 55%.
+
+##### b) Nudo de Mula (Fuga)
+- **Usos**: Bloqueo de cuerdas, remate en maniobras de seguridad.
+- **Características**: Combinado con nudo dinámico, es un buen sistema de embrague.
+
+## 2. Polipastos
+
+### 2.1. Definición y Utilidades
+- **Definición**: Combinación de poleas fijas y móviles que permite realizar un esfuerzo menor para mover cargas.
+- **Usos**:
+  - Izado de material.
+  - Maniobras de rescate.
+  - Tensar tirolinas, remolcado de vehículos.
+
+### 2.2. Componentes de los Polipastos
+
+#### 2.2.1. Polea Fija
+- **Ventaja mecánica**: 1:1.
+- **Ejemplo**: Balancines de parques infantiles.
+
+#### 2.2.2. Polea Móvil
+- **Ventaja mecánica**: 2:1.
+- **Ejemplo**: Carretilla.
+
+#### 2.2.3. Polifreno
+- **Características**: Combinación de polea y freno.
+- **Pérdida de VM**: Aproximadamente 10%.
+
+### 2.3. Tipos de Polipastos
+
+#### 2.3.1. Polipastos Simples
+- **Ventaja mecánica**: Suma de poleas móviles.
+- **Ejemplo**: 
+  - **Polipasto 2:1**: F = P / 2.
+  - **Polipasto 3:1**: Combinación de polea móvil y fija.
+
+### 2.3.2. Polipasto 3:1
+- **Características**: Muy versátil para elevar cargas.
+- **Material necesario**: Polifreno, polea, bloqueador, dos mosquetones.
+- **Procedimiento**: Izar la carga hasta que el bloqueador llegue al polifreno, repetir hasta que la carga esté arriba. 
+
+---
+
+**Datos Clave**:
+- **Nudo de Siete**: Pérdida de resistencia 30-35%.
+- **Nudo Romano**: Pérdida de resistencia 20-30%.
+- **Nudo Dinámico**: Pérdida de resistencia 55%.
+- **Polea Fija**: Ventaja mecánica 1:1.
+- **Polea Móvil**: Ventaja mecánica 2:1.
+- **Polifreno**: Pérdida de VM 10%.
+- **Polipasto 2:1**: F = P / 2.
+- **Polipasto 3:1**: Combinación de polea móvil y fija.

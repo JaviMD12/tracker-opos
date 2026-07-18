@@ -1,0 +1,89 @@
+# Parte 6. Riesgo eléctrico
+
+## Tácticas de intervención
+
+El mando de la intervención decide el planteamiento táctico a emplear, dependiendo de las conclusiones obtenidas durante la valoración, que es un proceso continuo.
+
+### 1. Establecimiento de prioridades
+
+Las prioridades de actuación se establecen según el tipo de siniestro y el estado en el que se encuentra. En intervenciones con riesgo eléctrico, se puede optar por un planteamiento ofensivo, defensivo o una mezcla de ambos.
+
+#### 1.1. Planteamiento defensivo: control de propagación
+
+- Si no hay medios suficientes, el planteamiento es defensivo.
+- Ejemplo: incendio forestal por caída de un cable eléctrico de alta tensión.
+  - Mantener distancias de seguridad.
+  - Avisar a la compañía suministradora para el corte de suministro.
+  - Balizar la zona si el incendio es manejable; pedir ayuda si es de gran dimensión.
+  
+- Ejemplo: incendio en un centro de transformación.
+  - Evacuación del edificio por seguridad estructural.
+  - Plan de zonificación, control de propagación, petición de corte a la compañía, ventilación táctica, refrigeración y extinción.
+
+#### 1.2. Planteamiento ofensivo: corte de suministro y/o rescate
+
+- Si hay medios suficientes, el planteamiento es ofensivo.
+- Ejemplo: incendio en un transformador pequeño.
+  - Avisar a la compañía eléctrica para el corte de suministro.
+  - Controlar la propagación del incendio y extinguir con chorro discontinuo de agua o espuma, o con extintor de CO₂ y/o polvo (hasta 35 kV).
+
+### Medidas de seguridad
+
+- Uso de equipo de protección individual (EPI) adecuado.
+- Para incendios de vegetación y rescates, usar uniforme tipo parque, casco ligero, botas de intervención, arnés y material personal de altura.
+- Para otros tipos de incendio, usar cubre pantalón, chaquetón de intervención, casco integral, guantes y equipo de protección respiratoria si es necesario.
+
+## Casos prácticos
+
+### 1. Incendio de transformador de intemperie con 5000 litros de aceite y línea AT de 20 kV
+
+#### a) Planteamiento
+
+- Los transformadores se ubican en subestaciones (ST) o entre torretas metálicas.
+- El aceite incendiado puede filtrarse entre la grava del suelo.
+
+#### b) Intervención
+
+1. Avisar a la compañía eléctrica para cortar el suministro.
+   - Los elementos de corte deben quedar enclavados.
+   - En ST, cortar todas las líneas entrantes y salientes.
+   - Cortar suministro del cuadro de baja tensión si hay uno.
+   
+2. Zonificar guardando distancias de seguridad.
+3. Verificar ausencia de tensión en cada conductor.
+   - En AT, es obligatoria la puesta a tierra y en corto de la instalación.
+4. Controlar la propagación del fuego y extinguirlo con agua o espuma.
+
+#### e) Seguridad
+
+- Considerar el uso de monitores en grandes subestaciones para mantener distancias de trabajo.
+- Controlar el incendio con chorro discontinuo de agua o espuma si es necesario.
+- Estar atentos a posibles rupturas violentas de elementos de la instalación por altas temperaturas.
+- En CT subterráneo inundado, puede producirse vapor de agua.
+
+#### f) Fin de la intervención
+
+- Revisar y reparar la instalación por parte de los técnicos de la compañía suministradora.
+
+### 2. Incendio en la caja general de protección (CGP) de vivienda unifamiliar
+
+#### a) Planteamiento
+
+- La CGP tiene protecciones fusibles y el contador eléctrico.
+- La línea de entrada proviene del Centro de Transformación.
+
+#### b) Intervención
+
+1. Avisar para que corten el suministro, ya que solo personal autorizado puede acceder al CT.
+2. Extinguir con extintor de polvo o agua pulverizada con corte rápido.
+
+### 3. Incendio de vegetación que afecta a líneas de AT
+
+#### a) Planteamiento
+
+- Incendio de vegetación afectando líneas de alta tensión.
+
+#### b) Intervención
+
+1. Solicitar el corte de suministro a la compañía eléctrica.
+   - Informar sobre el lugar del incidente, número, tipo y disposición de aisladores, aislamiento de conductores y apoyos en postes.

@@ -1,0 +1,80 @@
+# Temario de Oposición: Elementos Constructivos Estructurales
+
+## 1. Sistemas Triangulados
+- **Cordones**: 
+  - **Cordón superior o par**: Elementos que forman la cabeza superior, trabajan a compresión.
+  - **Cordón inferior o tirante**: Elementos que forman la cabeza inferior, trabajan a tracción.
+- **Montantes**: Barras verticales en el alma de la viga.
+- **Diagonales**: Barras inclinadas en el alma de la viga.
+
+### Materiales
+- **Madera**: Usada en sistemas estructurales de cubierta.
+- **Metálicos**: Alta resistencia, estructuras esbeltas, rápido montaje, pero requieren protección al fuego.
+- **Hormigón armado**: Buena resistencia, limitada esbeltez, buena resistencia al fuego.
+
+## 2. Sistemas Abovedados (Arcos y Bóvedas)
+- **Definición**: Estructura compuesta por dovelas que recogen cargas verticales y transmiten a la sección inferior.
+- **Características**:
+  - Estructuras isostáticas, colapsan ante esfuerzos no previstos.
+  - Recogen cargas verticales mediante compresión pura.
+  - **Línea de tensiones**: 
+    - Si sale del tercio central de la dovela, aparecen tracciones (grietas).
+    - Si sale fuera de la dovela, puede provocar el desplome del arco.
+- **Elementos resistentes**: Arcos y bóvedas son estructuras verticales, con geometría que afecta a los esfuerzos.
+
+### Materiales
+- Arcos y bóvedas pueden fabricarse con cualquier material resistente a compresión, tradicionalmente piedra natural y ladrillo.
+
+## 3. Elementos Constructivos de Carácter Estructural
+- **Estructura Aérea**: Elementos portantes sobre la rasante que reciben acciones permanentes, variables y accidentales.
+  - **Resistencia**: Capacidad de la estructura para oponerse a la rotura.
+  - **Estabilidad**: Capacidad para mantener el equilibrio original.
+
+### Clasificación de Elementos Portantes
+1. **Verticales**
+   - **Muros de carga**: Recogen esfuerzos de elementos inclinados y horizontales, transmitiéndolos a los cimientos.
+   - **Pilares**: Elementos verticales que recogen cargas horizontales y las transmiten a cimentaciones.
+
+2. **Horizontales**
+3. **Inclinados**
+4. **Elementos de enlace**
+
+### Muros de Carga
+- **Caracterización**: Elementos que recogen esfuerzos y se apoyan en cimientos.
+- **Geometría**: 
+  - **Coronación**: Parte superior que reparte cargas.
+  - **Base o zócalo**: Soporta los mayores esfuerzos.
+- **Tipologías**:
+  - **Conformados**: Materiales que endurecen en obra (ej: hormigón).
+  - **De fábrica**: Elementos prefabricados dispuestos en orden (ej: ladrillo).
+  - **Entramados**: Elementos estructurales y de relleno diferenciados.
+
+### Muros de Fábrica
+- **Definición**: Formados por pequeños elementos prefabricados dispuestos en orden.
+- **Tipologías según CTE DB SE F**:
+  - **Muro de una hoja**: Sin cámara.
+  - **Muro doblado**: Dos hojas paralelas enlazadas.
+  - **Muro capuchino**: Similar al doblado, pero con restricciones en el tamaño de las hojas.
+  - **Muro careado**: Trabajan solidariamente.
+  - **Muro de revestimiento**: No contribuye a la resistencia.
+  - **Muro sin carga**: No resistente.
+
+### Muros Entramados de Madera/Mixtos
+- **Definición**: Elementos constructivos mixtos con armazón de madera y relleno de fábrica.
+- **Piezas**:
+  - **Verticales**: Pie derecho, cornijal, larguero.
+  - **Horizontales**: Carrera, sobrecarrera, cabecero.
+  - **Inclinadas**: Tornapuntas, jabalcón, cruz de San Andrés.
+
+### Rigidez y Arriostramiento
+- **Esbeltez**: Limitación en la altura de los muros según su espesor.
+- **Arriostramiento**: Elementos que proporcionan seguridad ante deformaciones.
+
+## 4. Pilares o Soportes
+- **Definición**: Elementos verticales que recogen cargas horizontales y las transmiten a cimentaciones.
+- **Materiales**: 
+  - **Piedra**: Columna.
+  - **Madera**: Pie derecho.
+  - **Acero**: Soporte.
+  - **Hormigón**: Pilar.
+  - **Fabricación**: Ladrillo.

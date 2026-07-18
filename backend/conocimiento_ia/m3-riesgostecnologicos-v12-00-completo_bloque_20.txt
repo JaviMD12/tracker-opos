@@ -1,0 +1,57 @@
+# Tipologías de Estructuras de Cubiertas
+
+## 1. Estructuras Metálicas
+
+### Tipologías Comunes
+- **Cerchas**: Faldones planos sobre base de cuchillos metálicos con uniones atornilladas o soldadas.
+- **Entramados Ligeros**: 
+  - **Características**: Cubiertas con baja masa (<100 kg/m²), fabricadas con perfiles metálicos (aluminio o acero).
+  - **Acabado**: Paneles tipo “sandwich” que incorporan aislamiento e impermeabilizante. No son transitables.
+- **Estructuras Espaciales**: Mallas espaciales de acero que permiten cubrir grandes espacios con mínima cantidad de material.
+- **Láminas Curvadas Autoportantes**: 
+  - **Capacidad**: Soportan cargas y transmiten a los apoyos sin estructura intermedia.
+  - **Luces máximas**: 13-14 m.
+
+## 2. Estructuras Compuestas de Hormigón Armado
+- **Uso**: Material común en la ejecución de estructuras de cubiertas.
+- **Tipologías**:
+  - **Cubiertas Inclinadas**:
+    - **Unidireccionales**: Faldones construidos con forjados apoyados en jácenas.
+    - **Bidireccionales**: Faldones a base de losas macizas o aligeradas.
+  - **Cubiertas Autoportantes (Bóvedas)**:
+    - **Definición**: Elemento estructural curvo que cubre el espacio entre muros o pilares.
+    - **Geometría**: 
+      - **Bóvedas Sencillas**: Una sola generatriz (ej. bóveda de cañón).
+      - **Bóvedas Complejas**: Varias generatrices (ej. bóveda de arista).
+  - **Cubiertas No Autoportantes**: Soporte a base de tabiques palomeros.
+
+## 3. Estructuras Entramadas de Cubiertas Planas
+- **Materiales**:
+  - **Hormigón**: Soporte y formación de pendientes fabricados en hormigón.
+  - **Fábrica**: Estructura similar a la cubierta inclinada, con tabiques de ladrillo.
+  - **Metálicas (Cubierta Deck)**:
+    - **Características**: Liviana, no supera los 10 kg/m², utilizada en plantas industriales.
+    - **Requisitos**: Aislamiento termo-acústico y membrana impermeabilizante.
+
+## 4. Elementos de Enlace
+- **Definición**: Elementos fijos que permiten el acceso entre plantas (escaleras, ascensores).
+- **Normativa**:
+  - **CTE DB SUA1**: Seguridad frente al riesgo de caídas.
+  - **CTE DB SI3**: Evacuación en caso de incendio.
+
+### Escaleras
+- **Definición**: Elementos que permiten la comunicación entre plantas.
+- **Elementos Básicos**:
+  - **Zanca**: Viga longitudinal que recoge cargas.
+  - **Tablero/Rampa/Forjado**: Losa maciza que soporta el peldaño.
+  - **Barandillas**: Elemento de seguridad para evitar caídas.
+  
+### Geometría de Escaleras
+- **Escalones**:
+  - **Dimensiones**:
+    - **Huella (H)**: Mínimo 28 cm.
+    - **Contrahuella (C)**: Entre 13 y 18.5 cm.
+    - **Relación geométrica**: 54 cm ≤ 2C + H ≤ 70 cm.
+- **Tramos**:
+  - **Mínimo de escalones**: 3.
+  - **Altura máxima**: 2.25 m en zonas de uso público; 3.20 m en otros casos.

@@ -1,0 +1,71 @@
+# Clases de fuego
+
+## Clasificación de incendios
+
+### Según el tipo de material
+- **Clase A**: Materiales sólidos (orgánicos) que forman brasas.
+  - Ejemplos: madera, carbón, tela, papel, cartón, paja, plástico, caucho.
+  
+- **Clase B**: Líquidos o sólidos licuables.
+  - Ejemplos: gasolina, petróleo, alcohol, gasóleo, alquitrán, grasas, ceras.
+
+- **Clase C**: Gases.
+  - Ejemplos: acetileno, butano, metano, propano, gas natural, hidrógeno.
+
+- **Clase D**: Metales.
+  - Ejemplos: aluminio en polvo, potasio, sodio, magnesio.
+
+- **Clase F**: Fuegos de cocina (aceites y grasas vegetales o animales).
+
+> **Nota**: Se ha extinguido la antigua clase E (fuegos eléctricos), ya que la electricidad no es un combustible.
+
+### Según la forma del foco de incendio
+- **Foco plano**: Incendio en un plano horizontal visible.
+- **Foco vertical**: Incendio en varios planos, zonas ocultas.
+- **Foco alimentado**: Incendio mantenido por combustibles de depósitos no afectados.
+
+### Según la superficie afectada (incendios forestales)
+- **Grado I**: Hasta 4 m² - Pequeño
+- **Grado II**: De 4 a 10 m² - Mediano
+- **Grado III**: De 10 a 100 m² - Grande
+- **Grado IV**: De 100 a 1,000 m² - De envergadura
+- **Grado V**: De 1,000 a 5,000 m² - De envergadura
+- **Grado VI**: De 5,000 a 10,000 m² (1 Ha) - De envergadura
+- **Grado VII**: De 1 a 25 Ha - De envergadura
+- **Grado VIII**: De 12 a 100 Ha - De envergadura
+- **Grado IX**: De 100 a 500 Ha - De envergadura
+- **Grado X**: Más de 5,000 Ha - De envergadura
+
+## Clasificación según la velocidad de reacción
+- **Combustión lenta**: Oxidación, sin aumento de temperatura significativo.
+- **Combustión normal**: Velocidad del frente de reacción < 1 m/s, desprendimiento de calor y luz.
+- **Combustión instantánea**: Velocidad de propagación > 1 m/s, puede causar explosiones.
+
+### Tipos de explosiones
+- **Deflagraciones**: Velocidad < 340 m/s, generan sobrepresiones.
+- **Detonaciones**: Velocidad > 340 m/s, generan presiones mucho mayores.
+
+## Clasificación según la emisión de llamas
+- **Combustión con llamas**: Líquidos y gases inflamables.
+- **Combustión sin llamas**: Sólidos como carbono puro y algunos metales (incandescencia).
+
+## Clasificación según el lugar de desarrollo
+- **Fuegos interiores**: Ocurren dentro de edificios, consumen oxígeno.
+- **Fuegos exteriores**: Manifiestan llamas al exterior, se alimentan de oxígeno del aire.
+
+## Clasificación según la magnitud
+- **Conato**: Pequeño incendio, se apaga con extintores.
+- **Incendio parcial**: Abarca parte de una instalación, peligroso.
+- **Incendio total**: Fuera de control, afecta completamente a una instalación.
+
+## Evolución de los incendios
+1. **Inicio**: Necesita combustibles, comburente y energía de activación.
+2. **Desarrollo**: Combustión completa, aumento de temperatura y generación de gases.
+3. **Propagación**: Transmisión de calor por convección y radiación.
+4. **Extinción**: Puede ser natural o provocada por intervención humana.
+
+## Transmisión de los incendios
+- **Métodos de transmisión de calor**:
+  - **Conducción**
+  - **Convección**
+  - **Radiación**

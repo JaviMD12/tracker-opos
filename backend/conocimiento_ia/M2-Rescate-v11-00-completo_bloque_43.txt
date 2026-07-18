@@ -1,0 +1,134 @@
+# Valoración Inicial y Continua
+
+La valoración es esencial para construir un plan de acción y debe ser constante debido a la naturaleza cambiante de los escenarios. Se contempla desde dos perspectivas:
+
+- **Valoración del riesgo**: Análisis detallado para identificar probabilidades de materialización del riesgo y adoptar medidas preventivas.
+- **Valoración del siniestro**: Análisis rápido de factores críticos para la toma de decisiones eficaces.
+
+## Valoración del Riesgo de Inundación
+
+El riesgo de inundación se valora mediante la fórmula:
+
+**Riesgo = Peligrosidad x Exposición x Vulnerabilidad**
+
+### 1. Peligrosidad
+
+Se evalúa mediante un análisis multicriterio considerando:
+
+- **Inundabilidad por desbordamiento fluvial**
+- **Precipitación in situ**
+- **Rotura o mal funcionamiento de obra hidráulica**
+
+#### 1.1 Inundabilidad por Desbordamiento Fluvial
+
+Factores a considerar:
+
+- **Valoración de caudales para diferentes períodos de retorno**:
+  - **Período de retorno**: Tiempo medio entre dos eventos de baja probabilidad.
+    - **Zona A-1**: Riesgo alto frecuente (avenida de 50 años).
+    - **Zona A-2**: Riesgo alto ocasional (avenida de 100 años).
+    - **Zona A-3**: Riesgo alto excepcional (avenida de 500 años).
+    - **Zona B**: Riesgo significativo (avenida de 100 años impacta en viviendas aisladas).
+    - **Zona C**: Riesgo bajo (avenida de 500 años impacta en viviendas aisladas).
+
+- **Valoración de producción de caudal sólido**
+- **Valoración geológica y geomorfológica**
+- **Valoración de diferencia de cota**: Diferencia entre un núcleo de población y un río.
+- **Valoración de distancia**: Distancia entre un núcleo de población y el cauce fluvial más próximo.
+- **Valoración de tiempo de concentración de avenida**: Tiempo para que toda el área de la cuenca aporte agua al punto de desembocadura.
+
+#### 1.2 Inundabilidad por Precipitación in Situ
+
+Factores a considerar:
+
+- **Morfología del terreno**: Concavidad y pendiente.
+- **Pronóstico de precipitaciones en 24 horas**.
+
+#### 1.3 Inundabilidad por Rotura de Obras Hidráulicas
+
+Factores a considerar:
+
+- **Capacidad de embalse de la presa**.
+- **Alcance aguas abajo de la presa**.
+- **Distancia núcleo-cauce**.
+
+#### 1.4 Agravantes Asociados a la Actividad Industrial
+
+- **Incorporación de sustancias tóxicas**.
+- **Elementos móviles almacenados**.
+
+#### 1.5 Movimientos de Ladera
+
+- **Saturación en agua de los poros del sedimento**.
+- **Efectos erosivos en la base de las laderas**.
+
+#### 1.6 Riesgo Asociado a Procesos de Erosión
+
+- Zonas con capas limo-arenosas son más propensas a la erosión.
+
+#### 1.7 Otros Factores
+
+- Inundaciones en espacios naturales protegidos.
+- Inundaciones en campamentos turísticos.
+
+### 2. Exposición
+
+El grado de exposición es proporcional al tamaño de la población. Factores a considerar:
+
+- **Densidad de población**: Distribución de habitantes por km².
+- **Localización de campamentos turísticos**.
+- **Localización de centros hospitalarios**.
+- **Localización de instituciones educativas**.
+- **Localización de polígonos industriales**.
+- **Localización de residencias de ancianos**.
+- **Tipología de vivienda**.
+- **Tipología de edificios**.
+
+### 3. Vulnerabilidad
+
+Definida como la susceptibilidad a daños. Factores a considerar:
+
+- **Porcentaje de población desconocedora del idioma nativo**.
+- **Segmentación de la población por edades**:
+  - Vulnerabilidad baja: 10 a 45 años.
+  - Vulnerabilidad media: 5 a 10 años y 45 a 65 años.
+  - Vulnerabilidad alta: 0 a 5 años y más de 65 años.
+- **Vulnerabilidad de enfermos hospitalarios**.
+- **Tipología de edificios en función de su accesibilidad**.
+- **Tipología de edificios en función de su estado de conservación**.
+- **Tipología de edificios en función del número de plantas bajo y sobre rasante**.
+- **Vulnerabilidad por densidad de población por vivienda**.
+- **Vulnerabilidad por interrupción de vías de comunicación**.
+- **Vulnerabilidad por existencia de áreas de evacuación**.
+
+## Valoración del Siniestro
+
+Consideraciones para la valoración de un siniestro:
+
+- Determinación de la magnitud de la emergencia.
+- Establecimiento de un plan de actuación.
+- Debe ser dinámica y continua.
+
+### Parámetros a considerar:
+
+- **Causas**.
+- **Entorno**.
+- **Evolución**.
+- **Víctimas potenciales y/o efectivas**.
+- **Nivel de emergencia declarado**.
+
+### 1. Causas
+
+Estudio de las causas que provocaron el siniestro.
+
+### 2. Entorno
+
+Recopilación de información sobre el área de intervención:
+
+- Orografía y accidentes.
+- Corrientes y turbulencias.
+- Infraestructuras circundantes.
+- Vías de acceso y puntos de entrada/salida.
+- Temperatura y color del agua.
+- Profundidad y fondo del medio.
+- Visibilidad en el agua.

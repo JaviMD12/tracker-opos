@@ -1,0 +1,63 @@
+# Temario de Oposición: Edificaciones y Física Aplicada
+
+## 1. Introducción
+- **Arquitectura**: Arte y técnica de proyectar y diseñar edificios y espacios.
+- **Construcción**: Procedimientos técnicos para levantar elementos constructivos.
+- **Edificación**: Construcción fija hecha con materiales resistentes para habitación o usos diversos.
+
+## 2. Conceptos de Física Aplicados a la Edificación
+
+### 2.1. Fuerza
+- **Definición**: Magnitud vectorial que representa la interacción entre cuerpos.
+- **Fórmula**: \( F = m \cdot a \)
+- **Unidades**: Newtons (N) equivalentes a \( \text{Kg} \cdot \text{m/s}^2 \).
+- **Leyes de Newton**:
+  - **1ª Ley**: Principio de inercia.
+  - **2ª Ley**: \( \sum F = m \cdot a \).
+  - **3ª Ley**: Acción y reacción.
+
+### 2.2. Momentos
+- **Definición**: Producto de una fuerza por la distancia perpendicular entre fuerzas.
+- **Unidades**: Newtons por metro (N·m).
+- **Momentos Positivos y Negativos**: 
+  - Positivos: Giro en sentido horario.
+  - Negativos: Giro en sentido antihorario.
+- **Equilibrio del par**: Tendencia a alinearse y reducir el brazo de palanca.
+
+### 2.3. Equilibrio
+- **Definición**: Estado de fuerzas sin movimientos relativos en el sistema.
+- **Condiciones de equilibrio**:
+  - \( \sum F = 0 \)
+  - \( \sum M = 0 \)
+- **Centro de gravedad**: Punto donde se considera concentrado el peso de un cuerpo.
+
+### 2.4. Elasticidad
+- **Definición**: Capacidad de un material para sufrir deformaciones reversibles.
+- **Ley de Hooke**: 
+  - \( \sigma = E \cdot \epsilon \)
+- **Módulo de Elasticidad (E)**: 
+  - **Mampostería de ladrillo**: \( E = 3000 - 5000 \, \text{N/mm}^2 \)
+  - **Maderas duras**: \( E = 10000 – 22500 \, \text{N/mm}^2 \)
+  - **Acero**: \( E = 210000 \, \text{N/mm}^2 \)
+
+### 2.5. Factores Asociados al Comportamiento Térmico
+
+#### 2.5.1. Coeficiente de Conductividad Térmica (λ)
+- **Definición**: Capacidad de conducción térmica del material.
+- **Unidades**: W/m·ºC o W/m·K.
+- **Ejemplos**:
+  - **Acero**: 47-58 W/m·K
+  - **Corcho**: 0,04-0,30 W/m·K
+
+#### 2.5.2. Coeficiente de Dilatación Térmica (α)
+- **Definición**: Cambio de dimensión lineal por cada grado de aumento de temperatura.
+- **Ejemplos**:
+  - **Hormigón**: \( 1,17 \times 10^{-5} \)
+  - **Acero**: \( 1,2 \times 10^{-5} \)
+
+### Resumen de Datos Técnicos Clave
+- **Fuerza**: \( F = m \cdot a \)
+- **Momentos**: \( M = F \cdot d \)
+- **Ley de Hooke**: \( \sigma = E \cdot \epsilon \)
+- **Conductividad Térmica**: Valores de materiales (ej. Acero, Corcho).
+- **Dilatación Térmica**: Coeficientes de materiales (ej. Hormigón, Acero).

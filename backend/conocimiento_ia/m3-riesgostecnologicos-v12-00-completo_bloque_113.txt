@@ -1,0 +1,58 @@
+# Parte 7. NRBQ
+
+## Caracterización
+
+### Características Generales
+- **Capacidad máxima**:
+  - **3 m³** para materias sólidas y líquidas de los grupos de embalaje II y III.
+  - **1,5 m³** para materias sólidas del grupo de embalaje I en GRG (IBC) flexibles, de plástico rígido, compuestos, cartón o madera.
+  - **3 m³** para materias sólidas del grupo de embalaje I en GRG (IBC) metálicos.
+  - **3 m³** para materias radiactivas de la clase 7.
+- **Diseño**: Fabricados para manipulación mecánica.
+- **Resistencia**: Soportan esfuerzos durante manipulación y transporte.
+
+### Composición
+- Recipiente interior de plástico.
+- Cuerpo de cartón (con o sin cobertura).
+- Cuerpo flexible (lámina, tejido, etc.).
+- Cuerpo de madera (rígido o plegable).
+- Cuerpo metálico.
+- Cuerpo de plástico rígido.
+- GRG metálico con protección adicional (pared multicapa, doble pared, bastidor con recubrimiento metálico).
+
+## Aerosoles
+- **Definición**: Recipiente no recargable de metal, vidrio o plástico con gas comprimido, licuado o disuelto.
+- **Capacidad**:
+  - **Metal**: No debe superar **1000 ml**.
+  - **Sintético o vidrio**: No debe exceder **500 ml**.
+- **Presión**: Puede producir presiones superiores a **6,3 bares**.
+
+## Recipientes a Presión
+- **Tipos**:
+  - **Botellas**: Capacidad máxima **150 litros** (ej. bombonas de butano o propano).
+    - **Butano**: 26 litros, tensión de vapor a 20ºC: **3 atmósferas**.
+    - **Propano**: Tensión de vapor a 20ºC: **8,5 atmósferas**.
+  - **Bloques de botellas**: Capacidad total no superior a **3000 litros**; para gases tóxicos, limitada a **1000 litros**.
+  - **Tubo**: Capacidad entre **150 y 3000 litros**.
+  - **Recipiente criogénico**: Capacidad máxima **1000 litros**.
+  - **Bidón a presión**: Capacidad entre **150 y 1000 litros**.
+
+## Transporte en Cisterna
+- **Definición**: Depósito que incluye equipos de servicio y estructura.
+- **Estructura**: Diseñada para soportar cargas y sobrecargas.
+- **Pruebas requeridas**: Presión hidráulica y estanqueidad.
+
+### Estructura Interna
+- **Mamparos**: Dividen el volumen en compartimentos.
+- **Rompeolas**: Permiten el paso de materia y distribuyen la carga.
+- **Anillos de refuerzo**: Refuerzan la estructura.
+
+### Estructura Externa
+- **Anclajes**: Para izado y amarre.
+- **Refuerzos exteriores**: Protegen contra impactos.
+- **Elementos protectores**: Protegen válvulas y tuberías.
+
+### Requisitos de Seguridad
+- **Separación entre refuerzos**: Hasta **1,75 m** en cisternas circulares.
+- **Carga mínima**: Más del **80%** o menos del **20%** para evitar el "efecto ola".
+- **Profundidad mínima de rompeolas**: **10 cm**.

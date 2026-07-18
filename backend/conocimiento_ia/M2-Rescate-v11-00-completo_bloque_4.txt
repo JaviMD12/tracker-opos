@@ -1,0 +1,78 @@
+# Nudos
+
+## 1.1. Concepto y requisitos de un nudo
+Un nudo se define como “un lazo que se estrecha y cierra de modo que con dificultad se pueda deshacer por sí solo”. Los nudos son esenciales para unir al bombero con la cuerda y los seguros, así como para fijar y unir cuerdas y atar objetos. Son fundamentales para maniobras como encordarse, rapelar o unir cuerdas.
+
+### Partes de un nudo
+- **Chicote**: extremo de la cuerda.
+- **Seno**: curvatura entre los extremos.
+- **Gaza**: vuelta o bucle cerrado sobre sí mismo.
+- **Firme**: parte más larga de la cuerda, opuesta al chicote.
+
+### Requisitos de los nudos
+- Fácil de hacer y revisar.
+- Resistente (soporta muchos kilos de carga).
+- Fácil de deshacer tras la carga, pero no accidentalmente cuando está en tensión.
+- Reduce lo menos posible la resistencia de la cuerda (pérdida de resistencia expresada en %).
+
+## 1.2. Clases de nudos
+Los nudos se clasifican según su utilidad:
+
+### Nudos de encordamiento
+- **Ocho por chicote**
+  - **Usos**: encordamiento al arnés (perneras y cintura).
+  - **Pérdida de resistencia**: 20-30%.
+
+### Nudos de unión
+- **Ocho por chicote y enfrentado**
+  - **Usos**: unión de cuerdas.
+  - **Pérdida de resistencia**: 20-30%.
+  
+- **Pescador doble**
+  - **Usos**: unión de cuerdas de diferente diámetro.
+  - **Pérdida de resistencia**: 20-30%.
+
+- **Nudo de cinta plana**
+  - **Usos**: unión de cintas.
+  - **Pérdida de resistencia**: 35-40%.
+
+### Nudos de amarre
+- **Ocho por seno**
+  - **Usos**: fijar la cuerda a un punto.
+  - **Pérdida de resistencia**: 20-30%.
+
+- **Nudo de nueve**
+  - **Usos**: anclados para soportar mucha tensión.
+  - **Pérdida de resistencia**: 17-25%.
+
+- **Nudo sin tensión**
+  - **Usos**: en cabeceras de tirolinas.
+  - **Pérdida de resistencia**: ninguna.
+
+- **Presilla de alondra**
+  - **Usos**: anclados de poca responsabilidad.
+  - **Pérdida de resistencia**: 45-50%.
+
+- **Ballestrinque**
+  - **Usos**: anclados rápidos.
+  - **Pérdida de resistencia**: 35-45%.
+
+- **Ocho doble seno**
+  - **Usos**: montaje de sistemas de anclajes de seguridad (SAS).
+  - **Pérdida de resistencia**: 10-20%.
+
+### Nudos autoblocantes
+- **Machard con dos senos**
+  - **Usos**: bloqueos sobre cuerdas.
+  - **Pérdida de resistencia**: 100% del cordino.
+
+- **Prusik**
+  - **Usos**: cuerdas difíciles de bloquear.
+  - **Pérdida de resistencia**: 40% del cordino.
+
+### Nudos tensores
+- **Pasabloc**
+  - **Usos**: tensar o hacer vientos para trípodes y tirolinas.
+
+- **Pico de pájaro**
+  - **Usos**: tensado sin mosquetones sobre la cuerda.

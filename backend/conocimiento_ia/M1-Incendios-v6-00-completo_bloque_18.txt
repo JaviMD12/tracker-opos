@@ -1,0 +1,64 @@
+# Hidrostática y Hidrodinámica
+
+## 1. Ecuación Fundamental de la Hidrostática
+- **Presión en un fluido en reposo**: Aumenta con la profundidad.
+- **Igualdad de presión**: Todos los puntos a la misma profundidad tienen la misma presión.
+- **Dependencia de la presión**: Solo depende de la profundidad, no de la forma del recipiente.
+- **Dirección de la presión**: Es perpendicular a la superficie sobre la que actúa.
+
+## 2. Principio de Pascal
+- **Definición**: La presión ejercida sobre un fluido incompresible en equilibrio se transmite con la misma intensidad en todas direcciones.
+- **Aplicaciones**: Prensas hidráulicas, elevadores hidráulicos, frenos hidráulicos, puentes hidráulicos.
+- **Prensa hidráulica**: Consiste en dos cilindros de diferente sección comunicados, donde la presión se transmite de un émbolo a otro:
+  - **Fuerza aplicada**: \( F_1 \) sobre émbolo de menor sección \( S_1 \).
+  - **Presión transmitida**: \( p_1 = p_2 \).
+
+## 3. Principio de Arquímedes
+- **Definición**: Un cuerpo sumergido en un fluido recibe un empuje igual al peso del fluido desplazado.
+- **Medición**: El empuje se mide en Newtons (N).
+- **Dependencia**: No depende de la presión, sino de la densidad del líquido y del volumen del cuerpo sumergido.
+
+## 4. Hidrodinámica
+- **Definición**: Ciencia que estudia la dinámica de los líquidos.
+- **Aproximaciones**:
+  - Fluido incompresible.
+  - Pérdida de energía por viscosidad despreciable.
+  - Flujo en régimen estable o estacionario.
+
+### 4.1. Régimen de Fluido
+- **Régimen Laminar**: Movimiento a baja velocidad con trayectorias paralelas (número de Reynolds \( R < 2000 \)).
+- **Régimen Turbulento**: Movimiento irregular y con trayectorias cruzadas (número de Reynolds \( R > 4000 \)).
+- **Régimen de Transición**: \( 2000 < R < 4000 \).
+
+### 4.2. Caudal
+- **Definición**: Cantidad de líquido que pasa por una sección en unidad de tiempo.
+- **Relación**: Velocidad de circulación del líquido por la sección del conducto.
+
+### 4.3. Ecuación de Continuidad
+- **Principio**: La cantidad de líquido que pasa por dos puntos de una canalización es constante.
+
+### 4.4. Ecuación de Bernoulli
+- **Definición**: En un fluido ideal, la suma de energía potencial, de presión y cinética es constante.
+- **Energías**:
+  - Energía cinética: \( \frac{1}{2} \times \text{masa} \times \text{velocidad}^2 \)
+  - Energía potencial: \( \text{Peso} \times \text{altura} \)
+  - Energía de presión: \( \text{Fuerza} \times \text{espacio} \)
+
+### 4.5. Teorema de Torricelli
+- **Definición**: La velocidad de salida de un líquido a través de un orificio es igual a la velocidad que adquiere un cuerpo al caer desde la altura del líquido hasta el orificio.
+- **Caudal de salida**: Función de la presión en la entrada.
+
+### 4.6. Efecto Venturi
+- **Definición**: En un conducto cerrado, un fluido en movimiento disminuye su presión al aumentar su velocidad al pasar por una zona de menor sección.
+
+### 4.7. Golpe de Ariete
+- **Definición**: Sobrepresión y depresión en una tubería al variar el caudal bruscamente.
+- **Efectos**: Puede romper conductos y generar ondas de presión.
+
+## 5. Tabla de Equivalencia de Lanzas
+| Tipo de lanza | Ø boquilla según posición selector de caudal | Q nominal (l/min) |
+|---------------|---------------------------------------------|-------------------|
+| 25            | 5,5-12                                     | 50-230            |
+| 45            | 9,75-17,75                                 | 150-500           |
+| 70            | 13,75-21,75                                | 300-750           |
+- **Valores de caudal nominal** para \( h = 70 \, \text{m.c.a.} \) (K=0,9).

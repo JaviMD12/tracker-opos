@@ -1,0 +1,79 @@
+# Red de Ferrocarriles en España
+
+## 7.1. Características Generales
+- **Anchos de vía**:
+  - Ancho ibérico: **1.668 mm**
+  - Ancho internacional: **1.435 mm**
+  - Ancho métrico (vía estrecha): **1.000 mm**
+  
+- **Tipos de vías**:
+  - Vía simple no electrificada
+  - Vía simple electrificada
+  - Doble no electrificada
+  - Doble electrificada
+  
+- **Longitud total de la red**: **15.461 km**
+  - **Electrificados**: más de **8.000 km**
+  
+- **Sistemas de electrificación**:
+  - **3.000 voltios en continua** (red convencional)
+  - **25.000 voltios en alterna a 50 Hertzios** (red de alta velocidad)
+  - **1.500 voltios en continua** (red de ancho métrico)
+
+## 7.2. Gestión de Ferrocarriles en España
+- **Competencia estatal**: 
+  - Ferrocarriles y transportes terrestres que circulen por más de una comunidad autónoma.
+  - Régimen general de comunicaciones y obras públicas de interés general.
+
+- **Competencias de comunidades autónomas**: 
+  - Ferrocarriles cuyo itinerario se desarrolle íntegramente en su territorio.
+
+### Entidades Gestoras a Nivel Nacional
+- **Adif (Administrador de Infraestructuras Ferroviarias de España)**:
+  - Entidad pública empresarial dependiente del Ministerio de Fomento.
+  - Objetivo: construcción y gestión de líneas de ferrocarril.
+  - **Kilómetros de vías administradas**: **13.945 km**
+  - **Estaciones**: **1.566**
+
+- **Renfe Operadora**:
+  - Entidad pública empresarial adscrita al Ministerio de Fomento.
+  - Misión: prestar servicios de transporte de viajeros y mercancías.
+
+### Entidades Gestoras en Comunidades Autónomas
+| Comunidad Autónoma     | Entidades Gestoras                                      |
+|-----------------------|--------------------------------------------------------|
+| País Vasco            | ETS (Gestor de Infraestructuras Ferroviarias de Euskadi), Euskotren (Ferrocarriles Vascos) |
+| Comunidad Valenciana   | GTP (Gestor de la Red de Transporte y de Puertos de la Generalitat Valenciana), FGV |
+| Cataluña              | IFERCAT (Gestor de las Infraestructuras Ferroviarias de Cataluña), FGC (Ferrocarriles de la Generalitat de Cataluña) |
+| Baleares              | SFM (Serveis Ferroviaris de Mallorca)                  |
+
+## 8. Gestión de las Emergencias
+
+### 8.1. Competencias
+- **Adif**: gestiona la infraestructura.
+- **Renfe**: gestiona el transporte de pasajeros y mercancías.
+- **Centros de gestión**:
+  - **Centro de Protección y Seguridad (CPS)**: gestión de incidencias por zonas.
+  - **Puesto de Mando**: regulación del tráfico ferroviario y gestión de energía.
+  - **CECON**: centro de control 24 horas de Renfe.
+  - **CGRH24**: coordina incidencias en la infraestructura.
+  - **DPAE**: Director del Plan de Actuación en Emergencias.
+
+### 8.2. Funciones del Personal de la Compañía
+#### a) Maquinista
+- **Funciones**:
+  - Parar el tren.
+  - Alertar al Centro de Tráfico y/o CECON.
+  - Proteger la vía.
+  - Comunicar a los viajeros sobre la emergencia.
+  - Encargarse de la evacuación.
+  - Sacar el tren al exterior en caso de incendio en un túnel.
+  - Colocar la escalera de emergencia.
+
+#### b) Personal Técnico de Adif
+- **Funciones**:
+  - Personarse en el lugar de la emergencia.
+  - Verificar daños en las instalaciones.
+  - Comprobar que no existe tensión.
+  - Realizar el corte de la línea y toma de tierra.
+  - Shuntado.

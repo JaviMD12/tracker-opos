@@ -1,0 +1,87 @@
+# Parte 6. Riesgo eléctrico
+
+## 1. Caracterización
+
+### a) Líneas de tensión nominal superior a 66 kV
+- **Recorrido de la energía**: Desde centrales a grandes subestaciones.
+- **Conductores**: Dobles, triples o cuádruples (casi todas son dobles).
+- **Estructura**: Apoyos tipo celosía con tres conductores o múltiplos de tres.
+- **Hilo de guarda**: Conductores de menor sección en la parte superior, utilizados como pararrayos.
+- **Aisladores**: De vidrio, normalmente más de seis, con capacidad de 10,000 V por aislador.
+
+### b) Líneas de tensión nominal entre 30 kV y 66 kV
+- **Recorrido de la energía**: Desde grandes subestaciones hasta medianas y pequeñas.
+- **Tipos**: Aéreas o subterráneas (cables rojos o marrones en líneas antiguas).
+- **Aisladores**: Entre cuatro y seis de vidrio.
+
+### c) Líneas de tensión nominal superior a 1 kV y hasta 30 kV
+- **Recorrido de la energía**: Desde pequeñas y medianas subestaciones a centros de transformación.
+- **Características**: Sin hilo de guarda, bajo el suelo en ciudades, aéreas en zonas interurbanas.
+- **Aisladores**: Inferior a tres.
+- **Reenganches automáticos**: 
+  - 1 reenganche si >70% red subterránea.
+  - 2 reenganches si 30%-70%.
+  - 3 reenganches si <30%.
+  - **Tiempo máximo**: 3 minutos para pruebas.
+
+## 2. Subestación transformadora
+- **Secciones principales**:
+  1. Sección de medición.
+  2. Sección para cuchillas de paso.
+  3. Sección para el interruptor.
+- **Tipos**:
+  - **Grandes subestaciones**: Elevan o disminuyen tensiones entre 66 kV y 380 kV. Transforman alta tensión (AT) a media tensión (MT) entre 10 kV y 45 kV.
+  - **Pequeñas o medianas subestaciones**: Elevan o disminuyen tensiones entre líneas de segunda y tercera categoría.
+
+### a) Clases de subestaciones por su tamaño
+- **Grandes subestaciones**: 
+  - Función: Transformar energía eléctrica.
+  - Acceso: Restringido al personal autorizado.
+- **Pequeñas o medianas subestaciones**: 
+  - Control: Desde grandes subestaciones (telemando).
+
+### b) Clases de subestaciones por función
+- **Elevadoras**: Elevan tensión hasta 132, 220 o 400 kV.
+- **Reductoras**: Reducen tensión a valores entre 15, 20, 45 o 66 kV.
+
+## 3. Líneas de distribución en media tensión
+- **Potencia**: 11 o 20 kV.
+- **Recorrido**: Desde subestaciones a centros de reparto.
+- **Partes fundamentales**:
+  1. Celdas de entrada de MT.
+  2. Celdas de salida de MT.
+  3. Embarrado de MT.
+
+## 4. Centros de transformación
+- **Función**: Reducir tensión de media (11 o 20 kV) a baja tensión (BT) de 380 V trifásica o 220 V monofásica.
+- **Ubicación**: Barrios, industrias, centros públicos.
+- **Acceso**: Restringido a personal autorizado.
+
+### 4.1 Tipos de centros de transformación
+#### a) Por ubicación física
+- **Intemperie**: Alejados de núcleos de población, baja potencia.
+- **Prefabricados de hormigón**: En polígonos industriales, pueden tener varios transformadores.
+- **Subterráneo**: En nuevas urbanizaciones o zonas de alta concentración.
+- **Edificios de obra civil**: En bajos de edificios.
+
+#### b) Por ubicación en la red eléctrica
+- **Centro de transformación de punta**: Al final de una línea.
+- **Centro de transformación de paso**: En un punto medio de una línea.
+- **Centro de transformación de anillo**: Alimentados por ambos extremos.
+
+#### c) En función de su propiedad
+- **De cliente o abonado**: Alimenta a un gran consumidor.
+- **De compañía o distribución**: Alimenta a varios clientes.
+
+### 4.2 Componentes
+- **Celdas de entrada y salida**:
+  - **Celda del interruptor de línea**: Interrumpe el anillo de la línea de MT.
+  - **Celda de derivación**: Alberga derivación de línea y un seccionador.
+  - **Celda de medida en MT**: Para aparatos de medida.
+  - **Celda del interruptor del centro**: Interrumpe antes de la entrada al transformador.
+  - **Celda de transformador**: Reduce la tensión a la de consumo, con seis bobinas (tres para alta y tres para baja tensión).
+
+### Fórmula de transformación
+\[
+\text{Relación de transformación teórica} = \frac{\text{nº del secundario}}{\text{nº de espiras que tiene el devanado primario}}
+\]

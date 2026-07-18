@@ -1,0 +1,75 @@
+# Manual de Rescate y Salvamento
+
+## 2.4.3. Accionar los Equipos Eléctricos
+
+- Los vehículos tienen equipos eléctricos como:
+  - Elevalunas eléctricos
+  - Regulación eléctrica de asientos
+  - Regulación de la columna de dirección
+
+- **Precauciones:**
+  - Evaluar los efectos antes de desconectar la batería.
+  - Después de desactivar la batería, los dispositivos dejarán de funcionar.
+  - Para volver a funcionar, se debe volver a conectar la batería, lo que conlleva riesgos.
+  - Asegurarse de que nadie quede atrapado por piezas en movimiento.
+  - Coordinar operaciones con el equipo médico.
+
+## 2.4.4. Desconexión del Encendido
+
+- **Procedimiento:**
+  - Desconectar el encendido girando la llave a la última posición.
+  - Retirar la llave y entregarla al mando de intervención.
+  - Si el vehículo tiene cambio automático, poner la palanca en posición “P” antes de retirar la llave.
+  - Algunos vehículos requieren pisar el pedal de freno para cambiar a “P”.
+
+- **Interruptor de Seguridad:**
+  - Vehículos pesados y furgonetas pueden tener un interruptor principal de seguridad (NOT AUS).
+  - Este interruptor corta la alimentación de tensión para evitar cortocircuitos.
+  - En autobuses, se localiza en la consola a la izquierda del conductor, generalmente de color rojo.
+
+- **Accionamiento del Interruptor:**
+  - Levantar la tapa y mover la palanca o quitar la clavija.
+  - Para desbloquear el interruptor “tipo seta”, girar el mando rojo hacia la izquierda.
+  - Presionar el botón rojo para accionar el pulsador.
+
+## 2.4.5. Localización de la(s) Batería(s)
+
+### a) En Turismos y Furgonetas
+
+- **Baterías de 12V:**
+  - La posición exacta se indica en las hojas de rescate.
+  - Algunos vehículos largos pueden tener más de una batería.
+
+#### Tabla 6. Localización de las Baterías
+
+| Marca/Modelo         | Localización de Baterías |
+|----------------------|--------------------------|
+| ALFA ROMEO           | C3 1, MAREA 1, XK 13    |
+| AUDI                 | A2 12, A3 1, A4 4       |
+| BMW                  | SERIE 3 (E46) 13, M3 (E46) 12 |
+| MERCEDES BENZ       | A (168) 6, C (203) 5    |
+| RENAULT              | CLIO 1, SCENIC 1        |
+| VOLKSWAGEN           | GOLF 1, PASSAT 4        |
+
+### b) En Autocares y Camiones
+
+- **Baterías de 24V:**
+  - Los vehículos pesados tienen dos baterías de 12V en serie.
+  - Localización: a un lado del bastidor del chasis o en los largueros, accesibles solo con el semirremolque desacoplado.
+
+- **Alojamiento de Baterías:**
+  - Debe estar separado del compartimento de viajeros y ventilado.
+  - Frecuentemente se encuentran bajo el suelo del conductor o en la parte trasera.
+
+### c) Interruptores de Desconexión de Baterías
+
+- Algunos vehículos pesados y furgonetas tienen un interruptor de desconexión de baterías.
+- Al accionar el seccionador de baterías, se interrumpe el suministro eléctrico al sistema de inyección.
+- La mayoría de los autocares tienen una trampilla accesible para el cortacorriente.
+
+## Imágenes
+
+- **Interruptor NOT AUS**
+- **Interruptor manual de desconexión de emergencia en camiones híbridos**
+- **Caja de baterías en el lado del conductor**
+- **Ejemplo de baterías en autobuses**

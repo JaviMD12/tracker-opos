@@ -1,0 +1,92 @@
+# Mecanismos de Extinción
+
+Los mecanismos de extinción se basan en eliminar o disminuir los efectos de los factores del incendio que conforman el tetraedro de fuego: **combustible**, **comburente**, **energía de activación (calor)** y **reacción en cadena**.
+
+## 1. Desalimentación o Eliminación del Combustible
+
+Consiste en la retirada parcial o total del combustible, siempre que la velocidad de retirada sea mayor que la velocidad de propagación del fuego. Cuando se logra disminuir la concentración de combustible para que los vapores generados queden por debajo del **Límite Inferior de Inflamabilidad (LII)**, se denomina **dilución**.
+
+### Formas de Desalimentación
+- **Directa**: Separación física de los combustibles del foco del incendio o interrupción del flujo de fluidos.
+- **Indirecta**: Refrigeración de otros combustibles en el área de influencia del foco o interposición de elementos incombustibles.
+
+### Dilución del Combustible
+- Se lleva a cabo únicamente en combustibles líquidos que se pueden mezclar con agua (polar). 
+- Se busca que los vapores estén por debajo del LII para eliminar el riesgo de incendio.
+
+## 2. Sofocación o Eliminación del Comburente
+
+Consiste en eliminar o desplazar el comburente, reduciendo su concentración (en el caso del oxígeno, por debajo del **15%**).
+
+### Métodos de Sofocación
+- **Separación Completa del Comburente**: Recubrimiento del combustible ardiendo para impedir su contacto con el aire.
+- **Dilución del Oxígeno**: Aplicación de agua pulverizada que se convierte en vapor, desplazando el oxígeno del aire.
+
+## 3. Enfriamiento
+
+Consiste en eliminar el calor para reducir la temperatura del combustible por debajo de su **punto de ignición**. Se logra lanzando agua, que absorbe **540 calorías por cada gramo** al pasar de fase líquida a vapor.
+
+### Efectos del Enfriamiento
+- Reduce la temperatura y evita la liberación de gases inflamables.
+- Se acompaña de ventilación controlada para eliminar humo y gases.
+
+## 4. Inhibición o Rotura de la Reacción en Cadena
+
+Consiste en interrumpir la reacción en cadena mediante la desactivación de los radicales libres. Se utilizan compuestos que inhiben la producción de radicales libres, evitando la oxidación.
+
+### Aplicaciones
+- Eficaz en fuegos con llama, pero no en fuegos incandescentes o de brasas.
+- Se utilizan halones y polvo químico seco.
+
+# Agentes Extintores
+
+## 1. Definición y Características
+
+Un **agente extintor** es el producto que, aplicado sobre el fuego, provoca la extinción del incendio al actuar sobre uno o más componentes del tetraedro de fuego. No se debe confundir con el extintor, que es el envase que contiene el agente.
+
+## 2. Agentes Extintores Líquidos
+
+### 2.1. Agua
+
+#### Características
+- Líquido incoloro, inodoro, que hierve a **100°C** y se hiela a **0°C**.
+- Calor latente de vaporización: **540 cal/gr**.
+- Densidad: **1 Kg/litro**.
+
+#### Mecanismos de Extinción
+- **Enfriamiento**: Roba calor a los incendios.
+- **Sofocación**: Desplaza el oxígeno.
+- **Desalimentación**: Dilución del combustible en líquidos inflamables hidrosolubles.
+
+### 2.2. Agua Nebulizada
+
+Optimiza la utilización del agua mediante su división en gotas de niebla, maximizando la superficie de intercambio de calor.
+
+### 2.3. Agua con Aditivos
+
+#### a) Humectantes
+- Reducen la tensión superficial del agua, aumentando su penetración.
+
+#### b) Espesantes
+- Aumentan la viscosidad del agua, retardando su escurrimiento.
+
+#### c) Agua con Boratos
+- Utilizada en fuegos forestales, forma una capa continua que retiene agua y evita la propagación del fuego.
+
+#### d) Agua con Modificadores de Flujo
+- Disminuyen las pérdidas de presión por fricción en mangueras.
+
+#### e) Agua con Modificadores de Densidad
+- Forman espumas aéreas semiestables o emulsiones no inflamables.
+
+### 2.4. Espuma
+
+#### Características
+- Masas de burbujas que se forman al combinar un espumógeno, agua y aire.
+- Principal agente extintor para líquidos inflamables.
+
+#### Mecanismos de Extinción
+- **Sofocación**: Separa el combustible del oxígeno.
+- **Enfriamiento**: Baja la temperatura del combustible.
+
+Las espumas se obtienen mezclando mecánicamente un espumógeno, agua y aire.

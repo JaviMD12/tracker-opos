@@ -1,0 +1,53 @@
+# Espumas para el Control de Incendios
+
+## Características Generales
+- **Gran capacidad de retención de agua.**
+- **Burbujas minúsculas y tenaces.**
+- **Elevada resistencia al calor.**
+
+## Calidad de la Espuma
+- La calidad de la espuma puede verse afectada por contaminantes en el agua (detergentes, residuos de petróleo, inhibidores de corrosión).
+- La espuma es más estable con agua dulce o de mar, a temperaturas de **12 ºC a 27 ºC**.
+
+## Aplicaciones de la Espuma
+### Espuma de Baja Expansión
+- **Uso:** Control y extinción de incendios de líquidos inflamables (Clase B) y, en menor medida, incendios de Clase A.
+- **Precauciones:** No aplicar sobre elementos con tensión eléctrica ni sobre derrames de gases licuados (butadieno, propano, cloruro de vinilo). No usar en incendios de materiales reactivos con agua (Clase D, carburo de calcio).
+- **Densidad de Aplicación:** 
+  - Se expresa en litros de solución agua-concentrado por metro cuadrado.
+  - **Densidad recomendada:** **5 litros por minuto y metro cuadrado** para incendios de derrames.
+  - **Cálculo del caudal necesario:** 
+    - Fórmula: Superficie del derrame (m²) x Densidad de aplicación (l/m²·min) = Caudal necesario (l/min).
+
+#### Ejemplo de Cálculo
+- Para un derrame de **56 m²**:
+  - **Caudal necesario:** 56 m² x 5 l/m²·min = **280 l/min**.
+  - Se puede lograr con una lanza de **400 l/min** o dos de **200 l/min**.
+
+- Para un derrame de **100 m²**:
+  - **Caudal necesario:** 100 m² x 5 l/m²·min = **500 l/min**.
+  - Se necesitan dos lanzas (una de **400 l/min** y otra de **200 l/min**) o tres lanzas de **200 l/min**.
+
+### Espumas de Media Expansión
+- **Ratio de expansión:** de **20:1 a 200:1**.
+- **Uso:** Suprimir vaporización de químicos peligrosos en zonas confinadas (sótanos, pozos, barcos, alcantarillados).
+- **Expansión óptima:** entre **30:1 y 50:1** para líquidos orgánicos de bajo punto de ebullición.
+
+### Espumas de Alta Expansión
+- **Ratio de expansión:** mayor a **200:1**.
+- **Uso:** Combate incendios en espacios confinados (garajes, bodegas, sótanos).
+- **Características:** Bajo contenido de agua (1:1000), lo que puede resultar en pérdida de efectividad.
+- **Aplicación:** En espacios confinados con ventilación adecuada. La profundidad de la capa de espuma debe ser de aproximadamente **60 cm**.
+
+## Cálculo del Caudal para Espumas de Alta Expansión
+- **Fórmula NFPA para el caudal:**
+  \[
+  R = \frac{V}{T} \cdot C_n \cdot C
+  \]
+  - **R:** Velocidad de descarga (m³/min).
+  - **V:** Volumen del espacio a proteger.
+  - **T:** Tiempo de descarga (2 a 8 minutos).
+  - **C:** Compensación por contracción normal de la espuma (1.15).
+  - **C_n:** Compensación por fugas (1.0 a 1.2).
+
+Esta fórmula proporciona un dato orientativo sobre el caudal necesario para iniciar una inundación total con espuma de alta expansión, siendo más precisa cuando se conocen las características del local y los materiales almacenados.

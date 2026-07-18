@@ -1,0 +1,70 @@
+# Elementos de las Cubiertas Planas
+
+## Elementos Clave
+- **Antepecho**: Parte maciza inferior que protege contra caídas, coronada con pieza viertaaguas.
+- **Lucernario**: Punto de generación de humedades en cubiertas planas.
+- **Sumidero**: Puntos de recogida de agua, situados en la cota más baja de los cuarteles.
+- **Cuartel o paño**: Equivalente a los faldones de cubiertas inclinadas.
+- **Canaletas**: Sumideros lineales para recogida de agua.
+- **Junta de dilatación**: Discontinuidad estructural para evitar deformaciones térmicas.
+- **Albardilla**: Piezas que dirigen las aguas pluviales para evitar su penetración en el muro.
+- **Chimeneas e instalaciones**: Elementos que atraviesan o apoyan en la cubierta.
+
+## Tipos de Cubiertas según la Disposición del Aislante
+1. **Tradicional**: Impermeabilizante colocado encima del aislante.
+2. **Invertida**: Aislante sobre la capa impermeabilizante, adecuada para cubiertas transitables y no transitables. Solo se pueden usar aislamientos no degradables.
+
+## Tipos de Cubiertas según su Comportamiento Higrómetrico
+- **Cubiertas Frías**: Presentan una cámara de aire entre el aislamiento y el impermeabilizante. Ejemplo: Cubiertas a la catalana.
+- **Cubiertas Calientes**: No tienen cámara de aire, permaneciendo el aislamiento y el impermeabilizante en contacto. Ejemplo: Cubiertas a Deck.
+
+## Elementos Singulares
+- Elementos de encuentro, resalte o penetración en las cubiertas, como barandillas, sumideros, juntas de dilatación, antenas, etc. Deben ser tratados para asegurar estanqueidad.
+
+### Juntas y Encuentros
+- **Juntas de dilatación**: La lámina impermeabilizante debe respetar las juntas estructurales.
+- **Encuentros con paramentos verticales**: Doblado del impermeabilizante hasta 15 cm de altura para evitar entrada de agua.
+
+# Cerramientos Exteriores
+
+## Definición
+Elementos dispuestos en la envolvente exterior de la edificación, protegiendo del frío, calor, agua, viento y ruidos.
+
+## Características Generales
+- **Aislamiento Térmico**: 
+  - **Transmisión térmica**: Capacidad de transmitir calor.
+  - **Inercia térmica**: Capacidad de mantener calor.
+- **Condensación Superficial Interna**: Ocurre cuando la temperatura superficial es menor o igual a la temperatura de rocío.
+- **Estanqueidad**: Impermeabilización total al agua.
+
+## Tipologías de Cerramientos Exteriores
+1. **Cerramientos Pesados**: Peso medio > 100 Kg/m².
+   - **Cerramiento de una hoja**: Alta inercia térmica, baja impermeabilidad.
+   - **Cerramiento trasdosado**: Dos hojas, mejor aislamiento térmico.
+   - **Tabiques pluviales**: Impermeabilización y aislamiento de paredes medianeras.
+
+2. **Cerramientos Ligeros**: Peso < 100 Kg/m², poco espesor (10-15 cm).
+   - **Muros cortina**.
+   - **Fachada panel**.
+
+## Aislamiento Térmico en Cerramientos
+- **Conductividad térmica**: λ < 0,08 W/m·°C.
+  - Ejemplos de materiales:
+    - Corcho: 0,04-0,30
+    - Fibra de vidrio: 0,03-0,07
+    - Poliuretano: 0,018-0,025
+
+## Ventilación de Cámaras de Aire
+- Dependiendo del clima, pueden ser estancas o ventiladas.
+
+## Problemas Comunes
+- **Puentes térmicos**: Interrupciones en la cámara de aire que provocan transmisión térmica y condensaciones.
+
+## Tabiques Pluviales
+- Sistema constructivo para impermeabilización y aislamiento de paredes expuestas a agentes meteorológicos. Incluye:
+  - **Hoja de protección exterior**: Materiales como ladrillo cerámico o fibrocemento.
+  - **Cámara de aire**: Evita la penetración de humedad.
+  - **Aislamiento**: Colocado en la cara externa del muro soporte.
+
+## Encuentros de Fachadas con Forjados
+- Importante para evitar condensaciones y puentes térmicos. Se pueden anclar o no, dependiendo de la configuración.

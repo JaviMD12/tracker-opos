@@ -1,0 +1,96 @@
+# Teoría del fuego
+
+## Sensación térmica y temperatura
+- **Calor**: Energía producida por la interacción de las moléculas de la materia.
+- **Temperatura**: Manifestación del grado de calor de los cuerpos.
+
+## Unidades de calor
+- **Caloría (cal)**: Cantidad de calor necesaria para elevar 1 g de agua en 1 °C (entre 14.5 °C y 15.5 °C).
+- **Kilocaloría (kcal)**: 1,000 calorías.
+- **Megacaloría (Mcal)**: 1,000,000 calorías o 1,000 kilocalorías.
+- **Conversión**:
+  - 1 cal = 4.1868 J
+  - 1 J = 0.24 cal
+
+## Calor específico
+- **Definición**: Cantidad de calor necesaria para elevar 1 °C la temperatura de 1 g de una sustancia.
+- **Fórmula**: 
+  \[
+  C = \text{Masa} \cdot \text{Calor específico}
+  \]
+
+## Capacidad calorífica
+- **Definición**: Cantidad de calor necesaria para elevar 1 °C la temperatura de un cuerpo.
+- **Fórmula**: 
+  \[
+  C = \text{Masa} \cdot \text{Calor específico}
+  \]
+
+## Escalas de temperatura
+- **Celsius (°C)**: 0°-100°
+- **Réaumur (°R)**: 0°-80°
+- **Fahrenheit (°F)**: 32°-212°
+- **Kelvin (K)**: 273°-373°
+
+### Conversiones entre escalas
+- \( °F = °C \cdot 1.8 + 32 \)
+- \( °C = (°F - 32) / 1.8 \)
+- \( °C = K - 273.15 \)
+- \( K = °C + 273.15 \)
+
+## Efectos del calor sobre los cuerpos
+### Dilatación
+- **Definición**: Aumento de volumen al ser calentados.
+- **Tipos**:
+  - **Dilatación lineal**: Aumento de longitud.
+    - **Fórmula**: 
+      \[
+      \Delta L = L - L_0
+      \]
+  - **Dilatación superficial**: Aumento de superficie.
+    - **Fórmula**: 
+      \[
+      \Delta S = S - S_0
+      \]
+  - **Dilatación cúbica**: Aumento de volumen.
+    - **Fórmula**: 
+      \[
+      \Delta V = V - V_0
+      \]
+
+### Cambios de estado
+- **Progresivos** (absorben calor):
+  - Fusión: Sólido a líquido.
+  - Vaporización: Líquido a gas.
+  - Sublimación: Sólido a gas.
+  
+- **Regresivos** (desprenden calor):
+  - Solidificación: Líquido a sólido.
+  - Condensación: Gas a líquido.
+  - Sublimación regresiva: Gas a sólido.
+
+## Gases en combustión
+- **Dióxido de carbono (CO₂)**: Gas no inflamable, asfixiante en altas concentraciones.
+  - **Punto de fusión**: -78 °C
+  - **Punto de ebullición**: -57 °C
+  - **Densidad relativa**: 1.52 (más pesado que el aire).
+
+- **Monóxido de carbono (CO)**: Gas incoloro, inflamable y explosivo.
+  - **Concentración inflamable**: 12.5% a 74.2%.
+
+- **Cianuro de hidrógeno (HCN)**: Gas incoloro, explosivo en mezclas de 5% a 40% con aire.
+  - **Vías de ingreso**: Respiratoria, digestiva, cutánea.
+
+## Tabla de calor específico
+| Sustancia         | c [J/(g·°C)] | c [cal/(g·°C)] |
+|-------------------|---------------|-----------------|
+| Agua              | 4.182         | 1.0             |
+| Aire seco         | 1.009         | 0.241           |
+| Aluminio          | 0.896         | 0.214           |
+| Bronce            | 0.385         | 0.092           |
+| Cobre             | 0.385         | 0.092           |
+| Concreto          | 0.92          | 0.22            |
+| Hielo (a 0 °C)   | 2.09          | 0.5             |
+| Plomo             | 0.13          | 0.031           |
+| Vidrio            | 0.779         | 0.186           |
+| Zinc              | 0.389         | 0.093           |

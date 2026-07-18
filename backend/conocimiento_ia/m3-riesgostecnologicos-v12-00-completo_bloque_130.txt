@@ -1,0 +1,88 @@
+# Parte 7. NRBQ
+
+## Valoración
+
+La valoración inicial en una intervención con sustancias peligrosas es crucial para seleccionar la mejor opción táctica y los medios necesarios. Se utiliza el método **DECIDE**, que incluye los siguientes pasos:
+
+1. **Detectar** la presencia de materiales peligrosos:
+   - Conocer las propiedades físicas y químicas de la sustancia.
+   - Evaluar los riesgos para las personas.
+   - Determinar el nivel de protección necesario.
+   - Delimitar las zonas de intervención.
+
+2. **Estimar** el daño previsible sin intervención:
+   - Analizar la situación (fuga gaseosa, derrame líquido, etc.).
+   - Evaluar la estabilidad de la situación.
+   - Determinar la dirección del vertido o fuga.
+   - Observar si la emergencia se agrava o comienza a remitir.
+
+3. **Constituir** los objetivos para la respuesta:
+   - Definir los daños específicos que se quieren prevenir.
+
+4. **Identificar** las opciones para la acción:
+   - Valorar tácticas como evacuación, taponamiento o relicuación.
+
+5. **Desarrollar** la mejor opción:
+   - Seleccionar la opción más adecuada considerando el riesgo y los beneficios.
+
+6. **Evaluar** el progreso:
+   - Realizar una valoración continua del estado de la intervención.
+
+### Datos a Valorar en Intervención
+
+| **MATERIA** | **ESTADO** | **ALCANCE** |
+|--------------|------------|-------------|
+| Propiedades físicas | Sólido, líquido o gaseoso | Vidas comprometidas |
+| Propiedades químicas | Temperaturas de cambios de estado | Entorno: urbano, rural, industrial |
+| Cantidad de materia | | Medio ambiente |
+| | | Transporte o industria |
+
+### Aspectos Clave para el Plan de Acción
+
+1. **Toxicidad**:
+   - Conocer el grado de toxicidad y el IPVS (Concentración inmediatamente peligrosa para la vida y la salud).
+
+2. **Inflamabilidad**:
+   - **Temperatura de inflamación**: Diferencia con la temperatura actual.
+   - **Rango de inflamabilidad**: Límite inferior y superior.
+   - **Temperatura de autoignición**: Oscila entre **200-700º C**.
+
+3. **Densidad**:
+   - Densidad < agua: Flota, fácil de aspirar.
+   - Densidad > agua: No flota, difícil de aspirar.
+
+4. **Solubilidad**:
+   - Capacidad de mezclarse con agua, importante para la dilución y ventilación.
+
+5. **Volatilidad**:
+   - Mide la facilidad de evaporación; sustancias más volátiles son más difíciles de contener.
+
+### Ejemplo de Estado de Materia
+
+| **Materia** | **Punto de fusión** | **Punto de ebullición** | **Estado a 15º C** |
+|-------------|---------------------|-------------------------|---------------------|
+| Polipropileno | -185º C | -48º C | Gaseoso |
+| Gasolina | -93º C | 130º C | Líquido |
+| Gas natural | -183º C | -162º C | Gaseoso |
+| Hidrógeno | -259º C | -253º C | Gaseoso |
+
+### Gas Natural y Gas Natural Licuado
+
+- **Gas Natural Licuado (GNL)**: 
+  - 1 m³ de GNL equivale a **600 m³** de gas natural.
+  - Fuga de GNL forma una nube blanquecina debido a la condensación de la humedad.
+
+### Alcance del Siniestro
+
+1. **Vidas humanas**: Máxima prioridad.
+2. **Entorno**: Urbano, rural, industrial.
+3. **Transporte o industria**: Diferencias en riesgos.
+4. **Climatología**: Importancia de las condiciones meteorológicas.
+
+### Valoración Continua
+
+Es esencial que el mando actualice la información y evalúe continuamente el estado de la emergencia para decidir si modificar las acciones emprendidas.
+
+### Valoración Final
+
+Al finalizar la intervención, se debe evaluar el lugar para facilitar el retorno a la normalidad y asegurar que no se han omitido datos importantes para el informe posterior.

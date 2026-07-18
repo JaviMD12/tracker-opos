@@ -1,0 +1,39 @@
+# Hidráulica y Minimización del Golpe de Ariete
+
+## Conceptos Clave
+
+- **Empuje**: 
+  - A mayor presión, mayor empuje para un mismo diámetro.
+  - A mayor diámetro, mayor empuje para una misma presión.
+  - El empuje de un chorro cónico disminuye hasta anularse aproximadamente a los 180º.
+
+- **Minimización del Golpe de Ariete**:
+  - El golpe de ariete puede crear situaciones de peligro debido al incremento súbito de presión.
+  - Se recomienda realizar operaciones de apertura y cierre de forma lenta y controlada para evitar variaciones bruscas de caudal.
+
+## Definiciones Técnicas
+
+- **Hidráulica**: Ciencia que estudia las propiedades mecánicas (estáticas y dinámicas) de los fluidos.
+- **Hidrostática**: Rama de la hidráulica que estudia los fluidos en estado de equilibrio.
+- **Hidrodinámica**: Ciencia que estudia la dinámica de los líquidos.
+- **Masa**: Cantidad de materia que posee un cuerpo.
+- **Densidad**: Cantidad de masa en un determinado volumen de una sustancia.
+- **Peso específico**: Relación entre el peso de un cuerpo y el volumen que ocupa.
+- **Viscosidad**: Oposición de los fluidos a las deformaciones tangenciales.
+- **Fluido ideal**: Fluido que carece de viscosidad y es incompresible.
+- **Presión**: Fuerza ejercida por unidad de superficie.
+- **Presión de vapor**: Presión en la que la fase líquida y la fase gaseosa están en equilibrio dinámico a una temperatura concreta.
+- **Tensión superficial**: Energía necesaria para aumentar la superficie de un líquido por unidad de área.
+- **Caudal**: Cantidad de líquido que pasa por la sección transversal de un conducto en la unidad de tiempo.
+- **Bomba centrífuga**: Transforma energía mecánica en energía hidráulica.
+  - **Curvas características**: Representan las particularidades de una bomba centrífuga.
+  - **Punto óptimo de funcionamiento**: Donde el rendimiento energético es más elevado.
+  - **Cebado**: Proceso de inundar la bomba para que empiece a trabajar.
+- **Cavitación**: Formación de vapor de agua por descenso local de presión.
+- **Pérdida de carga**: Pérdidas energéticas en un fluido en movimiento debido a fenómenos que oponen resistencia.
+- **Curva característica de la instalación**: Representación gráfica de las pérdidas de carga continuas y locales.
+
+## Notas Importantes
+
+- Las bombas pueden acoplarse en **paralelo** y **serie**.
+- Es fundamental recordar la importancia de la **minimización del golpe de ariete** en operaciones de bomberos para garantizar la seguridad y eficacia en el manejo de fluidos.

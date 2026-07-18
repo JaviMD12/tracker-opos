@@ -1,0 +1,186 @@
+# Índice
+
+## PARTE 1: TEORÍA DEL FUEGO
+
+### Capítulo 1. Caracterización
+1. **Conceptos básicos**
+   - Composición de la materia
+   - Reacciones
+2. **Teoría del fuego**
+   - Definición y normativa
+   - Reacciones endotérmicas y exotérmicas
+   - Reacción redox
+3. **Combustiones**
+   - Definición y normativa aplicada
+   - Tipos de combustiones
+   - Productos de la combustión
+4. **¿Qué es un fuego y qué es un incendio?**
+5. **Triángulo y tetraedro del Fuego**
+   - Combustible
+   - Comburente
+   - Energía de Activación. Calor
+   - Reacción en cadena
+   - Agentes Pasivos
+6. **Tipos de incendios**
+   - Según la naturaleza del combustible
+   - Por la forma del foco de incendio
+   - Por la superficie afectada
+   - Por la forma en que se desarrollan
+   - Según el lugar donde se desarrollan
+   - Por magnitud
+7. **Evolución de los Incendios**
+   - Inicio
+   - Desarrollo
+   - Propagación
+   - Extinción
+8. **Transmisión de los incendios**
+   - Conducción
+   - Convección
+   - Radiación
+
+### Capítulo 2. Técnicas
+1. **Mecanismos de Extinción**
+   - Desalimentación o eliminación del combustible
+   - Sofocación o eliminación del comburente
+   - Enfriamiento
+   - Inhibición o rotura de la reacción en cadena
+2. **Agentes Extintores**
+   - Definición y características
+   - Agentes extintores líquidos
+   - Agentes extintores sólidos (características y mecanismos de extinción)
+   - Agentes extintores gaseosos (características y mecanismos de extinción)
+3. **Aplicaciones, usos, ventajas e inconvenientes de los Agentes Extintores**
+   - Agua
+   - Espumas
+   - Agentes extintores sólidos
+   - Agentes extintores gaseosos
+
+## PARTE 2: HIDRÁULICA
+
+### Capítulo 1. Caracterización
+1. **Propiedades de los fluidos**
+   - Masa
+   - Densidad
+   - Peso específico
+   - Densidad relativa y peso específico relativo
+   - Viscosidad
+   - Presión de vapor
+   - Tensión superficial
+2. **Hidrostática**
+   - Presión
+   - Ecuación fundamental de la hidrostática
+   - Principio de Pascal
+   - Principio de Arquímedes
+3. **Hidrodinámica**
+   - Régimen de fluido: régimen laminar y turbulento
+   - Caudal
+   - Ecuación de Continuidad
+   - Ecuación de Bernoulli
+   - Teorema de Torricelli
+   - Efecto Venturi
+   - Golpe de ariete
+
+### Capítulo 2. Técnicas
+1. **Bombas centrífugas**
+   - Curva característica de una bomba
+   - Aspiración en bombas
+   - Cebado de bomba
+   - Cavitación
+   - Acoplamiento de bombas
+2. **Instalación hidráulica**
+   - Pérdidas de carga en una instalación
+   - Curva de una instalación
+   - Punto de funcionamiento
+   - Alcance de una instalación
+   - Reacción en lanza
+   - Minimización de golpe de ariete
+
+## PARTE 3: INCENDIOS DE INTERIOR. VENTILACIÓN DE INCENDIOS
+
+### Capítulo 1. Caracterización
+1. **Desarrollo de incendios de interior**
+   - Desarrollo genérico de un incendio de interior
+   - Incendios limitados por el combustible (ILC)
+   - Incendios limitados por la ventilación (ILV)
+   - Diferencias entre ILC e ILV
+   - Flashover
+   - Incendios infraventilados
+   - Flashover inducido por la ventilación
+   - Backdraft
+   - Explosión de humo
+2. **Influencia del combustible**
+   - Poder calorífico
+   - Carga de combustible
+   - Otros factores ligados al combustible
+   - Combustibles tradicionales vs. Combustibles modernos
+3. **Influencia del recinto**
+   - Incendios de contenido vs. Incendios de estructura
+   - Superficie y altura del recinto
+   - Geometría interna: confinamiento y compartimentación interior
+   - Nivel de aislamiento, inercia térmica
+4. **Riesgos del trabajo en incendios de interior**
+   - Inflamabilidad y fenómenos de rápido desarrollo
+   - Calor
+   - Toxicidad
+   - Visibilidad
+   - Rango de supervivencia de víctimas
+5. **Influencia de la aplicación de agua sobre incendios**
+   - Efecto de enfriamiento
+   - Efecto de dilución
+   - Efectividad en la aplicación de agua
+   - Tamaño de la gota
+6. **Influencia de la ventilación**
+   - Principio de Conservación de la Masa
+   - Ecuación de Bernoulli
+   - Causas de la movilidad de gases de incendio: flotabilidad y diferencias de presión
+   - Identificación de flujos de gases
+   - Flujos unidireccionales
+   - Flujos bidireccionales
+   - Patrones de ventilación
+7. **Influencia de la presurización de recintos**
+   - Presiones en el recinto de incendio
+   - Efectos sobre la propagación del incendio
+
+### Capítulo 2. Técnicas de intervención
+1. **Aplicación de agua**
+   - Ataque Indirecto
+   - Ataque Directo
+   - Enfriamiento de Gases
+   - Ataque defensivo contra la propagación
+   - Ataque exterior ofensivo “ablandado”
+   - Cuadro resumen de técnicas
+   - Acceso a través de puerta
+   - Elección del caudal apropiado: disponible, crítico y óptimo
+2. **Técnicas de control de la ventilación**
+   - Antiventilación o confinamiento de incendio
+   - Ventilación natural
+   - Ventilación forzada
+   - Control de puerta de acceso
+3. **Trabajo en espacios sin visibilidad**
+   - Orientación en espacios sin visibilidad
+   - Rastreo y búsqueda de víctimas en espacios sin visibilidad
+
+### Capítulo 3. Valoración de incendios de interior
+1. **Desarrollo de la valoración en el tiempo**
+2. **Lectura del incendio**
+   - Edificios
+   - Humo
+   - Flujo de gases
+   - Calor
+   - Llamas
+3. **Identificación de acciones prioritarias**
+
+### Capítulo 4. Tácticas de intervención
+1. **Planteamiento táctico**
+   - Fases de una intervención
+   - Sectorización
+   - Modo táctico: ofensivo o defensivo
+2. **Control exterior de propagación**
+3. **Ataque exterior ofensivo**
+4. **Ataque interior con antiventilación**
+5. **Ataque interior con ventilación natural**
+6. **Ataque en presión positiva para la extinción**
+7. **Ataque en presión positiva para el rescate**
+8. **Ataque en presión positiva para la progresión**
+9. **Ataque en presión positiva contra la propagación**
+10. **Ataque combinado (ataque exterior ofensivo + Enfriamiento de gases + APP)**

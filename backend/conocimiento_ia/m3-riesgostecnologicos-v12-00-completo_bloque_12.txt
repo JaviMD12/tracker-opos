@@ -1,0 +1,55 @@
+# Estabilidad Estructural y Elementos Comunes en Edificaciones
+
+## Mecanismos de Equilibrio
+- **Equilibrio estructural**: Análisis de estructuras en equilibrio, considerando mecanismos controlados durante procesos constructivos (montaje, transporte, desmontaje).
+- **Fases de análisis de estabilidad**:
+  - **Fase 0**: Equilibrio previo a la patología.
+  - **Fase 1**: Nuevo equilibrio de la estructura dañada.
+  - **Fase 2**: Propuestas de soluciones, priorizando las de menor riesgo.
+
+## Ejemplo: Viga Pratt
+- **Fase 0**: Alta estabilidad estructural, configuración hiperestática.
+- **Fase 1**: La viga no cumple su función original debido a la patología.
+- **Fase 2**: Solución más sencilla: apeo inferior mediante elementos verticales (puntales, pies derechos).
+
+## Elementos Estructurales Comunes
+### 1. Estructuras Enterradas
+- **Definición**: Elementos constructivos en contacto con el terreno que transmiten esfuerzos generados por cargas y estabilizan esfuerzos horizontales.
+- **Tipos de terreno**:
+  - **Terreno de cimentación**: Estratos que sustentan una construcción.
+  - **Clasificación según composición y resistencia**:
+    - **Rocas**: Presión admisible 1-10 MPa.
+    - **Terrenos granulares**: Presión admisible 0.1 - >0.6 MPa.
+    - **Terrenos cohesivos**: Presión admisible 0.075 - 0.6 MPa.
+    - **Terrenos deficientes**: No aptos para cimentar.
+
+### 2. Grupos de Terrenos según CTE DB SE-C
+- **T-1**: Terrenos favorables, cimentación directa.
+- **T-2**: Terrenos intermedios, variabilidad en soluciones de cimentación.
+- **T-3**: Terrenos desfavorables, incluyen suelos expansivos, colapsables, etc.
+
+### 3. Taludes (Empujes de Terrenos de Cimentación)
+- **Definición**: Corte de transición entre dos cotas del terreno.
+- **Ángulo de rozamiento**: Máximo ángulo de estabilidad del terreno.
+- **Tipos de taludes**:
+  - **Naturales**: Laderas.
+  - **Artificiales**: Desmontes y terraplenes.
+- **Ángulos de rozamiento según CTE DB SE C**:
+  - **Grava**: 34º - 45º
+  - **Arena**: 30º - 36º
+  - **Limo**: 25º - 32º
+  - **Arcilla**: 16º - 28º
+
+## Métodos de Evaluación del Terreno
+- **Importancia**: Estudio geotécnico para identificar el terreno de cimentación y cuantificar presiones admisibles.
+- **Técnicas de prospección**:
+  - **Calicatas**: Excavaciones para observación directa.
+  - **Sondeos mecánicos**: Reconocimiento de unidades geotécnicas.
+    - **Sondeo a rotación**: Para suelos rocosos.
+    - **Sondeo a percusión**: Para suelos granulares.
+    - **Sondeo a presión**: En suelos blandos.
+  - **Pruebas continuas de penetración**: Medidas de resistencia o deformabilidad del terreno.
+  - **Geofísica**: Técnicas complementarias para grandes superficies (sísmica de refracción, resistividad eléctrica, georadares).
+
+## Conclusión
+La estabilidad estructural y la correcta evaluación del terreno son fundamentales en la edificación, asegurando la seguridad y funcionalidad de las construcciones.

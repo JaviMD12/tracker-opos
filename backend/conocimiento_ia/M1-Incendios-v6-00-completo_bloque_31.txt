@@ -1,0 +1,76 @@
+# Manual de Incendios
+
+## Ejemplo de Cálculo de Enfriamiento
+
+### Datos del Incendio
+- **Dimensiones del recinto**: 5m x 5m x 2.5m
+- **Altura del plano neutro**: 1.25m
+- **Temperatura media de los gases**: 500ºC
+- **Densidad de los gases a 500ºC**: 0.46 kg/m³
+- **Calor específico de los gases**: 1 kJ/kg
+- **Temperatura objetivo**: 200ºC
+- **Energía a absorber**: 4312.5 kJ
+
+### Cálculo de Agua Necesaria
+- **Energía que puede absorber 1 kg de agua hasta 200ºC**: 3009 kJ
+- **Cantidad de agua necesaria**:
+  \[
+  \text{Agua necesaria} = \frac{4312.5 \text{ kJ}}{3009 \text{ kJ/kg}} = 1.433 \text{ kg}
+  \]
+- **Volumen de agua necesario**: 1.433 L (equivalente a dos pulsaciones de 1” a 50 lpm con efectividad del 100%).
+
+### Volumen de Gases
+- **Volumen inicial de gases a 500ºC**: 31.25 m³ (1.25m de espesor)
+- **Volumen final de gases a 200ºC**: 22.07 m³ (0.88m de espesor)
+
+---
+
+## Técnicas de Intervención
+
+### Enfriamiento de Gases
+- **Objetivo**: Reducir la temperatura de los gases.
+- **Caudal**: Bajo-medio (50 lpm a 250 lpm).
+- **Patrón de pulsaciones**: Cortas (1” a 5”).
+- **Movimiento de lanza**: Pulsaciones cortas y barrido.
+
+### Ataque Defensivo Contra la Propagación
+- **Objetivo**: Limitar la propagación del incendio.
+- **Circunstancias**:
+  - Recursos limitados.
+  - Incendios en grandes estructuras.
+  - Escasez de agua.
+- **Descripción del proceso**:
+  - Aplicación de agua continua.
+  - Evitar escorrentía.
+  - Humedecer y enfriar superficies.
+
+### Ataque Exterior Ofensivo o "Ablandado"
+- **Objetivo**: Reducir la potencia del incendio desde una posición segura.
+- **Caudal**: Medio (100 lpm a 250 lpm).
+- **Patrón de pulsaciones**: Media a larga duración (5” a 30”).
+- **Consideraciones de seguridad**:
+  - No bloquear la salida de gases.
+  - Controlar el desplazamiento de gases y vapor de agua.
+
+### Ventajas y Desventajas del Ablandado
+- **Ventajas**:
+  - Reduce la temperatura en el recinto.
+  - Aumenta la supervivencia de víctimas.
+  - Reduce el tiempo de control y extinción.
+- **Inconvenientes**:
+  - Mala aplicación puede desplazar gases a zonas no deseadas.
+  - Riesgo de quemaduras por exceso de vapor de agua.
+
+---
+
+## Resumen de Datos Técnicos Clave
+- **Temperatura inicial de gases**: 500ºC
+- **Temperatura final deseada**: 200ºC
+- **Energía a absorber**: 4312.5 kJ
+- **Agua necesaria**: 1.433 L
+- **Volumen inicial de gases**: 31.25 m³
+- **Volumen final de gases**: 22.07 m³
+
+--- 
+
+Este formato proporciona una visión clara y estructurada de los cálculos y técnicas relevantes para la intervención en incendios, facilitando su comprensión y estudio para oposiciones.

@@ -1,0 +1,85 @@
+# Descarrilamiento de Tren
+
+## Planteamiento
+- **Tipo de tren**: AVE serie 102, automotor eléctrico.
+- **Trayecto**: Madrid - Zaragoza.
+- **Pasajeros**: 140 en total, 40 en los coches descarrilados.
+- **Características de la vía**: Doble, ancho de alta velocidad, tensión de **25 kV** de corriente alterna.
+- **Longitud del tren**: **200 m**, con 13 coches comunicados por el interior.
+- **Ubicación**: A menos de **500 m** de la estación, población más cercana de **60,000 habitantes**.
+- **Coche número 6**: Vagón-cafetería.
+- **Estado del maquinista**: Sin contacto.
+
+## Recepción del Aviso
+- Comunicación con el **Centro de Gestión de Emergencias (CGRH24)** de Adif y/o **CECON Renfe**.
+- Solicitud de coordenadas GPS para ubicación precisa.
+- Confirmación de la situación del tren y pasajeros.
+
+## Riesgos Añadidos
+- **Incendio**: No hay incendio presente.
+- **Poblaciones cercanas**: No afectadas.
+- **Industrias cercanas**: No hay.
+- **Masa forestal**: No hay riesgo de incendio.
+
+## Medidas Iniciales
+- Solicitud de corte de tensión telemáticamente en la catenaria.
+- Interrupción de la circulación por las vías.
+- Confirmación de envío de un técnico especializado.
+- Movilización de parques de bomberos, equipos sanitarios y fuerzas de seguridad.
+
+## Búsqueda de Acceso
+- Uso de mapas, coordenadas GPS, ortofotografía y fichas de intervención.
+
+## Valoración y Medidas de Seguridad
+### Llegada al Lugar del Siniestro
+- Colocación de vehículos para no obstruir el acceso.
+
+### En el Siniestro
+- **Acciones prioritarias**:
+  - Confirmar datos y magnitud del accidente.
+  - Verificar movilización de más medios.
+  - Zonificar y comprobar peligros.
+  - Uso de equipos de protección individual (EPI) U2.
+  - Generar cortocircuito a tierra y realizar shuntado de la vía si no hay tensión.
+  - Preparación de líneas de agua en prevención de incendios.
+
+## Intervención y Fin de la Intervención
+### Rescate y Evacuación
+- Sectorización del tren en dos zonas: coches descarrilados y demás.
+- Priorizar tareas: triage, evacuación y rescate.
+- Evacuación de pasajeros utilizando escaleras del tren o de bomberos.
+- Transferencia de afectados no atrapados a personal sanitario o voluntarios.
+- Técnicas de rescate para víctimas atrapadas.
+
+### Verificación de Medidas
+- Confirmar que:
+  - No hay tensión.
+  - Se ha cortado la circulación de otros trenes.
+  - Evacuación y rescate están en curso.
+
+### Participación Ciudadana
+- Asignar un efectivo para coordinar personal ajeno a servicios de emergencia.
+
+## Consideraciones Técnicas
+- **Infraestructura**: Obras para construir la explanación y geometría de la vía.
+- **Superestructura**: Vías, útiles e instalaciones para la circulación segura.
+- **Alimentación eléctrica**: Tercera vía o catenaria.
+- **Subestaciones eléctricas**: Situadas cada **20 km** en líneas de baja tensión y cada **50 km** en alta tensión.
+- **Locomotoras**: Fuerza motriz del tren, pueden ser diesel o eléctricas.
+- **Automotores**: Trenes autopropulsados con motor integrado.
+- **Coches y vagones**: Vehículos para transportar pasajeros y mercancías.
+- **Bogies**: Dispositivos giratorios que soportan el vehículo ferroviario.
+
+## Seguridad en la Desconexión Eléctrica
+- **Normas de seguridad**:
+  1. Cortar fuentes de alimentación.
+  2. Evitar realimentación.
+  3. Comprobar corte de tensión.
+  4. Derivar a tierra.
+  5. Señalizar la zona de trabajo.
+
+## Información sobre Mercancías
+- Detalles en la carta de porte, documento que recoge el contrato de transporte.
+
+## Evaluación Continua
+- Prestar atención a cambios en las condiciones que requieran re-evaluación de medidas.

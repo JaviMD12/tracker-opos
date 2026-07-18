@@ -1,0 +1,92 @@
+# Parte 7. NRBQ
+
+## Tácticas de intervención
+
+### Organización de tareas
+- Las tareas deben organizarse en la **zona templada**.
+- En la **zona caliente**, se debe permanecer el menor tiempo posible.
+- Se recomienda el trabajo en parejas: un interviniente y un compañero vigilante desde la zona templada.
+
+### Intervenciones con riesgo químico y radiológico
+- **Riesgo químico**: Considerar el tiempo disponible con el **Equipo de Respiración Autónoma (ERA)** y el tiempo de permeación de la materia peligrosa.
+- **Riesgo radiológico**: Considerar el tiempo máximo de exposición a la radiación.
+
+### Cálculo de tiempos de exposición
+1. Aseguramiento mediante parapetos de la fuente o zona de trabajo.
+2. Ubicación del radiámetro hacia la fuente en la posición más avanzada.
+3. Tomar la **tasa de dosis (Td)** indicada para esta posición.
+4. Calcular los tiempos máximos de exposición con la siguiente fórmula (cuidado con las unidades).
+
+#### Tabla 57: Tasa de dosis en función del tiempo máximo de exposición
+| Tasa de Dosis (mSv/h) | Tiempo máximo de exposición |
+|-----------------------|----------------------------|
+| Si está en µSv/h     | > 50 h                     |
+| 0 < 1                 | 50 h                       |
+| 1 < 10                | 5 h                        |
+| 10 < 20               | 2 h 30 min                 |
+| 20 < 30               | 1 h 39 min                 |
+| 30 < 40               | 1 h 15 min                 |
+| 40 < 50               | 1 h                        |
+| > 50                  | 30 min                     |
+
+### Fase 3: Mitigación de causas y restitución de la normalidad
+- La mitigación exige un **sobre-empaquetamiento** para evitar la dispersión y contaminación.
+- Se debe realizar una valoración exhaustiva del lugar del accidente con ayuda del **Consejo de Seguridad Nuclear (CSN)**.
+
+## Intervenciones nucleares
+
+### Clasificación de residuos nucleares
+- **Alta actividad**: Procedentes de elementos del combustible nuclear.
+- **Media actividad**: Radionucleidos generados en el proceso de fisión nuclear.
+- **Baja actividad**: Herramientas, ropas y material de mantenimiento de centrales nucleares.
+
+### Gestión de residuos nucleares
+- En España, la **Empresa Nacional de Residuos Radiactivos (ENRESA)** se encarga del tratamiento y gestión de residuos nucleares.
+
+### Accidentes nucleares
+- Se dividen en **accidentes** e **incidentes nucleares**.
+- Escala Internacional de Accidentes Nucleares (INES) clasifica la gravedad de los accidentes.
+
+#### Tabla 58: Escala INES
+| Clasificación | Consecuencias | Ejemplos |
+|---------------|---------------|----------|
+| 7             | Accidente mayor | Chernobyl (1986) |
+| 6             | Accidente grave | Kyshtym (1957) |
+| 5             | Accidente | Fukushima (2011), Three Mile Island (1979) |
+| 4             | Accidente | Tokai Mura (1999), St.-Laurent-des-Eaux (1980) |
+| 3             | Incidente grave | Toulouse (2008), Sellafield (2005) |
+| 2             | Incidente | - |
+| 1             | Anomalía | - |
+| 0             | Diferencia | - |
+
+### Planificación estratégica en intervenciones nucleares
+- **Plan Básico de Emergencia Nuclear (PLABEN)**: Normas y criterios para la respuesta ante emergencias nucleares.
+- **Objetivos generales**:
+  - Controlar el accidente y mitigar consecuencias.
+  - Reducir efectos nocivos de radiación ionizante.
+
+### Niveles de dosis de emergencia
+- Clasificación del personal interviniente:
+  - **Grupo 1**: Acciones urgentes para salvar vidas.
+  - **Grupo 2**: Medidas de protección urgentes.
+  - **Grupo 3**: Operaciones de recuperación.
+
+### Zonificación
+- **Zona 0**: Área bajo control del explotador.
+- **Zona 1**: Medidas de protección urgentes (10 km de radio).
+- **Zona 2**: Medidas de protección de larga duración (10-30 km de radio).
+
+### Medidas de protección
+- **Confinamiento**: Permanecer en domicilios para evitar exposición.
+- **Evacuación**: Traslado de la población afectada.
+- **Profilaxis radiológica**: Ingesta de compuestos químicos para reducir absorción de radionucleidos.
+- **Descontaminación**: Reducir irradiación externa y transmisión de sustancias radiactivas.
+
+## Intervenciones biológicas
+
+### Riesgos biológicos
+- Riesgos asociados a la exposición de agentes biológicos, considerados riesgos biológicos profesionales.
+
+### Sustancias generadoras de riesgos biológicos
+- **Sustancias infecciosas**: Contienen agentes patógenos (microorganismos).
+- **Cultivos**: Reproducción de agentes patógenos.

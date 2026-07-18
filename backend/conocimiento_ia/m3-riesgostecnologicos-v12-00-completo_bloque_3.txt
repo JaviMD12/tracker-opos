@@ -1,0 +1,61 @@
+# Cortantes y Flexiones
+
+## Conceptos Clave
+
+- **Fibra Neutra**: Línea imaginaria en el centro de gravedad de la sección transversal de una pieza sometida a flexión, donde no se producen esfuerzos de flexión.
+  
+- **Cortante**: 
+  - **Esfuerzo Cortante Vertical**: Máximo en la fibra neutra y decrece hacia las caras exteriores. Relacionado con la flexión.
+  - **Esfuerzo Cortante Horizontal**: Evita el deslizamiento en planos horizontales, igual al esfuerzo cortante vertical en el mismo punto.
+
+- **Flexión**: Induce a una parte de la estructura a girar bajo fuerzas externas. Compuesto por compresiones y tracciones, definido por momentos flectores.
+
+## Diagramas
+
+- **Diagramas de Cortantes**: Representan la variación de la fuerza cortante a lo largo del eje de un miembro estructural.
+  
+- **Diagramas de Momentos Flectores**: Representan la variación del momento flector a lo largo de un elemento estructural. La forma del diagrama ayuda a determinar la deformación de la estructura.
+
+## Cargas
+
+- **Carga Puntual**: Produce fuerzas cortantes constantes entre las cargas.
+- **Carga Uniformemente Repartida**: Produce variación lineal de los esfuerzos cortantes y variación parabólica de los momentos flectores.
+
+## Comparación de Vigas
+
+- Las vigas articuladas y empotradas presentan diferentes momentos, aunque el cortante es idéntico si las cargas verticales no varían.
+
+# Materiales de Construcción
+
+## Definición
+
+Conjunto de materias primas que, mediante técnicas constructivas, generan elementos constructivos y edificaciones.
+
+## Disponibilidad
+
+- Se requieren grandes cantidades de materiales, muchos de los cuales son elaborados a partir de materias primas de alta disponibilidad (ej. áridos, arcilla).
+
+## Comportamiento Mecánico
+
+- **Materiales Tenaces**: Absorben energía antes de fracturarse (ej. madera, acero).
+- **Materiales Frágiles**: Buen comportamiento a compresión, mal a tracción (ej. piedra, ladrillo).
+
+## Clasificación de Materiales Pétreos
+
+### Pétreos Naturales
+
+- **Rocas Ígneas**: Solidificación del magma.
+  - **Intrusivas**: Densas y resistentes (ej. granito).
+  - **Extrusivas**: Menos densas, más oscuras (ej. basalto).
+
+- **Rocas Sedimentarias**: Resultado de procesos sedimentarios.
+  - **Dentríticas**: Alteración física de otras rocas.
+  - **No Dentríticas**: Origen químico por precipitación.
+
+### Tipos de Rocas
+
+- **Dentríticas**: 
+  - Sueltas: Gravas, Arenas, Limos.
+  - Compactas: Conglomerados, Areniscas, Lutitas.
+
+- **No Dentríticas**: Arcilla, Caliza, Yeso.

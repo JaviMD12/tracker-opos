@@ -1,0 +1,112 @@
+# Acciones en la Edificación
+
+## Dilatación Lineal
+Una viga de hormigón armado de 10 metros de longitud que, durante un incendio, pase de 20ºC a 400ºC, sufrirá una dilatación lineal de:
+- **Dilatación (a)**: 
+  \[
+  a = 0,000012 \cdot 10 \cdot 480 = 0,0576 \, m = 5,76 \, cm
+  \]
+Este aumento de longitud puede provocar empujes laterales y el colapso de la estructura.
+
+## Clasificación de Acciones
+Según el Código Técnico de la Edificación (CTE DB SE AE), las fuerzas, cargas o solicitaciones que debe soportar un edificio se clasifican en:
+
+- **Acciones Permanentes**: Cargas constantes a lo largo de la vida útil del edificio.
+  - **Ejemplos**: Peso propio, pretensado, acciones del terreno.
+  
+- **Acciones Variables**: Cargas que pueden actuar o no y cuya cuantía puede variar.
+  - **Ejemplos**: Sobrecarga de uso, acciones sobre barandillas, viento, acciones térmicas, nieve.
+  
+- **Acciones Accidentales**: Cargas debidas a riesgos naturales o accidentes.
+  - **Ejemplos**: Sismo, incendio, impacto.
+
+## Acciones Permanentes
+
+### Peso Propio
+- **Definición**: Peso de los elementos constructivos (estructura, cerramientos, tabiquería, acabados, instalaciones).
+- **Cálculo**: Se determina a partir de las dimensiones y el peso de los materiales.
+
+### Pretensado
+- **Definición**: Esfuerzos debidos a procesos constructivos asociados al hormigón armado.
+- **Nota**: No se considera un valor de referencia ante intervenciones de bomberos.
+
+### Acciones del Terreno
+- **Definición**: Esfuerzos generados por el terreno en contacto con el edificio.
+- **Cálculo**: Basado en el tipo de suelo (sedimentario, arcillas, gravas, arenas).
+
+#### Valores de Referencia para Acciones Permanentes
+- **Tabla 4: Peso propio de materiales**
+  - Cal: 13 kN/m³
+  - Yeso: 15 kN/m³
+  - Cemento: 16 kN/m³
+  - Hormigón: 24 + 1 kN/m³ (hormigón armado)
+  - Acero: 77 – 78,5 kN/m³
+
+- **Tabla 5: Empuje del terreno**
+  - Profundidad 1 m: Arcilla 5 kN/m², Grava/Arena 3,3 kN/m²
+  - Profundidad 2 m: Arcilla 10 kN/m², Grava/Arena 6,6 kN/m²
+
+- **Tabla 6: Peso de elementos constructivos**
+  - Cubiertas: 1,0-2,5 kN/m²
+  - Forjados: 2,0-5,0 kN/m²
+  - Cerramientos exteriores (h=3 m): 7,0 kN/m
+
+## Acciones Variables
+
+### Sobrecarga de Uso
+- **Definición**: Peso que debe soportar la estructura por elementos necesarios para el uso del edificio.
+- **Valores**: 
+  - Zonas con dormitorios: 2 kN/m²
+  - Uso comercial: 5 kN/m²
+
+### Acciones sobre Barandillas
+- **Definición**: Fuerza horizontal que debe resistir la estructura de barandillas y elementos divisorios.
+- **Resistencias mínimas**: 1-3 kN/m según uso; considerar 0,5 kN/m para intervenciones de emergencia.
+
+### Viento
+- **Acciones**: Presiones y succión del viento sobre la estructura.
+- **Valor simplificado**: 0,5 kN/m² en cualquier punto del territorio español.
+
+### Acciones Térmicas
+- **Definición**: Deformaciones debidas a variaciones de temperatura.
+- **Nota**: No se consideran si hay juntas de dilatación cada 40 m.
+
+### Nieve
+- **Carga de nieve en cubiertas**: 
+  - Carga en cubiertas planas (altitud < 1.000 m): 1,0 kN/m².
+
+## Acciones Accidentales
+
+### Sismo
+- **Definición**: Respuesta de un edificio ante un movimiento sísmico.
+- **Normativa**: NCSR-02 (RD 997/2002) establece que sismos con aceleración > 0,04 veces la gravedad son peligrosos.
+
+### Incendio
+- **Definición**: Los edificios deben resistir un incendio durante un tiempo determinado según el CTE-DB SI.
+
+### Impacto
+- **Definición**: Acciones generadas por un impacto accidental.
+- **Valores de cálculo**: 
+  - Vehículos hasta 30 kN: 50 kN (paralela a la vía), 25 kN (perpendicular).
+
+## Esfuerzos y Tensiones
+
+### Definición
+- **Tensión**: Fuerza por unidad de área (N/mm²).
+
+### Tipos de Tensiones
+- **Tensión de rotura**: Máxima tensión soportada por el material.
+- **Tensión de trabajo**: Umbral máximo de tensión para seguridad estructural (70-80% del límite elástico).
+
+### Esfuerzos Simples
+- **Compresión**: Partículas del material se acercan.
+- **Tracción**: Partículas del material se separan.
+- **Cortante**: Deslizamiento relativo entre partículas.
+
+### Esfuerzos Compuestos
+- **Flexión**: Carga transversal en elementos longitudinales.
+- **Pandeo**: Deformación en elementos delgados bajo compresión.
+- **Torsión**: Fuerza circular en una pieza.
+
+### Representación Gráfica
+- **Compresión y tracción**: Líneas isostáticas en elementos constructivos.

@@ -1,0 +1,78 @@
+# Caracterización de Grietas y Fisuras en Edificaciones
+
+## 1. Geometría de Grietas y Fisuras
+- **Características Generales**:
+  - Las grietas se originan en puntos de máxima tracción.
+  - El trazado de las grietas es perpendicular a las tracciones y paralelo a las compresiones.
+
+## 2. Análisis de Grietas
+### I. Análisis Microscópico
+- La distribución de compresiones y tracciones depende de los nudos.
+- La aparición de grietas se da en puntos de variación de tensiones, especialmente en la parte inferior de vanos o junto a nudos rígidos.
+
+### II. Análisis Macroscópico
+- El comportamiento de las grietas se basa en las rigideces de los elementos constructivos (marcos).
+- **Marcos**:
+  - **Rígidos**: Uniones fuertes entre muros y elementos estructurales. Grietas inclinadas a 45º.
+  - **Flexibles**: Uniones débiles que permiten desplazamientos relativos.
+
+## 3. Modelos Básicos de Grietas
+### I. Discontinuidades Horizontales
+- Fisuras cortas perpendiculares a las tracciones, inclinadas a 45º.
+
+### II. Discontinuidades Verticales
+- Grietas verticales o oblicuas, con despegues en el contacto tabique-pilar.
+
+### Tipologías de Grietas
+- **Causas**: Mecánicas, físicas y químicas.
+- **Evolución**: Grietas vivas (progresan) y muertas (estabilizadas).
+
+## 4. Causas de Grietas/Fisuras
+### I. Causa Mecánica
+#### I.1. Pilares
+- **Aplastamiento**: Grietas finas en caras opuestas. 
+  - **Causas**: Exceso de carga, hormigón deficiente, armadura insuficiente.
+  
+- **Desagregación**: Disminución de resistencia del hormigón.
+  
+- **Tracción**: Grieta horizontal en el soporte.
+  
+- **Cortante**: Fisura a 60º y horizontal.
+  
+- **Flexión**: Grieta fina en cabeza o pie del pilar.
+  
+- **Pandeo**: Grietas horizontales en una cara del pilar.
+
+#### I.2. Vigas
+- **Aplastamiento**: Reducción del espesor de hormigón.
+  
+- **Flexión**: Grietas en zonas traccionadas.
+  
+- **Cortante**: Fisuras inclinadas entre 45 y 75º.
+  
+- **Torsión**: Grietas inclinadas en el contorno.
+  
+- **Punzonamiento**: Grietas concéntricas al pilar.
+
+### II. Causa Física (Fenómenos Higrotérmicos)
+#### II.1. Previos al Fraguado
+- **Asentamiento Plástico**: Disminución de volumen del hormigón.
+  
+- **Retracción Plástica**: Contracción de la masa durante el fraguado, fisuras de 0,2-0,4 mm.
+
+#### II.2. Posteriores al Fraguado
+- **Retracción Hidráulica**: Fisuras de ancho constante, generalmente < 0,02 mm.
+
+### III. Causa Química
+#### III.1. En Fábricas
+- **Eflorescencias**: Pátina blanquecina que altera la piedra.
+
+#### III.2. En Acero
+- **Corrosión Electroquímica**: Destrucción lenta pero significativa del acero estructural.
+
+## 5. Vigilancia de Grietas
+- Uso de testigos de yeso para clasificar y vigilar la evolución de las grietas. 
+
+### Grietas Vivas vs. Grietas Muertas
+- **Vivas**: Bordes limpios, color vivo del material.
+- **Muertas**: Bordes oscurecidos por polvo y tiempo.

@@ -1,0 +1,48 @@
+# Temario de Oposición: Estructuras de Forjados
+
+## 1. Capa de Compresión
+- **Función**: Repartir cargas entre elementos resistentes y arriostrar el conjunto.
+- **Materiales**: Acero en barras o mallazo.
+
+## 2. Geometría de Forjados
+### 2.1. Luces
+- **Madera**: Limitadas a **4 m**.
+- **Acero**: Hasta **6 m** (50% superiores a madera).
+
+### 2.2. Huecos
+- **Madera**: Apertura mediante brochales y viguetas cojas.
+- **Acero**: Más sencillo debido a la variedad de uniones.
+
+## 3. Rigidez
+- **Madera**: Uso de zoquetes para arriostramiento.
+- **Acero**: Nudos que permiten uniones rígidas, aumentando la estabilidad.
+
+## 4. Hormigón Armado
+### 4.1. Forjados Unidireccionales
+- **Elementos Resistentes**: Deben llevar acero para soportar tracción y compresión.
+- **Armados**:
+  - **Positivos**: En la parte inferior para momentos flectores positivos.
+  - **Negativos**: En la parte superior para momentos flectores negativos.
+
+### 4.2. Elementos de Entrevigado (Bovedillas)
+- **Dimensiones**: Entre **0,60 m** y **0,90 m**; popularmente **70 cm**.
+- **Resistencia**: Deben soportar **100 Kg** (1 kN) en bordes.
+
+### 4.3. Forjados Bidireccionales
+- **Losa Maciza**: Sin elementos de entrevigado, soporta grandes luces.
+- **Losa Aligerada**: Utiliza bloques huecos para reducir peso.
+
+### 4.4. Forjados Mixtos
+- **Definición**: Combinación de diferentes materiales (ej. chapa colaborante).
+- **Interconexión**: El perfil colaborante soporta hormigón y armaduras, absorbiendo esfuerzos.
+
+## 5. Consideraciones Generales
+- **Apoyos**: Deben evitar "punzonamiento" dejando un área sin aligerar alrededor de los pilares.
+- **Retiro de Bovedillas**: No tienen función portante una vez ejecutado el forjado.
+
+## 6. Imágenes Referenciales
+- Se incluyen imágenes de estructuras y elementos mencionados para ilustrar conceptos.
+
+---
+
+Este temario proporciona una visión general de los aspectos técnicos clave relacionados con los forjados en edificaciones, incluyendo materiales, geometría, rigidez y consideraciones constructivas.

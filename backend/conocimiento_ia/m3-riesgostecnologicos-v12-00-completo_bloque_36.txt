@@ -1,0 +1,89 @@
+# Puntales Telescópicos Regulables de Acero
+
+## Partes de los Puntales Telescópicos
+- **Placas de asiento (1)**: Superficie en contacto con las sopandas y durmientes. Permiten repartir y recoger las cargas.
+- **Tubo exterior (2)**: Mayor diámetro, con un extremo roscado.
+- **Tubo interior (3)**: Menor diámetro, con agujeros (7) para ajuste.
+- **Dispositivo para el ajuste de la longitud (4)**: Incluye un prisionero (4.1), tuerca de ajuste (4.2) y agujeros en ambos tubos (6).
+- **Fuerza de ajuste**: Incluye una empuñadura (4.3) para ajustes precisos en la altura.
+
+## Tipologías y Resistencias
+Conforme a la norma **EN1065**, los puntales telescópicos de acero regulables se clasifican según su resistencia característica nominal y longitud de extensión máxima:
+
+### Resistencias Estandarizadas
+- **Clase A** (3 m de longitud):
+  - **Resistencia mínima nominal**: 17 kN.
+  - **Carga total soportada**: 6 kN (3 kN peso propio + 1 kN solado + 2 kN uso).
+
+### Tabla de Resistencia Característica Nominal y Longitud de Extensión Máxima
+
+| Clase | Longitud de Extensión Máxima (m) | Resistencia Característica Nominal (kN) |
+|-------|-----------------------------------|-----------------------------------------|
+| A 25  | 2,50                              | 20,4                                    |
+| A 30  | 3,00                              | 17,0                                    |
+| A 35  | 3,50                              | 14,6                                    |
+| A 40  | 4,00                              | 12,8                                    |
+| B 25  | 2,50                              | 27,2                                    |
+| B 30  | 3,00                              | 22,7                                    |
+| B 35  | 3,50                              | 19,4                                    |
+| B 40  | 4,00                              | 17,0                                    |
+| B 45  | 4,50                              | 15,1                                    |
+| B 50  | 5,00                              | 13,6                                    |
+| B 55  | 5,50                              | 12,4                                    |
+| C 25  | 2,50                              | 40,8                                    |
+| C 30  | 3,00                              | 34,0                                    |
+| C 35  | 3,50                              | 29,1                                    |
+| C 40  | 4,00                              | 25,5                                    |
+| C 45  | 4,50                              | 22,7                                    |
+| C 50  | 5,00                              | 20,4                                    |
+| C 55  | 5,50                              | 18,6                                    |
+| D 25  | 2,50                              | 34,0                                    |
+| D 30  | 3,00                              | -                                       |
+| D 35  | 3,50                              | -                                       |
+| D 40  | 4,00                              | -                                       |
+| D 45  | 4,50                              | -                                       |
+| D 50  | 5,00                              | -                                       |
+| D 55  | 5,50                              | -                                       |
+| E 25  | 2,50                              | 51,0                                    |
+| E 30  | 3,00                              | -                                       |
+| E 35  | 3,50                              | -                                       |
+| E 40  | 4,00                              | -                                       |
+| E 45  | 4,50                              | -                                       |
+| E 50  | 5,00                              | -                                       |
+| E 55  | 5,50                              | -                                       |
+
+## Precauciones Generales al Colocar Puntales
+### Desplome por Carga Excesiva
+- Puntales insuficientes.
+- Puntales poco resistentes o deteriorados.
+- Fatiga del material.
+- Instalación incorrecta.
+
+### Desplazamiento Horizontal de la Carga
+- Mal arriostramiento.
+- Esfuerzos laterales.
+- Superficies inestables.
+
+### Arriostramiento
+- Mantener el correcto aplomado.
+- La capacidad resistente se reduce entre un **25% y 50%** con una excentricidad de carga de **2,5 cm**.
+
+## Elementos Auxiliares
+### Elementos de Unión
+- **Clavos**:
+  - **Dimensiones**: 
+    - 6 mm Ø y 120 mm de longitud: 1,0 kN/clavo sin pretaladro, 1,5 kN/clavo con pretaladro.
+    - 6 mm Ø y 100 mm de longitud: para uniones de tablones.
+    - 4 mm Ø y 100 mm de longitud: para riostras.
+
+### Elementos de Templado
+- **Cuñas**: Ajustan elementos del apeo, deben ser de la misma calidad que los tablones.
+
+### Elementos de Apoyo
+- **Ejiones**: Trabajan a compresión axial, resistencia de 1,0 kN/clavo sin pretaladro y 1,5 kN/clavo con pretaladro.
+
+### Elementos de Arriostramiento
+- **Riostras**: Mantienen la posición de los elementos estructurales, deben formar triangulaciones para estabilidad.
+
+## Conclusión
+La correcta instalación y uso de puntales telescópicos y sus elementos auxiliares son fundamentales para garantizar la seguridad y estabilidad en situaciones de emergencia.

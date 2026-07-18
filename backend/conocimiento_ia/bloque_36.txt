@@ -1,0 +1,82 @@
+# Ventilación en Incendios
+
+## 2.3.6. Salida de Gases
+- **Objetivo**: Crear un flujo unidireccional bien definido con entrada y salida.
+- **Evitar**: Ramificación del flujo de gases con salidas diferentes a las del recinto.
+- **Ideal**: Salida de gases cerca del foco del incendio para:
+  - Reducir la ruta caliente del flujo de gases.
+  - Minimizar la inflamación de combustibles.
+  - Disminuir el riesgo para las víctimas.
+
+## 2.3.7. Ventilación Secuencial
+- **Procedimiento óptimo**:
+  1. Abrir la salida de gases más cercana a la entrada.
+  2. Limpiar la zona conexa y abrir la siguiente salida.
+  3. Cerrar la primera salida.
+  4. Repetir el proceso, manteniendo solo dos salidas abiertas en momentos puntuales.
+
+## 2.3.8. Variación del Caudal de Ventilación
+- **Principios**:
+  - Una salida mayor implica mayor caudal.
+  - El caudal depende del tamaño de entrada y salida.
+- **Ecuación de caudal efectivo (Qr)**:
+  \[
+  Q_r = k \cdot \sqrt{\frac{A_e}{A_i}}
+  \]
+  - **Donde**:
+    - \(Q_r\) = caudal efectivo [m³/s]
+    - \(k\) = constante del ventilador
+    - \(A_e\) = área de salida [m²]
+    - \(A_i\) = área de entrada [m²]
+- **Recomendaciones**:
+  - VPP ofensivo: \(r \geq 1\)
+  - VPP defensivo: \(r \geq 0.5\)
+
+## 2.3.9. Variación del Diferencial de Presión Interior
+- **Ecuación del diferencial de presión (ΔP)**:
+  \[
+  \Delta P = k' \cdot \frac{A_e}{A_i}
+  \]
+  - **Donde**:
+    - \(\Delta P\) = diferencial de presión [Pa]
+    - \(k'\) = constante del sistema
+- **Observaciones**:
+  - A medida que \(A_e\) aumenta, \(\Delta P\) disminuye.
+  - Mantener cerradas las salidas de gases en operaciones de presurización.
+
+## 2.3.10. Pérdidas de Eficiencia
+- **Factores**:
+  - **Pérdidas de flujo**: Aperturas no deseadas.
+  - **Fricción**: Obstáculos en el recorrido del flujo.
+- **Consecuencias**:
+  - Disminución de presión y caudal efectivo.
+
+## 2.3.11. Uso Combinado de Ventiladores
+- **Situaciones**:
+  - Hueco de entrada grande.
+  - Pérdidas de flujo o fricción.
+- **Tipologías**:
+  - **Paralelo**: Para cubrir entradas grandes.
+  - **Serie**: Aumenta caudal efectivo entre 5%-10%.
+  - **En V**: Aumento del caudal efectivo hasta un 35%.
+
+## Tablas de Rendimiento
+- **Tabla 20**: Rendimientos de la ventilación sobre el teórico máximo
+  | r  | Rendimiento |
+  |----|-------------|
+  | 0.5 | 50%        |
+  | 1   | 71%        |
+  | 1.5 | 83%        |
+  | 2   | 89%        |
+  | 3   | 95%        |
+  | 4   | 97%        |
+
+- **Tabla 22**: Diferenciales de presión creados sobre el teórico máximo
+  | r  | Diferencial de presión |
+  |----|------------------------|
+  | 0.5 | 80%                   |
+  | 1   | 50%                   |
+  | 1.5 | 30%                   |
+  | 2   | 20%                   |
+  | 3   | 10%                   |
+  | 4   | 6%                    |

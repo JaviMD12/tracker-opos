@@ -1,0 +1,84 @@
+# Salidas de Emergencia y Sistemas de Seguridad en Túneles
+
+## Salidas de Emergencia
+El sistema de evacuación debe contar con salidas de emergencia debidamente señalizadas, utilizadas en casos de accidente grave, incendio o vertido de materias peligrosas. 
+
+### Tipos de Salidas de Emergencia
+- **Salidas directas del túnel al exterior**
+- **Conexiones transversales entre tubos de túnel**
+- **Salidas a galería de emergencia**
+
+### Especificaciones de las Vías de Evacuación
+Los elementos delimitadores de las vías de evacuación deben cumplir con las siguientes especificaciones:
+- **Estabilidad al fuego**: Materiales que no alteran su función mecánica por el fuego.
+- **Resistencia al fuego**: Impiden el paso de llamas o gases calientes, sin fisuras ni grietas.
+- **No emisión de gases inflamables**: No generan gases en su cara no expuesta al fuego.
+- **Resistencia térmica**: 
+  - Temperatura en la cara no expuesta no debe superar **180°C**.
+  - Media no debe incrementarse en más de **140°C**.
+  - No debe alcanzar **220°C**.
+
+## Galerías de Evacuación
+Las posibilidades de evacuación dependen de la disposición de las galerías. Casos comunes incluyen:
+- **Dos tubos paralelos**: Comunicación entre tubos para evacuación.
+- **Galería paralela al túnel**: Utilizada como vía de evacuación, normalmente presurizada.
+- **Galería bajo la calzada**: Acceso a través de salidas de emergencia y rampas.
+- **Galería en la clave**: Utiliza la galería de ventilación como vía de evacuación.
+- **Galería ascendente**: Llega rápidamente a la superficie.
+- **Sin galería de evacuación**: Salidas de emergencia a lo largo del túnel.
+
+## Factores que Influyen en la Eficacia de la Evacuación
+- **Características de las vías de evacuación**: Deben estar correctamente dimensionadas.
+- **Plan de emergencias**: Obligatorio para túneles de la red de carreteras, excepto túneles no urbanos de menos de **200 metros**.
+
+## Sistema de Suministro Energético
+- Debe garantizar suministro eléctrico adecuado para instalaciones de seguridad.
+- Prever doble abastecimiento y generadores de emergencia.
+
+## Sistema de Iluminación
+- **Iluminación de servicio normal**: Evita cambios bruscos de luminosidad.
+- **Iluminación de emergencia**: Necesaria a partir de:
+  - **200 metros** en túneles urbanos o interurbanos con retenciones.
+  - **500 metros** en túneles interurbanos.
+
+## Sistema de Comunicación
+- Sistemas de comunicación vía radio para equipos de emergencia.
+- Interfonos en postes S.O.S. cada **50 o 100 metros**.
+
+### Comunicaciones para Equipos de Emergencia
+- **Cobertura TETRA**: Para cuerpos de emergencia.
+- **Cobertura TETRAPOL**: Para cuerpos de seguridad.
+- **Ocho canales de FM Comercial**: Para usuarios del túnel.
+
+## Sistemas de Detección de Incendios
+- Obligatorio para túneles interurbanos sin congestión a partir de **500 metros** y para túneles urbanos a partir de **200 metros**.
+- Tecnologías utilizadas:
+  - **Cable fibrolaser**: Cambios en condiciones de transmisión de luz al calentarse.
+  - **Sensores de temperatura**.
+  - **Análisis de imágenes CCTV**.
+
+## Sistemas de Lucha Contra Incendios
+- Equipamiento mínimo en puestos de emergencia:
+  - Teléfono de emergencia.
+  - Dos extintores.
+- Instalaciones adicionales:
+  - **Bies**.
+  - **Columna seca**.
+  - **Grupos de presión**.
+
+## Sistemas de Ventilación del Túnel
+### Ventilación Natural
+- Utiliza efectos climatológicos y tráfico, solo en túneles cortos.
+
+### Ventilación Forzada
+- Conjunto de ventiladores y conductos para dirigir aire fresco y humos.
+- **Requisitos normativos**:
+  - Ventilación artificial obligatoria para túneles > **500 metros**.
+  - Control de humo para incendios tipo con potencia mínima de **30 MW** y caudal mínimo de **120 m³/s**.
+
+### Tipos de Ventilación
+- **Longitudinal**: Circulación de aire en un único sentido.
+- **Semitransversal y transversal**: Control de velocidad del aire y propagación de humo.
+
+## Conclusiones
+Para facilitar una correcta evacuación, es esencial que los túneles cuenten con señalización clara, alumbrado adecuado, y un plan de emergencias bien estructurado.

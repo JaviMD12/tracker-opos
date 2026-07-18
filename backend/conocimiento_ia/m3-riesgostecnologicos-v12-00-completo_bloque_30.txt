@@ -1,0 +1,91 @@
+# Sistemas de Protección contra Incendios y Patologías por Sismos
+
+## I. Sistemas de Protección contra Incendios
+
+### 1. Sistemas Complementarios
+- **Filmes o mantas**: 
+  - Mantas de fibra cerámica y lana de roca para protección de perfiles metálicos.
+  - Perfiles con alma > 150 mm requieren malla auxiliar.
+
+- **Estructuras externas**: 
+  - Diseñar estructuras soportantes al exterior para reducir protección pasiva.
+
+- **Recubrimientos con albañilerías**: 
+  - Protección de entramados de madera con ladrillo o bloque de hormigón.
+
+- **Pantallas**: 
+  - Tabiquerías interiores y cielos falsos que aseguran integridad, aislamiento y estabilidad.
+
+- **Relleno de perfiles tubulares huecos**: 
+  - Uso de hormigones, hormigón celular o agua para actuar como masa térmica.
+
+### 2. Sistemas de Protección contra la Propagación de Incendios
+- **Cortafuegos lineales en bandejas de cables**: 
+  - Revestimiento resistente al fuego cada ciertos metros.
+
+- **Almohadillas intumescentes**: 
+  - Sellado de paso de bandejas de cables, ahorrando tiempo y costes.
+
+- **Sistema de placas para conductos resistentes al fuego**: 
+  - Paneles que forman sectores de incendios independientes.
+
+- **Collarines intumescentes**: 
+  - Sellado de tuberías inflamables, estrangulando el paso en caso de incendio.
+
+- **Conductos de ventilación**: 
+  - Fabricación de conductos incombustibles y sistemas de obturación.
+
+## II. Patologías por Causas Accidentales – Sismo
+
+### A. Definición
+- **Terremoto**: Sacudida brusca de la corteza terrestre por liberación de energía acumulada en forma de ondas sísmicas.
+  - **Hipocentro**: Punto de origen en el interior de la Tierra.
+  - **Epicentro**: Punto en la superficie directamente sobre el hipocentro.
+
+### B. Causas
+- Ruptura de fallas geológicas.
+- Fricción en bordes de placas tectónicas.
+- Procesos volcánicos.
+- Actividades humanas (detonaciones nucleares subterráneas).
+
+### C. Transmisión
+- **Ondas sísmicas**: 
+  - **Ondas P (Primarias)**: Longitudinales, 8-12 km/s, atraviesan líquidos y sólidos.
+  - **Ondas S (Secundarias)**: Transversales, 4-8 km/s, atraviesan solo sólidos.
+  - **Ondas superficiales**: Menor velocidad (2.7-3 km/s), mayor amplitud y destructividad.
+
+### D. Factores de Influencia
+- **Factores primarios**:
+  - **Magnitud**: Medida con sismógrafos, Escala Richter y MSK.
+  - **Profundidad del hipocentro**.
+  - **Tipos de suelo**: Dureza, grosor, agua.
+  - **Tipología constructiva**: Resistencia a movimientos laterales.
+
+- **Factores secundarios**:
+  - **Cimentaciones**: Adecuación al terreno.
+  - **Separación entre edificios**: Prevención del fenómeno aplauso.
+  - **Fuego**: Riesgo de rotura de conducciones de gas.
+
+### E. Escalas de Medición
+- **Escala Richter**:
+  - Evalúa energía liberada, expresada en números decimales.
+  - Crecimiento exponencial: cada punto puede significar un aumento de energía diez veces mayor.
+
+- **Escala MSK**:
+  - Evalúa fuerza de movimientos basándose en efectos destructivos.
+  - Expresada en números romanos (I-XII).
+
+### F. Efectos del Sismo
+- **Sobre el terreno**:
+  - Desplazamientos en terrenos poco firmes, saturados, blandos o deslizantes.
+  - **Licuefacción**: Terreno fluye como líquido pesado, causando asentamientos.
+
+### G. Tabla de Efectos del Terremoto
+| Magnitud* | Número de terremotos | Probable Max. MSK | Radio afectado (Km) | Área afectada (Km²) | Efectos del terremoto |
+|-----------|----------------------|--------------------|---------------------|---------------------|-----------------------|
+| 3-6       | 50,000               | IV – VII           | 100                 | 38,000              | Daños leves           |
+| 6-7       | 100                  | VII – VIII         | 200                 | 125,000             | Daños severos         |
+| 7-7.7     | 15                   | IX – X             | 400                 | 500,000             | Graves daños          |
+| >7.7      | 2                    | XI - XII           | 800                 | 2,000,000           | Destrucción total     |
+
+* Terremotos < 3.5 generalmente no se sienten.

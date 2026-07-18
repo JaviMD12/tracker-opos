@@ -1,0 +1,65 @@
+# Proceso de Licuefacción y Efectos en Edificaciones
+
+## Licuefacción
+- **Definición**: Proceso que convierte suelos en terrenos granulares no cohesivos, comportándose como líquidos pesados.
+- **Síntomas comunes**:
+  - Desplazamientos y vuelcos de edificaciones.
+  - Apertura de grietas.
+  - Pérdida de verticalidad de la edificación.
+  - Afluencia de fango y lodo a la superficie.
+
+## Tipologías de Deformación Estructural
+### Según la dirección de la oscilación
+1. **Grietas por oscilaciones horizontales**:
+   - Se producen esfuerzos cortantes intensos.
+   - Grietas en forma de “X” en planos verticales.
+   - Ejemplo: Pórtico sometido a empuje horizontal genera grietas por inversión de esfuerzos.
+
+2. **Grietas por movimientos verticales**:
+   - Efectos menores que en movimientos horizontales.
+   - Afectan voladizos y vigas de grandes luces.
+   - Riesgo incrementado por resonancia en movimientos sísmicos prolongados.
+
+### Según el esquema estructural
+1. **Estructuras adinteladas**:
+   - **Tipos de grietas**:
+     - **Muros largos**: Grietas horizontales en la base o media altura.
+     - **Muros cortos**: Grietas diagonales en la zona media.
+     - **Muros con esquina**: Grieta diagonal desde la parte superior hasta la base.
+     - **Muros con mala conexión**: Grietas por deficiencia en la conexión entre pisos.
+
+2. **Estructuras entramadas**:
+   - **Hormigón armado**:
+     - **Pilares**: Grietas en cabeza, fuste y base por esfuerzos de aplastamiento y flexión.
+     - **Vigas**: Grietas verticales por flexión y 45º por cortante.
+     - **Nudos**: Fisuras por flexión, compresión y cortante.
+
+   - **Acero**:
+     - **Nudos**: Grietas en rigidizadores y alma, con riesgo de separación de columnas.
+     - **Uniones articuladas**: Pandeo de pilares y desprendimientos en plantas altas.
+
+## Evaluación de Daños y Acciones Prioritarias
+### Consideraciones para la intervención
+- **Necesidad de intervención**:
+  - Lesiones leves: No requieren intervención.
+  - Lesiones graves: Superan la capacidad de los bomberos.
+  - Zonas no habitadas: Pueden esperar corrección.
+  - Incendios sin afectación estructural.
+
+### Planteamiento preliminar
+- Evaluar la necesidad de estructuras auxiliares y realizar cálculos rápidos de carga.
+
+### Precálculo de cargas
+- **Cargas mínimas según CTE DB SE AE**:
+  - **Cubiertas**:
+    - Inclinadas ligeras: 1 KN/m².
+    - Inclinadas pesadas: 2 KN/m².
+    - Planas: 3 KN/m².
+  - **Forjados**:
+    - Vivienda: 3 KN/m².
+    - Garaje: 5 KN/m².
+  - **Fachadas**: 7 KN/m (h = 3m).
+  - **Tabiquería**: 5 KN/m (h = 3m).
+
+## Conclusión
+La comprensión de los efectos de la licuefacción y la evaluación de daños en edificaciones son fundamentales para la intervención adecuada y la seguridad estructural.

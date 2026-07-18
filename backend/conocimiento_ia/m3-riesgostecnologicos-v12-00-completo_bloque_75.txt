@@ -1,0 +1,108 @@
+# Parte 3. Aperturas Forzadas
+
+## Tácticas de Intervención
+
+### Evaluación Inicial
+Antes de actuar, es fundamental evaluar:
+- Estado del elemento a forzar.
+- Técnicas adecuadas según el tipo de elemento y su estado.
+
+### Esquema de Apertura
+
+#### Puertas
+- **¿Llave echada por el interior?**
+  - **Sí:**
+    - Buscar otra entrada.
+    - Apertura destructiva.
+    - Descerrajar cerradura.
+  - **No:**
+    - **Tipo de cerradura:**
+      - **Normal:**
+        - Rotura de bombín.
+        - Taladro.
+      - **Seguridad:**
+        - Rotura de bombín.
+        - Fresado.
+      - **Tipo de puerta:**
+        - **Seguridad/blindada:**
+          - Maza.
+        - **Acorazada:**
+          - Separador.
+          - Abrepuertas hidráulico.
+
+#### Ventanas
+- **¿Se puede forzar?**
+  - **Sí:** Aplicar técnica correspondiente.
+  - **No:**
+    - Conseguir accesibilidad.
+    - **Rotura de vidrio:**
+      - **¿Es laminado/templado/con cámara?**
+        - **Sí:** Rotura.
+        - **No:** Blindados (buscar otra entrada).
+    - **Tiene REJAS:**
+      - Intentar extraer.
+      - Cortar barrotes.
+    - **Tiene PERSIANAS bajadas:**
+      - Forzar su subida hasta llegar al tirador.
+      - Forzar su subida para crear hueco.
+
+#### Claraboyas
+- **¿Fácil acceso?**
+  - **Sí:** ¿Practicables?
+    - **Sí:** Forzar su apertura.
+    - **No:** Buscar otra alternativa.
+
+#### Butrón
+- **Tabiquería/forjado/tejado:**
+  - **¿Dan al interior?**
+    - **Sí:** Aplicar técnica según resistencia del material.
+    - **No:** Buscar otra alternativa.
+
+---
+
+# Casos Prácticos
+
+## 1. Vivienda (Sospecha de Suicidio)
+
+### a) Planteamiento
+- Ubicación: Octavo piso, letra B.
+- Puerta: Blindada con bombín de seguridad.
+- Acciones iniciales:
+  1. Aviso recibido.
+  2. Solicitud de UVI móvil y fuerzas de seguridad.
+
+### b) Valoración
+1. Llamar a la puerta y gritar el nombre de la posible víctima.
+2. Recabar información de vecinos y familiares:
+   - Última vez vista: Día anterior por la tarde.
+   - Problemas personales: Depresión.
+
+### c) Intervención
+1. Técnica de entrada: Rotura del bombín por extracción.
+   - Utilizar tornillo autorroscante con cabeza hexagonal.
+   - Romper el cilindro.
+   - Extraer la leva y activar el mecanismo.
+2. Acceso a fuerzas de seguridad y sanitarios.
+3. Balizar la escalera del 8 para evitar curiosos.
+4. Contactar con cerrajero para cerrar la vivienda.
+
+## 2. Bloque de Viviendas (Inundado de Humo)
+
+### a) Planteamiento
+1. Aviso recibido.
+2. Solicitud de sanitarios y fuerzas de seguridad.
+
+### b) Valoración
+- Exterior del edificio: 3 plantas, presencia de humo (sí), fuego en fachada (no).
+- Información de vecinos:
+  - Pisos por planta: 2.
+  - Pisos no habitados: 3.
+  - Localización de víctimas: 2ºA.
+
+### c) Intervención
+1. Solicitar llaves a propietarios.
+2. Ventilar la escalera.
+3. Técnica de entrada a 2ºA: Maza para romper cerradero o derribar puerta.
+4. Acceso a la vivienda y rescate de víctimas.
+5. Ventilar todas las viviendas afectadas.
+6. Comprobar niveles de gases con explosímetro y regresar a la base.

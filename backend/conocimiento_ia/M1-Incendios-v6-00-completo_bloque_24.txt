@@ -1,0 +1,101 @@
+# Intervención Interior de Bomberos
+
+## 1.5 Diferencias entre ILC e ILV
+
+| **ILC** | **ILV** |
+|---------|---------|
+| Entorno relativamente seguro para la progresión interior | Entorno especialmente peligroso con dificultades específicas |
+| Buena visibilidad | Falta visibilidad. Operaciones interiores lentas y costosas |
+| Colchón de aire fresco en zonas bajas | Atmósfera no respirable para víctimas o bomberos sin equipo de respiración |
+| Atmósfera combustible | Concentración alta de gases tóxicos (CO, HCN, etc.) |
+| Temperaturas altas generalizadas | Concentración de gases tóxicos relativamente bajas (CO, HCN, etc.) |
+| Combustión completa | Colchón de gases inflamables con abundantes productos incompletos de combustión |
+| Foco fácilmente localizable | Dificultad para localizar foco |
+
+## 1.6 Flashover
+
+El **flashover** es la fase transitoria en el desarrollo de un incendio de interior donde las superficies expuestas alcanzan su temperatura de inflamación casi simultáneamente, extendiendo el incendio rápidamente.
+
+### Circunstancias para el Flashover
+
+- **Carga de combustible suficiente** para generar un colchón de gases.
+- **Proporción de oxígeno adecuada** para mantener la mezcla de gases en su ventana de inflamabilidad.
+- **Pico en la potencia del incendio**, ligera sobrepresión y alto nivel de radiación térmica.
+
+### Enfoques para Evitar el Flashover
+
+- Limitar o reducir el aporte de aire al incendio.
+- Reducir la temperatura del colchón de gases.
+- Diluir el colchón de gases con vapor de agua.
+- Realizar un barrido de los gases de incendio mediante ventilación forzada.
+
+### Indicadores de Posible Flashover
+
+- Incendio próximo a concluir su fase de crecimiento.
+- Colchón de gases denso y oscuro.
+- Altas temperaturas en el recinto.
+- Aporte de oxígeno, incendio ventilado.
+- Plano neutro descendiendo hasta el nivel del suelo.
+- Lenguas de gases inflamados (rollover).
+
+## 1.7 Incendios Infraventilados
+
+Los incendios **infraventilados** son típicos en recintos confinados con ventilación limitada, donde el oxígeno se consume durante el desarrollo del incendio.
+
+### Características
+
+- El plano neutro desciende hasta el nivel del suelo, dificultando la visibilidad.
+- La fracción de combustible se refiere a la proporción de combustible disponible en el colchón de gases.
+
+## 1.8 Flashover Inducido por la Ventilación
+
+El **flashover inducido por la ventilación** ocurre en incendios infraventilados al abrir un hueco de ventilación, permitiendo el acceso al oxígeno.
+
+### Tiempo hasta el Flashover Inducido
+
+- Aproximadamente **2 minutos** desde la apertura de ventilación hasta el flashover.
+
+### Indicadores de Flashover Inducido
+
+- Formación de flujos de entrada de aire y salida de gases.
+- Aumento de velocidad y turbulencia en los flujos de gases.
+
+## 1.9 Backdraft
+
+El **backdraft** es una deflagración que ocurre al introducir aire repentinamente en un incendio infraventilado.
+
+### Características
+
+- Aumento brusco de la potencia del incendio.
+- Necesita una fracción de combustible alta en el interior del recinto (>15%).
+
+### Indicadores de Backdraft
+
+- Pulsaciones en el interior del recinto.
+- Colchón de gases denso con tonos anaranjados y amarillentos.
+
+### Enfoques para Evitar el Backdraft
+
+- Apertura de un hueco de ventilación en cubierta.
+- Limitar el aporte de aire al incendio.
+- Reducir la temperatura del interior mediante ataque indirecto.
+- Asegurar que el personal esté en el exterior en situación defensiva.
+
+## 1.10 Explosión de Humo
+
+La **explosión de humo** es una deflagración que ocurre cuando los gases de incendio se mezclan con aire en un espacio confinado y alcanzan su punto de inflamabilidad.
+
+### Indicadores de Explosión de Humo
+
+- Humo caliente, no excesivamente denso, en espacio confinado.
+- Mezcla homogénea de gases de incendio y aire.
+
+### Intervención
+
+- Evitar fuentes de ignición.
+- Reducir la temperatura de la mezcla mediante ataque indirecto.
+- Ventilar y expulsar la mezcla de gases del interior del recinto.
+
+## 2. Influencia del Combustible
+
+El combustible determina el desarrollo y comportamiento de los incendios, afectando la potencia, desarrollo, opacidad de los gases y composición de los productos de combustión.

@@ -1,0 +1,74 @@
+# Ventilación en Incendios
+
+## 2.3.6. Salida de Gases
+- **Objetivo**: Crear un flujo unidireccional definido con una entrada y salida.
+- **Recomendaciones**:
+  - Evitar ramificaciones del flujo de gases.
+  - La salida de gases debe estar cerca del foco del incendio para:
+    - Reducir la ruta caliente del flujo de gases.
+    - Minimizar la inflamación de combustibles.
+    - Disminuir el riesgo para las víctimas.
+
+## 2.3.7. Ventilación Secuencial
+- **Procedimiento óptimo**:
+  1. Abrir la salida de gases más cercana a la entrada.
+  2. Limpiar la zona conexa y abrir la siguiente salida.
+  3. Cerrar la primera salida.
+  4. Repetir el proceso, manteniendo siempre al menos una salida abierta.
+
+## 2.3.8. Variación del Caudal de Ventilación
+- **Principios**:
+  - Caudal de salida depende del tamaño de salida (Ae) y entrada (Ai).
+  - **Ecuación**:
+    \[
+    Q_r = k \cdot \frac{A_e}{A_i}
+    \]
+  - **Recomendaciones**:
+    - Para VPP ofensivas: \( r \geq 1 \)
+    - Para VPP defensivas: \( r \geq 0.5 \)
+
+### Tabla 20: Rendimientos de la Ventilación
+| r    | Rendimiento |
+|------|-------------|
+| 0.5  | 50%         |
+| 1    | 71%         |
+| 1.5  | 83%         |
+| 2    | 89%         |
+| 3    | 95%         |
+| 4    | 97%         |
+
+## 2.3.9. Variación del Diferencial de Presión Interior
+- **Ecuación**:
+  \[
+  \Delta P = k' \cdot \frac{A_e}{A_i}
+  \]
+- **Recomendaciones**:
+  - Mantener cerradas las salidas de gases en operaciones de presurización.
+
+### Tabla 22: Diferenciales de Presión
+| r    | Diferencial de Presión |
+|------|------------------------|
+| 0.5  | 80%                    |
+| 1    | 50%                    |
+| 1.5  | 30%                    |
+| 2    | 20%                    |
+| 3    | 10%                    |
+| 4    | 6%                     |
+
+## 2.3.10. Pérdidas de Eficiencia
+- **Factores que afectan la eficiencia**:
+  - **Pérdidas de flujo**: Aperturas no deseadas.
+  - **Fricción**: Cambios en el recorrido del flujo de gases.
+
+## 2.3.11. Uso Combinado de Ventiladores
+- **Situaciones que requieren combinación**:
+  - Huecos de entrada grandes.
+  - Pérdidas de flujo y fricción.
+
+### Tipología del Uso Combinado
+- **Ventiladores en paralelo**: Para cubrir entradas grandes.
+- **Ventiladores en serie**: Aumentan el caudal efectivo entre un 5% y 10%.
+- **Ventiladores en V**: Aumentan el caudal efectivo hasta un 35%.
+
+## Conclusiones
+La correcta aplicación de técnicas de ventilación en incendios es crucial para la seguridad y efectividad en la evacuación de gases. Se deben considerar las relaciones entre entradas y salidas, así como las pérdidas de eficiencia para optimizar el rendimiento de los sistemas de ventilación.

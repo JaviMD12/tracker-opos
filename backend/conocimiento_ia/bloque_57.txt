@@ -1,0 +1,92 @@
+# Técnicas de Extinción de Incendios
+
+## 1. Ataque Defensivo Contra la Propagación
+
+Las técnicas para controlar la propagación del incendio industrial se basan en:
+
+- **Presurización de espacios**: Evita que el humo penetre en zonas presurizadas.
+- **Refrigeración de superficies**: Retrasa la afectación del incendio por radiación y convección.
+
+### 1.1. Presurización de Espacios
+
+- **Complicaciones**:
+  - Incendios industriales de tipología D y E (cubiertas al aire libre).
+  - Incendios de tipología A, B y C (caudales de aire insuficientes).
+  
+- **Recomendaciones**:
+  - Incluir zonas de presurización en planes de prevención.
+  - Ventilación natural puede reforzar la ventilación forzada.
+
+### 1.2. Refrigeración de Superficies
+
+- **Caudales según NTP 420**:
+  - **Dardos o chorros de fuego**: 1 kg/s.
+  - **Incendios de charco**: 2 kg/s para charcos de 50 m².
+  
+- **Recomendaciones de agua**:
+  - Caudal mínimo de 4 a 20 litros/min/m².
+  - Evaluar caudales para cada escenario de incendio.
+  - Utilizar el manual NFPA-11 para cálculos de espuma.
+
+## 2. Ataque Directo con Agua
+
+- **Aplicación**: Chorro pleno a la base del fuego.
+- **Precauciones**: Evitar quemaduras por vapor.
+
+### 2.1. Cálculo de los Caudales Críticos de Extinción
+
+- **Términos clave**:
+  - **Gasto de agua**: Volumen de agua durante la intervención.
+  - **Caudal medio**: Gasto de agua dividido entre el tiempo de intervención.
+  - **Caudal crítico**: Mínimo caudal para extinguir un incendio.
+  - **Caudal óptimo**: Mínimo gasto de agua para extinguir.
+
+- **Datos estadísticos**:
+  - 24 LPM/MW para incendios en viviendas.
+  - 5 LPM/m² para incendios en superficies amplias (>100 m²).
+
+### 2.2. Modo de Aplicación del Agua
+
+- **Eficiencia**: El agua es efectiva en la absorción de calor.
+- **Temperatura de ignición**: Superiores a 150 ºC.
+- **Evaporación**: Relación volumétrica de 1 a más de 1.600.
+
+## 3. Ataque Indirecto con Agua
+
+- **Técnica**: Saturación en vapor de espacios confinados.
+- **Precauciones**: No usar cuando hay víctimas atrapadas.
+
+## 4. Técnicas de Extinción a Base de Espumas
+
+- **Mecanismo**: Sofocación por cubrición y enfriamiento.
+- **Técnicas**:
+  - **Cubrición simple**: Apuntar la lanza al suelo frente al incendio.
+  - **Cubrición por rebote**: Dirigir el chorro contra un obstáculo.
+
+### 4.3. Cálculo de la Cantidad de Espuma Necesaria
+
+- **Dependencias**: Presión de trabajo y volumen a cubrir.
+
+## 5. Aplicación Específica de las Técnicas de Ventilación en Incendios Industriales
+
+### 5.1. Ventilación Horizontal Natural
+
+- **Uso**: Situaciones sin gran compromiso de combustible.
+
+### 5.2. Ventilación Vertical Natural
+
+- **Efecto chimenea**: Movimiento de humo hacia zonas frías.
+
+### 5.3. Ventilación por Presión Positiva (VPP)
+
+- **Principio**: Introducir aire para generar un gradiente positivo.
+
+## Tabla de Caudal Necesario de Espuma
+
+| Presión de trabajo (K/cm²) | Caudal LPM | Espuma m³/min | Expansión máxima |
+|-----------------------------|------------|----------------|------------------|
+| 2.8                         | 160        | 40             | 1:260            |
+| 4.20                        | 195        | 56             | 1:290            |
+| 5.6                         | 223        | 70             | 1:320            |
+| 7                           | 245        | 80             | 1:330            |
+| 8.4                         | 259        | 94             | 1:360            |

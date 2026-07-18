@@ -1,0 +1,46 @@
+# Notas Generales sobre Apeo
+
+## Consideraciones Generales
+- En planos figura un solo conjunto elemental. El apeo estará compuesto por tantos conjuntos elementales como sea necesario.
+- Acotaciones y dimensiones genéricas. El Mando en intervención deberá adaptar la capacidad mecánica del apeo a la solicitación previsible.
+- Se pueden emplear geometrías y calidades de material diferentes a las que figuran en planos, teniendo en cuenta el correspondiente cambio de capacidad mecánica.
+
+## Capacidad Mecánica
+- **Capacidad mecánica del conjunto elemental**: 50 kN (carga uniformemente repartida a lo largo de los durmientes en contacto con el terreno).
+- Se dispondrán tantos conjuntos elementales como sea necesario para cubrir la zona afectada o la carga previsible.
+
+## Acciones a Considerar
+- **Profundidades y cargas**:
+  - **1 m**: 
+    - Arcilla: 4,9 kN/m²
+    - Grava/Arena: 3,3 kN/m²
+  - **2 m**: 
+    - Arcilla: 9,8 kN/m²
+    - Grava/Arena: 6,7 kN/m²
+  - **3 m**: 
+    - Arcilla: 14,7 kN/m²
+    - Grava/Arena: 10 kN/m²
+
+## Distancias Máximas
+- **Fórmula para distancia máxima entre conjuntos (d)**:
+  \[
+  d = \frac{\text{capacidad apeo}}{\text{carga media} \times \text{altura}} = \frac{50 \text{ kN}}{cm \times h}
+  \]
+- **Distancias máximas recomendadas para profundidades de 3 m**:
+  - Arcillas: 1,50 m
+  - Gravas: 2,00 m
+- La distancia entre conjuntos no excederá en ningún caso 2 m.
+
+## Materiales y Especificaciones
+- **Tresbolillo uniforme**: 9 clavos 4" (100x5)
+- **Puntal telescópico**:
+  - C30 EN1065
+  - Longitud máxima (lmax): 3,00 m
+  - Resistencia (Ry,k): 34,0 kN
+  - Variable hasta 3,000
+- **Tablón**: 20x7 cm, C18 UNE 56.544
+- **Durmiente longitudinal**: Tablón 300x20x7 cm, C18 UNE 56.544
+
+## Notas Adicionales
+- Inicio y final de pieza en punto de apoyo de puntal.
+- Distribución de clavos en tresbolillo: 1,333 m, 0,667 m, 0,500 m, 0,500 m.

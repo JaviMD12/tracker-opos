@@ -1,0 +1,44 @@
+# Riesgo Eléctrico
+
+## 1. Conceptos Básicos sobre Electricidad
+
+### Átomo
+- **Definición**: Unidad más pequeña de una sustancia, compuesta por un núcleo (protones y neutrones) y electrones.
+- **Carga eléctrica**: Representada por el símbolo “Q” y expresada en **culombios (C)**.
+
+### Fuerza Electromagnética
+- **Interacción**: Cargas del mismo tipo se repelen, mientras que cargas de diferente tipo se atraen.
+
+### Electricidad Estática
+- **Definición**: Generada por la separación de materiales en contacto, ya sea por atracción de electrones o fricción.
+- **Ejemplos**: Descargas al manipular hidrocarburos o al deslizarse por un tobogán de plástico.
+- **Riesgos**: Puede causar calambres o incendios.
+
+## 1.1. Intensidad de la Corriente Eléctrica
+- **Definición**: Cantidad de electricidad que circula por un conductor en un tiempo determinado.
+- **Unidad de medida**: **Amperios (A)**.
+
+### Ley de Ohm
+- **Fórmula**: 
+  \[
+  I = \frac{V}{R}
+  \]
+  - **I**: Corriente eléctrica
+  - **V**: Tensión
+  - **R**: Resistencia eléctrica
+- **Interpretación**: La intensidad es directamente proporcional a la tensión e inversamente proporcional a la resistencia.
+
+### Circulación de Cargas
+- **Proceso**: Electrones circulan desde el polo positivo al negativo hasta estabilizar el circuito.
+- **Generación continua**: Manteniendo la diferencia de potencial mediante un generador eléctrico.
+
+### Efectos de la Corriente
+- **Efecto Joule**: La corriente a través de una resistencia produce calor debido a los choques de electrones con moléculas del conductor.
+  - **Aplicaciones**: Utilizado en electrodomésticos como hornos y calefacciones.
+  - **Precaución**: En la mayoría de aplicaciones, es un efecto indeseado que requiere disipación de calor.
+
+- **Arco Voltaico**: Puede generarse al desconectar un circuito con carga, causando riesgos de daño personal.
+
+### Medición de Corriente
+- **Instrumento**: Amperímetro.
+- **Medición en corriente continua (cc)**: Se debe abrir el circuito para intercalar el amperímetro, respetando la polaridad (+ y -).

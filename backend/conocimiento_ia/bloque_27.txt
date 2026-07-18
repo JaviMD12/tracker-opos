@@ -1,0 +1,81 @@
+# Minimización de la Escorrentía en Incendios
+
+Minimizar la escorrentía es crucial para un uso eficiente del agua en incendios. Los factores que influyen en la escorrentía son:
+
+- **Tamaño de gota**: 
+  - Gotas gruesas tienen menor relación entre superficie y volumen, lo que reduce su capacidad de absorción de calor.
+  - Gotas finas absorben energía y se evaporan antes de impactar el entorno.
+
+- **Distancia de aplicación**: 
+  - Si la distancia desde el surtidor hasta el impacto es corta, las gotas no tienen tiempo suficiente para evaporarse.
+
+- **Impacto con el entorno**: 
+  - Gotas que impactan superficies calientes (superior a 100ºC) pueden evaporarse si hay suficiente transferencia de calor. De lo contrario, se laminarán.
+
+## Efectividad en la Aplicación de Agua
+
+La efectividad en la aplicación de agua se mide en el porcentaje de agua que se evapora:
+
+- **Técnicas de dilución de gases**: 
+  - Buscan maximizar la transformación de agua en vapor.
+  
+- **Técnicas de enfriamiento**: 
+  - Necesitan que la evaporación ocurra en el aire, no al impactar superficies. La escorrentía es considerada agua no efectiva.
+
+### Porcentaje de Efectividad
+
+- Se estima que la efectividad en el enfriamiento del colchón de gases con lanzas combinadas está entre **50% y 70%**, dependiendo de varios factores.
+
+## Tamaño de la Gota
+
+El tamaño de la gota es fundamental para la efectividad en la lucha contra incendios:
+
+- **Gotas pequeñas**: 
+  - Mayor tiempo en suspensión y mejor absorción de energía, pero menor alcance.
+  
+- **Gotas grandes**: 
+  - Mayor alcance, pero caen más rápido y tienen menor efectividad en el intercambio de calor.
+
+### Tamaño Óptimo
+
+- Se estima que el tamaño óptimo de gota para la lucha contra incendios es entre **0,3 mm y 0,7 mm**.
+
+## Influencia de la Ventilación
+
+El control de la ventilación es vital en operaciones de rescate y extinción:
+
+- **Beneficios**:
+  - Aumenta la visibilidad.
+  - Reduce la temperatura en ciertas áreas.
+  - Controla la potencia del incendio.
+  - Dirige el flujo de gases.
+
+### Principio de Conservación de la Masa
+
+- La masa total de un sistema aislado no cambia. En un incendio, la masa de gases que sale es igual a la masa que entra más la masa de combustible que se convierte en gas.
+
+### Ecuación de Bernoulli
+
+La ecuación de Bernoulli se aplica para entender el movimiento de gases en un incendio:
+
+- **Fórmula**:
+  \[
+  P + \frac{1}{2} \rho v^2 + \rho g h = \text{constante}
+  \]
+  Donde:
+  - \( P \) = presión estática [Pa]
+  - \( \rho \) = densidad del fluido [kg/m³]
+  - \( g \) = aceleración de la gravedad (9,81 m/s²)
+  - \( h \) = altura sobre un plano de referencia [m]
+  - \( v \) = velocidad del fluido [m/s]
+
+## Causas de la Movilidad de Gases de Incendio
+
+Los gases de incendio se mueven debido a:
+
+- **Flotabilidad**: Gases menos densos tienden a flotar.
+- **Diferencias de presión**: Generadas por la temperatura y el uso de ventiladores.
+
+### Identificación de Flujos de Gases
+
+En incendios no confinados, se identifica un flujo de gases fríos hacia el incendio y un flujo de gases calientes hacia la salida.

@@ -1,0 +1,63 @@
+# Clases de fuego
+
+## Clasificación de incendios
+
+### Según el tipo de material
+- **Clase A**: Materiales sólidos orgánicos (madera, papel, plástico).
+- **Clase B**: Líquidos o sólidos licuables (gasolina, alcohol).
+- **Clase C**: Gases (butano, metano).
+- **Clase D**: Metales (aluminio, magnesio).
+- **Clase F**: Ingredientes para cocinar (aceites y grasas).
+
+### Según la forma del foco de incendio
+- **Foco plano**: Incendio en plano horizontal, visible desde cualquier punto.
+- **Foco vertical**: Incendio en varios planos, zonas ocultas a la observación.
+- **Foco alimentado**: Incendio mantenido por combustibles de depósitos no afectados.
+
+### Según la superficie afectada
+- **Grado I**: Hasta 4 m² - Pequeño
+- **Grado II**: 4 a 10 m² - Mediano
+- **Grado III**: 10 a 100 m² - Grande
+- **Grado IV**: 100 a 1,000 m² - De envergadura
+- **Grado V**: 1,000 a 5,000 m² - De envergadura
+- **Grado VI**: 5,000 a 10,000 m² (1 Ha) - De envergadura
+- **Grado VII**: 1 a 25 Ha - De envergadura
+- **Grado VIII**: 12 a 100 Ha - De envergadura
+- **Grado IX**: 100 a 500 Ha - De envergadura
+- **Grado X**: Más de 5,000 Ha - De envergadura
+
+## Clasificación según la velocidad de reacción
+- **Combustión lenta**: Oxidación, sin aumento de temperatura.
+- **Combustión normal**: Velocidad < 1 m/s, desprendimiento de calor y luz.
+- **Combustión instantánea**: Velocidad > 1 m/s, puede causar explosiones.
+
+### Tipos de explosiones
+- **Deflagraciones**: Velocidad < 340 m/s, generan sobrepresiones moderadas.
+- **Detonaciones**: Velocidad > 340 m/s, generan altas sobrepresiones y efectos destructivos.
+
+## Clasificación según la emisión de llamas
+- **Combustión con llamas**: Líquidos y gases inflamables.
+- **Combustión sin llamas**: Sólidos como carbono puro y algunos metales (incandescencia).
+
+## Clasificación según la magnitud
+- **Conato**: Pequeño incendio, se apaga con extintores.
+- **Incendio parcial**: Abarca parte de una instalación, peligroso.
+- **Incendio total**: Fuera de control, afecta completamente a una instalación.
+
+## Evolución de los incendios
+1. **Inicio**: Necesidad de combustible, comburente y energía de activación.
+2. **Desarrollo**: Aumento de temperatura, combustión completa.
+3. **Propagación**: Generación de corrientes de humo y gases calientes.
+4. **Extinción**: Puede ser natural o provocada por acción humana.
+
+## Transmisión de los incendios
+- **Métodos de transmisión de calor**:
+  - **Conducción**
+  - **Convección**
+  - **Radiación** 
+
+### Datos técnicos clave
+- **Velocidad de propagación**:
+  - Butano: **0.9 m/s**
+  - Acetileno: **14 m/s**
+- **Temperatura en fase de desarrollo**: Puede superar **700ºC**.

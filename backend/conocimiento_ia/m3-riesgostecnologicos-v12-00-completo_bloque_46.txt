@@ -1,0 +1,68 @@
+# Comportamiento de Estructuras ante el Fuego
+
+## I. Estructuras Isostáticas
+- **Características**: 
+  - Comúnmente vigas de un solo tramo (bia-poyadas o articuladas-apoyadas).
+  - Momentos máximos en medio del vano, sensibles al colapso.
+- **Problemas**: 
+  - Colapso en nudos debido al alto coeficiente de dilatación del acero.
+  - El fallo por plastificación ocurre después de la generación de colapso.
+
+## II. Estructuras Hiperestáticas
+- **Características**: 
+  - Estructuras de nudos rígidos y vigas continuas.
+  - Más estables que las isostáticas.
+- **Efectos ante el fuego**:
+  - **Rótulas plásticas**: 
+    - Ocurren al alcanzar la temperatura crítica.
+    - Deformaciones irreversibles.
+    - Momentos no absorbidos en el punto de rótula.
+  - **Colapso**: 
+    - Estructuras colapsan debido a la carga térmica.
+    - Puntos de rótulas plásticas son donde se generan mayores momentos.
+
+### Consideraciones para Intervención de Bomberos
+- Verificar características de nudos y hiperestaticidad.
+- Refrigerar la estructura para evitar alcanzar la temperatura crítica.
+- Mantener distancia de seguridad si el modelo estructural es incierto.
+
+## III. Estructuras de Hormigón Armado
+- **Comportamiento al fuego**:
+  - Hormigón armado tiene buen comportamiento, pero varía según su fabricación (prefabricados vs. in situ).
+  - Prefabricados se asemejan a estructuras isostáticas; in situ son hiperestáticas.
+
+### Fallos en Estructuras de Hormigón
+- **Fallo termomecánico**:
+  - Pérdida de adherencia entre hormigón y acero por dilatación.
+  - Grietas limpias y sin ahumar.
+- **Fallo termohidráulico**:
+  - Aumento de presión interna por calentamiento.
+  - **Spalling**: desprendimiento de capas de hormigón, exponiendo armaduras de acero.
+
+## IV. Fábricas
+- **Comportamiento ante incendios**:
+  - Buen comportamiento, no suelen colapsar, pero pueden deformarse.
+- **Sobrecargas por desplome**:
+  - Magnitudes de sobrecarga:
+    - 10º: 0.9 KN/m²
+    - 20º: 1.8 KN/m²
+    - 30º: 2.9 KN/m²
+
+## V. Madera
+- **Pérdida de sección**:
+  - Intervención permitida si se mantiene el 60% de resistencia.
+  - Normas de intervención:
+    - Pérdida ≤ 20%: estable.
+    - Pérdida 20-40%: requiere refuerzo.
+    - Pérdida > 40%: altamente inestable, mantener distancia de seguridad.
+- **Velocidad de carbonización**: 
+  - Promedio de 0.7 mm/min o 1 cm/15 min.
+
+## VI. Sismos
+- **Consecuencias**:
+  - Desplazamiento del terreno y licuefacción.
+- **Deslizamiento del terreno**:
+  - Corrimiento entre estratos, generando grietas en uniones rígidas.
+
+### Grietas en Estructuras
+- Grietas más graves en uniones de vigas y pilares, especialmente en zonas traccionadas de hormigón armado.

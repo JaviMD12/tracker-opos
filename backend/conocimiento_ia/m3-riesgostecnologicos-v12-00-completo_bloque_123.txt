@@ -1,0 +1,72 @@
+# Parte 7. NRBQ
+
+## Caracterización
+
+### CANUTEC
+- **Guía de Respuesta a Emergencias (GRE)**: Revisión cada **4 años**.
+- Desarrollada por **CANUTEC** (Centro de Emergencia de Transporte Canadiense).
+- Objetivo: Aumentar la seguridad pública en el transporte de mercancías peligrosas.
+- Proporciona orientación a primeros intervinientes sobre:
+  - Identificación de peligros.
+  - Protección personal y del público.
+- **Descarga**: Aplicación en español disponible, se recomienda tener una copia impresa.
+
+### Fichas ERIC
+- **Fichas de Intervención para Respuesta en Situaciones de Emergencia** de **CEFIC**.
+- Información básica para bomberos en accidentes de transporte de productos químicos.
+- Formato estándar con secciones:
+  1. Características
+  2. Peligros
+  3. Protección personal frente a riesgos químicos
+  4. Intervención
+     - General
+     - Derrames
+     - Incendio
+  5. Primeros auxilios
+  6. Precauciones fundamentales para la recuperación del producto
+  7. Precauciones post-intervención
+     - Ropa contaminada
+     - Limpieza del equipo
+- Uso exclusivo en accidentes de transporte terrestre con gran cantidad de producto químico.
+
+### Instrucciones escritas
+- Deben acompañar a la mercancía peligrosa durante el transporte.
+- Escrito en un idioma comprensible para el conductor.
+- Ejemplo de instrucciones escritas ADR:
+  - **Etiquetas y paneles de peligro**
+  - **Características de peligro**
+  - **Indicaciones suplementarias**
+
+### Aparatos de Detección y Medida
+- Equipos comunes como prismáticos y anemómetros son útiles para obtener datos de forma segura.
+
+#### 5.11.1. Explosímetro
+- Mide concentración de gases y vapores inflamables.
+- Precaución en la interpretación de datos; calibración con gas patrón (generalmente Metano).
+- Factor de corrección necesario para lecturas precisas.
+
+#### 5.11.2. Tubos Colorimétricos
+- Viales que cambian de color al reaccionar con sustancias.
+- Graduados en ppm o porcentaje en volumen.
+- Lectura inmediata tras muestreo; deben conservarse refrigerados y tienen fecha de caducidad.
+
+#### 5.11.3. Cámara Térmica
+- Utilizada en incendios y búsqueda de puntos calientes.
+- Mide radiaciones infrarrojas para determinar temperaturas superficiales.
+- No permite ver el interior de los objetos.
+
+#### 5.11.4. Dosímetros de Radiación
+- Miden la intensidad de radiación en un lugar.
+- Radiámetro portátil mide rayos X y gamma.
+- Zonificación:
+  - **Zona caliente**: Tasa de dosis > **100 mSv/h**
+  - **Zona templada**: Tasa de dosis > **1 mSv/h**
+  - **Zona fría**: Tasa de dosis < **0,3 mSv/h**
+
+#### 5.11.5. Medidores de pH
+- Miden concentración de iones de hidrógeno.
+- Clasifican sustancias en colores según la escala de pH.
+
+### Tabla 38. Identificación según riesgo
+- **Identificación**: Paneles, señales, colores, forma del recipiente.
+- **Riesgo**: A mayor número de banderas rojas, mayor riesgo; a mayor número de verdes, mejor identificación.

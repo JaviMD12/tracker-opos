@@ -1,0 +1,64 @@
+# Patologías en Edificaciones
+
+## Humedades
+- **Causas**: Humedades puntuales no reparadas permiten la penetración de agua en cerramientos, afectando la estructura.
+- **Problemas**: Dificultad en el mantenimiento y reparación debido a instalaciones enterradas.
+
+## Terreno y Calidad Constructiva
+- **Influencia**: La combinación de factores del terreno y calidad constructiva genera patologías significativas.
+- **Consecuencia**: Variaciones en la distribución de cargas pueden llevar al colapso estructural.
+
+## Tipologías de Patologías Comunes
+1. **Adaptación o Encaje**
+   - **Definición**: Lesiones generadas tras la construcción o rehabilitación.
+   - **Causas**:
+     - Acoplamiento de macizos.
+     - Adaptación del plano de asiento.
+   - **Ejemplos**:
+     - Muros de carga con mortero excesivo.
+     - Conexiones incorrectas en rehabilitaciones.
+
+2. **Cedimiento o Hundimiento**
+   - **Definición**: Lesiones por descensos en cimentación.
+   - **Causas**:
+     - Flechas excesivas en vigas y forjados.
+     - Descenso de cimentación por deformación del terreno.
+     - Suelos expansivos (arcillas ricas en montmorillonita y vermiculita).
+   - **Comportamiento**: Cambios de volumen por humedad.
+
+3. **Aplastamiento**
+   - **Definición**: Reducción de materiales a partículas mínimas.
+   - **Causas**:
+     - Exceso de carga.
+     - Morteros defectuosos.
+   - **Fases**:
+     - Disgregación de morteros.
+     - Rotura de materiales pétreos.
+     - Aplastamiento (poco frecuente).
+
+4. **Rotación**
+   - **Definición**: Desviación de elementos constructivos de su plano vertical.
+   - **Causas**:
+     - Cedimiento del plano de asiento.
+     - Empujes laterales por falta de arriostramiento.
+
+5. **Movimiento del Terreno**
+   - **Definición**: Solicitudes generadas por estratos del terreno.
+   - **Causas**:
+     - Movimiento de ladera.
+     - Subsidencias y colapsos.
+   - **Tipologías**:
+     - Desprendimientos, vuelcos, deslizamientos, expansiones laterales, flujos.
+
+## Normativa sobre Protección Contra Incendios
+- **Código Técnico de la Edificación (CTE) DB SI**: Marco normativo sobre comportamiento ante el fuego.
+- **Real Decreto 842/2013**: Deroga el RD 312/2005, establece clasificación de productos de construcción.
+- **Normas UNE-EN**:
+  - **UNE-EN 13501-1**: Clasificación según reacción al fuego.
+  - **UNE-EN 13501-2**: Clasificación según resistencia al fuego.
+
+## Parámetros Básicos de Estudio
+1. **Resistencia al Fuego**
+   - **Definición**: Facilidad de un material para la propagación del fuego.
+2. **Reacción al Fuego**
+   - **Clasificación**: Según el material utilizado en la construcción.

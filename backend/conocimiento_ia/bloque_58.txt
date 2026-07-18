@@ -1,0 +1,86 @@
+# Valoración de incendios industriales
+
+## 1. Lectura del incendio
+
+### 1.1. Valoración genérica del desarrollo del incendio (según incendios de interior)
+
+La valoración de un incendio industrial se fundamenta en:
+- **Recursos disponibles**
+- **Plan de actuación**
+- **Condiciones en la zona de trabajo**: condicionadas por el combustible, tipo de estructura y riesgos inminentes.
+
+#### 1.1.1. Características de la construcción
+
+- **Estabilidad estructural**: determina el tiempo de intervención disponible.
+- **Materiales y su comportamiento**:
+  - **Estructuras de acero**: soportan temperaturas medias, pero un pico de temperatura puede reducir el límite elástico y provocar colapso.
+  - **Estructuras de hormigón armado**: soportan picos de temperatura, pero exposiciones prolongadas pueden causar fisuras y debilitar la estructura.
+  - **Estructuras de madera**: inflamables, pero presentan buena estabilidad estructural en llamas; se debilitan con la pérdida de sección.
+
+**Elementos a considerar**:
+- Sistema de equilibrio (estático o hiperestático).
+- Detalles de unión de la estructura.
+- Existencia de elementos para la dilatación.
+
+#### 1.1.2. Características del entorno
+
+- **Métodos de actuación**: determinados por las características del entorno.
+- **Naves industriales tipo D y E**: buena visibilidad, peligros poco habituales como:
+  - Propagación del incendio.
+  - Acumulación de gases.
+  - Altas temperaturas.
+  - Peligro de colapso.
+  
+- **Naves tipo A, B o C**: condiciones constructivas que pueden hacerlas fácilmente colapsables.
+
+**Riesgo relevante**: tipo y cantidad de combustible involucrado.
+
+#### 1.1.3. Tipo y cantidad de combustible
+
+- **Carga de fuego**: cada combustible tiene un nivel de carga de fuego, generalmente medio o bajo, salvo en industrias químicas y talleres que pueden ser de nivel alto.
+
+### 1.2. Identificación de acciones prioritarias
+
+#### 1.2.1. Evaluación de ocupantes
+
+- **Plan de Autoprotección o Plan de Emergencia**: debe indicar un punto de encuentro y un responsable.
+- **Evacuación y recuento**: debe realizarse antes de la llegada de vehículos de emergencia.
+
+#### 1.2.2. Búsqueda y rastreo
+
+- **Prioridad táctica**: rescate de víctimas.
+- **Condiciones**: el control previo del incendio puede ser esencial.
+- **Herramientas útiles**: cámara térmica y herramientas de mano (tipo herramienta de bombero).
+- **Estrategias para evitar gases**: extraer a la víctima o retirar el peligro (humo y temperatura).
+
+**Ventilación VPP defensiva**: recomendada en:
+- Edificios complejos.
+- Incidentes con múltiples víctimas.
+- Escasez de personal.
+
+#### 1.2.3. Riesgos inminentes
+
+- **Colapsos estructurales**: riesgo generalizado en naves industriales.
+- **Tipo de industria y material**: a considerar en la evaluación del riesgo.
+
+#### 1.2.4. Propagación
+
+- **Relevancia para servicios de emergencias**: rescatar víctimas y salvaguardar bienes materiales.
+- **Incendios industriales**: pueden propagarse a naves colindantes.
+
+### 1.3. Capacidad de los recursos disponibles
+
+- **Funciones principales** (por orden de importancia):
+  1. Rescate.
+  2. Propagación.
+  3. Extinción.
+
+#### 1.3.1. Para el rescate, evacuación o confinamiento
+
+- **Mínimo número de miembros**: para el rescate de posibles víctimas.
+- **Vehículo de altura**: útil en incendios industriales.
+
+#### 1.3.2. Para el control de la propagación
+
+- **Control de la propagación**: primordial tras el rescate de víctimas.
+- **Vehículos de altura**: apoyo en puntos de difícil acceso.

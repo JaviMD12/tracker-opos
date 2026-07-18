@@ -1,0 +1,87 @@
+# Valoración de incendios de interior
+
+## Estabilidad estructural
+- **Indicativo de intervención**: La estabilidad estructural establece el tiempo de intervención disponible.
+- **Dificultad de evaluación**: Establecer la estabilidad de una construcción a priori es complicado.
+
+### Materiales y su comportamiento
+- **Estructuras de acero**:
+  - Soportan temperaturas medias prolongadas.
+  - Un pico de temperatura puede causar colapso al reducir el límite elástico del acero.
+  
+- **Estructuras de hormigón armado**:
+  - Resistentes a picos de temperatura alta debido a su mayor inercia térmica.
+  - Exposiciones prolongadas pueden causar fisuras y desconchamientos, debilitando la estructura.
+
+- **Estructuras de madera**:
+  - Inflamables y pueden aportar combustible al incendio.
+  - Presentan buena estabilidad estructural en llamas, pero se debilitan con la pérdida de sección.
+
+## Factores a considerar
+- **Ocupación**:
+  - La carga y tipo de combustible varían según el uso del edificio.
+  - Carga de combustible en recintos comerciales > recintos residenciales.
+  - Edificios multivivienda requieren control de propagación y vías de escape.
+
+- **Antigüedad**:
+  - Indica el tipo de estructura, grado de compartimentación y existencia de espacios diáfanos.
+  - Contenidos modernos con materiales sintéticos desarrollan incendios más rápidamente.
+
+- **Superficie**:
+  - La carga de combustible está ligada a la superficie del recinto.
+  - Potencias de incendio en edificación residencial:
+    - **450 kW/m²** para recintos pequeños.
+    - **250 kW/m²** para recintos más grandes.
+
+## Compartimentación
+- Mayor compartimentación dificulta el desarrollo y propagación del incendio.
+- Favorece la lucha contra el incendio con menor caudal de extinción.
+
+## Altura
+- Edificios en altura presentan dificultades de acceso y requieren tácticas específicas.
+- Mayor altura implica mayor volumen de aire y productos de combustión.
+
+## Aislamiento y estanqueidad
+- Edificaciones modernas tienen alto aislamiento térmico y estanqueidad.
+- Mayor aislamiento = menor pérdida de temperatura.
+- Edificaciones bien aisladas presentan temperaturas superiores en incendio.
+
+## Aperturas de ventilación
+- Aperturas alimentan el incendio, aumentando su potencia.
+- Ventanales grandes deben ser valorados por su potencial de ventilación.
+
+## Espacios ocultos
+- Falsos techos y conductos de climatización pueden contribuir a la propagación del incendio.
+- Dificultan el uso de técnicas de ventilación.
+
+## Humo
+### Color
+- **Negro**: Combustión incompleta.
+- **Claro**: Combustiones completas o etapas iniciales.
+- **Amarillento/ocre**: Alto contenido en gases de pirólisis.
+- **Blanquecino**: Presencia de vapor de agua.
+
+### Opacidad
+- Relacionada con la cantidad de carbonilla y partículas de combustión incompleta.
+
+### Densidad
+- **Humo frío**: Alta densidad, dificultad para flotación.
+- **Humo caliente**: Baja densidad, facilidad para flotación.
+
+### Espesor del colchón de humo
+- Mayor espesor implica mayor cantidad de gases de incendio.
+- La altura del plano neutro afecta la visibilidad y el planteamiento táctico.
+
+## Flujo de gases
+### Flujos en aperturas
+- **Flujos de entrada**: Aire limpio, buena visibilidad.
+- **Flujos de salida**: Gases de incendio, alta temperatura, baja visibilidad.
+- **Flujos bidireccionales**: Combinan entrada y salida, exponiendo al personal a gases de incendio.
+
+### Comportamiento de cortinas de humo
+- Permiten evaluar el patrón de ventilación.
+- Pueden convertir flujos bidireccionales en flujos de entrada.
+
+---
+
+Este resumen destaca los aspectos técnicos clave relacionados con la valoración de incendios de interior, incluyendo la estabilidad estructural, el comportamiento de diferentes materiales, y las características del humo y los flujos de gases.

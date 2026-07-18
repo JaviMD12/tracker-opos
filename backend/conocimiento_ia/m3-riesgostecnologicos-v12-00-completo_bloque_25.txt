@@ -1,0 +1,118 @@
+# Temario de Oposición: Instalaciones de Edificios
+
+## 9.4.2. Parámetros Horizontales
+
+### a) Acabados en Suelos
+- **Continuos**
+  - **Productos bituminosos:**
+    - **Aglomerado bituminoso:** mezcla en caliente de ligante bituminoso y áridos minerales.
+    - **Asfalto fundido:** mezcla en caliente de asfalto natural, betún de baja penetración y áridos silíceos.
+  - **A base de cemento:**
+    - **Solera de hormigón armado:** pavimento de 10 cm mínimo de hormigón, apoyado en el suelo.
+    - **Hormigón tratado superficialmente:**
+      - **Tratamiento endurecedor:** resinas epoxi o poliuretano que sellan poros y aumentan resistencia al desgaste.
+      - **Tratamiento impreso:** mejora estética y reduce resbaladicidad.
+  
+- **Discontinuos**
+  - **Pavimentos rígidos - Baldosas:** piezas rígidas de forma geométrica regular, fabricadas de materiales como piedra, cerámica, cemento, etc.
+  - **Pavimentos flexibles - Losetas o rollos:** materiales textiles y plásticos que amortiguan el ruido de impacto.
+
+### b) Acabados en Techos
+- **Continuos**
+  - **Tendido de mortero:** generalmente a base de mortero de yeso o cemento.
+  
+- **Discontinuos**
+  - **Falso techo:** elementos de aluminio, acero, PVC o escayola, que permiten el paso de instalaciones (plenum).
+
+## 9.5. Instalaciones de Edificios
+
+### Definición
+Conjunto de redes y equipos fijos que permiten el suministro y operación de servicios en edificios.
+
+### Marco Normativo
+- **CTE DB HS: Salubridad**
+  - **HS4:** Suministro de agua (Agua fría y ACS).
+  - **HS5:** Evacuación de aguas (Saneamiento).
+- **CTE DB HE**
+  - **HE 2:** RITE (Reglamento de instalaciones térmicas de edificios).
+  - **HE 4:** Contribución solar mínima de ACS.
+
+### Instalaciones Generadoras de Emergencias
+- Agua fría.
+- Agua caliente sanitaria (ACS).
+- Saneamiento.
+- Electricidad.
+- Instalaciones receptoras de combustibles gaseosos.
+- Instalaciones petrolíferas para uso propio.
+
+### 9.5.1. Agua Fría
+- **Introducción:** Red canalizada para agua destinada al consumo humano, con caudales y presiones adecuadas.
+- **Legislación:** CTE DB HS-4.
+- **Tipos de redes:**
+  - **Contador único.**
+  - **Contadores divisionarios.**
+- **Elementos básicos:**
+  - Acometida.
+  - Red general.
+  - Instalaciones particulares.
+  - Instalaciones complementarias.
+- **Equipos de corte y maniobra:**
+  - Llave de toma.
+  - Llave de corte exterior.
+  - Llave de corte general.
+  - Llaves de contadores.
+  - Llave de paso.
+  - Derivaciones particulares.
+  - Puntos de consumo.
+  - Llaves de seccionamiento.
+- **Señalización:**
+  - **Agua potable:** verde oscuro o azul.
+  - **Agua no potable:** señalización clara.
+
+### Riesgos
+- **Inundaciones:** especial atención en recintos con electricidad.
+
+### 9.5.2. Agua Caliente Sanitaria (ACS)
+- **Introducción:** Instalación que calefacta agua para consumo humano.
+- **Legislación:** CTE DB HS-4 y CTE DB HE-4 (equipos bitérmicos).
+- **Tipos de redes:**
+  - **Impulsión:** desde el aparato térmico hasta el punto de calefactación.
+  - **Retorno:** exigible si la longitud de la tubería es ≥ 15 m.
+- **Elementos básicos:**
+  - Acometida de Agua Fría de Consumo Humano (AFCH).
+  - Generador de calor (calderas/intercambiadores).
+  - Acumulador.
+  - Redes de suministro.
+  - Elementos terminales.
+  - Circuitos de retorno.
+- **Equipos de corte y maniobra:** válvulas automáticas y manuales.
+  
+### Riesgos
+- **Inundaciones** y **quemaduras** (temperaturas hasta 80ºC).
+
+### 9.5.3. Saneamiento
+- **Introducción:** Instalaciones para extraer aguas residuales.
+- **Legislación:** CTE DB HS 5.
+- **Tipos de redes:**
+  - **Aguas negras:** desagües de aparatos sanitarios.
+  - **Aguas blancas:** desagües de cubiertas y terrazas.
+- **Elementos básicos:**
+  - Redes de pequeña evacuación.
+  - Bajantes de aguas residuales.
+  - Colectores horizontales.
+- **Elementos visitables:**
+  - Sifones individuales y botes sifónicos.
+  - Arquetas (tipologías: paso, sumidero, sifónicas, separadoras de grasas, pozos de registro, fosas sépticas).
+
+### Riesgos
+- **Asfixia** durante mantenimiento o limpieza.
+
+### 9.5.4. Electricidad
+- **Definición:** Instalaciones de enlace que conectan la red de distribución a las instalaciones interiores.
+- **Legislación:** Reglamento Electrotécnico de Baja Tensión (REBT).
+- **Tipos de redes:**
+  - **Básico:** 5750W a 230V, 5 circuitos.
+  - **Elevado:** 9200W a 230V, más de 5 circuitos.
+- **Elementos básicos:**
+  - Acometida.
+  - Caja General de Protección (CGP).

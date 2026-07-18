@@ -1,0 +1,51 @@
+# Parte 6. Riesgo eléctrico
+
+## Clasificación de instalaciones eléctricas
+- **Instalaciones de alta-media tensión**: 
+  - Tensión nominal superior a **1.000 V** en corriente alterna (CA) y **1.500 V** en corriente continua (CC).
+  
+- **Instalaciones de baja tensión**: 
+  - Potencia de **11 kV** o **20 kV**.
+  - La corriente se origina en subestaciones y se distribuye a centros de reparto y transformación.
+
+## Medidas de seguridad al trabajar con tensión
+### Alta tensión
+1. **Medidas obligatorias**:
+   - Abrir con corte visible todas las fuentes de tensión.
+   - Enclavar aparatos de corte abiertos.
+   - Comprobar ausencia total de tensión en conductores tras el corte.
+   - Poner en corto y a tierra todas las fuentes de tensión.
+   - Acotar y señalizar la zona de trabajo.
+
+### Baja tensión
+1. **Medidas obligatorias**:
+   - Abrir con corte visible todas las fuentes de tensión y comprobar ausencia total de tensión en conductores tras el corte.
+   
+2. **Siempre que sea posible**:
+   - Enclavar aparatos de corte abiertos.
+   
+3. **Medidas recomendables**:
+   - Poner en corto y a tierra todas las fuentes de tensión.
+   - Acotar y señalizar la zona de trabajo.
+
+## Equipos de protección
+- Uso de **equipos de protección U2 completo**:
+  - Pantalón, camiseta, cubre-pantalón, botas, chaquetón, guantes y casco de intervención.
+  
+## Estadísticas y riesgos
+- La mayoría de los incendios en viviendas son causados por electricidad, principalmente por:
+  - Cortocircuitos por rotura de aislamientos en cables o enchufes.
+  - Sobrecargas por conectar múltiples consumidores eléctricos a una misma línea.
+
+## Accidentes eléctricos
+- Aunque no son numerosos, los accidentes eléctricos son graves, especialmente si la corriente afecta órganos vitales.
+- Es crucial tratar a las personas electrocutadas lo antes posible, ya que el daño puede no ser inmediato.
+
+## Protocolo de actuación
+- Considerar las características del incidente:
+  - Alta o baja tensión, presencia de corriente, ubicación (interior, exterior, subterráneo).
+  
+- Establecer prioridades de actuación:
+  - **Defensivo**: Cortar la propagación.
+  - **Ofensivo**: Corte efectivo y rescate.
+  - **Mixto**: Combinación de ambos enfoques.

@@ -1,0 +1,71 @@
+# Notas Generales sobre Apeos
+
+## Apeos en Muros (h < 3m y h < 6m)
+
+- **Conjunto Elemental**: 
+  - Capacidad mecánica: **20 kN** (carga puntual horizontal a 2m de altura) + **15 kN** (carga puntual horizontal a 4.5m de altura).
+  - Se dispondrán tantos conjuntos elementales como sea necesario para cubrir la zona afectada o la carga previsible.
+  - La distancia entre conjuntos no excederá en ningún caso **4m**.
+
+### Acciones a Considerar
+- **Muros expuestos a viento**: **1.5 kN/m²**
+- **Fachadas desplomadas de fábrica**:
+  - 10º: **0.9 kN/m²**
+  - 20º: **1.8 kN/m²**
+  - 30º: **2.9 kN/m²**
+- **Depósitos de agua**:
+  - 1m: **5 kN/m²**
+  - 2m: **10 kN/m²**
+  - 3m: **15 kN/m²**
+- **Contención de tierras**:
+  - Arcilla:
+    - 1m: **4.9 kN/m²**
+    - 2m: **9.8 kN/m²**
+    - 3m: **14.7 kN/m²**
+  - Grava/Arena:
+    - 1m: **3.3 kN/m²**
+    - 2m: **6.7 kN/m²**
+    - 3m: **10 kN/m²**
+
+### Cálculo de Distancia entre Conjuntos
+- Fórmula: 
+  \[
+  d = \frac{\text{capacidad apeo}}{\text{carga} \times \text{altura}} = \frac{20 \text{kN}}{c \times h}
+  \]
+
+## Durmientes y Puntales
+
+### Durmiente Vertical
+- **Material**: C30 EN1065
+- **Longitud máxima**: **3.00 m**
+- **Resistencia**: \( R_{y,k} = 34.0 \text{kN} \)
+
+### Durmiente Horizontal
+- **Material**: C30 EN1065
+- **Longitud máxima**: **3.00 m**
+- **Resistencia**: \( R_{y,k} = 34.0 \text{kN} \)
+
+### Cálculo de Elementos Necesarios
+- Fórmula:
+  \[
+  n = \frac{\text{capacidad apeo}}{\text{carga} \times \text{superficie}} = \frac{50 \text{kN}}{c \times A}
+  \]
+
+### Cargas a Considerar
+- **Peso propio (vivienda)**: **3 kN/m²**
+- **Peso propio (garaje)**: **5 kN/m²**
+- **Sobrecarga (cubierta)**: **2 kN/m²**
+- **Sobrecarga (vivienda)**: **3 kN/m²**
+- **Sobrecarga (dotacional)**: **4 kN/m²**
+- **Sobrecarga (garaje)**: **10 kN/m²**
+
+### Distancia entre Puntales
+- La distancia entre puntales (d) y conjuntos (d*) debe ser:
+  \[
+  d = d* = \left( \frac{A}{n} \right)^2
+  \]
+- Distancia recomendada: **2.3 m a 3.0 m**.
+
+## Consideraciones Finales
+- Continuidad de apeo hasta forjado rasante calle o 3 forjados por debajo.
+- En caso de no ser accesible el trasdos del muro, se puede aplicar la solución de anclaje mediante 5 varillas de **ø10 mm**.

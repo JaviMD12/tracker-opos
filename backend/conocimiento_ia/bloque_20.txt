@@ -1,0 +1,100 @@
+# Temario de Oposición: Instalaciones Hidráulicas y Bombas
+
+## 1. Cebado de Bombas
+- **Métodos de cebado**:
+  - **Por anillo de agua**: Utiliza una bomba volumétrica.
+  - **Autocebantes**: Requiere un depósito específico para llenar el cuerpo de la bomba y la tubería de aspiración.
+  - **Por bomba de pistones**.
+
+- **Proceso de cebado**:
+  - Se considera realizado cuando el agua entra en contacto con el rodete.
+  - El rodete crea un vacío y atrae más agua, momento en el cual se debe desconectar el sistema de cebado.
+
+## 1.4. Cavitación
+- **Definición**: Formación de vapor de agua por descenso local de presión por debajo de la presión de saturación.
+- **Efectos**:
+  - Burbujeo de vapor que se condensa y provoca implosiones.
+  - Incremento de volumen del agua al vaporizarse: **1700 veces**.
+  - Presiones locales pueden alcanzar **1000 kg/cm²**, causando daños en la bomba (picaduras y corrosión).
+  - Ruido y vibraciones similares a grava golpeando partes de la máquina.
+
+- **Prevención**:
+  - Determinación de la altura geométrica máxima de aspiración: **entre 8 y 8.5 metros**.
+  - Disminución de caudales de trabajo y pérdidas de carga.
+
+## 1.5. Acoplamiento de Bombas
+- **Tipos de acoplamiento**:
+  - **En paralelo**:
+    - Conexión de entradas y salidas de dos o más bombas.
+    - Mantiene la misma altura manométrica, incrementando el caudal.
+  
+  - **En serie**:
+    - Salida de una bomba conectada a la entrada de otra.
+    - **Ecuaciones**:
+      - Altura manométrica total: 
+        \[
+        H_m = H_{m1} + H_{m2} + H_{m3} + \ldots + H_{mn}
+        \]
+      - Caudal constante: 
+        \[
+        Q = Q_1 = Q_2 = Q_3 = \ldots = Q_n
+        \]
+    - Incremento de presión, adecuado para impulsiones a gran altura.
+
+## 2. Instalación Hidráulica
+- **Objetivo**: Llevar un fluido extintor (agua o espumante) desde la fuente de suministro hasta el incendio.
+- **Componentes básicos**: Bomba, manguera y lanza.
+- **Ecuación de línea**:
+  \[
+  P_B = P_L + H_G + P_C
+  \]
+  - **Donde**:
+    - \( P_B \): Altura de presión a la salida de la bomba (en bar).
+    - \( P_L \): Altura de presión en punta de lanza (en bar).
+    - \( H_G \): Altura geométrica (en bar).
+    - \( P_C \): Pérdidas de carga (en bar).
+
+## 2.1. Pérdidas de Carga en una Instalación
+- **Definición**: Pérdidas energéticas en un fluido en movimiento.
+- **Causas**:
+  - Fricción entre partículas y paredes de la tubería.
+  - Pérdidas continuas (lineales) y locales (singulares).
+  
+- **Factores que aumentan las pérdidas de carga**:
+  - Longitud del conducto.
+  - Velocidad del fluido (según su segunda potencia).
+  - Reducción del diámetro (según su quinta potencia).
+  - Rugosidad del conducto y viscosidad del fluido.
+
+## 2.2. Curva de una Instalación
+- **Definición**: Representación gráfica de las pérdidas de carga continuas y locales en función del caudal.
+- **Altura geométrica**:
+  - Impulsión desde cota superior a inferior: **1 kg por cada 10 metros de desnivel**.
+  - Impulsión desde cota inferior a superior: **pérdida de carga de 1 kg por cada 10 metros verticales ascendentes**.
+
+## 2.3. Punto de Funcionamiento
+- **Relación**: Incremento de presión y caudal de tránsito.
+- **Condición de equilibrio hidráulico**: Intersección de curvas de bomba e instalación.
+- **Ejemplo**: 
+  - Pérdida de carga en la instalación coincide con la presión aportada por la bomba.
+
+## 2.4. Alcance de una Instalación
+- **Teorema de Torricelli**: Determina el caudal de salida a través de una lanza.
+- **Factores que determinan el alcance**:
+  - Presión a la entrada de la lanza.
+  - Diámetro de la lanza.
+  
+- **Relación**:
+  - Mayor presión = mayor velocidad y alcance.
+  - Mayor diámetro = mayor alcance para misma presión.
+
+## 2.5. Reacción en Lanza
+- **Principio de acción y reacción**: Empuje o retroceso sobre el portador.
+- **Cálculo del empuje**:
+  \[
+  E = P \cdot S
+  \]
+  - **Donde**:
+    - \( E \): Empuje (unidades de fuerza).
+    - \( P \): Presión.
+    - \( S \): Superficie de salida.

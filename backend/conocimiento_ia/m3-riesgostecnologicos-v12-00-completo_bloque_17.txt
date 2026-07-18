@@ -1,0 +1,75 @@
+# Temario de Oposición: Elementos Estructurales
+
+## Viguetas
+- **Definición**: Elemento longitudinal de hormigón pretensado.
+- **Tipos**:
+  - **Vigueta**: Elemento autoportante, con capacidad portante total desde su fabricación.
+  - **Semivigueta**: Adquiere resistencia total solo tras el hormigonado del forjado.
+- **Materiales**: Alambres de acero grafilados (clases Y1570/1670/1770/1860).
+- **Forjados de Viguetas**: Autoportantes, no requieren sopandas intermedias.
+
+## Losa Alveolar Pretensada
+- **Definición**: Elemento estructural plano de hormigón pretensado, aligerado mediante alveolos longitudinales.
+- **Características**:
+  - Soporta cargas en forjados.
+  - Juntas laterales diseñadas para transmitir esfuerzos cortantes.
+
+## Tipologías de Viguetas
+- **Vigueta Estándar**: Absorbe esfuerzos del suelo y los transmite a vigas.
+- **Vigueta Coja**: Apoya en un brochal.
+- **Brochal**: Pieza encastrada que permite abrir huecos.
+- **Zoquete**: Elemento auxiliar para arriostramiento.
+
+## Vigas
+- **Definición**: Elemento estructural horizontal que recibe cargas de pisos y las transmite a elementos verticales.
+- **Materiales**: Piedra, madera, acero, hormigón, ladrillo.
+- **Geometría**:
+  - Sección ideal: Mayor dimensión vertical para mayor momento de inercia.
+- **Tipos según forma**:
+  - **Vigas con Cuelgue**: Sobresalen del forjado, mejor rendimiento.
+  - **Vigas Planas**: Embebidas en el canto del forjado.
+
+## Rigidez de Vigas
+- **Tipos**:
+  - **Vigas Apoyadas**: No común en hormigón.
+  - **Vigas Empotradas**: Anclajes rígidos, comunes en hormigón armado.
+  - **Vigas en Voladizo**: Importante anclaje para equilibrar el momento de vuelco.
+  - **Vigas Continuas**: Menor canto y ahorro económico.
+
+## Vigas de Madera
+- **Denominación**: Carreras, apoyan viguetas directamente.
+
+## Vigas de Hormigón
+- **Características**:
+  - Flexión genera tracciones, uso de barras longitudinales en zonas de flexión máxima.
+  - Necesidad de armaduras transversales para esfuerzo cortante.
+
+## Vigas de Acero
+- **Perfiles**:
+  - Simples: I (IPN, IPE), H (HEB, HEA, HEM).
+  - Compuestos: UPN en cajón.
+  - Otros: Perfiles en Z.
+
+## Vigas Trianguladas
+- **Modelos**:
+  - **Pratt**: Montantes a compresión, diagonales a tracción.
+  - **Howe**: Diagonales a compresión, susceptibles a pandeo.
+  - **Warren**: Triángulos isósceles, diagonales alternan compresión y tracción.
+
+## Forjados
+- **Definición**: Elemento estructural horizontal que transmite cargas a otros elementos de la estructura.
+- **Funciones**:
+  - **Portantes**: Recibir y transmitir cargas.
+  - **Arriostramiento**: Asegurar estabilidad horizontal.
+- **Clasificación**:
+  - **Sistema de Ejecución**: In situ, semiprefabricados, prefabricados.
+  - **Tipo de Armadura**: Armados, pretensados, postesados.
+  - **Geometría**: Unidireccionales, bidireccionales.
+  - **Material**: Madera, metal, hormigón armado.
+
+### Tipos de Forjados
+- **Unidireccionales**: Transmiten cargas en una dirección.
+- **Bidireccionales**: Transmiten cargas en dos direcciones.
+
+### Materiales en Forjados
+- **Madera**: Viguetas de madera, elementos de entrevigado sin función portante.

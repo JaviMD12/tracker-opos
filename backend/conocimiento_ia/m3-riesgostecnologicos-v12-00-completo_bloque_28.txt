@@ -1,0 +1,113 @@
+# Resistencia al fuego y Reacción al fuego en materiales de construcción
+
+## Resistencia al fuego
+
+### Normativa
+- **Clasificación tradicional (UNE 23.093)**:
+  - **EF**: Estable al fuego
+  - **PF**: Parallamas al fuego
+  - **RF**: Resistente al fuego
+
+- **Nuevo marco normativo (RD 842/2013 y UNE-EN-13501)**:
+  - Clasificación mediante nomenclatura **REI/W (t)- MCS**.
+  
+### Clases principales
+- **R**: Resistencia (capacidad portante durante un incendio).
+- **E**: Estabilidad (no dejar pasar llamas o gases).
+- **I**: Aislamiento térmico (no superar temperatura en cara no expuesta).
+
+### Clases secundarias
+- **W**: Radiación (capacidad de control/amortiguación).
+- **M**: Acción mecánica.
+- **C**: Cierre automático.
+- **S**: Estanqueidad al paso de humos.
+- **P o HP**: Continuidad en alimentación eléctrica o transmisión de señal.
+- **G**: Resistencia a la combustión de hollines.
+- **K**: Capacidad de protección contra incendios.
+- **D**: Duración de estabilidad a temperatura constante.
+- **DH**: Duración de estabilidad considerando curva normalizada tiempo-temperatura.
+- **F**: Funcionalidad de extractores mecánicos de humo y calor.
+- **B**: Funcionalidad de extractores pasivos de humo y calor.
+
+### Valoración de parámetros
+- Expresados como **R, E, I, EI o REI**, seguidos de un número que indica el tiempo (15, 20, 30, 45, 60, 90, 120, 180, 240 y 360 minutos) durante el cual se mantienen las propiedades.
+
+## Reacción al fuego
+
+### Definición
+- Parámetro que determina la combustibilidad de un material y su comportamiento en la iniciación y propagación de un incendio.
+
+### Clasificación (UNE EN 13501-1)
+- **Clases genéricas**:
+  - **A1**: No combustible.
+  - **A2**: No combustible en grado menor.
+  - **B**: Sin apenas contribución al incendio.
+  - **C**: Con escasa contribución al incendio.
+  - **D**: Contribución moderada al incendio.
+  - **E**: Contribución significativa al incendio.
+  - **F**: Sin determinación de propiedades.
+
+### Clasificación según intervención de bomberos
+- **Clases A1, A2 y B**: Productos incombustibles y poco combustibles (más seguros).
+- **Clases C, D y E**: Productos combustibles (más peligrosos).
+  - **Clase C**: >10 min para flashover.
+  - **Clase D**: 2-10 min para flashover.
+  - **Clase E**: <2 min para flashover.
+
+### Subparámetros adicionales
+- **Producción de humo**:
+  - **s1**: Baja emisión.
+  - **s2**: Media emisión.
+  - **s3**: Alta emisión.
+  
+- **Caída de gotas**:
+  - **d0**: Sin caída en 600 seg.
+  - **d1**: Sin caída >10 seg en 600 seg.
+  - **d2**: Resto de casos.
+
+## Comportamiento al fuego de elementos estructurales
+
+### Según modelo estático
+- **Estructuras Isostáticas**: Colapso inmediato ante fallo de un elemento.
+- **Estructuras Hiperestáticas**: Reparto de esfuerzos, mayor seguridad ante fallos.
+
+### Según material: Acero
+- **Propiedades**:
+  - **Masa**: Baja, perfiles ligeros.
+  - **Conductividad térmica**: Alta, propaga calor rápidamente.
+  - **Coeficiente de dilatación**: Alto, puede causar esfuerzos importantes.
+
+### Cálculo de dilatación
+- **Coeficiente de dilatación térmica del acero**: \(0,000012 \, °C^{-1}\)
+- **Ejemplo de dilatación**:
+  - Para una viga de acero de 10 m, de 20°C a 300°C:
+  - \(d = 0,000012 \, °C^{-1} \times 10 \, m \times 280 \, °C = 0,0336 \, m = 3,36 \, cm\)
+
+### Resistencia al fuego del acero
+- **Temperaturas críticas**:
+  - **300°C**: Inicio de pérdida de resistencia.
+  - **500-600°C**: Pérdida de resistencia hasta 2/3.
+  - **600-700°C**: Pérdida de resistencia hasta 1/3.
+  - **538°C**: Punto crítico, caída de resistencia >50%.
+
+### Tiempos de colapso
+- Generalmente alcanzado a partir de **500°C**:
+  - **5 minutos** en laboratorio.
+  - **10-20 minutos** en incendio real.
+
+### Geometría expuesta al fuego
+- Alta exposición, secciones delgadas son más vulnerables.
+- **Tiempos de colapso para HEB-300**:
+  - 4 caras: 11 minutos.
+  - 3 caras: 12 minutos.
+  - 2 caras: 20 minutos.
+  - 1 cara: 31 minutos.
+
+### Factores positivos y negativos de estructuras metálicas
+- **Positivos**:
+  - No combustibles, no generan flashover.
+  - Deformaciones indican evolución del comportamiento.
+  
+- **Negativos**:
+  - Pérdida rápida de resistencia.
+  - Dilataciones pueden causar colapsos en estructuras adyacentes.

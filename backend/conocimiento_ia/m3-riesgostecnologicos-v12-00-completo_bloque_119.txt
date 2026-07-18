@@ -1,0 +1,84 @@
+# Parte 7. NRBQ
+
+## 4.4. Contenedores
+
+Un **contenedor** es un elemento destinado al transporte con las siguientes características:
+
+- **Carácter permanente**: Suficientemente fuerte para ser utilizado reiteradamente.
+- **Diseño específico**: Realiza el transporte de mercancías sin operaciones intermedias de carga y descarga.
+- **Equipamiento**: Dispositivos para facilitar su estiba y manipulación.
+- **Facilidad de llenado y vaciado**: Debe ser sencillo.
+- **Volumen interior**: No inferior a **1 m³**, salvo contenedores para materias radiactivas.
+
+Los contenedores pueden ser:
+
+- Sin techo o con techo rígido.
+- Con paredes laterales rígidas y un suelo.
+- Equipados con toldos para proteger la mercancía.
+
+### Flexitank
+
+- **Modelo**: Nuevo tipo de contenedor para transportar líquidos a granel (vino, aceite, productos alimenticios).
+- **No apto para mercancías peligrosas**.
+- **Ventajas**: Sencillez de uso, amplia disponibilidad, coste reducido.
+- **Capacidad**: **24,000 litros**.
+
+## 5. Reconocimiento e Identificación
+
+La identificación de sustancias peligrosas es vital para el control de emergencias. Las decisiones se basan en la identificación de materiales involucrados.
+
+### Normativa de transporte de mercancías peligrosas
+
+- **ADR**: Reglamento europeo para el transporte por carretera.
+- **IMO-IMDG**: Transporte marítimo.
+- **IATA-OACI**: Transporte aéreo.
+- **RID**: Transporte ferroviario.
+
+### Zonas de control
+
+- Establecer zonas de control e intervención con personal imprescindible.
+- Información visible a distancia (tipo de cisternas, etiquetas, panel naranja) permite una respuesta rápida.
+
+### Sistema de marcación ONU
+
+- **Objetivo**: Conocer características de envases y riesgos asociados.
+- **Clasificación en EE.UU.**: 13 clases de mercancías peligrosas.
+
+## 5.1. Panel Naranja
+
+- **Dimensiones**: Rectangular, base de **40 cm** y altura de **30 cm**.
+- **Material**: Resistente a la intemperie, debe soportar un incendio de **15 minutos**.
+- **Ubicación**: Dos paneles en la parte delantera y trasera del vehículo, visibles.
+
+### Excepciones
+
+- No obligatorio en cisternas con capacidad inferior a **3000 l**.
+- Deben indicar el número ONU de la materia más peligrosa transportada.
+
+### Número de Identificación de Peligro (NIP)
+
+- **Definición**: Número de dos o tres dígitos que identifica peligros.
+- **Colocación**: En la parte superior del panel naranja.
+
+### Significado de los Números de Identificación de Peligro
+
+| NIP | Significado |
+|-----|-------------|
+| 22  | Gas licuado refrigerado, asfixiante |
+| 323 | Materia líquida inflamable que reacciona con agua |
+| 333 | Materia líquida pirofórica |
+| 362 | Materia líquida inflamable, tóxica, que reacciona con agua |
+| 382 | Materia líquida inflamable, corrosiva, que reacciona con agua |
+| 423 | Materia sólida que reacciona con agua desprendiendo gases inflamables |
+| 44  | Materia sólida inflamable en estado fundido a alta temperatura |
+| 446 | Materia sólida inflamable y tóxica en estado fundido a alta temperatura |
+| 462 | Materia sólida tóxica que reacciona con agua |
+| 482 | Materia sólida corrosiva que reacciona con agua |
+| 539 | Peróxido orgánico inflamable |
+| 606 | Materia infecciosa |
+| 623 | Materia tóxica líquida que reacciona con agua |
+| 642 | Materia tóxica sólida que reacciona con agua |
+| 823 | Materia corrosiva líquida que reacciona con agua |
+| 842 | Materia corrosiva sólida que reacciona con agua |
+| 90  | Materia peligrosa desde el punto de vista medioambiental |
+| 99  | Materias peligrosas diversas transportadas en caliente |

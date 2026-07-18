@@ -1,0 +1,79 @@
+# Manual de Incendios - Parte 6: Incendios de Vegetación
+
+## Procedimiento de Colocación de Mangueras
+- **Empalme inicial**: Se empalmarán cinco tramos desde la bomba y se irá ascendiendo.
+- **Adición de mangueras**: Si se necesitan más mangueras, se subirán en rollos y se añadirán en el último tramo, en el racor donde se encuentra la lanza, sin cortar la presión haciendo un cizallamiento con las manos cerca del racor.
+
+## Tendido de Líneas
+- **Línea 1**: Un bombero remata los rescoldos del incendio cerca de los vehículos y vigila por si el fuego pudiera reiniciarse.
+- **Línea 2**: Dos bomberos ascienden por el flanco izquierdo rematando el perímetro.
+
+## Finalización de la Extinción
+- **Vaciar y plegar mangueras**: Una vez extinguido el incendio, se vacían las mangueras y se pliegan en forma de ocho para facilitar el transporte.
+- **Comunicación**: Se comunica a los mandos superiores la vuelta al parque de bomberos.
+- **Revisión del material**: Al llegar al parque, se revisa y limpia el material utilizado y se recargan los depósitos de agua y combustible.
+
+## Evaluación de Riesgos en Incendios de Vegetación
+### Parámetros de Evaluación
+- **Topografía (pendiente %)**:
+  - <20% = 1
+  - 20%-35% = 3
+  - >35% = 5
+- **Tipo de combustible**:
+  - Ligera = 1
+  - Moderada = 3
+  - Densa = 5
+- **Superficie de defensa (radio)**:
+  - 50-30 m = 1
+  - 30-70 m = 3
+  - 0-10 m = 5
+- **Carga aérea (cobertura de copas)**:
+  - <30% = 1
+  - 30%-70% = 3
+  - >70% = 5
+- **Tejado (material)**:
+  - Poco inflamable = 1
+  - Inflamable = 3
+  - Muy inflamable = 5
+- **Paredes (material)**:
+  - Poco inflamable = 1
+  - Inflamable = 3
+  - Muy inflamable = 5
+- **Accesos (anchura pistas)**:
+  - >5 m = 1
+  - 3-5 m = 3
+  - <3 m = 5
+- **Conducción de suministros**:
+  - Soterradas = 1
+  - Por aire = 5
+- **Tanques de combustible**:
+  - Protegidos = 1
+  - Necesitan protección = 5
+- **Sistemas de protección**:
+  - Presencia de sistemas = 1
+  - Sin presencia de sistemas = 5
+
+### Triaje de Estructuras
+- **Rango de protección**:
+  - 0-15: Fácil de proteger
+  - 16-32: Defendible con actuación
+  - >33: Muy difícil de proteger
+
+## Protocolo de Movilización de Medios
+### Clasificación según la gravedad del siniestro
+1. **Leve**:
+   - **Condiciones**: No existen riesgos inminentes, abordable con una sola dotación.
+   - **Movilización**: Aviso al jefe de guardia (J0), dotación de 1 TT pickup + BRP, 1 Cabo jefe de dotación + 3 bomberos.
+   
+2. **Medio**:
+   - **Condiciones**: Existen riesgos inminentes, requiere apoyos internos o externos.
+   - **Movilización**: Aviso a J0, salida de 1 TT pickup + BRP, refuerzos opcionales.
+
+3. **Grave**:
+   - **Condiciones**: Siniestro de gran envergadura, múltiples administraciones implicadas.
+   - **Movilización**: Aviso y movilización de J0 y OJS, salida de 1 TT pickup + BRP, refuerzos necesarios.
+
+### Apoyos Externos
+- **Leve**: No se requieren apoyos externos.
+- **Medio**: JCCM, servicios regionales de extinción, medios aéreos.
+- **Grave**: JCCM, otros servicios regionales, medios aéreos, UME.

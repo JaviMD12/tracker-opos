@@ -1,0 +1,88 @@
+# Minimización de la Escorrentía en Incendios
+
+Minimizar la escorrentía permite un uso más eficiente del agua en incendios. Los factores que influyen en la escorrentía son:
+
+- **Tamaño de gota**: 
+  - Gotas gruesas tienen menor relación entre superficie y volumen, lo que reduce su capacidad de absorción de energía.
+  - Gotas finas absorben energía y se evaporan antes de impactar el entorno.
+
+- **Distancia de aplicación**: 
+  - Si la distancia desde el surtidor hasta el entorno es corta, las gotas no reciben suficiente energía para evaporarse.
+
+- **Impacto con el entorno**: 
+  - Gotas que impactan superficies reducen su temperatura. Si la superficie está por encima de 100ºC, la gota se evaporará; de lo contrario, se laminará.
+
+## Efectividad en la Aplicación de Agua
+
+La efectividad de la aplicación de agua se mide en el porcentaje de agua que se evapora:
+
+- **Técnicas de dilución de gases**: 
+  - Buscan maximizar la transformación de agua en vapor.
+  
+- **Técnicas de enfriamiento**: 
+  - Deben evaporar el agua en el aire antes de impactar superficies. La escorrentía no es efectiva y puede ser perjudicial.
+
+- **Porcentaje de efectividad**: 
+  - Se estima entre **50% y 70%** dependiendo del entorno y el entrenamiento del personal.
+
+## Tamaño de la Gota
+
+El tamaño de la gota es crucial en la lucha contra incendios:
+
+- **Gotas pequeñas**: 
+  - Mayor tiempo en suspensión y mejor absorción de energía, pero menor alcance.
+  
+- **Gotas grandes**: 
+  - Mayor alcance, pero caen más rápido y tienen menor efectividad en el intercambio de calor.
+
+- **Tamaño óptimo**: 
+  - Entre **0,3 mm y 0,7 mm** para lograr un equilibrio entre alcance y capacidad de absorción de energía.
+
+## Influencia de la Ventilación
+
+El control de la ventilación es vital en operaciones de rescate y extinción:
+
+- **Beneficios**:
+  - Aumenta la visibilidad.
+  - Reduce la temperatura.
+  - Controla la potencia del incendio.
+  - Conduce el flujo de gases.
+
+- **Principio de Conservación de la Masa**:
+  - La masa de gases que sale es igual a la masa que entra más la masa de combustible que se convierte en gas.
+
+### Ecuación de Bernoulli
+
+La ecuación de Bernoulli se aplica al movimiento de fluidos en incendios:
+
+- **Fórmula**:
+  \[
+  P + \frac{1}{2} \rho v^2 + \rho g h = \text{constante}
+  \]
+  - Donde:
+    - \( P \) = presión estática [Pa]
+    - \( \rho \) = densidad del fluido [kg/m³]
+    - \( g \) = aceleración de la gravedad (9,81 m/s²)
+    - \( h \) = altura [m]
+    - \( v \) = velocidad del fluido [m/s]
+
+## Causas de la Movilidad de Gases de Incendio
+
+Los gases de incendio se mueven por:
+
+- **Flotabilidad**: 
+  - Gases menos densos tienden a flotar.
+
+- **Diferencias de presión**: 
+  - Generadas por temperatura y agentes externos.
+
+## Identificación de Flujos de Gases
+
+En incendios no confinados, se produce un movimiento de gases que incluye:
+
+- **Ruta de gases fríos**: Desde la entrada de ventilación hasta el foco del incendio.
+- **Ruta de gases calientes**: Gases de incendio buscando salida.
+
+### Ejemplo de Cálculo
+
+Calcular el efecto de flotabilidad de los gases de incendio a **500ºC**, asumiendo que a temperatura ambiente tienen la misma densidad que el aire (1,2 kg/m³).

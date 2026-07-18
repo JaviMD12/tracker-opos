@@ -1,0 +1,64 @@
+# Proceso de Licuefacción del Terreno
+
+## Características del Proceso
+- **Terrenos**: Blandos y saturados de agua, rellenos o suelos granulares flojos.
+- **Comportamiento**: El terreno actúa como un material líquido.
+
+## Análisis del Proceso
+### A Nivel Microscópico
+- **Presión del Agua**: Incremento de presión sobre partículas del suelo durante un sismo.
+- **Transformación**: El suelo se convierte en no cohesivo (ej. arenas).
+- **Movimiento de Partículas**: Materiales densos se decantan y los ligeros (lodos y agua) ascienden.
+
+### A Nivel Macroscópico
+1. **Salida de Agua y Fango**: Causada por vibraciones sísmicas.
+2. **Compactación de Arena**: Disminución del volumen.
+3. **Asentamientos y Deslizamientos**: Pérdida de resistencia de los estratos.
+
+# Efectos del Sismo en Edificaciones
+
+## Factores a Considerar
+- **Geometría de la Estructura**
+- **Rigidez del Elemento Constructivo**
+- **Materiales de Construcción**: Acero, hormigón, fábrica, madera.
+
+## Geometría
+- **Centro de Masas**: Distribución de masas y discontinuidades de rigidez.
+- **Simetría y Regularidad**: Importancia en la distribución de masas.
+- **Retranqueos**: Evitar retranqueos de fachada para mantener simetría.
+
+## Rigidez
+- **Efecto Pilar Corto**: Concentración de tensiones en pilares debido a muros.
+- **Efecto Piso Blando**: Riesgo en plantas diáfanas, especialmente en planta baja.
+- **Fenómeno Aplauso**: Desplazamiento impedido en edificaciones adosadas de diferentes alturas.
+- **Resonancia**: Incremento de efectos sísmicos por coincidencia de frecuencias.
+
+## Materiales de Construcción
+### Adobe
+- **Características**: Material pesado, poca trabazón, unión frágil.
+
+### Tapial
+- **Construcción**: Capas de tierra de 10-15 cm, mayor estabilidad que el adobe.
+
+### Estructuras de Fábrica
+- **Problemas**: Sensibilidad a esfuerzos de cortante y flexión.
+
+### Hormigón Armado
+- **Resistencia**: Buena a compresión, nula a tracción.
+- **Factores de Comportamiento**:
+  - Dosificaciones del hormigón.
+  - Cuantía y disposición del acero.
+  - Tipología del elemento constructivo.
+
+#### Forjados de Hormigón Armado
+- **Aspectos Positivos**: Conforman diafragmas rígidos.
+- **Aspectos Negativos**: Desmoronamiento inclinado de vigas.
+
+#### Pilares de Hormigón Armado
+- **Afectación**: Pilares de planta baja son los más vulnerables.
+- **Fallas**: Desprendimiento de hormigón y pandeo de armaduras.
+
+## Resumen de Datos Técnicos Clave
+- **Espesor de Tapial**: 10-15 cm.
+- **Efecto Piso Blando**: Riesgo mayor en planta baja diáfana.
+- **Resonancia**: A mayor altura, mayores efectos sísmicos.

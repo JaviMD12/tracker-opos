@@ -1,0 +1,128 @@
+# Parte 7. NRBQ
+
+## 3.1. Residuos Tóxicos Peligrosos (RTP)
+
+En España, los residuos tóxicos y peligrosos están regulados por la **Ley 20/1986, de 14 de mayo**, que define los RTP como:
+
+> "materiales sólidos, pastosos, líquidos, así como los gaseosos contenidos en recipientes, que, siendo el resultado de un proceso de producción, transformación, utilización o consumo, su productor destine al abandono y contengan en su composición alguna de las sustancias y materias que figuran en el anexo de la presente Ley en cantidades o concentraciones tales que representen un riesgo para la salud humana, recursos naturales y medio ambiente."
+
+### Identificación de Residuos
+
+Los residuos se identifican mediante un conjunto de códigos. La etiqueta debe contener:
+
+- **Código de identificación** de los residuos.
+- **Nombre, dirección y teléfono** del titular de los residuos.
+- **Fecha de envasado**.
+- **Naturaleza de los riesgos** con pictogramas:
+  - **Explosivo (E)**: bomba explosionando.
+  - **Comburente (O)**: llama encima de un círculo.
+  - **Inflamable (F)**: llama.
+  - **Fácilmente inflamable (F+)**: llama.
+  - **Tóxico (T)**: calavera sobre tibias cruzadas.
+  - **Nocivo (Xn)**: cruz de San Andrés.
+  - **Irritante (Xi)**: cruz de San Andrés.
+  - **Corrosivo (C)**: representación de un ácido.
+
+### Notificación de Traslado
+
+El productor o gestor debe remitir una notificación de traslado al órgano competente de la Comunidad Autónoma con al menos **10 días de antelación**. Debe incluir:
+
+- Cantidad.
+- Características.
+- Código de identificación de los residuos.
+
+### Ejemplos de Códigos de Residuos Tóxicos y Peligrosos
+
+| NÚMERO DE CÓDIGO | RESIDUOS                                       |
+|-------------------|------------------------------------------------|
+| 9                 | Mezclas aceite/agua o hidrocarburo/agua       |
+| 15                | Productos pirotécnicos y otras materias explosivas |
+| 38                | Baterías y pilas eléctricas                    |
+| Q9                | Residuos de procesos de control de la contaminación |
+| H7                | Cancerígeno                                    |
+
+## 3.2. Clasificación de las Mercancías Peligrosas
+
+### 3.2.1. Clase 1: Materias y Objetos Explosivos
+
+- **Riesgo principal**: posibilidad de explosión.
+- **Clasificación**: 
+  - 1.1 (más peligrosa) a 1.6 (menos peligrosa).
+
+### 3.2.2. Clase 2: Gases
+
+- **Clasificación según composición**:
+  - A: Asfixiante
+  - O: Comburente
+  - F: Inflamable
+  - T: Tóxico
+  - C: Corrosivo
+  - TF: Tóxico, inflamable
+  - TC: Tóxico, corrosivo
+  - TFC: Tóxico, inflamable, corrosivo
+
+### 3.2.3. Clase 3: Líquidos Inflamables
+
+- **Definición**: Líquidos con punto de inflamación ≤ 60ºC.
+- **Clasificación**:
+  - Muy peligrosas: Punto de ebullición < 35ºC (Grupo de embalaje I).
+  - Medianamente peligrosas: Punto de ebullición > 35ºC y < 23ºC (Grupo II).
+  - Poco peligrosas: Punto de ebullición > 35ºC y punto de inflamación 23ºC < 60ºC (Grupo III).
+
+### 3.2.4. Clase 4.1: Materias Sólidas Inflamables
+
+- Incluye:
+  - Materias y objetos sólidos fácilmente inflamables.
+  - Materias autorreactivas sólidas o líquidas.
+
+### 3.2.5. Clase 4.2: Materias que Pueden Experimentar Inflamación Espontánea
+
+- Materias que pueden inflamarse al contacto con el aire.
+
+### 3.2.6. Clase 4.3: Materias que en Contacto con el Agua Desprenden Gases Inflamables
+
+- Materias que reaccionan con agua produciendo gases inflamables.
+
+### 3.2.7. Clase 5.1: Materias Comburentes
+
+- Pueden causar incendios o explosiones.
+
+### 3.2.8. Clase 5.2: Peróxidos Orgánicos
+
+- Riesgo de ignición y explosión.
+- **Temperaturas a considerar**:
+  - **TDAA**: Temperatura de descomposición autoacelerada.
+  - **MMST**: Temperatura máxima de almacenamiento seguro.
+
+### 3.2.9. Clase 6.1: Materias Tóxicas
+
+- **Clasificación según toxicidad**:
+
+| Nivel de peligrosidad | Grupo de embalaje | Ingestión (DL50 mg/kg) | Absorción cutánea (DL50 mg/kg) | Inhalación (CL50 mg/l) |
+|-----------------------|-------------------|------------------------|--------------------------------|------------------------|
+| Muy tóxicas           | I                 | < 5                    | < 50                           | < 0.2                  |
+| Tóxicas               | II                | > 5 y < 50            | > 50 y < 200                   | > 0.2 y < 2            |
+| Menos tóxicas        | III               | > 50 y < 300          | > 200 y < 1000                 | > 2 y < 4              |
+
+### 3.2.10. Clase 6.2: Materias Infecciosas
+
+- Contienen agentes patógenos que pueden causar enfermedades.
+
+### 3.2.11. Clase 7: Materias Radiactivas
+
+- **Factores determinantes**: tiempo de exposición, capas de protección, distancia a la fuente radiactiva.
+- **Tipos de bultos**:
+  - Exceptuados
+  - Industriales
+  - Tipo A
+  - Tipo B
+  - Tipo C
+
+## Tabla 18. Tipos de Bultos de Transporte de Material Radiactivo
+
+| Tipo de bulto         | Condiciones rutinarias | Condiciones normales | A1 | A2 | Condiciones accidente |
+|-----------------------|------------------------|----------------------|----|----|-----------------------|
+| Bultos exceptuados    |                        |                      |    |    |                       |
+| Bultos tipo A        |                        |                      |    |    |                       |
+| Bultos tipo B        |                        |                      |    |    |                       |
+| Bultos tipo C        |                        |                      |    |    |                       |

@@ -1,0 +1,78 @@
+# Técnicas de Ventilación en Incendios
+
+## Tipos de Ventiladores
+
+### 1. Ventiladores Eléctricos
+- **Conectados a generador o red eléctrica**: 
+  - Ventajas: Silenciosos, sin gases de combustión, aislables a nivel ATEX.
+  - Desventajas: Dependencia de cableado eléctrico, potencias inferiores a motores térmicos.
+  
+- **A batería**: 
+  - Ventajas: Portabilidad.
+  - Desventajas: Potencia y autonomía limitadas, solo como ventilador auxiliar.
+
+### 2. Ventiladores Hidráulicos
+- **Por turbina**: 
+  - Utilizan agua de la bomba de bomberos.
+  - Ventajas: Sin gases de escape, adecuados para extracción.
+  - Desventajas: Requieren logística mayor y esfuerzo para instalación.
+
+- **Generada por flujo de manguera**: 
+  - Movimiento de gases por arrastre de agua.
+  - Ventajas: Puede ser útil en ventilación final tras extinguir el incendio.
+
+## Clasificación Táctica de Ventilación Forzada
+### 1. Ventilación Defensiva
+- **Objetivo**: No atraviesa el foco del incendio, evitando aporte adicional de oxígeno.
+
+### 2. Ventilación Ofensiva
+- **Objetivo**: Atraviesa el foco del incendio, introduciendo aire fresco y potenciando el crecimiento del fuego en incendios ILV.
+
+## Ventilación en Presión Positiva (VPP)
+
+### 1. VPP Defensiva
+- **Descripción**: Establece un flujo de gases que no atraviesa el foco del incendio.
+- **Ventajas**:
+  - Mejora la supervivencia de víctimas.
+  - Permite operaciones de búsqueda con visibilidad.
+  - Asegura rutas de escape.
+- **Pasos**:
+  1. Confinamiento del incendio.
+  2. Apertura de salida de gases.
+  3. Apertura de entrada de aire fresco.
+  4. Inicio de la ventilación.
+  5. Valoración del funcionamiento.
+  6. Progresión interior rápida.
+  7. Búsqueda y rescate.
+
+### 2. VPP Ofensiva
+- **Descripción**: Establece un flujo de gases que atraviesa el foco del incendio.
+- **Ventajas**:
+  - Mejora la visibilidad.
+  - Aumenta la supervivencia de víctimas.
+  - Reduce la temperatura.
+  - Disminuye la cantidad de combustible.
+- **Pasos**:
+  1. Apertura de salida de gases.
+  2. Apertura de entrada de aire fresco.
+  3. Inicio de la ventilación.
+  4. Valoración del funcionamiento.
+  5. Progresión interior rápida.
+  6. Control del incendio.
+
+### 3. Presurización de Recintos
+- **Descripción**: Crea diferenciales de presión para proteger zonas anexas del incendio.
+- **Ventajas**: Evita la entrada de gases de incendio en zonas presurizadas.
+
+## Uso de Ventiladores de Presión Positiva
+- **Funcionamiento**: Crea un flujo de aire a gran velocidad.
+- **Huella del Ventilador**:
+  - Campo de vectores en movimiento.
+  - Dos zonas: Dardo a alta velocidad y bulbo de aire succionado.
+
+## Consideraciones de Seguridad
+- Coordinar VPP con técnicas de aplicación de agua.
+- Prever crecimiento del incendio.
+- No situar personal en la ruta caliente de gases.
+- Abrir salida de gases primero para evitar mezcla de gases.
+- No emplear en condiciones de backdraft inminente o combustibles volátiles.

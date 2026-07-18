@@ -1,0 +1,83 @@
+# Parte 7. NRBQ
+
+## Caracterización
+
+### Etiquetado de Botellas de Gases
+
+- **Color de la parte inferior de la botella**: Libre aplicación, excepto en gases medicinales (Norma ISO 32). No informa sobre riesgos y puede ser elegido por el fabricante, siempre que no genere confusión con colores de riesgo.
+- **Información en la etiqueta**: Contiene toda la información del recipiente, producto y sus riesgos.
+- **Colores de ojivas**:
+  - **Tóxico/corrosivo**: Amarillo
+  - **Inerte (argón y mezclas)**: Verde intenso
+  - **Inflamable**: Rojo
+  - **Oxidante**: Azul claro
+
+### Gases Habituales y sus Colores
+
+| Gas                | Color     |
+|--------------------|-----------|
+| Oxígeno            | Blanco    |
+| Dióxido de carbono  | Gris      |
+| Nitrógeno          | Negro     |
+| Óxido nitroso      | Azul      |
+| Hidrógeno          | Rojo      |
+| Helio              | Marrón    |
+
+### Sentidos en la Valoración de Mercancías Peligrosas
+
+- **Vista**: Responsable del 83% de la percepción. Observación de colores, etiquetas y formas del recipiente.
+- **Oído**: Puede alertar sobre escapes en válvulas o roturas.
+- **Olfato**: Algunos gases se odorizan para detectar fugas.
+
+### Documentación de Transporte de Mercancías Peligrosas
+
+#### Carta de Porte
+
+- **Definición**: Documento que verifica un contrato de transporte.
+- **Obligatoriedad**: Debe llevarse siempre que se transporten mercancías peligrosas, salvo en Exención Total (Cantidades Limitadas).
+- **Contenido**: Número de envases, cantidad por envase, clase, residuos, temperatura, etc.
+- **Lenguaje**: Redactada en la lengua oficial del país y en inglés, francés o alemán si es necesario.
+
+#### Fichas de Datos de Seguridad (FDS)
+
+- **Importancia**: Proporcionan información sobre riesgos de materiales químicos.
+- **Contenido Obligatorio**:
+  1. Identificación de la sustancia y empresa.
+  2. Composición.
+  3. Peligros potenciales.
+  4. Primeros auxilios.
+  5. Medidas contra incendios.
+  6. Medidas en caso de vertido.
+  7. Condiciones de manipulación y almacenamiento.
+  8. Control de exposición/protección individual.
+  9. Propiedades físico-químicas.
+  10. Estabilidad y reactividad.
+  11. Información toxicológica.
+  12. Información ecológica.
+  13. Consideraciones de eliminación.
+  14. Información de transporte.
+  15. Información reglamentaria.
+  16. Otras informaciones.
+
+### Otros Documentos de Interés
+
+- **Fichas del Ministerio del Interior**: Publicadas en el BOE, proporcionan criterios homogéneos para intervenciones en emergencias.
+- **Fichas del Gobierno Vasco**: Incluyen características, propiedades, almacenamiento y salud para la toma de decisiones en intervenciones.
+
+### Ejemplo de Carta de Porte
+
+| Expedidor                | Destinatario             |
+|--------------------------|--------------------------|
+| Transportes de gasóleos S.A. | Industria del Chipirón  |
+
+| Nº ONU | Designación oficial | Etiqueta | Grupo de embalaje | Cantidad cargada (litros) |
+|--------|---------------------|----------|-------------------|---------------------------|
+| UN 1203 | GASOLINA           | 3        | II                | 10,000                    |
+| UN 1223 | QUEROSENO          | 3        | III               | 14,000                    |
+| UN 1202 | GASÓLEO            | 3        | III               | 12,000                    |
+
+### Notas Adicionales
+
+- **Número ONU**: Identificación de mercancías peligrosas.
+- **Número CAS**: Identificación única para compuestos químicos.
+- **Número EINECS**: Registro en la Lista Europea de Sustancias Químicas Notificadas.

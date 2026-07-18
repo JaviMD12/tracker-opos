@@ -1,0 +1,67 @@
+# Parte 7. NRBQ
+
+## Caracterización
+
+### Sección
+
+El ADR estipula que, en función de las materias a transportar, su estado y la presión en el interior, la cisterna tendrá la forma que mejor aguante las cargas.
+
+#### Tipos de Sección (ADR)
+
+| TIPO                  | CARACTERÍSTICAS                                                                 |
+|-----------------------|---------------------------------------------------------------------------------|
+| **POLICÉNTRICA**     | Poca presión interior. Máxima carga con menos longitud. Lateral poco resistente. |
+| **OVALADA**          | Poca presión interior. Más metros lineales para igual capacidad.                |
+| **CIRCULAR CON FONDO SEMIESFÉRICO** | MM.PP. muy peligrosas. Se comporta mejor en accidentes.              |
+| **CIRCULAR CON FONDO ESFÉRICO** | Presión interior alta. Mejor comportamiento en accidentes.                |
+| **ESPECIAL**         | Mayor volumen de carga. Muy común en granulados. Algunos tienen cuello cisne.   |
+
+### Presiones
+
+- **Presión de cálculo**: Presión ficticia que iguala, como mínimo, a la presión de prueba.
+- **Presión de prueba**: Presión ejercida en la prueba de presión de la cisterna.
+- **Presión de servicio**: Presión estabilizada de un gas comprimido a 15º C.
+- **Presión máxima de servicio**: Indicada por el más alto de los siguientes valores:
+  - Presión máxima autorizada de llenado.
+  - Presión máxima autorizada de vaciado.
+  - Presión manométrica efectiva a la temperatura máxima de servicio.
+
+> **Nota**: El valor numérico de la presión máxima de servicio no debe ser inferior a la tensión de vapor de la materia a 50º C.
+
+### Grado de Llenado
+
+El grado de llenado es la relación entre la masa de gas y la masa de agua a 15º C que llena un recipiente a presión. Ejemplos de límites de grado de llenado:
+- **Oxígeno líquido**: 98%
+- **Gasóleo**: 97%
+- **Gases Licuados del Petróleo**: 85%
+
+## Tipos de Cisternas
+
+### Clasificación según materiales de construcción
+
+Los materiales de las cisternas deben tener las siguientes propiedades:
+- **Resistencia mecánica**: Capacidad para soportar esfuerzos con menor espesor.
+- **Estabilidad térmica**: Deben soportar temperaturas criogénicas (-170º C).
+- **Resistencia química**: Deben resistir el ataque de productos corrosivos.
+
+#### Exigencias ADR de espesor del depósito según material
+
+| Diámetro del depósito | ≤ 1.80 m | > 1.80 m |
+|-----------------------|----------|-----------|
+| Aceros inoxidables austeníticos | 2.5 mm  | 3 mm     |
+| Aceros inoxidables austeno-ferricos | 3 mm  | 4 mm     |
+| Otros aceros         | 3 mm     | 4 mm     |
+| Aleaciones de aluminio | 4 mm    | 5 mm     |
+| Aluminio de pureza 99,80% | 6 mm  | 8 mm     |
+
+### Clasificación según número de compartimentos
+
+- **Cisternas sin compartimentar**: Un único depósito, común en el transporte de gases.
+- **Cisternas compartimentadas**: Divididas por mamparos, pueden tener de 2 a 7 compartimentos.
+
+### Clasificación según forma, capacidad y uso
+
+- **Contenedor cisterna**: Capacidad superior a 0.45 m³ (450 litros) para gases.
+- **Cisterna portátil**: Cumple exigencias del IMDG, capacidad superior a 450 litros.
+- **Cisterna desmontable**: Capacidad superior a 450 litros, no diseñada para el transporte sin operaciones intermedias.
+- **Cisterna fija**: Capacidad superior a 1000 litros, puede ser externa a un vehículo o parte del chasis.

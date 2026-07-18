@@ -1,0 +1,67 @@
+# Flujo de Gases en Incendios
+
+## Tabla 6. Flujo de Gases
+
+### Ruta Fría
+- Buena visibilidad.
+- Baja temperatura.
+- Alta concentración de oxígeno (aumento de potencia en ILV).
+- Buenas condiciones de supervivencia.
+
+### Ruta Caliente
+- Baja visibilidad.
+- Alta temperatura.
+- Alta concentración de gases tóxicos.
+- Gases potencialmente inflamables.
+- Condiciones de supervivencia críticas.
+
+## Principio de Conservación de la Masa
+La masa de aire en movimiento (kg/s) es constante en cualquier sección del flujo de gases. Sin embargo, el volumen (m³/s) será mayor en el flujo de gases calientes, ya que la misma masa de gases a alta temperatura ocupa mayor volumen.
+
+## Flujos Unidireccionales
+- Se producen cuando hay aperturas de ventilación por encima o por debajo del plano neutro.
+- **Flujo de entrada**: por debajo del plano neutro (zona de presiones negativas).
+- **Flujo de salida**: por encima del plano neutro (zona de presiones positivas).
+- Se requieren al menos dos aperturas: una de entrada y otra de salida.
+
+## Flujos Bidireccionales
+- Se forman en aperturas que abarcan zonas por encima y por debajo del plano neutro.
+- **Flujo de salida**: por encima del plano neutro.
+- **Flujo de alimentación**: por debajo del plano neutro.
+
+## Patrones de Ventilación
+### a) Antiventilación
+- En incendios confinados, no existe flujo de gases al exterior.
+- Movimiento de fluidos interno generado por la convección del foco del incendio.
+- Cuando se alcanza el régimen de ILV, la concentración de oxígeno cae y la potencia del incendio se reduce.
+
+### b) Ventilación Natural
+- En incendios no confinados, se establecen flujos unidireccionales o bidireccionales.
+- La potencia del incendio depende del tamaño y geometría de las aperturas.
+
+### c) Incendios Dominados por el Viento
+- La presión en la fachada en barlovento es mayor que en la fachada a sotavento.
+- A velocidades de viento de 6 m/s (21 km/h), la diferencia de presión puede ser de 25-30 Pa.
+- Generan incendios sobrealimentados y flujos de gases menos intuitivos.
+
+### d) Incendios bajo Ventilación por Presión Positiva (VPP)
+- Uso de ventiladores de presión positiva para establecer un flujo de gases unidireccional.
+- Aumento de potencia del incendio puede llegar hasta un 60%.
+- Efectos de barrido y enfriamiento/dilución contribuyen a la extinción.
+
+## Influencia de la Presurización de Recintos
+
+### Presiones en el Recinto de Incendio
+- Diferencias de presión generadas por la flotabilidad de gases calientes.
+- **Ecuación de Bernoulli**: \( \rho gh \) (donde \( \rho \) es la densidad, \( g \) es la gravedad y \( h \) es la altura).
+
+### Ejemplo de Diferencial de Presión
+- En un incendio ventilado, los diferenciales de presión (Pi - Po) varían de -15 Pa a +30 Pa.
+- Un incendio confinado puede experimentar presiones negativas y no presentar humo.
+
+### Ventiladores de Presión Positiva
+- Valores típicos de diferencial de presión generados por un ventilador de presión positiva de 18”-21” varían entre 15 Pa y 30 Pa.
+
+## Conclusiones
+- La ventilación debe coordinarse con las labores de extinción mediante la aplicación de agua.
+- La ausencia de humo no indica la ausencia de incendio, especialmente en incendios confinados.

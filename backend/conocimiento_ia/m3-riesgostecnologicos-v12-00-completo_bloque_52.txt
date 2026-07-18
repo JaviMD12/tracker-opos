@@ -1,0 +1,77 @@
+# Estabilización de Estructuras
+
+## Estabilización del Muro y Cubierta
+- **Fase 1**: Asegurar la vivienda y el talud en trasdós del muro.
+- **Cargas a estabilizar**:
+  - **Cubierta**:
+    - Acciones permanentes: **3 kN/m²** (peso propio).
+    - Acciones variables: **2 kN/m²** (sobrecarga climatológica).
+    - **Total**: **5 kN/m²**.
+
+## Apuntalamiento
+- **Dónde apuntalar**:
+  - **Apeo exterior**: No viable por altura y falta de apoyo.
+  - **Apeo interior**: Única opción factible.
+
+## Técnicas Disponibles
+- **Apeo estandarizado**: No disponible para evitar desplazamiento.
+- **Apeo de urgencia**:
+  - **Cuerdas de escalada**: **20 kN/unidad**.
+  - **Tracteles Tilfor**:
+    - **T 13**: Cable Ø11,5 mm → **78,4 kN/unidad**.
+    - **T 35**: Cable Ø16,3 mm → **156,8 kN/unidad**.
+
+## Cálculo de Fuerzas
+- **Condición para equilibrar empuje (E) y fuerza de tracción (F)**:
+  - \( F \cos(\beta) = E \cos(\alpha) \)
+- **Inclinaciones**:
+  - \( \alpha = 45^\circ \) → \( \cos(45) = 0,71 \)
+  - **Dimensiones de la cubierta**:
+    - Luz (a): **3 m**
+    - Flecha (b): **4 m**
+    - Longitud del par (c): **5 m**
+    - Superficie de la cubierta: **10 m²**
+    - Empuje (E): **50 kN**.
+
+## Cálculo de Tirantes
+- **Fuerza en tirante**:
+  - \( F \cos(30) = E \cos(45) \)
+  - \( F = \frac{60 \, kN \times 0,71}{0,87} = 48,96 \, kN \)
+- **Opciones de apeo**:
+  - **Cuerdas de escalada**: \( \frac{48,96 \, kN}{20 \, kN/unidad} = 2,45 \) → **3 unidades**.
+  - **Tractel Tilfor**: Un solo tractel (T13 o T35) es suficiente.
+
+## Análisis de Casos Prácticos
+### Amenaza de Mecanismo en Vivienda Elevada
+- **Descripción**: Vivienda unifamiliar sobre terreno expansivo y pendiente.
+- **Problemas**: Desprendimiento de cruces de San Andrés por corrimiento del terreno.
+- **Causas**:
+  - Fallo en la estabilización por falta de muro de contención.
+  - Descalce de cimentación de la pasarela.
+
+### Estimación de Cargas
+- **Acciones permanentes**: Empuje del terreno estimado en **5 kN/m** por cada metro de profundidad.
+- **Tabla de empuje del terreno**:
+  - 1 m: **4,9 kN/m²**
+  - 2 m: **9,8 kN/m²**
+  - 3 m: **14,7 kN/m²**
+
+## Objetivos de Estabilización
+- Corregir desplazamiento horizontal y ejecutar un muro de contención.
+
+## Técnicas Disponibles para Estabilización
+- **Soluciones inviables**: Apeo estandarizado y arriostramiento por cables.
+- **Soluciones posibles**: Reparar la viga dañada de la pasarela.
+
+## Empujes sobre Estructura por Acciones Accidentales
+- **Descripción**: Cubierta de pabellón afectada por incendio.
+- **Fases de la patología**:
+  - **Fase 0**: Estructura hiperestática.
+  - **Fase 1**: Rotura de tirante → Estructura isostática.
+  - **Fase 2**: Giro del muro → Mecanismo.
+
+## Causas de la Patología
+- Dilatación de la estructura de acero y del muro de fábrica durante el incendio.
+
+## Objetivos
+- Detener la rotación del muro de carga afectado.

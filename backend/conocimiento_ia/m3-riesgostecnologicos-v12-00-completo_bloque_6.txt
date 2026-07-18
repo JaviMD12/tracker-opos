@@ -1,0 +1,100 @@
+# Caracterización del Hormigón y Elementos de Fábrica
+
+## Cono de Abrams
+- **Tamaño máximo del árido**: en mm, fundamental para la penetración del hormigón entre elementos armados.
+
+## Ambiente de Exposición
+- **Clases generales**: I, IIa, IIb, IIIa, IIIb, IIIc y IV (corrosión por cloruros).
+- **Clases específicas**: Qa, Qb, Qc (exposición química), H (hielo), F (fundentes), E (abrasión).
+
+## Consistencia de los Hormigones Frescos
+| Consistencia | Asiento en cono de Abrams (cm) | Compactación |
+|--------------|----------------------------------|--------------|
+| Seca         | 0 – 2                            | Vibrado      |
+| Plástica     | 3 – 5                            | Vibrado      |
+| Blanda       | 6 – 9                            | Picado con barra |
+| Fluida       | 10 – 15                          | Picado con barra |
+| Líquida      | 16 - 20                          | Picado con barra |
+
+## Ejemplo de Hormigón
+- **HA-25/S/20/IIa**: 
+  - Resistencia característica a la compresión a 28 días: **25 N/mm²**.
+  - Consistencia: plástica.
+  - Tamaño de árido: **20 mm**.
+  - Exposición tipo de ambiente: IIa.
+
+## Proceso de Ejecución del Hormigón
+1. **Encofrado**: Conformación de un molde estanco y resistente.
+2. **Vibrado**: Mezcla adecuada y expulsión de burbujas de aire.
+3. **Curado**: Proceso de hidratación que da lugar a un producto final de consistencia pétrea.
+4. **Fraguado**: Transformación de consistencia plástica a sólido. 
+   - **Duración**: 2-8 horas.
+5. **Curado/Endurecimiento**: 
+   - **24-48 horas**: 50% de resistencia.
+   - **1 semana (7 días)**: 75% de resistencia máxima.
+   - **4 semanas (28 días)**: Prácticamente resistencia total.
+   - **Tiempo mínimo de puesta en carga**: **2 semanas (14-15 días)**.
+
+## Aditivos
+- **Definición**: Sustancias añadidas para modificar características del hormigón.
+- **Tipos**:
+  - **Reductores de agua / Plastificantes**: Disminuyen contenido de agua o aumentan trabajabilidad.
+  - **Superplastificantes**: Disminuyen significativamente el contenido de agua sin modificar trabajabilidad.
+  - **Modificadores de fraguado**: Aceleradores y retardantes.
+  - **Inclusores de aire**: Mejoran comportamiento frente a heladas.
+  - **Multifuncionales**: Modifican más de una función.
+
+## Elementos Auxiliares
+- **Separadores**: Elevan el armado sobre el encofrado.
+- **Distanciadores**: Aseguran recubrimiento total de armaduras.
+- **Pasamuros**: Evitan adherencias en el encofrado.
+- **Conectores**: Conexión entre elementos de un forjado mixto.
+- **Berenjenos**: Matan los vivos de esquinas.
+- **Setas**: Protección de extremos de armaduras.
+- **Pasatubos**: Facilitan pasos de instalaciones.
+- **Cartuchos de fijación**: Para barandillas auxiliares.
+
+## Comparativa de Resistencia de Conglomerados
+| Material      | Resistencia (N/mm²) |
+|---------------|----------------------|
+| Cemento       | 32,5 - 52,5          |
+| Mortero       | 1,0 - 25,0          |
+| Hormigón      | ≥ 20,0 - 50,0 (100,0) |
+
+### Observaciones
+- La resistencia del mortero se reduce un **50%** respecto al cemento.
+- La adición de árido en hormigón incrementa la resistencia a **20,0 - 50,0 N/mm²** y hasta **100,0 N/mm²** en hormigones de alta resistencia.
+
+## Elementos de Fábrica
+### Tipos de Fábrica según Material
+1. **Fábrica de Piedra**
+   - **Sillar**: Alta resistencia a compresión.
+   - **Sillarejo**: Tipologías estructurales con menor tamaño.
+   - **Mampuesto**: Uso de piedras sin labrar.
+
+### Resistencia de Modelos de Fábrica de Piedra
+| Tipología de Fábrica       | Coeficiente de Trabajo (kN/mm²) |
+|----------------------------|----------------------------------|
+| Sillería de granito        | 40 a 50                          |
+| Sillería de arenisca       | 20 a 25                          |
+| Sillería de caliza        | 5 a 15                           |
+| Mampostería de granito     | 10 a 15                          |
+| Mampostería de caliza      | 6 a 10                           |
+
+2. **Fábrica a Base de Arcilla**
+   - **Adobe**: Ladrillo de barro, secado al sol.
+   - **Ladrillo Cerámico**: Cocido a altas temperaturas (350º C).
+
+### Características del Ladrillo
+- **Dimensiones Comunes**:
+  - Normalizado: **25 x 12 x 5 cm**.
+  - Métrico: **24 x 11,5 x 5,25 / 7 / 3,5 cm**.
+  - Catalán: **29 x 14 x 5,2 / 7,5 / 6 cm**.
+- **Tipos de Ladrillo**:
+  - **Macizo**: Superficie máxima del 10% perforada.
+  - **Perforado**: Entre el 10% y el 33% de superficie perforada.
+  
+### Observaciones
+- **Aislamiento térmico**: Similar al adobe.
+- **Durabilidad**: Elevada en ladrillos cerámicos.
+- **Mantenimiento**: Nulo en ladrillos cerámicos.

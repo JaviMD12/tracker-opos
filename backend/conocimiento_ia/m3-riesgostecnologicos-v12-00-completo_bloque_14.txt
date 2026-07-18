@@ -1,0 +1,68 @@
+# Edificaciones
+
+## Elementos de Contención
+
+### 1. Muros de Contención
+- **Definición**: Elementos destinados a mantener diferencias de niveles en el terreno, transmitiendo empujes laterales.
+- **Geometría**: 
+  - Trabajan a compresión pura y/o flexión.
+  - Tipos:
+    - **Muros a compresión**: Por gravedad.
+    - **Muros a flexión**: En L, ménsula, con zarpa, etc.
+    - **Muros a flexocompresión**: Con placas, contafuertes, por bataches, etc.
+- **Elementos**:
+  - **Trasdós**: Contacto con el terreno.
+  - **Intradós**: Superficie visible.
+  - **Puntera**: Parte bajo el intradós, evita giros.
+  - **Tacón**: Parte del cimiento en el suelo, sujeta esfuerzos horizontales.
+  - **Talón**: Parte opuesta a la puntera, contrarresta giros.
+  - **Alzado o cuerpo**: Parte que se levanta, trabaja a flexión.
+- **Rigidez**:
+  - Construcción desde la parte inferior.
+  - Anclaje mediante cimentación directa.
+  - Estabilización por peso de tierras y oposición de la puntera.
+- **Materiales**: Hormigón en masa o armado, mampostería.
+
+### 2. Pantallas de Contención
+- **Definición**: Elementos que permiten excavaciones verticales y eliminan filtraciones de agua.
+- **Geometría**: 
+  - Espesor despreciable frente a altura y longitud.
+  - Funciona a flexión.
+- **Rigidez**:
+  - Construcción por bataches discontinuos.
+  - Anclaje empotrado en el terreno (1/3 de altura).
+  - Elementos de sujeción recomendados para excavaciones > 3-4 m.
+- **Tipologías**:
+  - **Pantallas in situ**: Continuas de hormigón, pilotes, prefabricados.
+- **Materiales**: Hormigón armado (pretensado/postensado).
+
+## Tipologías de Sistemas Estructurales
+
+### 1. Sistemas Adintelados
+- **Definición**: Forjados que transmiten cargas a muros.
+- **Características**:
+  - Estructuras isostáticas.
+  - Elementos:
+    - **Verticales**: Muros de carga.
+    - **Horizontales**: Viguetas, vigas.
+- **Materiales**: Ladrillo cerámico, bloque de hormigón, viguetas de madera/acero/hormigón.
+
+### 2. Sistemas Entramados
+- **Definición**: Estructuras formadas por elementos de pequeña sección.
+- **Características**:
+  - Estructuras hiperestructuradas.
+  - Elementos:
+    - **Verticales**: Pilares.
+    - **Horizontales**: Vigas.
+- **Materiales**: Hormigón armado, acero.
+
+### 3. Sistemas Triangulados
+- **Definición**: Estructuras reticulares de barras interconectadas.
+- **Características**:
+  - Cargas aplicadas en nudos, trabajando a compresión y tracción.
+- **Materiales**: Dependiendo de la aplicación, común en edificaciones industriales.
+
+## Imágenes
+- **Muros de Contención**: Tipos y esquemas.
+- **Pantallas de Contención**: Ejecución y anclajes.
+- **Sistemas Estructurales**: Ejemplos de adintelados, entramados y triangulados.

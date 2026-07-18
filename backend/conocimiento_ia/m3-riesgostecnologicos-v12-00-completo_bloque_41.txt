@@ -1,0 +1,72 @@
+# Apeo en Estructuras
+
+## 1. Continuidad Estructural
+- **Apeo de forjados**: Al apeo de un forjado, deben apearse también los forjados situados debajo para transmitir las cargas a terreno firme o a otro nivel resistente (mínimo dos forjados sanos por debajo del dañado).
+
+## 2. Variantes de Apeo
+### I. Apeo para Forjado sin Apoyo en el Piso Inferior
+- **Apeo de puente alta**: Sopanda apoyada en un puente jabalconado.
+- **Apeo en aspa**: Jabalcones apean directamente sobre la sopanda.
+- **Apeo de pescante**: Madero en voladizo simétrico, soportando las sopandas de crujías contiguas.
+- **Apeo viga-puente**: Viga o jácena apoya en el centro a la sopanda.
+
+### II. Apeos de Jácenas y Vigas Maestras
+- **Apeo para jácenas**: Utilizar pies derechos con sopanda y durmiente en dirección perpendicular a los nervios de la estructura.
+- **Continuidad del apeo**: Debe llegar hasta terreno firme o mínimo dos forjados sanos por debajo.
+- **Condiciones adicionales**:
+  - Si no se puede apeo directo, descargar todos los forjados que soporta.
+  - Para vigas de gran carga, usar asnillas o puentes de apeo.
+
+### III. Apeo de Muros
+- **Modelos básicos**:
+  - **Tornapuntas simples**: Evitan el cedimiento de muros de fachada.
+  - **Tornapuntas a varias alturas**: Para apeos de gran altura.
+  - **Apeo con asnillas**: Para descargar la parte inferior de un muro dañado.
+  - **Acodalado de muros**: Estabilización para evitar el vuelco.
+
+### IV. Apeo de Pilares
+- **Geometría**: Colocar dos pies derechos adosados al pilar para transmitir carga a vigas del forjado inferior.
+- **Prescripciones**:
+  - Alinear pies derechos en todas las plantas.
+  - Calcular capacidad resistente del forjado.
+- **Soluciones básicas**:
+  - Tornapuntado de la cabeza de los pilares.
+  - Ejecución de un puente o tornapuntas sin transmisión a muros de carga.
+
+### V. Apeo de Cimientos
+- **Sistemas básicos**:
+  - **A compresión**: Tornapunta y puntales.
+  - **A flexión**: Agujas.
+- **Zapatas corridas**:
+  - Accesibles: Apeo mediante agujas.
+  - Inaccesibles: Uso de agujas trabajando en palanca.
+- **Zapatas aisladas**:
+  - Centro del edificio: 2/4 tornapuntas.
+  - Medianería: Puntales paralelos.
+  - Esquina: Puntales internos y tornapuntas externos.
+
+### VI. Otros Apeos
+- **Elementos de generatriz curva**: Arcos y bóvedas.
+  - **Apeo de arcos**: Ajustarse a la generatriz del arco.
+  - **Apeo de bóvedas y cúpulas**: Sucesión de cimbras.
+
+## Notas Generales
+- **Capacidad mecánica**: Conjunto elemental tiene capacidad de 20 kN (carga puntual horizontal a 2 m de altura).
+- **Acciones a considerar**:
+  - Muros expuestos a viento: 1.5 kN/m².
+  - Cargas de depósitos de agua según profundidad.
+  - Contención de tierras según tipo de suelo y profundidad.
+
+## Ejemplo de Cálculo de Distancia entre Conjuntos
+- **Fórmula**: 
+  \[
+  d = \frac{\text{capacidad apeo}}{\text{carga} \times \text{altura}} = \frac{20 \text{ kN}}{c \times h}
+  \]
+- **Distancia máxima**: No exceder 4 m.
+
+## Ejecución de Estructuras Auxiliares
+### 3.1. Dimensionado
+- Seleccionar puntales y durmientes para transmitir todas las cargas al terreno.
+
+### 3.2. Toma de Medidas y Cortes
+- Determinar dimensiones y ángulos de las piezas usando herramientas adecuadas.

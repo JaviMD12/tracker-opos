@@ -1,0 +1,69 @@
+# Teoría del fuego
+
+## Sensación térmica y temperatura
+- **Calor**: Energía producida por la interacción de las moléculas de la materia.
+- **Temperatura**: Manifestación del grado de calor que alcanzan los cuerpos.
+
+## Unidades de calor
+- **Caloría (cal)**: Cantidad de calor necesaria para elevar 1°C la temperatura de 1 gramo de agua (entre 14,5° y 15,5° C a presión atmosférica normal).
+- **Kilocaloría (kcal)**: 1.000 calorías.
+- **Megacaloría (Mcal)**: 1.000.000 calorías o 1.000 kilocalorías.
+- **Conversión**:
+  - 1 cal = 4,1868 J
+  - 1 J = 0,24 cal
+
+## Calor específico
+- **Definición**: Cantidad de calor necesaria para elevar 1°C la temperatura de 1 gramo de una sustancia.
+- **Fórmula**: 
+  \[
+  C = \text{Masa} \times \text{Calor específico}
+  \]
+
+## Escalas de temperatura
+- **Celsius (°C)**: 0°-100° C
+- **Réaumur (°R)**: 0°-80° R
+- **Fahrenheit (°F)**: 32°-212° F
+- **Kelvin (K)**: 273°-373° K
+
+### Conversiones entre escalas
+- \( °F = °C \times 1,8 + 32 \)
+- \( °C = (°F - 32) ÷ 1,8 \)
+- \( °C = K - 273,15 \)
+- \( K = °C + 273,15 \)
+
+## Efectos del calor sobre los cuerpos
+### Dilatación
+- **Dilatación lineal**: Aumento de longitud.
+  - **Fórmula**: 
+    \[
+    \Delta L = L - L_0
+    \]
+- **Dilatación superficial**: Aumento de superficie.
+  - **Fórmula**: 
+    \[
+    \Delta S = S - S_0
+    \]
+- **Dilatación cúbica**: Aumento de volumen.
+  - **Fórmula**: 
+    \[
+    \Delta V = V - V_0
+    \]
+
+### Cambios de estado
+- **Progresivos**: Absorción de calor.
+  - Fusión, Vaporización, Sublimación.
+- **Regresivos**: Liberación de calor.
+  - Solidificación, Condensación, Sublimación regresiva.
+
+## Gases en combustión
+- **Dióxido de carbono (CO₂)**: Gas no inflamable, asfixiante en grandes concentraciones.
+  - **Punto de fusión**: -78 °C
+  - **Punto de ebullición**: -57 °C
+  - **Densidad relativa**: 1,52 (más pesado que el aire).
+
+- **Monóxido de carbono (CO)**: Gas incoloro, inflamable y explosivo.
+  - **Vías de ingreso**: Respiratoria.
+  - **Patología**: Forma carboxihemoglobina (COHb) en la sangre.
+
+- **Cianuro de hidrógeno (HCN)**: Gas incoloro, explosivo en mezclas de 5% a 40% con aire.
+  - **Vías de ingreso**: Respiratoria, digestiva, cutánea.

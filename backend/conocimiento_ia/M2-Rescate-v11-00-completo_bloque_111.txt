@@ -1,0 +1,72 @@
+# Rescate y Búsqueda en Grandes Áreas
+
+## Métodos de Posicionamiento y Localización
+- **Coordenadas Geográficas**
+  - Divisiones: cortes paralelos (paralelos) y meridianos.
+  - Referencias: 
+    - **Altitud**: ecuador (paralelo central).
+    - **Latitud**: meridiano "0" (Greenwich).
+  - Medidas:
+    - **Altitud**: 90º al norte y 90º al sur desde el ecuador.
+    - **Latitud**: 180º al este y 180º al oeste desde Greenwich.
+    - Un grado = 60 minutos; un minuto = 60 segundos.
+
+- **Coordenadas UTM (Universal Transverse Mercator)**
+  - Proyección del elipsoide sobre un cilindro.
+  - Excluye polos (80º sur a 80º norte).
+  - Divisiones:
+    - 60 husos de 6º (este a oeste).
+    - 20 bandas de 8º (norte a sur).
+  - Cada cuadrado: 1000 x 1000 metros.
+  - Ejemplo de coordenadas: X 543.831 Y 4.496.168.
+
+## Determinación de Posición
+- Establecer ubicación exacta mediante GPS o triangulación de accidentes geográficos.
+
+## Orientación
+- Identificación de puntos cardinales:
+  - **Brújula**: señala el norte magnético (diferente del geográfico).
+  - **Azimut**: representación del rumbo en el mapa.
+  - **Declinación magnética**: diferencia entre norte geográfico y magnético.
+
+## Navegación
+- Conjunto de rumbos para llegar a un destino.
+- Uso de tecnología GPS para localización y navegación.
+
+## Herramientas
+### Brújula
+- Esfera con Rosa de los Vientos, dividida en 360º.
+- Uso:
+  1. Levantar tapa y mirar por la lente.
+  2. Determinar rumbo y descontar declinación magnética.
+
+### GPS
+- Funciones:
+  - **Localización**: representación en cartografía digital.
+  - **Navegación**: guía hacia un destino preestablecido.
+
+## Factores Antropogénicos
+- Distancias de búsqueda desde el ULC (Unidad de Localización de la Persona Desaparecida):
+  - **D50**: 1 km
+  - **D75**: 1.8 km
+  - **D99**: 2.7 km
+
+### Condicionantes de la Edad
+1. **Niños de 1 a 6 años**
+   - Movilidad reducida, no conciencia de estar perdidos.
+   - Estadísticas de localización:
+     - D50: 1 km
+     - D75: 1.8 km
+     - D99: 2.7 km
+
+2. **Niños de 7 a 12 años**
+   - Mayor competencia motora, conciencia de estar perdidos.
+   - Estadísticas de localización:
+     - D50: 2 km
+     - D75: 3.5 km
+     - D99: 8 km
+
+3. **Adolescentes de 13 a 17 años**
+   - Capacidad de pensar de forma abstracta, busca retorno a lugares conocidos.
+   - Estadísticas de localización: 
+     - Se alejan menos que los adultos.

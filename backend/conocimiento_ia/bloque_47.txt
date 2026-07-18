@@ -1,0 +1,84 @@
+# Incendios en Túneles
+
+## Ventilación
+
+### Ventilación Semitransversal
+- **Características**:
+  - Aire fresco impulsado desde el exterior a través de un conducto en la clave del túnel.
+  - Difusores cada seis metros para la entrada de aire fresco.
+  - Extracción de humo mediante toberas en caso de incendio.
+- **Recomendaciones**:
+  - Adecuada para túneles bidireccionales largos o unidireccionales con posibilidad de congestión.
+
+### Ventilación Transversal
+- **Características**:
+  - Circulación de aire fresco y viciado a través de conductos en la clave del túnel.
+  - Mayor seguridad en caso de incendio al aspirar humo y proporcionar aire fresco simultáneamente.
+- **Recomendaciones**:
+  - Ideal para túneles bidireccionales largos o unidireccionales complicados.
+
+### Comparativa de Ventilación
+| Ventajas | Inconvenientes |
+|----------|----------------|
+| Condiciones ambientales óptimas | Encarecimiento por conductos |
+| | Dificultad de puesta en marcha |
+| | Elevado gasto energético |
+
+## Flujo de Aire
+- **Clasificación de Flujos**:
+  - **Bajas Velocidades (<1 m/s)**: Humo estratificado cerca del fuego.
+  - **Velocidades Moderadas (1-3 m/s)**: Progresión del humo controlada.
+  - **Altas Velocidades (>3 m/s)**: Riesgo de dispersión del humo.
+
+## Características Específicas de Incendios en Túneles
+
+### Temperatura de los Gases de Incendio
+- **Resultados de Pruebas (2003, Túnel Runehamar)**:
+  - Temperaturas >1000 °C en los primeros 10 minutos.
+  - Tasas máximas de liberación de calor: 202, 157, 119 y 66 MW.
+  - Temperaturas >200 °C hasta 200 metros del fuego a los 10 minutos.
+  - A 70 metros: 153 °C (aguas arriba) y 785 °C (aguas abajo).
+  - A 100 metros: 95 °C (aguas arriba) y 570 °C (aguas abajo).
+  - Temperaturas no bajan de 100 °C después de 50 minutos.
+
+### Nivel de Radiación
+- **Resultados de Radiación (kW/m²)**:
+  | Distancia | 5 m | 10 m | 20 m |
+  |-----------|-----|------|------|
+  | Ejercicio 1 | 80  | 14   | 2    |
+  | Ejercicio 2 | 35  | 18   | 3    |
+  | Ejercicio 3 | 20  | 9    | 2    |
+  | Ejercicio 4 | 40  | 10   | 4 (a 15 m) |
+
+- **Observaciones**:
+  - Radiación >5 kW/m² a 10 m del fuego.
+  - Distancia de ataque óptima: 10 m.
+  - Nivel aceptable de radiación para bomberos: 5 kW/m².
+
+### Tamaño de Fuego y Tasa de Liberación de Calor
+- **Ecuación para HRR**:
+  \[
+  qs = \frac{Q}{R}
+  \]
+  - Donde:
+    - \(qs\): nivel de radiación
+    - \(Q\): tasa total de emisiones de calor
+    - \(R\): distancia desde la fuente al lugar de los bomberos.
+- **Conclusiones**:
+  - Un bombero puede afrontar un HRR de entre 20 y 30 MW.
+
+### Propagación del Fuego
+- **Resultados de Pruebas**:
+  | Ejercicio | Distancia | Tasa de Liberación | Propagación (min) |
+  |-----------|-----------|--------------------|--------------------|
+  | 1         | 95 m      | 202 MW             | 6                  |
+  | 2         | 84 m      | 157 MW             | 3.03 - 3.04        |
+  | 3         | 66 m      | 119 MW             | 4.5                |
+
+### Comportamiento de las Personas
+- **Patrones de Comportamiento**:
+  - Permanencia en vehículos hasta recibir información.
+  - Preferencia por moverse hacia la entrada en lugar de usar salidas de emergencia.
+  - Supervivencia dependiente de la magnitud del incendio y concentración de gases tóxicos. 
+
+Estos datos son cruciales para la planificación y respuesta ante incendios en túneles, así como para la formación de equipos de intervención.

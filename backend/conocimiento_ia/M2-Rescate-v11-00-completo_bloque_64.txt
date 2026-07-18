@@ -1,0 +1,55 @@
+# Caracterización de Accidentes de Tráfico
+
+## 1. Accidentes de Tráfico
+
+Un accidente de tráfico puede ser causado por:
+- **Fallo en la conducción**
+- **Alteración de las condiciones de la vía o del vehículo**
+
+### Datos Clave
+- **Muertes anuales**: 1,2 millones de personas (OMS)
+- **Coste económico**: hasta un 2% del PIB en países desarrollados
+- **Proyección**: Los accidentes de tráfico serán la tercera causa de muerte en poco tiempo.
+
+## 1.1. Definición y Condiciones (Teoría de la Colisión)
+
+### 1.1.1. Elementos que Intervienen en el Accidente
+Los factores que influyen en un accidente son:
+- **Hombre**
+- **Vehículo**
+- **Vía y su entorno**
+
+### 1.1.2. Fuerzas Involucradas
+- **Inercia**: Tendencia de un cuerpo en movimiento a seguir en movimiento.
+- **Energía cinética**: 
+  - **Elásticos**: Se mantiene la energía cinética total.
+  - **Inelásticos**: Parte de la energía se dedica a deformaciones y calor.
+
+### 1.1.3. Transmisión de Fuerzas
+- **Diseño estructural**: Afecta la transmisión de fuerzas y daños en la carrocería.
+- **Dirección del impacto**: Origina deformaciones laterales.
+
+## 1.2. Clases de Accidentes de Tráfico
+
+### 1.2.1. Situación Geográfica
+- **Urbanos**: Ocurren en calles o vías urbanas.
+- **Interurbanos**: Ocurren en vías interurbanas, clasificadas en:
+  - Nacional
+  - Comarcal
+  - Autopista
+
+### Datos Clave
+- **75% de los muertos**: Ocurren en "otras vías" (carreteras convencionales).
+- **Estadísticas**: 58% de accidentes en vías urbanas y 42% en interurbanas; 73% de las víctimas mortales en interurbanas (DGT, 2013).
+
+### 1.2.2. Consecuencias/Daños
+- **Mortales**: Fallecimiento en las 24 horas posteriores al accidente.
+
+### Tabla 1. Clases de Accidentes de Tráfico
+| Criterio                       | Clasificación                                      |
+|--------------------------------|---------------------------------------------------|
+| **Situación geográfica**       | Urbanos, Interurbanos                             |
+| **Consecuencias/Daños**        | Mortales, Con víctimas, Solo con daños materiales |
+| **Número de vehículos**        | Simples, Complejos                                |
+| **Tipo de vehículos**          | Colisión entre turismo y vehículo de dos ruedas, Colisión entre dos turismos, etc. |
+| **Modo de producción**         | Choque, Salidas de vía, Colisión (frontal, lateral, alcance), Vuelco |

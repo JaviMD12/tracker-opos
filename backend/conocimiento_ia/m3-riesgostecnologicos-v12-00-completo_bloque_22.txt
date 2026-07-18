@@ -1,0 +1,76 @@
+# Elementos Complementarios de la Edificación
+
+## 9. Cubiertas
+
+### Definición
+Conjunto de elementos de carácter inclinado u horizontal, situados en la parte exterior de la techumbre de la edificación, que protegen contra agentes meteorológicos y crean condiciones de confort.
+
+### Funciones
+- **Estanqueidad**: Impide la entrada de agua de lluvia o nieve.
+- **Barrera contra la humedad**: Evita el paso de vapor de agua.
+- **Aislamiento térmico**: Protege del frío y del calor.
+- **Aislamiento acústico**.
+- **Resistencia al fuego**: Previene la producción y propagación del fuego.
+- **Soporte de instalaciones**: Pararrayos, antenas, etc.
+
+### Elementos de Cobertura (CTE DB HS)
+- **Sistema de formación de pendientes**: Elemento que proporciona la inclinación necesaria para evacuar agua. Se utiliza hormigón aligerado para pendientes pequeñas y otros materiales para pendientes fuertes.
+- **Aislante térmico**: Mantiene el confort térmico. No debe ser degradable con la humedad si está expuesto al agua.
+  - Modelos comunes: lana de roca, lana de vidrio, poliestireno expandido, espuma elastomérica, poliuretano expandido, poliuretano estruído.
+- **Capa de impermeabilización**: Evita la entrada de agua al interior de la edificación. Modelos: materiales bituminosos, PVC, etileno propileno, poliolefinas, sistema de placa.
+- **Capa de protección**: Varía según el uso de la cubierta.
+  - **Cubierta no transitable**: Grava, solado fijo o flotante, mortero, tejas.
+  - **Cubierta transitable para peatones**: Solado fijo, flotante.
+  - **Cubierta transitable para vehículos**: Capa de rodadura.
+- **Barrera de vapor (BV)**: Evita la condensación de vapor de agua en el interior de los elementos constructivos. Debe colocarse en la cara caliente del cerramiento.
+- **Cámara de aire ventilada**: Elimina humedades y sirve de aislamiento térmico. Debe cumplir la condición: \(30 > \frac{S_s}{A_c} > 3\).
+
+### Tipos de Cubiertas
+#### Según su Inclinación
+- **Inclinadas**: Pendientes mínimas del 5% según CTE DB HS1.
+  - **Cubiertas a una agua**: Un solo faldón.
+  - **Cubiertas a dos aguas**: Dos faldones.
+  - **Cubiertas a cuatro aguas**: Cuatro o más faldones.
+  - **Cubiertas poliédricas**: Más de cuatro vertientes.
+  - **Cubiertas en dientes de sierra**: Cerchas asimétricas con desigual inclinación.
+
+#### Pendientes Específicas (CTE DB HS1)
+| Tejado | Pendiente mínima (%) |
+|--------|---------------------|
+| Teja curva | 32 |
+| Teja mixta/plana monocanal | 30 |
+| Teja plana marsellesa/alicantina | 40 |
+| Teja plana con encaje | 50 |
+| Pizarra | 60 |
+| Placas y perfiles | 10 |
+| Fibrocemento | 10-25 |
+| Sintéticos | 5-15 |
+| Galvanizados | 5-15 |
+| Aleaciones ligeras | 5-15 |
+
+### Elementos de las Cubiertas Inclinadas
+- **Alero**: Parte inferior que sobresale de la pared.
+- **Caballete**: Arista o coronación del tejado.
+- **Faldón**: Vertiente triangular o trapecial.
+- **Hastial**: Parte superior triangular de la fachada.
+- **Limas**: Aristas oblicuas de los faldones.
+  - **Limahoya**: Ángulo entrante.
+  - **Limatesa**: Ángulo saliente.
+- **Lucernario**: Elemento para iluminar y ventilar.
+- **Linterna**: Lucernario elevado.
+- **Peto**: Faldón menor triangular.
+
+### Cubiertas Planas
+- **Definición**: Planos horizontales con pendiente generalmente inferior al 5%.
+- **Uso**: Permiten actividades en la superficie.
+- **Pendientes específicas**:
+  - **Transitables**: 1-5%.
+  - **No transitables**: 1-5%.
+  - **Ajardinadas**: 1-5% (espesor mínimo de 10 cm).
+
+### Tabla de Cubiertas Planas
+| Uso | Protección | Pendiente (%) |
+|-----|------------|---------------|
+| Transitables | Solado fijo/flotante | 1-5 |
+| No transitables | Grava | 1-5 |
+| Ajardinadas | Tierra vegetal | 1-5 |

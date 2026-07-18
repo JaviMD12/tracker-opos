@@ -1,0 +1,61 @@
+# Ventilación de Incendios
+
+## 1. Ventiladores en V
+- **Configuración**: 
+  - Ventiladores en serie a lo largo del recorrido.
+  - Primer ventilador (principal) en la entrada del recinto.
+  - Segundo ventilador (auxiliar) en un punto con baja velocidad para impulsar el flujo.
+- **Beneficios**:
+  - Aumento del flujo de gases superior a configuraciones anteriores.
+  - El ventilador auxiliar genera depresión, mejorando el flujo del ventilador principal.
+- **Aplicación**: Recomendable en edificios multivivienda, especialmente en ventilación VPP ofensiva.
+
+## 2. Influencia del Viento en la VPP
+- **Diferencial de presión**: 
+  - Generado por el viento en fachadas, depende de:
+    - Velocidad del viento.
+    - Geometría del edificio.
+    - Posición de la fachada.
+- **Presión eólica básica (Pwb)**:
+  - Definición: Aumento de presión al detener el viento.
+  - Fórmula:
+    \[
+    P_{wb} = \frac{1}{2} \cdot \rho \cdot v^2
+    \]
+  - Donde:
+    - \( P_{wb} \) = presión eólica básica [Pa]
+    - \( \rho \) = densidad del aire (1.2 kg/m³)
+    - \( v \) = velocidad de referencia del viento [m/s]
+- **Cálculo de diferencial de presión**:
+  - Ejemplo: Viento a 6 m/s genera un diferencial de presión de **25.92 Pa** entre fachadas barlovento y sotavento.
+
+## 3. Control de Puerta de Acceso
+- **Impacto**: 
+  - La puerta abierta permite el paso de aire fresco y dispersa gases de incendio.
+- **Técnicas**:
+  - **Entornar la puerta**: Mantenerla abierta al ancho de la manguera.
+  - **Cortinas de bloqueo de humo**: Evitan la dispersión de gases y permiten el paso de la manguera.
+
+## 4. Trabajo en Espacios sin Visibilidad
+### 4.1 Orientación
+- **Técnicas de orientación**:
+  - **Tendido de manguera**: Marca la ruta de escape.
+  - **Paramento de referencia**: Mantener una pared a mano izquierda o derecha.
+  - **Cámara térmica**: Proporciona visión del recinto, aunque puede perder definición en humo denso.
+  - **Cuerda guía**: Asegura el retorno en espacios amplios.
+
+### 4.2 Rastreo y Búsqueda de Víctimas
+- **Prioridad táctica**: Asegurar la vida de la víctima y controlar el incendio.
+- **Herramientas útiles**: Cámara térmica, herramientas de mano (halligan, multiherramienta).
+- **Métodos de rastreo**:
+  - **Método de barrido**:
+    1. Toma referencia al pasar la puerta.
+    2. Rastreo desde la pared.
+  - **Método francés**:
+    1. Avanzar hasta la siguiente puerta rastreando.
+    2. Un bombero toma referencia y rastrea el perímetro.
+
+## Resumen de Datos Clave
+- **Diferencial de presión**: 25.92 Pa (viento a 6 m/s).
+- **Densidad del aire**: 1.2 kg/m³.
+- **Velocidades de viento**: Se recomienda evitar VPP en contra del viento superior a 4 m/s.

@@ -1,0 +1,86 @@
+# Técnicas de acceso a las vías y rutas
+
+## 1. Comunicaciones
+- **Acceso al incidente**: Es crucial encontrar la forma de acceso más segura y rápida.
+- **Centros de comunicación**:
+  - **CGRH24** de Adif
+  - **CECON** de Renfe
+
+## 2. Accesos, mapas, ortofotos, GPS, fichas de intervención
+### a) Accesos
+- Utilización de mapas y GPS para localizar la ubicación exacta del tren y la vía más cercana.
+
+### b) Mapas
+- Disponer de mapas detallados de las rutas ferroviarias que incluyan:
+  - Poblaciones
+  - Riesgos
+  - Áreas industriales
+  - Infraestructura
+  - Accidentes naturales
+
+### c) GPS
+- Empleo del sistema GPS para establecer coordenadas exactas del lugar del suceso.
+
+### d) Ortofoto
+- Localización de accesos adecuados mediante fotografías aéreas corregidas geométricamente.
+
+### e) Fichas de intervención
+- Elaboración de fichas de emergencia que detallen:
+  - Ámbito de actuación
+  - Trayectos de los trenes
+  - Puntos de interés para GPS
+
+## 3. Técnicas en presencia de tensión eléctrica en líneas
+- **Tensiones**:
+  - Hasta **25 kV** en corriente alterna (alta velocidad)
+  - **3 kV** en corriente continua (convencionales)
+
+### 3.1. Corte de suministros
+- Las catenarias se dividen en tramos para interrumpir la corriente mediante sistemas seccionadores.
+- Los bomberos deben solicitar el corte de electricidad y verificar que no circula corriente.
+
+### 3.2. Medidas de seguridad
+#### 3.2.1. Sistemas de seguridad
+- Unidades de Cercanías pueden necesitar **300-400 amperios** para arrancar.
+- Sistemas de seguridad en subestaciones y trenes que interrumpen el suministro ante anomalías.
+
+#### 3.2.2. Normas de seguridad para desconexión
+1. Cortar fuentes de alimentación.
+2. Evitar realimentación.
+3. Comprobar el corte de tensión.
+4. Derivar a tierra la instalación.
+5. Señalizar la zona de trabajo.
+
+#### 3.2.3. Shunt de vía
+- Protege a los equipos de trabajo de la llegada de trenes regulares.
+- Indica si hay un convoy en un tramo concreto de vía.
+
+## 4. Técnicas de evacuación
+### 4.1. Confinamiento
+- Realizar en incidentes leves y cuando el espacio exterior entrañe riesgos.
+
+### 4.2. Evacuación
+- Aconsejable en casos de peligro inminente o en túneles/puentes.
+
+### 4.3. Estrategias de evacuación
+#### 4.3.1. Estrategias comunes
+- Comunicar indicaciones a los viajeros.
+- Sectorizar el tren en caso de incendio.
+- Habilitar rutas de escape seguras.
+- Realizar triage en accidentes con múltiples víctimas.
+
+#### 4.3.2. Estrategia de evacuación en balastro
+- Comprobar que la circulación de trenes se ha interrumpido.
+- Utilizar escaleras del tren como pasarela.
+
+#### 4.3.3. Estrategia de evacuación en andén
+- Aplicable cuando el maquinista detecta una emergencia y decide continuar hasta un lugar seguro.
+
+## 5. Técnicas de abordaje/excarcelación
+### 5.1. Pesos y dimensiones
+- **Trenes autopropulsados**:
+  - Ancho de vía: **1435 mm** (algunos hasta **1668 mm**)
+  - Longitud: hasta **200 m**, carga normal de **421 toneladas**.
+  - Altura: hasta **4 m**.
+- **Trenes automotores**:
+  - Longitud: hasta **78 m**, peso total de **168 toneladas**.

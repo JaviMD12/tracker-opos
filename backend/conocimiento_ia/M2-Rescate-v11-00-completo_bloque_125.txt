@@ -1,0 +1,67 @@
+# Manual de Rescate y Salvamento
+
+## 1. Carga de Tracks y Waypoints en Dispositivos GPS
+
+- **Conexión**: Se conecta el dispositivo e-trex al ordenador mediante USB.
+- **Función Plug & Play**: Detecta la conexión y abre automáticamente el menú del dispositivo.
+- **Carga de Datos**:
+  - Abrir la carpeta “Mi colección”.
+  - Arrastrar sectores y puntos de interés a la carpeta de datos del dispositivo.
+- **Verificación**: Comprobar los datos guardados en el GPS y borrar los innecesarios.
+- **Exportación de Datos**: Al finalizar la búsqueda, los datos se pueden arrastrar a “mi colección”.
+
+## 2. Técnicas de Localización de Teléfonos Móviles
+
+### 2.1. Sistemas de Localización con Paquete de Datos
+
+- **Android**:
+  - Requiere cuenta de Google.
+  - Activar localización en “Ajustes” > “Cuentas y sincronización”.
+  - Acceso a ubicación desde un ordenador mediante Google Maps.
+
+- **Blackberry**:
+  - Descargar Blackberry Protect y configurar cuenta.
+  - Acceso a localización en “apps/protect.html”.
+
+- **iPhone**:
+  - Usar “Buscar mi iPhone” en “Ajustes” > “iCloud”.
+  - Activar “Buscar mi iPhone” para localizar desde un PC.
+
+- **Windows Phone**:
+  - Configurar cuenta de Microsoft.
+  - Activar “Permitir acceso a mi ubicación” en “Ajustes”.
+  - Acceso a ubicación en “www.windowsphone.com”.
+
+### 3. Proceso de Compartir Ubicación mediante WhatsApp
+
+1. **Preparación**:
+   - Tener WhatsApp instalado.
+   - Añadir número de rescate a contactos.
+2. **Compartir Ubicación**:
+   - Iniciar conversación con el equipo de rescate.
+   - Seleccionar “Compartir ubicación” y enviar.
+
+## 4. Consideraciones en Búsquedas
+
+- **Definiciones**:
+  - **Perdidos**: Personas en contacto con el rescatador.
+  - **Desaparecidos**: Personas no localizables.
+
+- **Factores que Afectan la Búsqueda**:
+  - Orografía, vegetación, meteorología y clima.
+  - Estado psicológico y emocional de la persona desaparecida.
+
+- **Métodos de Búsqueda**:
+  - **Teórico**: Estimación de distancia recorrida desde la última localización conocida (ULC).
+  - **Estadístico**: Análisis de distancias recorridas por personas similares.
+  - **Subjetivo**: Basado en experiencia y criterio del jefe de búsqueda.
+  - **Mattson**: Asignación de probabilidades de hallazgo a sectores.
+
+- **Indicios de Localización**:
+  - **Físicos**: Huellas, ramas quebradas.
+  - **Químicos**: Rastro de olor corporal.
+  - **Sociales**: Testimonios y datos tecnológicos (uso de móviles, redes sociales).
+
+## CONVIENE RECORDAR
+
+- La combinación de métodos y el uso de tecnología (drones, perros de búsqueda) aumentan la eficacia en la localización de personas desaparecidas.

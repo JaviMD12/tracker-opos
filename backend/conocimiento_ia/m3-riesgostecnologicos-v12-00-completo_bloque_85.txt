@@ -1,0 +1,87 @@
+# Parte 5. Apeo y poda de arbolado
+
+## Caracterización de la madera
+
+- **Humedad de la madera**:
+  - Agua de constitución (inerte a su naturaleza orgánica).
+  - Agua de saturación (impregna las paredes).
+  - Agua libre (absorbida por capilaridad).
+
+- **Secado al aire**: 
+  - La madera se considera secada al aire cuando el agua libre desaparece y queda el agua de constitución y saturación en equilibrio con la humedad atmosférica.
+  - La humedad media de la madera secada al aire es del **15%**.
+
+### Densidad aparente de las maderas más comunes (secadas al aire, humedad media = 15%)
+
+| Especie        | Densidad (Kg/dm³)     |
+|----------------|-----------------------|
+| Abeto          | 0,32 – 0,62           |
+| Pino Común     | 0,32 – 0,76           |
+| Pinabette      | 0,37 – 0,75           |
+| Pino Negro     | 0,38 – 0,74           |
+| Alerce         | 0,44 – 0,80           |
+| Álamo          | 0,45 – 0,70           |
+| Olmo           | 0,56 – 0,82           |
+| Nogal          | 0,60 – 0,81           |
+| Haya           | 0,60 – 0,90           |
+| Roble          | 0,71 – 1,07           |
+| Pino-tea       | 0,83 – 0,85           |
+| Encina         | 0,95 – 1,20           |
+
+- **Humedad en madera verde**: 
+  - Aproximadamente entre **50% y 60%** (considerar **55%** como cifra media).
+  - Para calcular la densidad de la madera verde, se suma un **40%** a la densidad de la madera seca.
+
+### Clasificación de la madera según su densidad aparente
+
+| Tipo de madera | Densidad (Kg/dm³)     |
+|----------------|-----------------------|
+| Pesadas        | Mayor a 0,8           |
+| Ligeras        | Entre 0,5 y 0,7       |
+| Muy ligeras    | Menores de 0,5        |
+
+- **Densidad media**: 
+  - Se utiliza **0,6 kg/dm³** "en seco", equivalente a **0,8 kg/dm³** "en verde" para especies comunes como pino, olmo y chopo.
+  - Para encina o roble: **0,8 kg/dm³** en seco y **1 kg/dm³** en verde.
+
+### Ejemplo de cálculo de peso
+
+- **Pino verde** con volumen de **3,5 m³**:
+  - Densidad: **0,8 kg/dm³ = 800 kg/m³**
+  - Cálculo: 
+    - \( 800 \, \text{kg/m³} \times 3 \, \text{m³} = 2400 \, \text{kg} \)
+
+## Herramientas para apeo y poda
+
+1. **Motosierra**: 
+   - Detalles en el "Manual de equipos operativos y herramientas de intervención".
+
+2. **Tractel**: 
+   - Utilizado para apeo y derribo de árboles.
+   - Permite cambiar la dirección de caída y es útil para árboles inestables.
+
+3. **Cuñas**: 
+   - Material que no dañe la cadena de la motosierra.
+   - Usos:
+     - Evitar que se cierre el corte.
+     - Cambiar la dirección de caída (variaciones de hasta **30º**).
+     - Apear árboles inclinados.
+
+4. **Material de altura**: 
+   - Línea de vida necesaria para trabajar desde altura.
+   - Elementos requeridos:
+     - Anillo de cinta de **1 m**.
+     - Cordino de longitud mayor al doble de la rama.
+     - Dos mosquetones.
+
+## Fases y desarrollo de la intervención
+
+1. **Valoración del riesgo**:
+   - Determinar si hay riesgo real, aparente o inminente.
+   - Evaluar el estado del árbol (descomposición, grietas, problemas en raíces).
+
+2. **Delimitación del perímetro de seguridad**.
+
+3. **Control y mitigación del riesgo**.
+
+4. **Fin de la intervención**.

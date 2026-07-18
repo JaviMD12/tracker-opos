@@ -1,0 +1,75 @@
+# Incendios en Túneles
+
+## Ventilación
+
+### Ventilación Semitransversal
+- **Características**:
+  - Aire fresco impulsado desde el exterior a través de un conducto en la clave del túnel.
+  - Difusores cada seis metros para la entrada de aire fresco.
+  - Extracción de humo durante un incendio mediante toberas.
+- **Recomendaciones**:
+  - Ideal para túneles de circulación bidireccional largos o unidireccional con posibilidad de congestión.
+
+### Ventilación Transversal
+- **Características**:
+  - Circulación de aire fresco y aire viciado a través de conductos en la clave del túnel.
+  - Mayor seguridad en caso de incendio, ya que se aspira humo y se impulsa aire fresco simultáneamente.
+  - Extracción concentrada cerca del foco de fuego.
+- **Recomendaciones**:
+  - Recomendado para túneles de circulación bidireccional largos o unidireccional con configuración complicada.
+
+### Comparativa de Ventilación
+| Ventajas | Inconvenientes |
+|----------|----------------|
+| Condiciones ambientales óptimas | Encarecimiento por conductos |
+| | Dificultad de puesta en marcha |
+| | Elevado gasto energético |
+
+## Flujo de Aire
+- **Clasificación de Flujos**:
+  - **Bajas Velocidades (<1 m/s)**: Estratificación del humo.
+  - **Velocidades Moderadas (1-3 m/s)**: Progresión del humo.
+  - **Altas Velocidades (>3 m/s)**: Dispersión del humo.
+
+## Temperatura de los Gases de Incendio
+- **Resultados de Pruebas en el Túnel Runehamar (2003)**:
+  - Temperaturas superiores a **1000 °C** durante los primeros 10 minutos.
+  - Tasas máximas de liberación de calor: **202, 157, 119 y 66 MW**.
+  - Temperaturas a 70 metros del fuego: **153 °C** (aguas arriba) y **785 °C** (aguas abajo).
+  - Después de 50 minutos, temperaturas no bajan de **100 °C**.
+
+## Radiación Generada en un Incendio
+- **Resultados de Pruebas**:
+  - Niveles de radiación en aguas arriba (10 metros del fuego):
+    - Ejercicio 1: **80 kW/m²**
+    - Ejercicio 2: **35 kW/m²**
+    - Ejercicio 3: **20 kW/m²**
+    - Ejercicio 4: **40 kW/m²** (a 15 metros).
+- **Conclusiones**:
+  - Los bomberos pueden acercarse hasta **10 metros** del fuego en los primeros 7 minutos.
+  - Después de 7 minutos, pueden acercarse hasta **20 metros** con agua pulverizada.
+
+## Tasa de Liberación de Calor (HRR)
+- **Ecuación**:
+  \[
+  qs = \frac{Q}{R}
+  \]
+  - Donde:
+    - \( qs \) = nivel de radiación
+    - \( Q \) = tasa total de emisiones de calor
+    - \( R \) = distancia desde la fuente al lugar de los bomberos.
+- **Rango de HRR**: Entre **20 y 30 MW** para un incendio que afecta a un máximo de dos turismos, un autobús y un camión.
+
+## Propagación del Fuego
+- **Resultados de Pruebas**:
+  | Ejercicio | Distancia | Tasa de Liberación | Propagación (min) |
+  |-----------|-----------|--------------------|--------------------|
+  | 1         | 95 m      | 202 MW             | 6                  |
+  | 2         | 84 m      | 157 MW             | 3.03 a 3.04        |
+  | 3         | 66 m      | 119 MW             | 4.5                |
+
+## Comportamiento de las Personas en un Incendio
+- **Patrones de Comportamiento**:
+  - Los ocupantes suelen permanecer en sus vehículos.
+  - Prefieren moverse a lo largo del túnel en lugar de usar salidas de emergencia.
+  - La supervivencia depende de la magnitud del incendio y la concentración de gases tóxicos.

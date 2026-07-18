@@ -1,0 +1,102 @@
+# Parte 4. Rescate en ascensores
+
+## 2.1. Partes del cuarto de máquinas
+
+El cuarto de máquinas incluye los siguientes elementos:
+
+- **Motor-reductor**: Grupos tractores formados por un motor acoplado a un reductor de velocidad. Los motores más utilizados son de corriente alterna, de una o dos velocidades, y llevan variadores de frecuencia.
+  
+- **Polea motriz**: Realiza la adherencia junto a los cables de acero, asegurando que los cables se ciñan a la polea sin deslizamiento.
+
+- **Volante**: Responsable de la operación normal de ascenso y descenso del ascensor, utilizado durante la maniobra de rescate en ausencia de corriente eléctrica.
+
+- **Freno**: Situado en el eje motor, frena el ascensor en subida y bajada. En reposo, las zapatas del freno permanecen bloqueadas. Se desbloquean mediante un electroimán durante el movimiento y manualmente en rescates sin corriente.
+
+- **Limitador de velocidad**: Detiene la cabina mediante un paracaídas o sistema de acuñamiento si la velocidad sobrepasa un valor determinado. Incluye un contacto eléctrico que detiene el motor.
+
+- **Cuadro de maniobras**: Aloja componentes eléctricos y electrónicos (relés, contadores, cableado) que permiten el funcionamiento del sistema. Las tensiones oscilan entre 230 y 400 V.
+
+- **Cuadros de distribución de corriente**: Alojan elementos de protección frente a cortocircuitos y derivaciones.
+
+## 2.2. Recinto o hueco
+
+Es el espacio por el que se desplaza el ascensor y el contrapeso, que consta de:
+
+- **Cabina**: Destinada al transporte de pasajeros.
+  
+- **Puertas de acceso**: Tipologías incluyen:
+  1. Batientes en piso y cabina.
+  2. Batientes en piso y librillo en cabina.
+  3. Batiente en pisos y telescópica automática en cabina.
+  4. Telescópicas automáticas en pisos y cabina.
+  5. Apertura central automática en pisos y cabina.
+  6. Apertura central telescópica automática en pisos y cabina.
+
+- **Guías de cabina**: Dirigen el recorrido del ascensor y contrapeso, generalmente en forma de T.
+
+- **Contrapeso**: Reduce la potencia necesaria para mover la cabina. Su peso se calcula como el peso de la cabina más un 45%.
+
+- **Cables de tracción**: Unen la cabina con el contrapeso. Se debe confirmar su tensión visualmente en maniobras de rescate.
+
+- **Cordones de maniobras**: Cables de corriente eléctrica o señales para maniobras.
+
+## 2.3. Foso
+
+Parte inferior del recinto, por debajo del nivel de la última parada. Debe ser liso y nivelado, con impermeabilización para evitar filtraciones. La profundidad debe permitir que, al comprimir los amortiguadores, quede al menos medio metro de altura libre.
+
+### 2.3.1. Amortiguadores
+
+Sistema que frena el descenso de la cabina en caso de fallo de los mecanismos de parada automática.
+
+## 2.4. Elementos relacionados con la emergencia
+
+### 2.4.1. Instrucciones de rescate
+
+Debido a su importancia, deben mantenerse en el cuarto de máquinas o en el cuadro de maniobras.
+
+### 2.4.2. Pulsador de bomberos
+
+- Al romper el cristal, se acciona un microrruptor que cierra un contacto eléctrico.
+- Si el ascensor está subiendo, se detiene en el siguiente piso y no abre las puertas.
+- Si está bajando, continúa hasta la planta principal y se queda con la puerta abierta.
+
+### 2.4.3. Caja de llaves de emergencia
+
+Contiene las llaves de la sala de máquinas o de la puerta de planta. Es importante que las llaves sean las adecuadas.
+
+### 2.4.4. Mecanismos de seguridad
+
+Dispositivos que interrumpen el funcionamiento del ascensor. Incluyen el interruptor de corte de emergencia. Si se interrumpe uno, se detiene el funcionamiento del ascensor.
+
+### 2.4.5. Faldones de cabina
+
+Chapas bajo la puerta de cabina que cubren el hueco del foso. Deben tener una longitud total de 750 mm, con un faldón telescópico que incluya un aviso de precaución.
+
+### 2.4.6. Alumbrado de emergencia
+
+Instalación obligatoria en la cabina que entra en funcionamiento ante problemas. Debe ser independiente del alumbrado normal.
+
+### 2.4.7. Tele-alarma / Servicio 24 horas
+
+Desde 1999, los ascensores deben tener comunicación con el exterior para asistencia 24 horas.
+
+## 3. Normativa aplicable
+
+### 3.1. Reglamentación general
+
+Regulada en el **REAL DECRETO 2291/1985**, de 8 de noviembre, que aprueba el Reglamento de Aparatos de Elevación y Manutención (RAEM). 
+
+- **Mantenimiento**: Obligatorio para ascensores con velocidad ≤ 0,15 m/s, con inspección periódica.
+- **Plazo para corregir defectos graves**: Máximo de 6 meses.
+- **Modificaciones**: Evaluadas según normativa vigente.
+
+### Modificaciones del RAEM
+
+- **REAL DECRETO 1314/1997**: Modificación del RAEM.
+- **RESOLUCIÓN de 10 de septiembre de 1998**: Desarrollo del RAEM.
+- **REAL DECRETO 57/2005**: Prescripciones para incrementar la seguridad de ascensores existentes.
+- **REAL DECRETO 560/2010**: Modificaciones en seguridad industrial.
+
+### 3.2. Aparatos elevadores de propulsión hidráulica
+
+Reguladas en la **ORDEN de 30 de julio de 1974**. Normas aplicables incluyen el **CTE** y la **Norma EN 81-28:2003**.

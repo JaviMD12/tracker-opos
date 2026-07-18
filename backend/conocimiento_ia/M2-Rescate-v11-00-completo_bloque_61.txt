@@ -1,0 +1,54 @@
+# Manual de Rescate y Salvamento
+
+## Tiempos de Nitrógeno Residual (TNR) para Inmersiones Sucesivas con Aire
+
+- **Método de Cálculo**:
+  1. Buscar el Grupo de Inmersión Sucesiva en la tabla.
+  2. Leer horizontalmente hasta encontrar el intervalo de tiempo real pasado en superficie.
+  3. Leer hacia abajo para encontrar el nuevo grupo al final del IS.
+  4. Continuar hacia abajo hasta la profundidad de la inmersión sucesiva.
+  5. El tiempo en la intersección es el TNR (en minutos) para la inmersión sucesiva.
+
+- **Notas Importantes**:
+  - Inmersiones cuyo IS superen estos periodos no se consideran sucesivas.
+  - El TNR no puede determinarse usando esta tabla (ver art. 0941 h.i. para indicaciones).
+  - Leer verticalmente hasta 9 metros de profundidad para calcular el tiempo de la inmersión sencilla equivalente.
+
+## Descompresión Normal con Aire
+
+### a) Descompresión en el Agua con Aire
+
+- **Procedimiento**:
+  1. Usar aire para la descompresión completa.
+  2. Entrar en la tabla con la profundidad exacta o inmediata superior a la máxima alcanzada.
+  3. Seleccionar un tiempo en el fondo igual o superior al tiempo real en el fondo.
+  4. Leer la fila "Aire" para obtener las paradas de descompresión.
+  5. La última parada se efectúa a 6 mca.
+  6. Si el tiempo en el fondo es menor que el primer tiempo marcado, no se requieren paradas de descompresión.
+
+- **Precaución**:
+  - Si no hay letra de inmersión sucesiva, no realizar inmersiones sucesivas a más de 6 mca.
+  - Permanecer 18 horas en superficie antes de realizar otra inmersión a mayor profundidad.
+
+### b) Descompresión en el Agua con Aire y Oxígeno
+
+- **Procedimiento**:
+  1. Usar aire y oxígeno al 100% para la descompresión.
+  2. Entrar en la tabla con la profundidad exacta o inmediata superior.
+  3. Seleccionar el tiempo en el fondo igual o superior al tiempo real.
+  4. Realizar paradas hasta 9 mca con aire, luego cambiar a oxígeno al 100%.
+  5. El tiempo de parada con oxígeno comienza al confirmar que se está respirando oxígeno.
+  6. Ascender a superficie a 9 m/min tras completar el tiempo de parada.
+
+### c) Descompresión en Superficie con Oxígeno (DSO2)
+
+- **Ventajas**: Reduce el tiempo en el agua.
+- **Procedimiento**:
+  1. Seguir la tabulación de descompresión con aire hasta finalizar la parada de 12 mca.
+  2. Si no hay parada en 12 mca, ascender sin parar.
+  3. Leer el tiempo necesario con oxígeno en la penúltima columna de la tabla.
+  4. Dividir el tiempo en periodos de 30 minutos.
+  5. Realizar los primeros 15 minutos a 15 mca y los siguientes 15 minutos a 12 mca.
+  6. Ascender a superficie a 9 m/min tras completar el periodo.
+
+- **Grupo de Inmersión Sucesiva**: Se lee en la última columna de la tabla de descompresión con aire.

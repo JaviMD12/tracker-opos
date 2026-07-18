@@ -1,0 +1,109 @@
+# Parte 7. NRBQ
+
+## 2.3.1. Densidad y Densidad Relativa
+
+- **Densidad (ρ)**: Cantidad de masa contenida en un volumen. Se expresa en unidades de masa/volumen (kg/m³ o g/cm³).
+  - **Densidades de referencia**:
+    - Hierro: **8700 kg/m³**
+    - Agua: **1000 kg/m³**
+    - Oro: **19300 kg/m³**
+
+### Leyes de los Gases
+
+1. **Ley de Boyle-Mariotte**: A temperatura constante, el volumen de un gas es inversamente proporcional a la presión.
+2. **Ley de Charles**: El volumen es directamente proporcional a la temperatura del gas.
+3. **Ley de Gay-Lussac**: A volumen constante, la presión es directamente proporcional a la temperatura.
+
+### Ecuación General de los Gases
+
+- Relaciona presión, volumen y temperatura de un gas ideal.
+
+### Densidad Relativa
+
+- Relación entre la densidad de una sustancia y la de una sustancia de referencia (agua a 1 atm y 4°C: **1.000 kg/m³**).
+- **Ejemplo**: Densidad relativa del alcohol respecto al agua: **0,78** (flota).
+
+| Sustancia | Densidad Relativa Líquido | Densidad Relativa Gas |
+|-----------|---------------------------|-----------------------|
+| Alcohol   | 0,78                      | 1,60                  |
+| Gasolina  | 0,8                       | 4,00                  |
+| Hidrógeno | 0,07                      | 0,07                  |
+| GNC       | 0,46                      | 0,55                  |
+
+## 2.3.2. Presión de Vapor
+
+- **Presión de vapor**: Presión a la que las fases líquida y gaseosa están en equilibrio.
+- Depende de la naturaleza de la sustancia y de la temperatura.
+
+### Tabla de Presión de Vapor del Agua
+
+| Temperatura (°C) | Presión de Vapor (mm Hg) | Presión de Vapor (Pa) |
+|-------------------|--------------------------|-----------------------|
+| 0                 | 4,41                     | 588.3                 |
+| 10                | 8,82                     | 1,176.4               |
+| 20                | 18,35                    | 2,447.3               |
+| 40                | 55,50                    | 7,400.1               |
+| 100               | 731,26                   | 97,494.5              |
+
+## 2.3.3. Solubilidad
+
+- **Solubilidad**: Capacidad de una sustancia para disolverse en otra, afectada por temperatura y presión.
+  - Sólidos: Aumentan su solubilidad con la temperatura.
+  - Gases: Disminuyen su solubilidad con el aumento de temperatura.
+
+### Clasificación según la Solubilidad
+
+| Grupo          | % g sustancia / 100 g agua | Ejemplos   |
+|----------------|-----------------------------|------------|
+| Muy soluble    | 10<99                       | Amoniaco   |
+| Med. soluble    | 1<10                        | Butano     |
+| Poco soluble   | 0<1                         | Cloro      |
+
+## 2.3.4. Viscosidad
+
+- **Viscosidad**: Resistencia de un líquido a fluir, medida en **Pa·s** o **cP**.
+  
+### Tabla de Viscosidad de Sustancias
+
+| Sustancia | Viscosidad [Pa·s] | Viscosidad [cP] |
+|-----------|-------------------|------------------|
+| Acetona   | 3,06×10⁻⁴        | 0,306            |
+| Agua      | 8,94×10⁻⁴        | 0,894            |
+| Mercurio  | 1,526×10⁻³       | 1,526            |
+
+## 2.3.5. Conductividad Eléctrica
+
+- **Conductividad**: Capacidad de una sustancia para permitir el paso de corriente eléctrica, medida en **S·m⁻¹**.
+
+### Tabla de Conductividad de Materias
+
+| Materia              | Conductividad (S·m⁻¹) |
+|----------------------|-----------------------|
+| Agua desionizada     | 5,5 × 10⁻⁶           |
+| Agua potable         | 0,0005 a 0,05        |
+| Agua de mar          | 5                     |
+| Vidrio (aislante)    | 10⁻¹⁰ a 10⁻¹⁴       |
+| Cobre (buen conductor)| 5,96 × 10⁷          |
+
+- **Resistividad**: Oposición al paso de corriente eléctrica.
+
+## 2.4. Propiedades Químicas
+
+- **Propiedades químicas**: Se observan cuando una sustancia se transforma en otra (cambio químico).
+- **Propiedades de interés**: Reactividad, índice de pH, oxidación, reducción, poder calorífico.
+
+### 2.4.1. El Factor pH
+
+- **pH**: Escala del 0 al 14 que mide la concentración de iones de hidrógeno.
+  - **pH neutro**: 7.
+  - **Ácidos**: pH < 7.
+  - **Bases**: pH > 7.
+
+### Propiedades de los Ácidos
+
+- Cambian el color del papel tornasol de azul a rojo.
+- Corrosivos y pueden causar quemaduras.
+- Conducen electricidad en disoluciones acuosas.
+- Reaccionan con metales y bases.
+
+La fortaleza de los ácidos se relaciona con el grado de disociación en iones H⁺.

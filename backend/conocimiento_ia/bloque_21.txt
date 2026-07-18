@@ -1,0 +1,52 @@
+# Hidráulica y Prevención de Golpe de Ariete
+
+## Conceptos Clave
+
+- **Empuje**: 
+  - A mayor presión, mayor empuje para un mismo diámetro.
+  - A mayor diámetro, mayor empuje para una misma presión.
+  - El empuje de un chorro cónico disminuye hasta anularse aproximadamente a 180º.
+
+- **Precauciones en Tendido**:
+  - Colocar en posición de cortina de protección para reducir el empuje inicial y daños.
+
+## Minimización del Golpe de Ariete
+
+- **Definición**: 
+  - El golpe de ariete es un incremento súbito de presión que puede generar peligros en instalaciones en funcionamiento.
+
+- **Recomendaciones**:
+  - Realizar operaciones de apertura y cierre de forma lenta y controlada.
+  - Aumentar el tiempo de apertura y cierre para evitar variaciones bruscas de caudal.
+
+## Fundamentos de Hidráulica
+
+- **Hidráulica**: Estudia las propiedades mecánicas de los fluidos.
+- **Hidrostática**: Estudia fluidos en equilibrio.
+- **Hidrodinámica**: Estudia la dinámica de líquidos.
+
+### Propiedades de los Fluidos
+
+- **Masa**: Cantidad de materia en un cuerpo.
+- **Densidad**: Masa por volumen.
+- **Peso específico**: Relación entre peso y volumen.
+- **Viscosidad**: Oposición a deformaciones tangenciales.
+- **Fluido ideal**: Carece de viscosidad e incompresible.
+- **Presión**: Fuerza por unidad de superficie.
+- **Presión de vapor**: Equilibrio entre fase líquida y vapor a una temperatura concreta.
+- **Tensión superficial**: Energía necesaria para aumentar la superficie por unidad de área.
+- **Caudal**: Cantidad de líquido que pasa por una sección en un tiempo determinado.
+
+### Bombas Centrífugas
+
+- **Función**: Transforman energía mecánica en energía hidráulica.
+- **Curvas características**: Representan particularidades de la bomba.
+- **Punto óptimo**: Mayor rendimiento energético.
+- **Cebado**: Proceso de inundar la bomba para iniciar su funcionamiento.
+- **Cavitación**: Formación de vapor por descenso de presión.
+- **Acoplamiento**: Bombas pueden acoplarse en paralelo o en serie.
+
+### Pérdidas de Carga
+
+- **Definición**: Pérdidas energéticas en un fluido en movimiento por resistencia (rozamientos, turbulencias).
+- **Curva característica de la instalación**: Representación gráfica de pérdidas de carga continuas y locales.

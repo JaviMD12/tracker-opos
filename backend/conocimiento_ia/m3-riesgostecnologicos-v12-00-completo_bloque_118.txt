@@ -1,0 +1,78 @@
+# Parte 7. NRBQ
+
+## 4.2.4. Fichas técnicas de cisternas
+
+A continuación se presentan las materias por el nº ONU con sus respectivas indicaciones y el código de cisterna según el ADR:
+
+| ONU  | CLASE | ETIQUETAS | CISTERNAS ADR | VEHÍCULO NIP | CÓDIGO DISPOSICIONES |
+|------|-------|-----------|---------------|--------------|-----------------------|
+| 1011 | 2     | 2F        | PxBN (M)      | TA4, TT9     | FL 23                 |
+| 1017 | 2     | 2TOC      | P22DH (M)     | TA4, TT9, TT10 | AT 265               |
+| 1077 | 2     | 2F        | PxBN (M)      | TA4, TT9     | FL 23                 |
+| 1083 | 2     | 2f        | PxBN (M)      | TA4, TT9     | FL 23                 |
+| 1114 | 3     | F1        | LGBF          | FL 33        |                       |
+| 1170 | 3     | F1        | LGBF          | FL 33        |                       |
+| 1202 | 3     | F1        | LGBF          | ATT 30       |                       |
+| 1203 | 3     | F1        | LGBF          | TU9          | FL 33                 |
+| 1263 | 3     | F1        | LGBF          | FL 33        |                       |
+| 1789 | 8     | C1        | L4BN          | AT 80        |                       |
+| 1824 | 8     | C5        | L4BN          | AT 80        |                       |
+| 1830 | 8     | C1        | L4BN          | AT 80        |                       |
+| 1863 | 3     | F1        | LI.5BN o LGBF | FL 33        |                       |
+| 1942 | 5.1   | 5,1       | SGAV          | TU3          | AT 50                 |
+| 1965 | 2     | 2F        | PxBN (M)      | TA4, TT9     | FL 23                 |
+| 1971 | 2     | 1F        | CxBN (M)      | TA4, TT9     | FL 23                 |
+| 1972 | 2     | 3F        | RxBN          | TU18         | TA4, TT9             | FL 223 |
+| 1977 | 2     | 3A        | RxBN          | TU18         | TA4, TT9             | AT 22 |
+| 2031 | 2     | C01       | L4BN          | AT 85        |                       |
+| 2055 | 3     | F1        | LGBF          | FL 39        |                       |
+| 2067 | 5.1   | O2        | SGAV          | TU3          | AT 50                 |
+| 2291 | 6.1   | T5        | SGAH          | L49H T415    | TE19??? AT 60        |
+| 2794 | 8     | C11       | 80            |               |                       |
+| 3065 | 3     | F1        | LGBF          | FL 30        |                       |
+| 3082 | 9     | M6        | LGBV          | AT 90        |                       |
+| 3257 | 9     | M9        | LGAV          | TU35 TC7 TE6 | AT 99                 |
+
+### Códigos de cisternas
+
+- **1ª letra**: Estado de la materia.
+- **2ª letra**: Presión de cálculo.
+- **3ª letra**: Localización de aberturas.
+- **4ª letra**: Válvula de seguridad.
+
+## 4.3. Rotura de recipientes
+
+### Peligros de la rotura
+
+- El estallido de recipientes con mercancías peligrosas puede generar explosiones y ondas de presión.
+- Las explosiones pueden causar daños significativos a personas y estructuras.
+
+### Causas de sobrepresión
+
+1. **Incendio externo**: Aumenta la presión interna.
+2. **Efectos ambientales**: Radiación solar y cambios de temperatura.
+3. **Actuaciones incorrectas**: Mal uso de válvulas.
+4. **Fallos de instrumentación**: Mal funcionamiento de dispositivos de control.
+5. **Fallos de válvulas**: Fallos mecánicos que pueden causar sobrepresión.
+
+### Proyección de fragmentos
+
+- Los fragmentos pueden ser primarios (de la rotura) o secundarios (de estructuras afectadas).
+- La cantidad y tamaño de fragmentos dependen de la forma del recipiente y las condiciones de almacenamiento.
+
+### Estadísticas de rotura
+
+- **Cilindros**: Promedio de 2,7 fragmentos en el 75% de los estallidos.
+- **Esféricos**: Entre 3 y 19 fragmentos, con un promedio de 8-10.
+
+### Ejemplos de accidentes
+
+| ACCIDENTE | RECIPIENTE / VOLUMEN | SUSTANCIA | FRAGMENTOS (m) |
+|-----------|-----------------------|-----------|-----------------|
+| Estallido en Doe Run (Perú) | Cilindro 2.7 x 8 m | Óxido de etileno | 530 m |
+| Estallido en Feyzin (Francia) | Esfera 13.3 m | Propano licuado | 325-800 m |
+| Estallido en Grangemouth (Reino Unido) | Cilindro 3 x 8.5 m | Gas | 560 m |
+| Estallido en Los Alfaques | Camión cisterna 45 m³ | Propileno | 300 m |
+| Estallido en San Juan Ixhuatepec (México) | Esfera 14.5 m | Propano licuado | 600 m |
+| Estallido en Tivissa, Tarragona | Camión cisterna | Gas natural licuado | 257 m |
+| Estallido en Beijing | Esfera de etileno | Etileno | 840 m |

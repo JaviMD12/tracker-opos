@@ -1,0 +1,76 @@
+# Parte 5. Apeo y poda de arbolado
+
+## Caracterización
+
+- **Cámbium**: Se divide en dos capas:
+  - **Interior (xilema)**: Forma la madera.
+  - **Exterior (floema)**: Parte de la corteza.
+  
+- **Albura**: Madera más blanca de reciente formación, por donde viajan los compuestos de la savia.
+
+- **Duramen**: Madera dura, oscura y consistente (no fluye savia). Formada por células fisiológicamente inactivas, se encuentra en el centro del árbol y es la parte normalmente afectada por pudriciones.
+
+- **Médula vegetal**: Zona central del tronco de escasa resistencia.
+
+## 4.2. La estática en los árboles y las propiedades mecánicas de la madera verde
+
+Desde el punto de vista de la estática, el árbol se considera estáticamente seguro cuando existe un equilibrio entre tres variables:
+1. Cargas que actúan sobre los árboles.
+2. Propiedades de los materiales (dureza y elasticidad).
+3. Geometría de la estructura.
+
+### 4.2.1. Cargas que actúan sobre los árboles
+
+- **Peso del árbol**: Considerado insignificante, ya que la resistencia a la compresión de la madera es mayor que su peso (2,0 kN/cm²).
+  
+- **Peso del hielo o nieve**: Riesgo mayor de fractura de ramas, ya que la madera verde tiende a agrietarse bajo carga constante.
+
+- **Carga del viento**: Principal riesgo para la estabilidad del árbol. Factores que influyen:
+  - Situación geográfica.
+  - Situación topográfica.
+  - Estación del año: Mayor riesgo en otoño.
+  - Influencias meteorológicas: Bajas presiones aumentan la densidad del aire.
+  - Altura: Mayor altura implica mayor velocidad del viento.
+  - Resistencia: Hojas y ramas se doblan hacia atrás durante tormentas.
+  - Formas de crecimiento y efecto palanca: Árboles grandes requieren mayor grosor de tronco.
+
+### 4.2.2. Propiedades de los materiales
+
+#### a) Dureza de la madera
+
+- **Dureza media de la madera verde**: Resiste fuerzas de compresión de **2,0 kN/cm²**. Un tronco de 8 cm de diámetro puede aguantar un peso de **10 T**.
+- Varía entre **1,4 kN/cm²** (Castaño de Indias) y **2,8 kN/cm²** (Roble).
+
+#### b) Elasticidad
+
+- **Límite de elasticidad**: Máxima tensión que un material puede soportar antes de deformarse permanentemente. Si se supera, se produce ruptura primaria y secundaria.
+
+#### c) Geometría del tronco
+
+- La seguridad de un tronco hueco depende de la carga y del grosor de la pared. Un tronco hueco no es necesariamente inseguro.
+
+## 4.3. Cálculo del peso de la madera
+
+### 4.3.1. Cálculo de la altura
+
+- Para medir la altura de un árbol:
+  - Distancia conocida del árbol (D).
+  - Altura del árbol (H).
+  - Distancia entre la mano y el ojo (d).
+  - Medición de la altura del árbol (h).
+
+### 4.3.2. Cálculo del radio mediante el perímetro
+
+- Medir el perímetro a media altura del tronco y dividir entre π (3,14).
+
+### 4.3.3. Cálculo del volumen
+
+- Fórmula: 
+  \[
+  \text{Peso} = \text{volumen} \cdot \text{densidad} = (\pi \cdot r^2 \cdot h) \cdot \text{densidad}
+  \]
+
+### 4.3.4. Cálculo de la densidad de la madera
+
+- Densidad real de la madera (maciza): **1,56** (sin considerar diferencias entre especies).
+- Densidad aparente varía según el volumen de los huecos y los macizos.

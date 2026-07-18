@@ -1,0 +1,89 @@
+# Limpieza y Estructuración del Texto
+
+## Control de Estanquidad y Uso de Cojines
+
+- **Control de estanquidad**: Es importante controlar la estanquidad de los empalmes y uniones.
+- **Protección de conexiones**: Proteger las conexiones contra posibles deterioros.
+- **Cojines**: No superponer en ningún caso dos cojines con una presión de servicio de hasta **1 bar**. No más de **2 cojines** con una presión de servicio de hasta **8 bares**.
+
+### Funcionamiento y Forma de Uso de Cojines
+
+1. Colocar la botella de aire en el manoreductor y tarar el paso máximo a **8 bar**.
+2. Conectar el latiguillo del manoreductor al órgano de mando.
+3. Conectar los latiguillos de llenado del distribuidor al cojín elevador.
+4. Abrir la llave de la botella de aire.
+5. Abrir la llave del manómetro.
+6. Accionar el mando del distribuidor para el llenado del cojín.
+
+### Tabla de Datos Técnicos para Cojines Marca Vetter
+
+| Características          | Unidad | V-10    | V-24    | V-40    | V-68    |
+|-------------------------|--------|---------|---------|---------|---------|
+| Fuerza elevación máxima  | Ton.   | 9,60    | 24,00   | 39,60   | 67,70   |
+|                         | kg     | 9.600   | 24.000  | 39.600  | 67.700  |
+| Altura elevación máxima  | cm     | 20,3    | 30,6    | 40,2    | 67,0    |
+|                         | inch   | 8,0     | 12,0    | 15,8    | 20,5    |
+| Altura de introducción    | cm     | 2,5     | 2,5     | 2,5     | 2,8     |
+|                         | inch   | 1,0     | 1,0     | 1,0     | 1,1     |
+| Tamaño                  | cm     | 37x37   | 52x62   | 78x69   | 95x95   |
+| Sobrepresión de servicio | Bar    | 8       | 8       | 8       | 8       |
+|                         | p.s.i. | 116     | 116     | 116     | 116     |
+| Presión de prueba       | Bar    | 16      | 16      | 16      | 16      |
+|                         | p.s.i. | 232     | 232     | 232     | 232     |
+| Presión de reventamiento | Bar    | 48,3    | 65,0    | 35,0    | 34,7    |
+|                         | p.s.i. | 700     | 942     | 507     | 503     |
+| Aire necesario con 8 bar | l.     | 82,8    | 296,1   | 675,0   | 1.457,1 |
+|                         | cu.ft. | 2,9     | 10,4    | 23,6    | 51,4    |
+| Contenido nominal       | l.     | 9,2     | 32,9    | 75,0    | 161,9   |
+|                         | cu.ft. | 0,3     | 1,2     | 2,6     | 5,7     |
+| Tiempo de llenado      | seg    | 5       | 18      | 41      | 88      |
+
+## Evaluación en Intervenciones de Búsqueda y Rescate en Estructuras Colapsadas (BREC)
+
+### Fase de Evaluación Inicial
+
+- **Importancia**: La evaluación es crucial para valorar el siniestro y establecer prioridades en la intervención.
+- **Pasos**:
+  - Recopilación de información.
+  - Establecimiento del PMA (Punto de Mando Avanzado).
+  - Desarrollo del Plan de Actuación e Intervención.
+  - Distribución de tareas.
+  - Evaluación continua y ajustes necesarios.
+
+### Recopilación de Información
+
+1. **Víctimas**:
+   - Número total de ocupantes: obtener información del censo municipal.
+   - Número potencial de personas atrapadas y su ubicación.
+   - Personas no atrapadas que se encontraban en la edificación.
+
+2. **Entorno**:
+   - Número de plantas y uso del edificio.
+   - Tipología estructural.
+   - Tipo de derrumbe y hundimiento del edificio.
+   - Última Localización Conocida (ULC) de las víctimas.
+   - Condiciones climáticas.
+
+3. **Tiempo**:
+   - Las primeras **24 horas** son críticas; las probabilidades de supervivencia superan el **80%**.
+
+4. **Recursos Disponibles**:
+   - Inventario de equipos y materiales.
+   - Recursos humanos y formación.
+   - Disponibilidad de medios caninos.
+   - Consumibles necesarios.
+
+5. **Riesgos para Víctimas e Intervinientes**:
+   - Riesgos para víctimas: desorientación, agotamiento, heridas.
+   - Riesgos para intervinientes: transitar por lugares inestables, sobreexposición a riesgos.
+
+### Riesgos Comunes y Pautas de Seguridad
+
+- **Derrumbes secundarios**: Control del personal, trabajar en parejas, evitar zonas de riesgo.
+- **Riesgo NBQ**: Conocer la sustancia implicada, control de radiactividad.
+- **Riesgo eléctrico**: Cortar suministro eléctrico.
+- **Gases**: Cerrar llaves de suministro, usar material antideflagrante.
+- **Incendio**: Extinción inmediata de incendios.
+- **Artefactos explosivos**: Incorporar personal especializado y trabajar con precaución.
+
+Este documento proporciona información técnica esencial para la evaluación y el manejo de situaciones de rescate en estructuras colapsadas, así como los parámetros y características de los equipos utilizados.

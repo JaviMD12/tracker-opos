@@ -1,0 +1,121 @@
+# 5.1.2. Concentración de Vapores
+
+## Combustible/Comburente
+- **Límite Superior de Inflamabilidad (LSI)**: Máxima concentración de vapores combustibles en el aire capaz de entrar en combustión. Por encima del LSI no hay combustión.
+- **Límite Inferior de Inflamabilidad (LII)**: Mínima concentración de vapores combustibles en el aire capaz de entrar en combustión. Por debajo del LII no hay combustión.
+- **Rango de Inflamabilidad**: Intervalo entre LII y LSI.
+  - **Punto Ideal de Combustión (PIC)**: Condiciones óptimas para la combustión.
+  - **Punto Estequiométrico (PE)**: Punto donde se genera una explosión si la reacción ocurre.
+
+### Tabla 3. Rangos de Inflamabilidad
+
+| SUSTANCIA               | L.I.I. | L.S.I. |
+|-------------------------|--------|--------|
+| AMONIACO                | 16     | 25     |
+| MONÓXIDO DE CARBONO    | 15.5   | 74     |
+| METANO                  | 5      | 15     |
+| ALCOHOL ETÍLICO         | 4.3    | 7.1    |
+| CLORURO DE VINILO       | 3.6    | 33     |
+| ETANO                   | 3      | 14.4   |
+| ACETILENO               | 2.5    | 81     |
+| ACETONA                 | 2.5    | 19.3   |
+| PROPILENO               | 2.4    | 11     |
+| PROPANO                 | 2.2    | 9.5    |
+| BUTANO                  | 1.8    | 8.4    |
+| PENTANO                 | 1.5    | 7.8    |
+| GASOLINA                | 1.5    | 7.6    |
+| BENCENO                 | 1.4    | 7.1    |
+| AGUARRÁS                | 1.1    | 6      |
+| GASOIL                  | 0.6    | 6.5    |
+
+### Tabla 4. Temperaturas de Inflamación y Autoinflamación
+
+| COMBUSTIBLE             | TEMPERATURA INFLAMACIÓN | TEMPERATURA AUTOINFLAMACIÓN |
+|-------------------------|-------------------------|------------------------------|
+| Poliamida               | 420 ºC                  | 425 ºC                       |
+| Polietileno             | 345 ºC                  | 490 ºC                       |
+| Aceite                  | 232 ºC                  | 343 ºC                       |
+| Madera                  | 225 ºC                  | 280 ºC                       |
+| Glicerina               | 160 ºC                  | 370 ºC                       |
+| Gasoil                  | 60 ºC                   | 330 ºC                       |
+| Alcohol etílico         | 18 ºC                   | 425 ºC                       |
+| Acetona                 | -18 ºC                  | 540 ºC                       |
+| Gasolina                | -39 ºC                  | 285 ºC                       |
+| Butano                  | -60 ºC                  | 287 ºC                       |
+| Propano                 | -104 ºC                 | 450 ºC                       |
+| Gas natural             | -180 ºC                 | 482 ºC                       |
+| Metano                  | -188 ºC                 | 537 ºC                       |
+| Hidrógeno               | -259 ºC                 | 580 ºC                       |
+
+---
+
+# 5.3. Energía de Activación. Calor
+- **Energía de Activación**: Energía mínima necesaria para iniciar la reacción, proporcionada por fuentes de ignición (llamas, superficies calientes, chispas eléctricas, brasas, etc.).
+- **Orígenes de la Energía de Activación**:
+  - Químico
+  - Mecánico
+  - Eléctrico
+  - Térmico
+  - Biológico
+  - Natural
+
+## Fuentes de Ignición
+- **Llamas**: Fuente segura de ignición.
+- **Chispas**: Deben tener suficiente energía para encender la mezcla.
+- **Superficies Calientes**: Deben tener dimensión y temperatura adecuadas.
+- **Brasas**: Calor por radiación en la combustión final.
+
+---
+
+# 5.2. Comburente
+- **Comburente**: Agente oxidante que permite la combustión, siendo el oxígeno (O₂) el más común.
+- **Composición del Aire**:
+  - **Oxígeno**: 21% en volumen (23% en peso).
+  - **Nitrógeno**: 78.03% en volumen.
+  - **Argón**: 0.94% en volumen.
+  - **CO₂**: 0.03% en volumen.
+
+### Tabla 5. Comburente
+
+| Composición del aire    | % en volumen | % en peso |
+|-------------------------|--------------|-----------|
+| Nitrógeno               | 78.03        | 75.45     |
+| Oxígeno                 | 20.99        | 23.2      |
+| Argón                   | 0.94         | 1.3       |
+| CO₂                     | 0.03         | 0.05      |
+| Otros                   | 0.01         | despreciable |
+
+---
+
+# 5.4. Reacciones en Cadena (REC)
+- **Reacción en Cadena**: Proceso que permite la combustión mediante la eliminación de radicales libres.
+- **Velocidad de Reacción**: Se duplica con un aumento de 10 ºC y puede multiplicarse por un millón con un aumento de 200 ºC.
+
+---
+
+# 5.5. Agentes Pasivos
+- **Agentes Pasivos**: No participan en la reacción química, pero afectan el comportamiento del fuego.
+  - Gases no inflamables (CO₂, vapor de agua)
+  - Hollín
+  - Agua
+  - Nitrógeno
+
+---
+
+# 6. Tipos de Incendios
+## Clasificación según la naturaleza del combustible
+### 6.1. Fuegos Clase A
+- **Descripción**: Fuegos originados por combustibles sólidos (madera, carbón, etc.).
+- **Pirólisis**: Descomposición química sin reacción con oxígeno.
+
+### 6.1.2. Fuegos Clase B
+- **Descripción**: Fuegos provocados por combustibles líquidos o sólidos con bajo punto de fusión.
+
+### 6.1.3. Fuegos Clase C
+- **Descripción**: Fuegos de gases (propano, butano, metano, etc.).
+
+### 6.1.4. Fuegos Clase D
+- **Descripción**: Fuegos originados por metales, difíciles de extinguir.
+
+### 6.1.5. Fuegos Clase F
+- **Descripción**: Fuegos originados por aceites de cocina y grasas.

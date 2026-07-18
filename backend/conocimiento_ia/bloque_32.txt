@@ -1,0 +1,74 @@
+# Técnicas de Intervención en Incendios
+
+## 1.6 Cuadro Resumen de Técnicas
+
+### Resumen de Técnicas de Extinción
+
+| Técnica                        | Descripción                                                                 | Caudal         | Cono         | Pulsaciones                         | Lanza                |
+|--------------------------------|-----------------------------------------------------------------------------|----------------|--------------|-------------------------------------|----------------------|
+| **Ataque Directo**            | Enfriamiento de superficies incendiadas e interrupción de la pirólisis.     | Caudal medio   | 0º a 15º     | Largas a aplicación continua         | En movimiento         |
+| **Ataque Indirecto**          | Inundación mediante vapor de agua.                                         | Caudal medio a alto | 15º a 30º | Media a larga duración               | En movimiento         |
+| **Enfriamiento de Gases**     | Reducir la inflamabilidad del colchón de gases.                            | Caudal bajo a medio | 30º        | Muy cortas en grupos, cortas en barrido | En movimiento         |
+| **Ataque Defensivo**          | Limitar la propagación del incendio.                                       | Caudal bajo    | 0º a 15º     | Larga duración o continua            | En movimiento         |
+| **Ataque Exterior Ofensivo**  | Reducción de la potencia del incendio.                                     | Caudal medio   | -            | Media a larga duración               | Estática              |
+
+## 1.7 Acceso a través de Puerta
+
+### Procedimiento de Apertura
+
+1. **Evaluar condiciones interiores**:
+   - Altura del colchón de gases
+   - Temperatura
+   - Color y densidad de los gases
+   - Corrientes de ventilación
+   - Nivel de visibilidad
+   - Localización de focos
+
+2. **Reducir peligrosidad**:
+   - Refrigeración/dilución del colchón de gases.
+
+### Proceso de Acceso
+
+- **Pulsación en la puerta**: Determinar temperatura al otro lado.
+- **Observación de condiciones**: Evaluar por encima y debajo del plano neutro.
+- **Pulsaciones profundas**: Si hay un colchón de gases importante.
+- **Cierre de puerta**: Permitir equilibrio térmico.
+- **Apertura de puerta**: Si condiciones son seguras.
+
+## 1.8 Elección del Caudal Apropiado
+
+### Definiciones Clave
+
+- **Gasto de agua**: Volumen de agua empleado.
+- **Caudal medio**: Gasto de agua dividido entre el tiempo de intervención.
+- **Caudal disponible**: Máximo caudal en punta de lanza.
+- **Caudal crítico**: Mínimo caudal para extinción.
+- **Caudal óptimo**: Caudal para extinción con mínimo gasto.
+
+### Recomendaciones de Caudal
+
+- No inferior al caudal óptimo.
+- Suficiente para garantizar seguridad frente a fenómenos rápidos.
+- Lo más cercano posible al caudal óptimo.
+
+### Datos Técnicos
+
+- **Francia**: Establece 500 LPM como caudal mínimo.
+- **NFPA 1410**: Exige 378 LPM como mínimo.
+- **Grimwood (2014)**: 24 LPM/MW para incendios residenciales.
+- **Barnett (2004)**: 5 LPM/m² para incendios en superficies amplias (>100m²).
+
+## 2. Técnicas de Control de la Ventilación
+
+### Objetivo
+
+Cambiar la dinámica del incendio mediante técnicas de ventilación.
+
+### Tipos de Técnicas
+
+- **Antiventilación o Confinamiento**: Limitar acceso a aire fresco.
+- **Ventilación Mecánica Forzada**: Aporte de aire al foco, requiere coordinación con aplicación de agua.
+
+### Importancia
+
+Conocer cuándo y por qué aplicar técnicas de ventilación es fundamental para mejorar condiciones internas sin propagar el incendio.

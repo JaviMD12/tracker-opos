@@ -1,0 +1,66 @@
+# Parte 7. NRBQ - Técnicas de intervención
+
+## 2.1.4. Retención
+La retención, o contención, utiliza barreras físicas para evitar que sustancias derramadas avancen hacia áreas no deseadas. Los diques pueden ser de tierra, cemento o materiales sintéticos.
+
+### Formas de retención:
+- **Confinamiento en tierra**: Se debe conocer la dirección y velocidad del flujo, así como la cantidad total del líquido derramado.
+- **Excavaciones**: Se pueden abrir zanjas en superficies no pavimentadas para contener el derrame.
+- **Confinamiento en agua**: Dependiendo de la densidad de la sustancia respecto al agua, se utilizan barreras verticales.
+
+## 2.1.5. Dispersión de vapor
+Se aplica a fugas de gases utilizando agua pulverizada para dispersar vapores y reducir la concentración de gases inflamables.
+
+## 2.1.6. Sobre-empaquetamiento
+Consiste en introducir un recipiente dañado en otro hermético de mayor tamaño, asegurando que no haya contraindicación con el producto.
+
+## 2.1.7. Taponamiento
+Técnica común para mitigar incidentes, consiste en sellar orificios o grietas en contenedores. Los materiales utilizados incluyen calzas, cojines neumáticos y parches.
+
+## 2.1.8. Trasvase
+Proceso de trasladar líquidos, gases o sólidos de un contenedor dañado a otro en buenas condiciones. Se debe tener cuidado con materiales inflamables.
+
+### Métodos de trasvase:
+- Manual
+- Bombas de trasvase
+- Diferencia de presión
+
+## 2.1.9. Supresión de vapor o Manto
+Controla la emisión de vapores mediante la aplicación de espumas. La efectividad depende de varios parámetros:
+
+### Parámetros a considerar:
+- **Relación de expansión**: 
+  - Baja expansión: 0,1% a 6% para hidrocarburos.
+  - Media expansión: 30:1 a 55:1 para productos químicos.
+  - Alta expansión: No aplicable en derrames.
+  
+- **Tasa de aplicación**:
+  - Mínima para hidrocarburos: 5 l/min m².
+  - Mínima para líquidos polares: 10 l/min m².
+
+### Proceso de aplicación:
+1. Impacto contra llamas.
+2. Formación de capa de espuma.
+3. Continuar aplicando espuma durante al menos 15 minutos.
+
+## 2.1.10. Venteo
+Emisión controlada de líquidos o gases comprimidos para reducir la presión interior y evitar explosiones.
+
+## 2.1.11. Relicuación
+Proceso para evitar el aumento de presión en el gas almacenado, canalizando fugas a un recipiente preparado y cubriéndolo para evitar evaporación.
+
+### Tabla 43: Tasa mínima de aplicación para áreas de vertido sin diques
+| LÍQUIDO | Tipo de espuma | Tasa Mínima de Aplicación (l/min m²) | TIEMPO MÍNIMO DE DESCARGA (min) |
+|---------|----------------|---------------------------------------|----------------------------------|
+| Hidrocarburos | Proteínica y Fluoroproteínica | 6,5 | 15 |
+| Hidrocarburos | AFFF, FFFP, y AFFF o FFFP resistentes al alcohol | 4,1 | 15 |
+| Líquidos polares | Espumas resistentes al alcohol | Depende datos fabricante | Depende datos fabricante |
+
+### Ejemplo de cálculo de espumógeno
+Para un charco de 200 m² de gasoil ardiendo:
+- **Tasa de aplicación**: 5 l/min m² o 6,5 según NFPA.
+- **Espumante necesario**: 
+  - 5 l/min m² x 200 m² = 1000 litros espumante x 0,03% = 30 litros espumógeno/min.
+  - 6,5 l/min m² x 200 m² = 1300 litros espumante x 0,03% = 39 litros espumógeno/min.
+
+Si se requiere mantener la tasa durante 10 minutos, se necesitarán 300 litros de espumógeno.

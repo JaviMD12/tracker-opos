@@ -1,0 +1,42 @@
+# Transferencia de Calor
+
+## 8.1. Conducción
+La **conducción** es la transferencia de calor por contacto molecular directo entre cuerpos, principalmente sólidos, aunque también en líquidos y gases. Ejemplo: una tubería de vapor transfiere calor a una pieza de madera.
+
+### Características de la Conducción
+- **Vacío absoluto**: No se transmite calor por conducción.
+- **Independencia de la presión**: La conducción a través de gases es independiente de la presión normal, acercándose a cero solo en presiones muy bajas.
+
+### Factores que Afectan la Conducción Térmica
+- **Superficie de contacto (S)**: Mayor superficie implica mayor transferencia de calor.
+- **Diferencia de temperaturas (T1 - T2)**: Mayor diferencia genera mayor flujo de calor.
+- **Espesor**: Un mayor espesor reduce la eficiencia de la transferencia de calor.
+- **Relación superficie/volumen**: A mayor división del combustible, mayor posibilidad de transferencia de calor.
+- **Conductividad térmica (K)**: Medida del flujo de calor a través de una unidad de superficie con un gradiente de temperatura. Unidad típica: **J / (cm · seg. °C)**.
+- **Grado de disgregación**: Menor densidad implica menor capacidad de conducción.
+- **Calor específico**: Cantidad de calor necesaria para elevar la temperatura de un material en 1 °C.
+
+## 8.2. Convección
+La **convección** es la transferencia de calor en medios fluidos (líquidos o gases) mediante el movimiento de masas calientes y frías.
+
+### Características de la Convección
+- **Movimiento de fluidos**: El aire caliente asciende y el frío desciende, creando un ciclo de circulación.
+- **Equilibrio térmico**: Dos sólidos en un fluido tienden a igualar sus temperaturas.
+
+### Aplicaciones de la Convección
+- Utilizada en calentadores de agua, chimeneas, ventiladores, etc.
+
+### Factores que Afectan la Convección
+- **Variaciones de densidad**: Cambios de temperatura afectan la densidad del fluido.
+- **Pendiente**: Acelera la desecación y calentamiento de combustibles situados por encima del foco calorífico.
+- **Compacidad de la capa de combustibles**: En capas muy compactas, la convección es menos efectiva.
+
+## 8.3. Radiación
+La **radiación** es la transmisión de calor mediante ondas electromagnéticas, que se propagan en línea recta a la velocidad de la luz.
+
+### Características de la Radiación
+- **Absorción, reflexión y transmisión**: Al interactuar con un cuerpo, la radiación puede ser absorbida, reflejada o transmitida.
+- **Ejemplo**: La llama de una vela calienta el aire circundante, y al acercar la mano se siente calor.
+
+### Emisiones de Combustión
+- Principalmente en la región del **infrarrojo** (longitudes de onda superiores al rojo). La visión humana percibe solo una fracción mínima en la región visible.

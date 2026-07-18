@@ -1,0 +1,66 @@
+# Parte 7. NRBQ
+
+## 5.5.1. Señales
+
+Las señales o pictogramas regulados por la normativa de mercancías peligrosas, residuos tóxicos y prevención de riesgos laborales facilitan la identificación de los riesgos asociados a sustancias. 
+
+### Pictogramas de advertencia
+- **Sustancias explosivas, autorreactivas y peróxidos orgánicos**: Pueden causar explosiones al calentarse.
+- **Gas bajo presión**: Puede explotar al calentarse.
+- **Gases inflamables**: Incluyen sustancias que pueden incendiarse espontáneamente o al contacto con el aire.
+- **Sustancias extremadamente tóxicas**: Pueden ser mortales al contacto con la piel, inhalación o ingestión.
+- **Efectos de sustancias peligrosas**:
+  - Cancerígenas
+  - Afectan la fertilidad
+  - Causan mutaciones
+  - Sensibilizantes respiratorios
+  - Tóxicas para órganos específicos
+  - Peligro por aspiración
+
+### Clasificación según el Reglamento CE 1272/2008 (CLP)
+- **Fecha de aplicación**:
+  - **1 de junio de 2015**: Pictogramas en recuadro naranja solo para mezclas.
+  - **1 de junio de 2017**: Etiquetas y paquetes deben cumplir con el etiquetado en recuadro azul.
+
+## 5.5.2. Colores
+
+Los colores en las señales indican el tipo de peligro:
+
+| COLOR    | CARACTERÍSTICA       | EJEMPLO        |
+|----------|----------------------|----------------|
+| ROJO     | Inflamable           |                |
+| AMARILLO | Oxidante             |                |
+| VERDE    | Gas no inflamable    |                |
+| NARANJA  | Explosivo            |                |
+| AZUL     | Reactivos al agua    |                |
+
+## 5.6. Tipo de transporte y forma del contenedor
+
+La forma de los contenedores ayuda a determinar los peligros de la materia transportada. El ADR establece condiciones para evitar reacciones o vertidos.
+
+### Tipos de vehículos:
+- **Vehículos con caja**: Solo transportan bultos.
+- **Cisternas elípticas**: Transportan líquidos o sólidos a baja presión.
+- **Cisternas circulares con fondos planos**: Para líquidos corrosivos.
+- **Cisternas circulares con fondos esféricos**: Para gases comprimidos a alta presión.
+
+### Indicadores de mercancía:
+- **Parasol**: Gases licuados del petróleo (GLP).
+- **Tuberías de descarga**: Indican líquidos o sólidos.
+- **Compresor de aire**: Materia no presurizada que requiere presión para descarga.
+
+## 5.7. Identificación de tuberías
+
+La señalización cromática de tuberías, según la norma DIN 2403, identifica las sustancias que circulan por ellas.
+
+### Señalización:
+- **Color básico**: Indica la naturaleza del fluido.
+- **Color complementario**: Indica el estado del fluido.
+- **Sentido de circulación**: Indicado por flechas en colores que contrasten.
+
+## 5.8. Equipamiento y etiquetado de botellas
+
+La normativa UNE-ES 1089-3 establece que:
+- El color del riesgo se representa en la parte superior de la botella.
+- Gases medicinales y respirables tienen colores específicos.
+- Botellas con normativa actualizada llevan dos letras "N" (nuevo) en lugares contrapuestos.

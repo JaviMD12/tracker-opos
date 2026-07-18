@@ -1,0 +1,54 @@
+# Espumas para Combate de Incendios
+
+## Características Generales
+- **Gran capacidad de retención de agua.**
+- **Burbujas minúsculas y tenaces.**
+- **Elevada resistencia al calor.**
+
+## Calidad de la Espuma
+- El agua contaminada (detergentes, residuos de petróleo, inhibidores de corrosión) puede reducir la calidad de la espuma.
+- La espuma es más estable con agua dulce o de mar a temperaturas de **12 ºC a 27 ºC**.
+
+## Aplicaciones de la Espuma
+### Espuma de Baja Expansión
+- **Uso:** Control y extinción de incendios de líquidos inflamables (Clase B) y fuegos de Clase A.
+- **Precauciones:** No aplicar sobre elementos con tensión eléctrica ni en incendios de materiales que reaccionen con agua (Clase D, carburo de calcio).
+- **Densidad de Aplicación:**
+  - Se expresa en litros de solución agua-concentrado por metro cuadrado.
+  - **Densidad recomendada:** **5 litros/minuto/m²** para incendios de derrames.
+  - Aumentar la densidad reduce el tiempo de extinción; una densidad inferior puede hacer que el incendio no se controle.
+
+#### Cálculo del Caudal Necesario
+- **Fórmula:** Superficie del derrame x densidad de aplicación = Caudal necesario.
+- **Ejemplo:**
+  - Para un derrame de **56 m²**: 
+    - **Caudal necesario:** **280 l/min** (una lanza de 400 l/min o dos de 200 l/min).
+  - Para un derrame de **100 m²**: 
+    - **Caudal necesario:** **500 l/min** (dos lanzas: una de 400 l/min y otra de 200 l/min, o tres de 200 l/min).
+
+### Espumas de Media Expansión
+- **Ratio de expansión:** 20:1 a 200:1.
+- **Uso:** Suprimir vaporización de químicos peligrosos en zonas confinadas (sótanos, barcos, alcantarillados).
+- **Expansión óptima:** Entre **30:1 y 50:1** para químicos reactivos y líquidos orgánicos de bajo punto de ebullición.
+
+### Espumas de Alta Expansión
+- **Ratio de expansión:** Mayor a 200:1.
+- **Uso:** Combate incendios en espacios confinados (garajes, bodegas, minas).
+- **Características:**
+  - Bajo contenido en agua (1:1000).
+  - Debe aplicarse en espacios con ventilación adecuada.
+  - **Profundidad de espuma:** Aproximadamente **60 cm**.
+
+#### Cálculo del Caudal para Espuma de Alta Expansión
+- **Fórmula (NFPA):** 
+  - \( R = \frac{V}{T} \cdot C_n \cdot C \)
+  - **Donde:**
+    - \( R \): Velocidad de descarga (m³/min).
+    - \( V \): Volumen del espacio a proteger.
+    - \( T \): Tiempo de descarga (2 a 8 minutos).
+    - \( C \): Compensación por contracción normal de la espuma (1.15).
+    - \( C_n \): Compensación por fugas (1.0 a 1.2).
+
+## Conclusiones
+- La correcta aplicación y cálculo de la densidad de espuma son cruciales para el éxito en la extinción de incendios.
+- La elección del tipo de espuma y su correcta dosificación dependen del tipo de incendio y las condiciones del entorno.

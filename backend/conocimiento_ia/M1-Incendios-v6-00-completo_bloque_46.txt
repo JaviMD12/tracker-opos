@@ -1,0 +1,85 @@
+# Salidas de Emergencia y Sistemas de Seguridad en Túneles
+
+## Salidas de Emergencia
+El sistema de evacuación debe contar con salidas de emergencia señalizadas, utilizadas en caso de:
+- **Accidente grave**
+- **Incendio**
+- **Vertido de materias peligrosas**
+
+### Tipos de Salidas de Emergencia
+1. **Salidas directas del túnel al exterior**
+2. **Conexiones transversales entre tubos de túnel**
+3. **Salidas a galería de emergencia**
+
+### Especificaciones de las Vías de Evacuación
+- **Estabilidad al fuego**: Materiales que no alteran su función mecánica.
+- **Resistencia al fuego**: Impide el paso de llamas o gases calientes.
+- **No emisión de gases inflamables**: No generan gases en su cara no expuesta al fuego.
+- **Resistencia térmica**: 
+  - Temperatura en la cara no expuesta no debe superar **180°C**.
+  - Media no debe superar **140°C**.
+  - No debe alcanzar **220°C**.
+
+## Galerías de Evacuación
+### Disposición Común
+1. **Dos tubos paralelos**: Comunicación entre tubos para evacuación.
+2. **Galería paralela al túnel**: Utilizada como vía de evacuación, normalmente presurizada.
+3. **Galería bajo la calzada**: Acceso a través de salidas de emergencia.
+4. **Galería en la clave**: Utiliza la galería de ventilación como vía de evacuación.
+5. **Galería ascendente**: Acceso rápido a la superficie.
+6. **Sin galería de evacuación**: Salidas de emergencia a lo largo del túnel.
+
+## Factores que Influyen en la Eficacia de la Evacuación
+- **Características de las vías de evacuación**.
+- **Plan de emergencias**: Obligatorio para túneles de la red de carreteras, excepto túneles urbanos de menos de **200 metros**.
+
+## Sistema de Suministro Energético
+- Debe garantizar el suministro eléctrico a instalaciones de seguridad.
+- Prever doble abastecimiento y generadores de emergencia.
+- Sistema de alimentación ininterrumpida (SAI).
+
+## Sistema de Iluminación
+- **Iluminación de servicio normal**: Facilita la adaptación del conductor.
+- **Iluminación de emergencia**: Necesaria a partir de:
+  - **200 metros** en túneles urbanos o interurbanos con retenciones.
+  - **500 metros** en túneles interurbanos.
+
+## Sistema de Comunicación
+- Asegurar comunicaciones vía radio entre equipos de emergencia.
+- Interfonos en postes S.O.S. cada **50-100 metros**.
+
+### Comunicaciones para Equipos de Emergencia
+- **Cobertura TETRA**: Para cuerpos de emergencia.
+- **Cobertura TETRAPOL**: Para cuerpos de seguridad.
+- **Ocho canales de FM Comercial**: Para usuarios del túnel.
+
+## Sistemas de Detección de Incendios
+- Obligatorio para túneles interurbanos > **500 metros** y urbanos con congestión > **200 metros**.
+- Tecnologías utilizadas:
+  - **Cable fibrolaser**.
+  - **Cable de cobre**.
+  - **Sensores de temperatura**.
+
+## Sistemas de Lucha Contra Incendios
+- Equipamiento mínimo en puestos de emergencia:
+  - **Teléfono de emergencia**.
+  - **Dos extintores**.
+- Instalaciones adicionales:
+  - **Bies**.
+  - **Columna seca**.
+  - **Grupos de presión**.
+
+## Sistemas de Ventilación del Túnel
+### Ventilación Natural
+- Utiliza efectos climatológicos, solo en túneles cortos.
+
+### Ventilación Forzada
+- Conjunto de ventiladores y conductos para dirigir aire fresco y humos.
+- **Normativa**: Ventilación artificial obligatoria para túneles > **500 metros**.
+
+### Tipos de Ventilación
+1. **Longitudinal**: Aire circula en un único sentido.
+2. **Semitransversal y Transversal**: Controlan velocidad del aire y evitan propagación de humo.
+
+## Normativa
+- **REAL DECRETO 635/2006**: Establece requisitos de ventilación y control de humo en túneles.

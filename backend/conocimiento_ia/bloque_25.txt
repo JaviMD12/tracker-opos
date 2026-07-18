@@ -1,0 +1,77 @@
+# Temario de Oposición: Incendios de Interior
+
+## 2.1. Poder Calorífico
+- **Definición**: Energía química contenida en un combustible, determinada por su composición y estructura molecular.
+- **Fórmula**:
+  - \( H_c = \text{poder calorífico} \, [kJ/kg] \)
+  - \( E_{inicio} = \text{energía química del combustible} \, [kJ/kg] \)
+  - \( E_{final} = \text{energía química de los productos de combustión} \, [kJ/kg] \)
+  - \( E_{activación} = \text{energía requerida para iniciar la combustión} \, [kJ/kg] \)
+
+## 2.2. Carga de Combustible
+- **Definición**: Medida de la cantidad de energía de los combustibles por unidad de superficie.
+- **Fórmula**:
+  - \( C_c = \text{carga de combustible} \, [kJ/m²] \)
+  - \( H_c = \text{poder calorífico} \, [kJ/kg] \)
+  - \( \mu = \text{masa de combustible por unidad de superficie} \, [kg/m²] \)
+- **Datos clave**:
+  - Cargas de combustible de **200 MJ/m²** son suficientes para alcanzar estados de ILV (Incendio de Llama Visible).
+
+## 2.3. Otros Factores Ligados al Combustible
+- **Tasa de Pirólisis (\( t_p \))**: Masa de combustible que piroliza por unidad de tiempo y superficie.
+- **Tasa de Combustión (\( m_c \))**: Velocidad a la que el combustible se consume \([kg/s]\).
+
+### Influencia del Combustible
+- **Potencia de Incendio**:
+  - Proporcional al poder calorífico del combustible.
+- **Velocidad de Desarrollo**:
+  - Influenciada por la facilidad de emisión de productos combustibles y la tasa de combustión.
+
+## Tabla 2. Características de las Reacciones
+| MATERIAL      | \( H_c \) [kJ/kg] |
+|---------------|-------------------|
+| Madera        | 16                |
+| Poliuretano   | 23                |
+| Carbón        | 29                |
+| Neumáticos    | 32                |
+| Gasolina      | 45                |
+
+## 2.4. Combustibles Tradicionales vs. Modernos
+- **Impacto de Materiales Sintéticos**:
+  - Mayor poder calorífico y desarrollo más rápido de incendios.
+- **Estudio de Underwriters Laboratories**:
+  - Los incendios modernos alcanzan el estado de ILV más rápidamente.
+  - Temperaturas y potencia del incendio son significativamente mayores.
+  - Menores concentraciones de oxígeno y rápida reacción a la ventilación.
+
+### Consideraciones sobre el Escenario de Incendio
+- Incendio infraventilado.
+- Ausencia de visibilidad.
+- Evolución brusca frente a aperturas de ventilación.
+
+## 3. Influencia del Recinto
+### 3.1. Incendios de Contenido vs. Estructura
+- **Incendios de Contenido**: Limitados a combustibles internos.
+- **Incendios de Estructura**: Afectan tanto a contenidos como a la estructura.
+
+### 3.2. Superficie y Altura del Recinto
+- **Carga de Combustible**: Referida a la superficie del recinto \([kJ/m²]\).
+- **Potencia Estimada de Incendio**:
+  | Tamaño Recinto | Potencia       |
+  |----------------|----------------|
+  | Pequeño 10 m²  | 4.4 MW (440 kW/m²) |
+  | Medio 16 m²    | 5.3 MW (331 kW/m²) |
+  | Grande 25 m²   | 6.1 MW (224 kW/m²) |
+
+### 3.3. Geometría Interna: Confinamiento y Compartimentación
+- **Confinamiento**: Grado de ventilación entre el recinto y el exterior.
+- **Compartimentación**: Influye en la propagación del incendio.
+
+### 3.4. Nivel de Aislamiento e Inercia Térmica
+- **Aislamiento Térmico**: Aumenta temperaturas y velocidad de desarrollo del incendio.
+- **Inercia Térmica**: Afecta la duración de las fases del incendio.
+
+## 4. Riesgos del Trabajo en Incendios de Interior
+### 4.1. Inflamabilidad y Fenómenos de Rápido Desarrollo
+- **Fenómenos**: Flashover, backdraft, explosión de humo.
+- **Condiciones**: Aumento en la potencia del incendio que dificulta la intervención.

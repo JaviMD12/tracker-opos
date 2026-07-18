@@ -1,0 +1,73 @@
+# Cuerdas en Rescate y Salvamento
+
+## Tipos de Cuerda
+
+### Clasificación por Elasticidad
+- **Cuerdas dinámicas**: Alta elasticidad.
+- **Cuerdas semiestáticas**: Baja elasticidad.
+
+### Clasificación por Resistencia
+- **Diámetro de cuerdas**: 
+  - Rango: **2 mm a 11 mm**.
+  - Medida más habitual: **8 mm a 11 mm**.
+  - Cuerdas por debajo de 8 mm se denominan **cordinos**.
+
+### Clasificación por Utilización
+1. **Cuerdas de uso en simple** (diámetros entre **9.4 mm y 11 mm**):
+   - Se utiliza un solo cabo.
+   - No atarse con dos cabos para evitar alta fuerza de choque.
+   
+2. **Cuerdas de uso en doble** (diámetro entre **8 mm y 9 mm**):
+   - Se encuerda con ambos cabos alternando por los seguros.
+   - Ventaja: No depende de una sola cuerda en caso de caída.
+
+3. **Cuerdas de uso en gemelas** (diámetro entre **8 mm y 9 mm**):
+   - Se utilizan como cuerdas simples, encordándose con ambas a la vez.
+
+## Revisión y Mantenimiento de las Cuerdas
+- Revisar periódicamente el estado de la cuerda, buscando:
+  - Cortes.
+  - Daños en la "camisa".
+  - Discontinuidad en el "alma".
+- Desechar cuerdas con anomalías.
+- Realizar una revisión visual y la prueba del bucle.
+- Cambiar cuerdas tras un choque o caída importante.
+- Sumergir la cuerda en agua antes de la primera utilización, ya que puede encoger un **2%**.
+
+## Física de la Caída
+
+### Energía de una Caída
+- La energía generada en una caída depende de:
+  - **Masa del usuario**: A mayor masa, mayor energía a disipar.
+  - **Altura de la caída**: A mayor altura, mayor energía a disipar.
+  - **Posición en relación al anclaje**: Aumenta la gravedad de la caída.
+
+### Fuerza de Choque
+- La fuerza de choque máxima que puede soportar el cuerpo humano es de **12 kN**.
+- En entornos laborales, la fuerza no debe superar **6 kN**.
+- Métodos para limitar la fuerza de choque:
+  - Asegurar elementos de amarre por encima del nivel de la cabeza.
+  - Usar EPI amortiguador de choques (absorbedores de energía).
+
+### Efecto Polea
+- En caso de caída, el último punto mosquetoneado sufre dos fuerzas:
+  - Fuerza de choque del bombero.
+  - Fuerza del bombero asegurador.
+- La fuerza total en el último punto es aproximadamente **1.60 veces** la fuerza que actúa sobre el bombero.
+
+### Factor de Caída
+- Se calcula como:
+  \[
+  \text{Factor de caída} = \frac{\text{Longitud de la caída}}{\text{Longitud de la cuerda utilizada}}
+  \]
+- Factor de caída máximo en condiciones normales: **2**.
+- A mayor longitud de cuerda, menor será el factor de caída y la sobrecarga en los anclajes.
+
+### Aseguramiento Dinámico y Estático
+- **Aseguramiento estático**: Bloqueo fijo de la cuerda, genera un fuerte impacto.
+- **Aseguramiento dinámico**: Permite deslizamiento de la cuerda, reduce el impacto y es más seguro.
+
+## Datos Técnicos Clave
+- **Fuerza de choque cuerda dinámica**: **7 kN** (caída de **1.2 m** con **0.6 m** de cuerda).
+- **Fuerza de choque cuerda estática**: **18 kN** (caída de **1.2 m** con **0.6 m** de cuerda).
+- **1 kN = 100 kg de fuerza**.

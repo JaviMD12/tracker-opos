@@ -1,0 +1,66 @@
+# Elementos Estructurales Inclinados
+
+## 1. Cubiertas
+
+### Definición
+La "Estructura" o "Armazón" de cubierta es el conjunto de elementos constructivos inclinados o horizontales que limita superiormente la edificación, con funciones estructurales.
+
+### Funciones
+- **Función Resistente**: Soporta:
+  - Peso de sus componentes.
+  - Sobrecargas y fenómenos meteorológicos (nieve, viento, térmicas).
+  - Acciones sísmicas.
+  
+- **Función Soporte**: Actúa como sostén de:
+  - Elementos de cerramiento exterior (aislamiento, impermeabilizante).
+  - Instalaciones específicas (antenas, pararrayos) y no específicas (chimeneas, ventilación).
+
+### Geometría
+La geometría y dimensiones de los elementos sustentantes dependen de la inclinación de los planos de cubierta. Se distinguen dos tipos de entramados inclinados:
+- **Estructuras trianguladas (Cerchas)**: Para grandes luces y cubiertas complejas.
+- **Estructuras entramadas (Forjados inclinados)**: Para luces pequeñas y cubiertas sencillas.
+
+## 2. Cerchas
+
+### Caracterización
+Las cerchas son estructuras trianguladas que sostienen cubiertas ligeras de grandes luces.
+
+#### Geometría
+- Composición de piezas lineales en un mismo plano con inclinación característica.
+
+#### Rigidez
+- Uniones deben ser lo menos rígidas posibles.
+- Elementos auxiliares deben ser sencillos.
+- Esfuerzos deben equilibrarse en los nudos.
+
+### Elementos/Nomenclatura
+- **Pares**: Piezas inclinadas exteriores que propician la inclinación de la cubierta.
+- **Tirante**: Une los pares por la parte inferior.
+- **Péndolas**: Barras interiores verticales que trabajan a tracción.
+- **Tornapuntas**: Barras diagonales interiores que trabajan a compresión.
+- **Nudos**: Puntos de conexión de las distintas barras.
+
+### Tipos de Cerchas
+#### 1. Cerchas de Madera
+- **Estructuras Simples**: Para luces inferiores a 6 m.
+  - **Cubiertas sin pares**: Luz depende del canto de las correas.
+  - **Cubiertas con pares**: Generalmente a dos aguas, apoyan en muros de carga.
+
+#### 2. Estructuras Compuestas
+- Para luces mayores de 4-5 m, utilizan elementos de forma triangular.
+
+### Arriostramiento de Cubiertas
+- Necesario para evitar el vuelco de cerchas ante fuerzas fuera de su plano.
+- Comúnmente se utilizan cruces de San Andrés.
+
+### Sistemas de Arriostramiento
+- **Específicos**: 
+  - Tornapuntas para movimiento en el plano de la cercha.
+  - Sotahilera para movimiento perpendicular al plano.
+
+## Datos Técnicos Clave
+- **Luces**: 
+  - Cerchas simples: hasta 6 m.
+  - Cerchas compuestas: mayores de 4-5 m.
+- **Distancia entre correas**: 40-60 cm.
+- **Tirantes**: Colocar cada 5 o 6 pares para absorber reacciones horizontales.

@@ -1,0 +1,55 @@
+# CAPÍTULO 2: Técnicas
+
+En este apartado se enumeran y se detallan las aplicaciones técnicas de la hidráulica en las operativas de bomberos.
+
+## 1. Bombas Centrífugas
+
+Una bomba centrífuga transforma la energía mecánica del motor en energía hidráulica. Incrementa la velocidad del fluido mediante paletas giratorias y, al no tener volúmenes cerrados, el fluido discurre por pasajes abiertos, transformando parte de su velocidad en presión.
+
+### Datos Clave:
+- **Altura manométrica de la bomba (Hₘ)**: Incremento de energía expresado en forma de presiones.
+- **Potencia útil (Wₕₜ)**: Potencia transferida al fluido.
+- **Rendimiento energético (η)**: Relación entre potencia útil y potencia consumida por el motor.
+
+### 1.1. Curva Característica de una Bomba
+
+Las curvas características representan las particularidades de una bomba centrífuga, mostrando el campo de trabajo y las variables:
+
+- **Variable independiente**: Caudal (eje de abscisas).
+- **Variables dependientes**: Altura manométrica (Hₘ), potencia consumida y rendimiento (η).
+
+### Observaciones:
+- La altura manométrica es máxima para un caudal nulo y disminuye al aumentar el caudal.
+- El punto óptimo de funcionamiento es donde el rendimiento energético es más elevado.
+
+### 1.2. Aspiración en Bombas
+
+La altura máxima teórica de aspiración es **10,33 metros**, pero no se puede alcanzar debido a:
+
+- Presión atmosférica menor de 1 atmósfera.
+- Presión de vapor del agua.
+- Imperfecciones en el vacío logrado.
+- Pérdidas de carga en mangueras.
+
+La altura de aspiración real se reduce a **entre 7 y 8 metros**.
+
+### 1.3. Cebado de Bomba
+
+El cebado es esencial para que la bomba funcione, ya que debe inundarse antes de operar. Existen dispositivos de cebado:
+
+- **Cebado por eyector de gases**: Utiliza el efecto Venturi de los gases de escape.
+- **Cebado por depresor de vacío**: Utiliza una bomba de vacío eléctrica.
+
+### Tabla 5: Pérdida de Aspiración
+
+| Temperatura (ºC) | Pérdida de aspiración (m.c.a.) |
+|-------------------|--------------------------------|
+| 10                | 0,125                          |
+| 15                | 0,173                          |
+| 20                | 0,236                          |
+| 25                | 0,32                           |
+| 30                | 0,43                           |
+| 35                | 0,57                           |
+| 40                | 0,745                          |
+
+Esta información es crucial para entender el funcionamiento y las limitaciones de las bombas centrífugas en operaciones de bomberos.

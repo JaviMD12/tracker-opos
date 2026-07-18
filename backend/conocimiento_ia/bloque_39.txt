@@ -1,0 +1,68 @@
+# Valoración de incendios de interior
+
+## Estabilidad estructural
+- **Indicativo de intervención**: La estabilidad estructural establece el tiempo de intervención disponible.
+- **Dificultad de evaluación**: Establecer la estabilidad de una construcción a priori es complicado.
+- **Estructuras de acero**: 
+  - Soportan temperaturas medias prolongadas.
+  - Un pico de temperatura puede causar colapso al reducir el límite elástico del acero.
+- **Estructuras de hormigón armado**: 
+  - Resistentes a picos de temperatura alta.
+  - Exposiciones prolongadas pueden causar fisuras y desconchamientos, debilitando la armadura de acero.
+- **Estructuras de madera**: 
+  - Inflamables y pueden aportar combustible al incendio.
+  - Presentan buena estabilidad estructural en llamas, pero se debilitan con la pérdida de sección.
+
+## Ocupación
+- **Carga de combustible**: Varía con el uso del edificio; mayor en recintos comerciales que en residenciales.
+- **Edificios multivivienda**: Requieren control de propagación y aseguramiento de vías de escape.
+
+## Antigüedad
+- **Indicador de estructura**: La antigüedad indica el tipo de estructura, grado de compartimentación y existencia de espacios diáfanos.
+- **Materiales modernos**: Ricos en materiales sintéticos, desarrollan incendios más rápidamente y con mayor potencia.
+
+## Superficie
+- **Carga de combustible**: Directamente relacionada con la superficie del recinto.
+- **Potencias de incendio**: 
+  - Habituales en edificación residencial: 
+    - **450 kW/m²** para recintos pequeños.
+    - **250 kW/m²** para recintos más grandes.
+- **Caudal óptimo**: La superficie es un parámetro clave para establecer el caudal óptimo en el ataque a incendios.
+
+## Compartimentación
+- **Dificultad de propagación**: Un mayor grado de compartimentación dificulta el desarrollo y propagación del incendio.
+- **Ventajas**: Favorece la lucha contra el incendio, requiriendo un caudal de extinción menor.
+
+## Altura
+- **Dificultades en edificios altos**: Presentan dificultades de acceso y requieren tácticas específicas para controlar la propagación de gases.
+- **Altura de techos**: Mayor altura implica mayor volumen de aire y capacidad para albergar productos de combustión.
+
+## Aislamiento y estanqueidad
+- **Edificaciones modernas**: Alto grado de aislamiento térmico y estanqueidad.
+- **Temperaturas en incendio**: Un recinto bien aislado presentará temperaturas superiores en incendio.
+
+## Aperturas de ventilación
+- **Alimentación del incendio**: Las aperturas de ventilación alimentan el incendio y generan un flujo de gases.
+- **Evaluación de aperturas**: Ventanales grandes y otras aperturas deben ser valoradas.
+
+## Espacios ocultos
+- **Riesgos**: Falsos techos y conductos de climatización pueden acumular gases y contribuir a la propagación del incendio.
+
+## Humo
+- **Color del humo**: Indica la naturaleza del combustible y el tipo de combustión.
+  - **Negro**: Combustión incompleta.
+  - **Claro**: Combustiones completas o en etapas iniciales.
+  - **Amarillento**: Alto contenido en gases de pirólisis.
+  - **Blanquecino**: Presencia de vapor de agua.
+- **Opacidad**: Relacionada con la cantidad de carbonilla y partículas de combustión.
+- **Densidad**: 
+  - Humo frío → alta densidad, dificultad para flotación.
+  - Humo caliente → baja densidad, facilidad para flotación.
+- **Espesor del colchón de humo**: Indica la cantidad de gases de incendio acumulados y afecta la visibilidad interior.
+
+## Flujo de gases
+- **Flujos en aperturas**: 
+  - **Entrada**: Aire limpio en la parte baja.
+  - **Salida**: Gases de incendio en la parte superior.
+  - **Bidireccionales**: En aperturas a nivel de incendio, con exposición a gases de incendio.
+- **Cortinas de humo**: Permiten evaluar el patrón de ventilación y el flujo de gases.

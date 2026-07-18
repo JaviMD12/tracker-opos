@@ -1,0 +1,113 @@
+# Combustibles Forestales
+
+## 1. Introducción
+El clima en verano se caracteriza por prolongadas sequías, lo que ha llevado a la estabilización de bosques compuestos por especies que requieren fuego para su ciclo reproductivo. En España, las especies más comunes son:
+
+- **Pino Carrasco** (*Pinus halepensis*)
+- **Pino Piñonero** (*Pinus pinea*)
+- **Pinaster** (*Pinus pinaster*)
+- **Laricio** (*Pinus nigra*)
+
+Estas especies tienen un alto contenido en resina y aceites esenciales, lo que incrementa el riesgo de incendios.
+
+## 2. Tipos de Combustibles
+Los combustibles se clasifican según su velocidad de propagación y resistencia al control en:
+
+- Bajo
+- Medio
+- Alto
+- Extremo
+
+La clasificación se basa en partes de incendios y estimaciones de expertos, considerando tanto las características como la disponibilidad del combustible.
+
+## 3. Características del Combustible
+- **Tamaño y forma**: A menor tamaño, mayor rapidez en la pérdida de humedad y en alcanzar la temperatura de ignición.
+  - Fino: 0-5 mm (hojarascas, pasto)
+  - Regular: 5-25 mm (ramillas)
+  - Mediano: 25-75 mm (ramas)
+  - Grueso: >75 mm (troncos)
+  
+- **Compactación**: Mayor espacio entre partículas permite una circulación de aire más rápida, aumentando la velocidad de propagación del fuego.
+
+- **Densidad**: Mayor densidad implica mayor capacidad de absorber calor sin elevar la temperatura de ignición.
+
+- **Sustancias químicas**: Resinas y aceites en algunas maderas aumentan la propagación del incendio.
+
+- **Humedad**: 
+  - **Vivos**: Varía según el clima, máximo en primavera y mínimo en verano.
+  - **Muertos**: Varía con la humedad ambiental.
+
+- **Tiempo de retardo**: Tiempo que tarda un combustible muerto en equilibrar su humedad con la del ambiente, medido en horas:
+  - De 1 hora: <6 mm (hierbas)
+  - De 10 horas: 6 mm a 2.5 cm (ramas pequeñas)
+  - De 100 horas: 2.5-7.5 cm (ramas mayores)
+  - De 1000 horas: 7.5-20 cm (troncos)
+
+## 4. Disponibilidad y Distribución Espacial del Combustible
+- **Cantidad de combustible**: Peso seco total por unidad de superficie.
+  - Pastos y arbustos: 1-10 Tm/Ha
+  - Matorrales: 10-40 Tm/Ha
+
+### Tipos de Cantidad de Combustible
+- **Total**: Fitomasa que podría arder en un fuego intenso.
+- **Disponible**: Cantidad que realmente se consume en un incendio.
+- **Restante**: Fracción que no arderá por diversas razones.
+
+### Distribución Espacial
+- **Continuidad horizontal**: Distribución en el plano horizontal (uniforme o no uniforme).
+- **Continuidad vertical**: Distribución en el plano vertical, influye en la posibilidad de que un incendio de superficie pase a ser uno de copas.
+
+## 5. Modelos de Combustibles (Rothermel)
+Desarrollados en EE.UU. en los años 70, estos modelos describen el comportamiento del fuego en diferentes tipos de combustibles.
+
+### Grupos de Modelos
+- **Pastos**: Modelos 1-3
+- **Matorral**: Modelos 4-7
+- **Hojarasca bajo arbolado**: Modelos 8-10
+- **Ramaje y restos de operaciones silvícolas**: Modelos 11-13
+
+### Ejemplos de Modelos
+- **Modelo 1**: Propagación rápida, carga de combustible: 1-2 t/ha.
+- **Modelo 4**: Matorrales de 2 m, carga de combustible: 25-35 t/ha.
+- **Modelo 11**: Bosque claro, carga de combustible: 25-30 t/ha.
+
+## 6. Clasificación de Especies según su Inflamabilidad
+### Muy Inflamables
+- **Brezo** (*Calluna vulgaris*)
+- **Eucalipto** (*Eucalyptus sp.*)
+- **Pino Carrasco** (*Pinus halepensis*)
+
+### Medianamente Inflamables
+- **Madroño** (*Arbutus unedo*)
+- **Enebro** (*Juniperus oxycedrus*)
+
+## 7. Factores del Incendio que Determinan su Comportamiento
+### 7.1. Longitud de Llama
+Máxima distancia entre la base y la punta de la llama, medida en metros.
+
+### 7.2. Intensidad Lineal del Fuego
+Velocidad de liberación de energía por unidad de frente.
+
+### 7.3. Velocidad de Propagación
+Medida en km/h o m/s, describe el avance del fuego.
+
+### 7.4. Grandes Incendios Forestales (GIF)
+Generan condiciones atmosféricas propias que afectan su comportamiento.
+
+## 8. Clasificación e Identificación de Alarma por el Humo
+### Según el Origen
+- **Legítimos**: Quemadas autorizadas.
+- **Ilegítimos**: Incendios.
+
+### Según el Color
+- **Gris café**: Matorrales ralos.
+- **Negro**: Matorrales densos, fuego intenso.
+- **Blanco**: Pastizales, fuego de baja intensidad.
+
+### Según el Volumen
+Proporcional a la cantidad y tipo de combustible incendiado.
+
+### Según el Ángulo de Elevación
+- **Vertical**: Poco viento, fácil control.
+- **Diagonal**: Vientos moderados, peligroso.
+- **Tumbada**: Fuertes vientos, difícil control.

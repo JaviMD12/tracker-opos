@@ -1,0 +1,75 @@
+# Temario de Oposición: Comportamiento de Materiales ante el Fuego
+
+## 1. Conclusiones ante potenciales intervenciones de bomberos
+
+### Acero
+- **Peligrosidad**: Material estructural más peligroso para los bomberos. 
+  - **Pérdida de resistencia**: Rápida en incendios ordinarios.
+- **Colapso por dilataciones**: 
+  - Dilatación fácil con el calor, puede provocar desplomes.
+- **Refrigeración**: 
+  - Refrigerar estructuras de acero para evitar altas temperaturas.
+  - **Enfriamientos bruscos**: Pueden causar daños y colapso.
+
+### Hormigón
+- **Masa**: Alta, requiere gran cantidad de calor para aumentar temperatura.
+- **Conductividad térmica**: Baja, reduce la zona de influencia del calor.
+- **Coeficiente de dilatación**: Bajo, no se propaga el calor lejos del foco.
+- **Reacción al fuego**: M0 o A1, no contribuye al incendio.
+- **Resistencia mecánica al calor**:
+  - **300º C**: Comienza la pérdida de resistencia.
+  - **500º C**: Pérdida del 50% de la resistencia inicial.
+  - **600º C**: Expansión de áridos, comportamiento frágil.
+  - **1000º C**: Disgregación de grava y deshidratación del cemento (4 cm/hora).
+
+#### Cambios de color en el hormigón
+- **200-300º C**: Color gris original, resistencia total.
+- **300-600º C**: Tonos rojizos, afectación pero sano.
+- **600-900º C**: Segundo gris con partículas rojas, pérdida importante de resistencia.
+- **900º C en adelante**: Color ante o amarillo pálido, resistencia nula.
+
+### Caracterización del Hormigón
+- **Esfuerzos**: Afectación en tracción y flexión, colapso a >800º C.
+- **Tipologías**:
+  - **Hormigón armado**:
+    - **Positivos**: No combustibles, baja propagación del calor.
+    - **Negativos**: Pérdida de resistencia >380º C, posible colapso por procesos termomecánicos.
+  - **Hormigón pretensado**:
+    - **Comportamiento**: Pérdida de resistencia más rápida que el armado.
+    - **Datos**: Pérdida del 35% en hormigón = 60-70% en acero de pretensado.
+  - **Hormigón postensado**:
+    - **Comportamiento**: Peor que el pretensado, menor protección al fuego.
+
+### Fábrica
+- **Masa**: Alta, gran inercia térmica.
+- **Conductividad térmica**: Baja, incremento de temperatura solo en la parte afectada.
+- **Reacción al fuego**: No combustible.
+- **Resistencia al fuego**:
+  - **Alta**: Materiales pétreos.
+  - **Media/baja**: Hormigón y ladrillos con alto índice de huecos.
+
+### Madera
+- **Masa**: Baja, no requiere gran carga térmica.
+- **Conductividad térmica**: Baja, incremento de temperatura solo en la parte afectada.
+- **Reacción al fuego**: Alta, contribuye a la carga térmica.
+- **Resistencia al fuego**: Gana resistencia a medida que se reduce la humedad.
+  - **Carbonización**: 1 cm / 15 minutos.
+
+## 2. Elementos de protección contra el fuego
+### Objetivos
+- Evitar el desplome de la estructura resistente.
+- Evitar la propagación del fuego.
+
+### Sistemas de protección estructural
+1. **Recubrimiento con paneles ignífugos**: Espesor depende de la resistencia al fuego requerida.
+2. **Pinturas intumescentes**: 
+   - Reacción a >200º C, aumenta hasta 50 veces su grosor.
+   - Protección hasta 60 minutos, máximo 120 minutos.
+3. **Protección sólida**: Macizo de hormigón que incrementa resistencia.
+4. **Morteros**: Mejora resistencia al fuego, aplicación precisa.
+
+### Tipologías de protección
+- Paneles ignífugos
+- Pinturas intumescentes
+- Morteros
+- Protecciones sólidas

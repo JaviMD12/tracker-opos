@@ -1,0 +1,93 @@
+# Parte 7. NRBQ
+
+## 1. Caracterización de Ácidos y Bases
+
+### Ácidos
+- **Definición**: Sustancias que pueden ceder o donar un protón (H+).
+- **pH**: Entre 0 y 3.
+- **Ejemplos**:
+  - Ácido clorhídrico (HCl)
+  - Ácido perclórico (HClO₄)
+  - Ácido sulfúrico (H₂SO₄)
+
+### Bases
+- **Definición**: Sustancias que aportan iones OH- en una solución líquida.
+- **pH**:
+  - **Bases fuertes**: Entre 12 y 14.
+  - **Bases débiles**: Entre 8 y 11.
+- **Ejemplos**:
+  - **Bases fuertes**: Hidróxido de sodio (NaOH), Hidróxido de potasio (KOH).
+  - **Bases débiles**: Amoníaco (NH₃), Metilamina (CH₃NH₂).
+
+### Clasificación de Materias según pH
+| Tipo   | Materia | Características Generales | Papel Tornasol | pH   |
+|--------|---------|--------------------------|----------------|------|
+| Ácido  | Sustancia que puede ceder un protón (H+) | Sabor agrio, irrita la piel, disuelve metales, neutraliza bases | Cambia de azul a rojo | 1-6  |
+| Base   | Sustancia que puede aceptar un protón (H+) | Sabor amargo, deslizante al tacto, cáustica a la piel, neutraliza ácidos | Cambia de rojo a azul | 8-14 |
+
+## 2. Inflamabilidad
+
+### a) Rango de Inflamabilidad
+- **Límite Inferior de Inflamabilidad (LII)**: Concentración mínima necesaria para que ocurra la inflamación.
+- **Límite Superior de Inflamabilidad (LSI)**: Concentración máxima de vapor de combustible necesaria para producir fuego.
+
+### Ejemplo de Límites de Inflamabilidad
+| Sustancia | LII (%) | LSI (%) |
+|-----------|---------|---------|
+| Butano    | 1.8     | 8.4     |
+| Gasolina  | 1.4     | 7.6     |
+| Hidrógeno | 4.1     | 75.6    |
+
+### b) Punto de Inflamación
+- **Definición**: Temperatura mínima a la que los vapores de un líquido pueden formar una mezcla combustible con el aire.
+- **Clasificación**:
+  - **Líquido combustible**: Punto de inflamación ≥ 38 ºC.
+  - **Líquido inflamable**: Punto de inflamación < 38 ºC.
+
+### c) Energía Mínima de Ignición (EMI o MIE)
+- **Definición**: Energía mínima necesaria para iniciar la combustión de una mezcla inflamable.
+- **Valores**:
+  - Butano: 0.25 mJ a 1 atmósfera.
+  - Hidrógeno: 0.017 mJ.
+
+## 3. Toxicología
+
+### Definición
+Disciplina que identifica y cuantifica los efectos nocivos de la exposición a agentes físicos y sustancias químicas.
+
+### Ecuación de Riesgo
+- **Riesgo para la salud** = Exposición + Toxicidad
+
+### Conceptos Clave
+- **Dosis Letal (DL50)**: Dosis que causa mortalidad del 50% en una población.
+- **Dosis Efectiva (DE50)**: Dosis que genera un efecto específico en el 50% de los sujetos.
+- **NOEL (NOAEL)**: Nivel sin efectos adversos observados.
+- **LOAEL**: Dosis mínima que produce algún efecto.
+- **Concentración Letal 50 (CL50)**: Concentración que puede causar la muerte del 50% de los individuos en un tiempo determinado.
+
+### Clasificación de Sustancias Tóxicas
+- **MUY TÓXICOS**: Efectos agudos o mortales en pequeñas cantidades.
+- **TÓXICOS**: Efectos agudos o mortales en cantidades pequeñas.
+- **NOCIVOS**: Efectos en cantidades no pequeñas.
+- **CORROSIVOS**: Acción destructiva sobre tejidos vivos.
+- **IRRITANTES**: Pueden causar inflamación tras contacto prolongado.
+- **SENSIBILIZANTES**: Causan reacciones de hipersensibilidad.
+
+## 4. Normativa sobre Sustancias Peligrosas
+
+### Clasificación y Transporte
+- **Reglamento (CE) nº 1272/2008**: Clasificación, etiquetado y envasado de sustancias peligrosas.
+- **Mercancías Peligrosas**: Sustancias reguladas en su transporte internacional.
+
+### Estándares Internacionales para el Transporte
+| Normativa | Medio de Transporte |
+|-----------|---------------------|
+| ADR       | Carretera           |
+| RID       | Ferrocarril         |
+| ADN       | Navegación Interior  |
+| IATA-OACI | Aviación            |
+| IMO-IMDG  | Marítima            |
+
+### Valores Límite de CO₂
+- **Aire normal**: 0.04% de CO₂.
+- **Peligro inmediato para la salud**: 4% de CO₂ (IDLH o IPVS).

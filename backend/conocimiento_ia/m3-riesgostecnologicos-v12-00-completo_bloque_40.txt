@@ -1,0 +1,62 @@
+# Técnicas de Estabilización de Sistemas Constructivos y Terrenos
+
+## I. Elementos Compuestos
+
+### Recercados de Huecos en Muros de Carga
+- **Función**: Elementos de seguridad en muros para contrarrestar daños locales y colaborar en la estabilización general.
+- **Diseño**: Debe ser adaptado a los esfuerzos específicos a contrarrestar.
+- **Solución recomendada**: Cruz de San Andrés (recercado en aspas) para recoger esfuerzos desde todas las direcciones.
+
+### Puentes de Apeo
+- **Definición**: Compuesto por una pieza horizontal (aguja) y dos verticales (pies derechos).
+- **Función**: Estabiliza muros de fachada recogiendo cargas perpendiculares.
+- **Anclaje**: Debe incluir orejas para evitar desplazamientos laterales.
+
+### Apeo en Asnillas
+- **Descripción**: Pareja de tornapuntas con tirantes en su base para contrarrestar empujes horizontales.
+- **Uso**: Solo en casos estrictamente necesarios debido a su complejidad.
+
+## II. Apeos de Emergencia
+- **Definición**: Utilizados en edificaciones con riesgo de colapso inmediato.
+- **Características**: Medios de fortuna que proporcionan un grado mínimo de estabilidad.
+- **Técnicas**:
+  - **Sistemas Comprimidos**: Para estabilizar elementos verticales y horizontales.
+  - **Sistemas Traccionados**: Utilizan cuerdas y tracteles para estabilizar estructuras.
+
+### III.1. Sistemas Comprimidos
+
+#### III.1.1. Apeo en Llave
+- **Geometría**: Tablones de madera contrapeados formando un prisma cuadrado.
+- **Altura máxima**: No debe sobrepasar tres veces la longitud del lado de su base.
+- **Aspectos**:
+  - **Positivos**: Optimización de madera, velocidad de ejecución, mínimo de herramientas.
+  - **Negativos**: Gran cantidad de madera necesaria para varios forjados.
+
+#### III.1.2. Materiales Ensacados
+- **Uso**: Materiales granulares o pulverulentos (ej.: sacos de árido) como elementos resistentes.
+- **Resistencia**: Estimada en la mitad de la resistencia nominal del material (ej.: áridos no superior a 4 kg/cm²).
+- **Aspectos**:
+  - **Positivos**: Disponibilidad inmediata.
+  - **Negativos**: Comportamiento difícil de predecir.
+
+### III.2. Sistemas Traccionados o Atirantados
+- **Definición**: Utilizados en edificaciones antiguas con problemas de estabilidad.
+- **Cuerdas**: Resistencia mecánica de 25 kN/cuerda (2.500 kg), reducida en un 20% por nudos.
+- **Tracteles**: 
+  - **Modelos**:
+    - **Tilfor T13**: Cable Ø11,5 mm → 8.000 kg → 78,4 kN
+    - **Tilfor T35**: Cable Ø16,3 mm → 16.000 kg → 156,8 kN
+
+## Ejemplo de Zunchado
+- **Cintas de Carraca**: Resistencias de 35 kN, utilizadas para estabilizar elementos estructurales mediante contención lateral.
+
+## Modelos de Apeos según el Elemento a Apeo
+
+### I. Apeos de Forjados
+- **Apeo por el Interior**:
+  - **Geometría**: Uso de pies derechos/puntales telescópicos con sopandas y durmientes.
+  - **Arriostramiento**: Asegurar el durmiente contra movimientos laterales.
+
+---
+
+Este documento proporciona un resumen de las técnicas de estabilización de sistemas constructivos y terrenos, destacando elementos clave, definiciones y características técnicas relevantes para su aplicación.

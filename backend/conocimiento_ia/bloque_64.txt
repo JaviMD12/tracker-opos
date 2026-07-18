@@ -1,0 +1,67 @@
+# Manual de Incendios
+
+## 1. Caracterización de Vientos
+
+### a) Vientos de Ladera
+- **Duración:** Desde 8:00 a.m. hasta la puesta del sol (6:00 p.m.) o cuando la ladera queda en sombra.
+- **Velocidad:** 6-13 km/h.
+- **Intensidad:** Puede ser intenso en las cumbres, con turbulencias cuesta arriba.
+- **Nota:** Un cambio de viento de descendente a ascendente puede activar el fuego en minutos.
+
+### b) Vientos de Valle
+- **Descripción:** Soplan paralelos al eje longitudinal del valle, resultando de gradientes de presión horizontal.
+- **Comportamiento:** Durante el día, el aire caliente asciende; por la noche, soplan valle abajo.
+
+### c) Brisa
+- **Brisa Marina:** Se produce por la diferencia de temperatura entre tierra y mar. 
+  - **Día:** Tierra más caliente genera corrientes ascendentes.
+  - **Noche:** Agua más caliente genera brisas suaves.
+- **Brisas de Montaña (Viento Catabático):** Vientos suaves en laderas de solana, con velocidad de unos pocos km/h.
+
+### d) Olas de Montaña
+- **Condiciones:** Se producen cuando una masa de aire se desplaza rápidamente y perpendicularmente al eje montañoso.
+- **Efecto:** Puede generar vientos calientes y secos similares al foehn.
+
+### e) Foehn
+- **Características:** Vientos cálidos, secos y de gran intensidad que soplan de regiones altas a bajas.
+- **Velocidad:** Hasta 145 km/h, con humedad relativa del 3%.
+- **Duración:** No suelen durar más de tres días.
+- **Impacto:** Afectan especialmente a zonas costeras, desecando rápidamente la vegetación.
+
+### f) Torbellinos
+- **Definición:** Columna de aire ascendente que rota, levantando humo y escombros.
+- **Tipos:**
+  - **Horizontal:** Rotación paralela al suelo.
+  - **Vertical:** Rotación perpendicular al suelo.
+- **Desplazamiento:** Se desplazan con el viento cuando este supera los 7-8 km/h.
+
+## 2. Inversión Térmica
+- **Definición:** Fenómeno donde el aire frío se sitúa bajo una masa de aire caliente.
+- **Condiciones:** Generalmente ocurre por la tarde, afectando el comportamiento del fuego.
+- **Tipos:**
+  - **Nocturna o de Radiación:** Se forma durante la noche.
+  - **Frontal:** Ocurre con el paso de frentes fríos o cálidos.
+  - **Marina:** Frecuente en costas, donde el aire marino fresco pasa por debajo de aire caliente.
+  - **Por Subsidencia:** Capa de aire caliente y seco se forma por compresión al caer desde lo alto.
+
+## 3. Tormentas
+### a) Tormenta Ígnea
+- **Descripción:** Fenómeno natural en grandes incendios que crea su propio sistema de viento.
+- **Efecto:** Genera corrientes ascendentes y fuertes ráfagas de viento, aumentando la combustión.
+
+### b) Pyrocumulus
+- **Definición:** Nube que se forma por el calentamiento del aire desde un incendio.
+
+### c) Reventones
+- **Descripción:** Fenómeno dentro de la columna de convección que produce corrientes descendentes.
+- **Indicadores:**
+  - Inicio de lluvia y evaporación.
+  - Desarrollo de una intensa columna de convección.
+  - Calma en los vientos antes de un reventón.
+
+## 4. Nivel de Riesgo de Incendio
+| Riesgo Potencial | Coincidencias | Condiciones |
+|------------------|---------------|-------------|
+| Grave            | 2 condiciones | Temperatura > 30º, Humedad < 35%, Viento > 30 km/h |
+| Extremo          | 3 condiciones | Máximo riesgo |
+| Extremo          | 3 condiciones + incendio en pendiente |  |

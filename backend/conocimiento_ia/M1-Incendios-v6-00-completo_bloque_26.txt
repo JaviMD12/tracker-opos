@@ -1,0 +1,81 @@
+# Temario de Oposición: Incendios de Interior
+
+## 4. Inflamabilidad de los Gases de Incendio
+- **Factores que influyen en la inflamabilidad**:
+  - Composición de los gases de incendio.
+  - Fracción de combustible.
+  - Temperatura.
+  - Concentración de oxígeno.
+
+## 4.2. Calor
+- **Peligro físico**: El calor puede causar desde lesiones leves hasta la muerte si supera la capacidad de defensa del cuerpo humano.
+- **Transmisión de calor**:
+  - Irradiación desde el foco del incendio.
+  - Colchón de gases a altas temperaturas.
+  - Contacto con el equipo de protección personal (conducción).
+  - Convección en zonas de flujos de gases calientes.
+
+- **Temperatura crítica**: 
+  - **140°C**: Máxima temperatura del aire respirado que permite sobrevivir, tolerable solo brevemente y sin humedad.
+  
+- **Variaciones térmicas**:
+  - Zonas superiores pueden superar **600°C**.
+  - Colchón de gases inferior alrededor de **100°C**.
+
+- **Umbral de radiación**:
+  - **10 kW/m²**: Umbral de trabajo para bomberos equipados.
+  - **20 kW/m²**: Puede causar daños a equipos de protección y personales.
+
+## 4.3. Toxicidad
+- **Exposición a agentes tóxicos**: Combinaciones de agentes pueden tener efectos sinérgicos, siendo más tóxicos en conjunto.
+- **Efectos nocivos**: Afectan el tejido pulmonar y la función vital a través de la corriente sanguínea.
+
+## 4.4. Visibilidad
+- **Reducción de visibilidad**: Aumenta con la concentración de partículas en suspensión.
+- **Riesgos**: Desorientación y dificultad para localizar el foco del incendio.
+
+## 4.5. Rango de Supervivencia de Víctimas
+- **Parámetros que influyen**:
+  - **Respiratorios**: Agentes tóxicos, ausencia de oxígeno, partículas en suspensión.
+  - **Térmicos**: Efectos del calor, quemaduras, bloqueo respiratorio.
+
+- **Estudios de supervivencia**: 
+  - **6-12 minutos**: Rango de supervivencia desde el inicio del incendio en una estancia con puerta abierta.
+  - **5 minutos**: Tiempo para alcanzar el régimen de ILV.
+
+## 5. Influencia de la Aplicación de Agua sobre Incendios
+- **Efectos de la aplicación de agua**:
+  - **Enfriamiento**: Absorción de energía, enfriamiento de gases y combustible.
+  - **Dilución**: Disminución de concentraciones de comburente y combustible.
+
+### 5.1. Efecto de Enfriamiento
+- **Fases del enfriamiento**:
+  1. Calentamiento del agua.
+  2. Cambio de fase líquido-gas (evaporación).
+  3. Calentamiento del vapor de agua.
+
+- **Calor específico del agua**: 
+  - **Ce H2O**: Aproximadamente **4.183 kJ/kgºC**.
+  - **Calor latente de evaporación**: **Cv H2O = 2.257 kJ/kg**.
+
+### 5.2. Efecto de Dilución
+- **Expansión del vapor de agua**: 
+  - A **100°C**, el volumen de vapor es **1.600 veces** mayor que el volumen original en fase líquida.
+
+| Temperatura [°C] | Volumen de vapor [L] |
+|-------------------|----------------------|
+| 100               | 1.600                |
+| 200               | 2.060                |
+| 300               | 2.520                |
+| 400               | 2.980                |
+| 500               | 3.440                |
+| 600               | 3.900                |
+
+### 5.3. Efectividad en la Aplicación de Agua
+- **Comparación de energía absorbida**:
+  - Agua que no se evapora: absorbe energía hasta su temperatura final.
+  - Agua que se convierte en vapor: absorbe al menos **7 veces más** energía.
+
+## Ejemplos de Cálculo
+- **Calor absorbido al elevar la temperatura de 1L de agua de 18°C a 100°C**.
+- **Calor absorbido al elevar la temperatura de 1kg de vapor de agua de 100°C a 300°C**.

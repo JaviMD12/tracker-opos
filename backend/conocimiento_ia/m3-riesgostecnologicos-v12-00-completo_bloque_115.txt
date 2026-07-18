@@ -1,0 +1,51 @@
+# Parte 7. NRBQ
+
+## Caracterización
+
+### Contenedor de gas con elementos múltiples (CGEM)
+- **Definición**: Sistema de transporte con elementos conectados por una tubería colectora, montados en un cuadro.
+- **Componentes**: Botellas, tubos, bidones a presión, botellones, bloques de botellas.
+- **Capacidad**: Cisternas con capacidad superior a **450 litros** para gases.
+
+### Vehículo batería
+- **Definición**: Vehículo donde los recipientes están unidos por una tubería colectora y montados de forma permanente.
+- **Componentes**: Botellas, tubos, bidones a presión, botellones, bloques de botellas.
+- **Capacidad**: Cisternas con capacidad superior a **450 litros** para gases peligrosos.
+
+### Cisterna para residuos que operan al vacío
+- **Características**: 
+  - No suelen estar implicadas en intervenciones.
+  - Catalogadas en el ADR.
+  - Diseñadas para el transporte de residuos peligrosos.
+  - Conocidas como “chuponas”.
+
+### Vehículos-caja para radiactivos
+- **Definición**: Vehículos estancos que transportan material radiactivo.
+- **Riesgo**: No suponen riesgo si el material radiactivo permanece en su embalaje.
+
+### Aislamiento térmico de cisternas
+- **Tipos**:
+  - **Sin aislamiento**: Transportan líquidos que no requieren regulación de temperatura (ej. diesel, gasolina).
+  - **Aisladas con elementos**: Capa aislante y recubrimiento, utilizan lana de roca o poliuretano.
+  - **Aisladas al vacío**: Para gases criogénicos (ej. oxígeno, nitrógeno).
+  - **Calefactadas o refrigeradas**: Utilizan resistencias eléctricas o vapor para mantener la temperatura.
+
+### Equipamiento de seguridad y servicio
+- **Objetivo**: Asegurar la utilización y respuesta ante emergencias.
+- **Elementos de estructura**: Fijaciones que aportan refuerzo y protección.
+- **Elementos de servicio**:
+  - Dispositivos de llenado, vaciado, aireación, seguridad, calefacción y aislamiento térmico.
+  - Aparatos de medida.
+
+### Elementos importantes en caso de emergencia
+1. **Boca de hombre**
+   - Ubicación: Parte superior de la cisterna.
+   - Funciones: Acceso para limpieza, inspección y carga por gravedad.
+   - Dispositivos comunes:
+     - Válvula de cinco efectos.
+     - Válvula de recuperación de gases.
+     - Orificio para mediciones de nivel.
+     - Tapín: Actúa como válvula de sobrellenado a **250-280 mbar**.
+
+2. **Orificio de limpieza**
+   - Ubicación: Parte inferior de la cisterna, por encima del nivel del líquido transportado.

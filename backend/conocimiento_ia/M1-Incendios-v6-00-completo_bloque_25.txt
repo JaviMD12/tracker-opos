@@ -1,0 +1,90 @@
+# Temario de Oposición: Incendios de Interior
+
+## 2.1. Poder Calorífico
+El poder calorífico de un combustible se define como la energía química contenida en él, que depende de su composición y estructura molecular. Se puede calcular mediante la siguiente fórmula:
+
+- **Fórmula:**
+  \[
+  H_c = Eq_{\text{inicio}} - Eq_{\text{final}} + E_{\text{activación}}
+  \]
+  Donde:
+  - \( H_c \) = poder calorífico [kJ/kg]
+  - \( Eq_{\text{inicio}} \) = energía química del combustible [kJ/kg]
+  - \( Eq_{\text{final}} \) = energía química de los productos de la combustión [kJ/kg]
+  - \( E_{\text{activación}} \) = energía requerida para iniciar la combustión [kJ/kg]
+
+## 2.2. Carga de Combustible
+La carga de combustible (\( C_c \)) es la cantidad de energía de los combustibles por unidad de superficie, calculada como:
+
+- **Fórmula:**
+  \[
+  C_c = H_c \cdot \mu
+  \]
+  Donde:
+  - \( C_c \) = carga de combustible [kJ/m²]
+  - \( H_c \) = poder calorífico [kJ/kg]
+  - \( \mu \) = masa de combustible por unidad de superficie [kg/m²]
+
+### Datos Clave
+- Cargas de combustible de **200 MJ/m²** son suficientes para alcanzar estados de **ILV** (Incendio de Llama Visible).
+- La duración del estado de pleno desarrollo en un incendio interior depende de la carga de combustible y otros factores.
+
+## 2.3. Otros Factores Ligados al Combustible
+- **Tasa de Pirólisis (\( t_p \))**: Masa de combustible que piroliza por unidad de tiempo y superficie.
+- **Tasa de Combustión (\( m_c \))**: Velocidad a la que el combustible se consume [kg/s].
+
+### Influencia del Combustible
+- La potencia de un incendio es directamente proporcional al poder calorífico del combustible.
+- La velocidad de desarrollo del incendio depende de:
+  - Facilidad para emitir productos combustibles en fase gaseosa.
+  - Velocidad de consumo del combustible.
+
+### Tabla 2: Características de las Reacciones
+| Material      | \( H_c \) [kJ/kg] |
+|---------------|-------------------|
+| Madera        | 16                |
+| Poliuretano   | 23                |
+| Carbón        | 29                |
+| Neumáticos    | 32                |
+| Gasolina      | 45                |
+
+### Tabla 3: Velocidad de Desarrollo del Incendio
+| Velocidad de Desarrollo | Tasa de Pirólisis | Tasa de Combustión |
+|------------------------|--------------------|---------------------|
+| Muy rápido             | Alta               | Alta                |
+| Rápido                 | Media              | Alta                |
+| Rápido                 | Alta               | Media               |
+| Media                  | Media              | Media               |
+| Lento                  | Baja               | Baja                |
+
+## 2.4. Combustibles Tradicionales vs. Modernos
+- Los combustibles modernos (plásticos y materiales sintéticos) tienen un poder calorífico superior y curvas de desarrollo más rápidas.
+- **Conclusiones del estudio de Underwriters Laboratories:**
+  - El estado de **ILV** se alcanza más rápidamente con materiales sintéticos.
+  - Los incendios confinados evolucionan a incendios infraventilados.
+  - Temperaturas y potencia del incendio son significativamente mayores.
+  - Menores concentraciones de oxígeno en incendios modernos.
+
+## 3. Influencia del Recinto
+### 3.1. Incendios de Contenido vs. Incendios de Estructura
+- **Incendios de Contenido**: Se limitan a los combustibles en el interior.
+- **Incendios de Estructura**: Afectan tanto a los contenidos como a la estructura misma.
+
+### 3.2. Superficie y Altura del Recinto
+- La carga de combustible se refiere a la superficie del recinto y se expresa en [kJ/m²].
+- **Ejemplo de Potencia Estimada de Incendio:**
+  | Tamaño del Recinto | Potencia      |
+  |--------------------|---------------|
+  | Pequeño (10 m²)    | 4,4 MW (440 kW/m²) |
+  | Medio (16 m²)      | 5,3 MW (331 kW/m²) |
+  | Grande (25 m²)     | 6,1 MW (224 kW/m²) |
+
+### 3.3. Geometría Interna: Confinamiento y Compartimentación
+- El grado de ventilación y compartimentación afecta la potencia del incendio y la posibilidad de alcanzar el flashover.
+
+### 3.4. Nivel de Aislamiento e Inercia Térmica
+- Un alto nivel de aislamiento térmico provoca mayores temperaturas y velocidad de desarrollo del incendio.
+
+## 4. Riesgos del Trabajo en Incendios de Interior
+### 4.1. Inflamabilidad y Fenómenos de Rápido Desarrollo
+- Los gases de incendio pueden alcanzar su punto de inflamabilidad, generando fenómenos como flashover y backdraft, aumentando la potencia del incendio y dificultando la intervención.

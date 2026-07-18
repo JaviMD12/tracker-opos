@@ -1,0 +1,71 @@
+# Parte 6. Riesgo eléctrico
+
+## Casos prácticos
+
+### 1. Incendio de vegetación
+- **Acciones a realizar:**
+  1. Acotar la zona a la distancia de seguridad adecuada.
+  2. Controlar la propagación de la zona.
+  3. Extinguir (cuando la compañía eléctrica comunique que la instalación se encuentra en descargo) usando los EPI adecuados.
+
+- **Fin de la intervención:**
+  - Informar a la compañía suministradora para que verifique la instalación y la ponga de nuevo en funcionamiento.
+
+### 2. Corte de tensión en bloque de viviendas con escape de gas
+- **Planteamiento:**
+  - Realización de un corte de alimentación eléctrica en un bloque de pisos con un escape de gas.
+
+- **Seguridad:**
+  - Contemplar la posibilidad de una deflagración.
+  - Manejar con cuidado los elementos del equipo (linternas, emisoras, explosímetros, etc.) debido a que cualquier conexión/desconexión de aparato eléctrico puede generar un arco que desemboca en una explosión.
+
+- **Intervención:**
+  - No tocar ningún interruptor ni desconectar la tensión en el interior de la zona afectada.
+  - Evacuar la vivienda (realizado por las fuerzas del orden).
+  - Realizar el corte de suministro desde el exterior:
+    - Retirada rápida de fusibles en la CGP.
+    - Si es posible, hacerlo desde el cuarto de contadores, accionando el interruptor general de corte.
+  - Ventilar los locales abriendo ventanas y claraboyas, y colocando un ventilador en la puerta de acceso.
+
+### 3. Rescate de máquina en contacto con línea de alta tensión
+- **Planteamiento:**
+  - Rescate en una máquina que ha quedado enganchada en una línea de alta tensión (AT).
+
+- **Intervención:**
+  1. Pedir calma al conductor de la máquina y que espere en cabina.
+  2. Solicitar el corte de suministro a la compañía, informando sobre el lugar y características de la instalación (torres o postes más próximos + nº identificación).
+  3. Guardar las distancias de seguridad.
+  4. Solicitar al conductor:
+     - Que intente mover la máquina para alejarla de la zona eléctrica.
+     - Que no descienda hasta que se encuentre a una distancia segura (por riesgo de electrocución).
+  5. Si la máquina no puede moverse o se ha incendiado, solicitar al conductor que salte desde la cabina lo más lejos posible de la máquina.
+  6. Indicar al conductor que, una vez que haya saltado, se aleje de la máquina con pasos cortos o a saltitos con los pies juntos.
+
+- **Nota:**
+  - En caso de corte de cableado subterráneo de AT por retroalimentación, actuar de la misma forma, siempre que se trate de un solo cable. Si se cortan dos fases, no se recomienda la manipulación de la máquina, ya que se encuentra en corto circuito.
+
+### 4. Rescate de accidentado en líneas subterráneas de AT
+- **Planteamiento:**
+  - La distribución de electricidad entre plantas generadoras, Subestaciones Transformadoras (ST) y Centros de Transformación (CT) se realiza en Alta Tensión (AT).
+
+- **Intervención:**
+  1. Solicitar el corte de tensión a la compañía o al personal desplazado, informando sobre su localización y características importantes.
+  2. Esperar confirmación de la compañía sobre la instalación en descargo antes de iniciar el rescate.
+  3. Si el accidentado permanece en contacto, iniciar su rescate con medios adecuados al nivel de tensión (pértiga aislante, pértiga de salvamento, guantes aislantes).
+  4. Si la persona no está en contacto, retirarla hasta la zona de seguridad, guardando siempre una distancia prudencial.
+
+## Materiales
+- **Equipos necesarios:**
+  - Pértiga aislante (36 kV).
+  - Detectores de tensión para pértiga (luminosos o acústico-luminosos).
+  - Pértiga de rescate con gancho (45 kV).
+  - Banqueta aislante (30 kV).
+  - Guantes de clase III.
+  - Otros materiales para BT: 
+    - Alfombra aislante (1.000 V).
+    - Cizalla dieléctrica.
+    - Destornilladores aislados.
+    - Alicates aislados.
+    - Maneta extractora de fusibles.
+    - Polímetros o pinzas amperimétricas.
+    - Guantes de clase 0 y guantes de trabajo.

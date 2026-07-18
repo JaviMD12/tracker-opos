@@ -1,0 +1,68 @@
+# Confinamiento y Ventilación de Incendios
+
+## Confinamiento de Incendios
+El confinamiento de incendios es crucial para evitar que los gases de incendio se propaguen a otras áreas. Este proceso implica cerrar puertas y ventanas, y puede incluir el uso de dispositivos de aislamiento como cortinas portátiles.
+
+### Ventajas del Confinamiento
+- **Reduce la potencia del incendio.**
+- **Evita la salida de gases de incendio a otras estancias.**
+- **Prioriza la protección de áreas comunes como escaleras y pasillos.**
+
+### Inconvenientes
+- El plano neutro del incendio puede bajar hasta el suelo, reduciendo la visibilidad.
+
+## Ventilación Natural
+La ventilación natural busca evacuar los gases de incendio utilizando diferencias de presión generadas por el propio incendio. 
+
+### Objetivos
+- **Recuperar visibilidad.**
+- **Expulsar atmósfera combustible (hasta un 50% de reducción).**
+- **Reducir temperatura para facilitar operaciones.**
+
+### Tipos de Ventilación Natural
+1. **Ventilación Vertical**
+   - Entrada y salida de gases a diferentes niveles.
+   - Ideal para establecer un flujo unidireccional.
+   
+   **Factores que afectan la eficiencia:**
+   - Diferencia de presión entre entrada y salida.
+   - Tamaño de la salida de gases.
+   - Relación entre la salida y la entrada de gases (recomendado r=0.5).
+
+2. **Ventilación Horizontal**
+   - Entrada y salida de gases al mismo nivel.
+   - Flujos bidireccionales, menos efectiva que la vertical.
+
+   **Factores que afectan la eficiencia:**
+   - Tamaño de la apertura de gases.
+   - Altura de la apertura de gases.
+   - Proximidad de la salida de gases al foco del incendio.
+
+## Ventilación Forzada
+La ventilación forzada utiliza ventiladores mecánicos para expulsar gases, estableciendo flujos unidireccionales.
+
+### Tipos de Ventilación Forzada
+1. **Ventilación por Presión Positiva (VPP)**
+   - Ventilador colocado en la entrada principal.
+   - Crea un diferencial de presión que expulsa gases calientes.
+
+   **Ejemplo de cálculo:**
+   - Velocidad de entrada: 8 m/s.
+   - Velocidad de salida: 4 m/s.
+   - Diferencial de presión: 28.8 Pa.
+   - Flujo de salida: 2,304 m³/h.
+
+2. **Ventilación por Presión Negativa (VPN)**
+   - Utiliza extractores para crear un diferencial de presión negativo.
+   - Menor uso en intervenciones debido a riesgos para el personal.
+
+### Equipos de Ventilación Forzada
+- **Ventiladores Térmicos:** 
+  - Potencia de motor de 3CV a 150CV.
+  - Prácticos y autónomos, pero con limitaciones en protección ATEX.
+
+- **Ventiladores Eléctricos:**
+  - Conectados a la red, ofrecen un rendimiento constante.
+
+## Consideraciones Finales
+El uso de técnicas de ventilación debe ser adaptado a las condiciones específicas del incendio y la estructura afectada, priorizando siempre la seguridad del personal y la eficacia en el control del fuego.

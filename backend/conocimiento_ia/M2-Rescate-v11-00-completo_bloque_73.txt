@@ -1,0 +1,54 @@
+# Sistemas de Seguridad en Vehículos
+
+## Pretensores Pirotécnicos
+- **Pretensor pirotécnico de bolas**: Adosados al arrollador del cinturón de seguridad. Se activan al detectar un impacto y una desaceleración que supera el umbral de activación.
+- **Pretensores adaptativos**: Dos pretensores que se activan según la severidad del impacto.
+
+## Sistemas de Sujeción Programada (SSP)
+- **Función**: El carrete del cinturón se deforma por la fuerza del ocupante, absorbiendo parte de la energía y reduciendo la presión sobre el pecho.
+
+## Componentes de Seguridad
+- **Bandeja portaobjetos**: Diseñada sin aristas sobresalientes, debe desprenderse o deformarse sin causar peligro en caso de impacto.
+- **Interruptores y tiradores**: Deben evitar el funcionamiento accidental y desprenderse en caso de impacto.
+- **Guarnecido de refuerzos del techo**: Sin asperezas peligrosas, debe absorber energía.
+- **Espejo retrovisor interior**: Debe desprenderse al recibir un golpe.
+
+## Airbags
+- **Definición**: Sistemas de retención suplementaria (SRS) que se inflan instantáneamente en caso de impacto.
+- **Componentes del sistema de airbags**:
+  - Unidad electrónica de control.
+  - Mínimo dos sensores de deceleración.
+  - Reserva de energía.
+  - Generador de gas (99% N₂).
+  - Bolsa de aire (generalmente de nylon).
+
+### Activación de Airbags
+- **Requisitos para activación**:
+  - Velocidad del vehículo > 30 km/h.
+  - Ángulo de impacto ≤ 15º.
+  - Asiento ocupado.
+  - Detección de deceleración instantánea.
+- **Tiempo de hinchado**: Menos de 30 milisegundos.
+
+### Tipos de Airbags
+- **Airbag lateral**: Se despliega entre la puerta y el cuerpo del ocupante en caso de impacto lateral.
+- **Cortina hinchable**: Se despliega desde el techo, protegiendo la cabeza y el cuello.
+- **Airbag trasero**: Protege a los pasajeros de los asientos traseros en colisiones.
+- **Air belt**: Cinturón de seguridad con airbag incorporado.
+- **Airbag de rodilla**: Se sitúa debajo de la columna de dirección.
+- **Airbag para peatones**: Se despliega por debajo del capó para proteger a los peatones en caso de atropello.
+- **Airbags inteligentes**: Detectan la severidad del impacto y ajustan el inflado.
+
+## Reposacabezas
+- **Función**: Evitar el "efecto látigo" en colisiones. Los reposacabezas activos se ajustan en caso de colisión trasera.
+
+## Elementos de Seguridad Adicionales para Terceros
+- **Paragolpes**: Diseñados para reducir lesiones en caso de atropello.
+- **Capó activo**: Se eleva en caso de impacto con un peatón, creando espacio para reducir lesiones.
+- **Faros**: Los cerquillos no deben sobresalir más de 3 cm respecto a la superficie del cristal.
+
+## Datos Técnicos Clave
+- **Velocidad mínima para activación de airbags**: > 30 km/h.
+- **Ángulo de impacto para activación**: ≤ 15º.
+- **Tiempo de hinchado de airbags**: < 30 milisegundos.
+- **Composición del gas en airbags**: 99% N₂.

@@ -1,0 +1,77 @@
+# Temario de Oposición: Técnicas de Intervención y Máquinas Simples
+
+## 1. Factores que condicionan el desarrollo de maniobras
+- **Cargas a desplazar**: 
+  - **Peso específico aparente (kN/m³)**:
+    - Cal: 13
+    - Yeso: 15
+    - Cemento: 16
+    - Hormigón: 24 + 1 (hormigón armado)
+    - Acero: 77 – 78.5
+    - Basalto: 30
+- **Movimiento a realizar**: Izado, arrastre, empuje, rodamiento.
+- **Condiciones de la carga**: Anclajes y sujeciones existentes.
+
+## 2. Máquinas Simples
+
+### 2.1 Palancas
+- **Definición**: Barra rígida que bascula sobre un punto fijo (fulcro) al aplicar una fuerza (potencia, P) para vencer una resistencia (R).
+- **Tipos de palancas**:
+  - **1er grado**: Potencia y resistencia a ambos lados del fulcro (ej. tijeras).
+  - **2º grado**: Resistencia entre el fulcro y la potencia (ej. carretilla).
+  - **3er grado**: Potencia entre la resistencia y el fulcro (ej. pinzas).
+- **Equilibrio**: 
+  - \( P \times d_p = R \times d_r \)
+  - Para mover R sin incrementar P, aumentar \( d_p \) o reducir \( d_r \).
+
+### 2.2 Poleas
+- **Definición**: Máquina simple compuesta por una rueda que gira alrededor de un eje, utilizada para transmitir fuerza o cambiar la dirección del movimiento.
+- **Tipos de poleas**:
+  - **Fija**: \( Q = P \)
+  - **Móvil**: \( P = \frac{Q}{2} \) (si P y Q son paralelas).
+- **Combinación de poleas**:
+  - \( F_1 = \frac{F_2}{2^n} \)
+  - \( P = \frac{R}{2^n} \) (donde n es el número de poleas móviles).
+
+### 2.3 Polipasto
+- **Definición**: Combinación de poleas que permite la reducción de la fuerza necesaria para mover un peso.
+- **Fórmula**: \( P = \frac{R}{2^n} \)
+
+## 3. Uso de Medios de Bomberos para la Fabricación de Máquinas Simples
+
+### 3.1 Tractel
+- **Características**:
+  - **Capacidad de elevación**:
+    - T-13: 1500 kg
+    - T-35: 3000 kg
+  - **Capacidad de tracción**:
+    - T-13: 3000 kg
+    - T-35: 5000 kg
+- **Coeficientes de rozamiento**:
+  - Hormigón: 0.8
+  - Tierra suelta: 0.35
+
+### 3.2 Elementos Auxiliares
+- **Carga de rotura**: Carga máxima soportada por un aparejo.
+- **Carga de trabajo**: Carga utilizada en la operación.
+- **Cálculo de resistencia**:
+  - **Cables**: Resistencia de trabajo debe ser del 70% para estabilizaciones y 40% para cargas dinámicas.
+  - **Eslingas**: Multiplicar carga de trabajo por el coseno del ángulo formado por cada ramal respecto a la vertical.
+
+### 3.3 Anclajes
+- **Tipos**:
+  - **Existentes**: Pilares de hormigón, armazones metálicos.
+  - **Artificiales**: Picas de ferralla, deben formar ángulos de 45º con el terreno.
+- **Resistencia**: Entre 4 - 6 kN con seis o más picas.
+
+## 4. Cojines Neumáticos de Alta Presión
+- **Tipos**: Alta presión (8-10 kg/cm²) y baja presión (0.5-1 kg/cm²).
+- **Fórmula de fuerza**: \( F = P \times S \)
+- **Consideraciones de seguridad**:
+  - Evitar contacto con superficies cortantes o calientes.
+  - Revisar cojines antes y después de cada uso.
+  - Mantener distancia prudente durante la operación.
+
+---
+
+Este temario proporciona una visión general de los conceptos técnicos y fórmulas clave que son esenciales para la preparación de oposiciones en el ámbito de técnicas de intervención y máquinas simples.

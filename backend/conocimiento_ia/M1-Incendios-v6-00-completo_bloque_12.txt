@@ -1,0 +1,44 @@
+# 8. Transferencia de Calor
+
+## 8.1. Conducción
+La **conducción** es la transferencia de calor por contacto molecular directo entre cuerpos, principalmente sólidos, aunque también en líquidos y gases. 
+
+### Principios de la Conducción
+- **Mecanismo**: Cuando un cuerpo se calienta, las moléculas vibran y transmiten energía cinética a las moléculas vecinas.
+- **Vacío**: No hay conducción en el vacío absoluto, ya que se necesita materia.
+- **Gases**: La conducción en gases es independiente de la presión, excepto a presiones muy bajas.
+
+### Factores que Afectan la Conducción Térmica
+- **Superficie de contacto (S)**: Mayor superficie implica mayor transferencia de calor.
+- **Diferencia de temperaturas (T1 - T2)**: Mayor diferencia genera mayor flujo de calor.
+- **Espesor**: Un mayor espesor reduce la eficiencia de la transferencia de calor.
+- **Relación superficie/volumen**: Mayor en materiales finamente divididos, aumentando la transferencia de calor.
+- **Conductividad térmica (K)**: Medida del flujo de calor a través de una unidad de superficie con un gradiente de temperatura. Unidad típica: **J / (cm · seg. °C)**.
+- **Grado de disgregación**: Menor densidad reduce la capacidad de conducción.
+- **Calor específico**: Cantidad de calor necesaria para elevar la temperatura de un material en 1 °C. Un mayor calor específico implica más tiempo para alcanzar el equilibrio térmico.
+
+## 8.2. Convección
+La **convección** es la transferencia de calor en líquidos y gases a través de la circulación de fluidos.
+
+### Principios de la Convección
+- **Mecanismo**: El líquido o gas caliente se expande, se vuelve menos denso y asciende, desplazando el aire frío hacia abajo.
+- **Equilibrio térmico**: Se busca igualar temperaturas en un sistema aislado.
+
+### Aplicaciones de la Convección
+- Distribución de calor en habitaciones (ej. estufas).
+- Transformación de incendios de superficie en fuegos de copas.
+
+### Factores que Afectan la Convección
+- **Variaciones de densidad**: Cambios de temperatura afectan la densidad del fluido.
+- **Pendiente**: Acelera la desecación y calentamiento de combustibles.
+- **Compacidad de la capa de combustibles**: Capas muy compactas limitan la acción de la convección.
+
+## 8.3. Radiación
+La **radiación** es la transmisión de calor a través de ondas electromagnéticas.
+
+### Principios de la Radiación
+- **Mecanismo**: Se propaga en línea recta a la velocidad de la luz, tanto en medios materiales como en el vacío.
+- **Absorción**: El calor radiado es absorbido, reflejado o transmitido al encontrar un cuerpo.
+
+### Ejemplo de Radiación
+- La llama de una vela: El aire caliente asciende mientras el aire frío desciende, manteniendo la combustión. La sensación de calor al acercar la mano a la llama es un ejemplo de calor radiante.

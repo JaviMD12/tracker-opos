@@ -1,0 +1,74 @@
+# Mecanismos de Extinción
+
+Los mecanismos de extinción se basan en eliminar o disminuir los efectos de los factores del incendio que conforman el tetraedro de fuego: **combustible**, **comburente**, **energía de activación (calor)** y **reacción en cadena**.
+
+## 1. Desalimentación o Eliminación del Combustible
+
+Consiste en la retirada parcial o total del combustible, siempre que la velocidad de retirada sea mayor que la velocidad de propagación del fuego. 
+
+- **Dilución**: Se logra disminuir la concentración de combustible para que los vapores generados queden por debajo del **Límite Inferior de Inflamabilidad (LII)**.
+
+### Formas de Desalimentación
+- **Directa**: Separación física de los combustibles del foco del incendio.
+- **Indirecta**: Refrigeración de otros combustibles o interposición de elementos incombustibles.
+
+## 2. Sofocación o Eliminación del Comburente
+
+Consiste en eliminar o desplazar el comburente, reduciendo su concentración (en el caso del oxígeno, por debajo del **15%**).
+
+### Métodos de Sofocación
+- **Separación completa del comburente**: Recubrimiento del combustible con arena, espuma, polvos, etc.
+- **Dilución del oxígeno**: Aplicación de agua pulverizada que se convierte en vapor, desplazando el oxígeno.
+
+## 3. Enfriamiento
+
+El objetivo es reducir la temperatura del combustible por debajo de su **punto de ignición**. 
+
+- **Agua**: Absorbe **540 calorías** por cada gramo al evaporarse.
+- **Otros agentes**: CO₂, halones y polvo antibrasa ABC tienen menor efecto de refrigeración.
+
+## 4. Inhibición o Rotura de la Reacción en Cadena
+
+Consiste en desactivar los radicales libres que originan la reacción en cadena de la combustión. 
+
+- **Agentes**: Halones y polvo seco son utilizados para interrumpir la oxidación.
+
+# Agentes Extintores
+
+## 1. Definición y Características
+
+Un **agente extintor** es el producto que, aplicado sobre el fuego, provoca la extinción del incendio. Se clasifican en función del estado de agregación.
+
+## 2. Agentes Extintores Líquidos
+
+### 2.1. Agua
+- **Características**:
+  - Hierve a **100°C** y se hiela a **0°C**.
+  - Calor latente de vaporización: **540 cal/gr**.
+  - Densidad: **1 Kg/litro**.
+  - Aumenta su volumen entre **1,500 y 1,700 veces** al evaporarse.
+
+- **Mecanismos de Extinción**:
+  - **Enfriamiento**: Principalmente por su alto calor latente.
+  - **Sofocación**: Desplaza el oxígeno.
+  - **Desalimentación**: Reduce la concentración de combustible.
+
+### 2.2. Agua Nebulizada
+Optimiza la utilización del agua mediante su división en gotas de niebla, maximizando la superficie de intercambio de calor.
+
+### 2.3. Agua con Aditivos
+- **Humectantes**: Reducen la tensión superficial.
+- **Espesantes**: Aumentan la viscosidad.
+- **Agua con Boratos**: Retardan la llama y evitan la propagación.
+- **Modificadores de Flujo**: Disminuyen pérdidas de presión por fricción.
+- **Modificadores de Densidad**: Forman espumas semiestables.
+
+### 2.4. Espuma
+- **Características**:
+  - Formada por burbujas de gas (aire) y agua.
+  - Actúa principalmente por **sofocación** y **enfriamiento**.
+
+## Normas de Espumas
+- **UNE 23.603**: Espumas físicas extintoras.
+- **UNE 23.600**: Clasificación de agentes extintores.
+- **UNE EN 1568**: Concentrados de espuma.

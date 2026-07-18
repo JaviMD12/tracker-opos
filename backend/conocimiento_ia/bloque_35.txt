@@ -1,0 +1,77 @@
+# Ventilación de Incendios
+
+## Huella de un Ventilador VPP
+- La huella de un ventilador se identifica como un tronco de cono que se forma desde la sección de salida del ventilador.
+- La forma del cono (abierto o cerrado) influye en el rendimiento y la aplicación.
+
+### Comparativa de Ventajas de Conos
+| Cono Cerrado | Cono Abierto |
+|--------------|--------------|
+| Posicionamiento más lejano de la puerta de acceso. | Menor velocidad de partículas en la zona central. |
+| Variación de distancia no afecta tanto al rendimiento. | Menor nivel de turbulencias. |
+| Caudal ligeramente superior. | Niveles de ruido aerodinámico inferiores. |
+| Mejor ajuste en espacios reducidos. | |
+
+## Capacidad de un Ventilador
+### Parámetros de Medición
+- **Caudal Estricto (Qe)**: [m³/s] o [m³/h]
+  - Volumen de aire que atraviesa la hélice del ventilador.
+- **Caudal Libre (Ql)**: [m³/s] o [m³/h]
+  - Volumen total de aire en un espacio abierto.
+- **Empuje (E)**: [N]
+  - Medida del caudal libre del ventilador.
+
+### Fórmulas Clave
+- **Empuje**: 
+  \[
+  E = Ql \cdot A0 \cdot ρ
+  \]
+  Donde:
+  - \( Ql \) = caudal libre [m³/s]
+  - \( A0 \) = sección transversal del ventilador [m²]
+  - \( ρ \) = densidad del aire [1.2 kg/m³]
+
+### Caudales Efectivos
+- **Caudal Efectivo (Qr)**: Medido en la salida de gases.
+- **Caudal AMCA240 (QAMCA240)**: [m³/s] o [m³/h]
+  - Medido según el ensayo AMCA240.
+  - Resultados típicos: **25,000 m³/h a 30,000 m³/h** para ventiladores de 18-20 pulgadas.
+- **Caudal ULH (QULH)**: [m³/s] o [m³/h]
+  - Resultado de la extrapolación de la velocidad del aire.
+
+### Ejemplo de Caudales
+- **QAMCA240**: 30,000 m³/h
+- **QULH**: 43,000 m³/h
+- **Empleo en situación real**: 14,400 a 18,000 m³/h
+
+## Factores en la Elección de un Ventilador VPP
+1. **Capacidad del Ventilador**: 
+   - Requiere mayor capacidad en recintos grandes o con fricción.
+2. **Distancia de Colocación**: 
+   - Afecta el rendimiento; mejor más alejado que demasiado cerca.
+3. **Sistema de Alimentación**: 
+   - Eléctricos, térmicos e hidráulicos tienen diferentes ventajas.
+4. **Diámetro de Hélice**: 
+   - Afecta el tamaño de la apertura de entrada.
+5. **Peso**: 
+   - Ventiladores ligeros son más fáciles de transportar.
+6. **Ruido**: 
+   - Diseño de hélice influye en el nivel sonoro.
+7. **Diseño Funcional**: 
+   - Ventiladores sobre patas mejoran el rendimiento.
+
+## Colocación de un Ventilador VPP
+- La distancia óptima de colocación varía entre **1.8 m y 5 m** para puertas estándar (2m x 0.9m).
+- Se debe considerar la mayor dimensión de la entrada.
+
+## Barómetro de Entrada
+- Técnica para dirigir el flujo del ventilador ligeramente por debajo de la apertura.
+- Permite evaluar el funcionamiento de la ventilación desde la entrada.
+
+### Ventajas y Desventajas
+- **Ventajas**: Información sobre el funcionamiento de la ventilación.
+- **Desventajas**: Ligera reducción en la efectividad y posible turbulencia.
+
+## Entrada de Gases
+- Se emplea una sola entrada para establecer el flujo unidireccional.
+- Ventiladores de 18 a 20 pulgadas son adecuados para puertas estándar.

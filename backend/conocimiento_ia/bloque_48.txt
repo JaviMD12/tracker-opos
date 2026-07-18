@@ -1,0 +1,63 @@
+# Técnicas de intervención en incendios en túneles
+
+## 1. Despliegue de tendidos para extinción
+
+En un incendio en un túnel, se requiere un despliegue de mangueras de **45 mm** de diámetro, con un caudal adecuado para las características del incendio. 
+
+### Métodos de despliegue:
+- **Plegado en doble**: despliegue en exterior del túnel.
+- **Plegado en abanico**: más plegado de ataque en Cleveland.
+- **Tendidos con carros portamangueras** de 45 mm.
+
+Se recomienda colocar una reducción de **45 mm** con bifurcación **70-45 mm** en la manguera anterior a la de ataque para permitir una segunda línea de ataque.
+
+### Variables a considerar:
+- Efectividad en la aplicación del agua.
+- Distancia óptima de ataque.
+- Equipos de respiración autónoma.
+
+## 1.1. Efectividad de la aplicación de agua
+
+Para sofocar un incendio, se utilizan técnicas de enfriamiento del colchón de gases. La efectividad de la aplicación de agua debe oscilar entre **50% y 70%** de evaporación.
+
+### Tamaño de la gota:
+| Tamaño de gota | Ventajas | Inconvenientes |
+|----------------|----------|----------------|
+| Reducido       | Mayor tiempo en suspensión y mejor absorción de energía | Alcance menor |
+| Grande         | Mayor alcance | Caen al suelo más rápidamente, intercambio de calor menos efectivo |
+| Óptimo (0,3 mm - 0,7 mm) | Equilibrio óptimo entre alcance y absorción de energía | - |
+
+### Consideraciones adicionales:
+- La temperatura generada por el incendio no suele ser homogénea.
+- Se debe estudiar el selector de caudal, el ángulo de cono y el ángulo de aplicación respecto al suelo.
+
+## 1.2. Distancia óptima de ataque
+
+La distancia máxima para situar las líneas de manguera es:
+- **Vehículos pesados**: 10 metros.
+- **Coches**: 5 metros.
+
+### Caudal necesario en función de las características del incendio:
+| Tipo de vehículo | Superficie de incendio (m²) | Potencia generada (MW) | Caudal necesario (lt/min) | Número de líneas (360 l/m) |
+|------------------|------------------------------|-------------------------|----------------------------|-----------------------------|
+| TURISMO          | 10                           | 2,5-5                   | 226                        | 1                           |
+| FURGONETA        | 35                           | 15                      | 462                        | 2                           |
+| CAMIÓN           | 200                          | 100                     | 1250                       | 4                           |
+
+## 1.3. Equipos de respiración autónoma y control del aire
+
+El tiempo de intervención en incendios en túneles suele superar los **40 minutos**. Factores que generan incertidumbre:
+- Falta de información preliminar.
+- Pérdida de orientación en humo.
+- Situaciones imprevistas en rescate de víctimas.
+
+### Clasificación de equipos de respiración autónoma (ERA):
+| Tipo de circuito y funcionamiento | Tipo de equipo | Duración calculada (40 l/min) | Cuándo utilizarlo |
+|-----------------------------------|----------------|-------------------------------|-------------------|
+| Circuito abierto                  | Monobotella    | 45 minutos (15-20 min real)  | Operaciones cortas |
+| Circuito abierto                  | Bibotella      | 90 minutos (30-40 min real)  | Estancias < 60 min |
+| Circuito cerrado                  | Peróxido potásico | 4 horas (3 horas a 60-70 l/min) | Intervenciones largas en túneles > 4 km |
+
+### Recomendaciones para el uso de ERA:
+- Utilizar ERA en proximidad a las bocas de los túneles.
+- Usar ERA en accesos a través de galerías de evacuación si no se tiene certeza de atmósferas respirables.

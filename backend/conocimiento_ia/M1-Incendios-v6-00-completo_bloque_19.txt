@@ -1,0 +1,71 @@
+# CAPÍTULO 2: Técnicas
+
+En este apartado se enumeran y se detallan las aplicaciones técnicas de la hidráulica en las operativas de bomberos.
+
+## 1. Bombas Centrífugas
+
+Una bomba centrífuga transforma la energía mecánica del motor en energía hidráulica. Incrementa la velocidad del fluido mediante paletas giratorias y, al no tener volúmenes cerrados, el fluido discurre por pasajes abiertos, transformando parte de su velocidad en presión.
+
+### Datos Clave:
+- **Altura manométrica de la bomba (Hₘ)**: Incremento de energía en forma de presión.
+- **Potencia útil (Wₕₜ)**: Potencia transferida al fluido.
+- **Rendimiento energético (η)**: Relación entre potencia útil y potencia consumida.
+
+### 1.1. Curva Característica de una Bomba
+
+Las curvas características representan las particularidades de una bomba centrífuga, mostrando el campo de trabajo y las variables:
+
+- **Variable independiente**: Caudal (eje de abscisas).
+- **Variables dependientes**: Altura manométrica (Hₘ), potencia consumida, rendimiento (η).
+
+### Observaciones:
+- La altura manométrica es máxima para caudal nulo y disminuye al aumentar el caudal.
+- El punto óptimo de funcionamiento se define donde el rendimiento es más elevado, indicando los valores nominales de la bomba.
+
+### 1.2. Aspiración en Bombas
+
+La altura máxima teórica de aspiración es **10,33 metros**, pero no se alcanza debido a:
+
+- Presión atmosférica menor de 1 atmósfera.
+- Presión de vapor del agua (aumenta con la temperatura).
+- Vacío no perfecto en los manguerotes.
+- Pérdidas de carga en los manguerotes y alcachofa.
+
+**Altura de aspiración real**: entre **7 y 8 metros**.
+
+### 1.3. Cebado de Bomba
+
+El cebado es esencial para que la bomba funcione correctamente. Se refiere a inundar la bomba antes de su puesta en marcha.
+
+#### Dispositivos de Cebado:
+- **Cebado por eyector de gases**: Utiliza el efecto Venturi de los gases de escape.
+- **Cebado por depresor de vacío**: Utiliza una bomba de vacío específica.
+
+### Tabla 5. Presión Atmosférica
+
+| Altitud (m) | Presión atmosférica (m.c.a.) |
+|-------------|-------------------------------|
+| 0           | 10,33                         |
+| 200         | 10,08                         |
+| 400         | 9,83                          |
+| 600         | 9,58                          |
+| 800         | 9,34                          |
+| 1000        | 9,11                          |
+| 1200        | 8,89                          |
+| 1400        | 8,67                          |
+| 1600        | 8,45                          |
+| 1800        | 8,24                          |
+| 2000        | 8,04                          |
+| 2500        | 7,56                          |
+
+### Tabla 6. Pérdida de Aspiración
+
+| Temperatura (°C) | Pérdida de aspiración (m.c.a.) |
+|-------------------|---------------------------------|
+| 10                | 0,125                           |
+| 15                | 0,173                           |
+| 20                | 0,236                           |
+| 25                | 0,32                            |
+| 30                | 0,43                            |
+| 35                | 0,57                            |
+| 40                | 0,745                           |

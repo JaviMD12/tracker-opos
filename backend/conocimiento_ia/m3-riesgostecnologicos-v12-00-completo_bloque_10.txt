@@ -1,0 +1,75 @@
+# Tablero
+
+## Definición
+Producto derivado de la madera en la que predominan la longitud y la anchura sobre el espesor, y en la que el elemento constitutivo principal es la madera.
+
+## Tipologías
+- **Tablero de madera maciza**: Fabricado con tablas, tablillas o listones de madera unidos por encolado o machihembrado.
+- **Tablero contrachapado**: Formado por capas de chapas de madera encoladas, con direcciones de fibras de dos capas consecutivas formando un ángulo, generalmente de 90°.
+- **Tablero de fibras**: Fabricado mediante fibras lignocelulósicas con calor y/o presión y un aglomerante sintético. Variantes:
+  - Densidad media (DM o MDE)
+  - Duro
+  - Semiduro
+- **Tablero de partículas (aglomerado)**: Formado por partículas de madera o material leñoso aglomeradas con adhesivo y presión a temperatura adecuada.
+- **Tablero de virutas**: Similar al de partículas, pero fabricado con virutas de mayores dimensiones. Ejemplo: **Tablero de virutas orientadas OSB** (Oriented Strand Board), donde las virutas de las capas externas están orientadas longitudinalmente, mejorando propiedades mecánicas en esa dirección.
+
+## Comportamiento mecánico
+Las resistencias de las distintas clases de tableros varían entre modelos y dirección de aplicación del esfuerzo. Todos presentan una resistencia inversamente proporcional a su espesor y grado de humedad.
+
+# Sistemas constructivos básicos empleados en la construcción
+
+## Definición de edificación
+La edificación es una construcción fija, hecha con materiales resistentes, para habitación humana o para otros usos. Implica la ejecución de técnicas constructivas para generar un espacio interior dotado de instalaciones que aseguren un confort suficiente.
+
+## Elementos constructivos
+1. **Elementos estructurales**: Capacidad portante (recibir y transmitir cargas). Ejemplos: forjados, pilares, cimentaciones.
+2. **Elementos complementarios**: Complementan la estructura para generar un espacio interior confortable. Ejemplos: cerramientos, divisiones interiores, instalaciones, acabados.
+3. **Elementos auxiliares**: Forman parte de la edificación durante la construcción o reparación, pueden ser retirados o quedar embebidos sin función. Ejemplos: andamios, cimbras, encofrados.
+
+## Elementos estructurales
+- **Definición**: Elementos destinados a soportar cargas y transmitirlas al terreno sin deformarse excesivamente.
+- **Capacidad portante**: Aptitud de un edificio para asegurar estabilidad y resistencia durante el **periodo de servicio** de **50 años** (según CTE DB SE).
+- **Aptitud de servicio**: Limitar deformaciones, degradaciones o anomalías inadmisibles.
+
+## Marco normativo
+- **Código Técnico de la Edificación (CTE)**: Normativas que regulan la construcción de edificios en España desde 2006, estableciendo requisitos básicos de seguridad y habitabilidad.
+  - **Documentos Básicos de seguridad**:
+    - DB-SE (Seguridad Estructural)
+      - DB-SE AE (Acciones en la Edificación)
+      - DB-SE C (Cimientos)
+      - DB-SE A (Acero)
+      - DB-SE F (Fábrica)
+      - DB-SE M (Madera)
+    - DB-SI (Seguridad en caso de Incendio)
+    - DB-SUA (Seguridad de Utilización y Accesibilidad)
+  - **Documentos Básicos de habitabilidad**:
+    - DB-HS (Salubridad)
+    - DB-HR (Protección frente al Ruido)
+    - DB-HE (Ahorro de Energía)
+
+## Factores en el comportamiento estructural
+- **Geometría**
+- **Rigidez**
+- **Materiales**
+
+### Geometría
+La forma de una estructura influye en la magnitud y dirección de los esfuerzos soportados. Ejemplo: 
+- **Funicular**: Forma geométrica adoptada por un cable bajo carga.
+  - **Catenaria**: Curva de un cable bajo su propio peso.
+  - **Parábola**: Curva bajo carga lineal uniformemente repartida.
+
+### Rigidez
+Capacidad de un elemento estructural para soportar esfuerzos sin deformaciones excesivas. Conceptos asociados:
+- **Grados de libertad (GL)**: Movimientos posibles de un cuerpo.
+- **Coacciones**: Limitaciones a los grados de libertad.
+- **Nudo**: Conexión entre elementos portantes, clasificada en:
+  - **Apoyo**: Limita movimientos verticales.
+  - **Articulación**: Limita desplazamientos verticales y horizontales.
+  - **Empotramiento**: Limita todos los movimientos.
+
+## Símbolos de nudos estructurales
+- Apoyo
+- Articulación
+- Empotramiento
+
+Un nudo no es más seguro por tener más coacciones, sino que cada tipo es recomendado para funciones específicas en un conjunto estructural.

@@ -1,0 +1,84 @@
+# Técnicas de Intervención en Incendios
+
+## 1.6. Cuadro Resumen de Técnicas
+
+### Resumen de Técnicas de Extinción
+
+| Técnica                             | Descripción                                                                                   | Caudal          | Cono        | Pulsaciones                             | Lanza                |
+|-------------------------------------|-----------------------------------------------------------------------------------------------|------------------|-------------|-----------------------------------------|----------------------|
+| **Ataque Directo**                 | Enfriamiento de superficies incendiadas e interrupción de la pirólisis.                      | Caudal medio     | 0º a 15º    | Largas a aplicación continua            | En movimiento         |
+| **Ataque Indirecto**               | Inundación mediante vapor de agua.                                                            | Caudal medio a alto | 15º a 30º   | Media a larga duración                  | En movimiento         |
+| **Enfriamiento de Gases**          | Reducir la inflamabilidad del colchón de gases.                                               | Caudal bajo a medio | 30º        | Muy cortas en grupos, cortas en barrido | En movimiento         |
+| **Ataque Defensivo**               | Limitar la propagación del incendio.                                                          | Caudal bajo      | 0º a 15º    | Larga duración o aplicación continua     | En movimiento         |
+| **Ataque Exterior Ofensivo**       | Reducción de la potencia del incendio y mejora de las condiciones de supervivencia.          | Caudal medio     | -           | Media a larga duración                  | Estática              |
+
+## 1.7. Acceso a través de Puerta
+
+### Procedimiento de Apertura
+
+1. **Evaluar condiciones interiores**:
+   - Altura del colchón de gases.
+   - Temperatura, color y densidad de los gases.
+   - Corrientes de ventilación, nivel de visibilidad y localización de focos.
+
+2. **Reducir peligrosidad**:
+   - Refrigeración/dilución del colchón de gases.
+
+### Proceso Común
+
+- **Pulsación en la puerta**: Determinar temperatura al otro lado.
+- **Observación**: Evaluar condiciones por encima y por debajo del plano neutro.
+- **Pulsaciones profundas**: Si hay un colchón de gases importante, apuntar a las esquinas superiores.
+- **Cierre de puerta**: Dejar que el interior recobre su equilibrio térmico.
+- **Apertura**: Si las condiciones son seguras, abrir la puerta para el acceso del equipo.
+
+## 1.8. Elección del Caudal Apropiado
+
+### Definiciones Clave
+
+- **Gasto de agua**: Volumen de agua empleado en la intervención.
+- **Caudal medio**: Gasto de agua dividido entre el tiempo de intervención.
+- **Caudal disponible**: Máximo caudal en punta de lanza en cualquier momento.
+- **Caudal crítico**: Mínimo caudal necesario para extinguir un incendio.
+- **Caudal óptimo**: Caudal que permite la extinción con el mínimo gasto de agua.
+
+### Recomendaciones
+
+- **Caudal disponible**:
+  - No inferior al caudal óptimo.
+  - Suficiente para garantizar la seguridad del personal.
+  - Lo más cercano posible al caudal óptimo.
+
+### Datos Técnicos
+
+- **Francia**: Establece 500 LPM como caudal mínimo.
+- **Normativa NFPA 1410**: Exige un mínimo de 378 LPM.
+- **Estadísticas**:
+  - 24 LPM/MW para incendios en viviendas residenciales.
+  - 5 LPM/m² para incendios en superficies amplias (>100 m²).
+
+## 2. Técnicas de Control de la Ventilación
+
+### Objetivo
+
+Cambiar la dinámica del incendio mediante técnicas que van desde el confinamiento total hasta la ventilación mecánica forzada.
+
+### Importancia de la Coordinación
+
+- La correcta coordinación entre técnicas de ventilación y aplicación de agua es esencial para mejorar las condiciones internas sin provocar efectos adversos.
+
+## 2.1. Antiventilación o Confinamiento de Incendio
+
+### Objetivo
+
+Privar al incendio del acceso a aire fresco para limitar su crecimiento, especialmente en incendios limitados por la ventilación.
+
+### Ejemplo de Cálculo de Caudal
+
+- **Apertura de 1.8m x 2m**: Caudal necesario = **100 LPM**.
+- **Ventanal de 3m x 2.5m**: Caudal necesario = **523 LPM**.
+
+### Ejemplo de Tendidos
+
+- **Tendido de 25 mm**: Máximo caudal = **150 LPM**; área de ventilación = **2.4 m²**.
+- **Tendido de 45 mm**: Máximo caudal = **475 LPM**; área de ventilación = **7.63 m²**.

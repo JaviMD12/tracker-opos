@@ -1,0 +1,65 @@
+# Manual de Incendios
+
+## Cálculo de Agua para Enfriamiento
+
+En un recinto confinado de **5x5 m** de planta y **2,5 m** de altura, se ubica un incendio con plano neutro a **1,25 m** de altura. La temperatura media de los gases de incendio en el colchón superior es de **500ºC**. 
+
+### Datos Técnicos Clave
+- **Dimensiones del recinto**: 5 m x 5 m x 2,5 m
+- **Altura del plano neutro**: 1,25 m
+- **Temperatura de los gases**: 500ºC
+- **Densidad de los gases a 500ºC**: 0,46 kg/m³
+- **Calor específico de los gases**: 1 kJ/kg
+- **Energía a absorber**: 4312,5 kJ
+- **Temperatura objetivo**: 200ºC
+- **Poder de absorción del agua a 200ºC**: 3009 kJ/kg
+
+### Cálculo de Agua Necesaria
+Para absorber los **4312,5 kJ** necesarios:
+- **Cantidad de agua necesaria**: 
+  \[
+  \text{Agua necesaria} = \frac{4312,5 \text{ kJ}}{3009 \text{ kJ/kg}} = 1,433 \text{ kg}
+  \]
+- **Volumen de agua**: 1,433 L (equivalente a dos pulsaciones de **1”** a **50 lpm** con efectividad del **100%**).
+
+## Volumen de Gases a 200ºC
+- **Volumen inicial del colchón de gases**: 31,25 m³ (1,25 m de espesor)
+- **Volumen final del colchón de gases a 200ºC**: 22,07 m³ (0,88 m de espesor)
+
+## Técnicas de Intervención
+
+### Enfriamiento de Gases
+- **Objetivo**: Reducir la temperatura del colchón de gases.
+- **Caudal**: Bajo-medio (50 lpm a 250 lpm).
+- **Patrón de pulsaciones**: Pulsaciones de corta duración (1” a 5”).
+- **Movimiento de lanza**: Pulsaciones cortas y barrido.
+
+### Ataque Defensivo Contra la Propagación
+- **Objetivo**: Limitar la propagación del incendio.
+- **Condiciones**:
+  - Recursos limitados.
+  - Incendios en grandes estructuras.
+  - Escasez de agua.
+- **Descripción del proceso**:
+  - Aplicación de agua continua sobre superficies combustibles.
+  - Evitar escorrentía.
+
+### Ataque Exterior Ofensivo o “Ablandado”
+- **Objetivo**: Reducir la potencia del incendio desde una posición segura.
+- **Caudal**: Medio (100 lpm a 250 lpm).
+- **Patrón de pulsaciones**: Aplicaciones de media a larga duración (5” a 30”).
+- **Consideraciones de seguridad**:
+  - No bloquear la salida de gases.
+  - Controlar el desplazamiento de gases y vapor de agua.
+
+### Ventajas y Desventajas del Ablandado
+- **Ventajas**:
+  - Reduce la temperatura en el recinto de incendio.
+  - Aumenta la supervivencia de víctimas.
+  - Reduce el tiempo necesario para el control y extinción.
+- **Inconvenientes**:
+  - Mala aplicación puede desplazar gases a zonas no deseadas.
+  - Posibles quemaduras por exceso de vapor de agua.
+
+## Conclusión
+El uso adecuado de técnicas de enfriamiento y ataque defensivo es crucial para la seguridad en intervenciones de incendios, permitiendo controlar la propagación y mejorar las condiciones para la extinción.

@@ -1,0 +1,72 @@
+# Técnicas de intervención en incendios de interfaz urbano-forestal
+
+## Principios de seguridad
+Para establecer objetivos y estrategias de actuación, se deben recordar los cuatro principios de seguridad:
+- **Observación**
+- **Comunicación**
+- **Escape**
+- **Lugar seguro**
+
+### Identificación de zonas seguras
+- Identificar zonas seguras y rutas de escape cercanas, evitando rutas cuesta arriba, con obstáculos y con mucho combustible alrededor.
+- Comunicar posibles peligros en las zonas de interfaz (depósitos de combustibles, líneas eléctricas, transformadores, etc.).
+
+## Logística
+- La logística es crucial en intervenciones largas y con muchos medios.
+- Es importante el avituallamiento para mantener la capacidad física del personal.
+- Llevar en vehículos: 
+  - Botellas de agua
+  - Sales minerales
+  - Barritas energéticas
+
+## Técnicas de intervención
+### Ataque directo
+- **Longitudes de llama inferiores a 2,5 m**: se recomienda atacar directamente con agua o espumas, o con herramientas manuales.
+
+#### Uso de vehículos de extinción
+1. **Actuación con vehículos en movimiento**
+   - **Ataque con vehículo ligero**: 
+     - Utilizar un todoterreno pickup con bomba de alta presión.
+     - Atacar el frente desde un flanco, circulando por zona segura.
+   - **Ataque con vehículo ligero y autobomba**: 
+     - La bomba rural actúa si el vehículo ligero no es suficiente, atacando desde el flanco opuesto.
+
+2. **Actuación con vehículo detenido**
+   - Se realiza desde un vehículo ligero parado, limitando movimientos sobre la zona ya quemada.
+
+3. **Actuación a pie**
+   - Utilizar mochilas extintoras y batefuegos para controlar y extinguir puntos calientes en zonas inaccesibles.
+
+### Tendido de mangueras
+- **Salida en alta presión**: 
+  - 20 bar óptimo en bomba, 30 bar máximo en bomba.
+  - Mangaje Ø25 mm.
+- **Colocación de bifurcaciones**: cada 4 tramos de mangaje Ø25.
+
+#### Tabla 4: Tipo de ataque en función de la longitud de la llama
+| Longitud de la llama | Tipo de ataque | Medios | Comentarios |
+|----------------------|----------------|--------|-------------|
+| <1,5 m               | Ataque directo | Herramientas manuales y autobombas | Ataque por la cabeza y los flancos |
+| 1,5-2,5 m            | Ataque directo | Tractor de cadenas, autobombas y medios aéreos | Posibilidad de ataque indirecto |
+| 2,5-3,5 m            | Ataque indirecto | - | Ataque por el frente del incendio |
+| >3,5 m               | Ataque indirecto | Contrafuego | Probables focos secundarios y fuegos de copas |
+
+### Asignación de funciones
+- Organizar al personal con instrucciones específicas y números de función (ver tabla 5).
+- Los puestos del 1 al 4 deben rotarse para evitar el agotamiento.
+
+#### Tabla 5: Funciones y posiciones de la instalación
+| N.º | Función |
+|-----|---------|
+| 1   | Aplica y dosifica el agua: es la punta de lanza. |
+| 2   | Apoya al n.º 1, organiza la manguera y corta el agua para empalmes. |
+| 3   | Suministra la manguera y colabora en empalmes. |
+| 4   | Vigila la aparición de nuevos focos y puntos calientes. |
+| 5   | Jefe de la dotación, dirige al grupo y controla la evolución del fuego. |
+
+### Desplegando el tendido
+- **Alimentación en punta de lanza**: Conectar mangueras directamente a la punta de lanza.
+- **Empalmes en punta de lanza**: Realizar empalmes sin cortar el agua, utilizando un tramo sobrante de manguera.
+
+## Conclusión
+Estas técnicas y principios son fundamentales para la intervención efectiva en incendios de interfaz urbano-forestal, garantizando la seguridad del personal y la eficacia en la extinción del fuego.

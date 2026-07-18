@@ -1,0 +1,71 @@
+# Parte 7. NRBQ - Técnicas de intervención
+
+## 1. Protección química
+
+### Criterios de penetración y permeación
+- **Criterios de penetración**: Todos los trajes (tipo 1 – tipo 6) deben cumplir con estos criterios.
+- **Criterio de permeación**: Solo necesario para trajes que exigen mayor protección (tipo 4 e inferiores).
+
+### Nivel de protección
+- **Decisión del mando**: El nivel de protección para acceder a la zona caliente y realizar descontaminación debe ser decidido por el mando de la intervención.
+- **Equipo mínimo necesario**: Nivel I para identificación o trabajos en zona caliente.
+- **Sustitución de equipos**: Posible uso de mascarillas filtrantes u otros elementos según valoraciones del mando.
+
+### Consideraciones para el uso de trajes
+- **Volatilidad**: Mayor volatilidad = Mayor riesgo = Mayor nivel de seguridad requerido.
+- **Grado de exposición**: Uso de nivel superior si se trata directamente con la sustancia.
+- **Tiempo de exposición**: Preferible usar nivel III si se prevé un tiempo de exposición elevado.
+- **Concentración y cantidad**: Evaluar según la ficha de seguridad.
+
+### Tabla 41: Tiempo seguro mínimo de intervención hasta permeación
+| Producto químico | Clase (tiempo de paso) |
+|------------------|-----------------------|
+| Metanol          | 2 (240 min)          |
+| Ácido sulfúrico  | 8 (40 min)           |
+
+## 1.1. Protección nuclear y radiológica
+- **Medidas de control**:
+  - **Sin contaminación radiactiva**:
+    - **Tiempo**: Limitar el periodo de exposición.
+    - **Distancia**: Mantenerse alejado de la fuente de radiación.
+    - **Blindaje**: Usar protección entre la fuente y las personas.
+  - **Con contaminación radiactiva**:
+    - **Confinamiento**: Medidas para evitar dispersión.
+    - **Descontaminación**: Técnicas específicas.
+    - **Vestuario de protección**: Equipos de protección respiratoria.
+
+### Tabla 42: Protección radiológica según material
+| Material blindaje | Equivalencia de protección radiológica (espesor en mm) |
+|-------------------|--------------------------------------------------------|
+| Plomo             | 1                                                      |
+| Hormigón baritado | 12                                                     |
+| Hormigón          | 93                                                     |
+| Ladrillo macizo   | 136                                                    |
+
+## 1.2. Herramientas y equipos
+### Equipos comunes en una unidad NRBQ
+- **Venda sellado fugas**: Taponar tuberías de distintos diámetros.
+- **Lanza sellado de fugas**: Sellado de grietas y fugas a distancia.
+- **Kit sellado de fugas**: Para fugas de alta presión en tuberías.
+- **Pasta selladora**: Sellados de fuga de hasta 0,4 bar.
+- **Piscina recogida líquidos trasvase**: Almacenar grandes volúmenes de materiales peligrosos.
+- **Contenedores de recogida de PRFV**: Almacenamiento seguro de líquidos agresivos.
+- **Cojín hermetizador de alcantarilla**: Para alcantarillas de hasta 2 m de altura.
+- **Bomba peristáltica**: Para bombear líquidos explosivos e inflamables.
+- **Herramientas “antichispas”**: Permiten trabajar con sólidos o líquidos inflamables sin riesgo de ignición.
+
+## 2. Acciones de mitigación
+- **Métodos de mitigación**: Pueden ser físicos o químicos, dependiendo de la clase de siniestro, tipo de mercancía, estado, meteorología, ubicación y recursos disponibles.
+
+### 2.1. Acciones físicas
+#### 2.1.1. Absorción
+- Proceso que permite a los materiales retener líquidos.
+- Materiales comunes: arenas, arcillas, serrín, sepiolitas, fibras poliolefínicas.
+
+#### 2.1.2. Cubrimiento
+- Técnica temporal para reducir emisiones de vapores.
+- Material recomendado: Plástico de polietileno.
+
+#### 2.1.3. Dilución
+- Aplicación de agua a materiales solubles para disminuir riesgos.
+- Importante verificar que la sustancia no sea reactiva al agua.

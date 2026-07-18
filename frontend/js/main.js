@@ -1088,6 +1088,44 @@ async function cargarHeatmap() {
   }
 }
 
+// ---------- Sugerencias / Contacto ----------
+const formSugerencia = document.getElementById("form-sugerencia");
+const sugerenciaTextoEl = document.getElementById("sugerencia-texto");
+
+formSugerencia.addEventListener("submit", async (event) => {
+  event.preventDefault();
+  const mensaje = sugerenciaTextoEl.value.trim();
+  if (!mensaje) return;
+
+  const boton = formSugerencia.querySelector('button[type="submit"]');
+  const textoOriginal = boton.textContent;
+  boton.disabled = true;
+  boton.textContent = "Enviando...";
+
+  try {
+    const res = await fetchAutenticado("/api/contacto/enviar", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ mensaje }),
+    });
+    const data = await res.json();
+
+    if (!res.ok) {
+      mostrarToast(data.detail ?? "No se pudo enviar la sugerencia.", "error");
+      return;
+    }
+
+    sugerenciaTextoEl.value = "";
+    mostrarToast("¡Gracias! Tu sugerencia se ha enviado correctamente.", "success");
+  } catch (err) {
+    console.error("No se pudo enviar la sugerencia", err);
+    mostrarToast("No se pudo conectar con el backend.", "error");
+  } finally {
+    boton.disabled = false;
+    boton.textContent = textoOriginal;
+  }
+});
+
 formTeorica.addEventListener("submit", async (event) => {
   event.preventDefault();
 

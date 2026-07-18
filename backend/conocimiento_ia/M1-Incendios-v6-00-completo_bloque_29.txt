@@ -1,0 +1,61 @@
+# Técnicas de Intervención en Incendios
+
+## 1. Principios de la Dinámica de Gases
+- **Ecuación de Bernoulli**: La suma de la presión estática (P) y la presión dinámica (½ ρ v²) es constante.
+- **Caída de presión**: Proporcional al cuadrado de la velocidad del flujo de gases.
+- **Diferenciales de presión**: Diferencias de velocidad entre partículas en reposo y el flujo de gases resultan en menores presiones estáticas.
+
+## 2. Efectos sobre la Propagación del Incendio
+- **Presurización de recintos**: Evita la propagación del incendio hacia recintos adyacentes.
+- **Diferenciales de presión**: Diferenciales de presión de **5 Pa** pueden prevenir la propagación, incluso con pequeñas aperturas.
+
+## 3. Técnicas de Intervención
+Las técnicas de intervención en incendios de interior buscan:
+- Reducir la inflamabilidad de los gases de incendio.
+- Reducir la tasa de pirólisis de los combustibles.
+- Reducir la temperatura del recinto.
+- Aumentar la visibilidad en el interior.
+- Mejorar la respirabilidad de la atmósfera.
+- Rastrear la presencia de víctimas.
+
+### 3.1 Aplicación de Agua
+- **Efecto de enfriamiento**: Genera un efecto de enfriamiento por absorción de calor y dilución de gases de incendio.
+- **Conocimiento técnico**: Es fundamental entender cuándo y por qué se aplica agua en incendios.
+
+#### 3.1.1 Ataque Indirecto
+- **Descripción**: Inundación del recinto con vapor de agua desde un punto exterior.
+- **Características**:
+  - **Ventajas**:
+    - Ataque desde una posición segura.
+  - **Inconvenientes**:
+    - Pérdida de visibilidad.
+    - Posibles quemaduras por exceso de vapor.
+    - Desplazamiento de gases de incendio.
+
+#### Proceso de Ejecución
+- **Desde un punto exterior**: Aplicación de agua prolongada hasta llenar el recinto con vapor.
+- **Patrones de aplicación**:
+  - **Patrón en "T"**: Para fuertes gradientes térmicos.
+  - **Patrón en "O"**: Para recintos amplios o aplicaciones sucesivas.
+- **Tiempo de reposo**: Permite redistribuir el vapor de agua y evaluar la efectividad.
+
+#### Cálculo de Volumen de Agua
+- **Recinto confinado**: 5x5m de planta y 2,5m de altura.
+- **Volumen necesario**: **30,3L** de vapor de agua para alcanzar **200ºC** (equivalente a dos pulsaciones de 6” a 150 lpm con efectividad del 100%).
+
+### 3.2 Tabla de Ataque Indirecto
+| Objetivo | Ejecución |
+|----------|-----------|
+| Posición | Interior o exterior. Personal fuera del recinto. |
+| Caudal | Medio a alto (100 lpm a 500 lpm) |
+| Cono | 15º a 30º |
+| Patrón de pulsaciones | Pulsaciones de media a larga duración (3” a 20”). Pausas de (15” a 45”). |
+| Movimiento de lanza | En "T" o en "O", comenzando en la parte superior. |
+
+#### Consideraciones de Seguridad
+- Evaluar la aplicación con presencia de víctimas.
+- Ausencia de personal en el interior del recinto.
+- Controlar el desplazamiento de gases a otras estancias.
+
+## 4. Extinción
+- **Método**: Inundación mediante vapor de agua.

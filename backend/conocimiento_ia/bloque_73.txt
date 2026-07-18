@@ -1,0 +1,82 @@
+# Procedimiento de Extinción de Incendios de Vegetación
+
+## Colocación de Mangueras
+- **Empalme inicial**: Se empalmarán cinco tramos desde la bomba y se irá ascendiendo.
+- **Extensión**: Una vez extendido el mangueraje, se añadirán más mangueras en rollos en el último tramo, sin cortar la presión, utilizando un cizallamiento cerca del racor.
+
+## Tendido de Líneas
+- **Desde el BRL**: 
+  - **Primera línea**: Un bombero remata los rescoldos cerca de los vehículos y vigila por si el fuego reinicia.
+  - **Segunda línea**: Dos bomberos ascienden por el flanco izquierdo rematando el perímetro.
+
+## Finalización de la Extinción
+- **Vaciar y plegar mangueras**: Se plegarán en forma de ocho para facilitar el transporte.
+- **Comunicación**: Se informa a los mandos superiores sobre el regreso al parque de bomberos.
+- **Revisión y limpieza**: Al llegar al parque, se revisa y limpia el material utilizado y se recargan los depósitos de agua y combustible.
+
+## Evaluación de Riesgos en Incendios de Vegetación
+### Parámetros a Evaluar
+- **Topografía (pendiente %)**
+  - <20% = 1
+  - 20%-35% = 3
+  - >35% = 5
+- **Tipo de combustible (carga alrededor de la estructura)**
+  - Ligera = 1
+  - Moderada = 3
+  - Densa = 5
+- **Superficie de defensa (radio)**
+  - 50-30 m = 1
+  - 30-70 m = 3
+  - 0-10 m = 5
+- **Carga aérea (cobertura de copas)**
+  - <30% = 1
+  - 30%-70% = 3
+  - >70% = 5
+- **Tejado (material)**
+  - Poco inflamable = 1
+  - Inflamable = 3
+  - Muy inflamable = 5
+- **Paredes (material)**
+  - Poco inflamable = 1
+  - Inflamable = 3
+  - Muy inflamable = 5
+- **Accesos (anchura pistas)**
+  - >5 m = 1
+  - 3-5 m = 3
+  - <3 m = 5
+- **Conducción suministros (luz, agua, gas)**
+  - Soterradas = 1
+  - Por aire = 5
+- **Tanques de combustible**
+  - Protegidos = 1
+  - Necesitan protección = 5
+- **Sistemas de protección**
+  - Presencia de sistemas = 1
+  - Sin presencia de sistemas = 5
+
+### Triaje de Estructuras
+- **Rango de puntuación**:
+  - 0-15: Fácil de proteger
+  - 16-32: Defendible con actuación
+  - >33: Muy difícil de proteger
+
+## Ejemplo de Protocolo de Movilización
+### Situaciones
+1. **Leve**: 
+   - **Condiciones**: Sin riesgos inminentes, abordable con una sola dotación.
+   - **Movilización**: Aviso al jefe de guardia, dotación de 1 TT pickup + 1 BRP, 1 cabo jefe de dotación + 3 bomberos.
+
+2. **Media**: 
+   - **Condiciones**: Riesgos inminentes, requiere apoyos internos o externos.
+   - **Movilización**: Aviso al jefe de guardia, salida de refuerzo interno y movilización de apoyos externos.
+
+3. **Grave**: 
+   - **Condiciones**: Siniestro de gran envergadura, múltiples administraciones implicadas.
+   - **Movilización**: Aviso y movilización del jefe de servicio, salida de refuerzo interno y movilización de apoyos externos.
+
+### Apoyos Externos
+- **Junta de Comunidades de Castilla-La Mancha**: Siempre.
+- **Otros servicios regionales**: Según necesidad.
+- **Medios aéreos**: Según necesidad.
+
+Este documento proporciona un marco estructurado para la gestión de incendios de vegetación, incluyendo la colocación de mangueras, evaluación de riesgos y protocolos de movilización.

@@ -1,0 +1,68 @@
+# Rescate en Altura
+
+## Fuerza de Frenado
+- **Definición**: Resistencia máxima que un dispositivo de aseguramiento opone al deslizamiento de la cuerda.
+- **Importancia**: Mayor fuerza de frenado reduce el esfuerzo del asegurador y la posibilidad de soltar al compañero.
+- **Riesgo**: Baja fuerza de frenado puede impedir que los seguros reciban una tracción brusca.
+
+### Tabla 1: Fuerza de Frenado de Dispositivos
+| Dispositivo         | Fuerza de Frenado (Kp) |
+|---------------------|-------------------------|
+| Ocho                | 125 - 150               |
+| Nudo dinámico       | 150 - 250               |
+| GRIGRI              | 900                     |
+| Placas              | 200 - 300               |
+
+## Concepto de Doble Cuerda
+- **Definición**: Uso de al menos dos cuerdas en rescate: cuerda de tracción y cuerda de vida o seguro.
+  
+### Cuerdas
+1. **Cuerda de Tracción**:
+   - Tipo: Semiestática (tipo A).
+   - Diámetro: 10-11 mm.
+   - Uso: Maniobras de rescate y trabajos en altura.
+   - **Nota**: No se usa para asegurar en caídas.
+
+2. **Cuerda de Vida o Seguro**:
+   - Función: Proporciona seguridad en caso de fallo de la cuerda de tracción.
+   - Tipo: Normalmente dinámica para absorber fuerza de choque.
+   - **Nota**: Puede ser semiestática si se usa un sistema anticaídas con absorbedor de energía.
+
+## Sistemas de Anclajes de Seguridad (SAS)
+- **Definición**: Sistema utilizado en rescates en altura, conocido como reunión en alpinismo y escalada.
+- **Características**:
+  - Mínimo de dos anclajes (ideal tres).
+  - Al menos un anclaje debe ofrecer garantía total.
+  - Mosquetones: Sobredimensionados, con seguro y resistencia > 22 kN.
+  - Cintas y cuerdas en perfecto estado.
+  - Punto central de anclaje adicional.
+  - Simplicidad para facilitar la comprobación.
+
+### Localización de Anclajes
+- **Requisitos**:
+  - Capacidad para resistir grandes cargas.
+  - Preferir anclajes vivos sobre muertos.
+  - Anclajes en elementos estructurales (vigas, pilares).
+  - Situar anclajes lo más bajo posible sobre el plano vertical.
+  - Revisar dirección de carga y preferir anclajes multidireccionales.
+
+## Tipos de Puntos de Anclaje del SAS
+### SAS en Línea
+- Uso: Unir anclajes distanciados o de resistencia desigual.
+- Carga recae sobre el anclaje principal.
+
+### SAS con Triángulo de Fuerzas
+- **Definición**: Carga se reparte equitativamente entre anclajes.
+- **Ángulos**: No superar 60º para evitar sobrecarga.
+- **Precaución**: Bloquear triángulo si hay anclajes de diferente calidad.
+
+## Reenvíos y Desviadores
+- **Uso**: Comunes en rescate urbano y trabajos verticales.
+- **Riesgo**: Mal uso puede incrementar el riesgo de accidentes.
+- **Carga en Desviadores**:
+  - Ángulo de 90º incrementa carga en un 141%.
+  - Ejemplo: Camilla de 100 kg soporta 141 kg a 90º.
+  - Cierre del ángulo puede duplicar la carga.
+
+### Conclusión
+- Vigilancia de ángulos de trabajo y sobredimensionar anclajes y materiales es crucial para la seguridad.

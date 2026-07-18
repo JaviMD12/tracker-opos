@@ -1,0 +1,127 @@
+# Temario de Oposición: Técnicas de Estabilización de Sistemas Constructivos y Terrenos
+
+## I.2.1. Encepado
+
+### Geometría
+- **Número de tablones**: Los pies derechos de un solo tablón no se usan de manera aislada debido a su limitada capacidad de carga y peligro de pandeo. Los tablones aislados (puntales) se limitan a adosamientos a muros o pequeñas alturas.
+- **Cortes**: 
+  - Deben ser perpendiculares para evitar fuerzas horizontales que desestabilicen la pieza.
+  - Alineación de tablones en un mismo plano para evitar tensiones diferentes.
+
+### Ejecución
+- Ajuste mediante cuñas en la parte inferior para garantizar la verticalidad del pie derecho con un correcto arriostrado.
+
+### Encepado
+- **Longitudes**: En el CEIS Guadalajara, los tablones tienen longitudes de 1,5 y 3,0 m.
+- **Método tradicional**: Colocación de tablones a testa, evitando más de una unión en la misma sección.
+- **Refuerzo**: Para longitudes grandes, se refuerza la zona del empalme con un nuevo tablón embridado a ambos lados.
+
+### Resistencia
+#### Tabla 29: Resistencia de Tablones Embridados
+- **Dos tablones**:
+  - 100 m: 226 kN
+  - 150 m: 144 kN
+  - 200 m: 92 kN
+  - 250 m: 64 kN
+  - 300 m: 57 kN
+  - 350 m: 43 kN
+  - 400 m: 33 kN
+  - 450 m: 26 kN
+  - 500 m: 23 kN
+- **Tres tablones**:
+  - 100 m: 482 kN
+  - 150 m: 348 kN
+  - 200 m: 274 kN
+  - 250 m: 212 kN
+  - 300 m: 201 kN
+  - 350 m: 153 kN
+  - 400 m: 125 kN
+  - 450 m: 102 kN
+  - 500 m: 94 kN
+- **Cuatro tablones**:
+  - 200 m: 375 kN
+  - 250 m: 315 kN
+  - 300 m: 341 kN
+  - 350 m: 275 kN
+  - 400 m: 218 kN
+  - 450 m: 181 kN
+  - 500 m: 175 kN
+
+## I.2.2. Durmiente
+
+### Definición
+- Pieza horizontal que recibe cargas verticales (pies derechos) o inclinadas (tornapunta), repartiendo las cargas a otros elementos o al terreno.
+
+### Geometría
+- Tablón de **200x70 mm** colocado a tabla “durmiendo”.
+
+### Funciones
+- Resistir el esfuerzo de compresión.
+- Repartir la carga al elemento sobre el que apoya.
+
+### Inconvenientes
+- Menor resistencia que el pie derecho.
+- Limitada capacidad de reparto debido a la flexibilidad de la madera.
+
+### Resistencia
+#### Tabla: Resistencia de Tablones Embridados (200x70 mm)
+- 1 ud: 49 kN
+- 2 ud: 71 kN
+- 3 ud: 101 kN
+- 4 ud: 134 kN
+
+## I.2.3. Sopanda
+
+### Definición
+- Pieza horizontal que recoge cargas de elementos estructurales horizontales y las conduce a elementos verticales.
+
+### Función
+- Resistir esfuerzos de flexión y soportar tensiones de compresión.
+
+### Ubicación
+- Colocada adosada a la parte inferior del elemento a apear, descansando sobre puntales o cabezas de pies derechos.
+
+### Inconvenientes
+- Limitada capacidad de resistencia a flexión, requiriendo muchos pies derechos a cortas distancias.
+
+### Resistencia
+#### Tabla 30: Cálculo Sopandas
+- **q en kN/m**:
+  - 50 m: 37 kN
+  - 75 m: 21 kN
+  - 100 m: 12 kN
+  - 125 m: 8 kN
+  - 150 m: 5 kN
+
+## I.2.4. Tornapunta
+
+### Definición
+- Pieza de dirección inclinada que traslada cargas de un elemento vertical a otro horizontal mediante compresión axial.
+
+### Puntos de apoyo
+- Deben ser sólidos para absorber las cargas sin daños.
+
+### Puntos de apeo
+- Evaluar los puntos de contacto para evitar sobrecargas o punzonamientos.
+
+### Eficacia del apeo
+- Análisis de esfuerzos efectivos en dos situaciones:
+  - Tornapunta opuesta al cedimiento vertical.
+  - Tornapunta opuesta al vuelco.
+
+### Problemas
+- Reacciones horizontales y verticales en la base y coronación de la tornapunta.
+
+### Soluciones
+- **Embarbillado**: Solución para corregir fuerzas verticales, pero presenta problemas de resistencia.
+- **Atado mediante ranas de encofrado**: Conexión rápida y efectiva sin perforar el muro.
+
+### Tipologías
+- **Modalidades de tornapuntas**:
+  - En paralelo
+  - En abanico
+  - En jineta
+
+--- 
+
+Este documento proporciona un resumen técnico sobre las técnicas de estabilización en sistemas constructivos, incluyendo definiciones, geometría, funciones, resistencias y soluciones a problemas comunes en la construcción.

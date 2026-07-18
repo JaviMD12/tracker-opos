@@ -1,0 +1,83 @@
+# Instalaciones eléctricas y de combustibles
+
+## 3. Línea General de Alimentación (LGA)
+- Conecta la CGP con la centralización de contadores.
+- Normalmente lleva tres conductores de fase con fusible y uno de neutro sin fusible.
+
+## 4. Centralización de contadores (CC)
+- Mide el consumo total de energía del abonado.
+- En edificios, puede haber hasta 16 contadores en una pared de paso común.
+- Para más de 16 contadores, se requiere un cuarto específico con puerta RF.
+- Debe incluir un interruptor de corte general del edificio.
+
+## 5. Derivación Individual de abonado
+- Parte de la centralización de contadores hacia el Cuadro de Mando y Protección, obligatorio en todas las viviendas según el RBT.
+- Normalmente se coloca detrás de la puerta de entrada.
+
+### Mecanismos de protección y control en la acometida:
+- **Interruptor de Control de Potencia (ICP)**: Dispositivo de corte automático para limitar el consumo.
+- **Interruptor General Automático (IGA)**: Protege contra sobrecargas y cortocircuitos.
+- **Interruptor Diferencial**: Actúa en caso de derivación a masa (tierra).
+- **Pequeños Interruptores Automáticos (PIAs)**: Protegen circuitos de sobrecargas y cortocircuitos.
+
+### Riesgos ante intervenciones de bomberos:
+- Tetanización, electrocución y riesgo de incendio por cortocircuito.
+
+## 9.5.5. Instalaciones receptoras de combustibles gaseosos
+- **Definición**: Último tramo de la cadena de suministro de gas a edificaciones.
+- **Legislación aplicable**: RD 919/2006.
+
+### Tipos de redes:
+- **Instalaciones alimentadas desde red de distribución**.
+- **Instalaciones no alimentadas desde red de distribución**: Siempre tendrán envases o depósitos de almacenamiento de gas.
+
+### Elementos básicos en la red de gas:
+- Red canalizada.
+- Acometida interior.
+- Instalación común.
+- Instalación individual.
+
+### Equipos de maniobra:
+- **Llave de acometida**: Corta el suministro de gas.
+- **Llave del edificio**: Dispositivo de corte más cercano.
+- **Llave de abonado**: Obligatoria y accesible desde zonas comunes.
+- **Llave de montante colectivo**: Para varios usuarios.
+- **Llave de contador**: Previa al contador.
+- **Llave de vivienda o local privado**: Posterior al contador.
+- **Llave de regulador**: Cierra el paso de gas al regulador.
+- **Llave general de corte**: En instalaciones con recipientes móviles al exterior.
+- **Llave de aparato**: Cada aparato de gas tiene una llave de conexión y corte propia.
+
+### Otros equipos de interés:
+- **Envases**: 
+  - Capacidad unitaria no superior a 15 kg: Almacenamiento total inferior a 300 kg.
+  - Capacidad unitaria superior a 15 kg: Almacenamiento total inferior a 1000 kg.
+- **Depósitos**:
+  - 500 m³ para depósitos enterrados.
+  - 2000 m³ para depósitos en superficie.
+
+### Riesgos ante intervenciones de bomberos:
+- Riesgo de derrame y combustión.
+- Emisión de vapores asfixiantes y tóxicos.
+
+## 10. Patología en la edificación
+- **Causas**: 
+  - **Internas**: Fallos de proyecto, ejecución, materiales de mala calidad, envejecimiento, etc.
+  - **Externas**: Agotamiento estático del terreno, incendios, seísmos, inundaciones, etc.
+
+### Tipos de patologías:
+1. **Patologías por causas constructivas**:
+   - Agua, terreno, características de los elementos constructivos.
+   - **Humedades**: 
+     - **Origen natural**: Capilar, freática, filtración, condensación.
+     - **Origen antrópico**: De obra, accidentales.
+
+### Tipos de humedades:
+- **Humedades de origen natural**:
+  - **Capilar**: Agua del terreno que asciende por capilares.
+  - **Freática**: Elevación del nivel freático por lluvias intensas.
+  - **Ambientales**: Filtración y condensación.
+
+- **Humedades de origen antrópico**:
+  - **De obra**: Excedente de agua en la construcción.
+  - **Accidentales**: Fallo o rotura de conductos de agua.

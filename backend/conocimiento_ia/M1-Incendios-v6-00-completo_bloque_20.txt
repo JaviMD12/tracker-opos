@@ -1,0 +1,75 @@
+# Temario de Oposición: Instalaciones Hidráulicas y Bombas
+
+## 1. Cebado de Bombas
+- **Métodos de cebado:**
+  - **Por anillo de agua:** Utiliza una bomba volumétrica.
+  - **Autocebantes:** Requiere un depósito específico para llenar la bomba y la tubería de aspiración.
+  - **Por bomba de pistones.**
+- **Proceso de cebado:**
+  - Se considera realizado al entrar en contacto el agua y el rodete.
+  - El rodete crea un vacío y atrae más agua, desconectando el sistema de cebado.
+
+## 1.4. Cavitación
+- **Definición:** Formación de vapor de agua por descenso de presión por debajo de la presión de saturación.
+- **Efectos:**
+  - Se forman burbujas de vapor que, al condensarse, provocan implosiones.
+  - Incremento de volumen del agua al vaporizarse: **1700 veces.**
+  - Presiones locales pueden alcanzar **1000 kg/cm²**, causando daños a la bomba (picaduras y corrosión).
+- **Prevención:**
+  - Determinación de la altura geométrica máxima de aspiración: **8 a 8.5 metros.**
+  - Disminuir caudales de trabajo y pérdidas de carga.
+
+## 1.5. Acoplamiento de Bombas
+- **Tipos de acoplamiento:**
+  - **En paralelo:**
+    - Conexión de entradas y salidas de varias bombas.
+    - Mantiene la misma altura manométrica, incrementando el caudal.
+  - **En serie:**
+    - Salida de una bomba conectada a la entrada de otra.
+    - Incremento de presión: 
+      - **H_m = H_m1 + H_m2 + ... + H_mn**
+      - **Q = Q1 = Q2 = ... = Qn**
+
+## 2. Instalación Hidráulica
+- **Objetivo:** Llevar un fluido extintor (agua o espumante) al lugar del incendio.
+- **Componentes básicos:** Bomba, manguera y lanza.
+- **Ecuación de línea:**
+  - **PB = PL + HG + PC**
+    - **PB:** Altura de presión a la salida de la bomba (PB/10 bar).
+    - **PL:** Altura de presión en punta de lanza (PL/10 bar).
+    - **HG:** Altura geométrica (HG/10 bar).
+    - **PC:** Pérdidas de carga en mca (PC/10 bar).
+
+## 2.1. Pérdidas de Carga en una Instalación
+- **Definición:** Pérdidas energéticas en un fluido en movimiento.
+- **Factores que incrementan pérdidas:**
+  - Longitud del conducto.
+  - Velocidad del fluido (según su segunda potencia).
+  - Reducción del diámetro (según su quinta potencia).
+  - Rugosidad del conducto y viscosidad del fluido.
+
+## 2.2. Curva de una Instalación
+- **Curva característica:** Representación gráfica de pérdidas de carga continuas y locales en función del caudal.
+- **Altura geométrica:**
+  - **Impulsión desde cota superior a inferior:** +1 kg por cada 10 metros de desnivel.
+  - **Impulsión desde cota inferior a superior:** -1 kg por cada 10 metros verticales ascendentes.
+
+## 2.3. Punto de Funcionamiento
+- **Relación entre presión y caudal:** Intersección de curvas de bomba e instalación.
+- **Condición de equilibrio hidráulico:** 
+  - **P_impulsión + ΔP_total = 0**
+
+## 2.4. Alcance de una Instalación
+- **Teorema de Torricelli:** Determina el caudal de salida a través de una lanza.
+- **Factores que determinan el alcance:**
+  - Presión a la entrada de la lanza.
+  - Diámetro de la lanza.
+- **K:** Factor del surtidor (0.9 a 0.98).
+
+## 2.5. Reacción en Lanza
+- **Principio de acción y reacción:** Empuje o retroceso sobre el portador.
+- **Cálculo del empuje:**
+  - **E = P * S**
+    - **E:** Empuje (unidades de fuerza).
+    - **P:** Presión.
+    - **S:** Superficie de salida.

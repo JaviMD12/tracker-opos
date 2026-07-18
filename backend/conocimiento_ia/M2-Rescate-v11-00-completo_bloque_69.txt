@@ -1,0 +1,92 @@
+# Accesorios y Funciones de Seguridad en Vehículos con GNC
+
+## Accesorios y Funciones de Seguridad
+Los vehículos alimentados con GNC (Gas Natural Comprimido) incorporan varios accesorios y funciones de seguridad:
+
+- **Válvula de cierre de seguridad de gas**: 
+  - Abre cuando se selecciona "Gas".
+  - Se cierra automáticamente en caso de emergencia (señal del sensor de choque).
+
+- **Válvula de cierre mecánica**: 
+  - Permite cerrar el depósito de gas para mantenimiento o en caso de fallo de hermeticidad.
+
+- **Cortocircuito fusible**: 
+  - Se activa a temperaturas superiores a **110 °C**, abriendo el depósito de gas y permitiendo la salida controlada del gas.
+
+- **Limitador de caudal**: 
+  - Reduce la cantidad de gas en caso de reducción de presión en el sistema.
+
+- **Caperuzas de goma**: 
+  - Evitan la acumulación de gas en caso de fuga, dirigiéndolo al aire libre a través de un tubo flexible.
+
+## Identificación de Vehículos GNC y GLP
+- **CNG (Gas Natural Comprimido)**:
+  - Identificación en la tapa del motor.
+  - Bocas de llenado en la tapa del motor.
+  - Autobuses con cubierta de techo grande.
+
+- **GLP (Gas Licuado de Petróleo)**:
+  - Puede no ser identificable a simple vista.
+
+## Características de Instalación de GNC en Vehículos de Transporte
+- **Tanques de gas**:
+  - Situados sobre el techo, fabricados en plástico reforzado.
+  - Fijados con cerco de acero resistente.
+  - Ventilación en caso de escape de gas.
+
+- **Conducto de gas**:
+  - Conecta el tapón de llenado del motor con los tanques, evitando contacto con el compartimento de pasajeros.
+
+- **Baterías**:
+  - Dos baterías conectadas en serie que aportan **24 V**.
+
+# Vehículos Eléctricos e Híbridos
+
+## Características Generales
+- **Vehículos eléctricos**:
+  - Más eficientes, generan menos emisiones, silenciosos, y con bajo coste de repostaje.
+  - Inconvenientes: mayor coste, menor autonomía, necesidad de punto de recarga.
+
+- **Vehículos híbridos**:
+  - Configuraciones en paralelo o en serie.
+  - En paralelo, ambos motores pueden propulsar el vehículo; en serie, el motor térmico solo genera electricidad.
+
+## Funcionamiento de Vehículos Híbridos
+- **Motor eléctrico**:
+  - Activa hasta **60 km/h**; luego se activa el motor de combustión.
+  - Puede incluir "frenos regenerativos" para recarga de baterías.
+
+- **Identificación de vehículos híbridos**:
+  - Elementos de identificación exterior como "Hybrid" o "h" en el modelo.
+
+## Componentes de Vehículos Híbridos
+- **Motor térmico**: 
+  - Gasolina, diésel, gas o biocombustibles, con menor cilindrada.
+
+- **Motor eléctrico**: 
+  - Conectado a la transmisión, con par máximo a bajas revoluciones.
+
+- **Generador**: 
+  - Recupera energía durante frenadas y retenciones.
+
+- **Baterías**: 
+  - Tipos: plomo-ácido, níquel-metal hidruro, níquel-cadmio, ión litio.
+
+- **Sistema de gestión**: 
+  - Controlado por un ordenador con múltiples sensores.
+
+## Vehículos de Hidrógeno (FHCV)
+- **Almacenamiento de hidrógeno**: 
+  - A presión entre **300 y 700 bares** y a **-230 °C**.
+
+- **Piloto de combustible**:
+  - Genera electricidad al combinar hidrógeno con oxígeno.
+
+- **Identificación**:
+  - Rótulos como FCHV, F-CELL o HYDROGEN.
+
+## Elementos de Seguridad en Vehículos de Hidrógeno
+- **Pila de combustible**: 
+  - Ubicada en el techo junto a las botellas de hidrógeno.
+- **Producción de energía**: 
+  - Generada a medida que se necesita, sin almacenamiento en batería.

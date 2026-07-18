@@ -1,0 +1,85 @@
+# Intervención Interior de Bomberos
+
+## 1.5 Diferencias entre ILC e ILV
+
+| Característica                       | ILC (Incendio de Interior Controlado) | ILV (Incendio de Interior Limitado) |
+|--------------------------------------|----------------------------------------|-------------------------------------|
+| Entorno                              | Relativamente seguro                    | Especialmente peligroso             |
+| Visibilidad                          | Buena visibilidad                       | Falta visibilidad                   |
+| Colchón de aire fresco               | Presente                                | No respirable                       |
+| Atmósfera                            | Combustión completa                     | Alta concentración de gases tóxicos |
+| Temperaturas                         | Altas temperaturas generalizadas         | Temperaturas extremas               |
+| Localización del foco                | Fácilmente localizable                  | Dificultad para localizar el foco    |
+
+## 1.6 Flashover
+
+- **Definición**: Fase transitoria en el desarrollo de un incendio donde las superficies expuestas alcanzan su temperatura de inflamación casi simultáneamente, extendiendo el incendio rápidamente.
+- **Condiciones para que ocurra**:
+  - Carga de combustible suficiente.
+  - Proporción de oxígeno adecuada.
+  - Pico en la potencia del incendio y elevada radiación térmica.
+
+### Estrategias para evitar Flashover
+- Limitar el aporte de aire al incendio.
+- Reducir la temperatura del colchón de gases.
+- Diluir el colchón de gases con vapor de agua.
+- Realizar un barrido de gases mediante ventilación forzada.
+
+### Indicadores de posible Flashover
+- Incendio próximo a concluir su fase de crecimiento.
+- Colchón de gases denso y oscuro.
+- Altas temperaturas en el recinto.
+- Aporte de oxígeno ventilado.
+- Plano neutro descendiendo hasta el suelo.
+- Lenguas de gases inflamados (rollover).
+
+## 1.7 Incendios Infraventilados
+
+- **Definición**: Incendios en recintos confinados con ventilación limitada, donde el oxígeno es escaso.
+- **Características**:
+  - Plano neutro desciende hasta el suelo.
+  - Visibilidad nula.
+  - Alta fracción de combustible en el colchón de gases.
+
+## 1.8 Flashover Inducido por la Ventilación
+
+- **Definición**: Flashover que ocurre tras la apertura de un hueco de ventilación en un incendio infraventilado.
+- **Rango de tiempo**: Aproximadamente 2 minutos desde la apertura de ventilación hasta el flashover.
+
+### Indicadores de Flashover Inducido
+- Formación de flujos de aire y gases.
+- Aumento de temperatura y potencia del incendio.
+
+## 1.9 Backdraft
+
+- **Definición**: Deflagración causada por un aporte repentino de aire a un incendio infraventilado.
+- **Condiciones necesarias**:
+  - Alta fracción de combustible (>15%).
+  - Productos de pirólisis y combustión incompleta.
+
+### Indicadores de Backdraft
+- Pulsaciones en el interior del recinto.
+- Colchón de gases denso con tonos anaranjados y amarillentos.
+
+### Estrategias para evitar Backdraft
+- Apertura de huecos de ventilación en cubierta.
+- Limitar el aporte de aire y esperar a que el incendio decaiga.
+- Reducir la temperatura del interior mediante ataque indirecto.
+- Asegurar que el personal esté en el exterior si el backdraft es inminente.
+
+## 1.10 Explosión de Humo
+
+- **Definición**: Deflagración causada por la presencia de una fuente de ignición en una mezcla de gases de incendio y aire en rango de inflamabilidad.
+  
+### Indicadores de Explosión de Humo
+- Humo caliente en espacio confinado.
+- Mezcla homogénea de gases de incendio y aire.
+
+### Estrategias de intervención
+- Evitar fuentes de ignición.
+- Reducir la temperatura de la mezcla.
+- Ventilar y expulsar la mezcla de gases del recinto.
+
+## 2. Influencia del Combustible
+
+- El combustible determina el desarrollo y comportamiento de los incendios, afectando la potencia, desarrollo, opacidad de los gases y composición de los productos de combustión.

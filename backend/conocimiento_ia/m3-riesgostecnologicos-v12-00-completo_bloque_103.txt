@@ -1,0 +1,85 @@
+# Parte 6. Riesgo eléctrico
+
+## 2.2. Incidentes con baja tensión
+
+### 2.2.1. Protocolo de actuación general en baja tensión
+
+#### a) Corte del suministro eléctrico
+- **Corte vía compañía eléctrica**: Si el incendio ocurre fuera del centro transformador.
+- **Corte por el equipo de intervención**: Si el incendio es en el interior de la vivienda.
+
+**Métodos de corte**:
+1. **Líneas de distribución**:
+   - Localizar el cuadro de baja.
+   - Retirar fusibles rápidamente.
+   - Cortar trenzado: soltar bridas, separar cables con herramienta aislante, cortar conductores (neutro en último lugar).
+2. **Caja general de protección (CGP)**:
+   - Cortar el cable de acometida con cizalla dieléctrica.
+3. **Centralización de contadores**:
+   - Retirar fusibles de la CGP.
+   - Si el incendio persiste, proceder a la extinción.
+4. **Vivienda**:
+   - Localizar la CGP y retirar fusibles (uno o tres).
+   - Si no se puede acceder, actuar en el interruptor general de maniobra.
+5. **Vivienda unifamiliar o industria**:
+   - Localizar el armario de protección.
+   - Abrir el interruptor general y retirar fusibles rápidamente.
+
+#### b) Distancia de seguridad
+- Observar la distancia de seguridad recomendada para cada caso.
+
+### 2.2.2. Protocolo de actuación específico para la extinción de un incendio
+
+#### a) Control de la propagación
+- Usar extintores de polvo químico, CO2 y polvo polivalente ABC.
+- Si la instalación eléctrica no tiene corriente, se puede usar agua pulverizada o espumas.
+
+#### b) Extinción del incendio
+- **Instalación**: Mangaje de 45 mm seguido de bifurcación 45-25 mm.
+- **Extinción en interiores**: Extintores de CO2 o polvo polivalente ABC, o instalación de agua/espumas.
+- **Líneas de distribución**: Extintor en polvo químico seco o polivalente.
+- **CGP**: Usar polvo químico seco o polivalente, y agua pulverizada si hay cortocircuitos.
+
+#### c) Vuelta a la normalidad
+- Restablecer la normalidad tras extinguir el incendio.
+- Emitir un informe de la intervención.
+
+### 2.2.3. Protocolo de actuación específico para el rescate
+
+#### a) Valorar el tipo de material a utilizar
+- Equipos: alfombra aislante, extractor de fusibles, cizalla aislante, guantes dieléctricos, etc.
+- Mantener distancia de seguridad en centros de transformación.
+
+#### b) Rescate
+- Aplicar primeros auxilios.
+
+#### c) Extinción si procede
+- Usar medios extintores adecuados al nivel de tensión.
+
+#### d) Vuelta a la normalidad
+- Avisar a la empresa eléctrica del accidente y emitir un informe.
+
+## 3. Valoración dinámica de intervención
+- Reevaluar el plan de acción si las medidas tomadas no son efectivas.
+- Ejemplo: Evitar verter agua en incendios de transformadores con aceite, ya que puede propagar el fuego.
+
+## CAPÍTULO 3: Tácticas de intervención
+
+### 1. Elección de planteamiento táctico
+- Valorar opciones para llegar al objetivo deseado.
+- **Plan de acción**:
+  1. Identificación de riesgos (incendio, rescate).
+  2. Comunicación con víctimas (número, estado, estrés).
+  3. Valoración del siniestro (AT, BT).
+  4. Solicitar presencia de la compañía eléctrica.
+  5. Balizar zona de trabajo.
+  6. Abrir fuentes de tensión.
+  7. Comprobar ausencia total de tensión.
+  8. Puesta a tierra y acotar zona de trabajo.
+
+**Abreviaturas**:
+- C.E.: Compañía eléctrica
+- AT: Alta tensión
+- BT: Baja tensión
+
+**Fuente**: Adaptación del protocolo de riesgo eléctrico de CEIS Guadalajara (España).

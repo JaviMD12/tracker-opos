@@ -1,0 +1,63 @@
+# Corrosión en Estructuras de Hormigón
+
+## 1. Corrosión en Hormigón Armado
+
+### Tipos de Corrosión
+- **Corrosión por Gases Atmosféricos**: 
+  - **Causas**: Emisiones de combustión (carbón, petróleo) y gases industriales.
+  - **Reacciones**:
+    - \( \text{CO}_2 + \text{H}_2\text{O} \rightarrow \text{H}_2\text{CO}_3 \) (Ácido carbónico)
+    - \( \text{SO}_2 + \text{H}_2\text{O} \rightarrow \text{H}_2\text{SO}_4 \) (Ácido sulfúrico)
+
+- **Corrosión por Agua**:
+  - **Aguas puras**: Atacan al hormigón por disolución.
+  - **Aguas ácidas**: Convierten el cemento en sales solubles.
+  - **Aguas selenitosas**: Reaccionan con aluminato tricálcico generando ettringita expansiva.
+  - **Agua de mar**: Produce ettringita y cloruros que solubilizan la cal.
+
+### Corrosión en la Armadura
+- **Composición del Hormigón**: Mezcla de áridos, arena, cemento y agua.
+- **Hidróxido Cálcico**: \( \text{Ca(OH)}_2 \) (portlandita) con pH entre 12 y 13.
+- **Carbonatación**:
+  - **Reacción**: 
+    - \( \text{Ca(OH)}_2 + \text{CO}_2 \rightarrow \text{CaCO}_3 + \text{H}_2\text{O} \)
+  - **Efecto**: Disminución del pH a 8-9, favoreciendo la corrosión de la armadura.
+
+### Detección de Carbonatación
+- **Fenolftaleína**: 
+  - Color rosáceo brillante para \( \text{pH} > 9 \).
+  - No se altera para \( \text{pH} < 9 \).
+
+## 2. Aluminosis
+- **Definición**: Lesión del hormigón que causa pérdida de resistencia e incremento de porosidad.
+- **Causas**: Uso de cemento aluminoso (CAC-R) entre 1960 y 1970.
+- **Efectos**: Aumento de porosidad y disminución de resistencia mecánica, especialmente en climas marítimos y zonas industriales.
+
+## 3. Síntomas Secundarios o Complementarios
+- **Definición**: Manifestaciones que indican la existencia de patologías en la edificación.
+  
+### Tipologías
+- **Disgregación de Morteros y Descascarillado**: 
+  - Indica envejecimiento prematuro de materiales.
+  
+- **Desplomes y Bombeos**:
+  - **Desplomes**: Elementos sustentantes sobrecargados.
+  - **Bombeos**: Sección insuficiente frente a sobrecargas.
+
+- **Empujes**: 
+  - Indican fallos en nudos estructurales.
+
+- **Separación de Macizos**: 
+  - Ocurre en uniones entre ladrillo y hormigón.
+
+- **Descuadre de Huecos**: 
+  - Dificultad en apertura/cierre de puertas y ventanas.
+
+- **Sonido a Percusión**: 
+  - Sonido claro indica buena estructura; sonido mate indica defectos.
+
+- **Otras Manifestaciones**: 
+  - Deformaciones, cristalizaciones, decoloraciones.
+
+## 4. Conclusiones
+La corrosión y patologías en estructuras de hormigón son problemas significativos que requieren atención para mantener la integridad y seguridad de las edificaciones. La identificación temprana de síntomas y la comprensión de los procesos químicos involucrados son esenciales para la prevención y el mantenimiento adecuado.

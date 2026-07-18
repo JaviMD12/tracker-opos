@@ -1,0 +1,59 @@
+# Confinamiento y Ventilación en Incendios
+
+## Confinamiento de Incendios
+El confinamiento de incendios es crucial para evitar que los gases se dirijan a otras estancias. Este proceso implica:
+
+- **Cierre de puertas y ventanas** para limitar la propagación.
+- Uso de **dispositivos de aislamiento** como cortinas portátiles.
+- **Proteger zonas comunes** como escaleras y pasillos.
+
+### Ventajas del Confinamiento
+- Reduce la potencia del incendio.
+- Evita la salida de gases a otras estancias.
+- Mantiene el plano neutro del incendio.
+
+### Control de Puertas
+La técnica de control de puerta implica posicionar a un bombero en el exterior de la puerta que confina el recinto, manteniéndola entornada para facilitar el acceso.
+
+## Ventilación Natural
+La ventilación natural busca evacuar los gases de incendio utilizando diferencias de presión generadas por el propio incendio. Sus objetivos son:
+
+- Recobrar visibilidad.
+- Expulsar atmósfera combustible (hasta un **50%** de reducción).
+- Reducir temperatura para facilitar operaciones.
+
+### Tipos de Ventilación Natural
+1. **Ventilación Vertical**
+   - Entrada y salida de gases a distinto nivel.
+   - Ideal para crear un flujo unidireccional.
+   - Eficaz en estructuras con cubiertas perforables.
+
+2. **Ventilación Horizontal**
+   - Entrada y salida de gases al mismo nivel.
+   - Flujos bidireccionales, menos efectivos.
+   - Inconvenientes incluyen menor efectividad y riesgo para el personal.
+
+### Factores que Afectan la Eficiencia
+- **Diferencia de presión** entre entrada y salida.
+- **Tamaño de la apertura** de gases.
+- **Cercanía de la salida** al foco del incendio.
+
+## Ventilación Forzada
+La ventilación forzada utiliza ventiladores mecánicos para expulsar gases. Se clasifica en:
+
+### Tipos de Ventilación Forzada
+1. **Ventilación por Presión Positiva (VPP)**
+   - Colocación de un ventilador en la entrada.
+   - Crea un diferencial de presión que expulsa gases calientes.
+   - **Ejemplo**: Un ventilador genera un flujo de aire a **8 m/s** que se reduce a **4 m/s** al entrar en el recinto.
+
+2. **Ventilación por Presión Negativa (VPN)**
+   - Utiliza extractores para generar presión negativa.
+   - Menor uso en intervenciones debido a riesgos para el personal.
+
+### Ecuación de Bernoulli
+La ecuación se aplica para calcular el diferencial de presión y el flujo de gases. Por ejemplo, con un ventilador de VPP, el diferencial de presión creado es de **28,8 Pa** y el flujo asciende a **2.3040 m³/h**.
+
+## Consideraciones Finales
+- La efectividad de la ventilación depende de la técnica utilizada y las condiciones del incendio.
+- La elección entre ventilación natural y forzada debe basarse en la situación específica del incendio y la estructura afectada.

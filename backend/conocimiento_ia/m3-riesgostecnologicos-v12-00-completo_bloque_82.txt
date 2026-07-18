@@ -1,0 +1,69 @@
+# Parte 4: Rescate en Ascensores
+
+## Casos Prácticos
+
+### Rescate de Personas Atrapadas en Ascensores
+
+1. **Procedimiento Inicial**
+   - Presionar uno de los pulsadores (h o i) hasta que el piloto rojo LZP se encienda.
+     - Si el piloto se enciende, continuar con el procedimiento.
+     - Si tras 10 segundos sigue apagado, desconectar el interruptor principal de fuerza (VP).
+
+2. **Observación de la Cabina**
+   - **Cabina por encima del último piso**: Abrir la puerta de la cabina y rescatar.
+   - **Cabina por debajo del primer piso**: Ir al primer piso, abrir la puerta de acceso y rescatar, asegurando cerrar y enclavar la puerta.
+   - **Cabina en posición intermedia**: Retirar la manivela del armario y colocarla en la argolla del generador. Sacar el pedal del armario y posicionarlo en el suelo.
+
+3. **Acciones de Rescate**
+   - Sujetar la manivela y pisar el pedal hasta el final del recorrido.
+     - Si hay movimiento incontrolado, retirar el pie del pedal.
+   - Girar la manivela hasta que se encienda el piloto LZP (puede durar hasta 5 minutos).
+     - Si no se enciende, detener la actividad y proceder al siguiente paso.
+   - Soltar el pedal y la manivela, recolocarlas en su lugar original.
+   - Ir al piso donde están los pasajeros, abrir las puertas con la llave especial y permitir la evacuación.
+   - Cerrar puertas y volver al armario de control. El rescate ha finalizado.
+   - Dejar el interruptor principal (VP) desconectado, llamar al Servicio de Asistencia Técnica y cerrar la tapa del armario.
+
+## Rescate en Ascensores Hidráulicos Sin Acceso al Cuarto de Máquinas
+
+### Procedimiento
+
+1. **Corte de Suministro Eléctrico**
+   - Asegurar que el ascensor es hidráulico y no se dispone de llaves para el acceso al cuarto de máquinas.
+   - Cortar el suministro eléctrico desde el emplazamiento de contadores.
+
+2. **Verificación de Seguridad**
+   - Asegurar el cierre de todas las puertas.
+   - Verificar con el pasajero el cierre de las puertas interiores.
+
+3. **Desenclavamiento y Apertura de Puertas**
+   - Si la cabina está a nivel de planta, realizar el desenclavamiento y abrir la puerta para rescatar al pasajero.
+   - Si no, aplicar la técnica de rescate sin corriente eléctrica.
+
+## Rescate de Persona Atrapada con la Cabina Fuera de Planta
+
+### Procedimiento
+
+1. **Corte de Corriente**
+   - Cortar la corriente en el cuarto de máquinas.
+
+2. **Técnica de Rescate**
+   - Realizar el rescate por la parte inferior de la cabina.
+   - Asegurar una escalera en el fondo del hueco y sujetarla.
+   - Colocar un cojín neumático de media presión entre la pared y la pisadera de la cabina.
+   - Liberar el miembro atrapado y meterlo en la cabina.
+   - Proceder a la maniobra de rescate si la dirección no está condicionada por el espacio libre entre planta y cabina.
+
+3. **Finalización del Rescate**
+   - Despresurizar el cojín neumático una vez completado el rescate.
+   - Verificar el cierre de las puertas.
+
+## Información General sobre Ascensores
+
+- **Clasificación de Ascensores**: Eléctricos e hidráulicos; por uso: emergencia, panorámicos, industriales, etc.
+- **Partes de un Ascensor**: Cuarto de máquinas, recinto (hueco) y foso.
+- **Elementos de Emergencia**: Instrucciones de rescate, pulsador de bomberos, mecanismos de seguridad, etc.
+- **Técnicas de Intervención**: Rescate con funcionamiento normal, sin movimiento de cabina, etc.
+- **Causas Comunes de Intervención**: Paradas fuera de nivel, personas atrapadas, inundaciones, etc.
+- **Normativa de Uso en Incendios**: Prohibido el uso de ascensores, salvo valoración específica del caso.
+- **Protocolo de Actuación**: Comunicación con la persona atrapada, valoración de riesgos y seguimiento de protocolo específico.

@@ -1,0 +1,49 @@
+# Anexos
+
+## 1. Manejo y funciones de los GPS de la marca “Garmin”
+
+### 1.1. Funciones y configuraciones que se usarán en una búsqueda
+
+- **Modelos destacados**: 
+  - **NUVI**: Navegador para vehículos con pantalla táctil.
+  - **E-TREX 20**: Dispositivo manual con 5 pulsadores y joystick.
+
+- **Controles del E-TREX 20**:
+  - **Pulsadores**:
+    - **▲ y ▼**: Acercar/alejar vista del mapa y navegar por el menú.
+    - **Botón menú**: Abre menú de configuración.
+    - **Botón “back”**: Regresa al paso anterior en el menú.
+    - **Botón “light”**: Enciende/apaga el dispositivo y muestra estado de batería y señal de satélites.
+  - **Joystick**: Navega por el menú y selecciona opciones.
+
+- **Configuración de coordenadas**:
+  - **Formato de coordenadas**: hdddº mm’ ss.s” (datum WGS 84).
+  - **Modificación de datum**: Seleccionar en el menú “Configuración”.
+
+- **Funciones de búsqueda**:
+  - **Marcar Waypoint**: Memoriza la posición actual en el mapa.
+  - **Menú “Tracks”**: 
+    - Activa grabación del recorrido.
+    - Configura frecuencia de grabación y color del track.
+  - **Track Manager**: Acceso a recorridos guardados.
+  - **Waypoint Manager**: Listado de puntos de interés guardados.
+
+### 1.2. Aplicaciones BaseCamp
+
+- **Carga de sectores de búsqueda**: 
+  - Introducir en el GPS desde un PC utilizando BaseCamp.
+  - Crear recorridos que trazan el perímetro del sector.
+
+- **Proceso de creación de recorridos**:
+  - Posicionar cursor en el inicio del perímetro.
+  - Pinchar puntos en el mapa para cerrar el recorrido.
+  - Modificar puntos, color y ancho del recorrido.
+
+### 1.3. Función Waypoint
+
+- **Inserción de Waypoints**: 
+  - Localiza sectores de búsqueda y puntos de interés (ULC, Zona de ubicación de PMA).
+  - Icono por defecto: banderita (modificable).
+
+- **Visualización**: 
+  - Todos los sectores de búsqueda y waypoints se encuentran en una carpeta llamada “Mi” en la pantalla del GPS.

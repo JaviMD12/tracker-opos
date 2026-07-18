@@ -1,0 +1,52 @@
+# Cimentaciones
+
+## Definición
+Conjunto de elementos estructurales que, en contacto con el terreno, tienen por objeto la transmisión de las cargas de la edificación, evitando que se superen las presiones admisibles y produciendo sobrecargas puntuales.
+
+## Importancia
+Cualquier fallo en la cimentación puede ocasionar problemas graves a la estabilidad de la edificación.
+
+## Parámetros básicos
+Para comprender las características de los distintos modelos de cimentación, se deben considerar los siguientes parámetros:
+
+- **Geometría**: Determinada por la profundidad del estrato resistente, define el modelo de cimentación y su forma.
+- **Material**: El hormigón armado (in situ o prefabricado) es el material más utilizado por su capacidad formácea y rigidez.
+- **Rigidez**: Según la EHE08, las cimentaciones de hormigón se clasifican en:
+  - **Rígidas**: Elementos masivos (ej: zapatas que trabajan a compresión pura, pozos de cimentación).
+  - **Flexibles**: Zapatas de elevado vuelo (trabajan a flexión) y losas de cimentación.
+
+## Tipologías de cimentación (Según CTE DB SE C)
+1. **Cimentación directa**
+   - **Definición**: Reparte las cargas en un plano de apoyo horizontal.
+   - **Características**:
+     - **Terrenos**: Usadas en terrenos con resistencia adecuada.
+     - **Profundidades**: Localizadas a poca distancia bajo la superficie.
+   - **Elementos constructivos**:
+     - **Zapata aislada**: Para cargas puntuales (profundidad < 1m).
+     - **Zapata combinada**: Recoge cargas de dos o más pilares.
+     - **Zapata corrida**: Recoge cargas de tres o más pilares alineados.
+
+2. **Cimentación profunda**
+   - **Definición**: Extremo inferior a una profundidad > 8 veces su diámetro.
+   - **Tipologías**:
+     - **Pilote aislado**: Sin interacción geotécnica.
+     - **Grupo de pilotes**: Interaccionan entre sí.
+     - **Zonas pilotadas**: Reducen asientos o mejoran seguridad.
+     - **Micropilotes**: Para ampliaciones en edificios existentes.
+
+## Datos técnicos clave
+- **Profundidad de cimentación directa**: < 1 m.
+- **Profundidad de cimentación profunda**: > 8 veces el diámetro.
+- **Relación canto/vuelo para zapatas rígidas**: \( v \leq 2h \).
+- **Relación canto/vuelo para zapatas flexibles**: \( v > 2h \).
+
+## Rigidez en cimentaciones
+- **Zapatas estructuralmente rígidas**: Trabajan a compresión, pueden ejecutarse en hormigón “en masa”.
+- **Zapatas estructuralmente flexibles**: Trabajan a flexión, requieren armados.
+
+## Elementos auxiliares
+- **Viga de atado/soleras**: Limitan desplazamientos laterales.
+- **Vigas centradoras**: Absorben giros provocados por momentos de vuelco.
+
+## Conclusión
+La correcta elección y diseño de las cimentaciones es crucial para la estabilidad y seguridad de las edificaciones, considerando siempre los parámetros geotécnicos y estructurales pertinentes.

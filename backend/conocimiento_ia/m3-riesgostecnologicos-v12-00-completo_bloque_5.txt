@@ -1,0 +1,117 @@
+# Temario de Oposición: Materiales de Construcción
+
+## I. Materiales Bituminosos
+
+### Uso
+- **Aplicaciones**: Construcción de carreteras e impermeabilización de superficies.
+
+### Tipologías
+- **Alquitrán**: 
+  - Producto bituminoso negro, viscoso, semisólido.
+  - Obtención: Destilación de hulla, lignito o madera.
+  - Usos: Protección del hierro y madera, hidrófugo, impermeabilizante.
+
+- **Betún**: 
+  - Mezcla de hidrocarburos naturales.
+  - Propiedades: Impermeabilidad y adhesividad.
+  - Usos: Láminas impermeabilizantes.
+
+- **Asfalto**: 
+  - Sustancia impermeable de color negro.
+  - Usos: Pavimentación de caminos y carreteras.
+
+## I.3. Áridos
+
+### Definición
+- Materiales granulares inorgánicos usados en morteros y hormigones.
+
+### Propiedades
+- **Naturaleza**: Inerte, no debe reaccionar químicamente.
+- **Resistencia**: Elevada resistencia mecánica.
+- **Uso**: Materiales formáceos y elementos de fábrica.
+
+### Tipos de Áridos
+- **Según su origen**:
+  - **Naturales/Rodados**: Mayor dureza y resistencia, menor necesidad de agua.
+  - **Machaqueo / Reciclados / Triturados**: Mayor resistencia a tracción.
+  - **Artificiales**: Transformaciones térmicas o subproductos industriales.
+
+- **Según el tamaño de sus partículas (diámetro según CTE DB SE C)**:
+  - **Gravas**:
+    - Gruesas: 20,0 - 60,0 mm
+    - Medias: 6,0 - 20,0 mm
+    - Finas: 2,0 - 6,0 mm
+  - **Arenas**:
+    - Gruesas: 0,60 - 2,00 mm
+    - Medias: 0,20 - 0,60 mm
+    - Finas: 0,06 - 0,20 mm
+  - **Limos**:
+    - Gruesos: 0,020 - 0,060 mm
+    - Medios: 0,006 - 0,020 mm
+    - Finos: 0,002 - 0,006 mm
+  - **Arcillas**: < 0,002 mm
+
+## I.4. Agua
+
+### Definición
+- Elemento que propicia la reacción química de los conglomerantes.
+
+### Características
+- **Parámetros de calidad del agua**:
+  - pH ≥ 5
+  - Sulfatos (SO4) ≤ 1 g/L
+  - Ión Cloruros (CL-):
+    - Hormigón pretensado: ≤ 1 g/L
+    - Hormigón en masa o armado: ≤ 3 g/L
+
+## II. Materiales Compuestos
+
+### II.1. Pasta
+
+### Definición
+- Mezcla plástica de conglomerante y agua.
+
+### Tipologías
+- **Conglomerante**: Cal, yeso o cemento.
+
+### II.2. Mortero
+
+### Definición
+- Mezcla de conglomerante, árido fino y agua.
+
+### Tipologías
+- Mortero de cal, yeso, cemento, morteros mixtos y mortero bastardo.
+
+### Marco legal y Nomenclatura
+- Según UNE-EN 998-2, caracterización por resistencia a compresión (M-1, M-2.5, M-5, M-7.5, M-10, M-15, M-20).
+
+### II.3. Hormigón
+
+### Definición
+- Compuesto de conglomerante, agua y árido grueso.
+
+### Características
+- **Uso**: Generalizado desde el siglo XX.
+- **Resistencia mecánica**: Aceptable a compresión, despreciable a tracción.
+
+### Tipologías
+- **Hormigón en masa**: Soporta compresiones.
+- **Hormigón armado**: Con armadura de acero.
+- **Hormigones pretensados**: Con estructura de acero en la masa.
+
+### Proceso de Pretensado
+1. Colocación de tendones sin tensar.
+2. Hormigonado de la pieza.
+3. Tensión de los tendones.
+4. Anclaje de los tendones.
+
+### Ventajas de Hormigones Pretensados
+- Estructuras más rígidas y durables.
+- Mejor comportamiento frente al fuego.
+- Reducción de cantos y espesores.
+
+### Marco legal y Nomenclatura
+- Según EHE-08:
+  - **T**: Tipología (HM, HA, HP).
+  - **R**: Resistencia a compresión a 28 días (N/mm²).
+  - **C**: Consistencia (S, P, B, F, L).

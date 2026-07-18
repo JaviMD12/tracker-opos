@@ -1,0 +1,85 @@
+# Temario de Oposición: Edificaciones
+
+## I. Escaleras
+
+### I.3. Mesetas
+- **Dimensiones mínimas**: 
+  - Anchura: igual a la de la escalera.
+  - Longitud: **1 m** como mínimo.
+
+### I.4. Pasamanos
+- **Altura**: entre **90 cm y 110 cm**.
+- **Requisitos**:
+  - Escaleras con altura > **55 cm**: pasamanos en al menos un lado.
+  - Anchura > **1,20 m**: pasamanos en ambos lados.
+  - Anchura del tramo > **4 m**: pasamanos intermedios cada **4 m** como máximo.
+
+### Tipos de Escaleras
+- **Escaleras abiertas**: sin protección contra incendios.
+- **Escaleras compartimentadas**: comunican dos sectores con resistencia al fuego.
+  - **Características**:
+    - **Sectorización**: mantiene sectorización entre plantas.
+    - **Ventilación**: no requiere ventilación.
+    - **Recorrido en planta**: distancia < **15 m** desde el desembarco hasta el exterior.
+- **Escaleras protegidas**: medidas de seguridad en caso de incendio.
+  - **Sectorización**: EI **120**.
+  - **Accesos**: máximo **2 accesos** en cada planta a través de puertas EI **260-C5**.
+  - **Protección frente al humo**: 
+    - Ventilación natural.
+    - Ventilación con conductos independientes.
+    - Sistema de presión diferencial conforme a **EN 12101-6:2005**.
+- **Escaleras especialmente protegidas**: cumplen condiciones de escaleras protegidas y tienen vestíbulo de independencia en accesos.
+
+## II. Rampas
+
+### Definición
+- Plano inclinado entre dos cotas de servicio.
+
+### Geometría
+- **Longitud máxima**: 
+  - General: **15 m**.
+  - Itinerarios accesibles: **9 m**.
+- **Pendiente**: 
+  - General: entre **4% y 12%**.
+  - Itinerarios accesibles: **3%** (longitudes < **3 m**), **6%** (longitudes < **6 m**).
+  - Itinerarios no accesibles: máximo **16%** en parkings.
+- **Mesetas**: 
+  - Anchura: igual a la de la rampa.
+  - Longitud: **1,5 m** como mínimo.
+- **Pasamanos**: 
+  - Diferencia de altura > **550 mm** y pendiente ≥ **6%**: pasamanos continuo en al menos un lado, altura entre **0,90 m y 1,10 m**.
+
+### Protección contra incendios
+- No se establece modalidad de rampa específicamente protegida para evacuación.
+
+## Evolución Histórica de la Edificación en España
+
+### Clasificación de Edificaciones
+1. **Estructuras anteriores al siglo XX**: 
+   - Construcciones sin normativas, basadas en procedimientos empíricos.
+2. **Estructuras del siglo XX**: 
+   - Conforme a normativas derogadas.
+3. **Edificaciones conforme a normativa vigente**: 
+   - Valores de cálculo basados en consideraciones probabilísticas.
+
+### Sistemas Constructivos
+#### 8.1. Antes del siglo XX
+- **Materiales**:
+  - **Piedra**: técnicas como sillar, sillarejo, mampuesto.
+  - **Tierra**: adobe, bajo costo y alta disponibilidad.
+  - **Materiales mixtos**: estructuras de adobe sobre muros de carga de piedra.
+  - **Entramados de madera**: permitían espacios diáfanos.
+
+#### 8.2. Durante el siglo XX
+- **1900-1939**: desplazamiento de sistemas murarios por nuevos materiales.
+- **1940-1965**: escasez de materiales, retorno a sistemas de entramados de madera.
+- **1965-1990**: apertura económica, retorno de materiales como acero y hormigón.
+
+#### 8.3. Fines del siglo XX - Inicios del siglo XXI
+- **1990-2010**: 
+  - **Prefabricación**: reducción del trabajo manual.
+  - **Modulación**: diseño y fabricación en módulos estandarizados.
+  - **Nuevas tipologías**: grandes complejos y manzanas cerradas.
+
+### Tendencias Básicas
+- **Construcción de manzanas cerradas**: unidades cerradas con espacios de esparcimiento interior.

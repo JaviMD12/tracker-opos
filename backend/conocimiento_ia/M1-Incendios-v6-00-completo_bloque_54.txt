@@ -1,0 +1,74 @@
+# Temario de Oposición: Incendios Industriales
+
+## 1. Densidad de Carga de Fuego
+- **Qe**: Densidad de carga de fuego del edificio industrial (MJ/m² o Mcal/m²).
+- **Qsi**: Densidad de carga de fuego de cada sector o área de incendio (MJ/m² o Mcal/m²).
+- **Ai**: Superficie construida de cada sector o área de incendio (m²).
+
+### Fórmula para determinar el nivel de riesgo intrínseco:
+- **Qs**: Densidad de carga de fuego del sector o área de incendio (MJ/m² o Mcal/m²).
+- **Gi**: Masa de combustibles en el sector (kg).
+- **qi**: Poder calorífico de cada combustible (MJ/kg o Mcal/kg).
+- **Ci**: Coeficiente adimensional de peligrosidad de cada combustible.
+- **Ra**: Coeficiente de peligrosidad inherente a la actividad industrial.
+- **A**: Superficie construida del sector de incendio (m²).
+
+## 2. Niveles de Protección
+### Sistemas Activos
+- **Detección**: Detectores automáticos (humo, llama, calor) y manuales.
+- **Alerta y señalización**: Timbres, megafonía, letreros de evacuación.
+- **Extinción**: Agentes extintores (agua, polvo, espuma, nieve carbónica) en dispositivos automáticos o manuales.
+- **Presurización de cajas de escaleras**: Mantiene presión estática superior en escaleras para evitar desplazamiento de humos.
+
+### Sistemas Pasivos
+- Normativas sobre:
+  - Ancho mínimo de pasillos, escaleras y puertas de evacuación.
+  - Distancias máximas a recorrer hasta un lugar seguro.
+  - Disposiciones constructivas (apertura de puertas, escaleras con pasamanos).
+  - Recorridos de evacuación protegidos.
+  - Mínimo número de escalones.
+  - Sectorización del edificio para retardar el avance del fuego.
+
+## 3. Estabilidad al Fuego de Elementos Portantes
+### Normativa RSCIEI
+- Valores mínimos de estabilidad al fuego según tabla 1 (no se incluye la tabla).
+
+### Clasificación de Materiales (Norma UNE 23727-90)
+1. **Incombustible (M0)**: Ej. granito, acero.
+2. **No inflamable (M1)**: Ej. madera aglomerada ignifugada.
+3. **Difícilmente inflamable (M2)**: Ej. poliéster reforzado.
+4. **Moderadamente inflamable (M3)**: Ej. madera en listones.
+5. **Fácilmente inflamable (M4)**: Ej. madera aglomerada delgada.
+
+## 4. Estructuras
+### 4.1. Estructuras de Acero (M0)
+- **Propiedades**:
+  - No arde, alta conductividad térmica.
+  - Pérdida de resistencia a partir de 350 ºC.
+  - Riesgos: propagación del incendio, empuje por dilatación.
+
+### 4.2. Estructuras de Hormigón Armado (M0)
+- **Propiedades**:
+  - No arde, baja conductividad térmica.
+  - Pérdida de resistencia a partir de 300 ºC.
+  - Protección mediante forrado con materiales aislantes.
+
+### 4.3. Estructuras de Madera (M3)
+- **Propiedades**:
+  - Material combustible, arde y aporta carga térmica.
+  - Comportamiento concéntrico al arder.
+  - Colapso por pérdida de sección resistente.
+
+## 5. Características de los Incendios Industriales
+### 5.1. Incendios de Maquinaria
+- Causas comunes:
+  - Cortocircuitos, mantenimiento defectuoso, sobrecalentamiento.
+- Riesgos por aceites: fricción, fugas, gases tóxicos.
+
+## 6. Protección de Materiales
+- **Madera**: Recubrimientos con barnices intumescentes.
+- **Hormigón armado**: Forrado con elementos aislantes.
+
+---
+
+Este temario proporciona una visión estructurada y técnica sobre la prevención y manejo de incendios en entornos industriales, esencial para la preparación de oposiciones en esta área.

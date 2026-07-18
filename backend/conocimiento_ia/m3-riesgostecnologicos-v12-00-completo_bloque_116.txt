@@ -1,0 +1,62 @@
+# Parte 7. NRBQ
+
+## Caracterización
+
+### Seguridad en Cisternas
+
+- **Bridas ciegas**: Siempre aseguradas en la parte superior de las cisternas.
+- **Presiones**: Las cisternas de butano operan a presiones rondando los **20 bares**.
+
+### Válvulas de Seguridad
+
+1. **Válvula de seguridad: depresión**
+   - Previene la generación de vacío en la cisterna.
+   - Funciona automáticamente mediante un resorte sensible a la presión.
+
+2. **Disco de ruptura**
+   - Protege contra la ruptura de recipientes a presión al sobrepasar la presión máxima de servicio.
+   - Combinación común con válvulas de seguridad.
+   - Se activa por diferencia de presión y permite el escape del producto.
+
+3. **Válvula de seguridad: presión**
+   - Dispositivo automático que protege contra sobrepresión.
+   - Debe re-evaluarse la distancia y técnicas de control si se escapa producto.
+
+4. **Válvula de cinco efectos**
+   - Instalación en cisternas atmosféricas.
+   - Funciones:
+     - **Aireación**: 90-55 mbar.
+     - **Sobrepresión**: 220-275 mbar.
+     - **Depresión**: 10-15 mbar.
+     - **Antivuelco**: Cierra a 27º-37º.
+     - **Apagallamas**: Rejilla en salidas.
+
+5. **Válvula de exceso de flujo**
+   - Permite el paso normal de líquido/gas, cierra si el flujo supera un límite.
+   - Se reabre cuando las presiones se equilibran.
+
+### Elementos de Carga y Descarga
+
+- **Normativa ADR**: Establece la ubicación de aberturas en depósitos.
+- **Códigos de aberturas**:
+  - **A**: Mínimo dos cierres en serie para llenado/vaciado.
+  - **B**: Mínimo tres cierres en serie.
+  - **C/D**: Aberturas por encima del nivel del líquido.
+
+- **Obturadores**:
+  - Internos y externos deben ser estancos.
+  - Deben evitar la apertura intempestiva.
+
+### Válvula de Fondo
+
+- Puede abrirse manual, hidráulica o neumáticamente.
+- En caso de accidente, se puede forzar la apertura.
+
+### Carga y Descarga de Materias
+
+- Algunas materias pueden cargarse o descargarse en estado gaseoso o líquido.
+- Diferentes diámetros para válvulas de fase gaseosa y líquida.
+
+### Parasol
+
+- Protección calorífuga para mantener temperatura constante y evitar sobrepresión por radiación solar.

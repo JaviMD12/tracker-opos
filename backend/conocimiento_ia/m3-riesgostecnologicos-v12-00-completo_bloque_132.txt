@@ -1,0 +1,111 @@
+# Parte 7. NRBQ - Tácticas de intervención
+
+## Zonas de intervención con sustancias peligrosas
+
+### Tabla 52. Zonas o sectores
+
+- **Zona Caliente (ZC)**
+  - Acotado en el que la población está en riesgo.
+  - Requiere máxima protección personal.
+  - Preparada para evacuación inmediata a zona templada.
+  - Personal no interviniente debe abandonar rápidamente en dirección perpendicular al viento.
+
+- **Zona Templada (ZT)**
+  - Acotado funcional con riesgo mínimo o nulo.
+  - Zona de trabajo para equipos de intervención.
+  - Preparada para evacuación a zona fría.
+  - Personal no interviniente debe abandonar rápidamente en dirección perpendicular al viento.
+
+- **Zona Fría**
+  - Área fuera de las cotas de ZT y ZC.
+  - Zona de descanso y apoyo.
+
+- **Descontaminación**
+  - Aislamiento del riesgo en ZT y ZC.
+  - Únicos puntos de entrada y salida a la zona caliente.
+
+## Magnitudes que afectan a la zonificación
+
+- **Toxicidad**
+- **Efectos de sobrepresión**
+- **Radiación térmica**
+- **Efecto dominó** (ej. rotura de recipientes anexos)
+
+## Modelos de zonificación
+
+- Modelos simplificados han demostrado ser limitados.
+- Se requieren modelos matemáticos complejos con múltiples variables.
+- Programas como **FIREX** o **ALOHA** ofrecen zonificaciones exhaustivas, pero son inoperativos en intervención.
+
+## Guía de Respuesta a Emergencias (GRE)
+
+- Establece distancias de separación de la zona caliente:
+  - **Pequeños derrames**: 
+    - < 208 litros (líquidos)
+    - < 300 kg (sólidos)
+  - **Grandes derrames**: 
+    - > 208 litros (líquidos)
+    - > 300 kg (sólidos)
+
+## Protocolo del CEIS Guadalajara - FASE 1: Zonificación
+
+### Mando intervención y equipos de apoyo
+
+- Definición de ZC y ZT con ayuda de Fichas de Intervención.
+- Zonificación efectiva debe ser valorada y corregida según evolución del siniestro.
+
+### Ejemplo de distancias
+
+- **Distancia de aislamiento inicial**: Desde la fuente de derrame o escape.
+- **Distancia de acción protectora**: En dirección del viento.
+
+## Clasificación de tipos de accidentes
+
+| Tipo | Condiciones |
+|------|-------------|
+| 1/2  | No hay fuga |
+| 3    | Fuga/Derrame |
+| 4.1  | Fuga/Derrame incendiado |
+| 4.2  | Incendio afecta al continente |
+| 5    | Explosión |
+
+## Variables que afectan la evolución del penacho
+
+1. **Viento**: Dirige el penacho según la orografía.
+2. **Estabilidad atmosférica**: A mayor inestabilidad, menor riesgo.
+3. **Densidad de la nube**: A mayor densidad, más grueso el penacho.
+
+### Determinación de la estabilidad atmosférica (EA)
+
+- **EA** = Turbulencia a ras del suelo debida a corrientes verticales.
+- Capacidad de la atmósfera para dispersar un contaminante.
+
+### Método simplificado para el cálculo de ZC (en metros)
+
+| Grupo | Tipo de sustancia | Distancia de ZC |
+|-------|-------------------|------------------|
+| A     | Gases explosivos   | 100 - 800 - 1600 |
+| B     | Líquidos inflamables| 50 - 300 - 800  |
+| C     | Altamente tóxicos  | 25 - 100 - 800   |
+| D     | Comburentes/oxidantes| 25 - 100 - 800 |
+| E     | Corrosivos/tóxicos | 50 - 50 - 800    |
+| F     | Gases inertes refrigerados| 100 - 100 - 800 |
+| G     | Sustancias de peligro bajo/moderado| 50 - 50 - 800 |
+
+## Fase 2: Evacuación o confinamiento
+
+### Indicaciones del Protocolo del CEIS Guadalajara
+
+- **Evacuación**: Movilización de la población a zona segura.
+  - Riesgo muy alto para el ciudadano.
+  - Personal suficiente para llevarla a cabo.
+  - Garantías de éxito y asistencia a necesidades básicas.
+
+- **Confinamiento**: Mantener a la población a salvo en sus viviendas.
+  - Garantías de seguridad.
+  - Aislamiento del exterior.
+
+### Limitar alcance
+
+- Acciones para minimizar daños del siniestro.
+- Táctica debe basarse en información disponible y asesoramiento técnico.

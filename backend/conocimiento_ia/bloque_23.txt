@@ -1,0 +1,69 @@
+# Temario de Oposición: Incendios de Interior
+
+## 1. Fundamentos Técnicos
+
+### 1.1. Ley de Stefan-Boltzmann
+- **Potencia emitida por unidad de superficie (P)**:
+  - \( P = k \cdot T^4 \)
+  - Donde:
+    - \( k \) = factores de emisividad y constante de Stefan-Boltzmann
+    - \( T \) = temperatura en Kelvin (ºK)
+
+### 1.2. Estratos de Gases en Incendios
+- **Estrato Superior**: Gases de incendio que ascienden, registrando presiones superiores a las exteriores.
+- **Estrato Inferior**: Aire frío y denso, con presiones por debajo de las exteriores.
+- **Plano Neutro**: Límite horizontal donde las presiones son idénticas a las exteriores.
+
+### 1.3. Fases del Incendio
+#### a) Fase de Crecimiento
+- **Temperatura**: Aumenta exponencialmente, comenzando la pirólisis de combustibles.
+- **Inflamabilidad**: Depende de la temperatura y concentración de oxígeno.
+- **Rollover**: Inflamación en zonas puntuales del colchón de gases.
+- **Flashover**: Inflamación generalizada en todo el recinto.
+
+#### b) Fase de Pleno Desarrollo
+- **Consumo de Oxígeno**: Disminuye debido a:
+  - Combustión generalizada del colchón de gases.
+  - Incendio confinado o con ventilación insuficiente.
+  - Demanda de oxígeno elevada.
+- **Temperatura Interior**: Depende de la potencia del incendio y pérdidas de calor.
+
+#### c) Fase de Decaimiento
+- **Pérdida de Temperatura**: El incendio decae por consumo de combustible o falta de ventilación.
+- **Estabilidad de Temperatura**: La potencia del incendio se ve limitada por la falta de oxígeno.
+
+## 2. Tipos de Incendios
+
+### 2.1. Incendios Limitados por el Combustible (ILC)
+- **Definición**: Emisión de calor y crecimiento limitados por características del combustible.
+- **Potencia del ILC**:
+  - \( Q = m_c \cdot H_c \)
+  - Donde:
+    - \( Q \) = potencia del incendio [MW]
+    - \( m_c \) = tasa de combustión [kg/s]
+    - \( H_c \) = poder calorífico del combustible [MJ/kg]
+
+### 2.2. Incendios Limitados por la Ventilación (ILV)
+- **Definición**: Crecimiento y potencia limitados por la cantidad de oxígeno disponible.
+- **Potencia del ILV**:
+  - \( Q = k \cdot H_c \cdot A \cdot h \)
+  - Donde:
+    - \( k = 0.092 \) (constante de referencia)
+    - \( A \) = área de la apertura de ventilación [m²]
+    - \( h \) = altura de la apertura de ventilación [m]
+
+### 2.3. Diferencias entre ILC e ILV
+- **Evolución de Parámetros**: La transición de ILC a ILV implica un rápido descenso en la concentración de oxígeno y un aumento en la producción de productos de combustión incompleta.
+- **Condiciones Interiores**: En ILV, los ambientes son más peligrosos debido a la alta temperatura y la presencia de gases tóxicos.
+
+## 3. Ejemplos Prácticos
+- **Potencia de un Incendio**: Calcular la potencia media de un incendio que reduce la concentración de oxígeno de un 21% a un 5% en 5 minutos en un recinto de 80 m³.
+- **Consumo de Poliestireno**: Un bloque de poliestireno se consume a razón de 50 g por segundo en un lugar abierto (ILC).
+
+## 4. Datos Técnicos Clave
+- **Densidad del aire a 20ºC**: 1.2 kg/m³
+- **Energía liberada por oxígeno**: \( E_t = 13.1 \, \text{kJ/g} \)
+- **Tiempo de consumo de oxígeno**: \( t \) [s]
+- **Masa de oxígeno consumida**: \( m_{O2} \) [g]
+
+Este temario proporciona una visión general de los conceptos clave relacionados con incendios de interior, incluyendo las fases del incendio, tipos de incendios y fórmulas relevantes para el cálculo de potencia y consumo de oxígeno.

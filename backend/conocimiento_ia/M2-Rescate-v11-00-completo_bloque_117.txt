@@ -1,0 +1,67 @@
+# Intervención de Localización en Caso de Perdidos
+
+## 1. Localización
+
+### 1.1. Localización de Personas Perdidas
+- **Comunicación**: Mantener contacto con la persona extraviada es crucial para facilitar su localización y rescate.
+- **Técnica de Localización**: Se debe solicitar información detallada para determinar la localización exacta y fijarla en la cartografía.
+
+### 1.1.1. Aplicaciones de Localización de Telefonía Móvil
+- **Requisitos**: El teléfono debe tener una aplicación de localización activa.
+- **Activación del Servicio**: 
+  - Se puede activar el servicio a través de la web de la compañía o por teléfono.
+  - Se requiere autorización de la persona extraviada para localizar su terminal.
+- **Coordenadas GPS**: Si el extraviado tiene GPS, se deben obtener las coordenadas y el datum correspondiente.
+
+### Ejemplo de Localización
+- **Recorrido**: Determinar el último lugar conocido y calcular la distancia recorrida basándose en el tiempo transcurrido.
+- **Accidentes Geográficos**: Utilizar puntos de referencia para ayudar en la localización.
+
+## 2. Localización de Víctimas Desaparecidas
+
+### 2.1. Casos que Justifican el Operativo de Búsqueda
+- **Víctima Dependiente**: No puede estar más de **24 horas** fuera de un entorno humanizado sin riesgo vital.
+  - **Riesgo Vital Concreto**: Necesidad de medicamentos o tratamientos periódicos.
+  - **Riesgo Vital Indefinido**: Dificultades de movilidad, sensitivas o intelectuales.
+- **Víctima Autónoma**: Plenas capacidades físicas y mentales, pero puede enfrentar riesgos externos.
+- **Alarma Social**: Casos de personas conocidas que generan preocupación pública.
+
+### 2.2. Gestión de una Búsqueda
+- **Objetivos**:
+  - Recabar y organizar información sobre la persona desaparecida.
+  - Movilizar y coordinar recursos necesarios.
+  - Plantear hipótesis de búsqueda y planificar la intervención.
+
+### 2.2.1. Organigrama
+- **Gabinete de Información**: Gestiona la información en varias direcciones.
+- **Jefe de Búsqueda**: Coordina el grupo operativo.
+- **Grupo de Rescate**: Se activa si se prevé que la persona está herida o en lugares de difícil acceso.
+
+### 2.2.2. Puesto de Mando Avanzado (PMA)
+- **Ubicación**: Debe estar cerca del área de búsqueda y con buen acceso.
+- **Funciones**: Coordinar la información y toma de decisiones.
+
+### 2.2.3. Recepción de Medios
+- **Funciones**:
+  - Recibir y registrar a los participantes.
+  - Dirigir a los responsables de cada cuerpo al PMA.
+  - Identificar colaboradores y enviarlos a las zonas correspondientes.
+
+## 2.3. Grupo de Orden
+- **Funciones**:
+  - Facilitar la actuación de todos los grupos.
+  - Controlar el tránsito de vehículos en el área de búsqueda.
+  - Investigar hipótesis relacionadas con la desaparición.
+
+### 2.3.1. Grupo Sanitario
+- **Funciones**:
+  - Atención y traslados sanitarios del personal involucrado.
+  - Valorar el estado de la víctima y proporcionar atención pre-hospitalaria.
+
+## Datos Técnicos Clave
+- **Riesgo Vital Concreto**: Necesidad de atención médica periódica.
+- **Riesgo Vital Indefinido**: Dificultades que aumentan el riesgo de accidentes.
+- **Coordenadas GPS**: Formato y datum deben coincidir con el sistema de rescate (ej. WGS84).
+- **Distancias**:
+  - No guiar más de **500 metros** sin móvil o GPS.
+  - Confirmar ubicación cada **15 minutos** si hay comunicación.

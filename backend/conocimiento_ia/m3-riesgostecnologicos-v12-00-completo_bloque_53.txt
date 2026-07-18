@@ -1,0 +1,101 @@
+# Limpieza y Estructuración del Texto
+
+## Cargas a estabilizar
+
+### Cubierta
+- **Acciones permanentes**: No generan ni propagan la patología.
+- **Acciones variables**: Dilatación producida por el incendio. No se detecta empuje en la inspección.
+
+### Muro
+- **Acciones permanentes**: Considerar el peso por inclinación del muro.
+  
+  **Tabla 36. Acción del peso producido por la inclinación del muro**
+  - 20 cm
+    - 10º: 0,9 kN/m²
+    - 20º: 1,8 kN/m²
+    - 30º: 2,9 kN/m²
+  - 50 cm
+    - 10º: 2,2 kN/m²
+    - 20º: 4,5 kN/m²
+    - 30º: 7,2 kN/m²
+
+- **Acciones variables**: Tensiones por dilatación diferencial desaparecen tras la extinción del incendio.
+- **Acciones accidentales**: 
+  - \( Q = 6 \, m \times 3 \, m \times 2,2 \, kN/m² = 39,6 \, kN \)
+
+### Dónde apuntalar
+- Motivo de inestabilidad: Excentricidad del peso por inclinación del muro.
+- Método recomendado: Apeo por el exterior del muro.
+- **Extensión de apuntalamiento**: 3 metros a cada lado de la viga dañada (total: 6 metros lineales de muro).
+
+### Técnicas disponibles
+- **Apeo estandarizado**: Estabilización de muros de hasta 3 metros de altura.
+
+### Resistencia del apeo estandarizado
+- **Modalidades resistentes**:
+  - **Puntales A30**: Resistencia de 10 kN por conjunto estructural.
+  - **Doble tablón embridado de madera C18**: Resistencia de 20 kN por conjunto estructural.
+
+### Capacidad para lograr los objetivos
+- **Número de conjuntos estructurales necesarios**:
+  - **Distancia entre conjuntos (d)**:
+    - \( d = \frac{R}{c \times h} \)
+    - La distancia no superará los 4 metros.
+  
+  - **Opción 1**: Puntales A30
+    - \( d = \frac{10 \, kN}{2,2 \, kN/m² \times 3 \, m} = 1,50 \, m \)
+  
+  - **Opción 2**: Doble tablón embridado de madera C18
+    - \( d = \frac{20 \, kN}{2,2 \, kN/m² \times 3 \, m} = 3,03 \, m \)
+
+- **Número de conjuntos estructurales**:
+  - Opción 1: \( \frac{6 \, m}{1,50 \, m} = 4 \, uds. \)
+  - Opción 2: \( \frac{6 \, m}{3,03 \, m} = 2 \, uds. \)
+
+**Conclusión**: La opción más conveniente es la segunda.
+
+## Pesos de materiales, productos y elementos constructivos según el CTE DB SE AE
+
+### Tabla 2. Peso por unidad de superficie de elementos de cobertura
+- **Aislante (lana de vidrio o roca)**: 0,02 kN/m² por cada 10 mm de espesor
+- **Chapas grecadas, canto 80 mm, Acero 0,8 mm espesor**: 0,12 kN/m²
+- **Plomo, 1,5 mm espesor**: 0,18 kN/m²
+- **Zinc, 1,2 mm espesor**: 0,10 kN/m²
+- **Tejas planas (sin enlistonado)**: 
+  - ligeras (24 kg/pieza): 0,30 kN/m²
+  - corrientes (3,0 kg/pieza): 0,40 kN/m²
+  - pesadas (3,6 kg/pieza): 0,50 kN/m²
+
+### Tabla 1. Peso específico aparente de materiales de construcción
+- **Materiales de albañilería**:
+  - Arenisca: 21,0 a 27,0 kN/m³
+  - Granito: 27,0 a 30,0 kN/m³
+- **Madera**:
+  - Aserrada, tipos C14 a C40: 3,5 a 5,0 kN/m³
+- **Metales**:
+  - Aluminio: 27,0 kN/m³
+  - Acero: 77,0 a 78,5 kN/m³
+
+### Tabla de equivalencias para los apeos normalizados
+- **Homologación o resistencia (Ry, k)** del puntal empleado:
+  - **C30 EN1065**: Ry = 34 kN, Capacidad del apeo = 20,0 kN
+  - **A30 EN1065**: Ry = 17 kN, Capacidad del apeo = 10,0 kN
+
+### Tabla 3. Peso por unidad de superficie de elementos de pavimentación
+- **Tarima de 20 mm de espesor**: 0,30 kN/m²
+- **Baldosa hidráulica o cerámica**:
+  - 0,03 m de espesor total: 0,50 kN/m²
+  - 0,07 m de espesor total: 1,10 kN/m²
+
+### Tabla 5. Peso propio de elementos constructivos
+- **Forjados**:
+  - Chapa grecada con capa de hormigón; grueso total < 0,12 m: 2 kN/m²
+  - Forjado unidireccional, luces de hasta 5 m; grueso total < 0,28 m: 3 kN/m²
+
+### Tabla 4. Peso por unidad de superficie de tabiques
+- **Rasilla, 30 mm de espesor**: 0,40 kN/m²
+- **Ladrillo hueco, 45 mm de espesor**: 0,60 kN/m²
+
+---
+
+Este documento ha sido elaborado bajo licencia Creative Commons CC BY-NC-SA 4.0 por Grupo Tragsa y CEIS Guadalajara.

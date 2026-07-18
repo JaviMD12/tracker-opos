@@ -1,0 +1,61 @@
+# Desembornado de la(s) batería(s)
+
+## Procedimiento de Desembornado
+- **Uso de dispositivos eléctricos**: Asegurarse de que se ha hecho el uso necesario de todos los dispositivos eléctricos del vehículo antes de desconectar las baterías.
+- **Riesgo de incendio**: Desembornar las baterías reduce considerablemente el riesgo de incendio, aunque la probabilidad de incendio por activación accidental del sistema de retención (airbags, tensor del cinturón) es baja.
+- **Iluminación interior**: Tras la desconexión, la iluminación interior no funciona, lo que es crítico en autobuses. Se debe iluminar el vehículo desde el exterior para evitar el pánico de los pasajeros.
+
+### Pasos para Desembornar
+1. **Desconexión de la conexión a masa**: Soltar primero la conexión a masa o terminal negativo.
+2. **Desembornar todas las baterías**: Desembornar siempre todas las baterías (principal y adicional) para evitar que consumidores adicionales entren en servicio.
+3. **Mantener cables unidos**: Mantener unidos los cables positivo y negativo para descargar tensiones almacenadas.
+4. **Evitar cortar cables**: Siempre que sea posible, evitar cortar los cables de la batería.
+
+## Riesgos al Desembornar
+- **Cortocircuitos**: No depositar objetos metálicos sobre la batería para evitar cortocircuitos.
+- **Carga electrostática**: No frotar la batería con trapos; tocar la carrocería para eliminar cargas electrostáticas.
+- **Gas oxhídrico**: En compartimentos cerrados, puede acumularse gas oxhídrico, riesgo de explosión al desconectar.
+- **Ácido cáustico**: El ácido de las baterías es cáustico; usar guantes y protección ocular. Enjuagar salpicaduras con agua clara.
+- **Posición al trabajar**: Evitar inclinarse sobre las baterías.
+
+# Comprobación de la Ausencia de Tensión
+- Si el sistema de luces intermitentes de advertencia no se apaga tras desembornar, existe una batería adicional que debe localizarse y desconectarse.
+
+# Técnicas Específicas de Aseguramiento de la Zona
+## Vehículos Híbridos
+- **Identificación**: Indicadores como conexión de carga eléctrica, cables de alto voltaje de color naranja, y adhesivos de advertencia.
+- **Funcionamiento**: No confiar solo en el ruido; verificar en el cuadro de mandos que el motor está parado.
+
+### Actuación en Caso de Incendio
+- **Reacción de la batería**: En caso de incendio, la batería de iones de litio reacciona térmicamente, no explota.
+- **Extinción**: Usar agua para enfriar; en caso de fuego en baterías HV, usar CO₂ o extinción defensiva.
+- **Ruidos de la batería**: Ruidos de válvulas de seguridad no representan riesgo.
+
+### Riesgo Eléctrico
+- **Peligro persistente**: El peligro eléctrico persiste tras un incendio; mantener distancia de seguridad.
+- **Desconexión del encendido**: 
+  - Poner la llave en posición 0 y retirarla.
+  - Separar la llave al menos 5 metros del vehículo.
+  - Desembornar las baterías de 12 V o retirar el enchufe de bajo voltaje en la batería HV.
+
+## Procedimiento en Vehículo Sumergido
+- **Retirar el vehículo del agua**: Drenar el agua del interior y seguir el proceso de actuación en emergencia.
+- **Riesgo eléctrico**: No manipular partes eléctricas naranjas hasta desconectar la batería.
+
+## Camiones Híbridos
+- **Inicio de trabajos**: Solo iniciar cuando el motor de combustión está parado y la batería HV desactivada.
+
+## Autobuses Híbridos
+- **Desconexión del sistema de alta tensión (750 V)**: 
+  - Girar la llave de contacto a posición 0.
+  - Accionar interruptores de apagado de emergencia.
+  - La descarga rápida dura aproximadamente 5 segundos; el proceso pasivo puede durar hasta seis minutos.
+
+## Vehículos Hidrogenerados
+- **Sensores de fuga**: Algunos modelos tienen sensores para detectar fugas de hidrógeno.
+- **Componentes**:
+  - **Inversor**: Regula flujos de electricidad.
+  - **Baterías**: Almacenan energía eléctrica.
+  - **Motores eléctricos**: Impulsan el vehículo y generan electricidad al frenar.
+  - **Generador**: Convierte giros del motor térmico en energía eléctrica.
+  - **Motor térmico**: Alimentado con gasóleo, alarga la autonomía de las baterías.

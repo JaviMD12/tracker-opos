@@ -1,0 +1,60 @@
+# Ventilación en Incendios
+
+## Ventiladores en V
+- **Configuración**: Ventiladores en serie a lo largo del recorrido.
+  - **Ventilador principal**: Mayor capacidad, colocado en la entrada.
+  - **Ventilador auxiliar**: Colocado en un punto donde la velocidad es baja, para impulsar el flujo nuevamente.
+- **Beneficios**: Aumento del flujo de gases superior a configuraciones anteriores.
+- **Aplicación**: Recomendable en edificios multivivienda, especialmente para ventilación VPP ofensiva.
+
+## Influencia del Viento en la VPP
+- **Diferencial de presión**: Generado por el viento en fachadas.
+  - **Sobrepresión**: Fachadas a barlovento.
+  - **Succión**: Fachadas a sotavento.
+- **Presión eólica básica (Pwb)**:
+  - **Fórmula**: 
+    \[
+    Pwb = \frac{1}{2} \cdot \rho \cdot v^2
+    \]
+  - **Donde**:
+    - \( Pwb \) = presión eólica básica [Pa]
+    - \( \rho \) = densidad del aire (1.2 kg/m³)
+    - \( v \) = velocidad de referencia del viento [m/s]
+
+### Cálculo del Diferencial de Presión
+- **Ejemplo**: Diferencial de presión creado por un viento a 6 m/s.
+- **Resultado**: Diferencia de presión de **25.92 Pa** entre la fachada a sotavento y la fachada a barlovento.
+
+## Técnicas de Intervención
+- **Condiciones de viento**: El diferencial de presión puede favorecer o dificultar el flujo.
+- **Recomendación**: Elegir configuraciones que eviten vencer el diferencial de presión generado por el viento.
+- **Relación r**: Mantener una relación \( r > 1 \) es difícil con vientos en contra superiores a **4 m/s**.
+
+## Control de Puerta de Acceso
+- **Impacto**: Una puerta abierta puede interferir en la dinámica del incendio.
+- **Técnicas**:
+  - **Entornar la puerta**: Permite el paso de los bomberos y aire fresco.
+  - **Cortina de bloqueo de humo**: Minimiza el flujo de aire y dispersión de gases.
+
+## Trabajo en Espacios sin Visibilidad
+
+### Orientación
+- **Medios de orientación**:
+  - **Tendido de manguera**: Marca la ruta de escape.
+  - **Paramento de referencia**: Mantener una pared a mano izquierda o derecha.
+  - **Cámara térmica**: Proporciona visión del recinto, aunque puede perder definición en condiciones adversas.
+  - **Cuerda guía**: Asegura el retorno a un punto de origen.
+
+### Rastreo y Búsqueda de Víctimas
+- **Prioridad táctica**: Rastreo y búsqueda de víctimas en el interior.
+- **Métodos**:
+  - **Método de barrido**: 
+    1. Toma referencia de la pared.
+    2. Rastreo desde la pared hacia el centro.
+  - **Método francés**: 
+    1. Avance hacia la siguiente puerta rastreando.
+    2. Un bombero toma referencia y rastrea el perímetro.
+
+## Conclusiones
+- La ventilación y el control del flujo de aire son cruciales en operaciones de incendios.
+- La correcta aplicación de técnicas de ventilación puede mejorar la eficacia en el control de incendios y la seguridad de las víctimas.

@@ -1,0 +1,84 @@
+# Temario de Oposición: Electrificación y Material Rodante en Ferrocarriles
+
+## 3.2.4 Electrificación
+
+- **Trenes eléctricos**: Se requiere un sistema para conducir electricidad a las vías.
+- **Primera electrificación**: Realizada por **Werner von Siemens** en Alemania.
+- **Método de transmisión**: Carril electrificado en el medio de la vía, captado por un patín instalado en la máquina.
+
+### Soluciones para el tercer carril
+
+a) **Tercer carril (solución "por abajo")**
+- Instalación de un tercer carril electrificado al lado de la vía.
+- **Patín o frotador**: Recoge electricidad.
+- **Ejemplos de uso**: Berlín, Múnich, Gran Bretaña, Nueva York.
+- **Inconveniente**: Accesibilidad del carril electrificado.
+
+b) **Línea aérea de contacto (solución "por arriba")**
+- Sistema más común para electrificar ferrocarriles.
+- **Catenaria**: Cables electrificados a una altura determinada.
+- **Tipos de captación**:
+  - **Trole**: Poste con rueda metálica que toma corriente del cable.
+  - **Pantógrafo**: Mecanismo articulado que conecta con la catenaria.
+
+## 3.2.5 Instalaciones del sistema de electrificación
+
+a) **Subestación**
+- Proporciona potencia a puestos de rectificación eléctrica.
+- **Distancia entre subestaciones**:
+  - **20 km** en líneas de baja tensión.
+  - **50 km** en líneas de alta tensión.
+- **Voltajes**: 30,000-40,000 voltios transformados para el tendido eléctrico.
+
+b) **Estados eléctricos de la catenaria**
+- **Energizado**: Conectado al polo positivo del rectificador.
+- **Masa**: Conectado a tierra.
+- **Negativo**: Conectado al polo negativo del rectificador.
+- **Neutro**: Aislado de los polos activos.
+
+c) **Columna de electrificación**
+- **Elementos**:
+  - Conjunto de soporte (sin tensión).
+  - Postes metálicos o de hormigón.
+  - Ménsula: Soporte de la catenaria.
+  - Tirante: Une postes y ménsulas.
+  - Aislador de suspensión: Aislamiento eléctrico.
+  - Conjunto de atirantado (con tensión).
+  - Hilo de contacto: Cable de corriente.
+  - Brazo de atirantado: Permite oscilación de la catenaria.
+  - Aislador de atirantado: Aislamiento eléctrico.
+
+## 3.3 Enclaves ferroviarios
+
+a) **Estación**
+- Regula el tráfico ferroviario y ofrece servicio comercial.
+
+b) **Apartadero**
+- Pequeñas estaciones para regular tráfico y permitir cruces.
+
+c) **Apeadero**
+- Instalaciones para que suban y bajen viajeros, sin personal.
+
+d) **Cargadero**
+- Redes de vías para carga y descarga de vagones.
+
+e) **Terminales de mercancías**
+- Estaciones que regulan tráfico y gestionan mercancías.
+
+## 3.4 Material rodante
+
+- **Definición**: Sistema de transporte sobre carriles, compuesto por locomotoras y vagones.
+
+### 3.4.1 Locomotoras
+
+- **Función**: Aportar fuerza motriz, generalmente en la parte delantera del tren.
+- **Tipos**:
+  a) **Locomotoras diesel mecánicas**: Pequeñas, para maniobras y trenes ligeros.
+  b) **Locomotoras diesel-eléctricas**: Motor diesel que activa un generador eléctrico.
+  c) **Locomotoras eléctricas**: Usan corriente continua para trenes de corto recorrido y corriente alterna (25 kV) para alta velocidad.
+
+### Datos técnicos clave
+- **Voltajes**: 
+  - **25 kV** para alta velocidad.
+  - **3,000 V** en corriente continua para red convencional.
+- **Porcentaje de líneas eléctricas en España**: **52%**.

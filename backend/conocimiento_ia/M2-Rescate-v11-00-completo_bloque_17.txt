@@ -1,0 +1,55 @@
+# Estructuras Técnicas Operativas de los Servicios de Bomberos en Rescates de Espeleología y Barrancos
+
+## Funciones de Salvamento
+Los servicios de bomberos realizan rescates de personas accidentadas o extraviadas en terrenos verticales o inclinados. Se detallan las formas de proceder para la protección y salvamento de personas, animales y bienes en situaciones de riesgo.
+
+### Competencias
+- **Fuerzas del orden**: Competentes en el levantamiento y/o recuperación de cadáveres con certeza de muerte.
+- **Servicios de rescate (bomberos)**: Competentes cuando la persona está viva o puede estarlo.
+
+En caso de conflicto competencial en España, se derivan las dudas al juez de guardia.
+
+## Cavidades: Cuevas, Simas y Sumideros
+
+### 2.1 Definición de Cavidades
+#### 2.1.1 Cuevas
+- Cavidad natural bajo la superficie terrestre, formada por erosión (agua, hielo, lava).
+- Tipos de cuevas:
+  - **Cuevas de disolución**: Formadas por la acción del agua sobre rocas calizas, dolomitas o yeso.
+  - **Cuevas de lava**: Túneles formados por el enfriamiento de lava.
+  - **Cuevas marinas**: Formadas por la acción de las olas.
+  - **Cuevas glaciares**: Formadas en el interior de glaciares.
+
+#### 2.1.2 Sima
+- Cavidad abierta por un pozo o pendiente pronunciada, originada por erosión kárstica.
+
+#### 2.1.3 Sumidero
+- Depresión circular en suelos calizos o dolomíticos, formada por el derrumbe del techo de una cueva. Actúa como desagüe natural.
+
+### 2.2 Topografía Espeleológica
+#### 2.2.1 Utilidad de la Topografía
+- Representa gráficamente lugares bajo la superficie.
+- Proporciona datos sobre:
+  - Distancia y profundidad de cavidades.
+  - Dificultades presentadas.
+  - Orientación de la cavidad.
+- Incluye escala, ubicación del norte (geográfico o magnético) y fecha de medición.
+
+#### 2.2.2 Altimetría (Alzado)
+- Representación vertical de la cavidad, incluyendo:
+  - Altura de pozos (indicados con "P" y su altura en metros).
+  - Máxima profundidad y diferentes galerías.
+  - Representación de resaltes (indicados con "R" y su altura en metros).
+
+#### 2.2.3 Planimetría (Planta)
+- Representación horizontal de la cueva.
+- Debe reflejar la anchura máxima, incluso si hay galerías superpuestas.
+
+### Ejemplo de Representación
+- **R20**: Indica un rapel de 20 metros.
+
+## Datos Técnicos Clave
+- **Cavidades**: Cuevas, simas y sumideros.
+- **Tipos de cuevas**: Disolución, lava, marinas, glaciares.
+- **Representaciones**: Altimetría y planimetría.
+- **Indicadores**: "P" para pozos, "R" para resaltes y rapeles.

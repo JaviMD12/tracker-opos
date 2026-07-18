@@ -1,0 +1,58 @@
+# Parte 6. Riesgo eléctrico
+
+## 1. Caracterización
+
+### 1.1. Potencial eléctrico
+- **Diferencia de potencial (ddp)**: Energía para el desplazamiento de cargas entre dos puntos, medida en **voltios (V)**.
+- **Voltímetro**: Aparato para medir tensión, conectado en **paralelo** al circuito.
+
+### 1.2. Resistencia eléctrica
+- **Resistencia eléctrica**: Dificultad de un conductor al paso de la corriente, inversa a la conductancia.
+- **Resistividad (ρ)**: Medida en **Ω•m** (óhmios por metro).
+- **Conductividad (σ)**: Medida en **siemens por metro (S/m)**.
+- Clasificación de materiales:
+  - **Superconductores**: Sin resistencia a temperaturas críticas.
+  - **Conductores**: Metales como cobre y aluminio.
+  - **Semiconductores**: Materiales que cambian de conductor a aislante.
+  - **Dieléctricos**: Materiales que no conducen electricidad (ej. vidrio, cerámica).
+
+### 1.3. Tipos de circuito
+#### 1.3.1. Circuitos en serie
+- **Corriente**: Igual en todos los receptores.
+- **Tensión**: Se reparte entre resistencias.
+- **Ejemplo**: Si un elemento se rompe, el circuito se abre.
+
+#### 1.3.2. Circuitos en paralelo
+- **Cada receptor**: Conectado independientemente.
+- **Tensión**: Igual en todos los receptores.
+- **Ejemplo**: Si un elemento se rompe, el circuito no se interrumpe.
+
+### 1.4. Corriente continua y alterna
+- **Corriente continua (cc)**: Flujo constante de carga eléctrica.
+- **Corriente alterna (ca)**: Magnitud y sentido varían cíclicamente, comúnmente sinusoidal.
+
+### 1.5. Corriente trifásica
+- **Corriente trifásica**: Tres oscilaciones desfasadas 120º, utilizada en industrias.
+- **Conexiones**: Estrella y triángulo.
+
+### 1.6. Potencia eléctrica
+- **Potencia (P)**: Capacidad de un dispositivo para realizar trabajo, medida en **vatios (W)**.
+- **Fórmula**: 
+  - Corriente continua: \( P = V \cdot I \)
+  - Corriente alterna: \( P = V \cdot I \cdot \cos(\phi) \)
+- Tipos de potencia:
+  - **Potencia activa (P)**: Consumo por resistencias.
+  - **Potencia reactiva (Q)**: Consumo de bobinas y condensadores.
+  - **Potencia aparente (S)**: Medida en **voltiamperios (VA)**.
+
+## 2. Redes eléctricas
+
+### 2.1. Plantas de generación de electricidad
+- **Instalaciones de alta tensión**: > 1.000 V (ca) y > 1.500 V (cc).
+  - Tensiones comunes: 11 kV a 380 kV.
+- **Instalaciones de baja tensión**: < 1.000 V (ca) y < 1.500 V (cc).
+  - Tensiones comunes: 380 V, 220 V, 125 V.
+
+### 2.2. Líneas de transporte y distribución en alta tensión
+- **Líneas de alta tensión**: Transportan energía a distancias largas, tensiones de 66 kV a 380 kV.
+- **Categorías**: Según el Reglamento, se consideran instalaciones eléctricas de alta tensión las superiores a 1 kV.
