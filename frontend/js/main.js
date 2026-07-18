@@ -303,7 +303,7 @@ navButtons.forEach((btn) => {
 // La clave se namespacea por usuario_id (extraido del JWT) para que dos
 // cuentas distintas en el mismo navegador no compartan el desbloqueo.
 // Un unico muro de pago para toda la Zona Premium (Tablon, Tutor IA,
-// Simulacros IA, grafica/entrenamiento): antes cada modulo llevaba su
+// Simulacros, grafica/entrenamiento): antes cada modulo llevaba su
 // propio candado y podian desincronizarse entre si (ver Bug 1 del tablon).
 const premiumLockedBox = document.getElementById("premium-locked");
 const premiumUnlockedBox = document.getElementById("premium-unlocked");
@@ -1120,7 +1120,7 @@ formTeorica.addEventListener("submit", async (event) => {
   }
 });
 
-// ---------- Simulacros IA (examen tipo test generado por IA) ----------
+// ---------- Simulacros (examen tipo test generado por IA) ----------
 const simulacroTemaSelect = document.getElementById("simulacro-tema");
 const simulacroNumPreguntasSelect = document.getElementById("simulacro-num-preguntas");
 const btnGenerarSimulacro = document.getElementById("btn-generar-simulacro");
