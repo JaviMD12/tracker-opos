@@ -27,6 +27,11 @@ from app.models.pregunta_test import PreguntaTest  # noqa: E402
 
 MODELO_CHAT = "gpt-4o-mini"
 
+# Pedir de golpe muchas preguntas choca con el limite de tokens de salida de
+# OpenAI (el modelo simplemente devuelve menos de las pedidas, sin avisar).
+# Por eso las cantidades grandes se trocean en varias llamadas mas pequeñas.
+TAMANO_LOTE = 20
+
 TEMAS_CONOCIDOS = ["Legislacion", "Hidraulica", "Fuego"]
 
 SYSTEM_PROMPT = (
@@ -115,22 +120,48 @@ def main() -> None:
         print("La cantidad tiene que ser mayor que 0.")
         return
 
-    print(f"\nGenerando {cantidad} preguntas de '{tema}' con {MODELO_CHAT}...")
-    try:
-        preguntas = generar_preguntas_openai(tema, cantidad)
-    except OpenAIError as exc:
-        print(f"Error llamando a OpenAI: {exc}")
-        return
-    except json.JSONDecodeError as exc:
-        print(f"OpenAI devolvio un JSON invalido: {exc}")
-        return
+    num_lotes = (cantidad + TAMANO_LOTE - 1) // TAMANO_LOTE
+    print(
+        f"\nGenerando {cantidad} preguntas de '{tema}' con {MODELO_CHAT}, "
+        f"en {num_lotes} lote(s) de hasta {TAMANO_LOTE}..."
+    )
 
-    if not preguntas:
-        print("OpenAI no devolvio ninguna pregunta.")
-        return
+    total_generadas = 0
+    total_guardadas = 0
+    restantes = cantidad
+    lote_actual = 1
 
-    guardadas = guardar_preguntas(tema, preguntas)
-    print(f"\nListo: {guardadas}/{len(preguntas)} preguntas guardadas en la tabla preguntas_test.")
+    while restantes > 0:
+        tamano = min(TAMANO_LOTE, restantes)
+        print(f"\nLote {lote_actual}/{num_lotes}: pidiendo {tamano} preguntas...")
+
+        try:
+            preguntas = generar_preguntas_openai(tema, tamano)
+        except OpenAIError as exc:
+            print(f"  Error llamando a OpenAI en el lote {lote_actual}: {exc}")
+            print("  Se detiene aqui, se conservan los lotes ya guardados.")
+            break
+        except json.JSONDecodeError as exc:
+            print(f"  OpenAI devolvio un JSON invalido en el lote {lote_actual}: {exc}")
+            print("  Se detiene aqui, se conservan los lotes ya guardados.")
+            break
+
+        if not preguntas:
+            print(f"  Lote {lote_actual}: OpenAI no devolvio ninguna pregunta, se detiene aqui.")
+            break
+
+        guardadas = guardar_preguntas(tema, preguntas)
+        total_generadas += len(preguntas)
+        total_guardadas += guardadas
+        print(f"  Lote {lote_actual}: {guardadas}/{len(preguntas)} guardadas.")
+
+        restantes -= tamano
+        lote_actual += 1
+
+    print(
+        f"\nListo: {total_guardadas}/{total_generadas} preguntas guardadas en total "
+        "en la tabla preguntas_test."
+    )
 
 
 if __name__ == "__main__":
