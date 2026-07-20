@@ -18,9 +18,21 @@ def listar_convocatorias(
     if not current_user.is_pro:
         raise HTTPException(status_code=403, detail="Funcionalidad exclusiva del Plan Pro")
 
-    return (
+    # El filtro de "plazo vencido" se hace en Python, via Convocatoria.
+    # dias_restantes, y no a nivel de SQL: SQLite no conserva el tzinfo en
+    # sus columnas DateTime(timezone=True) (las relee "naive"), a diferencia
+    # de Postgres -- comparar eso contra un datetime aware de Python
+    # directamente en el filtro de la query da resultados inconsistentes
+    # entre los dos motores que soporta este proyecto. Se piden bastantes
+    # mas de las 20 finales por si hay vencidas entre las mas recientes.
+    candidatas = (
         db.query(Convocatoria)
         .order_by(Convocatoria.fecha_publicacion.desc())
-        .limit(20)
+        .limit(100)
         .all()
     )
+    # Las que no tienen fecha_limite calculable (plazo_dias no detectado, o
+    # de antes de que existiera esta columna) se mantienen -- no hay forma
+    # de saber si siguen abiertas, no es lo mismo que "vencida".
+    vigentes = [c for c in candidatas if c.dias_restantes is None or c.dias_restantes >= 0]
+    return vigentes[:20]

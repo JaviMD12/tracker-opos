@@ -133,6 +133,7 @@ class ConvocatoriaOut(BaseModel):
     titulo_plaza: str
     organismo_localidad: str
     plazo_dias: int | None
+    dias_restantes: int | None
     requisitos_minimos: str | None
     fecha_publicacion: datetime
 

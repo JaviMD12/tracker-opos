@@ -13,6 +13,7 @@ del lote ni el proceso del servidor.
 """
 
 import json
+from datetime import datetime, timedelta, timezone
 
 import requests
 from bs4 import BeautifulSoup
@@ -170,10 +171,23 @@ def ejecutar_scraping_boletines() -> None:
                 continue
 
             plazo_dias = datos.get("plazo_dias")
+            plazo_dias_valido = (
+                plazo_dias if isinstance(plazo_dias, int) and plazo_dias > 0 else None
+            )
+            # fecha_limite se calcula una sola vez aqui, a partir del mismo
+            # "ahora" que fecha_publicacion, para que el conteo de dias
+            # restantes sea real y vaya bajando dia a dia (ver
+            # Convocatoria.dias_restantes) en vez de quedarse congelado en el
+            # plazo_dias original.
+            ahora = datetime.now(timezone.utc)
             convocatoria = Convocatoria(
                 titulo_plaza=str(datos.get("titulo_plaza", ""))[:500],
                 organismo_localidad=str(datos.get("organismo_localidad", ""))[:500],
-                plazo_dias=plazo_dias if isinstance(plazo_dias, int) else None,
+                plazo_dias=plazo_dias_valido,
+                fecha_publicacion=ahora,
+                fecha_limite=(
+                    ahora + timedelta(days=plazo_dias_valido) if plazo_dias_valido else None
+                ),
                 requisitos_minimos=datos.get("requisitos_minimos"),
                 url_origen=url_origen,
             )

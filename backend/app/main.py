@@ -1,3 +1,4 @@
+from datetime import timedelta
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -13,7 +14,7 @@ from fastapi.staticfiles import StaticFiles  # noqa: E402
 from sqlalchemy import inspect, text  # noqa: E402
 from starlette.middleware.sessions import SessionMiddleware  # noqa: E402
 
-from app.database import Base, engine  # noqa: E402
+from app.database import Base, SessionLocal, engine  # noqa: E402
 from app.models.convocatoria import Convocatoria  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.marca import MarcaFisica  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.pregunta_test import PreguntaTest  # noqa: F401,E402 (registra el modelo en Base)
@@ -56,6 +57,32 @@ def _asegurar_columna(tabla: str, columna: str, tipo_sql: str) -> None:
 
 _asegurar_columna("usuarios", "stripe_customer_id", "VARCHAR")
 _asegurar_columna("usuarios", "tour_premium_completado", "BOOLEAN NOT NULL DEFAULT false")
+_asegurar_columna("convocatorias", "fecha_limite", "TIMESTAMP")
+
+
+def _backfill_fecha_limite_convocatorias() -> None:
+    """Calcula fecha_limite (fecha_publicacion + plazo_dias) para
+    convocatorias scrapeadas antes de que existiera esta columna. Idempotente:
+    en cada arranque solo toca las filas que todavia no la tengan, asi que en
+    arranques posteriores no hace nada (0 filas pendientes)."""
+    db = SessionLocal()
+    try:
+        pendientes = (
+            db.query(Convocatoria)
+            .filter(Convocatoria.fecha_limite.is_(None), Convocatoria.plazo_dias.isnot(None))
+            .all()
+        )
+        for convocatoria in pendientes:
+            convocatoria.fecha_limite = convocatoria.fecha_publicacion + timedelta(
+                days=convocatoria.plazo_dias
+            )
+        if pendientes:
+            db.commit()
+    finally:
+        db.close()
+
+
+_backfill_fecha_limite_convocatorias()
 
 app = FastAPI(title="Tracker Analitico de Oposiciones")
 

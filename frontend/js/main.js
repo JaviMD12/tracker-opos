@@ -647,21 +647,29 @@ const tablonContenido = document.getElementById("tablon-convocatorias-contenido"
 
 function pintarConvocatorias(convocatorias) {
   tablonContenido.innerHTML = convocatorias
-    .map(
-      (c) => `
+    .map((c) => {
+      // El backend ya excluye convocatorias con el plazo vencido (ver
+      // GET /api/convocatorias), pero dejamos este estado como red de
+      // seguridad por si alguna llega justo al filo del plazo.
+      const cerrado = c.dias_restantes != null && c.dias_restantes < 0;
+      const textoPlazo = cerrado
+        ? "Plazo cerrado"
+        : c.dias_restantes != null
+        ? `Quedan ${c.dias_restantes} dias`
+        : "Plazo no especificado";
+
+      return `
       <article class="convocatoria-card">
         <p class="convocatoria-titulo">${c.titulo_plaza}</p>
         <p class="convocatoria-meta">${c.organismo_localidad}</p>
-        <span class="convocatoria-plazo">${
-          c.plazo_dias != null ? `Quedan ${c.plazo_dias} dias` : "Plazo no especificado"
-        }</span>
+        <span class="convocatoria-plazo${cerrado ? " convocatoria-plazo-cerrado" : ""}">${textoPlazo}</span>
         <p class="convocatoria-requisitos">${c.requisitos_minimos ?? "Sin requisitos detallados"}</p>
-        <button type="button" class="btn-plan-ia" data-convocatoria-id="${c.id}">
+        <button type="button" class="btn-plan-ia" data-convocatoria-id="${c.id}" ${cerrado ? "disabled" : ""}>
           &#9889; Generar Plan de Estudio IA
         </button>
         <div class="plan-ia-contenido hidden"></div>
-      </article>`
-    )
+      </article>`;
+    })
     .join("");
 }
 
