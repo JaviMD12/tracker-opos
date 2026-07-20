@@ -12,6 +12,7 @@ Pide por consola el tema y la cantidad de preguntas a generar.
 """
 
 import json
+import random
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -34,6 +35,19 @@ TAMANO_LOTE = 20
 
 TEMAS_CONOCIDOS = ["Legislacion", "Hidraulica", "Fuego"]
 
+# Se rota un enfoque distinto por lote (ver generar_preguntas_openai) para
+# que lotes sucesivos del mismo tema no conviertan siempre en las mismas
+# 3-4 preguntas "obvias" de manual -- sin esto, con 300 preguntas pedidas en
+# 15 lotes identicos, OpenAI tiende a repetir o parafrasear las mismas ideas.
+ENFOQUES_ROTATORIOS = [
+    "definiciones y conceptos fundamentales",
+    "cifras, parametros tecnicos y datos numericos exactos",
+    "excepciones a la norma general y casos limite",
+    "procedimientos y el orden correcto de los pasos a seguir",
+    "matices que distinguen entre si conceptos parecidos",
+    "detalles tecnicos infrecuentes y aspectos poco evidentes del temario",
+]
+
 SYSTEM_PROMPT = (
     "Eres un tribunal oficial de oposiciones de bomberos y emergencias. Tu "
     "objetivo es generar preguntas de examen tipo test a partir del temario "
@@ -44,22 +58,55 @@ SYSTEM_PROMPT = (
     'valido con esta estructura exacta: {"preguntas": [{"enunciado": "texto", '
     '"opciones": ["A", "B", "C", "D"], "respuesta_correcta": 0, '
     '"justificacion": "por que es correcta"}]}. El campo "respuesta_correcta" '
-    "es el indice (0 a 3) de la opcion valida dentro de \"opciones\". No "
-    "repitas preguntas entre si dentro del mismo lote."
+    "es el indice (0 a 3) de la opcion valida dentro de \"opciones\".\n\n"
+    "VARIEDAD (muy importante, esto se genera en muchos lotes independientes "
+    "que no deben solaparse entre si): evita las preguntas mas obvias sobre "
+    "el tema, las 3-4 que cualquiera haria primero -- explora en su lugar "
+    "aspectos concretos, casos particulares y detalles tecnicos especificos. "
+    "No repitas preguntas entre si dentro del mismo lote, ni reformules la "
+    "misma idea cambiando solo las palabras."
 )
 
 
-def generar_preguntas_openai(tema: str, cantidad: int) -> list[dict]:
+def generar_preguntas_openai(
+    tema: str,
+    cantidad: int,
+    numero_lote: int,
+    enunciados_lote_anterior: list[str],
+) -> list[dict]:
+    # temperature alta (variedad) sigue siendo seguro aqui: response_format
+    # json_object fuerza la estructura igualmente, lo que varia es el
+    # contenido de las preguntas, no el formato de la respuesta.
     llm = ChatOpenAI(
         model=MODELO_CHAT,
-        temperature=0.6,
+        temperature=0.9,
         model_kwargs={"response_format": {"type": "json_object"}},
     )
+
+    enfoque = ENFOQUES_ROTATORIOS[(numero_lote - 1) % len(ENFOQUES_ROTATORIOS)]
+    identificador_variedad = random.randint(100_000, 999_999)
+
+    instrucciones = (
+        f"Tema: {tema}\n"
+        f"Numero de preguntas a generar: {cantidad}\n"
+        f"Lote numero {numero_lote} (identificador de variedad: {identificador_variedad}).\n"
+        f"ENFOQUE OBLIGATORIO de este lote: {enfoque}. Todas las preguntas de "
+        "este lote tienen que girar en torno a ese enfoque -- no generes "
+        "preguntas genericas que servirian para cualquier lote."
+    )
+
+    if enunciados_lote_anterior:
+        previas = "\n".join(f"- {e}" for e in enunciados_lote_anterior)
+        instrucciones += (
+            "\n\nEstas preguntas ya se generaron en el lote anterior de este "
+            "mismo tema -- NO las repitas ni generes variantes casi "
+            "identicas (mismo dato o concepto solo con las palabras "
+            f"cambiadas):\n{previas}"
+        )
+
     mensajes = [
         SystemMessage(content=SYSTEM_PROMPT),
-        HumanMessage(
-            content=f"Tema: {tema}\nNumero de preguntas a generar: {cantidad}"
-        ),
+        HumanMessage(content=instrucciones),
     ]
     respuesta = llm.invoke(mensajes)
     datos = json.loads(respuesta.content)
@@ -130,13 +177,16 @@ def main() -> None:
     total_guardadas = 0
     restantes = cantidad
     lote_actual = 1
+    enunciados_lote_anterior: list[str] = []
 
     while restantes > 0:
         tamano = min(TAMANO_LOTE, restantes)
         print(f"\nLote {lote_actual}/{num_lotes}: pidiendo {tamano} preguntas...")
 
         try:
-            preguntas = generar_preguntas_openai(tema, tamano)
+            preguntas = generar_preguntas_openai(
+                tema, tamano, lote_actual, enunciados_lote_anterior
+            )
         except OpenAIError as exc:
             print(f"  Error llamando a OpenAI en el lote {lote_actual}: {exc}")
             print("  Se detiene aqui, se conservan los lotes ya guardados.")
@@ -154,6 +204,11 @@ def main() -> None:
         total_generadas += len(preguntas)
         total_guardadas += guardadas
         print(f"  Lote {lote_actual}: {guardadas}/{len(preguntas)} guardadas.")
+
+        # Se pasa al siguiente lote para que sepa que NO debe repetir.
+        enunciados_lote_anterior = [
+            p["enunciado"] for p in preguntas if _pregunta_es_valida(p)
+        ]
 
         restantes -= tamano
         lote_actual += 1
