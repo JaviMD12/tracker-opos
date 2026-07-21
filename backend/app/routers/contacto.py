@@ -32,6 +32,7 @@ def _enviar_email_sugerencia(mensaje: str, email_usuario: str) -> None:
     correo["From"] = smtp_user
     correo["To"] = email_destino
     correo["Subject"] = "Nueva sugerencia - Tracker Oposiciones"
+    correo["Reply-To"] = email_usuario
     correo.attach(
         MIMEText(f"Enviado por: {email_usuario}\n\n{mensaje}", "plain", "utf-8")
     )
