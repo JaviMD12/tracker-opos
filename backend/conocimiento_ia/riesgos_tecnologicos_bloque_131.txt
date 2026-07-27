@@ -1,0 +1,73 @@
+## Caracterización de las Instalaciones Eléctricas en Edificaciones
+
+La comprensión de las instalaciones eléctricas en edificaciones es fundamental para los servicios de emergencia, ya que constituyen escenarios habituales de intervención. Estas instalaciones se estructuran en dos grandes categorías principales, según la tensión de servicio que manejan: las instalaciones de **alta tensión (AT)** y las de **baja tensión (BT)**. Las primeras gestionan tensiones superiores a 1.000 V en corriente alterna (CA) o 1.500 V en corriente continua (CC), mientras que las segundas operan con tensiones nominales inferiores a estos valores, siendo las más comunes 380 V en CA trifásica, 220 V en CA monofásica y 125 V en CC.
+
+### Fuentes de Generación y Distribución Eléctrica
+
+La energía eléctrica se produce en **plantas de generación de electricidad**, las cuales transforman diversas fuentes de energía (renovables como solar e hidráulica, o no renovables como nuclear) en electricidad. Estas plantas suelen emplear alternadores para producir energía eléctrica trifásica a una tensión de 20 kV entre fases, elevándola posteriormente a entre 66 kV y 380 kV en **estaciones de transformación** mediante transformadores elevadores para su transmisión a larga distancia.
+
+La distribución de esta energía se realiza a través de **redes eléctricas** compuestas por:
+*   **Líneas de alta tensión:** Transportan la energía desde las centrales hasta las subestaciones. Se clasifican según su tensión nominal:
+    *   **Superiores a 66 kV:** Utilizan apoyos tipo celosía con conductores dobles, triples o cuádruples, incluyendo un hilo de guarda superior para pararrayos. Emplean aisladores de vidrio (aproximadamente 10.000 V por aislador).
+    *   **Entre 30 kV y 66 kV:** Conducen la energía desde las grandes subestaciones hasta las medianas y pequeñas. Pueden ser aéreas (con dos o un conductor por fase y entre cuatro y seis aisladores de vidrio) o subterráneas (identificables por cables rojos en líneas modernas o marrones en antiguas de aceite).
+    *   **Hasta 30 kV:** Distribuyen desde las pequeñas y medianas subestaciones a los centros de transformación industriales o urbanos. Carecen de hilo de guarda y utilizan postes de baja altura con menos de tres aisladores de vidrio.
+    Las líneas de alta tensión pueden sufrir **"reenganches automáticos"**, cerrando el circuito tras una interrupción. Este proceso puede repetirse hasta tres veces en un máximo de tres minutos, tras lo cual la compañía realiza pruebas.
+*   **Centros de transformación (CT):** Encargados de reducir la tensión de media (11 o 20 kV) a baja tensión (380 V trifásica o 220 V monofásica). Se encuentran en entornos urbanos e industriales. Internamente, se dividen en secciones de medición, cuchillas de paso e interruptor, y pueden ser de diversos tipos según su ubicación:
+    *   **De intemperie:** Alejados de núcleos de población, montados sobre postes de hormigón o acero, de baja potencia.
+    *   **Prefabricados de hormigón:** En polígonos industriales o zonas rurales, pueden albergar varios transformadores y suelen tener rejillas de ventilación.
+    *   **Subterráneos o de obra civil:** Ubicados en nuevas urbanizaciones, centros comerciales o bajos de edificios antiguos.
+
+### Conexión del Consumidor: Las Instalaciones de Enlace
+
+Las **instalaciones de enlace** conectan la red de distribución eléctrica con las instalaciones interiores o receptoras de los usuarios, conforme al Reglamento Electrotécnico de Baja Tensión (REBT). Incluyen los siguientes elementos:
+
+1.  **Acometida:** Es el tramo inicial que une la red de distribución con la Caja General de Protección (CGP). Su construcción y verificación son responsabilidad de la compañía eléctrica. Son únicas por edificio (cada 160 kW o fracción) y pueden ser aéreas o subterráneas. La sección de sus conductores se dimensiona según la tensión de suministro, la densidad de corriente máxima, la demanda de potencia y la caída de tensión.
+2.  **Caja General de Protección (CGP):** Aloja los elementos de protección de la línea repartidora y marca el inicio de la propiedad del usuario. Contiene fusibles calibrados (hasta 80 A cilíndricos, o tipo cuchilla para mayores intensidades), sin fusible en el hilo de neutro.
+3.  **Línea General de Alimentación (LGA):** Enlaza la CGP con la centralización de contadores, desde donde parten las derivaciones individuales. Consta de tres conductores de fase con fusible y un neutro sin fusible.
+4.  **Centralización de contadores (CC):** Mide el consumo total de energía. En edificios, se ubican en una pared común (hasta 16 contadores); si hay más, se requiere un cuarto específico con puerta cortafuegos y un interruptor general de maniobra que desconecta la tensión de los contadores. En viviendas unifamiliares, el contador (propiedad de la suministradora) está en el exterior junto a los fusibles, formando la Línea o Caja de Protección y Medida (CPM).
+5.  **Derivación Individual de abonado:** Conecta la centralización de contadores de la LGA con el Cuadro de Mando y Protección (CMP) de cada vivienda o local. El CMP, obligatorio según el REBT, se sitúa normalmente detrás de la puerta de entrada y contiene los siguientes dispositivos de protección y control:
+    *   **Interruptor de Control de Potencia (ICP):** Dispositivo unipolar precintado por la compañía que corta automáticamente el suministro si se excede la potencia contratada. Se rearma manualmente.
+    *   **Interruptor General Automático (IGA):** Protege la derivación individual contra sobrecargas y cortocircuitos. Se rearma manualmente.
+    *   **Interruptor Diferencial:** Actúa por derivación a masa (tierra) si un conductor en tensión entra en contacto con una carcasa metálica o una persona. Requiere que la fuga a tierra sea superior a su sensibilidad (normalmente 30 mA).
+    *   **Pequeños Interruptores Automáticos (PIA):** Protegen cada circuito contra sobrecargas y cortocircuitos, generalmente monofásicos bipolares (fase y neutro).
+
+### Grado de Electrificación de la Vivienda
+
+El **grado de electrificación** determina la carga eléctrica mínima que la instalación de una vivienda debe soportar, así como el número de circuitos independientes requeridos. Se calcula sumando las potencias de todos los receptores y aplicando un factor de reducción del 40% debido a que no todos se usan simultáneamente.
+
+*   **Grado de electrificación básico:** Potencia mínima de 5.750 W a 230 V. Incluye circuitos para iluminación (C1), tomas de corriente generales y frigorífico (C2), tomas de horno y cocina (C3), tomas de lavadora, lavavajillas y termo eléctrico (C4), y tomas de baño y auxiliares de cocina (C5).
+*   **Grado de electrificación elevado:** Potencia mínima de 9.200 W a 230 V. Incluye todos los circuitos del grado básico, más circuitos adicionales para iluminación (C6), tomas de corriente (C7), calefacción eléctrica (C8), aire acondicionado (C9), secadora (C10), domótica (C11) y tomas adicionales de baño, cocina y horno (C12).
+
+Para asegurar la protección, las edificaciones cuentan con una **red de tierra**, que es una malla o cableado que conecta el edificio con los cimientos y tomas de tierra (picas). Esto proporciona una referencia cero para que los interruptores diferenciales actúen correctamente. El **telurómetro** es el aparato utilizado para medir la conductividad o resistividad del terreno y es esencial para los instaladores de baja tensión.
+
+### Medidas de Seguridad y Efectos de la Electricidad en el Organismo
+
+La seguridad eléctrica es un pilar fundamental en cualquier intervención, regulada por normativas como el REBT. Los riesgos principales son el **contacto eléctrico directo** (al tocar un conductor en tensión) y el **contacto eléctrico indirecto** (al tocar un elemento que, accidentalmente, está en tensión).
+
+Para prevenir el **contacto eléctrico directo**, se implementan medidas de clase A, como:
+*   **Separación:** Mantener una distancia segura de las partes activas (2,5 m en AT, 0,5 m en BT) o enterrarlas (1 m).
+*   **Interposición de obstáculos y barreras:** Delimitar zonas de peligro.
+*   **Aislamiento:** Cubrir partes en tensión con materiales aislantes.
+
+Para prevenir el **contacto eléctrico indirecto**, se aplican medidas de clase A y B:
+*   **Clase A (protección pasiva):**
+    *   Separación de circuitos para asegurar tensión nula.
+    *   Uso de tensiones de seguridad (inferiores al umbral).
+    *   Aislamiento de partes activas y masas.
+    *   Uso de elementos que eviten el contacto simultáneo con conductores y masas (como guantes aislantes, alfombras aislantes).
+    *   Recubrimiento de masas con materiales aislantes.
+    *   **Conexiones equipotenciales:** Unir todas las partes metálicas y la masa a la misma tensión (ej., bañera conectada a tierra) para evitar diferencias de potencial, mejorando la seguridad personal y la protección contra la corrosión en entornos húmedos.
+*   **Clase B (protección activa):**
+    *   **Puesta a tierra de masas:** Conectar las masas del equipo a un sistema de tierra mediante picas.
+    *   **Dispositivos de corte por intensidad de fuga:** Interruptores diferenciales calibrados a un umbral de seguridad.
+    *   Combinación de puesta a tierra de masas con dispositivos de corte por intensidad de defecto.
+    *   Puesta a neutro de masas con dispositivos de corte por intensidad de defecto (cuando no hay red de tierras).
+
+Los **efectos de la electricidad en el organismo** son severos y dependen de la intensidad, el tiempo de exposición, la trayectoria interna de la corriente, la frecuencia y la tensión. Incluso tensiones bajas pueden ser mortales. Se distinguen efectos inmediatos (sacudida, quemaduras, parálisis) y efectos tardíos (daño a órganos vitales).
+*   **Tetanización muscular:** Ocurre con intensidades superiores al umbral de "no soltar" (10 mA), impidiendo la separación del punto de contacto.
+*   **Paro respiratorio:** Si la corriente atraviesa el sistema nervioso respiratorio.
+*   **Asfixia:** Si la corriente paraliza el diafragma.
+*   **Fibrilación ventricular:** La ruptura del ritmo cardíaco, que puede ser fatal en pocos minutos.
+*   **Quemaduras:** Producidas por la energía calorífica liberada, con gravedad variable según el órgano afectado y la parte del cuerpo.
+
+La **resistencia del cuerpo humano** a la corriente es muy variable (entre 1.000 y 100.000 ohmios, con valores medios de 1.600 ohmios en seco, 800 en húmedo y 200 sumergido). Disminuye con la sudoración y la presión del contacto. La **tensión de seguridad** se establece en 50 V para locales secos, 25 V para húmedos y 12 V para mojados o exteriores. La **frecuencia de la corriente** también influye: la CA a 50/60 Hz es más peligrosa que la CC para la fibrilación ventricular, aunque la CA de alta frecuencia (más de 100 Hz) aumenta el riesgo de quemaduras.

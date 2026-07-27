@@ -1,0 +1,50 @@
+En el ámbito de las intervenciones de emergencia, especialmente en siniestros que afectan a estructuras edificadas, resulta crucial comprender cómo los materiales constructivos reaccionan y resisten el fuego. Esta comprensión se desglosa en dos conceptos fundamentales: la **resistencia al fuego** y la **reacción al fuego**, ambos regulados por normativas específicas que guían la actuación de los profesionales.
+
+### Resistencia al Fuego en la Edificación
+
+La **resistencia al fuego** se define como la capacidad de un elemento constructivo para mantener su función estructural y estabilidad durante un período determinado de exposición al fuego, ya sea en una o múltiples caras. Este parámetro es vital para la seguridad de la edificación y de sus ocupantes.
+
+El marco normativo que rige la resistencia al fuego ha evolucionado. Antiguamente, la norma UNE 23.093 clasificaba los materiales como `EF` (Estable al Fuego), `PF` (Parallamas al Fuego) o `RF` (Resistente al Fuego). Sin embargo, la normativa actual se basa en la Decisión europea 89/106/CEE, implementada en España mediante el Real Decreto 842/2013 de 31 de octubre y la norma UNE-EN 13501-1. Esta nueva regulación establece una nomenclatura jerarquizada de factores, expresada mediante las siglas `REI/W (t)- MCS…`, donde la letra y el número entre paréntesis indican el tiempo en minutos.
+
+Los **criterios principales** para la clasificación de la resistencia al fuego, según la UNE-EN 13501-1, son:
+*   **R (Resistencia):** Mide la capacidad portante de un elemento estructural para soportar cargas sin perder su estabilidad durante un incendio.
+*   **E (Integridad o Estanco):** Evalúa la capacidad de un elemento separador para evitar el paso de llamas o gases calientes a la cara no expuesta o a materiales adyacentes.
+*   **I (Aislamiento térmico):** Determina la capacidad de un elemento separador para limitar la transmisión de calor a la cara no expuesta, de modo que la temperatura en esta no supere un umbral crítico.
+
+Además de estos criterios principales, existen **clases secundarias** que aportan información adicional sobre el comportamiento del material ante el fuego. Estas incluyen:
+*   `W` (Radiación): Relacionada con el control o amortiguación de la radiación térmica.
+*   `M` (Acción mecánica).
+*   `C` (Cierre automático).
+*   `S` (Estanqueidad al paso de humos).
+*   `P` o `HP` (Continuidad en alimentación eléctrica o transmisión de señal).
+*   `G` (Resistencia a la combustión de hollines).
+*   `K` (Capacidad de protección contra incendios).
+*   `D` (Duración de la estabilidad a temperatura constante).
+*   `DH` (Duración de la estabilidad considerando la curva normalizada tiempo-temperatura).
+*   `F` (Funcionalidad de los extractores mecánicos de humo y calor).
+*   `B` (Funcionalidad de los extractores pasivos de humo y calor).
+
+El valor numérico que acompaña a las siglas `REI` (o `EI`, `R`, `E`, `I`) indica el tiempo, en minutos (15, 20, 30, 45, 60, 90, 120, 180, 240 y 360), durante el cual el elemento mantiene las propiedades mecánicas para las que fue diseñado.
+
+### Reacción al Fuego de la Edificación
+
+La **reacción al fuego** es un parámetro que mide la combustibilidad de un material, es decir, su actividad o pasividad en el proceso de inicio y propagación de un incendio. La normativa anterior (UNE 23.727) clasificaba los materiales de M0 (incombustible) a M4 (altamente inflamable). Actualmente, la norma UNE EN 13501-1 establece criterios de clasificación basados en el potencial energético, la producción de humo y la caída de gotas o partículas inflamadas, resultando en 51 clases distintas.
+
+Las **clases principales de reacción al fuego**, según su potencial energético, son:
+*   **A1 y A2:** Materiales no combustibles, con la clase A1 siendo de grado máximo y la A2 de grado menor. Estos materiales son los más seguros frente al fuego y no contribuyen a la propagación del *flashover*.
+*   **B, C, D y E:** Materiales combustibles. La clase B tiene una contribución muy limitada al incendio, la C limitada, la D moderada y la E significativa. Estos materiales son considerados peligrosos y pueden provocar el *flashover* en tiempos cortos (Clase C en más de 10 minutos, Clase D entre 2 y 10 minutos, Clase E en menos de 2 minutos).
+*   **F:** Materiales sin determinación de propiedades o comportamiento.
+
+Además de la clasificación por potencial energético, se utilizan **subparámetros** para describir la producción de humo (`s` de *smoke*) y la caída de gotas o partículas inflamadas (`d` de *drop*):
+*   **Producción de humo:** `s1` (emisión baja), `s2` (emisión media) y `s3` (emisión elevada).
+*   **Caída de gotas/partículas:** `d0` (sin caída en 600 segundos), `d1` (caída durante más de 10 segundos en 600 segundos) y `d2` (resto de casos).
+
+### Comportamiento de Materiales Estructurales Específicos ante el Fuego
+
+El conocimiento detallado del comportamiento de cada material es fundamental para una intervención eficaz.
+
+#### Acero
+El acero es una aleación de hierro y carbono (generalmente 0.2-0.3% de carbono), manufacturado en siderúrgicas.
+*   **Propiedades:** Presenta baja masa y alta conductividad térmica, lo que facilita la rápida propagación del calor a través de su masa. Posee un alto coeficiente de dilatación (1.2 x 10^-5 ºC^-1), similar al hormigón, lo que provoca elongaciones significativas bajo altas temperaturas. Por ejemplo, una viga de 10 metros expuesta a un aumento de 280ºC dilatará aproximadamente 3.36 cm, generando empujes considerables que pueden comprometer la estabilidad estructural.
+*   **Reacción al fuego:** Se clasifica como A1, siendo incombustible y no contribuye al inicio ni a la propagación del incendio.
+*   **Resistencia al fuego:** Aunque es incombustible, el acero pierde resistencia mecá

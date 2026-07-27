@@ -1,0 +1,53 @@
+Los incendios de interior se definen como fuegos que se desarrollan de manera descontrolada en un espacio físico limitado, donde la transferencia de calor y el intercambio de fluidos (gases de incendio o aire fresco) con el exterior no son libres. Cuando dicho incendio se produce en un espacio completamente cerrado sin aperturas al exterior, se denomina **incendio confinado**, en el que la transferencia de gases es nula, y el intercambio con el exterior es prácticamente despreciable.
+
+El desarrollo de un incendio de interior se compone de tres fases: crecimiento, pleno desarrollo y decaimiento.
+
+La **fase de crecimiento** se inicia en el foco de ignición, transmitiendo calor por radiación a los combustibles circundantes y por convección a los situados en la zona superior. Inicialmente, la potencia del incendio es limitada, pero su crecimiento es exponencial, acelerado por la pirólisis de compuestos orgánicos que liberan gases combustibles. Estos gases, al calentarse, disminuyen su densidad y se acumulan en estratos superiores, impulsados por la flotabilidad. La radiación térmica de este colchón de gases, regida por la ley de Stefan-Boltzmann, se intensifica con la temperatura; por ejemplo, a 500ºC, la energía radiada es 64 veces mayor que a temperatura ambiente.
+
+En función del factor que limita el fuego, los incendios de interior pueden ser de dos tipos:
+
+1.  **Incendios Limitados por el Combustible (ILC)**: Aquellos donde la emisión de calor y el crecimiento del fuego están restringidos por las características del combustible (cantidad y distribución), siempre que la proporción de aire sea adecuada. La potencia (Q) de un ILC se calcula multiplicando la tasa de combustión (mc, en kg/s) por el poder calorífico (Hc, en MJ/kg), resultando en MW (Q = mc · Hc). Son comunes en las etapas iniciales de desarrollo, en recintos con ventilación amplia, después de un barrido de gases con ventilación a presión positiva, en recintos de gran volumen con focos de incendio pequeños, o en incendios exteriores.
+
+2.  **Incendios Limitados por la Ventilación (ILV)**: Aquellos cuyo crecimiento y potencia están limitados por la disponibilidad de oxígeno, lo que sucede tras un consumo significativo del mismo, independientemente de si hubo un flashover previo. La potencia de un ILV depende del tamaño y la geometría de las aberturas de ventilación, y se puede estimar con la Ecuación de Kawagoe (Q = k · Hc · A · √h), donde k=0.092 es una constante, A es el área de la abertura de ventilación y h su altura. La Regla de Thornton indica que se liberan 13.1 kJ de energía por cada gramo de oxígeno consumido. En incendios confinados, la potencia de un ILV tiende a cero por la falta de ventilación, mientras que en los ventilados puede ser considerable.
+
+La **transición de ILC a ILV** implica una rápida caída en la concentración de oxígeno, lo que favorece la combustión incompleta y genera grandes cantidades de productos como carbonillas y gases tóxicos (con picos de monóxido de carbono). Esta situación conlleva una drástica pérdida de visibilidad y altas temperaturas generalizadas, si bien los gases acumulados pueden estar fuera de su rango de inflamabilidad por exceso de combustible.
+
+Durante la **fase de pleno desarrollo**, la temperatura alcanza su límite y se estabiliza. En este periodo, la potencia del incendio está limitada por la falta de oxígeno en el recinto. En incendios ventilados, se mantienen estratos de gases calientes y aire fresco, con el aire fresco descendiendo y los gases calientes ascendiendo. No obstante, en incendios confinados, el plano neutro (la línea horizontal donde las presiones internas igualan a las externas) desciende hasta el suelo, resultando en visibilidad nula y la desaparición del colchón de aire fresco inferior, lo que impacta significativamente en las tácticas de intervención.
+
+Finalmente, la **fase de decaimiento** se caracteriza por una disminución de la temperatura y la atenuación del incendio, ya sea por el consumo total del combustible o por una ventilación insuficiente para compensar las pérdidas de calor.
+
+### **Fenómenos de Rápido Desarrollo**
+
+El **flashover** es una fase transitoria en la que las superficies expuestas a la radiación térmica alcanzan simultáneamente su temperatura de inflamación, provocando una rápida generalización del fuego en todo el compartimento. Requiere una carga de combustible suficiente para generar una capa de gases radiante y una proporción de oxígeno adecuada para que la mezcla de gases esté dentro de su rango de inflamabilidad. Los indicadores incluyen el final de la fase de crecimiento, humo denso y oscuro, altas temperaturas, superficies en pirólisis, ventilación adecuada, descenso del plano neutro y "rollover" (lenguas de llamas). Produce un pico de potencia, ligera sobrepresión y alta radiación térmica.
+
+El **flashover inducido por la ventilación** es un flashover provocado por la introducción de ventilación en un incendio infraventilado (ILV) que no ha sufrido un flashover previo. El oxígeno adicional permite que la alta concentración de combustible en los gases acumulados entre en su rango de inflamabilidad, causando un rápido aumento de temperatura y una propagación explosiva. En viviendas con mobiliario moderno, puede ocurrir en aproximadamente dos minutos tras la apertura. Se identifica por flujos crecientes de gases (laminares a turbulentos) y un aumento de la potencia del fuego.
+
+El **backdraft** es una deflagración que resulta de un aporte repentino de aire a un incendio confinado e infraventilado, caracterizado por una alta concentración de productos de combustión incompleta (más del 15% de combustible, según algunos autores). Los indicadores incluyen un incendio infraventilado confinado, pulsaciones de presión interna ("respiración" del incendio) y humo denso anaranjado/amarillento. La intervención busca la apertura controlada de ventilación en cubierta o la retirada segura del personal.
+
+La **explosión de humo** es una deflagración que se produce cuando una mezcla de gases de incendio y aire, acumulada en espacios ocultos sin fuentes de ignición, alcanza su punto de inflamabilidad y contacta con una fuente de ignición, generando una onda expansiva destructiva.
+
+### **Gases de Incendio y Riesgos Asociados**
+
+Los gases de incendio son una mezcla compleja de productos de combustión, pirólisis y partículas en suspensión. Su inflamabilidad depende de la composición, fracción de combustible, temperatura y concentración de oxígeno.
+
+*   El **monóxido de carbono (CO)** es un gas incoloro, ligero, inflamable (12.5% a 74.2% en aire) y explosivo, que arde con llama azul. Se forma en combustiones incompletas y es altamente tóxico, con una afinidad por la hemoglobina 260 veces mayor que el oxígeno.
+*   El **dióxido de carbono (CO2)** es incoloro e inodoro, no inflamable, pero asfixiante en altas concentraciones y 1.52 veces más denso que el aire.
+*   El **cianuro de hidrógeno (HCN)** o ácido prúsico, es un gas incoloro, más pesado que el aire y explosivo (5% a 40% en aire). Es un potente irritante y tóxico, que interfiere con la respiración celular.
+*   El **sulfuro de hidrógeno (H2S)** es un gas inflamable (4.5% a 45% en aire), incoloro, tóxico, soluble en agua y con olor a huevos podridos. Es más pesado que el aire y causa asfixia en espacios cerrados.
+*   El **amoniaco (NH3)** es un gas inflamable (16% a 25% en aire), incoloro y con olor penetrante.
+*   El **formaldehído (H2C=O)** es un gas volátil e inflamable.
+*   El **cloro (Cl2)** es un gas tóxico no inflamable, amarillo-verdoso, irritante y forma mezclas explosivas con hidrógeno y compuestos orgánicos.
+
+Los principales **riesgos para los bomberos** en incendios de interior incluyen la inflamación repentina de gases, la exposición a altas temperaturas (más de 140°C en el aire respirado puede ser tolerado solo por un breve periodo) y la acción sinérgica de los agentes tóxicos. Es crucial el uso de equipos de protección personal y autónomos de respiración. Las zonas superiores de un incendio pueden superar los 600°C, mientras que las inferiores pueden estar en torno a los 100°C. Niveles de radiación de 10 kW/m² representan el umbral de trabajo, y 20 kW/m² pueden causar daños a equipos y personal.
+
+La **dinámica de los incendios actuales** difiere de los tradicionales debido al uso masivo de materiales sintéticos, con mayor poder calorífico y facilidad de pirólisis, lo que acelera el desarrollo del fuego y la llegada al estado de ILV. Además, las construcciones modernas con mayores cargas de fuego y diseños de planta abierta contribuyen a incendios más violentos.
+
+### **Influencia del Recinto**
+
+Las características del recinto, como la superficie, altura, geometría interna, aislamiento e inercia térmica, impactan significativamente en el desarrollo del incendio.
+
+*   La **superficie y altura** determinan la carga de combustible y, en un ILV, la potencia del incendio. Recintos más pequeños o de menor altura tienden a un desarrollo más rápido y un ILV más fácil de alcanzar, debido a la proximidad entre los gases calientes y el combustible.
+*   El **confinamiento y la compartimentación** interna son vitales. Un recinto bien confinado limita el acceso de oxígeno y la propagación de gases. La compartimentación, es decir, la división interna del edificio, también afecta la propagación entre estancias.
+*   El **aislamiento y la inercia térmica** del recinto regulan el equilibrio térmico. Un buen aislamiento aumenta las temperaturas y la potencia del incendio, mientras que la inercia térmica (capacidad de acumular calor) prolonga la fase de crecimiento.
+
+Finalmente, los incendios pueden ser de **contenido** (limitados a combustibles internos, sin afectar la estructura, típico en obra de fábrica) o de **estructura** (afectan la estructura, que forma parte del combustible, común en madera). La elección de tácticas variará en función de esta clasificación.

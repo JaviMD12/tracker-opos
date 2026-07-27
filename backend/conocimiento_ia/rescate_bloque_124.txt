@@ -1,0 +1,38 @@
+# Técnicas de Localización en Operaciones de Rescate
+
+La localización de personas y objetos en operaciones de rescate y búsqueda, especialmente en grandes áreas, se apoya en una combinación de herramientas tecnológicas y protocolos de actuación definidos. La gestión eficaz de la información y la coordinación son pilares fundamentales para el éxito de estas intervenciones.
+
+## Sistemas de Posicionamiento Global (GPS)
+
+Los dispositivos GPS, como los modelos Garmin E-TREX 20 para uso manual o NUVI para vehículos, son esenciales para determinar la ubicación de personas desaparecidas. Estos aparatos ofrecen diversas funcionalidades:
+*   **Visualización cartográfica:** Permiten observar la posición actual en un mapa, con la capacidad de ajustar el nivel de zoom y el desplazamiento del cursor para una mejor visualización.
+*   **Gestión de coordenadas:** Es posible configurar el formato de coordenadas, siendo el hdddº mm’ ss.s” y el datum WGS84 los recomendados por el CEIS Guadalajara, lo cual facilita la interpretación de diferentes sistemas de referencia.
+*   **Marcado de puntos de interés (waypoints):** Esta función permite memorizar ubicaciones específicas como la Última Localización Conocida (ULC), el Puesto de Mando Avanzado (PMA) o puntos donde se han encontrado indicios relevantes. Cada waypoint puede ser nombrado y descrito para su futura referencia.
+*   **Registro de rutas (tracks):** El GPS puede grabar el recorrido realizado durante la búsqueda, con opciones de configuración por tiempo, distancia o de forma automática. Es crucial diferenciar el color de los tracks de búsqueda del de los límites de los sectores para una identificación clara.
+*   **Administración de rutas y puntos:** El software interno del GPS, accesible a través de menús como "Track Manager" y "Waypoint Manager", permite programar, cargar, modificar, guardar y eliminar rutas y puntos de interés.
+
+La preparación de la búsqueda se complementa con herramientas informáticas como **BaseCamp**, que se utiliza en un PC para precargar sectores de búsqueda detallados (tracks) en el dispositivo GPS. Este proceso implica delimitar el perímetro de los sectores en el mapa, asignarles nombres, colores y propiedades para luego transferirlos al GPS mediante conexión USB (función Plug & Play). Al finalizar la búsqueda, los datos registrados en el GPS se descargan y analizan para evaluar el desempeño y archivar la información.
+
+## Técnicas de Localización mediante Teléfonos Móviles
+
+En situaciones de búsqueda, los teléfonos móviles inteligentes o smartphones son herramientas de gran utilidad, especialmente cuando la disponibilidad de equipos GPS es limitada o se requiere una localización rápida. Su eficacia depende del sistema operativo, las aplicaciones instaladas y la cobertura de datos.
+
+Los principales métodos de localización incluyen:
+*   **Dispositivos Android:** Requieren una cuenta de Google activa y los servicios de ubicación habilitados. La localización remota se realiza a través de Google Maps, ofreciendo una precisión aproximada de 10-20 metros en entornos urbanos.
+*   **Dispositivos Blackberry:** Utilizan la aplicación Blackberry Protect y una cuenta de usuario asociada para la localización.
+*   **Dispositivos iPhone:** Emplean la aplicación "Buscar mi iPhone" vinculada a una Apple ID. En caso de que el teléfono esté apagado o sin cobertura, registra la última ubicación conocida.
+*   **Aplicaciones de mensajería (WhatsApp):** Permiten compartir la ubicación en tiempo real con otros contactos, siempre que el GPS del dispositivo esté activado y se disponga de conexión a datos móviles.
+
+Es fundamental considerar que la localización efectiva mediante teléfonos móviles exige una configuración previa adecuada del terminal, la disponibilidad de un plan de datos y cobertura de red.
+
+## Ficha de Adscripción de Personal para Búsquedas
+
+Para organizar y gestionar el personal participante en una operación de búsqueda, el CEIS Guadalajara utiliza una "Hoja de Adscripción de Personal". Este documento permite registrar de manera estructurada la información esencial de cada interviniente, facilitando la coordinación y el control del operativo.
+
+La ficha incluye apartados para:
+*   **Datos operativos:** Denominación reducida del dispositivo de búsqueda, fecha de la intervención, número de interviniente y código de localización (Emercarlo).
+*   **Adscripción a equipos:** Registro de las horas de servicio por cada miembro asignado a un equipo específico.
+*   **Información personal:** Nombre y apellidos, DNI, fecha de nacimiento, número de teléfono de contacto (que debe ser portado durante la búsqueda), conocimientos sanitarios y de búsqueda, afiliación a ONG y otros datos de interés.
+*   **Condiciones para voluntarios:** Declaración de consentimiento con las condiciones de búsqueda, aceptación de las órdenes y la responsabilidad de los propios actos, asunción de riesgos inherentes y reconocimiento de la potestad del CEIS Guadalajara para prescindir de sus servicios. Este apartado finaliza con la firma del voluntario.
+
+La correcta cumplimentación de esta ficha es vital para la planificación, asignación de tareas y seguimiento del personal, garantizando un operativo seguro y coordinado.

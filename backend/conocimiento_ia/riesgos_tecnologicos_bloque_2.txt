@@ -1,0 +1,118 @@
+## Análisis Estructural y Mecánica de Materiales en Edificación para Bomberos
+
+La comprensión de la **arquitectura** como el arte y la técnica de diseñar edificios, y la **construcción** como el conjunto de procedimientos técnicos para erigir edificaciones, es fundamental para el personal de bomberos. Las edificaciones, definidas por la RAE como "construcción fija, hecha con materiales resistentes, para habitación humana o para otros usos", constituyen el escenario primordial de muchas intervenciones. Un conocimiento básico de sus características, normativas, sistemas constructivos y materiales es esencial para una respuesta eficaz.
+
+### Conceptos Fundamentales de Física Aplicados a la Edificación
+
+El comportamiento de las estructuras bajo diversas solicitaciones se rige por principios físicos, destacando la **fuerza**, los **momentos** y la **elasticidad**.
+
+#### Fuerza
+
+La **fuerza** se define como una magnitud vectorial que esquematiza la interacción entre cuerpos, calculada como el producto de la masa por la aceleración (F = m · a). Sus atributos clave en edificación son el módulo o magnitud, la dirección, el sentido y el punto de aplicación. La unidad en el Sistema Internacional (SI) es el Newton (N), equivalente a (Kg m/s²). Las **tres leyes de Newton** rigen el comportamiento de las fuerzas:
+1.  **Primera Ley (Principio de Inercia)**: Todo cuerpo mantiene su estado de reposo o movimiento rectilíneo uniforme, a menos que una fuerza externa actúe sobre él.
+2.  **Segunda Ley**: La suma de las fuerzas que actúan sobre un cuerpo es igual al producto de su masa por la aceleración generada, con desplazamiento en la dirección de la resultante.
+3.  **Tercera Ley (Principio de Acción y Reacción)**: Para cada acción, existe una reacción igual y opuesta. En este sentido, para mantener el equilibrio, toda fuerza aplicada debe ser contrarrestada por otra de igual magnitud y sentido contrario.
+
+Las fuerzas pueden **componerse** (sumarse, restarse, multiplicarse) como cualquier magnitud vectorial, generando nuevas fuerzas.
+
+#### Momentos
+
+Complementariamente a la fuerza, el **momento** es crucial, ya que el resultado o reacción de una fuerza depende en gran medida de su punto de aplicación, generando los llamados momentos. Un **par de fuerzas** se define como un sistema de dos fuerzas paralelas, de igual magnitud, pero con sentidos opuestos, caracterizado por su momento, que es el producto de una de las fuerzas por la distancia perpendicular entre ellas (brazo del par). La unidad para cuantificar los momentos es el Newton por metro (N·m), equivalente a (Kg m²/s²). Los momentos pueden ser **positivos** (giro horario) o **negativos** (giro antihorario) según el sentido de giro respecto a un punto. A mayor brazo del par, mayor es el momento y mayor el esfuerzo necesario para equilibrarlo. El **equilibrio del par** implica que un par de fuerzas sin reacción tiende a equilibrarse reduciendo su brazo de palanca hasta alinearse, resultando en un momento nulo.
+
+#### Equilibrio y Estática
+
+La **estática**, una rama de la mecánica clásica, analiza las cargas (fuerza, par/momento) y estudia el equilibrio de fuerzas en sistemas estáticos. Se considera que una estructura está en **equilibrio estático** cuando no experimenta movimientos relativos en el tiempo. Las cargas soportadas por una estructura generan **empujes** (fuerzas) y **giros** (momentos) que deben ser contrarrestados por reacciones iguales y opuestas en los elementos estructurales. Para que exista equilibrio, la suma de fuerzas (∑F) y momentos (∑M) en cada cuerpo debe ser igual a cero.
+
+El **Centro de Gravedad** es el punto de un cuerpo donde puede considerarse concentrado su peso, de modo que, si se apoya en dicho punto, permanece en equilibrio. No siempre coincide con un punto material del cuerpo. Un objeto con base plana estará en equilibrio estable si la vertical que pasa por su centro de gravedad se proyecta dentro de la base de apoyo. Si el cuerpo se aleja ligeramente de esta posición, un momento restaurador intentará devolverlo a su estado inicial; si el centro de gravedad cae fuera de la base, el cuerpo rotará hasta una nueva posición de equilibrio.
+
+#### Elasticidad
+
+La **elasticidad** es la capacidad de los materiales para sufrir deformaciones reversibles bajo la acción de fuerzas externas y recuperar su forma original al cesar estas fuerzas. La **ley de Hooke** describe el comportamiento elástico inicial de los materiales, donde la tensión sufrida (σ) es directamente proporcional a la elasticidad (E) y a la deformación efectiva (ε), expresado como σ = Eε. Más allá del **límite de elasticidad**, el material entra en un estado de **plasticidad**, donde las deformaciones son permanentes e irrecuperables, a menudo acompañadas de pérdida de sección y resistencia.
+
+El **Módulo de Elasticidad Longitudinal (Módulo de Young, E)** es crucial para evaluar el comportamiento y deformación de los materiales. Valores aproximados de E (N/mm²) para diversos materiales incluyen:
+*   Mampostería de ladrillo: 3000-5000
+*   Maderas duras: 10000-22500
+*   Maderas blandas: 9000-11000
+*   Acero: 210000
+*   Hierro de fundición: 100000
+*   Hormigón (Resistencia): 21500-39000
+A igualdad de deformación, un cuerpo sufre menores tensiones cuanto mayor sea su elasticidad. Por ejemplo, la madera se deforma significativamente más en la dirección de la fibra, el hierro fundido se deforma el doble que el acero, y el hormigón puede deformarse hasta 10 veces más que el acero.
+
+#### Factores Asociados al Comportamiento Térmico
+
+En escenarios con variaciones térmicas intensas, como incendios, es fundamental considerar:
+*   **Coeficiente de Conductividad Térmica (λ)**: Cuantifica la capacidad de un material para conducir calor, medido en W/m°C o W/mK. Valores bajos indican mayor capacidad aislante.
+    *   Acero: 47-58
+    *   Acero inoxidable: 14-16
+    *   Hierro: 80
+    *   Aluminio: 209
+    *   Corcho: 0.04-0.30
+    *   Fibra de vidrio: 0.03-0.07
+    *   Ladrillo: 0.80
+    *   Madera: 0.13
+    *   Poliuretano: 0.018-0.025
+*   **Coeficiente de Dilatación Térmica (α)**: Mide la dilatación lineal por cada grado de aumento de temperatura y por cada metro lineal. Por ejemplo, el acero tiene un coeficiente de aproximadamente 0.000012 (1/°C), similar al hormigón (0.0000117 1/°C). Una viga de hormigón armado de 10 metros que aumente de 20°C a 400°C sufrirá una dilatación lineal de 5.76 cm, lo que puede causar empujes laterales y colapso estructural.
+
+### Acciones en la Edificación
+
+El Código Técnico de la Edificación (CTE), Documento Básico de Seguridad Estructural, Acciones en la Edificación (CTE DB SE AE), clasifica las fuerzas, cargas o solicitaciones que un edificio debe soportar en tres categorías principales.
+
+#### Acciones Permanentes
+
+Son cargas que actúan de forma constante durante toda la vida útil de la edificación. Incluyen:
+*   **Peso Propio**: El peso de todos los elementos constructivos, como estructura, cerramientos, tabiquería, acabados e instalaciones. Se determina por las dimensiones de los elementos y el peso de sus materiales.
+    *   **Pesos específicos de materiales (kN/m³)**: Cal (13), Yeso (15), Cemento (16), Mortero cemento (19-23), Hormigón (24+1, si es armado), Acero (77-78.5), Adobe (16), Ladrillo cerámico (12-15), Bloque hormigón (13-16), Piedra natural (24-28, basalto 30), Madera (3.5-5.0).
+    *   **Pesos específicos aparentes de elementos constructivos (kN/m²)**: Cubiertas (1.0-2.5), Forjados (2.0-5.0), Solados (0.5-1.5), Cerramientos exteriores (7.0 kN/m para h=3m), Particiones interiores (3.0-5.0 kN/m para h=3m, valor medio 1 kN/m² en viviendas).
+*   **Pretensado**: Esfuerzos generados en el hormigón armado por el tensado de barras de acero y la compresión del hormigón antes de su fraguado. Aunque no son un valor de referencia para bomberos, su verificación puede identificar problemas de estabilidad.
+*   **Acciones del Terreno**: Esfuerzos que el terreno transmite a la estructura (peso, empujes, hundimientos). Su cuantía se estima por el CTE DB-SE-C y depende del tipo de suelo (arcillas, gravas, arenas) y de la altura.
+    *   **Empuje del terreno (kN/m²)**: A 1m de profundidad, arcilla (5) y grava/arena (3.3); a 2m, arcilla (10) y grava/arena (6.6); a 3m, arcilla (15) y grava/arena (10).
+
+#### Acciones Variables
+
+Son cargas que pueden actuar o no sobre la edificación y cuya magnitud puede variar con el tiempo. Comprenden:
+*   **Sobrecarga de Uso**: Peso que la estructura debe soportar para el uso previsto del edificio (comercial, vivienda, etc.). Puede ser uniforme (kN/m²) o concentrada (kN).
+    *   **Valores de sobrecarga de uso**: Acceso restringido (dormitorios, hospitales, hoteles) 2 kN/m² uniformes y 2 kN concentrados; Cubiertas sin uso público 1 kN/m² uniformes y 2 kN concentrados; Acceso público (comercial, aglomeración) 5 kN/m² uniformes y 7 kN concentrados; Acceso vehículos ligeros (aparcamiento) 2 kN/m² uniformes y 20 kN concentrados.
+*   **Acciones sobre Barandillas y Elementos Divisorios**: Fuerza horizontal uniforme que debe resistir la estructura. El CTE estipula entre 1-3 kN/m. Para bomberos, se considera una resistencia máxima de 0.5 kN/m debido a la incertidumbre del estado real.
+*   **Viento**: Presiones y succiones que actúan sobre la estructura, influenciadas por su forma, altura, pendiente de cubierta y zona geográfica. Un valor simplificado para España es 0.5 kN/m².
+*   **Acciones Térmicas**: Deformaciones y cambios geométricos debidos a variaciones de temperatura exterior, clima, orientación, exposición y características de los materiales. Estas deformaciones generan esfuerzos y tensiones. En edificios de hormigón o acero, se pueden despreciar si existen juntas de dilatación cada 40 m.
+*   **Nieve**: Sobrecarga por acumulación de nieve en cubiertas, dependiendo de la zona climática y la inclinación. Para cubiertas planas en localidades de altitud inferior a 1000 m, se considera una carga de nieve de 1.0 kN/m².
+
+#### Acciones Accidentales
+
+Son cargas debidas a riesgos naturales o accidentes antrópicos:
+*   **Sismo**: Respuesta de un edificio a movimientos sísmicos, regulada por la norma sismorresistente (NCSR-02, RD 997/2002). Se consideran peligrosos los sismos con aceleración superior a 0.04g.
+*   **Incendio**: Los edificios deben resistir incendios por un tiempo determinado (CTE-DB SI).
+*   **Impacto**: Acciones en la edificación por impactos accidentales (excluyendo impactos premeditados). Los valores de cálculo de impacto de vehículos de hasta 30 kN de peso total son 50 kN en dirección paralela a la vía y 25 kN en dirección perpendicular, sin actuar simultáneamente.
+
+### Esfuerzos y Tensiones en las Estructuras
+
+Las acciones en la edificación provocan un **esfuerzo**, que se materializa como **tensiones internas**. La **tensión** es la fuerza por unidad de área resultante de las cargas, y se cuantifica en N/mm².
+
+Existen diferentes tipos de tensiones:
+*   **Tensión de rotura**: La máxima tensión que un material puede soportar en condiciones de laboratorio.
+*   **Tensión de trabajo**: El umbral máximo de tensión que permite a una estructura operar con seguridad, generalmente entre el 70-80% de su límite elástico.
+
+Según la naturaleza del esfuerzo, se distinguen:
+
+#### Esfuerzos Simples
+
+1.  **Compresión**: Estado de tensión donde las partículas del material se aproximan, es decir, el material se aprieta. Se genera por fuerzas opuestas con la misma dirección y sentido hacia el interior del material. Ejemplos incluyen pilares, soportes, muros de fábrica y puntales.
+2.  **Tracción**: Estado de tensión donde las partículas del material se separan, es decir, el material se estira. Se produce por fuerzas opuestas con la misma dirección y sentido hacia el exterior del material. Un ejemplo es el tirante.
+3.  **Cortante/Cortadura/Cizalladura**: Estado de tensión donde las partículas del material se deslizan unas respecto a otras. Se crea por dos fuerzas paralelas pero no coincidentes, con sentidos opuestos. Comúnmente se presenta en las conexiones viga-pilar.
+
+#### Esfuerzos Compuestos
+
+Estos son combinaciones de los esfuerzos simples:
+1.  **Flexión (o Flexión Pura)**: Esfuerzo resultante de una carga transversal aplicada a una pieza predominantemente longitudinal. Típicamente, la parte inferior de la pieza experimenta tracción y la superior compresión, como en vigas biapoyadas. En elementos en voladizo, la flexión se invierte (tracción en las fibras superiores y compresión en las inferiores). Ejemplos incluyen carreras, jácenas y vigas.
+2.  **Pandeo (o Flexión Compuesta)**: Deformación que ocurre en elementos largos y esbeltos debido a fuerzas de compresión a lo largo de su directriz. Un tirante sometido a compresión puede sufrir pandeo.
+3.  **Torsión**: Esfuerzo generado al someter una pieza a una fuerza circular. Un ejemplo son los elementos en voladizo.
+
+En un análisis microscópico, en las fibras extremas de una viga, solo se producen tensiones normales (compresión o tracción debido a la flexión). En contraste, en la **fibra neutra** (la línea imaginaria que pasa por el centro de gravedad de la sección y no está sometida a esfuerzos de flexión), solo se producen tensiones cortantes. En un elemento intermedio sometido a fuerzas normales y cortantes, las tensiones principales tienen una inclinación determinada por la magnitud relativa de estas fuerzas.
+
+Los **diagramas de cortantes** representan la variación de la fuerza cortante vertical a lo largo del eje de un elemento estructural, mientras que los **diagramas de momentos flectores** muestran la variación del momento flector. Ambos están intrínsecamente relacionados y su forma indica la deformación de la estructura. Los puntos donde el diagrama de cortantes cruza el eje de abscisas son puntos de momento nulo, de especial importancia para la identificación de puntos de apeo.
+
+El tipo de carga influye en estos diagramas:
+*   Una **carga puntual** genera fuerzas cortantes de valor constante entre las cargas y momentos flectores que varían linealmente.
+*   Una **carga lineal uniformemente repartida** produce fuerzas cortantes con variación lineal y momentos flectores con variación parabólica.
+
+Las conexiones en los extremos de las vigas también son determinantes. Por ejemplo, las **vigas articulada-apoyada**, **articulada-empotrada** y **empotrada-empotrada** experimentan idénticas fuerzas cortantes bajo las mismas cargas verticales, pero sus momentos flectores son diferentes debido a la rigidez de sus nudos.

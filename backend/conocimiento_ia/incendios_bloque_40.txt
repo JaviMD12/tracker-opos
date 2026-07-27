@@ -1,0 +1,18 @@
+# Hidráulica y Elementos de Intervención en Túneles
+
+La **hidráulica**, como rama de la mecánica de fluidos, se dedica al estudio de las propiedades mecánicas de los fluidos, tanto en estado estático (hidrostática) como en movimiento (hidrodinámica), y las fuerzas y condiciones a las que están sujetos.
+
+## Propiedades Fundamentales de los Fluidos
+
+En el análisis de los fluidos, se consideran diversas propiedades esenciales. La **masa** se define como la cantidad de materia de un cuerpo, medida en kilogramos (kg) en el Sistema Internacional, siendo una magnitud escalar. Complementariamente, la **densidad** (ρ) es una magnitud vectorial que cuantifica la masa por unidad de volumen de una sustancia, expresada en kg/m³. A su vez, el **peso específico** (γ) establece la relación entre el peso de un cuerpo y el volumen que ocupa, con unidades de N/m³. Cuando se comparan estos valores con los de una sustancia patrón, como el agua a 4ºC y 1 atmósfera, se obtienen la **densidad relativa** y el **peso específico relativo**.
+
+La **viscosidad** es una propiedad intrínseca de los fluidos que describe su resistencia a las deformaciones tangenciales, originada por las fuerzas de cohesión molecular. Un fluido ideal, o sin viscosidad, se considera **incompresible**, manteniendo su densidad constante. Este fenómeno se manifiesta únicamente en líquidos en movimiento, caracterizándose como la relación entre el esfuerzo cortante y el gradiente de velocidad, conocido como viscosidad absoluta o dinámica, y se representa por la letra griega μ. La ley de Newton para la viscosidad indica que la resistencia de un fluido a su deformación depende tanto de su viscosidad como de la velocidad de deformación. Es crucial entender la **capa límite**, que postula que un fluido en contacto con una superficie sólida adopta la misma velocidad que esta, generando resistencia al movimiento. La viscosidad está influenciada principalmente por la temperatura y, en menor medida, por la presión. Es importante destacar que los líquidos más viscosos oponen mayor resistencia y sufren mayores pérdidas de presión en las conducciones.
+
+La **presión de vapor** es la presión a la cual un líquido y su fase gaseosa se encuentran en equilibrio dinámico a una temperatura determinada, siendo independiente de las cantidades de líquido y vapor presentes. En el caso de los sólidos, este concepto se aplica también a la sublimación. La presión de vapor está inversamente relacionada con las fuerzas de atracción intermoleculares; a mayor fuerza, mayor energía se requiere para el cambio de estado. Un líquido hierve cuando su presión de vapor iguala la presión exterior, de modo que la ebullición normal ocurre cuando la presión de vapor es equivalente a la presión atmosférica. Una disminución de la presión externa reduce el punto de ebullición, mientras que un aumento lo eleva. Esta propiedad es relevante en aspiraciones con bombas para prevenir la **cavitación**.
+
+La **tensión superficial** representa la energía necesaria para aumentar la superficie de un líquido por unidad de área, reflejando las fuerzas intermoleculares que mantienen las moléculas unidas en la superficie. Junto con la capilaridad, explica la formación de gotas en líquidos, siendo la esfera la forma que minimiza la superficie para un volumen dado. En el agua, la tensión superficial es elevada debido a los puentes de hidrógeno.
+
+## Hidrostática: Estudio de Fluidos en Equilibrio
+
+La **hidrostática** se enfoca en los fluidos en reposo. Un fluido en equilibrio no experimenta fuerzas que alteren su movimiento o posición. Los pilares de su estudio son el principio de Pascal y el principio de Arquímedes.
+

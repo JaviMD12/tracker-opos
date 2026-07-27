@@ -1,0 +1,46 @@
+## Reconocimiento e Identificación en Intervenciones NRBQ
+
+La gestión eficaz de incidentes nucleares, radiológicos, biológicos y químicos (NRBQ) requiere un conocimiento exhaustivo de las propiedades de las sustancias implicadas, sus posibles reacciones y los métodos adecuados para su mitigación. El proceso de reconocimiento e identificación es crucial para la evaluación inicial del siniestro, permitiendo adoptar pautas de seguridad y técnicas de intervención apropiadas para proteger tanto a los intervinientes como a la población y el entorno.
+
+### Fuentes de Información para la Identificación
+
+Para identificar las sustancias peligrosas en una emergencia NRBQ, se utilizan diversas fuentes de información visible en el lugar del incidente. Estas fuentes proporcionan datos clave sobre la naturaleza y los riesgos asociados a los productos:
+
+1.  **Panel Naranja:** Este panel, de forma rectangular con unas dimensiones típicas de 40 cm de base y 30 cm de altura, está bordeado por un ribete negro de 1,5 cm. Es retroreflectante para asegurar su visibilidad. Generalmente se sitúa uno en la parte delantera y otro en la trasera de la unidad de transporte, perpendicular al eje longitudinal del vehículo. En ocasiones, también se pueden colocar en los costados. Su principal función es identificar el número de identificación de peligro (NIP) en la parte superior y el número ONU en la inferior. En caso de incendio, este panel debe mantener su señalización durante al menos 15 minutos si la materia transportada es inflamable. Si el vehículo no dispone de suficiente superficie, las dimensiones del panel pueden reducirse, aunque para materiales radiactivos en uso exclusivo solo se requiere el número ONU.
+
+2.  **Placas y Etiquetas:** Estos elementos tienen como objetivo señalizar tanto los bultos como los depósitos o recipientes que contienen mercancías peligrosas, permitiendo una identificación rápida de las materias y sus peligros inherentes.
+    *   **Etiquetas sobre bultos:** Son de forma cuadrada, apoyadas sobre uno de sus vértices, con un lado de 10 cm. Se sitúan en uno de los laterales del bulto y, si hay múltiples peligros, se colocan varias. Los bultos de clase 7 (material radiactivo, si no son exceptuados) deben indicar el modelo del bulto (Tipo IP-1, IP-2, IP-3, Tipo A, Tipo B o Tipo C), además del número ONU.
+    *   **Marcas sobre unidades de transporte:** Las paredes exteriores de contenedores, unidades de transporte de gas con elementos múltiples (CGEM), unidades móviles de explosivos (MEMU), cisternas y vehículos especiales deben llevar placas-etiquetas de 25x25 cm, con fondo contrastado y borde visible, indicando el número o las cifras prescritas para la mercancía. Los vehículos que transportan materias en caliente (cisternas o contenedores a temperatura elevada) deben llevar una marca triangular de color rojo con lados de al menos 25 cm. Asimismo, los contenedores o vehículos que transporten sustancias peligrosas para el medio ambiente deben estar señalizados con su marca específica.
+
+3.  **Lugar del Incidente o Emergencia:** La ubicación del siniestro (fábrica, carretera, ámbito doméstico) y el tipo de emergencia facilitan la identificación de los productos peligrosos y sus riesgos. Se pueden distinguir cinco zonas potenciales de riesgo: uso industrial, transporte y uso particular. En cada caso, es ideal conocer la energía, materiales o producto final implicado, siendo fundamental para el servicio de prevención disponer de información sobre las mercancías, su localización, tamaño, medidas preventivas y sistemas de extinción.
+
+4.  **Logo Corporativo:** Los logotipos o marcas de las empresas visibles en los vehículos o contenedores pueden aportar información sobre las sustancias transportadas. Por ejemplo, en un depósito aéreo con un logo específico, se puede inferir que contiene gas para viviendas o industrias.
+
+5.  **Señales y Colores:** Los pictogramas y colores son una forma gráfica intuitiva para identificar los peligros. Las señales del ADR (Acuerdo Europeo sobre el Transporte Internacional de Mercancías Peligrosas por Carretera) y la normativa europea CLP (Clasificación, Etiquetado y Envasado de Sustancias y Mezclas) utilizan rombos para indicar la naturaleza del peligro.
+    *   **Rombo NFPA 704 (diamante de peligro):** Utilizado principalmente en Estados Unidos, clasifica los peligros en salud (azul), inflamabilidad (rojo) y reactividad (amarillo) del 0 al 4, con una sección blanca para peligros especiales (oxidante, corrosivo, radiactivo, reactivo con agua).
+    *   **Código HAZCHEM:** Usado en Reino Unido y otros países, emplea una placa naranja dividida en secciones, indicando el agente extintor (número 1-4) y acciones/protección personal (letras W, X, Y, Z, P, R, S, T).
+    *   **Colores de tuberías (DIN 2403):** El color básico indica la naturaleza del fluido (agua, verde; gases, amarillo; ácidos, violeta; bases, violeta), y el color complementario (sobre el básico) indica el estado del fluido (líquidos corrosivos, verde; concentrados, violeta).
+
+6.  **Tipo de Transporte y Forma del Contenedor:** La morfología del contenedor (caja, cisterna) y el tipo de transporte (carretera, ferrocarril, marítimo, aéreo) orientan sobre la naturaleza de la mercancía.
+    *   **Contenedores con caja:** Transportan bultos, no líquidos o gases.
+    *   **Cisternas:** Diseñadas para transportar gases o líquidos, pueden ser fijas, desmontables, portátiles o contenedores cisterna. Su sección (elíptica, circular con fondos planos o esféricos) y la presencia de parasoles, tubos de descarga o compresores son indicativos del tipo de mercancía y su presión.
+
+7.  **Identificación de Tuberías:** La señalización cromática según la norma DIN 2403 identifica las sustancias que circulan por instalaciones fijas. Los colores básicos indican el fluido, y los complementarios el estado. Las flechas blancas o negras señalan el sentido de circulación.
+
+8.  **Equipamiento y Etiquetado de Botellas:** La norma UNE-ES 1089-3 establece que la ojiva (parte superior) de las botellas de gases industriales debe ser monocolor para identificar el riesgo principal del gas. Para gases medicinales, se usan colores específicos por gas, excepto en mezclas.
+
+9.  **Los Sentidos:** La vista es fundamental para la valoración inicial, observando colores, formas, tamaños y distancias. El oído puede detectar sonidos característicos de fugas o explosiones. El gusto y el olfato no deben usarse directamente debido a los riesgos, pero la información de informantes sobre olores característicos (picante, agrio, almendras amargas) puede ser relevante.
+
+10. **Documentos:** La carta de porte, las fichas de datos de seguridad (MSDS) y las fichas de intervención son cruciales para identificar la mercancía peligrosa, sus riesgos y pautas de actuación.
+    *   **Carta de Porte:** Documento legal que acompaña a la mercancía, detallando número ONU, envases, cantidad y disposiciones ADR.
+    *   **Fichas de Datos de Seguridad (FDS/MSDS):** Proporcionan información detallada sobre peligros, composición, primeros auxilios, medidas contra incendios, manipulación, almacenamiento y propiedades físico-químicas.
+    *   **Fichas de Intervención (ERICards, Gobierno Vasco, Ministerio del Interior):** Ofrecen pautas homogéneas de actuación para servicios de emergencia.
+
+11. **Aparatos de Detección y Medida:**
+    *   **Explosímetro/Medidor de Oxígeno:** Mide la concentración de gases y vapores inflamables, así como el porcentaje de oxígeno. Se calibra con un gas patrón (metano generalmente) y requiere factores de corrección.
+    *   **Tubos Colorimétricos:** Viales con preparación química que cambia de color al reaccionar con una sustancia, indicando su concentración (ppm o porcentaje en volumen) y, en ocasiones, por comparación de colores. Detectan CO2, etileno, sulfhídrico, amoníaco.
+    *   **Cámara Termográfica:** Detecta la radiación infrarroja de objetos con temperatura superior a 0 K, mostrando una imagen térmica. Permite estimar la temperatura superficial y, en cisternas, el nivel de líquido.
+    *   **Dosímetro de Radiación (Radiámetro):** Mide la intensidad de radiación (rayos X y gamma) en microSv/h y puede detectar contaminación alfa y beta. Utilizado para zonificar áreas (caliente >100 mSv/h, templada >1 mSv/h, fría <0.3 mSv/h).
+    *   **Medidores de pH:** Miden la concentración de iones de hidrógeno. Clasifican las sustancias en ácidas (pH 0-3), neutras (pH 7) o básicas/alcalinas (pH 12-14).
+
+Una identificación rápida y precisa de la sustancia y sus características es fundamental para seleccionar el nivel de protección personal, las tácticas de mitigación y los procedimientos de descontaminación, optimizando así la seguridad y la eficacia de la intervención.

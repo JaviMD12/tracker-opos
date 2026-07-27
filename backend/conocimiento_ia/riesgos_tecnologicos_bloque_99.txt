@@ -1,0 +1,112 @@
+# Intervención en Estructuras Colapsadas: Caracterización y Tácticas Operativas
+
+Las intervenciones en estructuras colapsadas representan uno de los desafíos más complejos y críticos para los servicios de emergencia, incluyendo los cuerpos de bomberos. Estos eventos, aunque no son frecuentes, tienen consecuencias potencialmente devastadoras, implicando la posibilidad de víctimas atrapadas, riesgos asociados a escapes de gas o incendios, y afectaciones a edificios adyacentes. La gestión eficaz de estas situaciones requiere una formación multidisciplinar y una respuesta coordinada entre diversas administraciones y organismos.
+
+## I. Caracterización de los Derrumbes y sus Causas
+
+Un **derrumbe** se define como el colapso, total o parcial, de una construcción, a menudo acompañado del desprendimiento de sus elementos. Sus causas pueden ser clasificadas en dos categorías principales: naturales y antrópicas.
+
+### A. Causas Naturales
+
+1.  **Terremotos o Sismos**: Son fenómenos de sacudida brusca de la corteza terrestre, provocados por la liberación de energía acumulada en forma de ondas sísmicas.
+    *   **Origen**: Mayormente, resultan de la ruptura de fallas geológicas, aunque también pueden ser causados por la fricción de placas tectónicas, procesos volcánicos o incluso actividades humanas (terremotos inducidos, como los asociados a grandes embalses o fracking).
+    *   **Puntos clave**: El **hipocentro** es el punto de origen en el interior de la Tierra, mientras que el **epicentro** es su proyección vertical en la superficie terrestre.
+    *   **Propagación**: La energía se transmite mediante ondas sísmicas, que se clasifican en:
+        *   **Ondas P (Primarias o Longitudinales)**: Las más rápidas, se propagan comprimiendo y expandiendo el medio, y pueden viajar a través de sólidos y líquidos.
+        *   **Ondas S (Secundarias o Transversales)**: Más lentas que las ondas P, se propagan perpendicularmente a la dirección de avance y solo a través de sólidos.
+        *   **Ondas Superficiales**: Generadas por la interacción de las ondas P y S en la superficie, son más lentas pero de mayor amplitud y, por tanto, más destructivas. Incluyen las ondas Rayleigh (movimiento elíptico retrógrado) y Love (movimiento transversal en superficie).
+    *   **Medición**: La energía liberada se mide con la escala Richter (en números decimales, con un crecimiento exponencial, donde un grado 4 es 100 veces mayor que un grado 2), mientras que la intensidad de los efectos destructivos se valora con la escala Macrosísmica de Mercalli (MSK), expresada en números romanos (I-XII).
+    *   **Efectos**: Además de los daños directos en estructuras, los sismos pueden provocar **desplazamientos de tierras**, **licuefacción** (suelos granulares no cohesivos se comportan como líquidos), **compactación** y **asentamientos** del terreno.
+    *   **Impacto en edificaciones**: La respuesta de las edificaciones depende de su geometría, rigidez y los materiales. Ejemplos de fallos incluyen el **efecto de columna corta** (concentración de tensiones), el **fenómeno de piso blando** (plantas diáfanas), y el **fenómeno de aplauso** (impacto entre edificios adyacentes de diferentes alturas). La madera y el acero son materiales muy elásticos, pero tienen comportamientos distintos frente al fuego y sismos.
+2.  **Aludes o Corrimientos de Tierra**: Movimientos de grandes masas de terreno, rocas o árboles.
+    *   **Causas**: Pueden ser sísmicas, volcánicas, o por inestabilidad del terreno (lluvias intensas, deshielos).
+    *   **Tipologías**: Se distinguen los **deslizamientos** (masa sobre zona estable), **flujos de arcilla** (movimientos lentos en terrenos muy húmedos), **licuefacción** y **reptación** (movimientos muy lentos en capas superficiales).
+3.  **Riesgos Cósmicos**: Principalmente, impactos de asteroides o meteoritos.
+4.  **Riesgos Volcánicos**: Erupciones que liberan lava, ceniza y gases. Pueden generar avalanchas volcánicas (flujos de lodo por deshielo) o erupciones fisurales (lava fluida sobre grandes extensiones).
+
+### B. Causas Antrópicas
+
+1.  **Falta de Mantenimiento y Construcción Deficiente**: Edificios antiguos, tuberías obsoletas, inclemencias meteorológicas no atendidas, lo que puede provocar derrumbes graduales.
+2.  **Reformas Inadecuadas**: Una mala planificación o ejecución de obras, tanto en el propio edificio como en los colindantes, puede comprometer la estabilidad estructural.
+3.  **Construcciones Paralelas**: Las obras adyacentes, especialmente las que involucran maquinaria pesada, pueden generar vibraciones que afectan la estabilidad de las estructuras cercanas.
+4.  **Explosiones de Gas**: Provocan derrumbes en los puntos más débiles de las fachadas o de forma generalizada. Las bombonas de butano/propano suelen afectar cocinas, mientras que el gas natural puede causar explosiones de mayor alcance.
+5.  **Atentados Terroristas**: Son las causas más destructivas y peligrosas, dada la posibilidad de artefactos sin detonar y la complejidad del colapso.
+6.  **Incendios**: Especialmente en estructuras sin hormigón armado (madera o metal), el fuego puede debilitar gravemente los elementos constructivos, provocando su colapso casi inmediato.
+
+## II. Tipologías de Derrumbes según los Huecos de Vida
+
+La principal prioridad en una intervención de derrumbes es localizar y rescatar a las víctimas. Para ello, es fundamental identificar los **huecos de vida**, es decir, los espacios donde es más probable encontrar supervivientes. La clasificación de los derrumbes según estos huecos es crucial para la táctica de intervención:
+
+1.  **Derrumbe Oblicuo, Lateral o de Plano Inclinado**: Se produce cuando pilares o muros de carga colapsan lateralmente, dejando la losa superior parcialmente apoyada y formando un plano inclinado. Las víctimas suelen encontrarse entre los escombros o en las oquedades cercanas a los muros. En estructuras metálicas, los forjados tienden a romperse, no a inclinarse.
+2.  **Derrumbe por Superposición de Planos o Total**: Varias plantas colapsan una sobre otra, generando estratos horizontales o inclinados de escombros. Las víctimas se encuentran entre estos estratos. Su rescate requiere maquinaria pesada y equipos de búsqueda especializados (caninos, geófonos).
+3.  **Marquesina**: Un espacio libre de escombros formado por un plano inclinado, un muro vertical y el suelo. Son cruciales para la supervivencia y como puntos de escucha o de depósito de escombros. Una variante es el **derrumbe en "V"**, una marquesina doble. El acceso suele ser por perforación de paredes.
+4.  **Espacio Relleno**: Una estancia completamente inundada de escombros, con escasos huecos de vida. Afecta a sótanos o zonas similares. Requiere la apertura de galerías para acceder a víctimas.
+5.  **Espacio Inundado o Embarrado**: Similar al espacio relleno, pero cubierto de agua o lodo, con muy bajas probabilidades de supervivencia. La primera medida es evacuar el agua.
+6.  **Espacio Estratificado**: Recinto con escombros estratificados y comprimidos, donde los muros permanecen en pie. Las víctimas se encuentran entre los estratos.
+7.  **Tapón de Escombros**: Los escombros bloquean las zonas de acceso. Riesgos de asfixia, escapes de gas o ahogamiento. Es vital verificar la estabilidad de los escombros antes de desalojarlos.
+8.  **Local Impactado**: Una estancia o edificio que ha sufrido una explosión y conserva su forma inicial, pero su solidez es dudosa. Puede haber colapsos parciales. Se debe proceder con precaución para evitar colapsos adicionales.
+9.  **Nido de Golondrinas**: El suelo o forjado resiste, pero las paredes y el techo colapsan. El acceso es difícil y peligroso, requiriendo equipos de salvamento en altura.
+10. **Escombros Adosados al Exterior**: Acúmulos de escombros que se precipitan fuera del edificio, formando un montón compacto a lo largo de la fachada. Las víctimas pueden haber sido arrastradas.
+11. **Escombros Dispersos en el Exterior**: Escombros proyectados fuera del edificio y dispersos en la vía pública, dificultando el acceso. Se deben buscar indicios de presencia humana.
+12. **Cono de Escombros**: Montón de escombros de forma cónica resultado de un derrumbe total. La supervivencia es casi nula. La búsqueda y el salvamento se realizan desde arriba, o mediante galerías desde sótanos adyacentes.
+
+## III. Fases y Tácticas de Intervención en Estructuras Colapsadas
+
+Las intervenciones en estructuras colapsadas se organizan en fases siguiendo un protocolo estandarizado para optimizar la eficacia y seguridad del personal.
+
+### A. Fases de la Operación BREC
+
+1.  **Preparación**: Implica la formación y entrenamiento continuos de todo el personal interviniente.
+2.  **Activación, Registro y Asignación**: Se caracteriza por la necesidad de gran cantidad de personal y equipos, una planificación rigurosa de turnos de relevo, y el uso de herramientas variadas. Requiere la coordinación entre todos los participantes.
+3.  **Intervención**: Ejecución de las tareas de rescate.
+4.  **Desmovilización**: Proceso inverso a la activación, planificado para retirar recursos y personal de forma segura, evitando riesgos innecesarios.
+5.  **Debriefing (Reunión Posterior)**: Análisis de los problemas surgidos y reinterpretación de las casuísticas para la mejora continua.
+
+### B. Etapas de Intervención
+
+1.  **Asegurar la Escena**:
+    *   **Objetivo**: Establecer zonas seguras de trabajo.
+    *   **Acciones**: Análisis de la estabilidad estructural, identificación de puntos inestables, y trabajo desde zonas seguras.
+
+2.  **Evaluación Inicial**:
+    *   **Objetivo**: Reconocimiento eficaz y recopilación de datos para organizar las tareas.
+    *   **Acciones**:
+        *   **Recopilación de información**: Tipo de construcción, origen del siniestro (estático/dinámico), tipo de derrumbe, localización de huecos de vida, accesos, elementos dañados, riesgos adicionales (electricidad, gas, agua, combustibles), causas.
+        *   **Establecimiento del Puesto de Mando Avanzado (PMA)**: Centro de coordinación para todos los grupos intervinientes.
+        *   **Establecimiento del Plan de Actuación e Intervención**: Asignación de tareas a los grupos (fuerza, sanitarios, control, seguridad).
+        *   **Zonificación del Área de Trabajo**: Se delimitan:
+            *   **Zona Caliente (ZC)**: Área del colapso, riesgo para la población, máxima protección personal para intervinientes.
+            *   **Zona Templada (ZT)**: Contigua a la ZC, riesgo mínimo o nulo, para equipos de apoyo, mando, vehículos.
+            *   **Zona Fría (ZF)**: Fuera de ZT, para descanso, reposición, sanitarios, etc.
+            *   **Zona de Descontaminación**: Aísla el riesgo y es el único punto de entrada/salida de la ZC.
+        *   **Asignación de funciones**: El mando de intervención asigna roles a los equipos especializados (búsqueda, señalización, estabilización, perforación). La comunicación y coordinación son esenciales.
+
+3.  **Búsqueda, Acceso y Rescate de Heridos**:
+    *   **Prioridad**: Rescate de víctimas con vida. La probabilidad de supervivencia disminuye exponencialmente con el tiempo (alta en las primeras 24 horas, remota después de 96-120 horas).
+    *   **Búsqueda**:
+        *   **Visual/Superficial**: Inicialmente realizada por vecinos, luego sistemáticamente por equipos de rescate.
+        *   **Técnicas de Búsqueda Física (Llamada-Escucha)**: Llamadas a viva voz y golpes sobre estructuras, seguidos de periodos de silencio total para escuchar respuestas.
+        *   **Técnicas de Búsqueda Sistemática**: Patrones de avance lineal, circular o por habitaciones múltiples para cubrir toda el área.
+        *   **Técnicas Especializadas**:
+            *   **Geófonos**: Amplifican sonidos, detectan víctimas a hasta 10 metros.
+            *   **Cámaras Térmicas**: Detectan radiación infrarroja, útiles en incendios y búsqueda de puntos calientes.
+            *   **Microcámaras de Vídeo**: Para inspeccionar espacios inaccesibles.
+            *   **Fonendoscopios**: Amplifican sonidos a corto radio.
+            *   **Medios de Fortuna**: Bidones de agua para amplificar sonidos.
+            *   **Búsqueda Canina**: Perros adiestrados con superior olfato. Requieren autonomía, motivación y concentración. Pautas de manejo estrictas (no comida, no juego en zona de trabajo, asistencia en transporte).
+    *   **Acceso y Rescate**:
+        *   **Perforación de Elementos Verticales**: En derrumbes con elementos verticales en pie. Se valora el esquema estructural, la rigidez y el material. Se realizan butrones (huecos triangulares o cuadrados de al menos 0.5 m²) a 40-50 cm del suelo, con apuntalamiento previo.
+        *   **Perforación de Elementos Horizontales**: En colapsos de forjados. Se perforan bovedillas o casetones, evitando nervios y capiteles. Se realiza apuntalamiento previo y posterior.
+        *   **Rescate Mediante Galerías**: En sótanos o zonas bajo rasante. Se realiza de arriba abajo con herramientas manuales, sin taladrar muros.
+
+### C. Señalización de las Zonas Inspeccionadas (INSARAG)
+
+Para una gestión eficiente, se utiliza un sistema de señalización estandarizado:
+
+1.  **Identificación General**:
+    *   Cada escenario se identifica individualmente con información como dirección, puntos de referencia, número de pisos, coordenadas GPS y orientación de la estructura.
+    *   La fachada principal se denomina "lado 1", y el resto se numeran en sentido horario.
+    *   El interior se divide en cuadrantes (A, B, C...) y las plantas se designan como "planta baja" (0), "piso 1", "sótano 1", etc.
+2.  **Señalización de Riesgos**:
+    *   **Cintas de balizamiento**: Delimitan zonas de trabajo, descanso, espera, peligrosas o inseguras.
+    *

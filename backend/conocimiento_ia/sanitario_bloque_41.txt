@@ -1,0 +1,77 @@
+# Esterilización y Aspectos Médico-Legales en Intervenciones de Emergencia
+
+La **esterilización** se define como el proceso técnico de saneamiento destinado a eliminar la totalidad de los microorganismos patógenos, incluyendo sus esporas. Es crucial entender que la eficacia de la esterilización está directamente supeditada a una reducción efectiva de la carga microbiana inicial a través de una descontaminación y limpieza previas; por tanto, no se considera una medida aislada, sino la etapa final de un proceso integral. Para que un método de esterilización sea óptimo, debe poseer un máximo poder de destrucción, ser seguro y de manejo sencillo, inocuo para los profesionales, de acción rápida y, si es posible, ofrecer un equilibrio entre coste y beneficio. Un material puede estar desinfectado sin estar estéril, pero todo material estéril se considera desinfectado.
+
+## Métodos de Esterilización
+
+La esterilización se clasifica principalmente en métodos químicos y físicos.
+
+### Métodos Químicos
+
+Entre los métodos químicos, destacan el **glutaraldehído**, el **formaldehído** y el **óxido de etileno**. Este último, disponible en forma de gas (puro o en mezcla), actúa alterando los ácidos nucleicos celulares. No obstante, el material esterilizado con óxido de etileno requiere una aireación forzada en cabinas específicas debido a su toxicidad. Entre sus inconvenientes, se incluye su uso restringido a materiales termosensibles con una temperatura máxima de 50 ºC, su considerable toxicidad con efectos carcinógenos y su capacidad de irritar piel y mucosas.
+
+### Métodos Físicos
+
+Los métodos físicos, por su parte, se dividen en térmicos y por radiaciones.
+
+*   **Calor Seco**: Incluye técnicas como el flameado, que implica aplicar una llama directamente sobre un objeto, y la incineración, empleada en hornos crematorios para la eliminación de residuos. Asimismo, se encuentran los hornos Pasteur, utilizados para material de laboratorio específico como cerámica y vidrio, aunque su principal desventaja es la prolongada duración del proceso.
+*   **Calor Húmedo**: A nivel hospitalario, el **autoclave** o estufa de vapor es la opción preferente. Consiste en un recipiente cerrado de acero inoxidable que funciona mediante el cambio de estado del agua a vapor, lo que permite un aumento controlado de temperatura, tiempo y presión. Las temperaturas habituales en autoclave son 121 ºC y 134 ºC. Para alcanzar 120-126 ºC, el tiempo de exposición es de 15-20 minutos, mientras que para 134-140 ºC (material clínico), oscila entre 3 y 7 minutos. Es importante destacar que el "tiempo de meseta" comienza una vez que la temperatura es homogénea en toda la cámara, lo que eleva la duración total del ciclo a 45-60 minutos. El material destinado a la esterilización en autoclave debe sellarse herméticamente en bolsas de plástico especiales mediante máquinas termoselladoras.
+*   **Radiaciones**: Se emplean radiaciones ionizantes debido a su elevada capacidad letal y germicida. Sin embargo, presentan el inconveniente de sus potenciales efectos carcinógenos y la necesidad de instalaciones específicas y costosas.
+
+## Controles de Esterilización
+
+Para verificar la correcta ejecución de cada ciclo de esterilización, se implementan tres tipos de controles: físicos, químicos y biológicos.
+
+*   Los **controles físicos** se realizan en cada ciclo y monitorean parámetros como el tiempo, la temperatura y la presión, aunque por sí solos no garantizan el 100% de la esterilidad.
+*   Los **controles químicos** también se efectúan en cada ciclo, utilizando dispositivos o tiras reactivas que cambian de color con la temperatura. Se colocan tanto en el exterior como en el interior de los envases o cajas que contienen el material, pero sus resultados deben ser confirmados con los controles biológicos.
+*   Los **controles biológicos** son considerados los verdaderos indicadores de esterilidad, ya que informan sobre la eficacia letal del ciclo. Su frecuencia de uso depende de los protocolos hospitalarios, realizándose generalmente a diario en un ciclo aleatorio. Consisten en esporas bacterianas encapsuladas que, tras ser introducidas en el autoclave, se cultivan durante 24 horas. Si el cultivo resulta positivo, todo el material esterilizado en ese equipo desde el último control biológico negativo se considera no estéril y, si es posible, debe ser recuperado y reesterilizado.
+
+## Aspectos Médico-Legales en la Atención Sanitaria
+
+La actuación de los profesionales sanitarios está enmarcada en una serie de **aspectos médico-legales** fundamentales, basados en la legislación española, como la Ley 41/2002 de 14 de noviembre, reguladora de la autonomía del paciente, y la Ley 1/2000 de 7 de enero de Enjuiciamiento Civil.
+
+El **acto médico** se define como el conjunto de acciones dirigidas a la recuperación del paciente, realizadas por un profesional de la salud. Esto incluye desde la administración de oxígeno y técnicas de inmovilización hasta maniobras de RCP y traslados sanitarios, y está sujeto a la legislación vigente, independientemente de si lo realiza un médico, una enfermera o un técnico.
+
+### Obligación de Asistencia y Principios Éticos
+
+La dotación tiene la **obligación legal de prestar asistencia** al paciente. Esta actuación debe fundamentarse en el respeto a la dignidad y la vida de la persona, sin discriminación por motivos de raza, sexo, ideología o condición social, y debe caracterizarse por el conocimiento técnico, la prudencia, la idoneidad, el sentido humanitario y la eficacia. La responsabilidad criminal o delito por el agravamiento de una situación solo se producirá si hay **dolo** (intención consciente de causar daño) o **culpa** (negligencia por falta de prudencia o desconocimiento que causa un daño previsible sin intención). No atender a un paciente, si se produce un daño evitable, puede implicar un delito de **comisión por omisión**. Asimismo, la dotación es responsable de los **efectos personales** del paciente hasta su entrega a la autoridad competente.
+
+### Derechos del Paciente
+
+La **Ley 41/2002** establece derechos y obligaciones cruciales en materia de información y documentación clínica.
+
+#### Derecho a la Información
+
+Todo paciente tiene **derecho a conocer la información** disponible sobre su estado de salud, la cual debe ser comunicada de forma comprensible. Esta información debe ser proporcionada por todos los profesionales que atienden al paciente o aplican un procedimiento específico, identificando a los responsables y describiendo los objetivos y beneficios del tratamiento. La información se dirige al paciente (incluso menores o discapacitados, adaptando el lenguaje), a las personas autorizadas por él, y al paciente y su representante legal en casos de incapacidad o minoría de edad (si el menor es mayor de 12 años, se escuchará su opinión).
+
+Existen **excepciones para omitir la información**:
+*   La **necesidad terapéutica** o **privilegio terapéutico**, que permite actuar profesionalmente sin informar si el conocimiento de la situación pudiera perjudicar gravemente la salud del paciente.
+*   En situaciones de **urgencia vital**, se informará a familiares o allegados; si esto no es posible, se actuará sin proporcionar la información.
+*   La **renuncia del paciente** a recibir información, siempre que quede documentada y no perjudique la salud del paciente, de terceros o la salud pública.
+
+#### Consentimiento Informado
+
+El **consentimiento informado** es el acto de voluntad libre, voluntaria y consciente del paciente, manifestada tras recibir información adecuada sobre un acto que afecta su salud. Por norma general, el consentimiento será verbal y se registrará en el informe asistencial. No obstante, se requerirá **consentimiento escrito** para procedimientos diagnósticos/terapéuticos invasivos, intervenciones quirúrgicas o aquellos que impliquen un riesgo o una repercusión negativa previsible. El consentimiento solo será válido si el paciente ha comprendido la información y ha accedido libremente.
+
+Existen **excepciones al consentimiento informado**:
+*   Cuando existe un **riesgo para la salud pública**.
+*   Ante una **necesidad terapéutica**.
+*   Ante un **riesgo inmediato grave** para la integridad física o psíquica del enfermo.
+*   Cuando el paciente posee **voluntades anticipadas** que impiden una medida terapéutica específica, como el rechazo a maniobras de RCP en una parada cardiorrespiratoria, su voluntad debe ser respetada.
+*   Cuando el paciente **no esté capacitado** para otorgar el consentimiento, siendo el tutor legal quien decida en el caso de incapacitados o el representante legal en menores de edad (escuchando al menor si tiene más de 12 años).
+
+El consentimiento previamente otorgado puede ser **revocado** en cualquier momento, siempre que la revocación conste por escrito, lo que impedirá iniciar o continuar el acto médico.
+
+#### Alta Voluntaria
+
+Si un paciente rechaza una actuación, el equipo asistencial debe ofrecerle **alternativas disponibles**, dejándolo reflejado en el informe asistencial. Ante negativas reiteradas de un paciente informado y con plena capacidad, se propondrá el **alta voluntaria**, un documento en el que el paciente reconoce haber sido informado de los riesgos y asume la responsabilidad de su decisión. Si el paciente se niega a firmar, se contactará al director del servicio para dictaminar el **alta obligatoria**, y se informará a la autoridad judicial competente. El **traslado forzoso** o la **contención mecánica** de un paciente solo puede realizarse bajo prescripción facultativa y en situaciones excepcionales de urgencia, como internamiento psiquiátrico por peligro para sí mismo o terceros (Ley de Enjuiciamiento Civil, Artículo 763). La contención mecánica es un último recurso, requiere prescripción facultativa inmediata y debe ser comunicada (Recomendación del Comité de Ministros de 22 de Septiembre de 2004).
+
+#### Derecho a la Intimidad y Confidencialidad
+
+Toda persona tiene derecho a la **confidencialidad** de sus datos de salud, no pudiendo ser revelados sin autorización expresa, salvo excepciones legales (Artículo 7). El profesional sanitario tiene la obligación de mantener esta confidencialidad.
+
+La **revelación de datos sin consentimiento** solo está permitida en casos específicos:
+*   Cuando la cesión está **autorizada por ley**.
+*   Si la comunicación se dirige al **Defensor del Pueblo**, el **Ministerio Fiscal**, **jueces o tribunales**, o el **Tribunal de Cuentas** en el ejercicio de sus funciones.
+*   Si el destinatario son **instituciones autonómicas** con funciones análogas.
+*   Cuando es necesaria para la **prevención de un peligro real y grave para la seguridad pública** o la represión de infracciones penales en una investigación judicial (las Fuerzas y Cuerpos de Seguridad del Estado deben justificar y documentar su petición). La no atención a estos requerimientos por parte del profesional es un delito (Artículo 412 del Código Penal).

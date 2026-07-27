@@ -1,0 +1,87 @@
+## Patologías Estructurales en Edificaciones y su Evaluación para Intervenciones de Emergencia
+
+La integridad estructural de una edificación puede verse comprometida por diversas patologías que exigen un conocimiento técnico riguroso para su evaluación y manejo, especialmente en situaciones de emergencia. Estas afecciones pueden clasificarse según su origen en causas constructivas, vinculadas al terreno y la calidad de los materiales, o causas accidentales como incendios e impactos. El reconocimiento y la identificación precisa de estas patologías son cruciales para determinar las tácticas de intervención más adecuadas.
+
+### Patologías por Causas Constructivas y del Terreno
+
+Las patologías asociadas a la calidad de la construcción y las características del terreno abarcan un amplio espectro de problemas que pueden manifestarse de distintas maneras:
+
+#### Humedades y sus Efectos
+
+Las humedades representan una de las patologías más comunes, definiéndose como la presencia de agua no deseada en los materiales o elementos constructivos, superando el nivel de equilibrio hídrico con el ambiente. Esta situación compromete la durabilidad de los componentes y puede clasificarse según su origen:
+
+*   **Humedades de origen natural:** Se subdividen en capilaridad y freáticas.
+    *   La **humedad por capilaridad** se produce cuando el agua del terreno asciende por la red de poros de los muros y tabiques en contacto con el suelo o plantas bajas, buscando el equilibrio con la humedad ambiental. Su altura y forma dependen de la porosidad del material y la presión atmosférica, siendo común en edificaciones antiguas con materiales porosos.
+    *   Las **humedades freáticas** están relacionadas con alteraciones en las características hidráulicas del terreno, como lluvias intensas que elevan el nivel freático, afectando la impermeabilización de las edificaciones en contacto con el subsuelo.
+    Ambas se distinguen en que las capilares afectan a elementos en contacto con el terreno (bajo o sobre rasante), mientras que las freáticas inciden en elementos constructivos del cerramiento de plantas bajo rasante.
+*   **Humedades ambientales:** Incluyen las humedades por filtración y condensación.
+    *   La **humedad por filtración** es el resultado de la absorción de agua de fenómenos meteorológicos (lluvia o nieve) a través de fachadas, cubiertas, terrazas o encuentros de muros. Se difunde por capilaridad, descendiendo por gravedad desde las zonas altas del edificio.
+    *   La **humedad por condensación** se genera por el cambio de estado del vapor de agua contenido en el aire al entrar en contacto con superficies interiores frías (condensación superficial) o dentro de los paramentos (condensación intersticial). La aparición de esta humedad se produce cuando la temperatura superficial desciende por debajo del punto de rocío.
+*   **Humedades de origen antrópico:** Son causadas por la actividad humana y se dividen en humedades de obra y accidentales.
+    *   Las **humedades de obra** se deben al agua empleada intensamente durante la construcción, cuyo excedente debe evaporarse hasta alcanzar el equilibrio hídrico.
+    *   Las **humedades accidentales** son causadas por fallos o roturas en conductos de instalaciones (calefacción, saneamiento, agua sanitaria) embebidos en muros, tabiques o falsos techos.
+    Los síntomas de estas humedades pueden incluir **eflorescencias** (manchas superficiales cristalinas de sales), **criptoeflorescencias** (expansión de sales bajo el revestimiento que causa desprendimientos), **generación de organismos** (musgo, moho por difusión aeróbica de esporas), **disgregación por heladicidad** (aumento de volumen del agua congelada en poros), y **oxidación/corrosión** en metales.
+
+#### Lesiones Mecánicas del Terreno y la Edificación
+
+Los problemas asociados al terreno y la calidad constructiva generan una amplia gama de patologías mecánicas, caracterizadas por una variación sustancial en el reparto de cargas y tensiones:
+
+*   **Adaptación o encaje:** Son lesiones producidas por el acoplamiento de macizos o el asentamiento relativo entre materiales tras la construcción o rehabilitación. Suelen manifestarse como fisuras en los puntos más débiles de los cerramientos (esquinas de huecos, enjarjes), apareciendo poco después de la obra y estabilizándose a los tres meses. Generalmente, no requieren intervención urgente de bomberos.
+*   **Cedimiento o hundimiento:** Implican un descenso de la cimentación o una deformación excesiva del terreno, causado por mala elección del suelo, fallos de diseño/ejecución, cambios imprevistos en el suelo (rotura de colectores, excavaciones cercanas), aumento de cargas de servicio o la presencia de suelos expansivos.
+    *   Los **suelos expansivos** (arcillas ricas en montmorillonita y vermiculita) experimentan cambios de volumen con las variaciones de humedad, causando retracciones y expansiones. Si la carga es inferior a la presión de hinchamiento y la construcción se realiza en época seca, las lluvias posteriores pueden provocar hinchamiento y elevación de la edificación, generando grietas que se reducen al secarse. Un movimiento diferencial significativo entre el centro y el borde de la edificación puede llevar a la ruina.
+    *   En **estructuras adinteladas** (muros de carga con cimentaciones corridas), las grietas suelen ser parabólicas y concéntricas a la zona de mayor cedimiento.
+    *   En **estructuras reticuladas** (pilares sobre zapatas aisladas), el cedimiento del terreno produce grietas rectilíneas, más anchas en la parte superior y que nacen a cierta altura del suelo. Si el cedimiento es central, se denomina *arrufo*; si es lateral, *quebranto* (parcial si afecta una esquina, total si afecta todas).
+    *   Los **problemas de raíces** (crecimiento, deshidratación) pueden generar empujes (grietas escalonadas en muros) o cedimientos (grietas parabólicas invertidas).
+*   **Aplastamiento:** Se define como la reducción de materiales a partículas mínimas, con pérdida total de cohesión y propiedades mecánicas, debido al exceso de carga o mala calidad constructiva.
+    *   Las causas incluyen **exceso de carga**, morteros defectuosos, empleo de materiales de derribo, factores climáticos o vejez.
+    *   En **elementos verticales (pilares)**, se manifiesta por reducción local de espesor, grietas sinuosas, aumento de juntas verticales, sonido hueco al percutir y combado de muros. Las causas son exceso de carga, hormigón deficiente, armadura insuficiente (estribos caídos o abiertos) o disgregación del hormigón por ataque químico.
+    *   En **elementos horizontales (vigas y forjados)**, se observa en forjados de hormigón armado, con fisuras grandes y rotura brusca del hormigón.
+*   **Rotación:** Es la desviación de elementos constructivos de su plano vertical original, clasificada como interna (hacia el interior) o externa (hacia el exterior).
+    *   Causas principales incluyen **cedimiento del plano de asiento** (muro girando y despegándose de muros contiguos) o **empujes laterales** (por rotura o inexistencia de arriostramientos horizontales/inclinados). Estos empujes pueden deberse a cerchas/arcos no atirantados, dilatación estructural o desplazamientos/aguas subterráneas del terreno.
+    *   Los **síntomas** externos son grandes grietas verticales con charnela en la cimentación. Internamente, en forjados, las viguetas perpendiculares al muro que gira muestran fisuras horizontales, y las paralelas presentan grietas horizontales. Los muros con tabiquería pesada pueden mostrar grietas parabólicas invertidas.
+*   **Movimiento del terreno:** Se refiere a las solicitaciones generadas por los estratos del terreno.
+    *   **Movimientos de ladera:** Desplazamiento de un estrato superior seco sobre uno fluido, con superficie de rotura. Tipologías: desprendimientos (ángulo >76º), vuelcos (rotación con eje bajo el centro de gravedad, 45-76º), deslizamientos/rodaduras (desplazamiento sobre una superficie, A<45º) y flujos (masa movida como fluido viscoso).
+    *   **Subsidencias y colapsos:** Hundimientos lentos y progresivos (subsidencia) o bruscos y rápidos (colapso) del terreno, a menudo por desaparición de la compactación de un estrato inferior.
+
+### Patologías por Causas Accidentales
+
+Además de las causas constructivas y del terreno, las edificaciones pueden sufrir patologías graves debido a accidentes:
+
+#### Incendio
+
+El fuego afecta la estabilidad estructural de los materiales de forma diferenciada:
+
+*   **Acero:** Material muy elástico con alta conductividad térmica y alto coeficiente de dilatación. Pierde resistencia rápidamente a partir de los 300ºC (disminuye hasta 2/3 entre 500-600ºC, 1/3 entre 600-700ºC, colapso inminente a 538ºC o "punto crítico"). Las dilataciones pueden causar empujes que colapsen la estructura. La disipación del calor retrasa el calentamiento, pero una vez caliente, el enfriamiento brusco también puede causar daños. Los perfiles esbeltos y abiertos son más sensibles al colapso por pandeo.
+*   **Hormigón:** Material de alta masividad y baja conductividad térmica. No es combustible ni propaga el incendio. Pierde resistencia a partir de los 380ºC, principalmente por falla termomecánica (pérdida de adherencia entre hormigón y armadura) y termohidráulica (aumento de presión de vapor de agua interna que causa *spalling* o desprendimiento explosivo de capas). La pérdida de resistencia se correlaciona con cambios de color (gris original hasta 200-300ºC, rojizo hasta 300-600ºC, segundo gris con partículas rojas hasta 600-900ºC, amarillo pálido desde 900ºC).
+*   **Fábrica (ladrillo, piedra):** Alta masividad y baja conductividad térmica. No es combustible. Soporta bien el fuego, pero las grandes diferencias de temperatura entre caras expuestas y no expuestas pueden causar combamiento y rotura de aristas. Los muros pierden arriostramiento tras colapso de forjados.
+*   **Madera:** Baja masividad y baja conductividad térmica. Es combustible y contribuye a la carga térmica. Pierde sección por carbonización (aproximadamente 1 cm cada 15 minutos). Mantiene el 60% de su resistencia si la pérdida de sección es menor o igual al 20%; si la reducción está entre 20-40%, requiere refuerzo; si supera el 40%, es inestable. Sus uniones (nudos) son los puntos débiles.
+
+#### Impacto
+
+El riesgo de impacto se refiere a la colisión violenta de un objeto con una edificación. Su cuantificación se basa en el CTE DB SE AE y considera:
+
+*   **Masa y velocidad** del cuerpo impactante.
+*   **Capacidad de deformación y amortiguación** del cuerpo impactante y del elemento afectado.
+*   **Valores de cálculo para vehículos:** Hasta 30 kN de peso total, se aplican 50 kN en dirección paralela a la vía y 25 kN en dirección perpendicular (no simultáneamente).
+*   **Carretillas elevadoras:** Fuerza estática equivalente de 5 veces su peso máximo autorizado.
+*   **Impacto exterior** (vehículos) o **interior** (circulación de vehículos).
+Los cerramientos prefabricados de naves industriales son particularmente vulnerables, ya que, si bien originalmente estaban encastrados para mejorar su estabilidad y resistencia al fuego, los sistemas actuales de grapas y tacos sin soldadura carecen de resistencia al fuego y a la corrosión, lo que puede llevar a un colapso rápido ante un incendio o impacto.
+
+### Evaluación de la Seguridad y Estados de Ruina
+
+La seguridad de una edificación se evalúa en una escala de confianza que va desde el **estado de confianza** (sin riesgos), pasando por el **estado de precariedad** (deficiencias sin peligro inmediato), hasta el **estado de peligro/ruina**, donde la estructura ya no soporta las acciones para las que fue diseñada.
+
+La **ruina** es un concepto legalmente definido que implica la inviabilidad de una edificación. Puede ser:
+*   **Funcional:** La edificación es inútil para su uso, aunque estructuralmente estable.
+*   **Constructiva:** Se subdivide en:
+    *   **Potencial o Incipiente:** Primeros vicios constructivos con evolución grave si no se corrigen, sin afectar la estabilidad inmediata.
+    *   **Propiamente dicha o grave:** Deficiencias que impiden el uso y habitabilidad normal, requiriendo reparaciones costosas y precauciones especiales.
+    *   **Física o inminente:** Colapso y derrumbamiento inminente, con reparación inoperante o antieconómica.
+*   **Económica:** El coste de reparación supera el 50% del valor actual del edificio (sin suelo).
+*   **Técnica:** La consolidación es imposible por la afectación generalizada de la estructura, requiriendo reconstruir más de un tercio de sus elementos fundamentales.
+
+Los **síntomas primarios** de ruina son las **grietas y fisuras**, cuya importancia se evalúa por su forma, posición, amplitud y estado. Las **fisuras** son superficiales (<1 mm) y suelen ser un problema estético. Las **grietas** son discontinuidades materiales que interrumpen la transmisión de esfuerzos y reducen la sección estructural, indicando una patología grave. Las grietas "vivas" tienen bordes limpios y color fresco, mientras que las "muertas" están oscurecidas y estables.
+
+Los **síntomas secundarios** incluyen deformaciones (pandeos, deflexiones, abombamientos), disgregación de materiales, empujes y descuadre de huecos. La presencia de grietas o fisuras en puntos de máxima tracción o en encuentros rígidos, así como su orientación (perpendicular a la tracción, paralela a la compresión), son indicadores clave para comprender la patología.
+
+En resumen, la evaluación estructural para bomberos debe ser rápida, precisa y exhaustiva, permitiendo una intervención eficaz que priorice la seguridad del personal y las víctimas, así como la mitigación de los riesgos para evitar un colapso mayor.

@@ -1,0 +1,73 @@
+## Bombas Centrífugas para Servicios de Extinción y Emergencias: Funcionamiento y Modelos Específicos
+
+Las **bombas centrífugas** son equipos esenciales en los servicios de extinción de incendios y emergencias, valoradas por su rendimiento, presión constante, sencillez constructiva y flexibilidad de regulación. Su función principal es transformar la energía mecánica del motor del vehículo en energía hidráulica, permitiendo así impulsar líquidos a presiones y caudales adecuados para las distintas operaciones. Aunque requieren un cebado previo, a diferencia de las bombas de desplazamiento positivo que son autoaspirantes, su fiabilidad y bajo mantenimiento las han convertido en el estándar.
+
+### Funcionamiento y Etapas
+
+El proceso de las bombas centrífugas se desarrolla en fases clave. Primero, el **líquido entra axialmente** por el tubo de aspiración al rodete, donde los álabes le confieren una rápida rotación, acelerándolo y proyectándolo centrífugamente hacia el exterior. Seguidamente, este líquido a alta velocidad ingresa en un **difusor o colector** con salida tangencial (conocido como voluta), donde la energía cinética se convierte en energía potencial, es decir, en presión, y es dirigida hacia las salidas de la bomba.
+
+Las bombas centrífugas se clasifican por el número de **etapas o impulsores** que incorporan, determinando su capacidad de carga:
+*   Las bombas de **una etapa** son idóneas para servicios de baja carga, ya que poseen un único impulsor.
+*   Las de **dos etapas** están equipadas con dos impulsores en serie, adecuadas para cargas medias.
+*   Las de **múltiples etapas** incluyen tres o más impulsores en serie, diseñadas para servicios de alta carga.
+
+Es importante señalar que la conexión de dos bombas de una sola etapa en serie puede funcionar como una bomba de dos etapas. Las presiones alcanzables varían; una bomba de una etapa puede generar entre 18 y 20 kg/cm², mientras que una de dos etapas puede superar los 20-30 kg/cm². Para contrarrestar las **fuerzas radiales y axiales** elevadas que soportan los cojinetes y rodamientos, se emplean diseños como orificios en el centro del rodete para equilibrar la presión, rodetes de doble cara o la disposición de etapas en oposición en bombas multietapa.
+
+### Componentes Rotativos
+
+El corazón de la bomba centrífuga reside en sus componentes rotativos. El **impulsor o rodete** es la pieza giratoria principal que acelera el fluido. Se compone de álabes de diversas formas, gira dentro de una carcasa circular y está acoplado a un eje que lo impulsa. La anchura axial del rodete influye directamente en la capacidad de caudal, mientras que un mayor número de álabes mejora la suavidad del flujo, el control direccional y minimiza las turbulencias. Por otro lado, el **eje** tiene como función principal transmitir la rotación y soportar los álabes, manteniendo una deflexión mínima entre las partes giratorias y estacionarias. Las mangas y juntas del eje son cruciales para su protección y el movimiento torsional.
+
+### Características Específicas de Bombas Centrífugas para Bomberos
+
+Las bombas centrífugas para bomberos presentan particularidades debido a la naturaleza de su uso. Su **caudal nominal** suele ser de 10 bar de presión, con una altura de aspiración de 6 metros, utilizando un mangote de 8 metros con filtro, y su capacidad se mide en metros cúbicos por hora (m³/h). Todas estas bombas son de **aspiración axial**, lo que minimiza las pérdidas de carga.
+
+Se caracterizan por una **variabilidad en los márgenes de funcionamiento** (caudal y presión) y la capacidad de aspirar agua desde cotas inferiores. Generalmente, son de **dos etapas**, alta y baja presión. La **alta presión** (hasta 40 atm) es eficaz para la extinción mediante el efecto niebla (gotas pequeñas y alta absorción de calor), aunque con caudales inferiores a la baja presión (12-14 atm).
+
+La toma de fuerza (PTO) del motor del vehículo para accionar la bomba puede ser de dos tipos:
+*   **Posterior a la caja de cambios:** Requiere que el vehículo esté en marcha para que la bomba funcione, aunque para uso estacionario la caja de transferencia debe estar en punto muerto. Es común elegir marchas cortas y tracción total para mejorar el rendimiento. Este sistema presenta un menor rendimiento y mayor desgaste.
+*   **Anterior a la caja de cambios:** Este sistema, cada vez más extendido por sus ventajas, intercala la toma de fuerza entre el motor y la caja de cambios, permitiendo operar la bomba con el vehículo en punto muerto y estableciendo una relación directa entre las revoluciones del motor y el giro de la bomba.
+
+En operaciones con el vehículo en movimiento, se prioriza una velocidad cómoda para el bombero en la punta de lanza, seleccionando las marchas más cortas para aumentar la presión sin variar la velocidad del vehículo.
+
+Los sistemas de **cebado** son fundamentales para iniciar la operación de la bomba:
+*   **Efecto Venturi:** Utiliza los gases de escape del motor para crear una depresión que aspira el aire de los conductos de aspiración.
+*   **Anillo de agua:** Emplea agua para generar vacío en los conductos de aspiración. Se activa mediante un embrague electromagnético y puede incluir un depósito auxiliar de agua para asegurar su funcionamiento continuo.
+*   **Pistón alternativo:** Presente en bombas como las Rosenbauer, genera vacío sin necesidad de agua, siendo insensible a las bajas temperaturas.
+
+### Modelos de Bombas Centrífugas Específicas
+
+**Bomba Rosenbauer:**
+*   **Construcción:** Incorpora rodetes y difusores de alta y baja presión en un cuerpo y un eje común, con una caja multiplicadora integrada. El cebado se realiza mediante un sistema de pistón de doble efecto.
+*   **Datos técnicos:** Capacidad de aspiración de 4.8 metros con mangote de 125 mm de diámetro y 3 metros de profundidad en 7 segundos. Rendimiento en baja presión de 3000 l/min a 10 bar, y en alta presión de 400 l/min a 40 bar, con un régimen máximo de 4200 rpm en el eje de bomba. Admite entrada de hasta 1650 rpm. El sentido de giro es derecha a izquierda con opción inversa. Fabricada en aleación ligera resistente a la corrosión. Su diseño con rodetes opuestos en alta y baja presión asegura un equilibrio axial.
+*   **Cebador:** Sistema de pistón de doble efecto, activado por correa dentada desde la caja de engranajes, que crea vacío para aspirar agua y eliminar el aire de la bomba.
+*   **Caja de engranajes:** Transmite la potencia del motor del vehículo a la bomba a través de una toma de fuerza.
+*   **Refrigeración:** El refrigerante del vehículo circula por una cámara independiente, enfriándose con el caudal de agua de la bomba antes de retornar al radiador.
+*   **Válvula selectora ND-HD/HD:** Permite seleccionar entre baja presión (ND) o la combinación de alta y baja presión (ND-HD), lo que optimiza el rendimiento y permite la conexión del proporcionador de espuma y los carretes de pronto socorro.
+
+**Bomba Godiva Prima P2-3010:**
+*   **Construcción:** Fabricada completamente en bronce industrial con eje de acero inoxidable, rodetes de baja y alta presión montados en el mismo eje. Utiliza un sistema de cebado por anillo de agua que no requiere aporte externo.
+*   **Datos técnicos:** Capacidad de aspiración de 9 metros en 30 segundos bajo condiciones normales (7.8 m de altura manométrica, 40°C, 760 mm de Hg), superando la norma UNE 23900. Rendimiento de 3500 l/min a 8 bar en baja presión y 350 l/min a 35 bar en alta presión. Régimen máximo de 3500 rpm. Sentido de giro derecha a izquierda con opción inversa.
+*   **Cebador:** Bomba de anillo de agua accionada por la bomba principal mediante un embrague electromagnético, con un depósito auxiliar de agua para garantizar su funcionamiento.
+*   **Refrigeración:** El motor se refrigera desviando el agua del radiador a través de un intercambiador de calor integrado en la bomba, impidiendo su mezcla con el agua de impulsión.
+*   **Válvula selectora:** En posición cerrada (palanca a la derecha), proporciona baja presión en todas las salidas excepto los carretes de pronto socorro. En posición abierta (palanca a la izquierda), suministra presión a los carretes de pronto socorro y baja presión en el resto de salidas.
+
+**Bomba Barribi MAP 20:**
+*   **Construcción:** De bronce y eje de acero inoxidable, con boca de aspiración de 100 mm y dos salidas de baja y dos de alta presión. Incorpora un multiplicador de engranajes helicoidales en baño de aceite (relación 30/18) y un multiplicador intermedio (relación 4/35), permitiendo plenas prestaciones a velocidades de traslación moderadas.
+*   **Datos técnicos:** Rendimiento de 1800 l/min a 8 bar en baja presión y 250 l/min a 40 bar en alta presión. Altura máxima de aspiración de 9.5 m con un tiempo de cebado de 20 segundos.
+*   **Cebador y Refrigeración:** Emplea el mismo sistema de cebado por anillo de agua y refrigeración que la bomba Godiva.
+*   **Válvula selectora:** Idéntica a la Godiva.
+
+**Bomba Ziegler:**
+*   **Construcción:** Se distingue por tener etapas de alta y baja presión montadas de forma independiente. La alta presión se conecta mediante un embrague electromagnético, lo que alarga la vida útil de la bomba al mantenerla inactiva cuando no es requerida.
+
+**Bomba Magirus MPH 230:**
+*   **Construcción:** Fabricada en aleación ligera resistente a la corrosión, incluso con agua de mar. El eje es de acero inoxidable. Su estanqueidad se garantiza con un sistema de puesta a punto sencillo que no requiere desmontaje.
+*   **Datos técnicos:** Bomba centrífuga de múltiples etapas que permite el lanzamiento indistinto o simultáneo de agua a baja o alta presión. Caudal nominal de 3000 l/min a 10 bar (baja presión) y 400 l/min a 40 bar (alta presión). Cumple las características hidráulicas de la norma UNE Bbc 32/8 y 2.5/35.
+*   **Cebador:** Sistema sin aportación de agua externa, insensible a bajas temperaturas, capaz de cebar hasta 7.8-9 m en menos de 45 segundos. Actúa automáticamente y se bloquea al alcanzar 2 bar de presión en la bomba de baja presión, prolongando su vida útil.
+*   **Refrigeración:** Utiliza el agua de circulación para su enfriamiento, operando continuamente a pleno rendimiento sin sobrecalentamiento, salvo si trabaja en seco o con deficiencias de aspiración (un sensor advierte).
+*   **Control:** Los instrumentos de control y maniobra se encuentran en el puesto trasero para una vigilancia cómoda por parte del operador.
+
+**Bomba Sides FP 2500+HP:**
+*   **Construcción:** Carcasa y rodetes de bronce marino, eje de acero inoxidable. Diseño compacto con bombas de baja (un impulsor) y alta presión (dos impulsores) independientes, montadas en ejes distintos con rodamientos de bolas sellados. Este sistema permite que la falla de una bomba no inutilice la otra.
+*   **Datos técnicos:** Rendimiento de 3200 l/min a 8 bar en baja presión y 400 l/min a 40 bar en alta presión. Régimen máximo de 4250 rpm.
+*   **Cebador:** Automático, con una altura de succión máxima de 7.5 metros en menos de 40 segundos. Inunda la bomba de baja presión para generar presión, bloqueándose el sistema al alcanzar aproximadamente 2 bar.

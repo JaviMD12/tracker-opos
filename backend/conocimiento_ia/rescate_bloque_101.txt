@@ -1,0 +1,62 @@
+## Caracterización del Material Rodante y Sistemas Ferroviarios en Operaciones de Rescate
+
+El rescate en accidentes ferroviarios exige un conocimiento profundo de la estructura y sistemas de los trenes, así como del marco normativo y las competencias de gestión. La comprensión del material rodante, los aparatos de unión, los dispositivos de frenado y los elementos de seguridad resulta fundamental para una intervención eficaz.
+
+### I. Material Rodante Ferroviario
+
+El **material rodante** se refiere a los vehículos que componen un tren, los cuales pueden ser de diferentes tipos según su función y características:
+
+*   **Automotores:** Son trenes autopropulsados, es decir, forman una unidad indivisible con el motor integrado en sus propios coches. Pueden operar con tracción diésel o eléctrica y se utilizan tanto en trenes convencionales como de alta velocidad. Su característica principal es que la propulsión se distribuye en todos los coches, en lugar de depender de una única unidad motora como las locomotoras.
+*   **Coches:** Estos vehículos están diseñados específicamente para el transporte de pasajeros. Dentro de esta categoría, se encuentran los coches litera, los de cafetería y restaurante, los furgones con generadores eléctricos y los coches laboratorio, dedicados a la prueba y mantenimiento de las instalaciones.
+*   **Vagones:** Están destinados exclusivamente al transporte de mercancías y se diseñan para cargas específicas. Ejemplos incluyen vagones tolvas para materiales a granel, cisternas para líquidos, vagones cerrados para mercancías protegidas, y plataformas para transportar automóviles o contenedores.
+
+Además, los vehículos ferroviarios se apoyan sobre **bogies**, que son dispositivos giratorios dotados de dos o más ejes, cada uno con dos ruedas. Estos permiten al vehículo circular por curvas cerradas y se sitizan generalmente en los extremos de cada coche. El vehículo descansa sobre cada bogie a través de un eje vertical y un pivote central. Se distinguen los bogies tractores, que transmiten fuerza de tracción, y los bogies remolcados, que carecen de ella.
+
+### II. Aparatos de Unión entre Vagones
+
+Para mantener la cohesión de los distintos elementos del tren, se emplean diversos sistemas de acoplamiento:
+
+*   **Acoples manuales:** Consisten en un mecanismo donde un operario engancha manualmente una cadena a un gancho de tracción. Incorporan un sistema de topes que tensa la cadena para evitar su desenganche, operando cuando el tren tracciona y actuando como tope al empujar. Los componentes clave son el gancho de tracción, el tensor, la palanca del tensor, los husillos y la brida.
+*   **Acoples semipermanentes:** Estos se utilizan para unir vehículos que forman unidades fijas, como los coches de metro, y se enganchan o desenganchan exclusivamente en el taller.
+*   **Acoples automáticos:** Permiten el enganche automático de los vehículos sin necesidad de intervención manual, siendo comunes en tranvías y automotores que no requieren acoplamiento y desacoplamiento frecuente. Algunos modelos incluyen sistemas integrados de freno eléctrico y mando múltiple.
+
+### III. Dispositivos de Frenos
+
+Los sistemas de frenado son cruciales para la seguridad ferroviaria, especialmente al desacoplar vagones, e incluyen varios componentes:
+
+*   **Tubería de Freno Automático (TFA):** Es una tubería de aire comprimido que recorre todo el tren. La presión en esta tubería se regula desde la cabina de control a través del freno, que a su vez activa los sistemas de frenado en cada vehículo. La presión de aire para aflojar los frenos es de 5 kg/cm², mientras que para una frenada de servicio es de 3,5 kg/cm². En situaciones de emergencia o sobrecarga, puede superarse la presión de 5 kg/cm².
+*   **Tubería de Depósitos Principales (TDP):** Similar a la TFA, también transporta aire comprimido, pero no está controlada por el mando de freno. Suministra aire a las válvulas relé del equipo de frenado (en locomotoras, coches de viajeros y furgones) y a otros dispositivos como las puertas. Los vagones de mercancías generalmente no disponen de esta tubería, y su presión se mantiene entre 7 y 10 kg/cm².
+*   **Semiacoplamientos (SA):** Son dispositivos que conectan las tuberías de aire comprimido entre los vehículos. Los semiacoplamientos de la TFA se sitúan en la parte interna del testero, junto al gancho de tracción, mientras que los de la TDP se localizan en la parte externa, cerca de los topes. Es vital inmovilizar los semiacoplamientos no utilizados en soportes para evitar obstrucciones.
+*   **Grifo de aislamiento:** Permite la continuidad o el cierre de las tuberías de freno (TFA) o de depósitos principales (TDP). El grifo de la TFA es azul y el de la TDP es rojo. En posición "cerrada" (perpendicular al semiacoplamiento), la tubería se corta y se vacía, permitiendo el desacoplamiento seguro. En posición "abierta" (paralela al semiacoplamiento), se asegura la continuidad de las tuberías. Es imperativo cerrarlos para desacoplar los semiacoplamientos y evitar agitaciones de aire o daños a los operarios.
+*   **Freno de estacionamiento:** Este sistema se usa en vagones y consiste en un volante que, al girar un tornillo (husillo), enrosca una tuerca para aplicar el freno. El giro a la derecha frena el vagón.
+
+### IV. Elementos de Seguridad en los Trenes
+
+Todos los trenes que operan en España deben cumplir con la normativa específica, incluyendo las Especificaciones Técnicas de Interoperabilidad (ETI) y de Homologación (ETH), y deben contar con un plan de autoprotección que contemple acciones coordinadas con Protección Civil. Los trenes de viajeros incorporan varios elementos de seguridad:
+
+*   **Extintores de emergencia:** Se distribuyen de manera que ningún viajero se encuentre a más de quince metros de uno. En la cabina tractora, se disponen dos extintores de polvo (6 kg, 27A 233B), y en la sala de máquinas, uno de polvo (6 kg, 27A 233B) y otro de CO2 (2 kg, 34B). Cada coche de viajeros también lleva un extintor de polvo en el maletero de equipajes.
+*   **Ventanas de socorro:** Cada coche de viajeros dispone de al menos dos ventanas de socorro en la zona de pasajeros, señalizadas para su fácil identificación. Estas son de fácil rotura con un martillo y se abren hacia el exterior para permitir la evacuación.
+*   **Escaleras de emergencia:** Se cuentan con dos escaleras de emergencia, ubicadas en el almacén de la cafetería y en la sala de máquinas de la cabeza motriz. Se utilizan para evacuaciones y como pasarelas entre trenes.
+*   **Puertas de acceso:** Disponen de un sistema de emergencia que permite su apertura desde el exterior con una llave de cuadradillo. Las ventanas de las puertas exteriores también sirven como salidas de emergencia. Las puertas de unión entre coches suelen tener juntas intumescentes que proporcionan aislamiento térmico a 150 grados.
+*   **Cuadro eléctrico de instalaciones:** Los cuadros de instalaciones eléctricas de los coches se localizan en las dos primeras cabezas motrices.
+*   **Alumbrado de emergencia:** El sistema se activa automáticamente mediante baterías auxiliares con una autonomía de dos horas en caso de pérdida de tensión en la catenaria.
+*   **Depósitos de combustible:** En automotores eléctricos que utilizan gasoil para alimentar un generador, los depósitos de combustible (hasta 1400 litros por coche) se encuentran generalmente en la parte inferior del vehículo, bajo el bastidor.
+*   **Cable de shuntado:** Es un dispositivo de seguridad que protege a los equipos de trabajo en la vía, impidiendo la llegada de trenes. Se encuentra en los armarios de los coches 1 y 8, según el tipo de tren.
+*   **Pértiga y cable de puesta a tierra:** Complementan el cable de shuntado como dispositivos de seguridad para trabajos en la vía, garantizando la eliminación de riesgos eléctricos.
+
+### V. Red y Gestión Ferroviaria en España
+
+La **red ferroviaria española** se caracteriza por una longitud total de 15.461 km, de los cuales más de 8.000 km están electrificados. Presenta diferentes anchos de vía: el ibérico (1.668 mm), el internacional (1.435 mm) y el métrico o vía estrecha (1.000 mm). Los tipos de vía incluyen vía simple no electrificada, vía simple electrificada, doble no electrificada y doble electrificada. La electrificación se realiza con sistemas de 3.000 voltios en corriente continua para la red convencional, 25.000 voltios en alterna a 50 Hertzios para la alta velocidad, y 1.500 voltios en continua para la red métrica.
+
+La **gestión de los ferrocarriles en España** es competencia exclusiva del Estado en materias que afectan a más de una comunidad autónoma, así como en comunicaciones generales y obras públicas de interés general. No obstante, las comunidades autónomas pueden asumir competencias para los ferrocarriles que operan íntegramente dentro de su territorio.
+
+Las principales **entidades gestoras** a nivel nacional son:
+
+*   **Adif (Administrador de Infraestructuras Ferroviarias de España):** Es una entidad pública empresarial dependiente del Ministerio de Fomento, encargada de la construcción y explotación de las líneas ferroviarias. Posee la mayor parte de la infraestructura española, con 13.945 kilómetros de vías y 1.566 estaciones.
+*   **Renfe Operadora:** También dependiente del Ministerio de Fomento, su misión es ofrecer servicios de transporte de viajeros y mercancías, priorizando la seguridad, calidad, eficiencia y rentabilidad.
+
+A nivel de comunidades autónomas, existen entidades como ETS (Gestor de Infraestructuras Ferroviarias de Euskadi) y Euskotren en el País Vasco, GTP (Gestor de la Red de Transporte y de Puertos de la Generalitat Valenciana) y FGV en la Comunidad Valenciana, IFERCAT (Gestor de las Infraestructuras Ferroviarias de Cataluña) y FGC en Cataluña, y SFM Serveis Ferroviaris de Mallorca en Baleares.
+
+### VI. Gestión de las Emergencias Ferroviarias
+
+La **gestión de las emergencias** en el ámbito ferroviario implica la coordinación de diversas competencias. Adif se encarga de la infraestructura, mientras que Renfe Operadora gestiona los trenes. Para asegurar una operatividad óptima, se establecen puntos de coordinación clave, como el Centro de Protección y Seguridad (CPS), que gestiona las incidencias por zonas; el Puesto de Mando, que regula el tráfico y la energía; el Centro de Control (CECON) de Renfe, operativo 24 horas; el Centro de Autoprotección y Seguridad H24 (CGRH24), que coordina las incidencias de infraestructura; y el Director del Plan de Actuación en Emergencias (DPAE), responsable del plan general. El CGRH24, en particular, centraliza la gestión y coordinación de todas las incidencias 24/7, contando con representantes de todas las áreas funcionales, desde la planificación y gestión de red hasta la seguridad y comunicación.

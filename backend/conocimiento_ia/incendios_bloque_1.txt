@@ -1,0 +1,42 @@
+# Fundamentos del Fuego y la Combustión: Conceptos Esenciales
+
+El estudio del fuego y la combustión es fundamental para la formación en emergencias, ya que proporciona la base para comprender, prevenir y combatir incendios de manera eficaz. Esta disciplina abarca desde los principios más básicos de la materia hasta las complejidades de las reacciones energéticas y sus implicaciones prácticas.
+
+## La Materia y sus Transformaciones
+
+La **materia** está compuesta por **moléculas**, que a su vez se forman por **átomos**. Estos átomos están integrados por **neutrones**, **protones** y **electrones**. El **átomo** se define como la partícula fundamental de la composición química de la materia, caracterizado por un núcleo compacto que contiene protones y neutrones, alrededor del cual orbitan los electrones. Los **protones** poseen carga positiva y su número en el núcleo determina el número atómico de un elemento; los **neutrones** carecen de carga eléctrica; y los **electrones** tienen carga negativa. Cuando dos o más átomos se agrupan, forman una **molécula**, y si estos átomos son de diferentes clases, se denomina **compuesto**. Una **sustancia**, por su parte, es cualquier variedad de materia con características definidas, reconocibles y una composición química invariable, clasificándose en sustancias simples o elementos químicos y sustancias compuestas o compuestos químicos. Por ejemplo, la molécula de agua es H₂O, mientras que el butano es C₄H₁₀.
+
+La **atmósfera** terrestre es una mezcla de gases, donde aproximadamente el 21% es oxígeno y el 79% es nitrógeno, además de un 0.02% de otros gases como el dióxido de carbono, neón, criptón y xenón. Los **gases inertes**, como el nitrógeno y los gases nobles, no reaccionan bajo condiciones normales de presión y temperatura debido a su configuración eléctrica estable.
+
+Las transformaciones de la materia se conocen como **reacciones**, las cuales pueden ser de tres tipos principales:
+*   **Reacciones físicas:** Implican un cambio en el estado de la materia, pero no alteran su composición química ni dan lugar a una nueva sustancia. Las moléculas de los reactivos son idénticas a las de los productos; un ejemplo es la evaporación del agua de estado líquido a gaseoso.
+*   **Reacciones químicas:** Provocan un cambio en la composición química del elemento, transformando los reactivos en productos con propiedades diferentes. En estas reacciones, los elementos constituyentes se conservan, aunque reorganizados en nuevas sustancias. Un ejemplo clásico es la reacción del oxígeno con el hierro para formar óxido de hierro. Durante una reacción química, la energía se conserva, aunque puede liberarse o absorberse. Las reacciones donde se liberan energía en forma de calor se denominan **exotérmicas** y son generalmente espontáneas, como la combustión, dado que los productos resultantes poseen menos energía que los reactivos originales. En contraste, las reacciones que absorben energía del sistema se llaman **endotérmicas**, un ejemplo es la disolución de sal en agua.
+*   **Reacciones nucleares:** Involucran la combinación o transformación de partículas y núcleos atómicos. Se expresan mediante el número atómico y másico de cada especie. Pueden ser endotérmicas o exotérmicas, liberando o absorbiendo enormes cantidades de energía, a diferencia de las reacciones químicas que liberan cantidades relativamente pequeñas. En las reacciones nucleares, pueden participar protones, neutrones, electrones y otras partículas elementales, y su velocidad no se ve afectada por factores como la temperatura o la presión, lo cual sí ocurre en las reacciones químicas. Existen dos tipos principales:
+    *   **Fisión nuclear:** Un núcleo pesado se vuelve inestable al ser bombardeado con neutrones, descomponiéndose en dos núcleos de tamaño similar y liberando dos o tres neutrones, lo que puede generar una reacción en cadena. Este proceso desprende una energía millones de veces mayor que una combustión química en una fracción de segundo.
+    *   **Fusión nuclear:** Dos núcleos de átomos ligeros se unen para formar un núcleo más pesado, liberando energía en forma de rayos gamma y energía cinética.
+
+Las **reacciones de óxido-reducción (redox)** son reacciones químicas que implican una transferencia de electrones. La sustancia que cede electrones se **oxida** (actuando como agente reductor), aumentando su índice de oxidación. La sustancia que capta electrones se **reduce** (actuando como agente oxidante), disminuyendo su índice de oxidación. Estos procesos siempre ocurren de forma simultánea.
+
+## El Fuego y los Incendios
+
+El **fuego** se define, según la norma UNE 23026, como una combustión caracterizada por la emisión de calor, humo y llamas. La **combustión**, a su vez, es una reacción química exotérmica de oxidación rápida en la que un elemento que arde (el **combustible**) se combina con un **oxidante** (generalmente oxígeno atmosférico), desprendiendo calor, luz, humo y gases.
+
+Es crucial distinguir entre fuego e incendio. Según la norma ISO 13943:2001, el **fuego** es una combustión autosoportada que ha sido iniciada deliberadamente con un propósito beneficioso y está controlada en su duración y extensión espacial. En contraste, un **incendio** es una combustión que se propaga de manera incontrolada en el tiempo y el espacio, siendo, por definición, una combustión de aportación incontrolada. Por lo tanto, todo lo que se aplica al concepto de combustión es aplicable tanto al fuego como al incendio.
+
+Las combustiones más frecuentes involucran materias orgánicas que contienen carbono e hidrógeno. Una combustión puede ser:
+*   **Completa:** Se produce cuando hay un suministro abundante de oxígeno (aproximadamente 21%). Los productos principales son dióxido de carbono (CO₂), agua (H₂O) y, si el combustible contiene azufre, dióxido de azufre (SO₂), además de óxidos de nitrógeno (NOₓ) que dependen de la temperatura, la cantidad de oxígeno y la presión.
+*   **Incompleta:** Ocurre por una proporción inadecuada de comburente y combustible, generando productos como monóxido de carbono (CO) y partículas de carbón (hollín).
+
+Las **características principales de la combustión** son:
+*   Es un proceso químico de oxidación-reducción.
+*   Posee una cinética generalmente rápida.
+*   Es fuertemente exotérmica, liberando una gran cantidad de calor.
+*   La velocidad de la reacción determina la cantidad de calor producida.
+*   Puede ser una reacción autoalimentada (reacción en cadena).
+*   Los reactivos son el combustible y el comburente.
+*   Los productos incluyen calor, humo, gases de combustión y radiación luminosa, aunque no siempre con la presencia de llamas visibles.
+*   El **comburente** más común es el oxígeno atmosférico.
+*   El **combustible** puede presentarse en fase sólida, líquida o gaseosa.
+*   La combustión en fase sólida generalmente produce **incandescencia**, mientras que la combustión en fase líquida o gaseosa suele manifestarse con **llama visible**. Ambos modos pueden ocurrir de forma separada o conjunta.
+
+En España, la normativa de referencia para la definición de fuego es la UNE 23026, aunque coexisten otras normas relevantes como la UNE-EN ISO 13943:2001 (aplicada en Europa) y la NFPA (utilizada en Estados Unidos y varios países latinoamericanos).

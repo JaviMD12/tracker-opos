@@ -1,0 +1,90 @@
+# Gestión de Emergencias con Múltiples Víctimas: Sectorización, Triage y Cadena Asistencial
+
+La respuesta a **grandes emergencias y catástrofes** demanda una organización táctica y una coordinación interservicios rigurosa para optimizar la rapidez y la eficiencia en la atención. Estas situaciones, caracterizadas por un número de víctimas que excede la capacidad de los recursos locales, requieren la activación de un **Plan de Emergencias** bajo la dirección de un **Director del Plan**, coordinado a través de un Centro de Coordinación Operativa (CECOP). La estructura operativa en la zona del incidente se articula mediante un **Puesto de Mando Avanzado (PMA)** que integra a los mandos de los grupos de acción: Intervención (bomberos, rescate), Seguridad (fuerzas y cuerpos de seguridad), Sanitario (servicios de emergencias, Cruz Roja, Protección Civil), Técnico (especialistas) y Logístico (Protección Civil, Cruz Roja). En este esquema, los cuerpos de seguridad delimitan y aseguran la zona, los bomberos rescatan víctimas, y los sanitarios clasifican, tratan y evacúan heridos.
+
+## Sectorización de la Escena
+
+Para organizar la respuesta, la escena se divide en tres zonas funcionales principales:
+
+1.  **Zona Caliente o Área de Salvamento y Rescate (Zona Roja):** Es el lugar del impacto, donde se concentra la mayoría de las víctimas y se realizan las operaciones de búsqueda y rescate. En esta zona, solo trabajan los rescatadores, y la asistencia sanitaria se limita a medidas vitales esenciales como la apertura de la vía aérea o el control de hemorragias, sin proceder a la asistencia completa de los heridos. El movimiento de las víctimas hacia un área segura se realiza mediante la **primera noria de rescate o de camilleros**, que debe ser continua y unidireccional, garantizando la alineación cervical del paciente.
+2.  **Zona Templada o Área de Socorro y Asistencial (Zona Amarilla):** Esta es un área segura, próxima a la zona caliente, donde se despliegan los servicios sanitarios. Incluye el **nido de heridos**, un punto de concentración de las víctimas rescatadas para su clasificación inicial. El **Puesto de Mando Sanitario (PMSAN)**, liderado por el Mando Médico Operativo (MMO), dirige la organización del personal sanitario, coordina las áreas asistenciales y mantiene la comunicación con el Centro Coordinador del Sistema Sanitario. La **área de clasificación o triage**, dirigida por un responsable de triage, se establece precozmente cerca del nido de heridos. Aquí se realiza un **segundo triage o triage avanzado**, clasificando a las víctimas con tarjetas de colores (amarillo o rojo), mientras que los pacientes verdes pasan directamente a la zona de evacuación. El **Puesto Médico Avanzado (PMA)**, determinado por el MMO, es el espacio seguro (tiendas o carpas) donde se estabiliza y trata a los heridos rojos y amarillos según su prioridad. En esta zona se gestiona también el **Puesto de Carga** para la evacuación de pacientes en ambulancias, asegurando un registro y control de destinos. Además, se establece un **redil** para ilesos y pacientes leves (verdes), y una **morgue** para los fallecidos, ubicada estratégicamente cerca de los pacientes rojos pero alejada de los verdes.
+3.  **Zona Fría o Área de Base o Apoyo (Zona Verde):** Es la zona más segura y de apoyo logístico. Aquí se ubica el Puesto de Mando Avanzado principal, con los responsables de todos los grupos de acción, y se sitúa la zona de estacionamiento de ambulancias, con fácil acceso para el flujo de vehículos.
+
+## El Triage: Clasificación de Víctimas
+
+El **triage** es el método utilizado para clasificar a las víctimas en función de su gravedad y pronóstico, estableciendo la prioridad de tratamiento y evacuación con el objetivo de salvar el mayor número de vidas posible. Este proceso, que exige decisiones rápidas bajo presión, debe ser **anterógrado, dinámico y continuo**, implicando una reevaluación constante de las víctimas. La categorización se realiza mediante un código de colores universal: rojo (prioridad 1, muy grave, atención inmediata), amarillo (prioridad 2, grave, atención diferida), verde (prioridad 3, leve, atención menor) y negro (prioridad 4, moribundo/expectante, nula posibilidad de supervivencia).
+
+### Tipos de Triage
+
+El triage se divide en fases y enfoques:
+
+*   **Triage Básico o Primario:** Se lleva a cabo en la zona de impacto o en el nido de heridos, generalmente por personal con formación sanitaria básica o no sanitario entrenado. Clasifica a las víctimas mediante cintas de colores para determinar la prioridad inicial de traslado al PMA.
+*   **Triage Avanzado o Secundario:** Se realiza en el Puesto Médico Avanzado por personal sanitario de los equipos de emergencia, utilizando tarjetas de triage para documentar las lesiones. Incluye:
+    *   **Triage de Estabilización o Tratamiento:** Define la prioridad para el tratamiento en cada categoría.
+    *   **Triage de Evacuación:** Establece el orden de evacuación una vez estabilizados los pacientes.
+
+### Métodos de Triage
+
+Existen diversos modelos de triage que se adaptan a las necesidades específicas de cada servicio, pudiendo clasificarse según su polaridad:
+
+*   **Bipolar:** Distingue dos categorías, como consciente/inconsciente o deambula/no deambula, siendo rápido pero menos preciso. Útil en grandes emergencias con muchos heridos o zonas inseguras.
+*   **Tripolar:** Más utilizado y preciso que el bipolar, incorporando una tercera variable, como la categoría de fallecidos.
+*   **Tetrapolar:** Es el más extendido, usando las cuatro categorías de colores clásicas (rojo, amarillo, verde y negro).
+*   **Pentapolar:** Menos frecuente, añade una quinta categoría (azul o gris) para pacientes moribundos o con pronóstico muy desfavorable que requieren esfuerzos desproporcionados, con reevaluación si su probabilidad de supervivencia mejora.
+
+Entre los métodos basados en lesiones y alteraciones fisiopatológicas, destacan los algoritmos **S.H.O.R.T.** y **S.T.A.R.T.**:
+
+*   **Algoritmo S.H.O.R.T. (Simple Triage And Rapid Treatment, simplificado):**
+    *   Si el paciente **puede caminar**, se clasifica como **VERDE**.
+    *   Si no puede caminar, se evalúa si **habla sin dificultad y obedece órdenes sencillas**. Si es así, se asigna **AMARILLO**.
+    *   Si no cumple lo anterior, se verifica si **respira** y presenta **signos de circulación**. En este caso, se categoriza como **ROJO**.
+    *   Si **no respira, jadea o boquea, o no presenta signos vitales**, se clasifica como **NEGRO**.
+    *   La intervención para **taponar hemorragias** se considera en la categoría ROJO.
+
+*   **Algoritmo S.T.A.R.T. (Simple Triage And Rapid Treatment):**
+    *   Primero, se pregunta si el paciente **puede andar**. Si la respuesta es afirmativa, se clasifica como **LEVE**. Si no puede andar, se pasa al siguiente criterio.
+    *   Se evalúa la **frecuencia respiratoria**. Si es nula o no respira tras abrir la vía aérea, se declara **MUERTO**. Si respira menos de 30 veces por minuto, se continúa. Si respira más de 30 veces por minuto, se clasifica para **ATENCIÓN INMEDIATA**.
+    *   A continuación, se comprueba el **pulso radial**. Si está presente, se prosigue la evaluación. Si está ausente, se clasifica para **ATENCIÓN INMEDIATA**.
+    *   Finalmente, se determina si el paciente **responde a órdenes sencillas**. Si es así, se categoriza como **URGENTE**. Si no responde, también requiere **ATENCIÓN INMEDIATA**.
+    *   Medidas clave incluyen **cobijar hemorragias** y **abrir la vía aérea** cuando sea necesario.
+
+## Cadena Asistencial de los Heridos
+
+La asistencia a los heridos sigue un flujo escalonado y coordinado:
+
+1.  **Triage Básico o Inicial:** Realizado por el primer interviniente en la zona de impacto, donde se asigna una prioridad provisional mediante colores. Los pacientes **verdes** (deambulantes) son dirigidos a un **redil**, mientras que los **negros** (fallecidos) se gestionan al final. Las primeras medidas salvadoras (apertura de vía aérea, control de hemorragias, posición lateral de seguridad) se aplican de inmediato.
+2.  **Primer Triage Avanzado o de Estabilización:** Los heridos **rojos** y **amarillos** son trasladados al **Puesto Médico Avanzado (PMA)**. Aquí, personal sanitario cualificado realiza una evaluación más detallada, estabiliza a los pacientes y registra sus datos y tratamientos en tarjetas de triage.
+3.  **Tercer Triage o Triage Avanzado de Evacuación:** También en el PMA, un médico experto en cirugía establece el orden definitivo de evacuación de los pacientes estabilizados, registrando la información.
+4.  **Traslado a Puesto de Carga:** Desde el PMA, los pacientes son movilizados al **Puesto de Carga** donde esperan las ambulancias para el traslado hospitalario. Se mantiene un registro exhaustivo de los pacientes y sus destinos para asegurar la continuidad asistencial.
+
+## Soporte Vital Básico (SVB) y Desfibrilador Externo Automático (DEA) en Adultos
+
+La **parada cardiorrespiratoria (PCR)** es una interrupción brusca y potencialmente reversible de la respiración y la circulación espontáneas. La **reanimación cardiopulmonar (RCP)** es el conjunto de maniobras dirigidas a revertir la PCR, restaurando la función respiratoria y cardiaca para lograr una perfusión sanguínea adecuada de los órganos vitales. El **soporte vital básico (SVB)** comprende las maniobras de RCP que garantizan las funciones ventilatoria y circulatoria esenciales para la supervivencia.
+
+La **Cadena de Supervivencia** describe los pasos críticos a activar en caso de PCR:
+1.  Reconocer la PCR y alertar rápidamente a los servicios de emergencias.
+2.  Iniciar las maniobras de RCP sin demora.
+3.  Desfibrilación precoz con un DEA.
+4.  Traslado urgente al hospital.
+5.  Cuidados post-resucitación.
+
+El algoritmo de actuación ante sospecha de PCR en adultos sigue una secuencia estandarizada:
+
+1.  **Asegurar el Lugar:** Verificar que la escena sea segura para la víctima y el interviniente.
+2.  **Comprobar Consciencia:** Sacudir suavemente al paciente por los hombros y preguntar "¿Está usted bien?". Si responde, indagar sobre lo ocurrido y si necesita ayuda. Si no responde, continuar con el algoritmo.
+3.  **Abrir Vía Aérea:**
+    *   Si no se sospecha de traumatismo cervical, realizar la **maniobra frente-mentón**: hiperextender suavemente la cabeza con una mano en la frente y elevar la mandíbula con los dedos índice y medio de la otra mano.
+    *   Si se sospecha de traumatismo cervical, realizar la **maniobra de elevación de la mandíbula**: traccionar la mandíbula hacia adelante con el pulgar en la boca y la otra mano en la frente, manteniendo la cabeza en posición neutra para evitar la hiperextensión del cuello.
+    *   Para desobstruir la vía aérea: extraer objetos visibles con facilidad (sin barrido a ciegas), aspirar secreciones con un aspirador (máximo 5 segundos en adultos, 100 mm Hg de presión negativa en niños) colocando al paciente en posición lateral de seguridad si está inconsciente para evitar broncoaspiración.
+    *   Considerar la colocación de una **cánula de Guedel** (midiéndola desde el ángulo de la boca hasta el lóbulo de la oreja e introduciéndola girando 180º a mitad de camino) o una **mascarilla laríngea** (lubricar y deslizar por el paladar, inflar balón 20-40 ml y conectar a bolsa autoinflable, verificando elevación torácica).
+4.  **Comprobar Respiración:** Evaluar durante no más de 10 segundos, acercando la cara al paciente y observando movimientos torácicos, escuchando ruidos respiratorios y sintiendo el aire exhalado. No confundir la respiración agónica ("gasping") con respiración normal, ya que es un signo de parada cardiaca.
+5.  **Iniciar RCP (si no respira o no hay signos vitales):** Consiste en una combinación de 30 compresiones cardiacas y 2 ventilaciones.
+    *   **Masaje Cardiaco:** Colocar el talón de una mano en el centro del tórax (línea intermamaria), con la otra mano entrelazada encima. Comprimir el tórax 5 cm a una frecuencia de 100-120 compresiones por minuto, minimizando interrupciones.
+    *   **Ventilación Artificial:** Realizar dos ventilaciones sellando la boca (boca a boca, boca-nariz o estoma si traqueotomía) y pinzando la nariz, realizando una inspiración normal que eleve el pecho durante un segundo. Utilizar sistemas de barrera y protección. Lo óptimo es ventilar con un **balón autoinflable (AMBU)** conectado a una fuente de oxígeno a 15 litros, previa colocación de cánula de Guedel. La ventilación debe ser a un ritmo de 15 respiraciones por minuto.
+
+### Uso del Desfibrilador Externo Automático (DEA)
+
+En la PCR del adulto, el tratamiento eléctrico precoz con un **DEA** es vital. Una vez disponible, se coloca en la cabecera del paciente. El DEA analiza el ritmo cardiaco y proporciona instrucciones:
+1.  **Colocar Electrodos:** Ubicar uno bajo la clavícula derecha y otro en el costado izquierdo del pecho desnudo.
+2.  **Análisis del Ritmo:** No tocar al paciente mientras el DEA analiza. Los ritmos desfibrilables son la **fibrilación ventricular (FV)** y la **taquicardia ventricular sin pulso (TVSP)**.
+3.  

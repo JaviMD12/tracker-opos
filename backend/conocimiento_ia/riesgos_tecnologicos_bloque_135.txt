@@ -1,0 +1,76 @@
+# Valoración e Intervención en Incidentes con Riesgo Eléctrico
+
+La gestión de incidentes que involucran riesgo eléctrico exige un planteamiento táctico meticuloso y una comprensión profunda de las características específicas de cada situación. La intervención de los bomberos en estos escenarios no solo busca mitigar el peligro, sino también proteger a las víctimas y al personal interviniente.
+
+## Consideraciones Preliminares y Planificación Táctica
+
+Al enfrentar un incidente con riesgo eléctrico, el mando de intervención debe considerar diversos factores para formular un plan de acción eficaz. Estos incluyen la experiencia profesional, el conocimiento técnico y científico disponible, el abanico de técnicas aplicables y una valoración exhaustiva del suceso. Las decisiones tomadas, dadas sus posibles repercusiones en la seguridad y en el entorno, pueden ser irreversibles.
+
+Inicialmente, se procede a la **identificación de riesgos**, que abarca la detección de incendios o la necesidad de rescate, la comunicación con las víctimas para determinar su número, estado y nivel de estrés, y una valoración completa del siniestro, distinguiendo entre alta tensión (AT) y baja tensión (BT). Posteriormente, se notifica la situación al mando y al Jefe de Guardia o control, y se solicita la presencia de personal de la compañía eléctrica, llamando al teléfono único de emergencias.
+
+### Reglas Básicas de Actuación ante Riesgo Eléctrico
+
+La normativa española, en particular el Reglamento Electrotécnico de Baja Tensión (REBT) del Ministerio de Industria y Energía, establece pautas fundamentales para la intervención en situaciones de riesgo eléctrico. Dichas pautas son aplicables tanto en alta como en baja tensión, aunque con matices:
+
+Para incidentes de **alta tensión**, las medidas obligatorias son:
+1.  **Abrir con corte visible todas las posibles fuentes de tensión**, utilizando material aislante y detección adecuada.
+2.  **Enclavar o bloquear los aparatos de corte** que hayan sido manipulados, para evitar una reconexión accidental.
+3.  **Comprobar la ausencia total de tensión** en cada conductor después del corte para asegurar la desenergización.
+4.  **Poner en corto y a tierra** todas las posibles fuentes de tensión, lo cual disipa cualquier carga residual y asegura la descarga.
+5.  **Acotar y balizar la zona de trabajo**, estableciendo perímetros de seguridad claros.
+
+Para incidentes de **baja tensión**, las medidas obligatorias son:
+1.  **Abrir con corte visible todas las posibles fuentes de tensión** y **comprobar la ausencia total de tensión** en cada conductor tras el corte.
+Además, siempre que sea posible, se debe **enclavar los aparatos de corte** abiertos anteriormente. Finalmente, se recomienda **poner en corto y a tierra** todas las posibles fuentes de tensión, y **acotar y señalizar la zona de trabajo**.
+
+El personal interviniente debe ir equipado con un equipo de protección individual (EPI) completo, que incluye pantalón, camiseta, cubrepantalón, botas, chaquetón, guantes y casco de intervención. Adicionalmente, se requiere material de riesgo eléctrico como banquetas, pértigas y alfombrillas aislantes. Las distancias de seguridad deben respetarse estrictamente: cinco metros para tensiones superiores a 66.000 V, y tres metros para tensiones inferiores, mientras que para trabajos subterráneos, las distancias son de 0,5 metros con herramientas manuales y un metro con herramientas mecánicas.
+
+## Protocolos de Intervención Específicos
+
+### Intervención en Incidentes con Alta Tensión
+
+El protocolo para incidentes con alta tensión se enfoca en la valoración inicial del tipo de incidente (en subsuelo o intemperie) y la tensión de la línea. Tras la notificación y el corte de suministro por la compañía eléctrica, verificando la localización y el número de apoyo/subestación, se procede a zonificar el área manteniendo las distancias de seguridad establecidas.
+
+El **control de la propagación** en incendios de alta tensión implica refrigeración con extintores de polvo químico, CO2 o polvo polivalente ABC. Si no hay corriente, se puede emplear agua pulverizada o espumas. En incendios de gran envergadura en intemperie, se recomienda el uso de mangajes de 45 mm y monitores, mientras que en casetas, locales o subterráneos, se utilizan extintores específicos o agua/espumas con ventilación. Es crucial esperar a que la instalación esté en descargo antes de la extinción en presencia de aceite.
+
+La **extinción** se realiza una vez asegurado el corte de suministro. En transformadores de intemperie, si se interviene con corriente, se usa chorro discontinuo de agua o espuma. Si se ha cortado la alimentación, se extingue con agua. La **vuelta a la normalidad** implica una nueva evaluación de la instalación por la compañía eléctrica, que se encarga de la reparación y el restablecimiento del suministro, finalizando la intervención con la emisión de un informe.
+
+### Intervención en Incidentes con Baja Tensión
+
+El protocolo para incidentes de baja tensión sigue una lógica similar. Tras el **corte del suministro**, se actúa sobre las líneas de distribución cortando el trenzado o utilizando la cizalla dieléctrica, o se retiran los fusibles en la Caja General de Protección (CGP) o en la centralización de contadores. En viviendas, si no es posible acceder a la CGP, se interviene en los cuadros de mando y protección. En viviendas unifamiliares o industrias, se abre el interruptor general y se retiran los fusibles uno a uno para evitar el cebado del arco.
+
+El **control de la propagación** en incendios de baja tensión se realiza refrigerando con extintores de polvo químico, CO2 o polvo polivalente ABC. En instalaciones sin corriente, puede usarse agua pulverizada o espumas. Para la **extinción**, una vez cortado el suministro, se utiliza mangaje de 45 mm con bifurcación y lanza para incendios de intemperie no muy grandes. En centrales de contadores o locales, se emplean extintores de CO2 o polvo polivalente ABC, o agua/espumas con ventilación. La **vuelta a la normalidad** requiere una evaluación para verificar la ausencia de problemas, y la compañía eléctrica se encarga de la reparación y restablecimiento del suministro, culminando con un informe de intervención.
+
+## Valoración Dinámica de la Intervención
+
+La valoración de un siniestro es un proceso continuo. Las medidas tácticas iniciales pueden no ser óptimas, e incluso agravar la situación, por lo que es fundamental **reevaluar y ajustar el plan** constantemente. Esta evaluación dinámica considera la evolución de la patología, el estado de los recursos disponibles (materiales, medios y personal) y el éxito de las acciones emprendidas. La finalización de la intervención no se limita a la conclusión de las tareas, sino a la comprobación de que la patología no ha evolucionado y a la prolongación de medidas de seguridad durante un periodo prudencial.
+
+## Casos Prácticos en Intervención con Riesgo Eléctrico
+
+Para ilustrar la aplicación de estos protocolos, se presentan diversos escenarios:
+
+### Incendio en Transformador de Intemperie con Línea de Alta Tensión
+
+Ante un incendio en un transformador de intemperie con 5000 litros de aceite y una línea de AT de 20 KV, la prioridad es avisar a la compañía eléctrica para que corte el suministro, indicando la ubicación y características de la instalación. Es vital **enclavar los elementos de corte** y **cortar todas las líneas entrantes y salientes** en subestaciones, o los fusibles en el cuadro de baja tensión. La zona se zonifica y baliza manteniendo las distancias de seguridad, y se verifica la ausencia de tensión. El control de la propagación y la extinción se realizan con los EPI adecuados y, si es necesario, monitores para trabajar a distancia. Al finalizar, la instalación es revisada por técnicos de la compañía para restaurar el servicio.
+
+### Incendio en Caja General de Protección (CGP) de Vivienda Unifamiliar
+
+En un incendio en la CGP de una vivienda unifamiliar, se informa a la compañía eléctrica para el corte de suministro, dado que es su responsabilidad. La extinción se realiza con extintores de polvo. Si el corte no es posible previamente, el agua pulverizada puede usarse para reducir la temperatura. Tras extinguir, se revisa la instalación y el propietario se encarga de las reparaciones necesarias, emitiéndose un informe.
+
+### Incendio de Vegetación que Afecta a Líneas de Alta Tensión
+
+Para un incendio de vegetación que afecta líneas de AT, se solicita a la compañía el corte de suministro, aportando la ubicación, el tipo de aisladores y apoyos. Se acota la zona con la distancia de seguridad adecuada y se controla la propagación del incendio con los EPI pertinentes. Finalmente, la compañía eléctrica se encarga de la revisión y restablecimiento del servicio.
+
+### Corte de Tensión en Bloque de Viviendas con Escape de Gas
+
+Si se presenta un escape de gas con necesidad de corte de tensión, se evalúa la posibilidad de deflagración. Se prohíbe tocar interruptores o desconectar la tensión en el interior. Se **evacúa la vivienda** y se realiza el corte de suministro desde el exterior, retirando rápidamente los fusibles o accionando el interruptor general. La ventilación de los locales afectados es crucial.
+
+### Rescate de Máquina en Contacto con Línea de Alta Tensión
+
+En el rescate de una máquina enganchada a una línea de AT, se pide al conductor que mantenga la calma y permanezca en la cabina. Se solicita el corte de suministro a la compañía, y se mantienen las distancias de seguridad. Se pide al conductor que intente alejar la máquina de la zona eléctrica o, si no es posible, que salte de la cabina lo más lejos posible y se aleje con pasos cortos o a saltitos, evitando tocar la máquina.
+
+### Rescate de Accidentado en Líneas Subterráneas de Alta Tensión
+
+Para el rescate de una persona en líneas subterráneas de AT, se solicita el corte de tensión a la compañía y se espera la confirmación de la desenergización. Si el accidentado está en contacto, se utilizan medios aislantes para el rescate. Si no está en contacto, se le retira a la zona de seguridad manteniendo una distancia prudencial.
+
+El éxito de cualquier intervención en situaciones de riesgo eléctrico depende de una valoración inicial rigurosa, una planificación táctica adaptada y la aplicación estricta de medidas de seguridad, garantizando la protección de todos los implicados y el control efectivo del incidente.

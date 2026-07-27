@@ -1,0 +1,35 @@
+# Apeos Estandarizados en Oposiciones de Bomberos y Emergencias
+
+Los apeos estandarizados constituyen un conjunto de técnicas y procedimientos esenciales en las intervenciones de bomberos para la estabilización provisional de estructuras dañadas, bien sean edificaciones o terrenos, con el objetivo primordial de garantizar la seguridad de los intervinientes y, a su vez, facilitar el rescate de posibles víctimas. Estos sistemas, diseñados para una respuesta rápida y eficaz en situaciones de emergencia, se basan en la aplicación de elementos auxiliares que permiten contrarrestar movimientos incontrolados y transmitir cargas al terreno o a elementos estables de la estructura.
+
+## Principios Generales de los Apeos Estandarizados
+
+La implementación de apeos en situaciones de emergencia se rige por una serie de principios generales que buscan optimizar la operación. Un apeo no se compone de un único elemento, sino de tantos conjuntos elementales como sean necesarios para cubrir la zona afectada o la carga prevista. Es crucial entender que las dimensiones y geometrías proporcionadas en los protocolos son genéricas; el mando de intervención tiene la responsabilidad de adaptar la capacidad mecánica del apeo a la solicitación previsible de cada incidente. Esto implica que, si bien existen diseños preestablecidos, la situación real en el terreno puede requerir ajustes en las geometrías y calidades de los materiales, siempre considerando el impacto en la capacidad mecánica del sistema de apeo. La distancia entre los conjuntos elementales del apeo no debe exceder los cuatro metros, garantizando así una distribución adecuada de las cargas y la estabilidad general del sistema.
+
+### Cargas Comunes a Considerar
+
+En la edificación, diversas acciones pueden generar la necesidad de un apeo. Estas cargas se clasifican, según el Código Técnico de la Edificación (CTE DB SE AE), en permanentes, variables y accidentales. Entre las **acciones permanentes** se encuentran el peso propio de los materiales y los esfuerzos debidos al pretensado o a las acciones del terreno. Por ejemplo, el peso específico aparente de materiales comunes oscila entre 13 kN/m³ para la cal y 78,5 kN/m³ para el acero. Los empujes del terreno varían con la profundidad y el tipo de suelo, registrando valores como 4,9 kN/m² para arcilla a 1 metro de profundidad o 14,7 kN/m² para arcilla a 3 metros, y 3,3 kN/m² para grava/arena a 1 metro o 10 kN/m² a 3 metros.
+
+Las **acciones variables** incluyen la sobrecarga de uso (que puede ser uniforme o concentrada), las acciones sobre barandillas y elementos divisorios (con una resistencia máxima considerada de 0,5 kN/m ante intervención de bomberos), el viento (estimado en 0,5 kN/m² en cualquier punto de España, aunque se recomienda 1,5 kN/m² en elementos expuestos) y la nieve (1,0 kN/m² para cubiertas planas a menos de 1000m de altitud). Las **acciones accidentales** abarcan sismos, incendios e impactos, como los de vehículos, donde se consideran 50 kN paralelos a la vía y 25 kN perpendiculares para impactos de hasta 30 kN de peso total del vehículo.
+
+## Apeos Estandarizados para Muros
+
+Los apeos para muros se implementan para estabilizar elementos verticales dañados o con riesgo de colapso. Los protocolos de apeo para muros distinguen entre aquellos de altura inferior a 3 metros y los de altura inferior a 6 metros.
+
+Para **muros de altura inferior a 3m**, el apeo estándar implica una capacidad mecánica de 20 kN para una carga puntual horizontal a 2 metros de altura. Se deben considerar las cargas específicas del muro, como la exposición al viento (1,5 kN/m²) y el peso de posibles fachadas desplomadas, que varían según el espesor y la inclinación (ej., una fachada de 20 cm y 10º de inclinación implica 0,9 kN/m², mientras que una de 50 cm y 30º implica 7,2 kN/m²). Para contenedores de agua, los pesos varían con la profundidad: 5 kN/m² a 1m, 10 kN/m² a 2m y 15 kN/m² a 3m. El empuje de tierras también sigue esta progresión. La distancia entre los conjuntos de apeo no debe exceder los 4 metros.
+
+En el caso de **muros de altura inferior a 6m**, la capacidad mecánica elemental se establece en 20 kN para una carga puntual horizontal a 2 metros de altura, sumándose 15 kN adicionales para una carga puntual horizontal a 4,5 metros de altura. Las cargas a considerar son las mismas que para los apeos de muros de menos de 3 metros, adaptando los valores según las dimensiones y condiciones del siniestro. La distancia máxima entre conjuntos de apeo se mantiene en 4 metros.
+
+## Apeos Estandarizados para Forjados
+
+La estabilización de forjados, especialmente aquellos con riesgo de fallo en sus apoyos y de altura inferior a 3 metros, también cuenta con sistemas estandarizados. Un conjunto elemental de apeo para forjados posee una capacidad mecánica de 50 kN, aplicable a una carga uniformemente distribuida sobre los durmientes. La distancia entre puntales no debe exceder la distancia entre viguetas, lo que asegura una correcta transmisión de la carga.
+
+Las cargas a considerar en forjados incluyen el peso propio y las sobrecargas. Para una vivienda, el peso propio es de 3 kN/m², mientras que para un garaje es de 5 kN/m². Las sobrecargas de uso en viviendas son de 3 kN/m², en cubiertas de 2 kN/m², en uso dotacional de 4 kN/m² y en garajes de 10 kN/m². El número de puntales necesarios se calcula dividiendo la superficie por la carga y la capacidad por puntal, con un mínimo de cuatro. La distancia entre puntales se determina mediante la raíz cuadrada de la superficie dividida por el número de puntales.
+
+## Entibaciones Estandarizadas para Zanjas
+
+Las entibaciones se utilizan para estabilizar terrenos excavados, como zanjas, con alturas inferiores a 3 metros. Un conjunto elemental de entibación tiene una capacidad mecánica de 50 kN, correspondiente a una carga uniformemente repartida sobre los durmientes en contacto con el terreno. La distancia entre conjuntos de entibación no debe superar los 2 metros.
+
+Las cargas de empuje del terreno varían según la profundidad y el tipo de suelo. Por ejemplo, a 1 metro de profundidad, el empuje en arcilla es de 4,9 kN/m² y en grava/arena de 3,3 kN/m². A 3 metros, estos valores aumentan a 14,7 kN/m² para arcilla y 10 kN/m² para grava/arena. Para una profundidad de 3 metros, las distancias máximas recomendadas entre conjuntos de entibación son de 1,50 metros para arcillas y 2,00 metros para gravas, si bien la distancia máxima global sigue siendo de 2 metros.
+
+En todas estas técnicas estandarizadas, el **mando de intervención** desempeña un papel crucial al adaptar los valores genéricos y las dimensiones a las circunstancias específicas del siniestro. La comprensión de estos parámetros y la capacidad para realizar cálculos rápidos son fundamentales para una respuesta efectiva y segura.

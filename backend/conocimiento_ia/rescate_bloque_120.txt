@@ -1,0 +1,69 @@
+# Búsqueda y Rescate en Grandes Áreas: Caracterización y Técnicas de Intervención
+
+La gestión de emergencias que involucran la búsqueda y rescate de personas en grandes áreas requiere una aproximación sistemática y coordinada. Estas operaciones se desarrollan con el objetivo principal de localizar y salvaguardar la vida de individuos desaparecidos o extraviados en entornos complejos, que van desde zonas boscosas y montañosas hasta áreas urbanas densas y medios acuáticos. La eficacia de estas intervenciones depende fundamentalmente de la capacidad de los servicios de emergencia para recopilar información, delimitar zonas de actuación, desplegar recursos especializados y aplicar tácticas de búsqueda apropiadas.
+
+## Clasificación de Desapariciones
+
+En el contexto de la búsqueda y rescate, es crucial distinguir entre dos categorías principales de personas no localizadas, ya que cada una exige una estrategia de intervención diferente:
+
+*   Las personas **perdidas** son aquellas que, aunque desconocen su ubicación, mantienen algún tipo de contacto, generalmente telefónico, con los servicios de rescate o con un alertante. Esta conexión permite un intercambio de información que facilita su localización y guía.
+*   Por otro lado, las personas **desaparecidas** son aquellas de las que no se tiene noticia ni contacto, lo que implica un proceso de investigación más complejo para determinar su paradero y la existencia o no de una situación de riesgo vital.
+
+La distinción entre estos dos escenarios es vital, ya que la intervención en un caso de desaparición implica un despliegue operativo técnico y humano de gran envergadura, a menudo sin una evidencia inicial de peligro, lo que subraya la importancia de un protocolo de búsqueda sistemática y organizada.
+
+## Determinación del Área de Búsqueda
+
+La fase inicial y más crítica de cualquier operación de búsqueda es la determinación precisa del **área de búsqueda**. Esta área se define como la superficie geográfica donde se presume la posible localización de la persona desaparecida, basándose en los datos disponibles sobre la víctima, sus últimos movimientos y las características del terreno. Esta delimitación inicial puede ser modificada o ampliada a medida que surjan nuevos indicios.
+
+Existen varios **métodos para delimitar el área de búsqueda**, cada uno con sus propias características y aplicaciones:
+
+1.  **Método Teórico:** Este enfoque se basa en la **última localización conocida (ULC)** de la persona. A partir de la ULC, se estima el avance máximo que la persona podría haber realizado en línea recta, considerando su edad y capacidades físicas durante el tiempo transcurrido desde su desaparición. Esta distancia se utiliza como radio para trazar una circunferencia en el mapa alrededor de la ULC, definiendo así el área inicial de búsqueda, sin tener en cuenta las particularidades orográficas del entorno.
+2.  **Método Estadístico:** Este método emplea patrones de comportamiento esperados de personas desaparecidas, derivados de análisis estadísticos de casos anteriores con perfiles similares (edad, condición física, perfil psicológico). Permite estimar distancias de alejamiento desde la ULC con diferentes grados de probabilidad (D50, D75, D99), lo que ayuda a priorizar sectores de búsqueda con mayor potencial de hallazgo. Por ejemplo, en el caso de un niño de 6 años, la distancia máxima esperada de alejamiento (D99) podría ser de 2,7 km, mientras que para un adulto de 18 años o más, esta distancia podría extenderse hasta los 24 km, si bien la presencia de niños puede reducir este valor.
+3.  **Método Subjetivo:** En situaciones donde la precisión de la ULC es incierta, el director de la búsqueda establece el área y los sectores basándose en su experiencia, conocimiento del terreno y los datos del caso.
+4.  **Método de Mattson:** Este método combina el enfoque subjetivo con una variable de probabilidad. El área se subdivide en sectores, y a cada uno se le asigna un porcentaje de probabilidad de hallazgo por parte de los miembros del equipo de intervención. La suma de estos porcentajes debe ser del 100%, y el porcentaje medio resultante para cada sector establece la prioridad.
+5.  **Método Combinado:** Para maximizar la eficacia, se pueden integrar varios métodos. Por ejemplo, se puede iniciar con el método estadístico para definir los perímetros D50, D75 y D99, y luego incorporar elementos de otros métodos para refinar la búsqueda.
+
+### Indicios y Rastros en la Búsqueda
+
+La persona extraviada deja señales en el entorno que pueden ser cruciales para su localización. Estos **rastros o indicios** se clasifican en:
+
+1.  **Indicios Físicos:** Son huellas evidentes en el terreno. Pueden ser:
+    *   **Voluntarios:** Aquellos que la víctima deja intencionadamente, como piedras apiladas o mensajes escritos, confiando en ser buscada.
+    *   **Involuntarios:** Huellas de calzado, ramas rotas, mechones de pelo, o hierba aplastada, generadas por la actividad normal del movimiento. La visibilidad y persistencia de estos indicios varían según el tipo de terreno (húmedo, arenoso, etc.) y las condiciones meteorológicas. Es fundamental distinguir las huellas de la víctima de las de los rescatadores o animales.
+2.  **Indicios Químicos:** Corresponden a rastros de olor corporal (sudor, aliento, orina, etc.). Los perros de búsqueda son entrenados para detectar estas partículas químicas que el viento transporta.
+3.  **Indicios Sociales o Tecnológicos:** Se derivan de testimonios de testigos (**antrópicos**), obtenidos mediante interrogatorio activo o pasivo, o de datos generados por el uso de tecnologías como la telefonía móvil, redes sociales, cajeros automáticos o cámaras de seguridad pública. Los programas de localización de teléfonos móviles y las aplicaciones de geolocalización son herramientas muy útiles para determinar la ubicación del usuario con gran precisión, siempre que el terminal tenga cobertura de datos o haya sido configurado previamente.
+
+Un método de búsqueda adicional es la localización de "**trampas de ruta**", que consiste en identificar trayectos lógicos o lugares de paso obligado (puentes, vados, crestas, refugios) donde es probable encontrar indicios del sujeto.
+
+## Estrategias y Fases de Intervención en Búsqueda de Personas
+
+Una intervención de búsqueda se estructura en distintas fases para garantizar la eficiencia y seguridad de la operación.
+
+### Movilización y Recopilación de Información
+
+La movilización comienza con la **recepción del aviso**, generalmente a través de un centro de coordinación de emergencias. En esta etapa, se recopila toda la información posible: tipo de siniestro, localización (coordenadas, descripción), número y estado de personas afectadas, bienes en peligro y otros riesgos. Es esencial verificar el Último Lugar Conocido (ULC) y solicitar la presencia de medios sanitarios y fuerzas del orden.
+
+Tras la recepción del aviso, se procede a la **movilización al siniestro**. El jefe de dotación comunica el aviso al jefe de guardia, quien confirma o modifica el tren de salida y coordina con el telemando de la compañía para obtener datos actualizados del siniestro. Se movilizan refuerzos internos y externos si son necesarios. Al llegar al lugar, se establece un punto de encuentro con el personal de mantenimiento o el alertante para confirmar la información y preparar el material de rescate, que incluirá herramientas, material de altura (cuerda semiestática y dinámica), y equipo para la víctima (camilla, casco, botiquín).
+
+### Valoración y Planificación de la Búsqueda
+
+La **valoración inicial del entorno y del siniestro** es continua y dinámica, adaptándose a los cambios en el escenario. Se analizan factores como el tipo de fondo, la temperatura del agua, la profundidad, la distancia a la orilla, las corrientes, el tiempo transcurrido bajo el agua para los accidentados, las condiciones meteorológicas, la visibilidad y el tráfico marítimo.
+
+El **plan de acción** se elabora considerando estos factores, con un objetivo claro y definido para cada inmersión, que puede incluir la localización o elevación de víctimas, y la atención sanitaria si es necesaria. Se establece una zonificación de la zona de trabajo en caliente, templada y fría, y se señaliza adecuadamente para garantizar la seguridad de los intervinientes. Además, se controlan riesgos inminentes como vertidos, inestabilidad de estructuras o embarcaciones.
+
+### Ejecución de la Búsqueda
+
+La ejecución se realiza con equipos de buceadores de fondo y de apoyo en superficie. Los buceadores utilizan **patrones de búsqueda** específicos:
+
+*   **Búsqueda por barrido**: Realizada desde la orilla o un embarcadero, el buceador traza desplazamientos recorriendo el espacio marcado entre dos cabos de referencia. El cabo guía se mantiene tenso y la comunicación entre buceador y orilla es constante.
+*   **Búsqueda en paralelo**: Ideal para zonas amplias y libres de obstáculos cerca de la orilla. El buceador y el encargado del cabo se mueven paralelamente, marcando una franja a recorrer.
+*   **Búsqueda circular**: La más sencilla para zonas pequeñas, sin grandes desniveles ni corrientes fuertes. Se gira sobre un cabo anclado a una boya (ULC) utilizando un cabo guía. Los círculos se van abriendo progresivamente hasta un máximo de treinta metros de diámetro, manteniendo el cabo tenso y apoyándose en una sirga de un metro en condiciones de baja visibilidad.
+*   **Búsqueda con planeador**: Una embarcación arrastra un planeador submarino manejado por un buceador, que utiliza timones para ascender o descender y evitar obstáculos. Requiere al menos dos buceadores y una visibilidad mínima de nueve metros.
+
+Durante la inmersión, las **comunicaciones** son esenciales. Las señales de buceo son obligatorias y comunes a nivel mundial, aunque pueden variar regionalmente. Se distinguen señales con visibilidad (manos), en buceo nocturno (linternas) y con visibilidad nula (tirones de cuerda). Es fundamental que todos los buceadores las conozcan y las repitan para confirmar su recepción.
+
+### Finalización de la Intervención y Tareas Post-Rescate
+
+Una vez concluida la búsqueda, ya sea por localización de la víctima o agotamiento de hipótesis, se procede a la **desmovilización** y **restitución a la normalidad**. Esto incluye recoger el equipo, analizar la operación, informar a los familiares y, si es necesario, transferir la víctima a los servicios sanitarios. La documentación generada durante el rescate (informes, tracks de GPS, fichas de filiación) se archiva para elaborar estadísticas y revisar los protocolos de actuación.
+
+En caso de que la búsqueda se prolongue sin resultados positivos y se agoten las hipótesis iniciales, el mando operativo puede declarar el fin de la búsqueda o prorrogar la fase de búsqueda sistemática, movilizando recursos adicionales si es necesario. Es crucial que la información se gestione de manera continua y se reevalúe constantemente para adaptar el plan de acción a las nuevas circunstancias.

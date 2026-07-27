@@ -1,0 +1,122 @@
+## Caracterización y Estabilización de Edificaciones: Fundamentos y Técnicas Operativas
+
+La intervención en estructuras, especialmente en situaciones de emergencia, exige un profundo conocimiento de la caracterización de los elementos constructivos y de las técnicas de estabilización. Este dominio permite una actuación eficaz y segura por parte de los servicios de emergencia, priorizando siempre la vida humana y la mitigación de riesgos.
+
+### 1. Elementos Fundamentales de la Edificación
+
+Una edificación se define como una construcción fija, elaborada con materiales resistentes, destinada a la habitación humana o a otros usos. Su análisis técnico la concibe como la conjunción de tres clases de elementos constructivos: estructurales, complementarios y auxiliares.
+
+#### 1.1. Conceptos Físicos Aplicados a la Edificación
+
+La mecánica clásica, y en particular la estática, proporciona el marco para comprender el comportamiento de las edificaciones bajo diversas cargas.
+
+*   **Fuerza:** Magnitud vectorial que describe la interacción entre cuerpos, calculada como el producto de la masa por la aceleración (F = m · a). Sus atributos clave son el módulo (magnitud), dirección, sentido y punto de aplicación. La unidad en el Sistema Internacional (SI) es el Newton (N), equivalente a Kg·m/s².
+    *   Las **tres leyes de Newton** rigen el comportamiento de las fuerzas:
+        *   **Primera Ley (Principio de Inercia):** Todo cuerpo mantiene su estado de reposo o movimiento uniforme y rectilíneo a menos que una fuerza externa actúe sobre él.
+        *   **Segunda Ley (F=m·a):** La suma de las fuerzas que actúan sobre un cuerpo es igual al producto de su masa por la aceleración que produce, en la dirección de la resultante.
+        *   **Tercera Ley (Acción y Reacción):** Dos cuerpos que interactúan entre sí ejercen fuerzas iguales en magnitud y opuestas en sentido. Para mantener el equilibrio, toda fuerza aplicada debe ser contrarrestada por una reacción igual y de sentido contrario.
+    *   La **composición de fuerzas** permite sumar, restar o multiplicar fuerzas vectoriales para obtener una fuerza resultante.
+*   **Momentos:** Representan la capacidad de una fuerza para generar rotación alrededor de un punto o eje. Un **par de fuerzas** se compone de dos fuerzas paralelas de igual magnitud y sentidos opuestos, cuyo momento es el producto de una de las fuerzas por la distancia perpendicular entre ellas (brazo del par). Para evitar la rotación, se requiere un **momento resistente** o de empotramiento de magnitud idéntica y sentido contrario. Los momentos se cuantifican en Newtons por metro (N·m). Los **momentos positivos** giran en sentido horario y los **negativos** en sentido antihorario.
+    *   El **equilibrio del par** ocurre cuando un par de fuerzas sin una reacción que lo contrarreste tiende a reducir su brazo de palanca hasta que ambas fuerzas se alinean, resultando un momento nulo. Un **giro libre** siempre presenta un momento nulo.
+*   **Equilibrio Estático:** Rama de la mecánica que analiza el equilibrio de fuerzas y momentos en sistemas físicos. Un sistema está en equilibrio estático si no experimenta movimientos relativos en el tiempo, lo que implica que las sumatorias de fuerzas (∑F) y momentos (∑M) son iguales a cero. Las cargas en una estructura generan **empujes (fuerzas)** y **giros (momentos)**, que deben ser contrarrestados por reacciones iguales y opuestas.
+*   **Centro de Gravedad:** Punto de un cuerpo donde se considera concentrado su peso, de modo que si se apoya en este punto, el cuerpo permanece en equilibrio en cualquier posición. No siempre coincide con un punto material del cuerpo (ej. esfera hueca). Un objeto sobre una base plana estará en equilibrio estable si la vertical que pasa por su centro de gravedad se proyecta dentro de la base de apoyo. Si el cuerpo se aleja ligeramente, un momento restaurador tenderá a devolverlo a la posición inicial; si se aleja más allá de cierto límite, rotará hacia una nueva posición de equilibrio.
+*   **Elasticidad:** Capacidad de un material para deformarse reversiblemente bajo fuerzas externas y recuperar su forma original al cesar dichas fuerzas. La **ley de Hooke** (σ = E ε) establece que la tensión (σ) es directamente proporcional a la elasticidad del material (E) y a su deformación (ε). El **Módulo de Elasticidad Longitudinal o Módulo de Young (E)** es crucial para evaluar la deformación admisible de materiales y estructuras.
+    *   Los materiales presentan un comportamiento **elástico** (deformaciones temporales y recuperables) hasta alcanzar el límite de elasticidad, y un comportamiento **plástico** (deformaciones permanentes y no recuperables, con pérdida de sección y resistencia) más allá de dicho límite.
+    *   La **madera** se deforma significativamente en la dirección de la fibra, el **hierro fundido** se deforma el doble que el acero, y el **hormigón** puede deformarse hasta 10 veces más que el acero.
+
+#### 1.2. Factores Asociados al Comportamiento Térmico
+
+Las variaciones térmicas pueden afectar significativamente a las estructuras.
+
+*   **Coeficiente de Conductividad Térmica (λ):** Cuantifica la capacidad de un material para conducir calor, medido en W/m·°C o W/m·K. Valores bajos indican mayor capacidad aislante. El hierro conduce el calor mejor que el acero, y materiales como corcho, fibra de vidrio o poliuretano son excelentes aislantes.
+*   **Coeficiente de Dilatación Térmica (α):** Mide la dilatación lineal de un elemento por cada grado de aumento de temperatura y por metro lineal. Por ejemplo, el acero y el hormigón tienen coeficientes de dilatación similares (aprox. 0,000012 1/°C). Una viga de hormigón armado de 10 metros que aumente de 20°C a 400°C se dilatará 5,76 cm, generando empujes laterales que pueden causar el colapso.
+
+#### 1.3. Acciones en la Edificación
+
+Según el Código Técnico de la Edificación (CTE DB SE AE), las fuerzas o cargas que una estructura debe soportar se clasifican en:
+
+*   **Acciones Permanentes:** Actúan de forma constante a lo largo de la vida útil del edificio. Incluyen:
+    *   **Peso Propio:** Peso de todos los materiales y elementos constructivos (estructura, cerramientos, tabiquería, acabados, instalaciones). Se determina por las dimensiones de los elementos y el peso de sus materiales. Ejemplos de pesos específicos aparentes (kN/m³) incluyen Cal (13), Yeso (15), Adobe (16), Ladrillo cerámico (12-15), Cemento (16), Bloque hormigón (13-16), Mortero cemento (19-23), Piedra natural (24-28, Basalto 30), Hormigón (24+1 para armado), Madera (3.5-5.0), Acero (77-78.5).
+    *   **Pretensado:** Esfuerzos generados en el hormigón armado al tensar las barras de acero antes del fraguado.
+    *   **Acciones del Terreno:** Esfuerzos transmitidos por el terreno en contacto (peso, empujes, hundimientos). Su cuantía se estima según el tipo de suelo (arcillas, gravas, arenas) y su altura. Ej. Empujes de terreno: arcilla a 1m (5 kN/m²), 2m (10 kN/m²), 3m (15 kN/m²); grava/arena a 1m (3,3 kN/m²), 2m (6,6 kN/m²), 3m (10 kN/m²).
+*   **Acciones Variables:** Pueden actuar o no, y su cuantía puede variar en el tiempo. Incluyen:
+    *   **Sobrecarga de Uso:** Peso necesario para el uso del edificio (ej. comercial, vivienda). Se expresa en uniformes (kN/m²) o concentradas (kN). Ej. Acceso restringido (viviendas, hospitales): 2 kN/m² uniforme, 2 kN concentrada. Acceso público (comercial): 5 kN/m² uniforme, 7 kN/m² concentrada.
+    *   **Acciones sobre Barandillas y Elementos Divisorios:** Fuerza horizontal uniforme que la estructura debe resistir. El CTE estipula resistencias mínimas de 1-3 kN/m. Para bomberos, se consideran resistencias máximas de 0.5 kN/m.
+    *   **Viento:** Presiones y succiones que ejerce el viento, dependientes de la forma, altura y ubicación del edificio. Un valor simplificado es 0,5 kN/m².
+    *   **Acciones Térmicas:** Deformaciones y cambios geométricos debidos a variaciones de temperatura. No se consideran en hormigón/acero si hay juntas de dilatación cada 40m.
+    *   **Nieve:** Sobrecarga por acumulación de nieve en cubiertas. Para cubiertas planas en altitudes inferiores a 1.000 m, se considera 1,0 kN/m².
+*   **Acciones Accidentales:** Cargas debidas a riesgos naturales o accidentes antrópicos. Incluyen:
+    *   **Sismo:** Respuesta previsible de un edificio a un movimiento sísmico. La normativa sismorresistente (NCSR-02) considera peligrosos los sismos con aceleración superior a 0,04 veces la gravedad.
+    *   **Incendio:** Los edificios deben resistir un incendio durante un tiempo mínimo. El CTE-DB SI establece parámetros mínimos según uso y tamaño.
+    *   **Impacto:** Acciones generadas por un impacto accidental (excluyendo los premeditados). Los valores de cálculo para impacto de vehículos (hasta 30 kN de peso total) son 50 kN en dirección paralela a la vía y 25 kN en dirección perpendicular.
+
+#### 1.4. Esfuerzos y Tensiones
+
+Las acciones de la edificación generan **esfuerzos** o conjuntos de esfuerzos, que se traducen en **tensiones internas**. La **tensión** se define como la fuerza por unidad de área (N/mm² o 1 Kg/cm² = 1 MPa) transmitida por la materia.
+
+*   **Tipos de Tensiones:**
+    *   **Según coeficientes de seguridad:**
+        *   **Tensión de Rotura:** Máxima tensión que el material soporta en laboratorio.
+        *   **Tensión de Trabajo:** Umbral máximo para que la estructura funcione con seguridad, generalmente entre el 70-80% del límite elástico.
+    *   **Según la naturaleza del esfuerzo:**
+        *   **Esfuerzos Simples:**
+            *   **Compresión:** Las partículas del material tienden a reducir su distancia, apretándose (ej. pilares, muros, puntales).
+            *   **Tracción:** Las partículas del material tienden a separarse, estirándose (ej. tirantes).
+            *   **Cortante/Cortadura/Cizalladura:** Las partículas del material se deslizan con movimiento relativo, producido por dos fuerzas paralelas no coincidentes y opuestas (ej. unión viga-pilar).
+        *   **Esfuerzos Compuestos:** Combinaciones de esfuerzos simples.
+            *   **Flexión (o Flexión Pura):** Esfuerzo en piezas longitudinales por carga transversal, causando tracción en la parte inferior y compresión en la superior (o viceversa en voladizos) (ej. vigas, jácenas).
+            *   **Pandeo (o Flexión Compuesta):** Deformación en elementos esbeltos por fuerzas de compresión en la dirección de su directriz (ej. tirante sometido a compresión).
+            *   **Torsión:** Esfuerzo por fuerza circular sobre una pieza (ej. voladizos).
+
+#### 1.5. Materiales de Construcción
+
+Los materiales de construcción son materias primas transformadas mediante técnicas constructivas para formar elementos de una edificación.
+
+*   **Comportamiento Mecánico:** Se distinguen:
+    *   **Materiales Tenaces:** Absorben energía antes de fracturar, con alta ductilidad (madera, acero). Trabajan bien a compresión y tracción, siendo flexibles.
+    *   **Materiales Frágiles:** Tienen buen comportamiento a compresión pero malo a tracción, no soportan flexiones, y son de "carácter másico" (piedra, ladrillo).
+
+*   **Clasificación de Materiales Pétreos:**
+    *   **Pétreos Naturales:** Extraídos directamente de la naturaleza. Tienen alta resistencia y durabilidad, pero alto coste y poca plasticidad.
+        *   **Rocas Ígneas:** Solidificación de magma.
+            *   **Intrusivas/Plutónicas/Magmáticas:** Densas y resistentes, solidificadas en el interior (ej. granito para cimentaciones, muros de carga).
+            *   **Extrusivas/Volcánicas/Eruptivas:** Menos densas y resistentes, solidificadas en superficie (ej. basalto, uso similar al granito).
+        *   **Rocas Sedimentarias:** Resultado de procesos sedimentarios sobre rocas preexistentes.
+            *   **Dentríticas:** Alteración física de rocas previas. Pueden ser **sueltas** (gravas, arenas, limos) o **compactas** (conglomerados, areniscas, lutitas).
+            *   **No Dentríticas:** Origen químico (precipitación/cristalización) (ej. arcilla, caliza, yeso).
+        *   **Rocas Metamórficas:** Transformación de rocas ígneas y sedimentarias por presión y temperatura. Su uso es limitado por baja resistencia y exfoliabilidad. Ejemplos de la "serie pelítica": Arcilla > Pizarra > Esquisto > Micacita > Gneis > Migmatita.
+
+    *   **Pétreos Artificiales:** Obtenidos por procesos industriales.
+        *   **Materiales Formáceos:** Mezcla fluida en estado plástico que adquiere forma al verterse en un molde (ej. Tapial).
+            *   **Tapial (aglomerados de arcilla):** Usado en muros verticales, apisonado en tongadas. Densidad 16-21 kN/m³, resistencia muy baja (1.5 N/mm²), baja durabilidad frente a agentes atmosféricos, excelente aislamiento térmico.
+        *   **Elementos de Fábrica:** Pequeños elementos sólidos prefabricados unidos con aglomerantes.
+            *   **Aglomerantes:** Unen fragmentos por efectos físicos (solidificación por secado) (ej. barro, cola).
+            *   **Conglomerantes:** Unen fragmentos por transformaciones químicas.
+                *   **Aéreos:** Fraguan en contacto con aire (ej. yeso, cal grasa).
+                    *   **Yeso:** Densidad 15 kN/m³, resistencia ≥ 2 N/mm², fraguado rápido, mal conductor de calor (buen aislante térmico). Tipos: Yeso Grueso (YG), Yeso Fino (YF), Yeso Proyectado (YP), Escayola (E-30, E-35).
+                    *   **Cal grasa/aérea:** Óxido de calcio (CaO) obtenido por calcinación de caliza. Reacciona violentamente con agua (hasta 90°C) formando hidróxido de calcio (Ca(OH)2). Este reacciona con CO2 del aire formando carbonato de calcio (CaCO3), poco resistente al agua. Densidad 13 kN/m³.
+                *   **Hidráulicos:** Fraguan en aire y agua (ej. cemento, cal hidráulica).
+                    *   **Cal Hidráulica:** Cal viva con >5% de arcilla. Fraguado más rápido que la cal aérea, produce productos hidratados resistentes y estables.
+                    *   **Cemento:** Mezcla de caliza y arcilla calcinada (clínker molido). Polvo fino que endurece al contacto con agua. Tipos: naturales (rápido/lento) y artificiales (los más comunes en edificación). Nomenclatura UNE EN 197-1 (CEM I, II, III, IV, V con subtipos A, B, C y aditivos S, O, P, Q, V, W, L, LL). Clases resistentes (N/mm²): 32.5 (media), 42.5 (alta), 52.5 (muy alta) con inicial (R) o normal (N) resistencia.
+                *   **Hidrocarbonatados Bituminosos:** Compuestos ligantes que necesitan calor para extenderse y consolidarse al perder viscosidad (ej. alquitrán, betún, asfalto). Usados en carreteras e impermeabilización.
+            *   **Áridos:** Materiales granulares inorgánicos (arena, grava) para morteros y hormigones. Inertes, elevada resistencia mecánica.
+                *   **Según origen:** Naturales/rodados, Machaqueo/reciclados/triturados, Artificiales.
+                *   **Según tamaño:** Gravas (gruesas 20-60mm, medias 6-20mm, finas 2-6mm), Arenas (gruesas 0.6-2mm, medias 0.2-0.6mm, finas 0.06-0.2mm), Limos (gruesos 0.02-0.06mm, medios 0.006-0.02mm, finos 0.002-0.006mm), Arcillas (<0.002mm).
+            *   **Agua:** Elemento clave para la reacción química de los conglomerantes. Debe ser apta para consumo humano, con pH ≥5, sulfatos ≤1 g/l, cloruros ≤1 g/l (hormigón pretensado) o ≤3 g/l (hormigón masa/armado). Prohibido agua de mar en hormigón armado/pretensado.
+            *   **Pasta:** Mezcla plástica de conglomerante y agua, sin árido.
+            *   **Mortero:** Mezcla de conglomerante, árido fino y agua. Usado para revestimientos o ligazón. Tipos: yeso, cemento, cal, mixtos (bastardos). Nomenclatura UNE-EN 998-2 (M-1 a M-20 en N/mm²).
+            *   **Hormigón:** Conglomerante + agua + árido grueso (y aditivos). Puesto en obra en estado plástico (encofrado).
+                *   **Hormigón en Masa:** Sin armado, soporta compresión (limpieza o cimentaciones rígidas).
+                *   **Hormigón Armado:** Con armadura de acero para resistir tracción y compresión.
+                *   **Hormigones Pretensados:** Acero (tendones) tensado antes (pretesa) o después (postesa) de hormigonar. Mejora rigidez, durabilidad, estanqueidad y reduce deformaciones.
+            *   **Elementos de Fábrica (Piedra):** Sillar, sillarejo, mampuesto. Alta resistencia a compresión.
+            *   **Adobe (arcilla seca):** Ladrillo de barro (20% arcilla, 80% arena) secado al sol, con fibras naturales (paja). Buen aislamiento térmico, mala durabilidad. Bajo costo material.
+            *   **Ladrillo Cerámico (arcilla cocida):** Pieza ortoédrica por moldeo, secado y cocción. Dimensiones comunes: Normalizado (25x12x5cm), Métrico (24x11.5x5.25cm). Juntas horizontales (tendel), verticales (llaga). Tipos: macizo (M), perforado (P), hueco (H) (sencillo HS, doble HD, triple HT), gran formato (LGF), cara vista, aplantillados.
+            *   **Bloque de Termoarcilla/Arcilla Aligerada:** Pieza cerámica de baja densidad, mayor grosor, con macroporos y perforaciones para aislamiento térmico y acústico.
+            *   **Bloque de Hormigón:** Pieza prefabricada de cemento, agua, áridos (finos/gruesos/artificiales). Normalizadas hasta 60cm (ej. 40x20x20cm).
+    *   **Materiales Metálicos:**
+        *   **No Ferrosos:** Plomo, cinc, cobre, latón, bronce, estaño, aluminio. Usos no estructurales.
+        *   **Ferrosos:** Aleaciones de hierro y carbono. Más carbono = más dureza/resistencia, más fragilidad, menos ductilidad.
+            *   **Hierro Dulce/Forjado:** <0.03% C. Dúctil, maleable, poroso (se oxida fácil). Usado en cerrajería.
+            *   **Fundición:** >2.00% C. Quebradizo, resistente a choque térmico/corrosión/desgaste. Usado en tuberías, tapas.
+            *   **Acero:** 0.03-2% C (com

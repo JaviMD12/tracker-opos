@@ -1,0 +1,70 @@
+# Caracterización de Vehículos en Operaciones de Rescate
+
+La comprensión detallada de los vehículos modernos, sus sistemas de seguridad y sus fuentes de energía motriz es fundamental para los equipos de rescate. La evolución del diseño automotriz ha introducido complejidades que requieren un conocimiento técnico avanzado para garantizar la seguridad de los intervinientes y optimizar el rescate de las víctimas.
+
+## Sistemas de Propulsión Alternativos
+
+El parque automovilístico actual incluye una creciente variedad de vehículos que emplean fuentes de energía motriz alternativas a los combustibles fósiles tradicionales, motivado por la búsqueda de mayor eficiencia y menor impacto ambiental.
+
+### Vehículos Propulsados por Gas: GLP y GNC
+
+Los vehículos que utilizan gases como combustible han experimentado un aumento constante en su consumo, ofreciendo un ahorro significativo (entre 40% y 45% respecto a la gasolina). La red de suministro de **Gas Licuado de Petróleo (GLP)** ha crecido notablemente en España, haciéndolo más accesible que el **Gas Natural Comprimido (GNC)** para usuarios particulares.
+
+Las diferencias clave entre estos combustibles radican en su composición y estado físico: el GNC se compone principalmente de metano y se almacena en estado gaseoso a muy altas presiones (aproximadamente 200 bar o 2.900 psi), lo que requiere tanques robustos. Por su parte, el GLP es una mezcla de butano y propano que se almacena en estado líquido a presiones mucho más bajas (entre 6 y 7 bares), permitiendo el uso de tanques más ligeros. En cuanto a la seguridad en caso de escape, el GNC es más ligero que el aire y tiende a disiparse hacia arriba, mientras que el GLP es más denso y tiende a acumularse en el suelo. Ambos sistemas cuentan con una instalación diseñada para resistir colisiones, incendios y caídas, evitando que el gas penetre en el habitáculo.
+
+Los vehículos a gas incorporan **válvulas de cierre de seguridad de gas**, que interrumpen el circuito eléctrico en caso de motor parado o activación de un sensor de choque, y **válvulas de cierre mecánicas** para mantenimiento o fallos de hermeticidad. Un **cortocircuito fusible** se activa ante temperaturas elevadas (superiores a 110°C), liberando gas de forma controlada a través de un **limitador de caudal** para reducir el flujo en caso de caída brusca de presión. Las **caperuzas de goma** protegen válvulas y accesorios, dirigiendo cualquier escape al exterior. La identificación del tipo de combustible se realiza a menudo mediante inscripciones como "CNG" o por la ubicación de las bocas de llenado y tanques. En autobuses de GNC, los tanques y una ranura de ventilación suelen ubicarse en el techo.
+
+### Vehículos Eléctricos e Híbridos
+
+Estos vehículos utilizan la electricidad como fuente de energía, siendo los **eléctricos puros** menos comunes que los **híbridos**. Los eléctricos destacan por su eficiencia, cero emisiones, silencio y bajo coste de repostaje, aunque presentan limitaciones en autonomía y precio, siendo ideales para entornos urbanos.
+
+Los vehículos híbridos combinan un motor de combustión con uno o más motores eléctricos. Pueden funcionar en **paralelo** (donde el motor eléctrico impulsa el vehículo hasta cierta velocidad, y luego interviene el motor de combustión, o este último recarga las baterías y el sistema regenera energía al frenar) o en **serie** (donde el motor térmico solo genera electricidad para alimentar el motor eléctrico). La identificación visual suele incluir las palabras "Hybrid" o la letra "h" en el modelo.
+
+Los **componentes de alto voltaje** en estos vehículos, que pueden operar con tensiones de hasta 650V, incluyen:
+*   **Motor térmico**: Puede funcionar con gasolina, diésel, gas o biocombustibles, y se caracteriza por su bajo cubicaje y alto par.
+*   **Motor eléctrico**: Uno o varios, con transmisión directa a las ruedas, ofreciendo un par elevado a bajas revoluciones y un funcionamiento casi silencioso.
+*   **Generador**: Recupera energía de frenadas, retenciones y aceleraciones.
+*   **Baterías**: Generalmente de plomo-ácido, níquel-hidruro metálico (NiMh), níquel-cadmio (NiCd) o iones de litio. Suelen ser pesadas, con sistemas de refrigeración y ubicadas en la parte trasera del vehículo o en el techo en el caso de vehículos de pasajeros.
+*   **Sistema de gestión**: Un ordenador con múltiples sensores que optimiza la combinación de motores.
+
+### Vehículos de Hidrógeno (FHCV)
+
+Estos vehículos, también conocidos como **Fuel Cell Hybrid Vehicle**, ofrecen alta eficiencia y emiten solo vapor de agua. Pueden quemar hidrógeno comprimido a muy alta presión y baja temperatura, o generar hidrógeno a partir de alcoholes, siendo el uso de **pilas de combustible** la opción más común para generar electricidad a partir de hidrógeno y oxígeno. Los componentes de seguridad incluyen la pila de combustible y las botellas de gas a presión, generalmente ubicadas en el techo. Su identificación exterior incluye rótulos como "FCHV", "F-CELL" o "HYDROGEN", junto con indicadores de presión.
+
+## Elementos de Seguridad en Vehículos
+
+Los sistemas de seguridad se clasifican en **activa, pasiva y terciaria**, diseñados para prevenir accidentes, minimizar daños y facilitar el rescate.
+
+### Seguridad Activa
+
+La **seguridad activa** busca prevenir el accidente antes de que ocurra, e incluye elementos como sistemas de iluminación, frenos (ABS, ASR, ESP), dirección asistida y control de estabilidad. Aunque estos sistemas no suelen afectar directamente al rescatador, es crucial considerar el "control energético" del vehículo, que implica la llave de arranque, el paro automático y la desconexión de la batería de 12V y la de alto voltaje, si existe. Es posible que los vehículos modernos cuenten con una segunda batería, la cual también debe ser desconectada para reducir riesgos.
+
+Los **neumáticos** son los cuatro puntos de apoyo que transmiten la adherencia y fricción con la carretera. Pueden ser **tubetype** (con cámara), **tubeless** (sin cámara, más comunes) o **semi-neumáticos** (para vehículos pequeños). En tractores agrícolas, pueden lastrarse con líquido (agua y anticongelante hasta el 75%) para aumentar la tracción, y el 25% restante se infla con aire.
+
+La **suspensión** une las ruedas al bastidor, suavizando irregularidades y mejorando la estabilidad. Los sistemas pueden ser **McPherson** (común en turismos, con muelle y amortiguador), **hidractiva** (esferas de gas y líquido a alta presión) o **neumática** (en vehículos pesados, autobuses y camiones, usando aire comprimido y válvulas reguladoras).
+
+Los **frenos** transforman la energía cinética en calor para detener el vehículo, manteniendo la dirección. Han evolucionado desde tambores a discos y sistemas autoventilados, integrando tecnologías como ABS, ASR y ESP. Los vehículos pesados usan **frenos neumáticos** activados por pistones de aire comprimido.
+
+Entre las innovaciones en seguridad activa se encuentran los **faros inteligentes** de xenón, el **ordenador de a bordo** y el **sistema de paro y arranque automático** (común en urbanos, con riesgos potenciales si se presiona el acelerador tras un accidente). Otras innovaciones incluyen cámaras en retrovisores, detectores de distancia y sensores de luminosidad/lluvia.
+
+### Seguridad Pasiva
+
+La **seguridad pasiva** se activa automáticamente tras la pérdida de control del vehículo y la colisión, con el objetivo de reducir las fuerzas y aceleraciones que afectan a los ocupantes.
+Los **elementos estructurales** incluyen:
+*   La **carrocería**, diseñada para resistir impactos y deformarse de manera controlada. Las piezas estructurales tienen un espesor mayor (1.2-2.5 mm) que las cosméticas (0.6-0.8 mm). La **célula de seguridad** o habitáculo es rígida y reforzada con anillos (transversales como A, B, C, D) y pilares (que soportan grandes cargas longitudinales y transversales).
+*   La **chapa del salpicadero**, que impide la entrada de elementos mecánicos al habitáculo en colisiones frontales.
+*   El **túnel central**, que actúa como espina dorsal, reforzando la rigidez y resistencia.
+*   El **suelo del habitáculo**, el elemento más rígido de la carrocería, que soporta esfuerzos de flexión.
+*   Los **estribos bajo las puertas**, que protegen lateralmente a los ocupantes.
+*   Las **puertas**, diseñadas para un cierre perfecto con pilares y montantes, y barras de protección laterales.
+*   El **techo**, a menudo reforzado con traviesas y cerchas centrales.
+
+La **parte frontal** del vehículo se deforma progresivamente para absorber la energía del impacto, canalizando las deformaciones y utilizando largueros y traviesas con puntos fusibles. Los sistemas **Procon-ten** desplazan el motor hacia abajo y atrás, la columna de dirección se empotra y los cinturones de seguridad se tensan automáticamente. El **capó** se refuerza para canalizar deformaciones y evitar la penetración al habitáculo.
+
+Los **refuerzos laterales del suelo** aumentan la seguridad del habitáculo, y los **refuerzos interiores de puertas (SIPS)**, junto con las barras de protección, mitigan los daños en impactos laterales. En el techo, los **refuerzos** evitan que se hunda, y en descapotables, los **arcos de seguridad (ROPS)** se activan automáticamente.
+
+Los **cristales** (lunas templadas y laminadas) están diseñados para astillarse sin producir fragmentos peligrosos o para mantener la visión, y las **ventanas de emergencia** en autobuses facilitan la evacuación. Los **cinturones de seguridad** (abdominales, torácicos, mixtos, de arnés, integrados) retienen a los ocupantes, complementados por **pretensores** que eliminan holguras al inicio del impacto (mecánicos o pirotécnicos). Los **airbags** (frontales, laterales, de cortina, de rodilla, en la banqueta, para peatones, inteligentes) se inflan instantáneamente para amortiguar el impacto, y el sistema **SRS** (Supplemental Restraint System) controla su activación.
+
+### Seguridad Terciaria
+
+La **seguridad terciaria** incluye sistemas que facilitan el rescate, como el **desbloqueo automático del cierre centralizado** en caso de accidente, las **luces intermitentes de advertencia** (que indican alimentación activa) y el sistema **eCall**, que realiza llamadas automáticas de emergencia, proporcionando la localización y datos relevantes del accidente para acelerar la llegada de los servicios. Las **hojas de rescate**, proporcionadas por los fabricantes, contienen información vital sobre el vehículo para los equipos de rescate.

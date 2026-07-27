@@ -1,0 +1,113 @@
+# Gestión de Incidentes NRBQ: Reconocimiento, Clasificación y Tácticas de Intervención
+
+La gestión de incidentes con materiales Nucleares, Radiológicos, Biológicos y Químicos (NRBQ) constituye un pilar fundamental en la respuesta de los servicios de emergencia, dado el elevado riesgo que estos sucesos representan para la vida humana, los bienes y el medio ambiente. La complejidad inherente a la naturaleza de estas sustancias exige un conocimiento profundo para una intervención eficaz, priorizando siempre la seguridad de los intervinientes y de la población.
+
+## Identificación y Clasificación de Materiales Peligrosos
+
+La correcta identificación de una sustancia peligrosa es el primer paso para una intervención segura y eficaz. Para ello, se utilizan diversos sistemas de codificación y señalización estandarizados.
+
+### Códigos Numéricos y Pictogramas
+
+El **Número ONU** es una secuencia numérica de cuatro dígitos que identifica de forma única una sustancia o mercancía peligrosa a nivel internacional, facilitando su reconocimiento rápido en cualquier contexto. Ejemplos comunes incluyen la gasolina (UN 1203) o el ácido sulfúrico (UN 1830).
+
+Complementariamente, el **Número de Identificación de Peligro (NIP)**, también conocido como Código Kemler, se compone de dos o tres dígitos ubicados en la parte superior del panel naranja de señalización. El primer dígito indica el peligro principal, mientras que los siguientes señalan riesgos secundarios o una intensificación del peligro primario. La presencia de una 'X' antes del NIP advierte sobre una reacción peligrosa de la sustancia con el agua. Existen NIPs con significados específicos, como el "22" para gas licuado refrigerado o el "323" para líquido inflamable que reacciona con agua y emite gases inflamables.
+
+Los **pictogramas y etiquetas de peligro** son representaciones gráficas estandarizadas que informan visualmente sobre la naturaleza de los riesgos. Estos distintivos, de forma cuadrada apoyada sobre un vértice y con dimensiones mínimas de 10x10 cm, se colocan en bultos, contenedores y vehículos.
+La **Clase 1** abarca las materias explosivas, subdivididas del 1.1 al 1.6 según su grado de peligrosidad (siendo el 1.1 el más peligroso). Los **Gases** se clasifican en la **Clase 2**, indicando riesgos como asfixiante, comburente, inflamable, tóxico o corrosivo. La **Clase 3** corresponde a los líquidos inflamables, definidos por un punto de inflamación igual o inferior a 60°C. Las **materias sólidas inflamables** se incluyen en la **Clase 4.1**, mientras que las **sustancias con riesgo de inflamación espontánea** se asignan a la **Clase 4.2**, y aquellas que **desprenden gases inflamables al contacto con el agua** a la **Clase 4.3**. Por su parte, los **comburentes** se clasifican en la **Clase 5.1** y los **peróxidos orgánicos** en la **Clase 5.2**, con especial atención a su riesgo de ignición y explosión. Las **materias tóxicas** se engloban en la **Clase 6.1**, categorizadas por su nivel de toxicidad (Grupos de Embalaje I, II y III, siendo el I el más tóxico), y las **sustancias infecciosas** en la **Clase 6.2**. Finalmente, los **materiales radiactivos** se ubican en la **Clase 7**, mientras que las **materias corrosivas** se clasifican en la **Clase 8**, y otras **sustancias peligrosas misceláneas** (como amianto o baterías de litio) en la **Clase 9**.
+
+### Colores de Señalización
+
+Los colores empleados en las señalizaciones de peligro son clave para una identificación intuitiva y rápida:
+-   **Rojo:** Inflamable.
+-   **Amarillo:** Oxidante.
+-   **Verde:** Gas no inflamable.
+-   **Naranja:** Explosivo.
+-   **Azul:** Reactivo al agua.
+
+### Tipología de Recipientes y Contenedores
+
+La forma y los elementos de los contenedores y vehículos de transporte proporcionan información crucial:
+-   **Cisternas elípticas u ovaladas con fondos planos:** Transportan líquidos o sólidos a baja presión, habituales para productos petrolíferos.
+-   **Cisternas circulares con fondos planos:** Diseñadas para productos muy peligrosos como líquidos corrosivos, operando bajo presión, aunque no extremadamente alta.
+-   **Cisternas circulares con fondos esféricos:** Ideales para gases comprimidos o licuados a muy alta presión, ofreciendo la mejor resistencia ante colisiones y vuelcos.
+
+Algunos elementos específicos del recipiente también son indicativos:
+-   **Parasol:** Presente en vehículos que transportan gases licuados del petróleo (GLP), ayuda a mantener la temperatura.
+-   **Tubos de descarga laterales:** Indican transporte de líquidos o sólidos.
+-   **Compresor de aire:** Sugiere la presencia de materiales no presurizados que requieren asistencia para la descarga.
+-   **Boca de hombre:** Permite acceso para carga, limpieza e inspección. En cisternas para líquidos corrosivos, a menudo incluye una bandeja antiderrames.
+-   **Orificio de limpieza:** Ubicado en la parte inferior de la cisterna, por encima del nivel del líquido.
+-   **Válvulas de seguridad (presión y depresión) y discos de ruptura:** Dispositivos automáticos que se activan ante sobrepresión o vacío para evitar la rotura del recipiente. Los discos de ruptura, sin capacidad de cierre repetido, se usan para productos que generan aumentos rápidos de presión o para materiales tóxicos que no deben escapar por una válvula.
+-   **Válvula de cinco efectos:** Exclusiva de cisternas atmosféricas (sin productos presurizados), como las de gasolina. Cumple funciones de aireación, sobrepresión, depresión, antivuelco (cierra a más de 27° de inclinación) y apagallamas.
+-   **Válvula de exceso de flujo:** Cierra automáticamente si el flujo supera un límite establecido, reabriéndose cuando las presiones se equilibran.
+-   **Aberturas de llenado/vaciado:** Si son inferiores, tienen al menos dos o tres cierres en serie. Las aberturas superiores no deben estar por debajo del nivel del líquido para sustancias específicas.
+-   **Válvula de recuperación de vapores:** Evita fugas de hidrocarburos durante la carga y descarga.
+-   **Apagallamas:** Evitan el retroceso de llamas en la salida de vapores inflamables.
+-   **Puestas a tierra:** Conexión equipotencial para camiones cisterna con líquidos inflamables.
+-   **Válvulas de seguridad de corte hidráulico (COH):** Aislan depósitos o líneas en caso de incendio.
+
+### Reconocimiento por Sentidos
+
+Aunque las **medidas de protección personal (EPP)** son esenciales para cualquier intervención NRBQ, la observación a distancia mediante la vista y el oído puede proporcionar información inicial valiosa. La **vista** permite identificar colores, formas, tamaños y distancias, que pueden orientar sobre el tipo de sustancia y el riesgo. El **oído** puede detectar sonidos característicos de fugas, soplidos o pequeñas explosiones. El **olfato** o el **gusto** no deben usarse como métodos de identificación debido al riesgo de exposición directa.
+
+### Documentación y Fichas de Intervención
+
+La documentación que acompaña a las mercancías peligrosas es una fuente fundamental de información:
+-   **Carta de Porte:** Documento legal que certifica el contrato de transporte y detalla la sustancia, cantidad y embalaje, siguiendo la normativa ADR.
+-   **Fichas de Datos de Seguridad (FDS/MSDS):** Proporcionan información detallada sobre los riesgos químicos, primeros auxilios, manipulación y mitigación.
+-   **Fichas de Intervención (ERICards):** Guías estandarizadas para bomberos en accidentes de transporte de productos químicos, ofreciendo información básica sobre características, peligros, protección personal e intervención.
+-   **Instrucciones Escritas:** Obligatorias para la tripulación del vehículo, detallan los riesgos y las acciones a seguir en caso de incidente.
+
+## Protocolos de Intervención y Medidas de Seguridad
+
+La intervención en incidentes NRBQ sigue un protocolo riguroso, que incluye movilización, evaluación y zonificación.
+
+### Fases de Intervención
+
+1.  **Recepción del aviso y movilización:** Recopilación de datos iniciales (tipo de emergencia, víctimas, instalaciones), confirmación de movilización de otros servicios (sanitarios, fuerzas de seguridad) y establecimiento del Puesto de Mando Avanzado (PMA).
+2.  **Llegada al siniestro:** Emplazamiento de vehículos, preparación del material de primera intervención, acopio de materiales.
+3.  **Valoración y tareas previas:** Lectura de la patología, análisis de riesgos inminentes, elaboración de un Plan de Acción, sectorización y zonificación.
+4.  **Acciones inminentes:** Mitigación de riesgos (confinamiento, evacuación, corte de servicios, estabilidad estructural básica, rescates inminentes, control de propagación).
+5.  **Control:** Búsqueda y rescate de víctimas superficiales y sepultadas, control de la propagación, valoración continua de la patología y recursos.
+6.  **Mitigación / Estabilización:** Ejecución de apeos estandarizados y específicos.
+7.  **Desescombro y estabilización:** Restitución del conjunto a la situación previa a la patología.
+8.  **Valoración final y vuelta a base:** Comprobación de la estabilidad estructural, ausencia de nuevos síntomas, y consideración de seguridad para el beneficiario.
+
+### Zonificación en Intervenciones NRBQ
+
+La zonificación es crítica para delimitar las áreas de trabajo y garantizar la seguridad, estableciendo tres zonas principales:
+-   **Zona Caliente (ZC):** Área de riesgo más elevado, donde la población no puede protegerse. Requiere máxima protección personal (EPP NRBQ) y se limita el tiempo de permanencia a menos de 30 minutos, reservada para acciones de salvamento de vidas.
+-   **Zona Templada (ZT):** Área funcional para el desarrollo de tareas de intervención, con riesgo mínimo o nulo. Incluye el puesto de mando, vehículos y personal de apoyo.
+-   **Zona Fría (ZF):** Fuera de las zonas anteriores, destinada a descanso, reposición y personal no actuante.
+
+La **descontaminación** es un proceso esencial para reducir o prevenir la propagación de la contaminación de personas y equipos. Se prioriza la rapidez en el lavado para víctimas graves y la minuciosidad para el personal interviniente y el equipo. Los métodos incluyen cepillado, absorción, lavado con agua y detergentes, venteo y aspiración. Las etapas de descontaminación incluyen una ducha extensa, descontaminación con soluciones específicas y un aclarado final, seguido de la retirada de trajes y monitoreo para verificar la efectividad.
+
+### Medios de Protección Personal (EPP) y Equipos
+
+El EPP es crucial en cualquier intervención NRBQ. Los trajes de protección química se clasifican en tres categorías según el riesgo:
+-   **Nivel I:** Protección básica contra incendios urbanos (chaquetón, pantalón, casco, botas, guantes).
+-   **Nivel II:** Protección contra salpicaduras de productos corrosivos (sobre el Nivel I).
+-   **Nivel III:** Traje estanco a gases encapsulado con ventilación y presión positiva, junto con equipos de respiración autónoma.
+
+Otros equipos específicos incluyen:
+-   **Vendas selladoras de fugas, lanzas selladoras de fugas y kits de sellado de fugas:** Para taponar tuberías y depósitos.
+-   **Cojines hermetizadores de alcantarillas y de drenaje:** Para sellar y desviar sustancias peligrosas.
+-   **Bombas peristálticas y herramientas "antichispas":** Para trasvasar líquidos inflamables o explosivos y trabajar en atmósferas explosivas.
+-   **Contenedores de recogida de PRFV (Poliéster Reforzado con Fibra de Vidrio):** Para almacenamiento seguro de líquidos agresivos.
+-   **Detectores de gases (explosímetros), tubos colorimétricos, cámaras térmicas y radiómetros:** Para la detección y medición de sustancias y radiaciones.
+
+### Particularidades en Intervenciones Radiológicas y Nucleares
+
+Las intervenciones radiológicas se centran en proteger contra la **irradiación** (exposición a radiación externa) y la **contaminación** (presencia de sustancias radiactivas). La protección se basa en la limitación de **tiempo** de exposición, el aumento de la **distancia** a la fuente y el uso de **blindajes** (materiales densos como plomo u hormigón). La **tasa de dosis** (rapidez de absorción de radiación) es un parámetro clave para la zonificación, que establece zonas caliente, templada y fría con límites de dosis específicos. Los **bultos radiactivos** se clasifican del Tipo A al Tipo C, según su capacidad para resistir accidentes y contener el material.
+
+En incidentes **nucleares**, se activan planes específicos como el PLABEN (Plan Básico de Emergencia Nuclear), que coordina la respuesta a nivel nacional y establece medidas de protección como el confinamiento o la evacuación.
+
+### Particularidades en Intervenciones Biológicas
+
+Los **riesgos biológicos** se asocian a la exposición a agentes patógenos (bacterias, virus, etc.). La protección se basa en medidas **físicas** (barreras, confinamiento, EPP), **químicas** (desinfectantes) y **biológicas** (vacunas). Los agentes se clasifican por su capacidad de transmisión y mortalidad (Categorías A, B y C, siendo la A la más peligrosa).
+
+### Tácticas de Intervención Específicas
+
+La elección de la táctica (ofensiva o defensiva) depende de la valoración del riesgo y los recursos disponibles. Una **táctica defensiva** busca contener la catástrofe sin intervenir directamente sobre el elemento colapsado, mientras que una **táctica ofensiva** implica un abordaje directo para estabilizar y rescatar víctimas, asumiendo mayores riesgos.
+
+**En resumen**, la actuación en incidentes NRBQ requiere una aproximación multidisciplinar que integra un conocimiento técnico exhaustivo, una planificación rigurosa, el uso adecuado de EPP y equipos especializados, y una coordinación efectiva entre todos los organismos implicados.

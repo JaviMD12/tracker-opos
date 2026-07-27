@@ -1,0 +1,59 @@
+# Gestión de Emergencias con Múltiples Víctimas: Evaluación de la Escena y Triage
+
+La gestión eficaz de **grandes emergencias y catástrofes** requiere una planificación y coordinación exhaustivas entre los diversos servicios intervinientes, buscando una respuesta organizada y rápida. Se entiende por **desastre** o **gran emergencia** un acontecimiento inesperado donde el volumen de víctimas supera la capacidad habitual de los recursos locales, haciendo necesaria la ayuda externa. Por otro lado, un **incidente con múltiples víctimas** (IMV) implica una desproporción temporal entre las necesidades y la capacidad de respuesta, donde los recursos existentes pueden controlar la situación tras una reorganización.
+
+Un rasgo distintivo de las catástrofes es la desorganización inicial. Por ello, la prioridad no es la asistencia minuciosa individual, sino salvar el mayor número de vidas posible y evacuar a los heridos con mayores probabilidades de supervivencia. La clasificación de las catástrofes según el número de víctimas es la siguiente: **leves** (25 a 99 víctimas), **medias** (100 a 999 víctimas) y **graves** (más de 1000 víctimas).
+
+## Organización Táctica de la Escena
+
+Para una respuesta adecuada, es fundamental establecer una estructura organizada y coordinada. Un **Plan de Emergencias** se activa bajo la dirección del Director del Plan, quien opera desde un **Centro de Coordinación Operativa (CECOP)**. En la zona del suceso, la estructura se integra en un **Puesto de Mando Avanzado (PMA)**, compuesto por los mandos de los distintos **Grupos de Acción**, que incluyen:
+*   **Grupo de Intervención**: Bomberos y personal de rescate.
+*   **Grupo de Seguridad**: Fuerzas y Cuerpos de Seguridad.
+*   **Grupo Sanitario**: Servicios de emergencias, Cruz Roja y Protección Civil.
+*   **Grupo Técnico**: Protección Civil y especialistas técnicos.
+*   **Grupo Logístico**: Protección Civil y Cruz Roja.
+
+Los **cuerpos de seguridad** se encargan de delimitar y asegurar la zona, mientras que los **bomberos** controlan la seguridad del incidente y rescatan a las víctimas. Por su parte, el **personal sanitario** realiza la clasificación, tratamiento y evacuación de los heridos.
+
+El **Grupo Sanitario** se organiza jerárquicamente bajo la autoridad del **Mando Sanitario (MS)**, que se integra en el PMA. Este a su vez coordina a los **jefes de los distintos niveles asistenciales** a través del **Mando Médico Operativo (MMO)**, garantizando la continuidad asistencial. Los **primeros intervinientes** (testigos o primer equipo de respuesta) que llegan a la escena de un IMV deben centrarse primero en organizar y controlar el caos, realizando las siguientes acciones:
+*   Evaluar la **seguridad de la escena** para proteger a intervinientes y víctimas.
+*   Realizar una **valoración global de la escena** para evitar que víctimas pasen desapercibidas o sean evacuadas sin discriminación.
+*   Comunicar al centro coordinador el **número estimado de lesionados** y los recursos adicionales necesarios.
+*   Identificar **ubicaciones adecuadas** para el PMA, las zonas de clasificación y agrupación de víctimas, el puesto médico avanzado y la evacuación de heridos.
+*   **Concentrar a los ilesos** y víctimas que puedan caminar en una zona segura, ya que serán los últimos en ser asistidos y no pasarán necesariamente por el PMA.
+
+## Sectorización de la Escena
+
+La sectorización es la delimitación de la escena en **áreas funcionales** para los distintos servicios, lo que permite organizar las actuaciones, limitar el área del incidente y optimizar el trabajo. Se establecen tres zonas principales:
+
+1.  **Zona Caliente o Área de Salvamento o Rescate (Zona Roja):**
+    *   Es el lugar del incidente donde se encuentra la mayoría de las víctimas.
+    *   Aquí se lleva a cabo la búsqueda y rescate de las víctimas para su traslado a una zona segura.
+    *   Solo trabajan **rescatadores (bomberos)**; los sanitarios solo acceden si son solicitados para asistencia conjunta en víctimas atrapadas o para una primera clasificación (triage básico).
+    *   No se debe prestar asistencia sanitaria detallada, reduciéndose a **medidas salvadoras** como la apertura de vía aérea o la compresión de hemorragias.
+    *   Desde esta zona se inicia la **primera noria o noria de rescate o camilleros**, que traslada a las víctimas de manera continua y unidireccional hasta la zona de socorro para una estabilización adecuada y posterior traslado. El movimiento debe realizarse a pie, en camillas o con otros medios improvisados, siempre garantizando la alineación de la columna cervical.
+
+2.  **Zona Templada o Área de Socorro o Asistencial (Zona Amarilla):**
+    *   Es una zona segura, cercana al área de salvamento.
+    *   Aquí se despliegan los servicios sanitarios, incluyendo el **nido de heridos**, el **puesto de mando sanitario (PMSAN)**, el **área de clasificación o triage** y el **Puesto Médico Avanzado (PMA)**.
+    *   El **nido de heridos** se ubica en el límite entre la zona de impacto y la de socorro, concentrando a los rescatados para su clasificación según gravedad.
+    *   El **Puesto de Mando Sanitario (PMSAN)**, desplegado por el primer equipo de emergencia, se sitúa cerca del área de salvamento. Aquí el Mando Médico Operativo (MMO) dirige al personal sanitario, organiza las áreas asistenciales y se comunica con el Centro Coordinador del Sistema Sanitario y otros jefes de servicio.
+    *   El **área de clasificación o triage** debe desplegarse lo antes posible, dirigida por un responsable de triage. Se localiza cerca del nido de heridos y es un espacio visible, seguro y amplio. Aquí se realiza un **segundo triage o triage avanzado**, clasificando a las víctimas con tarjetas de colores (amarillo o rojo), ya que las víctimas verdes pasan directamente a una zona de evacuación.
+    *   El **Puesto Médico Avanzado (PMA)**, situado en un área segura próxima a la zona de impacto, es determinado por el MMO y puede consistir en tiendas de campaña o carpas, o realizarse al aire libre. Su despliegue temprano es crucial.
+    *   El PMA se divide en dos zonas: una para los heridos clasificados como **rojos** y otra para los **amarillos**. Tras el triage avanzado, las víctimas son estabilizadas y tratadas según su prioridad. En el PMA se lleva a cabo un **último triage o clasificación** para establecer el orden de evacuación.
+    *   El flujo de personas y heridos en el PMA debe ser **unidireccional** para evitar aglomeraciones.
+    *   A la salida del PMA se establece el **Puesto de Carga**, donde se acercan las ambulancias. Si hay muchos heridos, este puesto puede funcionar independientemente para que las víctimas estabilizadas esperen sin bloquear las camillas del PMA. El **Puesto de Carga** gestiona el registro de pacientes evacuados y su destino, evitando traslados indiscriminados en vehículos no sanitarios.
+    *   Otras estructuras en la zona de asistencia incluyen el **redil**, para concentrar a ilesos y pacientes leves (categoría verde) para su traslado en vehículos no sanitarios, cerca del PMA y de los pacientes amarillos.
+    *   También se establece la **morgue**, una zona reservada para los fallecidos, preferiblemente cerca del PMA y alejada de los pacientes verdes.
+
+3.  **Zona Fría o Área de Base o Apoyo (Zona Verde):**
+    *   Es la zona más segura, colindante con el área de salvamento.
+    *   Aquí se sitúa el Puesto de Mando Avanzado, con los responsables de las diferentes instituciones (intervención, seguridad pública, sanidad).
+    *   También se encuentran los grupos de apoyo logístico y la **zona de estacionamiento de ambulancias**, que esperan ser reclamadas para el traslado de pacientes.
+    *   Esta zona debe tener un fácil acceso para el flujo de las ambulancias.
+
+## Triage
+
+El **triage** es el proceso de clasificación de heridos en incidentes con múltiples víctimas, categorizándolos según su gravedad y pronóstico. Su objetivo es salvar el mayor número de vidas posible con los recursos disponibles, priorizando el interés colectivo sobre el individual. Implica tomar decisiones rápidas bajo presión emocional, por lo que las herramientas y procedimientos deben ser precisos, rápidos, sencillos y completos.
+
+El triage debe ser **anterógrado, dinámico y continuo**, lo que significa un flujo unidireccional de víctimas y una reevaluación constante para garantizar la continuidad asistencial. La **categorización por colores** (rojo, amarillo, verde y negro) es universalmente aceptada, orientando sobre el pronóstico vital y el tiempo máximo de espera para la atención.

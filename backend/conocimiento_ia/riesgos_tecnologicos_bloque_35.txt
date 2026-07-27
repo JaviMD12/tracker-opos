@@ -1,0 +1,51 @@
+## Análisis de Esfuerzos, Materiales de Construcción y Propiedades NRBQ en Edificación
+
+Este módulo técnico se centra en los principios fundamentales de la física aplicados a la edificación, la caracterización de los materiales constructivos más comunes y la identificación de riesgos nucleares, radiológicos, biológicos y químicos (NRBQ), elementos esenciales para la formación de profesionales en emergencias.
+
+### Fundamentos Físicos Aplicados a la Edificación
+
+En el ámbito de la edificación, las estructuras están sujetas a diversas fuerzas que generan tensiones y deformaciones. Comprender estos conceptos es vital para evaluar la estabilidad y prever posibles fallos.
+
+#### Esfuerzos y Tensiones
+
+Los elementos estructurales de una edificación experimentan tensiones que se manifiestan de distintas maneras. En las fibras extremas de una viga, predominan las **tensiones normales**, ya sean de compresión o tracción, derivadas de la flexión. En contraste, la **fibra neutra** de una sección transversal, una línea imaginaria que no experimenta esfuerzos de flexión, soporta principalmente **tensiones de cortante**. En cualquier punto intermedio de un elemento, las tensiones principales se presentan con una inclinación determinada por las magnitudes relativas de estos esfuerzos.
+
+El análisis de la **flexión** y el **cortante** es crucial para comprender el comportamiento de los elementos. El esfuerzo cortante vertical, que resiste el cizallamiento transversal, alcanza su valor máximo en la fibra neutra y disminuye no linealmente hacia las caras exteriores, estando intrínsecamente ligado a la flexión. Por otro lado, el esfuerzo cortante horizontal (o longitudinal) se genera para evitar el deslizamiento entre planos horizontales y su magnitud es idéntica al esfuerzo cortante vertical en cada punto.
+
+La **flexión** es la capacidad de un elemento para girar bajo la acción de fuerzas externas, y es un esfuerzo compuesto por la combinación de compresiones y tracciones. Su intensidad se define por los **momentos flectores**.
+
+La representación gráfica de estos esfuerzos, mediante **diagramas de cortantes** y **diagramas de momentos flectores**, es fundamental. Los diagramas de cortantes ilustran la variación de la fuerza cortante vertical a lo largo del eje estructural, mientras que los diagramas de momentos flectores muestran la variación del momento. Es importante destacar que los puntos donde el diagrama de cortantes cruza el eje de abscisas indican puntos de momento nulo, relevantes para la planificación de apeos. Las cargas aplicadas determinan el patrón de los diagramas; por ejemplo, una carga puntual genera fuerzas cortantes constantes y momentos flectores lineales, mientras que una carga lineal produce variaciones lineales en los esfuerzos cortantes y parabólicas en los momentos flectores.
+
+### Materiales de Construcción
+
+Los materiales de construcción son las materias primas que, mediante técnicas constructivas, se transforman en elementos y edificaciones. La elección de estos materiales está condicionada por su disponibilidad, costo y, fundamentalmente, por su **comportamiento mecánico**. Se distinguen dos categorías principales:
+
+*   **Materiales tenaces**: Son aquellos que absorben una gran cantidad de energía antes de fracturarse, mostrando alta ductilidad y flexibilidad. Resisten eficazmente tanto a la compresión como a la tracción. Ejemplos representativos incluyen la madera y el acero.
+*   **Materiales frágiles**: Presentan un comportamiento opuesto a la tenacidad. Resisten bien la compresión, pero son débiles a la tracción y no soportan la flexión. Se consideran materiales de "carácter másico", como la piedra y el ladrillo.
+
+Para un análisis exhaustivo, los materiales pétreos se clasifican según su origen o proceso de fabricación.
+
+#### Materiales Pétreos Naturales
+
+Son aquellos extraídos directamente de la naturaleza, con una estructura que solo experimenta modificaciones sensibles tras largos periodos en presencia de agua. Aunque muy valorados por su resistencia y durabilidad ambiental, su alto coste, baja plasticidad y fragilidad han limitado su uso, relegándolos principalmente a ser materia prima o elementos de acabado.
+
+Se clasifican en:
+
+*   **Rocas Ígneas**: Provienen de la solidificación del magma.
+    *   **Intrusivas, plutónicas o magmáticas**: Se forman en el interior de la corteza terrestre, siendo muy densas y resistentes. El granito, por ejemplo, se utiliza en cimentaciones, muros de carga y pavimentaciones.
+    *   **Extrusivas, volcánicas o eruptivas**: Se forman por enfriamiento del magma en la superficie, resultando menos densas y resistentes, y de tonalidades más oscuras. El basalto es un ejemplo con usos similares al granito.
+*   **Rocas Sedimentarias**: Se originan por la acumulación y consolidación (diagénesis) de sedimentos de rocas preexistentes en capas paralelas.
+    *   **Dentríticas**: Resultado de la alteración física de otras rocas. Pueden ser *sueltas*, como las gravas (2.0 – 60.0 mm), arenas (0.06-2.00 mm) y limos (0.002-0.060 mm), o *compactas*, como los conglomerados, areniscas y lutitas. Las gravas se usan en mampostería, pavimentos y hormigones; las arenas son esenciales en morteros y hormigones.
+    *   **No dentríticas**: De origen químico, formadas por precipitación o cristalización de sustancias disueltas. Incluyen la arcilla (<0.002 mm), caliza y yeso. La arcilla, con su gran capacidad de almacenamiento de agua y alta plasticidad, es fundamental en la fabricación de ladrillos (adobe), elementos cerámicos y baldosas.
+*   **Rocas Metamórficas**: Se forman por la transformación de rocas ígneas y sedimentarias debido a incrementos de presión y temperatura (150-800ºC), que rompen enlaces atómicos y favorecen reacciones químicas. La presión puede ser *litostática* (por peso de capas), *confinante* (por fluidos) o *dirigida/tectónica* (deforma la roca). Las reacciones químicas alteran la textura, generan exfoliación y provocan cambios mineralógicos. Su uso es limitado por su baja resistencia y exfoliabilidad, empleándose principalmente en revestimientos. La "serie pelítica" (Arcilla > Pizarra > Esquisto > Micacita > Gneis > Migmatita) es un ejemplo de su evolución con creciente resistencia y compacidad.
+
+#### Materiales Pétreos Artificiales
+
+Estos materiales son obtenidos mediante procesos industriales o manufacturados, clasificándose en:
+
+*   **Materiales formáceos**: Mezclas fluidas y plásticas que se vierten en moldes y adquieren su forma al endurecerse.
+*   **Elementos de fábrica**: Pequeños elementos sólidos prefabricados, unidos en obra con aglomerantes o conglomerantes.
+
+Dentro de los materiales formáceos, se encuentran los **materiales básicos**:
+
+*   **Aglomerantes**: Unen fragmentos por procesos físicos, como la solidificación por secado. Ejemplos son el barro y la cola, dando lugar a productos denominados "aglomerados". Un ejemplo

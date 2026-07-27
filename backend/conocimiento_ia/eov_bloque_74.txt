@@ -1,0 +1,46 @@
+## Bombas Centrífugas: Características, Funcionamiento y Componentes en Vehículos de Bomberos
+
+Las **bombas centrífugas** representan un componente crucial en los servicios de extinción de incendios y emergencias, destacando por su versatilidad, fiabilidad y diseño compacto. Su función primordial radica en convertir la energía mecánica, generada por el motor del vehículo, en energía hidráulica, permitiendo así impulsar líquidos con la presión adecuada y un caudal óptimo para las labores de extinción.
+
+Estos equipos son capaces de manejar líquidos que contienen sólidos en suspensión y proporcionan un flujo constante y uniforme incluso a presiones elevadas. Aunque su uso principal se asocia con la extinción de incendios, donde se prioriza la **relación presión/caudal (H/Q)** para conseguir presiones elevadas con caudales aceptables, también son valiosas en operaciones de achique de inundaciones, donde se busca un alto caudal sacrificando la presión.
+
+### Fases de Funcionamiento
+
+El proceso operativo de una bomba centrífuga se desarrolla a través de una serie de etapas interconectadas:
+
+1.  **Admisión axial:** El líquido ingresa a la bomba por el eje del rodete, guiado por un distribuidor que minimiza la turbulencia para un flujo eficiente desde la tubería de aspiración o la cisterna del vehículo.
+2.  **Acción del rodete:** El líquido cambia su dirección de axial a radial (en bombas centrífugas) o se mantiene axial (en las axiales), experimentando una aceleración significativa. Las palas del rodete, al girar a alta velocidad, proyectan el líquido hacia el exterior, lo que genera energía cinética mediante la fuerza centrífuga y la reducción de la sección de paso.
+3.  **Generación de altura dinámica:** A medida que el líquido abandona el rodete hacia la voluta, su velocidad es elevada y su presión aumenta progresivamente. La elevación del fluido es resultado directo de la reacción entre el líquido y el rodete en movimiento.
+4.  **Recogida y conversión en el difusor o colector (voluta):** El agua a alta velocidad es recogida por un difusor o una voluta, que transforma esa energía cinética en energía potencial o de presión. Finalmente, el líquido es dirigido a las diversas salidas de la bomba a través de una salida tangencial.
+
+Este proceso de conversión de energía genera una diferencia de presión entre la succión y la descarga de la bomba. Además, la carga desequilibrada sobre el rodete es mínima durante el funcionamiento óptimo, pero los esfuerzos radiales se incrementan si la bomba opera lejos de su punto de máximo rendimiento. La recirculación del líquido impulsado, que ocurre cuando el caudal descargado desciende a la válvula cerrada, puede causar vibraciones y cavitación, por lo que se recomienda operar las bombas dentro de un rango de rendimiento del 60% al 120% del punto máximo.
+
+### Sistemas de Etapas de las Bombas Centrífugas
+
+La capacidad de una bomba centrífuga para aumentar la presión se relaciona directamente con el número de **impulsores** o **rodetes** que incorpora, dando lugar a bombas de una o múltiples etapas:
+
+*   **Bombas de una única etapa:** Contienen un solo impulsor y son adecuadas para servicios de baja carga, donde se requieren presiones moderadas.
+*   **Bombas de dos etapas:** Incorporan dos impulsores conectados en serie, ideales para servicios de carga media, alcanzando presiones más elevadas, típicamente entre 20 y 30 kg/cm².
+*   **Bombas de múltiples etapas:** Disponen de tres o más impulsores en serie, diseñadas para servicios de alta carga donde se requieren presiones muy elevadas.
+
+Para mitigar las intensas fuerzas axiales que soportan los cojinetes y rodamientos en estas bombas, se implementan diferentes soluciones constructivas. Entre ellas, se incluyen la perforación del rodete para equilibrar las presiones, la incorporación de álabes laterales en los impulsores para balancear las fuerzas, o el diseño de etapas que operan en oposición, con entradas situadas en lados opuestos para una compensación efectiva.
+
+### Componentes de una Bomba Centrífuga
+
+Las bombas centrífugas se estructuran en dos grupos principales de elementos:
+
+#### Componentes Rotativos
+
+1.  **Impulsor o Rodete:** Es el corazón giratorio de la bomba, compuesto por un conjunto de álabes que, al girar, transmiten la energía centrífuga al fluido. Su diseño y número de álabes influyen en el caudal y la dirección del flujo, reduciendo las pérdidas por turbulencia. Un rodete con mayor anchura axial, por ejemplo, aumenta la capacidad de caudal.
+2.  **Eje:** Su función es transmitir el movimiento giratorio desde el motor al rodete y otras partes rotativas, asegurando una mínima deflexión. Está protegido contra la corrosión y el desgaste por una **manga del eje** y cuenta con **juntas de eje** (rígidas o flexibles) para compensar el crecimiento axial y transmitir la rotación del impulsor.
+
+#### Componentes Estacionarios
+
+1.  **Carcasa:** Es la estructura fija que alberga el rodete. Se presenta en dos configuraciones principales:
+    *   **Circulares concéntricas:** Utilizadas para cargas bajas o altas, incorporan paletas deflectoras estacionarias que optimizan la conversión de energía cinética en presión.
+    *   **En voluta:** Posee una forma de caracol alrededor del rodete, con una sección transversal creciente hacia la salida. Su diseño minimiza la separación entre el rodete y la carcasa en la parte superior y la aumenta hacia la descarga, recogiendo el líquido a alta velocidad, transformando su energía cinética en presión y dirigiéndolo a la brida de impulsión. Este elemento también contribuye al equilibrio de la presión en el eje.
+2.  **Bocas:** Orificios situados en los laterales de la carcasa, perpendiculares al eje, que pueden ser de succión (entrada) o de descarga (impulsión).
+3.  **Cámaras de sellado o llenado:** Estas cámaras están diseñadas para proteger la bomba de fugas en el punto donde el eje atraviesa la carcasa. Contienen un sistema de sellado mecánico y funcionan manteniendo la presión de la cámara por debajo o por encima de la atmosférica, según se requiera, para evitar el escape de líquido o la entrada de aire.
+4.  **Mecanismo de Cebado:** Es un sistema auxiliar esencial para las bombas centrífugas, ya que no son autoaspirantes. Su finalidad es crear un vacío en los conductos de aspiración para permitir que el agua alcance el cuerpo de la bomba. Los principales tipos son:
+    *   **De pistón alternativo:** Común en bombas como las Rosenbauer, no requiere aporte de agua, es insensible a bajas temperaturas y la calidad del vacío no se ve afectada por variaciones térmicas. Elimina el aire mediante la acción de un pistón.
+    *   **De anillo de agua:** Crea vacío en los conductos de aspiración utilizando un anillo de agua formado por la fuerza centrífuga de un rodete de paletas. Este sistema expulsa el aire a través de una válvula, permitiendo que el agua ascienda al cuerpo de la bomba.

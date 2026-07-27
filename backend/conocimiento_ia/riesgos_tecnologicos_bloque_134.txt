@@ -1,0 +1,59 @@
+## Valoración e Intervención en Incidentes con Riesgo Eléctrico para Bomberos
+
+La intervención en incidentes que implican riesgo eléctrico exige un proceso de valoración exhaustivo y continuo, fundamental para determinar las tácticas de estabilización apropiadas y garantizar la seguridad del personal interviniente y la población. Esta evaluación inicial y dinámica es la base para todas las decisiones operativas.
+
+### Fases de la Valoración en Incidentes con Riesgo Eléctrico
+
+La valoración integral de una situación con riesgo eléctrico comprende varias fases interconectadas:
+
+1.  **Valoración Inicial:** Al recibir el aviso, se recopila toda la información disponible sobre el incidente, incluyendo el tipo de tensión (alta o baja), si hay corriente, la ubicación (intemperie, local, subterráneo) y si hay acumulación de humos combustibles o tóxicos. Esta información permite una primera aproximación a los riesgos y la planificación del despliegue.
+2.  **Valoración Continua:** Durante la intervención, es crucial reevaluar constantemente la situación para adaptarse a nuevos escenarios, ajustando el plan de acción según la evolución de los daños, la disponibilidad de recursos y la efectividad de las medidas implementadas. Esto incluye verificar si las acciones iniciales están conduciendo al resultado deseado o si se requiere un cambio de estrategia.
+3.  **Valoración Final:** Una vez resuelto el incidente, se evalúa el lugar para facilitar el retorno a la normalidad y se recopila información para el informe posterior, lo que permite identificar datos o detalles que podrían ser útiles en futuras intervenciones.
+
+### Tácticas de Intervención según el Tipo de Tensión
+
+La aproximación táctica varía significativamente si el incidente involucra alta o baja tensión eléctrica.
+
+#### Incidentes con Alta Tensión (AT)
+
+La intervención en situaciones de alta tensión requiere un protocolo específico debido a su inherente peligrosidad.
+
+1.  **Valoración del Incidente:** Se debe determinar si la tensión es alta o baja, el estado de la corriente y la ubicación del suceso.
+2.  **Corte del Suministro Eléctrico:** La primera prioridad es solicitar a la compañía eléctrica el corte del suministro, proporcionando la localización exacta (incluyendo el número de subestación, centro de transformación o apoyo si es en intemperie). Es imperativo verificar visualmente el corte en todas las líneas de alta y baja tensión. Si el corte no es posible, se deben emplear métodos a distancia, como monitores de agua o espuma, para la mitigación.
+3.  **Distancias de Seguridad:** Es fundamental mantener las distancias de seguridad adecuadas, que varían según la tensión, para proteger a los intervinientes.
+4.  **Zonificación y Balizamiento:** Se delimita el área afectada con cintas de balizamiento, controlando estrictamente el acceso para evitar daños adicionales y asegurando que no haya paso bajo cableado de baja tensión.
+
+En caso de **incendio en alta tensión**, el protocolo se especifica aún más:
+*   **Verificación del Corte de Energía:** En subestaciones transformadoras, se debe confirmar la descarga (puesta a tierra y cortocircuito) de las líneas. Se debe tener especial cuidado con equipos con grandes volúmenes de aceite, ya que las altas temperaturas y sobrepresiones internas pueden causar rupturas violentas.
+*   **Control de la Propagación:** Se aísla el área afectada, considerando riesgos de explosión de la aparamenta adyacente. Para el control se emplean chorros discontinuos de agua o espuma a distancia si hay corriente; en ausencia de corriente, se pueden usar mangueras de 45 mm con bifurcaciones a lanzas de 25 mm para agua pulverizada, orientada a la refrigeración y control de la propagación.
+*   **Extinción:** Una vez asegurada la zona y sin tensión, se utilizan extintores de polvo químico, CO2 o polivalente. En subestaciones de alta tensión, se mantienen métodos a distancia; en centros subterráneos o casetas, se evacua el edificio y se usa CO2/polvo o agua/espuma con ventilación.
+*   **Restablecimiento de la Normalidad:** Tras la extinción, se reevalúa la instalación, se confirma la reparación por la compañía eléctrica y se emite un informe.
+
+#### Incidentes con Baja Tensión (BT)
+
+Las intervenciones en baja tensión, aunque menos críticas que las de alta tensión, también requieren un protocolo riguroso.
+
+1.  **Corte del Suministro Eléctrico:** Se puede solicitar el corte a la compañía eléctrica o ser realizado directamente por los bomberos si el incidente ocurre dentro de la propiedad.
+    *   **Líneas de Distribución:** Se busca el cuadro de baja tensión, se retiran los fusibles y se cortan los conductores (primero las fases, luego el neutro) con cizallas dieléctricas.
+    *   **Caja General de Protección (CGP):** Se corta el cable de acometida con cizalla dieléctrica.
+    *   **Centralización de Contadores (CC):** Se retiran los fusibles de la CGP. Si el incendio persiste, se extingue, teniendo en cuenta que la retirada del interruptor general puede desconectar ascensores o sistemas de ventilación.
+    *   **Viviendas Unifamiliares/Industrias:** Se localiza el armario de protección/medida en la fachada, se abre el interruptor general y se retiran los fusibles uno a uno para evitar el cebado de arco. Se verifica la ausencia de otras fuentes de corriente.
+2.  **Distancia de Seguridad:** Se observa la distancia de seguridad recomendada para cada situación.
+
+En caso de **incendio en baja tensión**:
+*   **Control de la Propagación:** Se usan extintores de polvo químico, CO2 o polivalente. Si no hay corriente, se puede emplear agua pulverizada o espumas.
+*   **Extinción:** (Las técnicas son similares a las del control de propagación, enfocándose en la gestión de las mangueras para la extinción y el enfriamiento).
+*   **Restablecimiento de la Normalidad:** Se reevalúa la situación, se confirma la reparación por la compañía eléctrica (especialmente si las protecciones han sido destruidas) y se emite un informe.
+
+### Protocolo de Rescate en Alta Tensión
+
+Para el rescate de personas en alta tensión, se deben considerar los siguientes puntos:
+
+1.  **Valoración del Material Necesario:** Se emplean equipos de protección individual específicos como pértigas aislantes (36 kV), detectores de tensión (luminosos o acústico-luminosos), pértigas de rescate con gancho (45 kV), banquetas aislantes (30 kV) y guantes de clase III. Para baja tensión, se utilizan alfombras aislantes (1000 V), cizallas dieléctricas, destornilladores y alicates aislados, manetas extractoras de fusibles, polímetros y pinzas amperimétricas, guantes de clase 0 y guantes de trabajo. Se prohíbe el contacto con partes con tensión con manos descubiertas o ropa mojada. En viviendas, se aplica la protección necesaria para el nivel de tensión existente.
+2.  **Rescate:** Se administran primeros auxilios de forma inmediata a la víctima.
+3.  **Extinción (si procede):** Se utilizan medios extintores adecuados al nivel de tensión, siempre que no haya sido posible cortar el suministro eléctrico.
+4.  **Vuelta a la Normalidad:** Se notifica a la empresa eléctrica sobre el accidente para que realice las estadísticas y el mantenimiento de las instalaciones, y se emite un informe de la intervención.
+
+### Valoración Dinámica de la Intervención
+
+La valoración dinámica implica una reevaluación constante del plan de acción. Las medidas inicialmente adoptadas pueden no ser siempre las más adecuadas, y es posible que la situación empeore, como en un incendio de transformador con derrame de aceite que se propaga. En estos casos, es fundamental reevaluar y modificar el plan de intervención para lograr los objetivos establecidos. Esto subraya la importancia de una supervisión continua y la capacidad de adaptación de los equipos de emergencia.

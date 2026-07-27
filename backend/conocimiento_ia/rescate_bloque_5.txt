@@ -1,0 +1,83 @@
+# Técnicas de Rescate y Salvamento con Cuerdas: Polipastos, Descensos y Ascensos
+
+El rescate y salvamento en entornos de altura y en espacios confinados requiere el dominio de técnicas avanzadas y el uso de equipos especializados. Un pilar fundamental en estas operaciones son los **polipastos**, mecanismos diseñados para facilitar la movilización de cargas, tanto en ascensos como en descensos, minimizando el esfuerzo físico requerido.
+
+## Los Polipastos: Principios y Aplicaciones
+
+Un **polipasto** se define como una combinación de poleas fijas y móviles por las que discurre una cuerda, anclada en uno de sus extremos a un punto fijo. Su principal función es reducir la fuerza necesaria para mover una carga. La eficacia de un polipasto se cuantifica a través de su **Ventaja Mecánica (VM)**, que representa la relación entre la fuerza aplicada y el peso de la carga a desplazar.
+
+Estos sistemas encuentran aplicación en diversas maniobras de rescate, incluyendo el izado de material, el salvamento de personas y, en contextos más amplios, para el tensado de tirolinas o el remolcado de vehículos con cabrestantes. La selección del polipasto adecuado depende de factores como la verticalidad del recorrido, la longitud de cuerda disponible, el número de efectivos, el peso de la carga y la velocidad deseada del sistema; una mayor desmultiplicación de la fuerza, por ejemplo, implica una operación más lenta.
+
+### Componentes Fundamentales de un Polipasto
+
+Los polipastos se construyen a partir de dos tipos básicos de poleas:
+
+*   La **polea fija** opera bajo el principio de una palanca de primera clase, como un balancín. Su punto de apoyo se localiza en el eje de la polea. En este caso, la distancia del punto de apoyo a la salida de la cuerda (resistencia) es igual a la distancia del punto de apoyo a la zona de aplicación del esfuerzo. Consecuentemente, su Ventaja Mecánica es 1:1; es decir, para levantar 100 kg, se requieren 100 kg de esfuerzo.
+*   La **polea móvil**, en cambio, funciona como una palanca de segunda clase, similar a una carretilla. El punto de apoyo se sitúa en el filo de la roldana, bajo la conexión de la cuerda al anclaje, mientras que la carga se encuentra en el eje de la polea. El brazo de esfuerzo es el doble del brazo de carga, lo que resulta en una Ventaja Mecánica de 2:1. Así, para levantar 100 kg, se requieren solo 50 kg de esfuerzo.
+
+Un elemento adicional en algunos polipastos es el **polifreno**, que combina una polea con un freno o bloqueador integrado. Este dispositivo permite al rescatador usar su propio peso para elevar cargas considerables y, lo que es crucial, el bloqueador evita que la carga retroceda al detener el izado. Algunos polifrenos, como el PRO-TRAXION, permiten una fácil inserción y retirada de la cuerda. La configuración con un descensor como el ID de Petzl, conocida como sistema desembragable, facilita la reversión rápida de las maniobras de ascenso y descenso, aunque puede implicar una pérdida de Ventaja Mecánica de aproximadamente el 10%.
+
+### Tipos de Polipastos
+
+Los polipastos se clasifican en función de la disposición de sus poleas:
+
+*   Los **polipastos simples** obtienen su ventaja mecánica mediante la suma de las poleas móviles que actúan sobre la carga. Por ejemplo, un **polipasto 2:1** utiliza una polea móvil con la carga, reduciendo el esfuerzo a la mitad, asumiendo cuerdas paralelas. La ventaja mecánica puede variar si las cuerdas no están perfectamente paralelas. Un **polipasto 3:1**, también conocido como "polipasto en N", es una configuración común y versátil que combina una polea móvil y una fija, proporcionando una Ventaja Mecánica de 3:1. Para su montaje se requiere un polifreno, una polea, un bloqueador y dos mosquetones de seguridad, instalando el polifreno en el punto de anclaje.
+*   Los **polipastos compuestos** se forman al combinar varios polipastos simples, multiplicando sus Ventajas Mecánicas individuales. Un ejemplo es el **polipasto 9:1**, que resulta de montar un polipasto 3:1 sobre otro 3:1, ofreciendo una alta desmultiplicación de fuerza pero requiriendo mucha cuerda y resultando en un sistema más lento. Similarmente, un **polipasto 6:1** se lograría combinando un 3:1 y un 2:1. Estos sistemas son útiles en situaciones con pocos efectivos o cargas muy pesadas.
+
+## Descensos y Ascensos con Cuerdas
+
+Las maniobras de descenso y ascenso con cuerdas son esenciales en el rescate vertical, y su elección depende de la situación específica y del material disponible.
+
+### Descenso de Cargas
+
+El descenso de cargas, aplicable a accidentados, camillas o material, es generalmente preferible al izado debido a la ventaja de la gravedad, que reduce la necesidad de material y personal. Existen tres métodos principales para el control de cargas durante el descenso:
+
+*   **Control desde arriba:** Este método es cómodo y eficaz en lugares con buen acceso superior. Permite un control sencillo y una detención precisa, pudiendo incorporar desviadores para evitar rozamientos de la cuerda. El procedimiento implica instalar un Sistema de Anclaje de Seguridad (SAS) robusto y un descensor de alta capacidad de frenado (como un ID) en el anclaje central. En descensos de cargas muy elevadas, se puede mejorar el frenado utilizando dos operadores o un nudo dinámico en el mosquetón de frenado. Un bombero de apoyo puede guiar la camilla si es necesario.
+*   **Método STEF (Sistema Técnico de Equilibrado Fácil):** Este procedimiento facilita el equilibrio y cambio de posición de una camilla (de horizontal a vertical o viceversa) durante el descenso. Se ancla un polifreno en las cintas de los pies de la camilla con una cuerda auxiliar y se manipula el gatillo del polifreno para ajustar la posición. El rescatador se asegura a la cuerda auxiliar con un GRIGRI y un puño con pedal, permitiendo regular su altura respecto a la camilla.
+*   **Control desde abajo:** Este método requiere el doble de cuerda que el control desde arriba y exige un reenvío superior de alta calidad debido a la sobrecarga por el efecto polea. La seguridad es primordial para evitar rozamientos. Se monta un SAS superior para el reenvío y otro inferior para el sistema de frenado, con la cuerda de seguridad duplicada. El guiado de la carga puede realizarse desde abajo o mediante una cinta con mosquetón en la cuerda.
+
+### Izado de Cargas
+
+El izado de cargas es una operación más compleja y costosa que el descenso, demandando más material y personal. Para su montaje, es crucial instalar un polifreno en la cuerda de tracción para evitar el retorno de la carga, y utilizar un sistema de polipasto adecuado al peso, personal y cuerdas disponibles. Al izar personas o camillas, se debe montar una cuerda de seguro adicional sobre un SAS independiente. Además, el uso de desviadores es fundamental para evitar rozamientos de la cuerda.
+
+## Nudos Esenciales en Rescate Vertical
+
+Los nudos son un componente crítico en la cadena de seguridad y se clasifican según su función: de encordamiento, de unión, de amarre, autoblocantes, tensores y especiales.
+
+### Nudos de Encordamiento
+
+El **ocho por chicote** es el nudo más utilizado para el encordamiento al arnés (a las perneras y cintura, nunca al anillo central), siendo fundamental un peinado correcto para optimizar la absorción de energía y una pérdida de resistencia del 20-30%.
+
+### Nudos de Unión
+
+Estos nudos permiten unir cuerdas, incluso de diferente diámetro:
+*   El **ocho por chicote y enfrentado** se usa para unir cuerdas del mismo diámetro, siendo fácil de aprender y con una pérdida de resistencia del 20-30%.
+*   El **pescador doble** es fiable para cuerdas de distinto diámetro y no desliza, aunque es difícil de deshacer mojado, con una pérdida de resistencia del 20-30%.
+*   El **nudo de cinta plana** es el único fiable para unir cintas, homologado por la UIAA, con una pérdida de resistencia del 35-40%.
+
+### Nudos de Amarre
+
+Estos nudos sirven para fijar cuerdas a puntos de anclaje u objetos:
+*   El **ocho por seno** es versátil para fijar la cuerda en mitad de un tramo o para autoaseguramiento, con una pérdida de resistencia similar al ocho por chicote (20-30%).
+*   El **nudo de nueve** es ideal para grandes cargas y tracciones, ya que se deshace con facilidad y tiene poca pérdida de resistencia (17-25%).
+*   El **nudo sin tensión** es el más adecuado para puntos de anclaje cilíndricos de máxima responsabilidad, sin pérdida de resistencia.
+*   La **presilla de alondra** es un nudo auxiliar para anclajes de poca responsabilidad, con una pérdida de resistencia del 45-50%.
+*   El **ballestrinque** es rápido de ejecutar y regular, útil para anclajes rápidos, con una pérdida de resistencia del 35-45%.
+*   El **ocho doble seno** se emplea en Sistemas de Anclaje de Seguridad (SAS) para unir dos anclajes, repartiendo la carga y permitiendo multidireccionalidad.
+
+### Nudos Autoblocantes
+
+Estos nudos bloquean en ambas direcciones y son clave en sistemas de ascenso y seguridad:
+*   El **Machard con dos senos** es bidireccional, eficaz dependiendo de la diferencia de diámetro entre cuerda y cordino, bloqueando hasta 300 kg con seis vueltas.
+*   El **Prusik** ofrece mayor capacidad de bloqueo y rapidez de ejecución, siendo eficaz en cuerdas difíciles de bloquear (resbaladizas, mojadas o congeladas), aunque es difícil de desbloquear bajo carga.
+
+### Nudos Tensores y Direccionales
+
+*   El **Pasabloc** es un sistema de tensado rápido para tirolinas o vientos.
+*   El **Pico de pato** es un nudo tensor sin mosquetones con una ventaja mecánica de 3:1.
+*   El **nudo de siete** es direccional y se usa para tensar tirolinas, con una pérdida de resistencia del 30-35%.
+*   El **nudo romano** es más resistente que el nudo de siete y se afloja mejor tras grandes cargas, con una pérdida de resistencia del 20-30%.
+
+### Nudos Especiales
+
+El **nudo dinámico** (o medio ballestrinque/UIAA) es fundamental para el aseguramiento dinámico, especialmente con guantes, y tiene una pérdida de resistencia del 55%. El **nudo de mula** se utiliza para bloquear la cuerda en sistemas de seguro y para rematar en maniobras de seguridad, formando, junto al nudo dinámico, un "nudo de fuga".

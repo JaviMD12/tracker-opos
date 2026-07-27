@@ -1,0 +1,52 @@
+## Intervenciones NRBQ: Protección Personal, Equipamiento y Tácticas de Mitigación
+
+La gestión de incidentes con sustancias nucleares, radiológicas, biológicas y químicas (NRBQ) requiere un enfoque riguroso y una comprensión profunda de las medidas de protección y las técnicas de intervención. La prioridad fundamental en estas operaciones es salvaguardar al personal interviniente y a la población, además de limitar el daño ambiental y material.
+
+### Nivel de Protección del Personal y Equipamiento Específico
+
+El comandante del incidente es el responsable de determinar el nivel de protección adecuado para la "zona caliente", es decir, el área de mayor riesgo. Este nivel de protección, que puede ser inferior al de la zona de intervención si las circunstancias lo permiten, se decide en función de la sustancia implicada, el tiempo de exposición previsto y las condiciones del entorno. Si la duración de la intervención es prolongada, es crucial tener en cuenta que la capacidad de protección de los equipos puede verse comprometida. Para la entrada inicial en la zona caliente, se requiere un equipo de protección individual (EPI) de Nivel I, que incluye protección respiratoria, la cual puede ser sustituida por máscaras de filtro si las condiciones lo permiten. Cuando se trata de sustancias químicas no incluidas en las fichas de intervención estándar, es imperativo consultar las hojas de datos de seguridad (SDS) o recurrir a expertos para definir los niveles de protección, que podrían implicar el uso de trajes de Nivel II o III, dependiendo de la volatilidad, la exposición y el tiempo.
+
+En cuanto a la protección radiológica, se emplean equipos específicos para rayos X y gamma. Las medidas clave para controlar la exposición incluyen limitar el tiempo en la zona de riesgo, aumentar la distancia a la fuente y utilizar blindajes. El plomo es el material más eficaz para el blindaje, seguido del hormigón baritado, el hormigón normal y el ladrillo macizo, con equivalencias específicas en milímetros respecto a 1 mm de plomo.
+
+Para las diversas tareas de intervención, se dispone de una gama de herramientas y equipos específicos. El kit básico para una unidad NRBQ incluye:
+*   **Vendas de sellado de fugas**: aptas para tuberías de diferentes diámetros.
+*   **Lanzas de sellado de fugas**: permiten sellar grietas y fugas a distancia.
+*   **Kits de sellado de fugas**: diseñados para fugas de alta presión en tuberías.
+*   **Pastas selladoras**: capaces de sellar fugas de hasta 0,4 bar.
+*   **Piscinas para recogida de líquidos**: utilizadas para contener grandes volúmenes de materiales peligrosos.
+*   **Contenedores de recogida de PRFV (Plástico Reforzado con Fibra de Vidrio)**: destinados al almacenamiento seguro de líquidos altamente agresivos.
+*   **Cojines hermetizadores de alcantarilla**: sellan desagües de hasta 2 metros de columna de líquido.
+*   **Cojines de drenaje de fugas**: facilitan el sellado y drenaje de sustancias peligrosas.
+*   **Kits de emergencia para cisternas**: equipos especializados que contienen sellos, cubos, gafas, guantes (incluyendo criogénicos si es necesario) y un obturador de alcantarillas.
+*   **Bombas peristálticas**: para el trasvase de líquidos explosivos e inflamables.
+*   **Herramientas antichispas**: fabricadas con materiales como aluminio, bronce o cobre-berilio, permiten trabajar con sólidos o líquidos inflamables sin riesgo de ignición.
+
+### Acciones de Mitigación en Incidentes NRBQ
+
+Las acciones de mitigación buscan reducir el impacto de un siniestro y prevenir daños mayores. La elección del método de mitigación depende de variables como el tipo de incidente, la naturaleza y el estado del material peligroso, las condiciones meteorológicas, la ubicación y los recursos humanos y materiales disponibles. Los métodos se clasifican en físicos y químicos, siendo los primeros generalmente más rápidos y seguros con menos material, mientras que los segundos requieren especialización y materiales específicos.
+
+#### Acciones Físicas de Mitigación
+
+Las acciones físicas se centran en limitar el área de un vertido, derrame o fuga, y pueden combinarse para una mayor eficacia.
+
+1.  **Absorción**: Consiste en que los materiales absorban y retengan líquidos a través de la humectación, lo que provoca un aumento de volumen por hinchamiento. Los absorbentes comunes incluyen arena, arcilla, serrín, sepiolita y fibras poliolefínicas. Es importante tener en cuenta que el líquido absorbido puede ser expulsado de nuevo por acción mecánica o térmica, y los absorbentes contaminados deben tratarse como residuos peligrosos. Este método es idóneo para pequeños derrames debido a la limitada capacidad de absorción del material.
+2.  **Cubrimiento**: Esta técnica es una forma temporal de mitigación, especialmente útil para fugas de materiales biológicos y radiactivos. Su objetivo es reducir la emisión de vapores por efecto del viento o la evaporación. El polietileno es el material más adecuado debido a su resistencia a la mayoría de sustancias. Puede aplicarse directamente sobre el material derramado o cubriendo la superficie del recipiente contenedor.
+3.  **Dilución**: Se basa en la aplicación de agua a materiales peligrosos solubles en agua para reducir su riesgo a niveles seguros. Antes de aplicar, es crucial verificar que la sustancia no reacciona con el agua. Este método aumenta considerablemente el volumen del derrame, lo que puede generar problemas de contención. Es aplicable para sustancias inflamables o corrosivas que sean hidrosolubles, ya que reduce su inflamabilidad y corrosividad.
+4.  **Retención o Contención**: Implica el uso de barreras físicas o diques para impedir el avance de una sustancia derramada o canalizarla hacia un lugar deseado. Los diques suelen ser de tierra, cemento o materiales sintéticos.
+
+    *   **Confinamiento en tierra**: Una técnica defensiva donde se utilizan los materiales del terreno circundante si la superficie no está pavimentada. Se requiere conocer la dirección y velocidad del flujo, así como la cantidad total para asegurar que la capacidad de contención sea superior al volumen derramado. También se deben considerar las características del terreno, la cercanía a cursos de agua y la consistencia del suelo.
+    *   **Excavaciones**: En superficies sin pavimentar y con maquinaria disponible, se pueden excavar zanjas para contener derrames. Esto implica crear un dique para dirigir el vertido hacia el hoyo. Si la sustancia tiene una alta presión de vapor y toxicidad, se debe sellar el derrame para limitar su dispersión en el aire.
+    *   **Confinamiento en agua**: Si el derrame llega a un río o cuerpo de agua, la contención es más compleja. Si la sustancia es menos densa que el agua, se emplean barreras verticales. Es fundamental considerar la solubilidad del producto en agua.
+
+#### Acciones Químicas de Mitigación
+
+Los métodos químicos de control utilizan productos para neutralizar o eliminar contaminantes biológicos y químicos, reduciendo su toxicidad o corrosividad.
+
+1.  **Adsorción**: En este proceso, el contaminante líquido o gaseoso interactúa con la superficie de un sorbente sólido sin aumentar su volumen. Los adsorbentes, como el carbón activado o la alúmina, son rígidos y la interacción genera calor.
+2.  **Dispersantes, agentes activos superficiales y aditivos biológicos**: Estos agentes químicos y biológicos dispersan materiales perjudiciales en derrames líquidos, lo que puede llevar a una expansión del líquido sobre un área mayor. Su uso a menudo requiere aprobación ambiental previa debido a la extensión del daño. Se aplican comúnmente en derrames sobre agua, convirtiendo el líquido en finas gotas y diluyéndolo.
+3.  **Gelificación**: Consiste en la formación de un gel a partir de un líquido peligroso, espesándolo y estabilizándolo. El gel resultante, aunque es un material peligroso, es más fácil de manejar y eliminar.
+4.  **Neutralización**: Implica la aplicación de ácidos o bases a un derrame para formar una sal neutra, reduciendo la peligrosidad del material. Aunque esta reacción puede liberar calor, existen formulaciones especiales que evitan reacciones violentas. Si se utilizan sólidos para neutralizar, el resultado suele ser el confinamiento del material.
+5.  **Polimerización**: Es un proceso químico en el que un material peligroso reacciona en presencia de un catalizador (calor o luz) para formar un sistema polimérico. Se distingue entre polimerización por adición (sin residuos) y por condensación (con pequeños residuos).
+6.  **Solidificación**: Proceso químico que convierte un líquido peligroso en un material sólido no peligroso, como la aplicación de formulaciones especiales para formar una sal neutra en derrames ácidos o alcalinos. Este método permite confinar derrames pequeños de forma rápida y tratarlos de inmediato.
+
+En suma, la adecuada selección y aplicación de estas técnicas, junto con una valoración constante y una correcta coordinación, son esenciales para una respuesta eficaz y segura en cualquier incidente NRBQ, minimizando los riesgos para las personas y el medio ambiente.

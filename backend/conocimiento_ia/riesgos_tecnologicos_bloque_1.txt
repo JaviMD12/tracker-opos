@@ -1,0 +1,38 @@
+## Fundamentos Físicos y Comportamiento de Materiales en Edificación para Bomberos
+
+La comprensión de la **arquitectura** como el arte y la técnica de diseñar y proyectar edificios y espacios, junto con la **construcción** que engloba los procedimientos técnicos para erigir elementos edificatorios, es esencial para la labor de los cuerpos de bomberos. Estos profesionales se enfrentan a escenarios donde el conocimiento de las características de las **edificaciones**, tanto las proyectadas (normativa) como las ejecutadas (sistemas constructivos y materiales), es fundamental para una intervención eficaz. La Real Academia Española (RAE) define la edificación como una "construcción fija, hecha con materiales resistentes, para habitación humana o para otros usos", lo que subraya su permanencia y la relevancia de sus componentes.
+
+### Principios Físicos Fundamentales en la Edificación
+
+El comportamiento de cualquier estructura se rige por leyes físicas que determinan su estabilidad y reacción ante las cargas.
+
+#### La Fuerza y sus Efectos
+
+En física, la **fuerza** se define como una magnitud vectorial que cuantifica la interacción entre cuerpos, es decir, la acción que un cuerpo puede ejercer o sufrir. Se calcula como el producto de la masa por la aceleración (F = m · a). Sus características clave incluyen su módulo (magnitud), dirección, sentido y punto de aplicación. La unidad de fuerza en el Sistema Internacional (SI) es el **Newton (N)**, equivalente a Kg m/s².
+
+Las **tres leyes de Newton** son pilares de la mecánica:
+1.  La **Primera Ley (Principio de Inercia)** establece que un cuerpo mantiene su estado de reposo o movimiento uniforme y rectilíneo a menos que una fuerza externa actúe sobre él.
+2.  La **Segunda Ley** indica que la suma de las fuerzas que actúan sobre un cuerpo es igual al producto de su masa por la aceleración resultante, dirigiéndose en la misma dirección.
+3.  La **Tercera Ley (Acción-Reacción)** postula que si dos cuerpos interactúan, ejercen fuerzas de igual magnitud y dirección, pero en sentidos opuestos, lo que implica que toda fuerza de acción debe ser contrarrestada por una fuerza de reacción para mantener el equilibrio.
+
+Además, al ser magnitudes vectoriales, las fuerzas pueden **componerse** (sumarse, restarse, multiplicarse) para generar fuerzas resultantes.
+
+#### Momentos y Equilibrio
+
+Complementando el concepto de fuerza, los **momentos** son efectos rotacionales que una fuerza puede producir. Un **par de fuerzas** se define como un sistema de dos fuerzas paralelas con igual magnitud pero sentidos opuestos, caracterizado por su momento. El **momento de un par de fuerzas** es una magnitud vectorial cuyo valor es el producto de una de las fuerzas por la distancia perpendicular entre ellas (brazo del par). En términos prácticos, el momento mide la capacidad de un sistema de fuerzas para cambiar el estado de rotación de un cuerpo alrededor de un eje. Para evitar esta rotación, se debe generar un **momento resistente** o de empotramiento de igual magnitud y sentido contrario. La unidad de momento en el SI es el **Newton-metro (N·m)**, equivalente a Kg m²/s². Los momentos se clasifican como positivos (giro horario) o negativos (giro antihorario). Un aspecto crucial es que el mismo par de fuerzas generará diferentes momentos según su punto de aplicación; cuanto mayor sea el brazo de palanca, mayor será el momento y, por ende, el esfuerzo necesario para equilibrarlo. El **equilibrio de un par** se alcanza cuando las fuerzas se alinean, anulando el brazo de palanca y el momento, lo que se traduce en un momento nulo en giros libres. Este principio es la base del funcionamiento de una **palanca**, donde la potencia (P) multiplicada por su brazo (dp) debe ser igual a la resistencia (R) multiplicada por su brazo (dr) (P · dp = R · dr) para lograr el equilibrio.
+
+### Comportamiento Mecánico de los Materiales
+
+La **Estática**, una rama de la mecánica clásica, se dedica al análisis de cargas (fuerzas, pares y momentos) y al estudio del equilibrio de fuerzas en sistemas físicos. Así, el **equilibrio estático** se define como el estado en el que los elementos de un sistema no experimentan movimientos relativos a lo largo del tiempo. Las cargas sobre una estructura generan **empujes** (fuerzas) y **giros** (momentos) que deben ser contrarrestados por reacciones iguales y opuestas en los elementos estructurales. La primera ley de Newton implica que en equilibrio, la suma de todas las fuerzas (∑F) y momentos (∑M) en cada cuerpo debe ser cero.
+
+Para una adecuada comprensión del equilibrio, el **centro de gravedad** es fundamental. Es el punto donde se puede considerar concentrado el peso de un cuerpo, permitiendo que este permanezca en equilibrio si se apoya en dicho punto. No siempre coincide con un punto material del cuerpo (por ejemplo, en una esfera hueca). Un objeto apoyado sobre una base plana estará en equilibrio estable si la proyección vertical de su centro de gravedad cae dentro de la base de apoyo. Si el cuerpo se aleja demasiado de esta posición, el centro de gravedad puede salir de la base de apoyo, provocando una rotación que lo llevará a una nueva posición de equilibrio sin un momento restaurador.
+
+La **teoría de la elasticidad** es la base del estudio de la mecánica de sólidos. La **elasticidad** es la capacidad de un material para deformarse reversiblemente bajo fuerzas externas y recuperar su forma original al cesar estas fuerzas. En contraste, la **plasticidad** describe el comportamiento de los materiales cuando, superado su límite elástico, las deformaciones son permanentes e irrecuperables, a menudo con pérdida de sección y resistencia. La **Ley de Hooke** (σ = E · ε) establece que la tensión (σ) en un cuerpo sólido es directamente proporcional a su módulo de elasticidad longitudinal (E) y a la deformación (ε) sufrida. El **módulo de Young (E)** es crucial para evaluar el comportamiento y la deformación admisible de los materiales, con valores aproximados en N/mm² como 3000-5000 para la mampostería de ladrillo, 10000-22500 para maderas duras, 210000 para el acero y 21500-39000 para el hormigón. Un material con mayor elasticidad experimenta menores tensiones para la misma deformación. Por ejemplo, la madera se deforma significativamente más que el acero bajo la misma carga, y el hormigón puede deformarse hasta diez veces más que el acero.
+
+### Factores Térmicos y su Impacto en la Edificación
+
+En el contexto de las intervenciones de bomberos, donde los incendios provocan variaciones térmicas drásticas, es vital comprender el comportamiento de los materiales ante el calor.
+
+El **coeficiente de conductividad térmica (λ)** cuantifica la capacidad de un material para conducir el calor. Se mide en W/m·°C o W/m·K. Valores bajos indican mejor aislamiento, como es el caso del corcho (0.04-0.30 W/m·K), la fibra de vidrio (0.03-0.07 W/m·K) o el poliuretano (0.018-0.025 W/m·K). Por el contrario, el hierro (80 W/m·K) y el aluminio (209 W/m·K) son buenos conductores.
+
+El **coeficiente de dilatación térmica (α)** mide la expansión lineal de un elemento por cada grado Celsius de aumento de temperatura. Un ejemplo práctico es una viga de hormigón armado de 10 metros de longitud que se caliente de 20°C a 400°C; experimentará una dilatación lineal de 5.76 cm (0.000012 × 10m × 480°C = 0.0576m), lo que puede generar empujes laterales y potencialmente el colapso estructural. Valores comunes (x10^-5) incluyen 1.17 para el hormigón y 1.2 para el acero.

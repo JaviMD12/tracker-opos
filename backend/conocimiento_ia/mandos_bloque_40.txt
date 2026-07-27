@@ -1,0 +1,60 @@
+## Gestión de Recursos en Intervenciones de Bomberos y Planificación de la Acción
+
+La eficacia en las intervenciones de los Servicios de Bomberos depende fundamentalmente de una adecuada **gestión de los recursos**, tanto materiales como humanos, así como de la correcta planificación y comunicación de las acciones a emprender. Esta gestión debe considerar las particularidades de cada siniestro y las capacidades disponibles para garantizar la seguridad y eficiencia.
+
+### I. Capacidades y Limitaciones de los Recursos
+
+La capacidad para afrontar una emergencia se fundamenta en la evaluación de los recursos. En este sentido, el mando debe analizar una serie de **parámetros limitantes** para optimizar la respuesta:
+
+#### 1. Medios Materiales
+
+La valoración de los equipos y vehículos disponibles abarca diversos aspectos. En primer lugar, se considera el **número de medios** disponibles, así como su **capacidad de trabajo** específica, como los litros de agua que puede proyectar una autobomba, el alcance de una escala o la fuerza de tracción de un cabestrante. Asimismo, es crucial evaluar el **riesgo de rotura o fallo mecánico**, prestando atención a la presión máxima de las bombas, la resistencia estructural de los puntales, la capacidad de arrastre de las eslingas y el riesgo de sobrecalentamiento. El **consumo** de recursos como combustibles y agua también se debe tener en cuenta. Por otro lado, la **contaminación y emisión de gases o chispas** pueden limitar la operatividad, especialmente en escenarios donde no es factible usar equipos de combustión. Finalmente, la **disponibilidad en tiempo** de cada equipo es un factor crítico para la movilización y el relevo.
+
+#### 2. Medios Humanos
+
+El personal constituye un pilar fundamental en la respuesta operativa. Se analiza el **número de efectivos**, su **formación, experiencia y destreza** para el tipo específico de intervención. El **conocimiento del medio** geográfico y de las instalaciones donde se actuará es igualmente relevante. Además, se valora el **nivel de estrés y agotamiento físico** que pueden experimentar los intervinientes, así como la **disponibilidad de refuerzos** en caso de prolongarse la emergencia.
+
+### II. La Importancia del Factor Humano en la Norma UNE 22320
+
+La norma UNE 22320 subraya que el **factor humano** es esencial para el buen funcionamiento de las organizaciones y el cumplimiento de los objetivos de la misión, minimizando errores derivados de limitaciones humanas. Por ello, es necesario controlar la **distribución de las cargas de trabajo**, la **rotación del personal** para evitar la fatiga, la **seguridad e higiene** en el entorno laboral y el **diseño de la interfaz sistema-máquina-persona**, asegurando una interacción óptima entre los operarios y los sistemas de mando y control.
+
+### III. Construcción y Elaboración del Plan de Acción
+
+La elaboración del plan de acción es un proceso crítico que requiere cotejar la **valoración inicial y detallada del siniestro** con las **prioridades de actuación** establecidas y las **limitaciones de los medios** disponibles. El objetivo es diseñar un planteamiento que minimice los riesgos y maximice la eficacia y eficiencia en la respuesta.
+
+El plan de acción se articula en **tres niveles de decisión**, que van de lo general a lo particular:
+*   El **nivel estratégico** establece los objetivos generales de la misión, como la creación de una zona segura o la realización de un rescate.
+*   El **nivel táctico** define cómo se ejecutarán esos objetivos, por ejemplo, mediante la implementación de ventilación a presión positiva para el rescate.
+*   El **nivel operativo** asigna tareas específicas a nivel individual o de equipo, como el sellado de habitaciones o la apertura de vías de evacuación.
+
+La dirección por objetivos es un modelo eficaz para el nivel estratégico, fragmentando el incidente en objetivos manejables para los distintos grupos de acción. Los objetivos deben ser **SMART** (Específicos, Medibles, Asumibles, Realistas y Temporalizados) y deben formularse de manera positiva, enfocándose en el "qué hacer".
+
+### IV. Estrategias de Intervención
+
+Se contemplan **tres estrategias** principales para los planes de acción, que materializan las decisiones con diferentes enfoques:
+*   El **modo defensivo** prioriza el control del riesgo y la protección de terceros, asumiendo riesgos menores. Se emplea cuando los recursos son insuficientes o para esperar refuerzos o mejoras en las condiciones del siniestro.
+*   El **modo ofensivo** implica una confrontación directa con el riesgo y la mitigación activa, lo que conlleva la asunción de riesgos más significativos.
+*   El **modo mixto** combina ambos enfoques, permitiendo la aplicación simultánea de estrategias defensivas y ofensivas para controlar y mitigar la situación en paralelo.
+
+La elección de la estrategia se basa en factores como la suficiencia de los recursos y la aceptabilidad del riesgo en comparación con los beneficios esperados. Un plan de acción debe ser flexible, adaptándose a la evolución del siniestro, pasando de una fase de descontrol a control y, finalmente, a la normalización.
+
+### V. Planes de Acción Temporales y Comunicación
+
+Generalmente, se trabaja con **tres planes de acción** temporales:
+*   El **Plan A**, o "Ahora", es el plan principal e inmediato para el control.
+*   El **Plan B**, o "Luego", actúa como respaldo si el Plan A no funciona o si las condiciones cambian.
+*   El **Plan de Mitigación**, o "Después", se enfoca en eliminar las causas del siniestro y restaurar la normalidad, pudiendo ejecutarse después del control inicial o de forma simultánea si los recursos lo permiten.
+
+La **comunicación del plan de acción** es crucial para su correcta ejecución. Tanto el Plan A como el Plan B deben ser conocidos por todo el personal. Las órdenes deben ser **claras, concisas, concretas, legítimas**, adaptadas al sistema de comunicación utilizado (visual, radio, one-to-one) y **contrastadas** mediante un reconocimiento o confirmación (ack).
+
+### VI. Estándares de Comunicación y Códigos de Identificación
+
+Para una comunicación eficiente, se utilizan **estándares preestablecidos** en los mensajes y formas de comunicarse. Esto incluye códigos unívocos para la identificación de vehículos, siniestros y personal.
+
+*   Los **códigos de identificación de vehículos** (Tabla 24) asocian un identificador a cada vehículo según el parque de origen. Por ejemplo, "BOMBA 11" para la primera autobomba del Parque Primero. Los asteriscos en los códigos indican el uso de dígitos numéricos para una identificación única, donde el primer número hace referencia al parque y el segundo a un orden correlativo.
+*   Los **códigos de identificación de siniestros** (Tabla 26) categorizan los incidentes, asignando, por ejemplo, "CÓDIGO 1" a NRBQ, "CÓDIGO 2" a incendios, y así sucesivamente.
+*   El **Alfabeto Fonético Internacional (ICAO)** (Tabla 27) se emplea para deletrear con precisión matrículas, direcciones u otros detalles, utilizando palabras clave para cada letra y número, junto con términos como "Afirmativo" (SI) y "Negativo" (NO).
+*   Los **códigos identificativos del personal** (Tabla 25) asignan un código a cada puesto (por ejemplo, "Eme cero (0)" para el Oficial-Jefe de Servicio).
+*   Las **fachadas** de los edificios siniestrados se numeran a partir de la principal (Fachada 1) en sentido horario.
+*   Las **coordenadas geográficas** se gestionan con un datum WGS84 preestablecido.
+*   El código "Emergencia, emergencia, emergencia" (Tabla 27) se utiliza para situaciones críticas e inesperadas que requieren una reevaluación del plan, liberando automáticamente el canal de comunicación para uso prioritario.

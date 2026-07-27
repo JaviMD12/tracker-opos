@@ -1,0 +1,171 @@
+A continuación, se presenta un temario original y riguroso sobre la caracterización de patologías en la edificación, enfocándose en las causas, los tipos de lesiones y sus manifestaciones, así como en el impacto de diversos fenómenos físicos y químicos en la estabilidad estructural.
+
+---
+
+### **Patologías en la Edificación: Origen, Tipos y Manifestaciones**
+
+La estabilidad de las edificaciones puede verse comprometida por diversas patologías, que se manifiestan a través de signos visibles como las fisuras y grietas. Estas lesiones deben ser evaluadas meticulosamente, considerando su forma, posición, amplitud y estado, ya que indican una superación de la capacidad mecánica de los elementos constructivos, lo que lleva a la fractura del material y a la discontinuidad en la transmisión de esfuerzos.
+
+Una **fisura** es una afección superficial en los recubrimientos exteriores, con una amplitud generalmente inferior a 1 mm. Representa una discontinuidad tensional mínima, considerándose primordialmente un problema estético y no estructural. Por otro lado, una **grieta** denota una discontinuidad material más grave que interrumpe la transmisión de esfuerzos, reduce la sección estructural del elemento y, en última instancia, anula su capacidad portante, marcando un estadio avanzado de patología. Es fundamental comprender que las patologías no accidentales suelen manifestarse inicialmente como fisuras, las cuales, si no se corrige la causa subyacente, pueden evolucionar a grietas, estableciendo un círculo vicioso de degradación.
+
+Las grietas se originan en los puntos de máxima tracción, siendo perpendiculares a las fuerzas de tracción y paralelas a las de compresión. En elementos horizontales, pueden localizarse en el vano central inferior de las vigas o junto a nudos rígidos, como los empotramientos. A nivel macroscópico, en marcos rígidos con uniones fuertes, se observan grietas inclinadas a 45º, resultado de la tracción en una diagonal y la compresión en la opuesta. La presencia de elementos constructivos heterogéneos, donde el fallo ocurre en el punto más débil o en las juntas de los muros de fábrica, es una causa común de este tipo de lesiones. Asimismo, los huecos de puertas y ventanas son puntos críticos debido a la concentración de tensiones en sus esquinas, lo que propicia la aparición de grietas y fisuras. En marcos flexibles con uniones débiles, se produce un desplazamiento relativo entre muros y pilares, cuya magnitud depende de la adherencia entre ellos.
+
+Las **discontinuidades horizontales** se presentan como fisuras cortas, perpendiculares a las tracciones e inclinadas a 45º, o como un deslizamiento relativo que genera una única grieta en el techo con ramales inclinados. En contraste, las **discontinuidades verticales** pueden ser una grieta vertical única o una serie de grietas oblicuas. Los despegues y giros se manifiestan cuando el contacto entre tabique y pilar no resiste las tracciones, resultando en una grieta vertical que indica el giro del tabique, con mayor abertura en la parte superior.
+
+Es crucial distinguir entre **grietas vivas** y **grietas muertas**. Las grietas vivas tienen bordes limpios y muestran el color vivo del material recién abierto, indicando una progresión activa. Las grietas muertas, por su parte, presentan bordes oscurecidos por el polvo y no progresan, señalando una estabilización del movimiento. Para monitorizar su evolución, se emplean **testigos de yeso**.
+
+### **Patologías por Causas Mecánicas en Elementos Estructurales**
+
+Las causas mecánicas pueden generar patologías específicas en pilares y vigas, siendo el hormigón armado un material especialmente susceptible.
+
+#### **Patologías en Pilares**
+
+*   **Aplastamiento del hormigón:** Se caracteriza por grietas finas en las caras opuestas o esquinas, indicando un posible pandeo de las barras. Las causas principales incluyen exceso de carga, hormigón deficiente o armadura insuficiente (cercos sin cerrar, estribos caídos).
+*   **Desagregación del hormigón:** El hormigón pierde resistencia y se desmorona, a menudo por ataque químico interno o externo, o por socavación del terreno.
+*   **Tracción:** Se manifiesta como una grieta horizontal en el soporte, causada por el asiento del cimiento, excavaciones cercanas o movimiento del pilar debido a la ausencia de vigas centradoras.
+*   **Cortante:** Se observa como fisuras en dos caras a 60º y en las otras dos en horizontal, resultado de hormigón deficiente, un empuje horizontal superior al previsto, armadura transversal insuficiente, momentos flectores elevados en pilares rígidos o deslizamiento de la cimentación.
+*   **Flexión:** Se presenta como una fisura fina horizontal en la cabeza o el pie del pilar, originada por hormigón deficiente, armadura insuficiente, un aumento del momento por asiento o un anclaje incorrecto del pilar en la última planta.
+*   **Pandeo:** Se identifican grietas horizontales en una cara del pilar, pudiendo precederse por el desprendimiento del recubrimiento. Las causas incluyen sección insuficiente, armadura deficiente o un exceso de carga en pilares esbeltos.
+
+#### **Patologías en Vigas**
+
+*   **Aplastamiento:** Se observa una reducción local del espesor del hormigón, causada por exceso de carga, hormigón deficiente o una sección pequeña con excesiva armadura a tracción.
+*   **Flexión:** Se manifiesta como grietas en las zonas traccionadas (parte central inferior o nudos superiores en empotramientos), debido a una sobrecarga excesiva, sección insuficiente, insuficiencia de la sección metálica de la armadura o una luz mayor a la de cálculo.
+*   **Cortante:** Se caracteriza por fisuras cerradas e inclinadas entre 45º y 75º hacia el pilar, lo que puede provocar una rotura instantánea. Las causas son armadura transversal insuficiente o cercos con diámetro o separación inadecuada, o hormigón deficiente.
+*   **Torsión:** Aparecen grietas inclinadas entre 45º y 75º en el contorno de la pieza, frecuentemente en brochales o vigas de fachada, y son causadas por armadura longitudinal o transversal insuficiente o cercos sin soldar.
+*   **Punzonamiento (en forjados):** Se detectan grietas cerradas y concéntricas alrededor del pilar, indicando escaso espesor del forjado, armadura insuficiente o hormigón de menor resistencia de la prevista.
+
+### **Patologías por Fenómenos Higrotérmicos y Químicos**
+
+Más allá de las causas mecánicas, los fenómenos higrotérmicos y químicos pueden degradar significativamente la edificación.
+
+#### **Fenómenos Higrotérmicos**
+
+*   **Previos al fraguado (en hormigón):**
+    *   **Asentamiento plástico o exudación:** Las partículas gruesas de la mezcla descienden, el agua de amasado asciende y se evapora. El hormigón se asienta, reduciendo su volumen.
+    *   **Retracción plástica o afogarado:** Una reacción exotérmica genera desprendimiento de calor y un enfriamiento posterior durante el fraguado. Si la velocidad de evaporación supera a la exudación, se produce una contracción de la masa y la aparición de fisuras de 0.2-0.4 mm, influenciadas por la temperatura ambiente y el viento.
+*   **Posteriores al fraguado:**
+    *   **Retracción hidráulica:** Después del fraguado, el hormigón experimenta un cambio de volumen debido a la pérdida de agua de cristalización y del gel de cemento, lo que provoca contracciones y fisuras. Estas fisuras son de ancho constante, trazado limpio y muy estrechas (<0.02 mm).
+    *   **Manifestaciones de retracción hidráulica:**
+        *   **En pilares:** Fisuras periódicas en las caras expuestas al sol, causadas por exceso de agua de amasado, curado deficiente y fuerte soleamiento.
+        *   **En vigas:** Rápida aparición de grietas en la ubicación de barras y estribos, debido a exceso de agua o recubrimientos de hormigón excesivos.
+        *   **En vigas de gran canto:** Fisuras finas periódicas surgidas durante el endurecimiento del hormigón, porque el agua de curado no llega a la cara inferior o los armados tienen escaso recubrimiento.
+        *   **En muros:** Una fisura abierta en la coronación que se cierra a medida que desciende, indicando muros excesivamente largos o sin juntas.
+
+#### **Fenómenos Químicos**
+
+*   **Eflorescencias:** Pátina blanquecina en las piedras porosas, causada por la cristalización de sales solubles del agua. Provoca picaduras y disgregaciones.
+*   **Corrosión del acero:** Fenómeno electroquímico en metales, de acción más lenta que el fuego, pero igualmente destructivo.
+*   **Corrosión en el hormigón armado:**
+    *   **Por gases atmosféricos:** Gases como el CO2 y SO2, al reaccionar con el agua (formando ácido carbónico y sulfúrico), atacan el hormigón.
+    *   **Por agua:**
+        *   **Aguas puras:** Disuelven el hormigón.
+        *   **Aguas ácidas:** Disuelven el cemento, creando sales solubles.
+        *   **Aguas selenitosas (sulfato de cal o yeso):** Son peligrosas, ya que la reacción con el aluminato tricálcico genera ettringita expansiva.
+        *   **Agua de mar:** Produce ettringita y los cloruros solubilizan la cal.
+    *   **Corrosión de la armadura:** El hormigón, compuesto por árido, arena, cemento y agua, genera hidróxido cálcico Ca(OH)2 (portlandita) durante la hidratación del cemento, manteniendo un pH entre 12 y 13. Sin embargo, el CO2 atmosférico penetra por los poros y reacciona con el Ca(OH)2, formando carbonatos cálcicos, lo que reduce la alcalinidad a un pH de 8-9, un proceso conocido como **carbonatación**. Esta reducción del pH favorece la corrosión de la armadura. La **fenolftaleína** se utiliza como prueba: un color rosáceo indica pH > 9, mientras que la ausencia de color indica pH < 9.
+    *   **Aluminosis (fiebre del hormigón):** Esta lesión implica una pérdida de resistencia y un aumento de la porosidad del hormigón, comprometiendo la estabilidad del edificio. Es causada por el cemento aluminoso (CAC-R) que fragua rápidamente y contiene alta alúmina, provocando cambios químicos, altas temperaturas y humedades, lo que hace que las partículas de cemento ocupen menos espacio. Los agentes atmosféricos, los climas marítimos y los ambientes salinos o industriales contaminantes agravan este problema. En España, el cemento aluminoso fue de uso común entre 1960 y 1970.
+
+### **Patologías por Movimientos del Terreno**
+
+Los movimientos del terreno también pueden ser una causa fundamental de patologías estructurales.
+
+*   **Movimiento de ladera:** El desplazamiento de un estrato superior de terreno seco sobre uno fluido, generando una superficie de rotura entre ambos. Este fenómeno puede manifestarse como:
+    *   **Desprendimientos:** Despegue de una masa de roca de una pared con una inclinación superior a 76º.
+    *   **Vuelcos:** Rotación hacia delante y hacia el exterior de suelo o roca, con un eje bajo su centro de gravedad, en inclinaciones entre 45º y 76º.
+    *   **Deslizamientos y rodaduras:** Desplazamiento de masa o suelo de roca sobre una o más superficies de rotura, característico de terrenos con inclinaciones inferiores a 45º.
+    *   **Flujos:** Asimilables a un fluido viscoso, donde la masa movida no conserva su forma al descender, y su tipología varía (golpes de arena y limo, avalanchas).
+*   **Subsidencias y colapsos:** Implican hundimientos del terreno, tanto de origen natural como inducidos por la actividad humana.
+    *   **Subsidencia:** Hundimiento lento y progresivo, generalmente asociado a una variación gradual del contenido de agua en los estratos blandos superficiales.
+    *   **Colapso:** Hundimiento brusco y rápido, causado por la desaparición repentina de la compactación de un estrato inferior.
+
+En todos estos casos, las patologías del terreno pueden generar **grietas rectilíneas** en los muros, perpendiculares al sentido del desplazamiento, más abiertas en la parte inferior. Además, los muros de carga y contención pueden abombarse perpendicularmente a la dirección de la pendiente y, si carecen de arriostramiento, pueden desplomarse.
+
+### **Efectos de Sismos en Edificaciones**
+
+Los sismos son movimientos bruscos y pasajeros de la corteza terrestre, liberando energía en forma de ondas sísmicas que se propagan tanto en el interior como en la superficie de la Tierra.
+
+*   **Ondas Interiores:**
+    *   **Ondas Longitudinales o Primarias (P):** Se propagan en el mismo sentido que la vibración de las partículas, mediante compresiones y refracciones en rocas, a velocidades de 8 a 12 km/s. Atraviesan líquidos y sólidos y son las primeras en registrarse.
+    *   **Ondas Transversales o Secundarias (S):** Se propagan perpendicularmente al sentido de vibración de las partículas, mediante cizalladura, a velocidades entre 4 y 8 km/s. Atraviesan únicamente sólidos.
+*   **Ondas Superficiales:** Son el resultado de la interacción de las ondas P y S, con menor velocidad (entre 2.7 y 3 km/s) pero mayor amplitud y duración, lo que las hace más destructivas. Se distinguen dos modelos:
+    *   **Ondas Rayleigh:** Trayectoria elíptica retrógrada.
+    *   **Ondas Love:** Similares a las ondas S, pero en la superficie terrestre y perpendiculares a la dirección de propagación.
+
+Los sismos causan efectos significativos en el terreno y las edificaciones.
+
+*   **Efectos sobre el terreno:**
+    *   **Terrenos poco firmes, saturados con agua, blandos o con zonas deslizantes** son los más afectados.
+    *   **Desplazamiento de tierras:** Un estrato se desliza sobre otro, facilitado por la saturación de agua y la pendiente.
+    *   **Licuefacción del terreno:** El terreno granular no cohesivo se comporta como un líquido pesado debido a las vibraciones sísmicas, lo que provoca la salida de agua y fango, compactación de granos de arena y asentamientos o deslizamientos con pérdida de resistencia.
+*   **Efectos sobre las edificaciones:**
+    *   **Geometría:** La distribución de masas, simetría y retranqueos en la fachada influyen en el comportamiento sísmico.
+    *   **Rigidez:** Las variaciones de rigidez pueden generar puntos de fallo, como el **efecto pilar corto** (coacción que concentra tensiones adicionales) y el **efecto piso blando** (plantas diáfanas). El **fenómeno aplauso** se produce en edificaciones adosadas de diferentes alturas, donde el edificio menor impide el desplazamiento del mayor, causando cortantes y cizallamiento.
+    *   **Materiales de construcción:**
+        *   **Adobe y tapial:** Materiales pesados y con poca trabazón, muy frágiles ante sismos. Los muros de tapial, al ser monolíticos, resisten mejor.
+        *   **Fábrica:** Sensible a cortante y flexión. Las fábricas confinadas (fachadas en estructuras entramadas) ofrecen mejor respuesta.
+        *   **Hormigón armado:** Forma diafragmas rígidos que transmiten los efectos sísmicos a los muros, pero el hormigón prefabricado puede fallar por flexión o apoyo, desplomando los forjados hacia el interior. Los pilares de hormigón armado son vulnerables a la compresión y pandeo, especialmente en su cabeza y base.
+        *   **Acero:** Material elástico que sufre grandes deformaciones. Las uniones rígidas (empotramientos) son críticas, concentrando la rigidez. Las uniones articuladas pueden fallar por pandeo de pilares y pórticos.
+        *   **Madera:** Bajo peso y alta flexibilidad, genera menos daños. Los fallos se deben a una resistencia inadecuada de muros, precaria conexión cimentación-entrepisos y otros fallos como anclajes defectuosos o humedad.
+
+### **Patologías por Impacto**
+
+El riesgo de impacto se define como el choque violento de un cuerpo contra una edificación, aplicando una fuerza brusca. Las características del impacto dependen de la masa y velocidad del cuerpo impactante, así como de su capacidad de deformación y amortiguación.
+
+*   **Impacto exterior:** Las acciones de vehículos en el exterior del edificio se consideran según la ordenanza municipal. Los valores de cálculo son 50 kN para impactos paralelos a la vía y 25 kN para impactos perpendiculares (para vehículos de hasta 30 kN de peso total).
+*   **Impacto interior:** Se considera en zonas con circulación de vehículos, como carretillas elevadoras, donde el valor de cálculo es cinco veces el peso máximo autorizado de la carretilla.
+*   **Dilataciones:** Los desplazamientos de los muros debido a dilataciones o punzonamientos inversos (retracciones) pueden ocurrir en encuentros de cubiertas con fachadas.
+
+El riesgo de impacto en intervenciones de bomberos puede generar el colapso inmediato de la edificación, especialmente en cerramientos prefabricados anclados con grapas o tacos, ya que estos sistemas carecen de resistencia al fuego y corrosión.
+
+### **Estado de Ruina en la Edificación**
+
+El estado de ruina se refiere a una edificación con graves patologías que comprometen su estabilidad, uso o habitabilidad.
+
+*   **Clases de Ruina:**
+    *   **Ruina funcional:** La edificación es inútil o inservible para su destino, aunque su estabilidad no esté directamente afectada.
+    *   **Ruina constructiva:**
+        *   **Potencial o incipiente:** Primeros vicios constructivos cuya evolución, si no se corrige, puede llevar a daños graves. No afecta estabilidad ni seguridad inmediata.
+        *   **Vicios graves o ruina propiamente dicha:** Vicios que impiden el normal disfrute, uso y habitabilidad, con altos costes de reparación y necesidad de precauciones especiales (apeos, desalojos).
+        *   **Física o inminente:** Deficiencias que abocan a un colapso o derrumbamiento inminente, siendo la reparación inoperante o antieconómica. Puede ser una culminación de vicios graves o súbita por causas externas.
+    *   **Ruina económica:** El coste de reparación supera el 50% del valor actual del edificio (sin suelo).
+    *   **Ruina técnica:** La consolidación es imposible, requiriendo reconstrucción de más de un tercio de sus elementos fundamentales.
+
+Los **síntomas de ruina** incluyen grietas y fisuras (primarios), y deformaciones (pandeos, deflexiones, abombamientos, desplomes), disgregación de morteros, descascarillado de materiales, empujes, separación de elementos estructurales y descuadre de huecos (secundarios).
+
+### **Cálculo de la Estabilidad Estructural**
+
+La evaluación de la seguridad de una edificación se basa en la capacidad de la estructura para soportar cargas de forma estable durante su vida útil (por defecto, 50 años según CTE DB SE). Esto incluye limitar deformaciones, degradaciones o anomalías.
+
+Para el cálculo de la estabilidad, se consideran los **grados de libertad (GL)**, que son los movimientos posibles de un cuerpo en un sistema (3 movimientos en un sistema plano: desplazamiento vertical, horizontal y giro). Las **coacciones (C)** son las limitaciones a estos grados de libertad. La relación entre GL y C determina la estabilidad:
+*   **GL < C:** Estructura hiperestática (estable).
+*   **GL = C:** Estructura isostática (equilibrio limitado).
+*   **GL > C:** Estructura hipostática o mecanismo (inestable).
+
+Por ejemplo, un apoyo tiene 1 coacción y 2 grados de libertad, una articulación 2 coacciones y 1 grado de libertad, y un empotramiento 3 coacciones y 0 grados de libertad. El **cuerpo humano** sirve de analogía para comprender la estabilidad, ya que mediante la combinación de articulaciones y empotramientos puede transformarse de mecanismo a estructura isostática o hiperestática, como en el pino a dos manos (hiperestático) o a una mano (isostático).
+
+### **Técnicas de Estabilización y Demolición en Emergencias**
+
+Las intervenciones en edificaciones con patologías persiguen varios objetivos: evitar riesgos humanos, desalojar ocupantes de forma segura, prevenir el efecto dominó en estructuras aledañas y corregir la causa de la inestabilidad. Para ello, se emplean **estructuras auxiliares** como entibaciones, apeos y saneamientos/demoliciones.
+
+#### **Entibaciones**
+
+Las **entibaciones** son sistemas de estabilización bajo la rasante del terreno, fundamentales en excavaciones que comprometen la estabilidad del suelo, como zanjas o pozos. Se utilizan cuando el terreno no tiene suficiente resistencia para compensar el desequilibrio, lo que puede causar deslizamientos.
+
+*   **Elementos:**
+    *   **Travesaños, largueros o velas:** Piezas verticales que recogen tensiones del terreno por esfuerzos de flexión.
+    *   **Tablas o cabeceros:** Piezas horizontales que, en contacto con el terreno, recogen cargas de los largueros para transmitirlas a los codales.
+    *   **Codales:** Piezas horizontales que trabajan a compresión, contrarrestando los empujes del terreno.
+*   **Tipologías:**
+    *   **Cuajada:** Reviste el 100% de la superficie del terreno, para suelos de baja cohesión y presencia de agua.
+    *   **Semicuajada:** Reviste el 50% de la superficie, para suelos con mayor cohesión.
+    *   **Ligera:** Sin cabeceros, para terrenos con alto ángulo de rozamiento y gran cohesión.
+*   **Ejecución:** Se pueden utilizar métodos como el "Pronto" (montaje de marcos en superficie e introducción con grúas) o "Quillery" (introducción pieza a pieza en la zanja), siendo este último recomendable hasta 3.5 metros de profundidad en terrenos cohesivos.
+
+#### **Profundidad de Entibado y Precauciones**
+
+La normativa (NTP 278 del INSH/NTE-ADZ) establece que toda excavación de más de 0.80 m en terrenos corrientes o 1.30 m en terrenos consistentes se considera peligrosa. En emergencias, se debe entibar a partir de 1.50 m de profundidad (una persona cubierta).
+
+*   **En gravas y arenas (no cohesivos):** Entibar siempre.
+*   **En arcillas (cohesivos):** Entibar si la zanja/pozo está cerca de un vial, cimentación o elemento que pueda derrumbarse (distancia inferior a dos veces la profundidad).
+*   **Precauciones:** Identificar características del terreno e instalaciones (agua, gas, electricidad), no usar motores de explosión en excavaciones estre

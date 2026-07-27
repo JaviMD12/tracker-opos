@@ -72,7 +72,7 @@ def generar_preguntas_openai(
     tema: str,
     cantidad: int,
     numero_lote: int,
-    enunciados_lote_anterior: list[str],
+    enunciados_existentes: list[str],
 ) -> list[dict]:
     # temperature alta (variedad) sigue siendo seguro aqui: response_format
     # json_object fuerza la estructura igualmente, lo que varia es el
@@ -95,13 +95,14 @@ def generar_preguntas_openai(
         "preguntas genericas que servirian para cualquier lote."
     )
 
-    if enunciados_lote_anterior:
-        previas = "\n".join(f"- {e}" for e in enunciados_lote_anterior)
+    if enunciados_existentes:
+        previas = "\n".join(f"- {e}" for e in enunciados_existentes)
         instrucciones += (
-            "\n\nEstas preguntas ya se generaron en el lote anterior de este "
-            "mismo tema -- NO las repitas ni generes variantes casi "
-            "identicas (mismo dato o concepto solo con las palabras "
-            f"cambiadas):\n{previas}"
+            "\n\nEstas preguntas YA EXISTEN en el banco de este tema (de "
+            "este lote, de lotes anteriores de esta misma ejecucion, o de "
+            "ejecuciones anteriores del script) -- NO las repitas ni "
+            "generes variantes casi identicas (mismo dato o concepto solo "
+            f"con las palabras cambiadas o reformulado como sinonimo):\n{previas}"
         )
 
     mensajes = [
@@ -122,6 +123,27 @@ def _pregunta_es_valida(pregunta: dict) -> bool:
         and 0 <= pregunta["respuesta_correcta"] <= 3
         and isinstance(pregunta.get("justificacion"), str)
     )
+
+
+def obtener_enunciados_existentes(tema: str) -> list[str]:
+    """Enunciados ya guardados en el banco para este tema, de ejecuciones
+    anteriores del script (o de lotes previos de esta misma ejecucion). Sin
+    esto, cada vez que se vuelve a correr generar_banco.py para el mismo
+    tema el modelo no tiene ninguna visibilidad de lo ya generado: empieza
+    otra vez por el enfoque "definiciones y conceptos fundamentales" (el
+    primero del ciclo rotatorio) y acaba regenerando las mismas preguntas
+    basicas una y otra vez, aunque el banco ya tenga decenas de preguntas.
+    """
+    db = SessionLocal()
+    try:
+        filas = (
+            db.query(PreguntaTest.enunciado)
+            .filter(PreguntaTest.tema == tema)
+            .all()
+        )
+        return [enunciado for (enunciado,) in filas]
+    finally:
+        db.close()
 
 
 def guardar_preguntas(tema: str, preguntas: list[dict]) -> int:
@@ -177,7 +199,16 @@ def main() -> None:
     total_guardadas = 0
     restantes = cantidad
     lote_actual = 1
-    enunciados_lote_anterior: list[str] = []
+
+    # Se siembra con lo que YA hay en el banco para este tema (de
+    # ejecuciones anteriores) y se va acumulando con cada lote de esta
+    # ejecucion -- antes se reemplazaba en cada vuelta y solo se comparaba
+    # contra el lote inmediatamente anterior, asi que un lote 5 no sabia
+    # nada de lo generado en el lote 2, y una segunda ejecucion del script
+    # no sabia nada de la primera.
+    enunciados_existentes = obtener_enunciados_existentes(tema)
+    if enunciados_existentes:
+        print(f"El banco ya tiene {len(enunciados_existentes)} preguntas de '{tema}'.")
 
     while restantes > 0:
         tamano = min(TAMANO_LOTE, restantes)
@@ -185,7 +216,7 @@ def main() -> None:
 
         try:
             preguntas = generar_preguntas_openai(
-                tema, tamano, lote_actual, enunciados_lote_anterior
+                tema, tamano, lote_actual, enunciados_existentes
             )
         except OpenAIError as exc:
             print(f"  Error llamando a OpenAI en el lote {lote_actual}: {exc}")
@@ -205,10 +236,12 @@ def main() -> None:
         total_guardadas += guardadas
         print(f"  Lote {lote_actual}: {guardadas}/{len(preguntas)} guardadas.")
 
-        # Se pasa al siguiente lote para que sepa que NO debe repetir.
-        enunciados_lote_anterior = [
+        # Se acumula (no se reemplaza) para que el siguiente lote conozca
+        # TODO lo generado hasta ahora, no solo lo del lote inmediatamente
+        # anterior.
+        enunciados_existentes.extend(
             p["enunciado"] for p in preguntas if _pregunta_es_valida(p)
-        ]
+        )
 
         restantes -= tamano
         lote_actual += 1

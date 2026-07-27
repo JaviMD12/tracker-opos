@@ -1,0 +1,58 @@
+# Nociones Fundamentales de Cartografía, Factores Humanos y Psicosociales en la Búsqueda y Rescate de Personas
+
+La capacidad de los servicios de emergencia para realizar búsquedas y rescates efectivos de personas desaparecidas o perdidas se fundamenta en el dominio de la **cartografía** y la comprensión de diversos **factores antrópicos y psicosociales** que influyen en estas situaciones. Estos conocimientos permiten optimizar los recursos y las estrategias de intervención, garantizando la seguridad del personal y la eficacia de la operación.
+
+## Principios de Cartografía y Posicionamiento
+
+La cartografía se erige como una herramienta esencial al proporcionar una **representación gráfica** detallada de una gran superficie. Su utilidad abarca desde la localización precisa de un punto de interés o un accidente, la fijación de la orientación geográfica, hasta el cálculo de distancias y superficies. En el contexto de una búsqueda, la cartografía facilita la organización de los equipos, el registro de las áreas rastreadas y la planificación del retorno seguro de la víctima a su hogar.
+
+### Lectura e Interpretación de Mapas
+
+La representación de la superficie terrestre en un mapa implica simplificaciones, dada la forma geoide del planeta (elipsoide con irregularidades). Los mapas utilizan **proyecciones** bidimensionales o tridimensionales (cilíndricas, cónicas) para trasladar la información. Un aspecto clave es la **escala**, que define la relación entre las distancias en el mapa y en la realidad; por ejemplo, una escala 1:25.000 indica que un centímetro en el mapa equivale a 250 metros en el terreno.
+
+### Sistemas de Coordenadas Geográficas
+
+La localización en un mapa se realiza mediante **coordenadas geográficas**, que dividen la Tierra en paralelos (latitud) y meridianos (longitud). El sistema más extendido, definido en 1884 en la Conferencia Internacional de Washington, utiliza el Ecuador como referencia para la latitud (0º) y el Meridiano de Greenwich para la longitud (0º). La latitud se mide 90º al norte y 90º al sur del Ecuador, mientras que la longitud se mide 180º al este y 180º al oeste del Meridiano de Greenwich. Estas medidas se subdividen en grados, minutos y segundos, donde un grado de latitud en el Ecuador equivale aproximadamente a 110 kilómetros, un minuto a 1.850 metros (una milla náutica) y un segundo a 31 metros.
+
+Por otro lado, el sistema de **Coordenadas Universal Transverse Mercator (UTM)** proyecta el elipsoide terrestre sobre un cilindro transversal. Este sistema excluye las zonas polares (entre 80º S y 80º N) debido a la distorsión. La Tierra se divide en 60 husos (6º de ancho, de este a oeste) y 20 bandas (8º de ancho, de norte a sur), formando una cuadrícula de abscisas (X) y ordenadas (Y). La precisión del posicionamiento cartográfico se asegura mediante el uso de un **datum**, un punto de referencia de encaje (como WGS84, NAD27 o ED50), que se materializa físicamente en **vértices geodésicos** (mojones con protección legal).
+
+### Determinación de la Posición y Orientación
+
+La localización de la posición de un individuo, ya sea el rescatador o la víctima, es crucial. Si se dispone de **GPS**, la tarea es directa. En ausencia de este, se recurre a la **triangulación** a partir de al menos tres puntos de referencia geográficos o paisajísticos identificables. La **orientación** implica identificar el este, guiándose por el sol durante el día o por la Estrella Polar y las zonas de solana/umbría durante la noche. La **brújula** es una herramienta fundamental que señala el norte magnético, cuya diferencia con el norte geográfico (ángulo de declinación) debe compensarse. El **rumbo** se refiere a la dirección a seguir, mientras que el **azimut** es su representación en el mapa. Los dispositivos GPS modernos integran estas funciones, facilitando la **navegación** al trazar rutas que consideren caminos sinuosos u obstáculos, no siempre en línea recta.
+
+### Herramientas Tecnológicas
+
+El avance tecnológico ha dotado a los equipos de rescate de herramientas sofisticadas. Los **GPS de marcas como Garmin** (modelos E-TREX20 o NUVI) son ampliamente utilizados, ofreciendo funciones como la gestión de **tracks** (rutas grabadas), **waypoints** (puntos de interés) y la configuración de datos geográficos. Las **aplicaciones móviles** en smartphones, como WhatsApp, también permiten compartir la ubicación. La creación de sectores de búsqueda en programas como BaseCamp facilita la planificación y el registro de la información.
+
+## Factores Antrópicos y Psicosociales en Búsquedas
+
+En las operaciones de búsqueda y rescate, la intervención está fuertemente influenciada por **factores antrópicos** (relacionados con el ser humano) y **psicosociales**. Estos elementos pueden condicionar la estrategia, el ritmo de trabajo y la gestión de la información.
+
+### Tipología de Personas Desaparecidas
+
+Es fundamental distinguir entre **personas perdidas**, que, aunque desconozcan su posición, mantienen contacto con el rescatador, y **personas desaparecidas**, de quienes no se tienen noticias y su paradero es desconocido, lo que requiere una investigación más compleja. La actuación difiere significativamente en cada caso. Ante una desaparición, se activa un **protocolo de búsqueda sistemática** si la vida o integridad del sujeto está en riesgo, apoyándose en la colaboración interinstitucional de fuerzas de orden, protección civil y sanitarios.
+
+### Condicionantes por Edad
+
+La edad de la persona desaparecida influye notablemente en su comportamiento y en las distancias que puede recorrer desde la Última Localización Conocida (ULC). Las **estadísticas de hallazgo** (D50, D75, D99) son cruciales para definir el radio de búsqueda probabilística:
+*   **Niños de 1 a 3 años (periodo sensoriomotor):** Presentan movilidad reducida, falta de conciencia espacial y alta dependencia de sus cuidadores. Tienden a esconderse. La distancia D99 (donde se encuentra el 99% de los casos) es de 3.2 km.
+*   **Niños de 4 a 6 años (periodo preoperacional):** Poseen mayor movilidad y conciencia de estar perdidos, buscando caminos para regresar. La distancia D99 es de 2.7 km.
+*   **Niños de 7 a 12 años (periodo de operaciones concretas):** Desarrollan una mayor capacidad de orientación, aunque pueden tomar atajos y usar mapas mentales. La distancia D99 es de 8 km.
+*   **Adultos (a partir de 18 años):** Con pleno desarrollo cognitivo, pueden perderse por errores en la elección de rutas o falta de referencias. La sobreconfianza puede llevarlos a alejarse más. Buscan caminos, sendas o líneas eléctricas como referencia. La distancia D99 puede llegar a 24 km.
+
+### Condicionantes Psicológicos
+
+Los **trastornos psicológicos** previos pueden afectar el comportamiento de la persona perdida o desaparecida:
+*   **Trastornos neuróticos (ansiedad, fobias, obsesivo-compulsivos), afectivos (depresión, manía) y de personalidad (paranoide, antisocial):** Pueden llevar a comportamientos de ocultamiento, falta de respuesta a llamadas, o a la tendencia a deambular sin rumbo.
+*   **Enfermedad de Alzheimer o demencias:** Suelen tener un historial de desapariciones, no responden a llamadas y buscan lugares familiares, sin relacionarlos conscientemente con el entorno.
+*   **Discapacidades del desarrollo:** Incluyen trastornos cognitivos de origen traumático o patológico, que también resultan en desorientación y movimientos erráticos.
+
+El **estado emocional** del buscador y de la víctima es un factor crítico. Es normal experimentar ansiedad o pánico en entornos hostiles. Se distinguen personalidades **reflexivas** (buscan refugio, piden ayuda) de **proactivas** (intentan resolver solos, siguiendo caminos). El agotamiento físico y mental, la desmotivación o la falta de un ritmo de trabajo adecuado pueden mermar la eficacia de la búsqueda.
+
+### Grado de Destreza y Equipamiento
+
+El nivel de habilidad del individuo y el equipo disponible son factores que interactúan con el entorno, el clima y la hora del día. La adecuada valoración de estos elementos es esencial para determinar el radio de búsqueda y las estrategias a emplear.
+
+### Factores Psicosociales y Ambientales
+
+Durante una intervención, la **alarma social** generada por casos mediáticos puede influir en la presión sobre los rescatadores, generando expectativas poco realistas y la aparición de falsas pistas. La **relación con la familia** debe manejarse con empatía y honestidad, evitando dar falsas esperanzas y designando un portavoz para una comunicación fluida. La **interacción con los medios de comunicación** requiere cautela para no interferir en la operación y para controlar la información divulgada. Finalmente, el **cansancio** del personal es un factor que afecta las aptitudes físicas y mentales, la motivación y el ritmo de trabajo, siendo crucial gestionarlo mediante relevos y pausas adecuadas.

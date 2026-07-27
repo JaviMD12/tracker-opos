@@ -1,0 +1,44 @@
+## Conceptos Fundamentales del Riesgo Eléctrico y Sistemas Constructivos
+
+El estudio de los riesgos tecnológicos en emergencias requiere un conocimiento profundo de la física básica aplicada a las estructuras y a los fenómenos eléctricos. A continuación, se detallan los conceptos fundamentales de la electricidad, la naturaleza de los materiales y los sistemas de distribución eléctrica, esenciales para la intervención de los cuerpos de bomberos.
+
+### Fundamentos de la Electricidad
+
+La **electricidad** se basa en el comportamiento de partículas subatómicas. Un **átomo**, la unidad más pequeña de la materia, posee un núcleo central con **protones** (carga positiva) y **neutrones** (sin carga), y **electrones** (carga negativa) que orbitan alrededor. La diferencia en el número de protones define el elemento químico y su **número atómico (Z)**, mientras que la suma de protones y neutrones define el **número másico (A)**. La **carga eléctrica (Q)** se mide en culombios (C) y representa el exceso o defecto de electrones.
+
+La **fuerza electromagnética** surge de la interacción entre cargas, donde cargas iguales se repelen y opuestas se atraen. Este fenómeno es la base de la **electricidad electrostática**, producida por la separación o fricción de materiales, generando una diferencia de potencial que puede causar descargas o incendios.
+
+La **intensidad de corriente eléctrica (I)** es la cantidad de carga eléctrica que fluye por un conductor en un tiempo dado, y se mide en Amperios (A). La **Ley de Ohm** relaciona esta intensidad con la **diferencia de potencial (V)** o tensión (medida en voltios) y la **resistencia eléctrica (R)** (medida en ohmios), estableciendo que la intensidad es directamente proporcional a la tensión e inversamente proporcional a la resistencia (I = V/R). Es crucial señalar que la medición de la intensidad se realiza en serie con un amperímetro, mientras que la tensión se mide en paralelo con un voltímetro.
+
+El paso de corriente por una resistencia genera calor, conocido como **efecto Joule**, causado por los choques de electrones con las moléculas del conductor. Por otro lado, la desconexión de un circuito con carga puede generar un **arco voltaico**, disipando energía en el aire.
+
+Se distinguen dos tipos principales de corriente: la **corriente continua (CC)**, donde el flujo de carga es constante y unidireccional; y la **corriente alterna (CA)**, donde la magnitud y el sentido varían cíclicamente, a menudo de forma sinusoidal. Las redes eléctricas utilizan mayoritariamente corriente alterna debido a su eficiencia en el transporte y la facilidad de transformación. La red eléctrica española, por ejemplo, emplea CA a 50 Hz, con tensiones de 220/230 V entre fase y neutro, y 380/400 V entre fases.
+
+Una evolución de la CA es la **corriente trifásica**, que consiste en tres ondas sinusoidales idénticas, desfasadas 120° entre sí. Es la forma más común y eficaz en la industria. Las conexiones trifásicas pueden ser en **estrella**, donde los retornos se unen en un punto neutro (la suma de corrientes es cero si está equilibrado), o en **triángulo (delta)**.
+
+La **potencia eléctrica (P)** es la capacidad de un dispositivo para realizar trabajo, medida en vatios (W) o kilovatios-hora (kWh). En CC, P = V · I. En CA, se introduce el **factor de potencia (cos φ)**, siendo P = V · I · cos φ. La potencia se clasifica en **activa** (trabajo útil), **reactiva** (consumida por bobinas/condensadores) y **aparente** (suma vectorial de las anteriores).
+
+Los materiales se clasifican según su capacidad de conducir electricidad:
+*   **Superconductores:** Conducen electricidad sin resistencia a bajas temperaturas (ej. estaño, aluminio).
+*   **Conductores:** Transmiten la electricidad eficazmente (ej. cobre, aluminio, grafito, agua de mar).
+*   **Semiconductores:** Su conductancia es controlable (ej. silicio).
+*   **Dieléctricos (aislantes):** No conducen electricidad (ej. vidrio, cerámica, plásticos, madera seca, aire).
+
+### Redes Eléctricas y su Distribución
+
+Las **redes eléctricas** se categorizan por su tensión de servicio en:
+*   **Instalaciones de Alta Tensión (AT):** Voltajes superiores a 1000 V en CA o 1500 V en CC (ej. 11 kV a 380 kV para CA).
+*   **Instalaciones de Baja Tensión (BT):** Voltajes inferiores a 1000 V en CA o 1500 V en CC (ej. 380 V trifásica, 220 V o 125 V para CA).
+
+La energía eléctrica se genera en **plantas de generación**, donde alternadores producen energía trifásica (típicamente 20 kV) que luego es elevada a tensiones de AT (66 kV a 380 kV) en **subestaciones elevadoras**.
+
+Las **líneas de transporte y distribución en AT** llevan la energía a grandes distancias, clasificándose por tensión:
+*   **Líneas superiores a 66 kV:** Conectan centrales con grandes subestaciones, con múltiples conductores por fase y aisladores de vidrio.
+*   **Líneas entre 30 kV y 66 kV:** Conectan grandes con medianas/pequeñas subestaciones. Pueden ser aéreas o subterráneas y utilizan de 4 a 6 aisladores.
+*   **Líneas entre 1 kV y 30 kV:** Conectan subestaciones con centros de transformación. Suelen ser subterráneas en ciudades y aéreas en zonas interurbanas, con menos de 3 aisladores.
+
+Un aspecto importante de estas líneas es la capacidad de **reenganches automáticos**, que intentan restablecer el servicio tras una interrupción temporal, realizando varios intentos en un lapso de tiempo definido (ej. 3 minutos).
+
+Los **centros de transformación (CT)** reducen la AT (11-20 kV) a BT (380 V trifásica o 220 V monofásica) para el consumo. Se encuentran en diversos entornos (industrias, urbanos, rurales) y se clasifican por ubicación física (intemperie, prefabricados de hormigón, subterráneos, edificios de obra civil) y por su posición en la red (de punta, de paso, de anillo). Están protegidos por **celdas de entrada y salida** y **seccionadores**.
+
+Finalmente, las **instalaciones de enlace** conectan la red de distribución con las instalaciones interiores del usuario, incluyendo la **Acometida**, la **Caja General de Protección (CGP)**, la **Línea General de Alimentación (LGA)**, la **centralización de contadores (CC)** y la **derivación individual de abonado**. El **grado de electrificación de una vivienda** indica la carga eléctrica mínima que su instalación debe soportar, diferenciando entre grado básico (5.750 W a 230 V, 5 circuitos) y elevado (9.200 W a 230 V, más de 5 circuitos, hasta 12). La **red de tierra** es fundamental para la seguridad, conectando el edificio con el terreno para proteger contra derivaciones y asegurar el correcto funcionamiento de los diferenciales.

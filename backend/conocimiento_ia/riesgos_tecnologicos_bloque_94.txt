@@ -1,0 +1,47 @@
+## Herramientas y Equipos en Operaciones de Rescate: Física Aplicada y Medidas de Seguridad
+
+En el ámbito de las operaciones de rescate, la comprensión de los principios físicos que r rigen el funcionamiento de diversas herramientas y la correcta aplicación de equipos auxiliares resultan fundamentales para garantizar la eficacia y seguridad en la intervención. Este conocimiento abarca desde las máquinas simples hasta elementos especializados como cables, eslingas y anclajes, así como sistemas neumáticos de elevación.
+
+### Principios Fundamentales de las Máquinas Simples
+
+Las máquinas simples, como las palancas y las poleas, son esenciales para la movilización de cargas en rescate. Una **palanca** se define como una barra rígida capaz de girar alrededor de un punto fijo, denominado **fulcro** o **punto de apoyo**, cuando se le aplica una **fuerza** (potencia) para superar una **resistencia**. El equilibrio en una palanca se logra cuando el producto de la potencia por su brazo de potencia es igual al producto de la resistencia por su brazo de resistencia. Para mover una resistencia sin aumentar la fuerza aplicada, es posible incrementar el brazo de potencia o reducir el brazo de resistencia. Las palancas se clasifican en tres géneros según la posición relativa del fulcro, la potencia y la resistencia. Por ejemplo, en una palanca de primer género, el fulcro se sitúa entre la potencia y la resistencia, como en unas tijeras. En el segundo género, la resistencia se encuentra entre el fulcro y la potencia, un caso similar a una carretilla. Finalmente, en el tercer género, la potencia se localiza entre el fulcro y la resistencia, como una caña de pescar.
+
+Por otro lado, una **polea** es una máquina simple que consta de una rueda con un canal, diseñada para que una cuerda o cable la rodee, permitiendo así transmitir fuerza o cambiar la dirección de un movimiento. A diferencia de las palancas, la rotación de la polea no genera momentos netos, lo que la hace útil para redistribuir la dirección de las fuerzas. Las poleas pueden ser fijas, con equilibrio de fuerzas directo, o móviles, donde la fuerza requerida es la mitad de la resistencia, incrementando el recorrido del cable. Cuando se combinan varias poleas en un sistema, se forma un **polipasto**, que permite reducir significativamente la fuerza necesaria para levantar una carga. La relación de fuerza en un polipasto es inversamente proporcional a dos elevado al número de poleas móviles. Es crucial, sin embargo, considerar que si los cabos de la cuerda no son paralelos, la eficacia de la polea se ve afectada, y la fuerza necesaria debe calcularse ponderando los ángulos con respecto a la vertical.
+
+Un ejemplo práctico de estas máquinas es el **tractel**, un dispositivo de arrastre manual que opera en diversas posiciones gracias a un mecanismo de dos bloques de mordazas que tiran alternativamente del cable. Su capacidad de carga depende del tipo de tractel y del cable utilizado. Por ejemplo, un tractel T-13 tiene una capacidad de elevación de 1500 kg y de tracción de 3000 kg con un cable de Ø11.5 mm, mientras que un T-35 puede elevar 3000 kg y traccionar 5000 kg con un cable de Ø16.3 mm. En el cálculo de las cargas de tracción, es necesario considerar los coeficientes de rozamiento entre la superficie y el objeto, los cuales varían significativamente; por ejemplo, el hormigón seco tiene un coeficiente de deslizamiento de 0.8, mientras que en rieles es de 0.005. Los tracteles se emplean en tracción directa, indirecta (con poleas de reenvío para cambiar la dirección) o con polipastos para aumentar la capacidad de tracción.
+
+### Elementos Auxiliares y Normativa Asociada
+
+Los **cables de acero** se utilizan como elementos auxiliares para el desplazamiento de cargas y el arriostramiento en estabilizaciones complejas, siendo comunes los diámetros de 8-10 mm. La **NTP 186** es una referencia para secciones inferiores a 12 mm. La resistencia nominal de un cable de Ø10mm con composición 6x19+1 y alma textil es de 55.3 kN a la rotura; para cargas estáticas se considera el 70% (40.0 kN) y para dinámicas el 40% (20.0 kN). Su anclaje se realiza con abrazaderas, requiriendo un mínimo de cuatro para cables de hasta 12 mm de diámetro, espaciadas entre 6 y 8 veces el diámetro del cable. El apriete debe ser gradual y alternado, verificándose tras una primera carga.
+
+Las **eslingas**, por su parte, son elementos auxiliares cuya capacidad de carga debe ponderarse en función del ángulo que forman sus ramales con la vertical. Esta ponderación se realiza multiplicando la carga de trabajo por el coseno del ángulo. Por ejemplo, con un ángulo de 30º respecto a la vertical (es decir, 60º entre ramales), el coeficiente es 0.87. Si las eslingas se conectan mediante anillos intermedios, su capacidad se reduce en un 40% (se multiplica por 0.6).
+
+Para garantizar la estabilidad en la movilización de cargas, es fundamental establecer **anclajes** adecuados. Estos pueden ser **existentes** (pilares de hormigón, estructuras metálicas, árboles) o **artificiales** (picas de ferralla). Los anclajes artificiales, como las picas verticales, se insertan en el terreno, y su resistencia puede variar entre 4 y 6 kN por pica. Para una mayor seguridad, se recomienda un mínimo de 6 picas y conectarlas con cadenas o eslingas formando un ángulo de 45° con el terreno. Sin embargo, los anclajes artificiales son inherentemente menos seguros y solo deben considerarse como último recurso.
+
+### Cojines Neumáticos de Alta Presión
+
+Los **cojines neumáticos de alta presión** son recipientes flexibles que se inflan con aire para levantar grandes cargas en operaciones de rescate. Se dividen en cojines de alta presión (8-10 kg/cm²) y baja presión (0.5-1 kg/cm²). La fuerza de elevación de un cojín es directamente proporcional a la presión de trabajo y a su superficie de contacto. Es esencial maximizar la superficie de contacto para un rendimiento óptimo.
+
+En cuanto a su uso, es crucial evitar apilar más de dos cojines y siempre utilizar soportes estables para la carga, como tablones. Se deben evitar superficies cortantes, afiladas o a altas temperaturas, y realizar inspecciones periódicas de los cojines. Durante la operación, el personal debe mantenerse a una distancia prudente, con contacto visual constante con la consola de control, utilizando mangueras codificadas por colores para facilitar la identificación. Las válvulas de seguridad de fábrica nunca deben ser modificadas.
+
+### Datos Técnicos de Cojines Vetter
+
+Los cojines neumáticos de la marca Vetter presentan las siguientes características según su modelo:
+*   **V-10:** Fuerza máxima de elevación de 9.6 toneladas, altura de elevación máxima de 20.3 cm, tamaño 37x37 cm.
+*   **V-24:** Fuerza máxima de elevación de 24.0 toneladas, altura de elevación máxima de 30.6 cm, tamaño 52x62 cm.
+*   **V-40:** Fuerza máxima de elevación de 39.6 toneladas, altura de elevación máxima de 40.2 cm, tamaño 78x69 cm.
+*   **V-68:** Fuerza máxima de elevación de 67.7 toneladas, altura de elevación máxima de 67.0 cm, tamaño 95x95 cm.
+
+Todos los modelos de cojines Vetter operan con una sobrepresión de servicio de 8 bar (116 psi) y una presión de prueba de 16 bar (232 psi). Sus presiones de reventamiento oscilan entre 34.7 y 65.0 bar, dependiendo del modelo. El volumen de aire necesario para inflar un cojín a 8 bar varía desde 82.8 litros para el V-10 hasta 1457.1 litros para el V-68, con tiempos de llenado que van de 5 a 88 segundos.
+
+### Procedimiento de Operación de Cojines Neumáticos
+
+Para operar los cojines neumáticos de alta presión de manera segura y eficiente, se deben seguir los siguientes pasos:
+1.  Conectar la botella de aire al manoreductor y ajustar la presión máxima a 8 bar.
+2.  Conectar el latiguillo del manoreductor al órgano de mando.
+3.  Conectar las mangueras de inflado a los cojines elevadores.
+4.  Abrir la llave de la botella de aire.
+5.  Abrir la llave del manómetro.
+6.  Accionar el mando del distribuidor para proceder al llenado del cojín.
+
+En resumen, el dominio de estas herramientas y la aplicación rigurosa de las pautas de seguridad son cruciales para mitigar los riesgos inherentes a las operaciones de rescate, optimizando la capacidad de respuesta y protegiendo tanto a las víctimas como a los intervinientes.

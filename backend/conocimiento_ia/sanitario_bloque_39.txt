@@ -1,0 +1,83 @@
+# Gestión de la Higiene y Bioseguridad en Intervenciones de Emergencia
+
+La **higiene y bioseguridad** son pilares fundamentales en las intervenciones de emergencia, abarcando la **limpieza**, **desinfección** y **esterilización** de equipos y superficies, así como la protección del personal y las víctimas. Estos procesos son interdependientes; por ejemplo, una limpieza eficaz es un prerrequisito para cualquier desinfección o esterilización exitosa, ya que reduce la carga microbiana inicial. Es crucial entender que un objeto desinfectado no necesariamente está estéril, pero un objeto estéril sí implica que ha sido desinfectado.
+
+Conceptos clave asociados a estas prácticas incluyen la **asepsia**, definida como la ausencia de microorganismos patógenos; la **antisepsia**, que se refiere a los métodos utilizados para reducir la contaminación en tejidos vivos; la **contaminación**, que es la presencia de microorganismos; y la **sepsis**, que representa una respuesta inflamatoria sistémica a una infección.
+
+## Clasificación del Material Sanitario
+
+El material sanitario se clasifica atendiendo a su **uso** y al **riesgo de criticidad** en la **clasificación de Spaulding**, lo cual determina el nivel de procesamiento requerido para su reutilización.
+
+En cuanto a su **utilización**, se distingue entre el material **fungible o desechable**, como catéteres, agujas y jeringas, que se descarta tras un solo uso, y el material **reutilizable**, que, una vez limpiado, desinfectado y esterilizado, puede volver a emplearse, como los laringoscopios, termómetros o fonendoscopios.
+
+Por su **criticidad**, el material se categoriza en:
+*   **Material no crítico:** Aquel que solo entra en contacto con la piel intacta del paciente, sin penetrar mucosas. Requiere desinfección de bajo o intermedio nivel. Ejemplos incluyen el fonendoscopio, el desfibrilador, el termómetro o el electrocardiógrafo.
+*   **Material semicrítico:** Entra en contacto con las mucosas o la piel no intacta. Requiere desinfección de alto nivel. Algunos ejemplos son los sistemas de suero y las sondas.
+*   **Material crítico:** Aquel que penetra en tejidos estériles o el sistema vascular. Indispensablemente, necesita ser sometido a un proceso de esterilización. En esta categoría se encuentran, por ejemplo, los endoscopios o el instrumental quirúrgico.
+
+## Limpieza del Material Sanitario
+
+El objetivo principal de la limpieza es garantizar la **higiene** y prevenir la **transmisión de microorganismos**. Para ello, se emplean principalmente **agua y detergentes**. El agua debe ser de calidad, preferentemente blanda y con pH neutro, y el aclarado debe realizarse con agua destilada. Los detergentes son sustancias químicas que, disueltas en agua, forman una solución detergente cuya eficacia depende de la dosis, el tiempo de inmersión y la temperatura, siguiendo siempre las indicaciones del fabricante. Un buen detergente debe poseer **poder detergente** (para desincrustar la suciedad), **poder humectante** (para facilitar el contacto con la superficie) y **poder solubilizante** (para disolver la suciedad).
+
+Los detergentes, a su vez, pueden clasificarse según su composición y finalidad:
+*   Los **surfactantes** reducen la tensión superficial del agua, facilitando la disolución de grasas.
+*   Las **sustancias alcalinas** contribuyen a la eliminación de grasas.
+*   Los **biocidas** incorporan componentes que potencian la desinfección.
+*   Las **enzimáticas** favorecen la descomposición de residuos orgánicos, especialmente proteínas.
+
+El proceso de limpieza se compone de varias **fases**:
+1.  **Prelavado:** Un lavado inicial con abundante agua a una temperatura inferior a 35°C, destinado a arrastrar la materia orgánica más gruesa.
+2.  **Lavado:** Se realiza con agua templada y una solución detergente.
+3.  **Aclarado:** Con agua fría y destilada para eliminar cualquier residuo de detergente.
+4.  **Secado:** Se utiliza aire caliente o paños que no dejen restos, ya que la humedad residual puede favorecer el crecimiento microbiano.
+
+Existen diversos **métodos de limpieza**:
+*   **Por inmersión:** El material se sumerge en la solución detergente y luego se aclara con agua abundante.
+*   **En seco:** El material se frota con un paño humedecido en solución detergente, seguido de un aclarado y secado con paños limpios. También puede aplicarse en forma de pulverización.
+*   **Mecánica:** Incluye el uso de lavadoras y la **limpieza por ultrasonidos**, donde los instrumentos se sumergen en una cubeta y se exponen a ondas de alta frecuencia en una solución adecuada, lo que provoca la desintegración de la materia orgánica adherida.
+
+## Desinfección y sus Métodos
+
+La **desinfección** tiene como objetivo destruir los microorganismos patógenos, excluyendo las esporas. Un desinfectante óptimo debe ser de **amplio espectro**, **estable**, **fácilmente soluble**, de **rápida y permanente acción**, **no tóxico** ni **irritante**, **no corrosivo**, **eficaz a bajas concentraciones**, **económico** y **biodegradable**.
+
+Los desinfectantes se aplican mediante:
+*   **Inmersión:** Sumergiendo el material en la solución desinfectante.
+*   **Loción:** Empapando paños o bayetas en la solución para aplicarla sobre superficies.
+*   **Aerosoles:** Proyectando el desinfectante en forma de microgotas con un equipo.
+
+Se clasifican según su **acción** (bactericidas, fungicidas, viricidas, que destruyen, o bacteriostáticos, fungistáticos, virustáticos, que inhiben el crecimiento) y su **nivel de desinfección** (bajo, intermedio o alto), dependiendo de la gama de microorganismos que eliminen. La desinfección de bajo nivel elimina la mayoría de bacterias, algunos virus y hongos, pero no micobacterias ni esporas. La de nivel intermedio elimina la mayoría de bacterias, virus y hongos, a veces micobacterias, pero no esporas. Finalmente, la desinfección de alto nivel elimina todas las bacterias, virus y hongos, incluyendo micobacterias y algunas esporas bacterianas.
+
+### Métodos de Desinfección Específicos
+
+Los métodos de desinfección pueden ser **físicos** o **químicos**.
+
+Entre los **físicos** se encuentran:
+*   **Desinfección térmica (calor húmedo):** Utiliza temperaturas entre 65°C y 95°C (pasteurización), sin superar los 100°C.
+*   **Radiación ultravioleta (UV):** Solo es efectiva en superficies directamente expuestas a la luz UV, sin capacidad de penetración.
+
+Los **métodos químicos** utilizan desinfectantes y antisépticos como:
+*   **Alcoholes (etílico e isopropílico al 70%):** Desinfectantes de potencia intermedia, actúan deshidratando y desnaturalizando proteínas. Son de acción inmediata, pero de duración escasa, adecuados para material no crítico y antisepsia cutánea.
+*   **Compuestos yodados (derivados del yodo):** Desinfectantes de nivel medio que alteran proteínas y ácidos nucleicos. Usados para material no crítico, preoperatorios y heridas. Son corrosivos para metales y se inactivan con materia orgánica.
+*   **Derivados del amonio cuaternario (cloruro de benzalconio):** Tensioactivos con acción bacteriana limitada, usados principalmente para limpieza.
+*   **Biguanidas (clorhexidina):** Desinfectante y antiséptico de nivel intermedio, con acción rápida (hasta 6 horas), que altera la membrana bacteriana. Se usa en material, piel y mucosas, pero se inactiva con aguas duras y jabones.
+*   **Oxidantes (peróxido de hidrógeno o agua oxigenada):** Desinfectante de nivel intermedio, a altas concentraciones se considera de alto nivel. Desnaturaliza proteínas y enzimas. Irrita piel y mucosas.
+*   **Derivados del cloro (hipoclorito sódico o lejía):** Desinfectante de amplio espectro y nivel medio, que desnaturaliza proteínas y ácidos nucleicos. Corrosivo, tóxico y sensible a la luz y al calor.
+*   **Aldehídos (glutaraldehído y formaldehído):** Desinfectantes de alto nivel que alteran proteínas y ácidos nucleicos. Glutaraldehído al 2% se usa para material crítico y semicrítico. Ambos son irritantes, muy tóxicos y cancerígenos.
+
+## Procedimientos de Limpieza y Desinfección
+
+Para garantizar una higiene efectiva, se deben seguir **normas generales**:
+*   Utilizar siempre **equipos de protección individual (EPI)** adecuados, como guantes y gafas.
+*   Realizar **lavado de manos** antes y después de cada procedimiento.
+*   **Clasificar el material** según su nivel de contaminación.
+*   Implementar **limpieza húmeda** en lugar de barrido para evitar la dispersión de polvo.
+*   Asegurar la **ventilación** adecuada del habitáculo asistencial durante la limpieza.
+*   Establecer una **limpieza general diaria** y una **limpieza profunda mensual** de todas las superficies.
+*   Emplear **paños desechables** y, preferentemente, una solución acuosa de **detergente enzimático y lejía**.
+
+### Protocolos Específicos
+
+*   **Limpieza y desinfección de camillas y tableros espinales:** Retirar sábanas, lavar todas las superficies con solución detergente, dejar actuar 5 minutos y aclarar con agua limpia. Posteriormente, aplicar solución desinfectante, dejar actuar 10 minutos y retirar o no según el producto.
+*   **Limpieza y desinfección de material y equipos:** Lavar con solución detergente en seco, desinfectar según el tipo de material, usar bayetas desechables y secar muy bien para prevenir oxidación y proliferación de microorganismos.
+
+Finalmente, es crucial establecer **criterios de verificación y acondicionamiento** para todo el material y las instalaciones. Esto implica la preparación de soluciones según las instrucciones del fabricante, la limpieza y desinfección conforme a protocolos, la limpieza exterior periódica de la ambulancia y la adecuada gestión de residuos sanitarios. Además, se debe mantener un registro exhaustivo de todos los componentes y equipos de la ambulancia para controlar revisiones, comprobaciones y limpiezas, asegurando así una operatividad y seguridad constantes.

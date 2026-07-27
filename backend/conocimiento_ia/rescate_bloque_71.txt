@@ -1,0 +1,39 @@
+# Caracterización de los Vehículos en Operaciones de Rescate
+
+La intervención en accidentes de tráfico requiere un conocimiento exhaustivo de la estructura y sistemas de seguridad de los vehículos modernos, que están en constante evolución. Comprender estas características es fundamental para la eficacia y seguridad de las operaciones de rescate.
+
+## Tipos de Carrocerías y sus Componentes
+
+Los vehículos actuales, como turismos y 4x4, emplean principalmente dos tipos de carrocerías:
+
+1.  **Carrocería con chasis independiente:** Aunque menos común hoy en día, sigue presente en todoterrenos, vehículos industriales y algunos con carrocería de plástico o fibra. Se compone de un **bastidor o chasis** (elemento estructural rígido que soporta el motor, suspensión y dirección, y puede circular sin carrocería) y una **carrocería independiente** (conjunto estético con base propia, accesorios e instalación eléctrica, unida al chasis mediante sistemas mecánicos o juntas elásticas). Su principal inconveniente es la rigidez, que limita la absorción de impactos.
+2.  **Carrocería autoportante:** Predominante en la mayoría de automóviles, esta estructura integra el chasis y la carrocería en una sola unidad, compuesta por numerosas piezas unidas por soldadura (resistencia eléctrica o arco) o, en algunos casos, atornilladas (aletas, frentes).
+    *   **Ventajas:** Mayor rigidez y seguridad con menor peso, mayor habitabilidad, reducción de costes de fabricación y mejores propiedades dinámicas.
+    *   **Inconvenientes:** Mayor ruido de transmisión y deterioro por corrosión más temprano.
+    *   **Carrocería monocasco:** Una variante de la autoportante, donde los elementos desmontables (puertas, capó) son mínimos, resultando en una estructura extremadamente rígida, empleada en vehículos deportivos o de competición.
+
+En caso de impacto, la carrocería autoportante se comporta de manera específica, distinguiéndose tres zonas fundamentales:
+*   **Célula de seguridad o habitáculo indeformable:** Diseñada para proteger a los ocupantes, mantiene una rigidez y estabilidad elevadas, apoyada en anillos de refuerzo y sujeción al suelo y techo. Elementos como la chapa del salpicadero (que impide la entrada del motor y aumenta la rigidez torsional), el túnel central (espina dorsal reforzada para anclajes de asientos y cinturones) y el suelo del habitáculo (el elemento más rígido) contribuyen a esta protección. Los **estribos bajo puertas**, situados longitudinalmente, refuerzan esta célula ante impactos laterales. Las **puertas**, aunque frágiles, están diseñadas para ajustarse a los pilares y montantes, con bisagras y cerraduras reforzadas, pudiendo incluir barras de protección internas. El **techo**, generalmente plano y reforzado con traviesas, también forma parte de esta célula.
+*   **Secciones extremas (frontal y posterior):** Están diseñadas para deformarse de manera programada y absorber la mayor parte de la energía de la colisión. Esto se logra mediante largueros y traviesas con perfiles resistentes pero flexibles, y puntos fusibles que provocan arrugas controladas. El sistema **Procon-ten** actúa en choques frontales desplazando el motor hacia abajo y atrás, empotrando la columna de dirección en el salpicadero y tensando automáticamente los cinturones de seguridad. El **capó** delantero y sus refuerzos internos canalizan las deformaciones.
+*   **Refuerzos laterales del suelo:** Esta zona se ha mejorado para aumentar la seguridad del habitáculo frente a impactos laterales.
+*   **Refuerzos interiores de puertas (SIPS - Side Impact Protection System):** Utilizan elementos deformables de espuma y barras que colapsan durante el impacto para proteger a los ocupantes.
+
+Los vehículos descapotables incorporan **barras antivuelco** o arcos de seguridad que se activan automáticamente en caso de vuelco, proporcionando un espacio de supervivencia para los ocupantes. Además, los diseños modernos eliminan aristas y partes cortantes en el interior del habitáculo para reducir lesiones. Los productos **anticorrosivos**, como chapas galvanizadas y antioxidantes, son utilizados para retrasar el deterioro, aunque algunos de estos materiales pueden ser combustibles.
+
+## Elementos Mecánicos de Seguridad Pasiva
+
+La seguridad pasiva también integra elementos mecánicos que protegen a los ocupantes:
+*   **Inmovilizador de freno, embrague y acelerador:** Reduce las lesiones en las extremidades inferiores al evitar el desplazamiento de los pedales.
+*   **Inmovilizador del volante:** El volante, con un diseño elástico o un cuerpo central que absorbe impactos (volantes EAS), y las columnas de dirección regulables o articuladas (con mallas, codos de flexibilidad o ejes excéntricos) buscan evitar el atrapamiento del conductor y las lesiones torácicas en caso de colisión. Las direcciones eléctricas más recientes eliminan la barra física, transmitiendo las órdenes por cables.
+*   **Depósito de combustible:** Su ubicación actual (delante del eje trasero) y características (válvulas inerciales, láminas antiolas, materiales resistentes a la corrosión como acero, aluminio o polietileno de alta densidad) minimizan el riesgo de incendio y derrame en caso de accidente. Las conducciones son metálicas o de plástico.
+*   **Baterías:** Son cruciales para el funcionamiento eléctrico del vehículo. Se encuentran baterías de **plomo de 12V** (para arranque o tracción), de **42V** (para sistemas de detención de motor y accesorios), y de **alta tensión (HV)** en vehículos híbridos (Ni-MH en gel con carcasa metálica). La ubicación varía desde el compartimento del motor hasta el habitáculo, portamaletas o, en híbridos/eléctricos, en el techo. Las baterías HV, en particular, están protegidas por carcasas metálicas. Es vital conocer su funcionamiento y los riesgos asociados, como cortocircuitos o fugas de ácido sulfúrico.
+*   **Vehículos con hidrógeno (FHCV):** Utilizan hidrógeno quemado o pilas de combustible para generar electricidad. Incorporan sistemas de seguridad como válvulas de cierre (eléctricas y mecánicas), cortocircuitos fusibles (se activan a 110ºC), limitadores de caudal y caperuzas de goma para una liberación controlada del gas en caso de fuga. Los tanques de GNC (gas natural comprimido) suelen estar en el techo con ranuras de ventilación, mientras que los de GLP (gas licuado de petróleo) son más difíciles de identificar.
+
+## Seguridad Activa, Pasiva y Terciaria
+
+Para una comprensión completa de la seguridad vehicular, se clasifican los sistemas en tres categorías:
+*   **Seguridad activa o primaria:** Busca prevenir el accidente (ej. sistemas de iluminación, frenos, dirección asistida, control de estabilidad y tracción).
+*   **Seguridad pasiva o secundaria:** Actúa durante el accidente para reducir sus efectos (ej. carrocerías deformables, airbags, pretensores).
+*   **Seguridad terciaria:** Se aplica tras el accidente para facilitar el rescate de los ocupantes (ej. diseño que permite la apertura de puertas sin dificultad, cinturones de seguridad de fácil liberación, eCall, localización GPS).
+
+En conjunto, estos elementos buscan maximizar la protección de los ocupantes y facilitar las labores de rescate.

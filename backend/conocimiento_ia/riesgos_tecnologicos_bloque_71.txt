@@ -1,0 +1,53 @@
+La estabilización y demolición de estructuras en situaciones de emergencia son tareas críticas para los servicios de bomberos, que requieren un conocimiento profundo de la física de la edificación, los materiales, las técnicas auxiliares y los procedimientos operativos. Estas intervenciones buscan asegurar la estabilidad de un edificio o eliminar riesgos inminentes, protegiendo vidas y bienes.
+
+### Elementos Auxiliares para la Estabilización
+
+El **apeo** se define como toda construcción auxiliar provisional cuya finalidad es detener movimientos incontrolados en un edificio, transmitir esfuerzos al terreno o a otros elementos, y estabilizar lesiones estructurales. En contextos de emergencia, se recurre a **apeos de emergencia** cuando el riesgo de colapso es inminente y no hay tiempo para soluciones ordinarias. Estos se construyen con elementos de disponibilidad inmediata y resistencia a compresión probada, como puntales telescópicos y tablones.
+
+Los elementos básicos de un apeo incluyen:
+
+*   **Durmiente**: Es una pieza horizontal, comúnmente un tablón de madera de 200x70 mm, que se coloca en el suelo o sobre una base para recibir las cargas verticales provenientes de elementos como pies derechos o tornapuntas, distribuyéndolas de manera uniforme. Su función principal es resistir la compresión y disipar la carga. Es importante señalar que su resistencia a compresión normal a las fibras es menor que la de un pie derecho, y su flexibilidad limita su capacidad de reparto de cargas. Un durmiente de una tabla puede soportar 49 kN; si se utilizan dos tablas embridadas, 71 kN; tres, 101 kN; y cuatro, 134 kN. En caso de presiones excesivas, se puede aumentar la superficie de descarga mediante elementos como pirámides o rigidizadores.
+*   **Sopanda**: Consiste en una pieza horizontal, generalmente un tablón de madera de 200x70 mm, que se instala en la parte inferior de un elemento estructural horizontal (como una viga o vigueta) para recoger sus cargas y transmitirlas a los elementos verticales del apeo. También sirve para atar las cabezas de los pies derechos. Su función principal es soportar esfuerzos de flexión y compresión. La flexibilidad de la madera permite una buena adaptación a las deformaciones del elemento apear. Sin embargo, su limitada resistencia a flexión a menudo exige la colocación de numerosos pies derechos o puntales a cortas distancias, lo que puede dificultar el paso y aumentar la complejidad de la intervención.
+*   **Tornapunta**: Pieza inclinada de madera diseñada para transmitir cargas verticales a elementos horizontales mediante compresión axial. Su resistencia se calcula de forma similar a la de un pie derecho. Es fundamental que los puntos de apoyo de las tornapuntas dirijan las cargas hacia elementos estructurales sólidos, como zanjas o estructuras adyacentes. La evaluación de los puntos de contacto es crucial para evitar sobrecargas o punzonamientos. Se recomienda instalarla a 2/3 de la altura del muro para corregir giros, a la altura del canto del forjado para empujes horizontales, y en el punto de máxima deformación para pandeo. La principal dificultad radica en la transmisión de cargas desde la pared al suelo, ya que la tornapunta tiende a resbalar. Para mitigar esto, se emplean técnicas como el **embarbillado** (un corte que permite el encaje, aunque debilita la pared) o el **atado mediante ranas de encofrado** (más efectivo y menos dañino). Las tornapuntas pueden presentarse en diversas modalidades, como en paralelo, en abanico (para grandes alturas) o en jineta (la menos recomendable debido a las flexiones inducidas).
+*   **Codales**: Son piezas horizontales de sección cuadrada o circular que se utilizan entre dos elementos de apoyo para mantener su separación, trabajando a compresión axial.
+*   **Agujas**: Piezas de madera que se insertan en un muro perforándolo, con la función de sostenerlo y apoyar otras piezas verticales, trabajando a flexión.
+*   **Jabalcón**: Similar a una tornapunta, es una pieza inclinada de madera que recibe esfuerzos horizontales o inclinados y los transmite a un elemento vertical, trabajando a compresión.
+*   **Orejas**: Generalmente tablones de madera que se usan como topes o elementos de contención para otros componentes, o para controlar movimientos laterales y rotaciones de piezas como las agujas. Su resistencia está directamente ligada al número y tamaño de sus fijaciones.
+*   **Recercados de huecos en muros de carga**: Se utilizan para reforzar puntos débiles en muros, como dinteles rotos, o para mejorar la estabilidad general en caso de asentamientos diferenciales. Un ejemplo efectivo es la **Cruz de San Andrés**, que distribuye los esfuerzos en varias direcciones.
+*   **Puentes de apeo**: Estructuras compuestas por una pieza horizontal resistente (aguja) y dos verticales (pies derechos), diseñadas para soportar cargas perpendiculares a un muro de fachada. Requieren el uso de orejas para evitar desplazamientos laterales de la aguja.
+*   **Apeo en asnillas**: Implica el uso de un par de tornapuntas con tirantes en la base para contrarrestar empujes horizontales, unidas en la cabeza por una aguja y arriostradas transversalmente. Es una técnica compleja reservada para casos estrictamente necesarios.
+*   **Apeo en llave (sistemas comprimidos de emergencia)**: Consiste en tablones de madera contrapuestos y sin clavar, que forman un prisma de base cuadrada. El objetivo es que todas las piezas tengan la misma medida para agilizar la ejecución y que las cargas se distribuyan simétricamente. La altura del apeo no debe superar tres veces el lado de su base. Su resistencia y estabilidad son limitadas, y los pre-cálculos son solo orientativos, ya que actúan como una medida preventiva temporal.
+
+### Fases de Ejecución de Estructuras Auxiliares
+
+La correcta ejecución de un apeo sigue una secuencia de fases:
+1.  **Dimensionado**: Se determina la cantidad de puntales, su separación y el tamaño de los durmientes basándose en la resistencia de los materiales disponibles (tablones, puntales telescópicos) y las cargas del edificio a transmitir al terreno.
+2.  **Toma de medidas y cortes**: Una vez definida la geometría del apeo, se miden las piezas y se realizan los cortes necesarios, restando a la longitud total dos veces el grosor del tablón de sopanda y durmiente, más un margen de 2 cm para el acuñado. Los cortes deben ser precisos y perpendiculares para evitar debilitar la sección de la madera.
+3.  **Embridado de tablones**: Las piezas principales del apeo, como pies derechos, tornapuntas o codales, deben ensamblarse en grupos de dos o tres tablones unidos mediante bridas para prevenir pandeos.
+4.  **Sujeción de los durmientes**: Se asegura la base del durmiente para evitar deslizamientos, mediante cajeados, riostras, codales contra muros de carga o anclajes con redondos.
+5.  **Piezas en contacto directo con muros**: En puntos donde exista riesgo de cizallamiento, se utiliza una pieza de madera como contacto directo con el muro, anclada con pasadores o ranas.
+6.  **Montaje del apeo**: Se clavan las piezas horizontales a las verticales de arriba abajo (la sopanda a los pies derechos), se eleva el conjunto, se aploma y se montan los demás elementos (pies derechos, cuñas, riostras).
+7.  **Aplomado de las piezas**: Las piezas verticales deben estar perfectamente aplomadas para asegurar su eficacia. Si es necesario, se alinean varios pies derechos.
+8.  **Acuñado del apeo**: Para fijar los pies derechos o tornapuntas, se sierran ligeramente más cortos que la distancia requerida. El hueco se rellena con dos cuñas enfrentadas que se aprietan para templar y ajustar el apeo, inmovilizándolas con un clavo. La calidad de las cuñas debe ser similar a la de los tablones.
+9.  **Ejecución de piezas**: Las piezas deben clavarse para asegurar las uniones y evitar movimientos debidos a la humedad o variaciones térmicas.
+
+### Técnicas de Demolición
+
+La **demolición** es la acción de destruir o desmontar un elemento constructivo, siendo el último recurso cuando la estabilización es inviable o peligrosa. Puede ser total o parcial.
+
+*   **Demolición elemento a elemento**: Se aplica en derribos de pequeña envergadura o como preparación para una demolición total. Es el método más común en edificios entre medianeras. Se caracteriza por ser gradual (evitando desplomes parciales), continuo (sin dejar elementos inestables), ordenado (de arriba hacia abajo, invirtiendo el proceso constructivo), aligerando las plantas simétricamente y las cargas antes de demoler, contrarrestando empujes horizontales, apuntalando voladizos y manteniendo los arriostramientos.
+*   **Demolición por colapso mediante medios mecánicos**:
+    *   **Por empuje**: Requiere maquinaria robusta (bulldozers, retroexcavadoras) que actúa en el cuarto superior de los elementos verticales, por encima del centro de gravedad. Su uso suele estar limitado a plantas bajas o primeras y depende de la disponibilidad de terceros equipos.
+    *   **Por tracción**: Eficaz si se cuenta con suficiente distancia de seguridad. Implica debilitar los elementos estructurales y luego tirar progresivamente para evitar movimientos bruscos.
+    *   **Por corte y perforación**: Utiliza herramientas manuales o mecánicas (motosierras, tronzadoras, equipos hidráulicos, sierras de sable) para elementos pequeños o como preparación para derribos mayores.
+
+### Intervenciones Frecuentes y Estabilidad de Fachadas
+
+Las intervenciones más frecuentes de bomberos en fachadas se deben a desprendimientos de materiales de acabado (alicatados, aplacados, etc.) y la aparición de grietas o fisuras en cubiertas, petos, aleros y hastiales.
+
+Los **problemas de inestabilidad local** en fachadas se manifiestan en elementos singulares como cornisas, aleros, gárgolas, albardillas y frentes de forjado.
+
+La **inestabilidad general** de las fachadas se clasifica según su conexión con los forjados:
+
+*   **Fachadas apoyadas en forjados**: Son fachadas tradicionales, generalmente más seguras y con menor espesor. El síntoma más común es el desprendimiento de material entre el forjado y la fachada.
+*   **Fachadas que pasan por delante del canto de forjado**: Son fachadas modernas de fábrica continua, ancladas a los cantos de los forjados mediante grapas y barras de acero. Los anclajes ocultos pueden fallar con el tiempo, lo que las hace más problemáticas. El síntoma es el desprendimiento de paños completos, lo que

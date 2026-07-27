@@ -1,0 +1,77 @@
+### Conceptos Fundamentales de la Edificación y sus Propiedades Físicas
+
+La intervención eficaz en situaciones de emergencia en edificaciones requiere un conocimiento profundo de los principios de la física y las propiedades de los materiales de construcción. Estos conceptos son cruciales para evaluar la estabilidad estructural y anticipar el comportamiento de los elementos ante diversas solicitaciones.
+
+Una **edificación** se define como una construcción fija, elaborada con materiales resistentes, destinada principalmente a la habitación humana o a otros usos. La **arquitectura** comprende el arte y la técnica de diseñar y proyectar estas estructuras y espacios, mientras que la **construcción** se refiere al conjunto de procedimientos técnicos empleados para levantar los elementos que conforman una edificación. Para los cuerpos de bomberos, entender tanto las características de diseño (normativa) como las de ejecución (sistemas constructivos y materiales) es fundamental, ya que configuran el entorno de sus operaciones.
+
+#### Principios Físicos Fundamentales
+
+El estudio de la mecánica que analiza el equilibrio de fuerzas en sistemas físicos se denomina **estática**. El **equilibrio estático** es el estado en el que las fuerzas actuantes no producen movimientos relativos en los elementos del sistema.
+
+**1. Fuerza:**
+Es una magnitud vectorial que describe la interacción entre cuerpos, es decir, la acción que un cuerpo puede ejercer o sufrir. Se calcula como el producto de la masa por la aceleración (F = m · a). En el contexto de la edificación, una fuerza se caracteriza por su **módulo** (magnitud), **dirección**, **sentido** y **punto de aplicación**. La unidad estándar de fuerza en el Sistema Internacional (SI) es el **Newton (N)**, equivalente a un kilogramo-metro por segundo al cuadrado (Kg m/s²).
+
+El comportamiento de las fuerzas se rige por las tres leyes de Newton:
+*   La **Primera Ley de Newton**, o Principio de Inercia, postula que un cuerpo mantendrá su estado de reposo o movimiento rectilíneo uniforme a menos que una fuerza externa neta actúe sobre él.
+*   La **Segunda Ley de Newton** establece que la fuerza neta aplicada sobre un cuerpo es directamente proporcional a la aceleración que adquiere, y esta aceleración tiene la misma dirección que la fuerza neta.
+*   La **Tercera Ley de Newton**, o Principio de Acción y Reacción, indica que por cada acción existe una reacción igual y opuesta; por lo tanto, para que un sistema permanezca en equilibrio, cualquier fuerza aplicada (acción) debe ser contrarrestada por una fuerza igual y de sentido contrario (reacción).
+
+Las fuerzas, como magnitudes vectoriales, pueden ser **compuestas**, lo que implica que pueden sumarse, restarse o multiplicarse para determinar una fuerza resultante.
+
+**2. Momentos:**
+Un **par de fuerzas** consiste en dos fuerzas paralelas de igual magnitud pero sentidos opuestos. El **momento** de un par de fuerzas, una magnitud vectorial, se define como el producto de la magnitud de una de las fuerzas por la distancia perpendicular entre ellas (brazo del par). Representa la capacidad de un sistema de fuerzas para inducir rotación en un cuerpo alrededor de un eje. Su unidad en el SI es el **Newton-metro (N·m)**. Los momentos pueden ser **positivos** (asociados a un giro horario) o **negativos** (asociados a un giro antihorario) con respecto a un punto. Para contrarrestar una rotación y mantener el equilibrio, se requiere un **momento resistente** o de **empotramiento** de igual magnitud y sentido opuesto. El **punto de aplicación** de una fuerza es crucial, ya que un mayor brazo de palanca resultará en un mayor momento y, en consecuencia, un mayor esfuerzo necesario para mantener el equilibrio. Un par de fuerzas no contrarrestado tenderá a equilibrarse por sí mismo, reduciendo su brazo de palanca hasta que el momento sea nulo.
+
+El principio de los momentos es la base del funcionamiento de una **palanca**, una barra rígida que gira sobre un punto fijo (fulcro). El equilibrio en una palanca se alcanza cuando el momento de la potencia (P) por su brazo de potencia (dp) es igual al momento de la resistencia (R) por su brazo de resistencia (dr) (P · dp = R · dr). Así, para vencer una resistencia sin aumentar la fuerza aplicada, se puede optar por incrementar el brazo de la potencia o disminuir el brazo de la resistencia.
+
+**3. Centro de Gravedad:**
+El **centro de gravedad** de un cuerpo es el punto donde se puede considerar concentrada la totalidad de su peso. Si un cuerpo se apoya en este punto, se mantendrá en equilibrio en cualquier posición. Este punto representa el lugar de aplicación de una fuerza única equivalente a la resultante de todas las cargas que actúan sobre el cuerpo. Es importante notar que el centro de gravedad no siempre coincide con un punto físico del material (por ejemplo, en una esfera hueca, se encuentra en su centro geométrico, que es un espacio vacío). La estabilidad de un objeto apoyado sobre una superficie plana es **estable** si la línea vertical que pasa por su centro de gravedad se proyecta dentro de su base de apoyo. Si el cuerpo se inclina ligeramente y su centro de gravedad se mantiene dentro de la base, un **momento restaurador** lo devolverá a la posición original. Sin embargo, si el centro de gravedad cae fuera de la base de apoyo, el cuerpo continuará rotando hasta alcanzar una nueva posición de equilibrio o colapsar.
+
+#### Comportamiento Mecánico de los Materiales
+
+Los materiales de construcción exhiben diferentes respuestas a las cargas, clasificadas en términos de elasticidad y plasticidad.
+
+**1. Elasticidad:**
+La **elasticidad** es la capacidad intrínseca de un material para deformarse bajo la acción de fuerzas externas y recuperar su forma y dimensiones originales una vez que dichas fuerzas son retiradas. Las variaciones en su forma y tamaño son, por lo tanto, temporales y completamente reversibles.
+
+**2. Plasticidad:**
+Cuando las fuerzas aplicadas superan el **límite de elasticidad** del material, este entra en la fase de **plasticidad**. En este estado, las deformaciones que experimenta el material son permanentes e irrecuperables, lo que implica una alteración en sus enlaces moleculares y, a menudo, una reducción de su sección transversal y de su capacidad resistente.
+
+**3. Ley de Hooke y Módulo de Elasticidad Longitudinal (Módulo de Young E):**
+La relación entre la tensión (σ) y la deformación unitaria (ε) en el régimen elástico de un material se describe mediante la **Ley de Hooke**: σ = E · ε. Esta fórmula indica que la tensión en un cuerpo sólido es directamente proporcional a su **Módulo de elasticidad longitudinal (E)** y a la deformación que experimenta. El Módulo de Young es un parámetro esencial para evaluar el comportamiento mecánico de los materiales, permitiendo prever su deformación ante cargas y comparar la rigidez entre distintos elementos. Un valor de E más elevado implica que el material experimentará menores tensiones para una misma deformación unitaria.
+A continuación, se presentan valores aproximados del Módulo de Young (E) para materiales comunes de edificación (expresados en N/mm²):
+*   Mampostería de ladrillo: 3000 - 5000
+*   Maderas duras (frondosas): 10000 - 22500
+*   Maderas blandas (coníferas): 9000 - 11000
+*   Hierro de fundición: 100000
+*   Acero: 210000
+*   Hormigón (Resistencia): 21500 - 39000
+
+Es relevante notar que, bajo una carga idéntica, la madera se deforma considerablemente más en la dirección de sus fibras, el hierro fundido duplica la deformación del acero, y el hormigón puede llegar a deformarse hasta diez veces más que el acero.
+
+#### Factores Asociados al Comportamiento Térmico de los Materiales
+
+Las intervenciones en incendios a menudo exponen las estructuras a altas temperaturas, haciendo esencial comprender cómo los materiales reaccionan térmicamente.
+
+**1. Coeficiente de Conductividad Térmica (λ):**
+Este coeficiente cuantifica la capacidad de un material para conducir el calor y se mide en **Watios por metro-grado Celsius (W/m·°C)** o **Watios por metro-Kelvin (W/m·K)**. Un valor de λ más bajo indica una mayor capacidad de aislamiento térmico del material.
+Ejemplos de conductividad térmica para diversos materiales (en W/m·K):
+*   Poliuretano: 0.018 - 0.025
+*   Fibra de vidrio: 0.03 - 0.07
+*   Corcho: 0.04 - 0.30
+*   Madera: 0.13
+*   Ladrillo: 0.80
+*   Acero inoxidable: 14 - 16
+*   Acero: 47 - 58
+*   Hierro: 80
+*   Aluminio: 209
+Se deduce que el hierro transporta el calor con mayor eficiencia que el acero, y que materiales como el corcho, la fibra de vidrio y el poliuretano son excelentes aislantes térmicos.
+
+**2. Coeficiente de Dilatación Térmica (α):**
+Este coeficiente mide la expansión lineal de un material por cada grado de aumento de temperatura y por unidad de longitud. Esta dilatación lineal se acompaña de una dilatación volumétrica.
+Algunos valores de α (x10⁻⁵) para materiales comunes son:
+*   Madera: 0.2 - 0.9
+*   Ladrillo: 0.9
+*   Hierro: 1.1
+*   Hormigón: 1.17
+*   Acero: 1.2
+Por ejemplo, si una viga de hormigón armado de 10 metros de longitud experimenta un aumento de temperatura de 20°C a 400°C (380°C de incremento), su dilatación lineal sería de aproximadamente 5.76 centímetros (0.000012 x 10 m x 380°C). Estas expansiones pueden generar empujes laterales considerables que, a su vez, pueden comprometer la estabilidad y causar el colapso de la estructura.

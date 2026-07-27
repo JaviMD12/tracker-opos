@@ -1,0 +1,17 @@
+## Hidráulica: Fundamentos de los Fluidos y sus Aplicaciones en Extinción de Incendios
+
+La **Hidráulica** es una disciplina fundamental que examina las propiedades mecánicas de los fluidos, tanto en condiciones estáticas como dinámicas. Esta se subdivide en **Hidrostática**, dedicada al estudio de los fluidos en equilibrio, y **Hidrodinámica**, que aborda el comportamiento de los líquidos en movimiento.
+
+Para comprender el comportamiento de los fluidos, es esencial conocer una serie de propiedades intrínsecas. La **masa** cuantifica la cantidad de materia en un cuerpo, mientras que la **densidad (ρ)** expresa la masa contenida en una unidad de volumen. El **peso específico (γ)**, por su parte, relaciona el peso de un cuerpo con el volumen que ocupa. La **viscosidad** es la propiedad que describe la resistencia de un fluido a la deformación tangencial; un **fluido ideal** carece de viscosidad y es incompresible. La **presión (p)** se define como la fuerza ejercida por unidad de superficie. La **presión de vapor** es la temperatura a la que las fases líquida y gaseosa de una sustancia coexisten en equilibrio dinámico. La **tensión superficial** representa la energía requerida para aumentar la superficie de un líquido por unidad de área, evidenciando su resistencia a la expansión. Finalmente, el **caudal (Q)** mide el volumen de líquido que fluye a través de una sección transversal de un conducto en una unidad de tiempo.
+
+### Bombas Centrífugas y Dinámica de Sistemas Hidráulicos
+
+En el ámbito de la extinción, las **bombas centrífugas** son equipos cruciales, ya que transforman la energía mecánica de un motor en energía hidráulica. Las características operativas de estas bombas se visualizan mediante **curvas características**, que muestran su rendimiento. El **punto óptimo de funcionamiento** indica la configuración de mayor eficiencia energética para la bomba. Antes de su operación, es imprescindible el **cebado**, que implica llenar la bomba y la tubería de aspiración con líquido, garantizando su correcto inicio.
+
+Un fenómeno perjudicial en el funcionamiento de las bombas es la **cavitación**, la cual ocurre cuando una caída local de presión provoca la formación de burbujas de vapor que colapsan bruscamente, generando daños. Para incrementar el rendimiento, las bombas pueden **acoplarse en paralelo**, lo que mantiene la presión y aumenta el caudal total, o **en serie**, lo que conserva el caudal pero eleva significativamente la presión, ideal para grandes alturas de impulsión.
+
+En cualquier sistema hidráulico, se producen **pérdidas de carga**, que son pérdidas de energía en el fluido en movimiento debido a la fricción y las turbulencias. La **curva característica de la instalación** es una representación gráfica que detalla estas pérdidas de carga continuas y locales en función del caudal, proporcionando una visión completa de la eficiencia del sistema.
+
+### Introducción a Incendios de Interior y Ventilación
+
+La Parte 3 de este manual se adentra en el estudio de los **Incendios de Interior y la Ventilación de Incendios**, abarcando las complejidades de los fuegos que se desarrollan en espacios confinados. Este enfoque es crucial para la seguridad y efectividad en las operaciones de bomberos.

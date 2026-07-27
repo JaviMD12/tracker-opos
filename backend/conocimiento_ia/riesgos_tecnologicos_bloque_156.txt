@@ -1,0 +1,59 @@
+# Particularidades en Intervenciones NRBQ y Equipos de Protección Individual (EPI) Específicos
+
+Las intervenciones ante riesgos Nucleares, Radiológicos, Biológicos y Químicos (NRBQ) comparten tácticas generales con otras emergencias, si bien presentan particularidades específicas que requieren una atención detallada. Dentro de este ámbito, las intervenciones radiológicas, nucleares y biológicas poseen matices distintivos que deben ser comprendidos por los equipos de emergencia.
+
+## Intervenciones Radiológicas: Conceptos y Protección
+
+En el contexto de las intervenciones radiológicas, la **irradiación** se define como la emisión puntual de radiación en todas direcciones desde una fuente externa, lo que implica una exposición a la energía liberada. Para la medición y control de este riesgo, se emplean radiámetros que permiten verificar la ausencia de riesgo o contaminación fuera de la zona caliente.
+
+La protección contra la irradiación se fundamenta en tres principios esenciales:
+1.  **Tiempo:** Minimizar la duración de la exposición a la fuente.
+2.  **Distancia:** Aumentar la separación con respecto a la fuente, dado que la radiación disminuye inversamente al cuadrado de la distancia (por ejemplo, a 2 metros se recibe cuatro veces menos radiación que a 1 metro).
+3.  **Blindaje:** Interponer materiales protectores densos, como el plomo, entre la fuente radiactiva y las personas.
+
+En cuanto a los materiales, se ha establecido una equivalencia de protección radiológica, indicando que 1 mm de plomo equivale aproximadamente a 12 mm de hormigón baritado (3,2 g/cm²), 93 mm de hormigón común (2,3 g/cm²) o 136 mm de ladrillo macizo (1,8 g/cm²).
+
+## Equipos de Protección Individual (EPI) para Riesgos Químicos y Radiológicos
+
+La elección y uso de los Equipos de Protección Individual (EPI) son cruciales en las intervenciones NRBQ. La normativa **UNE EN-340** establece los requisitos generales para la ropa de protección, que se complementan con normas específicas según el riesgo. Los EPI se clasifican en tres categorías según el riesgo que deben enfrentar. En España, la ropa de protección para bomberos en riesgo químico se encuadra en la categoría III, al igual que la protección contra frío extremo.
+
+### Clasificación de Trajes de Protección Química
+
+Los trajes de protección química se categorizan según el tipo de riesgo y su nivel de hermeticidad:
+*   **Tipos 1A, 1B y 1C:** Ofrecen protección contra vapores y gases.
+    *   Los **trajes Tipo 1** son completamente herméticos y están fabricados con materiales impermeables a los productos químicos. Pueden tener el Equipo de Respiración Autónoma (ERA) en el interior (Tipo 1A, encapsulado completo), en el exterior (Tipo 1B) o alimentarse de aire exterior a presión positiva (Tipo 1C).
+    *   Los **trajes Tipo 2**, aunque no son completamente herméticos a gases y vapores, impiden su penetración mediante un suministro de aire interior a presión positiva.
+
+*   **Tipos 3 y 4:** Protegen contra líquidos mediante resistencia a la permeación.
+    *   Los **trajes Tipo 3** están confeccionados con materiales no transpirables y cuentan con protección en costuras y cremalleras para impedir la entrada de líquidos a presión.
+    *   Los **trajes Tipo 4** pueden ser transpirables o no, y protegen contra líquidos pulverizados y salpicaduras sin presión.
+
+*   **Tipo 5:** Diseñados para proteger contra partículas sólidas en suspensión, evaluándose su resistencia a la entrada de aerosoles finos. Son comúnmente desechables, como los utilizados en trabajos con amianto.
+*   **Tipo 6:** Ofrecen protección contra la pulverización ligera de líquidos.
+
+### Marcado y Selección del EPI
+
+Todos los EPI de categoría III deben llevar el **marcado CE** junto con el número del organismo de control, según el RD 1407/1992. Adicionalmente, el marcado específico incluye un pictograma de protección química, el número de la norma fechada, pictogramas con instrucciones de uso (como lavado o limpieza) y, si son desechables, la advertencia "NO REUTILIZAR". Aunque los trajes desechables ofrecen una protección química similar a los reutilizables, su uso depende de la especificidad del riesgo.
+
+La elección del traje más adecuado para una intervención considera múltiples factores, incluyendo el nivel de protección requerido, la durabilidad o tiempo de uso, la facilidad de descontaminación, la comodidad, la transpirabilidad y la protección contra riesgos específicos como radiación, biológicos o fuego.
+
+La resistencia a la penetración se refiere a la capacidad del material para impedir el paso físico de líquidos o partículas a través de sus costuras, cremalleras o cualquier abertura. Las normas europeas, como el Gutter Test, evalúan esta resistencia. Por otro lado, la **permeación** es el proceso químico por el cual una sustancia atraviesa el tejido del traje a nivel molecular. Un parámetro clave para la permeación es el **tiempo de paso**, que indica el tiempo transcurrido desde el contacto inicial de la sustancia química con el material hasta que se detecta en el interior. Este tiempo varía según factores como el grosor del material, la temperatura y la presión.
+
+A modo de ejemplo, se observan los siguientes tiempos de permeación para trajes de nivel II frente a distintas sustancias:
+*   Ácido Clorhídrico (37%): 45 minutos.
+*   Ácido Fluorhídrico (50%): 30 minutos.
+*   Ácido Fórmico: 16 minutos.
+*   Ácido Fosfórico (85%): más de 480 minutos.
+*   Ácido Nítrico (70%): 15 minutos.
+*   Ácido Tricloroacético: más de 480 minutos.
+*   Alcohol Alílico: 16 minutos.
+*   Anilina (fenilamina): más de 480 minutos.
+*   Cianuro de Sodio: más de 480 minutos.
+*   Cloruro de Mercurio: más de 480 minutos.
+*   Cromato de Potasio: más de 480 minutos.
+*   Etilendiamina: 185 minutos.
+*   Hidróxido Sódico (sosa caústica): más de 480 minutos.
+*   Mercurio: más de 480 minutos.
+*   Naftalina: 13 minutos.
+
+Un traje completo de tipo 3 ha superado la prueba de chorro (EN463) en cuanto a su desempeño.

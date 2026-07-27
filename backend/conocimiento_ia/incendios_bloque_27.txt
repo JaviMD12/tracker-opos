@@ -1,0 +1,84 @@
+## Técnicas de Intervención en Incendios de Interior: Agua y Ventilación
+
+La intervención en incendios de interior demanda un conjunto coordinado de acciones y procedimientos orientados a **reducir la inflamabilidad** de los gases de incendio, **disminuir la tasa de pirólisis** de los combustibles, **bajar la temperatura** del recinto, **aumentar la visibilidad**, **mejorar la calidad del aire** para la respiración y **localizar víctimas**. Estas técnicas se analizan de forma aislada para comprender sus objetivos, fundamentos, riesgos y ejecución.
+
+### 1. Aplicación de Agua como Agente Extintor
+
+El agua es un agente extintor fundamental que modifica la dinámica del incendio mediante **enfriamiento** (absorción de calor y cambio de fase a vapor) y **dilución** de los gases de incendio con el vapor de agua generado. Su efectividad depende de factores como el **tamaño de la gota** y la **distancia de aplicación**. Las gotas de agua deben evaporarse en el aire, no en las superficies, para enfriar los gases del colchón y reducir la probabilidad de flashover. La escorrentía de agua no evaporada reduce la eficiencia de la extinción.
+
+Las técnicas de aplicación de agua son diversas:
+
+*   **Ataque Directo:** Consiste en aplicar un chorro de agua directamente sobre las superficies incendiadas, creando una fina película de agua que enfría el combustible e interrumpe la pirólisis. Se emplea una lanza con patrón de cono cerrado (0º-15º) y pulsaciones largas o continuas, moviendo la lanza para cubrir todas las superficies. Es eficaz para la extinción y el enfriamiento rápido, pero puede empeorar la visibilidad y quemar a las víctimas por exceso de vapor de agua. Es óptimo cuando el foco es visible y accesible, siendo la técnica más efectiva en esas condiciones.
+*   **Ataque Indirecto:** Busca la extinción inundando el recinto con vapor de agua desde el exterior o a través de una apertura. Se utiliza una lanza con patrón de cono de 15º-30º y pulsaciones de duración media a larga, moviendo la lanza de forma circular (patrón en "O") para grandes volúmenes o en forma de "T" para fuertes gradientes térmicos. Tras cada aplicación, se debe permitir un tiempo de reposo para que el vapor se redistribuya y se alcance el equilibrio térmico. Esta técnica es útil en incendios confinados para trabajar desde una posición segura, aunque puede anular la visibilidad y desplazar gases tóxicos a otras zonas. Es menos efectiva en líquidos no solubles en agua, ya que el agua, al ser más densa, se deposita, extendiendo el fuego.
+*   **Enfriamiento de Gases:** Su objetivo es reducir la inflamabilidad del colchón de gases para permitir una progresión segura, mediante enfriamiento y dilución. Se utilizan pulsaciones muy cortas y en grupos, con un ángulo de cono de 30º, dirigiendo el chorro hacia las esquinas superiores. Esta técnica no extingue el incendio, sino que mejora las condiciones de seguridad, mantiene la estratificación térmica y puede elevar el plano neutro. Sin embargo, una aplicación excesiva puede retrasar el acceso al foco y no garantiza la no inflamabilidad de los gases.
+*   **Ataque Defensivo contra la Propagación:** Se enfoca en limitar la extensión del incendio a zonas no afectadas. Esto se logra enfriando las superficies combustibles para interrumpir la pirólisis, creando una barrera de agua. Se aplica agua de forma continua, con un cono de 0º-15º y caudal bajo, moviendo la lanza. Es útil en escenarios con recursos limitados, grandes estructuras o para evitar reigniciones. Se puede aplicar desde el interior o exterior, incluso "pintando paredes" para asegurar zonas ya recorridas. La clave es evitar la escorrentía y asegurar que el agua se evapore en el combustible.
+*   **Ataque Exterior Ofensivo o "Ablandado":** Busca reducir la potencia y temperatura del incendio desde el exterior, mejorando las condiciones de supervivencia en el interior para facilitar un ataque interno posterior. Se aplica un chorro sólido contra el techo, con pulsaciones de duración media a larga y caudal medio, manteniendo la lanza estática. La reducción de la potencia se debe al enfriamiento de los gases y superficies, y a la dilución de gases. Es eficaz en incendios con rotura de fachada y en los primeros momentos del ataque, especialmente cuando se combina con ventilación forzada ofensiva. Es crucial no bloquear la salida de gases y coordinar con los equipos interiores.
+
+Para determinar el **caudal apropiado** de agua, se distinguen:
+*   **Gasto de agua:** Volumen total de agua empleada.
+*   **Caudal medio:** Gasto de agua dividido por el tiempo de intervención.
+*   **Caudal disponible:** Caudal máximo en la punta de lanza.
+*   **Caudal crítico:** Caudal mínimo para extinguir un incendio.
+*   **Caudal óptimo:** Caudal que permite la extinción con el mínimo gasto de agua.
+
+La relación entre caudal disponible y tiempo de extinción muestra que, por debajo del caudal crítico, el fuego solo se extinguirá por agotamiento del combustible. Estudios estadísticos sugieren valores de 24 LPM/MW para viviendas y 5 LPM/m² para grandes superficies industriales.
+
+### 2. Acceso a Través de Puerta
+
+El acceso a un recinto con una puerta cerrada requiere una técnica que minimice riesgos y permita evaluar las condiciones interiores. La información que proporciona la puerta varía según su aislamiento térmico (poco en puertas bien aisladas, más en metálicas o con buena conductividad).
+
+El procedimiento de acceso incluye:
+1.  **Evaluación de condiciones:** Altura, temperatura, color y densidad del colchón de gases, corrientes de ventilación, visibilidad y localización del foco.
+2.  **Reducción de peligrosidad:** Enfriamiento/dilución del colchón de gases.
+3.  **Acceso:** El bombero en punta de lanza puede pulsar la parte superior de la puerta para estimar la temperatura. Si hay un colchón de gases significativo, se realizan dos pulsaciones profundas hacia las esquinas superiores del fondo para obtener información y mejorar las condiciones. Finalmente, la puerta se cierra para restablecer el equilibrio térmico, y una vez seguro, se abre para el acceso completo.
+
+### 3. Técnicas de Control de la Ventilación
+
+Las técnicas de control de la ventilación son cruciales para modificar la dinámica del incendio, abarcando desde el confinamiento total hasta la ventilación mecánica forzada. Una coordinación efectiva entre las técnicas de ventilación y la aplicación de agua es esencial para mejorar la visibilidad, reducir la temperatura y la toxicidad, sin promover la propagación o el crecimiento del incendio.
+
+*   **Antiventilación o Confinamiento:** Busca privar al incendio de aire fresco para limitar su crecimiento, especialmente útil en incendios limitados por ventilación. También evita la dispersión de gases tóxicos a otras estancias y protege rutas de evacuación. Se logra cerrando puertas y ventanas, o utilizando cortinas de bloqueo de humo. Este método reduce la potencia del incendio, aunque el plano neutro puede descender hasta el suelo en incendios infraventilados. Es vital para proteger a las víctimas y personal, aunque sus efectos no son inmediatos.
+*   **Ventilación Natural:** Consiste en evacuar los gases de incendio aprovechando las diferencias de presión generadas por el propio fuego. Su propósito es restaurar la visibilidad, expulsar la atmósfera combustible y reducir la temperatura. Aunque su efectividad es limitada, es una opción cuando las aperturas permiten flujos unidireccionales o bidireccionales.
+    *   **Ventilación vertical:** Implica una entrada y salida de gases a distinto nivel, buscando un flujo unidireccional. Generalmente se realiza abriendo un hueco en la cubierta cerca del foco del incendio, lo que crea un colchón de aire fresco en la parte baja para la progresión del personal. Sin embargo, su uso es limitado por los riesgos y por las características constructivas de muchos edificios europeos. La eficiencia depende de la diferencia de presión y el tamaño de la salida de gases.
+    *   **Ventilación horizontal:** Se produce en aperturas (ventanas y puertas) al mismo nivel, generando flujos bidireccionales. Es menos efectiva que la vertical y presenta inconvenientes como la dificultad de un acceso libre de gases y la exposición del equipo a gases calientes. Las cortinas de bloqueo de humo pueden convertir un flujo bidireccional en unidireccional.
+*   **Ventilación Forzada:** Utiliza ventiladores mecánicos para expulsar gases, dominando el flujo interno con diferenciales de presión artificiales. Permite establecer flujos unidireccionales que facilitan las operaciones de intervención, mejorando visibilidad y reduciendo temperatura/radiación. No obstante, el aporte de aire fresco puede incrementar la potencia del incendio si no se coordina con la aplicación de agua.
+    *   **Ventilación por Presión Positiva (VPP):** Consiste en colocar un ventilador en la entrada principal para presurizar el recinto y generar un flujo de gases unidireccional hacia la salida. Esto mejora la visibilidad, reduce la temperatura y la concentración de combustibles. Se emplea con ventiladores que crean un dardo de aire a alta velocidad, lo que reduce la presión en el interior y facilita la expulsión de gases. La distancia óptima del ventilador a la entrada (1.8m a 5m para puertas estándar de 2x0.9m) es crucial.
+
+    Existen dos tipos tácticos de VPP:
+    *   **VPP Defensiva:** Expulsa gases acumulados sin que el flujo atraviese el foco de incendio, basándose en el confinamiento del fuego para proteger otras zonas. Mejora la supervivencia de víctimas en áreas no afectadas y facilita las operaciones de búsqueda y rescate en pasillos y escaleras. Se lleva a cabo confinando el incendio, abriendo una salida de gases y una entrada de aire fresco, iniciando la ventilación, valorando su funcionamiento y realizando una progresión interior rápida junto con la búsqueda de víctimas.
+    *   **VPP Ofensiva:** Genera un flujo de gases que atraviesa el foco de incendio para cambiar las condiciones internas y permitir un avance rápido de los bomberos. Mejora la visibilidad, la supervivencia de víctimas (creando una "cuña de aire fresco") y reduce la temperatura y la cantidad de combustible en el aire. Debe ser una operación muy rápida para evitar la mezcla de gases de incendio con aire fresco y el crecimiento incontrolado del fuego.
+
+    La **presurización de recintos** es una técnica derivada de la VPP que utiliza ventiladores para crear diferenciales de presión en zonas adyacentes al incendio, protegiéndolas de la propagación de gases calientes. Es útil para limpiar cajas de escalera y pasillos.
+
+    La **variación del diferencial de presión interior** en VPP depende de la relación entre el área de salida (Ae) y el área de entrada (Ai). Un aumento de Ae respecto a Ai reduce el diferencial de presión. Las relaciones r = Ae/Ai entre 0.5 y 4 son comunes.
+
+    La eficiencia de la ventilación se ve afectada por:
+    *   **Pérdidas de flujo:** Aperturas no deseadas que reducen el caudal y la presión.
+    *   **Fricción:** Giros, estrechamientos y obstáculos en el recorrido del flujo de gases que disipan la energía.
+    *   **Mal sellado:** La estanqueidad de la estructura es fundamental.
+
+    El **uso combinado de ventiladores** puede ser necesario en huecos de entrada excesivamente grandes, pérdidas de flujo importantes o fricción considerable.
+    *   **En paralelo:** Varios ventiladores cubren una gran entrada, aumentando el caudal efectivo.
+    *   **En serie:** Un segundo ventilador se coloca más adelante para impulsar el flujo, aumentando el caudal efectivo y la presión.
+    *   **En V:** Dos ventiladores dirigidos al centro de la apertura para optimizar el flujo.
+
+    Los ventiladores se clasifican por su propulsión:
+    *   **Térmicos (gasolina):** Potentes, autónomos, pero ruidosos y generan gases de escape.
+    *   **Eléctricos (red o batería):** Más silenciosos, no generan gases, aislables ATEX, pero dependen de la alimentación eléctrica y tienen menor potencia o autonomía.
+    *   **Hidráulicos (turbina de agua):** Evitan problemas de gases y aislamiento ATEX, pero requieren despliegue de tendidos y mayor personal.
+    *   **Hidráulicos (flujo de manguera):** Menor rendimiento, implica que el bombero se sitúe en la ruta de gases.
+
+    La **colocación de un ventilador VPP** debe considerar la "huella" (campo de vectores de velocidad) y la distancia óptima para maximizar el caudal efectivo. Una distancia excesivamente cercana puede causar "cortocircuito" (recirculación de aire), mientras que una distancia demasiado lejana reduce la velocidad media del flujo. El **barómetro de entrada** permite evaluar el funcionamiento de la ventilación desde la entrada, observando el flujo de gases de salida.
+
+### 4. Técnicas de Rastreo y Búsqueda de Víctimas
+
+El rastreo y la búsqueda de víctimas son prioridades tácticas en incendios de interior, a menudo requiriendo un control previo del incendio. La elección de la técnica dependerá de los recursos disponibles y el número de víctimas.
+
+*   **Rastreo por el equipo de ataque interior:** Recorre la ruta de escape en sentido inverso, utilizando la pared como referencia y el tendido de manguera como guía. Permite rastrear zonas al alcance desde la pared, completando el perímetro. El "método francés" implica que el punta de lanza permanece estático mientras el bombero de apoyo rastrea el perímetro con una cuerda.
+*   **Rastreo por equipo independiente (VEIS):** Un equipo dedicado realiza un barrido del recinto tomando una pared como referencia. Es útil en grandes superficies (más de 30 m²) y en edificios de varias plantas (con vehículos de altura). Implica acceder por ventana, cerrar la puerta del recinto para evitar la salida de gases por la ventana de acceso, rastrear la estancia y abandonar por la misma ventana.
+*   **Rastreo con VPP defensiva:** Protege zonas de tránsito (escaleras, pasillos) del humo y la temperatura, facilitando la búsqueda de víctimas. Se confina el incendio, se abren salidas de gases y entradas de aire fresco, se inicia la VPP, se valora su funcionamiento y se realiza una progresión interior rápida buscando víctimas. La ventilación secuencial permite limpiar estancias una a una.
+
+Herramientas como la **cámara térmica** son muy útiles para el rastreo, reduciendo el tiempo de búsqueda y facilitando la orientación, aunque su efectividad puede disminuir con humo denso y altas temperaturas, y la batería es una limitación.
+
+### 5. Consideraciones Finales
+
+La planificación táctica debe considerar la **experiencia profesional**, el **conocimiento técnico-científico**, el **abanico de técnicas disponibles** y una **valoración integral del incidente**. La valoración es un proceso dinámico que abarca una evaluación inicial (perimetral e interior), continua y final, para asegurar la adaptación de las acciones a la evolución del incendio y a los recursos disponibles, priorizando siempre la seguridad del personal y la protección de vidas.

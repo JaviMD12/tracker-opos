@@ -1,0 +1,57 @@
+# Caracterización de Incendios en Túneles
+
+La intervención en incendios de túneles presenta particularidades distintivas que los convierten en un objeto de estudio crucial para la formación de bomberos, dado que permiten analizar con profundidad técnicas y características aplicables también a otros tipos de incendios, como los de chimeneas, vertederos o edificios de gran altura.
+
+## Elementos Constitutivos de un Túnel y Tipologías
+
+Un túnel se compone de varias partes fundamentales: la **clave**, la sección más elevada, que puede ser curva o plana; el **gálibo**, la altura y anchura libre para la circulación de vehículos; los **hastiales**, los laterales cubiertos o no de hormigón; las **bocas**, entradas y salidas; las **calzadas**, por donde circulan los vehículos; las **aceras**, zonas peatonales a ambos lados de la calzada, diseñadas para el paso de dos personas con pasamanos como guía táctil; y las **cunetas**, destinadas a recoger el agua filtrada del terreno. Además, en túneles bidireccionales con una Intensidad Media Diaria (IMD) superior a 2000 vehículos, se disponen **apartaderos** cada 1000 metros, o cada 1500 metros si la IMD es menor, para permitir la detención de vehículos sin obstruir el tráfico.
+
+Las clasificaciones de túneles varían según características como su ubicación (urbanos o interurbanos), forma de construcción (trinchera, recubiertos, excavados, prefabricados), cometido (terrestres, fluviales, marinos), tipo de tránsito (carretero, ferroviario), dirección de circulación (sentido único o dos sentidos) y tipo de revestimiento (con o sin hormigón). Estas características influyen directamente en las tácticas de intervención.
+
+## Instalaciones de Seguridad y Evacuación
+
+La seguridad en túneles es primordial debido al riesgo que el confinamiento representa. Las vías de evacuación tienen como objetivo trasladar a los usuarios a un lugar seguro. Se distinguen dos tipos:
+*   Las **vías de evacuación no protegidas** discurren por el propio túnel sin separación física, siendo la única opción para túneles de poca longitud.
+*   Las **vías de evacuación protegidas** están físicamente separadas del túnel, conformando un recinto independiente. Son obligatorias para túneles de más de 400 metros, con el fin de que los usuarios puedan evacuar a pie sin exposición a humo o calor.
+
+El Real Decreto 635/2006 (España) establece la obligación de señalización fotoluminiscente a lo largo de todo el recorrido, indicando las dos salidas de emergencia más próximas y las distancias a ellas, ubicadas a no más de 25 metros de separación y entre 1 y 1.5 metros sobre el nivel de la vía. Además, en la entrada del túnel, debe haber señalización informativa sobre su longitud y las medidas de seguridad. Para túneles de más de 3000 metros, se debe indicar la longitud restante cada 1000 metros. Las distancias máximas entre accesos a vías de evacuación protegidas varían: 400 metros para túneles unidireccionales interurbanos sin retenciones y bidireccionales interurbanos sin retenciones; y 200 metros para unidireccionales urbanos o interurbanos con retenciones, y 150 metros para bidireccionales urbanos o interurbanos con retenciones.
+
+La eficacia de la evacuación depende de factores técnicos (características de las vías y salidas de emergencia) y humanos (un plan de emergencias adecuado y la preparación del personal). Es fundamental que el túnel cuente con un plan de emergencias, obligatorio en España para todos los túneles de la red de carreteras, salvo los no urbanos de menos de 200 metros.
+
+Para una evacuación eficiente, el túnel debe contar con:
+*   **Señalización clara y legible** que dirija a las salidas de emergencia.
+*   **Alumbrado adecuado** para las vías protegidas y un sistema de iluminación de emergencia ante fallos eléctricos, junto con marcado luminiscente en rutas no protegidas.
+*   **Información visible** sobre la longitud del túnel y las medidas de seguridad.
+
+## Sistemas de Comunicación
+
+En entornos subterráneos, la comunicación es un desafío. Los túneles deben disponer de sistemas que aseguren las comunicaciones por radio para los equipos de emergencia.
+*   **Interfones:** Ubicados cada 50 o 100 metros, permiten la comunicación entre los usuarios y el centro de control.
+*   **Sistema de cable radiante:** Es el sistema más común para la comunicación vía radio en túneles, efectivo para la banda VHF (voz, datos, vídeo bidireccional), que suele ser atenuada por la roca. En España, asegura cobertura TETRA (bomberos, policías municipales, equipos sanitarios) y TETRAPOL (policía), además de 8 canales FM comerciales para información a usuarios y comunicación con conductores.
+*   **Antenas distribuidas:** Otro sistema para comunicaciones subterráneas, que zonifica el espacio y requiere una antena y un amplificador cableados con fibra óptica por cada zona.
+
+## Sistemas de Detección y Lucha Contra Incendios
+
+La detección temprana de incendios es vital. Los sistemas son obligatorios en túneles interurbanos de más de 500 metros y en túneles urbanos/interurbanos congestionados de más de 200 metros. Su objetivo es detectar el incendio en su fase inicial para activar protocolos (cambios de ventilación, extinción). Las tecnologías homologadas incluyen:
+*   **Cable fibroláser:** Instalado en la clave del túnel, detecta el calor por cambios en la transmisión de luz.
+*   **Cable de cobre con aislamiento:** Se funde y varía su resistencia.
+*   **Variación de presión en tubos con aire.**
+*   **Sensores de temperatura distribuidos uniformemente.**
+*   **Análisis de fibra óptica.**
+
+Entre los sistemas no homologados se encuentran el análisis de imágenes CCTV, el incremento de monóxido de carbono (CO) y la opacidad, así como detectores de llama.
+
+Los **sistemas de lucha contra incendios** disponen de fuentes de abastecimiento, equipos de bombeo y armarios equipados con mangueras, lanzas y espumógeno. Además, los puestos de emergencia deben tener un teléfono y dos extintores, situados a intervalos no superiores a 150 metros (túneles nuevos desde 2006) o 250 metros (túneles preexistentes). Otras instalaciones posibles son BIEs, columnas secas, grupos de presión, rociadores/nebulizadores e hidrantes cada 250 metros.
+
+## Sistemas de Ventilación en Túneles
+
+Los sistemas de ventilación son cruciales para controlar el movimiento de aire, humo y gases tóxicos.
+*   La **ventilación natural** se basa en efectos climatológicos (viento, diferencias de presión y temperatura) o el propio tráfico. Solo es viable en túneles muy cortos y no está permitida en túneles bidireccionales.
+*   La **ventilación forzada o artificial** emplea ventiladores y conductos para dirigir el aire fresco y evacuar los humos. Se pueden clasificar en:
+    *   **Ventilación longitudinal:** El aire circula en un único sentido (aprovechando el efecto pistón del tráfico en unidireccionales) impulsado por ventiladores axiales. Su objetivo es crear condiciones adecuadas para la evacuación aguas arriba del foco del incendio. Esta configuración ahorra energía si el tráfico es suficiente para mover el aire, pero dificulta el control en caso de congestión.
+        *   Una variante es la **ventilación longitudinal con extracción masiva de humo**, que utiliza pozos intermedios para extraer el humo. Esta se recomienda para túneles largos unidireccionales, lo que posibilita túneles de mayor longitud, aunque requiere la construcción de pozos de ventilación.
+    *   **Ventilación semitransversal y transversal:** Son sistemas más seguros, utilizados en túneles que requieren ventilación mecánica y donde la longitudinal no está autorizada. Controlan la velocidad del aire longitudinal y previenen la propagación de humo y calor hacia las salidas de emergencia.
+        *   En la **ventilación semitransversal**, se inyecta aire fresco a través de conductos en la clave con difusores cada 6 metros, y el aire viciado se extrae por las bocas. En caso de incendio, la extracción se concentra en la zona del fuego, mientras el aire fresco entra por las bocas.
+        *   En la **ventilación transversal**, el aire fresco y el viciado circulan en conductos separados en la clave del túnel. El aire fresco se impulsa y el aire viciado se aspira simultáneamente en la zona del fuego, aumentando la capacidad de evacuación de humo y gases tóxicos.
+
+En ambos sistemas (semitransversal y transversal), es fundamental mantener una velocidad de aire baja (idealmente 1 m/s, máximo 2 m/s) para preservar la estratificación de la capa de humo y evitar que afecte a las personas que evacuan. Si la velocidad excede este umbral, se rompe la estratificación, el humo ocupa toda la sección transversal del túnel, y la visibilidad se ve comprometida. Estos sistemas ofrecen condiciones ambientales óptimas pero son más costosos, complejos de poner en marcha y tienen mayor consumo energético.

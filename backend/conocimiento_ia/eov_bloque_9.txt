@@ -1,0 +1,67 @@
+# Equipos de Respiración Autónoma (ERA) en Intervenciones de Bomberos
+
+Los Equipos de Respiración Autónoma (ERA) son dispositivos esenciales de protección individual de las vías respiratorias, diseñados bajo el principio de circuito abierto de aire comprimido. Su función primordial es suministrar aire respirable al usuario de forma independiente de la atmósfera exterior, un aspecto crucial en ambientes contaminados o con deficiencia de oxígeno.
+
+## Componentes y Funcionamiento del ERA
+
+Un equipo ERA se compone principalmente de un **tubo respiratorio flexible** que se conecta a la máscara, y una **botella de aire comprimido** que se sujeta a la espalda mediante un arnés.
+
+### Botella de Aire Comprimido
+
+La botella, cargada a una presión de entre 250 y 300 bares, incorpora un regulador que reduce esta alta presión a niveles atmosféricos y alerta acústicamente al usuario cuando el suministro de aire está próximo a agotarse. Un manómetro integrado en el equipo indica la presión actual de la botella.
+
+### Sistema de Suministro de Aire
+
+El aire de la botella, almacenado a alta presión, es canalizado a través de un **reductor de presión** que lo disminuye a una presión media de aproximadamente 6 a 7,5 bares. Desde allí, el aire pasa a un **regulador** que lo entrega a la máscara a una presión de entre 0 y 4 milibares, operando en modo de presión normal o positiva. Para garantizar la seguridad, el reductor de presión incluye una válvula de alivio que limita la presión media a 12 bares en caso de fallo, asegurando que el aire llegue al usuario a aproximadamente 1 bar. Asimismo, un avisador acústico con silbato se activa cuando la presión de la botella desciende a unos 55 bares, manteniéndose activo hasta los 10 bares.
+
+Entre los modelos más habituales se encuentran el **PSS-90**, que funciona con presión positiva, y el **autónomo de 3 litros y 300 bares** fabricado en carbón-composite. Este último se distingue por tener el reductor de presión protegido en la espalda, un medidor de presión situado lateralmente en la cintura, y una espaldera flexible que, además, es lavable a máquina, lo que lo hace idóneo para trabajos de corta duración, como el reconocimiento de incendios estructurales o situaciones críticas en incendios forestales.
+
+### Cálculo del Consumo y Autonomía del Aire
+
+Para calcular el consumo de oxígeno y estimar la autonomía del equipo en diversas situaciones de trabajo, se emplea la fórmula: `[(Presión inicial - Presión final) x Volumen de la botella] / Tiempo de uso = litros/minuto`. Por ejemplo, una botella de 6 litros cargada a 300 bares, con una alarma configurada a 50 bares, ofrece un total de 1500 litros de aire disponible. Esto se traduce en una autonomía aproximada de 100 minutos en reposo (15 l/min), 30 minutos en rendimiento medio (50 l/min), o 16 minutos en alto rendimiento (90 l/min).
+
+### Partes Adicionales del ERA
+
+Las partes constituyentes de un equipo de respiración autónoma también incluyen el **pulmoautomático**, el **manorreductor**, la **espaldera**, el **manómetro**, el **bodyguard**, la **botella de aire comprimido** y un **adaptador en "T"** para configuraciones bibotella.
+
+## Máscara de Protección Respiratoria
+
+La máscara es el componente que se acopla al rostro para permitir la inhalación de aire limpio y la exhalación de aire contaminado, asegurando una independencia total entre el ambiente exterior y el sistema respiratorio del usuario. Debe garantizar una estanqueidad total, una visibilidad amplia sin empañamiento del visor, y una comunicación oral efectiva gracias a un mecanismo que facilita la transmisión de la voz.
+
+Las máscaras suelen estar fabricadas en caucho sintético o silicona antialergénica, adaptándose rápidamente al casco mediante sujeciones de acero inoxidable o atalajes tipo pulpo. Su diseño incluye un doble cerco estanco para un ajuste perfecto y un cristal de policarbonato inastillable, resistente al fuego, con un campo de visión de 180º. La conexión al pulmoautomático se realiza mediante un enchufe rápido tipo bayoneta o rosca.
+
+El funcionamiento de la máscara se basa en una **válvula de exhalación unidireccional** que permite la salida del aire exhalado e impide la entrada de aire exterior. Además, una **membrana fónica o acústica** de lámina metálica vibra para transmitir el sonido de la voz. Las diferencias entre modelos de máscaras suelen residir en los sistemas de unión al usuario (enganches rápidos o pulpos) y en los tipos de conexión del pulmoautomático a la máscara.
+
+### Normativa y Clases de Máscaras
+
+Las caretas completas están reguladas por la norma **EN 136 CL.3**, con el correspondiente marcado CE. La UNE EN 136 establece tres clases de máscaras, todas con el mismo nivel de protección, pero con aplicaciones distintas: la Clase 1 (ligera), la Clase 2 (general) y la Clase 3 (específica para equipos de emergencia y bomberos). Adicionalmente, las caretas deben cumplir los requisitos para una exposición total al fuego según la EN 137.
+
+### Uso y Seguridad de la Máscara
+
+Para un uso seguro, es fundamental peinarse hacia atrás y despejar la frente antes de colocar la máscara. El procedimiento de colocación implica poner la cinta portadora alrededor de la nuca, alojar el mentón en la mentonera, desplazar los elementos tensores del borde superior de la careta hacia la frente y debajo del casco de protección, y tensar ambos elementos tensores hacia atrás para engancharlos a los alojamientos de retención del casco. Finalmente, se ajusta la careta y se cierra el barboquejo sin apretar excesivamente.
+
+La hermeticidad debe verificarse pulsando la tecla del dispositivo automático pulmonar (1) para insertarlo en la pieza de empalme, soltando la tecla y comprobando el acople. Posteriormente, se cierra el niple enchufable (2) con el pulgar y se aspira hasta producir una depresión, la cual debe mantenerse para confirmar que no entra aire exterior. Este proceso se repite dos veces.
+
+Es crucial evitar que la barba, patillas o monturas de gafas comprometan la hermeticidad. Se recomienda realizar una verificación del asiento de la careta con la ayuda de otra persona y asegurarse de que las patillas metálicas estén correctamente alojadas para evitar la pérdida de la máscara. Después de usarla, para desacoplar el dispositivo automático pulmonar, se pulsa la tecla (1) mientras se extrae. Para quitarse la máscara, se tiran hacia atrás los elementos tensores (3), se desenganchan del casco y se retira este último.
+
+### Mantenimiento de la Máscara
+
+El mantenimiento de la máscara requiere el uso exclusivo de detergentes desinfectantes autorizados, evitando disolventes como acetona o alcohol. Después de cada uso, la máscara debe desinfectarse sumergiéndola en un baño desinfectante a la dosis y tiempo indicados, para evitar deformaciones. También se puede limpiar con agua tibia y detergente universal, enjuagando con abundante agua corriente. El secado debe realizarse al aire o en un armario de secado a una temperatura máxima de 60ºC, evitando la exposición directa al sol y sin colocar los elementos tensores sobre el marco hermetizador. Las guías de los elementos tensores deben lubricarse con vaselina.
+
+Para la **válvula de exhalación**, el mantenimiento implica desmontar la tapa protectora (1), retirar el puente elástico de su alojamiento y extraer la válvula. Se comprueba que el disco de la válvula (2) y su asiento estén limpios y sin daños, procediendo a su limpieza con agua o sustitución si es necesario. Para el montaje, se humedece el disco con agua, se aloja en su lugar y se coloca el puente elástico (marcado con "L" para la izquierda y "R" para la derecha) asegurando que sus patas encajen. Los puentes de color negro son compatibles con ambas válvulas, mientras que los rojos solo lo son con las válvulas de base pequeña. El cristal de la máscara se frota con un paño antiestático para evitar deformaciones.
+
+Para su almacenamiento, la máscara debe guardarse en una bolsa o caja adecuada (huevera), en un lugar seco, sin polvo, a una temperatura entre -15ºC y 25ºC, protegida de la luz y de fuentes de calor, y sin que sufra deformaciones. Finalmente, el usuario debe verificar el perfecto estado de la careta después de cada operación o trabajo de mantenimiento y reparación.
+
+## Manómetro y Bodyguard
+
+El **manómetro** es un dispositivo que permite al bombero visualizar la presión de aire restante en la botella, indicando con una franja roja el último 25% del volumen total, momento en el que se activa una alarma de baja presión.
+
+El **bodyguard**, un dispositivo más avanzado, reemplaza al manómetro tradicional. Además de mostrar la presión de la botella y el aire restante, proporciona una interpretación de la temperatura corporal del bombero post-intervención. Incorpora una alarma óptica al 50% del contenido de aire y calcula el tiempo de uso restante mediante lecturas periódicas. También cuenta con alarmas de movimiento, un botón de alarma manual, una reserva de aire (activada a los últimos 50 bares de la botella), y una señal de "hombre muerto" que se activa si el usuario permanece inmóvil durante un tiempo determinado. Además, avisa sobre la necesidad de mantenimiento.
+
+## Botella de Aire Comprimido (Detalle)
+
+La botella se compone de un cilindro y un grifo. El **cilindro** lleva grabadas referencias como el año de fabricación, caducidad, capacidad en litros, presión de carga y fecha de las revisiones, además del marcado CE, cumpliendo la normativa UNE-EN 12021. Se fabrica en acero aleado (cromo-níquel molibdeno) o en material compuesto con un alma metálica de aluminio revestida con fibra de carbono y fibra de vidrio para resistir impactos. También existen versiones de fibra de carbono 100% con esqueleto de polietileno de 2mm. Las botellas suelen pesar entre 7 y 8 kg, aunque las aligeradas pueden rondar los 4 kg, y se permite la unión de dos botellas.
+
+Las botellas deben someterse a **pruebas hidráulicas** por expansión volumétrica o retimbrado cada tres años, a partir del año siguiente a la primera prueba de presión realizada por el fabricante. Además, se realiza una **inspección visual anual** tanto del exterior como del interior para verificar su estado y determinar si deben ser retiradas de servicio.
+
+El **grifo** de la botella tiene como misión abrir y cerrar el paso de aire, además de filtrar posibles impurezas. Consta de un maneral de apertura/cierre (de goma negra o plástico endurecido, a menudo reflectante), un cuerpo con dos roscas normalizadas (una para unir a la botella y otra al manorreductor de la espaldera), y un filtro interno (hecho de virutas de cobre con poros pequeños y homogéneos, ubicado en un tubo para evitar la condensación de agua). El grifo también debe llevar el marcado CE y una conexión de salida conforme a la UNE-EN 144-2.

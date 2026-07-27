@@ -1,0 +1,74 @@
+Las patologías que afectan a las edificaciones pueden ser clasificadas según su origen, distinguiéndose principalmente aquellas derivadas de causas accidentales, como sismos e impactos, y el comportamiento de los materiales ante el fuego, además de otras de índole constructiva o por falta de mantenimiento. Un entendimiento profundo de estas patologías resulta crucial para los profesionales de emergencias.
+
+### Patologías por Causas Accidentales
+
+Las causas accidentales, a diferencia de las patologías intrínsecas del edificio, suelen generar daños imprevistos y a menudo súbitos, con consecuencias devastadoras.
+
+#### Patologías por Sismo
+
+Un **sismo** o **terremoto** se define como la sacudida brusca y transitoria de la corteza terrestre, resultante de la liberación repentina de energía acumulada en forma de ondas sísmicas. Su origen principal se encuentra en la ruptura de fallas geológicas, aunque también puede deberse a la fricción entre placas tectónicas, la actividad volcánica o, incluso, actividades humanas como detonaciones nucleares subterráneas. El punto de origen interno se denomina **hipocentro**, mientras que la proyección vertical en la superficie terrestre se conoce como **epicentro**. Los sismos con una aceleración superior a 0,04 veces la gravedad se consideran peligrosos.
+
+La energía sísmica se propaga a través de diferentes tipos de ondas elásticas:
+*   **Ondas P (Primarias o Longitudinales):** Son las más rápidas, con velocidades entre 8 y 12 km/s. Se propagan comprimiendo y expandiendo la roca, y pueden atravesar tanto sólidos como líquidos.
+*   **Ondas S (Secundarias o Transversales):** Se desplazan a velocidades entre 4 y 8 km/s, perpendicularmente a la dirección de propagación, y solo pueden propagarse a través de sólidos.
+*   **Ondas Superficiales (Rayleigh y Love):** Son las más lentas, con velocidades entre 2,7 y 3 km/s, pero también las más destructivas debido a su mayor amplitud. Se propagan por la superficie terrestre.
+
+La medición de un terremoto se realiza mediante la **escala Richter**, que cuantifica su magnitud, y la **escala MSK**, que evalúa la intensidad en función de los efectos destructivos sobre las construcciones y el terreno.
+
+Diversos factores influyen en el comportamiento de una edificación frente a un sismo:
+*   **Factores primarios:** Incluyen la magnitud del sismo, la profundidad del hipocentro y las características del suelo, como su dureza, grosor y contenido de agua. Las tipologías constructivas que no resisten bien los movimientos laterales son especialmente vulnerables.
+*   **Factores secundarios:** Abarcan las cimentaciones (si son adecuadas al terreno), la separación entre edificios (la ausencia de esta puede causar el "fenómeno aplauso" por impacto entre estructuras adyacentes) y la presencia de fuego (rotura de conducciones de gas o cortocircuitos).
+
+La **geometría** de la estructura es determinante. La distribución del **centro de masas** y la **simetría/regularidad** de la edificación son cruciales; la falta de simetría o grandes variaciones de masa pueden provocar deformaciones diferenciales. Los **retranqueos** en la fachada, por ejemplo, pueden generar inestabilidades significativas. Asimismo, los cambios de **rigidez** en una estructura pueden propiciar fallos como el **efecto pilar corto**, donde la coacción del pilar por la restricción de un muro induce concentraciones de tensiones adicionales, o el **efecto piso blando**, donde una planta con particiones interiores diáfanas se vuelve menos rígida que las demás, transformando los pilares de empotrados a articulados y requiriendo soluciones como cruces de San Andrés. El **fenómeno aplauso** se produce en edificios adosados de diferente altura, donde el edificio más bajo restringe el movimiento del más alto, provocando cortantes y cizallamientos en los pilares y fallos estructurales en los pisos intermedios.
+
+#### Patologías por Impacto
+
+El **impacto** se define como el choque violento de un cuerpo sobre una edificación, generando una fuerza brusca. Los factores que determinan la magnitud de las acciones de impacto incluyen la masa y velocidad del cuerpo impactante, así como su capacidad de deformación y amortiguación y la del elemento impactado.
+
+El riesgo más común es el impacto de vehículos. Los valores de cálculo normativos para un impacto de vehículos de hasta 30 kN de peso total son de 50 kN en dirección paralela a la vía y 25 kN en dirección perpendicular, sin actuar simultáneamente. Para carretillas elevadoras, el valor de cálculo es cinco veces su peso máximo autorizado.
+
+En intervenciones de bomberos, el impacto puede provocar el colapso inmediato de la edificación, especialmente en cerramientos prefabricados. Un estudio sobre naves industriales ha revelado que los sistemas de cerramiento encastrados en perfiles metálicos anulaban el pandeo y ofrecían buena resistencia al fuego. Sin embargo, los sistemas modernos con grapas y tacos sin anclaje soldado carecen de resistencia al fuego y la corrosión, siendo más vulnerables al colapso por impacto o incendio.
+
+### Comportamiento de los Materiales ante el Fuego
+
+El fuego afecta de manera distinta a los materiales de construcción, y su conocimiento es esencial para la evaluación de riesgos en emergencias.
+
+#### Acero
+
+El acero es un material **incombustible** (Clase M0 o A1), por lo que no contribuye al inicio ni a la propagación del incendio. No obstante, posee una alta conductividad térmica y dilatación, lo que significa que el calor se disipa rápidamente, pero un incremento sostenido de temperatura puede comprometer su resistencia. La pérdida de resistencia del acero comienza alrededor de los 300ºC y se acelera drásticamente entre los 500ºC y 700ºC, llegando a un punto crítico a los 538ºC, donde la estructura puede colapsar instantáneamente, a pesar de que su punto de fusión sea mucho más alto (1300-1400ºC). Los tiempos de colapso varían según la exposición del perfil: de 11 minutos para cuatro caras expuestas a 31 minutos para una cara. Los perfiles esbeltos con gran superficie expuesta son más vulnerables al pandeo.
+
+Los **aspectos positivos** del acero frente al fuego son su incombustibilidad y las grandes deformaciones que actúan como aviso previo al colapso. En contraste, sus **aspectos negativos** radican en la rápida pérdida de resistencia y las dilataciones y contracciones significativas, que generan empujes, arrastres y giros, pudiendo provocar el derrumbe de elementos colindantes y requiriendo recubrimientos protectores.
+
+#### Hormigón
+
+El hormigón, un material de alta masividad y densidad, requiere una gran cantidad de calor para aumentar su temperatura, lo que le confiere una baja conductividad térmica y una dilatación reducida (propiedad de los materiales pétreos). También es incombustible (Clase M0 o A1).
+
+La pérdida de resistencia del hormigón comienza a los 300ºC, alcanza el 50% a los 500ºC, se vuelve frágil a los 600ºC por expansión de los áridos, y a los 1000ºC la grava se disgrega y el cemento se deshidrata. El color del hormigón puede indicar la temperatura alcanzada: gris original hasta 300ºC, tonos rojizos entre 300-600ºC, segundo gris con partículas rojas entre 600-900ºC, y ante o amarillo pálido por encima de 900ºC, momento en el que su resistencia es nula. Su geometría rectangular reduce la exposición al incendio.
+
+En el **hormigón armado (HA)**, la estructura es un material compuesto con buena resistencia al fuego. Sus **aspectos positivos** incluyen su incombustibilidad, la no propagación del calor y las dilataciones lentas que permiten la redistribución gradual de esfuerzos. Sin embargo, la resistencia disminuye por encima de 380ºC, y el colapso puede producirse por procesos termohidromecánicos (dilataciones diferenciales y presión interna del vapor de agua en los poros).
+
+El **hormigón pretensado (HP)** y **postensado** presenta un comportamiento ante el fuego peor que el hormigón armado, ya que los cables de acero de menor diámetro en el pretensado pueden provocar un colapso más rápido, y la pérdida de resistencia es más acusada, especialmente a tracción y flexión. Las armaduras se deforman rápidamente, y la tensión de pretensado no se recupera tras el enfriamiento. En el hormigón postensado, la situación es aún más crítica debido a la mínima protección al fuego del acero embebido en vainas.
+
+#### Fábrica
+
+Los elementos de fábrica (ladrillo, piedra, sillería) presentan alta masa e inercia térmica, requiriendo una considerable carga de fuego para aumentar su temperatura. Su conductividad térmica es baja y la dilatación es reducida. Son incombustibles.
+
+La resistencia al fuego de los muros de fábrica es alta para piezas macizas o con pocos huecos, pero media o baja para hormigón o ladrillos con muchos huecos. La gran superficie expuesta de los paños de fábrica puede ser una desventaja. Como **aspectos positivos**, ofrecen buena capacidad portante gracias a su espesor e inercia térmica. No obstante, sus **aspectos negativos** incluyen el riesgo de desplome por falta de arriostramiento en casos de hundimiento de forjados, la dilatación diferencial por su mala conductividad térmica, y la rotura de aristas por exposición prolongada al calor.
+
+#### Madera
+
+La madera, con baja masa y densidad, no requiere una gran carga térmica para aumentar su temperatura, y su humedad puede retrasar este incremento. Posee baja conductividad térmica y dilatación. Sin embargo, su reacción al fuego es alta, contribuyendo a la carga térmica del incendio. Aunque puede ganar resistencia al fuego por la disminución de humedad, su resistencia se reduce por la carbonización de la sección (aproximadamente 1 cm cada 15 minutos). Su forma y superficie expuesta suelen ser relativamente pequeñas.
+
+Entre sus **aspectos positivos**, la madera no pierde propiedades resistentes intrínsecas (solo se carboniza la sección), no genera dilataciones significativas y su fallo por carbonización es cuantificable. Las estructuras de madera suelen ser isostáticas, de poca altura y complejidad, lo que facilita el control del siniestro. Por otro lado, los **aspectos negativos** son su combustibilidad e inflamabilidad, su contribución a la carga térmica y a la propagación del fuego, la posible presencia de vicios ocultos (carcoma, pudriciones) y la debilidad de las uniones metálicas.
+
+### Sistemas de Protección contra el Fuego
+
+La protección contra el fuego en edificaciones busca evitar el desplome o derrumbe de la estructura y la propagación del incendio a otras zonas, mediante el uso de paramentos resistentes.
+
+Existen varios **sistemas de protección estructural**:
+*   **Recubrimiento con paneles ignífugos:** Utiliza paneles de cartón yeso sobre elementos de acero, cuyo espesor se determina según la resistencia al fuego requerida.
+*   **Pinturas intumescentes:** Son recubrimientos que, al alcanzar temperaturas superiores a 200ºC, reaccionan formando una espuma protectora que aumenta su espesor hasta 50 veces, proporcionando aislación térmica eficaz hasta por 120 minutos.
+*   **Protección sólida:** Consiste en envolver elementos estructurales con hormigón macizo para incrementar su resistencia y reducir la reacción al fuego, con un espesor que depende de la resistencia exigida.
+*   **Morteros:** Tradicionales o aditivados (con perlita o vermiculita), aplicados en el contorno de los perfiles para mejorar su resistencia al fuego. Pueden aplicarse con mallas o anclajes o mediante proyección, con bajo volumen y masa.
+
+Los **sistemas complementarios** incluyen recubrimientos con albañilerías, pantallas (tabiquerías interiores/perimetrales) y rellenos de perfiles tubulares huecos (con hormigón, hormigón celular o agua) para absorber energía térmica. En el caso de las instalaciones, se utilizan cortafuegos lineales en bandejas de cables, almohadillas intumescentes para sellado de pasos, sistemas de placas para conductos resistentes al fuego y collarines intumescentes para tuberías inflamables, así como conductos de ventilación fabricados con materiales incombustibles y sistemas de obturación.

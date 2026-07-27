@@ -1,0 +1,48 @@
+## Técnicas de Control de Aguas y Comunicación en Operaciones de Emergencia
+
+En el ámbito de las operaciones de emergencia, especialmente aquellas relacionadas con inundaciones o rescates acuáticos, resulta fundamental dominar un conjunto de técnicas tanto para el control de las aguas como para una comunicación efectiva y coordinada.
+
+### Control de Aguas: Construcción de Diques
+
+Las técnicas más habituales para gestionar y controlar el movimiento del agua incluyen la apertura de salidas, el achique y la construcción de diques. Los diques, en particular, son muros artificiales erigidos para contener el agua y prevenir inundaciones en áreas específicas, como viviendas o locales. Para su edificación, es crucial asegurar una superficie de asiento estable.
+
+Existen diversas modalidades de construcción de diques, adaptadas a los recursos y la situación:
+
+1.  **Diques de Sacos Terreros**: Estos diques se construyen apilando sacos llenos de tierra o arena, siendo esta última preferible por su mayor capacidad de absorción. Se recomienda una fase previa de preparación que incluye alistar la superficie de asiento y acopiar los materiales. La colocación de los sacos puede realizarse de tres maneras:
+    *   **A soga**: Predomina el sentido longitudinal del saco, formando una barrera piramidal.
+    *   **A tizón**: El sentido transversal del saco es el predominante, creando un muro simple.
+    *   **Mixto**: Combina ambas configuraciones para optimizar la estabilidad y contención.
+    Para la construcción de un muro de diez metros lineales, se estima la necesidad de 500 sacos si la altura es de 0,5 metros, o 900 sacos para la misma altura si se consideran factores adicionales de refuerzo o anclaje.
+
+2.  **Diques con Gaviones Modulares (Hesco Bastion)**: Consisten en módulos de varillas metálicas inoxidables revestidas con tela geotextil que se rellenan con tierra o arena. Estos diques ofrecen una gran solidez y un alto rendimiento, permitiendo una construcción rápida. El proceso implica preparar el terreno, desplegar los módulos, darles la forma deseada, rellenarlos con arena o tierra (idealmente con maquinaria excavadora mixta) y protegerlos con rollos de plástico para impermeabilización. Su principal inconveniente es la necesidad de una logística considerable y que estos módulos no suelen estar disponibles en los parques de bomberos, requiriendo la colaboración con unidades externas como la Unidad Militar de Emergencias (UME).
+
+3.  **Diques con Big Bags o Sacos de Escombro**: Se construyen con grandes bolsas, originalmente destinadas al transporte de escombros, que se llenan de tierra. Su ventaja principal es la disponibilidad, ya que pueden encontrarse en empresas de suministro de materiales de construcción, y ofrecen un buen rendimiento. No obstante, al igual que los gaviones, su implementación exige una logística importante, lo que a menudo implica la colaboración con otras unidades. Para su montaje, se debe abrir la bolsa, rellenarla con arena (un proceso que puede ser lento si se hace manualmente), colocarla con maquinaria (grúa o uñas de excavadora), disponerla en forma piramidal o de escalera, y asegurar la impermeabilización con plásticos. Es fundamental verificar la estabilidad de la superficie de apoyo y prestar atención a la seguridad al operar maquinaria pesada.
+
+### Técnicas de Comunicación en el Medio Acuático
+
+La comunicación en el medio acuático, especialmente durante inundaciones de gran envergadura donde las infraestructuras fijas pueden estar dañadas, es crucial y requiere una planificación previa detallada para asegurar la coordinación entre los distintos servicios intervinientes.
+
+#### Señales de Mano y Silbato
+
+Dentro del alcance visual, las señales de mano y silbato son herramientas de comunicación esenciales:
+
+1.  **Señales de Mano**:
+    *   **Necesidad de asistencia/problemas**: Una mano extendida sobre la cabeza.
+    *   **Estoy bien**: Una mano sobre la cabeza.
+    *   **Mover/Nadar derecha/izquierda**: Dos manos extendidas sobre la cabeza.
+    *   **Necesidad de botiquín/Ayuda**: Ambos brazos cruzados sobre el pecho.
+    Para la **movilización de una balsa**, se utilizan señales direccionales: apuntar a la derecha o izquierda para indicar movimiento lateral, y apuntar río arriba o río abajo para indicar la dirección longitudinal.
+
+2.  **Señales con Silbato**:
+    *   **Alto/Atención**: Un toque de silbato.
+    *   **Hacia arriba/Río arriba**: Dos toques de silbato.
+    *   **Hacia abajo/Río abajo**: Tres toques de silbato.
+    *   **Emergencia/Peligro**: Tres toques de silbato en serie.
+
+#### Telecomunicaciones
+
+Las telecomunicaciones son vitales para coordinar a todos los medios en emergencias de inundación, especialmente cuando las redes fijas están comprometidas. Las funciones básicas de estos sistemas incluyen la identificación de recursos de diversos organismos (UME, fuerzas de orden, bomberos, sanitarios), el control de la actividad externa, el seguimiento de los despliegues, la evaluación continua de la situación (daños, heridos, riesgos) y la toma de decisiones.
+
+Para asegurar la efectividad del mando y control, se emplean sistemas desplegables que deben ser adaptables, modulares y escalables. Asimismo, deben ser interoperables con sistemas civiles y militares, integrables en redes de telecomunicaciones permanentes, y capaces de operar con una red propia de emergencia (HF/VHF/UHF, PMR) para manejar grandes volúmenes de información (voz, datos, fax, mensajería y videoconferencia).
+
+En España, la arquitectura de las telecomunicaciones para emergencias de interés nacional se apoya en los nodos de telecomunicaciones desplegables de la UME y en los medios de las administraciones (estatal, autonómica y empresas de infraestructuras críticas) cuando las infraestructuras fijas están inoperativas. Para la gestión de la información, existen sistemas como el RECOSAT (Sistema integral de comunicaciones de emergencia vía satélite), el REMER (Red Radio de Emergencia), una red complementaria de radioaficionados, y el RENEM (Red Nacional de Emergencias), que integra sistemas de información y telecomunicaciones de diversas organizaciones nacionales y autonómicas para coordinar eficazmente las emergencias.

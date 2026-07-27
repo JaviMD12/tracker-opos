@@ -1,0 +1,120 @@
+# Soporte Vital Básico en Emergencias: Valoración y Maniobras Específicas
+
+El **Soporte Vital Básico (SVB)** comprende el conjunto de maniobras destinadas a revertir una parada cardiorrespiratoria (PCR), la cual se define como la interrupción súbita, inesperada y potencialmente reversible de la respiración y la circulación espontáneas. Estas maniobras buscan sustituir artificialmente las funciones respiratoria y circulatoria, con el objetivo primordial de restaurarlas de forma espontánea y asegurar la perfusión sanguínea adecuada a los órganos vitales, como el cerebro, el corazón y los riñones. Una RCP de calidad, bien realizada y precoz, es fundamental para la supervivencia del paciente.
+
+La **cadena de supervivencia** es una secuencia de acciones ordenadas y consecutivas que deben activarse en el menor tiempo posible ante una PCR para maximizar las posibilidades de una resucitación exitosa. Esta cadena incluye cinco eslabones: el reconocimiento temprano de la PCR y la activación precoz de los servicios de emergencia (SEM), el inicio inmediato de las maniobras de RCP, la desfibrilación precoz, el traslado urgente al hospital y los cuidados post-resucitación.
+
+## Valoración Primaria y Secundaria del Paciente
+
+Antes de cualquier intervención, es crucial **proteger la escena** para garantizar la seguridad tanto de las víctimas como de los intervinientes, evitando riesgos adicionales. En situaciones con múltiples víctimas, es importante determinar inicialmente cuántas están conscientes y respiran antes de proceder con valoraciones individuales.
+
+La **valoración primaria** es un algoritmo rápido que busca identificar la gravedad del paciente y aplicar intervenciones sencillas para resolver problemas vitales inmediatos. Un paciente se considera crítico si presenta alteraciones en su **ABC** (Vía aérea, Ventilación y Circulación).
+
+### Componentes de la Valoración Primaria (Algoritmo ABCDE)
+
+La secuencia de la valoración primaria se estructura en el siguiente orden:
+
+*   **A - Vía Aérea (Airway):**
+    *   Inicialmente, se pregunta al paciente: "¿Qué le ha pasado?". Si responde de forma coherente y con frases completas, se infiere que la vía aérea está permeable, la respiración es suficiente y la función neurológica es razonable.
+    *   Si el paciente no responde, se comprueba la permeabilidad de la vía aérea. Si está cerrada, es necesario abrirla.
+    *   Las técnicas para abrir la vía aérea incluyen la **maniobra frente-mentón** (si no se sospecha traumatismo cervical), que consiste en hiperextender suavemente la cabeza con una mano en la frente y elevar la mandíbula con los dedos índice y medio.
+    *   Si se sospecha **traumatismo cervical**, se emplea la **maniobra de elevación de la mandíbula** (o tracción mandibular), evitando la hiperextensión del cuello y manteniendo la cabeza en posición neutra. Esto se logra traccionando la mandíbula hacia delante con el pulgar en la boca y la otra mano en la frente para impedir la hiperextensión.
+    *   Si las maniobras manuales no son suficientes, se puede recurrir a dispositivos como la **cánula de Guedel** o la **mascarilla laríngea**. La cánula de Guedel se selecciona midiendo la distancia del ángulo de la boca al lóbulo de la oreja, se introduce con la concavidad hacia arriba hasta la mitad y luego se gira 180º hasta que la corona se apoya en los dientes. Para la mascarilla laríngea, se lubrica el extremo, se introduce con los agujeros hacia la lengua hasta el tope, se infla el balón con 20-40 ml de aire y se conecta a una bolsa autoinflable, verificando la elevación del tórax.
+    *   En caso de **obstrucción de la vía aérea por cuerpo extraño (OVACE)**, si el objeto es visible y accesible, se extrae cuidadosamente con los dedos, evitando introducirlo más. No se debe realizar barrido a ciegas. Si el objeto no es visible, se aplicarán las maniobras específicas para OVACE.
+    *   Las **secreciones** se aspiran con un aspirador, que crea una presión negativa para eliminar sangre, saliva o contenido gástrico de la boca, nariz y laringe. El paciente debe estar con la cabeza ligeramente elevada para evitar broncoaspiración; si está inconsciente, se coloca en posición lateral de seguridad. En niños, la presión negativa no debe exceder los 100 mmHg.
+*   **B - Ventilación (Breathing):**
+    *   Una ventilación adecuada es vital para el aporte de oxígeno a las células. En pacientes conscientes, la incapacidad de pronunciar una frase completa indica dificultad respiratoria.
+    *   Se evalúa la cantidad y calidad de la respiración observando ruidos respiratorios (indicadores de obstrucción parcial) y la frecuencia respiratoria (normal, bradipnea, taquipnea, apnea).
+    *   Se observa la simetría y profundidad de los movimientos torácicos; movimientos superficiales o muy profundos indican respiración ineficaz o esfuerzo. La asimetría puede sugerir fracturas costales.
+    *   En heridas torácicas "que soplan", se tapan con un apósito oclusivo por tres lados, dejando uno libre.
+    *   En pacientes inconscientes, la respiración rápida y superficial que se vuelve profunda y jadeante (respiración agrave) o la apnea intermitente (respiración de Cheyne-Stokes) son signos de gravedad.
+    *   El **pulsioxímetro** orienta sobre la saturación de oxígeno, buscando valores por encima del 90%.
+    *   Las actuaciones incluyen colocar al paciente en **posición semisentada** (30º-45º) si no hay sospecha de lesión vertebral, y administrar oxígeno mediante mascarilla con reservorio a un flujo de 10-15 litros. Si no hay mejora o la conciencia disminuye, se usa cánula de Guedel y bolsa autoinflable (AMBU) con mascarilla facial, ventilando a un ritmo de 15 respiraciones por minuto. Si el paciente no respira, se inician las maniobras de RCP.
+*   **C - Circulación (Circulation):**
+    *   La circulación garantiza el transporte de oxígeno a los tejidos. Se evalúan hemorragias, pulso, color de piel y mucosas, temperatura y humedad.
+    *   El **pulso** indica la actividad cardíaca y la tensión arterial. Un pulso presente en la arteria radial sugiere una tensión arterial aceptable. El pulso puede ser ausente, fuerte o débil. Un pulso rápido o lento, especialmente si es débil y con llenado capilar retardado, puede indicar **shock**. Si el pulso carotídeo es ausente, el paciente está en PCR.
+    *   El **color de la piel y mucosas** (labios, encías, pulpejos) proporciona información sobre la perfusión y oxigenación. Piel sonrosada indica buena circulación; pálida, disminución de flujo; azulada o cianótica, falta de oxígeno.
+    *   La **temperatura** corporal es importante, ya que la disminución de la perfusión reduce la temperatura tisular. Es fundamental evitar la pérdida de calor, retirando ropa húmeda y abrigando al paciente. Las mantas térmicas deben colocarse con la parte plateada hacia el paciente sobre ropa seca, ya que no generan calor sino que evitan su pérdida.
+    *   La **humedad** de la piel por sudoración abundante puede ser un signo de shock o perfusión inadecuada.
+    *   El **relleno capilar**, evaluado al presionar las uñas, debe ser inferior a 2 segundos. Un tiempo mayor indica problemas y puede verse alterado por frío o fármacos.
+    *   El **control de hemorragias** se realiza aplicando presión directa con gasas o compresas, usando guantes. Si la hemorragia es pulsátil en una extremidad y no se controla, se puede aplicar un **torniquete** que se aflojará cada 10 minutos. En caso de sospecha de sangrado interno en tórax o abdomen, el traslado a un centro quirúrgico debe ser lo más rápido posible. La hemorragia no controlada lleva a **shock hipovolémico**, donde la falta de circulación de oxígeno y nutrientes a las células puede causar muerte celular. Los signos precoces de shock incluyen taquicardia, aumento de respiraciones, palidez, frialdad cutánea, ansiedad, agitación, temblor, sed, cansancio y, en fases avanzadas, apatía, confusión y coma.
+*   **D - Valoración Neurológica (Disability):**
+    *   Evalúa la función cerebral y el aporte de oxígeno al cerebro. Los pacientes combativos o agitados pueden indicar hipoxia.
+    *   Se busca determinar si hubo pérdida de conciencia y su duración, consumo de tóxicos, problemas previos que causen pérdida de conciencia o enfermedades psiquiátricas, y la capacidad de mover extremidades.
+    *   Se utiliza el sistema **AVDNR** (Alerta, Verbal, Dolor, No responde) para evaluar el estado de conciencia.
+    *   Ante una alteración neurológica, se suministra oxígeno si el paciente está consciente pero confuso. Se protege al paciente de autolesiones y se mantiene la cabeza en línea media. Si está inconsciente pero respira y se puede mover, se coloca en **posición lateral de seguridad**.
+*   **E - Exposición (Exposure):**
+    *   Se retira toda la ropa para examinar y detectar lesiones, tomando precauciones para evitar la pérdida de calor (realizando la exposición en un espacio cerrado) y cubriendo al paciente rápidamente una vez finalizada la valoración.
+
+### Valoración Secundaria
+
+Una vez controlados los problemas vitales, se procede a la **valoración secundaria**, un examen detallado de cabeza a pies para detectar lesiones no identificadas en la valoración primaria. Esta se puede realizar durante el traslado al hospital.
+
+En pacientes conscientes, se puede usar la regla nemotécnica **OPUMA** para guiar la evaluación. Además, las constantes vitales (pulso, frecuencia respiratoria, color de piel, temperatura, movilidad y sensibilidad de extremidades) deben reevaluarse cada 5 minutos.
+
+*   **Cabeza y Cara:** Se busca la presencia de deformidades, asimetrías, hematomas (ojos de mapache o signo de Battle, indicativos de fractura de base de cráneo), falta de movimientos faciales (lesión cerebral), contusiones, erosiones, heridas, hemorragias o salida de líquido cefalorraquídeo por nariz/oídos (fractura de base de cráneo). También se evalúa el tamaño, simetría y reacción pupilar a la luz (pupilas de diferente tamaño indican lesión cerebral). La actuación implica vigilar ABC, trasladar en colchón de vacío si es posible, mantener el cuerpo alineado y la cabeza elevada (30º), y trasladar rápidamente.
+*   **Cuello:** Se observa la dilatación de las venas yugulares (circulación anómala), el esfuerzo excesivo de la musculatura respiratoria (dificultad respiratoria), la presencia de heridas, deformidades vertebrales con dolor a la palpación (sospecha de lesión cervical), edema/inflamación (obstrucción vía aérea) y crepitación (fuga de aire). La desviación de la tráquea indica afectación respiratoria grave. La actuación requiere vigilar ABC, movilizar con cuidado, colocar al paciente con la cabeza elevada (30º) y trasladar rápidamente.
+*   **Tórax:** Se evalúan los movimientos respiratorios (superficiales, profundos, simétricos o asimétricos), la presencia de tiraje (depresión al inhalar, indicando dificultad respiratoria), heridas, contusiones, objetos clavados y crepitantes a la palpación (fuga de aire). Si hay dificultad respiratoria, se administra oxígeno. Si no respira, se ventila con balón autoinflable y oxígeno. Se eleva el tórax (posición semifowler) y no se extraen objetos clavados, priorizando el traslado urgente.
+*   **Abdomen:** Se buscan erosiones, hematomas (lesión interna), heridas, evisceración (salida de órganos), objetos clavados. La rigidez y defensa a la palpación indican posible lesión interna. La actuación incluye vigilar ABC, no extraer objetos clavados, no reintroducir vísceras (manteniéndolas abrigadas), y trasladar rápidamente.
+*   **Pelvis:** Se valoran heridas, arrancamientos, punciones. El dolor o deformidad pélvica puede indicar fractura, con riesgo de hemorragia interna grave. La presencia de sangre en orina o hemorragia vaginal sugiere lesiones genitourinarias o uterinas. El priapismo (erección persistente) puede indicar lesión medular. La actuación implica vigilar ABC, movilizar con extremo cuidado y trasladar, si es posible, en colchón de vacío.
+*   **Espalda:** Se moviliza al paciente como un bloque, colocándolo en un tablero espinal y alineado en decúbito supino.
+*   **Extremidades:** Se observa el movimiento espontáneo, fuerza, simetría y sensibilidad. Se evalúa la circulación (color y temperatura) y la presencia de pulsos. Se buscan heridas, hematomas, edemas, deformidades y dolor. La actuación consiste en vigilar ABC, movilizar con mucho cuidado y, si es posible, trasladar en colchón de vacío.
+
+### Cadena de Supervivencia y Protocolo de RCP en Adultos
+
+El concepto de soporte vital está intrínsecamente ligado a la **cadena de supervivencia**, que es un conjunto de acciones que deben realizarse de forma ordenada y en el menor tiempo posible para lograr una resucitación exitosa. Esto incluye el reconocimiento temprano de la PCR y la alerta precoz, el inicio de las maniobras de RCP, la desfibrilación precoz, el traslado urgente al hospital y los cuidados post-resucitación.
+
+El protocolo de actuación ante una PCR en **adultos** sigue estos pasos:
+1.  Asegurar la escena del accidente para la seguridad del paciente y del interviniente.
+2.  Determinar el nivel de conciencia del paciente.
+3.  Abrir las vías aéreas.
+4.  Verificar la presencia o ausencia de respiración efectiva.
+5.  Si el paciente está inconsciente, no respira de forma efectiva y no se detecta pulso central, iniciar RCP. Esto implica la combinación de 30 compresiones torácicas efectivas (a una frecuencia de 100-120 por minuto y una profundidad de 5 cm) y 2 ventilaciones artificiales, utilizando siempre sistemas de barrera y protección.
+
+**Aspectos clave a recordar en RCP:**
+*   Una RCP bien ejecutada puede salvar vidas.
+*   Una RCP avanzada de calidad se fundamenta en una RCP básica de calidad.
+*   La precocidad en la activación del SEM y en la obtención de un desfibrilador externo automático (DEA) es trascendental.
+*   Se deben minimizar los tiempos muertos sin masaje cardíaco.
+*   El intervalo entre el cese de las compresiones torácicas y la administración de una descarga indicada por el DEA debe ser inferior a 5 segundos.
+*   Tras una descarga indicada por el DEA, se deben realizar 2 minutos de RCP.
+*   Ante la duda sobre la presencia de pulso, siempre se debe realizar masaje cardíaco.
+
+**Aspectos a evitar en RCP:**
+*   No iniciar las maniobras de reanimación sin haber comprobado previamente la seguridad de la escena y de la víctima.
+*   Retrasar la llamada al 112 o la activación del SEM para conseguir un DEA.
+*   Perder tiempo tras una descarga del DEA antes de reiniciar la RCP.
+*   Evaluar si hay pulsos cardíacos inmediatamente después de una descarga del DEA; siempre se debe continuar con RCP durante 2 minutos antes de reevaluar.
+
+### Soporte Vital Básico en Situaciones Especiales
+
+Cualquier situación de PCR se maneja siguiendo el algoritmo estándar de RCP vigente, pero ciertas circunstancias requieren modificaciones específicas:
+
+*   **SVB en la Embarazada:** La actuación debe ser rápida y organizada, considerando que son dos vidas las que dependen de la intervención.
+    *   **Modificaciones:** A partir de la semana 20 de gestación, el útero puede comprimir la vena cava inferior y la aorta. Para contrarrestar esto, se debe desplazar manualmente el abdomen de la embarazada hacia la izquierda o colocar a la paciente en decúbito lateral izquierdo con una inclinación de 15º-20º.
+    *   En caso de **OVACE** en estado avanzado de gestación, la maniobra de Heimlich no se realiza; en su lugar, se aplican 5 compresiones torácicas en la mitad del esternón.
+    *   La **ventilación** es prioritaria debido al alto riesgo de hipoxia; se debe iniciar rápidamente con oxígeno al 100% mediante mascarilla y AMBU con bolsa reservorio a máximo flujo (15 litros).
+    *   Las **compresiones torácicas** se realizan en la mitad del esternón, ya que el diafragma está elevado.
+    *   La **desfibrilación** sigue las recomendaciones del DEA, sin evidencia de efectos adversos en el feto.
+    *   Ante una PCR en una gestante, se debe considerar una **cesárea muy urgente** en los primeros 5 minutos por parte de equipos sanitarios, ya que la extracción rápida del feto aumenta la probabilidad de respuesta a la RCP de la madre y del feto si este es viable (a partir de 24-25 semanas de gestación).
+
+*   **SVB en Paciente con Hipotermia:** La confirmación de PCR o muerte puede ser difícil debido a pulsos lentos, pequeños e irregulares y tensión arterial indetectable.
+    *   **Modificaciones:** La RCP debe ser prolongada, ya que no se puede confirmar la muerte hasta que el paciente se haya recalentado o los intentos de elevar la temperatura corporal hayan fallado. Se debe abrir la vía aérea y ventilar con oxígeno a alta concentración (caliente y humidificado en medios sanitarios) si no respira. Se busca pulso carotídeo y se coloca el DEA rápidamente. Si no hay signos de latido cardiaco, se inician las compresiones torácicas. Se realiza RCP 30:2 como en pacientes normotérmicos, pero de forma prolongada, iniciando simultáneamente maniobras de calentamiento (mantas, fuentes de calor) hasta la llegada de los servicios sanitarios. La hipotermia puede causar arritmias, como fibrilación ventricular, por lo que es vital monitorizar con el DEA lo antes posible.
+
+*   **SVB en Paciente con Hipertermia:** El riesgo de daño cerebral aumenta por cada grado que supera los 37ºC.
+    *   **Modificaciones:** Se inicia RCP básica y avanzada estándar, junto con el enfriamiento del paciente. Aunque no hay datos concluyentes sobre el efecto de la hipertermia en el umbral de desfibrilación, se sigue las indicaciones del DEA. Los tratamientos intravenosos son los más efectivos para el enfriamiento, pero deben ser aplicados por personal sanitario.
+
+*   **SVB en el Ahogado:** La complicación más crítica es la hipoxia, y su duración es el factor pronóstico más importante.
+    *   **Modificaciones:** Se debe retirar a la víctima del agua y comenzar la RCP lo antes posible, minimizando los riesgos. La inmovilización cervical solo está indicada si hay sospecha de traumatismo o precipitación, ya que la incidencia de lesión medular es baja y la inmovilización retrasa la RCP. Si hay sospecha de lesión cervical, se limita la flexo-extensión del cuello. Se administran 5 ventilaciones de rescate iniciales, preferiblemente boca-nariz o con AMBU y mascarilla con oxígeno a alto flujo (15 litros). No es necesario aspirar la vía aérea ni realizar compresiones abdominales para eliminar agua, ya que esto podría causar broncoaspiración. Las compresiones torácicas deben realizarse fuera del agua sobre una superficie rígida. El tórax del ahogado debe secarse antes de aplicar el desfibrilador y seguir sus instrucciones.
+
+*   **SVB en el Electrocutado:** Las principales causas de muerte son el paro respiratorio, las arritmias (fibrilación ventricular) y el infarto por espasmo coronario.
+    *   **Modificaciones:** Es fundamental asegurar la escena, apagando la fuente eléctrica y no acercándose hasta que sea seguro. Se debe inmovilizar la columna cervical con un collarín, ya que todo electrocutado se considera un potencial politraumatizado por la proyección. La arritmia más frecuente es la fibrilación ventricular (FV); en caso de electrocución por corriente continua de alto voltaje, se desfibrila precozmente. En electrocuciones por corriente alterna, la PCR suele ser por asistolia (no desfibrilable), pero siempre se debe monitorizar con el DEA. Los pacientes electrocutados en PCR pueden presentar quemaduras en la vía respiratoria, requiriendo intubación rápida por personal cualificado.
+
+### Consideraciones sobre RCP en Lactantes y Niños
+
+Las técnicas de RCP en lactantes y niños presentan especificidades:
+*   Si la respiración está ausente, se comprueba el pulso braquial en lactantes y el pulso carotídeo en niños mayores de 2 años.
+*   La ventilación en lactantes se realiza preferentemente boca-nariz.
+*   Las compresiones cardíacas en niños de 3 meses a 2 años se efectúan con dos dedos en la mitad inferior del esternón, deprimiendo el tórax 4 cm (en lactantes) o 5 cm (en niños mayores de 2 años).
+
+En resumen, la gestión efectiva de una emergencia sanitaria, especialmente ante una parada cardiorrespiratoria, exige una aproximación sistemática que incluye una valoración inicial rápida (ABCDE), la aplicación de maniobras de soporte vital básico adaptadas a la edad del paciente y a las circunstancias específicas (embarazo, hipotermia, electrocución, ahogamiento), y una reevaluación continua del estado del paciente. La precocidad en la actuación, la seguridad del equipo y la minimización de las interrupciones en las compresiones son pilares fundamentales para mejorar el pronóstico de supervivencia.

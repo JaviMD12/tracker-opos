@@ -1,0 +1,114 @@
+## Caracterización y Gestión de Incidentes con Sustancias NRBQ
+
+La gestión de incidentes que involucran sustancias nucleares, radiológicas, biológicas y químicas (NRBQ) requiere un conocimiento profundo de sus propiedades y un enfoque metodológico riguroso. Este ámbito, de creciente relevancia social, exige una intervención integral y coordinada entre diversas administraciones y cuerpos de emergencia. La valoración inicial del siniestro es fundamental para definir el plan de acción, considerando la identificación de los materiales peligrosos, su impacto potencial y las medidas de seguridad necesarias para los intervinientes y el entorno afectado.
+
+### Recipientes y Contenedores para el Transporte de Mercancías Peligrosas
+
+El transporte y almacenamiento de sustancias peligrosas se realiza en diversos tipos de recipientes y contenedores, cuyas características varían según la naturaleza de la mercancía, su estado físico y las condiciones de presión y temperatura. La normativa, como el Acuerdo Europeo sobre Transporte de Mercancías Peligrosas por Carretera (ADR), el Reglamento Internacional sobre el Transporte de Mercancías Peligrosas por Ferrocarril (RID) y el Código Marítimo Internacional de Mercancías Peligrosas (IMDG), establece requisitos estrictos para su diseño, fabricación y señalización.
+
+Los **bultos** constituyen una modalidad de transporte donde las mercancías peligrosas se envasan en recipientes como cajas, botellas o jerricanes. Los **contenedores cisterna** son depversos depósitos que pueden ser fijos o desmontables, diseñados para el transporte de gases o líquidos a granel, mientras que el **transporte a granel** se refiere al traslado de sólidos sin envasar.
+
+Existen diversas clasificaciones de recipientes en función de su forma y capacidad. Los **bidones**, cilíndricos y de fondo plano o combado, suelen fabricarse en metal o plástico, con una capacidad máxima de 400 kg. Los **jerricanes** son recipientes rectangulares o poligonales, también de metal o plástico, con capacidades de 60 a 120 litros. Las **cajas** son contenedores con lados compactos, de metal, madera, cartón o plástico, con una capacidad máxima de 400 kg, excepto si son de plástico expandido, que se limita a 60 kg. Adicionalmente, se emplean **sacos** flexibles de papel, plástico o textil con una capacidad máxima de 50 kg, y **embalajes compuestos** que integran un recipiente interior (plástico, vidrio, porcelana o gres) con un embalaje exterior (metal, cartón, madera). Los **embalajes metálicos ligeros** son recipientes circulares o poligonales de metal con paredes delgadas.
+
+Un tipo de contenedor de gran relevancia son los **Grandes Recipientes para Mercancías a Granel (GRG o IBC)**, que son embalajes rígidos o flexibles transportables, excluyendo ciertas materias radiactivas o gases envasados. Estos tienen una capacidad que no supera los 3 m³ para sólidos y líquidos de los grupos de embalaje II y III, 1,5 m³ para sólidos del grupo I en GRG flexibles, o 3 m³ para sólidos del grupo I en GRG metálicos, y 3 m³ para materias radiactivas de clase 7. Están diseñados para resistir los esfuerzos de manipulación y transporte.
+
+Los **aerosoles** o "generadores de aerosol" son recipientes no recargables de metal, vidrio o plástico que contienen un gas comprimido, licuado o disuelto, con un dispositivo de descarga para expeler su contenido. Su capacidad máxima es de 1000 ml para metal y 500 ml para sintéticos o vidrio. Los **recipientes a presión** específicos para gases, como botellas o bloques de botellas, están fabricados para almacenar fluidos a altas presiones y pueden ser metálicos o, en cantidades pequeñas, de vidrio. Los **bloques de botellas** agrupan múltiples botellas mediante una tubería colectora y un armazón metálico. Los **tubos** son recipientes a presión sin soldaduras, con capacidad entre 150 y 3000 litros. Los **recipientes criogénicos** son aislados térmicamente para gases licuados refrigerados, con capacidad máxima de 1000 litros y con presión y capacidad indicadas en la parte inferior. Finalmente, los **bidones a presión** son recipientes transportables soldados con capacidad entre 150 y 1000 litros.
+
+### Rotura de Recipientes y Contenedores: Causas y Consecuencias
+
+Uno de los peligros más significativos en incidentes con mercancías peligrosas es el estallido de recipientes, que puede deberse a **sobrepresión** o **proyección de fragmentos**. Las explosiones, sean por ignición de nubes de vapor o por estallido de recipientes, generan una onda de presión que se propaga en el ambiente, causando daños.
+
+Las causas de **sobrepresión** incluyen:
+- **Incendio externo**: El calor externo aumenta la presión interna, limitando la capacidad de absorción del fluido y del aislamiento.
+- **Efectos ambientales**: La radiación solar o cambios de temperatura y presión atmosférica pueden alterar la presión interna o el flujo de venteo, pudiendo provocar la ruptura si se excede la dilatación de la fase líquida o si no se respeta el grado de llenado.
+- **Actuaciones incorrectas**: Un manejo inadecuado de válvulas, la adición de sustancias incorrectas o una operación intermitente pueden generar sobrepresión.
+- **Fallos de instrumentación**: Un mal funcionamiento de dispositivos de control automático puede causar sobrepresión.
+- **Fallos de válvulas**: Los fallos mecánicos de las válvulas también pueden conducir a situaciones de sobrepresión.
+
+Cuando el sistema de alivio de presión no logra compensar el aumento de presión, se produce una explosión.
+
+La **proyección de fragmentos** ocurre por el estallido de contenedores, lanzando piezas a grandes distancias que pueden causar daños severos a personas, edificios y estructuras. Estos fragmentos pueden ser primarios (del recipiente afectado) o secundarios (de estructuras impactadas). La magnitud y el número de fragmentos dependen de la energía interna del fluido, la causa de la rotura y la forma del contenedor. Las roturas pueden ser **dúctiles** (grandes fragmentos, alto potencial de daño) o **frágiles** (pequeños fragmentos).
+
+En los depósitos cilíndricos, la rotura se inicia axialmente y se propaga circularmente, proyectando los extremos semiesféricos. Un 75% de los estallidos cilíndricos generan un promedio de 2,7 fragmentos. En esferas de etileno se han observado hasta 7 fragmentos con masas de 46.000 kg, y en algunos casos hasta 35.
+
+### Reconocimiento e Identificación de Sustancias Peligrosas
+
+El reconocimiento e identificación de las sustancias peligrosas involucradas en una emergencia es un paso crítico para adoptar los protocolos de seguridad adecuados y determinar los peligros potenciales. Esta valoración inicial, que puede realizarse a distancia, es vital para la seguridad de los intervinientes y la población.
+
+Entre los elementos de identificación más comunes se encuentran:
+
+1.  **Panel Naranja**: Se trata de una placa retroreflectante rectangular (40 cm de base por 30 cm de altura, con un borde negro de 1,5 cm) que debe estar fijada en la parte delantera y trasera de los vehículos, y a veces en los costados. Indica el número de identificación de peligro (NIP) en la parte superior y el número ONU en la inferior. Resiste el fuego durante 15 minutos si la materia transportada es inflamable. En contenedores, CGEM y cisternas portátiles que transportan sólidos a granel, este panel puede ser sustituido por una hoja autoadhesiva o pintura. Para materias radiactivas en uso exclusivo, solo se requiere el número ONU. Si no hay suficiente espacio, las dimensiones pueden reducirse.
+
+2.  **Placas y Etiquetas de Peligro**: Estos elementos, generalmente cuadrados apoyados sobre uno de sus vértices (10x10 cm), se colocan en los bultos y en los contenedores o cisternas. Su finalidad es señalizar la mercancía peligrosa y sus riesgos asociados. Si un bulto implica múltiples peligros, se colocarán varias etiquetas una al lado de la otra.
+
+3.  **Número de Identificación de Peligro (NIP) o Código Kemler**: Es un número de dos o tres dígitos que identifica los principales peligros de la materia. Se sitúa en la parte superior del panel naranja.
+    -   El **primer dígito** indica el riesgo principal.
+    -   El **segundo y tercer dígito** detallan riesgos adicionales o una intensificación del riesgo principal si se repite.
+    -   La letra "X" antes del NIP indica que la materia reacciona peligrosamente con el agua.
+    -   Para las mercancías de Clase 1 (explosivos), el NIP se compone del número de la división y la letra del grupo de compatibilidad.
+
+    Los significados de los dígitos del NIP son:
+    -   **1**: Emanación de gases por presión o reacción química.
+    -   **2**: Inflamabilidad de líquidos o gases, o líquidos susceptibles de autocalentamiento.
+    -   **3**: Inflamabilidad de sólidos, o sólidos susceptibles de autocalentamiento.
+    -   **4**: Comburente (favorece el incendio).
+    -   **5**: Toxicidad o riesgo de infección.
+    -   **6**: Radiactividad.
+    -   **7**: Corrosividad.
+    -   **8**: Peligro de reacción violenta espontánea (explosión, descomposición, polimerización, desprendimiento de calor o gases inflamables).
+    -   **9**: Peligros diversos para el medio ambiente o transportadas en caliente.
+
+    Existen **NIP especiales** con significados particulares, como:
+    -   **22**: Gas licuado refrigerado, asfixiante.
+    -   **323**: Líquido inflamable, reacciona con agua desprendiendo gases inflamables.
+    -   **333**: Líquido pirofórico.
+    -   **362**: Líquido inflamable, tóxico, reacciona con agua emitiendo gases inflamables.
+    -   **382**: Líquido inflamable, corrosivo, reacciona con agua desprendiendo gases inflamables.
+    -   **423**: Sólido reacciona con agua desprendiendo gases inflamables, o sólido inflamable reacciona con agua, emitiendo gases inflamables, o sólido que experimenta calentamiento espontáneo y reacciona con agua emitiendo gases inflamables.
+    -   **44**: Sólido inflamable que, a temperatura elevada, se encuentra en estado fundido.
+    -   **446**: Sólido inflamable y tóxico que, a temperatura elevada, se encuentra en estado fundido.
+    -   **462**: Sólido tóxico, reacciona con agua desprendiendo gases inflamables.
+    -   **482**: Sólido corrosivo, reacciona con agua desprendiendo gases inflamables.
+    -   **539**: Peróxido orgánico inflamable.
+    -   **606**: Materia infecciosa.
+    -   **623**: Materia tóxica líquida, reacciona con agua desprendiendo gases inflamables.
+    -   **642**: Materia tóxica sólida, reacciona con agua desprendiendo gases inflamables.
+    -   **823**: Materia corrosiva líquida, reacciona con agua desprendiendo gases inflamables.
+    -   **842**: Materia corrosiva sólida, reacciona con agua desprendiendo gases inflamables.
+    -   **90**: Materia peligrosa desde el punto de vista medioambiental, materias peligrosas diversas.
+    -   **99**: Materias peligrosas diversas transportadas en caliente.
+
+4.  **Número ONU**: Es un código numérico de cuatro dígitos establecido por las Naciones Unidas e incorporado en el ADR, que identifica de manera única una sustancia o mercancía peligrosa para su transporte. Algunos números ONU comunes en la industria incluyen Gasolina (UN 1203), Acetona (UN 1090), Carburo de Calcio (UN 1402), Peróxido de Hidrógeno estabilizado (UN 2015), Ácido Clorhídrico (UN 1789) y Ácido Sulfúrico (UN 1830).
+
+5.  **Lugar del Incidente o Emergencia**: La ubicación del siniestro, ya sea en transporte o en instalaciones industriales/almacenaje, proporciona indicios rápidos sobre los productos peligrosos involucrados y sus riesgos. La Herramienta de Evaluación Ambiental Rápida (FEAT) de la ONU ayuda a identificar impactos agudos y potenciales a largo plazo. Se distinguen cinco zonas: uso industrial, producción, almacenamiento, transporte y uso particular.
+
+6.  **Logotipo Corporativo**: Las marcas o logotipos de las empresas pueden proporcionar información sobre las sustancias que producen o transportan.
+
+7.  **Señales y Colores**: Los pictogramas y colores facilitan la identificación rápida e intuitiva de peligros. Las tuberías se señalizan cromáticamente según la norma DIN 2403, utilizando un color básico para la naturaleza del fluido y uno complementario para su estado (gas, líquido, sólido). La ojiva de las botellas de gas también indica el riesgo principal del gas mediante colores específicos (verde para argón/inerte, rojo para inflamable, azul claro para oxidante, amarillo para tóxico/corrosivo). Los sentidos (vista, oído, olfato) también pueden aportar información útil, aunque se priorizan las protecciones personales.
+
+8.  **Documentos**: La carta de porte (ADR), las fichas de datos de seguridad (MSDS) y las fichas de intervención son documentos esenciales para identificar la materia, sus características físico-químicas, riesgos y medidas de seguridad. Estos documentos deben estar disponibles y ser accesibles en el lugar del incidente.
+
+### Nivel de Protección Personal y Equipamiento en Intervenciones NRBQ
+
+La protección del personal es primordial en cualquier intervención NRBQ. Los equipos de protección individual (EPI) se clasifican en categorías (I, II, III) según el riesgo. Para protección química, los trajes se categorizan según su resistencia a la permeación y penetración de gases o líquidos.
+
+Los **trajes de protección química** se clasifican por su resistencia a la permeación (paso de sustancia a nivel molecular) y penetración (paso físico). La normativa europea actual (ISO 13688:2013) y la española (RD 1407/92) establecen los requisitos generales y específicos.
+-   **Tipo 1 y 2**: Protegen contra gases y vapores. El Tipo 1 es hermético, encapsulado y puede tener suministro de aire interior (Tipo 1A) o exterior (Tipo 1B, 1C). El Tipo 2 no es hermético pero previene la penetración.
+-   **Tipo 3 y 4**: Protegen contra líquidos (resistentes a la permeación). El Tipo 3 es hermético a líquidos a presión, mientras que el Tipo 4 protege contra salpicaduras y pulverizaciones.
+-   **Tipo 5**: Protegen contra partículas sólidas en suspensión.
+-   **Tipo 6**: Protegen contra pulverizaciones ligeras de líquidos.
+
+El **marcado CE** en los trajes indica conformidad con la normativa. Además, se incluyen pictogramas normalizados y advertencias de "NO REUTILIZAR" para desechables.
+
+Los **guantes de protección** deben ser dieléctricos y resistentes a productos químicos, al igual que las **botas de seguridad** con puntera de acero y suela antiperforación. Se requiere **protección respiratoria autónoma (ERA)** en zonas de riesgo, y otros equipos como detectores de gases, medidores de pH y radiámetros portátiles para evaluar la contaminación y radiación.
+
+El equipamiento y las herramientas específicas para incidentes NRBQ incluyen:
+-   **Equipos de tracción y arrastre**: Tractel y cabrestante.
+-   **Equipos de elevación**: Cojines neumáticos y cilindros hidráulicos.
+-   **Equipos de corte mecánico**: Sierras circulares, discos de diamante, oxicorte.
+-   **Equipos de perforación**: Martillos rotativos.
+-   **Herramientas de taponamiento y sellado**: Vendas, lanzas y kits de sellado de fugas, cuñas de madera o teflón, parches de acero magnético, pastas selladoras.
+-   **Contención y trasvase**: Piscinas hinchables para líquidos peligrosos, contenedores de recogida de PRFV (Poliéster Reforzado con Fibra de Vidrio) para líquidos agresivos, cojines hermetizadores de alcantarilla, bombas peristálticas para líquidos explosivos/inflamables.
+-   **Herramientas antichispas**: De aluminio, bronce o cobre berilio para trabajar con sólidos o líquidos inflamables sin riesgo de ignición.
+
+La elección del traje y equipamiento depende de la sustancia, el grado de exposición, el tiempo de intervención y la concentración del contaminante. Es fundamental mantener el equilibrio entre rapidez y seguridad para minimizar la exposición y los riesgos.

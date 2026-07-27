@@ -1,0 +1,57 @@
+## Equipos de Medición Eléctrica y Otros Dispositivos de Intervención
+
+Para garantizar la seguridad y eficacia en las operaciones de bomberos y emergencias, resulta imprescindible el uso de equipos de medición eléctrica y otros elementos auxiliares específicos. Estos dispositivos permiten diagnosticar situaciones de riesgo, asegurar un correcto funcionamiento de la maquinaria y manipular entornos con presencia de electricidad o productos peligrosos.
+
+### Pinza Amperimétrica
+
+La **pinza amperimétrica** es un instrumento fundamental para la medición de corriente eléctrica. Su principal característica radica en que permite medir la intensidad de corriente de forma indirecta, sin necesidad de abrir el circuito eléctrico. Este método, basado en la captación del campo magnético generado por la circulación de corriente, resulta intrínsecamente seguro para el operador, incluso al medir en cables aislados sin necesidad de retirar su recubrimiento.
+
+Este equipo debe cumplir con la **normativa EN61010-1**, que establece los requisitos generales de seguridad para equipos eléctricos de medida, control y uso en laboratorio.
+
+#### Funcionamiento y Uso
+
+Para una medición precisa con la pinza amperimétrica, es crucial pasar un **único conductor** a través de la sonda. Si se intentan medir varios conductores simultáneamente, el resultado será la suma vectorial de las corrientes, lo que puede llevar a lecturas erróneas si las fases son opuestas (por ejemplo, en un cable paralelo de dos conductores con corrientes idénticas y fases contrarias, la lectura sería cero).
+
+El proceso para **medir corriente alterna (AC)** implica seleccionar el rango adecuado (200A o 600A), presionar el gatillo para abrir las garras, atrapar el conductor asegurándose de que esté centrado para optimizar la precisión, y registrar la lectura en pantalla. Para la **medición de voltaje AC**, se selecciona el rango (200V o 600V), se conectan las puntas de prueba (roja en "V/Ω" y negra en "COM"), y se tocan los puntos del circuito a medir, registrando el valor en pantalla. Es importante mantener las garras de la pinza completamente cerradas durante la medición del voltaje para evitar imprecisiones; asimismo, es normal que las garras zumben con corrientes elevadas sin que esto afecte la precisión.
+
+#### Seguridad y Mantenimiento
+
+Es vital observar estrictas **medidas de seguridad** al usar la pinza amperimétrica. No debe utilizarse en circuitos con tensiones superiores a 600V AC para evitar descargas y daños por calentamiento del equipo. Las garras transformadoras son de acero y no están aisladas, por lo que se debe extremar la precaución para evitar cortocircuitos. Antes de cualquier medición de corriente, deben retirarse las puntas de prueba. Asimismo, está prohibido abrir el compartimento de las baterías mientras se realizan mediciones y, para su reemplazo, el interruptor de rango debe estar en la posición OFF y las puntas deben estar desconectadas del instrumento.
+
+El **mantenimiento** de la pinza amperimétrica incluye el reemplazo de fusibles cuando sea necesario, notificar cualquier anomalía al servicio técnico y asegurar que las tapas y tornillos estén bien sujetos. La limpieza debe realizarse con un paño húmedo y un detergente acuoso, evitando disolventes o abrasivos. Para su transporte, debe guardarse en un maletín de riesgo eléctrico.
+
+### Polímetro
+
+El **polímetro**, también conocido como multímetro u óhmetro en el caso de mediciones de resistencia, es un instrumento versátil que permite verificar el correcto funcionamiento de un circuito eléctrico, midiendo tensiones (alternas y continuas), corrientes y resistencias. Existen dos tipos principales: los **digitales**, que ofrecen lecturas exactas en pantalla y son más precisos, y los **analógicos**, donde una aguja marca el valor medido.
+
+Entre sus **componentes** se encuentran la pantalla de cristal líquido, el interruptor de conexión/desconexión, diversas escalas para medir resistencias, intensidades y tensiones, zócalos para mediciones específicas, bornes de conexión (COM y otros según la magnitud a medir) y un selector de funciones y escalas. Las puntas de prueba se conectan en los bornes inferiores, con la punta negra siempre en el borne común (COM) y la roja en el borne correspondiente a la magnitud que se desea medir (generalmente VΩHz para tensión y resistencia, y un borne específico para corriente).
+
+La **normativa** que regula estos dispositivos es la EN CAT III 1000 V y CAT IV 600 V, junto con la IEC/EN61010-1, que establecen los requisitos de seguridad para equipos eléctricos de medida y control.
+
+#### Medición y Comprobación
+
+Para **medir resistencias**, el primer paso es desconectar los terminales del circuito y aislar la resistencia de la alimentación eléctrica. Luego, se conectan las puntas de prueba (negra en COM, roja en VΩHz) y se sitúa el selector en el rango adecuado de resistencia. La pantalla mostrará "1" si no hay conexión y "0" si las puntas se tocan, indicando continuidad.
+
+Para **medir tensiones**, se verifica que el circuito esté conectado y cerrado. Las puntas de prueba se conectan de manera similar (negra en COM, roja en VΩHz) y el selector se ajusta a la escala de tensión continua o alterna que sea superior al valor máximo esperado. La pantalla mostrará "0.00", y el valor se leerá al tocar los puntos del circuito. Un signo negativo indica que las puntas están invertidas.
+
+En la **medición de intensidades de corriente**, se conectan las puntas (negra en COM, roja en el borne de 10 A), se selecciona la escala de intensidad adecuada y se abre el circuito a medir para insertar el polímetro en serie, tocando los extremos libres con las puntas. Si la lectura es inferior a 0.2A, las puntas se trasladan al borne de mA y se ajusta la escala en la zona de medida de corrientes continuas. Es fundamental empezar siempre en la escala de 10 A si no se conoce la magnitud de la corriente para evitar daños en el fusible de protección.
+
+La **comprobación de continuidad** se realiza desconectando el circuito y su alimentación, conectando las puntas en COM y VΩHz, y colocando el selector en el símbolo de nota musical y diodo. Al tocar los extremos del circuito, un pitido confirmará continuidad si la resistencia es inferior a 50Ω.
+
+#### Precauciones y Mantenimiento del Polímetro
+
+Las **precauciones de seguridad** en el uso del polímetro incluyen inspeccionar la carcasa y los cables de prueba en busca de daños o aislamiento defectuoso antes de cada uso. No se debe utilizar el medidor si presenta anomalías o en ambientes con gases inflamables o explosivos, ni exceder los límites de tensión o corriente marcados. Es importante seleccionar siempre el rango de medición apropiado y retirar las baterías si el equipo no se usará por un tiempo prolongado.
+
+Para el **mantenimiento**, se deben reemplazar los fusibles y las baterías cuando sea necesario. Ante cualquier anomalía, es fundamental contactar al servicio técnico. El equipo debe limpiarse con un paño húmedo y detergente acuoso, sin disolventes ni abrasivos, y transportarse y almacenarse en su maletín de riesgo eléctrico, lejos de temperaturas extremas o campos magnéticos.
+
+### Otros Elementos de Intervención Eléctrica
+
+Además de los equipos anteriores, existen otros elementos esenciales para la intervención con riesgo eléctrico:
+
+*   La **cinta aislante**, fabricada con materiales termoplásticos como PVC o polietileno, es un material aislante y adherente utilizado para recubrir conductores eléctricos y aislar empalmes. Debe cumplir con normativas como IEC 60454-3 y NTC, y se encuentra disponible en negro para exteriores y en varios colores para interiores.
+
+*   El **juego de clemas** son conectores eléctricos diseñados para aprisionar cables con tornillos. Son de uso común en el cableado eléctrico para conectar enchufes, interruptores y aparatos.
+
+*   Las **empuñaduras para quitar fusibles** están fabricadas en baquelita o materiales similares y están diseñadas para soportar tensiones de hasta 5000 V, aunque su uso se limita a 1000 V. Su función principal es retirar fusibles tipo cuchilla, especialmente en cajas generales de protección, protegiendo al usuario de quemaduras por arcos voltaicos.
+
+*   La **llave de cruz aislada** es una herramienta con cuatro vasos aislados, útil para apretar tuercas en conectores aislados de perforación que presenten falsos contactos.

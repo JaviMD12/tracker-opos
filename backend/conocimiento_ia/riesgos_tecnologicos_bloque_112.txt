@@ -1,0 +1,91 @@
+# Rescate en Ascensores: Caracterización y Tácticas de Intervención
+
+La intervención en ascensores es una de las competencias fundamentales de los servicios de emergencia, especialmente en cuerpos de bomberos, donde la capacidad de respuesta rápida y segura es crucial. Un ascensor, o elevador, se define como un sistema de movilidad vertical diseñado para el transporte de personas o bienes entre diferentes niveles de altura. Su funcionamiento se basa en un conjunto integrado de componentes mecánicos, eléctricos y electrónicos.
+
+## I. Tipos de Ascensores y Componentes
+
+Los ascensores se clasifican principalmente según su sistema de funcionamiento en eléctricos (o de adherencia) e hidráulicos. Cada tipo presenta particularidades que influyen en las tácticas de rescate.
+
+### 1. Ascensores Eléctricos (de Adherencia)
+
+Estos ascensores utilizan la corriente eléctrica como fuente de energía para sus motores y sistemas de regulación de paradas. El movimiento se logra mediante la adherencia de cables de acero (o cintas planas) a una polea motriz.
+
+**Componentes clave en el cuarto de máquinas (si existe):**
+*   **Motor-reductor:** Grupo tractor que convierte la energía eléctrica en movimiento, acoplado a un reductor de velocidad. Los motores suelen ser de corriente alterna (una o dos velocidades) y pueden incorporar variadores de frecuencia.
+*   **Polea motriz:** Elemento donde los cables de acero se adhieren y se mueven sin deslizamiento, independientemente de la carga de la cabina.
+*   **Volante:** Parte manual del sistema que permite el ascenso y descenso de la cabina durante las maniobras de rescate sin corriente eléctrica.
+*   **Freno:** Ubicado en el eje del motor, bloquea el ascensor en subida o bajada. Sus zapatas permanecen bloqueadas en reposo y se desbloquean mediante un electroimán durante el funcionamiento normal, requiriendo activación manual en rescates sin corriente.
+*   **Limitador de velocidad:** Dispositivo que detiene la cabina, si supera una velocidad predeterminada, mediante un paracaídas o sistema de acuñamiento. Incorpora un contacto eléctrico que desconecta el motor. Consta de dos poleas (una en máquinas y otra en foso) conectadas por un cable de acero que une la cabina a las cuñas de acuñamiento, siendo independiente de los cables de tracción.
+*   **Cuadro de maniobras:** Aloja los componentes eléctricos y electrónicos (relés, contadores, cableado, etc.) que controlan el funcionamiento del ascensor. En su interior pueden existir tensiones de 230 V a 400 V, por lo que se debe evitar el contacto sin aislamiento.
+*   **Cuadros de distribución de corriente:** Contienen elementos de protección contra cortocircuitos y derivaciones. Su ubicación es vital para el corte de energía.
+
+En los modelos más modernos que **carecen de cuarto de máquinas**, la maquinaria se ubica en la parte superior o inferior del hueco del foso.
+
+### 2. Ascensores Hidráulicos
+
+Estos ascensores funcionan impulsando un fluido a presión hacia un pistón que, a su vez, mueve la cabina. Son comunes en lugares donde el control del ruido o el espacio son factores importantes, y operan a velocidades bajas (entre 0,1 y 1,75 m/s).
+
+**Tipologías de impulsión:**
+*   **Impulsión directa o tracción directa 1:1:** El pistón se desplaza la misma distancia que la cabina, requiriendo un foso profundo.
+*   **Impulsión directa lateral:** El pistón se conecta a la parte superior de la cabina, y el cilindro se sitúa en el fondo del foso. Adecuados para cargas moderadas y recorridos cortos.
+*   **Impulsión diferencial o tracción indirecta 2:1:** Por cada centímetro de recorrido del pistón, la cabina se desplaza dos centímetros, gracias a un sistema de poleas y cables que duplican el recorrido. No requiere foso profundo, ya que el pistón se instala lateralmente.
+*   **Sistema de doble impulsión directa e indirecta lateral:** Utilizado en montacargas para grandes cargas y recorridos cortos.
+
+### 3. Partes Comunes y Elementos de Emergencia
+
+Todos los ascensores comparten ciertos elementos estructurales y de seguridad:
+*   **Recinto o hueco:** Espacio vertical por donde se desplazan la cabina y el contrapeso. Incluye las guías de cabina (perfiles laminados en T).
+*   **Foso:** Parte inferior del recinto, bajo el nivel de la última parada. Debe ser liso, nivelado e impermeabilizado, con profundidad suficiente para albergar los amortiguadores y permitir el espacio libre bajo la cabina (mínimo 0,5 m).
+*   **Cabina:** Recinto cerrado para el transporte.
+*   **Puertas de acceso:** Incluyen las puertas de planta y las de cabina, con diversas tipologías (batientes, telescópicas, de apertura central, con librillo). El cierre de las puertas de planta debe estar enclavado eléctrica y mecánicamente para permitir la apertura solo cuando la cabina está a nivel.
+*   **Contrapeso:** Presente en ascensores eléctricos e hidráulicos, reduce la potencia requerida del motor. Su peso se calcula como el de la cabina más un 45% adicional. Es fundamental conocer el número de personas en cabina, ya que afecta la tensión de los cables y el equilibrio.
+*   **Cables de tracción:** Unen la cabina con el contrapeso a través de la polea. La falta de tensión en estos cables indica un posible acuñamiento.
+*   **Cordones de maniobras:** Cables eléctricos o de señalización para controlar las funciones del ascensor.
+
+**Elementos de emergencia:**
+*   **Instrucciones de rescate:** Obligatorias en el cuarto de máquinas o cuadro de maniobras para asegurar un rescate seguro.
+*   **Pulsador de bomberos:** En ascensores de emergencia, un microrruptor activa una señal al cuadro de maniobras. Si el ascensor sube, se detiene en el siguiente piso; si baja, continúa hasta la planta principal. Atiende llamadas interiores y anula las exteriores.
+*   **Caja de llaves de emergencia:** Contiene las llaves de la sala de máquinas o de la puerta de planta. La normativa prohíbe las cajas rojas con llaves de hueco por el riesgo de caída al vacío.
+*   **Faldones de cabina:** Chapas bajo la puerta de cabina que cubren el hueco entre pisos, con longitud total de 750 mm (la parte fija al menos 200 mm). Deben tener un cartel de precaución sobre su extensión.
+*   **Alumbrado de emergencia:** Obligatorio en cabina, funciona de forma independiente al automático principal en caso de fallo eléctrico.
+*   **Tele-alarma / Servicio 24 horas:** Obligatorio en España desde 1999, permite la comunicación cabina-exterior.
+
+## II. Causas Principales de Intervención en Ascensores
+
+Las principales causas que motivan la intervención de los bomberos en ascensores incluyen:
+
+1.  **Paradas de cabina fuera de nivel:** El ascensor funciona, pero se detiene entre plantas. Si la cabina está a nivel o muy cerca, se usa el desenclave de puertas. Si está muy lejos del nivel, es necesario mover la cabina.
+2.  **Personas o mercancías atrapadas:** Ocurre cuando alguien queda atrapado entre las puertas de la cabina y la planta, o entre el piso de la cabina y la pared del hueco. A menudo, requiere mover la cabina con cojines neumáticos.
+3.  **Personas o mercancías precipitadas por el hueco:** Generalmente debido a fallos en el faldón de la cabina (ausencia, no despliegue completo, fallos en anclajes). El rescate se realiza con máximas medidas de seguridad.
+4.  **Inundaciones en el foso:** Requiere cortar la corriente eléctrica de inmediato y usar bombas para desalojar el agua. Es fundamental tener precaución con los elementos eléctricos del foso que puedan seguir bajo tensión.
+5.  **Ascensor acuñado:** El limitador de velocidad detiene la cabina fuera de nivel. Si la cabina está a nivel, se utiliza el desenclave de puertas. Si no, se requiere liberar el acuñamiento, a menudo moviendo la cabina con el volante (en ascensores electromecánicos) o subiendo el pistón (en hidráulicos).
+
+## III. Tácticas de Intervención
+
+La intervención en ascensores debe seguir un protocolo estructurado, priorizando la seguridad y la eficacia.
+
+### 1. Procedimiento General de Actuación
+
+Antes de cualquier acción, es indispensable establecer una comunicación clara con la persona atrapada para conocer su estado físico y psicológico. Se debe transmitir calma y explicar las maniobras a realizar (movimientos a saltos, posibles cortes de luz), indicando a los atrapados que mantengan las puertas de cabina cerradas, se alejen de ellas y no toquen botones. Simultáneamente, se valora el tipo de ascensor (eléctrico o hidráulico, con o sin cuarto de máquinas), la posición de la cabina (verificando la tensión de los cables), y los riesgos (electrocución, caídas, atrapamientos). Esta evaluación debe ser continua.
+
+El protocolo general de actuación se articula en un flujo de decisiones:
+*   **Si es posible y segura la puesta en marcha normal del ascensor:** Se pone en marcha y se rescata a las víctimas.
+*   **Si no es posible la puesta en marcha normal, pero el rescate es posible sin mover la cabina:** Se corta el suministro eléctrico, se verifica la ausencia de tensión y se rescata a las víctimas.
+*   **Si no es posible lo anterior, y el ascensor no tiene cuarto de máquinas, pero es posible mover la cabina con el sistema eléctrico de emergencia:** Se mueve la cabina con dicho sistema y se rescata a las víctimas.
+*   **Si tampoco es posible lo anterior, y es posible mover la cabina sin corriente eléctrica** (por acuñamiento, fuera de guías o mecanismo dañado): Se corta la corriente, se verifica su ausencia, se mueve la cabina manualmente y se rescata.
+*   **Si ninguna de las opciones anteriores es viable:** Se procede con un rescate no ordinario, que puede implicar liberar la cabina y moverla, o si no es posible manualmente, esperar a la empresa de mantenimiento.
+
+### 2. Uso del Ascensor como Medio de Evacuación en Incendios
+
+Aunque la norma general prohíbe el uso de ascensores en caso de incendio, se recomienda una valoración específica para determinar su conveniencia como vía de evacuación.
+*   **Indicaciones favorables:** Incendio localizado lejos de la zona del ascensor, necesidad de aliviar la evacuación de personas con movilidad reducida o de avanzada edad para evitar pánico o embotellamientos en escaleras.
+*   **Indicaciones desfavorables:** Temperaturas elevadas (400°C en cuarto de máquinas o 700°C en cara exterior de puertas de piso), o presencia de agua en el ascensor.
+
+## IV. Casos Prácticos de Rescate
+
+### 1. Ascensor Electromecánico Detenido con Personas Atrapadas (con cuarto de máquinas, sin sistema de emergencia)
+
+**Situación:** Grupo de personas atrapadas en un ascensor electromecánico con cuarto de máquinas. La cabina tiende a descender.
+**Procedimiento de rescate (movimiento manual sin corriente):**
+1.  **Corte de suministro:** Se corta la corriente eléctrica en el cuarto de máquinas y se verifica su ausencia.
+2.  **Comunicación

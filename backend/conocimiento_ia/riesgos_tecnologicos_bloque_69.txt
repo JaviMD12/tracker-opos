@@ -1,0 +1,70 @@
+## Técnicas de Estabilización de Sistemas Constructivos y del Terreno para Operaciones de Emergencia
+
+Las operaciones de estabilización en contextos de emergencia, como las llevadas a cabo por bomberos, buscan prioritariamente garantizar la seguridad de las personas y de las estructuras afectadas, mitigando riesgos de colapso y efectos dominó en edificaciones colindantes. Estas técnicas se dividen principalmente en entibaciones, destinadas a la estabilización del terreno bajo la rasante, y apeos, enfocados en estructuras sobre la rasante, además de incluir demoliciones controladas en casos de imposibilidad de estabilización.
+
+### Entibaciones: Estabilización del Terreno
+
+La entibación es una técnica de apeo provisional específicamente diseñada para estabilizar el terreno que presenta riesgo de desplazamiento, ya sea por inestabilidad natural o inducida por excavaciones como zanjas, pozos o galerías. Su objetivo primordial es asegurar la estabilidad volumétrica de las tierras cercanas a una excavación, prevenir el sepultamiento de los operarios que trabajan en cotas bajas y evitar daños a edificaciones o viales próximos. Esta técnica se aplica cuando el terreno carece de la resistencia necesaria para mantener su equilibrio o si su ángulo de rozamiento es inferior al talud natural.
+
+**Componentes Fundamentales de una Entibación:**
+Las entibaciones se componen de tres elementos básicos:
+1.  **Travesaños, largueros o velas:** Son piezas verticales que se adosan a las paredes de la zanja y están diseñadas para absorber tensiones por flexión.
+2.  **Tablas o cabeceros:** Elementos horizontales que contactan directamente con el terreno. Recogen las cargas de los largueros y las transmiten a los codales.
+3.  **Codales:** Piezas horizontales que trabajan a compresión, contrarrestando los empujes del terreno entre los paramentos verticales de la excavación.
+
+**Tipologías de Entibaciones en Zanjas:**
+Según la morfología de la entibación y las características del terreno, se distinguen:
+*   **Entibación cuajada:** Característica de terrenos de baja cohesión y con presencia frecuente de agua, donde la superficie del terreno está revestida al 100% mediante cabeceros, largueros y codales.
+*   **Entibación semicuajada:** Utilizada en terrenos con mayor cohesión, cubre aproximadamente el 50% de la superficie del terreno.
+*   **Entibación ligera:** Empleada en terrenos con un alto ángulo de rozamiento y gran cohesión, se compone solo de largueros y codales, sin necesidad de cabeceros.
+
+**Métodos de Ejecución de Entibaciones:**
+La ejecución de entibaciones puede seguir diferentes métodos:
+*   **Método "Pronto":** Implica el montaje de marcos (velas y cabeceros) en superficie para luego introducirlos en la zanja con ayuda de grúas o manualmente, acodalando desde arriba.
+*   **Método "Quillery":** Consiste en la introducción de las piezas una a una en la zanja, método adecuado para profundidades de hasta 3,50 metros en terrenos de buena cohesión. Si la profundidad excede los 2-2,50 metros, la entibación se realiza en dos fases.
+
+**Consideraciones para Entibaciones en Pozos:**
+En pozos, la entibación busca reproducir el intradós de la cavidad para estabilizar el terreno o permitir el acceso. La rigidez se logra mediante codales trapeados, y aunque los pandeos son menos probables debido a las dimensiones reducidas, la lentitud y disponibilidad de los sistemas tradicionales (tableros de encofrado y anillos) hacen que se prioricen los tablones de madera y/o puntales metálicos.
+
+**Profundidad de Entibado y Normativa:**
+Según la NTP 278 del INSH/NTE-ADZ, se considera peligrosa una excavación de 0,80 metros en terrenos corrientes y 1,30 metros en terrenos consistentes, ya que puede oprimir el tórax de una persona. Los bomberos suelen entibar a partir de 1,30 metros si la víctima pudiera quedar cubierta (~1,50 metros), creando primero un hueco para la respiración y luego completando la entibación. En terrenos no cohesivos (gravas y arenas), la entibación es siempre obligatoria, mientras que en terrenos cohesivos (arcillas) se hace automáticamente si la zanja o pozo se encuentra a una distancia inferior al doble de su profundidad respecto a viales o cimentaciones que puedan verse afectadas.
+
+**Precauciones de Seguridad en Entibaciones:**
+Al trabajar bajo la cota del terreno, es imperativo:
+*   Identificar y examinar las instalaciones que atraviesan el suelo (agua, alta tensión, gas, etc.).
+*   No acceder a alcantarillados, pozos o aljibes sin verificar la atmósfera interior con equipos de respiración.
+*   Evitar el uso de motores de explosión en excavaciones estrechas o profundas y monitorear los gases.
+*   No almacenar materiales o arena en el borde de la excavación.
+*   Disponer siempre de una escalera como vía de escape.
+*   Asegurar que los paneles se coloquen verticalmente y los codales a 90º respecto a ellos para evitar esfuerzos verticales.
+*   Tener en cuenta que a mayor profundidad de la zanja, mayor será la presión sobre los codales inferiores.
+
+### Elementos y Herramientas para Estabilización
+
+Para la ejecución de estabilizaciones, se emplean diversos materiales y equipos.
+
+**Cables de Acero:**
+Los cables trenzados de acero son muy valorados en la industria por su alta resistencia a la tracción y su reducido diámetro, siendo óptimos para el arriostramiento de apeos. Para su unión y anclaje, se forman ojales protegidos con guardacabos metálicos para evitar deformaciones. Las secciones comúnmente utilizadas por bomberos oscilan entre 8 y 10 mm. La NTP 186 establece resistencias nominales, como 40,0 KN para cargas estáticas y 20,0 KN para cargas dinámicas en un cable de Φ10mm con configuración 6x19+1. La unión se realiza con al menos cuatro abrazaderas (para diámetros no superiores a 12mm), colocadas con una separación de 6-8 veces el diámetro del cable, asegurando un apriete gradual y alternativo y verificando tras la primera carga. Se utilizan principalmente en el arriostramiento de cubiertas y arcos para contrarrestar fuerzas horizontales, especialmente en puntos de máxima tracción.
+
+**Equipos de Medición:**
+Para una correcta ejecución de apeos y entibaciones, se utilizan herramientas como:
+*   **Cintas métricas y flexómetros:** Para medir longitudes. Los flexómetros, de menor tamaño, son ideales para mediciones rápidas.
+*   **Medidores láser:** Para distancias, superficies y volúmenes con alta precisión.
+*   **Plomadas y niveles de burbuja:** Para verificar la verticalidad y aplomo de los elementos.
+*   **Escuadras y falsas escuadras:** Para comprobar y trazar ángulos rectos o específicos.
+*   **Escantillones:** Dispositivos telescópicos de acero para calcular ángulos y longitudes.
+
+**Equipos de Corte:**
+Se emplean para preparar los materiales de estabilización:
+*   **Motosierra:** Ideal para cortes rápidos en tablones, disponible en versiones de explosión o eléctricas.
+*   **Sierra ordinaria/serrucho y sierra de costilla:** Para cortes manuales en madera, ofreciendo la sierra de costilla mayor precisión.
+*   **Formón:** Herramienta de hierro acerado con boca biselada para trabajos de corte o desbaste en madera.
+*   **Martillo percutor eléctrico:** Para demolición y perforación en estructuras.
+
+**Equipos de Unión y Separación:**
+Estas herramientas son esenciales para el montaje de las estructuras auxiliares:
+*   **Martillos de orejas y de bola:** Para fijar clavos, reajustar cuñas y corregir pequeños desplazamientos. El martillo de orejas permite extraer clavos.
+*   **Mazas con mocheta de nailon y mazos de madera:** Para percusión sobre formones y gubias.
+*   **Patas de cabra o barras de uñas:** Para desclavar objetos y actuar como palanca, muy útiles para abrir cajas de madera.
+
+La adecuada selección y manejo de estas herramientas y materiales son cruciales para una intervención segura y eficaz.

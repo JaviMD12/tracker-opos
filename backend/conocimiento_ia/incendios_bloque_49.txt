@@ -1,0 +1,51 @@
+# Protección y Clasificación de Incendios Industriales
+
+La prevención y extinción de incendios en establecimientos industriales es un campo de alta complejidad, regulado por normativas específicas que buscan garantizar la seguridad de personas, bienes y el medio ambiente. En España, el Real Decreto 2267/2004, que aprueba el Reglamento de Seguridad contra Incendios en Establecimientos Industriales (RSCIEI), y el Código Técnico de la Edificación (CTE), que incluye el artículo 11 (Seguridad en caso de incendio –SI–), son los pilares fundamentales de esta regulación. Además, el Real Decreto 393/2007, de 23 de marzo, establece la Norma Básica de Autoprotección para actividades que puedan generar emergencias.
+
+## Sistemas de Protección contra Incendios
+
+La protección en instalaciones industriales se articula mediante dos tipos de sistemas:
+
+1.  **Sistemas de protección activa:** Se enfocan en la detección temprana, la alerta y la supresión del fuego.
+    *   **Detección:** Incluye detectores automáticos sensibles a humo, llama o calor, así como mecanismos manuales como timbres de alarma.
+    *   **Alerta y señalización:** Timbres y megafonía informan sobre el incendio. La señalización lumínica utiliza letreros verdes para indicar vías de evacuación y rojos para salidas no adecuadas, complementado con iluminación de emergencia alimentada por baterías.
+    *   **Extinción:** Se emplean agentes extintores como agua, polvo, espuma o nieve carbónica, distribuidos mediante botellas portátiles o a través de tuberías que alimentan bocas de incendio, hidrantes y rociadores automáticos. Estos sistemas pueden activarse de forma manual o automática, reaccionando a temperaturas predefinidas o cambios bruscos.
+    *   **Presurización de cajas de escaleras:** Este método se aplica en edificios de mediana o gran altura para mantener una presión estática en los pasillos superior a la del exterior. De este modo, se evita la entrada de humos calientes en las vías de evacuación, lo que facilita una salida segura y previene el "efecto tobera" que podría acelerar la propagación. Los ventiladores industriales de tipo axial, con gran caudal, impulsan el aire desde la parte inferior a la superior, y es crucial mantener las puertas cortafuego cerradas y utilizar puertas pivotantes para asegurar la eficacia.
+
+2.  **Sistemas de protección pasiva:** Están integrados en el diseño y construcción del edificio, buscando facilitar la evacuación y confinar el incendio. La normativa exige anchos mínimos para pasillos, escaleras y puertas de evacuación.
+
+## Clasificación de Materiales y Estabilidad Estructural
+
+El comportamiento de los materiales frente al fuego se clasifica según la norma UNE 23727-90 en cinco grupos:
+
+*   **M0 (Incombustible):** Materiales que no arden, como piedras naturales (granito, mármol), piedras artificiales (hormigones, cerámicos) y metales (acero, aluminio).
+*   **M1 (No inflamable):** Materiales que no arden con llama, pero pueden liberar gases combustibles, como madera aglomerada ignifugada o policloruro de vinilo rígido.
+*   **M2 (Difícilmente inflamable):** Materiales que arden con dificultad, como poliéster reforzado con fibra de vidrio o moquetas de lana.
+*   **M3 (Moderadamente inflamable):** Materiales que arden moderadamente, como madera en listones gruesos o poliamidas.
+*   **M4 (Fácilmente inflamable):** Materiales que arden con facilidad, como madera aglomerada delgada o espuma de poliuretano.
+
+La **estabilidad al fuego de los elementos estructurales** es crítica en el diseño industrial y varía según el material:
+
+*   **Estructuras de acero (M0):** No arden, pero su alta conductividad térmica y coeficiente de dilatación significan que transmiten el calor rápidamente y se deforman considerablemente. Pierden resistencia a 350 °C y alcanzan el 50% de su resistencia inicial a 500 °C, entrando en un estado plástico. Esto puede causar colapso por pandeo de pilares o vuelco de muros. El enfriamiento rápido post-incendio también puede generar daños estructurales. La protección se logra mediante "forrados" aislantes (yeso, ladrillo).
+*   **Estructuras de hormigón armado (M0):** No arden y dilatan muy poco, confinando el calor a la zona afectada gracias a su baja conductividad térmica y gran masa, lo que ralentiza el aumento de temperatura (hasta tres veces más que el acero). Sin embargo, exposiciones prolongadas al calor provocan fisuras y desconchamientos, dejando las armaduras de acero expuestas y debilitando la estructura, lo que puede conducir al colapso. Su protección se basa en el recubrimiento de hormigón.
+*   **Estructuras de madera (M3):** Son combustibles y aportan carga térmica al incendio. Dilatan mínimamente y conducen mal el calor, lo que concentra el daño en la zona expuesta. Aunque ligeras, absorben mucho calor debido a su humedad. La combustión es concéntrica; la parte carbonizada pierde resistencia pero actúa como aislante, protegiendo la madera sana, la cual, con el tiempo, se debilita hasta el colapso. Se protegen con barnices intumescentes.
+
+## Clasificación y Riesgos de Incendios Industriales
+
+Los incendios industriales se clasifican según el estado de agregación y la naturaleza del combustible:
+
+1.  **Incendios de maquinaria (eléctricos y aceites):** Presentan riesgos eléctricos y de materiales peligrosos. Su origen común incluye cortocircuitos por cables gastados, sobrecarga de líneas, mantenimiento deficiente y fugas de aceites a altas temperaturas. Suelen contar con sistemas de extinción específicos.
+
+2.  **Incendios de almacenamientos de sólidos:** Su gravedad depende de la naturaleza, cantidad y continuidad del combustible. Son menos peligrosos que los de líquidos, gases o pulverulentos, ya que requieren energía para gasificarse. Las estrategias de extinción suelen ser desalimentación y ruptura de la continuidad, y en ocasiones, una quema controlada si el sólido es compacto.
+
+3.  **Incendios de líquidos y gases inflamables:** Son altamente peligrosos y devastadores debido a su inflamabilidad y poder calorífico. A menudo, resultan de fallos en medidas de prevención y pueden generar fenómenos como BLEVE (explosiones por ebullición de líquidos expansivos) o nubes tóxicas.
+    *   **Incendio de charco (Pool Fire):** Se produce por el derrame y extensión de un líquido inflamable en el suelo. Si existe un cubeto, la profundidad aumenta y la superficie de evaporación disminuye. La ignición ocurre con un punto de ignición cercano. Los vapores se diluyen en la atmósfera, y si son más densos que el aire, forman una nube inflamable que se desplaza con el viento. Si esta nube encuentra una fuente de ignición, el frente de llama retrocede hasta la fuga. La prevención implica el control estricto de puntos de ignición y el uso de herramientas antiestáticas y antideflagrantes, con zonas ATEX donde los dispositivos no certificados están prohibidos.
+    *   **Incendio de tanque (BoilOver):** Implica grandes volúmenes de combustible y es extremadamente peligroso, asociado a tanques de crudo con agua decantada en el fondo. La quema inicial consume las fracciones más volátiles, dejando una capa superficial más densa que aumenta su temperatura y espesor. Una "onda de calor" de más de 200 °C se propaga hacia abajo, vaporizando el agua y provocando una erupción violenta.
+    *   **Dardo de fuego (Jet Fire):** Ocurre por una fuga accidental de vapores o gases inflamables a alta presión. La masa de gas se mezcla con el aire desde el punto de fuga, y si la nube diluida encuentra una fuente de ignición, se forma un dardo de fuego sostenido mientras la emisión de gas o vapor persista.
+
+4.  **Incendios de materiales pulverulentos:** La velocidad de combustión es extremadamente alta debido a la gran superficie de contacto. Partículas mayores de 0,5 mm presentan una combustión rápida sin explosión, mientras que las menores de 0,5 mm son pirofóricas o explosivas, con temperaturas y energías de ignición muy bajas. La extinción requiere agentes específicos, seleccionados según la naturaleza del polvo, la ubicación y los medios disponibles.
+    *   **Agua:** Se aplica nebulizada o en fina pulverización, efectiva en polvos vegetales y sintéticos (plásticos). Su penetración es limitada en profundidades mayores a un metro, pudiendo formar barro. Los aditivos humectantes mejoran su eficacia.
+    *   **Espuma física:** Su uso es limitado, ya que no penetra en depósitos de polvo y su acción sofocante es reducida.
+    *   **Polvo químico seco:** Especialmente indicado para polvos metálicos reactivos. Su aplicación suele ser manual y se limita a incendios de pequeñas proporciones.
+    *   **Anhídrido carbónico y nitrógeno (gases inertes):** Son efectivos en masas de polvo confinadas, como en silos o bodegas. Es necesario mantener la concentración de gas o vapor durante un tiempo prolongado, con aportaciones suplementarias. Es fundamental evitar turbulencias.
+    *   **Hidrocarburos halogenados (halones):** Anteriormente usados, ahora están prohibidos en muchos países por su impacto ambiental (daño a la capa de ozono). Se reemplazan por gases inertes menos agresivos, que se mezclan rápidamente con la nube pulverulenta, inertizando el ambiente.

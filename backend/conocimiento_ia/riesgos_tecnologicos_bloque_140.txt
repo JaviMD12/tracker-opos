@@ -1,0 +1,49 @@
+# Caracterización de Sustancias en Intervenciones de Emergencia
+
+La comprensión de la **materia** y sus propiedades es fundamental para los equipos de emergencia, ya que permite valorar adecuadamente el comportamiento de sustancias químicas y seleccionar las tácticas de mitigación más apropiadas en cada siniestro. La materia se define como todo aquello que posee masa y ocupa un volumen, presentándose en tres **estados de agregación**: sólido, líquido y gaseoso. La transición entre estos estados está determinada por las condiciones externas de **presión** (barométrica) y **temperatura** (termométrica). Como referencia general, a 20ºC y 1 atmósfera de presión, el agua se encuentra en estado líquido, el oxígeno en estado gaseoso y la madera en estado sólido.
+
+## Estados de Agregación y Cambios de Estado
+
+En el estado **sólido**, las partículas están fuertemente cohesionadas, lo que confiere a la sustancia una forma y un volumen constantes. Sin embargo, un aumento de la temperatura incrementa el movimiento de estas partículas. Los **líquidos**, por su parte, poseen un volumen constante pero carecen de forma fija, adaptándose al recipiente que los contiene, debido a fuerzas de atracción molecular menores que en los sólidos. Un incremento de energía y temperatura acentúa el movimiento de sus partículas. Finalmente, los **gases** se caracterizan por fuerzas de atracción molecular muy pequeñas, lo que les permite expandirse libremente, ocupando todo el volumen disponible y careciendo de forma o volumen fijos; un aumento de temperatura provoca mayor movimiento y separación molecular.
+
+Los **cambios de estado** pueden ser progresivos o regresivos. Los **cambios progresivos** (como la fusión o vaporización) ocurren mediante la absorción de energía, mientras que los **cambios regresivos** (como la solidificación, condensación o sublimación regresiva) se producen por la cesión de calor. La **fusión** es el paso de sólido a líquido, donde el volumen de la sustancia (a excepción del agua, hierro y bismuto) suele aumentar. La **vaporización** o **evaporación** es el paso gradual de líquido a gas. La **solidificación** es el proceso inverso a la fusión, y la **condensación** es el paso de gas a líquido. Una variante de la condensación es la **licuación**, que implica el paso de gas a líquido mediante un aumento de presión. Por otro lado, la **sublimación regresiva** describe el paso directo de gas a sólido, un fenómeno que puede observarse con el dióxido de carbono formando nieve carbónica.
+
+La relación entre los estados de la materia y las condiciones de presión y temperatura se visualiza en un **diagrama de fases**. Este diagrama muestra el **punto triple**, donde las tres fases coexisten en equilibrio, y el **punto crítico**, la temperatura máxima a la cual una sustancia puede coexistir como líquido y gas, existiendo solo como gas por encima de esta. Por ejemplo, el agua tiene un punto triple a 0,01ºC y 0,06 atmósferas, y su punto de ebullición a 100ºC bajo presión atmosférica normal. En contraste, el dióxido de carbono se sublima, no funde, a presiones y temperaturas normales.
+
+## Propiedades Físicas Relevantes
+
+Las **propiedades físicas** son aquellas que pueden cambiar sin alterar la composición química de la materia, como la forma, el estado o la densidad.
+
+### Densidad y Leyes de los Gases
+
+La **densidad (ρ)** se define como la cantidad de masa contenida en una unidad de volumen, expresándose en g/cm³ o kg/m³. En líquidos y gases, la densidad varía con la temperatura y la presión, por lo que es crucial especificar estas condiciones. La **densidad relativa (ρr)** es una magnitud adimensional que compara la densidad de una sustancia con la de una sustancia de referencia (agua para líquidos y sólidos a 1 atm y 4ºC, y aire para gases a 1 atm y 0ºC). Un ejemplo de aplicación es que el alcohol, con una densidad relativa de 0,78, flota en agua.
+
+El comportamiento de los gases se rige por leyes fundamentales: la **Ley de Boyle-Mariotte** establece que, a temperatura constante, el volumen de un gas es inversamente proporcional a su presión. La **Ley de Charles** indica que, a presión constante, el volumen de un gas es directamente proporcional a su temperatura. Complementariamente, la **Ley de Gay-Lussac** postula que, a volumen constante, la presión de un gas es directamente proporcional a su temperatura. Estas leyes se integran en la **ecuación general de los gases**, que relaciona presión, volumen y temperatura, y es crucial para prever el comportamiento de sustancias peligrosas en vertidos y fugas.
+
+### Presión de Vapor y Viscosidad
+
+La **presión de vapor** es la presión a la que las fases líquida y gaseosa de una sustancia están en equilibrio a una temperatura determinada. Esta presión aumenta exponencialmente con la temperatura, lo que a su vez incrementa la volatilidad de la sustancia y disminuye su punto de ebullición. Los líquidos más volátiles, por ejemplo, tienen una mayor presión de vapor.
+
+La **viscosidad** es la resistencia de un fluido (gas o líquido) a fluir, medida comúnmente en Poise. Es inversamente proporcional a la temperatura. Líquidos muy viscosos se extienden con dificultad y son más fáciles de contener en caso de derrame, mientras que los poco viscosos se dispersan rápidamente.
+
+### Solubilidad y Conductividad Eléctrica
+
+La **solubilidad** es la capacidad de una sustancia para disolverse en otra, influenciada por la temperatura, la presión y la naturaleza del soluto y disolvente. La solubilidad de los sólidos aumenta con la temperatura, mientras que la de los gases disminuye. Las sustancias se clasifican como polares (hidrosolubles/hidrófilas) o no polares (hidrófobas), dependiendo de su capacidad para disolverse en agua.
+
+La **conductividad eléctrica** mide la capacidad de una sustancia para permitir el paso de corriente eléctrica, lo cual depende de su estructura molecular y temperatura. En disoluciones líquidas, la conductividad está ligada a la presencia de sales; así, el agua desionizada es no conductora, mientras que el agua marina es altamente conductora. La **resistividad** es la propiedad inversa a la conductividad. Las **descargas electrostáticas**, generadas por fricción o contacto y separación de materiales, pueden ser peligrosas en entornos con sustancias combustibles, inflamables o explosivas. La baja humedad ambiental favorece la acumulación de carga electrostática, mientras que la alta humedad puede disiparla.
+
+## Toxicología de Sustancias Peligrosas
+
+La **toxicología** es la disciplina que se enfoca en identificar y cuantificar los efectos nocivos de la exposición a agentes físicos, químicos o biológicos. El **riesgo para la salud** se determina combinando la **exposición** (duración y concentración) y la **toxicidad** (capacidad inherente del producto para causar daño). La acción tóxica de una sustancia depende de sus características, las condiciones ambientales y la vía de entrada al organismo.
+
+La **dosis** es la cantidad de sustancia que afecta al organismo. Se distingue entre **dosis de exposición** (concentración inhalada durante un tiempo) y **dosis absorbida o retenida** (cantidad presente en el cuerpo). Existe un **umbral de dosis** por debajo del cual no se observan efectos apreciables. Los **efectos agudos** se manifiestan tras una exposición limitada, pudiendo ser reversibles o irreversibles.
+
+Para cuantificar la toxicidad, se emplean varios conceptos:
+*   La **dosis letal 50 (DL50)** es la cantidad de sustancia que causa la muerte del 50% de una población animal, sirviendo como indicador de toxicidad aguda.
+*   La **dosis efectiva 50 (DE50)** provoca un efecto específico en el 50% de los animales, sin causar la muerte.
+*   El **Nivel sin Efecto Adverso Observable (NOEL/NOAEL)** es la máxima concentración o dosis de una sustancia que no produce efectos perjudiciales.
+*   La **Concentración Letal 50 (CL50)** es la concentración inhalada que causa el 50% de mortalidad en un tiempo determinado.
+*   Las **Partes por Millón (PPM)** representan la concentración de una sustancia en un millón de unidades del conjunto, utilizándose para valores muy bajos.
+*   La **dosis máxima tolerada (DMT)** es el nivel de exposición máximo que, aun produciendo toxicidad, no afecta significativamente la supervivencia.
+
+En intervenciones de emergencia, el conocimiento de estas propiedades permite una evaluación rigurosa de los peligros y una gestión eficaz de los riesgos, garantizando la seguridad de los intervinientes y la población.

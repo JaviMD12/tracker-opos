@@ -1,0 +1,106 @@
+## Hormigón y Fábrica: Materiales Fundamentales en Edificación para Opositores a Bombero
+
+La comprensión de los materiales de construcción es esencial para los profesionales de emergencias, especialmente para los bomberos, cuyas intervenciones a menudo implican estructuras dañadas. Este manual profundiza en las propiedades y clasificaciones del hormigón y la fábrica, dos de los materiales más utilizados en la edificación.
+
+### 1. El Hormigón
+
+El **hormigón** se define como un material de construcción compuesto por la mezcla de un conglomerante (habitualmente cemento), agua, árido grueso y, en ocasiones, aditivos, el cual se vierte en estado plástico en encofrados para su fraguado y endurecimiento.
+
+Este material ha sido ampliamente adoptado en la construcción desde el siglo XX debido a la gran disponibilidad de sus materias primas, su bajo costo y la facilidad en sus procesos de fabricación y ejecución. No obstante, posee una aceptable resistencia a la compresión, pero una resistencia despreciable a la tracción y baja al cortante. Por esta razón, con frecuencia, se complementa con **armaduras de acero** en su interior, dando lugar al **hormigón armado**, el cual es capaz de resistir tanto esfuerzos de tracción (gracias al acero) como de compresión (hormigón y acero). Es importante señalar que la armadura de acero no comienza a trabajar hasta que el elemento de hormigón está desencofrado y en carga.
+
+#### 1.1. Tipologías de Hormigón
+
+Existen varias tipologías de hormigón, clasificadas según la presencia y el momento de aplicación de las armaduras:
+
+*   **Hormigón en masa:** Es una masa pétrea artificial que carece de armado o complemento estructural en su interior. Su función principal es soportar compresiones, empleándose comúnmente en hormigones de limpieza o en cimentaciones rígidas.
+*   **Hormigón armado (HA):** Como se mencionó, incorpora armaduras de acero calculadas y posicionadas para resistir tracciones y compresiones.
+*   **Hormigones pretensados (HP):** Estos hormigones incluyen una estructura de acero en su interior (denominados tendones) que entra en carga, es decir, se tensa, *antes* del desapeo de la pieza. Su finalidad es reducir las tracciones generadas por la flexión del elemento. Dentro de esta categoría, se distinguen dos métodos:
+    *   **Armadura pretesa:** El tensado de la armadura se realiza en fábrica, antes de verter el hormigón. Los cables se tensan entre dos topes, se vierte y cura el hormigón, y luego se cortan los cables, transfiriendo las tensiones al hormigón por adherencia.
+    *   **Armadura postesa:** El tensado de la armadura se efectúa en obra, después de que el hormigón haya fraguado y alcanzado una resistencia suficiente.
+
+El **proceso de pretensado** generalmente sigue estas fases: inicialmente, se colocan los tendones sin tensar, envueltos en vainas o fundas. A continuación, se hormigona la pieza y se espera a que el hormigón endurezca. Una vez fraguado, los tendones se anclan por un extremo y se tensan con un gato por el otro, apoyándose en el hormigón. Finalmente, se anclan ambos extremos y se retira el gato, rellenando las vainas con pasta o lecha a presión si la armadura es adherente, o dejándolas sin rellenar si es no adherente.
+
+Las **ventajas de los hormigones pretensados y postesados** frente al hormigón armado convencional son significativas: ofrecen estructuras permanentemente comprimidas que no fisuran, resultando más rígidas, durables y estancas. Presentan una deformabilidad inicial muy reducida, pudiendo incluso generar contraflechas. Además, exhiben un mejor comportamiento frente al fuego que los forjados reticulares y las alveoplacas. Gracias al tesado completo de una planta, la estructura es autorresistente al tercer día del hormigón, permitiendo descimbrar totalmente y retirar los puntales. Todo esto posibilita la reducción de cantos, espesores y cantidad de armaduras pasivas, disminuyendo el peso propio y aumentando las luces a cubrir, lo que a su vez reduce los plazos de ejecución.
+
+#### 1.2. Nomenclatura y Clasificación
+
+La **nomenclatura del hormigón**, según la EHE-08 "Instrucción de Hormigón Estructural", sigue el patrón T – R / C / TM / A, donde:
+
+*   **T (Tipología):** Indica si es Hormigón en Masa (HM), Hormigón Armado (HA) o Hormigón Pretensado (HP).
+*   **R (Resistencia):** Se refiere a la resistencia característica a compresión del hormigón a los 28 días, medida en N/mm². Las resistencias normalizadas más comunes son 20, 25, 30 N/mm² para HM; 25, 30, 35, 40, 45, 50 N/mm² para HA; y ≥ 35 N/mm² (aunque ≥ 25 N/mm² es posible) para HP.
+*   **C (Consistencia):** Clasifica la trabajabilidad del hormigón fresco: Seca (S), Plástica (P), Blanda (B), Fluida (F) y Líquida (L).
+*   **TM (Tamaño máximo del árido):** Expresado en milímetros, es crucial para la penetración del hormigón entre las armaduras.
+*   **A (Ambiente de exposición):** Describe el ambiente al que estará expuesto el hormigón, considerando factores como humedad, corrosión, ataque químico, heladas o abrasión. Se divide en clases generales (I, IIa, IIb, IIIa, IIIb, IIIc y IV para corrosión por cloruros) y clases específicas (Qa, Qb, Qc para exposición química; H para hielo; F para fundentes; E para abrasión).
+
+La **consistencia de los hormigones frescos** se mide mediante el cono de Abrams, con valores de asiento que van de 0-2 cm (Seca), 3-5 cm (Plástica), 6-9 cm (Blanda), 10-15 cm (Fluida) y 16-20 cm (Líquida), asociando cada tipo a un método de compactación (vibrado o picado con barra).
+
+La **ejecución o puesta en obra** del hormigón implica varios periodos:
+*   **Encofrado:** Conformación de un molde estanco, resistente y no adherente donde se vierte la masa plástica.
+*   **Vibrado:** Proceso mecánico para asegurar la mezcla adecuada de productos, la penetración entre armados y la expulsión de burbujas de aire.
+*   **Curado/Endurecimiento:** El proceso de hidratación que transforma el hormigón de consistencia plástica a sólido (fraguado, en 2-8 horas), y el endurecimiento que permite alcanzar el 100% de su resistencia característica (en 28 días). Durante este proceso, la resistencia alcanza el 50% entre 24-48 horas y 3/4 de la resistencia máxima en 1 semana. El tiempo mínimo de puesta en carga es de 2 semanas (14-15 días).
+
+Los **aditivos** son sustancias que se añaden al hormigón para modificar sus características físicas o químicas, sin exceder el 5% del peso del cemento. Pueden ser reductores de agua o plastificantes, superplastificantes, modificadores de fraguado (aceleradores o retardantes), inclusores de aire o multifuncionales.
+
+Finalmente, al **comparar la resistencia** de los conglomerados con base de cemento, se observa que el cemento (32.5-52.5 N/mm²) pierde al menos un 50% de su resistencia al convertirse en mortero (1.0-25.0 N/mm²) debido al aumento de volumen y menor compactación al añadir árido fino. Sin embargo, al incorporar árido grueso para formar hormigón (20.0-50.0 N/mm², hasta 100.0 N/mm² en alta resistencia), la resistencia aumenta nuevamente a niveles similares o superiores al cemento puro, gracias a una estructura granular heterogénea con menores o inexistentes oquedades, lo que incrementa la compacidad del material.
+
+#### 1.3. Elementos Auxiliares del Hormigón
+
+Durante la construcción o reparación de elementos de hormigón, se emplean diversos elementos auxiliares:
+*   **Separadores:** Pequeñas piezas que elevan la armadura sobre el encofrado horizontal para asegurar su correcta posición. Pueden ser de plástico o de hormigón y quedan embebidos en el elemento constructivo.
+*   **Distanciadores:** Separadores que garantizan el recubrimiento total de las armaduras respecto a los encofrados, tanto horizontales como verticales. Fabricados en plástico.
+*   **Pasamuros:** Elementos que evitan la adhesión del espadín del encofrado al hormigón.
+*   **Conectores:** Utilizados para la conexión entre elementos resistentes en forjados mixtos (acero-HA).
+*   **Berenjenos:** Piezas de sección triangular empleadas para "matar los vivos de esquinas" en el encofrado.
+*   **Setas:** Tapones protectores colocados en los extremos de las armaduras para prevenir accidentes.
+*   **Pasatubos:** Elementos que se disponen durante el encofrado para facilitar el paso de futuras instalaciones.
+*   **Cartuchos de fijación de balaustradas:** Usados para la fijación de barandillas auxiliares.
+
+### 2. La Fábrica
+
+La **fábrica** se define como un conjunto de piezas prefabricadas, como piedras o ladrillos, que se unen con mortero, "a hueso" (sin mortero) o mediante llaves. Estas piezas se disponen en un aparejo que asegura que su plano de apoyo sea perpendicular al esfuerzo, y se traban entre sí mediante el desplazamiento de las juntas verticales, garantizando la estabilidad y resistencia del conjunto.
+
+Históricamente, la fábrica fue un material estructural fundamental entre los siglos V y XIX. Sin embargo, en la actualidad, su uso como elemento estructural primario es limitado debido a las mejores prestaciones del hormigón armado y la prevalencia de sistemas estructurales entramados.
+
+#### 2.1. Fábrica de Piedra
+
+La **fábrica de piedra** es un elemento constructivo, generalmente estructural, elaborado a partir de piezas de piedra natural esculpidas en mayor o menor medida y trabadas mediante aparejos sencillos.
+
+Sus **características** incluyen:
+*   **Ligazón:** Las piezas se unen mediante mortero, a hueso, o con llaves (grapas o armaduras de conexión), dependiendo del nivel de labra.
+*   **Tipologías estructurales:** Genera sistemas estructurales masivos, como muros, pilastras y arcos, que trabajan principalmente a compresión.
+*   **Capacidad mecánica:** La piedra natural posee una muy alta resistencia a compresión. Sin embargo, ante la aparición de esfuerzos distintos a la compresión, los elementos constructivos requieren refuerzos, como contrafuertes en muros verticales, para absorber esfuerzos horizontales.
+
+Se distinguen varias **tipologías de fábrica de piedra** en función del tamaño y labra de las piezas:
+*   **Sillar:** Piedra labrada en varias de sus caras, generalmente en forma de paralelepípedo, cuyo gran peso y tamaño requieren manipulación con máquinas.
+*   **Sillarejo:** Muro de fábrica construido con piedras labradas o desbastadas, de forma paralelepípeda rectangular y pequeñas dimensiones. Se aplica especialmente cuando la pieza no atraviesa todo el grueso del muro. Existen dos modalidades:
+    *   **Sillarejo irregular:** Las juntas horizontales y verticales se trabajan hasta 15 cm de profundidad.
+    *   **Sillarejo regular:** Las juntas verticales se trabajan hasta 15 cm de profundidad, pero las horizontales abarcan toda la piedra.
+*   **Mampuesto:** Obra ejecutada con piedras sin labrar, de forma irregular, rejuntadas "a hueso" o ligadas con mortero. Pueden ser manejadas por una sola persona sin medios mecánicos. Dependiendo de la regularidad de las piezas, se requerirá mayor o menor cantidad de ripios (pequeñas piedras para calzar) y mortero.
+
+La **capacidad resistente** de la fábrica de piedra varía según la tipología:
+*   Sillería de granito: 40 a 50 kN/mm².
+*   Sillería de arenisca: 20 a 25 kN/mm².
+*   Sillería de caliza: 5 a 15 kN/mm².
+*   Mampostería de granito: 10 a 15 kN/mm².
+*   Mampostería de caliza: 6 a 10 kN/mm².
+
+#### 2.2. Fábrica a base de Arcilla
+
+Esta categoría incluye el adobe y el ladrillo cerámico:
+
+##### 2.2.1. Adobe (Arcilla Seca)
+
+El **adobe** es un ladrillo de barro (compuesto por un 20% de arcilla y un 80% de arena) vertido en moldes y secado al sol durante 25-30 días. Se le añaden fibras naturales (como paja, crin de caballo o heno seco) para aumentar su resistencia y prevenir fisuraciones durante el secado.
+Sus **características** son:
+*   **Aislamiento térmico:** Bueno.
+*   **Durabilidad:** Mala.
+*   **Costo:** Bajo en material, pero elevado en mano de obra.
+*   **Mantenimiento:** Requiere mantenimiento continuo con capas de barro o cal. No es adecuado usar mortero de cemento, ya que la poca permeabilidad al vapor del cemento puede disolver el adobe o causar el desprendimiento del mortero.
+
+##### 2.2.2. Ladrillo Cerámico (Arcilla Cocida)
+
+El **ladrillo cerámico** es una pieza de base arcillosa, generalmente ortoédrica, obtenida por moldeo, secado y cocción a altas temperaturas (350ºC). Se utiliza en albañilería, principalmente para elementos constructivos verticales como muros y tabiques. A diferencia del adobe, el ladrillo cerámico es una versión irreversible que no experimenta cambios físico-químicos tras la cocción.
+
+La **nomenclatura de un ladrillo** incluye:
+*   **Superficies:**
+    *   **Tabla o Lecho:** La superficie mayor del ladrillo, delimit

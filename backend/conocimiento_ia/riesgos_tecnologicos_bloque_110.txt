@@ -1,0 +1,58 @@
+## Caracterización y Marco Normativo de los Ascensores en Intervenciones de Emergencia
+
+El ascensor, también denominado elevador, se define como un sistema de movilidad vertical diseñado para el transporte de personas o bienes entre diferentes niveles de altura. Este equipo opera mediante la acción conjunta de elementos mecánicos, eléctricos y electrónicos, desplazando una cabina a lo largo de guías con una inclinación máxima de 15 grados respecto a la horizontal.
+
+Para una intervención eficaz en situaciones de emergencia, es crucial que los equipos de rescate comprendan la estructura, el funcionamiento y la normativa específica de estos aparatos. La normativa europea EN 81-28:2003 establece que las empresas de mantenimiento de ascensores deben garantizar un servicio técnico en un plazo máximo de 24 horas para averías, si bien la respuesta debe ser inmediata en casos de urgencia, como personas atrapadas o accidentes.
+
+### Componentes Fundamentales del Ascensor
+
+Un ascensor se compone principalmente de tres partes: el cuarto de máquinas, el recinto o hueco, y el foso.
+
+#### El Cuarto de Máquinas
+
+Este espacio alberga el mecanismo de tracción, ya sea un grupo tractor, un grupo hidráulico o un tambor de arrollamiento. Su ubicación varía: en los modelos con cuarto físico, puede estar en la parte superior del recinto (más accesible para el operario), en la parte inferior (implicando una carga para la estructura superior del edificio), o contiguo al recinto. Los ascensores modernos carecen de cuarto de máquinas; en estos, la maquinaria de tracción y el sistema de maniobra se sitúan en la parte superior o inferior del hueco del foso, junto a la última puerta de planta.
+
+Los elementos principales de este cuarto son:
+*   **Motor-reductor:** Constituido por un motor acoplado a un reductor de velocidad, generalmente de corriente alterna con una o dos velocidades, actualmente integrando variadores de frecuencia.
+*   **Polea motriz:** Asegura la adherencia con los cables de acero, moviendo la cabina sin deslizamiento, independientemente de su carga.
+*   **Volante:** Esencial para la operación manual de ascenso y descenso de la cabina en rescates sin suministro eléctrico.
+*   **Freno:** Localizado en el eje motor, se encarga de detener el ascensor. Sus zapatas permanecen bloqueadas en reposo y se desbloquean mediante un electroimán durante el movimiento, bloqueándose manualmente en operaciones de rescate sin energía.
+*   **Limitador de velocidad:** Dispositivo que detiene la cabina mediante un paracaídas o sistema de acuñamiento si la velocidad excede un valor predeterminado. Incluye un contacto eléctrico que interrumpe el motor y se compone de dos poleas (una en el cuarto de máquinas y otra en el foso), conectadas por un cable de acero independiente de los cables de tracción, que a su vez se une a la cabina y a un sistema de cuñas.
+*   **Cuadro de maniobras:** Contiene los componentes eléctricos y electrónicos (relés, contadores, cableado, etc.) que controlan el funcionamiento del ascensor. Maneja tensiones de 230 a 400V, por lo que el acceso a su interior sin aislamiento adecuado está restringido.
+*   **Cuadros de distribución de corriente:** Alojan los dispositivos de protección (fusibles, interruptores magnetotérmicos y diferenciales) contra cortocircuitos y derivaciones. Su ubicación es clave para cortar el suministro eléctrico en una emergencia.
+
+#### El Recinto o Hueco
+
+Es el espacio vertical por donde se desplazan la cabina y el contrapeso. En este, encontramos:
+*   **Cabina:** El habitáculo diseñado para el transporte de pasajeros.
+*   **Puertas de acceso:** Se distinguen entre puertas de planta (en cada nivel del edificio) y puertas de cabina. Las tipologías más comunes incluyen puertas batientes (que solo abren si la cabina está a nivel y cuentan con enclavamiento eléctrico y mecánico), puertas batientes con librillo en cabina, batientes en pisos con puertas telescópicas automáticas en cabina, puertas telescópicas automáticas en pisos y cabina, y puertas de apertura central, tanto automáticas como telescópicas.
+*   **Guías de cabina:** Perfiles laminados en forma de T que dirigen el movimiento tanto de la cabina como del contrapeso.
+*   **Contrapeso:** Su función es reducir la potencia requerida por el motor. Su peso se calcula sumando el de la cabina más el 45% de su masa, siendo un factor importante para determinar si la cabina tenderá a subir o bajar en ciertas situaciones.
+*   **Cables de tracción:** Conectan la cabina con el contrapeso, pasando por la polea motriz. Es fundamental verificar visualmente su tensión, ya que un cable destensado puede indicar un problema de acuñamiento o rotura.
+*   **Cordones de maniobras:** Cables eléctricos que transmiten energía y señales para las diversas funciones del ascensor, como la apertura de puertas o la iluminación.
+
+#### El Foso
+
+Constituye la parte inferior del recinto, localizada por debajo del nivel de la última parada. Su suelo debe ser liso y nivelado, y suele estar impermeabilizado si se encuentra por debajo del nivel de la calle. Su profundidad debe ser suficiente para garantizar un espacio libre de al menos 0,5 metros cuando los amortiguadores de la cabina están completamente comprimidos, ofreciendo un margen de seguridad para una persona. Los **amortiguadores** son elementos esenciales en el foso, diseñados para frenar el descenso de la cabina en caso de fallo mecánico o al llegar al final de carrera, minimizando el impacto de una caída libre.
+
+### Elementos Relacionados con la Emergencia
+
+Los ascensores incorporan dispositivos y sistemas específicos para gestionar situaciones de emergencia:
+*   **Instrucciones de rescate:** Obligatorias y accesibles en el cuarto de máquinas para asegurar un rescate seguro.
+*   **Pulsador de bomberos:** Presente en ascensores de emergencia, se activa rompiendo un cristal y acciona un microrruptor. En ascensores eléctricos, si la cabina sube, se detiene en el siguiente piso; si baja, lo hace en la planta principal. Atiende llamadas internas, ignorando las externas.
+*   **Caja de llaves de emergencia:** Contiene las llaves de la sala de máquinas o de la puerta de planta. No deben estar al alcance de personal no autorizado para evitar manipulaciones indebidas o caídas por el hueco.
+*   **Mecanismos de seguridad:** Incluyen el interruptor de corte de emergencia (en el foso o parte superior de la cabina), que interrumpe el funcionamiento del ascensor si alguno de sus elementos de seguridad conectados en serie falla (por ejemplo, al abrir una puerta de planta). En ausencia de acceso al cuarto de máquinas, se pueden desconectar los fusibles del contador para cortar el suministro.
+*   **Faldones de cabina:** Chapas situadas bajo la puerta de cabina para cubrir el hueco del foso cuando el ascensor se detiene entre pisos. Pueden ser fijos o telescópicos, con una longitud total de 750 mm (200 mm mínimo para la parte fija) e incluyen una etiqueta de precaución para asegurar su extensión completa antes de extraer pasajeros.
+*   **Alumbrado de emergencia:** Obligatorio en cabina, se activa ante un fallo eléctrico. Funciona independientemente de los sistemas automáticos o diferenciales de alumbrado, lo que garantiza la iluminación incluso si estos fallan.
+*   **Tele-alarma / Servicio 24 horas:** Implementado obligatoriamente en España desde 1999, permite la comunicación entre la cabina y el exterior, a menudo con un servicio de asistencia 24 horas gestionado por el fabricante.
+
+### Marco Normativo de los Aparatos de Elevación
+
+La legislación en España es extensa y fundamental para la seguridad en ascensores:
+*   El **Real Decreto 2291/1985**, que aprueba el Reglamento de Aparatos de Elevación y Manutención (RAEM), define las características de los ascensores.
+*   La **inspección técnica periódica** es obligatoria para ascensores con velocidades inferiores a 0,15 m/s y es realizada por un Organismo de Control Autorizado. Los defectos graves deben corregirse en un plazo máximo de seis meses, o el aparato quedará fuera de servicio.
+*   Modificaciones significativas en los ascensores deben ser evaluadas según la normativa vigente.
+*   El RAEM ha sido modificado y desarrollado por normativas posteriores como el **Real Decreto 1314/1997** (que lo modifica), la **Resolución de 10 de septiembre de 1998** (que lo desarrolla), el **Real Decreto 57/2005** (que incrementa la seguridad del parque de ascensores), y el **Real Decreto 560/2010** (que adapta normas industriales a leyes de libre acceso a servicios).
+*   Para aparatos elevadores de propulsión hidráulica, la **Orden de 30 de julio de 1974** establece condiciones y normas de aprobación. Además, el **Código Técnico de la Edificación (CTE)** y la **Norma EN 81-28:2003** (relativa a alarmas a distancia) también son aplicables.
+
+El conocimiento profundo de estos aspectos es vital para los cuerpos de bomberos, permitiéndoles afrontar rescates en ascensores de forma segura, eficiente y conforme a la legalidad.

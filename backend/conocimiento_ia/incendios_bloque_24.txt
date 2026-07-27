@@ -1,0 +1,39 @@
+# Técnicas de Intervención y Dinámica de Fluidos en Incendios
+
+## Presiones y Flujos de Gases en Incendios de Interior
+
+En el estudio de los incendios, es fundamental comprender la dinámica de los fluidos, especialmente la relación entre las presiones estáticas y dinámicas. La suma de estas presiones, según el principio de Bernoulli, se mantiene constante en un flujo de gases. Sin embargo, una caída de presión es directamente proporcional al cuadrado de la velocidad del flujo.
+
+Dentro de un recinto incendiado, las variaciones de temperatura generan un gradiente de presiones. En un incendio ventilado en fase de pleno desarrollo en un entorno habitual, la diferencia de presión entre el interior y el exterior puede oscilar entre -15 Pascales (Pa) en las zonas bajas y +30 Pa en las zonas altas. Cuando un recinto está sometido a la acción del viento o a la ventilación por presión positiva (VPP), se produce un aumento homogéneo de la presión en todo su volumen, siguiendo el principio de Pascal, donde la presión se transmite con igual magnitud. Los ventiladores de VPP pueden generar diferenciales de presión de entre 15 Pa y 30 Pa, y la combinación de viento y VPP resulta en la superposición de estas presiones.
+
+La presurización de un recinto adyacente a un incendio es una táctica eficaz para prevenir la propagación del fuego por convección. Los gases del incendio, al ser fluidos, tenderán a desplazarse hacia las zonas de menor presión, buscando el camino de menor resistencia. Incluso diferenciales de presión relativamente pequeños, del orden de 5 Pa, pueden ser suficientes para evitar la propagación. Esta estrategia se aplica en el **ataque en presión positiva contra la propagación**, cuyo objetivo es proteger áreas no afectadas mediante la generación de una sobrepresión.
+
+## Aplicación de Agua en Incendios de Interior: Técnicas y Consideraciones
+
+Las técnicas de intervención en incendios de interior tienen como objetivos principales la reducción de la inflamabilidad de los gases y la tasa de pirólisis de los combustibles, la disminución de la temperatura del recinto, el aumento de la visibilidad, la mejora de la respirabilidad de la atmósfera y el rastreo de víctimas. Para lograr estos fines, la aplicación de agua es una herramienta fundamental que modifica la dinámica del incendio mediante el enfriamiento, por absorción de calor, y la dilución de los gases con el vapor generado. Es crucial que el mando de intervención evalúe la situación y establezca un plan táctico coordinado para una ejecución segura y eficaz.
+
+### Ataque Indirecto
+
+El **ataque indirecto** busca la extinción inundando el recinto con vapor de agua desde el exterior, sin que el chorro alcance directamente el foco del incendio. Se basa en los efectos de enfriamiento, debido a la absorción de calor por la evaporación, y la dilución de los gases de combustión.
+
+Sus **ventajas** incluyen la posibilidad de atacar el incendio desde una posición segura, sin exponer a los intervinientes a los riesgos del interior. No obstante, presenta **inconvenientes** como la pérdida total de visibilidad por la inundación de vapor, el riesgo de quemaduras por este exceso de vapor si hay víctimas, y el desplazamiento de gases tóxicos a otras estancias.
+
+El **proceso** implica aplicar agua de forma relativamente prolongada desde una apertura exterior (puerta o ventana) para saturar el recinto con vapor. Se emplean chorros con conos bastante cerrados, con intervalos de aplicación de media a larga duración y caudales medios a altos, priorizando que la evaporación ocurra en el colchón de gases. Tras cada aplicación, se requiere un tiempo de reposo para permitir la redistribución del vapor y el equilibrio térmico, lo que facilita la evaluación de la efectividad y el ajuste de los parámetros. Por ejemplo, para un recinto confinado de 5x5 metros de planta y 2,5 metros de altura con una temperatura de equilibrio de 200 °C, serían necesarios aproximadamente 30,3 litros de agua para su refrigeración, lo que equivale a dos pulsaciones de 6 segundos a 150 litros por minuto con una efectividad del 100%.
+
+### Ataque Directo
+
+El **ataque directo** persigue la extinción del incendio aplicando una película de agua directamente sobre los combustibles en llamas, de manera que el chorro impacte sobre el foco. Este método interrumpe los procesos de pirólisis y enfría las superficies incendiadas.
+
+Las **ventajas** de esta técnica radican en su capacidad para atacar directamente el origen del fuego y sus efectos rápidos sobre la extinción. En contrapartida, los **inconvenientes** incluyen la alteración del equilibrio térmico del recinto, el empeoramiento de la visibilidad y el riesgo de quemaduras por el exceso de vapor, además del posible desplazamiento de gases tóxicos.
+
+Se **recomienda** su uso únicamente cuando el foco es visible y se tiene certeza de que el chorro impactará directamente. El **proceso** se realiza, en general, mediante una progresión interior tras localizar el foco. Se aplica agua de forma continua, moviendo el chorro para cubrir todas las superficies incendiadas con una fina película de agua. Se buscan patrones de chorro con conos bastante cerrados, incluso chorro sólido, con intervalos de aplicación de larga duración y caudales medios, siempre con el objetivo de humedecer y enfriar las superficies y minimizar la escorrentía. Después de cada aplicación, se observa un tiempo de reposo para permitir el reequilibrio térmico y mejorar la visibilidad.
+
+## Resumen de Técnicas de Aplicación de Agua
+
+Las principales técnicas de aplicación de agua en incendios de interior, junto con sus características clave, se pueden resumir de la siguiente manera:
+
+*   **Ataque Directo**: Su objetivo es la extinción mediante el enfriamiento de superficies incendiadas y la interrupción de la pirólisis. Requiere un caudal medio y un cono de 0º a 15º. Las pulsaciones deben ser largas, llegando a ser una aplicación continua, y la lanza se mantiene en movimiento para cubrir la zona.
+*   **Ataque Indirecto**: Persigue la extinción por inundación del recinto con vapor de agua. Utiliza un caudal medio a alto y un cono de 15º a 30º. Las pulsaciones son de duración media a larga, y la lanza también se mantiene en movimiento para distribuir el vapor.
+*   **Enfriamiento de Gases**: Su finalidad es reducir la inflamabilidad del colchón de gases para permitir una progresión segura, logrando el enfriamiento y la dilución de los gases. Requiere un caudal bajo a medio y un cono de 30º. Se caracteriza por pulsaciones muy cortas aplicadas en grupos o mediante barrido.
+*   **Ataque Defensivo contra Propagación**: Busca limitar la propagación del incendio, enfriando las superficies del combustible e interrumpiendo la pirólisis. Emplea un caudal bajo y un cono de 0º a 15º. Las pulsaciones son de larga duración o se opta por una aplicación continua, con la lanza en movimiento.
+*   **Ataque Exterior Ofensivo (Ablandado)**: Tiene como objetivo reducir la potencia del incendio, mejorar las condiciones de supervivencia en el interior y facilitar el ataque interno posterior. Se utiliza un caudal medio y un chorro sólido dirigido contra el techo. Las pulsaciones son de duración media a larga, y la lanza se mantiene estática para impactar en un punto fijo.

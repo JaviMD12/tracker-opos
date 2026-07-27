@@ -1,0 +1,162 @@
+## Conceptos Fundamentales de la Física Aplicados a la Edificación y el Comportamiento Estructural
+
+La edificación, definida como una construcción fija elaborada con materiales resistentes para uso humano o de otro tipo, es un escenario recurrente para la actuación de los cuerpos de bomberos. Para una intervención eficaz en estos entornos, es crucial comprender los principios básicos de la física y las propiedades mecánicas de los materiales que la componen.
+
+### Fuerzas y Momentos en la Edificación
+
+En el contexto de la edificación, una **fuerza** es una magnitud vectorial que esquematiza la interacción entre cuerpos, es decir, la acción que un cuerpo sufre o ejerce sobre otro. Se calcula como el producto de la masa por la aceleración (F = m · a) y se cuantifica en Newtons (N), equivalentes a Kg·m/s². Las fuerzas se caracterizan por su módulo o magnitud, dirección, sentido y punto de aplicación. La **composición de fuerzas** permite sumarlas, restarlas o multiplicarlas para obtener fuerzas resultantes.
+
+La mecánica de fuerzas se rige por las **tres leyes de Newton**:
+1.  **Primera Ley o Principio de Inercia**: Un cuerpo mantiene su estado de reposo o movimiento uniforme y rectilíneo a menos que una fuerza externa actúe sobre él.
+2.  **Segunda Ley**: La suma de todas las fuerzas que actúan sobre un cuerpo es igual al producto de la masa del cuerpo por la aceleración producida por la fuerza, y en la dirección de la resultante.
+3.  **Tercera Ley o Principio de Acción y Reacción**: Dos cuerpos que interactúan entre sí ejercen fuerzas iguales en intensidad y dirección, pero de sentido opuesto. Este principio implica que toda fuerza aplicada (acción) debe ser contrarrestada por una fuerza igual y opuesta (reacción) para mantener el equilibrio.
+
+Complementariamente, el **momento de un par de fuerzas** es una magnitud vectorial que indica la capacidad de un sistema de fuerzas para cambiar el estado de rotación de un cuerpo alrededor de un eje. Se calcula como el producto de la magnitud de una de las fuerzas por la distancia perpendicular entre ellas (brazo del par), y se mide en Newtons por metro (N·m). Los momentos pueden ser positivos (giro horario) o negativos (giro antihorario). Un par de fuerzas en **equilibrio** tiende a reducir su brazo de palanca hasta que el momento sea nulo, lo que ocurre cuando ambas fuerzas se alinean.
+
+### Equilibrio y Estabilidad Estructural
+
+La **estática** es la rama de la mecánica que estudia el equilibrio de fuerzas en sistemas físicos. El **equilibrio estático** se define como un estado en el que no se producen movimientos relativos en los elementos del sistema, lo que implica que la suma de fuerzas (∑F) y momentos (∑M) sobre cualquier cuerpo es cero. Las cargas en una estructura generan dos tipos de reacciones: **empujes** (fuerzas) y **giros** (momentos), que deben ser contrarrestadas por reacciones iguales y opuestas en los elementos estructurales.
+
+Para entender el equilibrio, es fundamental el concepto de **centro de gravedad**, que es el punto de un cuerpo donde se puede considerar concentrado su peso, permitiendo que el cuerpo permanezca en equilibrio si se apoya en dicho punto. Si la vertical del centro de gravedad cae dentro de la base de apoyo, el objeto está en equilibrio estable y, si se desplaza ligeramente, un momento restaurador lo devuelve a su posición inicial. Sin embargo, si el centro de gravedad cae fuera de la base de apoyo, la estructura rotará y alcanzará una nueva posición de equilibrio.
+
+### Propiedades Mecánicas de los Materiales
+
+La **elasticidad** es la capacidad de los materiales para sufrir deformaciones reversibles bajo fuerzas externas y recuperar su forma original una vez que estas fuerzas se eliminan. Todos los materiales presentan un comportamiento elástico inicial hasta un **límite de elasticidad**, a partir del cual el comportamiento se vuelve **plástico**, resultando en deformaciones permanentes e irrecuperables, a menudo con pérdida de sección y resistencia.
+
+La **ley de Hooke** describe la relación entre la tensión (σ) sufrida por un cuerpo sólido y su deformación (ε), siendo directamente proporcional a la elasticidad del material (E), o módulo de Young (σ = Eε). El **módulo de elasticidad longitudinal o módulo de Young (E)** es crucial para evaluar el comportamiento de los materiales, ya que indica su deformación admisible. Por ejemplo, el acero tiene un módulo de elasticidad significativamente mayor (210.000 N/mm²) que el hormigón (21.500-39.000 N/mm²) o la madera (9.000-22.500 N/mm²), lo que implica que, bajo una misma carga, materiales como el hormigón o la madera se deforman considerablemente más que el acero. Los materiales se clasifican en:
+*   **Materiales tenaces**: Absorben energía antes de fracturarse, con alta ductilidad, y soportan bien compresión y tracción (ej. madera, acero).
+*   **Materiales frágiles**: Se comportan bien a compresión pero mal a tracción, no soportando flexiones (ej. piedra, ladrillo).
+
+### Esfuerzos y Tensiones Internas
+
+Cuando una estructura se somete a cargas, experimenta **esfuerzos** que se manifiestan como **tensiones internas**. La **tensión** se define como la fuerza por unidad de área (N/mm²) transmitida a través del material. Se distinguen varios tipos de tensiones:
+*   **Tensión de rotura**: Es la tensión máxima que un material puede soportar en condiciones de laboratorio, sin factores de seguridad.
+*   **Tensión de trabajo**: Es el umbral máximo de tensión que una estructura puede soportar con un grado de seguridad adecuado, generalmente entre el 70% y el 80% de su límite elástico.
+
+Según la naturaleza del esfuerzo, se clasifican en:
+1.  **Esfuerzos simples**:
+    *   **Compresión**: Las partículas del material tienden a reducir su distancia, apretándose (ej. pilares, muros).
+    *   **Tracción**: Las partículas del material tienden a separarse, estirándose (ej. tirantes).
+    *   **Cortante/Cortadura/Cizalladura**: Las partículas del material se deslizan con movimiento relativo entre sí (ej. uniones viga-pilar).
+2.  **Esfuerzos compuestos**: Combinan los esfuerzos simples.
+    *   **Flexión (o flexión pura)**: Carga transversal sobre un elemento longitudinal, generando tracción en la parte inferior y compresión en la superior (ej. vigas).
+    *   **Pandeo (o flexión compuesta)**: Deformación en elementos esbeltos bajo compresión axial (ej. tirantes).
+    *   **Torsión**: Esfuerzo provocado por una fuerza circular en una pieza (ej. voladizos).
+
+Para un análisis adecuado de elementos sometidos a flexión, es necesario evaluar el cortante (tensión en la **fibra neutra**, la línea imaginaria de la sección transversal no sometida a esfuerzos de flexión) y el momento flector (compresión/tracción en las fibras extremas). Los **diagramas de cortantes** muestran la variación de la fuerza cortante vertical, mientras que los **diagramas de momentos flectores** representan la variación del momento flector, cuya forma puede indicar la deformación de la estructura.
+
+### Acciones en la Edificación según el Código Técnico de la Edificación (CTE)
+
+El CTE DB SE AE clasifica las cargas que soporta un edificio en:
+1.  **Acciones permanentes**: Actúan de forma constante durante toda la vida útil de la edificación.
+    *   **Peso propio**: Es el peso de todos los elementos constructivos (estructura, cerramientos, acabados, instalaciones). Los pesos específicos varían según el material; por ejemplo, el acero (77-78.5 kN/m³) es mucho más denso que la madera (3.5-5.0 kN/m³), mientras que el hormigón (24+1 kN/m³) se sitúa en un punto intermedio. Los elementos constructivos como cubiertas, forjados, solados y cerramientos tienen pesos específicos aparentes que oscilan entre 0.5 y 7.0 kN/m² o kN/m.
+    *   **Pretensado**: Esfuerzos generados por el tensado de armaduras en el hormigón, relevantes para la estabilidad.
+    *   **Acciones del terreno**: Fuerzas transmitidas por el suelo en contacto con la estructura (empujes, hundimientos). El empuje del terreno varía con la profundidad y el tipo de suelo (arcilla vs. grava/arena); por ejemplo, a 1 metro de profundidad, la arcilla ejerce 5 kN/m² y la grava/arena 3.3 kN/m².
+2.  **Acciones variables**: Pueden actuar o no, y su magnitud varía con el tiempo.
+    *   **Sobrecarga de uso**: Peso debido al uso previsto del edificio (ej. comercial, residencial). Las cargas uniformes pueden ir desde 1 kN/m² en cubiertas sin uso público hasta 5 kN/m² en zonas de aglomeración, y las cargas concentradas pueden alcanzar 20 kN en aparcamientos.
+    *   **Acciones sobre barandillas y elementos divisorios**: Fuerzas horizontales que deben resistir barandillas y tabiques, con resistencias mínimas estipuladas por el CTE, aunque para bomberos se considera una resistencia máxima de 0.5 kN/m debido a la incertidumbre.
+    *   **Viento**: Presiones y succiones que dependen de la forma del edificio, altura, pendiente de cubierta y ubicación geográfica. Un valor simplificado es 0.5 kN/m².
+    *   **Acciones térmicas**: Deformaciones y cambios geométricos debidos a variaciones de temperatura. Por ejemplo, una viga de hormigón armado de 10 metros que aumente 380°C se dilatará 5.76 cm, generando empujes laterales que pueden causar colapso. En hormigón o acero, pueden ignorarse si existen juntas de dilatación cada 40m. Los materiales tienen diferentes **coeficientes de dilatación térmica** (α); por ejemplo, el acero tiene 1.2 x 10⁻⁵ 1/°C, similar al hormigón (1.17 x 10⁻⁵ 1/°C), mientras que la madera (0.2-0.9 x 10⁻⁵ 1/°C) dilata mucho menos. El **coeficiente de conductividad térmica** (λ) cuantifica la capacidad de un material para conducir calor (W/m·K); valores bajos (ej. corcho 0.04-0.30 W/m·K, poliuretano 0.018-0.025 W/m·K) indican buen aislamiento, mientras que valores altos (ej. acero 47-58 W/m·K, hierro 80 W/m·K) indican buena conducción.
+    *   **Nieve**: Sobrecarga por acumulación de nieve en cubiertas. Para cubiertas planas en altitudes inferiores a 1.000 m, se considera 1.0 kN/m².
+3.  **Acciones accidentales**: Cargas debidas a riesgos naturales o accidentes antrópicos.
+    *   **Sismo**: Respuesta de un edificio a movimientos sísmicos, regulada por la norma sismorresistente (NCSR-02). Se consideran peligrosos sismos con aceleración superior a 0.04g.
+    *   **Incendio**: Los edificios deben resistir el fuego durante un tiempo determinado, con parámetros mínimos establecidos por el CTE-DB SI según el uso y tamaño del edificio.
+    *   **Impacto**: Acciones generadas por un impacto accidental (excluyendo los premeditados). En normativas municipales, valores de cálculo de impacto de vehículos pueden ser 50 kN paralelos a la vía y 25 kN perpendiculares.
+
+### Clasificación de Materiales de Construcción
+
+Los materiales de construcción se clasifican por su origen, naturaleza y proceso de fabricación:
+*   **Materiales pétreos naturales**: Extraídos directamente de la naturaleza, con alta resistencia y durabilidad, pero alto coste y poca plasticidad. Usualmente usados como materia prima o acabados. Se clasifican en:
+    *   **Rocas ígneas**: Solidificación del magma.
+        *   **Intrusivas/Plutónicas**: Densas y resistentes (ej. granito, usado en cimentaciones y muros de carga).
+        *   **Extrusivas/Volcánicas**: Menos densas y resistentes (ej. basalto).
+    *   **Rocas sedimentarias**: Resultado del proceso sedimentario sobre rocas preexistentes.
+        *   **Dentríticas**: Por alteración física de rocas preexistentes (ej. gravas, arenas, limos).
+        *   **No dentríticas**: Por precipitación química (ej. arcilla, caliza, yeso).
+    *   **Rocas metamórficas**: Transformación de rocas ígneas y sedimentarias por presión y temperatura, generando cambios en composición y estructura (ej. pizarra, esquisto, gneis).
+*   **Materiales pétreos artificiales**: Obtenidos por procesos industriales.
+    *   **Materiales formáceos**: Mezcla fluida que adquiere forma en un molde (ej. hormigón).
+        *   **Aglomerantes**: Unen fragmentos por efectos físicos (ej. barro). El tapial es un aglomerante de arcilla, con densidad 16-21 kN/m³, baja resistencia (1.5 N/mm²) y buen aislamiento térmico, pero baja durabilidad frente a agentes atmosféricos.
+        *   **Conglomerantes**: Unen fragmentos por transformaciones químicas (ej. yeso, cal, cemento).
+            *   **Aéreos**: Fraguan en contacto con el aire (ej. yeso, cal). El yeso tiene una densidad de 15 kN/m³ y baja resistencia (≥2 N/mm²), con rápido fraguado. La cal grasa/aérea (óxido de calcio) tiene una densidad de 13 kN/m³ y reacciona violentamente con agua, formando hidróxido de calcio.
+            *   **Hidráulicos**: Fraguan en aire y agua (ej. cemento, cal hidráulica). La cal hidráulica contiene >5% de arcilla y fragua más rápido que la cal aérea. El cemento (mezcla de caliza y arcilla calcinada) endurece al contacto con agua.
+        *   **Hidrocarbonatados bituminosos**: Compuestos ligantes que requieren calentamiento para su extensión (ej. alquitrán, betún, asfalto), usados en carreteras e impermeabilización.
+    *   **Elementos de fábrica**: Pequeños elementos prefabricados unidos con aglomerantes (ej. ladrillo, piedra).
+        *   **Fábrica de piedra**: Sillar (piedras labradas), sillarejo (piedras desbastadas) y mampuesto (piedras sin labrar). La sillería de granito ofrece 40-50 kN/mm², mientras que la mampostería de caliza ofrece 6-10 kN/mm².
+        *   **Fábrica de arcilla**: Adobe (ladrillo de barro secado al sol), ladrillo cerámico (arcilla cocida a alta temperatura), bloque de termoarcilla (cerámico de baja densidad).
+        *   **Fábrica de bloque de hormigón**: Piezas prefabricadas de cemento, agua y áridos.
+*   **Materiales metálicos**:
+    *   **No ferrosos**: Plomo, zinc, cobre, latón, bronce, estaño, aluminio (usos no estructurales).
+    *   **Ferrosos**: Aleaciones de hierro y carbono. Mayor carbono aumenta dureza y resistencia, pero reduce ductilidad y aumenta fragilidad. Menor carbono mejora soldabilidad.
+        *   **Hierro dulce o forjado**: Pureza de hierro, <0.03% carbono. Dúctil, maleable, poroso (se oxida fácil), grietas internas (usado en cerrajería).
+        *   **Fundición**: >2.00% carbono. Fundido en molde, rellena formas complejas. Más fácil de mecanizar que acero. Resistente al choque térmico y corrosión (tuberías, tapas).
+        *   **Acero**: Aleación de hierro y carbono (0.03-2%, común 0.2-0.3%). Forjado (presión/impacto), alta resistencia. Densidad 7850 kg/m³. Coeficiente de dilatación 1.2 x 10⁻⁵ °C⁻¹. Alta conductividad eléctrica y térmica. Alta resistencia a compresión y tracción (hormigón armado). Corrosión es un problema (cincado, galvanizado).
+            *   **Acero estructural (S)**: Laminado en caliente para perfiles, barras, chapas. Clases resistentes (límite elástico) S235 a S450 MPa. Tipos de perfiles: IPN, IPE (vigas), HEA/HEB/HEM (pilares), UPN/UPE (vigas pequeñas), L, LD, T, redondos, cuadrados, hexagonales.
+            *   **Acero de armar (B)**: Barras corrugadas soldables para hormigón armado (B400/500 S/SD). Diámetros 6-40 mm.
+            *   **Acero para pretensados (Y)**: Y1570 a Y1860 (carga de rotura MPA). Coeficientes de seguridad: 70% para cargas estáticas, 40% para dinámicas. Productos: alambres, cordones, cables.
+
+### Elementos Estructurales y Normativa
+
+Las edificaciones son el resultado de la combinación de tres tipos de elementos constructivos:
+*   **Estructurales**: Soportan y transmiten cargas (forjados, pilares, cimentaciones). Su capacidad portante (estabilidad y resistencia) debe durar el **periodo de servicio** (50 años según CTE DB SE).
+*   **Complementarios**: Generan el espacio interior y confort (cerramientos, divisiones, instalaciones).
+*   **Auxiliares**: Forman parte de la edificación durante construcción/reparación, sin función estructural permanente (andamios, cimbras, encofrados, apeos).
+
+La normativa clave en España es el **Código Técnico de la Edificación (CTE)** de 2006, basado en la Ley de Ordenación de la Edificación (LOE). El CTE incluye **Documentos Básicos (DB)** para seguridad (DB-SE, DB-SI, DB-SUA) y habitabilidad (DB-HS, DB-HR, DB-HE), y se complementa con instrucciones como la EHE (Hormigón Estructural) y NCSE (Sismorresistente).
+
+El comportamiento estructural depende de **geometría**, **rigidez** y **materiales**. La geometría influye en la magnitud y dirección de esfuerzos. Los **funiculares** (cables deformados bajo carga) y **polígonos funiculares** (estructuras con fuerzas de compresión y tracción exclusivamente) son ejemplos. La **curva funicular** adopta forma de catenaria (peso propio) o parábola (carga lineal uniforme). La **rigidez** es la capacidad de soportar esfuerzos sin deformaciones excesivas. Se analiza mediante:
+*   **Grados de libertad (GL)**: Movimientos posibles (3 en sistema plano: vertical, horizontal, giro).
+*   **Coacciones**: Limitaciones a los grados de libertad.
+*   **Nudos**: Conexiones entre elementos portantes. Tipologías:
+    *   **Apoyo**: Limita movimientos verticales (1 coacción, 2 GL).
+    *   **Articulación**: Limita desplazamientos verticales y horizontales (2 coacciones, 1 GL).
+    *   **Empotramiento**: Limita todos los movimientos (3 coacciones, 0 GL).
+
+La **estabilidad estructural** de un conjunto se clasifica como:
+*   **Hiperestática**: GL < C. Mayor seguridad (reparto de esfuerzos).
+*   **Isostática**: GL = C. Equilibrio limitado pero suficiente.
+*   **Hipostática (mecanismo)**: GL > C. Inestable, se desplaza ante fuerzas.
+
+La evaluación de la estabilidad en una intervención sigue fases:
+0.  **Análisis del equilibrio previo**.
+1.  **Estudio del nuevo equilibrio tras el daño**.
+2.  **Propuesta de soluciones**, priorizando las más sencillas y seguras (ej. apeo inferior con puntales).
+
+### Estructuras Enterradas (Cimentaciones)
+
+Son el conjunto de elementos estructurales en contacto con el terreno que transmiten las cargas de la edificación sin superar la presión admisible del suelo. Su fallo puede causar problemas graves de estabilidad. Los **tipos de terreno de cimentación** se clasifican por composición y resistencia (rocas, terrenos no cohesivos/granulares, cohesivos/arcillosos, deficientes) y por grupos según el CTE DB SE-C (T-1 Favorables, T-2 Intermedios, T-3 Desfavorables). La **presión admisible** varía (ej. rocas 1-10 MPa, granulares 0.1-0.6 MPa, arcillas 0.075-0.6 MPa).
+
+Los **taludes** son cortes de transición entre dos cotas de terreno, naturales o artificiales. El **ángulo de rozamiento o reposo** es crucial para su estabilidad.
+
+Los **métodos de evaluación del terreno** incluyen estudios geotécnicos con:
+*   **Información previa**: Peculiaridades del emplazamiento, inestabilidad, cimentaciones limítrofes.
+*   **Técnicas de prospección**:
+    *   **Calicatas**: Excavaciones directas (hasta 4m de profundidad).
+    *   **Sondeos mecánicos**: Perforaciones para reconocer unidades geotécnicas.
+        *   **A rotación**: Suelos rocosos (barrena helicoidal).
+        *   **A percusión**: Suelos granulares gruesos (golpeo normalizado).
+        *   **A presión**: Suelos blandos.
+    *   **Sondeos destructivos**: No interesa obtener propiedades geotécnicas.
+    *   **Pruebas continuas de penetración**: Medida indirecta de resistencia/deformabilidad.
+    *   **Geofísica**: Sísmica de refracción, resistividad eléctrica, georadares (grandes superficies).
+
+Los **tipos de cimentaciones** se clasifican por:
+*   **Geometría**: Profundidad del estrato resistente.
+*   **Material**: Hormigón armado (in situ o prefabricado).
+*   **Rigidez**: Rígidas (elementos masivos, pozos) o flexibles (zapatas de vuelo elevado, losas).
+
+Las **tipologías de cimentación** son:
+1.  **Cimentación directa, superficial o somera**: Reparte cargas en un plano de apoyo horizontal, a poca profundidad.
+    *   **Zapatas aisladas**: Para cargas puntuales (pilares), no superan 1m de profundidad. Pueden ser interiores (cuadradas) o de medianería/esquina (rectangulares/cuadradas). Rígidas (v≤2h) o flexibles (v>2h).
+    *   **Zapatas combinadas y corridas**: Recogen cargas de varios pilares (dos o más alineados). Recomendadas para cargas elevadas o terrenos de baja capacidad portante.
+2.  **Pozos de cimentación**: Solución intermedia y de bajo coste para estratos resistentes a 4-6m. Tradicionalmente con piedra natural y arcos de ladrillo. Actualmente con hormigón pobre o plinto.
+3.  **Emparrillados**: Terrenos de baja capacidad de carga o heterogéneos, formados por zapatas corridas ortogonales.
+4.  **Losas**: Superficiales, para terrenos poco homogéneos o de baja capacidad portante, o bajo nivel freático. Siempre flexibles.
+
+### Elementos Estructurales Aéreos
+
+Son los elementos portantes por encima de la rasante del edificio, que reciben acciones permanentes, variables y accidentales. Se clasifican en:
+*   **Sistemas adintelados**: Forjados que transmiten cargas a muros, que actúan como elementos resistentes. Común en construcciones antiguas de baja altura. Isostáticas.
+    *   **Elementos resistentes verticales**: Muros de carga (ladrillo, bloque hormigón).
+    *   **Elementos resistentes horizontales**: Viguetas, vigas, forjados, losas.
+    *   **Partes del muro de carga**: Coronación, paramento/haz (intradós, trasdós

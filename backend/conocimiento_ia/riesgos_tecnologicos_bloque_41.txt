@@ -1,0 +1,99 @@
+La caracterización de los materiales y sistemas constructivos empleados en la edificación constituye un pilar fundamental para el personal de emergencias, especialmente para los bomberos. Comprender la estructura de un edificio, los materiales que lo componen y las fuerzas a las que está sometido permite anticipar su comportamiento en situaciones críticas como incendios, derrumbes o impactos, facilitando así una intervención más segura y eficaz.
+
+## Materiales de Construcción Esenciales
+
+La edificación se compone de una diversidad de materiales, cada uno con propiedades específicas que determinan su uso y resistencia.
+
+### La Madera
+
+La madera es un material lignocelulósico obtenido de árboles y arbustos, ampliamente utilizado en la construcción, tanto para elementos estructurales como para cerramientos y acabados. Sus propiedades varían significativamente según la especie y el grado de humedad. La densidad, por ejemplo, fluctúa entre 350 y 500 kg/m³. La madera es un material **higroscópico**, lo que significa que su contenido de humedad se ajusta a las condiciones ambientales, absorbiendo o liberando agua, lo que a su vez altera su densidad y comportamiento estructural. En condiciones normales de temperatura y humedad relativa en España, la madera seca al aire presenta un rango de humedad de equilibrio entre el 7% y el 20%.
+
+En cuanto a sus propiedades térmicas, la madera es un **excelente aislante** debido a su baja conductividad, lo que minimiza la dilatación por cambios de temperatura. Mecánicamente, la madera exhibe un comportamiento **anisotrópico**, es decir, sus propiedades no son uniformes en todas las direcciones (fibras, normal y tangencial). Ofrece buena resistencia a la flexión y una resistencia razonable a la compresión y tracción. Sin embargo, la resistencia de las uniones es un punto crítico, siendo más sencilla la ejecución de uniones a compresión que a tracción.
+
+Las **tipologías de madera** empleadas en construcción, reguladas por normativas como el Código Técnico de la Edificación (CTE DB SE M), incluyen:
+*   **Madera aserrada**: Es madera maciza obtenida directamente del aserrado del árbol y generalmente escuadrada con caras paralelas y cantos perpendiculares. Se clasifica en:
+    *   **Coníferas (maderas blandas)**: Como cedro, abeto o pino. Se identifican con la letra 'C' seguida de un número que indica su resistencia a flexión (N/mm²). Por ejemplo, una madera C14 posee el doble de resistencia a compresión que a tracción, mientras que una C50 puede presentar mayor resistencia a tracción.
+    *   **Frondosas (maderas duras)**: Como cerezo, roble o castaño. Se identifican con la letra 'D' y un número que representa su resistencia a flexión (N/mm²). Las D30, D35 y D40 muestran mayor resistencia a compresión, invirtiéndose esta tendencia en D50, D60 y D70, donde predomina la tracción.
+*   **Madera laminada encolada**: Consiste en varias capas de madera encoladas entre sí, pudiendo ser **homogénea** (misma clase de resistencia) o **combinada** (diferentes clases). Se nombra con 'GL' más un número (24-36) para la resistencia a flexión y 'h' o 'c' para indicar homogeneidad o combinación. Aunque sus resistencias son similares a la madera aserrada de la misma clase, permite mayores dimensiones en los elementos estructurales y presenta un comportamiento mecánico más lineal, con una resistencia a compresión axial aproximadamente un 30% mayor que a tracción axial.
+*   **Madera microlaminada (LVL)**: Producto derivado de chapas finas (3-5 mm) encoladas con las fibras en la misma dirección, utilizado estructuralmente.
+*   **Tableros**: Productos donde la longitud y anchura predominan sobre el espesor. Incluyen:
+    *   **Tableros de madera maciza**: Formados por tablas unidas mediante encolado o machihembrado.
+    *   **Contrachapado**: Compuesto por capas de chapas encoladas, con las fibras de capas consecutivas dispuestas a 90°.
+    *   **Tableros de fibras**: Fabricados con fibras lignocelulósicas, calor, presión y aglomerante sintético. Pueden ser de densidad media (DM/MDE), duros o semiduros.
+    *   **Aglomerado**: Partículas de madera u otros materiales leñosos aglomeradas con adhesivo y presión/calor.
+    *   **OSB (Oriented Strand Board)**: Similar al aglomerado, pero con virutas más grandes y orientadas longitudinalmente en las capas externas para mejorar las propiedades mecánicas en esa dirección, a expensas de la dirección perpendicular.
+
+El **comportamiento mecánico de los tableros** varía significativamente según el modelo y la dirección de aplicación del esfuerzo, siendo inversamente proporcional a su espesor y grado de humedad.
+
+## Conceptos Físicos Aplicados a la Edificación
+
+La estabilidad y el comportamiento de las edificaciones se rigen por principios fundamentales de la física.
+
+### Fuerza y Momentos
+
+La **fuerza** se define como una magnitud vectorial que describe la interacción entre cuerpos, calculada como el producto de la masa por la aceleración (F = m · a). Sus atributos son el módulo (magnitud), dirección, sentido y punto de aplicación. La unidad en el Sistema Internacional (SI) es el Newton (N), equivalente a kg·m/s². Las tres **Leyes de Newton** (inercia, F=ma, acción-reacción) son la base de la mecánica de fuerzas, implicando que toda fuerza aplicada (acción) debe ser contrarrestada por otra igual y de sentido contrario (reacción) para mantener el equilibrio. Las fuerzas pueden componerse (sumarse, restarse, multiplicarse) para generar fuerzas resultantes.
+
+Un **par de fuerzas** es un sistema de dos fuerzas paralelas de igual intensidad pero sentidos opuestos. Su efecto se cuantifica mediante el **momento** (o momento de un par de fuerzas), que es el producto de la magnitud de una de las fuerzas por la distancia perpendicular entre ellas (brazo del par). Se mide en Newton-metro (N·m). El momento de un par de fuerzas con respecto a un punto indica su capacidad para cambiar el estado de rotación de un cuerpo alrededor de un eje. Para evitar esta rotación, se genera un **momento resistente** o de **empotramiento** de magnitud idéntica y sentido contrario. Los momentos pueden ser positivos (giro horario) o negativos (giro antihorario). Un **giro libre** resulta en un momento nulo cuando las fuerzas se alinean y el brazo de palanca se anula.
+
+### Equilibrio Estático y Elasticidad
+
+La **estática** es la rama de la mecánica que estudia el equilibrio de fuerzas y momentos en sistemas físicos. El **equilibrio estático** se logra cuando no hay movimientos relativos de los elementos del sistema, lo que implica que la suma de todas las fuerzas (ΣF) y momentos (ΣM) en cada cuerpo es cero. Las cargas que soporta una estructura se manifiestan como **empujes** (fuerzas) y **giros** (momentos), los cuales deben ser contrarrestados por reacciones opuestas.
+
+El **centro de gravedad** de un cuerpo es el punto donde se puede considerar concentrado todo su peso. Para que un objeto apoyado sobre una base plana esté en equilibrio estable, la vertical que pasa por su centro de gravedad debe caer dentro de la base de apoyo. Si el cuerpo se desvía ligeramente, un momento restaurador tenderá a devolverlo a la posición inicial; sin embargo, si se aleja demasiado y el centro de gravedad cae fuera de la base, el cuerpo rotará hasta una nueva posición de equilibrio.
+
+La **elasticidad** es la capacidad de los materiales para deformarse reversiblemente bajo fuerzas externas y recuperar su forma original al cesar estas fuerzas. La **plasticidad**, por otro lado, describe deformaciones permanentes que ocurren cuando los esfuerzos superan el límite elástico del material, a menudo acompañadas de pérdida de sección y resistencia. La **Ley de Hooke** (σ = Eε) establece que la tensión (σ) en un cuerpo sólido es directamente proporcional a su elasticidad (E, Módulo de Young) y a la deformación (ε). Materiales como el acero y el hormigón poseen módulos de elasticidad muy diferentes, lo que resulta en distintas deformaciones bajo la misma carga. Por ejemplo, el hormigón puede deformarse hasta diez veces más que el acero.
+
+### Comportamiento Térmico
+
+Las variaciones térmicas, frecuentes en escenarios de incendios, afectan el comportamiento de los materiales.
+*   El **coeficiente de conductividad térmica (λ)** cuantifica la capacidad de un material para conducir calor. Se mide en W/m·°C o W/m·K. Materiales con valores bajos (como corcho, fibra de vidrio o poliuretano) son buenos aislantes, mientras que los metales (hierro, acero, aluminio) son excelentes conductores.
+*   El **coeficiente de dilatación térmica (α)** mide el cambio de dimensión lineal de un material por cada grado de aumento de temperatura. Por ejemplo, una viga de hormigón armado de 10 metros de longitud que experimenta un aumento de temperatura de 20°C a 400°C sufrirá una dilatación lineal de 5.76 cm (considerando α = 0.000012 1/°C), generando empujes laterales que pueden causar el colapso estructural.
+
+## Acciones en la Edificación
+
+Según el Código Técnico de la Edificación (CTE DB SE AE), las fuerzas, cargas o solicitaciones que un edificio debe soportar se clasifican en:
+
+### Acciones Permanentes
+
+Son cargas que actúan de forma constante a lo largo de la vida útil del edificio:
+*   **Peso propio**: Incluye el peso de todos los materiales (cal, yeso, cemento, mortero, hormigón, acero, adobe, ladrillo, bloque de hormigón, piedra natural, madera) y elementos constructivos (cubiertas, forjados, solados, cerramientos, tabiquería). Los pesos específicos varían, por ejemplo, el acero (77-78.5 kN/m³) es mucho más denso que la madera (3.5-5.0 kN/m³), mientras que los forjados pueden oscilar entre 2.0 y 5.0 kN/m².
+*   **Pretensado**: Esfuerzos asociados al tensado de barras de acero y compresión del hormigón, previos al fraguado.
+*   **Acciones del terreno**: Fuerzas generadas por el terreno en contacto con la estructura (peso, empujes, hundimientos), cuya cuantía depende del material (arcillas, gravas/arenas) y la altura del terreno. Por ejemplo, el empuje de arcilla a 1 metro de profundidad es de 5 kN/m², y a 3 metros, 15 kN/m².
+
+### Acciones Variables
+
+Son cargas cuya cuantía y presencia pueden variar en el tiempo:
+*   **Sobrecarga de uso**: Peso de elementos necesarios para el uso del edificio. Puede ser uniforme (kN/m²) o concentrada (kN). Por ejemplo, en viviendas es de 2 kN/m² (uniforme) y 2 kN/m² (concentrada), mientras que en áreas de aglomeración pública es de 5 kN/m² (uniforme) y 7 kN/m² (concentrada).
+*   **Acciones sobre barandillas y elementos divisorios**: Fuerza horizontal uniforme (el CTE estipula 1-3 kN/m, pero para bomberos se considera un máximo de 0.5 kN/m).
+*   **Viento**: Presiones y succiones sobre la estructura (simplificado a 0.5 kN/m² en España).
+*   **Acciones térmicas**: Deformaciones por variaciones de temperatura. Se pueden despreciar si hay juntas de dilatación cada 40 m en estructuras de hormigón o acero.
+*   **Nieve**: Sobrecarga por acumulación de nieve en cubiertas (1.0 kN/m² para localidades con altitud inferior a 1.000 m).
+
+### Acciones Accidentales
+
+Cargas debidas a riesgos naturales o accidentes antrópicos:
+*   **Sismo**: Respuesta del edificio a movimientos sísmicos. La norma sismorresistente (NCSR-02) considera peligrosos sismos con aceleración superior a 0.04 veces la gravedad.
+*   **Incendio**: Los edificios deben resistir incendios durante un tiempo mínimo (CTE-DB SI).
+*   **Impacto**: Acciones generadas por impactos accidentales (excluye impactos premeditados). El impacto de vehículos de hasta 30 kN de peso total se calcula como 50 kN en dirección paralela a la vía y 25 kN en dirección perpendicular. Para carretillas elevadoras, se estima en cinco veces su peso máximo autorizado.
+
+## Esfuerzos y Tensiones en la Edificación
+
+Los elementos estructurales de un edificio, al estar sometidos a cargas, experimentan esfuerzos internos que se manifiestan como tensiones.
+
+Una **tensión** es la fuerza por unidad de área que resulta de la transmisión de carga a través del material. Se mide en N/mm² (equivalente a 1 Kg/cm² o 1 MPa).
+
+Según los coeficientes de seguridad, se distinguen:
+*   **Tensión de rotura**: Tensión máxima que un material puede soportar antes de fracturarse, determinada en laboratorio sin coeficientes de seguridad.
+*   **Tensión de trabajo**: Umbral máximo de tensión para que una estructura funcione con seguridad, considerando coeficientes de seguridad, generalmente entre el 70% y el 80% de su límite elástico.
+
+Los **tipos de esfuerzos** se clasifican según su naturaleza:
+*   **Esfuerzos simples**:
+    *   **Compresión**: Las partículas del material tienden a reducir su distancia, es decir, el material se aprieta. Elementos como pilares o muros de fábrica son frecuentemente comprimidos.
+    *   **Tracción**: Las partículas del material tienden a separarse, el material se estira. Los tirantes son elementos traccionados.
+    *   **Cortante/Cizalladura**: Las partículas del material se deslizan con movimiento relativo. Ocurre al someter una pieza a dos fuerzas paralelas no coincidentes y de sentidos opuestos, como en la unión de una viga con un pilar.
+*   **Esfuerzos compuestos**:
+    *   **Flexión**: Una pieza longitudinal es sometida a una carga transversal, generando simultáneamente esfuerzos de tracción en una parte y compresión en la opuesta (ej. vigas). En voladizos, la flexión se invierte.
+    *   **Pandeo**: Deformación de elementos largos y delgados por fuerzas de compresión axial (ej. un tirante comprimido). También conocido como flexión compuesta.
+    *   **Torsión**: Esfuerzo creado por una fuerza circular aplicada a una pieza (ej. voladizos).
+
+Los **cortantes y flexiones** están íntimamente asociados. En una viga, las fibras extremas experimentan tensiones normales (compresión o tracción por flexión), mientras que en la **fibra neutra** (línea imaginaria en el centro de gravedad sin esfuerzos de flexión) predominan las tensiones cortantes

@@ -1,0 +1,63 @@
+## Comportamiento Estructural de Edificaciones ante Incendios e Impactos y Evaluación de la Ruina
+
+La estabilidad de una edificación, crucial para la seguridad de sus ocupantes y la efectividad de las intervenciones de los cuerpos de bomberos, se analiza a través del comportamiento de sus materiales constitutivos frente a diversas solicitaciones, así como por la evaluación del estado general de la estructura.
+
+### Comportamiento de los Materiales de Construcción ante el Fuego
+
+Los diferentes materiales empleados en la construcción presentan características variadas frente a la acción del fuego, lo que influye directamente en su resistencia y la respuesta estructural del edificio.
+
+En el caso del **acero**, este material se caracteriza por su alta conductividad térmica y elevado coeficiente de dilatación (aproximadamente 0,000012 ºC⁻¹). A pesar de ser incombustible y no contribuir a la propagación del incendio, el acero es considerado estructuralmente peligroso en un siniestro. Su resistencia comienza a disminuir a partir de los 300 ºC y pierde dos tercios de su capacidad entre 500 y 600 ºC, alcanzando un tercio entre 600 y 700 ºC. El "punto crítico" de 538 ºC marca el colapso inminente al perder más del 50% de su resistencia de diseño. Por ejemplo, una viga de acero de 10 metros expuesta a un incendio que eleve su temperatura de 20 ºC a 300 ºC experimentará una dilatación lineal de 3,36 cm, generando empujes laterales que pueden colapsar la estructura. Los tiempos de colapso son rápidos; un perfil HEB-300 puede ceder en 11 minutos si está expuesto por 4 caras, y en 31 minutos si lo está por una sola. La dilación y contracción del acero durante el enfriamiento pueden causar el derrumbe de elementos colindantes.
+
+Por su parte, el **hormigón armado** presenta una alta masa y densidad, lo que le confiere una elevada inercia térmica y una baja conductividad, limitando la zona afectada por el calor. Su coeficiente de dilatación es bajo, similar al del acero, pero las dilataciones son más lentas, lo que permite una redistribución gradual de los esfuerzos. Es un material incombustible (clasificado como M0 o A1) y no contribuye al inicio ni a la propagación del incendio. Sin embargo, su resistencia disminuye significativamente a partir de los 380 ºC. La grava en su composición puede disgregarse a los 1000 ºC, y a partir de los 600 ºC, el hormigón se vuelve frágil. Los daños se manifiestan con cambios de coloración: se mantiene gris original hasta los 300 ºC, adquiere tonos rojizos entre 300 y 600 ºC, y a partir de 900 ºC, se vuelve blanco o amarillo pálido, indicando una pérdida casi total de resistencia. El colapso del hormigón armado se atribuye a procesos termomecánicos (dilataciones diferenciales entre hormigón y acero) y termohidráulicos (generación de vapor de agua en los poros, causando *spalling* o desprendimiento explosivo de capas).
+
+En contraste, el **hormigón pretensado y postensado** muestra un comportamiento significativamente inferior al del hormigón armado frente al fuego. Al utilizar alambres de acero de menor diámetro en lugar de barras, el colapso es más rápido. La pérdida de resistencia es más pronunciada, especialmente en elementos sometidos a tracción y flexión. A altas temperaturas, las armaduras pretensadas se deforman rápidamente, liberando la tensión aplicada y reduciendo la capacidad estructural sin posibilidad de recuperación tras el enfriamiento. Cuando el hormigón pierde el 35% de su resistencia, el acero de pretensado ya ha perdido entre el 60% y el 70% de su capacidad. La situación es aún más crítica en el postensado, donde la protección de las armaduras en vainas es mínima.
+
+La **fábrica** (mampostería o ladrillo) se caracteriza por su gran masa e inercia térmica, baja conductividad y bajo coeficiente de dilatación, siendo un material incombustible que no propaga el incendio. Ofrece una alta resistencia al fuego en muros de piedra o ladrillo macizo, y media o baja en hormigón o ladrillo con altos índices de huecos. Aunque no suelen desplomarse por acción directa del fuego, las diferencias de temperatura entre sus caras pueden causar combamiento y la necesidad de refuerzos. La pérdida de arriostramiento debido a la caída de forjados superiores puede provocar el desplome de muros de fábrica. La exposición prolongada a altas temperaturas puede generar roturas y deformaciones en materiales pétreos o cerámicos.
+
+Finalmente, la **madera** se distingue por su baja masa y densidad, que permiten un rápido incremento de temperatura, aunque su humedad inicial puede retrasar este proceso. Posee baja conductividad y dilatación térmica. Sin embargo, su reacción al fuego es alta, siendo un material combustible que contribuye a la carga térmica y a la propagación del incendio. Curiosamente, la madera no pierde sus propiedades resistentes al ser atacada por el fuego; de hecho, puede “ganar” resistencia al principio del incendio debido a la disminución de humedad. La reducción de su resistencia se debe a la carbonización progresiva de su sección, estimada en 1 cm cada 15 minutos. Las estructuras de madera suelen ser isostáticas y de poca altura, facilitando su control. No obstante, presenta vulnerabilidades como la presencia de vicios ocultos (carcoma, pudriciones) y uniones metálicas.
+
+### Sistemas de Protección contra el Fuego en Edificaciones
+
+Para proteger las estructuras del fuego y evitar su colapso, así como la propagación del incendio, se emplean diversos sistemas:
+
+En el ámbito de la **protección estructural**, se utilizan:
+*   **Paneles ignífugos**, como los de cartón yeso, que se instalan alrededor de elementos de acero. Su espesor se calcula en función de la resistencia al fuego requerida.
+*   **Pinturas intumescentes**, que, al alcanzar temperaturas superiores a 200 ºC, reaccionan creando una capa esponjosa que puede multiplicar su espesor hasta 50 veces, proporcionando aislamiento térmico durante 60 a 120 minutos.
+*   **Protección sólida**, que consiste en recubrir los elementos estructurales con hormigón en masa, aumentando su resistencia al fuego.
+*   **Morteros** con aditivos como perlita o vermiculita, aplicados sobre perfiles para mejorar su resistencia.
+*   **Filmes o mantas** de fibra cerámica o lana de roca, usadas para proteger perfiles metálicos.
+*   **Estructuras externas**, que, al situarse fuera del edificio, reducen los requisitos de protección pasiva.
+*   **Recubrimientos de albañilería**, utilizando ladrillo o bloques de hormigón para proteger entramados de madera o estructuras de acero.
+*   **Pantallas**, como tabiquerías interiores, perimetrales o falsos techos, que contribuyen a la integridad, aislamiento y estabilidad del conjunto.
+*   El **relleno de perfiles tubulares huecos** con hormigón, hormigón celular o agua, que actúa como masa térmica para absorber calor.
+
+Para la **protección contra la propagación de incendios en instalaciones**, se aplican:
+*   **Cortafuegos lineales** en bandejas de cables, mediante revestimientos resistentes al fuego cada cierto número de metros.
+*   **Almohadillas intumescentes** para sellar pasos de bandejas de cables o penetraciones, que se dilatan con el calor.
+*   **Conductos resistentes al fuego**, construidos con paneles, para crear sectores de incendio independientes en instalaciones.
+*   **Collarines intumescentes** para tuberías inflamables de plástico, que se expanden para sellar la abertura y evitar el paso de calor y humos.
+*   **Conductos de ventilación** con materiales incombustibles, rejillas intumescentes y compuertas cortafuegos, para evitar la propagación a través de ellos.
+
+### Patologías por Causas Accidentales: Impacto
+
+El riesgo de impacto se define como el choque violento de un cuerpo contra una edificación, excluyendo los impactos premeditados. El **Código Técnico de la Edificación (CTE DB SE AE)** establece el marco normativo para la protección de elementos resistentes.
+
+Los **factores** que influyen en la magnitud y características de las acciones por impacto son la masa y velocidad del cuerpo impactante, así como su capacidad de deformación y amortiguación y la del elemento impactado. En el caso de vehículos, los valores de cálculo para impactos de hasta 30 kN de peso total son 50 kN en dirección paralela a la vía y 25 kN en dirección perpendicular. Para carretillas elevadoras, se considera un impacto equivalente a cinco veces su peso máximo autorizado.
+
+En las **intervenciones de bomberos**, el riesgo de impacto es de alta magnitud y puede causar el colapso inmediato. Los cerramientos prefabricados de naves industriales, que históricamente se encastraban en perfiles metálicos y ofrecían buen comportamiento al fuego, ahora a menudo se fijan con grapas y tacos, careciendo de resistencia al fuego y colapsando rápidamente en caso de incendio o impacto vehicular. Es fundamental que los sistemas de fijación y anclaje estén homologados, ya que el uso de grapas y tacos puede generar inestabilidad. Los anclajes externos, además, son vulnerables a la corrosión.
+
+### Evaluación de la Seguridad y el Estado de Ruina de Edificaciones
+
+La **seguridad de un edificio** se entiende como su capacidad para soportar de forma estable las cargas durante su vida útil (50 años según el CTE DB SE). Las edificaciones construidas conforme a la normativa actual se consideran seguras, aunque con valores probabilísticos. Sin embargo, las construcciones antiguas o sin normativa pueden carecer de referencias de diseño, lo que no implica necesariamente inseguridad, pero sí requiere una evaluación más exhaustiva.
+
+Los **escalafones para catalogar la estabilidad** de una edificación, especialmente en una intervención de emergencia, son:
+*   **Estado de confianza:** No se aprecian situaciones de riesgo en la estructura.
+*   **Estado de precariedad:** Existen deficiencias que disminuyen las garantías de seguridad, pero no representan un peligro inmediato.
+*   **Estado de peligro/ruina:** La estructura no puede soportar las acciones permanentes o variables bajo un uso normal, y este estado degenerativo puede llevar al colapso.
+
+El concepto de **ruina** se refiere a un estado de seguridad comprometido por patologías graves que amenazan la estabilidad o hacen el edificio inservible para su uso previsto. Su marco legal incluye la Ley 38/1999 de Ordenación de la Edificación (Art. 3 sobre requisitos básicos y Art. 17 sobre responsabilidad de los agentes), el Código Civil (Art. 1591) y la jurisprudencia del Tribunal Supremo.
+
+Existen dos tipos principales de ruina:
+*   **Ruina funcional:** Se declara cuando el edificio se vuelve inútil o inservible para su destino, sin que su estabilidad se vea necesariamente afectada.
+*   **Ruina constructiva:** Se subdivide en:
+    *   **Ruina potencial o incipiente:** Se manifiesta por vicios constructivos iniciales que, si no se corrigen, podrían evolucionar a problemas graves, aunque aún no comprometen la estabilidad.

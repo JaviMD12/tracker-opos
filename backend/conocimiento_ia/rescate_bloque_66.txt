@@ -1,0 +1,127 @@
+## El Rescate en Altas Temperaturas y la Intervención en Accidentes de Tráfico
+
+Este manual aborda las técnicas y consideraciones fundamentales para el rescate en diversas situaciones de emergencia, centrándose en la física de las caídas, los equipos de seguridad, la valoración de riesgos y las tácticas de intervención en accidentes de tráfico, así como el marco legal que rige estas operaciones.
+
+### Física de la Caída y Equipos de Seguridad en Rescate Vertical
+
+La **cadena de seguridad** en rescates verticales es un conjunto de elementos que trabajan de forma conjunta para absorber la energía generada durante una caída y lograr una detención amortiguada, previniendo así daños al usuario. Esta cadena se inicia en el arnés del bombero y se extiende a través del nudo de encordamiento, la cuerda, los mosquetones, las cintas de los seguros intermedios y los anclajes fijos, culminando en el elemento asegurador y su arnés. La eficacia de la detención depende de la técnica empleada, los anclajes y los materiales.
+
+La **energía de una caída** está directamente relacionada con la masa del usuario y la altura de la caída. A mayor masa, mayor energía debe disiparse. Un factor crucial es el **factor de caída**, calculado como la división entre la longitud de la caída y la longitud de cuerda utilizada para detenerla. Este factor determina la gravedad de la caída: un valor más alto implica mayor gravedad. En condiciones normales de escalada, el factor de caída oscila entre 0 y 2. Para limitar los esfuerzos transmitidos al cuerpo humano, es imperativo **absorber la energía** de la caída. El cuerpo humano solo puede soportar una fuerza de choque máxima de 12 kN durante una fracción de segundo, aunque la normativa laboral establece un límite inferior de 6 kN. Esto se consigue manteniendo los elementos de amarre fijos por encima de la cabeza del trabajador o utilizando equipos de protección individual (EPI) amortiguadores de choque, como los absorbedores de energía.
+
+La **fuerza de choque** es la energía residual que la cuerda transmite al bombero tras detener una caída. Una cuerda que absorbe correctamente esta energía reduce el impacto. Sin embargo, en un sistema donde la cuerda pasa por un mosquetón o polea (efecto polea), la fuerza total ejercida sobre el anclaje puede ser aproximadamente 1,60 veces la fuerza que actúa sobre el bombero.
+
+La **altura libre de seguridad** es la distancia mínima necesaria por debajo de un sistema anticaídas para asegurar que el usuario no colisione con obstáculos durante la detención de una caída. Esta altura se calcula considerando la distancia de parada de los aparatos móviles, la longitud de desgarro del absorbedor de energía, la altura media del usuario, un margen de seguridad y la elasticidad de la cuerda.
+
+En el contexto del rescate, la **cuerda** es el componente más vital de la cadena de seguridad. Se fabrica con fibras derivadas del petróleo (poliamidas, poliéster, polipropileno) y consta de dos partes: el **alma** (interior, con 75-80% de resistencia) y la **camisa o funda** (exterior, que protege contra la abrasión y agentes externos, aportando un 20-25% de resistencia). Las cuerdas se clasifican por sus propiedades mecánicas en:
+*   **Cuerdas dinámicas**: Con una capacidad de alargamiento del 6-10%, reguladas por la norma EN 892, se emplean en maniobras con riesgo de caída para reducir la energía del impacto.
+*   **Cuerdas semiestáticas**: Con un alargamiento menor (2-5%), reguladas por la norma EN 1891, se utilizan para trabajos en suspensión y rescate de heridos, evitando el efecto "yo-yo" por su baja elasticidad. Se subdividen en Tipo A (resistencia mínima de 22 kN, con fuerza de choque máxima de factor 0,3 con 100 kg) y Tipo B (resistencia mínima de 18 kN, con fuerza de choque máxima de factor 0,3 con 80 kg).
+
+Es crucial realizar **revisiones periódicas** de las cuerdas (visual y táctil, con la prueba del bucle) para detectar cortes, daños en la camisa o discontinuidades en el alma. Las cuerdas con anomalías o que hayan sufrido un choque significativo deben ser desechadas. Antes de su primer uso, es recomendable sumergirlas en agua, ya que tienden a encogerse un 2%.
+
+Los **Sistemas de Anclaje de Seguridad (SAS)**, equivalentes a las reuniones en alpinismo y escalada, deben ser rigurosos y seguros. Deben contar con al menos dos anclajes (idealmente tres), siendo al menos uno de máxima garantía. Los mosquetones de seguridad deben ser sobredimensionados (resistencia longitudinal superior a 22 kN), las cintas deben tener resistencia adecuada, y las cuerdas deben estar en perfecto estado, nunca auxiliares. Además, el SAS debe incluir un punto central de anclaje y ser simple para facilitar la verificación. La ubicación de los anclajes debe resistir grandes cargas y es preferible anclar en elementos estructurales robustos, lo más bajo posible para minimizar el brazo de palanca. Se recomienda revisar la dirección de la carga y que los anclajes sean multidireccionales. Si no es posible, se deben instalar reenvíos y desviadores.
+
+Existen dos configuraciones principales de SAS:
+*   **SAS en línea**: Para unir anclajes distanciados o de resistencia desigual, la carga principal recae sobre el anclaje de mayor calidad.
+*   **SAS con triángulo de fuerzas**: Distribuye equitativamente la carga entre dos o más seguros, ajustándose a nuevas direcciones. Es vital que el ángulo de los lados exteriores del triángulo no supere los 60º para evitar sobrecargas. Si un anclaje falla, los demás deben soportar la carga. Si la calidad de los anclajes no es uniforme, se debe bloquear el triángulo en el lado dudoso.
+
+Los **reenvíos y desviadores** son instalaciones que modifican la trayectoria de la cuerda para evitar roces o caídas de piedras. Sin embargo, un ángulo excesivo puede incrementar significativamente la carga sobre el anclaje. Por ejemplo, un ángulo de 90º puede aumentar la carga al 141%.
+
+### Nudos y Polipastos en Maniobras de Rescate
+
+Los **nudos** son lazos que se estrechan y cierran dificultosamente, utilizados para unir al bombero con la cuerda, la cuerda con los seguros, o para fijar y unir cuerdas y objetos. Un nudo se compone de **chicote** (extremo), **seno** (curvatura) y **firme** (parte larga). Los requisitos de un buen nudo incluyen: facilidad de ejecución y revisión, resistencia a cargas, facilidad para deshacerse tras la tensión sin riesgo de deshaz accidental, y mínima pérdida de resistencia de la cuerda. La pérdida de resistencia de la cuerda al hacer un nudo es una consideración importante.
+
+Los nudos se clasifican según su utilidad:
+*   **De encordamiento**: como el **ocho por chicote** (el más utilizado, con pérdida de resistencia del 20-30%, siempre a perneras y cintura, no al anillo central).
+*   **De unión**: para unir cuerdas. El **ocho por chicote y enfrentado** (fácil de recordar, para cuerdas del mismo diámetro, pérdida del 20-30%) y el **pescador doble** (para cuerdas de distinto diámetro, no se desliza, pero difícil de deshacer mojado, pérdida del 20-30%). Para cintas planas, el **nudo de cinta plana** es el único fiable (homologado UIAA, con cabos largos de 7 cm, pérdida del 35-40%).
+*   **De amarre**: para fijar la cuerda a un punto. El **ocho por seno** (más usado, similar al ocho por chicote en resistencia, 20-30%), el **nudo de nueve** (para grandes cargas y tracciones, fácil de deshacer, poca pérdida de resistencia, 17-25%), el **nudo sin tensión** (para anclajes cilíndricos de máxima responsabilidad, sin pérdida de resistencia), la **presilla de alondra** (nudo auxiliar para anclajes de poca responsabilidad, funciona mejor con tensión, pérdida del 45-50%), y el **ocho doble seno** (para anclajes SAS, une dos anclajes a la vez, multidireccional).
+*   **Autoblocantes**: como el **Machard con dos senos** (bloquea bidireccionalmente, eficacia depende del diámetro de cuerda/cordino y número de vueltas, bloquea 300 kg con 6 vueltas, 200 kg con 4, aprovecha 100% resistencia del cordino) y el **Prusik** (mayor capacidad de bloqueo, bidireccional, rápido de ejecución y bloqueo bajo carga, difícil de desbloquear tras carga, pérdida del 40% resistencia del cordino).
+*   **Tensores**: como el **Pasabloc** (sistema de tensado rápido, retensable, aflojable, 3:1 de ventaja mecánica, útil para tirolinas) y el **Pico de pato** (tensado sin mosquetones, polea móvil, gran fuerza de tracción).
+*   **Direccionales**: como el **nudo de siete** (direccional, sencillo, pérdida del 30-35%) y el **nudo romano** (más resistente que el de siete, se afloja mejor, pérdida del 20-30%).
+*   **Especiales**: como el **nudo dinámico o medio ballestrinque/UIAA** (aseguramiento dinámico, diseñado para mosquetones HMS, fuerza de frenado 150-300 kg, usar con guantes, pérdida de resistencia del 55%), y el **nudo de mula o fuga** (bloquea la cuerda sobre el sistema de seguro, se utiliza para rematar maniobras de seguridad o como nudo de fuga en combinación con el dinámico).
+
+Los **polipastos** son combinaciones de poleas fijas y móviles con una cuerda anclada a un punto fijo, lo que reduce el esfuerzo necesario para mover una carga. La **Ventaja Mecánica (VM)** es la relación entre la fuerza aplicada y el peso de la carga. La elección del polipasto depende de la verticalidad, la cuerda disponible, el número de poleas móviles (mayor número = mayor desmultiplicación, pero sistema más lento), el número de efectivos y el peso de la carga.
+
+Los componentes principales de un polipasto son las poleas (fijas o móviles) y, a menudo, un freno o bloqueador (formando un **polifreno**).
+*   **Polea fija**: Palanca de primera clase (apoyo entre empuje y resistencia), VM de 1:1.
+*   **Polea móvil**: Palanca de segunda clase (apoyo en un extremo, resistencia en el centro), VM de 2:1.
+*   **Polifreno**: Polea con bloqueador incorporado para evitar el retorno de la carga, como el PRO-TRAXION (permite montar sistemas antirretorno). Los polipastos con descensores como el ID de Petzl, permiten revertir la maniobra, pero con una pérdida de VM del 10%.
+
+Los **polipastos simples** obtienen su ventaja mecánica de la suma de poleas móviles en la carga:
+*   **Polipasto 2:1**: Una polea móvil duplica la desmultiplicación (F = P/2). Si las cuerdas no están paralelas (ángulo de 0º), la VM disminuye (ej. a 60º, F = P).
+*   **Polipasto 3:1 (o en N)**: Combinación de polea móvil y fija (polifreno), VM de 3:1. Requiere polifreno, polea, bloqueador y dos mosquetones.
+*   **Polipasto 5:1**: Similar al 3:1, pero con polea doble o añadiendo una polea fija adicional.
+
+Los **polipastos compuestos** se forman montando polipastos sobre otros, multiplicando sus ventajas mecánicas (ej. 3:1 sobre 3:1 da 9:1). Requieren mucha cuerda y ofrecen poco avance por tracción, pero son útiles con pocos efectivos.
+
+### Técnicas de Ascenso y Descenso con Cuerdas
+
+El **descenso por cuerda (rapel)** es la técnica más común, utilizando un descensor. Para uso profesional, se recomiendan descensores autoblocantes con sistema antipánico (como el ID de Petzl), ya que a menudo se desciende con víctimas. El procedimiento incluye anclar la cuerda, asegurar el final con un nudo, pasar la cuerda por el descensor fijado al arnés, ejercer tensión para verificar el bloqueo y controlar el deslizamiento de la cuerda con la mano y la palanca. Es fundamental bajar suavemente, evitar saltos (que duplican o triplican la carga sobre el anclaje) y realizar descensos lentos para prevenir el sobrecalentamiento del descensor y el daño a la cuerda.
+
+Existen tres formas de **descenso de cargas**:
+*   **Control desde arriba**: Cómodo y fácil de controlar, adecuado para lugares con buen acceso superior. Se instala un SAS proporcional a la carga y un freno con buena capacidad (ej. ID). Puede requerir dos operadores y un nudo dinámico para cargas elevadas.
+*   **Método STEF (Sistema Técnico de Equilibrado Fácil)**: Permite equilibrar y cambiar la posición de una camilla (horizontal a vertical y viceversa) con facilidad, ideal para evacuar. Requiere un polifreno en las cintas de los pies de la camilla y una cuerda auxiliar.
+*   **Control desde abajo**: Requiere el doble de cuerda y un reenvío superior de alta calidad. Se monta un SAS superior para el reenvío y otro inferior para el frenado.
+
+El **izado de cargas** es más costoso en material y personal. Siempre requiere un polifreno en la cuerda de tracción para evitar el retorno de la carga y un sistema de tracción (polipasto) adecuado al peso. Si se izan personas o camillas, se monta una cuerda de seguro sobre un SAS independiente. Se utilizan desviadores para evitar rozamientos.
+
+El **ascenso por cuerda** es complementario al rapel y esencial para la autonomía del bombero en el medio vertical.
+*   **Ascenso por recorridos verticales cortos**: Con descensor autoblocante y puño bloqueador. Facilita el cambio de ascenso a descenso.
+*   **Ascenso por recorridos verticales largos**: Con puño bloqueador y bloqueador ventral. El croll se coloca en la anilla de la cintura del arnés y se fija a la anilla del pecho para mantenerlo tenso. El puño se ancla al arnés con un cabo largo. La secuencia implica subir el puño con el pedal, recuperar cuerda con el descensor y sentarse en el arnés.
+
+La **dinámica de la progresión** en estructuras verticales sin ayuda de cuerda se refiere a las técnicas utilizadas para ascender. Se distinguen:
+*   **Accesos por cabo de anclaje doble**: Lento y poco polivalente, usado ocasionalmente.
+*   **Accesos con pértiga y línea de vida temporal**: Más polivalente, pero con limitaciones.
+*   **Accesos con progresión de primero de cuerda**: El más polivalente y exigente físicamente, pero el más peligroso en caso de caída. Requiere preparación de material, encordamiento a cuerda dinámica y un asegurador que controle la cuerda. El que progresa se autoasegura y coloca puntos de seguro, espaciándolos más a medida que gana altura. El asegurador debe dar cuerda sin demasiada tensión ni comba.
+*   **Aseguramiento al segundo de cuerda**: Menos arriesgado, sin factor de caída. El asegurador suelta o recupera cuerda continuamente, permaneciendo autoasegurado.
+
+### Líneas de Vida y Tirolinas
+
+Las **líneas de vida** son sistemas anticaídas que permiten el tránsito, permanencia o trabajo en zonas con riesgo de caída desde altura, generalmente a partir de 2 metros del suelo o más de 3.5 metros con escaleras de mano (según el RD 486/1997). También se aplican a trabajos bajo nivel 0 (pozos, tanques enterrados, excavaciones > 1.5 m). La Ley de Prevención de Riesgos Laborales (31/1995) y normativa europea (EN 795) regulan su uso y homologación.
+Se clasifican por:
+*   **Temporalidad**: provisionales (temporales) o definitivas (duración indeterminada).
+*   **Plano**: horizontales (en tejados, cubiertas, planos inclinados) o verticales (escalas, torres).
+*   **Material**: rígidas (cable) o flexibles (cuerda).
+
+El **montaje de una línea de vida horizontal provisional** se realiza con cuerda semistática tensada. El bombero progresa asegurado con cuerda dinámica, instalando seguros intermedios y fraccionando la línea con nudos (ballestrinque o mariposa). Al finalizar, la línea se tensa, fija y bloquea (ej. con ID o similar), permitiendo el autoaseguramiento. Es crucial que la distancia entre seguros no sea excesiva, que la línea esté por encima de la cintura y, si no es posible, usar absorbedores de energía.
+La **línea de vida horizontal fija** se instala permanentemente en lugares con riesgo de caída. Sus componentes incluyen anclaje inicial, terminal, tensor, absorbedor de energía, anclajes intermedios y anclaje móvil.
+El **montaje de una línea de vida vertical provisional** es similar a la progresión vertical. Se ancla la cuerda al anclaje superior con un nudo y se tensa en la parte inferior. Si es necesario, se realizan fraccionamientos para agilizar el tránsito.
+Las **líneas de vida vertical fija** pueden ser de cuerda, carril o cable (Norma EN 795), requiriendo siempre arnés anticaídas. Los **carros** (elementos de conexión al cable o carril, regulados por EN 353/1) son útiles en aerogeneradores, grúas, torres.
+
+Las **tirolinas o teleféricos** son sistemas de cuerdas ancladas entre dos puntos para descender, elevar o transportar cargas o personas. La pendiente puede variar, requiriendo cuerdas de tracción y retención, especialmente si es horizontal. Las cuerdas de soporte deben ser semiestáticas y las de seguro dinámicas (para mayor margen de seguridad ante choques).
+En el **montaje de tirolinas**, la tensión sobre los anclajes es mayor que en fraccionamientos. Se usan anclajes triples con repartidor de cargas y nudos de ocho doble o simples. El tensado se hace con un descensor autoblocante o nudo dinámico bloqueado con nudo de fuga. Es vital sobredimensionar los SAS. Los ángulos abiertos (180º) sobrecargan los anclajes, por lo que una tensión excesiva puede ser peligrosa. La sobrecarga máxima ocurre en el centro de una tirolina horizontal. Un peso de 90 kg puede generar tensiones de hasta 1035 kg con un ángulo de 175º.
+Los métodos de tensado incluyen el **pasabloc** (menos traumático para cuerdas, 4:1 VM, fácil y cómodo) y el **tensado con aparato** (utiliza un bloqueador como el ID, daña menos la cuerda, actúa como fusible).
+En una tirolina, las **poleas** se colocan estratégicamente: fixe/rescue en cuerda de seguro (ancladas a camilla), tándem en cuerda de soporte (ancladas a fixe/rescue). Las cuerdas de tracción y retención van a los pies y cabecera de la camilla.
+
+### Acceso mediante Escaleras
+
+Las **escaleras** son herramientas esenciales para bomberos en rescates y acceso a estructuras elevadas. El trabajo en altura conlleva riesgos de caída a distinto nivel (superior a 1.5 metros) o trabajos bajo nivel 0 (pozos, zanjas, etc.).
+Es fundamental conocer la normativa aplicable:
+*   **Ley de Prevención de Riesgos Laborales (31/1995)**: Establece garantías básicas para la salud de los trabajadores, aplicable a bomberos, remitiéndose a normativa específica.
+*   **RD 773/1997**: Disposiciones mínimas sobre EPI, incluyendo listas indicativas de EPI, evaluación de riesgos, uso y mantenimiento.
+*   **RD 1407/1992**: Regula condiciones y certificaciones europeas (EN) para la comercialización de EPI, sirviendo de pauta para revisar materiales.
+*   **RD 486/1997**: Disposiciones mínimas de seguridad en lugares de trabajo, establece protección en altura para trabajos a más de 2 metros o con escaleras de mano de más de 3.5 metros.
+*   **RD 1215/1997**: Complementa el anterior, señala los 2 metros como altura para protección contra caídas y requisitos para equipos de trabajo y EPI.
+*   **RD 1627/1997**: Seguridad y salud en obras de construcción, relevante para intervenciones derivadas de siniestros en este sector.
+*   **RD 2177/2004**: Modifica el RD 1215/1997. Específicamente, para **escaleras de mano en trabajos verticales de altura superior a 3.5 metros**, el ascenso, descenso y trabajo deben hacerse de frente, manteniendo tres puntos de apoyo seguros. Si los movimientos o esfuerzos comprometen la estabilidad del trabajador, es obligatorio usar un EPI anticaídas o medidas alternativas. Prohíbe el uso simultáneo por dos o más personas.
+    *   Para **técnicas de acceso y posicionamiento mediante cuerdas**: Se requieren dos cuerdas con sujeción independiente (una de trabajo y otra de seguridad). Se usarán arneses adecuados conectados a la cuerda de seguridad. La cuerda de trabajo debe tener un mecanismo seguro de ascenso/descenso con bloqueo automático. Las herramientas deben sujetarse al arnés o asiento. El trabajo debe planificarse y supervisarse, previendo el rescate inmediato. Se impartirá formación adecuada y específica. **Excepcionalmente**, se permite una sola cuerda si la evaluación de riesgos indica que dos la hacen más peligrosa.
+
+La **normativa y certificaciones** para rescate con cuerdas en bomberos no es específica, por lo que se busca material con certificaciones y homologaciones según estándares existentes. El CT. 160 regula equipos contra caídas en altura (descensores, anticaídas, absorbedores, cuerdas de bajo alargamiento, arneses). El CT. 136 regula equipamiento de montañismo (cordinos, bloqueadores, poleas, cuerdas dinámicas). Los mosquetones se regulan por CE 362 (ámbito laboral) y CE 12275 (deportivo).
+
+Los **entornos de trabajo vertical** se definen por un riesgo de caída a distinto nivel superior a 1.5 metros o trabajos bajo nivel 0 (pozos, tanques enterrados > 1.5 metros). Los riesgos asociados exigen reglas elementales: anclajes rigurosos y seguros (duplicar o triplicar en rescate y tirolinas), organización adecuada del lugar de trabajo (instalaciones simples y verificadas), dispositivo de autoaseguramiento independiente y plan de evacuación (EPI diseñados para una persona, excepto en casos excepcionales como descenso/izado con camilla).
+
+Existen diversos **tipos de escaleras** utilizadas por bomberos:
+*   **Escaleras de mano**: corredera, de bisagra y articulada (certificación EN-131). Deben estar estables, con apoyo sólido y travesaños horizontales. Las suspendidas deben fijarse de forma segura. Las simples se colocan a 75º.
+    *   **Escalera de corredera**: Aluminio o madera, dos tramos de 5m con 16 travesaños, se deslizan por gargantas, perrillos de fijación (hasta 9m), protecciones plásticas en pezones, polea para cuerda. Se transporta con apoyos inferiores delante y tramo superior detrás. Se eleva empujando largueros, tirando de cuerda hasta la vertical, asegurando los perrillos y atando la cuerda. Ángulo de 30º con la pared. No saltar al subir/bajar. Hay modelos pequeños de 4,80m con ganchos, sin cuerda.
+    *   **Escalera de bisagra**: Dos secciones articuladas, muy versátil para poca altura. Puede usarse como extensión o simple (180º).
+    *   **Escalera articulada**: Tres puntos de articulación, como tijera, simple o andamio. Muy usada en excarcelación de vehículos pesados o como andamio a poca altura. Requiere plataforma (tablero espinal).
+    *   **Escaleras de asalto (ganchos y antepechos)**: Para condiciones adversas, fabricación estricta (UNE-EN 1147).
+        *   **Escala de ganchos**: Madera, 4m, 13 travesaños. Ganchos de hierro en semicírculo, tornillos pasantes. Cable de acero interno para evitar descolgarse. Para balcones, fachadas, tapias. Un solo usuario. Se transporta al hombro (peldaños 6 y 7, ganchos delante/adentro). Se apoya en el suelo, se eleva a la altura del balcón y se gira 180º para anclar los ganchos.
+        *   **Escalera de antepecho**: Aluminio, 14 peldaños. Dos grandes ganchos (60cm) con regatón y pincho. Para ventanas, terrazas, muros con antepecho. Se eleva con ganchos hacia afuera, se gira 180º, se baja hasta apoyar. Para subir de una planta a otra, se saca por la ventana, se gira 180º, se asciende con brazadas, se da media vuelta y se vuelve a colgar. Se atará por el regatón para alturas elevadas.
+
+La **inmovilización de una escalera** es crucial. La figura 89 muestra fases para fijarla a un poste.
+
+### Valoración de la Intervención Técnica
+
+Cuando se aborda un rescate técnico, la **valoración** debe ser sistemática y comprender 10 pasos críticos para asegurar el éxito y evitar daños. Primero, se **inspecciona la escena** para identificar riesgos potenciales (ambientales, físicos) para rescatadores, víctima u otros. Esto puede incluir la búsqueda de víctimas y el personal necesario.
+
+En segundo lugar, se **determinan las necesidades de primeros auxilios** a partir de la inspección, solicitando asistencia sanitaria. En rescates complejos o lejanos, pueden requerirse medios sanitarios helitransportados. Es más eficaz trasladar los medios a la víctima que

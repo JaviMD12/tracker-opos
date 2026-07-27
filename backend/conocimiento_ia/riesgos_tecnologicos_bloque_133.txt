@@ -1,0 +1,55 @@
+## Efectos y Normativa del Riesgo Eléctrico en Intervenciones de Emergencia
+
+La intervención ante incidentes con riesgo eléctrico requiere un profundo conocimiento de los efectos de la electricidad en el organismo humano y del marco normativo que regula las instalaciones eléctricas. Este saber es crucial para garantizar la seguridad de los intervinientes y optimizar las tácticas de rescate.
+
+### Efectos de la Electricidad en el Organismo Humano
+
+La gravedad de una lesión eléctrica en el cuerpo humano depende de múltiples factores, entre los que destacan las **condiciones fisiológicas de la piel**, como su espesor y dureza, la **tensión** y **presión** del contacto, la **superficie** de aplicación, el **recorrido de la corriente** a través del cuerpo y el **estado fisiológico** general de la persona.
+
+La **piel** actúa como un aislante natural, presentando una resistencia que varía típicamente entre 1.000 y 100.000 ohmios. Esta resistencia es generalmente mayor a la corriente continua (CC) que a la corriente alterna (CA). Sin embargo, en un contexto de emergencia, como el que enfrentan los bomberos, la resistencia corporal puede disminuir significativamente. Por ejemplo, los equipos de protección individual (EPI) pueden inducir sudoración, reduciendo la resistencia a valores inferiores a 1.000 ohmios. Además, un contacto puntiforme con presión elevada puede causar quemaduras cutáneas y afectar los tejidos internos. Los valores medios de resistencia para el cuerpo humano a 50 Hz son de 1.600 ohmios en ambiente seco, 800 ohmios en húmedo y 200 ohmios si la persona está sumergida. La Ley de Ohm (I = V/R) ilustra esta relación: una tensión de 220V aplicada a una resistencia de 1.000 ohmios resulta en una corriente de 22 mA, un valor considerablemente superior al umbral de seguridad de 30 mA.
+
+Los **efectos de la corriente alterna (CA)** a frecuencias de 50/60 Hz, que son las más críticas, se clasifican en cuatro zonas:
+*   **Zona 1 (hasta 0,5 mA):** Generalmente no produce ninguna reacción perceptible.
+*   **Zona 2 (de 0,5 mA a la línea b):** No genera efectos fisiológicos peligrosos.
+*   **Zona 3 (de la línea b a la curva c1):** No provoca daño orgánico, pero sí contracciones musculares que pueden dificultar la respiración y causar paradas cardíacas temporales sin fibrilación ventricular.
+*   **Zona 4 (por encima de la curva c1):** Representa un alto riesgo de parada cardíaca, fibrilación ventricular, parada respiratoria y quemaduras graves.
+
+Por su parte, la **corriente continua (CC)** se considera menos peligrosa que la alterna, ya que facilita que la persona pueda soltar objetos en contacto y presenta un umbral de fibrilación ventricular más elevado. Sus efectos también se dividen en cuatro zonas:
+*   **Zona 1 (hasta 2 mA):** No hay reacción, solo una ligera sensación de picazón.
+*   **Zona 2 (de 2 mA a la línea b):** No se producen efectos peligrosos.
+*   **Zona 3 (de la línea b a la curva c1):** Sin daño orgánico, pero puede causar perturbaciones reversibles en el funcionamiento cardíaco.
+*   **Zona 4 (por encima de la curva c1):** Induce efectos patofisiológicos peligrosos, incluyendo quemaduras profundas que se suman a otros efectos.
+
+Las **corrientes impulsionales**, originadas por descargas de condensadores, son peligrosas. En este caso, el riesgo principal de fibrilación ventricular se relaciona con la cantidad de electricidad (It) o la energía (I²t) para duraciones inferiores a 10 milisegundos. El umbral de dolor se sitúa entre 50 y 100x10⁻⁶ A²s. A frecuencias superiores a 1.000 Hz, los umbrales de acción de la corriente aumentan, y los efectos se limitan principalmente a un calentamiento térmico, sin provocar dolor.
+
+El **tiempo de contacto** es un factor crítico. La corriente alterna a 50 Hz es aproximadamente cuatro veces más peligrosa que la continua para un mismo nivel de tensión y corriente. Para que se produzca una fibrilación ventricular, se estima que el tiempo de contacto debe ser de al menos un segundo.
+
+La **trayectoria interna** que sigue la corriente en el cuerpo humano es la de menor resistencia, lo que hace que los órganos vitales como el corazón, los pulmones y el cerebro sean puntos de alto riesgo. Las trayectorias más peligrosas incluyen el paso de la corriente de una mano a la otra, o de la cabeza a las manos o los pies. En situaciones de rescate, para evitar el contacto directo con elementos bajo tensión, se recomienda palpar con el dorso de la mano.
+
+Los **síntomas** de un accidente eléctrico pueden ser inmediatos o diferidos. Los inmediatos incluyen sacudida eléctrica (con o sin pérdida de conocimiento), lesiones traumáticas asociadas, estado de muerte aparente, quemaduras y parálisis o convulsiones. Los síntomas diferidos pueden aparecer horas o días después e incluyen tetanización muscular (anulación de la capacidad para soltar el punto de contacto con corrientes de 10 mA, o 90 mA en CC y 80 mA a 5 kHz), paro respiratorio (por afectación del sistema nervioso), asfixia (por contracción del diafragma) y fibrilación ventricular (interrupción irreversible de la circulación sanguínea que lleva a lesiones cerebrales irreversibles en minutos). Las quemaduras se deben a la energía calorífica liberada, y su gravedad varía según la parte del cuerpo afectada. La muerte por electrocución se produce principalmente por parálisis de los centros nerviosos superiores, fibrilación ventricular o parálisis de los músculos respiratorios.
+
+### Marco Normativo y Componentes de las Instalaciones Eléctricas
+
+En España, el **Reglamento Electrotécnico de Baja Tensión (REBT)**, aprobado por el Real Decreto 842/2002 de 2 de agosto, es la normativa fundamental que establece las condiciones técnicas y de seguridad para las instalaciones eléctricas conectadas a una fuente de suministro de baja tensión. Sus objetivos principales son garantizar la seguridad de las personas y los bienes, asegurar el funcionamiento normal de las instalaciones y contribuir a su fiabilidad y eficiencia económica. Este reglamento se aplica a nuevas instalaciones, a sus modificaciones y ampliaciones importantes, así como a las instalaciones existentes que presenten riesgos graves o perturbaciones. Sin embargo, no aplica a instalaciones específicas como las de minas, tracción, automóviles, aeronaves, sistemas de comunicación o uso militar, ni a instalaciones de muy baja tensión (inferior a 50V en CA o 75V en CC) con fuente de energía autónoma.
+
+El REBT clasifica las **tensiones eléctricas** en tres categorías:
+*   **Muy baja tensión:** Hasta 50V en CA y hasta 75V en CC.
+*   **Tensión usual:** Entre 50V y 500V en CA, y entre 75V y 750V en CC.
+*   **Tensión especial:** Entre 500V y 1.000V en CA, y entre 750V y 1.500V en CC.
+Las tensiones nominales más comunes en distribución de corriente alterna son 230V entre fases, 230V entre fase y neutro, y 400V entre fases. La tensión se define, según el Artículo 8 del REBT, entre fase y tierra o entre dos conductores de fase.
+
+En cuanto a las **instalaciones de alumbrado exterior**, el Artículo 9 del REBT establece condiciones específicas basadas en la situación de intemperie y la facilidad de acceso. Los **tipos de suministro** (Artículo 10) se dividen en:
+*   **Suministros normales:** Un único punto de entrega y la potencia contratada.
+*   **Suministros complementarios o de seguridad:** Destinados a garantizar la continuidad del servicio, pueden ser de socorro (15% de la potencia contratada), de reserva (25% de la potencia contratada) o duplicado (más del 50% de la potencia contratada).
+
+La **estructura de las instalaciones de enlace**, que conectan la red de distribución con las instalaciones interiores o receptoras del usuario, se compone de:
+*   La **acometida** (Artículo 15), responsabilidad de la compañía eléctrica, que une la Red General de Distribución (RGD) con la Caja General de Protección (CGP).
+*   La **Caja General de Protección (CGP)**, que aloja elementos de protección de las líneas generales de alimentación y marca el inicio de la propiedad del usuario.
+*   La **Línea General de Alimentación (LGA)**, que conecta la CGP con la centralización de contadores.
+*   Los **elementos para la ubicación de contadores**.
+*   La **derivación individual**, que parte de la LGA y concluye en el Cuadro de Mando y Protección (CMP).
+*   El **Cuadro de Mando y Protección (CMP)**, obligatorio en viviendas y locales según el REBT, que contiene los dispositivos de protección y control internos, como el Interruptor de Control de Potencia (ICP), el Interruptor General Automático (IGA), el Interruptor Diferencial y los Pequeños Interruptores Automáticos (PIAs).
+
+El **grado de electrificación de una vivienda**, que puede ser básico (potencia no inferior a 5.750 W a 230 V, con cinco circuitos independientes) o elevado (potencia no inferior a 9.200 W a 230 V, con más de cinco circuitos), se calcula sumando las potencias de los receptores con una reducción del 40% por no uso simultáneo. Las compañías suministradoras facilitan los valores máximos previsibles de potencias y corrientes de cortocircuito para que el proyectista los considere en sus cálculos.
+
+Además del REBT, existen **otras fuentes regulatorias relevantes**, como el Reglamento de Líneas Aéreas de Alta Tensión (que especifica características para líneas trifásicas de CA a 50 Hz con tensiones superiores a 1.000V), el Reglamento de Centrales, Subestaciones y Centros de Transformación (que establece condiciones de seguridad para estas instalaciones) y las recomendaciones de UNESA (Asociación Española de la Industria Eléctrica), que colabora en la estandarización y fiabilidad de las instalaciones eléctricas. Las **fichas de instrucciones técnicas complementarias (ITC-BT)**, detalladas en el Reglamento, cubren aspectos como la terminología, las normas de referencia, los instaladores autorizados, la documentación, las verificaciones e inspecciones, y las redes de distribución de baja y alta tensión, entre otros muchos.

@@ -1,0 +1,55 @@
+## Técnicas de Control de la Ventilación en Incendios de Interior
+
+El control de la ventilación constituye una herramienta táctica fundamental en la gestión de incendios de interior, cuyo objetivo primordial es alterar la dinámica del fuego. Este control abarca un espectro amplio de técnicas, desde el confinamiento total del incendio hasta la ventilación mecánica forzada, pasando por diversas modalidades de ventilación natural. Es crucial entender que cualquier técnica de ventilación que implique el aporte de aire al foco debe coordinarse simultáneamente con la aplicación de agua para mitigar el riesgo de crecimiento y propagación del incendio.
+
+### Antiventilación o Confinamiento
+
+La **antiventilación** o **confinamiento de un incendio** busca limitar su crecimiento al privarlo del acceso a aire fresco. Esta técnica es de particular interés en incendios que se encuentran limitados por la ventilación (ILV). Su aplicación efectiva reduce la potencia del fuego y previene la dispersión de gases incendiados a otras áreas del edificio. No obstante, una desventaja inherente es que puede provocar un descenso significativo del plano neutro, limitando severamente la visibilidad, lo que la hace menos efectiva en ILV donde el plano neutro ya es muy bajo.
+
+El método más común para el confinamiento consiste en el cierre de puertas y ventanas del edificio. La utilización de **cortinas de bloqueo de humo** portátiles ha ganado popularidad en Europa y EE.UU. por su capacidad para asegurar el confinamiento en aperturas con escasa resistencia al fuego o estanqueidad deficiente, incluso en dinteles o pasillos sin puertas, facilitando el paso de las mangueras a ras de suelo.
+
+### Ventilación Natural
+
+La **ventilación natural** tiene como propósito la evacuación de gases de incendio basándose en las diferencias de presión generadas por el propio fuego. Este proceso busca restaurar la visibilidad, expulsar la atmósfera combustible (reduciendo su volumen hasta en un 50%) y disminuir la temperatura, lo que facilita las operaciones de progresión interior y mejora las posibilidades de supervivencia de las víctimas.
+
+Para lograr un flujo de gases unidireccional óptimo, donde el aire fresco entra y los gases calientes salen de forma controlada, es indispensable que los puntos de entrada y salida se encuentren a distintos niveles, creando así un diferencial de presión favorable.
+
+Dentro de la ventilación natural, se distinguen dos tipos principales:
+
+1.  **Ventilación vertical:** Implica una entrada y salida de gases a distinto nivel, lo que genera un flujo unidireccional. La eficacia de esta técnica está influida por la diferencia de presión entre la entrada y la salida de gases (determinada por la altura y el gradiente térmico), así como por el tamaño de la apertura de salida de gases. Un mayor tamaño de salida aumenta el caudal, aunque con rendimientos decrecientes. La relación entre el tamaño de la salida (Ae) y la entrada (Ai), denominada *r*, es un factor crítico; un valor de *r*=1 es óptimo, y *r*=0.5 (entrada con el doble de tamaño que la salida) también proporciona buenos resultados. En entornos europeos con cubiertas no perforables, su aplicación es menos común.
+2.  **Ventilación horizontal:** Se produce cuando las entradas y salidas de gases se encuentran al mismo nivel, generando flujos bidireccionales. Esta modalidad es menos efectiva que la ventilación vertical debido a la ausencia de un flujo unidireccional claro hacia el foco del incendio, lo que obliga al equipo de intervención a avanzar a través de la capa de gases calientes, aunque por debajo se mantenga una capa de aire fresco. La eficiencia en este caso depende del tamaño y altura de las aberturas de gases y de la proximidad de la salida al foco. Las cortinas de bloqueo de humo pueden transformar un flujo bidireccional en unidireccional vertical, permitiendo una pequeña entrada de aire en la zona baja y manteniendo la estratificación.
+
+A pesar de sus beneficios, la ventilación natural posee una efectividad limitada, especialmente en las fases avanzadas del incendio, donde los combustibles modernos reaccionan muy rápidamente a la ventilación, concediendo un tiempo escaso para la evacuación y el control.
+
+### Ventilación Forzada
+
+La **ventilación forzada** se basa en el empleo de ventiladores mecánicos o extractores para dirigir el movimiento de los gases en un incendio. A diferencia de la ventilación natural, aquí el flujo de gases es predominantemente controlado por la acción mecánica de estos equipos, lo que permite establecer flujos unidireccionales y, en consecuencia, mejorar las condiciones internas del recinto, incluyendo la visibilidad y la reducción de temperatura y toxicidad.
+
+Las técnicas de ventilación forzada se clasifican según el diferencial de presión y el tipo de propulsión:
+
+#### Según el Diferencial de Presión:
+
+1.  **Ventilación por Presión Positiva (VPP):** Consiste en la colocación de un ventilador en el exterior (por ejemplo, en la puerta principal de acceso) para presurizar el interior del recinto. Este aumento de presión crea un flujo unidireccional que expulsa los gases calientes hacia una salida. La VPP es eficaz para reducir la inflamabilidad de los gases, disminuir la temperatura, aumentar la visibilidad y mejorar la supervivencia de las víctimas.
+2.  **Ventilación por Presión Negativa (VPN) o Extracción:** Se logra colocando extractores en las salidas de gases para generar diferenciales de presión negativos, succionando los gases hacia el exterior. Aunque similar a la VPP en principio, la VPN presenta inconvenientes como la exposición de los equipos a los gases de incendio y un menor rendimiento en comparación con la VPP. Además, el uso de motores de explosión está restringido en esta modalidad debido a la interferencia de los gases de combustión con el motor. Por estas razones, la VPN tiene un número limitado de aplicaciones en bomberos, generalmente en túneles y garajes.
+
+#### Según el Tipo de Propulsión:
+
+1.  **Ventiladores térmicos:** Funcionan con motores de explosión (gasolina). Ofrecen gran autonomía y portabilidad (desde 3CV para equipos pequeños hasta 150CV para unidades móviles). Sin embargo, son ruidosos, producen gases de escape que pueden contaminar el ambiente y no son aptos para entornos ATEX (atmósferas explosivas) o como extractores.
+2.  **Ventiladores eléctricos:** Conectados a la red eléctrica o alimentados por batería. Son más silenciosos, no generan gases de combustión y pueden ser aislados a nivel ATEX, lo que permite su uso como extractores. Su desventaja radica en la dependencia de un cableado eléctrico o en su limitada autonomía y potencia (para los modelos a batería).
+3.  **Ventiladores hidráulicos:** Utilizan una turbina impulsada por agua proveniente de la bomba del vehículo de bomberos. Evitan los inconvenientes de los motores térmicos (gases, aislamiento ATEX) pero requieren un despliegue logístico más complejo debido a la necesidad de tendidos de manguera para el suministro y retorno de agua.
+4.  **Ventilación hidráulica generada por flujo de manguera:** En esta técnica, el movimiento de los gases se genera por el arrastre de un flujo de agua (cono de agua) a través de una apertura, sin necesidad de hélice. Es una opción de rendimiento reducido, útil para la ventilación final de estancias una vez extinguido el incendio.
+
+#### Capacidad y Colocación de los Ventiladores VPP
+
+La **huella del ventilador** describe el campo de vectores de velocidad del aire que genera, influenciada por el diseño de la hélice, el régimen de giro, la rejilla frontal, los deflectores y la forma de la carcasa. Se distinguen un **dardo a alta velocidad** central y un **bulbo de aire succionado** o arrastrado. Los ventiladores pueden generar conos de aire cerrados o abiertos, cada uno con ventajas y desventajas en cuanto a distancia de posicionamiento y reducción de ruido/turbulencias.
+
+La capacidad de un ventilador se mide a través de:
+
+*   **Caudal estricto (Qe):** Volumen de aire que atraviesa la hélice.
+*   **Caudal libre (Ql):** Volumen total de aire movido en un espacio abierto (incluye aire arrastrado).
+*   **Empuje (E):** Medida del caudal libre basada en la conservación del momento.
+*   **Caudal efectivo (Qr):** Volumen real de gases que fluyen a través de la estructura.
+*   **Caudal AMCA240:** Medición estandarizada que considera el tránsito a través de una estructura (valores típicos: 25.000-30.000 m³/h para ventiladores de 18-20 pulgadas).
+*   **Caudal ULH (Universidad de Le Havre):** Extrapolación de la velocidad del aire en el centro de la salida, que tiende a sobreestimar el caudal efectivo real.
+
+La elección del ventilador VPP adecuado y su colocación son críticos. Un solo ventilador de 18-20 pulgadas (25.000-30.000 m³/h AMCA240) es generalmente suficiente para operaciones de VPP ofensiva en viviendas unifamiliares de tamaño medio o defensiva en bloques de 4 a 6 plantas. La **distancia de colocación óptima** varía entre 1,8 y 5 metros para puertas estándar, permitiendo el paso del personal y evitando la recirculación o un "cortocircuito" del flujo de aire. Un **barómetro de entrada** puede ofrecer información sobre el funcionamiento de la ventilación desde el punto de acceso, aunque puede reducir ligeramente la eficiencia y favorecer la turbulencia con gases extremadamente calientes.

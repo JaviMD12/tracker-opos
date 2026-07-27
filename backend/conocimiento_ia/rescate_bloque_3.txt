@@ -1,0 +1,40 @@
+## Sistemas de Anclaje, Cuerdas y Nudos en Operaciones de Rescate en Altura
+
+En las operaciones de rescate en altura, la seguridad es primordial y se fundamenta en el correcto uso y mantenimiento de equipos y técnicas. Este enfoque requiere un profundo conocimiento de los Sistemas de Anclaje de Seguridad (SAS), las propiedades de las cuerdas y los nudos, así como la física implicada en una caída.
+
+### Sistemas de Anclaje de Seguridad (SAS)
+
+El **Sistema de Anclaje de Seguridad (SAS)** se refiere al conjunto de puntos de anclaje utilizados en rescates en altura, análogos a las reuniones en alpinismo y escalada. Para garantizar la máxima seguridad, un SAS debe incorporar al menos dos anclajes, siendo ideal tres, con al menos uno de ellos ofreciendo una garantía total. Los mosquetones empleados deben ser sobredimensionados, con seguro y una resistencia longitudinal superior a 22 kN, mientras que las cintas deben poseer la resistencia adecuada y estar en óptimas condiciones. Es fundamental que las cuerdas se encuentren en perfecto estado, evitando el uso de auxiliares, y que el sistema cuente con un punto central de anclaje. La simplicidad del montaje es clave para una verificación rápida y eficaz.
+
+La selección de la ubicación de los anclajes es un aspecto crítico, debiendo ser capaces de soportar grandes cargas. Se prefiere anclar en elementos estructurales robustos, como vigas o pilares, en lugar de perfiles más débiles. La localización ideal para un anclaje es lo más bajo posible sobre el plano vertical, minimizando así el brazo de palanca y la carga aplicada. Es importante revisar la dirección de la carga y, si es multidireccional, procurar que los anclajes estén instalados de manera uniforme.
+
+Dentro de los SAS, la **triangulación de fuerzas** es una técnica empleada para distribuir equitativamente la carga del punto central de anclaje entre dos o más seguros, lo que permite que el sistema se adapte a nuevas direcciones si la carga se desplaza. Una precaución esencial es mantener los ángulos exteriores del triángulo por debajo de 60º para evitar sobrecargar los anclajes. Si se utiliza un anillo auxiliar, la cuerda debe pasar entre cada seguro y aproximarse al punto central, formando un bucle que se une con un mosquetón; es crucial evitar que el nudo de unión, si no es cosido, quede atrapado entre los mosquetones. En caso de fallo de un anclaje, los demás deben ser capaces de sostener la carga. Si la calidad de un anclaje es dudosa, se debe bloquear el triángulo con un nudo en ese lado específico.
+
+Los **reenvío y desviadores** son instalaciones frecuentes en rescate urbano y trabajos verticales, a menudo utilizando un trípode. Sin embargo, su uso incorrecto por desconocimiento de las fuerzas implicadas puede sobrecargar los anclajes. La carga en el anclaje del desviador se incrementa respecto a la carga original en función del ángulo que forma la cuerda. Por ejemplo, con un ángulo de 90º, la sobrecarga es del 141%, y al cerrar el ángulo al límite, puede producirse un efecto polea que duplica la carga. Por tanto, es imperativo vigilar los ángulos y sobredimensionar la resistencia de los anclajes, así como la de los materiales, mosquetones y cintas utilizados.
+
+### Las Cuerdas en el Rescate
+
+La **cuerda** es el componente más vital de la cadena dinámica de seguridad en rescates verticales. Se fabrican a partir de fibras derivadas del petróleo, como poliamidas, poliéster o polipropileno, lo que les confiere bajo coste, facilidad de tejido, imputrescibilidad y excelentes propiedades mecánicas como alta elasticidad, resistencia a la tracción y al rozamiento. Las cuerdas tienden a recuperar su forma original tras un esfuerzo y se componen de dos partes: el **alma** (parte interior de múltiples fibras que aporta el 75-80% de la resistencia) y la **camisa o funda** (grupos de hilos trenzados que protegen contra la abrasión, el desgaste y agentes externos, aportando el 20-25% de resistencia).
+
+Existen dos tipos principales de cuerdas según sus propiedades mecánicas:
+*   Las **cuerdas dinámicas** se emplean en maniobras con riesgo de caída, ya que su alargamiento (6-10%) reduce la energía del impacto. Están reguladas por la norma EN 892.
+*   Las **cuerdas semiestáticas** se usan para trabajos en suspensión, ascensos, descensos y rescate de heridos, con un menor alargamiento (2-5%) que previene el efecto "yo-yo". Se rigen por la norma EN 1891 y se clasifican en Tipo A (mínimo 22 kN de resistencia, fuerza de choque máx. de 0.3 con 100 kg) y Tipo B (mínimo 18 kN, fuerza de choque máx. de 0.3 con 80 kg).
+
+La resistencia de la cuerda también se valora por su **diámetro**, que oscila habitualmente entre 8 y 11 mm, considerándose "cordinos" los diámetros menores. En función de su utilización, pueden ser de uso simple (un solo cabo, 9.4-11 mm), doble (dos cabos alternos, 8-9 mm, con la ventaja de no depender de una sola cuerda en caso de corte) o gemelas (dos cabos a la vez como si fueran uno, 8-9 mm).
+
+En el rescate, se emplea un **sistema de doble cuerda** como norma general: una **cuerda de tracción** (semiestática tipo A) para maniobras y trabajos, y una **cuerda de vida o seguro** (dinámica) como respaldo independiente del SAS. La cuerda de tracción no debe usarse para asegurarse frente a caídas.
+
+El **mantenimiento de las cuerdas** es crucial. Se debe realizar una revisión periódica visual y táctil para detectar cortes, daños en la camisa o discontinuidades en el alma. Cualquier anomalía o sospecha de choque/caída importante implica desechar la cuerda. Antes del primer uso, es aconsejable sumergirlas en agua, ya que se encogen aproximadamente un 2%.
+
+### Nudos Esenciales para Rescate
+
+Los **nudos** son lazos que se cierran con dificultad y cumplen funciones vitales como unir al bombero con la cuerda, la cuerda con los seguros, o fijar y sujetar objetos. Un buen nudo debe ser fácil de hacer y revisar, resistente, sencillo de deshacer tras una carga intensa pero seguro ante una tensión accidental, y debe minimizar la pérdida de resistencia de la cuerda. Su calidad se relaciona con la cuerda y su correcta ejecución. Las partes de un cabo son el **chicote** (extremo), el **seno** (curvatura), la **gaza** (bucle cerrado) y el **firme** (parte más larga).
+
+Según su utilidad, los nudos se clasifican en:
+
+#### Nudos de Encordamiento
+*   El **ocho por chicote** es el nudo más eficaz y usado para encordamiento al arnés (siempre a perneras y cintura, no al anillo central). Debe estar bien peinado, con un cabo suficiente para rematar, y su uso implica una pérdida de resistencia de entre el 20-30%.
+
+#### Nudos de Unión
+*   El **ocho por chicote y enfrentado** permite unir cuerdas del mismo diámetro o formar anillos, con una pérdida de resistencia del 20-30%.
+*   El **pescador doble** une cuerdas de

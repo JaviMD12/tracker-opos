@@ -1,0 +1,72 @@
+## Rescate en Accidentes Ferroviarios: Caracterización y Equipamiento
+
+El rescate en accidentes ferroviarios exige un conocimiento profundo de la infraestructura, el material rodante y los sistemas de seguridad, dada la complejidad y la especificidad de este entorno operativo. La evolución constante del ferrocarril impone a los servicios de emergencia la necesidad de actualizar sus técnicas y conocimientos para garantizar una respuesta eficaz.
+
+### Infraestructura Ferroviaria
+
+La infraestructura ferroviaria comprende el conjunto de obras necesarias para la construcción de la explanación o plataforma y su geometría, así como las vías y las instalaciones que permiten la circulación segura de los trenes. Se distinguen las **obras de tierra**, destinadas a nivelar las vías, y las **obras de fábrica**, que salvan obstáculos naturales como viaductos, puentes o túneles.
+
+Por su parte, la **superestructura** incluye las vías propiamente dichas y los elementos auxiliares que aseguran la eficacia y seguridad del tránsito ferroviario. El elemento básico de la superestructura es el **carril**, una barra de acero laminado con forma de seta que sirve de sustento y guía para los trenes. Está compuesto por la **cabeza**, que soporta la rodadura, el **patín**, que sirve de base para sujetar las traviesas, y el **alma**, la parte central que los une. Los carriles se unen mediante soldadura para formar una barra continua, compensando la dilatación con juntas específicas. Las **traviesas**, de madera u hormigón, se instalan transversalmente para sostener el carril. El **balasto**, granular y de sílice, apoya las traviesas, reduce y redistribuye los esfuerzos del tren e impide el desplazamiento de las vías. Los **tirafondos** y **placas de asiento** fijan el carril a las traviesas.
+
+El **ancho de vía** varía según el tren y el territorio, encontrándose el ancho europeo (1.435 mm), el ancho ibérico o español (1.668 mm) y el ancho métrico (1.000 mm), utilizado en zonas de difícil acceso como mineras.
+
+Los **aparatos de vía** son sistemas que permiten desdoblar los carriles, como las **agujas**, compuestas por una parte fija ("corazón") y una móvil ("espadín") para cambiar de vía. Los **cambios de agujas** se accionan de forma eléctrica (a distancia), mecánica (mediante cable de acero desde la estación) o manual (a pie de vía).
+
+Las **señales ferroviarias** transmiten mensajes mediante sonidos, colores y formas según el Reglamento General de Circulación. Se clasifican en **semáforos** (accionados mecánicamente por cable de acero), **luminosas** (accionadas eléctricamente desde la estación o el CTC), **portátiles** (empleadas por personal de regulación de tráfico) y **de los trenes** (mostradas en cabeza y cola), además de las **de limitación de velocidad** (fondo blanco para órdenes permanentes o amarillo para temporales).
+
+La **electrificación** del sistema ferroviario, iniciada por Werner von Siemens, utiliza cables electrificados de los que los trenes toman energía para su desplazamiento. Las primeras soluciones emplearon un tercer carril electrificado lateral, cuya desventaja era el acceso peligroso. La solución actual más común es la **catenaria** o línea aérea de contacto, una cadena de cables suspendida de postes. Los trenes captan la corriente de la catenaria mediante un **pantógrafo** (un mecanismo articulado que ajusta su altura automáticamente) o un **trole** (una rueda metálica que gira bajo el cable, usada en tranvías y trolebuses).
+
+Las **subestaciones eléctricas** son instalaciones que proporcionan potencia, transformando la corriente de 30.000-40.000 voltios y distribuyéndola a lo largo de la vía (cada 20 km en líneas convencionales de baja tensión y cada 50 km en líneas de alta tensión). Un **feeder** es un conductor paralelo que refuerza el comportamiento de la catenaria. En España, los sistemas de alimentación eléctrica son de 25.000 V en corriente alterna (alta velocidad) y 3.000 V en corriente continua (red convencional).
+
+Los **estados eléctricos de la catenaria** pueden ser:
+- **Energizado:** todos los elementos conectados al polo positivo.
+- **Masa:** conectado a tierra (polo negativo).
+- **Negativo:** polo negativo del rectificador.
+- **Neutro:** elementos aislados sin contacto eléctrico.
+
+Los **componentes de la columna de electrificación** incluyen el **conjunto de soporte** (postes, ménsulas, tirantes, aisladores) y el **conjunto de atirantado** (hilo de contacto o catenaria, brazo de atirantado y aislador de atirantado), que regulan la tensión y aíslan eléctricamente el sistema.
+
+### Material Rodante
+
+El **material rodante** se refiere a los trenes que se desplazan sobre los carriles, incluyendo locomotoras, automotores, coches de viajeros, vagones y maquinaria de mantenimiento.
+
+Las **locomotoras** son las encargadas de la fuerza motriz. Pueden ser:
+- **Diésel mecánicas:** de pequeño tamaño, con motor diésel y caja de cambios mecánica, utilizadas para maniobras y trenes ligeros.
+- **Diésel-eléctricas:** motor diésel que acciona un generador eléctrico que alimenta los motores eléctricos de tracción, con mantenimiento más sencillo.
+- **Eléctricas:** utilizan corriente continua (trenes cortos) o alterna (alta velocidad, 25 kV) de la catenaria.
+
+Los **automotores** son trenes autopropulsados con motor integrado en los coches, formando una unidad inseparable, y pueden ser diésel o eléctricos.
+
+Los **coches de viajeros** son vehículos para transportar personas, como coches litera, cafetería, restaurante, furgones generadores o coches laboratorio.
+
+Los **vagones** son vehículos de carga para mercancías como tolvas, cisternas, vagones cerrados o plataformas para automóviles y contenedores.
+
+Finalmente, los **bogies** son dispositivos giratorios con dos o más ejes que soportan el vehículo ferroviario, permitiendo tomar curvas cerradas. Se ubican generalmente en los extremos del vehículo y pueden ser de tracción o remolcados.
+
+### Dispositivos de Unión y Frenado
+
+Para unir los vagones, se emplean diversos **aparatos de unión**:
+- **Acoples manuales:** un operario conecta una cadena a un gancho, con un mecanismo que reduce la extensión y tensa la cadena. Incluyen gancho de tracción, tensor, palanca y brida.
+- **Acoples semipermanentes:** para unidades de tren permanentemente acopladas, se conectan y desconectan solo en el taller.
+- **Acoples automáticos:** se enganchan solos y se usan en ferrocarriles que no requieren acoplar y desacoplar vagones frecuentemente, como tranvías y automotores. Algunos conectan también el freno eléctrico o el mando múltiple.
+
+Los **dispositivos de frenos** son esenciales al desenganchar vagones e incluyen:
+- **Tubería de Freno Automático (TFA):** una tubería de aire comprimido que recorre el tren, regulada desde la cabina, con presiones de 5 kg/cm² (afloje) a 3,5 kg/cm² (frenada máxima) y 0 kg/cm² (emergencia).
+- **Tubería de Depósitos Principales (TDP):** similar a la TFA, suministra aire comprimido a las válvulas relé del equipo de freno y otros dispositivos, manteniendo una presión de 7-10 kg/cm².
+- **Semiacoplamientos (SA):** conectan las tuberías de aire comprimido entre vehículos. Los de TFA se sitúan internamente cerca del gancho de tracción, y los de TDP externamente cerca de los topes.
+- **Grifo de aislamiento:** permite la continuidad o el cierre de las tuberías. Los de TFA son azules y los de TDP rojos, con posiciones "abierto" (paralelo al semiacoplamiento) y "cerrado" (perpendicular, cortando y vaciando la tubería). Es crucial cerrarlos para desacoplar los semiacoplamientos y evitar daños.
+- **Freno de estacionamiento:** para vagones, un volante que gira un tornillo, frenando el vagón al girar a la derecha.
+
+### Elementos de Seguridad en Trenes
+
+Todos los trenes en España deben cumplir la normativa específica (Especificaciones Técnicas de Interoperabilidad - ETI y Especificaciones Técnicas de Homologación - ETH) y contar con un **plan de autoprotección** para controlar y prevenir riesgos.
+Los elementos de seguridad generales en trenes de viajeros incluyen:
+- **Extintores de emergencia:** distribuidos en cabinas (polvo 6 kg) y sala de máquinas (polvo 6 kg y CO2 2 kg), así como en el maletero de equipajes de cada coche (polvo 6 kg).
+- **Ventanas de socorro:** al menos dos por coche de viajeros, señalizadas y de fácil rotura (vidrio templado), con apertura hacia el exterior si tienen bisagras.
+- **Escaleras de emergencia:** dos por tren, ubicadas en el almacén de la cafetería y en la sala de máquinas de la cabeza motriz, para evacuaciones o pasarelas entre trenes.
+- **Puertas de acceso:** con sistema de emergencia para apertura exterior con llave de cuadradillo. Las ventanas de las puertas exteriores también funcionan como ventanas de emergencia. Las puertas de unión entre coches tienen juntas intumescentes para aislamiento térmico a 150°C.
+- **Cuadro eléctrico de instalaciones:** en las dos primeras cabezas motrices.
+- **Alumbrado de emergencia:** baterías auxiliares con capacidad de dos horas que se activan al perder tensión en la catenaria.
+- **Depósitos de combustible:** ubicados en la parte inferior del vehículo, bajo el bastidor. En automotores eléctricos como el S-599, se utiliza gasoil para alimentar un generador eléctrico, con capacidades de hasta 1400 litros por coche.
+- **Cable de shuntado:** dispositivo de seguridad en los coches 1 y 8 para proteger equipos de trabajo en vía.
+- **Pértiga y cable de puesta a tierra:** dispositivo de seguridad para trabajos en la vía.

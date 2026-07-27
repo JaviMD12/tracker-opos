@@ -1,0 +1,90 @@
+# Acero y sus Aplicaciones en la Construcción
+
+El acero, una aleación fundamental de hierro y carbono (con un contenido de carbono que oscila entre el 0.03% y el 2%, siendo comunes valores del 0.2% al 0.3% en peso), constituye uno de los materiales más versátiles y ampliamente utilizados en la edificación. Su uso está regulado por normativas específicas, como el Código Técnico de la Edificación (CTE DB SE-A) en España, que garantiza su aplicación segura y eficiente en las estructuras.
+
+## Propiedades Físicas y Mecánicas del Acero
+
+La fabricación del acero se distingue de la fundición por realizarse mediante **forja**, a través de procesos de presión o impacto, lo que resulta en productos de muy alta resistencia. Posee una **alta densidad**, con aproximadamente 7850 kg/m³, superando a materiales como el aluminio, lo que contribuye a sus ventajas estructurales en diversos sectores industriales.
+
+En cuanto a su comportamiento térmico, el acero exhibe un **coeficiente de dilatación bajo**, de aproximadamente 1.2 x 10⁻⁵ °C⁻¹, notablemente similar al del hormigón. Esta característica lo convierte en un complemento idóneo para el hormigón armado, compensando las limitaciones del hormigón a la tracción y minimizando las tensiones internas por dilatación diferencial. Además, el acero presenta una **alta conductividad eléctrica y térmica**, lo que es relevante en su diseño y comportamiento ante el fuego.
+
+Desde el punto de vista mecánico, el acero es un material **dúctil y maleable**, permitiendo la fabricación de alambres y productos laminados. Su **alta resistencia** tanto a la compresión como a la tracción lo hace adecuado para una vasta gama de elementos constructivos, ya sea de forma individual o combinada con otros materiales, como en el hormigón armado, donde suple las deficiencias del hormigón a la tracción. Sin embargo, su principal desventaja es su susceptibilidad a la **corrosión**, lo que exige la implementación de diversos sistemas de protección superficial, tales como el cincado, galvanizado, cromado, niquelado o pavonado, así como el uso de aceros con composiciones específicas como el acero inoxidable (aleación de acero y cromo) o el acero Corten (aleación de acero, cobre y níquel).
+
+## Tipologías del Acero en la Construcción
+
+La diversidad de propiedades mecánicas y la estandarización de sus dimensiones y calidad permiten una amplia presencia del acero en los procesos constructivos, manifestándose en diversas tipologías:
+
+### Acero Estructural
+
+El **acero estructural** se define como acero laminado en caliente, utilizado para conformar perfiles, barras y chapas en la fabricación de elementos constructivos simples o compuestos. Su clasificación se rige por la norma UNE EN 10027-1, que lo designa con la letra "S" (Steel), seguida de un número que indica el valor mínimo de su límite elástico en MPa (N/mm²), complementado por símbolos adicionales que definen sus características específicas. Las **clases resistentes** más comunes incluyen S 235, S 275, S 355 y S 450 MPa, mientras que los **grados adicionales** determinan su aptitud para diferentes usos, como JR para construcción ordinaria, J0 para alta soldabilidad y J2 para exigencias especiales de resistencia, resiliencia y soldabilidad.
+
+Entre los perfiles de acero estructural, se distinguen principalmente:
+*   **Perfiles en forma de "I"**: El IPN y el IPE son ejemplos. El IPE es más común actualmente debido a su espesor de ala constante, a diferencia del IPN que disminuye desde el alma hasta el extremo. Ambos son idóneos para vigas debido a su elevada resistencia a la flexión.
+*   **Perfiles en forma de "H"**: Como el HEA (ligero), HEB (base) y HEM (pesado), son perfiles con igual altura de alma y alas. Son altamente resistentes tanto longitudinal como transversalmente, lo que los hace ideales para columnas. El HEB es el más frecuente.
+*   **Perfiles en forma de "U"**: UPN y UPE se utilizan en vigas de menor entidad o para elementos metálicos auxiliares. La distinción entre UPN y UPE es similar a la de IPN e IPE.
+*   **Otros perfiles**: Incluyen secciones en L (con lados iguales o desiguales), T, redondas, cuadradas y rectangulares, que se utilizan en una amplia gama de aplicaciones auxiliares o específicas.
+*   **Chapas**: Se clasifican en medias (3 mm < espesor < 4.75 mm) y gruesas (espesor > 4.75 mm).
+*   **Productos huecos para la construcción**: Pueden ser acabados en caliente (perfiles de sección constante y espesor mayor o igual a 2 mm, en tipologías circular, cuadrada, rectangular o elíptica) o conformados en frío (perfiles soldados sin tratamiento térmico posterior, con las mismas secciones).
+*   **Perfiles de sección abierta conformados en frío y perfilados**: Se producen a partir de chapas planas laminadas y se usan en estructuras con diversas formas como L, U, C, Z y Omega.
+*   **Productos planos de acero recubiertos**: Se incluyen los prelacados con materias orgánicas (poliéster, poliuretano, resina epoxi) para revestimientos con propiedades mejoradas de brillo, dureza y resistencia química.
+
+### Acero de Armar
+
+El **acero de armar** comprende productos fabricados en caliente, utilizados para conformar las armaduras pasivas del hormigón armado, mallas electrosoldadas y armaduras básicas soldadas en celosía. Se comercializa en barras rectas o rollos de acero corrugado soldable, con diámetros que van desde 6 hasta 40 mm. Su **nomenclatura** (UNE EN 10080) incluye 'B' (Acero en barras), la clase resistente (400/500 MPa) y sus propiedades (S = Soldable, SD = Soldable y Dúctil).
+
+Las **características geométricas** para su identificación en el hormigón armado se basan en la disposición de las corrugas:
+*   **B 400 S**: Corrugas con misma inclinación, pero distinta separación entre sectores.
+*   **B 400 SD**: Corrugas con misma inclinación y separación en ambos sectores.
+*   **B 500 S**: Corrugas con misma inclinación, con series de dos corrugas en un solo sector.
+*   **B 500 SD**: Corrugas idénticas en ambos sectores, con series de dos corrugas de distinta inclinación y la misma separación.
+La **identificación del fabricante** se realiza mediante el engrosamiento de las corrugas, lo que permite la trazabilidad del acero (país de origen y fabricante).
+
+Según su posición, los armados se denominan:
+*   **Armaduras longitudinales**:
+    *   **Principales o a secas**: Barras de acero en la dirección del eje principal del elemento, esenciales para los esfuerzos.
+    *   **De piel**: Barras de pequeño diámetro cerca de los paramentos, que distribuyen las tensiones oblicuas y se colocan en elementos de canto superior a 70 cm, con una distancia máxima entre armaduras de 30 cm.
+*   **Armaduras transversales**: Barras auxiliares dispuestas perpendicularmente a las longitudinales, como los **estribos** (en forma de "U" o cerco cerrado para atar barras y resistir tensión diagonal) y los **zunchos** (armadura lateral helicoidal para evitar el pandeo o viga de atado horizontal).
+
+### Acero para Pretensados
+
+El **acero para pretensados** se utiliza en la fabricación de armaduras activas. Su nomenclatura incluye 'Y' (Acero para pretensados) seguida de la **carga de rotura** (1570, 1670, 1770, 1860 MPa). Los **coeficientes de seguridad** admisibles son del 70% para acciones estáticas y 40% para dinámicas.
+
+Los **productos comerciales** de acero para pretensados incluyen:
+*   **Alambres**: Elementos de acero macizo, lisos o grafilados (para mayor adherencia con el hormigón), suministrados en rollo.
+*   **Cordones**: Formados por varios alambres enrollados helicoidalmente alrededor de un eje común.
+*   **Cables**: Estructuras compuestas por diversos cordones metálicos dispuestos helicoidalmente alrededor de un alma (textil, metálica o mixta).
+La **nomenclatura de cables** se expresa como C x A + N, donde C es el número de cordones, A el número de alambres en cada cordón y N el número de almas textiles (o la composición si son otros cables). Por ejemplo, un cable Φ10mm -> 6 x 19 + 1 tiene 6 cordones, cada uno con 19 alambres, y un alma textil. Su resistencia nominal es de 55.3 KN, con cargas estáticas de 38.71 KN y dinámicas de 22.12 KN.
+
+## Uniones en Estructuras de Acero
+
+La construcción de grandes estructuras de acero a menudo implica la creación de perfiles compuestos mediante sistemas de unión, entre los que destacan:
+
+### Roblonado/Remachado
+
+Este método consiste en la unión de piezas metálicas con **roblones** cilíndricos o troncocónicos, introducidos en caliente. Una de las cabezas del remache ya está formada, y la otra se forja durante la colocación. Esta técnica es mecánicamente equivalente a un remachado y estructuralmente similar a una articulación. Su uso es limitado actualmente, habiendo sido reemplazado por sistemas de unión atornillados desde 1970.
+
+### Atornillado
+
+La unión atornillada se realiza en frío mediante **tornillos** de vástago roscado y cabeza hexagonal, que se aprietan con tuercas y arandelas. Se distinguen varios tipos de tornillos:
+*   **Ordinarios (T)**: Con un diámetro de agujero 1 mm mayor que el vástago.
+*   **Calibrados (TC)**: Con diámetros ajustados. Los calibrados son más recomendables para nudos rígidos.
+*   **Alta resistencia (TR)**: Se utilizan en uniones donde el esfuerzo de rozamiento es superior a las solicitaciones de las piezas. Requieren un apriete específico, realizado con llaves dinamométricas.
+La **calidad de los tornillos** se clasifica según la norma EN ISO 898-1 con un código de dos dígitos (X.Y), donde X indica la tensión de rotura en N/mm² y Y el porcentaje de la carga de rotura que representa el límite elástico. Por ejemplo, un tornillo 8.8 tiene una carga de rotura mínima de 800 N/mm² y un límite elástico del 80% (640 N/mm²). Los tornillos comunes incluyen las clases 4.6, 5.6, 5.8, 6.8, 8.8, 10.9 y 12.9. La colocación de los tornillos en orificios pre-taladrados a tresbolillo, con separaciones entre 4-5 cm, asegura la resistencia. Las bridas deben posicionarse contrapeadas para arriostrar el conjunto y su apriete debe revisarse periódicamente.
+
+### Soldadura
+
+La soldadura es un proceso de unión de dos materiales que puede realizarse **por fusión** (mediante calor) o **por presión** (mediante calor y presión), con o sin aportación de material. Es una técnica fundamental en la construcción de grandes estructuras de acero, especialmente perfiles compuestos, dado que permite crear uniones continuas de alta resistencia. Sin embargo, su aplicación requiere un control riguroso para evitar puntos débiles o defectos que comprometan la integridad estructural.
+
+### Precauciones Generales en Uniones
+
+Para asegurar la eficacia de las uniones, es crucial que los **cortes en los extremos** sean perpendiculares a la pieza, evitando ángulos o cruces que puedan mermar la sección de la madera. El **embridado de tablones**, uniendo dos o tres tablones, es vital para evitar el pandeo y garantizar un trabajo conjunto. La **sujeción de los durmientes** en el suelo debe realizarse mediante cajeado, riostras, codales o anclajes con redondos para impedir deslizamientos. Las **piezas en contacto directo con muros** deben ser de madera y ancladas con pasadores para recoger adecuadamente los esfuerzos y evitar cizallamientos.
+
+## Elementos Auxiliares y de Templado
+
+Los **elementos auxiliares** desempeñan funciones específicas para que los elementos básicos de apeo puedan cumplir su función portante. Estos incluyen **elementos de unión** como clavos, que proporcionan rapidez y eficacia aceptable, siendo recomendable realizar taladros previos para aumentar la resistencia de la unión. Las **bridas metálicas**, sistemas comerciales para unir tubos rígidos, son efectivas pero menos usadas por bomberos debido a su complejidad. Los **pernos**, utilizados en parejas y a distancias regulares, son un medio de unión robusto, aunque su instalación es más lenta.
+
+Los **elementos de templado**, como las **cuñas**, son piezas de madera o material sintético de sección triangular que se utilizan para ajustar los elementos del apeo (pies derechos, tornapuntas, codales), permitiendo su entrada en carga progresiva y controlada. Se colocan contrapuestas y se golpean suavemente hasta lograr una ligera presión. La variación volumétrica de la madera puede causar destemplado, por lo que se requieren revisiones periódicas. Las cuñas deben ser de la misma calidad que los tablones de madera para evitar deformaciones.
+
+Los **elementos de apoyo**, como los **ejiones**, son piezas de madera que, cosidas a otro elemento, sirven como tope o contención. Trabajan a compresión axial y su resistencia está limitada por las uniones metálicas utilizadas para su fijación (clavos, tornillos, tirafondos).
+
+Los **elementos de arriostramiento** son cruciales para absorber las componentes horizontales de las tensiones y evitar movimientos inesperados. Las **riostras**, piezas alargadas de madera de sección menor, trabajan exclusivamente a tracción y se fijan mediante cruces de San Andrés para asegurar el conjunto. Los **cables de acero** (comúnmente de 8-10 mm, tipo 6x19+1, con resistencias estáticas de 40.0 KN y dinámicas de 20.0 KN) son óptimos para arriostramientos complejos, especialmente en cubiertas y arcos. Su unión se realiza con abrazaderas, asegurando la correcta disposición del ramal de tracción y una separación adecuada.

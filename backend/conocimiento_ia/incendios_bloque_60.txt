@@ -1,0 +1,90 @@
+# Caracterización de Incendios Forestales: Combustibles, Comportamiento del Fuego y Análisis del Humo
+
+Los incendios forestales representan una amenaza significativa para la biodiversidad y la seguridad de la población, requiriendo un profundo conocimiento de su naturaleza para una gestión eficaz. Tradicionalmente, los ecosistemas forestales han empleado el fuego como un mecanismo de regeneración, favoreciendo la rebrotación y germinación de especies adaptadas. Sin embargo, en la actualidad, la pérdida de control de estos eventos ha transformado su función ecológica en un grave riesgo.
+
+### I. Tipología de Incendios de Vegetación
+
+En España, la normativa distingue entre varios tipos de incendios, especialmente relevantes para la intervención de los servicios de emergencia. El **incendio forestal** se define como el fuego que se propaga sin control por terrenos con vegetación arbórea, arbustiva o herbácea, ya sea natural o cultivada con fines ambientales, protectores, productivos, paisajísticos o recreativos. Esta categoría incluye también terrenos yermos, roquedos, arenales, infraestructuras de monte y terrenos agrícolas abandonados que adquieran características forestales, así como los enclaves forestales en áreas agrícolas con una superficie mínima establecida por la comunidad autónoma. Por su parte, el **incendio agrícola** es aquel que se extiende de forma incontrolada por un terreno dedicado al cultivo. Finalmente, los **incendios de vegetación en suelo urbano** son fuegos de combustible vegetal dentro de un entorno urbano, sin influencia forestal, como los que ocurren en parques, jardines o cunetas.
+
+La **interfaz urbano-forestal** se refiere a las zonas donde las edificaciones colindan o se integran con espacios de vegetación forestal. Este escenario es complejo, ya que incorpora dos ambientes distintos y aumenta el riesgo debido a la proximidad de urbanizaciones a la vegetación, lo que incrementa las posibilidades de ignición y la vulnerabilidad de las áreas forestales.
+
+### II. Clasificación del Comportamiento del Incendio
+
+La clasificación de los incendios se puede realizar de diversas maneras:
+
+1.  **Según la superficie afectada:**
+    *   Un **conato** es un incendio que afecta a superficies inferiores a 1 hectárea.
+    *   Un **incendio** es aquel que afecta a 1 hectárea o más.
+    *   Un **gran incendio forestal** implica superficies superiores a 500 hectáreas.
+
+2.  **Según el estrato vegetativo por el que se propaga:**
+    *   **Fuegos de suelo o subsuelo:** Se propagan por la materia orgánica en descomposición y las raíces, quemándose lentamente por falta de oxígeno y revelándose por el calor residual. Requieren la creación de una línea de defensa hasta el suelo mineral para su detención. Son poco comunes en España, asociados a turberas.
+    *   **Fuegos de superficie:** Se extienden por el combustible situado hasta 1,5 metros de altura sobre el suelo, incluyendo hojarasca, hierbas, arbustos y leños caídos no inmersos en hojarasca descompuesta. Son los más frecuentes debido a la rápida pérdida de humedad de esta vegetación.
+    *   **Antorcheo:** Se propaga por la superficie, pero la continuidad vertical permite que corone copas de árboles aislados.
+    *   **Fuegos de copas pasivos:** Avanzan por las copas de los árboles, pero acoplados a un fuego de superficie, lo que significa que su propagación se detiene si se elimina el combustible de superficie.
+    *   **Fuegos de copas activos:** Se extienden por las copas de los árboles de forma independiente al fuego de superficie, impulsados por vientos fuertes y una continuidad de combustible tanto horizontal como vertical. Son incendios de muy alta intensidad y difícil control.
+
+### III. Factores Determinantes del Comportamiento del Fuego
+
+El comportamiento de un fuego de vegetación se rige por la **gran triada**, que incluye la topografía del terreno, la climatología y tiempo atmosférico, y las propiedades del combustible vegetal.
+
+1.  **Topografía:** Es el factor más constante y ejerce una gran influencia en el clima local y los regímenes de viento.
+    *   **Pendiente:** Factor topográfico crucial; a mayor pendiente, mayor velocidad de propagación cuesta arriba y más lento el progreso cuesta abajo. Favorece la convección y la radiación en zonas altas.
+    *   **Configuración/Relieve:** Influye en los microclimas y en la dirección y velocidad del viento. Fondos de barrancos con mucha pendiente facilitan una rápida propagación al calentar el aire circundante.
+    *   **Exposición:** La orientación de las laderas respecto a la incidencia solar afecta la temperatura y humedad relativa. Las laderas de solana son más secas y tienen menos combustible que las de umbría.
+
+2.  **Climatología y Tiempo Atmosférico:**
+    *   **Temperatura:** Es la medida del efecto de la radiación solar, que regula la desecación y la temperatura interna de los tejidos vegetales. Los valores máximos se dan en verano y por la tarde (15:00-17:00 h).
+    *   **Vapor de agua/Humedad:** Componente esencial en el inicio y comportamiento del fuego. La **humedad absoluta** (cantidad de vapor de agua por unidad de volumen de aire) y la **humedad relativa** (proporción de vapor de agua respecto al máximo posible a esa temperatura) son formas de expresarla. Valores de humedad relativa inferiores al 30% favorecen la ignición y propagación.
+    *   **Vientos:** El movimiento del aire (un vector que incluye dirección e intensidad) es crucial. Generado por diferencias de temperatura y presión, y la rotación terrestre (fuerza de Coriolis).
+        *   **Efectos del viento:** Aumenta el oxígeno, influye en la dirección y velocidad de avance del incendio, seca combustibles y transporta pavesas, generando focos secundarios.
+        *   **Vientos locales:** Incluyen vientos de ladera (ascendentes durante el día, descendentes durante la noche), vientos de valle (paralelos al eje longitudinal del valle por gradientes de presión horizontal), brisas marinas (costeras, por diferencia de temperatura tierra-mar) y foehn (vientos cálidos, secos, de gran intensidad).
+        *   **Tormentas ígneas:** Fenómenos naturales en grandes incendios que generan su propio sistema de viento, creando corrientes ascendentes de aire caliente, ráfagas y remolinos que propagan el fuego rápidamente. Pueden generar **pirocúmulos** o nubes de fuego, y **reventones** o corrientes descendentes de aire frío que se extienden en abanico.
+    *   **Inversión térmica:** Ocurre cuando el aire frío y pesado se sitúa debajo de una masa de aire caliente, lo que puede contener los incendios en valles. La ruptura de esta inversión (por calentamiento) puede acelerar la propagación del fuego.
+
+3.  **Combustibles Forestales (Modelos Rothermel):** Desarrollados en los años 70, estos modelos clasifican el combustible en 13 tipos agrupados en cuatro categorías para predecir el comportamiento del fuego:
+    *   **Pastos (Modelos 1-3):** Predominan los combustibles herbáceos finos, con propagación rápida y cargas de combustible entre 1-2 t/ha (Modelos 1 y 2) o 4-6 t/ha (Modelo 3, pastos altos). Pueden generar pavesas en los modelos más intensos.
+    *   **Matorral (Modelos 4-7):** Incluyen matorrales densos y jóvenes (Modelo 4, 2m de altura, propagación rápida por copas, 25-35 t/ha), matorrales bajos (Modelo 5, <1m de altura, menos intensos, 25-35 t/ha), matorrales más viejos con restos de frondosas (Modelo 6, requiere vientos >13 km/h, 10-15 t/ha), y pinares con sotobosque inflamable (Modelo 7, matorrales >2m, propagación por suelo y matorral, 10-15 t/ha).
+    *   **Hojarasca bajo arbolado (Modelos 8-10):** Comprende bosques cerrados de coníferas o frondosas con hojarasca compacta (Modelo 8, fuegos superficiales lentos, 10-12 t/ha), hojarasca menos compacta (Modelo 9, propagación más rápida, 10-12 t/ha), y bosques con plagas o dañados por el viento (Modelo 10, mayor intensidad, fuego en copas más frecuente, 10-12 t/ha).
+    *   **Ramaje y restos de operaciones silvícolas (Modelos 11-13):** Incluyen bosques claros o con poda (Modelo 11, pocos materiales caídos, 25-30 t/ha), predominio de restos de poda (Modelo 12, se propaga hasta cortafuegos, puede generar pavesas, 50-80 t/ha), y abundancia de materiales caídos (Modelo 13, puede generar pavesas, 50-80 t/ha).
+
+    La **inflamabilidad de especies**, como se establece en listados específicos, distingue entre:
+    *   **Muy inflamables durante casi todo el año:** Brezo, eucalipto, retama, tojo, pino carrasco, encina, romero, tomillo.
+    *   **Muy inflamables durante el verano:** Albaida, pasto o hierba yesquera, jara pringosa, espliego, cantueso, pino rodeno, pino piñonero, pino de Monterrey, alcornoque, frambuesa, esparto, tomillo o ajedrea, aliaga.
+    *   **Medianamente inflamables:** Madroño, enebro, carrasca, quejigo.
+
+### IV. Detección y Clasificación del Humo
+
+La columna de humo de un incendio forestal es una valiosa fuente de información sobre su intensidad y comportamiento. Se clasifica según su origen, color, volumen y ángulo de elevación:
+
+1.  **Según el origen:**
+    *   **Humos legítimos:** Producidos por quemas autorizadas, fábricas o hornos.
+    *   **Humos ilegítimos:** Originados por incendios o quemas ilegales.
+    *   **Humos falsos:** Nubes de polvo o polen.
+
+2.  **Según el color:**
+    *   **Gris café:** Asociado a matorrales o arbustos ralos.
+    *   **Gris-negro:** Indica incendios de alta intensidad en matorrales densos, eucaliptos, pinares y encinares.
+    *   **Amarillo:** Característico de bosques de coníferas, como el pino insigne.
+    *   **Blanco:** Común en pastizales, con fuego de poca intensidad y combustible húmedo.
+    *   **Blanco azulado:** Propio de pastos o hierbas secas.
+
+3.  **Según el volumen:** El tamaño de la columna de humo es directamente proporcional a la cantidad, tipo y área de combustible incendiado, ofreciendo una indicación del estado de desarrollo y alcance del incendio.
+
+4.  **Según el ángulo de elevación:** Este ángulo, formado por la columna de humo y la horizontal del terreno, proporciona datos sobre el viento y la propagación.
+    *   **Vertical (80-90°):** Sugiere poco viento y propagación lenta, siendo un foco más fácil de controlar.
+    *   **Diagonal (40-50°):** Indica vientos moderados (20-30 nudos), señalando un foco potencialmente peligroso.
+    *   **Tumbada (alrededor de 20°):** Demuestra fuertes vientos en la base del incendio y posibles condiciones de inestabilidad atmosférica, donde el aire caliente asciende y se desplaza hacia aire frío en capas más altas.
+
+La **Ley de Montes** en España, como legislación básica estatal, resalta la importancia de la prevención, la comunicación y la coordinación en incendios forestales, incluyendo la obligación de comunicar su existencia, colaborar en su extinción, y restaurar los terrenos afectados, con la figura del mando único como director técnico.
+
+### V. Transmisión del Calor en Incendios Forestales
+
+La transferencia de calor es fundamental para entender la propagación del fuego, y se produce por tres mecanismos principales:
+
+1.  **Conducción:** Transmisión de calor por contacto molecular directo entre sólidos. En combustibles forestales, es poco eficiente debido a la baja conductividad térmica de la materia vegetal y el contacto imperfecto, excepto en capas muy compactas como la pinocha o la hojarasca de haya. Sin embargo, la falta de aire en capas compactas puede limitar la combustibilidad.
+2.  **Radiación:** Transmisión de calor mediante ondas electromagnéticas a través del aire. La continuidad horizontal y vertical de los combustibles aumenta la eficiencia de la radiación. El **ahuecamiento** (mayor espacio entre partículas) favorece la radiación al permitir que el calor se transmita por el aire interpuesto, aunque un exceso de espacio puede limitar su eficacia.
+3.  **Convección:** Mecanismo más eficaz de transmisión de calor, transportado por el aire caliente que se expande y asciende desde el foco. Convierte los combustibles aéreos en disponibles y es responsable de los fuegos de copas. La combinación de convección y pendiente acelera la desecación de combustibles y favorece la propagación cuesta arriba.
+4.  **Emisión de partículas en ignición (Pavesas):** La proyección a distancia de partículas vegetales incandescentes o inflamadas puede generar incendios secundarios, afectando la propagación y reduciendo la eficacia de las estructuras preventivas. Este fenómeno, conocido como "saltos de fuego", es común en masas de pinos con fuego en las copas, especialmente con vientos moderados a fuertes y baja humedad.
+
+El estudio y comprensión de estos factores es vital para la planificación y ejecución de tácticas de extinción y rescate en incendios forestales.

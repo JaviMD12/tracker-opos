@@ -1,0 +1,112 @@
+A continuación, se presenta una explicación rigurosa y exhaustiva sobre las características y técnicas de intervención en arbolado, diseñada para el temario de oposiciones de bomberos y emergencias.
+
+## Evaluación de Arbolado Peligroso e Indicadores de Riesgo
+
+La intervención sobre arbolado peligroso requiere una valoración minuciosa previa para determinar el riesgo real y si la actuación de los servicios de emergencia es necesaria. Esta evaluación permite identificar el estado del árbol y seleccionar las técnicas más adecuadas para su apeo o poda.
+
+### Anatomía y Estática del Árbol
+Para comprender el comportamiento estructural de un árbol, es fundamental conocer su anatomía y los principios de la estática. Los árboles se componen de varios elementos clave:
+*   **Cámbium**: Capa vital que se divide en xilema (madera interna) y floema (corteza externa).
+*   **Albura**: Madera de formación reciente, de color más claro, responsable del transporte de savia.
+*   **Duramen**: Madera madura, dura, de color oscuro, sin savia, que constituye el núcleo central del tronco y es la zona más susceptible a la pudrición.
+*   **Médula vegetal**: Zona central del tronco con baja resistencia.
+*   **Raíces**: Anclan el árbol al suelo y absorben nutrientes.
+*   **Ramas**: Con las hojas, realizan la fotosíntesis.
+*   **Tronco**: Actúa como columna principal, conectando raíces y ramas.
+
+Desde una perspectiva estática, un árbol se considera estructuralmente seguro si mantiene un equilibrio entre las cargas que actúan sobre él (peso propio, nieve, viento), las propiedades mecánicas de sus materiales (dureza y elasticidad) y la geometría de su estructura.
+
+Las **cargas que actúan sobre los árboles** incluyen:
+*   **Peso propio**: Generalmente insignificante frente a la resistencia a la compresión de la madera (aproximadamente 2.0 kN/cm²).
+*   **Hielo o nieve**: Implican un riesgo significativo de fractura de ramas, ya que la madera verde tiende a agrietarse bajo cargas constantes.
+*   **Viento**: Es el factor más crítico para la estabilidad. El viento constante puede inducir la formación de "madera de reacción" que aumenta la resistencia del árbol. La fuerza del viento depende de factores como la geografía (velocidad y dirección), la topografía (entorno urbano vs. campo abierto), la estación del año (final de verano/otoño con follaje denso), las influencias meteorológicas (baja presión atmosférica aumenta densidad del aire) y la altura del árbol (mayor altura, mayor velocidad).
+
+Las **propiedades mecánicas de la madera verde** varían significativamente respecto a la madera seca:
+*   **Dureza**: La madera verde tiene una resistencia a la compresión media de 2.0 kN/cm². La dureza varía entre especies, desde 1.4 kN/cm² (Castaño de Indias) hasta 2.8 kN/cm² (Roble).
+*   **Elasticidad**: El límite de elasticidad representa la tensión máxima que un material puede soportar y recuperar su forma original. Al superarlo, las fibras de la madera se deforman permanentemente (ruptura primaria) o se rompen (ruptura secundaria). Este límite es constante en diferentes alturas del tronco.
+*   **Geometría del tronco**: Un tronco hueco no es inherentemente inseguro; su estabilidad depende del grosor de la pared residual.
+
+### Cálculo del Peso y la Densidad de la Madera
+Para planificar intervenciones, es útil estimar el peso del árbol. Se puede modelar el árbol como un cilindro, calculando su volumen (π * r² * h) y multiplicándolo por su densidad.
+
+Para determinar la altura de un árbol en pie, se puede usar la **semejanza de triángulos**, midiendo una distancia (D) al árbol, una regla (d) a la altura de los ojos y la altura aparente (h) del árbol en la regla, aplicando la fórmula H = D * (h/d). Este método puede tener un margen de error del 15%. El radio del tronco se obtiene del perímetro (P) mediante r = P / 2π.
+
+La **densidad de la madera** es crucial:
+*   La madera verde tiene una humedad media del 55%, un 40% superior a la madera seca (15% humedad). Por ejemplo, el pino verde tiene una densidad de 0.8 kg/dm³. Las maderas pesadas (>0.8 kg/dm³) se hunden en el agua, mientras que las ligeras (0.5-0.7 kg/dm³) y muy ligeras (<0.5 kg/dm³) flotan.
+
+### Indicadores de Peligro en Arbolado
+Los defectos en los árboles pueden ser detectados visualmente y son cruciales para valorar el riesgo. Los principales indicadores de peligro incluyen:
+*   **Madera descompuesta**: La pudrición, causada por hongos xilófagos, es la causa más común de fallo estructural. Se distinguen varios tipos de pudrición:
+    *   **Pudrición blanca**: Más común en árboles de hoja caduca, ataca la lignina, dejando la madera blanca o pálida.
+    *   **Pudrición marrón**: Principalmente en coníferas, ataca la celulosa, dejando la madera marrón oscura.
+    *   **Pudrición blanda**: Causada por ascomicetos, ataca la celulosa, y en estados avanzados, presenta un color paja.
+    *   Los cuerpos fructíferos (setas) en tronco, ramas o raíces, o abultamientos en la pared residual, son indicios de pudrición interna.
+*   **Grietas**: Hendiduras en la corteza y madera, causadas por heridas mal cerradas, uniones débiles o cargas excesivas.
+    *   **Grietas verticales**: Paralelas a las fibras. Peligrosas si dividen el árbol. Las "grietas enrolladas" o de "cuernos de carnero" indican cierre incorrecto de una herida y se asocian a pudriciones.
+    *   **Grietas horizontales**: Perpendiculares a las fibras, son un síntoma de fallo estructural inminente.
+*   **Problemas en las raíces**: Daños en el sistema radicular suelen causar el vuelco del árbol. Las causas pueden ser humanas (obras, excavaciones) o naturales (hongos, sequías). La inclinación del árbol y las grietas en el suelo (grietas radiales o en forma de "S") son indicadores de problemas radiculares.
+    *   El **radio crítico de raíces (CRR)** es el área circular alrededor del tronco necesaria para la estabilidad, estimado multiplicando el diámetro del árbol por 18.
+*   **Uniones débiles de ramas**: Imperfecciones naturales donde la corteza queda incluida entre el tronco y la rama (unión débil) son puntos de fallo estructural.
+*   **Chancros**: Heridas hundidas y agrietadas en tronco, ramas o raíces, donde la corteza y el cámbium están muertos. Un chancro grande (>40% del tronco/rama) puede ser causa de fallo.
+*   **Arquitectura pobre**: Desequilibrio estructural, como árboles inclinados (>40° hacia una zona de riesgo) o "árboles arpa" (rama horizontal con varias ramas verticales ascendentes), son signos de debilidad estructural.
+*   **Árbol o ramas muertas**: Pueden fallar en cualquier momento.
+
+### Fases y Desarrollo de la Intervención
+Una intervención de apeo o poda de arbolado se desarrolla en varias fases:
+1.  **Valoración del Riesgo**:
+    *   Determinar si el riesgo es real, aparente o inminente.
+    *   Evaluar el grado de descomposición de la madera, la presencia de grietas, problemas radiculares, uniones débiles, chancros y arquitectura pobre.
+    *   Considerar los medios disponibles (vehículo de altura, escalera, material de rescate).
+2.  **Delimitación del Perímetro de Seguridad**:
+    *   Establecer una zona de trabajo segura para proteger al personal. Por defecto, 2.5 veces la altura del árbol en pie. Para árboles caídos o podas, depende de la parte más alta que pueda caer.
+    *   Despejar vegetación y rutas de escape (dos rutas a 45° del corte).
+    *   Observar el entorno (viento, desniveles, rocas, nieve, cableado eléctrico, edificios).
+3.  **Control y Mitigación del Riesgo**:
+    *   Aplicar técnicas de apeo o poda, reevaluando continuamente la situación.
+    *   Retirar los restos del árbol si generan peligros.
+4.  **Fin de la Intervención**:
+    *   Levantar el perímetro de seguridad.
+    *   Informar al propietario o autoridades de los riesgos remanentes o futuros.
+
+### Herramientas de Intervención
+Las herramientas básicas para apeo y poda incluyen:
+*   **Motosierra**: Utilizada para cortes, requiere precaución por el riesgo de rebotes y atrapamientos.
+*   **Tractel**: Para apeo y arrastre de árboles caídos. Permite modificar la dirección de caída de forma controlada y retirar árboles con raíces fallidas. Necesita un punto de anclaje resistente y puede arrastrar el doble de su capacidad nominal con una polea en la carga.
+*   **Cuñas**: De madera o plástico, se usan para evitar que la espada de la motosierra se atasque o para cambiar la dirección de caída del árbol hasta 30°.
+*   **Material de altura**: Anillos de cinta, cordinos y mosquetones para instalar líneas de vida y trabajar con seguridad en altura.
+
+### Técnicas de Apeo y Poda
+Existen diversas técnicas de apeo y poda, adaptadas a las características del árbol y la situación:
+
+#### Técnicas de Apeo Básico (Corte de Dirección y Corte de Derribo)
+1.  **Corte de Dirección**: Determina la trayectoria de caída del árbol. Se realiza con un corte inferior horizontal y un corte superior oblicuo, que se encuentran en el interior del tronco. El ángulo de la cuña de dirección es generalmente de 45°, y su profundidad no debe exceder un cuarto del diámetro del tronco.
+2.  **Corte de Derribo**: Ubicado en el lado opuesto al corte de dirección, ligeramente por encima del corte inferior. Se deja un "listón de quebradura" (charnela) de aproximadamente el 10% del diámetro del tronco, para controlar la caída.
+    *   **Procedimiento**: Realizar la cuña de dirección, luego el corte de derribo. Retirar la espada, accionar el freno de cadena y retirarse 3-4 metros por una ruta de escape.
+
+#### Técnicas de Apeo en Condiciones Singulares
+*   **Árbol con Inclinación Excesiva (Técnica del Corte Final Inverso)**: Para evitar caídas bruscas o rajaduras longitudinales. Se realiza un corte de dirección normal, un corte de punta hasta la mitad del diámetro, y luego un corte de derribo invertido, dejando una parte sin seccionar. Finalmente, se extrae la espada y se completa el corte oblicuamente.
+*   **Árbol en Pendiente Pronunciada (Corte Humboldt)**: Consiste en una muesca de caída invertida.
+*   **A Contracarada con Cuñas**: Se utiliza para forzar la caída del árbol contra su inclinación natural. Implica realizar un corte de dirección, un corte de punta hasta la mitad del diámetro del tronco, insertar cuñas en el lado opuesto y cortar los costados restantes, golpeando las cuñas hasta que el árbol caiga.
+*   **Modificando la Caída Natural con Tractel**: Para controlar la dirección de caída, especialmente en zonas urbanas. Se ancla el tractel a un punto alto del árbol y a un anclaje resistente (otro árbol, camión), coordinando la tensión del tractel con los cortes de la motosierra.
+*   **Apeo de Árbol Podrido o Hueco (Corte de Corazón/Mortaja)**: Recomendado para árboles con pudrición interna, donde el apeo convencional es inseguro. El objetivo es eliminar las fibras resistentes del núcleo central para evitar que el árbol se raje. Se usa una bisagra más gruesa y el corte de derribo se hace ligeramente más alto.
+*   **Apeo por Derribo (Empuje)**: Se utiliza cuando los cortes con motosierra no son viables. Consiste en tirar el árbol con un tractel desde una distancia segura.
+
+#### Técnicas de Poda en Altura
+La poda de ramas peligrosas en altura puede requerir el uso de vehículos con brazo extensible, escaleras o técnicas de trepa.
+*   **Técnica de los Tres Cortes**: Para ramas grandes, se realiza primero un corte de descarga en la parte inferior de la rama (corte 1), luego un corte más lejos del tronco (corte 2), sin completarlo. Finalmente, una vez que la rama cae o es dirigida, se hace el corte final (corte 3) cerca del tronco, respetando el "cuello de la rama".
+*   **Poda en Altura con Vehículo**: La opción más segura. Requiere el uso de arnés y anclaje a la cesta, y una cuerda para dirigir la caída de la rama. Las precauciones incluyen señalizar la zona, cuidar el tendido eléctrico y evitar ramas pequeñas en los mandos de la cesta.
+*   **Poda en Altura con Escalera Corredera**: Implica asegurar firmemente la escalera al árbol, usar arnés y encordarse, llevando mosquetones y cuerdas para asegurar la motosierra y dirigir la rama.
+*   **Poda en Altura con Material de Altura**: Si no hay vehículo o escalera, se utiliza progresión por cuerda (espeleología). Requiere instalar un seguro por encima de la rama a cortar.
+
+### Medidas de Seguridad Generales
+Durante cualquier intervención con arbolado, es esencial:
+*   Realizar un análisis continuo del riesgo.
+*   Mantener el perímetro de seguridad.
+*   Utilizar el Equipo de Protección Individual (EPI) adecuado: guantes, casco, ropa de manga larga anticorte, calzado reforzado con puntera de acero y gafas/pantalla de protección ocular. En caso de riesgo eléctrico o humedad, se requiere protección suplementaria (ej. vadeadores).
+*   No trabajar debajo de un árbol enganchado o inestable.
+*   Nunca trabajar por encima del hombro con motosierra para evitar rebotes.
+*   Evitar tocar el suelo, piedras o troncos con la cadena de la motosierra para no dañarla y prevenir rebotes violentos.
+*   Si se trabaja en zonas inclinadas, posicionarse en la parte inferior para mayor comodidad y equilibrio.
+*   Informar a las autoridades competentes (ej. servicios de jardinería municipales) una vez finalizada la intervención y asegurada la zona.
+
+Estas pautas y técnicas, combinadas con una evaluación constante y el uso adecuado de las herramientas, son fundamentales para una intervención segura y eficaz en situaciones de arbolado peligroso.

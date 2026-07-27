@@ -1,0 +1,199 @@
+# Sistemas de Comunicación y Orientación en Emergencias
+
+La gestión eficaz de las emergencias depende fundamentalmente de una comunicación y orientación precisas, siendo estos aspectos cruciales para la localización, desarrollo y resolución de incidentes. Los servicios de emergencias emplean diversas herramientas y sistemas para asegurar una coordinación óptima del personal y la dotación material.
+
+## Fundamentos de la Comunicación y la Orientación
+
+La **comunicación** en emergencias se apoya en las radiocomunicaciones para la predicción, detección, alerta y prestación de servicios de socorro, facilitando la solicitud de recursos, la monitorización del siniestro y la intercomunicación entre parques y equipos. Es imperativo que la comunicación sea operativa, clara y concisa. La **orientación**, por su parte, abarca las técnicas para determinar la ubicación en el terreno y el espacio circundante (orientación espacial), así como en el tiempo (orientación temporal), utilizando referencias como la geolocalización, mapas y brújulas.
+
+### Teoría de la Comunicación: Ondas de Radio
+
+Las ondas son perturbaciones que se propagan a través de un medio físico, caracterizadas por su **ciclo** (forma repetitiva), **longitud de onda** (distancia entre puntos homólogos del ciclo), **amplitud** (altura máxima) y **periodo** (tiempo de un ciclo). La **frecuencia**, medida en Hertzios (Hz), se define como el número de ciclos por segundo; a menor longitud de onda, mayor frecuencia, y viceversa. La velocidad de propagación de la onda varía según el medio, siendo en el vacío aproximadamente 300.000 km/s.
+
+El espectro radioeléctrico, utilizado por las ondas de radio, se divide en bandas de frecuencia, que incluyen:
+*   **Frecuencias Muy Bajas (VLF):** 3-30 kHz.
+*   **Frecuencias Bajas (LF):** 30-300 kHz.
+*   **Frecuencias Medias (MF):** 300-3000 kHz.
+*   **Frecuencias Altas (HF):** 3-30 MHz.
+*   **Frecuencias Muy Altas (VHF):** 30-300 MHz.
+*   **Frecuencias Ultra Altas (UHF):** 300-3000 MHz.
+*   **Frecuencias Súper Altas (SHF):** 3-30 GHz.
+*   **Frecuencias Extra Altas (EHF):** 30-300 GHz.
+
+Las bandas VHF y UHF son las más empleadas en servicios de emergencia. La banda de frecuencia más baja se utiliza para transmisiones AM, mientras que las de 100 Hz se usan para FM. La banda de 27 MHz es libre, pero saturada y de alcance limitado (100 m).
+
+Según su propagación, las ondas se clasifican en:
+*   **Ondas de Superficie (OS):** Frecuencias inferiores a 3 MHz, con largo alcance y gran estabilidad, influenciadas por el terreno.
+*   **Onda Ionosférica (OI):** Frecuencias entre 3 MHz y 30 MHz, se propagan por reflexión en la ionosfera, ofreciendo gran alcance pero señal inestable.
+*   **Onda Espacial (OER):** Frecuencias superiores a 30 MHz, se propagan por las capas bajas de la atmósfera y pueden ser **directas** (emisor-receptor), **reflejadas** (emisor-receptor vía suelo) o **multitrayecto** (múltiples reflexiones).
+
+La información se transmite en ondas mediante la **modulación**, que puede ser de **amplitud (AM)**, variando la amplitud de la portadora según la moduladora, o de **frecuencia (FM)**, variando la frecuencia de la portadora según la amplitud de la moduladora.
+
+### Radiocomunicación: Conceptos y Sistemas
+
+La radiocomunicación se realiza mediante ondas radioeléctricas. Los sistemas de radiocomunicación se clasifican en:
+*   **Servicio Fijo (punto a punto):** Estaciones emisoras y receptoras a cierta altura para conexión directa (radioenlaces).
+*   **Servicio Móvil (punto a zona):** Estaciones base dan cobertura a emisoras en movimiento, cubriendo omnidireccionalmente (ej. GSM).
+*   **Servicio de Radiodifusión:** Estaciones emisoras transmiten información a múltiples receptores en un área geográfica (ej. televisión, radio).
+
+Una estación radioeléctrica es un conjunto de transmisores o receptores para establecer comunicación en una zona, pudiendo ser fija, móvil o espacial/terrenal. Los equipos de emergencias son transmisores-receptores, clasificándose en **fijos** (parques, centros de coordinación), **móviles** (vehículos) y **portátiles** (walkie-talkies).
+
+La **explotación de la radiocomunicación** implica el uso de canales (frecuencias de trabajo) de recepción (RX) y transmisión (TX).
+
+### Sistemas de Comunicación Móvil
+
+Un sistema de comunicación móvil comprende:
+*   **Estaciones Fijas:** Estación base (GSM, nodo UMTS), estación de control, estaciones repetidoras (túnel, valle).
+*   **Estaciones Móviles:** Equipos portátiles (personales), equipos portamóviles (vehículos).
+*   **Elementos de Control:** Señalización, localización, identificación, conexión entre sistemas.
+
+Los sistemas móviles se clasifican por:
+*   **Sistema de Control:** Remoto o local.
+*   **Tipos de Terminales:** Estaciones fijas (base, control, repetidoras) o móviles (portátiles, vehículo-montado).
+*   **Nomenclatura de Enlaces:** Enlace descendente (DL, base a móvil, cobertura), enlace ascendente (UL, móvil a base, retro-cobertura); la simetría es deseable.
+*   **Modalidad de Funcionamiento:** Radiotelefonía (dos vías), radio-búsqueda (una vía).
+*   **Sector de Aplicación:** Radiotelefonía móvil privada (PMR, local, no conectada a RTPC), radiotelefonía móvil pública (PMT, nacional a continental, conectada a RTPC), telefonía inalámbrica (CT, WLAN).
+*   **Banda de Frecuencias:** VHF (30-300 MHz para PMR), UHF.
+
+La explotación de un canal de radiocomunicación puede ser en modo **simplex** (uno a uno alternativamente), **dúplex** (simultáneo en dos sentidos con dos frecuencias) o **semidúplex** (simplex en un punto, dúplex en otro, con repetidores).
+
+#### Radiotelefonía Privada Móvil (PMR)
+
+El sistema PMR utiliza la **concentración de enlaces** y la **conmutación automática de canales** en un repetidor multicanal, formando redes privadas no conectadas a redes públicas, con cobertura local restringida. Se gestionan comunicaciones en flotas de taxis, bomberos, seguridad. La cobertura desde la estación es mayor que la retro-cobertura del móvil, lo que implica que la estación puede escuchar al móvil, pero no viceversa.
+
+#### Sistemas Troncales (Trunking)
+
+Para mejorar la eficiencia del espectro radioeléctrico, los sistemas trunking comparten frecuencias. Utilizan modulación **FFSK** (Frecuencia por desplazamiento de fase por tonos) para señalización (1.800-1.200 Hz) y voz analógica.
+
+En Europa, el **Convenio de Schengen** impulsó un sistema de comunicación interoperable. Sistemas como **TETRA** (Reino Unido, Alemania, Polonia, Benelux) y **TETRAPOL** (Francia, Suiza, España) surgieron de esta iniciativa. El sistema SIRDEE de España es una adaptación de TETRAPOL.
+
+### TETRA (Terrestrial Trunking Radio)
+
+TETRA es un estándar abierto de comunicaciones digitales definido por el ETSI para radiotelefonía móvil privada (PMR) y radiotelefonía móvil de acceso privado (PAMR). Se enfoca en servicios de seguridad y emergencias, transmitiendo voz y datos. Emplea tecnología digital en un solo canal de RF (ascendente y descendente), permitiendo hasta cuatro comunicaciones de voz simultáneas mediante **TDMA (Time Division Multiple Access)**.
+
+TETRA es un sistema de concentración de enlaces que ofrece diversos servicios:
+*   **Llamada Individual:** Comunicación privada uno a uno entre terminales.
+*   **Llamada en Grupo:** Conexión a un grupo de usuarios, con grupos pre-configurados.
+*   **Llamada Broadcast:** Del centro de control a todos los usuarios de la red.
+*   **Llamada de Emergencia:** Máxima prioridad, incluso con saturación de red.
+*   **Operación en Modo Directo (DMO):** Comunicación directa entre usuarios sin la infraestructura de red, con cobertura local.
+*   **Llamada Full Dúplex:** Comunicación telefónica bidireccional simultánea.
+*   **Inclusión de la Llamada:** Añadir usuarios a llamadas existentes.
+*   **Transmisión SDS (Status Data Messages):** Mensajes de estado cortos.
+*   **Servicio de Datos Breves:** Mensajes de texto entre terminales.
+*   **Servicio de Transmisión de Datos:** Encapsulación TCP/IP para enviar datos a redes de ordenadores, correos electrónicos o páginas web.
+*   **Escucha Discreta:** Activación remota del PTT de una radio sin levantamiento de sospechas.
+
+Los sistemas **AVL (Automatic Vehicle Localizator)** permiten transmitir la posición GPS de vehículos o personas al centro de datos.
+
+En España, la banda de 380-390/390-400 MHz está reservada para cuerpos de seguridad y servicios de emergencia. Existe una banda común europea para garantizar la itinerancia entre redes.
+
+Los terminales TETRA incluyen:
+*   **Terminales Base:** Fijos, alimentados por red eléctrica, con antenas en altura, ofrecen gran alcance.
+*   **Terminales Móviles:** Instalados en vehículos, alimentados por batería, con gran cobertura.
+*   **Terminales Portátiles (Walkie-Talkies):** Alimentados por baterías de litio, con menor alcance.
+
+Los tipos de comunicaciones TETRA se pueden establecer en modos de red (TMO) e individuales o de grupo, o en modos directos (DMO) también individuales o de grupo. También existe el modo de grupo con repetidor en modo directo (DMO) y con pasarela/gateway.
+
+### El Centro de Incendios y Salvamento (CEIS) de Guadalajara
+
+La Red de Comunicaciones del CEIS Guadalajara es abierta y analógica, con cuatro Estaciones Base y tres repetidores, que operan en semidúplex y están radioenlazados para una amplia cobertura provincial. Un repetidor portátil adicional se utiliza en grandes siniestros para radioenlazar con el repetidor fijo más cercano y proporcionar cobertura local.
+
+Las frecuencias utilizadas son la banda VHF, con tonos subaudibles VLF para abrir canales de transmisión. Los repetidores se radioenlazan mediante UHF, permitiendo grandes distancias.
+Los canales de comunicación del CEIS Guadalajara incluyen:
+*   **Canal Repetidor (CH1):** Operación semidúplex con dos frecuencias, cobertura provincial si el terminal alcanza un repetidor.
+*   **Canal Directo (CH2):** Simplex, una frecuencia, visibilidad radiológica directa, alcance de miles de metros.
+*   **Canal Directo Adicional (CH4):** Igual que CH2, para cursos, maniobras y simulacros, o para independencia de dos dotaciones cercanas.
+*   **Canal del Servicio Municipal de Bomberos de Guadalajara (CH3):** Para interoperabilidad en intervenciones conjuntas, con un repetidor único en la capital.
+
+### Sistema SIRDEE
+
+Es una red radio Trunking nacional española de 52 redes provinciales, orientada a la seguridad y emergencias, que potencia la interoperabilidad y es una referencia nacional e internacional. Basado en tecnología TETRAPOL, utiliza equipamiento de EADS TELECOM y una infraestructura de Telefónica. Ofrece llamadas de grupo, individuales, múltiples, externas, prioritarias, de emergencia, generales y cifradas; con limitación de llamadas y fusión de grupos. Admite modos de transmisión de red, directo y repetidor independiente, además de interconexión con sistemas externos y redes telefónicas.
+
+### Sistemas Móviles Públicos (TMA)
+
+Conocidos como telefonía móvil celular, son redes públicas con cobertura variable y operación automática. Utilizan sistemas digitales de multiexpansión TDMA/CDMA y bandas ancha/estrecha, ofreciendo datos GPRS/UMTS, SMS y localización (GALILEO+UMTS).
+
+#### GSM (Global System for Mobile Communications) y GPRS (Global Packet Radio System)
+
+GSM es un estándar de telefonía digital móvil de segunda generación (2G) que asigna intervalos temporales (slots) a los usuarios mediante TDMA, operando en 900 MHz o 1800 MHz. GPRS, su evolución (2.5G), proporciona mayor velocidad y ancho de banda, equivalente a ADSL móvil, permitiendo acceso a páginas WAP y mensajes multimedia.
+
+#### UMTS (Universal Mobile Telecommunication System)
+
+UMTS es un sistema de tercera generación (3G) de acceso múltiple por división de código de banda ancha (WCDMA), diseñado para multi-servicio y multi-velocidad. Permite el acceso simultáneo a diversas conexiones y servicios como correo electrónico, descarga de archivos, televisión móvil, videoconferencias y mapas, con un ancho de banda de 5 MHz y velocidades de hasta 2 Mbps.
+
+### Equipos de Comunicación: Repetidores
+
+Los **repetidores** son dispositivos electrónicos que captan una señal débil y la retransmiten con mayor potencia para extender su alcance. Se componen de dos radios conectadas por un cable de audio: una recibe la señal de los equipos portátiles en una frecuencia de entrada, y la otra la retransmite en una frecuencia diferente con mayor potencia, asegurando el aislamiento entre ambas. Su ubicación en altura permite superar obstáculos. Para evitar interferencias lejanas, se recomienda el uso de sistemas como CTCSS, DCS o DTMF.
+
+Los repetidores incluyen transmisor, receptor, controlador, fuente de voltaje y antena. El controlador integra todos los componentes y puede incluir un circuito CTCSS para reducir el ruido. Operan en modos semidúplex o simplex. La normativa española (Real Decreto 863/2008 y CNAF) regula estos equipos, que solo pueden ser instalados por entidades autorizadas. Su uso fortalece las señales eléctricas y ópticas, ampliando la cobertura y superando obstáculos geográficos como colinas y montañas. En el CEIS Guadalajara, los repetidores radioenlazados dos a dos extienden la cobertura a toda la provincia.
+
+## Emisoras Base/Móvil y Portátiles
+
+### Emisoras Base/Móvil
+
+Estas emisoras generan y reciben señales moduladas a través de antenas, canalizándolas a auriculares, computadores u otras interfaces, operando en diversas bandas de frecuencia. Sus características habituales incluyen un transceptor móvil VHF, múltiples canales, potencia de salida de 25 W, display LCD, encriptador de voz, modo emergencia y trabajador solitario, señalización FleetSync, 5-Tonos, DTMF, QT y DQT, y programación desde PC. Existen versiones para UHF y VHF.
+
+La normativa española (Real Decreto 1890/2000) regula estas emisoras, que deben cumplir con las Normas IP (IP54/55 para polvo y agua) y MIL STD 810 C/D/E/F para resistencia a humedad, vibración, caídas y temperaturas extremas. Se utilizan en semidúplex, en modo directo o con repetidor, para comunicación entre vehículos, personal y estaciones base, así como para coordinación con el jefe de guardia.
+
+Como precauciones de uso, es fundamental evitar configurarlas mientras se conduce, no desmontarlas, protegerlas de la luz solar, fuentes de calor, ambientes polvorientos o húmedos, y desconectarlas antes de repostar combustible o al tocar la antena. Se recomienda una distancia de seguridad de 60-90 cm para evitar quemaduras.
+
+El mantenimiento diario implica comprobar su correcto funcionamiento (emisión y recepción), su ubicación en salpicaderos o despachos, y mantenerlos limpios y protegidos del sol.
+
+### Emisoras Portátiles (Walkie-Talkies)
+
+También conocidas como walkie-talkies, transmiten en semidúplex (una radio transmite a la vez, pero varias unidades pueden escuchar). Permiten llamadas uno a uno o de grupo. Son útiles en entornos ruidosos ya que el altavoz puede ser escuchado por el usuario y su entorno. Disponen de más de 100 canales, pesan aproximadamente 300 g, funcionan a 7.2V y operan entre -20ºC y +55ºC.
+
+La normativa española (Real Decreto 1890/2000) también las regula, exigiendo cumplimiento de la normativa internacional IEC529 (sumergibles a 1m por 30 minutos), ATEX94/9/EC (para atmósferas inflamables) y Normas IP (IP54/55).
+
+Para su uso, funcionan en simplex, en modo directo o con repetidor. Es crucial evitar transmitir tocando la antena (riesgo de quemaduras), no cargar baterías mojadas, reducir el volumen con micrófono auricular, no sumergirlas, apagarlas en ambientes explosivos y cargarlas apagadas. Las baterías son inflamables.
+
+El mantenimiento implica verificar la carga de la batería y la comunicación, mantenerlas libres de polvo y secar la rejilla del altavoz si se moja.
+
+### Intercraneal
+
+El sistema intercraneal es un equipo de intercomunicación para emisoras portátiles, con micrófono craneal que capta la voz de la bóveda del cráneo. Es de alta resistencia a la llama, funciona entre -20ºC y +75ºC, y con humedad ≤ 93 %. Cumple la normativa IP 67/66.
+
+Su uso requiere pulsar el botón "PTT" para la comunicación de voz y soltarlo para la recepción. Se utiliza en intervenciones con casco. La antena debe estar conectada a la radio antes de transmitir. El mantenimiento diario incluye verificar la conexión, el PTT y la escucha. Se guarda en el casco y se mantiene limpio de grasas y polvo.
+
+## Equipos de Orientación
+
+### Brújula
+
+Es un instrumento de orientación con una aguja imantada que señala el norte magnético, alojada en una caja circular con una rosa de los vientos y puntos cardinales. Es inútil en zonas polares.
+
+La brújula se compone de una **base** transparente con escalas, un **anillo giratorio graduado (limbo)** de 360º (azimutal), una **aguja magnética**, una **flecha orientadora**, un **punto de lectura** y una **flecha de dirección de viaje**. Existen brújulas sencillas (para senderismo/montañismo), digitales y especializadas (cartográficas, militares, geológicas).
+
+Debe cumplir la normativa de marcado CE. Se usa en búsquedas y rescates, así como apoyo al GPS. Para orientarse con un mapa, se alinea la base con el rumbo deseado, se gira el limbo a "N" con el norte magnético, y la flecha de dirección indica el rumbo. Para orientar el plano, se gira el limbo a cero, se alinea la brújula con el meridiano geográfico y se gira el plano hasta que la aguja señale el ángulo de declinación. Para medir un rumbo, se alinea la brújula con el punto P y se lee el valor.
+
+El mantenimiento implica evitar caídas, protegerla del polvo y arañazos, y guardarla en su funda.
+
+### Prismáticos
+
+También llamados binoculares, son instrumentos ópticos para ampliar imágenes distantes en 3D. Tienen dos tubos con lentes y prismas que corrigen la imagen. Los ejes ópticos están separados para mejorar la sensación estereoscópica.
+
+Sus partes fundamentales son los **tubos**, **objetivos** (distancia variable para adaptar a los ojos), una **rueda de enfoque** y un **ocular derecho con anillo de corrección dióptrica**. Se caracterizan por su **aumento o potencia visual** (primera cifra) y el **diámetro de las lentes frontales** (segunda cifra). Por ejemplo, 8x40 significa 8 aumentos y lentes de 40 mm. El **campo visual** se reduce con mayor ampliación. La **pupila de salida** (diámetro del haz de luz) es importante para observación nocturna. El **relieve de ojo** es la distancia cómoda para observar. El **foco cercano** es la distancia mínima de enfoque.
+
+Existen prismáticos tipo **Roof** (ligeros, compactos, lentes alineadas) y **Porro** (objetivos separados de los oculares). Los **Galileanos** son más sencillos, con lentes convergentes y cóncavas, pero de ampliación y campo visual limitados.
+
+Deben cumplir la normativa de marcado CE. Se usan en búsquedas, rescates y observación de fuegos forestales. El CEIS Guadalajara utiliza modelos tipo Roof, 8x42, con campo de 6º - 105 m/1000 m.
+
+El mantenimiento implica limpiar el polvo con un soplador y paño, las manchas con limpiador de lentes, evitar disolventes, y guardarlos en un lugar ventilado, sin altas temperaturas ni humedad, evitando golpes. Su estanqueidad no implica que puedan sumergirse.
+
+### GPS (Global Position System)
+
+Es un sistema de posicionamiento global por satélite que determina la posición de un objeto con alta precisión. Consta de una red de 24 satélites en 6 planos orbitales, garantizando al menos 4 satélites visibles desde cualquier punto del globo. Cada satélite emite una señal codificada con la hora, su identidad y posición orbital, que un receptor GPS (navegador) utiliza para calcular la posición mediante triangulación. Los errores de precisión (5-30 m) pueden corregirse con receptores de referencia que comparan la posición real con los datos obtenidos.
+
+El GPS permite conocer coordenadas geográficas o UTM. Es crucial fijar un datum (ej. WGS84, ED50) para el cálculo de coordenadas. Los receptores portátiles actuales integran cartografía digital con cursor que indica la posición actual y muestra coordenadas. Permiten guardar **waypoints** (puntos de interés) y registrar el **track** (camino real recorrido). Al marcar una ruta, calcula el **rumbo inicial** y muestra la **desviación** continua. Los modelos comunes son GARMIN ETREX Legend HCx y GARMIN NÜVI.
+
+#### Garmin eTrex® Legend HCx
+
+Este GPS portátil ofrece una precisión de 1 m y una autonomía de 12 horas. Su alta sensibilidad le permite funcionar bajo arbolado o cielos cubiertos. Incluye cartografía completa y se usa en intervenciones de ubicación y rescate, a menudo junto con brújulas y mapas.
+
+Cumple la Directiva 1999/5/CE. Sus pantallas muestran un **menú** de configuraciones, un **mapa** detallado con información de carreteras y relieves, un **compás** gráfico con punteros de ruta, y un **altímetro** para perfiles de altura y presión. También incluye un **procesador de trayecto** con datos de navegación. Es posible ajustar la retroiluminación, el zoom y manipular las listas. Permite consultar cartografía, coordenadas, crear waypoints y rutas.
+
+El mantenimiento exige evitar caídas y exposición solar, mantenerlo limpio y guardado en una funda. Es fundamental verificar el nivel de batería y disponer de recambios.
+
+#### Garmin nüvi®
+
+Este navegador en ruta se especializa en cartografía vial, con una precisión de 10 m y una autonomía de 

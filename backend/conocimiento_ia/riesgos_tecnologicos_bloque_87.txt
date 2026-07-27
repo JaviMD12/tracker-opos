@@ -1,0 +1,54 @@
+# Apuntalamientos y Entibaciones en Intervenciones de Emergencia: Fundamentos y Tipologías
+
+En el ámbito de las operaciones de emergencia, especialmente aquellas que implican riesgos tecnológicos y asistencias técnicas, la estabilización de estructuras y terrenos es una tarea fundamental para garantizar la seguridad de los intervinientes y de las posibles víctimas. Estas técnicas, como los apuntalamientos y las entibaciones, se aplican cuando una estructura o un terreno presentan un equilibrio precario o un riesgo inminente de colapso, requiriendo la adopción de medidas auxiliares para prevenir daños mayores.
+
+## Apuntalamientos en Muros y su Capacidad Mecánica
+
+Los apeos en muros son estructuras auxiliares provisionales diseñadas para detener movimientos descontrolados en edificios, transmitir esfuerzos al suelo o a otros elementos estructurales y contener lesiones. La planificación de un apeo implica considerar la capacidad mecánica de sus componentes y la distribución de las cargas. Un conjunto elemental de apeo en muros con una altura inferior a tres metros, por ejemplo, está diseñado para soportar una capacidad mecánica de 20 kN con una carga puntual horizontal aplicada a dos metros de altura.
+
+Para determinar el número de conjuntos elementales necesarios, se debe evaluar la carga previsible sobre la estructura afectada y la distancia óptima entre los conjuntos, la cual no debe exceder los cuatro metros. Las cargas a considerar en estas situaciones incluyen las generadas por el viento sobre muros expuestos, estimadas en 1,5 kN/m², así como el peso de fachadas desplomadas o de tanques de agua, con valores que varían según el grosor del muro o la profundidad del agua. Por ejemplo, una fachada de 20 cm de espesor y 10º de inclinación podría ejercer 0,9 kN/m², mientras que un tanque de agua a 3 m de profundidad podría generar 15 kN/m². Los empujes del terreno, diferenciados por tipo de suelo (arcilla o grava/arena) y profundidad, también son cruciales, con valores que van desde 3,3 kN/m² a 10 kN/m² para una profundidad de 3 metros, según se trate de grava/arena o arcilla, respectivamente.
+
+Por otro lado, para muros con alturas superiores a seis metros, el conjunto elemental de apeo tiene una capacidad mecánica de 20 kN para una carga puntual horizontal a 2 metros de altura, y 15 kN para una carga a 4,5 metros de altura. Al igual que en el caso anterior, la distancia máxima entre conjuntos no debe superar los cuatro metros, y las cargas previsiblemente aplicables siguen los mismos criterios, incluyendo el peso propio de viviendas (3 kN/m²), garajes (5 kN/m²), sobrecargas de cubierta (2 kN/m²), y sobrecargas de uso (vivienda 3 kN/m², dotacional 4 kN/m², garaje 10 kN/m²). Es esencial adaptar la capacidad mecánica del apeo a la solicitación previsible y considerar que pueden emplearse geometrías y calidades de material diversas.
+
+## Entibaciones en Excavaciones: Estabilidad del Terreno
+
+Las entibaciones son sistemas de estabilización aplicados por debajo del nivel del terreno para asegurar la estabilidad volumétrica de las tierras en excavaciones, zanjas o pozos, protegiendo a las personas de posibles sepultamientos. La normativa establece que cualquier excavación en terrenos corrientes con una profundidad igual o superior a 0,80 m, o en terrenos consistentes a partir de 1,30 m, se considera peligrosa, ya que podría oprimir el tórax de una persona. No obstante, en situaciones de emergencia, se recomienda entibar a partir de 1,50 m de profundidad, o cuando una persona pueda quedar completamente cubierta.
+
+La técnica de entibación básica, conocida como **entibación cuajada**, se utiliza en terrenos de baja cohesión o con presencia frecuente de agua, cubriendo el 100% de la superficie del terreno con cabeceros, largueros y codales. Por su parte, la **entibación semicuajada** se aplica en terrenos con mayor cohesión y cubre aproximadamente el 50% de la superficie. Finalmente, la **entibación ligera** se emplea en terrenos de alta cohesión y ángulo de rozamiento elevado, utilizando solo largueros y codales sin cabeceros. Los **métodos de ejecución** para entibaciones incluyen el "Método Pronto", que consiste en montar marcos (velas y cabeceros) en superficie y luego introducirlos en la zanja, y el "Método Quillery", que implica introducir las piezas una a una en la zanja.
+
+Las entibaciones en pozos, similares a las de zanjas pero adaptadas a dimensiones reducidas, requieren codales contrapeados para asegurar la rigidez y evitar pandeos, que son improbables debido al menor tamaño. Para su ejecución, se utilizan generalmente tablones de madera y/o puntales metálicos, a menudo combinando un tablón de 20x7 cm con puntales telescópicos.
+
+## Estructuras Colapsadas: Caracterización General
+
+Un **derrumbe** se define como el colapso, total o parcial, de una construcción, acompañado del desprendimiento de sus elementos. Estos eventos pueden ser causados por factores **naturales** o **antrópicos**.
+
+### Derrumbes por Causas Naturales
+
+Los **desastres naturales**, como terremotos, huracanes o inundaciones, superan los umbrales de normalidad establecidos por escalas como la Richter o Saphir-Simpson.
+
+#### Terremotos
+Un **terremoto**, también conocido como seísmo o sismo, es una sacudida brusca y transitoria de la corteza terrestre, resultante de la liberación de energía en forma de ondas sísmicas. La causa más común es la ruptura de fallas geológicas, aunque también pueden influir la fricción entre placas tectónicas, procesos volcánicos o incluso actividades humanas, generando **terremotos inducidos** (por ejemplo, por grandes embalses, *fracking* o explosiones nucleares). La energía liberada se mide con la escala de Richter, mientras que la intensidad se valora con la escala MSK.
+
+El **hipocentro** es el punto de origen del terremoto en el interior de la Tierra, y el **epicentro** es su proyección directa en la superficie. Las ondas sísmicas se propagan a través de la Tierra de tres maneras:
+1.  **Ondas Longitudinales (P):** Ondas primarias que se propagan en la misma dirección que la vibración de las partículas, mediante compresiones y refracciones, a velocidades de 8 a 12 km/s. Atraviesan líquidos y sólidos y son las primeras registradas por los sismógrafos.
+2.  **Ondas Transversales (S):** Ondas secundarias que se propagan perpendicularmente a la vibración de las partículas, mediante cizalladura, a velocidades de 4 a 8 km/s. Solo atraviesan sólidos y se registran después de las ondas P.
+3.  **Ondas Superficiales:** Resultan de la interacción de las ondas P y S, con menor velocidad (entre 2,7 y 3 km/s) pero mayor amplitud y duración, lo que las hace más destructivas. Se distinguen dos modelos: **Ondas Rayleigh** (trayectoria elíptica retrógrada) y **Ondas Love** (similares a las S, pero en la superficie y perpendiculares a la dirección de propagación).
+
+#### Corrimientos de Tierra y Aludes
+Un **corrimiento de tierra**, o deslave/derrumbe, se relaciona con avalanchas de tierra, rocas y árboles, a menudo provocadas por terremotos, erupciones volcánicas o inestabilidad del terreno. Los **deslaves especiales** de barro o lodo son causados por la penetración de agua debido a fuertes lluvias. Las tipologías de corrimientos incluyen:
+1.  **Deslizamientos:** Movimiento de una gran masa de terreno inestable sobre una zona estable, a través de una superficie o franja delgada de tierra.
+2.  **Flujos de Arcilla:** En regiones lluviosas, los suelos arcillosos, al saturarse de agua, se comportan como líquidos, moviéndose más lentamente que los deslizamientos. Son comunes en pendientes suaves.
+3.  **Licuefacción:** Fenómeno en el cual el terreno granular no cohesivo se comporta como un líquido pesado.
+4.  **Reptación:** Movimiento extremadamente lento de las capas superiores de laderas arcillosas, generalmente de unos 50 cm de espesor, relacionado con variaciones estacionales de humedad.
+
+#### Riesgos Cósmicos y Volcánicos
+Los **riesgos cósmicos** incluyen asteroides (cuerpos rocosos o metálicos que orbitan el Sol) y meteoritos (fragmentos que se desintegran al entrar en la atmósfera terrestre, produciendo luz). El riesgo principal asociado es el impacto sobre la superficie terrestre.
+
+Los **riesgos volcánicos** provienen de estructuras geológicas que emiten magma, ceniza y gases. Las erupciones pueden variar desde corrientes de lava suaves hasta explosiones destructivas. Las tipologías incluyen:
+1.  **Avalanchas de origen volcánico:** Flujos de barro y cenizas que pueden causar un gran número de víctimas.
+2.  **Erupciones fisurales:** Dislocaciones de la corteza terrestre que liberan lava muy fluida, formando extensas mesetas.
+
+### Derrumbes por Causas Antrópicas
+Las causas antrópicas, originadas por la actividad humana, no solo provocan catástrofes, sino que incrementan la magnitud de las emergencias. Entre estas, destacan la falta de mantenimiento, reformas deficientes, explosiones de gas, atentados terroristas e incendios. La **mala construcción** y la **falta de revisiones** son causas comunes en derrumbes de edificios antiguos. La **mala planificación o ejecución de reformas**, ya sea en el inmueble afectado o en los colindantes, puede causar daños estructurales. Las **explosiones de gas** suelen manifestarse en los puntos más débiles de las fachadas, y si son por bombonas, afectan cocinas y habitáculos. Los **atentados terroristas** son los más destructivos y peligrosos para los equipos de rescate debido a la posible presencia de artefactos sin detonar. Finalmente, los **incendios** en edificaciones no construidas con hormigón armado, como las de madera o metálicas, pueden causar el colapso por el efecto del fuego.
+
+(sin contenido relevante en este bloque para las páginas 240 y 241)

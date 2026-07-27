@@ -1,0 +1,31 @@
+# Casos Prácticos de Estabilización y Asistencia Técnica en Edificaciones
+
+La intervención en situaciones de emergencia que involucran la estabilización de edificaciones y terrenos requiere una comprensión profunda de las patologías estructurales y las tácticas de respuesta. A continuación, se presentan diversos casos prácticos que ilustran escenarios comunes y la aplicación de conocimientos técnicos por parte de los servicios de emergencia.
+
+## 1. Estabilización de un Muro de Contención de Tierras Colindante a Viviendas y Vía Pública
+
+El escenario de intervención se sitúa en un muro de cerramiento de parcela urbana, de considerable altura y sección reducida, construido con hormigón armado de ejecución deficiente. El trasdós del muro retiene un relleno de árido grueso y fino de aproximadamente 5 metros de altura. La trabazón del muro con dos elementos perpendiculares se ha roto, provocando un giro progresivo del muro hacia la calle. Se ha instalado una estructura provisional rudimentaria. Adicionalmente, una vivienda unifamiliar de una planta sin sótano se encuentra a 6 metros del muro, y una piscina portátil llena está ubicada muy cerca, lo que genera una situación de riesgo amplificada.
+
+### 1.1. Análisis Estructural y Patológico
+
+El estudio de la estabilidad del muro se desglosa en varias fases:
+
+*   **Fase 0 (Condición Pre-patológica):** Se considera que el muro, originalmente, presentaba una configuración **hiperestática de grado 3**. Esto se calcula a partir de 3 grados de libertad externos (GDLE), 6 coacciones externas (CE), 3 grados de libertad internos (GDLI) y 3 coacciones internas (CI), resultando en GDL-C = (3+3) - (6+3) = 6 - 9 = -3. Una estructura hiperestática es redundante, lo que implica un alto grado de seguridad.
+*   **Fase 1 (Inicio de la Patología):** La rotura de la trabazón con los muros perpendiculares conduce a una situación **isostática**. En este estado, los grados de libertad externos (GDLE=3) se equilibran con las coacciones externas restantes (CE=3), y los grados de libertad internos (GDLI=0) con las coacciones internas (CI=0), dando GDL-C = 3-3 = 0.
+*   **Fase 2 (Situación Actual de Patología):** La fractura de la base del muro y la rotación de la fachada convierten la estructura en un **mecanismo de grado 1**. En esta fase, los grados de libertad externos (GDLE=3) superan a las coacciones externas (CE=2), resultando en GDL-C = 3-2 = 1, lo que indica un riesgo inminente de colapso.
+
+### 1.2. Causas de la Patología
+
+La inestabilidad del muro se atribuye a sobrecargas horizontales, principalmente por el peso de la piscina llena y el empuje horizontal del terreno. A ello se suman factores como la pudrición de las viguetas de madera en la cubierta, la exposición continua a sobrecargas climáticas (nieve y viento), y una deficiente labor de mantenimiento a lo largo del tiempo.
+
+### 1.3. Objetivos y Estrategia de Intervención
+
+Los objetivos prioritarios son:
+1.  **Evacuar y clausurar** la vivienda y la parcela, dado que el área de influencia del derrumbe potencial es superior a dos veces la altura del muro.
+2.  **Balizar y controlar** la vía pública afectada, manteniendo una distancia de seguridad mínima equivalente a dos veces la altura del muro.
+3.  **Estabilizar el muro** de forma provisional, para luego proceder a su descarga, demolición controlada y posterior reconstrucción.
+
+### 1.4. Cálculos de Estabilización
+
+Para el apuntalamiento se consideran las cargas a estabilizar:
+*   **Cargas de la cubierta:**

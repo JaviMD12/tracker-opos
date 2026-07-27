@@ -1,0 +1,89 @@
+# Apeo y Poda de Arbolado en Intervenciones de Bomberos y Emergencias
+
+Las intervenciones de apeo y poda de arbolado realizadas por los servicios de bomberos y emergencias presentan particularidades distintivas respecto a las labores forestales convencionales. Estas diferencias radican fundamentalmente en el entorno urbano, donde la caída de árboles podridos, derribados que bloquean vías públicas, o ramas rotas, implican un riesgo significativo. Por tanto, es crucial una evaluación precisa del estado del árbol, sus características intrínsecas, las técnicas apropiadas de apeo y poda, y la selección adecuada de herramientas. La finalidad última es eliminar la amenaza con la máxima eficacia y el mínimo riesgo posible para la población y el personal interviniente.
+
+## Fases de Intervención en Arbolado
+
+La gestión de una intervención en arbolado, ya sea por apeo o poda, se estructura en varias fases esenciales para garantizar la seguridad y la efectividad de las acciones:
+1.  **Valoración del Riesgo:** Consiste en una evaluación inicial exhaustiva para identificar la naturaleza y magnitud del peligro que representa el árbol.
+2.  **Delimitación del Perímetro de Seguridad:** Establecimiento de una zona de exclusión para proteger a terceros y al personal operativo.
+3.  **Control y Mitigación del Riesgo:** Aplicación de las técnicas específicas para eliminar o reducir la situación de peligro.
+4.  **Finalización de la Intervención:** Restauración de la normalidad y, si procede, retirada de los elementos restantes.
+
+### Valoración del Riesgo
+
+La primera y más importante etapa es la valoración del riesgo, que determinará la necesidad y el tipo de actuación. Esta valoración se centra en la identificación de la peligrosidad real del ejemplar, diferenciando entre:
+
+*   **Riesgo real y apreciable:** Se evidencia, por ejemplo, cuando un árbol ha caído sobre una carretera o una rama de gran tamaño amenaza con desprenderse, constituyendo un peligro directo para la ciudadanía.
+*   **Riesgo aparente, pero no real:** El árbol puede parecer alarmante a simple vista, pero una evaluación experta indica que no representa una amenaza real.
+*   **Riesgo inminente:** Existe una alta probabilidad de fallo estructural inesperado, a pesar de la ausencia de indicios evidentes, como es el caso de árboles con pudrición interna avanzada.
+
+La evaluación de la peligrosidad de un árbol se realiza analizando diversos indicadores:
+*   **Madera descompuesta:** La pudrición interna, causada por hongos xilófagos (basidiomicetos y ascomicetos), es la causa más común de fallo estructural. Puede no ser visible externamente, pero la presencia de cuerpos fructíferos (hongos, champiñones) en el tronco, ramas o raíces, especialmente en la base, es un indicio de descomposición interna. Los tipos de pudrición incluyen la **pudrición blanca** (afecta lignina, común en caducos, deja madera blanquecina, ej. *Ganoderma applanatum*), la **pudrición marrón** (afecta celulosa, común en coníferas, deja madera oscura), y la **pudrición blanda** (afecta celulosa, avanzada, color "paja"). Heridas mal cerradas o grietas también pueden ser indicios de pudrición.
+*   **Grietas:** Son hendiduras en la corteza y madera, y pueden aparecer en tronco, ramas o raíces. Generalmente, indican que la madera no soporta la carga. Pueden ser **verticales** (paralelas a las fibras, peligrosas si dividen el árbol por completo, como las grietas enrolladas o "cuernos de carnero", asociadas a pudriciones) u **horizontales** (perpendiculares a las fibras, sinónimo de fallo estructural inminente). La aparición de costuras o líneas verticales en la corteza no suele ser señal de peligro, a diferencia de las arrugas o grietas que pueden preceder a la rotura por flexión. Se valora su antigüedad (recién formadas vs. antiguas) y el vigor del árbol.
+*   **Problemas en las raíces:** El daño radicular grave suele provocar el vuelco completo del árbol, impidiendo su anclaje. Las causas pueden ser antropogénicas (obras, excavaciones, pavimentación) o naturales (hongos, sequías, inundaciones). Una copa poco vigorosa con ramas muertas es un indicador de problemas radiculares. Los signos visibles incluyen grietas en el suelo, levantamiento y rotura de raíces en la cara opuesta a la inclinación, y depresiones en la cara de compresión. Una nueva inclinación sugiere un alto riesgo de fallo. El **radio crítico de raíces (CRR)**, que es el área circular alrededor del tronco con raíces necesarias para la estabilidad, se estima multiplicando el diámetro del árbol por 18 (ej. un árbol de 30 cm de diámetro tiene un CRR de 5.4 m). Obras o excavaciones que afecten un área inferior a este radio comprometen la estabilidad.
+*   **Uniones débiles de ramas:** Se deben a imperfecciones naturales en el crecimiento, como la **corteza incluida**, donde dos partes crecen muy cerca, atrapando corteza y generando una unión débil con poca resistencia a la tensión y al esfuerzo cortante. Las uniones con arrugas en la corteza son fuertes.
+*   **Chancros:** Son heridas hundidas y agrietadas en tronco, ramas o raíces, donde la corteza y el cambium están muertos, desfigurando la madera subyacente. Causados por hongos, insectos o vandalismo, pueden causar fallo estructural si afectan más del 40% del tronco o rama. Se valora su profundidad y pudriciones asociadas.
+*   **Arquitectura pobre:** Indica un desequilibrio estructural. Los **árboles inclinados** con una inclinación superior a 40º hacia una zona de riesgo deben ser retirados. Los **árboles arpa** presentan una gran rama horizontal con ramas verticales ascendentes, siendo débiles ante el viento.
+*   **Árbol o ramas muertas:** Pueden caer en cualquier momento. Si el árbol muerto no representa peligro en un entorno natural, puede dejarse; en caso contrario, debe retirarse lo antes posible.
+
+Para una valoración visual de las pudriciones, se puede usar una **varilla metálica** para medir oquedades y un **martillo de goma** para detectar acústicamente oquedades.
+
+### Conceptos Teóricos Básicos de la Madera
+
+Para una intervención segura y eficaz, es fundamental comprender la **anatomía** y las **propiedades físico-mecánicas** de la madera.
+
+#### Anatomía del Árbol
+
+El árbol se compone de raíces, tronco, ramas, hojas, flores y frutos. Las partes más relevantes en el contexto de emergencias son:
+*   **Raíces:** Proporcionan anclaje al suelo y absorben nutrientes y agua.
+*   **Ramas:** Encargadas de la fotosíntesis.
+*   **Tronco:** La columna principal que sostiene el árbol. En un corte transversal, de exterior a interior, se distinguen:
+    *   **Corteza:** Capa más externa, de células muertas, que protege contra microorganismos y agentes atmosféricos.
+    *   **Cambium:** Capa de crecimiento que genera nuevas células de xilema (madera) hacia el interior y de floema (parte de la corteza) hacia el exterior.
+    *   **Albura:** Madera más joven y clara, responsable del transporte de savia.
+    *   **Duramen:** Madera más antigua, dura y oscura, sin savia, que constituye el núcleo resistente y es la zona más susceptible a la pudrición.
+    *   **Médula vegetal:** Zona central del tronco con escasa resistencia.
+
+#### Estática y Propiedades Mecánicas de la Madera Verde
+
+Un árbol se considera estáticamente seguro si las cargas que actúan sobre él están en equilibrio con las propiedades del material (dureza, elasticidad) y la geometría de su estructura.
+
+**Cargas sobre los árboles:**
+*   **Peso propio del árbol:** Generalmente insignificante frente a la alta resistencia a compresión de la madera (aprox. 2.0 kN/cm²).
+*   **Peso de hielo o nieve:** Representa un riesgo mayor, ya que la madera verde tiende a agrietarse bajo cargas constantes.
+*   **Viento fuerte (tormentas, vendavales):** Es la carga más crítica para la estabilidad. El árbol puede generar **madera de reacción** para protegerse del viento constante y aumentar su resistencia. La fuerza del viento depende de la situación geográfica, la topografía, la estación del año (mayor riesgo en otoño por hojas), las influencias meteorológicas (menor densidad del aire a baja presión aumenta el empuje), la altura (mayor velocidad del viento a mayor altura) y la forma de crecimiento del árbol (efecto palanca).
+
+**Propiedades de la madera:**
+*   **Dureza:** Las propiedades de la madera verde difieren de la seca. El Catálogo de Stuttgart (Brudi, 2001) documenta la resistencia a compresión y cizallamiento en árboles vivos. La resistencia media a compresión de la madera verde es de 2.0 kN/cm², con variaciones significativas entre especies (ej. castaño de Indias 1.4 kN/cm², roble 2.8 kN/cm²). El coeficiente aerodinámico de la copa (`Cw`) y el módulo de elasticidad longitudinal (`E-mod`) también son factores clave.
+*   **Elasticidad:** El **límite elástico** es la tensión máxima que la madera puede soportar y recuperar su forma original. Superado este límite, las fibras se deforman permanentemente, llevando a la **ruptura primaria** (fisuración) y, con más fuerza, a la **ruptura secundaria** (rotura completa). El límite elástico es constante en diferentes alturas del tronco.
+*   **Geometría del tronco:** La seguridad estructural de un tronco hueco depende de la carga soportada y el grosor de su pared residual. No todo tronco hueco es inseguro; se puede evaluar midiendo el espesor de la pared.
+
+#### Cálculo del Peso de la Madera
+
+El cálculo del peso aproximado de un árbol es vital para planificar intervenciones, como determinar la necesidad de una grúa o la capacidad de un tractel.
+
+**Metodología de cálculo:**
+1.  **Cálculo de la altura:**
+    *   Para un árbol caído: se mide directamente de punta a punta.
+    *   Para un árbol en pie: se utiliza el principio de **semejanza de triángulos**. Colocándose a una distancia conocida (D) del árbol, se sostiene un objeto de longitud conocida (d) a la altura de los ojos y se mide la altura (h) que abarca el árbol en el objeto. La altura total del árbol (H) se calcula con la fórmula `H = (h * D) / d`. Por ejemplo, si D=20m (2000cm), d=70cm y h_stick=50cm, entonces H = (50 * 2000) / 70 = 1428.57 cm (14.25m). Los medidores láser pueden automatizar esto, pero el follaje puede interferir.
+2.  **Cálculo del radio:** Es difícil medir el radio directamente en un tronco sin cortar. Se mide el perímetro del tronco a media altura (o a la altura del pecho para árboles en pie) y se calcula el radio (r) mediante la fórmula `r = Perímetro / (2 * π)`. Por ejemplo, un perímetro de 180 cm resulta en un radio de aproximadamente 28.66 cm.
+3.  **Cálculo del volumen:** Una vez obtenidos el radio (r) y la altura (h), se calcula el volumen (V) aproximado del árbol, tratándolo como un cilindro: `V = π * r² * h`. Por ejemplo, con r=28cm y h=14.25m (1425cm), el volumen es aproximadamente 3.5 m³.
+4.  **Cálculo de la densidad de la madera:** La densidad de la madera verde es un factor crucial. La humedad de la madera varía ampliamente; la madera seca al aire tiene una humedad media del 15%. Para estimar la densidad de la madera verde (con una humedad media del 55-60%, es decir, un 40% más que la madera seca), se suma un 40% a la densidad de la madera seca. Por ejemplo, una densidad de madera seca de 0.6 kg/dm³ se traduce en aproximadamente 0.8 kg/dm³ para madera verde. Las maderas pesadas (>1 kg/dm³) se hunden en el agua. La densidad resultante se multiplica por el volumen para obtener el peso del árbol (ej. 3.5 m³ * 800 kg/m³ = 2800 kg).
+
+### Delimitación del Perímetro de Seguridad
+
+Una vez valorado el riesgo, se establece un perímetro de seguridad. Por defecto, este perímetro es de **dos veces y media la altura del árbol en pie**. Si el árbol ya está caído o se trata de poda, la distancia de seguridad se adapta al riesgo, considerando 2.5 veces la longitud de la parte más alta que pueda caer. Durante el derribo, el vehículo y el personal deben mantenerse a esta distancia, interrumpiendo el tráfico si es necesario. Se deben prever dos rutas de escape a 45 grados a ambos lados del corte de derribo, utilizando árboles grandes o edificios cercanos como parapetos si es posible.
+
+Las acciones clave durante la delimitación del perímetro incluyen:
+*   Despejar la vegetación circundante y las rutas de escape.
+*   Eliminar las ramas bajas que interfieran con el apeo, siempre cortando por debajo del hombro para seguridad.
+*   Observar el entorno y las condiciones que puedan afectar el apeo, como el viento, cuestas, rocas, nieve o cableado eléctrico.
+
+### Control y Mitigación del Riesgo
+
+Esta fase implica la aplicación de técnicas de apeo específicas para controlar y mitigar el riesgo. La complejidad puede requerir una reevaluación constante de la situación, especialmente si las tensiones o la distribución del peso cambian durante el corte, como cuando un árbol está apoyado sobre una estructura.
+
+### Fin de la Intervención
+
+Una vez eliminado el riesgo y restablecida la normalidad, se levanta el perímetro de seguridad. Si el árbol está en un lugar que requiere su retirada (ej. vía pública), se tronzará o desramará. Si no existe un riesgo inmediato, el perímetro puede mantenerse balizado sin retirar el árbol. Finalmente, se informa al propietario sobre los riesgos existentes o futuros y se recogen los materiales y equipos utilizados.

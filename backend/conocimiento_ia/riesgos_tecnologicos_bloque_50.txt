@@ -1,0 +1,159 @@
+El diseño y la construcción de edificaciones, que abarcan la arquitectura y los procedimientos técnicos para erigir elementos constructivos, constituyen un campo de intervención fundamental para los cuerpos de bomberos. Un conocimiento básico de las características proyectadas, la normativa aplicable y los sistemas constructivos y materiales empleados es esencial para actuar eficazmente en los escenarios de emergencia.
+
+### Forjados: Tipologías y Componentes
+
+Los forjados, elementos estructurales generalmente horizontales (aunque también inclinados) diseñados para soportar y transmitir cargas a otros elementos portantes como vigas, pilares o muros, se clasifican según diversos criterios fundamentales.
+
+Desde la perspectiva del **tipo de armadura**, se distinguen:
+*   Los **forjados armados**, donde el refuerzo de acero es pasivo, es decir, solo entra en carga una vez que el hormigón ha fraguado y se ha desencofrado la estructura. Todos los forjados y losas ejecutados in situ pertenecen a esta categoría.
+*   Los **forjados pretensados**, que incorporan una armadura activa que se tensa antes del hormigonado in situ o del desapeo. Son ejemplos las viguetas pretensadas o las placas alveolares en forjados unidireccionales.
+*   Los **forjados postesados**, donde la armadura activa se tensa después del hormigonado y antes del desapeo, normalmente en la propia obra.
+
+En cuanto a su **geometría**, los forjados pueden ser:
+*   **Unidireccionales:** diseñados para transmitir cargas en una única dirección a sus apoyos, que pueden ser vigas, jácenas (que a su vez descargan en soportes) o muros de carga, dispuestos todos en una misma dirección. Los elementos resistentes adoptan la denominación del material principal, y los de entrevigado, como bovedillas cerámicas o hormigón aligerado (o porexpán), carecen de función portante, sirviendo solo para aligerar el peso de la estructura. Una capa de compresión superior se encarga de repartir uniformemente las cargas a las viguetas.
+*   **Bidireccionales:** capaces de distribuir los esfuerzos en dos direcciones, generalmente ortogonales. Estos se apoyan en vigas en dos direcciones (formando placas) o directamente sobre pilares (constituyendo losas o forjados reticulares).
+
+Según el **material** predominante, los forjados se configuran de distintas maneras:
+*   En **madera**, los elementos resistentes suelen ser viguetas con dimensiones y luces adecuadas, uniformemente espaciadas. El entrevigado, a base de revoltones de yeso y cascotes, sin función portante, se apoyaba sobre roscas de ladrillo o se reforzaba con tomizas (cuerdas de esparto) o clavos para asegurar la adherencia.
+*   Los **metálicos** emplean perfiles de acero normalizados, como perfiles en I o doble T, que ofrecen una mayor inercia vertical. El entrevigado, a menudo de elementos cerámicos, puede ser de tablero sobre resistentes (rasilla en forma de arco sobre las alas inferiores del perfil) o embebido en resistentes (bovedillas cerámicas). Estos forjados de acero permiten luces hasta un 50% superiores a los de madera (hasta 6 metros) y facilitan la apertura de huecos con brochales y viguetas cojas, dada la versatilidad de sus uniones. Su rigidez es superior debido a la capacidad del acero para formar uniones rígidas e indeformables.
+*   Los **de hormigón armado** presentan una estructura similar a las tipologías ya descritas, con particularidades específicas. En los forjados unidireccionales de hormigón armado, los nervios hormigonados in situ incorporan acero para absorber esfuerzos de tracción, complementando la capacidad del hormigón para compresión y cortante, lo que permite reducir el canto. La armadura se dispone en dos tipos: armados positivos en la parte inferior del nervio para momentos flectores positivos, y armados negativos en la parte superior para momentos flectores negativos. Los elementos de entrevigado, como las bovedillas, son piezas prefabricadas que aligeran el peso y optimizan la economía de la construcción, sin ser estructurales. Pueden soportar una carga puntual de 100 kg (una persona) y sus dimensiones comunes varían entre 0.60 y 0.90 metros entre ejes (siendo 70 cm el estándar). Es común que se desprendan por falta de adherencia, lo cual no indica un fallo estructural del forjado. La apertura de huecos pequeños se resuelve con pasatubos, mientras que los grandes requieren brochales y viguetas cojas, implicando descubrir el acero para consolidar la unión. La alta rigidez inherente a los forjados de hormigón armado permite uniones rígidas e indeformables.
+
+En el ámbito de los **forjados bidireccionales de hormigón armado**, encontramos:
+*   La **losa maciza**, que consiste en elementos horizontales macizos de sección variable, sin elementos de entrevigado, y que requieren una gran cantidad de armado (superior e inferior) para soportar su elevado peso y cubrir grandes luces.
+*   El **forjado reticular o losa aligerada**, caracterizado por placas bidireccionales apoyadas sobre pilares y aligeradas mediante diversos métodos, como bloques huecos de arcilla expandida, cerámicos, poliestireno o moldes recuperables (casetones de plástico que forman techos artesonados). Estos forjados trabajan a flexión en dos direcciones, con las cargas siendo soportadas por los nervios resistentes. Pueden cubrir grandes luces sin pilares intermedios, lo que es ventajoso en espacios como centros comerciales o garajes. El apoyo se realiza directamente en los capiteles de los pilares, con una zona no aligerada (ábaco) alrededor del pilar para prevenir el punzonamiento.
+
+Los **forjados mixtos** combinan elementos resistentes de diferentes materiales, siendo el caso más común la **chapa colaborante**. Esta se compone de un perfil de chapa grecada de acero sobre el que se vierte hormigón y se añade un mallazo de reparto para evitar fisuraciones por retracción y temperatura. La interconexión entre la chapa y el hormigón, facilitada por las embuticiones del perfil, permite que ambos materiales trabajen conjuntamente, absorbiendo los esfuerzos rasantes. Estos forjados suelen clasificarse como unidireccionales, donde los nervios del perfil de chapa están sometidos a flexión en la dirección de la luz de cálculo.
+
+### Cubiertas y Elementos de Enlace Vertical
+
+Los **elementos estructurales inclinados** de una edificación se dividen en estructuras de cubierta y elementos de enlace, como escaleras y rampas.
+
+Las **cubiertas** son conjuntos de elementos constructivos inclinados u horizontales que limitan superiormente la edificación y cumplen una doble función:
+*   **Resistente:** deben soportar el peso de sus propios componentes, las sobrecargas de uso y las acciones meteorológicas (nieve, viento, variaciones térmicas) y sísmicas.
+*   **Soporte:** actúan como base para los elementos de cobertura (aislamiento, impermeabilización, barrera de vapor) y para diversas instalaciones, tanto específicas (antenas, pararrayos) como no específicas (chimeneas, ventilación, accesos para mantenimiento) e incluso instalaciones complejas (aire acondicionado, colectores solares).
+
+La geometría de la cubierta y la inclinación de sus planos determinarán el tipo de entramado inclinado, el cual puede ser:
+*   **Estructuras trianguladas o cerchas:** empleadas para grandes luces y cubiertas complejas.
+*   **Estructuras entramadas o forjados inclinados:** utilizadas en edificaciones con luces más pequeñas y cubiertas técnicamente sencillas.
+
+Los **elementos de enlace** garantizan la comunicación vertical en el edificio. Las **escaleras** son elementos fijos con peldaños que salvan desniveles entre plantas. Se componen de:
+*   **Elementos estructurales:** zancas (vigas inclinadas que recogen cargas y apoyan los peldaños), tableros/rampas/forjados (losas macizas sobre las que se colocan los peldaños) o, en construcciones antiguas, arcos, bóvedas o losas.
+*   **Elementos de revestimiento:** peldaños (mármol, cerámica, madera) y zanquines/zócalos (piezas laterales del peldaño).
+*   **Elementos de protección:** barandillas (para seguridad, a partir de 1.20 m de ancho) y pasamanos (para anchos superiores a 4 m, con altura entre 90 y 110 cm).
+
+La **geometría de las escaleras** se regula por el CTE DB SUA para uso público, estableciendo para tramos rectos:
+*   **Dimensiones de escalones:** huella (H) de al menos 28 cm; contrahuella (C) entre 13 y 18.5 cm.
+*   **Relación geométrica:** 54 cm ≤ 2C + H ≤ 70 cm para comodidad.
+*   **Escaleras de evacuación:** no permiten boceles y deben tener tabicas en todos los escalones.
+
+Para **escaleras de tramos curvos**, se aplican las mismas prescripciones que para tramos rectos, con medidas de huella a 50 cm del borde interior, dimensión mínima útil de escalón de 17 cm y máxima de 44 cm en el tramo exterior.
+
+Los **tramos de escalera** deben tener un mínimo de 3 escalones. La altura máxima de un tramo es de 2.25 m en zonas de uso público y 3.20 m en otros casos.
+
+Las **mesetas**, espacios planos entre tramos, deben tener al menos la anchura de la escalera y una longitud mínima de 1 m si son en la misma dirección. Si hay cambio de dirección, la anchura no se reducirá.
+
+Los **pasamanos** son obligatorios en escaleras que salven más de 55 cm de altura, al menos en un lado, y en ambos si el ancho libre supera 1.20 m o si no hay ascensor. Se requieren pasamanos intermedios si el tramo es mayor de 4 m, separados como máximo 4 m.
+
+Las **tipologías de escaleras** para bomberos, según el CTE DB SI, se clasifican por su protección contra incendios:
+*   **Escaleras abiertas:** sin protección contra incendios.
+*   **Escaleras compartimentadas:** comunican sectores y sus paredes/puertas tienen la resistencia al fuego exigida (sectorización), sin necesidad de ventilación. El recorrido hasta el exterior no debe superar los 15 m.
+*   **Escaleras protegidas:** cumplen las condiciones de las compartimentadas, con sectorización EI 120, acceso desde espacios comunes y un recorrido no superior a 15 m hasta el exterior. Requieren protección contra humo mediante ventilación natural, conductos de aire o sistemas de presión diferencial (EN 12101-6:2005).
+*   **Escaleras especialmente protegidas:** añaden un vestíbulo de independencia en cada acceso (salvo en la planta de salida para evacuación ascendente).
+*   **Escaleras abiertas al exterior:** con huecos permanentemente abiertos (superficie mínima 5A m², siendo A la anchura del tramo), y pueden considerarse especialmente protegidas sin vestíbulo de independencia.
+
+Las **rampas** son planos inclinados que conectan diferentes cotas sin discontinuidad física. Aunque comparten principios con las escaleras, el CTE establece requisitos específicos:
+*   **Longitud máxima:** 15 m, o 9 m en itinerarios accesibles.
+*   **Pendiente:** entre 4% y 12% generalmente, con excepciones para itinerarios accesibles (3% para longitudes <3m, 6% para <6m) y no accesibles/parkings (máximo 16%).
+*   **Mesetas:** anchura igual a la rampa y longitud mínima de 1.5 m.
+*   **Pasamanos:** continuos a partir de 550 mm de altura o pendiente ≥6%, entre 0.90 y 1.10 m de altura.
+El CTE DB SI no contempla una modalidad de rampa protegida contra incendios.
+
+### Evolución Histórica de la Edificación en España y sus Materiales
+
+La comprensión de las estructuras y materiales edificatorios a lo largo del tiempo es crucial. El CTE DB SE establece una vida útil de 50 años para las edificaciones, pero los bomberos intervienen en construcciones de diversas épocas, clasificadas generalmente en:
+*   **Anteriores al siglo XX:** Sin normativas, basadas en procedimientos empíricos. Predominan gruesos muros de carga de fábrica con pequeños huecos. Los materiales principales eran la piedra (sillar, sillarejo, mampuesto) por su durabilidad, y la tierra (adobe) por su disponibilidad y bajo coste. También se utilizaban materiales mixtos y entramados de madera.
+*   **Durante el siglo XX (1900-1939):** Consolidación de sistemas de entramados (madera, hormigón, metálicos), permitiendo mayores alturas y luces, y fachadas no resistentes. (1940-1965): escasez de acero post-Guerra Civil llevó a un retorno a entramados de madera y fábricas. Se popularizaron balcones y cornisas para trabajos en altura. (1965-1990): retorno de acero y hormigón, consolidándose como tipologías básicas, con destierro de la madera y tecnificación constructiva.
+*   **Finales del siglo XX - Inicios del siglo XXI (1990-2010):** Segundo boom de la construcción con prefabricación y modulación de componentes. Construcción de grandes complejos y manzanas cerradas, presentando desafíos de acceso para bomberos. (2010-actualidad): reducción de oferta y menor mantenimiento, aumentando las patologías en edificios.
+
+### Patologías en la Edificación: Causas y Tipos
+
+Las patologías en la edificación, aunque a menudo inician con fisuras estéticas, pueden progresar a problemas estructurales graves. Sus causas se clasifican en:
+
+**Factores Internos (vinculados al diseño, construcción y mantenimiento):**
+*   **Fallos de proyecto o ejecución:** errores en el diseño o la puesta en obra.
+*   **Materiales de mala calidad.**
+*   **Reformas inadecuadas:** lesiones a corto o largo plazo.
+*   **Envejecimiento y mal uso/conservación.**
+
+**Factores Externos (accidentales o naturales):**
+*   **Antrópicos:**
+    *   **Agotamiento estático del terreno.**
+    *   **Alteración volumétrica del terreno:** por humedad o excavaciones (metro, galerías).
+    *   **Alteración de condiciones de contorno:** demolición de edificios colindantes, excavaciones próximas, sobrecargas diferenciales del terreno.
+*   **Naturales:**
+    *   **Incendios estructurales.**
+    *   **Sismos:** movimientos telúricos que pueden causar deformación o colapso.
+    *   **Explosiones.**
+    *   **Inundaciones y aguas subterráneas (socavones).**
+
+Las patologías por **causas constructivas** se deben a la acción combinada de agua, terreno y características de los elementos.
+
+**Tipos de humedades:**
+*   **De origen natural:**
+    *   **Capilar:** agua ascendiendo por muros en contacto con el terreno (porosidad del material).
+    *   **Freática:** elevación del nivel freático por lluvias intensas, afectando elementos bajo rasante.
+    *   **Ambientales:** por filtración (lluvia, nieve en cubiertas) o condensación (vapor de agua en superficies frías).
+*   **De origen antrópico:**
+    *   **De obra:** exceso de agua durante la construcción.
+    *   **Accidentales:** rotura de instalaciones (calefacción, saneamiento).
+
+Los **síntomas de humedades** varían:
+*   **Eflorescencias:** manchas blanquecinas de sales.
+*   **Criptoeflorescencias:** expansión de sales que disgregra y desprende revestimientos.
+*   **Generación de organismos:** musgo, moho por humedad, o xilófagos en madera.
+*   **Disgregación por heladicidad:** aumento de volumen del agua infiltrada al congelarse, causando desprendimientos.
+*   **Oxidación/corrosión:** acelerada en metales por presencia de agua.
+
+Las patologías vinculadas al **terreno y a la calidad constructiva** se manifiestan por variaciones en la distribución de cargas, causando desequilibrios que pueden llevar al colapso.
+
+**Tipologías comunes de patologías:**
+*   **Adaptación o encaje:** lesiones por ajuste de materiales o terreno. Fisuras en puntos débiles (huecos, esquinas) que se estabilizan con el tiempo.
+*   **Cedimiento o hundimiento:** descenso de la cimentación o deformación excesiva del terreno. Causas: mala elección del terreno, fallos de proyecto o ejecución, cambios imprevistos en el suelo (rotura de colectores), aumento de cargas. Suelos expansivos (arcillas con montmorillonita y vermiculita) varían volumen con humedad, causando retracciones e hinchamientos. Un movimiento diferencial entre el centro y el borde puede llevar a la ruina.
+*   **Aplastamiento:** reducción de materiales a partículas pequeñas, perdiendo cohesión y propiedades mecánicas, por rotura debido a exceso de compresión. Fases: disgregación de morteros, rotura de materiales pétreos/cerámicos, y colapso.
+*   **Rotación:** desviación de elementos constructivos de su plano vertical. Puede ser interna (hacia el interior) o externa (hacia el exterior). Causas: cedimiento del plano de asiento (muro se desploma por gravedad, seccionando muros contiguos) o empujes laterales (por esfuerzos oblicuos en cerchas, arcos sin tirantes, dilatación de elementos, desplazamientos de terreno).
+*   **Movimiento del terreno:**
+    *   **Movimientos de ladera:** desplazamiento de estratos (desprendimientos, vuelcos, deslizamientos, flujos).
+    *   **Subsidencias y colapsos:** hundimiento lento y progresivo (subsidencia) o brusco y rápido (colapso) del terreno.
+
+Las patologías por **causas accidentales** incluyen:
+*   **Incendio:**
+    *   **Acero:** incombustible, pero alta conductividad térmica y dilatación. Pierde resistencia rápidamente (500-600ºC pierde 2/3, 600-700ºC pierde 1/3, a 538ºC punto crítico de colapso). Colapsa por pandeo de elementos esbeltos y dilataciones que provocan empujes. Tiempos de colapso: 5 minutos (lab), 10-20 minutos (incendio real).
+    *   **Hormigón:** incombustible, baja conductividad térmica, baja dilatación. Pierde resistencia al aumentar la temperatura (300ºC inicio pérdida, 500ºC pierde 50%, 600ºC se vuelve frágil, 1000ºC se disgrega la grava). Cambia de color (200-300ºC gris, 300-600ºC rojizos, 600-900ºC gris rojizo, >900ºC nulo). Colapsa por fallos termomecánicos (pérdida de adherencia acero-hormigón) o termohidráulicos (presión interna de vapor de agua causando spalling o desprendimiento explosivo del hormigón).
+    *   **Fábrica:** incombustible, alta masa y baja conductividad térmica. Mantiene capacidad portante al fuego por espesor e inercia. Puede colapsar por falta de arriostramiento de forjados superiores.
+    *   **Madera:** combustible, baja conductividad térmica, baja dilatación. Gana resistencia al inicio por pérdida de humedad, pero pierde sección por carbonización (1 cm cada 15 min). Permite intervención si mantiene 60% resistencia (pérdida de sección <20% estable, 20-40% requiere refuerzo, >40% inestable).
+*   **Sismo:**
+    *   **Efectos en el terreno:** agrietamiento, plano de corrimiento, abombamientos en muros de contención. Licuefacción (terreno granular se comporta como líquido) por vibraciones sísmicas.
+    *   **Efectos en edificaciones:**
+        *   **Geometría:** las irregularidades (masas, retranqueos, asimetrías) concentran esfuerzos y aumentan deformaciones.
+        *   **Rigidez:** efecto pilar corto, piso blando, fenómeno aplauso (edificios adosados de diferente altura).
+        *   **Materiales:** adobe (poca trabazón), tapial (colapsa por sacudidas horizontales), fábrica (sensible a cortante/flexión), hormigón armado (diafragmas rígidos buenos, pilares afectados en planta baja), acero (grandes deformaciones, fallos en uniones).
+*   **Impacto:** choque violento de un cuerpo sobre la edificación (excluye impactos premeditados). Factores: masa y velocidad del cuerpo, capacidad de deformación/amortiguación. Valores de cálculo para vehículos (50 kN paralelo, 25 kN perpendicular) y carretillas elevadoras (5 veces su peso).
+
+### Evaluación de la Seguridad y Ruina
+
+La **evaluación de la seguridad** en un edificio se establece por su capacidad para soportar cargas de uso durante su vida útil (50 años según CTE DB SE). Las edificaciones se clasifican según su estado:
+*   **Confianza:** sin riesgo.
+*   **Precariedad:** carencias que disminuyen garantías de seguridad, pero sin peligro para uso/habitabilidad.
+*   **Peligro/Ruina:** el sistema estructural no soporta cargas permanentes o variables, lo que puede llevar al colapso.
+
+La **ruina** es el estado de seguridad de una edificación con patologías graves que comprometen su estabilidad o la hacen inútil para su destino. Las tipologías de ruina son:
+*   **Funcional:** inútil para su destino, sin afectar estabilidad.
+*   **Constructiva (potencial/incipiente):** primeros vicios constructivos con potencial de evolución a graves.
+*   **Vicios graves (propiamente dicha):** impiden el uso/habitabilidad, con altos costes de reparación y precauciones especiales.
+*   **Física (inminente):** deficiencias que abocan al colapso inmediato y demolición.
+*   **Económica:** coste de reparación superior al 50% del valor actual del edificio.
+*   **Técnica:** consolidación imposible, requiere reconstruir más de 1/3 de elementos fundamentales.
+
+Los **síntomas de ruina** son:
+*   **Primarios:** grietas y fisuras (manifestaciones más frecuentes de lesiones, que progresan de fisuras superficiales a grietas profundas que interrumpen la transmisión de esfuerzos).
+*   **Secundarios:** deformaciones (pandeos, deflexiones, abombamientos), disgregación/descascarillado de morteros/materiales, empujes, separación de elementos estructurales, descuadre de huecos.

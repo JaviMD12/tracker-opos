@@ -1,0 +1,86 @@
+# Caracterización General de Ascensores y Sistemas de Elevación
+
+Los ascensores o elevadores son sistemas de movilidad vertical concebida para el transporte de personas o bienes entre diferentes niveles de una estructura, integrando componentes mecánicos, eléctricos y electrónicos. La cabina, elemento fundamental de estos sistemas, se desplaza a lo largo de guías, manteniendo una inclinación que no excede los 15 grados respecto a la horizontal.
+
+## Marco Normativo y Seguridad en Ascensores
+
+La regulación de los ascensores, así como las operaciones de rescate, se rige por la normativa europea EN 81-28:2003. Esta norma establece que las empresas de mantenimiento deben garantizar un servicio técnico en un plazo máximo de 24 horas para resolver averías. Asimismo, prohíbe el acceso a las llaves de emergencia a personal no autorizado, dada la alta probabilidad de caídas por el hueco del ascensor.
+
+En el contexto de emergencias, los servicios de bomberos están habilitados para intervenir en situaciones de riesgo inminente para la vida o la salud (principio de "estado de necesidad"), así como en interés público, superando las restricciones del Código Penal español relativas al allanamiento de morada. Es fundamental la coordinación con las Fuerzas del Orden para asegurar la legalidad de la intervención, verificando la ausencia de condiciones delictivas y garantizando la custodia de la propiedad.
+
+La seguridad de las puertas frente a intentos de efracción se evalúa mediante normativas como la UNE EN 1627:2011 y la UNE 85160:2013. La primera clasifica la resistencia de puertas, ventanas, fachadas, rejas y persianas ante ataques estáticos, dinámicos y manuales básicos. Por su parte, la UNE 85160:2013 es más exhaustiva, abarcando ensayos con herramientas más sofisticadas, mayores tiempos de resistencia y hasta la acción simultánea de dos atacantes.
+
+### Clasificación de Puertas por Seguridad
+
+Las puertas se clasifican según su resistencia a la efracción:
+*   Las **puertas sencillas de seguridad**, o simplemente "de seguridad", son comunes en viviendas y, ocasionalmente, en interiores. Fabricadas con madera, metal o PVC, a menudo incorporan perfiles horizontales y verticales de refuerzo para evitar la palanca. Su cerradura incluye bombillos de seguridad que resisten el ganzuado.
+*   Las **puertas blindadas** son empleadas como acceso principal en empresas, establecimientos públicos y, cada vez más, en viviendas. Se caracterizan por tener una chapa de acero de aproximadamente 2 mm de grosor en ambas caras, recubriendo una estructura de madera o aleaciones. Están diseñadas para resistir fuego, humo, gases y calor. Sus cerraduras suelen ser complejas, con múltiples puntos de bloqueo en el marco (superior, inferior, lateral y bisagras) y cilindros resistentes a taladros y ganzúas, con llaves específicas.
+*   Las **puertas acorazadas** ofrecen el nivel de seguridad más elevado y se destinan a la protección de bienes de alto valor en museos, edificios oficiales o residencias. Su construcción integra barras de acero y hormigón especial, con refuerzos internos denominados "rigidizadores". El mecanismo de cierre está incrustado en el marco, utilizando pestillos oblongos, redondeados o rectangulares que sellan la puerta en sus cuatro costados. Las bisagras están reforzadas para resistir cortes y palancas, y pueden incorporar sistemas de combinación avanzados (mecánicos, electrónicos, digitales). Estas puertas cumplen con los grados de resistencia 3, 4 o 5 de la norma UNE 1627:2011.
+
+## Tipos de Ascensores
+
+Los ascensores se pueden clasificar en función de su sistema de funcionamiento y su uso específico.
+
+### Ascensores Eléctricos o de Adherencia
+Estos ascensores, alimentados por corriente eléctrica, utilizan un motor y un mecanismo de tracción por adherencia. Los cables de acero (o cintas planas en modelos más modernos) se anclan a la parte superior de la cabina, pasan por una polea motriz y se conectan a un contrapeso. La adherencia entre los cables y la polea, generada por el peso de la cabina y el contrapeso, permite el movimiento vertical sin deslizamiento.
+
+Dentro de los ascensores eléctricos, se distinguen:
+*   **Con engranajes (con grupo reductor):** Incorporan un motor eléctrico de baja potencia que acciona un engranaje reductor de tornillo sin fin y una rueda dentada, moviendo la polea. Alcanzan velocidades bajas, entre 0,1 y 1,75 m/s, y se emplean en montacargas industriales o para transporte de vehículos.
+*   **Sin engranajes (sin grupo reductor):** Un motor se conecta directamente al eje de una polea ranurada de gran diámetro, permitiendo velocidades más altas, entre 2 y 10 m/s. Son comunes en edificios de gran altura para el transporte de pasajeros.
+
+### Ascensores Hidráulicos
+Estos ascensores operan mediante la impulsión de un fluido a presión hacia un pistón, el cual transfiere el movimiento a la cabina. Son preferidos en lugares donde el control del ruido y la optimización del espacio son críticos, operando a bajas velocidades (0,1 a 1,75 m/s).
+
+Sus tipologías incluyen:
+*   **Impulsión directa o tracción directa 1:1:** El pistón se conecta directamente a la cabina, moviéndola 1 cm por cada 1 cm de recorrido del pistón. Requieren un foso profundo para alojar el pistón.
+*   **Impulsión directa lateral:** El pistón se sitúa en el fondo del foso y se conecta a la parte superior de la cabina. Adecuados para cargas moderadas y recorridos cortos.
+*   **Impulsión diferencial o tracción indirecta 2:1:** Un sistema de cables y una polea duplican el recorrido de la cabina, moviéndola 2 cm por cada 1 cm de recorrido del pistón. El pistón se instala lateralmente, eliminando la necesidad de un foso profundo.
+*   **Doble impulsión directa e indirecta lateral:** Utilizados en montacargas industriales para grandes cargas y recorridos cortos.
+
+### Tipos de Ascensores por Uso
+Además de los sistemas de funcionamiento, los ascensores se adaptan a distintas necesidades:
+*   **Ascensores de emergencia o para uso exclusivo de bomberos:** Obligatorios en edificios con alturas de evacuación superiores a 28 m (15 m en hospitales). Deben tener una capacidad mínima de 630 kg, una superficie de cabina de al menos 1,40 m² y un ancho de paso mínimo de 0,80 m. Cuentan con un sistema de llamada prioritaria para bomberos, dos fuentes de alimentación eléctrica independientes (con autonomía de una hora a plena carga) y la posibilidad de accionamiento desde la cabina. El hueco debe ser un sector de incendio independiente, con acceso desde una escalera igualmente sectorizada. Aquellos ascensores no aptos para evacuación deben señalizarse con "No utilizar en caso de incendio".
+*   **Ascensores panorámicos:** Similares a los convencionales, pero con un hueco no protegido contra incendios.
+*   **Ascensores de doble cabina:** Compuestos por dos cabinas superpuestas, una para pisos impares y otra para pares. Optimizan el espacio en grandes edificios y minas.
+*   **Ascensores inclinados:** Diseñados para facilitar el acceso a zonas de difícil comunicación, con un funcionamiento análogo a los convencionales pero en posición inclinada.
+*   **Ascensores unifamiliares:** Instalados en viviendas privadas, sin diferencias significativas con los convencionales.
+*   **Ascensores para minusválidos:** Diseñados con características especiales en cuanto a luz, dimensiones, parada a nivel y ubicación del sistema de control para facilitar su uso.
+*   **Ascensores industriales y montacargas:** Destinados a la actividad industrial, capaces de soportar grandes cargas durante extensas horas de funcionamiento.
+
+## Componentes Comunes de un Ascensor
+
+Un ascensor está compuesto principalmente por el cuarto de máquinas, el recinto o hueco, y el foso, cada uno con elementos específicos.
+
+### Cuarto de Máquinas
+Es el espacio donde se aloja el mecanismo de tracción, ya sea el grupo tractor (en ascensores eléctricos) o la unidad hidráulica (en hidráulicos). La ubicación de este cuarto varía:
+*   **En modelos con cuarto de máquinas físico:** Puede estar en la parte superior del hueco (más cómodo para el operario en ascensores de adherencia), en la parte inferior (añadiendo carga estructural al edificio) o contiguo al hueco (típico de ascensores hidráulicos).
+*   **En ascensores modernos sin cuarto de máquinas:** La maquinaria y el sistema de maniobra se ubican en la parte superior del hueco, cerca de la última puerta de planta (ascensores eléctricos), o en la parte inferior del foso (ascensores hidráulicos).
+
+Los elementos principales del cuarto de máquinas son:
+*   **Motor-reductor:** Grupo motor acoplado a un reductor de velocidad. Se utilizan motores de corriente alterna, con una o dos velocidades, y actualmente variadores de frecuencia.
+*   **Polea motriz:** Garantiza la adherencia con los cables de acero para mover la cabina sin deslizamiento, independientemente de la carga.
+*   **Volante:** Responsable del movimiento normal del ascensor y de las maniobras de rescate manuales sin corriente eléctrica.
+*   **Freno:** Situado en el eje motor, bloquea el ascensor en reposo o durante emergencias. Funciona con electroimanes para liberarse en operación normal y se bloquea manualmente en rescates sin corriente.
+*   **Limitador de velocidad:** Detiene la cabina mediante un paracaídas o sistema de acuñamiento si se excede la velocidad límite. Incluye un contacto eléctrico que detiene el motor. Está compuesto por dos poleas (una en el cuarto de máquinas y otra en el foso) y un cable de acero independiente de los cables de tracción, que se conecta al sistema de acuñamiento de la cabina.
+*   **Cuadro de maniobras:** Contiene los componentes eléctricos y electrónicos que controlan el funcionamiento del ascensor. Maneja tensiones de 230 V a 400 V, requiriendo precauciones de aislamiento.
+*   **Cuadros de distribución de corriente:** Albergan los elementos de protección (fusibles) contra cortocircuitos y derivaciones. Su ubicación es crucial para cortar la energía.
+
+### Recinto o Hueco
+Es el espacio vertical por donde se desplazan la cabina y el contrapeso. Sus elementos esenciales son:
+*   **Cabina:** Recinto diseñado para el transporte de pasajeros.
+*   **Puertas de acceso:** Se dividen en puertas de planta y puertas de cabina. Pueden ser batientes o telescópicas automáticas, con mecanismos de seguridad que aseguran su cierre cuando la cabina no está a nivel.
+
+### Foso
+Es la parte inferior del hueco, ubicada por debajo del nivel de la última parada. Debe tener un suelo liso y nivelado, e impermeabilizado para evitar filtraciones de agua. Su profundidad debe ser suficiente para garantizar un espacio libre de al menos medio metro cuando la cabina comprime totalmente los amortiguadores.
+*   **Amortiguadores:** Dispositivos que frenan la cabina en caso de fallo de los mecanismos de parada o de rebase de final de carrera, minimizando el impacto.
+
+### Elementos Relacionados con la Emergencia
+Para una intervención segura, es fundamental conocer:
+*   **Instrucciones de rescate:** Manuales específicos del fabricante, obligatorios en el cuarto de máquinas o cuadro de maniobras.
+*   **Pulsador de bomberos:** Normalmente presente en ascensores de emergencia. Activa un microrruptor que detiene el ascensor en el siguiente piso si sube, o en la planta principal si baja, y anula llamadas exteriores, permitiendo solo las interiores.
+*   **Caja de llaves de emergencia:** Contiene las llaves del cuarto de máquinas o de las puertas de planta, esenciales para el acceso controlado.
+*   **Faldones de cabina:** Chapas bajo la puerta de cabina que cubren el hueco del foso cuando el ascensor está entre pisos. Fijos o telescópicos, con una longitud total de 750 mm (fija de al menos 200 mm). Deben incluir un cartel de seguridad advirtiendo de la necesidad de su extensión completa antes de sacar pasajeros.
+*   **Alumbrado de emergencia:** Obligatorio en cabina, funciona ante fallos de corriente, alimentado por un automático o diferencial independiente.
+*   **Tele-alarma / Servicio 24 horas:** Sistema de comunicación exterior desde la cabina, obligatorio en España desde 1999, que conecta con un servicio de asistencia 24 horas.
+
+Estos sistemas y elementos garantizan el transporte seguro de personas y bienes, así como la respuesta eficaz ante cualquier emergencia.

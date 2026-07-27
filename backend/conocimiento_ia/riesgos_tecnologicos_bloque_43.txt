@@ -1,0 +1,61 @@
+## Fundamentos de Estabilidad y Patología Edificatoria: Guía para Opositores a Bomberos
+
+El estudio de la estabilidad y las patologías en la edificación es crucial para la intervención en emergencias. Comprender cómo las estructuras soportan y transmiten cargas, así como los factores que pueden comprometer su integridad, permite a los cuerpos de bomberos actuar de manera segura y eficiente. Este conocimiento abarca desde los principios de la física aplicados a la construcción hasta la identificación de los distintos sistemas constructivos y los tipos de fallos que pueden presentarse.
+
+### Conceptos Fundamentales de Estabilidad Estructural
+
+La mecánica clásica se apoya en tres principios fundamentales que rigen el comportamiento de las fuerzas y los momentos en la edificación. La **fuerza**, definida como la interacción entre cuerpos (masa por aceleración, F=m·a), se cuantifica en Newtons (N). Sus atributos son el módulo, la dirección, el sentido y el punto de aplicación. Los tres principios de Newton son esenciales: el primero, el **principio de inercia**, establece que un cuerpo permanece en reposo o movimiento uniforme a menos que una fuerza externa actúe sobre él. El segundo principio relaciona la suma de fuerzas sobre un cuerpo con el producto de su masa por la aceleración resultante. Finalmente, la **tercera ley, de acción y reacción**, indica que toda fuerza aplicada (acción) es contrarrestada por otra fuerza igual y opuesta (reacción) para mantener el equilibrio.
+
+Los **momentos**, por su parte, describen la tendencia de una fuerza a causar rotación alrededor de un punto o eje. Un "par de fuerzas" se define como dos fuerzas paralelas, de igual magnitud y sentido contrario, que generan un momento cuyo valor es el producto de una de las fuerzas por la distancia perpendicular entre ellas (brazo del par). Para que un cuerpo se mantenga en equilibrio, cualquier momento generado debe ser contrarrestado por un "momento resistente" o "momento de empotramiento" de igual magnitud y sentido opuesto. La cuantificación de los momentos se realiza en Newtons por metro (N·m). Un giro libre se produce cuando un par de fuerzas se alinea, anulando su brazo de palanca y, por ende, su momento.
+
+En el ámbito de la edificación, el **equilibrio estático** se refiere al estado en el que las cargas (fuerzas y momentos) soportadas por una estructura no producen movimientos relativos en el tiempo. Esto implica que la suma de todas las fuerzas (ΣF) y momentos (ΣM) en cada cuerpo del sistema debe ser igual a cero. Para entender mejor el equilibrio, se utiliza el concepto de **centro de gravedad**, que es el punto donde se puede considerar concentrado el peso de un cuerpo y, si se apoya en él, permanecería en equilibrio. La estabilidad de un objeto apoyado dependerá de que la vertical que pasa por su centro de gravedad caiga dentro de la base de apoyo. Si el cuerpo se desvía y el centro de gravedad cae fuera de su base, se producirá una rotación que lo llevará a una nueva posición de equilibrio.
+
+La **elasticidad** es la capacidad de los materiales para deformarse reversiblemente bajo la acción de fuerzas externas y recuperar su forma original una vez que estas fuerzas cesan. Por otro lado, la **plasticidad** describe las deformaciones permanentes y no recuperables que ocurren cuando los esfuerzos superan el límite elástico del material, a menudo acompañadas de una pérdida de sección y resistencia. La Ley de Hooke (σ = Eε) establece que la tensión (σ) es directamente proporcional a la elasticidad (E) y a la deformación (ε), lo que permite evaluar el comportamiento y la deformación admisible de los materiales.
+
+Asimismo, factores como el **coeficiente de conductividad térmica (λ)**, que mide la capacidad de un material para conducir el calor (W/m·°C), y el **coeficiente de dilatación térmica (α)**, que mide la dilatación lineal por grado de aumento de temperatura (1/°C), son esenciales. Un valor de conductividad bajo indica mayor aislamiento. La dilatación térmica puede generar empujes laterales que comprometan la estabilidad estructural, como el alargamiento de una viga de hormigón armado sometida a elevadas temperaturas.
+
+### Acciones y Esfuerzos en la Edificación
+
+Las acciones que actúan sobre una edificación se clasifican en **permanentes, variables y accidentales**, según el Código Técnico de la Edificación (CTE DB SE AE). Las **acciones permanentes** son cargas constantes durante la vida útil del edificio, como el peso propio de los elementos constructivos (estructura, cerramientos, tabiquería, acabados e instalaciones), el pretensado (esfuerzos asociados al hormigón armado, sin valor de referencia para bomberos salvo para verificar estabilidad), y las acciones del terreno (empujes, hundimientos). Por ejemplo, el peso específico aparente de materiales como el hormigón es de 24+1 kN/m³, mientras que el acero es de 77-78,5 kN/m³.
+
+Las **acciones variables** son cargas cuya cuantía puede variar o no actuar en el tiempo, incluyendo la sobrecarga de uso (uniforme en kN/m² o concentrada en kN), acciones sobre barandillas y elementos divisorios (máximo 0,5 kN/m para bomberos ante estado desconocido), viento (0,5 kN/m² simplificado en España), acciones térmicas (deformaciones por variaciones de temperatura) y nieve (1,0 kN/m² en cubiertas planas a menos de 1000m de altitud). Las **acciones accidentales** son cargas generadas por riesgos naturales (sismo, incendio, impacto) o antrópicos (impacto accidental). En caso de impacto de vehículos hasta 30 kN, los valores de cálculo son 50 kN en dirección paralela a la vía y 25 kN en dirección perpendicular, no simultáneamente.
+
+Las estructuras, al ser sometidas a estas acciones, experimentan **esfuerzos** que se traducen en **tensiones internas**. La tensión se define como la fuerza por unidad de área (N/mm² o MPa). Existen dos tipos principales de tensiones según coeficientes de seguridad: la **tensión de rotura** (máxima soportada en laboratorio) y la **tensión de trabajo** (umbral máximo para un grado de seguridad, usualmente 70-80% del límite elástico).
+
+Según la naturaleza del esfuerzo, se distinguen:
+*   **Esfuerzos simples:**
+    *   **Compresión:** Las partículas del material tienden a reducir su distancia (el material se "aprieta"). Común en pilares, muros, puntales.
+    *   **Tracción:** Las partículas del material tienden a separarse (el material se "estira"). Común en tirantes.
+    *   **Cortante/Cortadura/Cizalladura:** Las partículas del material se deslizan con movimiento relativo. Se produce por dos fuerzas paralelas no coincidentes y sentidos opuestos. Frecuente en encuentros de viga con pilar.
+*   **Esfuerzos compuestos:** Combinaciones de los anteriores.
+    *   **Flexión (o flexión pura):** Pieza longitudinal sometida a carga transversal, generando tracciones en una parte y compresiones en la opuesta. Característico de elementos horizontales como vigas o jácenas.
+    *   **Pandeo (o flexión compuesta):** Deformación en elementos largos y delgados por fuerzas de compresión en la dirección de su directriz. Por ejemplo, un tirante sometido a compresión.
+    *   **Torsión:** Esfuerzo generado por una fuerza circular aplicada a una pieza, como en voladizos.
+
+Para un análisis correcto, es fundamental considerar los **cortantes y flexiones**. El cortante, o tensión en la fibra neutra (línea imaginaria sin esfuerzos de flexión), resiste el cizallamiento transversal. La flexión, un esfuerzo compuesto, se define por los momentos flectores. Los diagramas de cortantes y momentos flectores representan gráficamente la variación de estas fuerzas a lo largo de un elemento estructural, ayudando a determinar la deformación. Las cargas puntuales generan fuerzas cortantes constantes y momentos flectores lineales, mientras que las cargas uniformemente repartidas producen variaciones lineales en los esfuerzos cortantes y parabólicas en los momentos flectores.
+
+### Sistemas Constructivos Básicos y su Historia en España
+
+La edificación, según la RAE, es una "construcción fija, hecha con materiales resistentes, para habitación humana o para otros usos". Se compone de elementos estructurales (soportan cargas), complementarios (generan espacio interior y confort) y auxiliares (temporales durante construcción o reparación).
+
+El **Código Técnico de la Edificación (CTE)**, aprobado en 2006, regula los requisitos básicos de seguridad y habitabilidad. Este incluye **Documentos Básicos de Seguridad** (DB-SE sobre acciones, cimientos, acero, fábrica y madera; DB-SI para incendio; DB-SUA para utilización y accesibilidad) y **Documentos Básicos de Habitabilidad** (DB-HS para salubridad; DB-HR para ruido; DB-HE para ahorro de energía). También se complementa con instrucciones como la EHE (Hormigón Estructural) y la NCSE (Sismorresistente).
+
+La evolución histórica de la edificación en España permite clasificar las estructuras según su época de construcción, lo que ayuda a prever materiales y sistemas:
+*   **Antes del siglo XX:** Estructuras con gruesos muros de carga de fábrica. Materiales principales: piedra (sillar, sillarejo, mampuesto) y tierra (adobe). Comúnmente isostáticas, con pocos huecos y gran rigidez.
+*   **Durante el siglo XX:**
+    *   **1900-1939:** Consolidación de sistemas entramados (madera, hormigón, metal) frente a los murarios, permitiendo mayores alturas y luces. Fachadas no resistentes.
+    *   **1940-1965:** Escasez de materiales (acero, hormigón) tras la Guerra Civil, retornando a entramados de madera y estructuras de fábrica. Generalización de balcones y cornisas para trabajos en altura.
+    *   **1965-1990:** Retorno del acero y hormigón. Consolidación de entramados de hormigón y acero como tipologías básicas. Tecnificación y destierro de la madera.
+*   **Finales del siglo XX - Inicios del siglo XXI (1990-2010):** Auge de la construcción con prefabricación, modulación (diseño en módulos estandarizados), y nuevas tipologías como grandes complejos y "manzanas cerradas" (problemas de acceso para bomberos).
+*   **2010 - Actualidad:** Reducción de la oferta constructiva, sin cambios significativos en técnicas, pero con aumento de patologías por falta de mantenimiento.
+
+Los **factores clave** que un bombero debe identificar en una intervención para el análisis estructural son la **geometría**, la **rigidez** y los **materiales** de la edificación. La geometría, por ejemplo, determina cómo un elemento soporta cargas; una simple hoja de papel puede soportar mucho más peso si se le da una forma específica (como un cilindro).
+
+### Rigidez Estructural y Tipos de Nudos
+
+La **rigidez** se refiere a la capacidad de un elemento para soportar esfuerzos sin sufrir deformaciones o desplazamientos excesivos. Para comprenderla, se analizan los **grados de libertad (GL)** y las **coacciones (C)**. Los GL son los movimientos posibles de un cuerpo (tres en un sistema plano: desplazamiento vertical, horizontal y giro), mientras que las coacciones son las limitaciones a estos movimientos. Más coacciones implican menos grados de libertad.
+
+Los **nudos** son las conexiones estructurales entre dos o más elementos portantes y se clasifican en tres tipos:
+*   **Apoyo:** Limita movimientos verticales (1 coacción), permitiendo horizontales y giros (2 GL). Un ejemplo es un asiento de columpio.
+*   **Articulación:** Limita movimientos verticales y horizontales (2 coacciones), permitiendo el giro (1 GL). Similar a la conexión del larguero con el asiento de un columpio.
+*   **Empotramiento:** Limita todos los

@@ -1,0 +1,50 @@
+# Rescate y Búsqueda en Grandes Áreas: Caracterización y Herramientas
+
+El rescate y la búsqueda de personas en grandes áreas constituyen una faceta crítica y compleja de las operaciones de emergencia, especialmente en entornos remotos o extensos. Este tipo de intervenciones demanda una comprensión profunda de las variables involucradas, así como una coordinación multidisciplinar eficiente para garantizar el éxito y la seguridad de los equipos.
+
+## Tipologías de Búsqueda y Elementos Clave
+
+En el contexto de estas operaciones, se distinguen principalmente dos escenarios: el de **personas perdidas** y el de **personas desaparecidas**. Las personas perdidas son aquellas que, aunque desconocen su ubicación, mantienen contacto con el equipo de rescate o con quien dio la alerta. Por otro lado, las personas desaparecidas son individuos cuya ausencia se detecta y cuyo paradero es desconocido, requiriendo una investigación más exhaustiva para su localización. La efectividad de cualquier búsqueda depende de una estrategia sistemática y organizada, en contraposición a las búsquedas masivas y desorganizadas. Para ello, es fundamental establecer un protocolo de búsqueda en grandes áreas que se activa cuando la vida o integridad del individuo está en riesgo.
+
+La **colaboración interinstitucional** es un pilar esencial en estas operaciones. Los equipos de rescate deben trabajar en estrecha armonía con Fuerzas y Cuerpos de Seguridad (como la Guardia Civil o Policía Nacional), Policía Local, Bomberos, Protección Civil y Servicios Sanitarios. Además, la participación de **voluntarios** resulta invaluable en búsquedas extensas, siempre que su labor se encuentre debidamente organizada y coordinada por los responsables del operativo.
+
+Para una comunicación y coordinación fluidas, es imperativo establecer un **lenguaje cartográfico uniforme** y el uso de **herramientas de localización comunes**, tales como mapas y sistemas de posicionamiento global (GPS). Esto asegura que toda la información espacial sea interpretada de manera inequívoca por todos los participantes. Asimismo, la **compartición de información relevante** entre todos los servicios es crucial para el buen desarrollo de la intervención, manteniendo siempre la confianza entre los distintos actores.
+
+## Entornos de Intervención Específicos
+
+Los escenarios donde se realizan estas búsquedas presentan características muy diversas, cada una con sus propios desafíos:
+
+1.  **Llanuras y Estepas:** Estas áreas son adecuadas para rastreos sistemáticos con amplias distancias de batida. Sin embargo, la presencia de bosques abiertos que fragmentan el horizonte puede dificultar la orientación del personal.
+2.  **Bosques Cerrados:** La densidad de la vegetación en estos entornos limita la visibilidad y la continuidad de la progresión, lo que puede reducir el alcance de la búsqueda y la capacidad de las personas para alejarse de su última localización conocida (ULC).
+3.  **Serranías:** La orografía accidentada, con valles profundos y elevaciones escarpadas, genera una gran variabilidad en la transitabilidad y visibilidad. Requiere un reconocimiento previo del terreno para asignar los equipos adecuados a cada zona.
+4.  **Alta Montaña:** Se caracteriza por la elevada dificultad de acceso para vehículos, senderos tortuosos y condiciones climáticas cambiantes. Aunque la visibilidad suele ser buena en días claros debido a la escasa vegetación, las operaciones demandan personal altamente especializado y equipado.
+5.  **Galerías:** Son espacios confinados donde la progresión se limita a una dirección, como cañones, vías de servicio o caminos vallados, lo que restringe las opciones de búsqueda.
+6.  **Paisajes Mixtos y Humanizados:** Habituales cerca de poblaciones, combinan entornos naturales con explotaciones agrícolas, granjas y carreteras. Aunque facilitan el acceso de vehículos y la logística, suelen concentrar un mayor número de búsquedas (por ejemplo, de niños, ancianos o personas con Alzheimer). El principal desafío es la presencia de infraestructuras y objetos que pueden ocultar indicios.
+
+## Factores Meteorológicos y Climatológicos
+
+Las condiciones meteorológicas y el clima tienen un impacto significativo en la supervivencia de la persona perdida y en la eficacia de la búsqueda. Parámetros como la temperatura, la presión atmosférica, la humedad y el viento deben ser monitoreados constantemente, con pronósticos a 24 o 48 horas.
+
+*   **Borrascas o Inestabilidad:** Se asocian a bajas presiones, lo que provoca la concentración de aire en estas zonas, arrastrando nubes y generando vientos fuertes. En el hemisferio norte, estas giran en sentido contrario a las agujas del reloj.
+*   **Anticiclones o Tiempo Estable:** Se caracterizan por altas presiones, cielos despejados y vientos suaves, girando en el sentido de las agujas del reloj en el hemisferio norte.
+*   **Efecto Foehn:** Un viento de ladera húmedo y cálido que, al ascender una cadena montañosa, se enfría y precipita en la vertiente de barlovento, descendiendo seco y cálido por la vertiente de sotavento, a menudo formando nubes lenticulares.
+*   **Inversión Térmica:** Fenómeno donde el aire frío y más denso se acumula en valles y hondonadas, resultando en temperaturas más bajas en el valle que en la montaña.
+*   **Gota Fría (DANA):** Una masa de aire frío en altura sobre llanuras semiáridas puede generar evaporación y corrientes convectivas, dando lugar a la formación de cumulonimbus y tormentas repentinas.
+
+## Nociones de Cartografía y Navegación
+
+La **cartografía básica** es una herramienta esencial para la planificación y ejecución de las búsquedas, ya que permite representar grandes superficies, localizar puntos de interés, establecer la orientación y calcular distancias. La representación de la Tierra, un elipsoide achatado, se proyecta sobre un plano, utilizando diferentes tipos de proyecciones, como las planas bidimensionales o las desarrolladas sobre superficies tridimensionales (conos o cilindros). La **escala** del mapa indica la proporción entre las distancias en el mapa y las distancias reales en el terreno.
+
+Las **coordenadas geográficas** definen un punto en la superficie terrestre mediante la latitud (distancia al Ecuador) y la longitud (distancia al meridiano de Greenwich), expresadas en grados, minutos y segundos. Un grado en el Ecuador equivale aproximadamente a 110 kilómetros, un minuto a 1850 metros, y un segundo a 31 metros.
+
+Las **coordenadas UTM (Universal Transverse Mercator)** utilizan una proyección cilíndrica transversal y dividen la Tierra entre los 80º S y 80º N en 60 husos longitudinales (de 6º cada uno) y 20 bandas latitudinales (de 8º cada una, designadas de C a X, excluyendo I, O, Ñ). El sistema UTM subdivide las zonas en cuadrados de 1000x1000 metros. Para asegurar la precisión, se utiliza un **datum geodésico** (como WGS84, NAD27 o ED50) como punto de referencia para el encaje cartográfico, y se aplican correcciones matemáticas y geométricas. Los vértices geodésicos y mojones en el terreno permiten el traslado de estas proyecciones a la realidad.
+
+La **determinación de la posición** de la víctima o del rescatador es clave. Esto se logra mediante GPS para coordenadas exactas o, en su ausencia, mediante triangulación con puntos de referencia geográficos o paisajísticos. La **orientación** se define como la identificación del este (salida del sol) y los puntos cardinales, empleando el sol, la estrella polar o una **brújula** (que indica el norte magnético, requiriendo ajustar la declinación magnética para obtener el norte geográfico o azimut). La **navegación** es el proceso de seguir una secuencia de rumbos para alcanzar un destino, considerando los obstáculos y la orografía del terreno.
+
+## Herramientas y Técnicas de Localización
+
+Entre las herramientas tecnológicas, los **GPS** de marcas como Garmin (modelos E-TREX20 o NUVI) ofrecen funciones de zoom, navegación por menú, visualización del estado de la batería y satélites, creación de waypoints (puntos de interés como la ULC o el PMA) y grabación de tracks (recorridos). El software BaseCamp es útil para planificar rutas y cargar esta información en los dispositivos.
+
+Las **técnicas de localización por teléfonos móviles** son cada vez más relevantes. Los smartphones, equipados con GPS y aplicaciones como WhatsApp, permiten compartir la ubicación. Los diferentes sistemas operativos (Android, iOS, Blackberry, Windows Phone) requieren configuraciones específicas para activar los servicios de localización y vincularlos a cuentas de usuario. La ubicación puede visualizarse en mapas con una precisión de 10-20 metros, y es posible registrar la posición periódicamente para establecer la ULC incluso si se pierde la cobertura.
+
+Finalmente, la **ficha de adscripción de buscadores** es un documento utilizado para registrar los datos del personal participante en el operativo, incluyendo información de contacto, aptitudes y la aceptación de las condiciones de la búsqueda.

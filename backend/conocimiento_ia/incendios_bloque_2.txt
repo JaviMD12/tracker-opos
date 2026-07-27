@@ -1,0 +1,79 @@
+# Teoría Fundamental del Fuego y Conceptos Termodinámicos
+
+Para comprender integralmente los fenómenos de incendios y emergencias, resulta esencial dominar la terminología y los principios subyacentes a la combustión, así como las propiedades fundamentales de la materia y la energía térmica. La atmósfera, como elemento crítico, está compuesta por una mezcla de gases, donde el **oxígeno** constituye aproximadamente el 21% y el **nitrógeno** el 79%, además de otros gases en menor proporción (0.02%), como dióxido de carbono, neón, criptón y xenón. Cabe destacar que los gases inertes, como el nitrógeno y los gases nobles, no reaccionan bajo condiciones normales de presión y temperatura debido a su configuración eléctrica estable.
+
+## Conceptos Fundamentales de la Materia
+
+La materia se compone de **moléculas**, que a su vez están formadas por **átomos**. Estos átomos están integrados por **neutrones**, **protones** y **electrones**. El **átomo** es la partícula elemental de la materia, constituido por un núcleo compacto de protones (carga positiva) y neutrones (sin carga eléctrica), rodeado por electrones (carga negativa) en órbita. El número de protones en el núcleo define el número atómico del elemento. Una **molécula** es una combinación de átomos, y cuando agrupa dos o más clases de átomos, se denomina **compuesto**. Una **sustancia** se caracteriza por tener propiedades definidas e invariables en su composición química, y puede ser un elemento químico (simple) o un compuesto químico. Por ejemplo, la molécula de agua (H₂O) contiene dos átomos de hidrógeno y uno de oxígeno, mientras que el butano es C₄H₁₀.
+
+## Reacciones y Tipos de Combustión
+
+Una **reacción** implica un cambio en un elemento o compuesto, pudiendo ser de tres tipos: físicas, químicas o nucleares. Las **reacciones físicas** alteran el estado de la materia sin modificar su composición química, como la evaporación del agua. En contraste, las **reacciones químicas** cambian la composición química del elemento, transformando reactivos en productos con propiedades distintas, como la oxidación del hierro por el oxígeno, y pueden ser **endotérmicas** (absorben energía) o **exotérmicas** (liberan energía). Por su parte, las **reacciones nucleares** implican la combinación y transformación de partículas y núcleos atómicos, liberando o absorbiendo enormes cantidades de energía, como la fisión o fusión nuclear.
+
+El **fuego** se define, según la norma **UNE 23026**, como una combustión caracterizada por la emisión de calor, humo y llamas. La norma **ISO 13943:2001** lo describe como una combustión auto-soportada, iniciada deliberadamente para fines beneficiosos y controlada en duración y extensión. Un **incendio**, bajo la **ISO 13943**, es una combustión descontrolada que se propaga ininterrumpidamente en el tiempo y el espacio.
+
+La **combustión** es un proceso químico de oxidación-reducción (redox) exotérmico, donde una sustancia combustible reacciona con un oxidante (generalmente oxígeno gaseoso), liberando calor, luz, humo y productos volátiles. Las principales características de la combustión incluyen ser un proceso de oxidación-reducción, su cinética generalmente rápida, su carácter fuertemente exotérmico, y la capacidad de autoalimentarse mediante una **reacción en cadena**. Los reactivos se denominan **combustible** (reductor) y **comburente** (oxidante).
+
+En una **combustión completa**, todos los elementos del combustible se oxidan, produciendo principalmente dióxido de carbono (CO₂), agua (H₂O), dióxido de azufre (SO₂) si el combustible contiene azufre, y óxidos de nitrógeno (NOₓ). Por el contrario, la **combustión incompleta** ocurre con escasez de comburente o presencia de partículas incombustibles, resultando en monóxido de carbono (CO) y carbón, el CO siendo ávido de oxígeno y representando un riesgo de explosión.
+
+Las combustiones se clasifican en dos tipos principales:
+
+1.  **Combustiones de aportación:** La masa reactiva se incorpora al frente de reacción.
+    *   **Con llama:** Ocurre en fase gaseosa, generando calor, luz y gases. Se representa mediante el **tetraedro del fuego**, que incluye el combustible, el comburente, la energía de activación y la reacción en cadena.
+    *   **Latente:** Oxidación lenta y exotérmica sin emisión de luz o llamas, propagándose en combustibles porosos (ej., carbón, madera, turba). La norma **ISO 13943** la define como combustión sin llama ni luz visible.
+    *   **Incandescente:** Combustión sin llama pero con emisión visible de luz (ascua) y producción de calor. La **ISO 13493** la describe como combustión de un material sólido sin llama pero con luz visible.
+    *   **Espontánea:** Se inicia sin aporte externo de calor.
+
+2.  **Combustiones de propagación (premezcla):** Se distinguen por la velocidad de reacción.
+    *   **Lenta y muy lenta (oxidación):** Pequeña liberación de energía que se disipa en el ambiente sin aumento local de temperatura ni emisión de luz. Ejemplos incluyen el amarilleamiento del papel o la oxidación del hierro.
+    *   **Simple, normal o rápida:** Oxidaciones moderadamente rápidas con velocidad de frente de reacción inferior a 1 m/s, con desprendimiento visible de calor, luz y llamas. Los incendios normales se ajustan a este tipo.
+    *   **Instantánea o muy rápida (explosión):** Fenómenos que implican ondas de presión y pueden ser destructivos.
+        *   **Deflagraciones:** Velocidad del frente de reacción superior a 1 m/s pero subsónica (< 340 m/s). Generan sobrepresiones (5-10 veces la presión inicial) y efectos sonoros. Pueden causar rotura de elementos como cristales o tabiques.
+        *   **Detonaciones:** Velocidad del frente de reacción sónica o supersónica (> 340 m/s). Generan sobrepresiones muy elevadas (20-100 veces la presión inicial) y efectos destructivos superiores.
+
+## Productos de la Combustión: Humo, Llamas y Calor
+
+Los principales productos de la combustión son calor, humo, gases y radiación luminosa.
+
+### Humo
+
+El **humo** es una mezcla de partículas físicas (sólidas y líquidas, principalmente vapor de agua) incompletamente quemadas, suspendidas en el aire y arrastradas por corrientes de convección. Su **inflamabilidad** y explosividad dependen de las condiciones de calor y oxígeno. El **hollín** son partículas ricas en carbono (0.005-0.01 micras) de combustiones incompletas de materiales orgánicos (especialmente derivados del petróleo). Otros componentes incluyen **cenizas** (residuos inorgánicos de combustión completa) y **escorias** (residuos sólidos aglomerados).
+
+El humo es el principal factor de riesgo en incendios, provocando irritación de mucosas, lagrimeo, dificultad visual, complicando tareas de extinción y salvamento, y la evacuación. La cantidad de humo varía entre materiales, siendo los líquidos inflamables generadores de humo denso y negro.
+
+El **color del humo** ofrece información valiosa, aunque la percepción puede ser afectada por factores externos:
+*   **Blanco:** Indica combustión libre con alta presencia de oxígeno y predomina el vapor de agua. Procede de productos vegetales, forrajes, fósforo.
+*   **Negro:** Señala fuegos con alta carga térmica y bajo aporte de oxígeno, característico de fibras sintéticas, polímeros, cauchos y derivados del petróleo.
+*   **Amarillo:** Sugiere la presencia de sustancias químicas con azufre, formando ácidos clorhídricos.
+*   **Amarillo verdoso:** Indica sustancias químicas con cloro.
+*   **Violeta:** Asociado a sustancias químicas con yodo.
+*   **Azul:** Típico de hidrocarburos.
+
+### Llamas
+
+Las **llamas** son gases incandescentes cuya temperatura varía según el tipo de combustible y la concentración de comburente. La norma **ISO 13943** las define como la zona de combustión en fase gaseosa con emisión de luz. Se manifiestan como un fenómeno luminoso acompañado de producción de calor. Los combustibles gaseosos, líquidos y la mayoría de los sólidos (tras la pirólisis) arden con llama, la cual siempre se produce en fase gaseosa.
+
+El color de la llama indica su nivel energético y la proporción de oxígeno:
+*   **Amarillo luminoso (oxidantes):** Alta proporción de oxígeno.
+*   **Azul (reductoras, más energéticas):** Baja proporción de oxígeno.
+
+Las llamas causan reacciones de histeria y nerviosismo en víctimas, además de deslumbramiento en bomberos. Se distinguen tres zonas en la llama:
+*   **Zona Interna:** Fría y oscura, sin combustión por falta de oxígeno.
+*   **Zona Media:** Muy luminosa, con combustión incompleta por insuficiencia de oxígeno.
+*   **Zona Externa:** Poco luminosa, alcanza las temperaturas máximas y ocurre la combustión completa al estar en contacto pleno el combustible con el comburente.
+
+Las temperaturas de la llama oscilan entre **1800ºC y 2200ºC**, superadas únicamente por la llama oxiacetilénica. La **incandescencia** o ascuas son la radiación luminosa emitida en combustiones sin llama, con mayor longitud de onda y menor energía.
+
+### Calor
+
+El **calor** es la energía liberada en las reacciones químicas exotérmicas de los incendios. No debe confundirse con la **temperatura**, que es la manifestación del nivel energético de los cuerpos, relacionada con el movimiento molecular. El calor es el proceso de transferencia de energía debido a una diferencia de temperatura.
+
+La **cantidad de calor** se mide en **calorías (cal)** o **julios (J)**. Una caloría se define como la energía necesaria para elevar la temperatura de un gramo de agua en 1°C (de 14.5°C a 15.5°C a presión atmosférica normal). Un **julio** es la unidad de calor en el Sistema Internacional, equivalente a 0.24 calorías. La **kilocaloría** (1000 cal) y la **megacaloría** (1,000,000 cal) son unidades mayores. La **potencia** o flujo de energía se mide en **vatios (W)**, donde 1 W equivale a 1 J/s; la energía liberada en un incendio se expresa en kilovatios (kW) o megavatios (MW).
+
+Existen cinco categorías de **energía calorífica**: eléctrica, mecánica, química, nuclear y solar. La **conductividad térmica** es la capacidad de los cuerpos para transferir calor, siendo el sol y los combustibles las principales fuentes.
+
+El **calor específico** es la cantidad de calor necesaria para elevar la temperatura de un gramo de una sustancia en 1°C. Este valor es intrínseco a cada sustancia y varía ligeramente con la temperatura; un mayor calor específico implica un mayor efecto refrigerante. Por ejemplo, el agua tiene un calor específico de 4.182 J/(gºC) o 1.0 cal/(gºC). La **capacidad calorífica** de un cuerpo es la cantidad de calor necesaria para elevar su temperatura en 1°C, calculada como el producto de su masa por su calor específico.
+
+El calor produce dos efectos principales en los cuerpos: la **dilatación** (aumento de volumen al calentarse, más pronunciado en gases, con excepciones como el agua entre 4°C y 0°C) y los **cambios de estado**. La dilatación puede ser lineal, superficial o cúbica, y es directamente proporcional a la variación de temperatura. Los **cambios de estado** se clasifican en progresivos (absorben calor: fusión, vaporización, sublimación) y regresivos (desprenden calor: solidificación, condensación, sublimación regresiva).
+
+En resumen, el entendimiento detallado de estos conceptos es crucial para el bombero, pues le permite anticipar y responder eficazmente a las dinámicas complejas del fuego y los incendios, minimizando riesgos y optimizando las tácticas de intervención.

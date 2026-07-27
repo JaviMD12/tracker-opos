@@ -1,0 +1,77 @@
+# Fundamentos del Fuego: Composición, Reacciones y Elementos Esenciales
+
+Para comprender a fondo la naturaleza de los incendios, es imperativo dominar los conceptos fundamentales relacionados con la composición de la materia y los tipos de reacciones que originan el fuego. La atmósfera, un componente crítico en cualquier proceso de combustión, es una mezcla gaseosa compuesta principalmente por **nitrógeno** (aproximadamente 79%) y **oxígeno** (alrededor del 21%), junto con pequeñas proporciones de otros gases (0,02%) como el dióxido de carbono, neón, criptón y xenón. Los gases inertes, como el nitrógeno y los gases nobles, no reaccionan bajo condiciones estándar debido a su configuración eléctrica estable.
+
+## Estructura Atómica y Molecular
+
+La materia se organiza en **moléculas**, que a su vez están formadas por **átomos**. Estos átomos se componen de **protones** (partículas con carga positiva que definen el número atómico y la masa nuclear), **neutrones** (partículas sin carga eléctrica, también en el núcleo atómico) y **electrones** (partículas subatómicas con carga negativa que orbitan el núcleo). Una **sustancia** se define como una variedad de materia con características y composición química invariables, pudiendo ser simple (elementos químicos) o compuesta (combinación de dos o más tipos de átomos). Por ejemplo, la molécula de agua (H₂O) contiene dos átomos de hidrógeno y uno de oxígeno, mientras que el butano (C₄H₁₀) se compone de cuatro átomos de carbono y diez de hidrógeno.
+
+## Tipos de Reacciones y su Relevancia en el Fuego
+
+Una **reacción** es una transformación que experimenta un elemento o compuesto, como ocurre con los combustibles. Estas pueden ser de tres tipos principales:
+
+1.  **Reacciones Físicas:** Implican un cambio en el estado de la materia sin alterar su composición química. Las moléculas de los reactivos son idénticas a las de los productos, como la evaporación del agua (hielo a vapor de agua).
+2.  **Reacciones Químicas:** Conllevan un cambio en la composición química del elemento, modificando profundamente sus propiedades y transformándolo en una nueva sustancia. Un ejemplo es la oxidación del hierro por el oxígeno, que produce óxido de hierro. Durante estas reacciones, los elementos se conservan, pero se reordenan para formar nuevas moléculas, requiriendo o liberando energía.
+    *   Las reacciones que **absorben energía** y aumentan la energía interna del sistema se denominan **endotérmicas**. Un ejemplo es la disolución de sal en agua.
+    *   Las reacciones que **desprenden energía** y disminuyen la energía interna del sistema se conocen como **exotérmicas**. Son más frecuentes las reacciones exotérmicas espontáneas, como la combustión de compuestos de carbono para producir CO₂ y H₂O.
+3.  **Reacciones Nucleares:** Procesos de combinación y transformación de partículas y núcleos atómicos, que pueden ser endotérmicas o exotérmicas. Se caracterizan por la desintegración de átomos radiactivos que generan nuevas partículas subatómicas (alfa, beta, gamma). A diferencia de las reacciones químicas, implican cambios en la constitución del núcleo atómico y liberan enormes cantidades de energía que no suelen verse afectadas por temperatura, presión o catalizadores. Se distinguen dos tipos:
+    *   **Fisión nuclear:** Un núcleo pesado se divide en dos núcleos más pequeños al ser bombardeado con neutrones, liberando gran energía y emitiendo más neutrones, lo que puede generar una reacción en cadena. La energía liberada es millones de veces mayor que en una reacción química.
+    *   **Fusión nuclear:** Dos núcleos de átomos ligeros se unen para formar uno más pesado, liberando o absorbiendo gran cantidad de energía en forma de rayos gamma y energía cinética.
+
+## La Combustión y el Fuego
+
+La **combustión** es una reacción química de oxidación rápida y exotérmica entre un **combustible** (elemento que arde) y un **comburente** (elemento que produce la combustión, generalmente oxígeno), que se manifiesta visualmente con emisión de calor y luz, a menudo en forma de llamas. Es, en esencia, una reacción redox (óxido-reducción) fuertemente exotérmica, donde una sustancia cede electrones (se oxida, actúa como reductor o combustible) y otra capta electrones (se reduce, actúa como oxidante o comburente). Estos procesos están intrínsecamente ligados.
+
+Las principales características de la combustión son:
+*   Es un proceso químico de oxidación-reducción, transformando reactivos en productos.
+*   Presenta una cinética generalmente rápida.
+*   Es fuertemente exotérmica.
+*   Su velocidad de reacción determina la cantidad de calor liberado.
+*   Puede ser autoalimentada mediante una **reacción en cadena**.
+*   Sus reactivos fundamentales son el combustible y el comburente.
+
+Cuando la combustión es controlada en tiempo y espacio, se denomina **fuego**. Por el contrario, un **incendio** es una combustión que se propaga de manera incontrolada en el tiempo y el espacio, considerándose una combustión de aportación incontrolada.
+
+### Tipos de Combustiones
+
+Las combustiones pueden clasificarse según su manifestación y velocidad:
+
+1.  **Combustiones de Aportación:** La masa reactiva se incorpora al frente de reacción.
+    *   **Con llama:** Se desarrolla en fase gaseosa, produciendo calor, luz y gases. Representada por el tetraedro del fuego.
+    *   **Latente:** Oxidación lenta y exotérmica sin luz visible, revelada por aumento de temperatura o humo. Genera calor y se propaga en combustibles porosos. La norma ISO 13943 la define como combustión sin llama o luz visible, típica de carbón, celulosa, madera, algodón, tabaco, turba, humus, jabones sintéticos, polímeros carbonizados y ciertos polvos.
+    *   **Incandescente:** Combustión sin llama, con emisión de luz visible (ascuas) y producción de calor. ISO 13943 la describe como combustión de material sólido sin llama pero con luz visible.
+    *   **Espontánea:** Se inicia sin aporte de calor externo.
+2.  **Combustiones de Propagación (o Premezcla):**
+    *   **Lenta y muy lenta (Oxidación):** Desprende poca energía que se disipa en el ambiente sin aumento de temperatura local. No hay emisión de luz o calor. Ejemplos: amarilleo del papel por calor, oxidación del hierro.
+    *   **Viva o Normal (Simple o Rápida):** Oxidaciones moderadamente rápidas, con velocidad del frente de reacción inferior a 1 m/s. Se desprende calor, luz y llamas, con energía suficiente para mantener la reacción en cadena. Los incendios normales siguen este patrón.
+    *   **Instantánea o muy rápida (Explosión):** Genera ondas de presión (sobrepresiones). La velocidad de propagación es superior a 1 m/s. Se subdividen en:
+        *   **Deflagración:** Onda de combustión con frente que avanza a velocidad subsónica (<340 m/s), generando sobrepresiones (5-10 veces la inicial) y efectos sonoros. Es común en explosiones que rompen cristales o tabiques, permitiendo la liberación natural de presión (ej. vapores de líquidos inflamables, mechas lentas).
+        *   **Detonación:** Onda de combustión con frente que avanza a velocidad sónica o supersónica (>340 m/s), acompañada de onda de choque. Genera sobrepresiones (20-100 veces la inicial) y efectos destructivos muy superiores. Típica de explosivos industriales detonantes o mezclas aéreas de gases/vapores en circunstancias especiales.
+
+### Productos de la Combustión y sus Riesgos
+
+Los principales productos de la combustión son calor, humo, gases y radiación luminosa. En una combustión completa, todos los elementos del combustible se oxidan, formando dióxido de carbono (CO₂), agua (H₂O), dióxido de azufre (SO₂, si el combustible contiene azufre) y, a veces, óxidos de nitrógeno (NOₓ). En combustiones incompletas, por falta de comburente o presencia de partículas incombustibles, se produce monóxido de carbono (CO) y carbón.
+
+#### El Humo
+El **humo** está compuesto por partículas físicas (sólidas y líquidas) en suspensión, principalmente vapor de agua, de tamaño y color variables, y es inflamable/explosivo bajo ciertas condiciones. Es el principal factor de riesgo en un incendio, causando irritación de mucosas, lagrimeo y dificultad de visión.
+*   **Hollín:** Partículas de carbono (0.005-0.01 micras) de combustiones incompletas, especialmente derivados del petróleo.
+*   **Cenizas:** Residuos inorgánicos en polvo de combustión completa.
+*   **Escorias:** Aglomerado sólido de residuos de combustión parcial o completa.
+
+El **color del humo** ofrece información valiosa:
+*   **Blanco:** Combustión libre con alta presencia de O₂, compuesto principalmente por vapor de agua (vegetales, forrajes, fósforos).
+*   **Negro:** Fuego de alta carga térmica con poco O₂, generado por fibras sintéticas, polímeros, cauchos o derivados del petróleo (fibras artificiales, gasóleo, gasolina, plásticos).
+*   **Amarillo:** Sustancias químicas con azufre (formación de ácidos clorhídricos).
+*   **Amarillo verdoso:** Sustancias químicas con cloro.
+*   **Violeta:** Sustancias químicas con yodo.
+*   **Azul:** Asociado a hidrocarburos.
+
+#### Gases de Combustión Tóxicos y Peligrosos
+Además del CO y CO₂, los incendios pueden generar otros gases tóxicos:
+*   **Monóxido de carbono (CO):** Gas incoloro, más ligero que el aire, arde con llama azul. Inflamable y explosivo en mezclas con aire del 12.5% al 74.2%. Se forma en combustión incompleta de materiales carbonáceos. Penetra por vía respiratoria, se une a la hemoglobina (260 veces más afinidad que el O₂) formando carboxihemoglobina (COHb), causando hipoxia o anoxia. Niveles de COHb en sangre expresan la saturación sanguínea.
+*   **Dióxido de carbono (CO₂):** Gas no inflamable, soluble en agua, incoloro, inodoro con leve molestia picante, más pesado que el aire y oxidante. No es tóxico, pero sí asfixiante en altas concentraciones. La ingestión puede causar irritación gastrointestinal; la inhalación, asfixia e hiperventilación; el contacto directo con piel/ojos, congelación. Puntos de fusión y ebullición de -78 ºC y -57 ºC respectivamente. Densidad relativa (aire=1) de 1.52.
+*   **Cianuro de hidrógeno (HCN) y cianuros (CN):** El HCN (ácido prúsico o hidrociánico) es un gas incoloro, más pesado que el aire; en estado líquido, es un líquido blanco azulado con olor a almendras amargas. Explosivo en mezclas de 5% a 40% con el aire. Los cianuros de sodio, potasio y calcio (usados en la industria) producen HCN al reaccionar con agua y ácidos. Vías de ingreso: respiratoria (principal para HCN), digestiva (ocasional), cutánea (importante para sales). Patología: irritación local de mucosas y piel, úlceras. La acción más importante del HCN es general: se une a iones metálicos (como el Fe de la citocromooxidasa), inhibiendo la respiración celular y causando anoxia química.
+*   **Sulfuro de hidrógeno (H₂S):** Gas inflamable (4.5%-45% en aire), incoloro, tóxico, soluble en agua, más pesado que el aire. Olor a huevos podridos (perceptible a <30 ppm, paralizante a >100 ppm). También llamado hidruro de azufre. Ingreso: inhalación (asfixia en espacios cerrados/bajos), contacto con piel mojada (irritación), contacto con ojos (enrojecimiento, dolor, quemaduras graves). Extremadamente nocivo, puede causar asfixia y muerte a 20-50 ppm. Punto de ebullición -60 ºC, fusión -86 ºC.
+*   **Amoniaco (NH₃):** Compuesto químico (N + 3H). Gas inflamable (16%-25% en aire), incoloro, olor penetrante/nauseabundo. Se produce por descomposición orgánica e industrial. Muy soluble en agua, se evapora rápido, vendido como líquido.
+*   **Formaldehído o metanal (H₂C=O):** Aldehído simple, volátil, muy inflamable. Gas incoloro de olor penetrante a temperatura normal, muy soluble en agua/ésteres. Sus soluciones al 40% (formol) son líquidos incoloros, penetrantes, sofocantes, a veces con alcohol metílico como estabilizante. Puede comprimirse a líquido. Punto de ebullición -21 °C.
+*   **Cloro (Cl₂):** Elemento químico (At=17). Gas tóxico, no inflamable, amarillo-verdoso, 2.5 veces más pesado que el aire, olor desagradable/picante. Abundante en naturaleza, esencial para vida. Forma mezclas inflamables/explosivas con H₂ y compuestos orgánicos. Patología: irrita mucosas, espasmos laríngeos, edema, tos, dolor, náuseas, fatiga. Contacto con piel causa acné (cloracné) y daños dentales; líquido, congelación/quemaduras. Ebullición -34.7 ºC, fusión -101.0 

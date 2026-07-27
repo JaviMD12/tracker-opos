@@ -1,0 +1,152 @@
+## Técnicas de Estabilización y Demolición en Intervenciones de Emergencia
+
+Las intervenciones en edificaciones y terrenos con patologías o estructuras colapsadas requieren un conocimiento profundo de las técnicas de estabilización y demolición, así como de los equipos y materiales adecuados. El objetivo principal es garantizar la seguridad del personal interviniente y de las víctimas, así como mitigar riesgos adicionales. La planificación y ejecución de estas tareas se adaptan a la urgencia y complejidad de cada situación.
+
+### Estructuras Auxiliares para Estabilización
+
+Los **apeos de emergencia** son construcciones auxiliares provisionales que se emplean para detener movimientos incontrolados, transmitir cargas al terreno o a elementos estables, y evitar lesiones o colapsos en edificaciones inestables. Su uso es crucial en situaciones de riesgo inminente, donde la rapidez de ejecución es prioritaria y no se dispone de tiempo para cálculos complejos. Estas técnicas se clasifican generalmente en sistemas comprimidos y sistemas traccionados.
+
+#### Elementos Básicos de Estabilización
+
+Los materiales principales para los apeos suelen ser la madera y el acero, cada uno con sus elementos y características específicas.
+
+**1. Madera Estandarizada**
+Para unificar las técnicas y cálculos, se utiliza madera estandarizada con una clase resistente C18 (UNE-EN338:2008), preferentemente pino silvestre, pinaster o insignis (UNE-EN1912:1999), y con una calidad ME-2 (UNE-56544) que limita nudos y fendas.
+*   **Tablones:** Piezas fundamentales para apeos, con medidas típicas de 200x70 mm. Su sección rectangular es ideal para elementos horizontales sometidos a flexión, y su resistencia a compresión y tracción es notable. Sin embargo, la dificultad para ejecutar uniones y empalmes bajo tracción hace que no se utilicen para piezas con esfuerzos dominantes de ese tipo. Cuando se acoplan tres tablones, forman secciones cuadradas aptas para elementos verticales.
+*   **Riostras:** Maderas de menor sección (tradicionalmente inferiores a 100x50 mm, por ejemplo 10x50 mm) que trabajan exclusivamente a tracción para arriostrar el conjunto. Su escasa sección las hace susceptibles al pandeo bajo compresión, lo que simplifica los cálculos al considerar solo tracción.
+
+**2. Puntales Telescópicos (Acero)**
+Son apoyos provisionales regulables, fabricados en acero, que trabajan a compresión. Aunque su resistencia es más limitada que la madera en algunos casos, su facilidad de regulación y reutilización los convierte en un recurso muy utilizado. Deben estar certificados según la norma EN1065.
+*   **Componentes:** Constan de dos tubos telescópicos (exterior roscado y interior con agujeros para ajuste), placas de asiento para repartir cargas (con agujero central para varillas y agujeros de fijación), y un dispositivo de ajuste de longitud (perno, tuerca, empuñadura) que permite ajustes precisos.
+*   **Resistencia:** La resistencia nominal varía según la clase; por ejemplo, un puntal A30 (3 m de longitud máxima) ofrece 17 kN. En apeos complejos, la inestabilidad reduce la distancia segura entre puntales, recomendándose aproximadamente 1 metro.
+*   **Precauciones:** Es vital un correcto aplomado y una transmisión de cargas centrada. Para evitar desplomes, se pueden usar guías de encofrados, bridas metálicas o medios de fortuna como cables/cuerdas.
+
+#### Elementos Auxiliares y de Unión
+
+Además de los elementos básicos, se emplean otros para asegurar la estabilidad y el correcto funcionamiento del apeo:
+*   **Clavos:** Piezas metálicas delgadas con cabeza y punta, usadas para unir piezas de madera. Ofrecen rapidez y eficacia aceptable, aunque pueden fisurar la madera. Para aumentar la resistencia de la unión, se recomienda taladrar previamente (2/3 - 3/4 del diámetro del clavo). La penetración mínima en la última pieza debe ser de 8 veces el diámetro del clavo.
+*   **Bridas:** Pletinas de acero con orificios para tornillos, usadas para unir tablones de apeo, aumentando su resistencia a compresión y evitando el pandeo. Se colocan contrapeadas y se revisa su apriete periódicamente.
+*   **Pernos:** Utilizados en uniones metálicas cuando los tiempos de montaje son mayores. Se colocan por parejas, a una distancia de al menos 10 cm de los extremos.
+*   **Cuñas:** Piezas de madera o material sintético con sección triangular, empleadas para ajustar los elementos del apeo (pies derechos, tornapuntas) y permitir una entrada en carga progresiva y controlada. Se colocan de forma contrapuesta y se inmovilizan con un clavo. Es fundamental que sean de la misma calidad que los tablones para asegurar su función.
+*   **Ejiones:** Piezas de madera que se "cosen" a otro elemento de madera para servir de tope o contención a un tercer elemento. Trabajan a compresión axial y su capacidad de carga está limitada por las uniones metálicas utilizadas para su fijación (clavos, tornillos, tirafondos).
+*   **Cables de acero:** Elementos de alta resistencia a tracción, utilizados para arriostramientos en apeos complejos, especialmente en cubiertas y arcos. Los cables de 8-10 mm son comunes para bomberos, con resistencias nominales de 40.0 kN (estáticas) y 20.0 kN (dinámicas). Se anclan mediante abrazaderas, que deben ser del diámetro adecuado y colocarse a una distancia de 6-8 veces el diámetro del cable. El apriete debe ser gradual y alternativo.
+*   **Tracteles:** Sistemas de tensado manual de cables que ofrecen alta capacidad de arrastre/resistencia, ideales para modificar la dirección de caída de árboles o para zunchar elementos estructurales como pilares o depósitos, aumentando su resistencia a compresión mediante contención lateral. Los modelos Tilfor T13 (8000 kg / 78.4 kN) y T35 (16000 kg / 156.8 kN) son ejemplos.
+*   **Cintas de carraca:** Cintas textiles de alta resistencia con tensor manual, versátiles para zunchados. Las cintas estándar del CEIS Guadalajara soportan 35 kN.
+
+#### Tipologías de Apeos
+
+Los apeos se adaptan al tipo de elemento estructural a estabilizar y a su ubicación:
+
+**1. Apeos de Forjados**
+Los apeos de forjados pueden realizarse desde el interior o en situaciones donde el apoyo inferior no sea posible.
+*   **Apeos por el interior de la edificación:** Son los más sencillos de ejecutar, empleando pies derechos/puntales telescópicos con sopandas y durmientes. El arriostramiento se realiza acodalando el durmiente contra las paredes. Es crucial asegurar la continuidad estructural, apeando los forjados inferiores hasta un terreno firme o al menos dos forjados sanos.
+    *   **Apeo de puente alta:** La sopanda se apoya en un puente jabalconado, donde cada jabalón transfiere la carga a los muros paralelos de la crujía.
+    *   **Apeo en aspa:** Variante del puente alta, donde el puente se suprime y los jabalcones apoyan directamente sobre la sopanda.
+    *   **Apeo de pescante:** Un madero atraviesa el muro en voladizo simétrico, y sus extremos soportan las sopandas de crujías contiguas. Se jabalcona al muro si el vuelo es pronunciado.
+    *   **Apeo viga-puente:** Una viga o jácena apoya en el centro de la sopanda y transfiere las cargas a los muros de crujía.
+*   **Apeos para forjado sin apoyo en piso inferior:** Se usan en estructuras adinteladas de muros de fábrica cuando el forjado necesita ser descargado sin posibilidad de apoyo inferior inmediato.
+*   **Apeos de forjado en voladizos:** Utilizan principalmente jabalcones para estabilizar ménsulas o aleros.
+
+**2. Apeos de Jácenas y Vigas Maestras**
+Buscan contener la deformación potencial de las vigas principales. Se realizan con pies derechos cuya sopanda y durmiente son perpendiculares a los nervios de la estructura resistente y se extienden hasta terreno firme o, al menos, dos forjados sanos. Si el apeo directo es inviable, se descargan los forjados soportados. Para vigas muy cargadas con posibles movimientos laterales, se usan asnillas o puentes de apeo. Si un muro carga sobre la jácena, este también debe apearse con tornapuntas o agujas.
+
+**3. Apeos de Muros**
+Son muy variados y dependen del tipo de lesión y la situación del muro. Pueden ser horizontales, verticales, inclinados o combinaciones.
+*   **Tornapuntas simples:** Se utilizan para evitar el cedimiento o desplome de un muro de fachada, empleando tablones dobles o triples acodalados entre el suelo y el muro, preferentemente bajo carreras o forjados.
+*   **Tornapuntas a varias alturas (en abanico):** Para apeos de gran altura, recepcionan esfuerzos en una zona vertical más amplia, sustituyendo zapatas murales por muletillas.
+*   **Apeo con asnillas:** Descarga la parte inferior dañada de un muro colocando agujas en huecos pasantes sobre la lesión, las cuales se apoyan en pies derechos o parejas de tornapuntas sobre durmientes.
+*   **Apuntalamientos en muros interiores:** Apean vigas o forjados que descansan en el muro para recoger sus cargas.
+*   **Acodalado de muros:** Estabiliza elementos verticales o edificios enteros para evitar el vuelco, apoyándose en un segundo muro o estructura paralela. Este método permite liberar la base del elemento a apear.
+*   **Apuntalamientos en muros de contención:** La forma depende de la lesión (deslizamiento o vuelco). Para deslizamientos, se apea horizontalmente la base y se refuerza el codal con tornapuntas a media altura. Para vuelcos, se apea con tornapuntas en la parte superior.
+*   **Recercados:** Refuerzan los puntos débiles de los muros de carga, añadiendo rigidez al conjunto, como las cruces de San Andrés.
+
+**4. Apeos de Pilares**
+Para apear un pilar dañado, se colocan dos pies derechos con orejas a sus lados para recoger la carga y transferirla al forjado inmediatamente inferior. Cuando se trata de pilares de plantas altas, donde no hay un apoyo resistente, se emplean técnicas que transfieren las cargas a niveles inferiores mediante tornapuntados o puentes de apeo.
+
+**5. Apeos de Cimientos**
+La reparación de cimentaciones se aborda descargando las cargas de la estructura a través de sistemas de compresión (tornapuntas y puntales) o flexión (agujas).
+*   **Zapatas corridas:** Para muros accesibles por ambos lados, se usan agujas. Para medianeras inaccesibles por un lado, se usan agujas con palanca (limitado a cargas bajas).
+*   **Zapatas aisladas:** Para pilares centrales, se usan 2/4 tornapuntas que transmiten la carga a cimentaciones cercanas o terreno resistente. Para medianeras, apeo con puntales paralelos. Para esquinas, apeo interior con puntales y exterior con tornapuntas.
+
+**6. Apeos de Arcos y Bóvedas**
+Se basan en la sucesión de cimbras. El apeo debe ajustarse a la generatriz del arco mediante una plantilla. Para vanos y cargas significativas, se organizan arriostramientos transversales para evitar el vuelco.
+
+### Técnicas de Demolición
+
+El **derribo o demolición** es la destrucción o desmontaje de un elemento constructivo, siendo un último recurso cuando la estabilización es imposible o el elemento representa un peligro inminente. Puede ser total o parcial.
+
+**1. Demolición Elemento a Elemento**
+Es el sistema principal para derribos de pequeña envergadura o como preparación de una demolición total, especialmente en edificios entre medianeras. Se caracteriza por ser:
+*   **Gradual:** Controlando los desplomes parciales.
+*   **Continuo:** Evitando dejar elementos inestables.
+*   **Ordenado:** Se procede de arriba hacia abajo, aligerando las plantas simétricamente y contrarrestando empujes horizontales.
+
+**2. Demolición por Colapso Mediante Medios Mecánicos**
+*   **Por empuje:** Utiliza maquinaria robusta (bulldozers, retroexcavadoras) aplicando fuerza en el cuarto superior de los elementos verticales, siempre por encima de su centro de gravedad. Limitado a plantas bajas o primeras.
+*   **Por tracción:** Requiere una distancia de seguridad suficiente y el debilitamiento previo de las zonas más sensibles. Se pueden usar diversas herramientas que generen tracción, como excavadoras o tractores.
+*   **Por corte y perforación:** Empleado por bomberos para desmontar pequeños elementos o preparar derribos mayores. Se utilizan motosierras, tronzadoras, equipos hidráulicos de corte y perforación.
+
+### Equipos de Protección Individual (EPI)
+
+En todas estas intervenciones, el personal debe estar equipado con EPI adecuados a los riesgos. Para aperturas forzadas, se requieren guantes protectores, ropa de manga larga anticorte, casco, calzado reforzado con punta de acero y gafas/pantalla de protección ocular. En caso de riesgo añadido, como trabajo en altura o posible incendio, se utilizará protección suplementaria (vadeadores, equipos de respiración). Para trabajos con arbolado, se utilizan zahones o pantalones anticorte.
+
+### Valoración Previa a la Intervención
+
+Antes de cualquier actuación, es crucial realizar una valoración exhaustiva para identificar el punto más débil, fácil y seguro de acceso, minimizando daños y riesgos.
+*   **Acceso a puertas:** Priorizar técnicas no destructivas como la técnica del resbalón (mica) si la puerta no está echada con llave. En caso contrario, se utilizan técnicas destructivas como la extracción o taladro del bombín, o fresado, y como último recurso, apertura destructiva con maza. Las cerraduras de seguridad, blindadas y acorazadas ofrecen mayor resistencia.
+*   **Acceso a ventanas:** Se retirarán persianas (forzando el enrollado o desmontando lamas). La técnica dependerá del tipo de ventana (corredera, abatible, oscilobatiente) y se considerará la rotura de vidrios si es inviable forzar el cierre.
+*   **Acceso a rejas y cierres metálicos:** Las rejas pueden retirarse cortando anclajes o barrotes con herramientas hidráulicas o sierras. Los cierres metálicos enrollables motorizados se abren forzando la cerradura o accionando el embrague del motor; si es inviable, se cortan lamas para abrir una entrada.
+*   **Butrones:** Agujeros practicados en suelos, techos o paredes como último recurso ante riesgo inminente. Las herramientas varían según el material (mazas, taladros, sierras, herramientas hidráulicas). Se debe usar mascarilla buconasal con filtro.
+
+### Tácticas de Intervención en Colapsos Estructurales
+
+Las intervenciones en estructuras colapsadas (BREC/USAR) siguen fases y protocolos específicos para la búsqueda y rescate de víctimas.
+
+**1. Evaluación Inicial:**
+*   **Reconocimiento rápido:** Buscar indicios de colapso inminente (ruina, desplome a vía pública, instalaciones afectadas), determinar el número y estado de ocupantes.
+*   **Análisis sistemático:** Recopilar información sobre la geometría de la patología, ubicación de síntomas (grietas horizontales/verticales, abombamientos). Las grietas horizontales en muros de carga son más peligrosas, indicando desplome inminente. Las verticales sugieren hundimientos o empujes.
+*   **Diagnosis de la causa material:** Valorar la patología y sus causas (ej. peso de piscina, empuje de terreno, pudrición de viguetas de madera) para determinar la viabilidad de la reparación.
+
+**2. Zonificación:**
+Se delimitan tres zonas para la seguridad y eficiencia:
+*   **Zona caliente (ZC):** Máximo riesgo, solo personal de intervención con máxima protección NRBQ.
+*   **Zona templada (ZT):** Riesgo mínimo, para equipos SOS, mando de intervención, vehículos de apoyo.
+*   **Zona fría (ZF):** Riesgo bajo/nulo, para descanso, reposición, sanitarios.
+La señalización INSARAG (naranja con información del equipo, fecha, hora, estado G/N - Go/No Go) es crucial para comunicar el estado de la estructura.
+
+**3. Búsqueda y Localización de Víctimas:**
+*   **Búsqueda física:** Llamada-escucha en silencio total, golpes en estructuras.
+*   **Búsqueda técnica:** Geófonos (amplifican sonidos, identifican dirección), cámaras térmicas (captan radiación infrarroja, útil en gases), videocámaras, microcámaras.
+*   **Búsqueda especializada:** Perros de rescate (autonomía, motivación, concentración).
+La probabilidad de supervivencia es alta en las primeras 24 horas y disminuye exponencialmente después, haciendo crítica la rapidez.
+
+**4. Técnicas de Rescate:**
+*   **Perforaciones en elementos verticales/horizontales:** Se realizan butrones (triangulares, cuadrados o circulares, de al menos medio metro cuadrado) para acceso a víctimas o inspección, priorizando zonas menos resistentes. Siempre con apuntalamiento previo si el elemento es portante.
+*   **Galerías:** Similares a entibaciones, usadas en sótanos/refugios bajo derrumbes estratificados. Requiere abundante madera y estabilización complementaria.
+*   **Contención de deslizamientos de tierra y escombros:** Barreras físicas (diques de tierra, cemento) para impedir el avance de derrames o canalizarlos. Se usan picas clavadas y tablones para contener.
+*   **Movilización de cargas:** Utiliza máquinas simples como palancas (para vencer resistencia con menor fuerza), poleas (fijas o móviles, combinadas en polipastos para desmultiplicar la fuerza). Los tracteles y cojines neumáticos de alta presión son herramientas clave para levantar o arrastrar grandes pesos.
+
+### Tácticas de Intervención en Ascensores
+
+El rescate en ascensores requiere un protocolo específico y medidas de seguridad rigurosas.
+*   **Medidas de seguridad:** Cortar siempre el suministro eléctrico, bloquear interruptores, confirmar el cierre de puertas, comunicar con los atrapados.
+*   **Rescate con funcionamiento normal:** Asegurar puertas, rearmar interruptor, accionar pulsador de planta para que el ascensor funcione y permita el rescate.
+*   **Rescate sin movimiento de cabina:** Cortar suministro, establecer vía de rescate según espacio libre entre cabina y planta (superior si >80cm, inferior si <30cm), desenclavar y permitir salida.
+*   **Rescate moviendo la cabina con sistema eléctrico de emergencia:** Activar sistema eléctrico de emergencia, mover cabina hasta el nivel de rescate, cortar suministro, desenclavar.
+*   **Rescate moviendo la cabina sin corriente eléctrica (electromecánicos):** Cortar suministro, desconectar interruptor principal, asegurar puertas, usar volante para mover cabina lentamente liberando el freno, observar dirección de giro, hasta alcanzar nivel de rescate.
+*   **Rescate moviendo la cabina sin corriente eléctrica (hidráulicos):** Cortar suministro en contadores, usar pedal y manivela para subir pistón hasta tensar cables, desacuñar, mover volante para subir cabina.
+*   **Desenclave de puertas de piso:** Se utiliza para abrir puertas del piso cuando el mecanismo de seguridad está activado, tras cortar el suministro eléctrico.
+
+### Tácticas de Intervención en Apeo y Poda de Arbolado
+
+La intervención en arbolado peligroso implica la valoración del estado del árbol, la delimitación de un perímetro de seguridad y la aplicación de técnicas de apeo y poda controladas.
+
+**1. Valoración del Riesgo:**
+Se evalúa la peligrosidad real del ejemplar, considerando la descomposición de la madera (pudrición blanca, marrón, blanda), la presencia de grietas (verticales, horizontales, labiadas), problemas en las raíces (cuerpos fructíferos, envejecimiento, obras cercanas, radio crítico de raíces), uniones débiles de ramas (corteza incluida), chancros y arquitectura pobre (árboles inclinados, árboles arpa, ramas muertas).
+
+**2. Delimitación del Perímetro de Seguridad:**
+La distancia de seguridad preestablecida es 2.5 veces la altura del árbol en pie. Si el árbol ya está tendido, se valora el perímetro en función del riesgo de caída de la parte más alta. Se preparan dos rutas de escape a 45 grados a ambos lados del corte de derribo.
+
+**3. Técnicas de Apeo (Derribo del Árbol):**
+El apeo se realiza mediante un binomio de corte de dirección y corte de derribo.
+*   **Corte de dirección (cuña):** Determina la trayectoria de caída. Se realiza con un corte inferior horizontal y un corte superior oblicuo, que deben coincidir exactamente, con

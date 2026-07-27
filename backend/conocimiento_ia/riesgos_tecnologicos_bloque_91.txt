@@ -1,0 +1,86 @@
+# Evaluación y Gestión de Riesgos en Intervenciones de Estructuras Colapsadas: Triage, Señalización y Contacto con Víctimas
+
+La intervención en situaciones de estructuras colapsadas exige un enfoque metódico y riguroso para asegurar la máxima eficacia y la seguridad tanto de los intervinientes como de las víctimas. Este proceso abarca el triage, la señalización y el contacto inicial con las personas atrapadas, constituyendo pilares fundamentales en la gestión de emergencias.
+
+## Triage: Evaluación Estructural del Área Afectada
+
+El triage en estructuras colapsadas se define como el procedimiento destinado a establecer un orden de actuación prioritario, basándose en la probabilidad de supervivencia de las víctimas y en la seguridad del personal de rescate. Este proceso, que debe ser lo más sencillo y rápido posible, requiere un conocimiento básico de las patologías estructurales, sus causas y los métodos de evaluación.
+
+### Puntos Clave para la Aplicación del Triage:
+Para una aplicación efectiva del triage, es fundamental considerar varios aspectos:
+
+*   **Alcance del Triage:** Se implementa cuando hay más de tres edificios bajo la responsabilidad de un mismo equipo de rescate, o en escenarios donde la magnitud del colapso demanda una priorización.
+*   **Responsabilidades:** El Jefe de Equipo es el encargado de dirigir el triage, preferiblemente asesorado por especialistas en estructuras o materiales peligrosos. En ausencia de estos, se aplicarán los procedimientos de evaluación estructural establecidos en el manual.
+*   **Factores de Evaluación:** La evaluación se centra en la geometría estructural del edificio, el estudio de su equilibrio (determinando si es isostático, hiperestático o un mecanismo), y las características de resistencia de los materiales de construcción.
+*   **Duración y Equipo:** El triage debe ser un proceso breve, con una duración estimada de aproximadamente dos horas, adaptable al número de escenarios. Es posible asignar múltiples equipos de evaluación.
+*   **Priorización de Víctimas:** La prioridad absoluta es el rescate de víctimas con vida, especialmente durante las primeras 24 horas, cuando las probabilidades de supervivencia son significativamente mayores.
+*   **Estructuras de Alto Riesgo:** En caso de estructuras con alto riesgo de colapso o cuando los recursos son insuficientes para una intervención segura, se debe informar al Puesto de Mando Avanzado (PMA) y la zona se marcará con la indicación "NO INGRESAR".
+*   **Reevaluación Continua:** El triage es un proceso dinámico que debe reevaluarse constantemente a lo largo de la intervención.
+
+### Información Necesaria para el Triage:
+Para una correcta toma de decisiones, se debe recopilar información exhaustiva sobre diversos elementos:
+
+*   **Datos del Edificio:** Planos, diseño, materiales de construcción, altura, clase y uso.
+*   **Patrón de Colapso:** Identificación de los espacios vitales creados por las estructuras y su contenido.
+*   **Equilibrio Dinámico:** Valoración de la subsidencia lenta, colapsos adicionales y otros factores que afecten la estabilidad.
+*   **Riesgos Adicionales:** Presencia de servicios públicos afectados (electricidad, gas, agua, etc.), así como la existencia de materiales peligrosos.
+*   **Contexto Temporal:** Fecha y hora del colapso, y día de la semana.
+*   **Información sobre Afectados:** Número de personas detectadas frente a las desaparecidas, edades y sus ubicaciones.
+*   **Testigos:** Recopilación de información de testigos, afectados y autoridades locales, incluyendo intentos previos de búsqueda y rescate.
+
+### Categorías de Triage (según INSARAG):
+Las guías INSARAG (enero de 2007) clasifican las estructuras según tres factores fundamentales: presencia de víctimas vivas, dimensiones de los espacios vitales y estabilidad del edificio. Las categorías resultantes se combinan con el tiempo estimado para el rescate y la capacidad operativa del equipo, generando un listado ordenado de prioridades.
+
+*   **Víctimas Vivas:** Se evalúa si las estructuras son estables o inestables en presencia de víctimas con vida.
+*   **Desconocido:** Se categoriza según el tamaño de los espacios (grandes o pequeños) y la estabilidad de la estructura (estable o inestable).
+*   **Extrema Inestabilidad:** Se aplica tanto si hay víctimas vivas como si su presencia es desconocida.
+*   **Sin Víctimas:** Para escenarios donde no se detectan víctimas.
+
+La clasificación obtenida se puede reordenar en función de factores como la dificultad de transporte, la disponibilidad de herramientas, los factores de seguridad, la edad de las víctimas (por ejemplo, en escuelas o residencias de ancianos), las prioridades establecidas por el PMA y cualquier otra información relevante. Si se confirma la presencia de víctimas con vida, el rescate debe iniciarse inmediatamente, incluso antes de finalizar el triage completo.
+
+## Señalización para los Equipos de Rescate
+
+En situaciones de catástrofe, la señalización es crucial para optimizar la coordinación de los recursos externos e internos. Se marcan objetivos *in situ* para identificar servicios, instalaciones, zonas peligrosas, áreas de trabajo y descanso, así como personal y vehículos. El sistema INSARAG es el estándar internacional más reconocido para esta señalización.
+
+### Señalización General del Área (INSARAG):
+Cada escenario de trabajo se identifica individualmente con la siguiente información:
+
+*   **Identificación del Escenario:** Se incluye la dirección o descripción física, puntos de referencia y nombre de los edificios afectados.
+*   **Coordenadas y Orientación:** Se registran coordenadas de mapa o GPS (con un croquis si es necesario) y la orientación de la estructura.
+*   **Identificación Exterior:** La fachada principal se designa como "Lado 1", y el resto se numera en sentido horario.
+*   **Identificación Interior:** La estructura se divide en cuadrantes identificados alfabéticamente en sentido horario, comenzando donde se unen el Lado 1 y el Lado 2. El cuadrante central se reserva para espacios como vestíbulos o escaleras.
+*   **Identificación de Plantas:** Se designan como "Planta baja" o "0" a nivel del suelo, "Piso 1", "Piso 2" hacia arriba, y "Sótano 1", "Sótano 2" hacia abajo.
+*   **Cintas de Balizamiento:** Se utilizan para delimitar zonas de trabajo, descanso, espera, y áreas peligrosas o inseguras, indicando una zona restringida o perimetral.
+
+### Fases de la Señalización *in situ* (INSARAG):
+
+1.  **Reconocimiento Estructural y Riesgos Potenciales:** Tras la evaluación, se marca cada estructura con un cuadrado de un metro por un metro, pintado en color naranja y visible desde el exterior. Dentro del cuadrado, se indica si es seguro entrar ("G" para Go) o no ("N" para No Go), el nombre o ID del equipo, y las fechas y horas de inicio y fin del trabajo.
+2.  **Búsqueda y Localización:** La información se concentra en el exterior del cuadrado, indicando peligros en la parte superior, número de desaparecidos en la inferior, personas rescatadas con vida a la izquierda y cadáveres recuperados a la derecha. Un círculo alrededor del cuadrado indica que el trabajo ha concluido. Una línea horizontal a través de la señal indica que no quedan víctimas con vida.
+
+### Evolución del Sistema de Señalización INSARAG:
+Las futuras revisiones de INSARAG incluirán modificaciones en la señalización de víctimas. El nuevo sistema utilizará el color naranja para la señal, marcará una "V" para víctimas potenciales y empleará flechas y distancias si la víctima no está junto a la señal. Se indicará el número y estado de las víctimas (L para vivas, D para fallecidas). Las señales se tacharán cuando la víctima sea extraída o cuando el equipo abandone permanentemente el lugar.
+
+## Contacto con las Víctimas y Traslado Básico
+
+Cuando se localiza una víctima, es crucial establecer un contacto sistematizado para manejar su estado emocional (alterada, desorientada, ansiosa) y obtener información.
+
+### Pautas para el Contacto y Comunicación:
+
+*   **Identificación:** El personal de rescate debe identificarse y dirigirse a la víctima por su nombre, transmitiendo calma.
+*   **Instrucciones Claras:** Se proporcionarán instrucciones breves y concisas, describiendo los movimientos de la cabina del ascensor (si aplica) o los efectos de la intervención.
+*   **Apoyo:** Se fomentará la colaboración de la víctima y se reconocerán sus esfuerzos.
+*   **Información Exterior:** Se evitará mentir sobre el suceso. Para preguntas complejas, se darán respuestas genéricas o se admitirá el desconocimiento, solicitando información sobre posibles acompañantes.
+
+### Sistemas Básicos de Traslado de Víctimas:
+El traslado de heridos a una zona segura debe realizarse con medios estables como camillas. En situaciones con personal limitado, se pueden emplear métodos de fortuna que deben ser conocidos y practicados:
+
+*   **En Brazos:** La víctima se sujeta con una mano bajo las rodillas y la otra alrededor de la espalda, afianzándose al cuello del rescatador.
+*   **A Cuestas:** Similar al método anterior, pero el peso de la víctima se transmite al tronco del socorrista, con las manos entrelazadas para facilitar la carga.
+*   **Método de la Muleta:** Uno o dos bomberos elevan a la víctima, que pasa sus brazos por la nuca del rescatador. Requiere que la víctima esté consciente.
+*   **Método del Bombero:** El bombero se coloca en paralelo a la víctima, apoyando sus pies contra los de esta, y la eleva sobre su costado, sujetando con un brazo las piernas y con el otro el brazo del herido.
+*   **Método de la Silla de Manos:** Dos rescatadores forman una "silla" con sus brazos para sentar a la víctima. Existen variantes en forma de arco o cruz.
+*   **Método con Tres Bomberos:** Se desplaza a la víctima horizontalmente, manteniendo la columna recta. El bombero en cabeza sujeta los omoplatos y el cuello; el segundo, las lumbares y muslos; el tercero, las pantorrillas.
+*   **Método del Puente:** Tres bomberos sujetan al herido mientras un cuarto introduce una camilla o tabla por debajo. El mando se posiciona en la cabecera para visualizar las caras de los compañeros y del herido.
+*   **Método de Semi-Rotación:** Dos bomberos se colocan a un lado del herido y dos en la cabeza y pies. La maniobra se realiza en fases: sujeción, rotación ayudándose de la ropa, presentación de la camilla y colocación del herido.
+
+Estos métodos deben ser practicados regularmente por todos los intervinientes para asegurar una respuesta coordinada y eficiente en situaciones críticas.

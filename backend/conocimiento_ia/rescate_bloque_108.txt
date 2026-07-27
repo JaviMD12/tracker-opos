@@ -1,0 +1,49 @@
+# Rescate en Accidentes Ferroviarios: Caracterización y Tácticas de Intervención
+
+La intervención en accidentes ferroviarios representa uno de los escenarios más complejos para los servicios de emergencia, dada la magnitud de los convoyes, la infraestructura involucrada y la alta energía cinética asociada. La correcta caracterización del siniestro y la aplicación de tácticas de intervención específicas son cruciales para garantizar la seguridad de los intervinientes y la eficacia del rescate.
+
+## Caso Práctico: Descarrilamiento de un Tren de Alta Velocidad (AVE)
+
+Un ejemplo representativo de esta complejidad es el descarrilamiento de un tren AVE en la línea Madrid-Zaragoza, con 140 pasajeros a bordo. El incidente involucra un automotor eléctrico de la serie 102, con 13 coches conectados, totalizando 200 metros de longitud. Los dos primeros coches han descarrilado y volcado a menos de 500 metros de una estación, conteniendo 40 personas atrapadas, y no se tiene contacto con el maquinista. La vía es doble, de alta velocidad y electrificada con 25 kV de corriente alterna. La localidad más cercana cuenta con 60.000 habitantes. Afortunadamente, no se registran incendios, no hay afectación a poblaciones o industrias cercanas, ni masa forestal en riesgo.
+
+### Fase Inicial: Recepción de Aviso y Valoración
+Tras recibir la alerta a las 17:30 horas, el jefe de dotación debe comunicarse con el centro de gestión de emergencias (CGRH24 Adif o CECON Renfe) para ampliar la información, confirmando el número de afectados, las coordenadas GPS del punto exacto y los detalles técnicos de la vía y el tren. Es imprescindible solicitar de inmediato el corte telemetrico de la tensión en la catenaria y la interrupción de la circulación, asegurándose el envío de un técnico especializado. Además, se debe gestionar la movilización de otros parques de bomberos, equipos sanitarios y fuerzas de seguridad.
+
+### Despliegue y Control en la Escena
+La búsqueda de la ruta de acceso más rápida y segura se realizará utilizando mapas, coordenadas GPS, ortofotos y fichas de intervención. Al llegar al lugar, se posicionarán los vehículos de bomberos de forma que no obstruyan el paso a otros equipos sanitarios y se asegurará la zona. Se realizará una valoración inicial confirmando los datos recibidos, la magnitud del accidente, la ausencia de otros peligros y se garantizará que todo el personal utilice el Equipo de Protección Individual (U2). En caso de ausencia del técnico de Adif, el personal de bomberos deberá realizar el shuntado de vía y la puesta a tierra, aplicando las cinco normas de seguridad para la desconexión eléctrica. Si existe riesgo de incendio, se establecerán líneas de agua como medida preventiva.
+
+### Intervención y Finalización
+La intervención se centrará en el rescate y la evacuación, dividiendo el tren en dos zonas: los coches descarrilados y el resto del convoy. Se priorizará el triage de las víctimas, su evacuación mediante las escaleras del tren o las de los bomberos y se trasladará a los afectados no atrapados o con lesiones leves al personal sanitario o a voluntarios. Para las víctimas atrapadas, se emplearán técnicas de rescate vehicular. Durante todo el proceso, se verificará que las medidas de seguridad sigan funcionando correctamente, como la ausencia de tensión eléctrica, el corte de circulación y la correcta evacuación.
+
+La participación ciudadana es crucial en incidentes de esta envergadura; se asignará personal para coordinar a los voluntarios externos en labores de evacuación y logística, aunque su participación directa en el rescate de atrapados no está permitida. Una noria de evacuación se establecerá para el traslado coordinado de los rescatados a centros sanitarios. Finalmente, una vez concluido el rescate y regresados todos los equipos, se procederá al recuento y limpieza del material.
+
+## Consideraciones Generales en Intervenciones Ferroviarias
+
+Las intervenciones en accidentes ferroviarios demandan un conocimiento profundo de la infraestructura, el material rodante, los sistemas de seguridad y las tácticas específicas para minimizar riesgos y maximizar la eficacia del rescate.
+
+### Infraestructura y Electrificación Ferroviaria
+La **infraestructura ferroviaria** engloba todas las obras necesarias para construir la plataforma y la geometría de las vías, incluyendo obras de defensa como muros de contención y sistemas de drenaje. La **superestructura** comprende las vías y sus elementos auxiliares que garantizan la circulación segura de los trenes.
+
+La **electrificación** es una característica fundamental de muchas vías, donde los trenes pueden alimentarse desde un tercer carril electrificado, una solución común en metros y ferrocarriles económicos, o, más frecuentemente, a través de una **catenaria** o línea aérea de contacto. El **pantógrafo**, un elemento articulado en el techo del tren, es el encargado de captar la corriente eléctrica de la catenaria. Las **subestaciones eléctricas** distribuyen la potencia necesaria a lo largo de la vía, con diferentes voltajes (como 25 kV en alterna para alta velocidad y 3000 V en continua para líneas convencionales) y a distancias variables (cada 20-50 km).
+
+### Material Rodante
+El **material rodante** se compone de:
+*   **Locomotoras:** Proporcionan la fuerza motriz, situándose generalmente en la parte delantera del tren. Pueden ser diésel o eléctricas, y algunas están diseñadas para maniobras o reparaciones.
+*   **Automotores:** Trenes autopropulsados con el motor integrado en los coches, lo que distribuye la propulsión entre todas las unidades. Son comunes en trenes convencionales y de alta velocidad.
+*   **Coches:** Vehículos destinados al transporte de pasajeros, incluyendo vagones litera, cafetería, restaurante y furgones generadores.
+*   **Vagones:** Vehículos diseñados para transportar mercancías, como tolvas, cisternas, vagones cerrados o plataformas para contenedores.
+*   **Bogies:** Dispositivos giratorios con dos o más ejes sobre los que se apoya el vehículo ferroviario, permitiendo que el tren tome curvas cerradas. Existen bogies tractores y remolcados.
+
+### Dispositivos de Frenado y Seguridad
+Los sistemas de frenado incluyen la **tubería de freno automático (TFA)**, que recorre todo el tren con aire comprimido, y la **tubería de depósitos principales (TDP)**, que alimenta los sistemas de freno y otros dispositivos. Los **semiacoplamientos (SA)** enlazan las tuberías de aire comprimido entre vehículos. Es crucial que las **grifos de aislamiento** se cierren para desacoplar vagones de forma segura, evitando la presión del aire. El **freno de estacionamiento** se utiliza en vagones mediante un volante que acciona un husillo.
+
+Cada tren cuenta con un **plan de autoprotección** que establece acciones para controlar y prevenir riesgos, coordinándose con el sistema público de Protección Civil. La **comunicación efectiva y directa** con el puesto de mando y control es fundamental en todas las intervenciones de bomberos.
+
+### Riesgos y Tácticas de Intervención Específicas
+Los **riesgos** más graves en incidentes ferroviarios son el **arrollamiento** y la **electrocución**. Las corrientes eléctricas son muy altas, pudiendo causar la muerte incluso sin contacto directo; por ello, se debe mantener una distancia de seguridad de al menos 100 cm de cualquier elemento de alta tensión. El **shunt de vía** es una protección básica para evitar la llegada de trenes durante las labores de rescate.
+
+Para la **desconexión eléctrica**, se aplican cinco normas de seguridad: cortar fuentes de alimentación, evitar la realimentación, comprobar la tensión con pértigas aisladas, derivar a tierra y señalizar la zona.
+
+Las **tácticas de intervención** se adaptan a la situación, optando por **confinamiento** (para incidentes leves, manteniendo a los pasajeros dentro del tren hasta asegurar la zona) o **evacuación** (para accidentes graves o peligros inminentes). El acceso al punto del incidente debe ser rápido y seguro, priorizando los **huecos naturales** como puertas y ventanas, o creando aberturas improvisadas si es necesario. El acceso al techo solo debe realizarse si la catenaria no tiene tensión o el tren está volcado. La **carta de porte** del maquinista es esencial para identificar la mercancía y sus posibles peligros.
+
+La **evaluación continua** de la intervención es vital para adaptar las tácticas a los cambios en las condiciones del entorno, del vehículo o de las víctimas, asegurando que las medidas aplicadas sean siempre efectivas y seguras.

@@ -1,0 +1,47 @@
+## Estabilización de Edificaciones: Patología Estructural y Tipologías Fundamentales
+
+La intervención en estructuras con patologías requiere una comprensión profunda del comportamiento de las edificaciones, especialmente cuando existe un riesgo de colapso. En tales situaciones, es fundamental aplicar soluciones de estabilización que minimicen el peligro, como el **apeo inferior** con elementos verticales, buscando siempre la opción más sencilla y eficaz. Este proceso busca retornar la estructura a un estado de equilibrio, incluso si el nivel de seguridad es menor al original.
+
+### Elementos Estructurales: Conceptos Fundamentales y Clasificación
+
+Los **elementos estructurales** son aquellos componentes de una edificación diseñados para soportar y transmitir cargas sin experimentar deformaciones excesivas, manteniendo la **capacidad portante** y la **aptitud de servicio** de la estructura durante su vida útil, que por defecto se establece en 50 años según el Código Técnico de la Edificación (CTE DB SE). La legislación en España, incluyendo el CTE con sus Documentos Básicos (DB-SE AE, C, A, F, M, SI, SUA, HS, HR, HE), así como instrucciones específicas como la EHE para hormigón y la NCSE para sismorresistencia, regula exhaustivamente estos aspectos.
+
+Para analizar el comportamiento estructural, se consideran tres factores principales: la **geometría**, la **rigidez** y los **materiales** empleados. La geometría, por ejemplo, determina la magnitud y dirección de los esfuerzos. En este sentido, las **curvas funiculares**, como la **catenaria** (para cargas de peso propio) y la **parábola** (para cargas lineales uniformemente repartidas en proyección horizontal), describen la forma óptima que adopta un cable bajo tracción pura. Una **estructura funicular** se caracteriza por generar reacciones y esfuerzos principalmente de compresión o tracción, dependiendo del estado de carga.
+
+La **rigidez** de una estructura se relaciona con su capacidad para resistir deformaciones. Se evalúa mediante los **grados de libertad (GL)**, que representan los movimientos posibles de un cuerpo, y las **coacciones (C)**, que son las limitaciones a esos movimientos. El **grado de estaticidad** de un conjunto estructural se clasifica en:
+*   **Hiperestática:** GL < C, indicando una estructura estable con redundancia.
+*   **Isostática:** GL = C, una estructura con equilibrio limitado, que es estática pero sin redundancia.
+*   **Hipostática (o mecanismo):** GL > C, lo que implica un sistema inestable que se desplaza ante una fuerza.
+Los **nudos** son las conexiones entre elementos portantes, y su tipología (apoyo, articulación o empotramiento) determina las coacciones y grados de libertad. Un **apoyo** limita un movimiento vertical (1 coacción, 2 GL); una **articulación** limita movimientos verticales y horizontales (2 coacciones, 1 GL); y un **empotramiento** limita todos los movimientos (vertical, horizontal y giro) (3 coacciones, 0 GL).
+
+### Estructuras Enterradas: Cimentaciones y Contenciones
+
+Las **estructuras enterradas**, también conocidas como **cimentaciones**, son el conjunto de elementos estructurales que transmiten las cargas de la edificación al terreno, asegurando que la presión admisible no sea superada y evitando sobrecargas puntuales. Cualquier fallo en la cimentación puede comprometer gravemente la estabilidad del edificio. Los parámetros clave para su diseño incluyen la geometría (determinada por la profundidad del estrato resistente), el material (predominantemente hormigón armado por su capacidad de moldeo y rigidez) y la rigidez (rígida o flexible, según la EHE-08).
+
+Existen diversas **tipologías de cimentación** según el CTE DB SE-C, incluyendo la directa, la profunda y los elementos de contención:
+
+#### Cimentación Directa, Superficial o Somera
+Este tipo de cimentación reparte las cargas de la estructura horizontalmente sobre el terreno. Se emplea en suelos cuya capa superficial posee la resistencia necesaria para soportar grandes cargas, o en terrenos menos consistentes si las tensiones transmitidas son pequeñas. Se localizan a poca profundidad, de ahí su denominación de superficial o somera. Las principales tipologías son:
+
+1.  **Zapatas Aisladas:** Destinadas a cimentar cargas puntuales (pilares), ensanchando la base de apoyo para reducir las tensiones transmitidas al terreno. Son adecuadas para terrenos firmes y compactos, con presiones medias-altas y asentamientos pequeños.
+    *   **Geometría:** Suelen ser cuadradas en planta para facilitar su construcción y optimizar el comportamiento estructural. Las zapatas de medianería suelen ser rectangulares con mayor dimensión paralela a la medianería, y las de esquina, cuadradas. El pilar debe apoyarse idealmente en el centro de la zapata (zapata centrada), pero pueden ser excéntricas.
+    *   **Rigidez (según EHE-08):**
+        *   **Zapatas rígidamente estructurales:** Aquellas cuyo vuelo (distancia del borde al pilar) es menor o igual a dos veces el canto de la zapata (v ≤ 2h). Trabajan predominantemente a compresión y, en teoría, podrían ejecutarse en hormigón en masa sin armadura.
+        *   **Zapatas flexiblemente estructurales:** Aquellas con un vuelo mayor a dos veces el canto (v > 2h). Trabajan a flexión y requieren armadura.
+    *   **Elementos auxiliares de rigidización:** Para controlar deformaciones, desplazamientos laterales y giros, se emplean **vigas de atado o soleras** (elementos lineales para arriostrar cimentaciones superficiales o profundas, absorbiendo tracciones, especialmente en zonas sísmicas) y **vigas centradoras** (para absorber momentos de vuelco de zapatas excéntricas, conectándolas con zapatas interiores; suelen ser de canto importante, entre 60 y 100 cm, y efectivas hasta luces de 6-8 m).
+
+2.  **Zapatas Combinadas y Corridas:** Recogen las cargas de varios pilares en una única zapata. Las **zapatas combinadas** recogen cargas de dos o más pilares próximos, mientras que las **zapatas corridas** lo hacen de tres o más pilares alineados.
+    *   **Recomendación:** Se utilizan cuando las cargas por pilar son elevadas, la capacidad portante del terreno es baja o moderada, existen varios pilares muy próximos o las zapatas aisladas se solaparían.
+    *   **Geometría:** La forma habitual en planta de las zapatas combinadas es rectangular, aunque pueden ser irregulares (trapezoidales). Las cimentaciones de muros corridos se construyen sobre una "verdugada" de mayor anchura para una mejor distribución de tensiones.
+    *   **Rigidez:** Al igual que las aisladas, su rigidez dependerá de la relación canto/vuelo.
+    *   **Control de asientos:** Son sistemas recomendables para evitar movimientos o asientos diferenciales excesivos entre pilares debido a variaciones de carga o heterogeneidades del terreno, rigidizando el conjunto de la cimentación.
+
+3.  **Pozos de Cimentación:** Una solución tradicional de bajo coste para cimentaciones "intermedias" cuando los estratos resistentes se encuentran a 4-6 m de profundidad.
+    *   **Geometría:** Presentan una forma prismática con una longitud significativamente mayor que su dimensión transversal media, y una profundidad superior a ocho veces su diámetro o ancho, comportándose como una columna que trabaja a compresión.
+    *   **Rigidez (según EHE-08):** Los pozos de cimentación de hormigón son siempre rígidos y trabajan exclusivamente a compresión, por lo que teóricamente no requerirían armadura.
+    *   **Arriostramiento:** Si la colaboración lateral del terreno no es suficiente o existen momentos horizontales apreciables, es necesario introducir vigas centradoras o de atado.
+    *   **Tipologías tradicionales y actuales:** La tipología tradicional consistía en pozos de unos 3 m de profundidad, rellenados con piedra natural y arriostrados en la parte superior con arcos de ladrillo. Los sistemas actuales, según CTE DB SE-C, incluyen:
+        *   **Con hormigón pobre:** Relleno de la excavación con hormigón pobre desde la cota de apoyo, con la zapata transmitiendo cargas a la profundidad deseada.
+        *   **Con plinto:** Se ejecuta un plinto de gran rigidez que desciende hasta el nivel de terreno competente de apoyo para evitar problemas de pandeo.
+
+4.  **Emparrillados:** Se emplean en terrenos con baja capacidad de carga, elevada deformabilidad o heterogeneidades que hacen prever asientos totales elevados. Consisten en un conjunto de zapatas corridas ortogonales que recogen todos los pilares de la estructura

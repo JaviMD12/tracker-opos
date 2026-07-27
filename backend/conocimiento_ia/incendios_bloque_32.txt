@@ -1,0 +1,36 @@
+# Técnicas de Orientación, Búsqueda y Control de Accesos en Incendios Interiores
+
+La intervención en incendios de interior exige una meticulosa planificación y ejecución de técnicas de orientación, búsqueda de víctimas y control de accesos, especialmente en condiciones de visibilidad reducida o nula. El objetivo primordial es asegurar la seguridad del personal interviniente y optimizar la localización y rescate de posibles víctimas, así como el control de la propagación del incendio.
+
+## Control de la Puerta de Acceso
+El manejo adecuado de la puerta de acceso es fundamental para minimizar la dispersión de gases y regular el flujo de aire. Esto se logra manteniendo la puerta entornada lo justo para permitir el paso de la manguera, o mediante el uso de **cortinas de bloqueo de humo**. Estas cortinas son dispositivos que impiden la dispersión de gases hacia el exterior, facilitan el tendido de la manguera y, en algunos casos, pueden eliminar la necesidad de un bombero dedicado exclusivamente al control de la puerta.
+
+No obstante, es crucial considerar la influencia del viento en las operaciones de ventilación por presión positiva (VPP). Si el viento supera los 4 m/s en dirección contraria al flujo deseado, resulta extremadamente difícil mantener un diferencial de presión eficaz y una relación r>1 (relación entre el área de salida y el área de entrada de gases), lo que compromete la efectividad de la VPP. Por ello, se recomienda evitar el uso de VPP en situaciones con vientos frontales superiores a este umbral.
+
+## Orientación y Búsqueda en Entornos sin Visibilidad
+En situaciones de baja o nula visibilidad, las operaciones de orientación y búsqueda son prioritarias para asegurar una ruta de retorno segura y localizar víctimas. Es aconsejable emplear al menos dos de las siguientes técnicas de orientación:
+
+1.  **Tendido de manguera:** Actúa como una guía física y una protección frente a la evolución del incendio. Sin embargo, su despliegue puede ser lento y estresante en espacios amplios.
+2.  **Referencia de pared:** Consiste en mantener contacto continuo con una pared, siempre con la misma mano (derecha o izquierda), lo que garantiza una ruta de retorno conocida simplemente invirtiendo el sentido. Esta técnica es útil incluso con visibilidad parcial.
+3.  **Cámara térmica:** Ofrece una visión completa del recinto y, en muchas ocasiones, una imagen clara que facilita la orientación y la búsqueda. Sin embargo, su eficacia disminuye en presencia de humo muy denso o altas temperaturas, y su autonomía está limitada por la batería, por lo que siempre debe considerarse un complemento.
+4.  **Cuerda guía:** Es especialmente útil en espacios amplios con baja temperatura y nula visibilidad, como zonas fuera del foco directo del incendio, permitiendo realizar barridos de rastreo o asegurar el camino de vuelta al punto de origen.
+
+Adicionalmente, herramientas manuales como el **Halligan** o la **multiherramienta tipo TNT** son valiosas para explorar áreas más extensas del suelo y facilitar la entrada forzada. En todo momento, la seguridad de las víctimas y del personal es la máxima prioridad, y la decisión de iniciar el ataque al fuego o la búsqueda de víctimas primero dependerá de la valoración del escenario y los recursos disponibles. La simultaneidad de ambas tareas, cuando es posible, aumenta la probabilidad de éxito.
+
+### Métodos de Rastreo y Búsqueda por el Equipo de Ataque Interior
+El equipo de ataque suele recorrer la ruta de escape de las posibles víctimas en sentido inverso. Dos métodos comunes son:
+
+1.  **Método de barrido:** Tras pasar la puerta de acceso, el equipo establece una pared de referencia (derecha o izquierda). Avanza con el tendido de manguera, manteniendo la referencia, y barre el área a su alcance. Una vez completado el perímetro, regresa a la puerta de acceso y avanza hacia la siguiente puerta, realizando barridos en la zona central.
+2.  **Método francés:** Un bombero en la punta de lanza se mantiene estático en la puerta de acceso al recinto. Simultáneamente, el bombero de apoyo toma una referencia y rastrea el perímetro hasta cruzarse con el tendido de manguera, momento en el que retorna a la posición del punta de lanza. Este proceso se repite, alternando la referencia.
+
+### Rastreo y Búsqueda por un Equipo Independiente y con VPP Defensiva
+Cuando se dispone de un equipo de búsqueda independiente del ataque al fuego, este realiza un rastreo completo del recinto utilizando la referencia de pared para el retorno. En grandes superficies (superiores a 30 m²), el uso de cuerdas guía es especialmente efectivo para cubrir la zona central.
+
+La técnica **VEIS (Vertical Exterior Ingress Search)**, popular en Norteamérica, implica el acceso a través de una ventana o apertura exterior (a menudo con vehículos de altura o escaleras). El bombero que entra debe cerrar inmediatamente la puerta del recinto para evitar la dispersión de gases. Una vez dentro, realiza el rastreo con una herramienta de mano y mantiene la referencia de la pared, saliendo por la misma ventana para evitar la exposición a los gases del resto de la estructura.
+
+La **Ventilación por Presión Positiva (VPP) defensiva** es una estrategia clave en edificios complejos, con múltiples víctimas o con personal limitado para ejecutar simultáneamente el ataque y la búsqueda. Su objetivo es "retirar el peligro" (humo y temperatura) de la zona donde se encuentran las víctimas o "extraer" a las víctimas del peligro. La secuencia de actuación incluye:
+1.  **Confinamiento** del incendio mediante el cierre de puertas o el uso de cortinas de humo.
+2.  Aplicación de **VPP** para mejorar la visibilidad en zonas comunes de tránsito, como cajas de escalera y pasillos.
+3.  Implementación de **ventilación secuencial** en todas las estancias inundadas de humo para la búsqueda de víctimas.
+
+Estas técnicas, coordinadas y adaptadas a las condiciones específicas de cada incidente, son cruciales para garantizar la seguridad de los equipos y la eficacia en la gestión de emergencias.

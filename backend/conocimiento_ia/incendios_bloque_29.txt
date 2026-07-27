@@ -1,0 +1,45 @@
+## Ventilación por Presión Positiva (VPP) y Factores Influyentes en Incendios de Interior
+
+La ventilación por presión positiva (VPP) es una técnica crucial en la intervención de incendios, especialmente en espacios confinados, que busca modificar la dinámica del fuego y mejorar las condiciones internas del recinto mediante la introducción controlada de aire. Este proceso implica la generación de un flujo de aire forzado para desplazar gases calientes y humo, optimizando la visibilidad y seguridad del personal de intervención, así como la supervivencia de las víctimas.
+
+### Tipos de Ventiladores Forzados
+
+Los equipos utilizados para la ventilación forzada se clasifican según su tipo de propulsión:
+*   **Ventiladores eléctricos:** Conectados a un generador o a la red eléctrica, son más silenciosos y no producen gases de combustión. Suelen ser aislables a nivel ATEX, permitiendo su uso como extractores. Sin embargo, su autonomía y potencia son limitadas, y su dependencia de un cableado eléctrico puede dificultar la ubicación en ciertas circunstancias. Los modelos a batería ofrecen aún menos potencia y autonomía.
+*   **Ventiladores hidráulicos por turbina:** Funcionan con agua de la bomba del vehículo de bomberos, evitando la emisión de gases de escape y cumpliendo con requisitos ATEX. Sin embargo, su despliegue demanda mayor logística y personal, así como una distancia razonable respecto a la autobomba.
+*   **Ventilación hidráulica por flujo de manguera:** Utiliza un chorro de agua en cono para generar arrastre de gases. Presenta un rendimiento reducido en comparación con otros tipos, pero puede ser una opción para la ventilación final una vez extinguido el incendio.
+*   **Ventiladores térmicos:** Accionados por motores de explosión, son autónomos y ligeros, con potencias que varían desde 3 CV para equipos portátiles hasta 150 CV para unidades móviles. Su principal desventaja es el ruido y la emisión de gases de escape, que pueden interferir con el motor si se usan como extractores. Carecen de protección ATEX.
+
+### Clasificación Táctica de la Ventilación por Presión Positiva
+
+Desde una perspectiva táctica, la VPP se divide en dos enfoques principales según el recorrido de los gases:
+
+1.  **Ventilación Defensiva:** Su objetivo es expulsar los gases de incendio acumulados en la estructura, sin que el flujo de aire atraviese el foco del incendio. Esta técnica se basa en el confinamiento del fuego, evitando así un aporte adicional de oxígeno al mismo. Permite mejorar la supervivencia de víctimas al introducir una atmósfera respirable, incrementar la visibilidad para las operaciones de búsqueda y rescate, y limpiar pasillos y escaleras, que son rutas de escape. El proceso implica el confinamiento inicial del incendio, la apertura secuencial de salidas de gases y entradas de aire fresco, el inicio de la ventilación, la valoración del funcionamiento y una progresión interior rápida para la búsqueda y rescate. Aunque la opción ideal es el confinamiento efectivo, una VPP defensiva puede iniciarse sin confinar el incendio si es necesario, si bien lo adecuado sería confinarlo lo antes posible para evitar flujos bidireccionales iniciales.
+
+2.  **Ventilación Ofensiva:** Busca establecer un flujo de gases que atraviese directamente el foco del incendio, con el fin de modificar las condiciones interiores para un avance rápido de los efectivos. Aunque esta técnica genera un crecimiento temporal en la potencia del incendio debido al aporte de oxígeno, ofrece ventajas significativas. Mejora la visibilidad y la supervivencia de las víctimas, al proporcionar un colchón de aire fresco y respirable en las zonas bajas. Además, contribuye a la reducción de la temperatura interior mediante la rápida sustitución de la atmósfera y disminuye la cantidad de combustible al arrastrar fuera los productos incompletos de combustión y pirólisis. Para su eficacia, es fundamental que la ventilación sea rápida y que exista una correcta proporción entre las aberturas de entrada y salida, preferiblemente sin efectos adversos del viento o un mal sellado. Las fases de su ejecución incluyen la apertura de salidas y entradas de gases, el inicio de la ventilación, la valoración del funcionamiento, una progresión interior rápida y el control del incendio.
+
+### Factores que Influyen en el Rendimiento de la VPP
+
+El rendimiento de un ventilador VPP y la efectividad de la técnica dependen de varios factores. La **huella del ventilador**, es decir, el campo de vectores de velocidad y dirección que crea, varía según el diseño de la hélice, el régimen de giro, la rejilla frontal, la forma de la carcasa y la presencia de deflectores. Se distinguen dos zonas principales: el dardo a alta velocidad y el bulbo de aire arrastrado.
+
+La **distancia de colocación** del ventilador respecto a la entrada es crítica. Para puertas estándar (2m x 0.9m), la distancia óptima suele oscilar entre 1.8m y 5m. Una distancia excesiva puede reducir el rendimiento, mientras que una distancia demasiado corta puede generar un "cortocircuito" donde el aire de entrada es succionado nuevamente por el ventilador, diluyendo el flujo efectivo. El **barómetro de entrada** es una técnica que permite valorar el funcionamiento de la ventilación observando el flujo de gases en la parte superior de la apertura, indicando si la salida está cerrada o si hay un flujo unidireccional establecido. Sin embargo, su uso puede reducir ligeramente la efectividad de la ventilación y favorecer la turbulencia en ambientes muy calientes.
+
+El **tamaño de la entrada de gases** también es un factor determinante. Los ventiladores comunes (18-20 pulgadas) están optimizados para puertas estándar. Si la entrada es más grande, se puede optar por un ventilador de mayor diámetro o por la combinación de varios ventiladores en paralelo para cubrir toda la apertura con pequeños solapes.
+
+### Consideraciones de Seguridad y Eficiencia en la VPP
+
+La eficiencia de la VPP puede verse comprometida por **pérdidas de flujo** y **fricción**. Las pérdidas de flujo ocurren debido a aperturas no deseadas o no sellables (persianas, rejillas, conductos de extracción, rendijas de puertas), que desvían el flujo de aire y reducen la presión. Las edificaciones con buen aislamiento térmico suelen ser más estancas. La fricción, generada por giros, estrechamientos y choques con elementos fijos a lo largo del recorrido de los gases, provoca una pérdida de energía cinética y, por ende, una reducción del caudal efectivo. Para maximizar la eficiencia, es fundamental sellar todos los huecos innecesarios y cerrar las puertas de las habitaciones contiguas. Una ventilación poco efectiva puede no lograr el barrido de gases, sino que, por el contrario, puede generar una mezcla inflamable de gases y aire.
+
+### Influencia del Viento en la VPP
+
+El viento exterior puede tener una influencia significativa en la VPP. La **presión eólica básica (Pwb)**, calculada como ρv²/2 (donde ρ es la densidad del aire y v la velocidad del viento), representa la sobrepresión generada al detenerse el viento. El viento puede crear diferenciales de presión en las fachadas de un edificio (sobrepresión a barlovento, succión a sotavento), lo que afectará el flujo de gases. Si la ventilación se realiza en contra del viento (es decir, la entrada de VPP está en la fachada de sotavento, o la salida en la fachada de barlovento), puede ser necesario vencer un diferencial de presión significativo, lo que reduce la eficacia de la VPP. Para vientos superiores a 4 m/s en contra, puede ser imposible mantener un flujo efectivo. Por ello, se recomienda elegir configuraciones que aprovechen el viento a favor o minimicen su impacto.
+
+### Uso Combinado de Ventiladores
+
+En ciertas situaciones, como huecos de entrada excesivamente grandes, significativas pérdidas de flujo o largos recorridos con alta fricción, puede ser necesario el uso combinado de ventiladores:
+
+*   **Ventiladores en paralelo:** Se utilizan para cubrir entradas de gran tamaño, separándose a una distancia óptima (aproximadamente 2m para ventiladores de 18-20 pulgadas). Esta configuración mantiene la altura manométrica y aumenta considerablemente el caudal.
+*   **Ventiladores en serie:** Un primer ventilador se coloca en la entrada y un segundo, más adelante, para impulsar el flujo. Esta disposición puede aumentar el caudal efectivo entre un 5% y un 10%, y es particularmente útil en edificios multivivienda para mejorar la visibilidad y reducir la temperatura en la progresión. Sin embargo, su efectividad depende del diseño de la hélice, que debe ser capaz de acelerar aire ya en movimiento.
+*   **Ventiladores en V:** Dos ventiladores se dirigen al centro de la apertura, logrando un aumento del caudal efectivo de hasta un 35% en comparación con un solo ventilador. La distancia entre ellos debe ser igual al tamaño óptimo de la apertura.
+
+En resumen, una comprensión profunda de los principios de la VPP y de los factores ambientales y estructurales es esencial para su aplicación efectiva y segura en la lucha contra incendios.

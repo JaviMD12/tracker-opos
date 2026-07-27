@@ -1,0 +1,46 @@
+# Tácticas de Intervención y Valoración en Incendios Industriales y de Vegetación
+
+La intervención en incendios, especialmente en entornos complejos como naves industriales o túneles, requiere un conocimiento profundo de las tácticas y una valoración continua de la situación para garantizar la máxima eficacia y seguridad. Los métodos de actuación varían significativamente según las características del incendio, el entorno y los recursos disponibles.
+
+## Tácticas Específicas de Ventilación en Incendios Industriales
+
+En el ámbito de los incendios industriales, se emplean tácticas de ventilación con presión positiva (VPP) para gestionar la propagación y facilitar la progresión del personal de bomberos.
+
+### Ataque en Presión Positiva contra la Propagación
+
+Esta táctica busca, principalmente, prevenir la propagación de un incendio a naves o edificios adyacentes, resultando particularmente útil cuando los recursos humanos son limitados. No obstante, su aplicación presenta ciertas limitaciones: requiere un caudal de aire muy elevado por parte del ventilador y puede ver su eficacia reducida en naves industriales con un sellado deficiente. Además, es crucial evitar su uso en dirección contraria a la ventilación natural existente. Como estrategia complementaria, los huecos de escaleras presurizados en edificios colindantes pueden servir como puntos de autoprotección.
+
+### Ataque en Presión Positiva para la Progresión
+
+El objetivo fundamental de esta técnica es despejar de humo pasillos, escaleras y otras vías de acceso para permitir una progresión segura hacia el foco del incendio. Para su aplicación efectiva, es imprescindible que exista una clara distinción entre la entrada de aire fresco y la salida de gases, y que el incendio se encuentre confinado y aislado. Un riesgo significativo asociado a esta táctica es la posibilidad de generar un *backdraft*, una deflagración resultante del aporte repentino de oxígeno a un entorno infraventilado con una alta concentración de gases combustibles. Por ello, se debe monitorear cuidadosamente el flujo de gases para asegurar que mantenga un patrón unidireccional y evitar el desplazamiento de humos a zonas no controladas.
+
+## Caso Práctico: Incendio en Nave Industrial con Estructuras Anexas
+
+Consideremos el escenario de un incendio en una nave de logística con estructura de acero y grandes luces, la cual colapsa parcialmente antes de la llegada de los equipos. Esta nave está rodeada por una de madera, una cerrajería con alta carga de combustible y oficinas. Al no haber víctimas confirmadas, el Mando de Intervención opta por una estrategia diferenciada por zonas:
+
+1.  **Nave de logística (afectada):** Se decide no entrar debido al colapso estructural. La extinción se realiza desde el exterior, priorizando el control de la propagación a las zonas adyacentes.
+2.  **Nave de madera adyacente:** Se implementa el *ataque en presión positiva contra la propagación*. Esto implica presurizar la nave utilizando un ventilador a favor del viento dominante, ya que esta zona aún no ha sido afectada por el humo. Paralelamente, el personal de la empresa retira los combustibles almacenados en las proximidades, y se utiliza un vehículo de altura para refrescar la zona.
+3.  **Cerrajería:** Se opta por un *ataque exterior contra la propagación*. Las paredes colindantes se humedecen y refrigeran, y se retiran materiales combustibles peligrosos. Dada la menor dimensión de esta zona, su control por un binomio resulta más sencillo.
+4.  **Oficinas colindantes (en altura):** Se aplica un *ataque directo desde el exterior*, empleando las Bocas de Incendio Equipadas (BIEs) propias de las oficinas. Esta acción desde una posición elevada contribuye tanto a la protección de las oficinas como al apoyo en la extinción de la nave principal.
+
+## Conceptos Clave en Incendios Industriales y Forestales
+
+### Definiciones Fundamentales
+
+Un **almacenamiento industrial** se define como cualquier recinto, cubierto o no, destinado de forma fija o temporal a albergar productos. La **seguridad contra incendios** en estos establecimientos se caracteriza por su configuración, ubicación y el nivel de riesgo intrínseco.
+
+Los principales fines de la protección contra incendios incluyen salvar vidas humanas, minimizar las pérdidas económicas y permitir la reanudación de las actividades del edificio en el menor tiempo posible.
+
+### Clasificación y Valoración de Incendios
+
+Los incendios industriales se clasifican atendiendo al tipo de material o entorno, distinguiéndose entre fuegos de maquinaria (eléctricos y aceites), almacenamientos de sólidos, líquidos o materiales pulverulentos. Para la **valoración genérica del desarrollo del incendio**, se deben considerar las características de la construcción, el entorno, y el tipo y cantidad de combustible implicado.
+
+### Técnicas de Extinción y Control de Propagación
+
+Las técnicas para proteger contra la propagación del incendio incluyen la presurización de espacios y la refrigeración de superficies. Respecto al ataque directo del fuego, se pueden diferenciar dos enfoques principales: el **ataque directo**, que consiste en la aplicación de un chorro pleno de agua a la base del fuego, y el **ataque indirecto**, que busca la extinción por saturación en vapor en espacios confinados.
+
+En cuanto a la ventilación en incendios industriales, se distinguen la ventilación horizontal natural, la ventilación vertical natural y la ventilación por presión positiva (VPP). Cada una de estas técnicas se aplica según las características y necesidades del siniestro.
+
+### Acciones Prioritarias y Gestión del Mando
+
+En cualquier intervención, las **acciones prioritarias** abarcan la evacuación de ocupantes, la búsqueda y el rastreo de víctimas, la gestión de riesgos inminentes y el control de la propagación. El mando de intervención establecerá un orden de importancia para la asignación de recursos, priorizando el **rescate**, seguido del control de la **propagación** y, finalmente, la **extinción**.

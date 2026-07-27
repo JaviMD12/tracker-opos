@@ -1,0 +1,119 @@
+## Gestión Operativa y Control en Servicios de Emergencias
+
+La gestión operativa de los servicios de emergencias, especialmente en el ámbito de los bomberos, es un proceso complejo y dinámico que busca establecer orden y eficacia en situaciones inherentemente caóticas. Tradicionalmente, la respuesta a los siniestros se caracterizaba por acciones rápidas y ofensivas, a menudo con una estructura limitada, lo que generaba dificultades en incidentes de gran envergadura o con múltiples recursos implicados.
+
+### El Sistema de Mando y Control
+
+Para superar estas deficiencias, se ha consolidado el uso de sistemas de mando y control estructurados, como el establecido por la norma UNE-ISO 22320. Este estándar define un sistema que soporta la gestión eficaz de todos los recursos disponibles en las fases de preparación y respuesta a un incidente, así como en el proceso de continuidad y recuperación. Un sistema eficaz de mando y control se caracteriza por ser escalable, adaptable a diferentes tipos de incidentes, capaz de integrar diversas organizaciones y flexible ante la evolución de la emergencia. Sus componentes esenciales incluyen una estructura clara, un proceso definido y los recursos necesarios para implementarlos.
+
+El origen de estos sistemas se encuentra en el planeamiento de operaciones militares, que se estructuran en niveles político, estratégico, operacional y táctico, con el objetivo de lograr una coherencia total en las operaciones y el cumplimiento de una misión asignada. La adaptación de estos métodos al ámbito de las emergencias ha dado lugar a los sistemas de gestión de emergencias, que buscan un enfoque global para prevenir y gestionar eficazmente los incidentes.
+
+#### Niveles de la Estructura de Mando y Control
+
+La estructura del mando y control se articula en tres niveles fundamentales de respuesta, que pueden ser gestionados por el mismo mando o por diferentes figuras según la complejidad del incidente:
+
+1.  **Nivel Estratégico:** Define los objetivos generales de la misión. Por ejemplo, en un incendio de vivienda unifamiliar, el objetivo estratégico podría ser asegurar una zona segura para el acceso de los bomberos y realizar el rescate.
+2.  **Nivel Táctico:** Determina cómo se ejecutarán los objetivos estratégicos. Continuando con el ejemplo anterior, una decisión táctica sería utilizar ventilación a presión positiva para el rescate.
+3.  **Nivel Operativo o Operacional:** Especifica las tareas concretas a realizar y quién las llevará a cabo. En el incendio de vivienda, las tareas operativas podrían ser cerrar las estancias A y B, abrir las salidas C y D, y ventilar, asignando a un equipo de intervención la entrada por el acceso E.
+
+Un accidente de tráfico leve, por ejemplo, podría ser gestionado en sus tres niveles por un único mando con una dotación básica. Sin embargo, un incendio forestal o industrial de gran magnitud podría requerir un mando que asuma los niveles estratégico y táctico, y un segundo mando operativo a pie de siniestro.
+
+#### El Proceso de Mando y Control
+
+El proceso de mando y control es una secuencia de actividades aplicable a todos los niveles de la estructura:
+
+*   **Observación, recopilación, proceso y distribución de información:** Recopilar datos relevantes sobre el incidente.
+*   **Evaluación de la situación:** Analizar la información, incluyendo el pronóstico de la evolución del siniestro.
+*   **Planificación:** Desarrollar el plan de acción basado en los objetivos y la evaluación.
+*   **Organización:** Tomar decisiones y comunicarlas de forma efectiva.
+*   **Dirección:** Implementar las decisiones tomadas.
+*   **Control:** Recoger información sobre los resultados de las acciones y las medidas adoptadas, permitiendo ajustes y mejora continua.
+
+Para la correcta implantación de este proceso, son necesarios recursos tanto personales como materiales. Las **dotaciones operativas** deben comprender su rol en la estructura y poseer las competencias adecuadas, obtenidas mediante formación y maniobras. Además, es crucial contar con **centros de recepción de medios, zonas de descanso y puestos de mando** adecuadamente ubicados e instalados para facilitar la toma de decisiones y el uso eficiente de los equipos.
+
+### Fases de la Intervención
+
+La intervención de los servicios de emergencias se desarrolla a través de una serie de fases interconectadas: prevención, preparación, respuesta y recuperación, que abarcan todo el ciclo de sucesos desestabilizantes.
+
+#### 1. Acciones Previas al Siniestro
+
+Esta fase, si bien no forma parte de la emergencia en sí, es fundamental para la respuesta. Implica la recopilación de información y su transformación en inteligencia operativa y operacional, a menudo volcada en un Sistema de Información Geográfica (SIG). Los elementos clave incluyen:
+
+*   **Rutas de prevención:** Reconocimiento de zonas, locales, industrias y edificios de interés.
+*   **Fichas de prevención operativa:** Documentación relevante para una consulta rápida durante la intervención.
+*   **Datos operativos relevantes:** Ubicación de hidrantes, puntos de agua, estrechamientos, túneles, aerogeneradores, accesos a vías férreas.
+*   **Formación del personal:** Capacitación continua.
+*   **Preparación y revisión:** Mantenimiento de camiones y equipos operativos.
+*   **Estudio de intervenciones anteriores:** Análisis para extraer lecciones aprendidas y aplicar modificaciones a la documentación y procedimientos.
+*   **Investigación y desarrollo:** Implementación de nuevas técnicas y procedimientos.
+
+#### 2. Recepción de la Llamada
+
+La activación del sistema operativo ocurre con la recepción de una llamada de emergencia, generalmente al 112. El mando de mayor graduación en el parque es el responsable de recibir estas llamadas. Durante este proceso, se busca confirmar la información inicial reportada por el alertante (tipo de siniestro, ubicación, víctimas, medios adicionales) para iniciar la respuesta. Una ficha de recepción de datos ayuda a registrar la información de forma precisa y completa.
+
+#### 3. Tren de Ataque o Salida
+
+La movilización de medios, conocida como tren de ataque o salida, implica la asignación de vehículos y la distribución del personal según el tipo de siniestro. El mando, basándose en la información disponible, ordena el tren de salida correspondiente. Aunque predeterminado por el tipo de incidente, la elección puede variar según el parque, los vehículos disponibles y la necesidad de apoyos. Los protocolos estandarizados son cruciales para reducir el tiempo de toma de decisiones, simplificar la movilización y asegurar que el personal prepare el equipo automáticamente. En siniestros grandes, la flexibilidad del mando para modificar o adaptar estos protocolos es vital.
+
+Además de los recursos internos, es frecuente movilizar medios externos. El mando de bomberos debe anticipar y prever situaciones asociadas al siniestro principal, como la necesidad de cortar vías, realizar evacuaciones, gestionar asistencia sanitaria o solicitar asistencia técnica especializada (helicópteros de rescate, equipos para mercancías peligrosas, maquinaria pesada). Todas estas movilizaciones deben comunicarse a los centros de coordinación (112) y a la Jefatura Superior para su conocimiento.
+
+#### 4. Acercamiento y Preparación del Siniestro
+
+Durante el trayecto hacia el incidente, el mando recibe actualizaciones del 112 u otros servicios activados. Es fundamental confirmar los datos iniciales y, si es necesario, contactar directamente al alertante para obtener información de primera mano. Esta fase también permite dar pautas operativas preliminares a los primeros intervinientes en la escena. La consulta de Fichas de Prevención Operativa (FPO) y sistemas SIG con información georreferenciada (hidrantes, puntos de acceso, etc.) es esencial para preparar la intervención. Si la información confirmada requiere nuevos medios, se solicita su activación, interna o externa, o se escala la situación a entidades superiores.
+
+#### 5. Llegada al Siniestro y Posicionamiento de Vehículos
+
+Al llegar al lugar del siniestro, el mando comunica su presencia al 112 y al jefe de guardia, proporcionando datos relevantes. Es crucial observar las condiciones del entorno y otros medios actuantes para determinar la mejor ubicación de los vehículos. Se deben extremar las precauciones en situaciones de riesgo NRBQ, accidentes de tráfico con movimientos extraños o grandes aglomeraciones. Los vehículos deben ubicarse en un lugar seguro que domine la zona afectada, no se vea afectado por el siniestro, facilite la accesibilidad de otros vehículos (priorizando rescate y traslado de víctimas), sirva de autoprotección y no requiera recolocaciones futuras.
+
+#### 6. Plan de Acción
+
+El plan de acción es específico para cada siniestro, elaborándose tras valorar las características de la intervención y las prioridades. Esta fase, fundamental para el éxito de la respuesta operativa, incluye subfases como la valoración detallada del siniestro, la elaboración del plan, su comunicación y el control y seguimiento. Estas subfases se solapan y requieren revisión continua.
+
+El análisis del planteamiento situacional implica responder a preguntas clave: "¿Qué está pasando?", "¿Dónde?", "¿A quién afecta?", "¿Cómo evoluciona?" y "¿Cuál es el riesgo?". Herramientas como el procedimiento REDOC (Reconocimiento, Evaluación, Decisiones, Órdenes, Control) facilitan la estructuración de la respuesta. La comunicación del plan de acción debe ser clara, concisa, concreta, legítima y adecuada al sistema de comunicación, con confirmación de recepción (acknowledgment o "ack").
+
+##### Zonificación de la Escena
+
+Una parte fundamental del plan de acción es la zonificación de la escena en tres áreas:
+
+*   **Zona Caliente:** Donde se realizan las operaciones más arriesgadas. El acceso está restringido a personal de intervención con estricto control, y se busca minimizar el tiempo de exposición y garantizar la seguridad.
+*   **Zona Templada:** Área de apoyo para el personal no actuante en la zona caliente. Aquí se ubica el Puesto de Mando Avanzado (PMA) y los equipos SOS. El nivel de protección personal es ligeramente inferior al de la zona caliente.
+*   **Zona Fría:** Con un riesgo mínimo, destinada a la población evacuada, medios de comunicación y otras autoridades, así como a la recepción de nuevos medios y al hospital de campaña. Se busca una segunda frontera de seguridad para separar esta zona de la templada.
+
+La delimitación de estas zonas varía según el riesgo y el alcance del siniestro.
+
+#### 7. Ejecución, Seguimiento y Control del Plan de Acción
+
+Durante la ejecución, se enfatizan las medidas de seguridad. El mando debe detallar las acciones a nivel operativo. Las acciones pueden enfocarse en:
+
+*   **Víctimas y población:** Salvamento/rescate (rápido o diferido), evacuación, protección de la población y recuperación de cadáveres (bajo autoridad judicial).
+*   **Siniestro:** Control de riesgos derivados (zonificación, corte de suministros), control de la evolución (propagación, perímetro) y mitigación de causas (enfriamiento, taponamiento de fugas).
+
+La ejecución del plan se realiza con equipos organizados en binomios, como el equipo de intervención (Cabo y Bombero 1) y el equipo de apoyo (Bombero Conductor y Bombero 2 o equipo SOS).
+
+##### Trabajos Post-Intervención
+
+Tras controlar el siniestro, se procede a los trabajos de remate y restablecimiento de la normalidad, lo que implica eliminar las causas del siniestro y devolver la situación al estado previo. Esto puede incluir retenes preventivos para vigilancia y remate. El siniestro se da por terminado cuando todos los riesgos han sido mitigados.
+
+#### 8. Regreso al Parque y Elaboración del Parte de Intervención
+
+El regreso al parque debe ser rápido y seguro, respetando las normas de circulación. Se prioriza el repostaje de combustible y agua. A la llegada, el mando comunica el retorno al 112 y al Jefe de Guardia, restablece los niveles de equipo, limpia el material y comunica cualquier extravío o baja. Es fundamental realizar un ejercicio de juicio crítico post-intervención (debriefing) para analizar la eficacia de la actuación, identificar errores y extraer lecciones aprendidas para futuras mejoras.
+
+### Sistema de Mando en Incidentes (ICS)
+
+El Sistema de Mando en Incidentes (ICS) surgió en EE. UU. en los años 70 para gestionar grandes incendios forestales, buscando resolver problemas de terminología no unificada, falta de sistemas organizativos escalables, comunicaciones independientes y carencia de planes de acción consolidados. El ICS se ha establecido como un estándar para la gestión de emergencias debido a sus fortalezas: ofrece una organización única e integrada, un puesto de mando unificado, un plan de acción coordinado y un sistema único de movilización de recursos.
+
+#### Estructura del ICS
+
+El ICS se estructura en seis funciones principales:
+
+1.  **Dirección (Comandante del Incidente):** Responsable de la gestión global, establece objetivos, determina prioridades, organiza el puesto de mando, supervisa la planificación, garantiza la seguridad, coordina la actividad, aprueba solicitudes de recursos, mantiene informados a superiores, autoriza comunicación con la prensa y ordena desmovilizaciones.
+2.  **Staff de Mando:** Apoya al Comandante del Incidente y a la organización en general:
+    *   **Oficial de Información:** Centraliza y difunde información a la población y medios.
+    *   **Oficial de Seguridad:** Evalúa riesgos y decide medidas de protección.
+    *   **Oficial de Enlace:** Coordina la intervención de representantes de otros actores implicados.
+3.  **Sección de Operaciones:** Dirige las acciones tácticas para cumplir los objetivos, organizándose por divisiones geográficas, grupos funcionales o combinaciones, permitiendo versatilidad.
+4.  **Sección de Planificación:** Recoge, evalúa y distribuye información, elabora planes de acción y desmovilización, prepara informes y apoya a especialistas técnicos.
+5.  **Sección de Logística:** Suministra servicios y apoyo necesarios, incluyendo comunicaciones, atención médica, alimentos, suministros, instalaciones, transporte, mantenimiento de equipos y combustible.
+6.  **Sección Económica y de Administración:** Registra gastos, informes de personal y equipamiento, y administra contratos.
+
+Una fortaleza clave del ICS es su modularidad, permitiendo activar solo los elementos necesarios para cada intervención, sin necesidad de desplegar la totalidad de sus funciones si la emergencia no lo requiere. Si bien en España se han adaptado estos modelos para una respuesta conjunta por áreas funcionales y se han articulado estructuras básicas conforme a normativas estatales, aún persisten desafíos en la interoperabilidad de comunicaciones entre

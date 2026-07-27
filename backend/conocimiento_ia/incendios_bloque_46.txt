@@ -1,0 +1,66 @@
+# Valoración y Tácticas de Intervención en Incendios en Túneles
+
+La intervención en incendios que se desarrollan en túneles presenta una complejidad considerable, caracterizada por un escenario dinámico y una interacción de múltiples variables que modifican continuamente tanto la evolución del fuego como su resolución. El confinamiento inherente a estas estructuras acelera el recalentamiento de la infraestructura y las instalaciones, lo que a su vez intensifica la pirólisis y el crecimiento del incendio. Por consiguiente, una **intervención rápida** es crucial, idealmente dentro de los primeros diez minutos tras la alarma, para minimizar los daños y reducir el número de víctimas.
+
+## Fases de Valoración del Incendio
+
+La valoración de un incendio en un túnel se concibe como un proceso integral y continuo, abarcando diferentes momentos de la intervención. Esta se divide en una **valoración preliminar** (antes de la intervención) y una **evaloración en el lugar del siniestro** (continua).
+
+### Valoración Preliminar
+
+Antes de la llegada al lugar del incidente, el mando de intervención debe recabar información esencial. Esto incluye la **localización exacta** del siniestro, el **acceso más próximo**, el **tipo de túnel** (si es ferroviario o de carretera, y si consta de uno o dos tubos), y las **características específicas del incidente**, como la presencia de vehículos involucrados, personas heridas o problemas con las instalaciones. Un aspecto crítico es la posible existencia de **Mercancías Peligrosas y Perecederas (MMPP)**. Además, es fundamental definir un **itinerario** principal y alternativo para el acceso, considerando un posible colapso del tráfico, y determinar si el acceso será **aguas arriba** o **aguas abajo** del flujo de gases del incendio, lo cual influirá en la estrategia de control. La confirmación de estos datos con el alertante o el centro de control del túnel, junto con el conocimiento de las acciones ejecutadas por este (ventilación, control de accesos, evacuaciones) y la coordinación con otros equipos de emergencia (sanitarios, fuerzas de seguridad), es primordial.
+
+### Valoración en el Lugar del Siniestro
+
+Una vez en el escenario, la valoración se vuelve dinámica y debe abarcar todo el entorno del incendio. Los bomberos deben identificar el **acceso óptimo**, que generalmente será el más cercano al foco y, preferiblemente, aguas arriba. Asimismo, es vital determinar la **ubicación de los vehículos** involucrados y de emergencia, el **estado general de la evacuación** y la posible presencia de **víctimas atrapadas**, especialmente en la zona de aguas abajo.
+
+Posteriormente, se realiza una **valoración inicial** detallada, que no busca necesariamente llegar al foco del incendio, sino recabar información básica del interior de la edificación: su grado de compartimentación, la carga de combustible y otros indicadores relevantes. Esta valoración tiene dos objetivos principales: primero, **identificar acciones prioritarias** relacionadas con el control de ocupantes (confinamiento, evacuación), el corte de servicios (gas, luz) y la estabilidad estructural; y segundo, **establecer un plan de acción** que contemple la sectorización del incidente, el planteamiento táctico y el reparto de funciones.
+
+La **valoración continua** ajusta el plan de acción en tiempo real, evaluando la eficacia de las acciones emprendidas y el estado de los recursos. Finalmente, la **valoración final**, realizada al concluir la intervención, certifica la ausencia de puntos calientes, la estabilidad estructural y el restablecimiento de servicios, documentándose por escrito.
+
+## Factores Clave en la Lectura del Incendio en Túneles
+
+La lectura del incendio en túneles se basa en el análisis de diversos parámetros e indicadores, aunque siempre estará sujeta a cierta incertidumbre.
+
+### Características del Túnel
+El plan de intervención está directamente influenciado por el **tipo de túnel** (monotubo o bitubo, urbano o interurbano, con o sin accesos de evacuación) y sus **dimensiones** (longitud, altura, anchura). Los sistemas de seguridad, como la sala de control, facilitan la gestión de la ventilación y la activación de sistemas de extinción. Las **limitaciones en la comunicación por radio** son significativas, con alcances de 200-300 metros para 80 Mhz y hasta 800 metros para 400 Mhz, lo que subraya la importancia de repetidores móviles, telefonía IP o cable radiante.
+
+### Amenazas del Entorno
+Las amenazas externas, como la **proximidad a viviendas** en túneles urbanos o la **propagación a áreas forestales** en túneles de alta montaña, son cruciales para la planificación táctica.
+
+### Equipamiento y Pavimento
+Es fundamental asegurar el buen estado y el cumplimiento estricto de las medidas de autoprotección. Las **características del pavimento** pueden ser un factor de riesgo si contribuyen al incendio, como ocurrió en el incendio del túnel del Mont Blanc en 1999.
+
+### Características del Tráfico
+Un **volumen de tráfico** reducido facilita el control de la situación y el acercamiento de los equipos de rescate, minimizando el número de afectados. En contraste, una **alta densidad de tráfico** genera problemas adicionales y retrasa la intervención.
+
+### El Humo
+El **humo** proporciona información vital sobre el incendio. Su **color** indica la naturaleza y tipo de combustible, así como el nivel de pirólisis: los humos negros sugieren combustión incompleta con carbonilla y productos parcialmente quemados, mientras que los humos claros son propios de combustiones completas o etapas iniciales. Los humos amarillentos/ocres indican alto contenido de gases de pirólisis y riesgo de backdraft. El humo blanquecino suele deberse al vapor de agua. La **opacidad** se relaciona con la cantidad de carbonilla, siendo los humos opacos y oscuros indicativos de una alta fracción de combustible inflamable. La **densidad** del humo varía inversamente con la temperatura; el humo frío es denso y flota con dificultad, mientras que el caliente es menos denso y asciende con facilidad. El **espesor del colchón de humo** en desarrollo se incrementa si no hay ventilación suficiente, influyendo en la visibilidad y las tácticas. Finalmente, el **volumen de humo** visible desde el exterior da una idea del estado de desarrollo y alcance del incendio, si bien la ausencia de humo no descarta un incendio infraventilado.
+
+### Las Llamas
+El **color de las llamas** indica su nivel energético: azul para combustiones estequiométricas y de alta energía, amarillentas para combustiones cercanas a los límites de inflamabilidad. La **duración** de las llamas puede indicar la disponibilidad de combustible, temperatura de ignición y oxígeno. Las llamas sostenidas confirman un aporte suficiente de combustible y aire. La **exposición** a las llamas es una fuente importante de radiación, que contribuye a la propagación del incendio.
+
+### El Calor
+El **calor** representa un riesgo físico significativo, causando lesiones o la muerte si la energía calorífica supera la capacidad de defensa del cuerpo humano, intensificado por la humedad. La transmisión de calor se produce por **radiación** (del foco y del colchón de gases), **conducción** (contacto con EPI) y **convección** (flujos calientes). Un exceso de calor en los pulmones puede provocar colapso circulatorio. La temperatura máxima tolerable para el aire respirado es de 140°C por un breve periodo, requiriendo equipos de protección. Las **cámaras térmicas** son herramientas útiles para determinar la temperatura y su distribución.
+
+### Flujo de Gases
+El **flujo de gases** en un túnel abarca la alimentación de aire y los productos de combustión. Se pueden identificar una **ruta fría** (aire fresco que entra) y una **ruta caliente** (gases calientes que buscan la salida). Los flujos de entrada, con aire limpio y diferencial de presión negativo, garantizan buena visibilidad, mientras que los flujos de salida, con gases tóxicos y altas temperaturas, desaconsejan el acceso. Los **flujos bidireccionales** se dan en aperturas donde coexisten entrada y salida.
+
+## Casos Prácticos: Intervención en Túneles
+
+### Incendio en un Túnel con Dos Tubos Comunicados
+Ante un incendio en un túnel de dos tubos, la intervención sigue fases específicas:
+1.  **Detención del tráfico** en ambos tubos.
+2.  **Entrada de vehículos de extinción** por el tubo no afectado.
+3.  **Sofocación del foco** (zona aguas abajo) y **evacuación** de la zona libre de humo (aguas arriba).
+4.  **Despliegue de equipos de refuerzo** para control del fuego o rescate.
+
+Si el incendio ocurre en una zona urbana y el humo dificulta la salida de vehículos aguas abajo, se puede emplear **ventilación por presión positiva (VPP)** de manera complementaria para expulsar el humo y asistir a los atrapados, una vez extinguido el fuego. En caso de que el fuego no pueda ser sofocado, la **dirección del flujo de aire** debe ser invertida para ventilar la zona aguas abajo y mejorar la visibilidad para el rescate.
+
+### Incendio en un Túnel de un Solo Tubo con Circulación Bidireccional
+En un túnel de un solo tubo con circulación bidireccional, el procedimiento de intervención es el siguiente:
+1.  **Evaluación de la situación** y confirmación de una dirección favorable del flujo de aire.
+2.  **Ataque al incendio** por parte del equipo de intervención. Si no es posible, se debe asegurar espacio para la evacuación.
+3.  **Evacuación de ocupantes** en la zona libre de humo (aguas arriba). Simultáneamente, se habilita el acceso/boca del túnel aguas abajo para rescate de atrapados.
+4.  Una vez finalizado el rescate y la evacuación, y extinguido el fuego, se emplea **ventilación por presión positiva (VPP)** para expulsar el humo.
+5.  Si la sofocación del fuego es imposible, se **invierte la dirección del flujo de aire** para eliminar el humo de la zona aguas abajo, mejorando la visibilidad para el rescate de personas.

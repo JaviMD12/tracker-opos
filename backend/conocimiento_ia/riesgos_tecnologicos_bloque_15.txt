@@ -1,0 +1,103 @@
+## Elementos Estructurales Verticales y Horizontales en Edificación
+
+La edificación se compone de diversos elementos estructurales y complementarios, diseñados para soportar y transmitir cargas de manera segura y eficiente a la cimentación. El conocimiento de estos elementos es fundamental para el personal de emergencias, especialmente los bomberos, ya que interactúan con ellos en múltiples escenarios.
+
+### Definición y Propiedades de los Elementos Estructurales
+
+Los **elementos estructurales** son aquellos componentes de una edificación cuya función principal es recibir y transmitir las cargas a la cimentación y al terreno, asegurando la estabilidad y resistencia del conjunto sin deformaciones excesivas. Esta capacidad, conocida como **capacidad portante**, debe garantizar la estabilidad y resistencia durante un periodo de servicio, establecido por defecto en 50 años según el Código Técnico de la Edificación (CTE DB SE). Adicionalmente, deben asegurar la **aptitud de servicio**, limitando deformaciones y anomalías inadmisibles según el uso del edificio. La normativa aplicable a estos sistemas estructurales es amplia, destacando la Instrucción de Hormigón Estructural (EHE) y la Norma de Construcción Sismorresistente (NCSE).
+
+Los factores clave que inciden en el comportamiento estructural son la **geometría**, la **rigidez** y los **materiales** empleados. La geometría, por ejemplo, determina la magnitud y dirección de los esfuerzos y tensiones soportados. Por su parte, la **rigidez** se define como la capacidad de un elemento para soportar esfuerzos sin deformarse ni desplazarse excesivamente, estando influenciada por los **grados de libertad** (movimientos posibles de un cuerpo) y las **coacciones** (limitaciones a esos movimientos).
+
+En este sentido, la estabilidad de una estructura se clasifica en tres tipos:
+*   Una estructura es **hiperestática** (GL < C) si tiene más coacciones de las necesarias para estar en equilibrio, lo que le confiere redundancia y mayor seguridad frente a fallos parciales.
+*   Una estructura es **isostática** (GL = C) si tiene el número exacto de coacciones para mantener el equilibrio, siendo más sensible a fallos.
+*   Una estructura es **hipostática** (GL > C) o **mecanismo** si es inestable y se desplaza ante la acción de una fuerza.
+
+Para comprender la rigidez, es útil analizar los **nudos**, que son las conexiones entre elementos portantes. Estos nudos pueden ser:
+*   **Apoyos**: Limitan movimientos verticales, pero permiten horizontales y giros (1 coacción, 2 grados de libertad).
+*   **Articulaciones**: Limitan movimientos verticales y horizontales, permitiendo giros (2 coacciones, 1 grado de libertad).
+*   **Empotramientos**: Limitan todo tipo de movimientos (3 coacciones, 0 grados de libertad).
+
+### Elementos Estructurales Verticales
+
+Estos elementos reciben y transmiten principalmente las cargas verticales de la edificación, además de servir de arriostramiento (elementos que evitan el desplazamiento).
+
+#### I. Muros de Carga
+
+Los **muros de carga** son elementos estructurales verticales que recogen los esfuerzos de cubiertas y forjados, transmitiéndolos a los cimientos, y trabajan principalmente a compresión. Se localizan generalmente en las fachadas principales y traseras de sistemas adintelados, cumpliendo también una función secundaria de cerramiento.
+
+La geometría de un muro de carga se caracteriza por su sección recta y alargada, con una gran longitud y altura frente a su espesor. Se distinguen en él varias partes: la **coronación** (parte superior que reparte cargas), el **paramento o haz** (cuerpo del muro que soporta esfuerzos), el **intradós** (superficie exterior del alzado), el **trasdós/extradós** (superficie interior en contacto con el terreno) y la **base o zócalo** (parte esencial, más resistente, que soporta los mayores esfuerzos). La distancia libre entre dos muros de carga paralelos se denomina **crujía**.
+
+La **rigidez** de los muros de carga es crucial, y frente a esfuerzos horizontales o excentricidades, se refuerzan con **muros de atado** perpendiculares, los cuales, al no ser portantes, suelen tener una sección menor.
+
+Las tipologías de muros de carga, según su procedimiento constructivo, incluyen:
+*   **Muros conformados**: Aquellos que utilizan materiales que endurecen in situ, como los muros de tapial o los muros de hormigón armado. Los muros de hormigón armado son elementos de hormigón reforzado en toda su superficie, con especial refuerzo en huecos. Su geometría varía según el espesor: los muros delgados (e < 15 cm) suelen tener nervios verticales de refuerzo, mientras que los gruesos (e > 15 cm) presentan armadura en ambas caras y un espesor constante. La rigidez de estos muros depende de su anclaje y de los refuerzos adicionales.
+*   **Muros de fábrica**: Se construyen con pequeños elementos prefabricados (como ladrillos o piedras) unidos con mortero, siguiendo un "aparejo" que asegura su estabilidad y resistencia. Son la categoría más relevante de muros de carga. Su rigidez se garantiza con una correcta trabazón de piezas, hiladas y aparejos, así como con armaduras auxiliares.
+    *   Existen diversas modalidades de muros de fábrica, incluyendo el **muro de una hoja** (sin cámara ni junta continua), el **muro doblado** (dos hojas paralelas con conectores para transmitir esfuerzos cortantes), el **muro capuchino** (similar al doblado, con hojas de espesor > 9 cm y cámara de aire > 11 cm, a veces rellena de aislante), el **muro careado** (piezas vistas en el exterior y relleno en el interior), el **muro de tendel hueco** (piezas apoyadas en los bordes con juntas de mortero huecas) y el **muro relleno** (dos hojas paralelas separadas por al menos 50 mm, con la cavidad rellena de hormigón). También se distingue el **muro de revestimiento** (con función no estructural) y el **muro sin carga** (no portante).
+*   **Muros entramados de madera/mixtos**: Utilizados frecuentemente en la arquitectura popular, consisten en una estructura de madera o metal reforzada con paneles de relleno (cascotes, yeso, ladrillo con mortero de cal). La geometría de estos muros presenta secciones de madera más pequeñas que los pilares aislados, manteniendo su solidez mediante el relleno. Los elementos internos de estos muros pueden ser **piezas verticales** (pies derechos, cornijales, largueros, virotillos, muchachos) que trabajan a compresión y **piezas horizontales** (carreras, sobrecarreras, cabeceros/dinteles, puentes) que trabajan a flexión. Además, incorporan **piezas inclinadas de arriostramiento** como tornapuntas, jabalcones y cruces de San Andrés, que trabajan a tracción o compresión axial para estabilizar el conjunto.
+
+#### II. Pilares o Soportes
+
+Los **pilares o soportes** son elementos verticales que recogen las cargas horizontales de las vigas o forjados y las transmiten a las cimentaciones. Se les denomina de distinta forma según el material: **columna** (piedra), **pie derecho** (madera), **soporte** (acero), **pilar** (hormigón) o **mocheta** (fábrica de ladrillo).
+
+Su geometría se divide teóricamente en tres partes: la **basa o apoyo** (elemento que transmite esfuerzos a la cimentación), el **fuste** (cuerpo del pilar) y el **capitel** (parte superior que recibe esfuerzos de elementos horizontales). Trabajan fundamentalmente a compresión, y su longitud máxima está limitada por su esbeltez o riesgo de pandeo.
+
+En cuanto a su **rigidez**, se diferencian principalmente dos casos:
+*   **Soportes de acero**: Dada la menor resistencia de las cimentaciones de hormigón, se utilizan placas de base y cartelas de rigidez para distribuir las cargas. La compresión axial es transmitida por la placa de base y los pernos de anclaje, que también gestionan la tracción axial. Los momentos flectores se transmiten mediante la combinación de compresión en un borde y tracción en los pernos del lado opuesto. Los esfuerzos cortantes y torsión son menos frecuentes.
+*   **Pilares de hormigón armado**: Aunque el hormigón soporta bien la compresión, las uniones rígidas de los pilares de hormigón armado generan esfuerzos de flexión y tracción que el hormigón por sí solo no puede resistir, por lo que requieren armaduras longitudinales (para absorber pandeo) complementadas con estribos y zunchos.
+
+#### III. Pórticos o Marcos
+
+Los **pórticos o marcos** se definen por la unión rígida entre vigas y pilares, lo que confiere al conjunto una mayor resistencia y rigidez para limitar los desplazamientos horizontales y prevenir el colapso. Conceptualmente, se asemejan a una estructura triangulada sin cordón inferior; dado que las cargas no se aplican en los nudos, trabajan principalmente a flexión y absorben esfuerzos horizontales. La rigidez de las uniones (articuladas o, preferentemente, empotradas) aumenta significativamente la resistencia a las deformaciones, permitiendo grandes luces con cantos reducidos.
+
+### Elementos Estructurales Horizontales
+
+Estos elementos, con un eje o directriz lineal horizontal, reciben y transmiten las cargas verticales de la edificación a los elementos portantes verticales.
+
+#### I. Elementos Simples: Viguetas y Vigas
+
+Las **viguetas y vigas** son elementos estructurales lineales que, apoyados en pilares o muros, conforman un entramado horizontal que trabaja principalmente a flexión.
+
+##### I.1. Viguetas
+
+Las **viguetas** son elementos estructurales horizontales de menor entidad, constituyendo el elemento resistente fundamental en los forjados estándar. Recogen las cargas de cada piso y las transmiten a las vigas. Dada su geometría horizontal, trabajan a flexión. Se apoyan en muros o vigas, manteniendo distancias entre apoyos no superiores a 6 metros para una escuadría económica. Suelen complementarse con elementos de entrevigado (bovedillas cerámicas, revoltones) y se localizan con separaciones de 0.60 a 0.90 metros, pudiendo ser mayores según las cargas y el espesor del forjado.
+
+Las tipologías de viguetas, según su morfología, incluyen:
+*   **Viguetas in situ**: Nervios resistentes construidos íntegramente en obra con barras de acero corrugado (B400/500 S/SD) y hormigón en masa. Requieren encofrado continuo.
+*   **Semiviguetas**: Elementos longitudinales de hormigón pretensado, parcialmente prefabricados, diseñados para soportar cargas de forjados de pisos o cubiertas. Se consideran "semirresistentes" porque sus armados de negativos quedan descubiertos y deben hormigonarse in situ.
+*   **Viguetas autoportantes**: Elementos longitudinales de hormigón pretensado, prefabricados en su totalidad. Se consideran "resistentes" desde el primer momento, ya que poseen capacidad portante total. Los forjados con estas viguetas son autoportantes y no necesitan sopandas intermedias durante la ejecución.
+
+La **rigidez** de las viguetas depende de su apoyo y deformaciones. Las **viguetas estándar** son elementos de menor sección que las carreras, cuya función es absorber los esfuerzos del piso y transmitirlos a las vigas, a menudo atirantadas con zoquetes para estabilidad. Un caso particular es la **vigueta coja**, que se apoya en un brochal, liberando una porción del forjado para huecos.
+
+##### I.2. Vigas
+
+Las **vigas** son elementos estructurales horizontales de mayor entidad que las viguetas, cuya función es recibir las cargas de los pisos a través de las viguetas y transmitirlas a los elementos verticales (pilares y muros). Se denominan de diferente manera según su material: **dintel** (piedra), **carrera** (madera), **jácena** (acero) o **viga/jácena** (hormigón).
+
+En cuanto a su geometría y dimensiones, las vigas trabajan a flexión bajo cargas mayores que las viguetas, lo que implica dimensiones mayores. Sus apoyos transmiten cargas a pilares y muros. Las secciones idóneas buscan la mayor inercia posible en el eje horizontal para ofrecer máxima resistencia a flexión y cortante. En madera, se utilizan secciones rectangulares, mientras que en estructuras metálicas se emplean perfiles en I o doble T.
+
+Las tipologías de vigas según su forma respecto al forjado son:
+*   **Vigas con cuelgue**: Con canto superior al forjado y sobresaliendo por debajo. Trabajan mejor por su mayor inercia vertical.
+*   **Vigas planas o rata**: Embebidas en el canto del forjado, facilitando la distribución interior y reduciendo costes de acabados.
+
+La **rigidez** de las vigas está definida por su esbeltez y por los nudos en sus extremos. Se distinguen **vigas apoyadas** (nudos flexibles), **vigas empotradas** (anclajes rígidos, tipología común en hormigón armado), y **vigas continuas** (apoyadas en varios tramos, menor canto y ahorro económico).
+
+Las **vigas de madera** reciben el nombre de carreras, sobre las que se apoyan las viguetas y, a menudo, sobrecarreras para arriostramiento. Las **vigas de hormigón** requieren armaduras longitudinales de acero en las zonas de máxima flexión (positivos en vanos, negativos en nudos) y armaduras transversales (cercos) para cortante. Las **vigas de acero** suelen ser perfiles en I (IPN, IPE) o H (HEB, HEA, HEM), o perfiles compuestos (UPN en cajón). Las **vigas trianguladas** son estructuras horizontales con características análogas a las vigas, pero con particularidades geométricas que optimizan la distribución de cargas.
+
+#### II. Elementos Compuestos: Forjados
+
+Los **forjados** son elementos estructurales generalmente horizontales (o inclinados) que trabajan principalmente a flexión, transmitiendo las cargas de uso y su propio peso a vigas, pilares y muros, creando así un espacio horizontal practicable. Cumplen una doble función: **portante** (reciben y transmiten cargas sin deformaciones ni vibraciones excesivas) y de **arriostramiento** (solidarizan los entramados horizontalmente y contribuyen a reducir la longitud de pandeo de los pilares).
+
+La clasificación de forjados considera su sistema de ejecución, tipo de armadura y geometría:
+
+*   **Según el sistema de ejecución**:
+    *   **Forjados in situ**: Los elementos resistentes (nervios) se construyen completamente en obra, como los forjados armados.
+    *   **Forjados semiprefabricados**: Los elementos resistentes se forman con viguetas o semiviguetas prefabricadas, elementos de entrevigado y hormigón vertido en obra, junto con sus armaduras.
+    *   **Forjados prefabricados**: Los paños completos (elementos resistentes y de entrevigado) se fabrican en taller y se transportan a obra para un montaje mínimo.
+
+*   **Según el tipo de armadura**:
+    *   **Forjados armados**: Utilizan armadura pasiva que no actúa hasta que el forjado está hormigonado y en carga tras el desapuntalamiento. Incluye todos los forjados o losas in situ.
+    *   **Forjados pretensados**: Utilizan armadura activa que actúa antes del hormigonado in situ y del desapuntalamiento. Son forjados unidireccionales de viguetas pretensadas o placas alveolares.
+    *   **Forjados postesados**: La armadura activa entra en carga después del hormigonado in situ, pero antes del desapuntalamiento.
+
+*   **Según su geometría**:
+    *   **Forjados unidireccionales**: Transmiten cargas en una única dirección a los apoyos (vigas o muros). Sus elementos resistentes se adaptan al material (madera, metal, hormigón). Los elementos de entrevigado (bovedillas cerámicas, revol

@@ -1,0 +1,55 @@
+## Fuentes de Energía y Sistemas de Seguridad en Vehículos para Rescate
+
+La gestión de accidentes de tráfico requiere un conocimiento exhaustivo de las diversas fuentes de energía y sistemas de seguridad integrados en los vehículos modernos. Estos elementos son cruciales para garantizar la seguridad tanto de los ocupantes como del personal de rescate.
+
+### Fuentes de Energía Motriz
+
+La evolución tecnológica ha introducido una amplia gama de combustibles y sistemas de propulsión, más allá de los tradicionales. Es fundamental comprender sus características y riesgos asociados.
+
+#### 1. Motores de Combustión Convencional (Gasolina y Gasoil)
+Los motores térmicos se clasifican en los de **explosión** (gasolina, gas, alcohol o hidrógeno) y los de **combustión interna o diésel** (gasoil, biodiésel). Aunque sus principios son similares, los diésel son preferidos para grandes potencias. Los depósitos de combustible suelen estar protegidos y equipados con válvulas inerciales para prevenir derrames en caso de vuelco. El principal riesgo es el incendio, por lo que es vital identificar el tipo de combustible para aplicar las tácticas de extinción adecuadas.
+
+#### 2. Vehículos de Gas (GLP y GNC)
+El uso de gases como **Gas Licuado de Petróleo (GLP)** y **Gas Natural Comprimido (GNC)** ha aumentado por sus beneficios económicos y medioambientales. El GNC se compone mayoritariamente de metano y se almacena a alta presión (aproximadamente 200 bar), lo que requiere tanques robustos y pesados. En contraste, el GLP (mezcla de butano y propano) se almacena a presiones más bajas (6-7 bar) en tanques más ligeros.
+*   **Riesgos:** Ambos son inflamables. El GNC es más ligero que el aire y tiende a ascender, mientras que el GLP es más pesado y se acumula a ras de suelo, lo que lo hace más peligroso en espacios confinados.
+*   **Sistemas de seguridad:** Incluyen válvulas de cierre de seguridad (eléctricas o mecánicas), cortocircuitos fusibles (se activan a 110 °C), limitadores de caudal y caperuzas de goma que ventilan el gas de forma controlada. La identificación se realiza por etiquetas "CNG" o por la ubicación de los tanques (en el techo de autobuses).
+
+#### 3. Vehículos Eléctricos e Híbridos
+Estos vehículos emplean la electricidad como fuente de energía, ya sea de forma exclusiva o combinada con un motor de combustión. Son eficientes y silenciosos, pero presentan desafíos específicos para el rescate debido a sus **sistemas de alto voltaje** (hasta 650 V).
+*   **Componentes:** Suelen incluir un motor térmico (gasolina/diésel), un motor eléctrico, un generador y baterías (plomo-ácido de 12V, 42V, o alta tensión Ni-MH/ión-litio). Las baterías de alta tensión suelen estar en la parte trasera o en el techo, identificadas con **cables de color naranja y adhesivos de advertencia**.
+*   **Riesgos:** Principalmente eléctricos (arcos voltaicos, quemaduras graves) y de incendio.
+*   **Precauciones:** Nunca cortar cables de alto voltaje ni manipular conectores HV. Evitar el uso de herramientas de corte o compresión en zonas con cables o componentes de alto voltaje (por ejemplo, taloneras o pasos de rueda).
+
+#### 4. Vehículos de Hidrógeno
+Los vehículos propulsados por hidrógeno (FCHV) emiten solo vapor de agua, pero su almacenamiento a alta presión (300-700 bar a -230 °C) en tanques de fibra de carbono o su generación a partir de alcoholes o pilas de combustible, presentan riesgos específicos.
+*   **Riesgos:** El hidrógeno es altamente inflamable (rango 4-75% de inflamabilidad, energía de activación de 0.02) y su despresurización rápida puede causar calentamiento e ignición. Arde con llamas invisibles. Existe riesgo de explosión si se acumula gas.
+*   **Sistemas de seguridad:** Incluyen válvulas de cierre, dispositivos de vaciado, elementos fusibles, y protección contra altas temperaturas (válvulas que abren a 110 °C). Los componentes de alto voltaje están señalizados con color naranja.
+*   **Precauciones:** Desactivar el circuito de hidrógeno, mantener lejos fuentes de ignición y evitar espacios cerrados. No cortar ni deformar la carrocería en zonas con tuberías de hidrógeno.
+
+### Gestión de Baterías y Desconexión del Sistema Eléctrico
+
+La correcta gestión de la batería es fundamental en cualquier intervención, ya que desactiva los sistemas eléctricos y reduce el riesgo de incendio.
+
+#### Ubicación de Baterías
+*   **Vehículos convencionales:** La batería de 12V (plomo-ácido) se ubica generalmente en el compartimento del motor, aunque en algunos modelos nuevos puede estar bajo el asiento trasero, en el maletero o en el guardabarros delantero.
+*   **Vehículos pesados (camiones y autobuses):** Suelen tener dos baterías de 12V en serie (24V) de gran capacidad. En camiones, pueden estar a los lados del bastidor o en los largueros. En autobuses, se sitúan en el compartimento de pasajeros o bajo el suelo del conductor, a menudo en carros extraíbles.
+*   **Vehículos híbridos/eléctricos:** Además de la batería de 12V, poseen baterías de alta tensión ubicadas en el suelo del maletero, bajo los asientos traseros o en el techo.
+
+#### Procedimiento de Desconexión de Baterías
+Antes de desconectar las baterías, es esencial asegurarse de que se han completado todas las operaciones que requieran energía eléctrica (ventanas, asientos, etc.), ya que estos sistemas dejarán de funcionar.
+1.  **Parar el motor:** En vehículos de arranque sin llave, poner la palanca selectora en "P" o "N" y pulsar el botón START/STOP. En vehículos pesados, puede haber un pulsador adicional en el compartimento del motor.
+2.  **Desconectar la batería de 12V:** Primero se debe soltar la conexión a **masa o terminal negativo**. Desconectar primero el polo positivo puede generar chispas. Es importante desconectar todas las baterías presentes, incluyendo las auxiliares.
+3.  **Gestionar cables:** Mantener unidos los cables positivo y negativo para descargar tensiones residuales de condensadores, evitando nuevas conexiones con cinta. No cortar los cables de la batería a menos que sea estrictamente necesario.
+4.  **Vehículos híbridos/eléctricos:** Si el vehículo es híbrido o eléctrico, además de la batería de 12V, se debe desconectar el **enchufe de alto voltaje (HV)** de la batería, que suele ser de color naranja. El proceso de desconexión completa el circuito de alta tensión en aproximadamente 5 segundos, aunque la descarga pasiva puede tardar hasta 6 minutos.
+
+#### Riesgos Asociados a la Desconexión de Baterías
+*   **Cortocircuitos:** El contacto de objetos metálicos con los terminales de la batería puede provocar chispas y la ignición de la mezcla de gases interna, con riesgo de explosión, especialmente en baterías de vehículos pesados debido a la alta tensión y corriente.
+*   **Explosión por carga electrostática:** Frotar la batería con trapos puede generar chispas y riesgo de explosión. Para evitarlo, se recomienda tocar la carrocería del vehículo desde fuera.
+*   **Acumulación de gas oxhídrico:** En compartimentos de baterías cerrados (como en autobuses), este gas explosivo puede acumularse.
+*   **Ácido cáustico:** El electrolito de las baterías es corrosivo. Evitar el contacto con piel, ojos o ropa y enjuagar con abundante agua si ocurre. No inclinar las baterías.
+
+#### Verificación de Ausencia de Tensión
+Después de desconectar la batería, si las luces de advertencia o intermitentes persisten, indica la presencia de una batería adicional que debe ser localizada y desconectada. Si la desconexión es imposible, se debe proceder con extrema precaución, conscientes de los riesgos que persisten.
+
+### Hoja de Rescate
+Para facilitar la actuación de los equipos de rescate, los fabricantes de vehículos elaboran **hojas de rescate**. Estos documentos, de tamaño A4 y a color, contienen información crucial sobre el vehículo, incluyendo la localización de componentes de seguridad (airbags, pretensores, baterías de alto voltaje) y puntos de corte seguros. Se recomienda imprimirlas y guardarlas en el parasol del asiento del conductor, o portar una pegatina identificativa en la luna del vehículo para una rápida identificación. Estas hojas son esenciales para un rescate rápido, prudente y efectivo de las personas atrapadas.

@@ -1,0 +1,71 @@
+# Caracterización y Cálculo en Operaciones de Apeo y Poda de Arbolado
+
+La intervención de bomberos en apeo y poda de arbolado requiere una comprensión profunda de las características biológicas y mecánicas de los árboles, así como de las fuerzas que actúan sobre ellos. Este conocimiento es fundamental para asegurar la eficacia y la seguridad de las operaciones, especialmente ante árboles podridos, derribados o con ramas peligrosas. La valoración del estado del árbol y la aplicación de las técnicas y herramientas adecuadas son pilares de una intervención exitosa.
+
+## Anatomía y Estática del Árbol
+
+Para comprender el comportamiento estructural de un árbol, es esencial conocer su anatomía y los principios de la estática que rigen su estabilidad. Un árbol se considera estáticamente seguro cuando existe un equilibrio entre las cargas que soporta, las propiedades mecánicas de su madera y su geometría estructural.
+
+### Componentes y Estructura Interna del Tronco
+
+Los árboles se componen de seis elementos principales: raíces, tronco, ramas, hojas, flores y frutos. En el contexto de las operaciones de emergencia, los elementos de mayor interés son las **raíces**, el **tronco** y las **ramas**.
+
+Las **raíces** desempeñan la función vital de anclar el árbol al suelo y absorber los nutrientes y el agua necesarios. Las **ramas**, con sus hojas, son responsables de la fotosíntesis, transformando los elementos inorgánicos en azúcares. Por su parte, el **tronco** actúa como una columna de soporte, conectando las raíces con las ramas. Un corte transversal del tronco revela varias capas distintivas, desde el exterior hacia el interior:
+
+*   La **corteza** es la capa más externa, formada por células muertas que ofrecen protección contra microorganismos y agentes atmosféricos.
+*   El **cambium** es una capa que se divide en dos: el xilema interno, que forma la madera, y el floema externo, que es parte de la corteza.
+*   La **albura** es la madera más reciente, de color blanquecino, encargada del transporte de la savia.
+*   El **duramen** es la madera dura, densa y oscura, compuesta por células fisiológicamente inactivas, situada en el centro del tronco y comúnmente afectada por procesos de pudrición.
+*   La **médula vegetal** es la zona central del tronco, caracterizada por su baja resistencia.
+
+### Cargas y Fuerzas Actuantes
+
+La estabilidad de un árbol está directamente influenciada por diversas cargas:
+*   El **peso propio** del árbol es generalmente insignificante en comparación con la resistencia a la compresión de la madera, que suele ser de 2.0 kN/cm².
+*   El **peso del hielo o la nieve** representa un riesgo significativo de fractura para la madera verde, la cual tiende a agrietarse bajo cargas constantes.
+*   El **viento fuerte** (tormentas, vendavales) es la carga más crítica para la estabilidad del árbol. Los vientos constantes, sin embargo, no son inherentemente peligrosos, ya que el árbol desarrolla "madera de reacción" para aumentar su resistencia.
+
+La fuerza del viento varía en función de varios factores, como la **situación geográfica** (velocidad y dirección del viento), la **topografía** del terreno (si está en una ciudad o en campo abierto), la **estación del año** (final de verano o otoño, cuando la mayor presión se ejerce sobre la copa del árbol por la presencia de hojas) y las **influencias meteorológicas** (la baja presión aumenta la densidad del aire y, por ende, la presión del viento). Además, la **altura del árbol** (mayor altura, mayor velocidad del viento) y su **forma de crecimiento** (árboles más grandes requieren troncos más gruesos para la misma velocidad del viento) también influyen en su resistencia.
+
+## Propiedades Mecánicas de la Madera
+
+Las propiedades mecánicas de la madera, como la dureza y la elasticidad, son clave para evaluar el comportamiento estructural del árbol.
+
+### Dureza y Elasticidad
+
+La **dureza** de la madera difiere entre la madera verde y la seca. Un estudio realizado en Alemania en la década de 1980 (Catálogo de Stuttgart) estableció que la madera verde tiene una resistencia a la compresión promedio de 2.0 kN/cm², pudiendo un árbol con un tronco de 8 cm de diámetro soportar hasta 10 toneladas. Los valores varían entre 1.4 kN/cm² (para el Castaño de Indias) y 2.8 kN/cm² (para el Roble).
+
+El **límite de elasticidad** define la tensión máxima que un material puede soportar sin sufrir deformaciones permanentes. Según el Catálogo de Stuttgart, el valor elástico es constante para cada árbol y a diferentes alturas del tronco; si se supera, las fibras de la madera se deforman permanentemente, llevando a la rotura.
+
+El **módulo de elasticidad longitudinal (E-mod o de Young)** es un parámetro que caracteriza el comportamiento elástico del material en la dirección de aplicación de la fuerza. El **coeficiente aerodinámico de la copa (Cw)**, propuesto en estudios especializados, también es un factor relevante.
+
+### Geometría del Tronco y su Seguridad
+
+La seguridad estructural de un tronco hueco depende directamente de la carga que debe soportar y del grosor de sus paredes. Un tronco hueco no es inherentemente inseguro; de hecho, estructuras como los mástiles de barcos modernos son huecos. La seguridad se determina midiendo el espesor de la pared residual, especialmente en presencia de pudriciones o chancros.
+
+## Cálculo del Peso de la Madera para Intervención
+
+En situaciones de emergencia, como el apeo de árboles caídos sobre edificaciones o el arrastre de árboles que bloquean vías, es crucial estimar el peso aproximado del árbol para planificar la intervención, como la selección de grúas o tracteles.
+
+### Técnica Simplificada para el Cálculo del Peso
+
+Para los bomberos, una técnica simplificada consiste en modelar el árbol como un cilindro, incluyendo sus ramas, lo que permite estimar su volumen y peso. La fórmula para el volumen de un cilindro es **V = π · r² · h**, donde 'r' es el radio y 'h' la altura. Multiplicando este volumen por la densidad de la madera, se obtiene el peso estimado.
+
+### Determinación de la Altura
+
+*   **Para árboles caídos:** la altura se mide directamente desde la punta de la copa hasta el final del tronco.
+*   **Para árboles en pie o apoyados:** se utiliza el método de **triángulos semejantes** para una estimación aproximada, manteniendo la seguridad del personal. Este método implica medir una distancia conocida (D) desde el árbol, sostener una regla a la altura de los ojos a una distancia (d) del ojo, y medir la altura (h) que el árbol proyecta en la regla. La altura del árbol (H) se calcula como **H = D * (h/d)**. Por ejemplo, si D=2000 cm, d=70 cm y h=50 cm, la altura H sería 14.25 m. Para mediciones más precisas y automatizadas, se pueden utilizar **distanciómetros láser**, teniendo la precaución de evitar interferencias de ramas o follaje.
+
+### Determinación del Radio
+
+El radio del tronco es difícil de medir directamente si el árbol no está cortado. Se puede obtener a partir del **perímetro (P)**, midiendo este a media altura del tronco o a la altura del pecho en árboles en pie. La fórmula para el radio es **r = P / (2π)**. Así, un perímetro de 180 cm daría un radio de aproximadamente 28.66 cm y un diámetro de 57 cm.
+
+### Cálculo de la Densidad de la Madera
+
+La densidad de la madera es variable y depende de la especie, la humedad y la ubicación del árbol. La madera contiene **agua de constitución** (inerte), **agua de saturación** (en las células) y **agua libre** (capilar). La madera "secada al aire" alcanza un equilibrio hídrico donde el agua libre ha desaparecido, con una humedad media del 15% (valor usado en la industria para madera seca).
+
+Para árboles en su estado natural o recién caídos, la humedad es mayor. Para la **madera verde**, que tiene entre un 50% y 60% de humedad, se considera una densidad que es un 40% superior a la de la madera seca. Por ejemplo, para el pino, olmo o chopo, se puede adoptar una densidad de 0.8 kg/dm³ para madera verde. Las maderas verdes pesadas, como el de encina o roble, pueden tener densidades aparentes superiores a 1 kg/dm³ y, por tanto, se hunden en el agua.
+
+Una vez obtenidos el volumen y la densidad, el **peso** del árbol se calcula multiplicando ambos valores. Por ejemplo, un pino verde con un volumen de 3.5 m³ y una densidad de 800 kg/m³ (0.8 kg/dm³) pesaría 2800 kg.
+
+La correcta aplicación de estos cálculos permite a los equipos de emergencia tomar decisiones informadas sobre las técnicas y equipos a emplear, minimizando riesgos y optimizando los recursos disponibles.

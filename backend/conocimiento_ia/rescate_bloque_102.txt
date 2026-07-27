@@ -1,0 +1,56 @@
+# Rescate en Accidentes Ferroviarios: Caracterización y Técnicas de Intervención
+
+La **gestión de emergencias en el ámbito ferroviario** es una disciplina que requiere conocimientos específicos debido a las particularidades de este medio de transporte, utilizado tanto para pasajeros como para mercancías. Las intervenciones de bomberos en este sector exigen una actualización constante de técnicas y conocimientos prácticos, ya que los accidentes pueden ser de gran complejidad y tener consecuencias significativas.
+
+## Red Ferroviaria Española: Características y Entidades Gestoras
+
+La **red ferroviaria española** se compone de aproximadamente 15.461 kilómetros de vías, de las cuales más de 8.000 kilómetros están electrificados. Esta red integra diferentes anchos de vía, incluyendo el ancho ibérico (1.668 mm), el ancho internacional (1.435 mm) y el ancho métrico o vía estrecha (1.000 mm). Existen cuatro tipos principales de vías: simple no electrificada, simple electrificada, doble no electrificada y doble electrificada. La electrificación se realiza con sistemas de 3.000 voltios en corriente continua (red convencional), 25.000 voltios en corriente alterna (red de alta velocidad) y 1.500 voltios en corriente continua (red de ancho métrico).
+
+Las **competencias en materia de ferrocarriles** se distribuyen entre el Estado, que posee la competencia exclusiva para itinerarios que abarcan más de una comunidad autónoma, el régimen general de comunicaciones y obras públicas de interés general, y las Comunidades Autónomas, que gestionan itinerarios íntegramente desarrollados en su territorio.
+
+Las **entidades gestoras** principales a nivel nacional son **Adif** (Administrador de Infraestructuras Ferroviarias de España), responsable de la construcción y explotación de infraestructuras (incluyendo las 1.566 estaciones), y **Renfe Operadora**, encargada de los servicios de transporte de viajeros y mercancías bajo criterios de seguridad, calidad, eficiencia y rentabilidad. Además, existen entidades gestoras autonómicas como ETS y Euskotren en el País Vasco, GTP y FGV en la Comunidad Valenciana, IFERCAT y FGC en Cataluña, y SFM en Baleares.
+
+## Elementos de Seguridad en Trenes
+
+Todo tren que circula en España debe cumplir normativas específicas como las **Especificaciones Técnicas de Interoperabilidad (ETI)** y las **Especificaciones Técnicas de Homologación (ETH)**, las cuales exigen un **plan de autoprotección** que abarca acciones de control y prevención de riesgos, coordinadas con el sistema público de Protección Civil. Los trenes de viajeros modernos incorporan diversos **elementos de seguridad**:
+
+*   **Extintores de emergencia**: Se distribuyen para que ningún viajero se encuentre a más de quince metros de uno. En la cabeza tractora se ubican dos extintores (polvo 6 kg 27A 233B) en cabina y dos en sala de máquinas (polvo 6 kg 27A 233B y CO2 2 Kg 34B). Cada coche de pasajeros cuenta con un extintor (polvo 6 kg 27A 233B) en el maletero de equipajes.
+*   **Ventanas de socorro**: Cada coche de viajeros dispone de al menos dos ventanas de socorro, señalizadas tanto interior como exteriormente con martillos para su rotura.
+*   **Escaleras de emergencia**: Dos escaleras se localizan en el almacén de la cafetería y en la sala de máquinas de la cabeza motriz, destinadas para evacuaciones o como pasarelas entre trenes.
+*   **Puertas de acceso**: Disponen de sistemas de emergencia que permiten su apertura desde el exterior con una llave de cuadradillo, y las ventanas de las puertas exteriores también sirven como salidas de emergencia. Las puertas de unión entre coches incorporan juntas intumescentes para aislamiento térmico hasta 150 grados.
+*   **Cuadro eléctrico de instalaciones**: Las dos primeras cabezas motrices alojan los cuadros de instalaciones eléctricas de los coches.
+*   **Alumbrado de emergencia**: Alimentado por baterías auxiliares con una autonomía de dos horas en caso de pérdida de tensión en la catenaria.
+*   **Depósitos de combustible**: Los automotores eléctricos que usan gasoil para un generador (como el S-599) tienen depósitos de combustible en cada coche, con capacidades de hasta 1400 litros de gasoil, situados en la parte inferior del vehículo, bajo el bastidor.
+*   **Cable de shuntado**: Dispositivo de seguridad para proteger a los equipos de trabajo en la vía, ubicado en el armario del coche 1 y del coche 8.
+*   **Pértiga y cable de puesta a tierra**: Dispositivo de seguridad para trabajar en la vía.
+
+## Técnicas de Acceso y Gestión de la Tensión Eléctrica
+
+El acceso al lugar del incidente en una intervención ferroviaria debe ser seguro y rápido, comunicando con el **Centro de Gestión 24 horas (CGRH24) de Adif** y el **Centro de Control de Emergencias (CECON) de Renfe**. En caso de túneles o viaductos, el convoy debe desplazarse a un lugar accesible. Se utilizan mapas detallados, ortofotos y GPS para una localización precisa y para elaborar fichas de intervención con información de riesgos y puntos de acceso.
+
+La **tensión eléctrica en las líneas ferroviarias** presenta una peculiaridad importante: la corriente de 25 kV en alterna (alta velocidad) o 3 kV en continua (vías convencionales) circula por el Feeder. Por ello, es crucial el uso de aparatos para identificar la corriente. El **protocolo de corte de la electricidad** incluye:
+1.  **Solicitud de telefonemas** para pedir el corte de tensión.
+2.  **Comprobación** de la ausencia de tensión.
+3.  **Derivación a tierra** de la catenaria.
+4.  **Señalización** de la zona de trabajo.
+
+Para la **desconexión segura de la electricidad**, se aplican cinco normas fundamentales:
+1.  **Cortar las fuentes de alimentación**, abriendo seccionadores e interruptores.
+2.  **Evitar la realimentación**, aplicando consignas con candados y llaves.
+3.  **Comprobar el corte de tensión** con pértigas aisladas.
+4.  **Derivar a tierra la instalación** en cortocircuito, utilizando pértiga aislada, mordaza para cable y grapa de carril.
+5.  **Señalizar la zona** donde se realizan los trabajos.
+
+El **shunt de vía** o barra de shuntado, es un circuito eléctrico o electrónico que protege a los equipos de trabajo de la llegada de trenes regulares, actuando como un cortocircuito que indica la presencia de un convoy en la vía.
+
+## Tácticas de Evacuación y Confinamiento
+
+En una emergencia ferroviaria, se debe valorar si es más conveniente **confinar** o **evacuar** a las personas afectadas.
+
+El **confinamiento** se recomienda en incidentes leves, cuando el espacio exterior presenta riesgos o hasta que se haya asegurado una vía de escape.
+
+La **evacuación** es aconsejable ante un peligro inminente en el interior del tren o si el suceso ocurre en un túnel o puente, buscando una zona accesible. Las **estrategias comunes de evacuación** incluyen comunicar las indicaciones a los viajeros, sectorizar el tren (por ejemplo, en caso de incendio), y establecer una ruta de escape segura. La tripulación del tren tiene un papel activo en desalojar los coches afectados. En situaciones de múltiples víctimas, se aplica el **triage** para priorizar la evacuación y se define un plan de acción para los equipos sanitarios.
+
+En la **estrategia de evacuación en balastro**, donde existe riesgo de arrollamiento, se interrumpe la circulación de trenes y se utiliza el andén contrario para la evacuación, empleando las escaleras del tren. Se prioriza la evacuación de pasajeros por el mismo coche y el personal sanitario apoya a los bomberos.
+
+Finalmente, en la **estrategia de evacuación en andén**, el maquinista decide continuar el viaje hasta una estación o plataforma segura. Si el tren está parado en una estación, la evacuación se realiza por cualquier puerta, dado que el andén está al mismo nivel.

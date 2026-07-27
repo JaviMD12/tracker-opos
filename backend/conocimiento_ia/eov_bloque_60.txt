@@ -1,0 +1,55 @@
+## Equipos de Comunicación y Orientación en Emergencias
+
+Los equipos de comunicación y orientación son herramientas fundamentales para los cuerpos de bomberos y emergencias, garantizando la eficacia en la localización, desarrollo y resolución de incidentes. Estos sistemas permiten una respuesta coordinada y segura ante situaciones críticas, facilitando tanto la interacción entre el personal como la ubicación precisa en el terreno.
+
+### I. Instrumentos de Orientación: Brújulas y Prismáticos
+
+La **orientación** se define como el conjunto de técnicas que permiten determinar la ubicación espacial y temporal. En este contexto, destacan la brújula y los prismáticos.
+
+#### A. La Brújula: Navegación Terrestre
+
+La **brújula** es un instrumento de orientación que utiliza una aguja imantada para señalar el norte magnético. Se compone de una **base** transparente con escalas de medición, un **anillo giratorio graduado (limbo)** para lecturas azimutales (0-360º o 0-400g), una **aguja magnética**, una **flecha orientadora** bajo la aguja, un **punto de lectura** y una **flecha de dirección de viaje**.
+
+Existen diversos tipos de brújulas, desde las más sencillas, con aguja imantada sobre un círculo graduado, hasta las digitales y las especializadas. Entre las últimas se encuentran las brújulas cartográficas, náuticas, militares, forestales, topográficas y geológicas (como la Brunton o Freiberger). Sin embargo, su uso es limitado en zonas polares debido a la convergencia de las líneas de fuerza del campo magnético terrestre. La normativa europea exige que cumplan con el marcado CE.
+
+Para su **uso** en búsquedas y rescates, así como apoyo al GPS, la brújula se coloca sobre un mapa, alineando su lateral con el rumbo deseado. El limbo se gira hasta que la "N" coincida con el norte magnético del mapa, indicando la flecha de dirección el rumbo a seguir. En el terreno, se mantiene el limbo en la dirección obtenida y se gira la brújula completa hasta que la aguja se alinee con la fle flecha de orientación, permitiendo seguir el rumbo. Para orientar un plano respecto al norte geográfico, se gira el limbo a cero, se coloca la brújula sobre el meridiano geográfico con las líneas de la carcasa paralelas y se gira el plano hasta que la aguja magnética señale el ángulo de declinación.
+
+El **mantenimiento** de la brújula requiere evitar golpes y almacenarla en una funda, lejos del polvo y arañazos. Es crucial verificar periódicamente la ausencia de roturas en la esfera y el limbo.
+
+#### B. Los Prismáticos (Binoculares): Visión Ampliada
+
+Los **prismáticos** o binoculares son un instrumento óptico diseñado para ampliar imágenes de objetos distantes y apreciarlos en tres dimensiones. Constan de dos tubos, cada uno con un sistema de lentes y prismas que corrigen la imagen. Sus ejes ópticos están más separados que los ojos humanos, lo que contribuye a la sensación estereoscópica. El enfoque se ajusta mediante una rueda central, y el ocular derecho permite corrección dióptrica.
+
+Las **características ópticas** se describen con un par de cifras numéricas (por ejemplo, 8x40), donde la primera indica el aumento o potencia visual y la segunda el diámetro de las lentes frontales en milímetros. Un mayor diámetro del objetivo incrementa la luminosidad y mejora la definición, siendo clave para la observación nocturna. La **pupila de salida**, calculada dividiendo el diámetro del objetivo por el aumento, también influye en la luminosidad. El **relieve de ojo** es la distancia óptima desde el ocular para una observación cómoda, relevante para usuarios con gafas. El **foco cercano** indica la distancia mínima a la que se puede enfocar correctamente un objeto.
+
+En cuanto a los **tipos**, se distinguen los prismáticos **Roof** (más ligeros y compactos, con ópticas alineadas y tubos rectos), los **Porro** (con el eje óptico del objetivo desplazado respecto al ocular y objetivos más separados) y los **Galileanos** (más sencillos, con lentes objetivo convergentes y oculares divergentes, que ofrecen ampliaciones y campos de visión limitados). Además, las lentes pueden incorporar **revestimientos antirreflexivos** para optimizar la transmisión de luz: "completo" (una capa en todas las superficies), "múltiple" (varias capas en algunas superficies) o "múltiple completo" (varias capas en todas las superficies, logrando transmisiones de luz cercanas al 90%).
+
+La **normativa** exige el cumplimiento del marcado CE para montura y lentes. Su **uso y seguridad** se centran en búsquedas, rescates y vigilancia en incendios forestales. Para el **mantenimiento**, es esencial limpiar el polvo con un soplador y las manchas con un paño suave y limpiador de lentes, evitando disolventes. Deben almacenarse en un lugar ventilado, protegidos de altas temperaturas, humedad y golpes, y recordar que ser estancos al agua no implica que sean sumergibles.
+
+### II. Sistema de Posicionamiento Global (GPS): Ubicación Precisa
+
+El **Sistema de Posicionamiento Global (GPS)** es una tecnología satelital que permite determinar la posición de un objeto en cualquier parte del mundo con gran precisión. Opera mediante una red de 24 satélites distribuidos en 6 planos orbitales, garantizando que al menos 4 satélites sean visibles desde cualquier punto del globo.
+
+Cada satélite transmite una señal electromagnética que contiene la hora de emisión, la identificación del satélite y su posición orbital exacta. Un receptor GPS (navegador) capta estas señales y, mediante la técnica de triangulación, calcula la posición precisa del punto. Aunque la precisión puede variar (con márgenes de error de 5 a 30 metros), estos errores pueden corregirse utilizando un receptor de referencia en una ubicación de coordenadas conocidas para trabajos topográficos o geodésicos.
+
+Los receptores GPS modernos incorporan **cartografía digital** en pantalla, mostrando la posición actual y las coordenadas geográficas o UTM. Es fundamental configurar el receptor con el datum cartográfico adecuado (por ejemplo, ED50 para España) para una correcta identificación en mapas. Además, permiten almacenar **waypoints** (puntos de interés), registrar el **track** (camino real recorrido como una secuencia de waypoints) y calcular el **rumbo** inicial (ángulo horizontal con el norte magnético) y la **desviación** respecto a una ruta marcada.
+
+Entre los modelos habituales en servicios de bomberos se encuentran el **GARMIN ETREX Legend HCx** y el **GARMIN NÜVI**.
+
+#### A. GARMIN ETREX Legend HCx: Portabilidad y Sensibilidad
+
+El **eTrex Legend HCx** es un GPS portátil caracterizado por su precisión de un metro y una autonomía de 12 horas. Posee alta sensibilidad, lo que le permite operar eficazmente incluso bajo arbolado denso, en cauces angostos o con cielos muy cubiertos, e incorpora cartografía completa.
+
+Su **uso** se enfoca en intervenciones que requieren ubicación satelital, como búsquedas, rescates e incendios forestales, a menudo complementándose con una brújula y cartografía analógica. Las pantallas principales muestran un **menú** de configuraciones, un **mapa** detallado de la zona actual, un **compás** gráfico con punteros de ruta y rumbo (sensible a campos magnéticos, requiere calibración tras cambios de batería o temperatura), un **altímetro** (perfil de alturas o cambios de presión) y un **procesador de trayecto** con datos de navegación. Los botones facilitan el ajuste de retroiluminación, movimiento de mapa, zoom, navegación por menús y comprobación de batería. Permite consultar cartografía, coordenadas, crear y buscar waypoints, registrar tracks y navegar rutas.
+
+Para su **mantenimiento**, es crucial evitar caídas y exposición directa al sol, mantenerlo limpio y guardado en su funda. La verificación del nivel de baterías es indispensable, y se deben tener recambios disponibles.
+
+#### B. GARMIN nüvi: Navegación Vial
+
+El **Garmin nüvi** es un navegador en ruta con cartografía vial, ofreciendo una precisión de 10 metros y una autonomía de batería de 40 minutos. Su sensibilidad es más baja, requiriendo una señal potente.
+
+Sus **componentes** incluyen un botón de encendido, antena GPS, altavoz, conector de antena externa, conector mini USB, micrófono y ranura para tarjeta SD.
+
+Este dispositivo está diseñado para **uso** en la conducción de vehículos, facilitando la respuesta rápida en emergencias viales y la localización de incidentes o parajes mediante coordenadas. Ofrece información sobre la intensidad de la señal, conexión Bluetooth, estado de la batería y hora. Permite acceder a funciones de búsqueda de destino, consulta de mapas y realizar llamadas telefónicas si está conectado a un móvil. Normalmente se instala en los vehículos de servicio.
+
+En cuanto a la **seguridad**, es vital verificar su correcta ubicación, conexión al cable de corriente y carga adecuada, retirando la batería si el vehículo se expone directamente al sol. Para el **mantenimiento**, se deben evitar caídas, vibraciones o golpes excesivos. La pantalla táctil se limpia con un paño suave y limpio, utilizando agua, alcohol isopropílico o limpiador específico para gafas.

@@ -1,0 +1,41 @@
+## Caracterización de Elementos de Cubiertas y Enlace en la Edificación
+
+La comprensión de la estructura de las edificaciones es crucial para las operaciones de emergencia, especialmente en el contexto de intervenciones de bomberos. Un análisis detallado de los elementos de cubiertas y sistemas de enlace, junto con la normativa aplicable, proporciona la base para una actuación eficiente y segura.
+
+### Cubiertas Inclinadas
+
+Las cubiertas inclinadas, comúnmente conocidas como tejados, se caracterizan por sus planos inclinados o faldones, diseñados para evacuar rápidamente el agua hacia el exterior. Estos sistemas pueden ser de madera o de hormigón.
+
+En el caso del **hormigón**, las cubiertas inclinadas se configuran mediante forjados inclinados que siguen principios constructivos similares a los forjados horizontales. Se distinguen dos modalidades principales: los forjados **unidireccionales**, donde los faldones se construyen con viguetas, bovedillas y una capa de compresión, apoyándose sobre jácenas que transfieren las cargas a pilares o muros; y los forjados **bidireccionales**, compuestos por losas macizas o aligeradas con casetones, que se apoyan tanto en muros como en pilares. Además, se emplean **láminas de hormigón**, material tradicionalmente escogido para casquetes y láminas estructurales debido a su versatilidad para adoptar cualquier forma, incluso con secciones mínimas frente a grandes luces.
+
+Por otro lado, las cubiertas inclinadas de **fábrica** pueden ser **autoportantes o bóvedas**, elementos estructurales curvos que cubren espacios entre muros o pilares alineados. Su geometría se genera por la traslación o giro de un arco generatriz. Se clasifican en sencillas (con una sola generatriz, como las de cañón o cañón apuntado) o complejas (con varias generatrices, como las de arista o nervadas). El principal desafío estructural de las bóvedas radica en las deformaciones horizontales de sus arranques, requiriendo refuerzos como tirantes o contrafuertes. Las cúpulas, por su parte, suelen disponer sus arriostramientos en un tambor basal. También existen cubiertas de fábrica **no autoportantes**, construidas sobre tabiques palomeros o conejeros dispuestos sobre el último forjado con la pendiente deseada, utilizando rasillones machihembrados como soporte final para el material de cubrición, típicamente tejas sobre mortero. Este método busca optimizar costos y tiempos de ejecución al ofrecer una solución estructural ligera que facilita la ventilación.
+
+### Cubiertas Planas
+
+Las cubiertas planas, también llamadas terrazas o azoteas, son superficies sensiblemente horizontales diseñadas para recoger y evacuar el agua a través de sumideros y bajantes.
+
+Cuando se construyen con **hormigón**, tanto el soporte (forjado) como la capa de formación de pendientes se fabrican con este material. Aunque el soporte suele estar armado, la capa de pendientes puede no requerir armadura. En las cubiertas planas de **fábrica**, la estructura de cobertura es similar a la de las inclinadas sobre tabiques palomeros, pero con diferencias en la altura y pendiente de los tabiques. Un ejemplo distintivo es la **cubierta a la catalana**, una cubierta fría característica de climas cálidos y húmedos, que incorpora una cámara de aire ventilada para atenuar las altas temperaturas. Finalmente, las cubiertas **metálicas** planas, conocidas comercialmente como "Cubiertas Deck", son ligeras (inferiores a 10 kg/m²) y se construyen de manera análoga a los forjados metálicos. Son comunes en plantas industriales y a menudo se complementan con aislamiento termoacústico y una membrana impermeabilizante. Su diseño permite la instalación de maquinaria y el tránsito para mantenimiento.
+
+### Elementos de Enlace
+
+Los elementos de enlace son sistemas constructivos esenciales para la comunicación vertical dentro de un edificio, asegurando comodidad y seguridad para los usuarios. En situaciones de emergencia, es fundamental que estos sistemas, especialmente escaleras y rampas, puedan funcionar sin depender de un suministro energético externo. La normativa que rige estos elementos es amplia, destacando el Código Técnico de la Edificación (CTE) en sus Documentos Básicos de Seguridad de Utilización y Accesibilidad (DB SUA1) y Seguridad en caso de Incendio (DB SI3).
+
+#### Escaleras
+
+Las escaleras son estructuras fijas compuestas por una sucesión de escalones que permiten salvar desniveles entre plantas. Sus **elementos estructurales** básicos incluyen zancas (vigas inclinadas de hormigón o acero que recogen las cargas), tableros o forjados (losas macizas sobre las que se apoya el peldaño), y antiguamente, arcos, bóvedas o losas. Los **elementos de revestimiento** comprenden los peldaños (piezas de mármol, cerámica o madera) y el zanquín o zócalo (pieza lateral que cubre la unión del peldaño con el paramento). En cuanto a los **elementos de protección**, se destacan las barandillas, que evitan caídas, y los pasamanos, obligatorios en escaleras que salvan más de 55 cm de altura. Se requieren pasamanos en ambos lados si el ancho libre supera 1,20 m, o si no hay ascensor alternativo. Los pasamanos intermedios son necesarios si el ancho excede los 4 m (con una separación máxima de 4 m), a excepción de escalinatas monumentales. La altura de los pasamanos debe estar entre 90 y 110 cm.
+
+La **geometría de los escalones** se regula para garantizar la comodidad y seguridad. En escaleras de tramos rectos, la huella (H) debe ser de 28 cm como mínimo, y la contrahuella (C) entre 13 y 18,5 cm, cumpliendo la relación geométrica 54 cm ≤ 2C + H ≤ 70 cm. En **escaleras de evacuación**, se prohíbe el bocel en tramos ascendentes y las tabicas son obligatorias. Para **escaleras de tramos curvos**, las huellas se miden a 50 cm del borde interior, con una dimensión útil mínima de 17 cm y máxima de 44 cm en el tramo exterior.
+
+Las **mesetas** deben tener un ancho mínimo igual al de la escalera y una longitud mínima de 1 m en tramos de la misma dirección. En cambios de dirección, el ancho de la escalera no debe reducirse.
+
+Desde la perspectiva de **protección contra incendios** (CTE DB SI3), las escaleras se clasifican en:
+*   **Escaleras abiertas:** sin protección contra incendios.
+*   **Escaleras compartimentadas:** comunican dos sectores y sus elementos (paredes y puertas) tienen resistencia al fuego (EI). No requieren ventilación y su recorrido en planta de salida debe ser inferior a 15 m.
+*   **Escaleras protegidas:** cumplen condiciones de seguridad (sectorización EI 120), con accesos desde espacios comunes con puertas EI2 60-C5 y recorrido en planta de salida inferior a 15 m. La protección frente al humo puede ser por ventilación natural, conductos de aire o sistemas de presión diferencial (EN 12101-6:2005).
+*   **Escaleras especialmente protegidas:** añaden un vestíbulo de independencia en cada acceso, excepto en la planta de salida para evacuación ascendente.
+
+Finalmente, las **escaleras abiertas al exterior** se consideran especialmente protegidas si disponen de huecos permanentemente abiertos al exterior (superficie mínima de 5A m², donde A es la anchura del tramo), sin necesidad de vestíbulos de independencia.
+
+#### Rampas
+
+Las **rampas** son planos inclinados que permiten un desplazamiento continuo. El CTE DB SUA establece prescripciones específicas para su geometría: una longitud máxima de 15 m (9 m para itinerarios accesibles) y una pendiente general entre 4% y 12%. Para itinerarios accesibles, la pendiente máxima es 3% (para longitudes menores de 3 m) o 6% (para longitudes menores de 6 m). Las mesetas en tramos de la misma dirección deben tener un ancho igual al de la rampa y una longitud mínima de 1,5 m. Además, si la altura salvada supera los 550 mm y la pendiente es igual o mayor al 6%, deben contar con un pasamanos continuo en al menos un lado, situado entre 0,90 y 1,10 m de altura. A diferencia de las escaleras, el CTE DB SI no contempla una modalidad específica de rampa protegida para evacuación en caso de incendio.

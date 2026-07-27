@@ -1,0 +1,61 @@
+## Materiales Orgánicos en la Edificación: la Madera y sus Propiedades
+
+La madera, un material lignocelulósico extraído de árboles y arbustos, constituye un componente fundamental en la construcción, empleándose en elementos estructurales, cerramientos y acabados. Su uso se clasifica principalmente según la especie arbórea de origen, distinguiéndose entre **coníferas** (gimnospermas de hoja perenne, con poros cerrados no perceptibles, como cedro, abeto o pino) y **frondosas** (dicotiledóneas de hoja caduca, con poros microscópicos, como cerezo, roble o fresno). La normativa clasifica las coníferas con la letra "C" seguida de un número que indica su resistencia a flexión (N/mm²), por ejemplo, C14, C18, C30, C50. De manera similar, las frondosas se identifican con la letra "D" y un número equivalente, como D30, D40, D70.
+
+En cuanto a sus **propiedades físicas**, la madera presenta una densidad muy variable, oscilando generalmente entre 350 y 500 kg/m³, la cual está intrínsecamente ligada a la especie y al contenido de humedad. Por ejemplo, la madera seca al aire, con un 15% de humedad media (que en España varía entre 7-15% mínima y 12-20% máxima según el Código Técnico de la Edificación - CTE DB SE M Anexo F), posee densidades aparentes como 0,6 kg/dm³ para pino y chopo, mientras que el olmo alcanza 0,8 kg/dm³. Las maderas verdes, con un contenido de humedad del 50-60%, exhiben densidades aproximadamente un 40% superiores a las secas, pudiendo incluso superar 1 kg/dm³ (como la encina o el roble recién cortados), lo que las hace hundirse en el agua. Este material también es **higroscópico**, lo que implica que absorbe o pierde agua según las condiciones ambientales, modificando su densidad y comportamiento estructural. La madera es un **mal conductor térmico**, lo que la convierte en un excelente aislante. Además, su comportamiento es **anisotrópico**, lo que significa que sus propiedades mecánicas varían según la dirección de las fibras (paralela, normal o tangencial).
+
+Respecto a su **comportamiento mecánico**, la resistencia de la madera está condicionada por la especie y su anisotropía. Si bien históricamente se consideraba que resistía mejor a compresión que a tracción, estudios demuestran que esto no es universal. Por ejemplo, la madera C14 puede tener el doble de resistencia a compresión que a tracción, pero en clases superiores como C45, las resistencias pueden ser idénticas, y en la C50, predomina la resistencia a tracción. En el caso de las frondosas, las clases D30, D35 y D40 presentan mayor resistencia a compresión, mientras que las D50, D60 y D70 muestran mayor resistencia a tracción. La principal debilidad estructural de la madera reside en la ejecución de sus **nudos** o uniones, siendo las uniones a compresión más sencillas de realizar que las de tracción.
+
+La madera se utiliza en diversas **tipologías estructurales**, conforme al CTE DB SE M. Entre ellas, se encuentra la **madera aserrada o estructural**, obtenida directamente del árbol y generalmente escuadrada, con caras paralelas y cantos perpendiculares. Las **maderas laminadas encoladas** se forman por capas de madera encoladas superpuestas, logrando secciones predeterminadas. Estas pueden ser homogéneas (con láminas de la misma clase resistente) o combinadas (con láminas de distintas clases). La nomenclatura para la madera laminada incluye "GL" seguido de un número que indica la resistencia a flexión y una letra ("h" para homogénea o "c" para combinada). La **madera microlaminada (LVL)** es un producto estructural fabricado con finas chapas de madera (3-5 mm) encoladas en la misma dirección de la fibra. Finalmente, los **tableros** son productos derivados donde la longitud y la anchura predominan sobre el espesor. Existen varios tipos:
+*   **Tablero de madera maciza**: Compuesto por tablas o listones de madera unidos mediante encolado o machihembrado.
+*   **Tablero contrachapado**: Formado por capas de chapas de madera encoladas con las direcciones de las fibras alternas (normalmente a 90°).
+*   **Tablero de fibras**: Fabricado con fibras lignocelulósicas mediante aplicación de calor, presión y un aglomerante sintético, con variantes de densidad media (DM o MDE), dura y semidura.
+*   **Tablero de partículas o aglomerado**: Constituido por partículas de madera u otros materiales leñosos aglomerados con adhesivo y presión.
+*   **Tablero de virutas (OSB - Oriented Strand Board)**: Similar al de partículas, pero con virutas de mayores dimensiones, y las capas externas pueden estar orientadas longitudinalmente para mejorar las propiedades mecánicas.
+El comportamiento mecánico de los tableros es muy variable según el modelo y la dirección del esfuerzo, siendo inversamente proporcional a su espesor y grado de humedad.
+
+### Sistemas Constructivos Básicos y Elementos Estructurales
+
+La **edificación** se define como una construcción fija, elaborada con materiales resistentes, destinada a la habitación humana u otros usos. Técnicamente, una edificación es el resultado de la combinación de tres tipos de elementos constructivos: **estructurales**, **complementarios** y **auxiliares**.
+*   Los **elementos estructurales** son aquellos diseñados para soportar y transmitir cargas al terreno sin deformaciones excesivas, también conocidos como elementos portantes. Poseen una **capacidad portante** que asegura la estabilidad y resistencia del conjunto durante su periodo de servicio (por defecto, 50 años según el CTE DB SE) y una **aptitud de servicio** que limita deformaciones y anomalías inadmisibles.
+*   Los **elementos complementarios** completan la estructura para crear un espacio interior confortable, como cerramientos, divisiones y acabados.
+*   Los **elementos auxiliares** se utilizan durante la construcción o reparación del edificio, sin una función permanente posterior, como andamios o apeos.
+
+La **legislación** española que regula la construcción es amplia, destacando el **Código Técnico de la Edificación (CTE)**, aprobado en 2006, que establece los requisitos básicos de seguridad y habitabilidad. Dentro del CTE, el **Documento Básico de Seguridad Estructural (DB-SE)** se desglosa en normas para acciones en la edificación (DB-SE AE), cimientos (DB-SE C), acero (DB-SE A), fábrica (DB-SE F) y madera (DB-SE M). Otras normas relevantes incluyen el DB-SI (Seguridad en caso de Incendio), DB-SUA (Seguridad de Utilización y Accesibilidad), DB-HS (Salubridad), DB-HR (Protección frente al Ruido) y DB-HE (Ahorro de Energía), así como las Instrucciones de Hormigón Estructural (EHE) y la Norma de Construcción Sismorresistente (NCSE).
+
+Para analizar el comportamiento estructural de una edificación, es crucial considerar tres factores:
+1.  **Geometría**: Es el factor más influyente, ya que la forma de la estructura determina la magnitud y dirección de los esfuerzos y tensiones soportados.
+2.  **Rigidez**: La capacidad de un elemento para resistir deformaciones.
+3.  **Materiales**: Las propiedades intrínsecas de los materiales utilizados en la construcción.
+
+En el estudio de la geometría, los **funiculares** y **polígonos funiculares** son formas geométricas que adopta un cable cuando se deforma libremente bajo cargas externas, adaptando su forma para estar puramente a tracción. Una **catenaria** es la curva que describe un cable bajo su propio peso, mientras que una **parábola** se forma bajo una carga lineal uniformemente repartida horizontalmente. Las **estructuras funiculares** se caracterizan por generar reacciones y esfuerzos de compresión y tracción exclusivos, sin flexión, para una distribución de cargas específica. Un aumento en la flecha de un cable funicular reduce las fuerzas internas desarrolladas, principio aplicable también a los arcos.
+
+### Nudos Estructurales y Estabilidad
+
+Las uniones entre elementos portantes se denominan **nudos**, y su tipología determina la estabilidad del sistema. Los nudos se clasifican según los movimientos limitados (coacciones) y permitidos (grados de libertad):
+*   **Apoyo**: Limita movimientos verticales (1 coacción), permitiendo horizontales y giros (2 grados de libertad).
+*   **Articulación**: Limita movimientos verticales y horizontales (2 coacciones), permitiendo giros (1 grado de libertad).
+*   **Empotramiento**: Limita todos los tipos de movimientos (verticales, horizontales y giros) (3 coacciones), sin grados de libertad.
+
+La **estaticidad de un cuerpo** se calcula mediante la diferencia entre el total de grados de libertad (externos e internos) y el total de coacciones (externas e internas). Los grados de libertad externos (GLE) de un sistema plano son 3 (desplazamiento vertical, horizontal y giro). Los grados de libertad internos (GLI) son 3(N-1), donde N es el número de barras. Las coacciones externas (CE) son 1 por apoyo, 2 por articulación y 3 por empotramiento. Las coacciones internas (CI) son n-1 para barras apoyadas, 2(n-1) para barras articuladas y 3(n-1) para barras empotradas (siendo 'n' el número de barras que llegan a cada nudo).
+*   Una estructura es **hiperestática** si el número de coacciones es mayor que los grados de libertad (GL < C), lo que indica mayor estabilidad.
+*   Una estructura es **isostática** si el número de coacciones es igual a los grados de libertad (GL = C), lo que permite un equilibrio limitado, pero estable.
+*   Una estructura es **hipostática** o un **mecanismo** si el número de coacciones es menor que los grados de libertad (GL > C), lo que la hace inestable y susceptible de desplazamiento ante una fuerza.
+
+Las estructuras **hiperestáticas** ofrecen mayor seguridad ante fallos de elementos, ya que redistribuyen los esfuerzos, mientras que las **isostáticas** son mínimamente estables y un fallo puede provocar el colapso. Los **mecanismos** son sistemas inestables que se desplazan ante una fuerza. La identificación de estas propiedades es crucial en las intervenciones de bomberos para evaluar la estabilidad de una estructura y determinar las tácticas de actuación más seguras y eficaces.
+
+### Evaluación del Comportamiento Estructural
+
+El análisis del comportamiento estructural se lleva a cabo en fases para garantizar la seguridad de los intervinientes y el éxito de la intervención:
+*   **Fase 0 (Estabilidad Previa a la Patología)**: Se analiza el equilibrio inicial de la estructura antes de que ocurra el daño.
+*   **Fase 1 (Nuevo Equilibrio de la Estructura Dañada)**: Se estudia cómo se reconfigura el equilibrio tras el daño inicial.
+*   **Fase 2 (Propuesta de Soluciones)**: Se plantean y justifican soluciones para estabilizar la estructura, priorizando las de menor riesgo.
+
+La geometría de una edificación es fundamental para su comportamiento sísmico. Es esencial que las edificaciones sean **simétricas y regulares** en planta y altura, evitando retranqueos que puedan generar deformaciones diferenciales. El **centro de masas** debe coincidir con el centro de rigidez para evitar torsiones.
+La **rigidez** de una estructura también es crítica. Puntos de fallo potenciales pueden surgir de variaciones en la rigidez, manifestándose como:
+*   **Efecto pilar corto**: Concentración de tensiones adicionales en pilares parcialmente coartados por elementos superficiales.
+*   **Efecto piso blando**: Se presenta en edificios con plantas diáfanas (sin particiones interiores) donde los pilares de la planta baja pasan de estar empotrados a doblemente articulados.
+*   **Fenómeno aplauso**: Ocurre en edificaciones adosadas de diferentes alturas, donde el edificio de menor tamaño impide el desplazamiento del mayor, generando fuertes cortantes y cizallamiento en los pilares intermedios de este último.
+*   **Resonancia o sincronismo**: Un movimiento sísmico de baja intensidad y larga duración puede ser más peligroso si coincide con la frecuencia natural de oscilación del edificio, provocando un aumento de la aceleración y posibles daños estructurales.
+
+Finalmente, el **tipo de material** influye significativamente en la respuesta de la edificación a las acciones sísmicas. Materiales más elásticos, como la madera, se consideran más seguros que los rígidos, como el hormigón.

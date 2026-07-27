@@ -1,0 +1,67 @@
+# Cimentaciones y Elementos de Contención en la Edificación: Una Perspectiva para Bomberos
+
+La intervención en edificaciones requiere un conocimiento profundo de sus sistemas constructivos, especialmente de las cimentaciones y elementos de contención, fundamentales para la estabilidad estructural. Cualquier fallo en estas estructuras puede generar situaciones de alto riesgo.
+
+## I. Cimentaciones: Transmisión de Cargas al Terreno
+
+Las **cimentaciones** son el conjunto de elementos estructurales que, en contacto directo con el terreno, tienen como objetivo principal transmitir las cargas de la edificación, asegurando que no se exceda la presión admisible del suelo ni se produzcan sobrecargas puntuales. Un fallo en la cimentación compromete gravemente la estabilidad del edificio.
+
+Para comprender su funcionamiento, es esencial considerar varios parámetros básicos. La **geometría** de la cimentación se define por la profundidad del estrato resistente, determinando el modelo y la forma que optimizarán la distribución de cargas, las reacciones del terreno y las tensiones transmitidas. En cuanto al **material**, el hormigón armado, ya sea in situ o prefabricado, es el más utilizado debido a su capacidad de adaptación geométrica y su elevada rigidez. La **rigidez** de las cimentaciones, conforme a la Instrucción de Hormigón Estructural (EHE-08), las clasifica en rígidas, como los elementos masivos que trabajan a compresión pura (zapatas macizas, pozos de cimentación), y flexibles, como las zapatas con vuelos elevados que trabajan a flexión o las losas de cimentación.
+
+Las tipologías de cimentación, según el Código Técnico de la Edificación (CTE DB SE-C), se dividen en cimentaciones directas o superficiales, cimentaciones profundas y elementos de contención.
+
+### 1. Cimentaciones Directas o Superficiales
+
+Las **cimentaciones directas, superficiales o someras** distribuyen las cargas de la estructura en un plano de apoyo horizontal, transmitiéndolas al terreno desde pilares individuales, muros de carga, muros de contención de sótanos o incluso desde toda la estructura (forjados o losas). Estas se emplean cuando la capa superficial del terreno posee la resistencia necesaria para soportar grandes cargas o, si el terreno es menos consistente, cuando las tensiones transmitidas son pequeñas. Se caracterizan por su poca profundidad bajo la superficie.
+
+Entre las cimentaciones directas se distinguen:
+
+*   **Zapatas Aisladas:** Son el sistema característico para cimentar cargas puntuales de pilares. Amplían la base de apoyo de la estructura para reducir las tensiones transmitidas al terreno, siendo ideales cuando el estrato resistente se encuentra a menos de 1 metro de profundidad. Son recomendadas en terrenos firmes y compactos con presiones medias-altas y para asentamientos pequeños o moderados.
+    *   **Geometría:** Las zapatas interiores suelen tener planta cuadrada por su facilidad constructiva y la simplicidad de su comportamiento estructural. Las zapatas de medianería y esquina presentan planta rectangular, con la dimensión mayor preferentemente paralela a la medianería para las primeras. El apoyo del pilar idealmente se centra en la zapata, aunque en casos de pilares en el borde del solar, se construyen zapatas excéntricas o de esquina, donde el pilar se apoya en un extremo.
+    *   **Rigidez:** Conforme a la EHE-08, las zapatas pueden ser **estructuralmente rígidas** si su voladizo (v) en la dirección principal es igual o menor a dos veces su canto (h), trabajando exclusivamente a compresión y pudiendo ser ejecutadas, teóricamente, sin armadura en hormigón en masa. Por otro lado, son **estructuralmente flexibles** si su voladizo es mayor a dos veces su canto, trabajando a flexión y requiriendo armadura, dado que el hormigón no resiste tracciones. Para evitar deformaciones y lograr mayor rigidez, se utilizan elementos auxiliares como **vigas de atado o soleras**, que actúan como arriostramiento lineal en cimentaciones superficiales y profundas, limitando los desplazamientos laterales, siendo cruciales en zonas sísmicas. Las **vigas centradoras** se emplean para absorber los momentos de vuelco generados por zapatas aisladas excéntricas, enlazándolas con zapatas interiores. Estas vigas suelen tener un canto importante (60-100 cm) y son efectivas para luces de 6-8 metros.
+*   **Zapatas Combinadas y Corridas:** Recogen las cargas de varios pilares en una única zapata. Las **zapatas combinadas** recogen cargas de dos o más pilares próximos, mientras que las **zapatas corridas** lo hacen de tres o más pilares alineados. Se recomiendan cuando las cargas por pilar son muy elevadas, la capacidad portante del terreno es pequeña o moderada, o existen varios pilares muy próximos que harían solapar las zapatas aisladas.
+    *   **Geometría:** La forma habitual en planta para zapatas combinadas es rectangular, aunque pueden ser irregulares o trapezoidales. Para muros continuos de fábrica, se construyen sobre una "verdugada", un murete más ancho que el muro que proporciona nivelación y mejor reparto de tensiones.
+    *   **Rigidez:** Al igual que las zapatas aisladas, su rigidez (rígida o flexible) depende de la relación canto/voladizo. Son sistemas recomendables para evitar movimientos o asentamientos diferenciales excesivos entre pilares, rigidificando el conjunto de la cimentación.
+
+### 2. Cimentaciones Profundas
+
+Las **cimentaciones profundas** se basan en un modelo donde el extremo inferior del elemento se encuentra a una profundidad superior a ocho veces su diámetro o ancho. Su uso es necesario cuando las cimentaciones superficiales no son técnicamente viables.
+
+*   **Pozos de Cimentación:** Tradicionalmente, son una solución de cimentación "intermedia" de bajo coste para alcanzar estratos resistentes a 4-6 metros.
+    *   **Geometría:** La tipología tradicional consiste en un pozo de unos 3 metros de profundidad, rellenado con piedra natural y arriostrado en su parte superior con arcos de ladrillo. Los sistemas actuales, según el CTE DB SE-C, incluyen pozos rellenados con hormigón pobre hasta la cota de apoyo, donde se asienta la zapata, o pozos con un plinto rígido ejecutado hasta el terreno competente para evitar problemas de pandeo.
+    *   **Rigidez:** Según la EHE-08, los pozos de cimentación de hormigón son cimentaciones rígidas que trabajan a compresión. Si no se justifica la colaboración lateral del terreno o si hay momentos horizontales significativos, es necesario introducir vigas centradoras o de atado como arriostramiento.
+*   **Emparrillados:** Son una solución característica para terrenos con baja capacidad de carga, alta deformabilidad, o heterogeneidades que anticipen asentamientos totales elevados.
+    *   **Geometría:** Recogen todos los pilares de la estructura en una única cimentación formada por zapatas corridas, creando una malla ortogonal que distribuye los esfuerzos de manera más homogénea.
+    *   **Rigidez:** Proporcionan una mayor rigidización y limitación de los asentamientos diferenciales debido a su amplia área de cimentación, lo que resulta en una estabilidad superior.
+*   **Losas de Cimentación:** Modelo de cimentación superficial que ofrece un buen comportamiento en terrenos heterogéneos, con baja capacidad portante (evitando asentamientos diferenciales), cuando la superficie cubierta por cimentaciones aisladas o emparrillados es una gran parte de la planta del edificio, o si el nivel de cimentación está por debajo del nivel freático.
+    *   **Geometría:** Cubre toda el área de cimentación con un espesor de hormigón despreciable en comparación con sus dimensiones superficiales. Recoge las cargas estructurales, buscando la mínima presión o carga unitaria sobre el terreno.
+    *   **Rigidez:** De acuerdo con la EHE-08, las losas de cimentación son siempre flexibles. En algunos casos, pueden funcionar como vigas de atado para cimentaciones puntuales.
+*   **Pilotes:** Elementos constructivos empleados para cimentar, que trasladan las cargas a un estrato resistente del suelo a gran profundidad, cuando una cimentación directa o superficial es inviable técnica o económicamente.
+    *   **Geometría:** Presentan una forma prismática con una longitud mucho mayor que su dimensión transversal media, superando las 8 veces su diámetro o ancho, y trabajando a compresión como una columna vertical.
+    *   **Rigidez:** Para evitar deformaciones, se utilizan **encepados** (elementos robustos y armados que enlazan grupos de pilotes con pilares o muros) y **arriostramientos** (rigidización de pilotes aislados o por parejas mediante vigas centradoras). El CTE DB SE-C prohíbe pilotes sin arriostrar, salvo pilotes de hormigón in situ con diámetro superior a 1 metro, previa justificación de estabilidad y excentricidad.
+    *   **Tipologías de Pilotes:** Se clasifican según su **forma de trabajo** en: *pilotes por fuste o flotantes* (cuando no hay estrato resistente claro y la carga se transmite por rozamiento lateral) y *pilotes por punta o en columna* (cuando existe un estrato resistente a profundidad y la carga se transmite principalmente por la punta). Según su **procedimiento constructivo** se distinguen: *pilotes prefabricados o hincados* (introducidos por vibración o hinca sin excavación previa, en tramos únicos o unidos) y *pilotes perforados u hormigonados in situ* (ejecutados tras excavación del terreno).
+*   **Micropilotes:** Pilotes de pequeñas dimensiones, utilizados en cimentaciones profundas de edificios existentes donde no es factible introducir maquinaria grande.
+
+### 3. Elementos de Contención: Estabilización de Desniveles
+
+Los **elementos de contención** son estructuras constructivas diseñadas para establecer y mantener diferencias de niveles en el terreno, permitiendo pendientes de inclinación mayores que el ángulo de reposo natural del suelo. Transmiten las cargas a su base y resisten los empujes laterales del terreno con deformaciones admisibles.
+
+*   **Geometría y Clasificación:** Generalmente son elementos esbeltos, aunque menos que las pantallas. Trabajan principalmente a compresión pura y/o a flexión. Se distinguen: *muros de gravedad* (trabajan a compresión), *muros a flexión* (en forma de L, como los muros en ménsula con zarpa) y *muros a flexocompresión* (con placas, contrafuertes o bataches).
+*   **Componentes del Muro:**
+    *   **Trasdós:** Superficie del muro en contacto con el terreno contenido.
+    *   **Intradós:** Superficie visible del muro, opuesta al trasdós.
+    *   **Puntera:** Parte de la base del muro que se extiende bajo el intradós, evitando giros hacia el intradós por empujes del terreno.
+    *   **Tacón:** Parte del cimiento que se introduce en el suelo bajo el trasdós, proporcionando mayor sujeción contra empujes horizontales y contrarrestando la rotación potencial del muro mediante el peso del terreno sobre él.
+    *   **Alzado o Cuerpo:** Parte del muro por encima de la cimentación, cuya altura y grosor dependen de la carga a soportar y trabaja a flexión para resistir los esfuerzos horizontales del terreno.
+*   **Rigidez y Materiales:** La estabilidad se garantiza mediante una construcción progresiva (inferior a superior) y el uso de tacones para el anclaje. No suelen tener sujeciones intermedias, confiando en el peso de las tierras y la oposición de la puntera. Se fabrican con hormigón (en masa o armado), mampostería o fábrica, según los esfuerzos.
+
+### 4. Pantallas de Contención: Soluciones para Excavaciones Profundas
+
+Las **pantallas de contención** son elementos diseñados para excavaciones verticales donde el terreno adyacente o las estructuras cimentadas no serían estables sin sujeción. También se utilizan para evitar filtraciones de agua (requieren impermeabilización complementaria) y asegurar la estabilidad del suelo contra sifonamiento.
+
+*   **Geometría:** Son elementos esbeltos (espesor despreciable frente a altura y longitud) y trabajan fundamentalmente a flexión.
+*   **Rigidez:** Se construyen por bataches discontinuos desde la superficie del terreno antes de la excavación. Requieren empotramiento en el terreno por debajo del nivel de excavación (aproximadamente 1/3 de su altura) y elementos de sujeción (anclajes, puntales con placas y cables trabajando a tracción, o apuntalamiento con forjados) para profundidades superiores a 3-4 metros.
+*   **Tipologías:** Se pueden ejecutar *in situ* como **muros pantalla continuos de hormigón** o **pantallas de pilotes**. También existen **pantallas prefabricadas** con paneles de hormigón armado o pretensado colocados en zanjas excavadas previamente.
+*   **Materiales:** Debido a los esfuerzos de flexión que soportan, se fabrican principalmente de hormigón armado, pretensado o postensado.
+
+Esta comprensión detallada de las cimentaciones y elementos de contención es crucial para los bomberos, permitiendo una evaluación rápida y precisa de la estabilidad de una edificación y la planificación de intervenciones seguras en situaciones de emergencia.

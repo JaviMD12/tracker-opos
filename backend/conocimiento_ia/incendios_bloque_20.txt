@@ -1,0 +1,89 @@
+# Dinámica del Fuego en Incendios de Interior y Técnicas de Extinción
+
+La comprensión de la dinámica del fuego en espacios confinados es fundamental para el desarrollo de tácticas de intervención eficaces en entornos de emergencias. El comportamiento de un incendio en el interior de una estructura está influenciado por diversos factores, como las características del combustible, la geometría del recinto y la aplicación de agentes extintores.
+
+## Clasificación de Incendios Según su Limitación
+
+Los incendios pueden clasificarse principalmente en dos categorías según el factor limitante para su desarrollo:
+
+1.  **Incendios Limitados por el Combustible (ILC):** En estos incendios, la generación de calor y el crecimiento del fuego están restringidos por la cantidad y distribución del material combustible, asumiendo una disponibilidad adecuada de oxígeno. La potencia del incendio se calcula multiplicando la tasa de combustión por el poder calorífico del material. Este tipo de incendio es común en las fases iniciales de desarrollo, en incendios con ventilación abundante, tras un barrido inicial de gases con ventilación por presión positiva (VPP), en recintos grandes con focos pequeños, y en incendios exteriores. Los entornos ILC suelen ser relativamente seguros para la progresión interior, con buena visibilidad, una capa de aire fresco en las zonas bajas, concentraciones de gases tóxicos bajas y una combustión completa, lo que facilita la localización del foco.
+
+2.  **Incendios Limitados por la Ventilación (ILV):** Aquí, el crecimiento y la potencia del fuego están condicionados por la cantidad de oxígeno disponible, habiéndose consumido una proporción significativa. La potencia del incendio en un ILV está determinada por el tamaño y la geometría de las aberturas de ventilación, siguiendo la ecuación de Kawagoe (Q = k * Hc * A * sqrt(h), donde k=0.092, Hc es el poder calorífico, A es el área de la abertura de ventilación y h es la altura de la abertura). Durante la transición de un ILC a un ILV, la concentración de oxígeno disminuye drásticamente, lo que provoca la generación de grandes cantidades de productos de combustión incompleta, como hollín y monóxido de carbono (CO), elevando la concentración de gases tóxicos. El entorno ILV es particularmente peligroso, con visibilidad nula que dificulta las operaciones internas, una atmósfera irrespirable y potencialmente combustible, y temperaturas elevadas y generalizadas.
+
+## Fenómenos de Rápido Desarrollo
+
+En los incendios de interior, la evolución puede incluir fenómenos de rápido desarrollo de gran peligrosidad:
+
+1.  **Flashover:** Es una fase transitoria en la que las superficies expuestas a la radiación térmica alcanzan simultáneamente su temperatura de inflamación, lo que resulta en una rápida propagación del fuego por todo el recinto. Para que ocurra un flashover, es necesario que la carga de combustible sea suficiente para generar una capa de gases calientes que radíe energía, que haya una proporción adecuada de oxígeno para que la mezcla de gases sea inflamable y que exista suficiente ventilación. Este fenómeno se caracteriza por un pico de potencia del incendio, una ligera sobrepresión y una alta radiación térmica. La intervención en estas condiciones debe enfocarse en limitar el aire, reducir la temperatura de la capa de gases o ventilar forzadamente.
+
+2.  **Flashover Inducido por la Ventilación:** Se produce en incendios infraventilados (ILV sin flashover previo) cuando una apertura de ventilación repentina introduce oxígeno suficiente para que la rica mezcla de gases combustibles alcance su rango de inflamabilidad. Esto causa un aumento rápido de la potencia del incendio y un aumento significativo de la temperatura. Los experimentos han demostrado que este fenómeno puede ocurrir en aproximadamente dos minutos después de la apertura de ventilación en viviendas con mobiliario moderno.
+
+3.  **Backdraft:** Consiste en una deflagración repentina provocada por la entrada de aire fresco a un incendio confinado y subventilado, donde se han acumulado productos de combustión incompleta debido a la falta de oxígeno. A diferencia del flashover inducido por ventilación, el aumento de potencia es abrupto y resultado de una deflagración. Los indicadores incluyen un incendio confinado y subventilado, pulsaciones en el recinto que sugieren que el fuego "respira" y la presencia de humo denso con tonos anaranjados o amarillentos.
+
+4.  **Explosión de Humo:** Es una deflagración que ocurre cuando una fuente de ignición enciende una mezcla de gases de incendio y aire que se encuentra dentro de su rango de inflamabilidad, a menudo en espacios ocultos donde los gases se han mezclado con el aire ambiente. Los indicadores incluyen humo caliente y no excesivamente denso en un espacio confinado fuera de la zona de incendio, y una mezcla homogénea de gases inflamables y aire.
+
+## Influencia del Combustible en Incendios de Interior
+
+El combustible es un factor determinante en el desarrollo y comportamiento de los incendios:
+
+*   **Poder Calorífico (Hc):** Representa la energía química contenida en una sustancia. A mayor poder calorífico, mayor la potencia del incendio. Por ejemplo, la gasolina tiene un Hc de 45 kJ/kg, mientras que la madera tiene 16 kJ/kg.
+
+*   **Carga de Combustible (Cc):** Es la cantidad de energía por unidad de superficie que puede liberar un combustible (Cc = Hc * mu, donde mu es la masa de combustible por unidad de superficie). La carga de combustible influye en la duración del incendio. Una carga de 200 MJ/m² se considera suficiente para alcanzar un estado de ILV.
+
+*   **Tasa de Pirólisis (tp) y Tasa de Combustión (mc):** La tasa de pirólisis mide la masa de combustible que se descompone por calor, indicando la volatilidad de los compuestos inflamables. La tasa de combustión es la velocidad a la que el combustible se consume. Ambos factores están ligados a la energía de activación; un combustible que requiere una gran energía de activación tendrá un desarrollo lento.
+
+*   **Velocidad de Desarrollo del Incendio:** Se clasifica desde muy rápida hasta lenta, dependiendo de las tasas de pirólisis y combustión.
+
+*   **Combustibles Tradicionales vs. Modernos:** Los materiales sintéticos y plásticos presentes en el mobiliario moderno tienen un poder calorífico superior y un desarrollo más rápido que los combustibles tradicionales. Esto conlleva que los incendios modernos alcancen el estado de ILV con mayor rapidez, a temperaturas más elevadas y con dinámicas más violentas.
+
+## Influencia del Recinto en Incendios de Interior
+
+Las características del recinto son cruciales para la dinámica del fuego:
+
+*   **Incendios de Contenido vs. de Estructura:** Los incendios de contenido se limitan a los combustibles en el interior del edificio, sin que la estructura contribuya. Son típicos en construcciones de obra de fábrica y hormigón. Los incendios de estructura, por otro lado, afectan tanto a los contenidos como a la propia edificación (ej. casas tradicionales de madera). Esto tiene implicaciones tácticas diferentes para la propagación.
+
+*   **Superficie y Altura del Recinto:**
+    *   La carga de combustible en áreas urbanas se relaciona con la superficie y el perímetro del recinto. Los recintos más pequeños, en proporción, tienen una mayor longitud de perímetro respecto a su superficie.
+    *   La potencia del incendio en un ILV depende del tamaño de la apertura de ventilación. En recintos grandes, las pérdidas de calor son mayores, lo que resulta en temperaturas y potencias menores.
+    *   Una mayor altura del recinto implica un mayor volumen de oxígeno disponible y mayores pérdidas de calor. Sin embargo, a menor altura, el desarrollo del incendio es más rápido y el estado de ILV se alcanza con mayor facilidad debido a la reducción de la distancia entre la capa de gases calientes y el combustible, aumentando la radiación. Existe una altura óptima donde la potencia del incendio es máxima.
+
+*   **Geometría Interna: Confinamiento y Compartimentación:**
+    *   El **confinamiento** es el grado de ventilación entre el recinto incendiado, el exterior y otras estancias. Un mayor confinamiento reduce la potencia del incendio y la posibilidad de flashover.
+    *   La **compartimentación** interna del edificio influye en el desarrollo, facilitando la lucha "recinto a recinto" y requiriendo caudales de extinción menores. Los espacios diáfanos, en cambio, facilitan la propagación y el acceso de aire.
+
+*   **Nivel de Aislamiento e Inercia Térmica:**
+    *   Un alto **aislamiento térmico** reduce la pérdida de calor, resultando en temperaturas más altas, mayor velocidad de desarrollo, mayor potencia del incendio y menores concentraciones de oxígeno (debido a su mayor consumo).
+    *   La **inercia térmica** (capacidad de acumular calor) prolonga la fase de crecimiento del incendio al absorber energía del entorno, pero luego libera ese calor durante las fases de pleno desarrollo y decaimiento.
+
+## Riesgos en el Trabajo de Incendios de Interior
+
+La intervención en incendios de interior presenta riesgos intrínsecos para los bomberos y las víctimas:
+
+*   **Inflamabilidad y Fenómenos de Rápido Desarrollo:** La ignición de gases puede aumentar la potencia del incendio, dificultando las operaciones.
+
+*   **Calor:** Representa un peligro físico. La exposición a una energía calorífica total que supera la capacidad de defensa del cuerpo humano puede causar lesiones graves o la muerte. La humedad en la atmósfera amplifica la eficacia de la transmisión de calor.
+    *   La transmisión de calor ocurre por **radiación** (del foco y la capa de gases calientes), **conducción** (contacto con equipos de protección) y **convección** (flujos de gases calientes).
+    *   La temperatura máxima del aire respirable tolerable es de 140°C por un breve periodo, no siendo tolerable con humedad. El equipo de protección personal (EPP) protege al bombero, pero se satura con el tiempo.
+    *   Las temperaturas en el interior pueden variar drásticamente (600°C en zonas superiores, 100°C en zonas bajas).
+    *   Valores de radiación de 10 kW/m² marcan el umbral de trabajo, y 20 kW/m² pueden causar daños en el EPP y lesiones personales.
+    *   Los flujos de gases calientes forman una "ruta caliente" de baja visibilidad, alta temperatura y alta concentración de gases tóxicos, mientras que los flujos de aire fresco forman una "ruta fría" más segura.
+
+*   **Toxicidad:** La inhalación de gases tóxicos (como CO y HCN, entre otros) produce efectos sinérgicos que pueden ser más nocivos que la suma individual de sus componentes, afectando tejidos pulmonares y funciones vitales. La magnitud de estos efectos depende de la dosis y el tiempo de exposición.
+
+*   **Visibilidad:** La concentración de partículas en suspensión reduce drásticamente la visibilidad, especialmente en la transición de ILC a ILV, dificultando la orientación y localización del foco. Depende de la estratificación térmica y la ubicación del plano neutro.
+
+*   **Rango de Supervivencia de Víctimas:** La supervivencia de las víctimas es compleja y depende de factores respiratorios (agentes tóxicos, falta de oxígeno, partículas) y térmicos (quemaduras, bloqueo respiratorio). Estudios indican un rango de supervivencia de 6 a 12 minutos con una puerta abierta.
+
+## Influencia de la Aplicación de Agua
+
+La aplicación de agua es una técnica primordial que modifica la dinámica del incendio a través de dos efectos principales:
+
+*   **Enfriamiento:** El agua absorbe grandes cantidades de energía debido a su alto calor latente de vaporización (2.257 kJ/kg) y calor específico (4.183 J/(gºC)). Este proceso se desarrolla en tres fases: calentamiento del agua, cambio de fase a vapor (evaporación) y calentamiento del vapor. La eficacia del enfriamiento depende de dónde se aplique el agua:
+    *   Sobre **combustibles**: enfría las superficies e interrumpe la pirólisis.
+    *   En el **colchón de gases**: enfría y diluye, alejando los gases del rango de inflamabilidad, y contribuye a la contracción de la capa de gases.
+    *   Sobre **superficies del recinto**: enfría las paredes, y el vapor contribuye a la dilución de los gases.
+    *   Es crucial que el agua se evapore en el aire para maximizar su efecto, ya que el vapor absorbe aproximadamente siete veces más energía que el agua líquida.
+
+*   **Dilución:** El vapor de agua generado por la evaporación del agua aplicada se expande considerablemente (1 litro de agua produce hasta 1.600 litros de vapor a 100°C, y aún más a temperaturas superiores, hasta 3.900 litros a 600°C), desplazando los gases combustibles y comburentes y alejando la mezcla de su rango de inflamabilidad.
+
+La efectividad de la aplicación de agua para enfriar los gases depende del tamaño de la gota (0.3-0.7 mm es el rango óptimo), la distancia de aplicación (para permitir la evaporación antes del impacto) y la temperatura de las superficies impactadas. La escorrentía reduce la eficacia. La valoración de la inflamabilidad de los gases basada únicamente en criterios tradicionales o la concentración de CO ha sido desacreditada; la experiencia y un sólido conocimiento de la dinámica del fuego son vitales.

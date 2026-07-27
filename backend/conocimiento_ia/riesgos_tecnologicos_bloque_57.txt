@@ -1,0 +1,189 @@
+En la preparación para las oposiciones de bombero, un conocimiento profundo de las instalaciones presentes en las edificaciones resulta fundamental. Este dominio abarca desde los sistemas de suministro de agua y electricidad hasta las redes de saneamiento, permitiendo una intervención eficaz y segura ante cualquier emergencia.
+
+## Instalaciones de Suministro de Agua
+
+El suministro de agua en los edificios se organiza a través de redes de agua fría y agua caliente sanitaria (ACS), ambas reguladas por el Código Técnico de la Edificación (CTE) en su Documento Básico de Salubridad (DB HS).
+
+### Agua Fría
+La **red de agua fría** se define como el sistema de canalización de agua apta para consumo humano, diseñada para proporcionar caudales y presiones adecuados en todos los puntos de captación del edificio. La calidad del agua es esencial, requiriendo sistemas de filtración, protección y regulación de materiales para evitar la presencia de sustancias nocivas, alteraciones en la potabilidad, olores, sabores o corrosión interna. Esta instalación se rige por el CTE DB HS-4.
+
+Existen dos tipologías principales de redes según el número de contadores:
+*   **Red con contador único:** Donde un solo contador gestiona el consumo total.
+*   **Red con contadores divisionarios:** Donde múltiples contadores registran el consumo individual.
+
+Los **elementos básicos** de la instalación de agua fría, desde el punto de vista de las conexiones, incluyen:
+*   La **acometida**, que es la sección que conecta la red general de distribución exterior con la Caja General de Protección (CGP).
+*   La **red general**, que distribuye el agua a las diferentes unidades.
+*   Las **instalaciones particulares**, que son las redes internas de cada vivienda o local.
+*   Las **instalaciones complementarias**, como los sistemas de bombeo.
+
+Para la intervención de los bomberos, es crucial identificar los **equipos de corte y maniobra**:
+*   La **llave de toma o collarín de toma en carga**, ubicada en la tubería de distribución exterior, que abre el paso a la acometida.
+*   La **llave de corte en el exterior de la propiedad**, para el control general del suministro.
+*   La **llave de corte general**, situada en el interior de la propiedad (en un armario o arqueta común), que secciona el suministro a todo el edificio.
+*   Las **llaves de contador**, una antes y otra después del mismo, ya sean centralizados o divisionarios.
+*   El **grifo**, que es la llave de paso accesible dentro de cada propiedad, que aísla o conecta la red de cada establecimiento.
+*   Las **derivaciones particulares**, que alimentan los cuartos húmedos y disponen de su propia llave de corte.
+*   Los **puntos de consumo** (depósitos, grifos, calentadores, etc.), cada uno con su llave de corte individual.
+*   Las **válvulas de seccionamiento**, ubicadas antes y después de los equipos de sobre-elevación y reducción de presión.
+
+La **señalización** de estas redes se realiza mediante colores: verde oscuro o azul para agua potable, y marcas específicas para diferenciar las tuberías de agua no potable. Los **riesgos** principales para los bomberos son las inundaciones, especialmente en presencia de instalaciones eléctricas.
+
+### Agua Caliente Sanitaria (ACS)
+La **red de agua caliente sanitaria (ACS)** es una instalación que, alimentándose de la red de agua fría, calienta el agua para uso y consumo humano. Su regulación también recae en el CTE DB HS-4, con normativas adicionales para equipos bi-térmicos como paneles solares.
+
+Las tipologías de redes de ACS, con trazado paralelo, son:
+*   **Red de impulsión:** Que distribuye el ACS desde el generador térmico hasta los puntos de consumo, adaptándose al sistema de calefacción (suelo radiante, radiadores, etc.).
+*   **Red de retorno:** Obligatoria en instalaciones con una longitud de tubería de impulsión superior a 15 metros, garantizando una temperatura adecuada del ACS en toda la red, incluso sin demanda.
+
+Los **elementos básicos** de una instalación de ACS incluyen:
+*   La **acometida de agua fría** de consumo humano.
+*   Los **aparatos de generación y acumulación**, compuestos por:
+    *   **Generador de calor** (calderas, intercambiadores) para elevar la temperatura del agua.
+    *   **Acumulador**, que almacena el agua caliente para aumentar la inercia térmica y permitir el uso de generadores de menor potencia.
+*   Las **redes de suministro**, que transportan el agua atemperada hasta los elementos terminales.
+*   Los **elementos terminales** (grifos, duchas, etc.).
+*   Los **circuitos de retorno**, que devuelven el agua desde los puntos más alejados al acumulador.
+
+Los **equipos de corte y maniobra** constan de numerosas válvulas automáticas (termostáticas, antirretorno, equilibrio) y manuales en la entrada y salida de cada componente. Los **riesgos** para los bomberos son las inundaciones y, de manera particular, las quemaduras debido a las altas temperaturas (hasta 80ºC) del agua de los generadores.
+
+## Instalaciones de Saneamiento
+El **sistema de saneamiento** se define como el conjunto de instalaciones destinadas a extraer las aguas residuales, ya sea de forma independiente o combinada con las precipitaciones atmosféricas y escorrentías, según el CTE DB HS 5.
+
+Se distinguen **tipos de redes** según la naturaleza del agua:
+*   **Redes de aguas negras, residuales o fecales:** Recogen las aguas de los aparatos sanitarios, vertiéndolas a la red pública o a fosas sépticas.
+*   **Redes de aguas blancas o pluviales:** Recogen las aguas de cubiertas, terrazas, patios y jardines, conducidas por bajantes, que pueden verterse a la red de alcantarillado o directamente al medio natural.
+
+Según el sistema de canalización, pueden ser:
+*   **Sistema unitario:** Donde todas las aguas se vierten a una única canalización.
+*   **Sistema separativo:** Con dos canalizaciones independientes para aguas negras y aguas blancas.
+*   **Sistema semi-separativo:** Dos tuberías separadas, una para aguas residuales a la depuradora y otra para aguas pluviales al medio receptor.
+
+Los **elementos básicos** incluyen pequeñas redes de evacuación, bajantes de aguas residuales y colectores horizontales. Los **elementos visitables**, de interés para los bomberos por ser puntos de intervención, incluyen:
+*   **Sifones individuales y botes sifónicos:** Accesibles desde el local de instalación, con dispositivos de registro y sellado hidráulico. Los botes sifónicos son colectivos para varios aparatos compatibles. Se prohíbe conectar a sifones de electrodomésticos para evitar burbujas de aire.
+*   **Arquetas de inspección:** Pequeños depósitos enterrados para recibir, enlazar y distribuir tuberías subterráneas, fundamentales para la revisión y limpieza de la red.
+    *   **Arquetas de paso:** Conectan dos conductos o se ubican en cambios de dirección.
+    *   **Arquetas sumidero:** Con rejilla metálica y desagüe mínimo de 110 mm, descargando a arqueta sifónica o separador de grasas.
+    *   **Arquetas sifónicas:** Con codo de 90º para sello hidráulico, evitando olores, situadas antes de la conexión a la red general.
+    *   **Arquetas separadoras de grasas:** Pre-red general para evitar vertidos grasos, registrables para limpieza.
+*   **Pozos de registro:** Puntos de acceso a alcantarillas en cambios de dirección o pendiente de grandes colectores, construidos in situ con ladrillo y tapa hermética, incluyendo escaleras fijas si son profundos.
+*   **Fosas sépticas:** Tanques estancos e impermeables con 2 o más compartimentos para decantación y fermentación anaerobia de aguas residuales. El agua tratada se evacúa a un pozo de absorción. Se distinguen de los pozos negros/ciegos (prohibidos).
+
+El **riesgo principal** para los bomberos en estas intervenciones es la asfixia por acumulación de gases tóxicos durante el mantenimiento o limpieza, pudiendo generar víctimas encadenadas; por lo que el uso de equipos de respiración autónoma (ERA) es esencial.
+
+## Instalaciones de Electricidad
+Las **instalaciones de electricidad** se centran en las redes específicas de los edificios, definiéndose las instalaciones de enlace como el conjunto de elementos que unen la red de distribución con las instalaciones interiores o receptoras. La legislación principal que rige estas instalaciones es el Reglamento Electrotécnico de Baja Tensión (REBT).
+
+El **grado de electrificación** de una vivienda se determina por la potencia eléctrica mínima que debe soportar y los circuitos independientes necesarios. Se distinguen dos grados:
+*   **Electrificación básica:** Potencia no inferior a 5.750 W a 230 V, con 5 circuitos (C1: iluminación; C2: tomas generales y frigorífico; C3: tomas de horno y cocina; C4: lavadora, lavavajillas y termo eléctrico; C5: tomas de baño y auxiliares de cocina).
+*   **Electrificación elevada:** Potencia no inferior a 9.200 W a 230 V, con más de 5 circuitos (hasta 12 unidades) que incluyen los de la electrificación básica, más C6: C1 adicional; C7: C2 adicional; C8: calefacción eléctrica; C9: aire acondicionado; C10: secadora; C11: domótica; y C12: C3, C4, C5 adicional.
+
+Los **elementos básicos** de las instalaciones de enlace son:
+*   La **acometida**: Tramo de la instalación que conecta la red de distribución con la Caja General de Protección (CGP), responsabilidad de la compañía eléctrica. Puede ser aérea (conductores aislados o trenzados) o subterránea (bajo vías principales), y es única por edificio.
+*   La **Caja General de Protección (CGP)**: Aloja los elementos de protección de la línea repartidora y marca el inicio de la propiedad del usuario, con un límite de 160 kW por cada una.
+*   La **Línea General de Alimentación (LGA)**: Enlaza la CGP con la centralización de contadores, con tres conductores de fase con fusible y un neutro sin fusible.
+*   La **centralización de contadores (CC)**: Agrupa los contadores de consumo total, hasta 16 en pared común, o en un cuarto específico con puerta RF si hay más, incluyendo un interruptor de corte general.
+*   La **derivación individual de abonado**: Conecta la centralización de contadores con el Cuadro de Mando y Protección (CMP) de cada vivienda, ubicado detrás de la puerta de entrada. Incluye:
+    *   **Interruptor de Control de Potencia (ICP)**: Dispositivo automático y precintado por la compañía, que corta el suministro si se excede el consumo contratado, con rearme manual.
+    *   **Interruptor General Automático (IGA)**: Protege la derivación individual de sobrecargas y cortocircuitos, con rearme manual.
+    *   **Interruptor Diferencial (ID)**: Actúa ante derivaciones a tierra, cortando la corriente para evitar descargas. Requiere conexión a tierra y alta sensibilidad (30 mA es común).
+    *   **Pequeños Interruptores Automáticos (PIA)**: Protegen cada circuito de la vivienda de sobrecargas y cortocircuitos, siendo magnetotérmicos y bipolares (monofásicos) o multipolares (trifásicos).
+
+Adicionalmente, la **red de tierra** (malla o cableado con picas) conecta el edificio a las cimentaciones y a la tierra para proporcionar una referencia de cero voltios, asegurando el funcionamiento de los diferenciales. El telurómetro es la herramienta utilizada para medir la conductividad o resistividad del terreno.
+
+Los **riesgos** principales para los bomberos son la electrocución y el incendio por cortocircuitos.
+
+## Conceptos Fundamentales en Intervenciones NRBQ
+
+En el ámbito de las emergencias con riesgos nucleares, radiológicos, biológicos y químicos (NRBQ), la **valoración del siniestro** es un paso inicial crítico. Esta implica la recopilación y análisis de información, la evaluación y la comunicación continua de riesgos para guiar las operaciones.
+
+Para ello, es fundamental conocer la **materia** implicada, que se define como todo aquello que posee masa y ocupa un volumen. A nivel atómico, la materia se compone de **átomos**, la unidad más pequeña que mantiene las propiedades de un elemento químico. Estos átomos poseen un **núcleo** central con **protones** (carga positiva) y **neutrones** (sin carga), y una **corteza** externa con **electrones** (carga negativa). El número de protones define el **número atómico (Z)**, y la suma de protones y neutrones el **número másico (A)**. Los átomos con el mismo número atómico pero diferente número de neutrones se denominan **isótopos**. Los núcleos inestables emiten radiaciones. Las **moléculas** son agrupaciones de átomos con propiedades físico-químicas específicas, que no pueden descomponerse por medios físicos. Pueden ser de un solo tipo de átomo (elementos químicos) o de varios (compuestos químicos).
+
+La materia se presenta en tres **estados de agregación**: sólido, líquido y gaseoso, que dependen de la presión y la temperatura.
+*   Los **sólidos** tienen forma y volumen constantes, con partículas fuertemente unidas.
+*   Los **líquidos** poseen volumen constante pero forma variable, adaptándose al recipiente, con fuerzas de atracción menores.
+*   Los **gases** tienen forma y volumen variables, con partículas que se expanden libremente debido a la baja fuerza de atracción.
+
+Los **cambios de estado** (progresivos o regresivos) ocurren a una temperatura específica a presión constante, con absorción o cesión de calor.
+*   **Fusión:** Sólido a líquido por absorción de calor. El punto de fusión aumenta con la presión, excepto en el agua, hierro y bismuto.
+*   **Vaporización (evaporación/ebullición):** Líquido a gaseoso. La evaporación ocurre en superficie a cualquier temperatura, mientras que la ebullición se produce en todo el volumen a una temperatura específica con formación de burbujas, el punto de ebullición.
+*   **Sublimación:** Sólido a gas sin pasar por líquido (ej. hielo seco), poco frecuente en condiciones normales.
+*   **Solidificación:** Líquido a sólido por cesión de calor.
+*   **Condensación (licuación):** Gaseoso a líquido, invirtiendo las condiciones de vaporización. La licuación se asocia a aumento de presión y bajas temperaturas.
+*   **Sublimación regresiva:** Gas a sólido sin pasar por líquido.
+
+El **diagrama de fases** representa gráficamente la relación entre presión, temperatura y los estados de agregación de una sustancia. El **punto triple** es donde coexisten las tres fases en equilibrio, y el **punto crítico** es la temperatura máxima a la que pueden coexistir líquido y gas.
+
+Las **propiedades físicas** relevantes incluyen:
+*   **Densidad (ρ):** Cantidad de masa por unidad de volumen. La **densidad relativa** es la relación entre la densidad de una sustancia y la de una referencia (agua para líquidos/sólidos, aire para gases). Las densidades varían con temperatura y presión, siendo constante en sólidos.
+    *   Las **leyes de los gases** (Boyle-Mariotte, Charles, Gay-Lussac) describen cómo la presión, volumen y temperatura se relacionan.
+    *   La **ecuación general de los gases** relaciona estas tres variables.
+    *   La densidad de las mercancías peligrosas es crucial para prever su comportamiento (flotan, se hunden, se dispersan).
+*   **Presión de vapor:** Presión a la que un líquido y su vapor están en equilibrio. Aumenta con la temperatura, incrementando la volatilidad de la sustancia.
+*   **Solubilidad:** Capacidad de una sustancia para disolverse en otra, afectada por temperatura, presión y la naturaleza del soluto/disolvente. Los sólidos aumentan solubilidad con temperatura, los gases disminuyen. Las sustancias polares son hidrosolubles. Se clasifica en muy soluble, medianamente soluble, poco soluble.
+*   **Viscosidad:** Resistencia de un fluido a fluir, medida en Poises (Pa·s). Disminuye con la temperatura. La alta viscosidad facilita la contención de derrames.
+*   **Conductividad eléctrica:** Capacidad de una sustancia para conducir corriente, relacionada con su estructura atómica, molecular y temperatura. Los materiales se clasifican en superconductores, conductores (metales, soluciones salinas), semiconductores y dieléctricos (aislantes como vidrio, cerámica, plásticos). La resistividad es lo contrario a la conductividad. La **electricidad estática**, generada por fricción o separación de cuerpos, puede provocar chispas peligrosas en ambientes inflamables.
+
+Las **propiedades químicas** describen cómo una sustancia se transforma en otra (cambio irreversible).
+*   **Factor pH:** Escala del 0 al 14 que mide la concentración de iones de hidrógeno. Ácidos (pH 0-3), bases o alcalinas (pH 12-14), neutro (pH 7).
+    *   Los **ácidos** son corrosivos, causan quemaduras, reaccionan con metales y bases, conducen electricidad en disolución.
+    *   Las **bases** (álcalis) son cáusticas, deslizantes y reaccionan con ácidos.
+*   **Inflamabilidad:** Se evalúa por:
+    *   **Rango de inflamabilidad:** Concentraciones mínima (LII) y máxima (LSI) de vapor de combustible en aire para que ocurra la inflamación.
+    *   **Punto de inflamación:** Temperatura mínima a la que los vapores de un líquido pueden formar una mezcla combustible con el aire. Los líquidos se clasifican en combustibles (punto de inflamación ≥ 38 ºC) e inflamables (punto de inflamación < 38 ºC).
+    *   **Energía mínima de ignición (EMI o MIE):** Energía mínima para iniciar la combustión de una mezcla inflamable. Aumenta con la concentración de oxígeno.
+*   **Toxicología:** Disciplina que identifica y cuantifica los efectos nocivos de agentes físicos y químicos en seres vivos. La **relación dosis-efecto** vincula la dosis ingerida con el efecto.
+    *   **Dosis de exposición:** Concentración en aire inhalada en un tiempo.
+    *   **Dosis absorbida/retenida:** Cantidad presente en el cuerpo.
+    *   **Umbral de dosis:** Nivel sin efecto apreciable.
+    *   **Dosis letal (DL50):** Causa la muerte al 50% de la población animal.
+    *   **Dosis efectiva (DE50):** Genera un efecto específico en el 50% de los animales sin causar la muerte.
+    *   **NOEL (NOAEL):** Nivel sin efecto adverso observado.
+
+La **legislación comunitaria** clasifica las sustancias peligrosas por sus propiedades toxicológicas:
+*   **Muy Tóxicos:** Efectos agudos o crónicos, o muerte en pequeñas cantidades.
+*   **Tóxicos:** Efectos agudos o crónicos, o muerte en pequeñas cantidades.
+*   **Nocivos:** Efectos agudos o crónicos, o muerte en cantidades no pequeñas.
+*   **Corrosivos:** Producen acción destructiva en tejidos vivos.
+*   **Irritantes:** Causa inflamación con contacto breve.
+*   **Sensibilizantes:** Causa hipersensibilidad con exposición posterior.
+
+Según los efectos en la salud humana, pueden ser:
+*   **Carcinogénicos (cancerígenos):** Pueden producir o incrementar el cáncer.
+*   **Mutagénicos:** Pueden causar alteraciones genéticas hereditarias.
+*   **Tóxicos para la reproducción:** Deterioran la función reproductora.
+
+Las **sustancias peligrosas para el medio ambiente** son aquellas que suponen un riesgo para uno o más componentes ambientales.
+
+La normativa sueca clasifica los límites de exposición por valores:
+*   **Level Limit Value (LLV):** Promedio de concentración máxima durante una jornada.
+*   **Ceiling Limit Value (CLV):** Concentración máxima durante 15 minutos o periodos cortos.
+*   **TLV/STEL:** Límites de concentración para trabajos de corta duración (no más de 15 minutos, hasta 4 veces al día, con 60 minutos entre exposiciones sucesivas).
+*   **TLV/C:** Concentración que no debe sobrepasarse en ningún instante.
+*   **IPVS o IDLH:** Nivel de concentración peligroso inmediato para la vida o la salud.
+
+## Recipientes de Transporte y Almacenaje NRBQ
+
+Los recipientes para mercancías peligrosas se regulan por diversos reglamentos internacionales como ADR (carretera), RID (ferrocarril), ADN (navegación interior), IATA-OACI (aviación) e IMO-IMDG (marítimo). El tamaño, características y uso de los envases varían según el tipo de mercancía, su estado y las condiciones de presión y temperatura.
+
+### Tipos de Recipientes
+Se distinguen tres modalidades principales de transporte:
+*   **Transporte en bultos:** Mercancías envasadas en cajas, botellas, jerricanes, bidones, etc.
+*   **Transporte en cisternas:** El vehículo mismo actúa como envase para líquidos o gases.
+*   **Transporte a granel:** Para sólidos sin envasar.
+
+Para el transporte en bultos, se utilizan diversos **tipos de recipientes**:
+*   **Bidones:** Cilíndricos, de metal, cartón o plástico, con capacidad máxima de 400 kg.
+*   **Jerricanes (cuñetes):** Rectangulares o poligonales, de metal o plástico, con capacidad de 60 o 120 kg.
+*   **Cajas:** De metal, madera, contrachapado, aglomerado, cartón o plástico, con capacidad máxima de 400 kg (60 kg para plástico expandido).
+*   **Sacos:** Flexibles, de papel, plástico o textil, con capacidad máxima de 50 kg.
+*   **Embalajes compuestos:** Recipiente interior de plástico, vidrio o gres con embalaje exterior de metal, cartón o madera.
+*   **Embalajes metálicos ligeros:** De sección circular, elíptica, rectangular, poligonal o cónica, con paredes finas (<0,5 mm).
+*   **GRG (Gran Recipiente para Granel, IBC):** Embalajes rígidos o flexibles transportables, no usados para material radiactivo de clase 7, materias infecciosas de clase 6.2 o gases de clase 2. Su capacidad no supera los 3 m³ para sólidos/líquidos de grupos II y III, 1,5 m³ para sólidos del grupo I en GRG flexibles, 3 m³ para sólidos del grupo I en GRG metálicos, y 3 m³ para material radiactivo de clase 7.
+
+Los **recipientes a presión** específicos para gases (licuados, comprimidos o disueltos) son generalmente metálicos y cilíndricos, con una o dos válvulas.
+*   **Botellas (bombonas):** Para butano o propano doméstico (hasta 150 litros), con válvula Kosangas para alimentar instalaciones y liberar presión por exceso.
+*   **Bloques de botellas:** Conjunto de botellas unidas por tubería colectora y armazón metálico, para grandes cantidades de gas a alta presión.
+*   **Tubos:** Recipientes a presión sin soldaduras, capacidad entre 150 y 3000 litros.
+*   **Recipientes criogénicos:** Presurizados y aislados térmicamente para gases licuados refrigerados (hasta 1000 litros).
+*   **Bidones a presión

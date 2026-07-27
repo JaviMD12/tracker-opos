@@ -1,0 +1,43 @@
+## Comportamiento y Protección de Materiales y Estructuras frente al Fuego en Intervenciones de Emergencia
+
+La comprensión del comportamiento de los materiales y sistemas constructivos ante la acción del fuego es una piedra angular en la formación de los profesionales de emergencias. Los incendios pueden comprometer la integridad estructural de las edificaciones y poner en riesgo la seguridad de las personas, por lo que una intervención efectiva se basa en un conocimiento profundo de las reacciones térmicas y mecánicas de los distintos elementos, así como de las tácticas de protección y los equipos adecuados.
+
+### I. Reacción de Materiales Estructurales al Fuego
+
+Cada material constructivo responde de forma particular a las altas temperaturas, influenciando la estabilidad general de la estructura durante un incendio.
+
+#### A. Hormigón y sus Derivados
+
+El **hormigón armado (HA)** se caracteriza por una considerable masa y densidad, lo que le confiere una alta inercia térmica, requiriendo un aporte significativo de calor para que su temperatura interna aumente. Su baja conductividad térmica tiende a concentrar el calor en las superficies expuestas, limitando la propagación interna. Aunque su coeficiente de dilatación es bajo, similar al del acero, un incendio prolongado puede desencadenar fenómenos termohidromecánicos. Estos incluyen las dilataciones diferenciales entre el hormigón y la armadura, así como el aumento de la presión interna del vapor de agua en los poros del material, lo que puede provocar el *spalling* o desprendimiento explosivo de capas, dejando al descubierto la armadura. En cuanto a la resistencia, el hormigón armado reduce su capacidad portante a partir de los 380ºC si se mantiene la exposición. Su reacción al fuego se clasifica como M0 o A1, indicando que es incombustible y no contribuye a la ignición ni a la propagación del fuego. Visualmente, el hormigón experimenta cambios de coloración que sirven como indicadores de la temperatura alcanzada, pasando de gris original (hasta 300ºC) a rojizos (300-600ºC), luego a un segundo gris con partículas rojas (600-900ºC), y finalmente a un color ante o amarillo pálido (más de 900ºC), momento en el que pierde casi toda su resistencia.
+
+Las variantes del hormigón, como el **pretensado** y el **postensado**, presentan un comportamiento ante el fuego más desfavorable que el hormigón armado tradicional. En el **pretensado**, donde se utilizan alambres de acero de menor diámetro en elementos prefabricados, la afección térmica causa una pérdida de resistencia más acusada, especialmente en elementos sometidos a tracción y flexión. Las armaduras pretensadas se deforman rápidamente con altas temperaturas, liberando la tensión de pretensado de forma irreversible y reduciendo drásticamente la capacidad estructural. Se estima que, si el hormigón pierde el 35% de su resistencia, el acero de pretensado ya ha perdido entre el 60% y el 70% de su capacidad. Por su parte, el **hormigón postensado**, cuyas armaduras se tensan después del fraguado, puede ser aún más vulnerable, especialmente si las vainas de las armaduras no adherentes carecen de protección específica contra el fuego, convirtiéndose en puntos críticos de colapso.
+
+#### B. Estructuras de Fábrica y Madera
+
+Las **estructuras de fábrica**, construidas con materiales como ladrillos o piedra, poseen una elevada masa y una alta inercia térmica, lo que les permite mantener su capacidad portante durante periodos prolongados en un incendio. Su baja conductividad térmica confina el calor a la zona expuesta, y su reducido coeficiente de dilatación minimiza los esfuerzos por expansión. Estos materiales son incombustibles (clase M0 o A1) y no contribuyen a la propagación del fuego. La resistencia al fuego es alta en fábricas de materiales pétreos o ladrillos macizos, pero puede ser menor en muros de hormigón o ladrillos con alto porcentaje de huecos. Sin embargo, si múltiples forjados colapsan, los muros de fábrica pueden desplomarse por falta de arriostramiento. Además, una exposición prolongada a altas temperaturas puede generar dilataciones diferenciales que provoquen el desplome del muro hacia su cara fría, y los elementos pétreos naturales pueden sufrir roturas de aristas y deformaciones.
+
+En contraste, la **madera** es un material combustible y medianamente inflamable, contribuyendo activamente a la carga térmica y a la propagación del incendio. Posee una baja masa y densidad, por lo que su temperatura aumenta con menor carga térmica, aunque la humedad interna puede retrasar este proceso. Su baja conductividad térmica y reducido coeficiente de dilatación evitan la transmisión de calor y la generación de grandes tensiones por expansión. La resistencia al fuego de la madera es paradójicamente alta, ya que no pierde propiedades resistentes intrínsecamente, sino que su sección útil se reduce por carbonización, un proceso que avanza a aproximadamente 1 cm cada 15 minutos desde el exterior hacia el interior. Esta capacidad resistente depende fundamentalmente de la dirección de sus fibras y su contenido de humedad. Las estructuras de madera son comúnmente isostáticas, de baja altura y menor complejidad, lo que facilita su evaluación en emergencias. Como desventajas, además de su combustibilidad, se suman la posible presencia de vicios ocultos como carcoma o pudriciones y la debilidad de las uniones metálicas.
+
+### II. Sistemas de Protección contra el Fuego
+
+La protección de las edificaciones contra incendios se articula en torno a dos ejes principales: la prevención del colapso estructural y la contención de la propagación del fuego.
+
+#### A. Protección Estructural Pasiva
+
+Para proteger los elementos estructurales, se implementan diversas soluciones:
+*   Los **recubrimientos con paneles ignífugos** consisten en la instalación de placas de cartón yeso que envuelven los elementos de acero, creando un efecto de cajón protector cuyo espesor se ajusta a las características del panel y la resistencia al fuego requerida.
+*   Las **pinturas intumescentes** son materiales que, al alcanzar temperaturas superiores a los 200ºC, reaccionan químicamente para formar una capa espumosa que se expande hasta 50 veces su volumen inicial, proporcionando un aislamiento térmico eficaz que puede prolongar la resistencia al fuego hasta 120 minutos.
+*   La **protección sólida** mediante el macizado de hormigón en masa alrededor de los elementos estructurales aumenta su resistencia al fuego, con un espesor adaptado a los requisitos específicos de cada caso.
+*   Los **morteros protectores**, ya sean tradicionales o enriquecidos con aditivos como perlita o vermiculita, se aplican sobre los perfiles para mejorar su comportamiento frente al fuego. Estos pueden fijarse con mallas o anclajes mecánicos y aplicarse por proyección, lo que permite controlar con precisión el espesor.
+*   El uso de **filmes o mantas** de fibra cerámica o lana de roca se destina a la protección de perfiles metálicos, y en perfiles con alma superior a 150 mm, se complementa con una malla auxiliar para garantizar la estabilidad y evitar deformaciones.
+
+Además, en el diseño pasivo de edificaciones, se pueden encontrar **estructuras externas** donde la parte portante del edificio se ubica al exterior, reduciendo la necesidad de protección pasiva interna. Históricamente, los **recubrimientos con albañilerías** fueron comunes en entramados de madera o acero. Las **pantallas**, como tabiquerías y cielos falsos, contribuyen a la protección al asegurar la integridad, aislamiento y estabilidad del conjunto. Finalmente, el **relleno de perfiles tubulares huecos** con materiales termodisipadores, como hormigón o agua, ayuda a gestionar la carga térmica durante un incendio.
+
+#### B. Protección contra la Propagación en Instalaciones
+
+Para contener la propagación del fuego en instalaciones, se emplean:
+*   **Cortafuegos lineales** aplicados en bandejas de cables a intervalos regulares, impidiendo la expansión del incendio.
+*   **Almohadillas intumescentes** utilizadas para sellar los pasos de bandejas de cables, donde se prevén movimientos o cambios, optimizando el tiempo y coste de reposición.
+*   **Sistemas de placas para conductos resistentes al fuego** que crean compartimentos independientes en los que se alojan las bandejas de cables.
+*   **Collarines intumescentes** para sellar tuberías de plástico inflamables, que se expanden al calor para estrangular el conducto y bloquear el paso de fuego, humos y gases.
+*   **Conductos de ventilación con sistemas de

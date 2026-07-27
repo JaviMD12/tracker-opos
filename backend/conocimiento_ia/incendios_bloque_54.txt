@@ -1,0 +1,112 @@
+# Tácticas de Intervención en Incendios Industriales
+
+La intervención táctica en incendios industriales se concibe como un conjunto coordinado de herramientas y técnicas, cuyo objetivo primordial es controlar el fuego, proteger propiedades y recursos naturales, y salvaguardar la vida del personal interviniente y de los afectados. Esta decisión táctica reviste una importancia crítica, dado que implica la asunción de riesgos y la posibilidad de pérdidas, y sus consecuencias pueden ser irreversibles. Para formular un planteamiento táctico efectivo, el mando de intervención debe basarse en su experiencia profesional, el conocimiento técnico-científico, la gama de técnicas disponibles y una evaluación integral del incidente.
+
+## Fases y Prioridades de la Intervención
+
+La cronología de una intervención se estructura en fases distintas, desde la movilización inicial hasta la restitución final. Durante la **Fase de Movilización**, se recopilan datos del aviso, se confirma la movilización de servicios adicionales y se desplazan los equipos. La **Fase de Valoración y Tareas Previas** implica la lectura del incendio (utilizando métodos como el B-SAHF para *Building, Smoke, Airtrack, Heat, Flame*), el análisis de riesgos inminentes, la elaboración de un plan de acción, la sectorización del incidente y la zonificación. A continuación, se ejecutan **Acciones Inminentes** para mitigar riesgos, que incluyen el confinamiento y evacuación, el corte de servicios, la estabilización estructural, rescates urgentes y el control de la propagación. La **Fase de Control** abarca la búsqueda y rescate de víctimas, y la contención de la propagación. Finalmente, la **Fase de Mitigación** se centra en la extinción, seguida por una **Fase de Restitución** que incluye desescombro, estabilización y la vuelta a la base.
+
+La valoración del incendio es un proceso dinámico que exige una reevaluación constante del plan de acción a medida que las condiciones evolucionan. Un plan debe ser consecuente con los recursos disponibles, determinando la capacidad para realizar rescates, controlar la propagación y extinguir el fuego en tiempo real.
+
+### Valoración Dinámica y Recursos
+
+La valoración dinámica es crucial en incendios industriales debido a su naturaleza y la rápida evolución de las condiciones. En edificios industriales de tipo A, B o C (edificios o naves adosadas/separadas), la extinción es similar a la de incendios de interior, enfocándose en el enfriamiento y, ocasionalmente, la sofocación, siempre que no haya riesgo de colapso estructural. Por el contrario, en naves industriales de tipo E o F (principalmente con cubiertas abiertas), los incendios son externos y el control de la propagación se logra mediante la retirada de combustible.
+
+Los recursos disponibles, tanto físicos como humanos, de la propia empresa y de los servicios de emergencia, deben conocerse y gestionarse eficazmente. La familiaridad de estos recursos con las instalaciones, los tipos de combustible y las vías de escape es de suma importancia. La efectividad de las acciones emprendidas debe ser evaluada continuamente, ajustando el plan si las condiciones cambian (colapso estructural, problemas de ventilación o escasez de recursos).
+
+## Mecanismos y Agentes Extintores
+
+Los mecanismos de extinción buscan desaparecer o disminuir los efectos de los componentes del tetraedro del fuego: combustible, comburente, energía de activación (calor) y reacción en cadena. Los agentes extintores se clasifican en líquidos, sólidos y gaseosos.
+
+### Agua como Agente Extintor
+
+El agua es el agente extintor más común, abundante y económico. Actúa principalmente por **enfriamiento** (gracias a su alto calor latente de vaporización y calor específico) y por **sofocación** (el vapor de agua generado desplaza el oxígeno). Además, en combustibles líquidos hidrosolubles, puede actuar por **dilución**.
+
+Las formas de aplicación del agua incluyen:
+*   **Chorro (compacto):** Aunque es el más usado, no es el más eficaz, ya que solo una pequeña fracción del agua participa en la extinción. Se utiliza en fuegos de Clase A, pero es inadecuado para fuegos eléctricos o metales.
+*   **Pulverizada o neblina:** Es el modo más efectivo, maximizando la superficie de intercambio de calor y facilitando la refrigeración y evaporación. Es eficaz en fuegos Clase A y B, y puede usarse en presencia de corriente eléctrica con técnicas adecuadas.
+*   **Agua con aditivos:** Se añaden humectantes (para reducir la tensión superficial y aumentar la penetración en sólidos), espesantes (para aumentar la viscosidad y adherencia, útil en incendios forestales y sobre líquidos inflamables insolubles) y boratos (que actúan como retardantes de llama).
+
+### Espumas como Agentes Extintores
+
+Las espumas son combinaciones de concentrado espumógeno, agua y aire, utilizadas principalmente en líquidos inflamables (Clase B). Su efectividad depende de la eficiencia del equipo y la calidad del espumógeno. Actúan principalmente por **sofocación** (separando el combustible del oxígeno) y **enfriamiento** (gracias a su contenido de agua).
+
+Las espumas se clasifican por su ratio de expansión:
+*   **Baja expansión (<20:1):** Densas, con alto contenido de agua. Ideales para fuegos de líquidos inflamables y también útiles en Clase A. No aptas para fuegos con tensión eléctrica ni para combustibles polares, salvo AFFF.
+*   **Media expansión (20-200:1):** Textura suave, fluidez excelente. Usadas para suprimir la vaporización de químicos peligrosos, prevención de incendios en derrames, y en zonas confinadas.
+*   **Alta expansión (>200:1):** Muy ligeras. Diseñadas para combatir incendios en espacios confinados (garajes, sótanos, minas). Su bajo contenido de agua (1:1000) hace que parte sea destruida por el fuego en su avance.
+
+### Polvos Químicos Secos
+
+Los polvos extintores son sustancias sólidas pulverizadas (sales inorgánicas) que actúan por **inhibición** (rompiendo la reacción en cadena) y **sofocación** (desplazando el oxígeno y formando una costra). Son dieléctricos y estables a bajas temperaturas.
+
+*   **Polvos BC (convencionales):** Compuestos por bicarbonatos sódico y potásico. Efectivos para líquidos inflamables y gases (Clase B y C), así como fuegos con tensión eléctrica hasta 1000V. Ineficaces en fuegos Clase A y no compatibles con espuma.
+*   **Polvos ABC (polivalentes o antibrasa):** Contienen fosfatos, sulfatos y sales amónicas, que forman una capa pegajosa. Efectivos en fuegos Clase A (superficiales y profundos), B y C. Actúan por sofocación principalmente.
+*   **Polvos especiales:** Diseñados para fuegos de metales (Clase D), como grafito pulverizado o carbón mineral. Cada uno es específico para un tipo de metal y su uso es peligroso sobre otros metales.
+
+### Agentes Extintores Gaseosos
+
+Se almacenan líquidos bajo presión y se gasifican al ser liberados. Penetran fácilmente, pero son menos efectivos en exteriores.
+
+*   **Nitrógeno (N₂):** Gas incoloro, inodoro, insípido y no tóxico (pero asfixiante). Mecanismo primario de extinción es **sofocación** por desplazamiento de oxígeno. Secundariamente, inhibición y enfriamiento. Utilizado en fuegos de petróleo y derivados.
+*   **Dióxido de Carbono (CO₂):** Gas de bajo coste, incoloro, inodoro, fácilmente licuable. Pesa 1.5 veces más que el aire. Es dieléctrico y no corrosivo, no deja residuos. Actúa por **sofocación** (desplazamiento de aire/dilución de oxígeno) y **enfriamiento** (absorbe gran cantidad de calor al convertirse en gas, -79°C). Eficaz en fuegos superficiales de Clase A, B y C. No apto para fuegos profundos o metales reactivos.
+*   **Hidrocarburos Halogenados (Halones):** Actúan por **inhibición** de la reacción en cadena y **sofocación**. Muy limpios, no dañan equipos delicados, requieren baja concentración, y funcionan con sistemas automáticos incluso con personas presentes. Su fabricación está prohibida por normativa europea debido a su impacto en la capa de ozono.
+
+## Aplicación de Técnicas de Intervención con Agua
+
+### Ataque Directo
+
+El **ataque directo** busca la extinción aplicando una película de agua sobre los combustibles incendiados, directamente en el foco. Esta técnica enfría las superficies y detiene la pirólisis. Es más efectivo cuando el foco es visible y accesible, y el chorro de agua lo impacta directamente. Se recomienda usar chorro en **cono abierto** (0º a 15º) para maximizar el enfriamiento y minimizar la producción de vapor excesivo que podría dañar a las víctimas. El caudal suele ser medio y las pulsaciones de larga duración (continuas).
+
+Entre sus ventajas, permite atacar el *motor del incendio* directamente y produce efectos muy rápidos. No obstante, puede perturbar el equilibrio térmico del recinto, generar vapor de agua que empeora la visibilidad y causa quemaduras, y desplazar gases de incendio a otras estancias.
+
+### Ataque Indirecto
+
+El **ataque indirecto** tiene como objetivo extinguir el incendio inundando el recinto con vapor de agua desde una posición segura exterior, sin alcanzar directamente el foco. El agua nebulizada o en chorro de ángulo estrecho se dirige al techo y paredes superiores, donde al contactar con superficies calientes, se vaporiza súbitamente, absorbiendo gran cantidad de calor y sofocando el fuego.
+
+Las ventajas incluyen la posibilidad de atacar desde una posición segura, protegiendo al personal. Sin embargo, puede causar una pérdida completa de visibilidad, quemaduras por el exceso de vapor en caso de víctimas y el desplazamiento de gases tóxicos a otras zonas. Se utiliza con pulsaciones de media a larga duración en patrones en "T" (para recintos con fuerte gradiente térmico) o en "O" (para grandes volúmenes), permitiendo la redistribución del vapor de agua en el recinto durante periodos de pausa.
+
+### Enfriamiento de Gases
+
+Esta técnica busca reducir la inflamabilidad del colchón de gases para garantizar una progresión segura del equipo de bomberos. No extingue el incendio directamente, sino que crea condiciones más seguras. Se realiza con pulsaciones de agua cortas (1-5 segundos) y caudal bajo, generando una niebla de agua que, al evaporarse, enfría y diluye los gases. Se dirige a las esquinas superiores del fondo del recinto o se realiza un barrido ligero.
+
+Una ventaja clave es que permite una progresión más segura frente a fenómenos como el *flashover* o *backdraft*, manteniendo la estratificación térmica y la visibilidad en la zona baja. Sin embargo, no es una técnica de extinción en sí misma y una aplicación excesiva puede retrasar el acceso al foco.
+
+### Ataque Defensivo contra la Propagación
+
+El objetivo es limitar la propagación del incendio a zonas no afectadas. Se logra dificultando o interrumpiendo la pirólisis de los combustibles mediante la aplicación de una película de agua sobre las superficies combustibles para que no prendan. Se realiza desde el exterior o interior, "pintando paredes" y enfriando superficies para protegerlas.
+
+Esta táctica es útil en situaciones de recursos limitados, en grandes estructuras con potencial de propagación, cuando la escasez de agua impide un ataque exitoso para la extinción, o para evitar reigniciones en zonas ya extinguidas. Se utiliza caudal bajo a medio con conos de 0º a 15º, en pulsaciones de larga duración o aplicación continua.
+
+### Ataque Exterior Ofensivo o "Ablandado"
+
+Esta técnica busca reducir la potencia del incendio y mejorar las condiciones de supervivencia en el interior desde una posición segura exterior. Consiste en aplicar chorros de agua para enfriar el colchón de gases y las superficies incendiadas, diluyendo los gases y reduciendo temporalmente la potencia del fuego. Se emplea un chorro sólido dirigido al techo del recinto a través de ventanas o puertas, produciendo gotas más pequeñas sin bloquear la salida de gases.
+
+Es especialmente indicado en incendios con rotura de fachada y en etapas iniciales. Se debe coordinar con operaciones interiores y vigilar el volumen de vapor generado.
+
+## Ventilación en Incendios Industriales
+
+La ventilación en incendios industriales es un factor crítico que influye en la efectividad de las operaciones de extinción y rescate. Una correcta ventilación permite aumentar la visibilidad, reducir la temperatura y la toxicidad de los gases, y controlar la potencia y el flujo de los mismos.
+
+### Tipos de Ventilación Natural
+
+*   **Horizontal:** Se produce en aperturas (ventanas, puertas) al mismo nivel, generando flujos bidireccionales. Menos efectiva que la vertical.
+*   **Vertical:** Se da cuando las aperturas de entrada y salida de gases están a distinto nivel, estableciendo un flujo unidireccional más eficaz. Aunque no es muy común en Europa debido a las construcciones, es ideal para crear una "ruta fría" para el personal.
+
+### Ventilación Forzada por Presión Positiva (VPP)
+
+La VPP utiliza ventiladores mecánicos para introducir aire en un recinto, creando un diferencial de presión positivo que expulsa los gases de incendio.
+*   **VPP Defensiva:** Expulsa gases de incendio sin que el flujo atraviese directamente el foco. Su objetivo es limpiar de humo pasillos, escaleras y otras zonas de tránsito, mejorando la supervivencia de víctimas y la visibilidad para operaciones de búsqueda. Se basa en el confinamiento del incendio.
+*   **VPP Ofensiva:** El flujo de gases atraviesa el foco del incendio. Busca reducir rápidamente la potencia del incendio y mejorar las condiciones internas para un avance rápido de los bomberos. Requiere coordinación con la aplicación de agua, previendo el potencial crecimiento del incendio.
+
+Los equipos de ventilación forzada pueden ser:
+*   **Térmicos:** Accionados por motores de explosión, con alta autonomía, pero ruidosos y generan gases de escape.
+*   **Eléctricos (a red o batería):** Más silenciosos, no generan gases, aislables ATEX, pero con menor potencia y dependencia de cableado o autonomía limitada.
+*   **Hidráulicos:** Accionados por turbina de agua. Evitan inconvenientes de motores térmicos, pero requieren despliegue de tendidos y logística.
+*   **Por flujo de manguera:** Movimiento de gases por arrastre de un chorro de agua. Rendimiento reducido, útil para ventilación final.
+
+## Consideraciones Finales
+
+Es esencial que los bomberos reconozcan la inflamabilidad del humo y los gases de incendio, así como los fenómenos de rápido desarrollo como el *flashover*, *backdraft* y *explosión de humo*, que presentan riesgos significativos. El *backdraft* es una deflagración resultante del aporte repentino de aire a un incendio infraventilado con alta concentración de combustible. La *explosión de humo* es una deflagración causada por una fuente de ignición en una mezcla de gases de incendio y aire dentro de su rango de inflamabilidad.
+
+La formación continua y el conocimiento detallado de estas técnicas, junto con una valoración integral y dinámica del incidente, son fundamentales para la seguridad del personal y la efectividad de las intervenciones.

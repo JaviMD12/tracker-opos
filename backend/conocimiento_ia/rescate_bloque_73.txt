@@ -1,0 +1,56 @@
+## Seguridad Pasiva y Sistemas Auxiliares en Vehículos: Implicaciones para el Rescate
+
+La seguridad pasiva en los vehículos comprende el conjunto de elementos y sistemas diseñados para mitificar las consecuencias de un accidente una vez que este ha ocurrido, protegiendo a los ocupantes y, en ciertos casos, a terceros. Su correcto conocimiento es fundamental para los equipos de bomberos, ya que permite optimizar las técnicas de rescate y excarcelación de víctimas atrapadas.
+
+### Airbags: Componentes y Funcionamiento
+
+Los **airbags**, también conocidos como cojines hinchables, son dispositivos clave de la seguridad pasiva. Su activación se produce de manera automática cuando se cumplen ciertas condiciones: el vehículo debe desplazarse a una velocidad superior a los 30 km/h, el impacto debe tener un ángulo inferior a 15º, el asiento debe estar ocupado y el sistema debe detectar una deceleración instantánea. Para evitar despliegues accidentales, se integra un sensor mecánico de seguridad en el circuito de activación. Una vez detectado el impacto, el sistema envía un impulso eléctrico que detona una carga sólida, generando nitrógeno (N2) y provocando el inflado de la bolsa en menos de 30 milisegundos, un tiempo imperceptible para el ojo humano. Tras el impacto, los airbags se desinflan a través de orificios situados en su parte trasera.
+
+Los **airbags del conductor** se alojan en el volante, diseñado con un amortiguador de impacto, mientras que los del **pasajero** se encuentran en el salpicadero, usualmente sobre la guantera, y poseen una mayor capacidad de inflado. Algunos modelos permiten la desactivación del airbag del pasajero mediante un interruptor.
+
+Además de los frontales, la tecnología ha evolucionado para incluir otros tipos de airbags:
+*   Los **airbags laterales** se despliegan entre la puerta y el ocupante, formando un pequeño cojín para proteger el tórax. Se activan en 3 a 5 milisegundos mediante un sensor de presión en la puerta.
+*   Las **cortinas hinchables** se despliegan desde el techo, entre los montantes C y A, formando una barrera de aire que protege la cabeza, evita golpes contra las ventanillas y previene la intrusión de objetos. A diferencia de otros, mantienen su volumen durante varios segundos, ofreciendo protección adicional en caso de vuelco o proyecciones de esquirlas de vidrio. Son seguros de cortar de las cintas del cinturón.
+*   Los **airbags de rodilla** se ubican debajo de la columna de dirección para el conductor, y a veces en los asientos traseros para los pasajeros.
+*   Los **airbags integrados en el asiento** optimizan la posición del ocupante respecto al cinturón de seguridad, ayudando a prevenir el efecto submarino.
+*   Los **airbags traseros** protegen a los pasajeros de la parte posterior en caso de colisión trasera, desplegándose desde el techo y la parte superior del respaldo del asiento delantero.
+*   Los **airbags para peatones** se activan al impactar con un peatón a velocidades entre 25-55 km/h, elevando el capó y creando un espacio adicional para reducir los daños en la cabeza del peatón. Un ejemplo notable es el del Volvo V40.
+*   Los **airbags inteligentes o de doble fase** detectan la severidad del impacto y se inflan en dos etapas, minimizando el riesgo en colisiones de menor gravedad. Un sensor de ocupación de asiento (>12 kg) evita la activación innecesaria del airbag del acompañante.
+*   Finalmente, existen **airbags específicos para motociclistas**, integrados en cascos, chaquetas o chalecos de protección.
+
+Durante las labores de rescate, es crucial extremar la precaución con los airbags. El calor excesivo (temperaturas superiores a 160°C) en la zona de un airbag no activado puede provocar su despliegue. Aunque el polvo blanco generado tras una activación no es tóxico, puede causar irritación en las vías respiratorias y enrojecimiento leve en la piel debido al impacto.
+
+### Pretensores de Cinturón de Seguridad
+
+Los **pretensores del cinturón de seguridad** son sistemas que actúan complementariamente a los airbags, ajustando el cinturón al cuerpo del ocupante y eliminando cualquier holgura justo antes del impacto. Se activan electrónicamente mediante un sensor de deceleración, incluso antes de que los airbags se desplieguen.
+
+Existen varios tipos de pretensores:
+*   **Mecánicos (no pirotécnicos)**: almacenan energía en un resorte helicoidal que se retrae al activarse, tensando tanto el cinturón abdominal como el de hombro. Estos se mantienen activos incluso después de desconectar la batería.
+*   **Pirotécnicos**: utilizan una carga de gas que se activa por la inercia del impacto.
+*   **Tubulares eléctricos**: se activan desde la unidad de control y pueden estar acoplados a la hebilla o al enrollador del cinturón.
+
+Es vital ser extremadamente cauteloso al trabajar en el área de los pretensores, especialmente en presencia de líquidos o vapores inflamables, ya que existe un riesgo de pequeña explosión y tensión súbita del cinturón si se manipulan incorrectamente.
+
+### Otros Elementos de Seguridad Pasiva
+
+Más allá de los sistemas de retención, el diseño estructural del vehículo incorpora múltiples elementos de seguridad pasiva:
+
+*   **Paragolpes**: fabricados con materiales sintéticos y con un diseño envolvente, su altura es crucial para mitigar lesiones. Un impacto bajo puede levantar a la víctima, mientras que uno alto la proyecta al suelo. Los extremos laterales están diseñados para retraerse y evitar enganches.
+*   **Faros**: los marcos y cerquillos de los faros no deben sobresalir más de tres centímetros para minimizar el riesgo de lesiones a peatones.
+*   **Mandos de apertura y tapones de depósito**: deben estar empotrados en la carrocería, orientados hacia atrás y paralelos a la superficie para evitar salientes peligrosos.
+*   **Aristas de chapa**: deben ser redondeadas o estar recubiertas con elementos protectores para prevenir cortes.
+*   **Retrovisores exteriores**: diseñados con forma redondeada y para desprenderse fácilmente en caso de impacto, reduciendo riesgos.
+*   **Lunas y cristales**: el **parabrisas** suele ser laminado, lo que permite mantener la visibilidad a través de grietas sin proyección de fragmentos, a diferencia del cristal templado de las ventanillas, que se rompe en pequeños trozos afilados. Es recomendable usar protecciones blandas o transparentes, mascarillas y gafas durante la extracción de cristales. Los brazos de los limpiaparabrisas deben estar cubiertos y carecer de ángulos agudos.
+*   **Molduras y cerquillos**: aquellos que sobresalgan más de diez centímetros deben estar diseñados para retraerse, desprenderse o doblarse en caso de impacto.
+*   **Puntos de apoyo para gato elevador**: no deben sobresalir más de un centímetro de la línea del suelo para evitar arrastrar a la víctima.
+*   **Tuercas de rueda, tapacubos y embellecedores**: deben carecer de aristas marcadas o salientes en forma de aletas.
+
+### Sistemas de Seguridad Terciaria
+
+Finalmente, los vehículos modernos incorporan sistemas de seguridad terciaria que facilitan el rescate:
+
+*   **Desbloqueo automático del cierre centralizado**: en caso de colisión, un sensor activa la apertura de las puertas tras un breve tiempo de espera, facilitando el acceso a las víctimas.
+*   **Luces intermitentes de advertencia**: se activan automáticamente tras un choque, indicando la presencia del vehículo y el estado de su alimentación eléctrica.
+*   **eCall (Sistema de balizas de localización en emergencia)**: este sistema europeo realiza una llamada automática vía satélite a un centro de emergencias en caso de accidente grave, proporcionando la ubicación exacta del vehículo y datos relevantes como la marca y el color, lo que agiliza la respuesta de los servicios de emergencia. También puede activarse manualmente.
+
+La comprensión integral de estos sistemas permite a los bomberos optimizar sus tácticas de intervención, garantizando la seguridad de los intervinientes y maximizando las posibilidades de un rescate eficaz.

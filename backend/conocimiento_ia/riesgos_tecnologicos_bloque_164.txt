@@ -1,0 +1,101 @@
+## Gestión Operativa en Incidentes NRBQ: Fases, Zonificación y Reconocimiento de Peligros
+
+La respuesta a incidentes que involucran riesgos Nucleares, Radiológicos, Biológicos y Químicos (NRBQ) requiere un enfoque metodológico y estructurado para garantizar la seguridad de los intervinientes y la población, así como para mitigar el impacto ambiental y material. Este proceso se divide en fases secuenciales que abarcan desde la movilización inicial hasta la restitución de la normalidad.
+
+### Fases de una Intervención NRBQ
+
+La gestión de una intervención en un escenario NRBQ se articula en varias fases bien definidas:
+
+1.  **Fase de Movilización:** Este es el punto de partida, donde se recopila información inicial sobre el aviso recibido, se confirma la necesidad de movilizar otros servicios de emergencia (sanitarios, fuerzas de seguridad), se determina el equipo de salida ordinario y se informa al mando superior, activando, si es necesario, medios adicionales. Una vez en el lugar del incidente, se procede al emplazamiento estratégico de los vehículos y a la preparación y acopio del material de primera intervención.
+
+2.  **Fase de Valoración y Tareas Previas:** En esta etapa, se realiza una evaluación exhaustiva del exterior e interior de la edificación o zona afectada. Se interpreta la patología presente, se analizan los riesgos inminentes y se elabora un Plan de Acción, que incluye la sectorización y zonificación del área. Es crucial implementar acciones inmediatas para mitigar riesgos, como el confinamiento o la evacuación de personas, el corte de suministros, la estabilización estructural básica y el control de la propagación del riesgo, priorizando siempre los rescates inminentes.
+
+3.  **Fase de Control:** Durante esta fase, se lleva a cabo la búsqueda y rescate de víctimas, tanto superficiales como sepultadas, utilizando técnicas especializadas. Se ejerce un control riguroso de la propagación de la patología, restringiendo la extensión del daño a elementos constructivos interiores y exteriores. La valoración es un proceso continuo, donde el mando de intervención monitoriza constantemente la evolución de la patología, el estado de los recursos y la efectividad de las acciones implementadas.
+
+4.  **Fase de Mitigación y Estabilización:** En esta etapa, se procede con la ejecución de apeos, tanto estandarizados como específicos, si la situación lo requiere, para estabilizar la estructura o el terreno. Además, se realizan cálculos específicos para asegurar la eficacia de los apeos y la seguridad de la intervención.
+
+5.  **Fase de Restitución:** Finalmente, se aborda el desescombro y la estabilización de la zona afectada, procurando devolver la situación a su estado previo a la patología en la medida de lo posible. Se lleva a cabo una valoración final para confirmar la estabilidad estructural del conjunto, la ausencia de nuevos síntomas y la seguridad para los beneficiarios. La intervención concluye con la recuperación de la operatividad y un análisis colectivo de las acciones realizadas, lo que contribuye a la mejora continua de los protocolos.
+
+### Zonificación en Intervenciones NRBQ
+
+La zonificación es un componente esencial para la gestión de un incidente con sustancias peligrosas, permitiendo delimitar áreas de riesgo y organizar eficazmente los recursos. Se establecen diversas zonas con criterios específicos:
+
+*   **Zona Caliente (ZC):** Es el área donde la población está en riesgo inminente y no puede protegerse por sí misma, requiriendo la máxima protección personal para los intervinientes. Es la zona de trabajo directo para los equipos de bomberos y otros medios NRBQ. Debe estar preparada para una evacuación inmediata a la zona templada, y el personal no interviniente debe abandonarla lo más rápido posible, en dirección perpendicular al viento.
+
+*   **Zona Templada (ZT):** Constituye un perímetro funcional para el desarrollo de las tareas de intervención, donde el riesgo es mínimo o nulo. Aquí operan los equipos de soporte (SOS), el mando de intervención y los vehículos de apoyo. Al igual que la Zona Caliente, debe estar preparada para la evacuación a la Zona Fría, y el personal no esencial debe retirarse perpendicularmente al viento.
+
+*   **Zona Fría (ZF):** Es el área externa a las zonas templada y caliente, destinada al descanso, reposición de equipos, ubicación de vehículos de apoyo, y donde se sitúan los mandos y personal sanitario.
+
+*   **Zona de Descontaminación:** Es un área acotada que asegura el aislamiento del riesgo entre la Zona Caliente, la Zona Templada y la Zona Fría. Delimita los puntos de entrada y salida de la Zona Caliente, conectándose directamente con la Zona Templada.
+
+La definición de estas zonas se basa en magnitudes como la toxicidad de la sustancia, los efectos de sobrepresión y la radiación térmica, además de considerar la posibilidad de un efecto dominó causado por la rotura de recipientes adyacentes. Históricamente, se han utilizado modelos simplificados basados en la presión de vapor del producto inflamable para la zonificación, y protocolos como el del CEIS Guadalajara permiten un cálculo inicial y un ajuste cualitativo.
+
+Además de estas zonas operativas, es fundamental establecer:
+*   Una **Distancia de Aislamiento Inicial** que abarca todas las direcciones desde la fuente de derrame o escape, considerando a todo el personal.
+*   Una **Distancia de Acción Protectora** que se extiende en la dirección del viento para salvaguardar a la población.
+
+### Reconocimiento e Identificación de Sustancias Peligrosas
+
+La identificación rápida de las sustancias peligrosas es crucial en las primeras fases de una emergencia NRBQ. Se utilizan diversas herramientas y sistemas:
+
+#### Número de Identificación de Peligro (NIP)
+El NIP es un código de dos o tres dígitos, también conocido como código Kemler, que figura en la parte superior del panel naranja de los vehículos. Este número indica los principales peligros de la materia transportada:
+*   **Dígito 1:**
+    *   **2:** Emanación de gases por presión o reacción química.
+    *   **3:** Inflamabilidad de líquidos, vapores o gases, o materia líquida susceptible de auto-calentamiento.
+    *   **4:** Inflamabilidad de materia sólida o materia sólida susceptible de auto-calentamiento.
+    *   **5:** Comburente (favorece el incendio).
+    *   **6:** Toxicidad o riesgo de infección.
+    *   **7:** Radiactividad.
+    *   **8:** Corrosividad.
+    *   **9:** Peligro de reacción violenta espontánea (explosión, descomposición, polimerización con desprendimiento de calor o gases inflamables).
+*   **Reglas de Interpretación:**
+    *   La duplicación de una cifra indica la intensificación de ese peligro específico.
+    *   Si solo se necesita una cifra, se completa con un cero.
+    *   La letra "X" como prefijo indica una reacción peligrosa con el agua, lo que significa que el agua solo debe usarse por expertos en extinción.
+    *   Para la Clase 1 (materias y objetos explosivos), el NIP se basa en el código de clasificación (división y grupo de compatibilidad).
+
+Existen NIPs con significados especiales, como:
+*   **22:** Gas licuado refrigerado, asfixiante.
+*   **323:** Líquido inflamable que reacciona con agua desprendiendo gases inflamables.
+*   **333:** Líquido pirofórico.
+*   **362:** Líquido inflamable, tóxico, que reacciona con agua emitiendo gases inflamables.
+*   **382:** Líquido inflamable, corrosivo, que reacciona con agua desprendiendo gases inflamables.
+*   **423:** Sólido que reacciona con agua desprendiendo gases inflamables, o sólido inflamable que reacciona con agua, emitiendo gases inflamables, o sólidos que experimentan calentamiento espontáneo y que reacciona con agua, emitiendo gases inflamables.
+*   **44:** Sólido inflamable que, a temperatura elevada, se encuentra en estado fundido.
+*   **446:** Sólido inflamable y tóxico que, a temperatura elevada, se encuentra en estado fundido.
+*   **462:** Sólido tóxico, que reacciona con agua desprendiendo gases inflamables.
+*   **482:** Sólido corrosivo, que reacciona con agua desprendiendo gases inflamables.
+*   **539:** Peróxido orgánico inflamable.
+*   **606:** Materia infecciosa.
+*   **623:** Líquido tóxico que reacciona con agua desprendiendo gases inflamables.
+*   **642:** Sólido tóxico que reacciona con agua desprendiendo gases inflamables.
+*   **823:** Líquido corrosivo que reacciona con agua desprendiendo gases inflamables.
+*   **842:** Sólido corrosivo que reacciona con agua desprendiendo gases inflamables.
+*   **90:** Materia peligrosa para el medio ambiente, materias peligrosas diversas.
+*   **99:** Materias peligrosas diversas transportadas en caliente.
+
+#### Placas y Etiquetas
+Los paneles naranjas se fijan en los vehículos, mientras que los bultos, contenedores y cisternas deben llevar placas-etiquetas. Estos elementos visuales permiten identificar rápidamente las materias y sus peligros asociados. Los bultos de mercancías de la clase 7 (radiactivas) que no sean exceptuados deben indicar el modelo del bulto y el número ONU. Las etiquetas, de forma cuadrada apoyada sobre uno de sus vértices, miden al menos 10x10 cm y se colocan en los laterales del bulto. Si un mismo bulto presenta varios peligros, llevará múltiples etiquetas. Las sustancias peligrosas para el medio ambiente se marcan con un símbolo negro sobre fondo blanco.
+
+### Comportamiento de Sustancias en Siniestros NRBQ
+
+El comportamiento de las sustancias peligrosas en un siniestro es vital para la planificación táctica:
+
+*   **Fuga o Derrame Incendiado (Tipo 4.1):** En esta situación, se forma una nube de baja densidad que asciende debido al calor por convección. El penacho resultante es afectado por el viento, que inclina la columna y desplaza la nube. La estabilidad atmosférica influye, ya que corrientes verticales intensas pueden enviar la nube hacia el suelo (fumigación), mientras que una nube densa con alta estabilidad regresa al suelo al enfriarse.
+
+*   **Incendio que Afecta al Contenedor (Tipo 4.2):** El peligro principal en este escenario es el riesgo de explosión, lo que requiere que el tratamiento y la zonificación consideren esta posibilidad.
+
+*   **Explosión (Tipo 5):** Una explosión libera instantáneamente una nube de gas casi esférica que es arrastrada por el viento. La dispersión es el factor más importante, más que la concentración. En calma, la dispersión vertical es favorecida, enviando la nube a capas superiores, mientras que vientos fuertes la propagan horizontalmente desde el punto de escape.
+
+### Tácticas de Control de Daños
+
+En la fase de control de daños, se deben considerar principalmente la evacuación y el confinamiento de la población, así como la limitación del alcance del incidente.
+
+#### Evacuación o Confinamiento
+La elección entre evacuar o confinar depende de la naturaleza del incidente y del entorno afectado.
+*   **Evacuación:** Implica la movilización de la población a una zona segura. Es la opción preferible cuando el riesgo para los ciudadanos es muy alto. Requiere disponer de suficiente personal y de recursos para asistencia básica, como albergues, y debe tener garantías de éxito.
+*   **Confinamiento:** Consiste en mantener a la población a salvo dentro de sus viviendas o edificios cercanos. Se indica cuando existen garantías de seguridad para la población confinada, manteniendo el aislamiento del exterior mediante, por ejemplo, el cierre de persianas y ventanas. Los equipos de apoyo son esenciales para colaborar en esta modalidad.
+
+#### Limitación del Alcance
+Las acciones destinadas a minimizar los daños del siniestro se seleccionan tras una evaluación detallada de la información disponible, las fichas de intervención y el asesoramiento técnico especializado. Esta elección táctica debe estar alineada con un esquema simplificado de técnicas de intervención que considere el tipo de siniestro (fuga, derrame) y si este está incendiado o no, buscando siempre la opción que minimice el riesgo y maximice los beneficios.

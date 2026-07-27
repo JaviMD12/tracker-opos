@@ -1,0 +1,82 @@
+## Elementos de Contención y Estructuras Aéreas en Edificación
+
+La estabilidad y seguridad de una edificación dependen fundamentalmente de sus elementos constructivos, los cuales se clasifican en estructurales, complementarios y auxiliares. Los elementos estructurales son cruciales, ya que soportan y transmiten las cargas al terreno. A continuación, se detallan las tipologías de elementos de contención y estructuras aéreas, fundamentales para la intervención de bomberos en situaciones de emergencia.
+
+### I. Elementos de Contención
+
+Los elementos de contención son estructuras diseñadas para mantener diferencias de nivel en el terreno, resistiendo los empujes laterales del mismo. Se dividen principalmente en muros de contención y pantallas de contención.
+
+#### 1. Muros de Contención
+
+Los muros de contención son elementos estructurales cuya función es transmitir las cargas a su base y resistir los empujes laterales del terreno. Aunque son estructuras esbeltas, su esbeltez es menor en comparación con las pantallas. Trabajan primordialmente a compresión y/o flexión.
+
+Existen diversas tipologías de muros según su forma de trabajo: los **muros a compresión**, que se estabilizan por gravedad; los **muros a flexión**, que incluyen diseños en forma de "L", ménsula o con zarpa; y los **muros a flexocompresión**, que incorporan placas, contrafuertes o bataches para mejorar su resistencia.
+
+Un muro de contención se compone de varios elementos clave. El **trasdós** es la superficie en contacto con el terreno, mientras que el **intradós** es la superficie visible opuesta. En su base, la **puntera** se sitúa bajo el intradós para evitar giros del muro hacia el interior, mientras que el **tacón** se introduce en el suelo bajo el trasdós para aumentar la sujeción contra los esfuerzos horizontales. El **talón**, opuesto a la puntera y también bajo el trasdós, utiliza el peso de las tierras superiores para contrarrestar el giro del muro. Finalmente, el **alzado o cuerpo** es la parte del muro que se eleva desde los cimientos, recibiendo los esfuerzos horizontales y trabajando principalmente a flexión, con una altura y grosor definidos por la carga.
+
+La **rigidez** de un muro se logra mediante su construcción de abajo hacia arriba, a menudo con vaciado o descarga del trasdós. El **anclaje** a la cimentación directa se refuerza con tacones para resistir empujes horizontales. La **sujeción** se facilita por el peso de las tierras sobre el talón y la oposición de la puntera, minimizando la necesidad de elementos de sujeción intermedios. Los materiales empleados varían según los esfuerzos, incluyendo hormigón en masa o armado, mampostería o fábrica.
+
+Los **muros conformados de hormigón armado** se construyen con hormigón en toda su superficie y se refuerzan en las aberturas. Si su espesor es inferior a 15 cm, suelen llevar resaltos o nervios verticales; si es superior, el espesor es constante y la armadura se distribuye en ambas caras. Su rigidez depende de anclajes y refuerzos, siendo clave la trabazón con muros perpendiculares en muros de contención.
+
+Por otro lado, los **muros de fábrica** se construyen con pequeños elementos prefabricados unidos con mortero, asegurando estabilidad mediante un aparejo específico y juntas verticales alternadas. El Código Técnico de la Edificación (CTE DB SE F) clasifica estas tipologías, que incluyen:
+*   **Muro de una hoja:** Sin cámara de aire continua.
+*   **Muro doblado:** Dos hojas paralelas conectadas por conectores o armaduras de tendel para trabajar solidariamente al cortante.
+*   **Muro capuchino:** Similar al doblado, pero las hojas se enlazan con llaves o armaduras de tendel sin capacidad de transmitir cortante; la cámara de aire (mayor de 11 cm) puede rellenarse con aislante.
+*   **Muro careado:** Piezas de cara vista unidas con piezas de trasdós que trabajan solidariamente.
+*   **Muro de tendel hueco:** Piezas apoyadas en los bordes exteriores de sus tablas, con tendeles huecos de dos bandas de mortero.
+*   **Muro relleno:** Dos hojas paralelas separadas por más de 50 mm, unidas por llaves o armaduras de tendel, con la cámara rellena de hormigón para trabajar solidariamente.
+*   **Muro de revestimiento:** Reviste exteriormente sin función resistente.
+*   **Muro sin carga:** No resistente, su eliminación no compromete la integridad del edificio.
+La rigidez en muros de fábrica se asegura con una correcta trabazón de hiladas y aparejos, además de refuerzos auxiliares.
+
+#### 2. Pantallas de Contención
+
+Las pantallas de contención son elementos verticales de espesor reducido en relación con su altura y longitud, utilizados para estabilizar excavaciones profundas, prevenir filtraciones de agua o asegurar la estabilidad del terreno frente al sifonamiento. Funcionan predominantemente a flexión, mostrando una mayor esbeltez que los muros.
+
+Su **construcción** se realiza por bataches discontinuos desde la superficie del terreno antes del vaciado. El **anclaje** requiere un empotramiento en el terreno (aproximadamente un tercio de su altura por debajo del nivel de excavación) para contrarrestar las elevadas flexiones. Para **sujeciones** en profundidades mayores a 3-4 metros, se utilizan placas ancladas a bulbos interiores (en el exterior, trabajando a tracción) o puntales con los forjados de los sótanos (en el interior, trabajando a compresión). Se fabrican con hormigón armado, pretensado o postensado.
+
+### II. Estructuras Aéreas
+
+Las estructuras aéreas comprenden todos los elementos portantes de la edificación situados por encima de la rasante del terreno. Su función principal es garantizar la resistencia y estabilidad del edificio ante cargas permanentes, variables y accidentales. Las tipologías estructurales más comunes en intervenciones de emergencia son los sistemas adintelados, entramados, triangulados y abovedados.
+
+#### 1. Sistemas Adintelados (Muros y Forjados)
+
+Este sistema se caracteriza por forjados que transfieren las cargas verticales directamente a muros de carga. Es una tipología frecuente en construcciones antiguas y en edificaciones de poca altura (ej. chalés, pequeños locales).
+
+Presenta un **esquema estructural** generalmente isostático, donde cada vano funciona de manera independiente. Los **elementos resistentes verticales** son muros de carga ubicados en fachadas y en el interior, trabajando a compresión. Los **elementos resistentes horizontales** pueden ser simples (viguetas y vigas) o compuestos (forjados y losas). Los materiales empleados para los muros de carga incluyen ladrillo cerámico o bloque de hormigón, mientras que los forjados pueden ser de viguetas de madera, acero u hormigón armado, con entrevigados de revoltón, bovedillas cerámicas o de hormigón.
+
+#### 2. Sistemas Entramados
+
+Se definen por elementos resistentes lineales de sección pequeña, separados por una distancia y capaces de soportar grandes cargas.
+
+Los **elementos verticales** son pilares, soportes o pies derechos que trabajan a compresión, distribuyendo las cargas y liberando los muros de su función portante. Los **elementos horizontales** son vigas, jácenas o carreras que trabajan a flexión. Además, pueden incluir **elementos inclinados** para arriostramiento.
+
+El **esquema estructural** es generalmente hiperestático, permitiendo que cada vano trabaje conjuntamente con el contiguo, lo que proporciona una alta seguridad frente al colapso debido a la redistribución de esfuerzos. Los **elementos resistentes** incluyen pilares para cargas verticales y vigas y forjados para cargas horizontales. Los **pórticos o marcos** son uniones rígidas viga-pilar que otorgan resistencia y rigidez al conjunto, limitando los desplazamientos horizontales. Pueden ser entramados de varios pisos o entramados espaciales. Los materiales comunes son hormigón armado y pretensado en viviendas, y hormigón prefabricado o acero en naves industriales.
+
+#### 3. Sistemas Triangulados (Vigas, Cerchas y Pórticos Triangulados)
+
+Estas estructuras reticulares se componen de barras rectas interconectadas en nudos, formando triángulos planos (celosías) o prismas tridimensionales. Son ideales para cubrir grandes espacios diáfanos sin columnas intermedias, como naves industriales o pabellones deportivos.
+
+Su **esquema estructural** puede ser isostático o hiperestático, y las barras trabajan a compresión y tracción (con flexiones despreciables) si las cargas se aplican directamente en los nudos. Los **elementos resistentes** incluyen:
+*   **Cordones:** Barras horizontales; el cordón superior o "par" trabaja a compresión, mientras que el cordón inferior o "tirante" trabaja a tracción.
+*   **Montantes:** Barras verticales en el alma de la viga.
+*   **Diagonales:** Barras inclinadas en el alma de la viga.
+Los materiales empleados son madera (históricamente en cuchillos como molinera, par y picadero, o par e hilera), metales (acero, que ofrece alta resistencia y montaje rápido, aunque requiere protección contra el fuego) y hormigón armado (con buena resistencia pero esbeltez limitada, y buena resistencia al fuego).
+
+#### 4. Sistemas Abovedados (Arcos y Bóvedas)
+
+Estos sistemas están formados por un conjunto de dovelas dispuestas en planos verticales (arcos) o tridimensionales (bóvedas), diseñados para recoger y transmitir cargas verticales hacia los arranques, creando vanos y pasos libres. Se emplean principalmente en edificaciones singulares debido a sus luces limitadas.
+
+El **esquema estructural** es de carácter isostático, lo que los hace susceptibles al colapso y desplome ante esfuerzos imprevistos. Los arcos y bóvedas tradicionales canalizan las cargas verticales mediante compresión pura en las dovelas, dirigiéndolas hacia los apoyos (línea de imposta) donde se generan reacciones inclinadas (verticales y horizontales). La **línea de tensiones** es el trazado teórico de los esfuerzos; si esta línea se sale del tercio central de una dovela, se producirán tracciones y grietas; si se sale de la dovela por completo, la dovela colapsará. Los elementos resistentes, como arcos y bóvedas, son estructuras verticales cuya geometría (mayor flecha) reduce las tensiones horizontales. Los puntos más vulnerables son las **impostas**, donde se concentran las mayores tracciones, y se refuerzan con tirantes, contrafuertes o arbotantes. Los materiales utilizados son de fábrica con alta resistencia a compresión, como piedra natural y ladrillo.
+
+### Elementos Estructurales Verticales en Estructuras Aéreas
+
+Los elementos estructurales verticales, parte fundamental de las estructuras aéreas, se encargan de soportar y transferir las cargas verticales de la edificación, además de proporcionar arriostramiento. Se identifican diferentes tipos según el sistema estructural: muros de carga en sistemas adintelados, pilares en sistemas entramados, pórticos triangulados en sistemas triangulados y arcos en sistemas abovedados.
+
+#### I. Muros de Carga
+
+Los muros de carga son elementos estructurales verticales cuya función principal es recolectar los esfuerzos de elementos inclinados (cubiertas) y horizontales (forjados), transmitiéndolos directamente a los cimientos. Operan primariamente a compresión y se encuentran comúnmente en las fachadas principales y traseras de edificaciones con sistemas adintelados, sirviendo también como cerramientos o divisiones interiores.
+
+**Geométricamente**, un muro se define por su sección recta y alargada, con gran longitud y altura y un espesor relativamente pequeño. Se distinguen tres partes: la **coronación** (superior, reparte cargas), el **paramento o haz** (cuerpo principal que soporta esfuerzos, con elementos laterales para distribuir cargas si hay vanos), y la **base o zócalo** (inferior, soporta mayores esfuerzos y es la más resistente). La distancia libre entre dos muros de carga paralelos se denomina "crujía".
+
+La **rigidez** del muro frente a esfuerzos horizontales o excentricidades se asegura mediante muros perpendiculares, llamados "muros de atado", que funcionan como arriostramientos. Según su **procedimiento constructivo**, los muros pueden ser conformados, prefabricados o de fábrica. Los **muros conformados de hormigón armado** son monolíticos, reforzados en huecos y con espesores variables. Los **muros de fábrica** se construyen con pequeños elementos prefabricados, como los ladrillos, dispuestos en aparejos específicos para garantizar estabilidad y resistencia. Incluyen variedades como muros de una hoja, doblados (con conectores para trabajo solidario), capuchinos (con cámara de aire aislante), careados, de tendel hueco, rellenos (con hormigón en la cámara) o de revestimiento (no resistentes). La correcta trabazón y refuerzos son clave para su rigidez.

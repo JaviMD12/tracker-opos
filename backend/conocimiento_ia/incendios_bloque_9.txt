@@ -1,0 +1,79 @@
+## Agentes Extintores y su Aplicación en la Lucha contra Incendios
+
+La elección y correcta aplicación de agentes extintores es fundamental para controlar y sofocar incendios, basándose en la eliminación o reducción de los elementos del tetraedro del fuego: combustible, comburente, energía de activación (calor) y la reacción en cadena. Los agentes extintores se clasifican por su estado de agregación en sólidos, gaseosos y líquidos, cada uno con propiedades y mecanismos de actuación específicos.
+
+### Agentes Extintores Sólidos
+
+Los agentes extintores sólidos, generalmente presentados en forma de polvos finamente pulverizados, consisten en sales inorgánicas como metales alcalinos, bicarbonatos (sódico, potásico, urea-potásico) y fosfato amónico, a los que se añaden aditivos (tricálcico, siliconas) para mejorar su almacenamiento, fluidez y capacidad de formar costras. Se aplican mediante extintores portátiles, monitores o sistemas fijos.
+
+Sus **características** principales incluyen su tamaño de partícula (25-30 micras, lo que les confiere una gran superficie específica), su alta fluidez y capacidad de dispersión sin atracción electrostática, su naturaleza dieléctrica a bajas tensiones y su estabilidad a temperaturas inferiores a 50°C.
+
+Los **mecanismos de extinción** de los polvos se centran primariamente en la **inhibición de la reacción en cadena**, neutralizando los radicales libres que la mantienen. Este método es eficaz para fuegos con llama, pero no para fuegos incandescentes o de brasas, a excepción de los polvos tipo D o especiales. Secundariamente, actúan por **sofocación**, desplazando el oxígeno del aire y creando una costra que impide el acceso del comburente. Su efecto de enfriamiento es, en general, despreciable.
+
+Existen varios **tipos de polvos extintores**:
+*   **Polvos Convencionales BC (químicos secos)**: Compuestos principalmente por bicarbonato sódico o potásico, con aditivos hidrófugos para evitar el apelmazamiento. Son efectivos en incendios de clase B (líquidos inflamables) y C (gases inflamables), así como en fuegos con presencia de tensión eléctrica hasta 1000 voltios. No son aptos para fuegos de clase A ni compatibles con espumas, debido a reacciones químicas. El carbonato potásico, con un aditivo de urea, es más eficaz que los bicarbonatos simples, generando reacciones más potentes.
+*   **Polvos Polivalentes ABC (antibrasa)**: Además de ser eficaces en fuegos de clase B y C, estos polvos son también efectivos en fuegos de clase A (superficiales y profundos). Su composición incluye fosfatos, sulfatos y sales amónicas, destacando el fosfato monoamónico, que al descomponerse por el calor, forma una capa pegajosa y resistente sobre el combustible, sofocando el fuego y aislando el material incandescente.
+*   **Polvos Especiales**: Diseñados específicamente para incendios de clase D (metales combustibles), que presentan una alta complejidad y peligrosidad de extinción. Cada polvo está formulado para un tipo de metal específico y suelen estar compuestos por grafito pulverizado o carbón mineral. Su uso con agua o halones puede ser peligroso en fuegos de metales como el magnesio.
+
+### Agentes Extintores Gaseosos
+
+Los agentes extintores gaseosos se almacenan en estado líquido bajo presión y se gasifican al ser liberados. Su principal ventaja es la facilidad de penetración en cualquier espacio, si bien esta característica puede ser un inconveniente en exteriores. Los más comunes son el nitrógeno, el dióxido de carbono y los hidrocarburos halogenados, junto con otros gases inertes.
+
+*   **Nitrógeno (N2)**: Gas incoloro, inodoro e insípido, muy estable a altas temperaturas (700-1330ºC). No es tóxico, pero suprime el fuego por **sofocación** al desplazar el oxígeno atmosférico, reduciendo su concentración. También tiene un efecto secundario de inhibición y enfriamiento. Antiguamente, su uso era limitado por la generación de subproductos tóxicos, pero actualmente es más frecuente.
+*   **Dióxido de Carbono (CO2)**: El agente gaseoso más empleado, de bajo coste, incoloro, inodoro e insípido a temperatura ambiente. Se licúa fácilmente por compresión y enfriamiento, almacenándose en botellas a presión. Al ser liberado, se expande a gas y nieve carbónica a -79ºC, absorbiendo una gran cantidad de calor. Es 1.5 veces más denso que el aire, dieléctrico, no corrosivo y no deja residuos. Su mecanismo principal es la **sofocación**, desplazando el aire y diluyendo el oxígeno. Secundariamente, actúa por **enfriamiento** gracias a la nieve carbónica, siendo más notable en fuegos superficiales.
+*   **Hidrocarburos Halogenados (Halones)**: Compuestos químicos donde átomos de halógenos (cloro, flúor, bromo) sustituyen al hidrógeno. Se identifican con un código numérico que indica su composición. El flúor mejora la estabilidad y reduce la toxicidad, mientras que el cloro y el bromo aumentan la eficacia extintora, pero también la toxicidad y reducen la estabilidad. Se caracterizan por su alta densidad en estado líquido, no dejar residuos y su mecanismo primario de **inhibición química** de la reacción en cadena, además de una sofocación secundaria al desplazar el oxígeno. Son menos tóxicos que el Halón 1211. Su fabricación está prohibida por normativa europea debido a su agresividad contra la capa de ozono, aunque aún pueden encontrarse en instalaciones existentes.
+*   **Sustitutos de Halones y Gases Inertes (Agentes Limpios)**: Debido a la prohibición de halones, se han desarrollado nuevos compuestos como los agentes limpios (halocarbonados) y mezclas de gases inertes (Inergen, Argonite, Argón 100%). Estos agentes son no corrosivos, limpios, no conductores y seguros para personas y el medio ambiente. Su mecanismo principal es la **sofocación**, al disminuir la concentración de oxígeno para la extinción del fuego.
+
+### Aplicaciones, Usos, Ventajas e Inconvenientes de Agentes Extintores Específicos
+
+#### Agua
+El agua es el agente extintor más común, abundante, económico y efectivo para incendios de clase A debido a su gran capacidad de enfriamiento. En fuegos de clase B y C, se emplea principalmente para control, no para extinción total.
+
+**Formas de aplicación:**
+*   **Chorro compacto**: Es el método más utilizado, pero no el más eficaz. Aunque ofrece largo alcance y puede romper llamas, solo el 10-20% del agua contribuye a la extinción. No es adecuado para fuegos de clase B (líquidos insolubles pueden propagarse) ni eléctricos, ni de metales.
+*   **Agua pulverizada o neblina**: Es la forma más eficiente, ya que la división en gotas finas maximiza la superficie de intercambio de calor, favoreciendo el enfriamiento y la evaporación. Se utiliza en fuegos de clase A y B, y es segura en presencia de electricidad con chorros intermitentes y lanzas especiales. Es eficaz para dispersar nubes de gas y enfriar zonas expuestas. Los sistemas de rociadores o *sprinklers* son ejemplos de instalaciones fijas que usan esta técnica.
+
+**Limitaciones:**
+*   **Conductividad eléctrica**: Su principal desventaja es ser conductora de la electricidad.
+*   **Densidad**: Al ser más densa que la mayoría de combustibles líquidos, se deposita en el fondo, extendiendo el fuego si los líquidos son insolubles en agua.
+*   **Expansión del vapor**: El gran aumento de volumen al evaporarse puede empujar el incendio y propagarlo.
+*   **Reacciones químicas**: Puede reaccionar violentamente con ciertos materiales (Na, Al), generando gases o explosiones.
+*   **Temperatura**: Se congela por debajo de 4ºC y puede descomponerse en H2 y O2 a temperaturas muy altas (3222,2ºC), lo que genera explosiones.
+*   **Tensión superficial/Viscosidad**: Su alta tensión superficial y baja viscosidad natural pueden ser desventajosas, aunque pueden mitigarse con aditivos.
+
+**Aditivos del agua:**
+*   **Humectantes o aligerantes**: Reducen la tensión superficial del agua, aumentando su poder de penetración. Son muy eficaces en incendios de sólidos, mejorando el contacto con el fuego y rebajando la temperatura interior del combustible.
+*   **Espesantes o viscosantes**: Aumentan la viscosidad del agua, reduciendo su capacidad de escurrimiento. Se usan en incendios forestales y para que el agua flote sobre líquidos inflamables insolubles, formando una capa continua que se adhiere y aísla el combustible. Pueden ser tóxicos y transformar el agua en un gel.
+*   **Agua con boratos**: Una variante de agua con espesantes o aligerantes, a base de boratos cálcicos y sódicos. Se usa principalmente en fuegos forestales. Al calentarse, el agua se evapora y los cristales de borato restantes forman una capa vidriosa dura con propiedades retardantes de llama y aislantes, previniendo la propagación. Sin embargo, se asienta rápidamente y debe usarse con celeridad.
+*   **Modificadores de flujo (agua rápida)**: Productos que disminuyen las pérdidas de presión por fricción en mangueras y tuberías (principalmente por turbulencia). El óxido de polietileno, por ejemplo, permite un aumento del 70% en el flujo y duplica la presión en la boquilla, permitiendo usar mangueras más pequeñas.
+*   **Modificadores de densidad**:
+    *   Mediante la adición de aire para formar espumas aéreas semiestables, más ligeras que muchos líquidos combustibles.
+    *   Mediante la adición de agentes emulsificantes que forman una emulsión flotante no inflamable con la capa superior del líquido en combustión.
+    *   Pequeñas cantidades de detergentes sintéticos reducen la tensión superficial, similar a los humectantes, y se mezclan rápidamente con el combustible al ser pulverizadas.
+
+#### Espumas
+Las espumas son masas de burbujas de gas (aire) obtenidas al combinar un espumógeno (estabilizador) con agua y aire. Son densas y más ligeras que la mayoría de líquidos inflamables, siendo un agente extintor crucial para estos.
+
+**Clasificación por expansión (relación volumen final de espuma / volumen original de espumante):**
+*   **Baja expansión (<20)**: Densas y con alto contenido de agua. Alcance similar al agua. Normas UNE 23603 (3-30) y UNE 23600 (2-20). Se usan para combatir la mayoría de incendios de líquidos inflamables (Clase B) y de clase A.
+*   **Media expansión (20-200)**: Generan grandes volúmenes y cubren grandes superficies. Alcance menor que el agua (5-6 metros). Normas UNE 23603 (30-250) y UNE 23600 (20-200). Óptimas para suprimir la vaporización de químicos peligrosos (rango 30:1 a 50:1). Indicadas para zonas confinadas (sótanos, pozos, barcos) y para prevenir incendios en derrames. Textura suave y excelente fluidez.
+*   **Alta expansión (>200)**: Espumas muy ligeras que llenan grandes espacios rápidamente. Normas UNE 23603 (250-1000) y UNE 23600 (>200). Se diseñan para incendios en espacios confinados (garajes, bodegas, hangares). Controlan y extinguen por enfriamiento y sofocación, aunque su bajo contenido de agua (1:1000) implica que parte se destruye por el fuego. Se aplican con ventilación para la salida de humo y gases, llenando el local con una profundidad de espuma de al menos 60 cm.
+
+**Clasificación por naturaleza de sus componentes:**
+*   **De base proteínica**: Obtenidas por hidrólisis de proteínas animales. Suelen ser de baja expansión y están en desuso. Incompatibles con polvos extintores y no aptas para combustibles polares.
+*   **Fluoroproteínicas (FFFP)**: Compatibles con polvos extintores, pero no adecuadas para combustibles polares.
+*   **De base sintética**: Contienen tensoactivos sintéticos (detergentes). Retienen el agua por más tiempo, son más estables al calor y efectivas con hidrocarburos. Ejemplos incluyen espumógenos de alta expansión como el B-330.
+*   **Formadores de película acuosa (AFFF)**: Contienen componentes fluorados especiales que forman una película delgada sobre los hidrocarburos, impidiendo el contacto con el aire. Son de baja expansión (polivalentes) y se usan con surtidores convencionales.
+
+**Clasificación por función:**
+*   Para hidrocarburos.
+*   Para líquidos polares (anti-alcohol), que tienen un punto de ebullición muy bajo y no se disuelven en alcoholes.
+*   Polivalentes para todo tipo de combustibles líquidos (polares y no polares).
+
+**Mecanismos de extinción de las espumas:**
+*   **Sofocación**: Efecto principal, separando el combustible del oxígeno del aire. Evita el desprendimiento de vapores inflamables y tóxicos. Las espumas de alta expansión sofocan desplazando completamente el aire del recinto.
+*   **Enfriamiento**: Debido a su contenido de agua, reducen la temperatura del combustible y de las superficies metálicas. Una espuma con suficiente estabilidad evita la reignición.
+
+La espuma se produce mezclando mecánicamente espumógeno, agua y aire. Los porcentajes de mezcla para espumógenos de media y alta expansión suelen ser del 1-3%, mientras que para baja y media son del 3-6%. Es crucial seguir las indicaciones del fabricante para la mezcla. La temperatura ideal del agua es entre 7°C y 27°C, con una presión de lanza de 3.5 a 10 bares.
+
+Finalmente, los **hidrocarburos halogenados líquidos** se comportan de manera similar a sus equivalentes gaseosos ante el fuego, aunque su uso está restringido en muchos países por la toxicidad de sus productos de descomposición y su impacto ambiental.

@@ -1,0 +1,88 @@
+# Fundamentos de la Combustión y Agentes Extintores
+
+La comprensión profunda de la **teoría del fuego** es esencial para cualquier bombero, dado que permite dominar, controlar y extinguir incendios de manera eficaz, así como prevenir su ocurrencia. El fuego se define como una **combustión** caracterizada por la emisión de calor, humo y llamas, tal como establece la norma UNE 23026, la cual es complementada por normativas como la UNE-EN ISO 13943:2001 en Europa y la NFPA en América. A su vez, una combustión se entiende como una reacción química exotérmica de oxidación en la que un elemento combustible se combina con un **comburente**, generalmente oxígeno gaseoso, liberando calor, luz, humo y gases.
+
+## Elementos Constitutivos de la Combustión
+
+La combustión es un proceso químico-físico que implica varios elementos fundamentales. Para que ocurra, es indispensable la presencia de un **combustible**, un **comburente** y una **energía de activación**, que juntos forman lo que se conoce como el **triángulo del fuego**. Cuando se añade la **reacción en cadena**, se forma el **tetraedro del fuego**, una representación más precisa que explica cómo la combustión puede autoalimentarse y propagarse. La supresión de cualquiera de estos cuatro factores es clave para la extinción del fuego.
+
+### El Combustible
+
+Un **combustible** es cualquier sustancia capaz de arder en presencia de una energía de activación, combinándose con un comburente en una reacción rápida y exotérmica. Los combustibles pueden presentarse en estado sólido, líquido o gaseoso. Sin embargo, arden siempre en fase gaseosa, un proceso que requiere un aporte previo de energía para que sólidos y líquidos pasen a este estado mediante **pirólisis** o **vaporización**, respectivamente. La **pirólisis** es la descomposición química irreversible de una sustancia por el calor, sin intervención de oxígeno, mientras que la **vaporización** es el cambio de estado de líquido a vapor.
+
+La facilidad de ignición de un combustible depende de varias constantes físicas. El **punto de inflamación** (Flash Point) es la temperatura mínima a la cual un combustible líquido emite vapores en cantidad suficiente para formar una mezcla inflamable con el aire que se encenderá si hay una fuente de ignición externa. Unos grados por encima se encuentra el **punto de ignición o de incendio** (Ignition Point), que es la temperatura mínima a la que los vapores no solo se inflaman, sino que mantienen la combustión una vez retirada la fuente de ignición. Finalmente, el **punto de autoinflamación** (Autoignition Point) es la temperatura mínima a la que los vapores arden espontáneamente sin necesidad de una fuente externa de ignición.
+
+La concentración de vapores combustible/comburente también es crucial, delimitada por el **límite inferior de inflamabilidad (LII)**, la concentración mínima para la combustión, y el **límite superior de inflamabilidad (LSI)**, la concentración máxima. Fuera de este rango, la combustión no es posible por falta de combustible (por debajo del LII) o de comburente (por encima del LSI). Dentro de este rango, el **punto ideal de combustión** representa las condiciones óptimas de combustión, y el **punto estequiométrico** indica la concentración donde la velocidad de reacción es máxima y puede generar una explosión. A modo de ejemplo, el amoniaco tiene un LII del 16% y un LSI del 25%, mientras que la gasolina se sitúa entre 1.5% y 7.6%, y el hidrógeno entre 4% y 75%. En cuanto a las temperaturas, la poliamida tiene un punto de inflamación de 420 ºC y de autoinflamación de 425 ºC, mientras que la gasolina presenta -39 ºC y 285 ºC, respectivamente.
+
+### El Comburente
+
+El **comburente** es el agente oxidante, siendo el oxígeno atmosférico (O2) el más común en fuegos e incendios, representando aproximadamente el 21% en volumen o el 23% en peso del aire. Otros gases presentes en el aire, como el nitrógeno (79% en volumen), son inertes y no participan en la combustión. Una concentración de oxígeno por debajo del 15% generalmente impide la combustión. Ciertos ácidos fuertes oxidantes, como el sulfúrico o el nítrico, pueden provocar combustiones en contacto con materia orgánica sin necesidad de una fuente de ignición externa. La presencia de un comburente en un incendio, aunque no peligrosa por sí misma, aumenta su virulencia.
+
+### Energía de Activación y Reacción en Cadena
+
+La **energía de activación** es la energía mínima necesaria para iniciar la reacción de combustión. Puede provenir de diversas fuentes de ignición, como llamas abiertas, chispas eléctricas, superficies calientes, brasas, reacciones químicas exotérmicas, choques mecánicos, paso de corriente eléctrica, fermentación biológica o fenómenos naturales como los rayos. Es fundamental que la magnitud e intensidad de esta energía sean suficientes para elevar la temperatura del combustible por encima de su punto de ignición.
+
+La **reacción en cadena** es el proceso autoalimentado de la combustión, especialmente en aquellos con llamas. Consiste en la producción continua de radicales libres que propagan la reacción al romper enlaces químicos. La velocidad de esta reacción aumenta exponencialmente con la temperatura; por ejemplo, una elevación de 10 ºC puede duplicarla, y un aumento de 200 ºC puede multiplicarla por un millón. Para que esto ocurra, se requieren grandes cantidades de combustible y oxígeno.
+
+### Agentes Pasivos
+
+Existen **agentes pasivos** que, a pesar de estar presentes en el proceso de combustión, no participan directamente en la reacción química. Su función es absorber o "robar" energía, afectando el comportamiento del fuego. Ejemplos incluyen el dióxido de carbono y el vapor de agua (gases no inflamables), el hollín (partículas de carbón), el agua (por su temperatura y humedad), y el nitrógeno, que, aunque es el componente principal del aire, permanece inerte durante la combustión.
+
+## Tipos y Características de la Combustión
+
+Las combustiones se clasifican en función de diversos parámetros, incluyendo la velocidad de reacción y la presencia de llamas.
+
+### Clasificación por Velocidad de Reacción
+
+La **velocidad de reacción** mide la cantidad de reactivos transformados por unidad de tiempo, mientras que la **velocidad de propagación** de una llama es la velocidad lineal de avance del frente de reacción.
+
+1.  **Combustión Lenta y Muy Lenta (Oxidación):** Se caracteriza por una liberación mínima de energía que se disipa en el ambiente sin producir un aumento local de temperatura ni una reacción en cadena. No hay emisión de luz, o muy poca. La oxidación del hierro o el amarilleamiento del papel son ejemplos.
+2.  **Combustión Simple, Normal o Rápida:** Son oxidaciones moderadamente rápidas donde la velocidad del frente de reacción es visualmente apreciable (inferior a 1 m/s). La energía desprendida es considerable, con emisión de calor, luz y llamas. Parte de esta energía se utiliza para mantener la reacción en cadena. La mayoría de los incendios normales siguen este patrón.
+3.  **Combustión Instantánea o Muy Rápida (Explosión):** Implica fenómenos con ondas de presión o "sobrepresiones", a menudo destructivos. Se subdividen en:
+    *   **Deflagraciones:** Combustiones con una velocidad de propagación subsónica (inferior a 340 m/s). Generan sobrepresiones de 5 a 10 veces la presión original y efectos sonoros. Pueden ocurrir con vapores de líquidos inflamables o mechas lentas. Si el recinto está cerrado, la deflagración podría convertirse en detonación.
+    *   **Detonaciones:** Combustiones con una velocidad de propagación sónica o supersónica (superior a 340 m/s), acompañadas de una onda de choque. Generan sobrepresiones de 20 a 100 veces la presión original, con efectos sonoros y destructivos mucho mayores que las deflagraciones. Son típicas de explosivos industriales o mezclas aéreas de gases y vapores en circunstancias especiales.
+
+### Clasificación por Propagación del Oxígeno
+
+1.  **Combustión Completa:** Se produce con un suministro abundante de oxígeno (aproximadamente 21%), generando dióxido de carbono (CO2) y vapor de agua (H2O). El humo resultante es generalmente blanco o gris pálido, indicando que el combustible se ha combinado totalmente con el oxígeno.
+2.  **Combustión Incompleta:** Ocurre por escasez de oxígeno o presencia de partículas incombustibles. Produce monóxido de carbono (CO), un gas altamente tóxico y ávido de oxígeno, que representa un riesgo de explosión en caso de ventilación súbita. El humo es negro o muy oscuro y está muy caliente.
+
+### Clasificación por Emisión de Llamas
+
+1.  **Combustión con Llamas:** Característica de líquidos y gases inflamables, así como de la mayoría de los sólidos que se descomponen por pirólisis para emitir gases inflamables. La llama es un gas incandescente cuya temperatura y luminosidad dependen del combustible y la concentración de comburente. En general, dos tercios del calor se liberan al ambiente y un tercio por radiación, contribuyendo a la combustión. Las llamas más energéticas son azules (combustiones estequiométricas), mientras que las amarillentas indican un menor nivel energético y una combustión más cercana a los límites de inflamabilidad. La temperatura de la llama puede oscilar entre 1800 °C y 2200 °C, siendo la oxiacetilénica la que supera estas temperaturas. El color de la llama varía con la composición química del combustible y la cantidad de oxígeno, siendo amarillas y oxidantes con mucho oxígeno, y azules, reductoras y más energéticas con poco oxígeno.
+    *   **Zonas de la llama:** Zona Interna (fría y oscura por falta de oxígeno), Zona Media (muy luminosa, combustión incompleta), Zona Externa (poco luminosa, temperaturas máximas, combustión completa).
+2.  **Combustión sin Llamas (Incandescencia):** Se observa en algunos sólidos, como el carbono puro, y metales fácilmente oxidables (magnesio, aluminio, sodio, potasio, uranio, zirconio), que arden a altas temperaturas (entre 1500 °C y 2000 °C) sin producir una reacción en cadena. Se manifiesta visualmente como ascuas.
+
+## Tipos de Incendios Según su Naturaleza
+
+La normativa europea EN 2 (previamente UNE-23010) clasifica los incendios en diferentes clases según el tipo de combustible:
+
+*   **Clase A:** Incendios de materiales sólidos de naturaleza orgánica, cuya combustión produce brasas. Ejemplos incluyen madera, carbón, tela, papel, cartón, paja, plástico y caucho. Estos se consideran "fuegos profundos" porque retienen oxígeno en su interior.
+*   **Clase B:** Incendios de líquidos inflamables o sólidos licuables con bajo punto de fusión, como gasolina, petróleo, alcohol, gasóleo, alquitrán, grasas, ceras y parafinas. No producen brasas y requieren vaporización previa del combustible.
+*   **Clase C:** Incendios de gases inflamables, como propano, butano, metano, acetileno, gas natural e hidrógeno.
+*   **Clase D:** Incendios de metales combustibles, como aluminio en polvo, potasio, sodio y magnesio. Son de difícil y peligrosa extinción, a menudo requiriendo agentes extintores específicos y desaconsejándose el uso de agua, ya que puede generar explosiones al desplazar el hidrógeno.
+*   **Clase F (Clase K americana):** Incendios derivados de aceites y grasas vegetales o animales utilizados en aparatos de cocina.
+*   La antigua Clase E (fuegos eléctricos) ya no se considera una clase independiente, puesto que la electricidad no es un combustible; una vez cortada la corriente, el fuego se clasifica según el material que arde.
+
+## Clasificación de Incendios por Foco, Superficie y Magnitud
+
+Los incendios también pueden clasificarse según la forma del foco, la superficie afectada y su magnitud.
+
+### Por la Forma del Foco
+
+1.  **Foco Plano:** El incendio se desarrolla en un plano horizontal, siendo visible la zona de combustión. Un ejemplo sería un incendio de líquidos combustibles en charcas o sólidos dispersos.
+2.  **Foco Vertical:** El incendio se manifiesta en varios planos horizontales, inclinados o verticales, o cuando zonas en combustión están ocultas. Pacas de paja o apilamientos son ejemplos.
+3.  **Foco Alimentado:** Un incendio plano o vertical que se mantiene por el aporte continuo de combustibles desde depósitos, aljibes, pozos o tuberías (por ejemplo, escapes de gas).
+
+### Por la Superficie Afectada (incendios forestales)
+
+Esta clasificación, relevante en incendios forestales, categoriza el fuego por el área en llamas:
+*   **Pequeño (Grado I):** Hasta 4 m².
+*   **Mediano (Grado II):** De 4 a 10 m².
+*   **Grande (Grado III):** De 10 a 100 m².
+*   **De Envergadura (Grados IV a X):** Desde 100 m² hasta más de 5.000 Ha. Un incendio se considera de envergadura si la altura de las llamas supera la diagonal media de la superficie horizontal afectada, a partir de 100 m².
+
+### Por la Magnitud
+
+1.  **Conato:** Pequeño incendio que puede ser sofocado rápidamente con extintores estándar. Es crucial conocer su uso para evitar una escalada.
+2.  **Inc

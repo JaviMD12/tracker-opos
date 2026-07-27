@@ -1,0 +1,22 @@
+# Comportamiento de Materiales Estructurales Frente al Fuego y Medidas de Protección
+
+La integridad de una edificación ante un incendio es un factor crítico en la seguridad contra incendios, siendo evaluada mediante dos parámetros fundamentales: la resistencia al fuego y la reacción al fuego de sus materiales constitutivos. Ambos conceptos, aunque relacionados, abordan distintas facetas del comportamiento de los elementos de construcción.
+
+## Resistencia al Fuego: Evaluación y Clasificación
+
+La **resistencia al fuego** se define como la capacidad de un material o elemento constructivo para soportar el avance y la propagación del fuego y sus productos (humos y gases calientes), manteniendo su estanqueidad, estabilidad y aislamiento térmico durante un período de tiempo determinado.
+
+La normativa en España ha evolucionado desde la UNE 23.093, que clasificaba los materiales como Estable al Fuego (EF), Parallamas al Fuego (PF) y Resistente al Fuego (RF), hacia el sistema europeo establecido por el Real Decreto 842/2013, de 31 de octubre, que transpone la UNE-EN 13501-1. Esta nueva clasificación utiliza una nomenclatura jerarquizada basada en letras que representan prestaciones principales y secundarias:
+
+*   **R (Resistencia/Capacidad portante):** Indica la aptitud de un elemento constructivo para mantener su función estructural bajo la acción del fuego en una o más de sus caras.
+*   **E (Integridad/Estanqueidad):** Se refiere a la capacidad de un elemento separador para evitar el paso de llamas o gases calientes que puedan inflamar la cara no expuesta o materiales adyacentes.
+*   **I (Aislamiento térmico):** Mide la capacidad de un elemento separador para limitar el aumento de temperatura en su cara no expuesta al fuego.
+
+Además de estas clases principales, existen **clases secundarias** que aportan información complementaria: M (acción mecánica), C (cierre automático), S (estanqueidad al paso de humos), P o HP (continuidad eléctrica o de señal), G (resistencia a la combustión de hollines), K (protección contra incendios), D (duración de la estabilidad a temperatura constante), DH (duración de la estabilidad según curva tiempo-temperatura normalizada), F (funcionalidad de extractores mecánicos de humo y calor) y B (funcionalidad de extractores pasivos de humo y calor).
+La valoración final se expresa mediante la combinación de estas siglas y un número que indica el tiempo en minutos (ej., 15, 30, 60, 120, 240, 360) durante el cual el elemento mantiene las propiedades para las que ha sido diseñado. Esta transición normativa, si bien implica un cambio de nomenclatura, conserva una lógica equivalencia con los principios de evaluación anteriores.
+
+## Reacción al Fuego: Combustibilidad y Propagación
+
+La **reacción al fuego** evalúa la contribución de un material al proceso de inicio y propagación de un incendio, es decir, su grado de combustibilidad. La anterior norma UNE 23.727 clasificaba los materiales de M0 (incombustible) a M4 (altamente inflamable).
+
+Actualmente, la norma UNE EN 13501-1 clasifica los materiales en 51 clases, basándose en el análisis de tres parámetros clave: energía liberada, producción de humos y caída de gotas

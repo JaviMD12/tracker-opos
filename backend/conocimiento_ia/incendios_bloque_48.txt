@@ -1,0 +1,79 @@
+## Normativa y Clasificación de Incendios Industriales
+
+La gestión y control de incendios en establecimientos industriales se rigen por un marco normativo específico, que en España ha evolucionado para establecer estándares de seguridad. La antigua Norma Básica de Edificación sobre Condiciones de Protección contra Incendios en Edificios (NBE/CPI96) fue derogada el 29 de septiembre de 2006, siendo reemplazada por el **Artículo 11 (Seguridad en caso de incendio –SI-) del Código Técnico de la Edificación (CTE)**. Complementariamente, el **Real Decreto 393/2007 de 23 de marzo** aprobó la Norma Básica de Autoprotección para centros, establecimientos y dependencias con potencial generador de emergencias, haciendo obligatoria la elaboración y mantenimiento de planes de autoprotección con un contenido mínimo.
+
+En el ámbito industrial, la regulación fundamental es el **Real Decreto 2267/2004 de 3 de diciembre**, que aprueba el **Reglamento de Seguridad contra Incendios en los Establecimientos Industriales (RSCIEI)**. Este reglamento busca asegurar un nivel adecuado de seguridad contra incendios en instalaciones y establecimientos industriales. Bajo el RSCIEI, se consideran **industrias** las actividades relacionadas con la obtención, reparación, mantenimiento, transformación o reutilización de productos industriales, incluyendo su envasado y embalaje, así como el aprovechamiento, recuperación y eliminación de residuos o subproductos, independientemente de su naturaleza o procesos técnicos. Un **recinto de almacenamiento** se define como cualquier espacio, cubierto o no, destinado exclusiva y temporalmente a albergar productos.
+
+La aplicación del RSCIEI se extiende a diversas áreas, tales como las zonas de un edificio o exteriores donde se almacenan vehículos o mercancías, los equipos e instalaciones que forman parte de un proceso productivo o almacenamiento, y los almacenamientos con una carga de fuego total igual o superior a 3 Megajulios (equivalente a 720.000 Megacalorías). Además, este reglamento también se aplica a industrias preexistentes si su nivel de riesgo intrínseco, ubicación o características presentan un riesgo grave para personas, bienes o el entorno. Es importante considerar también las normativas relativas al sector químico industrial, dada su alta peligrosidad.
+
+### Clasificación de Establecimientos Industriales
+
+Los establecimientos industriales se categorizan según su ubicación en relación con el entorno y su nivel de riesgo intrínseco:
+
+1.  **Establecimientos industriales ubicados en un edificio:**
+    *   **Tipo A:** Ocupan una parte de un edificio que comparte espacio con otros establecimientos, ya sean industriales o de otros usos.
+    *   **Tipo B:** Ocupan la totalidad de un edificio, el cual puede estar adosado a uno o más edificios o situado a una distancia no superior a tres metros de ellos. Incluye naves adosadas con estructura compartida, siempre que su cubierta sea independiente y se demuestre técnicamente que un posible colapso no afectará a las naves colindantes.
+    *   **Tipo C:** Ocupan uno o varios edificios completos, ubicados a una distancia superior a tres metros del edificio más próximo, sin que existan mercancías o elementos combustibles intermedios que puedan propagar un incendio.
+
+2.  **Establecimientos industriales en espacios abiertos:**
+    *   **Tipo D:** Son espacios abiertos que pueden estar total o parcialmente cubiertos, pero carecen de cerramiento lateral en alguna de sus fachadas.
+    *   **Tipo E:** Consisten en espacios abiertos parcialmente cubiertos (hasta el 50% de su superficie), donde alguna fachada de la parte cubierta carece de cerramiento lateral.
+
+Cuando un establecimiento industrial presenta una coexistencia de diferentes configuraciones, cada parte debe analizarse de forma diferenciada, o bien equipararse al tipo más similar en caso de no coincidir exactamente con ninguna de las categorías establecidas.
+
+### Nivel de Riesgo Intrínseco y Carga de Fuego
+
+El **nivel de riesgo intrínseco** de los establecimientos industriales se determina a partir de la configuración (Tipo A, B, C, D o E) y la definición de los sectores o áreas de incendio. Para los tipos A, B y C, un sector de incendio es un espacio del edificio cerrado por elementos resistentes al fuego durante un tiempo establecido. En los tipos D y E, el área de incendio se considera la superficie abierta delimitada por su perímetro.
+
+La **carga de fuego** es otro factor crucial en la determinación del riesgo:
+*   **Nivel Alto:** Se atribuye a industrias químicas, talleres o fábricas de pintura, barnices y pirotécnicas.
+*   **Nivel Medio o Bajo:** Incluye al resto de actividades industriales.
+
+Para una determinación más precisa del nivel de riesgo intrínseco de un edificio o un sector de incendio, se emplean fórmulas que calculan la **densidad de carga de fuego ponderada y corregida (Qe)**. La fórmula para el edificio industrial completo es:
+$$Q_e = \frac{\sum_{i} (Q_{si} \cdot A_i)}{\sum_{i} A_i}$$
+Donde:
+*   $Q_e$: densidad de carga de fuego ponderada y corregida del edificio industrial (en MJ/m² o Mcal/m²).
+*   $Q_{si}$: densidad de carga de fuego ponderada y corregida del sector o área de incendio $i$ (en MJ/m² o Mcal/m²).
+*   $A_i$: superficie construida del sector o área de incendio $i$ (en m²).
+
+A su vez, la densidad de carga de fuego ponderada y corregida de un sector o área ($Q_s$) se calcula como:
+$$Q_s = \frac{\sum_{i} (G_i \cdot q_i \cdot C_i \cdot R_a)}{A}$$
+Donde:
+*   $G_i$: masa del combustible $i$ en el sector (en kg).
+*   $q_i$: poder calorífico del combustible $i$ (en MJ/kg o Mcal/kg).
+*   $C_i$: coeficiente adimensional que pondera la combustibilidad del combustible $i$.
+*   $R_a$: coeficiente adimensional que corrige la peligrosidad de la actividad industrial por su activación. Este coeficiente se aplica si la actividad de mayor riesgo ocupa al menos el 10% de la superficie del sector.
+*   $A$: superficie construida o ocupada del sector o área (en m²).
+
+### Sistemas de Protección contra Incendios
+
+Los establecimientos industriales deben contar con sistemas de protección contra incendios, clasificados en activos y pasivos, diseñados para detectar, contener y extinguir fuegos.
+
+**Sistemas de Protección Activa:**
+
+*   **Detección:** Incluye detectores automáticos (de humo, llama o calor) y sistemas manuales (timbres) que cualquier persona puede accionar ante un conato.
+*   **Alerta y Señalización:** Timbres y megafonía para avisos. Señalización lumínica con letreros verdes para vías de evacuación y rojos para salidas no adecuadas. Se requiere iluminación mínima alimentada por baterías en caso de fallo del sistema normal.
+*   **Avisos:** Los sistemas automáticos alertan electrónicamente a los servicios de bomberos, mientras que los avisos telefónicos son de carácter personal.
+*   **Extinción:** Se emplean agentes extintores (agua, polvo, espuma, nieve carbónica) almacenados en botellas o conducidos por tuberías a dispositivos como bocas de incendio equipadas (BIEs), hidrantes o rociadores automáticos (sprinklers). Estos pueden activarse automática o manualmente por temperatura o cambios bruscos.
+*   **Presurización de Cajas de Escaleras:** En edificios de altura media o grande, este método mantiene una presión estática superior en los pasillos para evitar el desplazamiento de humos hacia ellos, facilitando la evacuación y previniendo el efecto tobera. Requiere ventiladores axiales de gran caudal y el mantenimiento de puertas cortafuego cerradas (preferiblemente pivotantes).
+
+**Sistemas de Protección Pasiva:**
+
+Estos sistemas están integrados en el diseño y construcción del edificio, enfocándose en la contención del incendio y la facilitación de la evacuación. Incluyen:
+*   Definición de **distancias máximas** de recorrido hasta un lugar seguro.
+*   **Disposiciones constructivas** para las vías de evacuación, como puertas que abran en sentido de la evacuación y escaleras con pasamanos.
+*   **Recorridos de evacuación protegidos** con paredes, suelo y techo resistentes al fuego y construidos con materiales incombustibles.
+*   **Número mínimo de escalones** para evitar caídas.
+*   **Sectorización del incendio** mediante la división del edificio en compartimentos con paredes, techos, suelos y puertas con resistencia al fuego para retardar el avance y confinar el fuego.
+*   **Estabilidad de los materiales estructurales** (acero, hormigón armado y madera) ante el fuego, con valores mínimos establecidos por el RSCIEI. En edificios con otros usos, se aplicará el valor más exigente.
+
+### Clasificación de Materiales ante el Fuego (UNE 23727-90)
+
+Los materiales de construcción se clasifican en cinco grupos según su comportamiento frente al fuego:
+1.  **Incombustibles (M0):** Materiales que no arden. Incluyen piedras naturales (granito, basalto, caliza, mármol, pizarra –excepto bituminosa–), piedras artificiales (morteros, pastas de cemento, cal, yeso, hormigones, materiales cerámicos, vidrios y fibras, amianto-cemento) y metales (fundición, acero, aleaciones de aluminio, cobre, zinc, plomo).
+2.  **No inflamables (M1):** Materiales que no se inflaman fácilmente. Ejemplos son la madera aglomerada ignifugada (que en algunos casos puede clasificarse como M2), policloruro de vinilo rígido y estratificados de melanina o urea-formol.
+3.  **Difícilmente inflamables (M2):** Aquellos que arden con dificultad. Ciertas clases de poliéster reforzado con fibra de vidrio, moquetas de lana 100% (a veces M3) y poliolefinas ignífugas.
+4.  **Moderadamente inflamables (M3):** Materiales que arden con cierta facilidad. Madera en listones y tablones con espesor superior a 10 mm, madera aglomerada con espesor superior a 14 mm, poliamidas, resinas epoxi reforzadas con base incombustible, policloruro de vinilo (estratificados), copolímero ABS y moquetas de poliamida (a veces M4).
+5.  **Fácilmente inflamables (M4):** Materiales que se prenden con facilidad. Aquí se incluyen la madera aglomerada con espesor inferior a 14 mm, polimetacrilato de metilo, moquetas acrílicas, tejidos de revestimiento 100% acrílico, espuma de poliuretano y poliestireno expandido.
+
+La **estabilidad al fuego de los elementos portantes** se detalla en tablas según el nivel de riesgo intrínseco (Bajo, Medio, Alto) y el tipo de establecimiento (A, B, C), con resistencias mínimas (R) y estabilidades al fuego (EF) que varían para planta sótano y planta sobre rasante. Por ejemplo, un establecimiento Tipo A con riesgo intrínseco Bajo requiere R 120 en planta sótano y R 90 en planta sobre rasante, mientras que un Tipo C con riesgo Alto requiere R 120 en sótano y R 90 sobre rasante.

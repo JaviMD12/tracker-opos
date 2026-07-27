@@ -1,0 +1,48 @@
+# El Riesgo Eléctrico en Intervenciones de Emergencia: Caracterización, Seguridad y Efectos Fisiológicos
+
+El riesgo eléctrico constituye un factor crítico en las operaciones de bomberos y emergencias, exigiendo un profundo conocimiento de sus propiedades, sus efectos en el organismo y las normativas asociadas para garantizar la seguridad del personal y de la población. Para una comprensión exhaustiva, es fundamental analizar los conceptos básicos de la electricidad, los tipos de redes, las medidas de seguridad y el impacto fisiológico de la corriente.
+
+## Conceptos Fundamentales de la Electricidad
+
+La electricidad se fundamenta en la estructura del **átomo**, la unidad más pequeña de la materia. Este se compone de un **núcleo** central, que contiene **protones** (con carga positiva) y **neutrones** (sin carga), y una **corteza** exterior, donde **electrones** (con carga negativa) orbitan. La **carga eléctrica (Q)**, medida en culombios (C), representa la cantidad de electricidad, siendo la de un electrón igual y opuesta a la de un protón. Las interacciones entre cargas, que dan lugar a la **fuerza electromagnética**, rigen el comportamiento eléctrico: cargas de igual polaridad se repelen, mientras que las opuestas se atraen.
+
+Cuando existe un desequilibrio de cargas, los electrones se desplazan desde puntos de mayor carga negativa hacia donde hay menor carga, buscando el **equilibrio**. Este desplazamiento genera una **intensidad de corriente (I)**, definida como la cantidad de electricidad que circula por un conductor en una unidad de tiempo, medida en amperios (A). La **Ley de Ohm (I = V/R)** establece que la intensidad es directamente proporcional a la **diferencia de potencial (V)** o **tensión** (medida en voltios, V) aplicada, e inversamente proporcional a la **resistencia eléctrica (R)** (medida en ohmios, Ω).
+
+La **resistencia eléctrica** es la dificultad que un material opone al paso de la corriente, siendo inversamente proporcional a su conductancia. Depende de la resistividad (propiedad intrínseca del material), su longitud y su sección transversal. Los materiales se clasifican por su conductividad en **superconductores** (resistencia nula en condiciones específicas), **conductores** (como metales y aleaciones, o soluciones salinas), **semiconductores** (conductividad controlable) y **dieléctricos** o **aislantes** (no conducen electricidad, como vidrio o goma). En intervenciones, es crucial considerar que ciertos materiales como el aire o el agua, normalmente aislantes, pueden volverse conductores bajo condiciones específicas de frecuencia o potencial.
+
+La **potencia eléctrica (P)**, medida en vatios (W) o kilovatios-hora (Kwh), es la capacidad de un dispositivo eléctrico para realizar un trabajo. En corriente continua (CC), se calcula como el producto de tensión por intensidad (P=V·I). Sin embargo, en corriente alterna (CA), se añade el **factor de potencia (cos(f))**, resultando P=V·I·cos(f). Se distinguen tres tipos de potencia: **activa (P)**, que realiza trabajo; **reactiva (Q)**, asociada a bobinas y condensadores; y **aparente (S)**, que es la combinación vectorial de ambas. Las empresas suministradoras penalizan bajos factores de potencia, lo que impulsa la instalación de baterías de condensadores para mejorar la eficiencia.
+
+Finalmente, es importante diferenciar los tipos de corriente. La **corriente continua (CC)** fluye en un solo sentido con un potencial constante, como en las baterías. En contraste, la **corriente alterna (CA)**, utilizada en las redes de distribución, invierte su sentido y magnitud cíclicamente, generalmente en forma sinusoidal a 50 Hz en España. Este tipo de corriente puede generarse y transformarse a tensiones elevadas más fácilmente, lo que la hace idónea para el transporte de energía a largas distancias.
+
+## Redes y Subestaciones Eléctricas
+
+Las **instalaciones eléctricas** se clasifican según su tensión de servicio. Las **instalaciones de alta tensión (AT)** operan con tensiones superiores a 1.000 V en CA o 1.500 V en CC, y abarcan desde la generación hasta la distribución. Por otro lado, las **instalaciones de baja tensión (BT)** manejan tensiones inferiores a 1.000 V en CA o 1.500 V en CC, siendo las más comunes 380 V (trifásica) y 220/125 V (monofásica).
+
+Las **plantas de generación de electricidad** emplean alternadores para producir energía trifásica a 20 kV, que luego se eleva a tensiones de entre 66 kV y 380 kV mediante transformadores para su transporte eficiente a través de **líneas de alta tensión**. Estas líneas, que pueden ser aéreas o subterráneas, transportan la energía a las **subestaciones transformadoras**, donde se reduce la tensión para su distribución. Las subestaciones se clasifican por su tamaño (grandes, medianas o pequeñas) y su función (elevadoras o reductoras), y se dividen en secciones de medición, cuchillas de paso e interruptor.
+
+Los **centros de transformación (CT)**, ubicados en barrios, industrias o edificios públicos, reducen la tensión de media a baja tensión. Pueden ser de **intemperie** (postes de hormigón/acero), **prefabricados de hormigón** (polígonos industriales), **subterráneos** (nuevas urbanizaciones) o en **edificios de obra civil** (locales comerciales). Además, existen **centros de transformación para vías férreas**, que suministran electricidad a trenes y tranvías, utilizando catenarias para la corriente continua o alterna.
+
+Las **instalaciones de enlace** conectan la red de distribución con las instalaciones interiores de los usuarios. Incluyen la **acometida** (desde la red hasta la Caja General de Protección), la **Caja General de Protección (CGP)**, la **Línea General de Alimentación (LGA)** (de la CGP a la centralización de contadores), los **contadores centralizados** o individuales, y la **derivación individual** (del contador al Cuadro de Mando y Protección de la vivienda).
+
+## Medidas de Seguridad y Normativa
+
+La seguridad eléctrica se rige por el **Reglamento Electrotécnico de Baja Tensión (REBT)** y otras normativas específicas, como las **UNE-EN**. Para la seguridad, se establecen **cinco reglas de oro**:
+1.  Abrir con corte visible todas las posibles fuentes de tensión.
+2.  Enclavar o bloquear los aparatos de corte abiertos.
+3.  Comprobar la ausencia total de tensión en cada conductor.
+4.  Poner en corto y a tierra todas las posibles fuentes de tensión.
+5.  Acotar y señalizar la zona de trabajo.
+
+El **Equipo de Protección Individual (EPI)** es fundamental, incluyendo guantes, botas de seguridad, casco, chaquetón y pantalón ignífugos, y equipos de respiración autónoma (ERA) si hay riesgo de humos tóxicos. Las **distancias de seguridad** varían según la tensión (ej., 5 metros para AT > 66 kV, 3 metros para AT < 66 kV, 0,5 m para BT manual, 1 m para BT mecánico) y si la instalación es aérea o subterránea. Si no es posible mantener estas distancias, se debe cortar el suministro o instalar barreras.
+
+## Efectos de la Electricidad en el Organismo
+
+Los accidentes eléctricos, aunque no muy frecuentes, son extremadamente graves debido a la interacción de la corriente con los órganos vitales. Los **efectos visibles** pueden incluir sacudidas, traumatismos, quemaduras, parálisis o trastornos sensoriales. Sin embargo, los **efectos no visibles** requieren mayor atención y pueden manifestarse horas o días después.
+
+La gravedad depende de la **intensidad (I)** y el **tiempo de exposición**. El **umbral de seguridad** se establece en 30 mA para corriente alterna. En corriente alterna, la **zona 1** (hasta 0.5 mA) no produce reacción; la **zona 2** (0.5 mA a línea b) no causa efectos peligrosos; la **zona 3** (línea b a curva c1) puede provocar contracciones musculares y dificultad respiratoria; y la **zona 4** (por encima de c1) conlleva riesgo de parada cardiaca, fibrilación ventricular y quemaduras graves. Para corriente continua, las intensidades y efectos son ligeramente diferentes, con umbrales más altos para los mismos efectos. La **frecuencia** de la corriente también influye: a 50/60 Hz se produce el máximo daño, mientras que a >1000 Hz disminuye el riesgo de fibrilación, pero aumenta el de quemaduras.
+
+La **resistencia del cuerpo humano** es muy variable, influenciada por la fisiología de la piel, la tensión, la presión, la superficie de contacto, la trayectoria de la corriente y el estado general del individuo. La piel seca ofrece alta resistencia (1.000-100.000 ohmios), pero esta disminuye drásticamente si está húmeda (800 ohmios) o sumergida (200 ohmios), e incluso se anula por quemaduras. El **coeficiente de seguridad (UL)** es la tensión máxima segura: 50 V en seco, 25 V en húmedo y 12 V en ambientes mojados.
+
+La **trayectoria de la corriente** a través del cuerpo es un factor crítico; las vías que atraviesan el corazón, pulmones o cerebro son las más peligrosas (ej., mano derecha a izquierda, o cabeza a pies). Es vital evitar el contacto directo con la palma de la mano, ya que la tetanización muscular puede impedir soltar el conductor.
+
+Los **accidentes por electricidad** se clasifican estadísticamente: el 35% por contacto directo, el 17% por contacto indirecto y el 48% por arco eléctrico. Las causas más comunes de incendios en viviendas son cortocircuitos, aislamientos rotos y sobrecargas. Los bomberos deben conocer estas estadísticas para anticipar riesgos y aplicar las medidas de seguridad adecuadas, priorizando siempre el corte visible de la tensión y la comprobación de su ausencia para asegurar la escena antes de cualquier intervención.

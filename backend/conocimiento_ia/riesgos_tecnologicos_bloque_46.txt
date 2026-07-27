@@ -1,0 +1,107 @@
+En el ámbito de las operaciones de bomberos y emergencias, la comprensión profunda de las estructuras edificatorias, así como las técnicas para su estabilización y las características de los riesgos tecnológicos, resulta fundamental. A continuación, se detalla una caracterización exhaustiva de estos elementos y procedimientos.
+
+## Pantallas de Contención
+
+Las **pantallas de contención** son elementos constructivos diseñados para establecer y mantener diferencias de nivel en el terreno, permitiendo pendientes de inclinación significativamente mayores a las que el talud natural del suelo permitiría. Su principal función es estabilizar el terreno en excavaciones verticales, eliminando filtraciones de agua (especialmente en niveles freáticos) y asegurando la estabilidad frente a fenómenos de sifonamiento.
+
+La **geometría** de estas pantallas se caracteriza por un espesor despreciable en comparación con su altura y longitud, lo que las hace funcionar primordialmente a flexión. La **rigidez** se logra mediante un proceso constructivo específico: se fabrican por bataches discontinuos, ejecutados desde la superficie del terreno antes del vaciado. El anclaje se realiza empotrándolas en el terreno a una profundidad de aproximadamente un tercio de su altura total, y se requieren elementos de sujeción adicionales, como placas que comprimen la pantalla o apuntalamientos internos con forjados, si la profundidad de la excavación supera los 3 o 4 metros (más de un sótano).
+
+Existen diversas **tipologías** según su fabricación: pueden ser **ejecutadas in situ**, como las pantallas continuas de hormigón (muros pantalla) o de pilotes; o **prefabricadas**, mediante paneles de hormigón armado o pretensado instalados en una zanja previamente excavada. Los **materiales** predominantes son el hormigón armado, pretensado o postensado, dadas las fuerzas de flexión a las que están sometidas.
+
+## Estructuras Aéreas
+
+Las **estructuras aéreas** comprenden el conjunto de elementos portantes de una edificación, situados generalmente sobre la rasante del terreno, encargados de soportar y transmitir las cargas (permanentes, variables y accidentales) a la cimentación, garantizando la resistencia y estabilidad del conjunto. Se clasifican en cuatro grandes sistemas estructurales.
+
+### Sistemas Adintelados (Muros y Forjados)
+
+Este sistema, predominante en construcciones antiguas y edificaciones de poca altura (como chalets o pequeños locales), se basa en forjados que transmiten las cargas verticales a muros de carga. Su **esquema estructural** es generalmente isostático, donde cada vano trabaja de manera independiente. Los **elementos resistentes** verticales son muros de carga (en fachadas principales, traseras e interiores paralelos a estas), mientras que los horizontales pueden ser simples (viguetas y vigas) o compuestos (forjados y losas). Los **materiales** comunes para los muros de carga incluyen fábrica de ladrillo cerámico o bloque de hormigón, y para los forjados, viguetas de madera, acero u hormigón armado, con entrevigados de revoltón de ladrillo, bovedillas cerámicas o de hormigón.
+
+### Sistemas Entramados (Pilares, Forjados y Pórticos)
+
+Característicos de edificaciones más modernas y de mayor altura, los sistemas entramados están compuestos por elementos resistentes de pequeña sección, separados entre sí por una distancia, y diseñados para soportar grandes cargas. Incluyen **elementos lineales verticales** como pilares, soportes o pies derechos que trabajan a compresión, distribuyendo las cargas y liberando los muros de su función portante. Asimismo, cuentan con **elementos lineales horizontales** como vigas, jácenas o carreras que trabajan a flexión, y **piezas inclinadas** para arriostramiento. Su **esquema estructural** es predominantemente hiperestático, lo que implica que cada vano trabaja conjuntamente con los contiguos, permitiendo una redistribución de esfuerzos que confiere mayor seguridad ante un colapso. Los **materiales** habituales son el hormigón armado y pretensado en viviendas, y el hormigón prefabricado o acero en naves industriales.
+
+### Sistemas Triangulados (Vigas, Cerchas y Pórticos Triangulados)
+
+Estas estructuras reticulares están formadas por barras rectas interconectadas en nudos, dando lugar a triángulos planos (celosías planas) o prismas tridimensionales (estructuras estéreas). Su **uso** es frecuente para cubrir grandes espacios diáfanos sin columnas intermedias, típicos de edificaciones industriales o recintos de pública concurrencia como pabellones deportivos. El **esquema estructural** puede ser isostático o hiperestático, pero su característica principal es que, con cargas aplicadas en los nudos, las barras trabajan a compresión y tracción, con flexiones despreciables. Los **elementos resistentes** que las componen son los cordones (superior e inferior), los montantes (barras verticales) y las diagonales (barras inclinadas).
+
+### Sistemas Abovedados (Arcos y Bóvedas)
+
+Las estructuras abovedadas son sistemas compuestos por dovelas que recogen cargas verticales y las transmiten a los apoyos, liberando vanos. Presentan un carácter bidimensional (arcos) o tridimensional (bóvedas), aunque su uso actual se limita a edificaciones singulares debido a sus luces restringidas.
+
+Las **partes de un arco** incluyen:
+- **Centro y Vértice (Ápice):** El punto de referencia geométrico y el punto más alto del arco, respectivamente.
+- **Arranques:** Los extremos inferiores del arco, que se apoyan en la imposta.
+- **Dovelas:** Piezas en forma de cuña que conforman el intradós. La dovela central impar es la **clave o llave**, y las inmediatas son las **contraclaves**.
+- **Salmeres o almohadas:** Las primeras dovelas en el arranque.
+- **Imposta:** Hilada sobre la que se asienta el arco.
+- **Estribos:** Macizos de fábrica que soportan el arco.
+- **Riñones:** Zonas intermedias entre el salmer y la clave.
+- **Tímpano o recalzo:** Parte en forma de enjuta que descansa sobre los riñones, sin función estructural.
+
+Las **dimensiones** clave son la **luz** (distancia horizontal entre arranques), la **flecha o montea** (altura del arco desde la línea de arranque) y el **peralte** (exceso de flecha sobre la semiluz). El **espesor o canto** es la distancia entre el intradós y el trasdós. La **esbeltez** se define como la relación entre la flecha y la luz.
+
+En cuanto a las **líneas**, destaca la **línea de presiones** (puntos de paso de las resultantes parciales de presión) y la **línea de arranque**. Las **superficies** se definen por el **frente o plano** del paramento frontal.
+
+La **geometría** de los arcos, basada en la yuxtaposición precisa de dovelas, busca la transmisión de esfuerzos de compresión. El conjunto de cargas verticales se transmite a los estribos mediante esfuerzos inclinados (componentes vertical y horizontal). Un arco rebajado generará mayores esfuerzos internos y reacciones en su base que uno estilizado.
+
+La **rigidez** de los arcos y bóvedas está intrínsecamente ligada a la trayectoria de la línea de presiones. Si esta línea sale del tercio central de la dovela, aparecerán tracciones y grietas. Si sale de la dovela del arco, se producirá el desplome. Para la estabilización de los esfuerzos horizontales en la base del arco, se emplean **tirantes** (elementos horizontales a tracción), **contrafuertes** (grandes masas macizas), **arbotantes** (evolución esbelta de los contrafuertes) y **sistemas de arcos** que compensan los esfuerzos laterales.
+
+### Muros de Carga
+
+Los **muros de carga** son elementos estructurales verticales que tienen como función principal recoger los esfuerzos transmitidos por elementos inclinados (cubiertas) y horizontales (forjados), para luego distribuirlos a los cimientos. Trabajan primariamente a compresión y se apoyan directamente sobre la cimentación.
+
+Se localizan habitualmente en las fachadas principales y traseras de sistemas adintelados, cumpliendo también una función secundaria como cerramiento exterior o división interior.
+Su **geometría** se define por una sección recta y alargada, con gran longitud y altura respecto a su espesor. Se distinguen tres partes fundamentales:
+- La **coronación**, que es la parte superior y actúa como elemento de repartición de cargas.
+- El **paramento o haz**, que constituye el cuerpo principal del muro y soporta los menores esfuerzos. En caso de vanos, se refuerza lateralmente para distribuir las cargas. Dentro de este, el **intradós** es la superficie externa visible, mientras que el **trasdós/extradós** es la superficie interna en contacto con el terreno.
+- La **base o zócalo**, que es la parte inferior esencial, la más resistente, y soporta los mayores esfuerzos.
+La **crujía** se define como la dimensión libre entre dos muros de carga paralelos.
+
+La **rigidez** de los muros de carga ante esfuerzos horizontales y excentricidades se asegura mediante muros perpendiculares, denominados "muros de atado", los cuales tienen una función básica de arriostramiento, no portante, y, por lo tanto, una menor sección.
+Las **tipologías** de muros de carga varían según el procedimiento constructivo:
+- **Muros conformados:** se basan en materiales amorfos que endurecen en obra, como los muros de tapial o hormigón. Los muros de hormigón armado se caracterizan por una definición que cubre toda su superficie, requiriendo refuerzos especiales en huecos de puertas y ventanas. Su geometría, según el espesor, distingue entre muros delgados (menos de 15 cm, con resaltos o nervios verticales) y muros de espesor constante (más de 15 cm, con armadura en ambas caras). La rigidez de estos muros depende de los armados, los refuerzos (como nervios o contrafuertes) y su trabazón con muros perpendiculares.
+- **Muros de fábrica:** se construyen con pequeños elementos prefabricados (piedra, ladrillo, bloque de hormigón), dispuestos según un orden o aparejo para garantizar su estabilidad y resistencia. Estos son la categoría más relevante. Las tipologías dentro de los muros de fábrica incluyen:
+    - **Muro de una hoja:** carece de cámara o sutura continua.
+    - **Muro doblado:** compuesto por dos hojas paralelas unidas por conectores o armaduras de tendel que transmiten el esfuerzo cortante, trabajando solidariamente.
+    - **Muro capuchino:** similar al doblado, pero con hojas de más de 9 cm y una cámara de aire superior a 11 cm que puede ser rellenada para aislamiento.
+    - **Muro careado:** con piezas de cara vista trabadas solidariamente con las de trasdós.
+    - **Muro de tendel hueco:** piezas apoyadas en bordes exteriores de tablas con tendeles huecos de mortero ordinario.
+    - **Muro relleno:** con dos hojas paralelas separadas por al menos 50 mm, unidas con llaves o armaduras de tendel, y la cámara rellena de hormigón.
+    - **Muro de revestimiento:** no es resistente ni contribuye a la resistencia estructural del edificio.
+    - **Muro sin carga:** no portante, su eliminación no compromete la integridad del edificio.
+La rigidez de estos muros se asegura mediante una correcta trabazón de hiladas y aparejos, además de refuerzos auxiliares como armaduras.
+- **Muros entramados de madera/mixtos:** una técnica de arquitectura popular que combina elementos resistentes de madera (armazón o esqueleto) con rellenos de fábrica (cascotes, yesones o ladrillos con mortero de cal) para aislamiento y distribución. Su geometría permite secciones de madera más pequeñas, pero el refuerzo con muros y paños ciegos aumenta la solidez.
+    - **Piezas verticales:** incluyen el **pie derecho** (madera vertical a compresión), el **larguero** (jamba de hueco), el **virotillo** (pie derecho de menor longitud) y el **muchacho** (pieza de pequeña sección para cargas no estructurales).
+    - **Piezas horizontales:** como la **carrera** (madera horizontal que absorbe y transmite esfuerzos de forjado), la **sobrecarrera** (refuerza carreras sobrecargadas), el **cabecero/dintel** (madera horizontal que libera espacio para vanos) y el **puente** (madera horizontal entre pies derechos o pie derecho y pared, sin liberar vano).
+    - **Piezas inclinadas:** como las **tornapuntas** y los **jabalcones** (elementos inclinados a compresión que transmiten esfuerzos) y la **Cruz de San Andrés** (dos maderos que triangulan espacios rectangulares, trabajando a tracción), además de las **riostras** que mantienen la posición y evitan desplazamientos.
+La **rigidez** de los muros entramados, si bien similar a la de los pilares, se ve potenciada por los elementos de arriostramiento, ofreciendo seguridad extra. Estos sistemas facilitan mayores alturas, luces libres y huecos en fachadas.
+
+### Pilares o Soportes
+
+Los **pilares o soportes** son elementos verticales cuya función principal es recoger las cargas horizontales del edificio (provenientes de vigas y forjados) y transmitirlas a la cimentación.
+
+En función del **material** con el que estén fabricados, se denominan:
+- **Columna de piedra.**
+- **Pie derecho de madera.**
+- **Soporte de acero.**
+- **Pilar de hormigón.**
+- **Mocheta de fábrica de ladrillo.**
+
+Su **geometría** se puede dividir en tres partes: la **basa o apoyo** (transmite esfuerzos a la cimentación), el **fuste** (cuerpo del pilar) y el **capitel** (parte superior que recibe esfuerzos de elementos horizontales). Su longitud máxima está limitada por la esbeltez o el riesgo de pandeo.
+
+La **rigidez** de los pilares de acero y hormigón armado presenta diferencias notables. Los soportes de acero suelen utilizar placas y elementos de reparto para absorber y distribuir esfuerzos. En los pilares de hormigón armado, la rigidez de los nudos dificulta la ausencia de momentos flectores, lo que exige armaduras longitudinales complementadas por estribos y zunchos para absorber pandeos y tracciones que el hormigón en masa no soporta.
+
+### Pórticos o Marcos
+
+Los **pórticos o marcos** son estructuras formadas por la unión rígida de vigas y pilares, lo que confiere al conjunto una mayor resistencia y rigidez para limitar los desplazamientos horizontales y evitar el colapso.
+
+Su **geometría** se asemeja conceptualmente a una estructura triangulada sin el cordón inferior. Las cargas no suelen aplicarse directamente en los nudos, lo que significa que trabajan principalmente a flexión, además de absorber los esfuerzos horizontales. La **rigidez** se incrementa notablemente con uniones articuladas o, preferiblemente, empotradas entre pilares y vigas, permitiendo grandes luces y cantos pequeños.
+
+En las **estructuras de acero**, los nudos son fundamentales para la rigidez. Según el Código Técnico de la Edificación (CTE DB SE-A), las uniones pueden ser:
+- **Rígidas (empotramiento):** transmiten momentos, manteniendo los ángulos entre piezas. Se ejecutan atornilladas (tornillos calibrados o de alta resistencia) o soldadas (almas en cuantía superior a 2/3, con rigidizadores en alas).
+- **Semirrígidas:** uniones flexibles con giro relativo entre barras, pero con transmisión de momentos.
+- **Simples (articulación):** barras unidas sin coartar giros, sin transmisión de momentos. Históricamente roblonadas, actualmente atornilladas o soldadas (solo almas, máximo 2/3, para evitar momentos).
+
+Los pórticos triangulados son una variante que alcanza mayores esbelteces que los pórticos entramados, y su triangulación proporciona mayor estabilidad.
+
+Este conocimiento detallado es esencial para los bomberos al evaluar la estabilidad de las edificaciones y planificar intervenciones con la máxima seguridad y eficiencia.

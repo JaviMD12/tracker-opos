@@ -1,0 +1,61 @@
+# Técnicas de Intervención en Colapsos Estructurales y Manejo de Cargas
+
+La intervención en situaciones de colapso estructural y el manejo de cargas exigen por parte de los equipos de emergencia un conocimiento exhaustivo de los materiales, equipos y técnicas disponibles, así como de las medidas de seguridad asociadas. Una planificación meticulosa y la adecuada selección de herramientas son cruciales para garantizar la eficacia y la seguridad de las operaciones de rescate.
+
+## Equipos de Protección Individual (EPI) y Maquinaria
+
+El equipamiento de protección individual (EPI) es fundamental en cualquier intervención de emergencia, y su elección se adapta a la naturaleza de la tarea y la maquinaria empleada. Para trabajos de estabilización de estructuras, el EPI mínimo obligatorio incluye **botas de seguridad** (con caña alta, puntera antideformación de acero y plantilla antiperforación), **pantalones**, **camisa**, **chaqueta**, **casco** y **guantes**. En situaciones específicas, como aquellas con daños por agua, socavones o incendios, pueden requerirse protecciones adicionales como **arneses de seguridad**, **mascarillas**, **equipos de respiración autónoma (ERA)**, **trajes antisalpicaduras** y **guantes de látex**, además de **vadeadores** para ambientes húmedos. Es esencial que los guantes cumplan la normativa EN388 con niveles mínimos de abrasión 4, corte 5, desgarro 4 y perforación 1, y que el casco se ajuste a la EN397, incorporando un sistema de fijación completo (cierre de carraca y barboquejo de tres puntos) y protección ocular integrada. Las chaquetas y pantalones deben ser multi-riesgo y contar con refuerzos en codos, hombros y espalda.
+
+En cuanto a la maquinaria y equipos, los grupos especializados en búsqueda y rescate en estructuras colapsadas (BREC o USAR) utilizan técnicas y procedimientos adaptados a catástrofes internacionales, empleando material indispensable para despliegues rápidos, incluso a pie. Dentro del equipamiento estándar disponible en los cuerpos de bomberos, se distinguen varios tipos:
+
+En primer lugar, los **equipos de tracción y arrastre** comprenden el **tractel**, un mecanismo manual con cable de acero, y el **cabrestante**, que funciona con un mecanismo eléctrico y cable de acero o plasma.
+
+Por otro lado, los **equipos de elevación** incluyen **cojines neumáticos** para levantar cargas, **cilindros hidráulicos** para movimientos controlados, **palancas** para aplicar fuerza mecánica, y **eslingas** y **cuerdas** para tracción y sujeción.
+
+Para las **operaciones de corte**, se dispone de **motosierras**, **sierras circulares** (con discos o cadenas de diamante para materiales más duros) y **equipos de oxicorte**.
+
+Finalmente, los **equipos de perforación** suelen consistir en **martillos rotativos**, esenciales para abrir huecos en estructuras.
+
+### Medios Técnicos Especializados de ONGs Internacionales
+
+Las organizaciones no gubernamentales (ONGs) que intervienen en grandes catástrofes internacionales, como los equipos BREC, disponen de herramientas tecnológicas avanzadas para la localización de víctimas y la evaluación del estado estructural. Los **geófonos** son dispositivos electrónicos que amplifican sonidos, permitiendo identificar su dirección en un radio de diez metros, gracias a sensores electromagnéticos, de reluctancia, de capacidad o piezométricos que traducen las vibraciones en señales eléctricas visualizables en pantalla. Estos equipos también suelen integrar auriculares y micrófonos para la comunicación directa con las víctimas.
+
+Asimismo, las **cámaras térmicas** son vitales, ya que captan la radiación infrarroja emitida por los cuerpos, incluso en la oscuridad, generando imágenes térmicas que permiten evaluar la temperatura superficial de objetos o el nivel de líquidos en contenedores, aunque no pueden ver a través de las estructuras.
+
+Adicionalmente, se emplean **videocámaras** con varillas telescópicas para acceder a espacios reducidos, y **microcámaras de visión normal o nocturna** (de unas 5 pulgadas, con función LEM para imágenes claras en baja luminosidad) para inspección visual. Aunque menos sofisticados, los **fonendoscopios** amplifican los sonidos y, como método rudimentario, los **bidones de agua** pueden utilizarse para amplificar sonidos, si bien con un margen de error considerable.
+
+## Técnicas de Apertura de Huecos en Elementos Constructivos
+
+La apertura de huecos en estructuras colapsadas es una tarea crítica que requiere considerar la geometría del elemento, su rigidez y el material de construcción para seleccionar las herramientas y técnicas más adecuadas.
+
+### Perforaciones en Elementos Verticales
+
+Al realizar perforaciones en elementos verticales, como muros o pilares, es fundamental evaluar previamente el **esquema estructural** y la **rigidez** del elemento para prever el impacto de la apertura. Las herramientas varían según el material: **motosierras** para madera, **sierras de disco abrasivo** (tronzadoras) para metal, y **martillos rotativos** con discos de diamante para mampostería. La profundidad de corte dependerá del tipo de muro, como los de ladrillo o bloques de hormigón.
+
+El objetivo principal es crear un **hueco de acceso** para los rescatadores o una **vía de evacuación** para las víctimas, que debe tener una superficie mínima de 0,5 m² con lados de al menos 70 cm en el caso de cortes triangulares, siendo el triángulo la forma más sencilla de ejecutar y que a menudo no requiere apuntalamiento. Es recomendable iniciar con un pequeño **agujero de inspección** para evaluar la situación de la víctima y los riesgos circundantes. Antes de perforar, se debe marcar la geometría del hueco con pintura o spray. Durante la ejecución, en bloques de hormigón se actúa sobre los huecos, que son menos resistentes, mientras que en muros de ladrillo se rompen las juntas. En hormigón armado, los cortes deben realizarse en un ángulo de 45° para evitar la caída incontrolada de la placa. Si el análisis estático previo lo aconseja, se debe **estabilizar** el elemento mediante técnicas de apuntalamiento.
+
+### Aperturas en Elementos Horizontales
+
+Cuando se requiere abrir huecos en elementos horizontales, como forjados colapsados, es primordial garantizar la seguridad y minimizar riesgos de nuevos colapsos. Es crucial realizar un **análisis de estabilidad** para identificar la tipología constructiva. En **forjados unidireccionales**, la perforación debe centrarse en las bovedillas, evitando los nervios y los puntos de momento nulo para no comprometer la estabilidad. Para **forjados bidireccionales**, se perforan los casetones, evitando los nervios y los capiteles. Antes de la perforación, es necesario instalar un **apeo previo** que soporte las cargas de la estructura, y luego, si el análisis estático lo requiere, un **apeo posterior** desde el interior.
+
+### Creación de Galerías
+
+Las **galerías** se emplean para acceder a víctimas atrapadas bajo varios niveles de escombros, especialmente en sótanos. Esta técnica, similar a la entibación, implica la colocación de dinteles en la parte superior del túnel. Dada su complejidad y el tiempo considerable que requiere, se considera un último recurso, y su ejecución depende en gran medida de la disponibilidad de madera y requiere una estabilización complementaria.
+
+### Contención de Deslizamientos de Tierra y Escombros
+
+La **contención de deslizamientos de tierra y escombros** es una técnica crucial para proteger a las víctimas y a los rescatadores. Se basa en la construcción de **barreras físicas** o diques utilizando tablones de madera o estacas de acero, que se insertan perpendicularmente a la pendiente del derrumbe y se rellenan con tierra para formar una placa estabilizadora. La eficacia de esta técnica está condicionada por el **ángulo de rozamiento** del terreno. En suelos arcillosos con alta humedad, que pueden comportarse como fluidos, se pueden usar tablones escalonados o acuñados. En terrenos granulares, la estabilización se logra mediante una forma de cuña.
+
+### Movilización de Cargas
+
+La **movilización de cargas** es esencial en intervenciones de colapso para crear accesos y liberar víctimas. Los materiales de construcción son pesados y deben removerse con seguridad. Los factores que influyen en estas maniobras son la **magnitud de las cargas** a desplazar (definida por el peso específico aparente de los materiales), el **movimiento** a realizar (izado, arrastre, empuje, rodamiento), y las **condiciones de la carga** (anclajes y sujeciones).
+
+Para comprender la movilización de cargas, se utilizan conceptos de estática. Las **palancas**, barras rígidas que giran alrededor de un fulcro, permiten vencer una resistencia (R) aplicando una potencia (P), logrando el equilibrio cuando los momentos de ambas fuerzas son idénticos pero opuestos. Esto se rige por la fórmula $P \cdot dp = R \cdot dr$, donde $dp$ y $dr$ son los brazos de potencia y resistencia, respectivamente. Así, para mover una resistencia R sin aumentar P, basta con incrementar el brazo de potencia o reducir el de resistencia.
+
+Las **poleas** son máquinas simples compuestas por una rueda con un canal para cuerda o cable. En una **polea fija**, la potencia es igual a la resistencia (P=Q), mientras que en una **polea móvil**, la potencia es la mitad de la resistencia (P=Q/2). Los **polipastos** son combinaciones de poleas que multiplican la fuerza, reduciendo la potencia necesaria ($P=R/2^n$, donde $n$ es el número de poleas móviles), aunque aumentando la longitud del cable.
+
+Los **tracteles** son aparatos de arrastre manuales con cable de acero que funcionan en cualquier posición. Su capacidad de carga varía según el tipo y las características del cable. Por ejemplo, un tractel T-13 con cable de 11,5 mm tiene una resistencia a la rotura de 8.000 kg (78,4 kN), mientras que un T-35 con cable de 16,3 mm alcanza los 16.000 kg (156,8 kN). La **tracción directa** implica fijar el cable a la carga y al tractel, mientras que la **tracción indirecta** usa una polea de reenvío para cambiar la dirección de la tracción.
+
+Los **cojines neumáticos de alta presión** (8-10 kg/cm²) y baja presión (0,5-1 kg/cm²) se utilizan para elevar grandes cargas. Su fuerza máxima depende de la presión y la superficie del cojín. Es crucial calzar el suelo y la carga para evitar inestabilidad, no superponer más de dos cojines en paralelo y evitar el contacto con superficies cortantes, afiladas o a altas temperaturas. La operación debe realizarse con un órgano de control a distancia, manteniendo siempre el contacto visual con el cojín.
+
+En resumen, la correcta valoración de la situación, la selección de los EPI y la maquinaria adecuada, así como la aplicación metódica de las técnicas de apertura de huecos y movilización de cargas, son pasos esenciales para asegurar una intervención eficiente y segura en escenarios de colapso estructural.

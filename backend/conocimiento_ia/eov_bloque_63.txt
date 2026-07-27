@@ -1,0 +1,221 @@
+# Equipos de Medición, Generación, Iluminación y Señalización en Servicios de Emergencia
+
+En el ámbito de las operaciones de bomberos y emergencias, la disponibilidad y el correcto funcionamiento de herramientas de medición, generación eléctrica, iluminación y señalización son cruciales para garantizar la eficacia y seguridad de las intervenciones. Estos equipos permiten evaluar riesgos, proporcionar energía y luz en entornos adversos, y balizar zonas de trabajo, siendo complementos indispensables para el personal.
+
+## Instrumentos de Medición
+
+Los instrumentos de medición son herramientas que posibilitan la cuantificación instantánea de diversas magnitudes físicas y concentraciones de sustancias, esenciales para evaluar riesgos en el entorno de la intervención. Entre ellos destacan los radiámetros, detectores de gases y medidores láser.
+
+### Radiámetro
+
+Un **radiámetro** portátil se emplea para determinar los niveles de contaminación por radiación alfa, beta y gamma en la atmósfera durante emergencias nucleares. Este dispositivo mide la radiación recibida a través de un sensor interno.
+
+**Características y Funcionamiento:**
+Los radiámetros modernos suelen ser sistemas digitales controlados por microcontrolador, diseñados para medir la tasa de dosis equivalente ambiental (H*(10) para rayos X y gamma) en microsievert por hora (µSv/h) y la contaminación radiactiva (partículas alfa, beta y gamma) en cuentas por segundo (cps). Incorporan un filtro atenuador de energías y una ventana del detector, además de botones para menú, audio, encendido y reinicio.
+Para medir la radiación de rayos X y gamma, la ventana debe permanecer cerrada. Sin embargo, para medir la contaminación por partículas alfa, beta y gamma, la ventana se abre completamente para maximizar la eficiencia y acercar el dispositivo a la fuente.
+El encendido del equipo inicia una autocomprobación y calibración de los sensores, mostrando información relevante como el modelo, número de serie y, finalmente, la tasa de dosis. En caso de batería baja, se emite una alerta. Las lecturas se presentan digitalmente, ajustando automáticamente el número de decimales según el rango de medición.
+
+**Normativa:**
+La normativa aplicable incluye la Directiva de compatibilidad electromagnética 2004/108/CE y la Directiva 93/68/CEE.
+
+**Uso y Seguridad:**
+Su uso se enfoca en emergencias radiológicas, como incidentes con materiales radiactivos, fuentes no controladas o industrias peligrosas.
+Como precauciones generales, es vital evitar introducir objetos en las ranuras, usar la alimentación indicada por el fabricante, no abrir la carcasa del equipo ni intentar repararlo en caso de avería, no dirigir el láser hacia fuentes de luz potentes, y observar las condiciones ambientales para evitar su uso en atmósferas explosivas. El uso inadecuado o por personal no cualificado puede generar riesgos significativos.
+
+**Mantenimiento:**
+Se requiere una revisión periódica de su apagado y encendido, así como de la navegación por los menús. Su limpieza se realiza sin abrasivos. Es fundamental que la calibración se realice únicamente por laboratorios acreditados. Para su almacenamiento y transporte, deben resguardarse en el parque en la zona habilitada para emisoras y linternas, protegido de golpes y humedad.
+
+### Detector de Gases (Explosímetro)
+
+El **detector de gases**, comúnmente denominado **explosímetro**, es un dispositivo esencial para identificar la presencia o ausencia de gases peligrosos que pueden generar riesgos de asfixia, toxicidad o explosividad.
+
+**Características y Funcionamiento:**
+Estos aparatos advierten cuando las concentraciones de gases superan los límites de activación preestablecidos. Pueden integrar hasta cinco sensores diferentes, configurados para detectar gases específicos como sulfuro de hidrógeno (H2S), monóxido de carbono (CO), oxígeno (O2) y metano (CH4). La detección de O2 se enfoca en deficiencias (<19,5% vol.) o enriquecimientos (>23,5% vol.), mientras que para CH4 se considera su límite inferior de explosividad (LEL) de 0-100%. Los sensores de H2S, CO y O2 suelen ser electroquímicos, mientras que los de gases combustibles son de perla catalítica.
+Incorporan sistemas de autodiagnóstico y autocalibración, así como alarmas visuales y sonoras que indican la presencia de gases, el rango detectado, el nivel de batería y posibles errores. Las alarmas pueden ser de nivel bajo (Low Alarm), nivel alto (High Alarm), promedio ponderado en el tiempo (TWA Alarm) o límite de exposición a corto plazo (STEL Alarm) para gases tóxicos.
+
+**Normativa:**
+Cumplen con normativas como ATEX (para atmósferas explosivas) e IEC, que establecen rangos de temperatura de operación y almacenamiento, así como niveles de protección.
+
+**Uso y Seguridad:**
+Deben encenderse en zonas de aire no contaminado para asegurar una correcta calibración inicial. Una lectura rápida y declinante o errática puede indicar una concentración peligrosa de gas. Es crucial proteger los sensores de combustibles como plomo, siliconas e hidrocarburos, ya que pueden inhibir su rendimiento.
+
+**Mantenimiento:**
+El mantenimiento implica calibración y pruebas de respuesta periódicas, limpieza exterior con paño suave (sin sumergir en líquidos) y mantener un registro de operaciones. Cualquier modificación o pieza defectuosa debe ser gestionada por personal autorizado. Los explosímetros se ubican en zonas designadas del parque, conectados a sus cargadores, listos para su uso.
+
+### Medidor Láser Puntero (HILTI PD-E)
+
+El **medidor láser puntero** es una herramienta versátil para medir distancias y realizar cálculos complejos como superficies, volúmenes, mediciones indirectas (Pitágoras), y registro de datos.
+
+**Características y Funcionamiento:**
+Este dispositivo funciona con pilas y ofrece un rango de medición de 0 a 200 metros con una precisión de ±1.0 mm para distancia y ±0.2° para inclinación. Integra un visor óptico con referencia láser para uso exterior y una pantalla LCD iluminada que muestra distancias, estado de servicio y nivel de batería. Cuenta con apagado automático del láser y del equipo, y posee una protección IP 65 contra polvo y salpicaduras de agua.
+Ofrece dos modos de medición:
+1.  **Medición simple:** Proporciona resultados en menos de un segundo, ideal para mediciones rápidas.
+2.  **Medición continua:** Realiza de 6 a 10 mediciones por segundo, útil para nivelar distancias o en situaciones de difícil acceso.
+Para obtener resultados precisos, es fundamental realizar todas las mediciones desde un mismo punto de tope y eje giratorio.
+
+**Normativa:**
+El equipo debe estar homologado según las normativas vigentes.
+
+**Uso y Seguridad:**
+Es crucial seguir las instrucciones del fabricante. Gráficos ilustrativos en pantalla guían cada paso. Se deben evitar mediciones en superficies con mala reflexión, entornos altamente reflectantes, a través de cristales o en condiciones que cambian rápidamente.
+No está diseñado para trabajos de nivelación que requieran alta precisión. Es imperativo no anular los dispositivos de seguridad ni las placas de advertencia, ni apuntar el láser directamente al sol o a fuentes de luz potentes. Su uso debe evitarse en atmósferas explosivas.
+
+**Mantenimiento:**
+En caso de avería o si el láser no se atornilla correctamente (pudiendo generar rayos láser de clase superior a la 2), debe ser revisado por el servicio técnico del fabricante. Se almacena junto a emisoras y linternas para un acceso rápido.
+
+## Herramientas de Generación, Iluminación y Señalización
+
+Estos equipos son fundamentales para operar en escenarios con poca luz o sin suministro eléctrico, así como para garantizar la seguridad del personal y las víctimas.
+
+### Generador Portátil Inverter
+
+El **generador portátil Inverter** es una fuente autónoma de electricidad, transformando la energía mecánica de un motor de combustión en energía eléctrica alterna.
+
+**Características y Funcionamiento:**
+Se compone de un motor de combustión, un alternador, elementos de control, un panel con tomacorrientes, dispositivos de protección y un tanque de combustible. Existen modelos que funcionan con gasolina, diésel, biodiésel, propano comercial o gas natural. Los generadores de gasolina son más económicos, pero la gasolina caduca; los de diésel y biodiésel son más eficientes y fiables, aunque más caros. El propano ofrece caducidad ilimitada y no requiere electricidad para rellenarse, mientras que el gas natural se usa en instalaciones fijas.
+El motor de combustión mueve un rotor en un estator, generando un flujo magnético que se convierte en electricidad. Los alternadores producen corriente alterna, mientras que las dinamos generan corriente continua.
+Incorpora sistemas de seguridad como protectores de circuito (contra cortocircuitos o polaridad invertida en carga de batería) y alertas por falta de aceite (detienen el motor automáticamente).
+
+**Normativa:**
+Motores y generadores eléctricos con potencia superior o igual a 375 W deben cumplir con las normas NTC 2805 y UNE-EN 60034-1:2011, que establecen requisitos para máquinas eléctricas rotativas y parámetros nominales. Estos parámetros deben ser probados en laboratorios acreditados.
+
+**Uso y Seguridad:**
+Se emplea para alimentar herramientas eléctricas y cargar baterías de 12V en lugares sin acceso a una fuente fija.
+Para el encendido, primero se arranca el motor de combustión, luego se conecta el interruptor de control de energía del generador para suministrar electricidad a las herramientas (con sus interruptores apagados).
+Es crucial vigilar el indicador de sobrecarga y el nivel de aceite, ya que el motor se detendrá automáticamente si los límites se exceden.
+Las precauciones incluyen: no repostar con el motor caliente o encendido, cerrar la llave de combustible antes de rellenar, no sobrellenar el depósito, limpiar derrames, no conectar aparatos eléctricos antes de arrancar el motor, no inclinar el generador al añadir aceite, verificar que la carga esté dentro de los límites y asegurar que el filtro de aire esté siempre colocado.
+
+**Mantenimiento:**
+Las tareas de mantenimiento incluyen la revisión de los filtros de combustible y aire, bujías y el sistema de arranque retroactivo cada 50 horas. Cada 300 horas, se revisa la separación de la válvula, el silenciador, el ventilador y la manguera del respiradero del cárter.
+Se transporta en las bombas de primera salida para facilitar el desplazamiento y se almacena limpio de sustancias sólidas e hidrocarburos.
+
+### Generador Eléctrico
+
+El **generador eléctrico** proporciona corriente eléctrica de forma autónoma, a partir de motores de combustión, para alimentar focos fijos y portátiles, herramientas de corte, etc.
+
+**Características y Funcionamiento:**
+Generalmente tienen una autonomía aproximada de 2 horas. Pueden ser alternadores (corriente alterna, con rotor inductor y estator inducido) o dinamos (corriente continua, con estator inductor y rotor inducido).
+Incorpora sistemas de seguridad como un protector de circuito y un sistema de alerta por falta de aceite que detiene el motor.
+Las partes esenciales incluyen el motor de arranque, el depósito de gasolina y aceite, el silenciador, la bujía, el filtro de aire y el bastidor, así como palancas y tapas de control.
+
+**Normativa:**
+Está regulado por las normas UNE-EN 14466:2006+A1:2009 para bombas de lucha contra incendios y UNE EN 1028-1 para bombas centrífugas.
+
+**Uso y Seguridad:**
+Se utiliza para iluminar zonas oscuras o alimentar herramientas eléctricas. Antes de su uso, se comprueba el filtro de aire, los niveles de aceite y combustible, se conecta el mangote de aspiración y de impulsión, y se ceba la bomba.
+Se debe asentar en una superficie estable y nivelada para evitar derrames de combustible. Es crucial evitar la inhalación de gases de escape, el contacto con piezas calientes, el derrame de combustible y el uso en zonas con riesgo de incendio. La bomba debe funcionar siempre con agua de cebadura para evitar el sobrecalentamiento.
+
+**Mantenimiento:**
+Se revisa el estado de la válvula de descarga, los racores y el filtro inferior. Se limpia el filtro de aceite cada 100 horas y la bujía cada 50 horas. Se comprueba el estrangulador, los tubos de combustible y el sistema de arranque cada 300 horas. Se almacena en los remolques de achique, limpio de sustancias sólidas.
+
+### Devanaderas
+
+Las **devanaderas** son dispositivos que extienden cables eléctricos para focos portátiles o para alimentar herramientas, disponibles en versiones de 24 V y 230 V.
+
+**Características y Funcionamiento:**
+Las devanaderas de 24 V tienen entre 25 y 50 metros de cable flexible con dos conductores (+ y -) que terminan en clavija y enchufe DIN 14690. Se componen de un chasis de acero y un tambor de plástico resistente.
+Las devanaderas de 230 V pueden incorporar varias tomas de corriente y tres cables (neutro, fase y tierra) de 1.5 mm² con unos 50 metros de longitud. Soportan potencias de 1.000 W (cable enrollado) hasta 3.000 W (cable extendido) e incluyen un disyuntor térmico para proteger contra sobrecalentamiento. Se componen de un chasis de acero tubular y un tambor de plástico.
+
+**Normativa:**
+Están sujetas a la homologación CE y a las normas UNE-EN 61242 (cordones prolongadores enrollados) y EN 60079-0:2004, EN 50020:2002, EN 50281-1-1:1998 + A1:2002 para protección contra riesgos eléctricos. El grado de protección es IP44-IP55.
+
+**Uso y Seguridad:**
+Antes de usarlas, se verifica que el cable y las tomas no presenten daños y que estén limpios. Para evitar sobrecalentamientos, el cable debe extenderse completamente si se conectan aparatos de alta potencia.
+
+**Mantenimiento:**
+Se comprueba el estado del cable, clavijas y enchufes. Se almacenan junto al material eléctrico en las bombas de primera salida, protegidas de humedad y fuentes de calor.
+
+### Linternas
+
+Las **linternas** son equipos de iluminación portátiles.
+
+**Características y Funcionamiento:**
+Generalmente fabricadas en resina termoplástica de alta resistencia a impactos, temperaturas extremas, líquidos y sustancias corrosivas. Utilizan tecnología LED o lámparas halógenas, con potencias de unos 3 W para el LED principal (autonomía de 4 horas) y, a veces, un LED auxiliar (autonomía de 8 horas). Pueden tener cabeza pivotante para uso manos libres. Incorporan un avisador de fin de batería recargable.
+
+**Normativa:**
+Se rigen por las normas EN 60079-0:2004, EN 50020:2002 y EN 50281-1-1:1998 + A1:2002.
+
+**Uso y Seguridad:**
+Su uso depende de los dispositivos de luz que incorpore. Si tienen cabeza pivotante, se pueden fijar al casco.
+
+**Mantenimiento:**
+Requiere un mantenimiento mínimo, centrado en la carga de la batería y el estado de las bombillas. Se recomienda realizar un ciclo de carga mensual. Se limpian con detergente doméstico diluido en agua templada y un paño suave. Se almacenan en la zona habilitada para emisoras y linternas del parque.
+
+### Foco de 220 V
+
+El **foco de 220 V** es un dispositivo de iluminación orientable que produce luz al conectarse a una toma de corriente.
+
+**Características y Funcionamiento:**
+Opera con un voltaje de 220-240 V, utilizando bombillas halógenas con potencias entre 150 W y 1.500 W. Incorpora un cable de 3 a 5 metros.
+
+**Normativa:**
+Se regula con grado de protección IP44 - IP55.
+
+**Uso y Seguridad:**
+Se utiliza para iluminar zonas oscuras, excepto en áreas con riesgo de gases combustibles. Se conecta a una base tipo intemperie y se acciona desde la cabina del vehículo o desde el propio foco. Es ajustable en dirección, pero no en potencia. Se recomienda no mirar directamente a la bombilla y evitar ubicarlo cerca de productos inflamables.
+
+**Mantenimiento:**
+Antes de limpiarlo, se desconecta. Si se necesita cambiar la bombilla, se espera a que se enfríe y se manipula con un trapo seco. Se transporta bajo los asientos traseros de las bombas.
+
+### Foco Globo
+
+El **foco globo** es un sistema de iluminación que se despliega mecánicamente (no es hinchable).
+
+**Características y Funcionamiento:**
+Su parte superior es opaca (Kevlar® de alta resistencia al desgarro con reflexión hacia abajo), mientras que la parte inferior es traslúcida, transmitiendo la potencia lumínica de la lámpara. Proporciona una distribución de luz óptima sin sombras a una altura de 3-5 metros.
+Puede fijarse en un trípode o directamente en la máquina de trabajo. Funciona con corriente de 220/240 V, pesa unos 8 kg y utiliza una lámpara halógena de 500 a 2000 W. Sus partes son: reflector, difusor, trípode, cable de alimentación y transportador.
+
+**Uso y Seguridad:**
+Se utiliza para iluminación temporal de alta calidad en espacios abiertos y cerrados. Para ponerlo en funcionamiento, se saca del transportador, se despliega y se cierra su envoltura, se fija en el trípode y se enchufa. Después de usarlo, se deja enfriar al menos 10 minutos antes de plegarlo para evitar daños en la cubierta.
+
+### Foco Telescópico
+
+El **foco telescópico** está diseñado para iluminar zonas de trabajo con focos potentes y direccionales.
+
+**Características y Funcionamiento:**
+Consta de un mástil telescópico que se despliega a una altura de 2.5 a 5 metros. El mástil es de aleación de aluminio ligera, protegida contra la corrosión, y puede incorporar dos focos de la misma o diferente potencia. El despliegue y plegado se realizan con un mando de control, y los focos pueden girar. Existen versiones manuales (con trípode extensible) o mecánicas (accionadas por aire comprimido o batería) y portátiles (con equipo de generación eléctrica).
+
+**Normativa:**
+Se regula por la norma ISO 9001:2000 (Requisitos para un sistema de gestión de la calidad).
+
+**Uso y Seguridad:**
+El mástil se despliega por presión de aire y los focos se alimentan con energía eléctrica desde el generador o la red. No debe utilizarse en lugares con cableado eléctrico o gases combustibles.
+Una vez desplegado, se desbloquea el mástil para girar los focos a la dirección deseada. Si cuenta con una unidad de inclinación, se ajusta la posición de los focos.
+Como precauciones, se debe ajustar el presostato si la alimentación es por compresor y regular la presión si proviene de una bombona de aire comprimido. Antes de desplegarlo, se verifica que no haya obstrucciones. El mástil no debe usarse para levantar personas o animales, ni debe ponerse en movimiento el vehículo mientras el mástil está desplegado. Cualquier manipulación eléctrica debe hacerse con la corriente apagada y el mástil plegado. No se despliega si la velocidad del viento excede la máxima especificada.
+
+**Mantenimiento:**
+Se despliega y se limpia regularmente para eliminar suciedad y agua condensada, utilizando un trapo limpio y seco sin productos abrasivos. Se revisan todas las secciones del mástil para detectar errores o daños y se aprietan los tornillos. La instalación eléctrica debe ser revisada por personal especializado. Se almacena recogido y bloqueado en la parte trasera o central del vehículo, o en cualquier superficie lisa del camión.
+
+### Foco Pirata con Trípode
+
+El **foco pirata con trípode** es un foco orientable y portátil utilizado para iluminar zonas de intervención, incluso alejadas del vehículo.
+
+**Características y Funcionamiento:**
+Funciona a 12 V y se puede acoplar a un trípode. Se conecta al vehículo mediante una clavija y una base de enchufe tipo "intemperie", activándose desde la cabina del vehículo o mediante su propio interruptor.
+Existen diferentes tamaños y potencias (4 W a 100 W). Son estancos al agua y resistentes a vibraciones. Los tipos de lámpara pueden ser LED (bajo mantenimiento, buena gestión térmica, alta potencia lumínica, bajo consumo), Xenón (gran potencia, tono diurno, resistente a golpes, larga vida útil, bajo consumo) o halógenos (convencionales, 50% más de potencia que los tradicionales, fácil acceso y manipulación).
+
+**Normativa:**
+Debe cumplir la normativa de fabricación CE y el reglamento sobre permisos de circulación STVZO / 52. Este último permite equipar vehículos con faros de trabajo, pero prohíbe su uso en movimiento en calles públicas y exige que no deslumbren a otros usuarios. No se permite la conmutación eléctrica con la luz de marcha atrás.
+
+**Uso y Seguridad:**
+Se utiliza para iluminar zonas oscuras, excepto en riesgo por gases combustibles. Es resistente al agua y apto para condiciones climatológicas adversas. Se conecta a la base, se acciona el interruptor en cabina y luego el del propio foco. La dirección de la luz es ajustable, pero no la potencia. Se debe evitar tenerlo encendido mucho tiempo con el motor apagado para no agotar las baterías.
+
+**Mantenimiento:**
+Se comprueba diariamente su funcionamiento y el de la alargadera y trípode. Se limpia con agua, jabón neutro y cepillo. Se ubica en la parte frontal de la cabina.
+
+### Elementos de Señalización
+
+Los **elementos de señalización** se usan para balizar, señalizar y autoprotegerse en emergencias, incluyendo accidentes de tráfico, intervenciones nocturnas, en ríos, pantanos, incendios y derrumbes.
+
+**Conos de Señalización:**
+Estos conos delimitan zonas de actuación y son adecuados para condiciones meteorológicas adversas y operaciones diurnas o nocturnas. Deben cumplir la norma EN 13422:2004.
+Pueden ser:
+*   **Fijos:** De una sola pieza con base de arena para estabilidad. Son pequeños, compactos (46 cm de alto) y de bajo mantenimiento.
+*   **Retráctiles:** De tela impermeable y ABS, con tela reflectante. Disponibles en diferentes alturas (30-70 cm) e incluyen una pequeña luz en la punta con pilas AA.
+
+**Balizas Luminosas y Cintas de Señalización:**
+Las **balizas luminosas** acotan zonas de peligro, mientras que las **cintas de señalización** delimitan las áreas de trabajo.
+
+**Señales de Precaución / Peligro Específico:**
+Advierten sobre riesgos para personas, animales o bienes en una zona determinada (prohibición de paso). Su objetivo es prevenir accidentes.
+Se utilizan junto al material NRBQ (Nuclear, Radiológico, Biológico y Químico) para indicar riesgos específicos.

@@ -1,0 +1,114 @@
+# Técnicas de Estabilización de Sistemas Constructivos y Terrenos en Intervenciones de Emergencia
+
+Las intervenciones en estructuras con patologías o en riesgo inminente de colapso, así como las demoliciones controladas y el rescate de víctimas, requieren la aplicación de **técnicas de estabilización** específicas. El objetivo primordial de estas acciones es salvaguardar vidas humanas, asegurar la evacuación de ocupantes, prevenir el efecto dominó en edificaciones colindantes y, finalmente, corregir la causa de la inestabilidad. Para ello, es fundamental un profundo conocimiento de los elementos y herramientas disponibles.
+
+## Tipologías de Estabilización
+
+Las técnicas de estabilización se clasifican en función del tipo de elemento constructivo o del terreno afectado:
+
+### Entibaciones: Estabilización de Terrenos
+
+Las **entibaciones** son estructuras auxiliares provisionales diseñadas para contener el terreno y prevenir deslizamientos, siendo un recurso crucial en excavaciones, zanjas, pozos o galerías inestables. Su aplicación es indispensable cuando la inclinación natural del terreno no garantiza su estabilidad, lo cual es vital para la seguridad del personal interviniente y las víctimas sepultadas.
+
+Existen diversas tipologías de entibaciones, clasificadas según la cohesión del suelo y el porcentaje de superficie de terreno que recubren:
+*   La **entibación cuajada** cubre el 100% de la superficie del terreno y se emplea en suelos de baja cohesión con presencia frecuente de agua.
+*   La **entibación semicuajada** cubre aproximadamente el 50% de la superficie y es adecuada para suelos con mayor cohesión.
+*   La **entibación ligera**, que carece de cabeceros, se reserva para terrenos de alta cohesión con un elevado ángulo de reposo.
+
+En cuanto a su ejecución, los bomberos emplean dos métodos principales:
+*   El **método "Pronto"** implica ensamblar marcos (velas y cabeceros) en la superficie, introducirlos en la zanja manualmente o con grúas auxiliares, y luego acodalarlos desde arriba, asegurándolos en un punto firme.
+*   El **método "Quillery"** consiste en introducir las piezas una a una en la zanja, siendo apto para profundidades de hasta 3,5 metros en suelos con buena cohesión. En profundidades superiores a 2-2,5 metros, este método puede requerir fases adicionales.
+
+La normativa de referencia, como la NTP 278 del INSH/NTE-ADZ, establece que las excavaciones son peligrosas a partir de 0,8 metros en terrenos comunes y 1,3 metros en suelos consistentes, donde el tórax de una persona podría quedar oprimido. En situaciones de emergencia, se recomienda entibar a partir de 1,5 metros de profundidad (cuando una persona queda totalmente cubierta), creando previamente un hueco para respirar.
+
+Es crucial considerar el tipo de terreno: los suelos no cohesivos (gravas y arenas) requieren entibación constante, mientras que los suelos cohesivos (arcillas) solo necesitan entibarse si la zanja o pozo se encuentra cerca de viales o cimentaciones, o si la distancia al elemento susceptible de colapso es menor al doble de la profundidad de la excavación.
+
+**Medidas de seguridad en entibaciones:**
+Antes y durante la ejecución de entibaciones, es imprescindible:
+1.  Identificar las características del terreno y examinar posibles instalaciones subterráneas (agua, gas, líneas de alta tensión).
+2.  Evitar la entrada en alcantarillados o pozos sin verificar la atmósfera interior o sin el uso de equipos de respiración autónoma.
+3.  No emplear motores de explosión en excavaciones estrechas o profundas y verificar la ausencia de gases.
+4.  No almacenar materiales o arena al borde de la excavación.
+5.  Disponer siempre de una escalera como vía de escape si es posible.
+6.  Asegurar que los paneles se coloquen verticalmente y los codales a 90 grados para evitar fuerzas verticales indeseadas.
+7.  Comprender que a mayor profundidad de la zanja, mayor será la presión sobre los codales inferiores.
+
+### Apeos: Estabilización de Estructuras Sobrerasantes
+
+Los **apeos** son construcciones auxiliares provisionales que se utilizan para estabilizar elementos constructivos situados por encima de la rasante del terreno. Su diseño busca dotar de la estabilidad necesaria a la estructura dañada y aumentar el grado de seguridad, distinguiéndose entre apeos ordinarios (para situaciones menos urgentes) y apeos de emergencia (para soluciones inmediatas con elementos de rápida disponibilidad).
+
+#### Elementos Básicos de los Apeos
+
+Los apeos se construyen a partir de elementos básicos, como la madera y el acero, y elementos auxiliares.
+
+**1. Madera Estandarizada:**
+Para homogeneizar las técnicas y el cálculo, se utiliza madera estandarizada con los siguientes requisitos:
+*   **Clase resistente:** C18 (UNE-EN338:2008).
+*   **Especies arbóreas:** Pino silvestre, pinaster, insignis (UNE-EN1912:1999) en España.
+*   **Calidad:** Grupo ME-2 (nudos, fendas, bolsas de resina) según UNE-56544, con deformaciones admisibles (curvatura de cara <20mm, curvatura de canto <12mm, alabeo <2mm por 25mm de ancho, abarquillado <1/25 del ancho).
+*   **Resistencias características:** Baja resistencia en maderas blandas (coníferas).
+
+Históricamente, los apeos se realizaban con postes y rollizos (fustes de árboles apenas desramados), pero la mecanización actual favorece el uso de **tablones** de madera escuadrada (200x70mm) y **tabloncillos** (76x25mm) por su homogeneidad y facilidad de combinación.
+
+**2. Puntales Telescópicos de Acero:**
+Son apoyos provisionales regulables que trabajan a compresión. Aunque tienen una resistencia más limitada que la madera, su facilidad de regulación y reutilización los convierte en un recurso muy utilizado. Deben estar certificados según la norma EN1065.
+*   **Componentes:** Dos tubos concéntricos telescópicos, un dispositivo de reglaje con pasador y un collar roscado para ajuste fino.
+*   **Resistencia nominal:** Un puntal clase A30 (3m de extensión máxima) tiene una resistencia de 17 kN.
+*   **Longitudes estandarizadas:** Versátiles para forjados de altura estándar y huecos pequeños (hasta 1,60 m).
+
+#### Elementos Auxiliares de Estabilización
+
+Los elementos auxiliares complementan a los básicos, permitiendo su unión, templado o arriostramiento:
+
+**1. Elementos de Unión:**
+*   **Clavos:** Piezas metálicas que unen piezas de madera. Pueden debilitar la madera al separarla. Para aumentar su resistencia en un 50% se recomienda taladrar previamente (2/3 - 3/4 del diámetro del clavo). La penetración en la última pieza debe ser al menos 8 veces el diámetro del clavo. La colocación suele ser a tresbolillo, con separaciones de 4-5 cm.
+*   **Bridas:** Dos pletinas de acero con orificios para tornillos o varillas roscadas, que aprietan los tablones haciéndolos trabajar como un elemento único. Son esenciales cuando los tablones trabajan a compresión con riesgo de pandeo, con una separación máxima de 50 cm y a 10 cm de los extremos. Se instalan contrapeadas para arriostramiento y se revisan semanalmente por la dilatación de la madera.
+*   **Pernos:** Menos comunes por su tiempo de montaje. Se colocan en parejas, con una distancia máxima de 50 cm y un mínimo de 10 cm de los extremos. Su resistencia nominal es la mitad que la de los tablones embridados.
+
+**2. Elementos de Templado:**
+*   **Cuñas:** Piezas de madera o material sintético de sección triangular que ajustan los elementos del apeo (pies derechos, tornapuntas, codales) para una entrada en carga progresiva y controlada. Se colocan contrapuestas y se golpean suavemente hasta el ajuste, inmovilizándose con un clavo. Requieren revisiones periódicas por los cambios volumétricos de la madera.
+
+**3. Elementos de Apoyo:**
+*   **Ejiones:** Piezas de madera fijadas a un elemento de madera para servir de tope, apoyo o contención. Trabajan a compresión axial y su resistencia está limitada por las uniones metálicas. La resistencia con clavos sin pretaladro es de 1,0 kN/clavo, y con pretaladro de 1,5 kN/clavo.
+
+**4. Elementos de Arriostramiento:**
+Son fundamentales para evitar la inestabilidad lateral de los apeos:
+*   **Riostras:** Piezas de poca sección, generalmente tabloncillos, que se usan para triangulaciones, trabajando a tracción para evitar desplazamientos perpendiculares.
+*   **Cables de acero:** Elementos muy resistentes a la tracción, ideales para arriostramientos complejos en cubiertas y arcos. Los cables de Φ10mm tienen una carga estática de rotura de 40,0 kN y dinámica de 20,0 kN. Se unen con al menos cuatro abrazaderas para cables menores de 12 mm de diámetro, espaciadas 6-8 veces el diámetro del cable, y con un apriete gradual.
+*   **Pasadores:** Barras corrugadas de 6-10 mm que, tensadas con ranas de encofrado, unen el apeo a la estructura dañada, ofreciendo una resistencia de hasta 3,5 kN por par de tensores. Se colocan cada 50 cm y deben sobresalir 10 cm para evitar su desprendimiento. Su función es asegurar la solidaridad entre el apeo y el elemento constructivo, aprovechando la capacidad resistente total del apeo y absorbiendo tensiones imprevistas.
+
+## Pautas de Ejecución de Estructuras Auxiliares (Fases)
+
+La correcta ejecución de un apeo implica un proceso secuencial:
+1.  **Dimensionado:** Determinar el número de puntales, su separación y el tamaño de los durmientes, considerando la resistencia de los elementos disponibles y las cargas del edificio.
+2.  **Toma de Medidas y Cortes:** Definir las dimensiones y ángulos de las piezas de madera con cintas métricas, escuadras y escantillones. Los cortes se deben realizar perpendicularmente para evitar mermas en la sección de la madera.
+3.  **Embridado de Tablones:** Unir los tablones principales (pies derechos, tornapuntas, codales) en grupos de dos o tres mediante bridas para prevenir pandeos.
+4.  **Sujeción de los Durmientes:** Asegurar la base de los durmientes en el suelo mediante cajeado, riostras, codales o anclaje con redondos para evitar deslizamientos.
+5.  **Piezas en Contacto Directo con Muros:** Utilizar piezas de madera ancladas con pasadores y fijadas por ranas para recoger el esfuerzo de los muros directamente.
+6.  **Montaje del Apeo:** Clavar las piezas horizontales a las verticales (de arriba abajo), posicionar la sopanda sobre dos pies derechos, elevar el conjunto, situarlo sobre el durmiente y aplomarlo. Luego, se montan el resto de elementos (pies derechos, cuñas, riostras).
+7.  **Aplomado de las Piezas:** Las piezas verticales deben estar perfectamente aplomadas para asegurar la eficacia del apeo. Se pueden alinear varios pies derechos en fila.
+8.  **Acuñado del Apeo:** Se sierran los pies derechos o tornapuntas ligeramente más cortos que la distancia necesaria. El hueco se rellena con dos cuñas enfrentadas que se aprietan para templar y ajustar el apeo.
+9.  **Ejecución de Piezas:** Asegurar las uniones con clavos para evitar movimientos por humedad o variaciones térmicas.
+10. **Arriostramiento:** Triangular el conjunto de pies derechos o tornapuntas con riostras para evitar desplazamientos y asegurar el trabajo conjunto.
+
+## Herramientas y Equipos
+
+La disponibilidad de herramientas y equipos es vital para una intervención efectiva.
+
+**1. Equipos de Medición:**
+*   **Cinta métrica y flexómetro:** Para medir longitudes.
+*   **Medidor láser:** Para distancias, superficies y volúmenes.
+*   **Plomada y nivel de burbujas:** Para verificar la verticalidad y horizontalidad.
+*   **Escuadra y falsa escuadra, escantillón:** Para trazar y comprobar ángulos.
+
+**2. Equipos de Corte:**
+*   **Motosierra:** Para cortes rápidos en madera.
+*   **Sierra ordinaria/serrucho, sierra de costilla:** Para cortes manuales en madera.
+*   **Formón:** Para trabajos de carpintería y desbaste.
+
+**3. Equipos de Unión y Separación:**
+*   **Martillo de orejas/bola, maza con mocheta de nailon/mazo de madera:** Para clavar, reajustar cuñas o golpear formones.
+*   **Pata de cabra/barra de uñas:** Para desclavar objetos o abrir cajas.
+*   **Martillo percutor eléctrico:** Para demolición y perforación.
+
+Estos conocimientos garantizan que los bomberos puedan realizar intervenciones de estabilización de manera segura y eficiente, adaptándose a las particularidades de cada situación de emergencia.

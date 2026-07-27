@@ -60,8 +60,12 @@ SYSTEM_PROMPT = (
     "Eres un extractor de datos de boletines oficiales españoles. Analiza este "
     "texto y devuelve ÚNICAMENTE un JSON válido con esta estructura exacta: "
     '{"titulo_plaza": string, "organismo_localidad": string, "plazo_dias": int, '
-    '"requisitos_minimos": string}. Si el texto no menciona explícitamente una '
-    'convocatoria de empleo u oposición, devuelve exactamente {"error": "no es convocatoria"}.'
+    '"plazo_tipo": "habiles" | "naturales", "requisitos_minimos": string}. '
+    'El campo "plazo_tipo" indica si el plazo esta expresado en dias habiles '
+    "(excluyen sabados y domingos) o dias naturales (todos los dias) segun el "
+    "propio texto -- si no lo especifica explicitamente, usa \"naturales\". "
+    'Si el texto no menciona explícitamente una convocatoria de empleo u '
+    'oposición, devuelve exactamente {"error": "no es convocatoria"}.'
 )
 
 
@@ -137,6 +141,43 @@ def _extraer_datos_convocatoria(texto: str) -> dict | None:
     return datos
 
 
+def _fecha_publicacion_entrada(entrada) -> datetime:
+    """Fecha real de publicacion de la entrada del feed (BOE trae
+    'published_parsed', BOJA solo 'updated_parsed') -- no la fecha en la que
+    el scraper la procesa. El cron corre una vez al dia (ver main.py), asi
+    que una entrada puede tardar hasta 24h en recogerse: calcular el plazo
+    desde el momento del scraping en vez de desde la publicacion real hacia
+    que la convocatoria pareciera durar mas de lo que dura de verdad, y se
+    quedara en el tablon dias despues de haber vencido.
+    """
+    parsed = entrada.get("published_parsed") or entrada.get("updated_parsed")
+    if parsed is None:
+        return datetime.now(timezone.utc)
+    # feedparser normaliza *_parsed a UTC independientemente del offset
+    # original del feed.
+    return datetime(*parsed[:6], tzinfo=timezone.utc)
+
+
+def _dias_habiles_a_naturales(dias_habiles: int, fecha_inicio: datetime) -> int:
+    """Convierte un plazo en dias habiles a dias naturales equivalentes,
+    contando desde fecha_inicio y saltando sabados y domingos.
+
+    No tiene en cuenta festivos nacionales/autonomicos (necesitaria un
+    calendario laboral por comunidad autonoma) -- el plazo real puede ser
+    un poco mas corto si hay festivos de por medio, pero es mucho mas
+    preciso que tratar "dias habiles" como si fueran dias naturales.
+    """
+    dias_naturales = 0
+    dias_habiles_contados = 0
+    fecha = fecha_inicio
+    while dias_habiles_contados < dias_habiles:
+        fecha += timedelta(days=1)
+        dias_naturales += 1
+        if fecha.weekday() < 5:  # 0-4 = lunes a viernes
+            dias_habiles_contados += 1
+    return dias_naturales
+
+
 def ejecutar_scraping_boletines() -> None:
     """Punto de entrada del cron diario: descarga, filtra, extrae y guarda."""
     entradas = _obtener_entradas_filtradas()
@@ -174,19 +215,34 @@ def ejecutar_scraping_boletines() -> None:
             plazo_dias_valido = (
                 plazo_dias if isinstance(plazo_dias, int) and plazo_dias > 0 else None
             )
-            # fecha_limite se calcula una sola vez aqui, a partir del mismo
-            # "ahora" que fecha_publicacion, para que el conteo de dias
+
+            # fecha_limite se calcula una sola vez aqui, a partir de la fecha
+            # REAL de publicacion en el boletin (no de "ahora", el momento en
+            # que el cron diario procesa la entrada -- puede ir hasta 24h por
+            # detras de la publicacion real), para que el conteo de dias
             # restantes sea real y vaya bajando dia a dia (ver
-            # Convocatoria.dias_restantes) en vez de quedarse congelado en el
-            # plazo_dias original.
-            ahora = datetime.now(timezone.utc)
+            # Convocatoria.dias_restantes) en vez de sobreestimar cuanto
+            # plazo queda.
+            fecha_publicacion_real = _fecha_publicacion_entrada(entrada)
+
+            dias_naturales_equivalentes = None
+            if plazo_dias_valido:
+                if datos.get("plazo_tipo") == "habiles":
+                    dias_naturales_equivalentes = _dias_habiles_a_naturales(
+                        plazo_dias_valido, fecha_publicacion_real
+                    )
+                else:
+                    dias_naturales_equivalentes = plazo_dias_valido
+
             convocatoria = Convocatoria(
                 titulo_plaza=str(datos.get("titulo_plaza", ""))[:500],
                 organismo_localidad=str(datos.get("organismo_localidad", ""))[:500],
                 plazo_dias=plazo_dias_valido,
-                fecha_publicacion=ahora,
+                fecha_publicacion=fecha_publicacion_real,
                 fecha_limite=(
-                    ahora + timedelta(days=plazo_dias_valido) if plazo_dias_valido else None
+                    fecha_publicacion_real + timedelta(days=dias_naturales_equivalentes)
+                    if dias_naturales_equivalentes
+                    else None
                 ),
                 requisitos_minimos=datos.get("requisitos_minimos"),
                 url_origen=url_origen,

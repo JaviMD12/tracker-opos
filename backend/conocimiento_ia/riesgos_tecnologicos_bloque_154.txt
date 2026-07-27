@@ -1,0 +1,113 @@
+## Identificación de Sustancias Peligrosas y Medios de Detección en Intervenciones NRBQ
+
+En el ámbito de las emergencias de tipo Nuclear, Radiológico, Biológico y Químico (NRBQ), la correcta identificación de las sustancias peligrosas y el uso de los sentidos y herramientas adecuadas resultan cruciales para la seguridad del personal interviniente y de la población. Para ello, diversas normativas y sistemas de señalización internacionales y nacionales establecen pautas claras.
+
+### Identificación a Través del Equipamiento y Etiquetado de Botellas
+
+La Norma UNE-EN 1089-3 regula la identificación de los riesgos principales asociados a las botellas de gases. El color de la ojiva, es decir, la parte superior de la botella, indica el riesgo principal del gas. Los gases industriales se identifican con una ojiva monocolor, mientras que para los gases medicinales y respirables se utiliza un color específico para cada gas, con la excepción de las mezclas. Las ojivas con la normativa actualizada incorporan dos letras "N" (de nuevo) pintadas en posiciones contrapuestas. Por otro lado, el color del cuerpo inferior de la botella es de libre aplicación, salvo en el caso de gases medicinales, y su elección por parte del fabricante no debe generar confusión con los colores de riesgo. La única información concreta sobre el gas que realmente importa es la que figura en la etiqueta, que puede ofrecer datos adicionales sobre las propiedades del gas. Es importante destacar que esta normativa no se aplica a los extintores ni a los gases licuados del petróleo (GLP).
+
+Existen gases cuyo color de ojiva no ha experimentado modificaciones a lo largo del tiempo, como el oxígeno (blanco), el dióxido de carbono (gris), el nitrógeno (negro), el óxido nitroso (azul), el hidrógeno (rojo) y el helio (marrón).
+
+### Los Sentidos como Herramienta de Reconocimiento
+
+El sentido de la vista es fundamental en cualquier proceso de valoración, reconocimiento y gestión de incidentes con mercancías peligrosas, ya que representa el 83% de la información percibida. Permite obtener datos valiosos como colores, etiquetas, formas de los recipientes y distancias sin necesidad de un acercamiento que ponga en riesgo al personal. No obstante, el gusto y el olfato no deben utilizarse para la identificación de sustancias, dada la necesidad de llevar equipos de protección respiratoria. El sentido del tacto ofrece información limitada, principalmente si la sustancia está fría o caliente. El oído, por su parte, puede proporcionar indicios orientativos sobre escapes en válvulas, roturas de recipientes, pequeñas explosiones o fugas en botellas que entren en el rango de inflamabilidad. La información obtenida a través de los sentidos es útil para los intervinientes con equipos de protección individual (EPI) y puede ser complementada con los datos que aporten los informantes sobre olores (picante, agrio, almendras amargas), sonidos o avistamientos.
+
+### Documentación para la Identificación de Mercancías Peligrosas
+
+En las intervenciones con mercancías peligrosas, la documentación de control, tanto obligatoria como complementaria, es clave para identificar la materia implicada.
+
+#### Carta de Porte
+
+Según el Acuerdo Europeo sobre el Transporte Internacional de Mercancías Peligrosas por Carretera (ADR), la **carta de porte** es un documento obligatorio que debe acompañar a las mercancías peligrosas transportadas en bultos o cisternas, siempre que no estén exentas por la categoría de "Cantidades Limitadas". Este documento oficial detalla la naturaleza del transporte y su realización, incluyendo el número de envases y la cantidad de producto por envase. Debe estar redactada en la lengua oficial del país de expedición y, si esta no es inglés, francés o alemán, debe complementarse en uno de estos idiomas. Se exige que esté ubicada en la cabina del vehículo, al alcance del conductor.
+
+#### Fichas de Datos de Seguridad (FDS/MSDS)
+
+Las **fichas de datos de seguridad (FDS)**, también conocidas como Material Safety Data Sheets (MSDS), son herramientas imprescindibles para la valoración y selección de técnicas de mitigación en incidentes con productos químicos. Contienen información vital sobre los riesgos de sustancias o preparados, incluyendo:
+*   Identificación de la sustancia y la empresa.
+*   Composición detallada de los componentes.
+*   Peligros potenciales asociados.
+*   Indicaciones para primeros auxilios.
+*   Medidas de lucha contra incendios.
+*   Acciones a tomar en caso de vertido accidental.
+*   Condiciones de manipulación y almacenamiento.
+*   Control de exposición y equipos de protección individual (EPI).
+*   Propiedades físico-químicas, estabilidad y reactividad.
+*   Información toxicológica y ecológica.
+*   Detalles sobre la eliminación y reglamentación.
+*   Otras informaciones relevantes.
+
+Para la identificación de la materia en una FDS, se utiliza el **Número ONU** (un identificador de cuatro dígitos) y, en su defecto, el **Número CAS** (Chemical Abstracts Service), que es un identificador numérico único para compuestos químicos, polímeros y secuencias biológicas. También puede aparecer el **Número EINECS** (European Inventory of Existing Commercial Chemical Substances), un número de registro asignado a sustancias comercializadas en la Unión Europea, a veces referido como "número EC".
+
+#### Otras Fichas y Documentos Relevantes
+
+Además de la carta de porte y las FDS, existen otros documentos de interés:
+*   **Fichas de Intervención del Ministerio del Interior (España):** Publicadas en el Boletín Oficial del Estado (BOE), estas fichas proporcionan criterios homogéneos de actuación para los servicios operativos en emergencias de transporte de mercancías peligrosas por carretera y ferrocarril. Para su uso, se identifica la sustancia por su número ONU (mostrado en el panel naranja) o por su nombre (en la carta de porte o instrucciones). Es fundamental verificar la ficha con el número ONU, el N.I.P. (Número de Identificación de Peligro) y el nombre de la sustancia.
+*   **Fichas del Gobierno Vasco:** Ofrecen información exhaustiva sobre características, propiedades, almacenamiento, salud e intervención, y son descargables a partir del número ONU o el nombre de la materia.
+*   **Guía de Respuesta a Emergencias (GRE) de CANUTEC (Canadá):** Una guía revisada cada cuatro años que orienta a los primeros intervinientes en la identificación rápida de peligros y la protección personal y pública.
+*   **Fichas ERIC (Emergency Response Intervention Cards) de CEFIC:** Proporcionan información básica a los bomberos para accidentes de transporte químico, con un formato estándar que incluye secciones sobre características, peligros, protección personal, intervención (general, derrames, incendio), primeros auxilios, precauciones (recuperación del producto, después de la intervención), ropa contaminada y limpieza de equipos. Están diseñadas para intervenciones de transporte terrestre con grandes cantidades de productos químicos.
+*   **Instrucciones Escritas:** Deben acompañar a la mercancía peligrosa, en un idioma comprensible para el conductor y se encuentran en la cabina del vehículo.
+
+### Señalización de Peligros
+
+Los vehículos y contenedores de mercancías peligrosas deben portar sistemas de señalización para una identificación rápida de las materias y sus riesgos asociados.
+
+#### Panel Naranja
+
+El **panel naranja** es retroreflectante, rectangular (40 cm de base por 30 cm de altura) y tiene un borde negro de 1,5 cm. Puede estar dividido en dos partes por una línea negra del mismo grosor. Su material es resistente a la intemperie y está diseñado para permanecer fijo al vehículo y visible incluso después de un incendio (durante 15 minutos si la materia es inflamable). Se coloca un panel delantero y otro trasero, perpendiculares al eje longitudinal del vehículo. En contenedores de sólidos a granel, cisternas, CGEM y cisternas portátiles, este panel puede sustituir la placa si la materia es inflamable. En caso de no haber espacio suficiente, las dimensiones pueden reducirse a 30 cm de base por 12 cm de altura, con un borde de 1 cm. Los materiales radiactivos destinados a uso exclusivo solo requieren el número ONU.
+
+El panel naranja incluye dos números:
+*   El **Número de Identificación de Peligro (NIP)** o **código Kemler**, ubicado en la parte superior, consta de dos o tres dígitos que identifican los peligros principales de la materia.
+    *   **Dígitos y su significado:**
+        *   **1:** Emanación de gases por presión o reacción química.
+        *   **2:** Inflamabilidad de líquidos, gases o autocalentamiento de líquidos.
+        *   **3:** Inflamabilidad de sólidos o autocalentamiento de sólidos.
+        *   **4:** Comburente (favorece el incendio).
+        *   **5:** Toxicidad o riesgo de infección.
+        *   **6:** Radiactividad.
+        *   **7:** Corrosividad.
+        *   **8:** Peligro de reacción violenta espontánea (explosión, descomposición, polimerización con calor, gases inflamables o tóxicos).
+    *   La duplicación de una cifra indica la intensificación del peligro. Si la cifra es única, se completa con un cero. La letra "X" precede al NIP si la materia reacciona peligrosamente con el agua, lo que implica que solo expertos deben usar agua para la extinción. Para la Clase 1 (materias explosivas), el NIP utiliza el código de clasificación de la división (ej. 1.1) y la letra de compatibilidad (ej. A, B, C).
+    *   Existen NIPs con significados especiales, como: 22 (gas licuado refrigerado, asfixiante), 323 (líquido inflamable que reacciona con agua desprendiendo gases inflamables), 333 (líquido pirofórico), 362 (líquido inflamable, tóxico, reacciona con agua), 382 (líquido inflamable, corrosivo, reacciona con agua), 423 (sólido que reacciona con agua o es inflamable, o autocalentamiento), 44 (sólido inflamable a alta temperatura fundido), 446 (sólido inflamable y tóxico a alta temperatura fundido), 462 (sólido tóxico que reacciona con agua), 482 (sólido corrosivo que reacciona con agua), 539 (peróxido orgánico inflamable), 606 (materia infecciosa), 623 (tóxico líquido que reacciona con agua), 642 (tóxico sólido que reacciona con agua), 823 (corrosivo líquido que reacciona con agua), 842 (corrosivo sólido que reacciona con agua), 90 (materia peligrosa para el medio ambiente, diversa) y 99 (materias peligrosas diversas transportadas en caliente).
+*   El **Número ONU**, ubicado en la parte inferior, es una cifra de cuatro dígitos que identifica la sustancia o mercancía peligrosa según el Libro Naranja de las Naciones Unidas.
+
+#### Placas y Etiquetas
+
+Los bultos deben llevar **etiquetas de peligro**, mientras que los contenedores, cisternas y vehículos portan **placas-etiquetas**. Su objetivo es señalizar rápidamente las materias y los peligros asociados. Estas etiquetas son cuadradas, apoyadas sobre uno de sus vértices, miden 10x10 cm (reducibles a 5x5 cm si el tamaño del bulto lo requiere) y se colocan en uno de los laterales del bulto. Si un bulto implica múltiples peligros, debe llevar varias etiquetas.
+
+Las sustancias peligrosas para el medio ambiente se marcan con un símbolo negro sobre fondo blanco, con dimensiones de 10x10 cm (reducibles si es necesario). Las **cantidades exceptuadas** son etiquetas para bultos con pequeñas cantidades de mercancías peligrosas, que, aunque no están sujetas a otras disposiciones del ADR, tienen límites de transporte.
+
+#### Otras Marcas de Señalización
+
+Existen otros sistemas de señalización:
+*   **Rombo NFPA 704 (National Fire Protection Association) o "diamante de peligro":** Utilizado en Estados Unidos y algunas industrias europeas. Se divide en cuatro secciones de colores (azul para salud, rojo para inflamabilidad, amarillo para reactividad, blanco para peligros especiales) y asigna un número del 0 (sin peligro) al 4 (peligro máximo) a cada sección. La sección blanca puede incluir indicaciones específicas (oxidante, corrosivo, reactivo con agua, radiactivo).
+*   **Código HAZCHEM:** Utilizado en el Reino Unido, Australia, Nueva Zelanda y otros países de la Commonwealth. Consiste en una placa naranja dividida en cinco secciones. La primera sección indica el Código de Acción de Emergencia (número 1-4) para el agente extintor a emplear:
+    *   **1:** Chorro pleno.
+    *   **2:** Niebla o agua pulverizada.
+    *   **3:** Espuma.
+    *   **4:** Agentes secos (prohibido usar agua).
+    Se puede utilizar un medio de extinción de número superior al indicado, pero nunca uno inferior. Las letras en las secciones siguientes informan sobre la protección personal (ej. E.A. y traje químico), las acciones a adoptar (contener, diluir, drenar) y la necesidad de protegerse con el uniforme completo y equipo de respiración autónoma (E.A.) si la sustancia está incendiada.
+*   **Códigos de Colores en Tuberías (DIN 2403):** Utilizados en instalaciones industriales para identificar el fluido transportado mediante un color básico y un color complementario. El color básico indica la naturaleza del fluido (ej. verde para agua) y el complementario el estado del fluido. Se ubican en toda la longitud de la tubería, en una extensión concreta o en una banda longitudinal, especialmente cerca de válvulas, empalmes y aparatos de servicio. La anchura del anillo del color complementario es igual al diámetro de la tubería. El sentido de circulación se indica con una flecha blanca o negra, que resalte sobre el fondo, o con la extremidad puntiaguda de la banda.
+
+### Aparatos de Detección y Medida
+
+Para una intervención segura y eficaz, es vital contar con equipos de detección y medida.
+
+#### Explosímetro y Medidor de Oxígeno
+
+Los **explosímetros** miden la concentración de gases y vapores inflamables en el ambiente, aunque no distinguen sustancias específicas. Para una lectura precisa, es necesario aplicar un factor de corrección proporcionado por el fabricante, calibrado con un gas patrón (generalmente metano). También indican el porcentaje de oxígeno en la atmósfera. Se debe tener precaución al interpretar los datos debido a las posibles imprecisiones.
+
+#### Tubos Colorimétricos
+
+Los **tubos colorimétricos** son viales con una preparación química que cambia de color al reaccionar con una sustancia específica. La longitud de la mancha indica la concentración, expresada en partes por millón (ppm) o porcentaje en volumen. Se conservan en frío y tienen fecha de caducidad. Son útiles para detectar y cuantificar gases como CO₂, etileno, sulfhídrico y amoníaco.
+
+#### Cámara Termográfica
+
+Las **cámaras termográficas** detectan radiaciones infrarrojas emitidas por objetos con temperatura superior al cero absoluto, convirtiéndolas en una imagen visible. Son útiles en incendios urbanos, rastreos y búsqueda de puntos calientes. Permiten conocer la temperatura superficial de los objetos y, en cisternas, el nivel de un líquido al mostrar diferencias térmicas entre la zona líquida y la de vapor. Las mediciones pueden verse afectadas por la radiación solar y las condiciones ambientales.
+
+#### Dosímetros de Radiación
+
+Los **radiámetros** son detectores que miden la intensidad de radiación (rayos X y gamma en microSv/h) y, algunos, la contaminación de partículas alfa y beta (en cuentas por segundo, cps). En intervenciones con radiaciones ionizantes, son fundamentales para establecer zonas de intervención (caliente, templada, fría) según la tasa de dosis.
+
+#### Medidores de pH
+
+Los **medidores de pH** miden la concentración de iones de hidrógeno en una sustancia, clasificando las sustancias en ácidas (pH 0-6), neutras (pH 7) o básicas/alcalinas (pH 8-14) mediante la escala de pH y el uso de papel tornasol o instrumentos digitales.
