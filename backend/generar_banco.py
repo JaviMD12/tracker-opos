@@ -90,12 +90,49 @@ SYSTEM_PROMPT = (
 )
 
 
+# Restringe el RAG de cada tema a documentos concretos de conocimiento/
+# (comparado por nombre de archivo, ver ai_tutor.py::_cargar_documentos_conocimiento),
+# para que por ejemplo "Legislacion" no recupere por pura similitud semantica
+# fragmentos de normativa tecnica de edificacion (CTE) u otros temas ajenos a
+# leyes/reales decretos/Constitucion. "General" es la excepcion deliberada:
+# None significa sin filtro, usa TODO el corpus (incluidos los documentos ya
+# asignados a otros temas y el resto del CTE/tecnicas de estudio).
+TEMA_A_ARCHIVOS: dict[str, list[str] | None] = {
+    "Legislacion": [
+        "BOE-A-1978-31229-consolidado.pdf",
+        "BOE-A-2007-15820-consolidado.pdf",
+        "BOE-A-2025-7190-consolidado.pdf",
+        "TEMA-37.-ESTATUTOS-DEL-CPBH.pdf",
+        "Anuncio_356176_BOP-80_2026.pdf",
+    ],
+    "General": None,
+    "Rescate": ["rescate.pdf"],
+    "Sanitario": ["sanitario.pdf"],
+    "Incendio": [
+        "incendios.pdf",
+        "DBSI.pdf",
+        "TEMA-33-INSTALACIONES-GLP-EMERGENCIAS-GLP-MEDICION-ATEX.pdf",
+        "riesgos_tecnologicos.pdf",
+    ],
+    "Equipos de Intervencion": [
+        "eov.pdf",
+        "mandos.pdf",
+        "TEMA-10.-Equipos-de-Proteccion-Individual.pdf",
+        "TEMA-36-PROCEDIMIENTOS-DE-TRENES-DE-SALIDA-SEGUN-TIPO-DE-SERVICIO.pdf",
+        "TEMA-38-PO15-DE-USO-DE-EPI-VESTUARIO-Y-UNIFORMIDAD.pdf",
+    ],
+}
+
+
 def _recuperar_contexto(vectorstore, tema: str, enfoque: str) -> str:
     """Fragmentos reales del temario (mismo indice que el Tutor IA) mas
     afines a este tema+enfoque, para anclar el lote a documentos reales en
-    vez de al conocimiento general del modelo."""
+    vez de al conocimiento general del modelo. Restringido a TEMA_A_ARCHIVOS
+    cuando el tema tiene una lista asignada (ver arriba)."""
+    archivos = TEMA_A_ARCHIVOS.get(tema)
+    filtro = {"archivo": {"$in": archivos}} if archivos else None
     fragmentos = vectorstore.similarity_search(
-        f"{tema}: {enfoque}", k=FRAGMENTOS_A_RECUPERAR
+        f"{tema}: {enfoque}", k=FRAGMENTOS_A_RECUPERAR, filter=filtro
     )
     return "\n\n---\n\n".join(fragmento.page_content for fragmento in fragmentos)
 

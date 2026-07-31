@@ -163,6 +163,12 @@ def _cargar_documentos_conocimiento() -> list[Document]:
 
     for documento in documentos:
         documento.page_content = _sanear_texto_unicode(documento.page_content)
+        # Nombre de archivo (no ruta completa: difiere entre Windows y el
+        # servidor Linux) para poder filtrar el RAG de los Simulacros por
+        # documento concreto (ver generar_banco.py, TEMA_A_ARCHIVOS) sin que
+        # cada tema recupere por pura similitud semantica fragmentos de
+        # documentos que no le corresponden.
+        documento.metadata["archivo"] = Path(documento.metadata["source"]).name
 
     return documentos
 
