@@ -1,133 +1,127 @@
-# Equipos de Intervención en Agua
+### PARTE 1. HERRAMIENTAS Y EQUIPOS OPERATIVOS
 
-Los servicios de bomberos y emergencias hacen uso de una diversidad de equipos especializados para afrontar situaciones donde el agua es el elemento principal, como trasvases, inundaciones o rescates acuáticos, incluyendo el buceo. Estos equipos abarcan bombas para achique, prendas de protección específicas y embarcaciones.
+#### Equipos para Intervenciones en Agua
 
-## Bombas para Trasvase de Aguas
+**2.1. Trasvase de Aguas, Inundaciones y Riadas**
 
-Para el manejo de grandes volúmenes de agua en operaciones de trasvase, inundaciones y riadas, se emplean principalmente bombas eléctricas y motobombas, así como turbobombas para ciertas circunstancias.
+**2.1.2. Turbobomba**
 
-### Bombas Eléctricas
+**a) Especificaciones**
+La turbobomba es una bomba centrífuga de tamaño compacto, de aproximadamente 30 x 30 cm, fabricada en aleación ligera. Su principal utilidad radica en la impulsión de líquidos mediante la fuerza motriz del agua proporcionada por otra bomba. Destaca por su facilidad de manejo y bajo requerimiento de mantenimiento. Es especialmente útil en la evacuación de aguas sucias, ya que el líquido impulsor no se mezcla con el agua aspirada. Este equipo es indispensable cuando la altura de aspiración supera los 8 metros o si la distancia entre el vehículo y el punto de achique es mayor que la longitud de los mangotes disponibles.
 
-Las **bombas eléctricas** son dispositivos sumergibles, alimentados por corriente eléctrica (monofásica o trifásica, requiriendo un grupo electrógeno o suministro alternativo), diseñadas para achicar agua en pozos, garajes y áreas inundadas. Aspiran agua limpia o con pequeñas partículas en suspensión y la impulsan a otro punto distante. Su capacidad de evacuación está directamente relacionada con su potencia y altura de elevación.
+La turbobomba se coloca sumergida en el agua, fijada mediante un cabo atado a unos anillos soldados en la carcasa superior. Su caudal de evacuación varía en función de la presión del agua de entrada y la altura de impulsión. No debe utilizarse para evacuar líquidos con una temperatura de autoignición inferior a 200ºC debido al riesgo de autoexplosión por calentamiento.
 
-Para su **uso seguro**, es crucial asentarlas sobre una base firme, manteniendo la boca de aspiración a una distancia prudencial del fondo para evitar obstrucciones. Se conectan a una fuente eléctrica de 220-240V y su manguera de salida se instala antes de sumergirlas. Es fundamental manipularlas por sus manijas o anillos y evitar plegar los cables con radios de curvatura inferiores a cinco veces su diámetro para prevenir daños. Además, deben contar con sistemas automáticos de seguridad que interrumpan el funcionamiento ante fallos y requieren ventilación adecuada si se usan en cámaras de recogida para dispersar gases tóxicos.
-El **mantenimiento** de estas bombas no es complejo, pero implica revisiones periódicas de su sistema hidráulico, asegurando que no haya obstrucciones ni problemas en el aislamiento eléctrico o los niveles de aceite, utilizando siempre repuestos originales. Se transportan en remolques de achique o camiones y se almacenan limpias, libres de hidrocarburos.
-La **normativa** que regula estos equipos incluye la UNE-EN 60034-5:2003/A1:2007 para grados de protección IP, y la EN 60335-1 y UNE-EN ISO 3746:2011 para seguridad y determinación de potencia acústica, respectivamente.
+El equipo consta de dos cuerpos independientes y diferenciados con impulsores conectados por un eje vertical. El cuerpo superior integra una válvula de alivio que permite vaciar el agua del circuito de impulsión para facilitar el desmontaje de la instalación de mangueras. Como ejemplo de rendimiento, una turbobomba estándar puede alcanzar caudales de salida al exterior de entre 1.000 y 2.000 l/min con una presión baja (5-10 bar) y recircular caudales de entre 800 y 1.200 l/min.
 
-### Turbobombas
+**b) Normativa**
+La turbobomba debe estar homologada y cumplir con la normativa vigente.
 
-Las **turbobombas** son pequeñas bombas centrífugas (aproximadamente 30x30 cm) de aleación ligera. Su principal característica es que utilizan la fuerza motriz de un chorro de agua para impulsar otro líquido, sin que ambos se mezclen. Esta particularidad las hace ideales para trabajar con aguas sucias, especialmente cuando la altura de aspiración supera los 8 metros o la distancia al vehículo excede la longitud de las mangueras disponibles.
-Se colocan bajo el agua, fijadas con un cabo a anillos soldados en su carcasa, y su caudal de evacuación depende de la presión del agua de entrada y la altura de impulsión. Sin embargo, no deben emplearse con líquidos cuya temperatura de autoignición sea inferior a 200ºC debido al riesgo de autoexplosión.
-Para su **puesta en marcha**, se verifica que los tornillos estén apretados y se rellenan los niveles de aceite y combustible. Una vez encendida, se acopla la manguera de salida y se instala la de impulsión antes de sumergirla. La turbobomba se detiene posicionando la palanca en "stop".
-Estas bombas pueden operarse en **serie**, donde el agua impulsada por una alimenta a la siguiente, lo que puede reducir el caudal final, o en **paralelo**, que ofrece mayor caudal pero requiere una instalación de mangueras más extensa. Es crucial asegurar una colocación adecuada de las mangueras para evitar el mal funcionamiento o el vaciado accidental de la cisterna del camión.
-El **mantenimiento** de las turbobombas es sencillo, limitándose a revisiones regulares de tornillos, flotador y rejilla, y un cambio de aceite cada 20 horas de funcionamiento con el motor caliente. Se transportan en remolques de achique y deben almacenarse con el flotador y la rejilla limpios de grasas y partículas.
-Están **homologadas** y deben cumplir la normativa vigente específica para este tipo de equipos.
+**c) Uso y seguridad**
+Para su uso, es fundamental comprobar que los tornillos que sujetan la bomba al flotador estén bien apretados, y verificar el nivel de aceite y combustible. Antes de ponerla en marcha en el agua, se conecta la manguera a la salida de la bomba y se instala la manguera de impulsión. El cabo se ata al flotador y la bomba se introduce en el agua. Para detenerla, se coloca la palanca en posición de "stop", se pone el motor en compresión y se cierra el paso de combustible.
 
-### Motobombas
+Es crucial asegurar la correcta disposición de las mangueras, ya que una instalación inadecuada puede impedir el funcionamiento o, incluso, vaciar rápidamente la cisterna del camión de agua.
 
-Las **motobombas** son equipos portátiles accionados por un motor de combustión interna de cuatro tiempos, montados sobre un bastidor metálico para protección y transporte. Su peso, entre 30 y 50 kg, las hace menos manejables que otras bombas, requiriendo una ubicación de trabajo fija. Se utilizan para aspirar e impulsar líquidos, ya sea para abastecer depósitos de vehículos, achicar o drenar.
-Su potencia y caudal varían según el modelo; las de presión son útiles para complementar las bombas de los vehículos, mientras que las de caudal son idóneas para evacuar grandes volúmenes de agua en inundaciones o para abastecer vehículos en incendios forestales, logrando caudales de entre 1.000 y 1.200 l/min.
-Antes de **operar una motobomba**, es indispensable verificar el filtro de aire y los niveles de aceite y combustible. Se conectan las mangueras de aspiración y salida, se ceba la bomba a través del orificio de llenado y se introduce la manguera de aspiración en el agua antes de arrancar el motor.
-Entre las **medidas de seguridad** más importantes, se incluyen: asentarlas en una superficie estable y nivelada para evitar derrames o agarrotamiento, evitar la inhalación de gases de escape, protegerse de piezas calientes y no tocar la bujía o el cable de encendido. Nunca se debe repostar con el motor caliente o en funcionamiento, ni sin ventilación adecuada, y se debe utilizar un colador en la manguera de succión para prevenir la entrada de suciedad.
-El **mantenimiento** diario implica revisar el combustible y el aceite, así como otros componentes como la bujía y los filtros de aire. Cada 100 horas de uso, se debe limpiar el filtro de aceite, y cada 50 horas, revisar y, si es necesario, cambiar la bujía y el filtro de aire. También se inspeccionan las conexiones, mangueras y el sistema de arranque por retroceso. Se transportan en remolques de achique y deben mantenerse limpias de sustancias sólidas.
-La **normativa** aplicable a las motobombas incluye la UNE-EN 14466:2006+A1:2009 para bombas de lucha contra incendios y la UNE EN 1028-1 para bombas centrífugas con cebador.
+**d) Mantenimiento**
+Este tipo de bomba no requiere un mantenimiento específico. Es necesario revisar periódicamente el estado de los tornillos, tuercas, y limpiar el flotador y la rejilla. El aceite debe cambiarse cada 20 horas de funcionamiento, drenándolo mientras el motor está caliente. Se transporta en remolques de achique. Para su limpieza, se debe asegurar que el flotador y la rejilla estén libres de grasas y partículas sólidas, respectivamente.
 
-## Equipos para Buceo
+**2.1.3. Motobomba**
 
-El buceo profesional requiere equipos específicos para garantizar la seguridad del operario en entornos subacuáticos.
+**a) Especificaciones**
+Las motobombas son bombas portátiles accionadas por un motor de combustión interna, usualmente monocilíndricos de cuatro tiempos. Se montan sobre un bastidor metálico para protección y transporte. Su peso, entre 30 y 50 kg, las hace menos manejables que otras, requiriendo una ubicación fija durante el trabajo. El movimiento del motor se transfiere a una bomba centrífuga de una sola etapa de aleación ligera, a veces autocebante, con un sistema de arranque manual.
 
-### Prendas de Neopreno
+Se emplean para aspirar e impulsar líquidos, como el abastecimiento de depósitos de vehículos, achique y drenaje. Se fabrican con diversas prestaciones, potencias y caudales. Los modelos de presión se usan para reemplazar o complementar la bomba del vehículo de bomberos. Las motobombas de caudal se utilizan para evacuar agua en embalses o inundaciones, y para abastecer agua en lugares inaccesibles para vehículos autobomba, siendo comunes en incendios forestales. Pueden alcanzar caudales de entre 1.000 y 1.200 l/min.
 
-Las **prendas de neopreno** son esenciales para proteger al buceador del frío y de posibles lesiones en el agua. Su grosor (entre 2 y 8 mm) es inversamente proporcional a la temperatura del agua, ofreciendo mayor protección térmica a mayor grosor, aunque limitando la movilidad. El neopreno, una goma sintética ligera y elástica con micro-burbujas de nitrógeno, retiene muy bien el calor y minimiza la entrada de agua. Las costuras pueden ser planas (más vulnerables) o con costuras ciegas y selladas (más impermeables).
+El caudal es un factor determinante, ya que indica la cantidad de litros que pueden bombearse. Los fabricantes proporcionan este dato asumiendo que el líquido se bombea desde el mismo nivel que la bomba. Si se bombea contra altura, el caudal se reduce significativamente.
 
-Existen diversos tipos de prendas:
-*   **Trajes de neopreno**: diseñados para rescate acuático en superficie, sin los requisitos del buceo profundo. Pueden ser:
-    *   **Trajes secos**: totalmente estancos, de una pieza que cubre desde los pies hasta el cuello (manos excluidas). Se ajustan en muñecas y cuello y se cierran con cremalleras horizontales o cruzadas. Fabricados en neopreno (5-9 mm) o trilaminado (más finos y cómodos). Los trajes vulcanizados, aunque muy impermeables, carecen de flotabilidad y reducen la movilidad.
-    *   **Trajes semisecos**: similares a los secos, pero llegan solo hasta los tobillos, fabricados en neopreno o trilaminado.
-    *   **Trajes húmedos**: no son completamente impermeables, permiten la entrada de agua que el cuerpo calienta. Tienen un grosor de 3-9 mm y pueden ser de una pieza (monopieza, elásticos, con cremallera trasera) o de dos piezas (pantalón de peto y chaqueta con o sin capucha).
-*   **Escarpines**: calzado de neopreno que protege los pies del frío y cortes.
-*   **Calcetines de neopreno**: complemento de los escarpines para mayor protección térmica, o se usan solos con menor protección mecánica.
-*   **Guantes**: protegen contra la temperatura, con menor resistencia a agresiones mecánicas, por lo que pueden combinarse con guantes de trabajo.
+**b) Normativa**
+Las motobombas se rigen por la normativa:
+*   UNE-EN 14466:2006+A1:2009 Bombas de lucha contra incendios. Motobombas portátiles. Seguridad y requisitos de funcionamiento, ensayos.
+*   UNE EN 1028-1 Bombas contra incendios. Bombas centrífugas contra incendios con cebador.
 
-La **normativa** para estos equipos incluye la UNE EN 14225-1:2005 para trajes húmedos y la UNE EN 14225-2:2005 para trajes secos.
-Su **uso** está indicado en intervenciones acuáticas donde se requiere protección contra el frío. El **mantenimiento** consiste en revisar agujeros o rasgaduras, limpiar con agua clara y dejar secar al aire, almacenándolos junto con el resto del material de rescate acuático.
+**c) Uso y seguridad**
+Antes de iniciar la motobomba, es esencial verificar el filtro de aire, los niveles de aceite y combustible. Se conectan los mangotes de aspiración e impulsión, se ceba la bomba a través del tapón de llenado, y se introduce el mangote de aspiración en el agua antes de arrancar el motor.
 
-### Cascos para Riadas
+**Precauciones y medidas de seguridad:**
+*   Asentar la bomba en una superficie estable y nivelada para evitar derrames de combustible o agarrotamiento por lubricación insuficiente.
+*   Evitar la inhalación de gases de escape, especialmente en zonas poco ventiladas.
+*   Evitar el contacto con piezas calientes, como el silenciador, o la bujía y el cable de encendido al arrancar o usar el motor.
+*   Llenar completamente el depósito de combustible y limpiar derrames, esperando a que se sequen antes de arrancar.
+*   Evitar tener la bomba en marcha cerca del fuego, en maleza seca o materiales inflamables.
+*   Utilizar la bomba de diafragma para la mezcla de agua y aceite.
+*   No transportar la bomba con combustible en el depósito o con la llave de paso del colador de combustible abierta.
+*   Evitar prendas sueltas que puedan engancharse en el motor.
+*   No poner en funcionamiento la bomba sin agua de cebadura para evitar el sobrecalentamiento.
+*   No repostar combustible en sitios sin ventilación, con el motor encendido o la bomba caliente.
+*   Evitar la entrada de gravilla o suciedad mediante un colador en la manguera de succión.
 
-Los **cascos para riadas** están diseñados para actividades acuáticas, fabricados en una sola pieza de material plástico con espumas interiores para amortiguar golpes. Pueden utilizarse bajo la capucha del traje de neopreno e incluyen un sistema de sujeción bajo la barbilla con cinta y protecciones de plástico. Algunos modelos pueden incorporar iluminación y señalización estroboscópica.
-No poseen piezas metálicas, pero sí orificios para desalojar agua y evitar el efecto "paracaídas", lo que podría causar lesiones cervicales. Se recomienda que integren una banda reflectante (homologada SOLAS) y, en ocasiones, una pantalla abatible con protección UVA.
-Están **homologados** según la norma EN1 385 de la CE (seguridad de deportes acuáticos).
-Su **uso** está indicado en trabajos con Raft o en presencia de agua, siendo esencial un ajuste correcto a la cabeza. El **mantenimiento** incluye revisar posibles golpes o daños, limpiar con agua limpia y almacenar junto con el equipo de intervención en ambientes acuáticos.
+**d) Mantenimiento**
+Es crucial comprobar el buen estado de la válvula de descarga, racores de conexión y tornillos. El mantenimiento incluye el desmontaje del filtro inferior y la revisión del giro del rodete. Es importante revisar el estado del cabo para depositar y recoger la bomba.
 
-### Chalecos Salvavidas y Salvavidas de Embarcación
+Se transporta en los remolques de achique y debe limpiarse previamente, evitando hidrocarburos en su interior. Se limpia el filtro de aceite cada 100 horas. Si es necesario, se rellena con el motor frío y en una superficie plana. La bujía y el filtro de aire se revisan y sustituyen cada 50 horas. Antes de arrancar, se verifica el estrangulador, los tubos de combustible, el sistema de escape y el arranque de retroceso. Cada 300 horas, se comprueba la separación de la válvula, el silenciador, el ventilador, la velocidad al ralentí y la manguera del respiradero del cárter, asegurando la conexión a tierra. Para el transporte, se ubica en las bombas de primera salida para facilitar su desplazamiento a las zonas de incidente.
 
-Los **chalecos salvavidas** proporcionan flotabilidad en entornos acuáticos. Se distinguen los usados en embarcaciones marítimas (regulados por normativa internacional) de los empleados en ríos y riadas.
-*   **Chalecos para embarcación y moto de agua**: pueden ser autoinflables (detectan cambio de presión y se inflan automáticamente), con flotabilidad de 50 N a 275 N, útiles en aguas frías o con ropa gruesa. También hay modelos de material poroso que cubren el torso y la espalda para flotabilidad.
-*   **Chalecos para ríos y riadas**: más largos, hasta la cintura, con cintas que rodean las ingles y cierres de apertura rápida en la parte delantera. Pueden incluir un mosquetón de anclaje rápido y son adecuados para saltos y extracción de agua.
-*   **Chalecos para piragüistas**: más cortos, menor flotabilidad y protección lumbar, con cremallera lateral para extracción.
+**2.1.4. Motobomba Rana**
 
-Ambos tipos de chalecos suelen tener un anclaje trasero para fijar al usuario a un punto fijo, evitando ser arrastrado.
-Deben cumplir el **marcado CE** y las normas UNE-EN 393/A1, 395/A1, 396/A1, 399/A1.
-Para su **uso**, es fundamental familiarizarse con el chaleco y probarlo en el agua, asegurando la talla correcta para no comprometer la seguridad. El **mantenimiento** implica revisar cintas y anillos, limpiar con agua dulce después de cada intervención y secar al aire, almacenándolos con los trajes de neopreno y Raft, o en las zodiacs.
+**a) Especificaciones**
+Las motobombas rana son similares a las motobombas convencionales, pero se sustentan sobre un flotador plástico que las mantiene sumergidas en el líquido, eliminando la necesidad de cebado o tubos de aspiración. Son muy resistentes al agua salada. Pueden operar con caudales de entre 600 y 1.200 l/m, impulsando fluidos a ras de agua, lo que las hace adecuadas para líquidos de poca profundidad. Pueden funcionar en seco. Se componen de un motor de explosión, un flotador y una bomba centrífuga.
 
-### Otros Elementos de Intervención en Agua
+**b) Normativa**
+Deben estar homologadas y cumplir la normativa vigente.
 
-Entre los equipos adicionales para operaciones acuáticas se encuentran:
-*   **Cabos de rescate**: cabos de polipropileno flotante (20 m, 8 mm de grosor, 800 kg de tensión) en colores visibles. Se transportan en una bolsa de nylon con asa para lanzamiento a víctimas, sujetando siempre el extremo del cabo.
-*   **Floppies**: flotadores alargados de alta flotabilidad para remolcar víctimas, con una cinta para llevar en bandolera y otra para ajustar al cuerpo de la víctima.
+**c) Uso y seguridad**
+Antes de su uso, se verifican que los tornillos que sujetan la bomba al flotador estén apretados y se comprueba y rellena el nivel de aceite y combustible. Tras encender el motor, se conecta la manguera a la salida de la bomba y se instala la manguera de impulsión antes de introducirla en el agua. Para detenerla, se pone la palanca en "stop", se coloca el motor en compresión y se cierra el paso de combustible.
 
-## Embarcaciones
+**d) Mantenimiento**
+No requieren un mantenimiento especial. Se revisa periódicamente el estado de tornillos y tuercas, y se limpian el flotador y la rejilla. El aceite se cambia cada 20 horas de funcionamiento, drenándolo con el motor caliente. Se transportan en remolques de achique. Para su limpieza, se asegura que el flotador esté libre de grasas y la rejilla de partículas sólidas.
 
-Las embarcaciones son medios de transporte acuático para rescate y salvamento.
+**2.1.5. Bomba Alta Presión Pickup**
 
-### Zodiac
+**a) Especificaciones**
+Esta bomba se emplea para aplicar agua a alta presión, mejorando la eficacia extintora y reduciendo el consumo de agua. Pesa entre 110 y 150 kg en vacío, y entre 500 y 860 kg con los depósitos llenos (agua y combustible). Funciona con un motor de gasolina, con arranque eléctrico o por lanzadera, y tiene una autonomía de 3 a 4 horas con un caudal de entre 55 y 90 l/min. Permite añadir espumógeno y elevar agua desde cotas inferiores hasta 5 metros. Incluye un carrete de accionamiento manual con manguera de 30 metros de longitud y un carrete auxiliar para prolongaciones, facilitando su montaje en vehículos ligeros para acercarse al incendio.
 
-Una **Zodiac** es una pequeña embarcación de caucho, inflable y rígida, con motor fueraborda, diseñada para 5-12 personas y una carga media de 755 kg. Su presión de utilización para flotador y quilla es de 240 mb/3,4 PSI. Es deshinchable y plegable, facilitando su transporte.
-Sus componentes incluyen la tabla de popa, línea de vida, asas, guardabarros de proa, flotadores hinchables, base de aluminio plegable y desagüe.
-Para su **uso**, es esencial que el personal esté cualificado. Antes de introducirla al agua, se comprueba el combustible, la presión de los flotadores y se busca un lugar adecuado para el remolque. Una vez en el agua, se verifica que el tapón de desagüe esté colocado. Es crucial hinchar cada compartimento al 50% y luego progresivamente hasta el 100%, evitando hinchar uno a la máxima presión si los demás no lo están.
-En **navegación**, se mantiene el tapón de desagüe quitado para evacuar el agua por efecto Venturi. Se debe ajustar la velocidad a la visibilidad y carga, y si hay hierbas, reducir la velocidad y limpiar la hélice periódicamente. Se evita el motor en punto muerto cerca de personas. Un mal ajuste del ángulo del motor puede causar que la proa baje (riesgo de inundación) o suba (menor estabilidad).
-El **mantenimiento** diario incluye revisar y reemplazar bujías, lubricar puntos clave (caja de engranajes, articulaciones del eje), y limpiar el motor fuera del agua con agua y jabón después de cada uso, secándolo bien antes de guardarlo. Si no se utiliza, el motor debe permanecer en la Zodiac, listo para su uso.
-La **normativa** que regula su fabricación es la Directiva europea N° 94/25/CE “D”.
+**Componentes principales:**
+*   Depósito de combustible.
+*   Instrumentos de mando y control (manómetro, selector de llave, encendido/apagado, válvulas de paso para el fluido bombeado, válvulas para control de aspiración).
+*   Acumulador de 12V con capacidad de 14 a 55 Ah, según el motor, principalmente para el arranque.
+*   Bomba tipo membrana-pistón con autorelleno y transmisión conectada.
+*   Motor de explosión de 4 tiempos.
+*   Bastidor de acero.
+*   Depósito de plástico reforzado de 400/600 litros.
+*   Devanadera y lanza de múltiples efectos.
 
-## Equipos de Buceo (Continuación)
+**b) Normativa**
+La bomba alta presión Pickup está sujeta a la Directiva de Maquinaria 89/392/CEE, así como a todas las directivas subsiguientes que modifican e integran su contenido, y sus modificaciones 91/368 y 93/44.
 
-El **buceo**, que incluye submarinismo y escafandrismo, es la actividad de inmersión. Requiere un equipamiento detallado, especialmente la escafandra autónoma. En España, las actividades de buceo profesional están reguladas por diversas normativas, incluyendo resoluciones del Ministerio de Empleo, Reales Decretos (como el 2060/2008 sobre equipos a presión y el 366/2005 sobre instalaciones de carga de botellas), y órdenes ministeriales sobre seguridad en actividades subacuáticas.
+**c) Uso y seguridad**
+Antes de la puesta en marcha, es necesario verificar los niveles de aceite, combustible y agua en la cisterna, así como el estado del circuito de envío y las conexiones roscadas. Una vez encendido el motor, la bomba se activa y se regula la presión y las válvulas de paso. El chorro de agua a presión se emite a través de un tubo flexible de goma enrollado en la devanadera, permitiendo elegir la forma de aplicación del agua.
 
-### Equipo Básico de Buceo
+**Precauciones:**
+*   Tener especial cuidado al entrar en contacto con las partes calientes del motor (tubo de escape, cilindros y tapa de válvulas) para evitar quemaduras.
+*   Evitar encender el motor en espacios cerrados o con ventilación insuficiente para prevenir la acumulación de gases tóxicos.
+*   Repostar combustible 5 minutos después de apagar el motor.
+*   Usar protección auditiva si se trabaja cerca del motor.
+*   Recargar baterías en un ambiente ventilado para evitar la liberación de gases por la ebullición del ácido.
 
-El equipo básico de buceo comprende la máscara, el traje de buceo, las aletas y el cinturón de lastre.
+**d) Mantenimiento**
+El mantenimiento de estos equipos implica limpiar a fondo la turbobomba después de cada intervención, utilizando un paño, escobilla y aspirador. Se debe verificar el estado general de las piezas mecánicas, prestando atención a posibles fugas de aceite, gasolina o agua, sonidos extraños, presencia de óxido en superficies metálicas, problemas al manipular las palancas de control, y el estado de la devanadera y la lanza.
 
-#### Máscara o Gafas
+Para limpiar la bomba, se recomienda hacerla girar unos minutos con agua limpia y, en invierno, vaciarla para evitar daños por heladas. El aceite se sustituye cada 500 horas de trabajo, y su nivel se revisa en el cárter entre la bomba y el motor. Antes de encenderla, se comprueba y limpia el filtro de agua en aspiración. Si se ha trabajado con agua muy sucia, se aconseja vaciar, enjuagar y rellenar el depósito con agua limpia. El circuito completo puede limpiarse utilizando agua limpia en circulación cerrada. Las recomendaciones generales incluyen limpiar el motor, revisar el aceite, pernos y tuercas diariamente. También se realizan otras operaciones según indique el fabricante, como el cambio de aceite, la limpieza de bujías y del filtro de aire, y la comprobación del juego de válvulas.
 
-Permiten la visión nítida bajo el agua, protegiendo los ojos del contacto directo con el agua salada o clorada. Se componen de un faldón de goma, látex o silicona para un ajuste estanco, cristales planos de vidrio templado, y tiras elásticas ajustables. Pueden ser graduadas o con mayor ángulo de visión (cristal curvo).
-Están reguladas por el Real Decreto 1215/1997. La precaución fundamental es evitar golpes que puedan romper las gafas y permitir la entrada de agua.
+**2.1.6. Prendas de Neopreno: Trajes, Escarpines, Guantes y Calcetín**
 
-#### Traje de Buceo y Escarpines
+**a) Especificaciones**
+Estas prendas están diseñadas para trabajos acuáticos, ofreciendo protección contra el frío y posibles heridas causadas por el ablandamiento de la piel. Su grosor varía entre 2 y 8 mm, siendo inversamente proporcional a la temperatura del agua (a menor temperatura, mayor grosor). Un mayor grosor proporciona más protección, pero dificulta el movimiento.
 
-Como se mencionó anteriormente, estos elementos de neopreno protegen del frío y de cortes, siendo los escarpines especialmente útiles para proteger los pies.
+El neopreno, material de fabricación, es una goma sintética ligera y elástica, compuesta por microburbujas de nitrógeno que mantienen bien la temperatura. Impide en gran medida la entrada de agua; si el agua penetra, se calienta rápidamente por el calor corporal, manteniendo una temperatura constante. Las costuras son la principal vía de entrada de agua; las costuras planas son las más vulnerables, mientras que las costuras pegadas y selladas aumentan la estanqueidad.
 
-#### Aletas
+Existen diferentes prendas de neopreno para servicios de bomberos:
+*   **Trajes de neopreno:** Los específicos para rescate acuático en superficie no requieren cumplir los requisitos de buceo, pero deben ofrecer protección en ciertas zonas. Pueden ser:
+    *   **Trajes secos:** Totalmente estancos, de una sola pieza, cubren desde los pies hasta el cuello (excepto manos). Pueden incluir capucha. Se ajustan en muñecas y cuello para estanqueidad, y se cierran con una cremallera horizontal trasera o cruzada en la parte delantera (igualmente estanca). Según el material, pueden ser de neopreno (5 a 9 mm de espesor, buena protección térmica pero poca libertad de movimiento) o trilaminado (varias capas de neopreno que bloquean el paso del agua, más finos y cómodos). Los vulcanizados se usan en aguas sucias o contaminadas (hundimientos de barco, derrames de combustible) y aseguran impermeabilidad sacrificando movilidad, careciendo de flotabilidad (requieren elementos auxiliares).
 
-Las aletas son palas de caucho o materiales sintéticos que se acoplan a los pies para aumentar la velocidad bajo el agua. Existen dos tipos:
-*   **Abiertas**: se sujetan al pie con una cinta de goma ajustable, permitiendo el uso de escarpines voluminosos.
-*   **Cerradas**: como un zapato de goma, se utilizan con escarpines finos tipo calcetines.
-Las aletas tienen distintos diseños y durezas que influyen en la velocidad o potencia del pataleo.
+**b) Normativa**
+La normativa aplicable es la Directiva de Maquinaria 89/392/CEE del Consejo de la Comunidad Europea, de 14 de junio de 1989, y todas las directivas sucesivas que modifican e integran su contenido.
 
-#### Cinturón de Lastre
+**c) Uso y seguridad**
+Estas prendas se utilizan en intervenciones en presencia de agua que requieren protección contra el frío.
 
-Este cinturón, con piezas de plomo u otro material pesado, facilita la inmersión al compensar la flotabilidad del traje y la botella, especialmente útil cuando la botella está casi vacía. Puede llevarse también en los bolsillos del chaleco.
-
-### Equipo Autónomo o Escafandra Autónoma
-
-El corazón del equipo autónomo es la **botella de aire comprimido**, un contenedor de acero o aluminio protegido contra la corrosión. En su grifería de control se fija una válvula para la apertura y cierre, con una o varias salidas al regulador. Las griferías pueden ser de tipo internacional (estribo), con una palomilla y junta tórica para el regulador (más fácil de instalar), o DIN, que sujeta el regulador con rosca (más robusta, acepta mayor presión). Incorporan un disco de ruptura para liberar gas si hay sobrepresión.
-Las botellas tienen capacidades de 5 a 18 litros y presiones de trabajo de 230 a 300 bares (las más comunes son de 12 o 15 litros a 200 bares). Deben pasar revisiones anuales y estar marcadas correctamente (estándar IMCA D 043 de 2007 para mezclas de gases). Los materiales varían (aluminio, acero liviano, acero inoxidable), cada uno con sus ventajas y cuidados específicos.
-La **normativa** que regula las botellas incluye el Certificado EN144, el Certificado CE (EN 137), y el Real Decreto 473/1988, además de diversas Órdenes Ministeriales (como la de 1983, 1997, 2000) y la ITC MIE-AP-07 y APQ-5 sobre aparatos a presión y gases comprimidos.
-Para el **uso**, se abre la llave de paso conectada al regulador y, tras la inmersión, se cierra y desconecta. Es fundamental evitar golpes en la grifería y mantener una presión residual para evacuar aire que haya podido entrar. El **mantenimiento** lo realiza el fabricante, con indicaciones de inspección y fecha de próxima revisión. Se almacenan con el tapón puesto y se limpian con agua, jabón y cepillo, reparando cualquier desperfecto en la pintura.
-
-#### Regulador (Segunda Etapa y Boquilla)
-
-Es el dispositivo que reduce la presión del aire de la botella para que el buceador pueda respirar. Se compone de dos etapas de regulación:
-*   La **primera etapa** se acopla directamente a la botella, reduciendo la alta presión a una presión intermedia (aprox. 10 atm) y conectando la boquilla principal, la de emergencia (octopus) y el manguito de inflado del chaleco. El manómetro (superficial o sumergible) indica la presión de la botella.
-*   La **segunda etapa** regula el flujo de aire desde la cámara de presión intermedia a la boquilla del buzo a presión ambiente. Las boquillas pueden ser de pistón simple (sencillas, baratas, pero afectan al suministro a altas presiones), de membrana compensada (flujo constante, impide entrada de agua) o de pistón compensado o sobrecompensado (flujo constante, no aísla del agua).
-Están regulados por la norma EN 144. Su **uso** es sencillo: se conecta a la botella y se abre, respirando normalmente.
-El **mantenimiento** implica revisar antes de cada inmersión el estado de las etapas, el DIN, el octopus y el manómetro. Se limpian con agua y jabón, y se guardan con el resto del equipo de buceo.
+**d) Mantenimiento**
+Se deben revisar la presencia de agujeros o rasgaduras, reparándolos o reponiéndolos si es necesario. Se almacenan con el material de rescate acuático y se limpian con agua clara, dejando secar al aire.

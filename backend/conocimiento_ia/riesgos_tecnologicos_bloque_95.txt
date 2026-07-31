@@ -1,58 +1,70 @@
-## Técnicas de Estabilización y Rescate en Incidentes con Riesgo Estructural y Tecnológico
+El presente temario aborda el apeo y la poda de arbolado, junto con la evaluación de riesgos inherentes, la caracterización de los materiales y las técnicas de intervención.
 
-La intervención en escenarios de colapso estructural y riesgos tecnológicos demanda una comprensión profunda de las técnicas de estabilización, los métodos de rescate y la gestión de la seguridad. Este conocimiento es crucial para los servicios de emergencia, permitiendo una actuación eficaz y segura.
+**Parte 5: Apeo y Poda de Arbolado**
 
-### Cojines Neumáticos de Alta Presión: Principios y Uso
+**Capítulo 1: Caracterización**
 
-Los **cojines neumáticos de alta presión (AP)**, herramientas surgidas en la década de 1920, son esenciales para levantar y separar grandes cargas en situaciones de emergencia, como derrumbes o accidentes de tráfico. Estos dispositivos flexibles operan al contener y comprimir aire, distribuyéndolo uniformemente para movilizar elementos pesados.
+**3. Árbol sobre Tendido Eléctrico**
 
-Existen principalmente dos categorías: cojines de alta presión (8 a 10 kg/cm²) y de baja presión (0,5 a 1 kg/cm²). La fuerza máxima de elevación que pueden ejercer está directamente relacionada con la presión de trabajo y la superficie de contacto del cojín, lo que significa que una mayor superficie o presión incrementa su rendimiento. Sin embargo, al inflarse, los cojines tienden a "abombarse", lo que puede reducir su estabilidad y superficie de contacto efectiva. Para optimizar su eficiencia, se recomienda calzar la carga con tablones y apoyar el cojín sobre la zona más plana posible, evitando superponer más de dos cojines y utilizando varios en paralelo para distribuir la carga.
+**a) Planteamiento**
+Se notifica la caída de un árbol de grandes dimensiones sobre cables de alta tensión. La compañía eléctrica ha confirmado la ausencia de tensión en los cables y su personal está trabajando en la zona afectada.
 
-En cuanto a su manejo, la operación incluye la colocación de una botella de aire en un manoreductor tarado a 8 bar, la conexión de latiguillos al órgano de mando y al cojín, la apertura de las llaves de la botella y del manómetro, y finalmente la activación del distribuidor para el llenado.
+**b) Valoración**
+Se verifica que el personal de la compañía eléctrica ha aplicado medidas de "corte y puesta a tierra" en las líneas de alta tensión a ambos lados del árbol. Las torres que soportan los cables muestran una inclinación significativa, indicando la presencia de una carga considerable. La parte superior del tronco del árbol se encuentra a menos de 10 metros de altura. El árbol volcó debido a un fallo radicular y aún está anclado a sus raíces. Es crucial evaluar la posibilidad de incendio y la integridad del cable o las torres.
 
-La seguridad en el uso de estos cojines es primordial. Se deben evitar las superficies cortantes, afiladas o puntiagudas que puedan dañar el material del cojín. Asimismo, es crucial verificar el estado de los cojines antes y después de cada uso, y protegerlos del contacto con altas temperaturas, como las de un motor de vehículo. Las cargas sustentadas por cojines siempre deben considerarse inestables, por lo que es imperativo apuntalarlas con tacos y cuñas tan pronto como sea posible, y evitar trabajar bajo la carga antes de que esté afianzada. El control del inflado debe realizarse con un órgano de control o consola, operando a una distancia prudente y manteniendo siempre contacto visual con el cojín. En caso de no ser posible el contacto visual directo, una persona debe dirigir las operaciones desde una posición segura. Es fundamental no modificar las válvulas de seguridad, ya que vienen precintadas de fábrica para garantizar su correcto funcionamiento.
+**c) Medidas de Seguridad**
+Se establecerá un perímetro de seguridad que supere el doble de la altura del ejemplar caído. Se balizará el área alrededor de cada torre. La "zona caliente" se define por la distancia entre los cables de las torres. El inicio de los trabajos está condicionado a la confirmación por parte de la compañía de que los cables están efectivamente "a tierra".
 
-Los datos técnicos de los cojines Vetter, por ejemplo, ofrecen una visión de sus capacidades. Un cojín V-10 puede levantar 9.600 kg con una altura de 20,3 cm, mientras que un V-68 alcanza los 67.700 kg y 67,0 cm. La presión de reventamiento para estos cojines oscila entre 34,7 y 65,0 bar, destacando su robustez.
+**d) Intervención**
+Se anuda un peso a un cordino estático, y el equipo se posiciona a la izquierda, en el lado de la línea donde se encuentran las raíces del árbol. La cuerda se lanza por encima de la línea y se recupera por debajo del fuste en sentido opuesto. Una vez la cuerda rodea el árbol, se instala un tractel para aplicar tracción en dirección contraria a la caída del árbol. La distancia desde la que se tira debe ser superior a dos veces la altura del árbol. Se desaconseja el uso del propio cable del tractel con líneas eléctricas debido al riesgo de conductividad. La tracción se aplicará de forma gradual, considerando la carga de las líneas eléctricas, hasta lograr la caída del árbol en la dirección deseada.
 
-### Evaluación de Incidentes con Estructuras Colapsadas
+**e) Fin de la Intervención**
+Si el incidente ocurre en una zona rural sin obstáculos, el árbol puede dejarse tal cual. Se informará a la compañía eléctrica sobre la finalización de la intervención para que revise el tendido, los postes afectados y restablezca el suministro eléctrico, siempre que las condiciones de seguridad lo permitan.
 
-La **evaluación inicial** en una intervención de emergencia, especialmente en estructuras colapsadas, es una fase crítica que determina la estrategia y las técnicas a aplicar. Esta evaluación, que debe ser continua, busca identificar la patología, sus causas, y la capacidad de los recursos disponibles, sin descuidar la seguridad de las víctimas y del personal interviniente.
+**4. Árbol sobre Vivienda**
 
-No todas las situaciones requieren una intervención activa inmediata por parte de los bomberos. Por ejemplo, lesiones leves que no comprometen la estabilidad o la seguridad, o daños en zonas deshabitadas sin riesgo inminente, pueden esperar la intervención de la propiedad o de empresas especializadas. Sin embargo, en caso de inestabilidad significativa, se deben implementar medidas preventivas como el saneamiento, desescombro, señalización, balizamiento, precintado, encadenamiento de puertas o vallas, y la evacuación o desalojo de ocupantes.
+**a) Planteamiento**
+Un pino de 15 metros de altura, seco desde hace varios años, ha caído sobre una vivienda unifamiliar en una urbanización. La vivienda ha sido desalojada y presenta daños únicamente en el tejado.
 
-El **planteamiento preliminar** implica identificar la patología, proponer soluciones generales (como apeos de cimentaciones o muros), seleccionar las más efectivas según el nivel de daño y realizar un precálculo rápido de las cargas a soportar, así como dimensionar los materiales necesarios y definir la ubicación de los elementos de apoyo.
+**b) Valoración**
+Se decide solicitar una grúa para la retirada del árbol, buscando minimizar los daños a la vivienda. Para determinar el tamaño de la grúa, se calcula el peso aproximado del ejemplar. Con un perímetro de tronco de 2,6 metros, el radio se estima en 0,41 metros (2.6 m / (2 * 3.14)). El volumen del árbol, considerado como un cilindro, es de aproximadamente 8 metros cúbicos (3.14 * (0.41 m)^2 * 15 m). Asumiendo una densidad de madera seca de 0,6 kg/dm^3, el peso estimado del ejemplar es de 4.800 kg (8 m^3 * 0.6 kg/dm^3 * 1000 dm^3/m^3). Se seleccionará una grúa con capacidad adecuada para este peso.
 
-Las **cargas a soportar**, según el Código Técnico de la Edificación (CTE DB SE AE), varían significativamente. Las cubiertas ligeras pueden soportar 1 kN/m², las pesadas 2 kN/m², y las planas de teja, placa o pizarra 3 kN/m². Los forjados en viviendas soportan 3 kN/m² y en garajes 5 kN/m². Los cerramientos exteriores a 3 metros de altura se estiman en 7 kN/m, mientras que las particiones interiores y tabiquería a la misma altura en 5 kN/m. Para viviendas en general, se considera 1 kN/m², y para edificios sin posibilidad de inspección, 1,5 kN/m².
+**c) Medidas de Seguridad**
+Se establecerá un perímetro de seguridad alrededor de la casa y el árbol, impidiendo el acceso a la vivienda.
 
-Los **elementos auxiliares** en una edificación son aquellos que, aunque no forman parte permanente de la estructura, son cruciales durante su construcción o reparación. El **apeo**, por su parte, se define como una construcción auxiliar provisional cuya función es detener movimientos incontrolados, transmitir esfuerzos al terreno o estabilizar estructuras inestables. Aunque existen distintas denominaciones (apuntalamientos, apeos), los cuerpos de bomberos deben dominar las características y resistencias de materiales y equipos, así como el alcance y limitaciones de las estructuras auxiliares, buscando modelos estandarizados que agilicen la intervención. En caso de no poder actuar con celeridad, se priorizan medidas preventivas como la evacuación, el establecimiento de perímetros de seguridad y el corte de instalaciones.
+**d) Intervención**
+El uso de una grúa simplifica considerablemente la intervención. La principal dificultad es el enganche del árbol, el cual debe realizarse lo más alto posible en el fuste para mayor eficacia y con la menor exposición del personal. El enganche puede efectuarse desde el propio edificio, utilizando una cuerda o una eslinga pasada con la grúa. Una vez enganchado, se indicará al operador de la grúa que posicione el árbol en un lugar seguro.
 
-### Gestión de Recursos y Zonificación en Emergencias
+**e) Fin de la Intervención**
+Una vez retirado el árbol, personal competente debe evaluar la vivienda para detectar daños estructurales. Es posible que sea necesario apuntalar la estructura o retirar partes dañadas del tejado o revestimientos. Los bomberos se encargarán de eliminar los riesgos para la vía pública, retirando o consolidando elementos inestables, balizando y cerrando la zona hasta que los técnicos determinen los daños y se realicen las reparaciones necesarias.
 
-La **capacidad de los recursos disponibles** es un factor determinante al iniciar cualquier acción de emergencia. El mando de intervención debe ponderar la necesidad de medios, organizar relevos y delimitar sectores de trabajo para evitar el colapso del sistema.
+**CONVIENE RECORDAR**
 
-El **confinamiento de ocupantes** se presenta como una solución inicial preferente, ya que no demanda recursos excesivos y es de rápida implementación. Consiste en mantener a los residentes dentro de sus viviendas o en áreas estructuralmente seguras. El principal desafío en esta modalidad es el control de las personas confinadas, quienes deben permanecer en los lugares asignados y abstenerse de actuaciones no autorizadas.
+**Aspectos Clave en Apeo y Poda de Arbolado:**
 
-Por otro lado, la **evacuación de ocupantes** se aplica cuando los riesgos no pueden controlarse o la seguridad de los confinados no está garantizada. Requiere asegurar la viabilidad de las rutas de escape, lo que puede implicar apeos de emergencia. Este proceso es intensivo en recursos humanos y tiempo, especialmente con personas con movilidad reducida o discapacidades, por lo que se recomienda la presencia de medios sanitarios.
-
-En situaciones de **rescates inminentes**, donde hay personas en peligro crítico, la prioridad absoluta es el rescate, incluso sobre la valoración inicial del incidente.
-
-El **Puesto de Mando Avanzado (PMA)** es la infraestructura central de coordinación en cualquier intervención. Desde este punto, se analizan y ponen en común datos, se proponen y reevalúan objetivos, se asignan medios y se coordinan las operaciones. Su ubicación debe ser segura, próxima al incidente y con visibilidad directa. El PMA está compuesto por representantes de diversos grupos:
-*   **Grupo de intervención:** Principalmente bomberos, encargados de búsqueda, rescate, salvamento y vigilancia de riesgos latentes.
-*   **Grupo de seguridad y orden:** Policía y Guardia Civil, responsables del control del tráfico, accesos y seguridad del área, además de la difusión de avisos.
-*   **Grupo sanitario:** Compuesto por personal de consejerías de salud, Cruz Roja y organizaciones locales, con funciones de socorro, primeros auxilios y apoyo en el salvamento de víctimas.
-*   **Grupo de apoyo técnico:** Incluye técnicos de protección civil e ingeniería civil, quienes determinan medidas técnicas y apoyan a los equipos de intervención.
-*   **Grupo logístico:** Voluntarios de Cruz Roja y protección civil, encargados de la provisión de equipamiento y suministros, implementación de medidas de protección para la población, y gestión de refugios y transportes para evacuados.
-
-### Tácticas de Intervención en Estructuras Colapsadas
-
-El **planteamiento táctico** en la intervención con estructuras colapsadas se define por la situación y el tipo de colapso, clasificándose en tácticas ofensivas y defensivas.
-
-Las **tácticas defensivas** se aplican por defecto y buscan limitar la propagación de la catástrofe sin intervenir directamente sobre los elementos colapsados. Incluyen balizar la zona de intervención, clausurar edificaciones afectadas o anexas, y apuntalar elementos sanos que soportan cargas de la estructura dañada.
-
-Por otro lado, las **tácticas ofensivas** implican una intervención directa sobre la edificación colapsada con el objetivo de localizar y rescatar víctimas. Se asumen mayores riesgos, priorizando la salvaguarda de vidas. Antes de iniciar estas acciones, es fundamental realizar una evaluación exhaustiva, considerando el entorno, el tiempo transcurrido desde el colapso, los recursos disponibles y los riesgos para víctimas e intervinientes.
-
-El **rescate de víctimas tras elementos verticales** tiene como objetivo acceder al interior de la estructura para localizar víctimas, evacuar y permitir la asistencia sanitaria. Las técnicas de referencia son las perforaciones de elementos verticales y el apeo de muros de hasta tres metros. Las operaciones pueden ser simultáneas con otras exteriores si no afectan la verticalidad dañada, pero no son adecuadas para el control inicial de riesgos por su duración. La ejecución defensiva implica balizar y descargar elementos, mientras que la ofensiva incluye apeos de emergencia y perforaciones.
-
-El **rescate de víctimas bajo elementos horizontales** busca acceder a la parte inferior de un forjado desplomado. Se emplean perforaciones horizontales y apeos de forjados. Se pueden realizar operaciones simultáneas en otros niveles si no comprometen la estabilidad. Las acciones defensivas consisten en balizar y descargar elementos verticales que gravitan sobre los forjados afectados, y las ofensivas en realizar apeos previos, perforaciones y apuntalamientos posteriores. La seguridad exige no acumular material sobre los elementos dañados y comprobar la resistencia de los forjados inferiores.
-
-El **rescate de víctimas mediante galerías** se aplica para acceder a víctimas atrapadas bajo múltiples niveles de escombros en profundidad. Requiere perforaciones verticales y horizontales, junto con el apeo de muros y forjados. No es una operación que permita la simultaneidad con otras tareas de desescombro en los mismos elementos. La ejecución defensiva se centra en descargar los elementos afectados, y la ofensiva en apear, vaciar, entibar y adintelar la estructura. La seguridad en estas operaciones es crítica, por lo que no se debe acumular material en la galería, el personal no esencial debe evacuar la zona y deben estar presentes equipos de rescate y sanitarios.
+1.  **Eficacia y Seguridad:** Es crucial valorar el estado del árbol, sus características, las técnicas de apeo y poda, y las herramientas adecuadas para operar con máxima eficacia y seguridad, minimizando los riesgos.
+2.  **Estabilidad Estática:** Un árbol se considera estáticamente seguro cuando existe un equilibrio entre las cargas que actúan sobre él, las propiedades de sus materiales (dureza, elasticidad) y su geometría.
+3.  **Tipologías de Intervención:** Las actuaciones pueden incluir apeo, poda, trabajos en incendios forestales, retirada de árboles caídos o desbroce con motosierra.
+4.  **Pasos Generales para Apeo y Derribo:**
+    *   **Perímetro de Seguridad:** Evaluar riesgos y establecer un perímetro de seguridad, generalmente de 2,5 veces la altura del árbol en pie.
+    *   **Preparación de la Zona:** Despejar el entorno de obstáculos y considerar factores que puedan afectar la caída.
+    *   **Corte de Dirección:** Determinar la dirección de caída del árbol.
+    *   **Corte de Derribo:** Ejecutar el corte que define la velocidad de caída.
+    *   **Trabajos Posteriores:** Retirar el árbol si su ubicación lo requiere.
+5.  **Modificación de la Técnica de Derribo:** En ocasiones, puede ser necesario ajustar la técnica para controlar la trayectoria de caída y evitar reacciones imprevistas, especialmente si el árbol tiene un diámetro mayor que el espadín, una inclinación excesiva, se encuentra en pendiente pronunciada o requiere modificar su caída natural.
+6.  **Tronzado y Desramado Post-Caída:** Una vez el árbol ha caído, es posible que se necesite tronzarlo o desrramarlo con la motosierra para eliminar cualquier peligro o problema que pueda generar.
+7.  **Evaluación de Peligrosidad Previa:** Antes de intervenir en un árbol que parece peligroso, es fundamental valorar si el riesgo es real.
+8.  **Indicadores Visuales de Peligro:** La mayoría de los problemas en los árboles se detectan mediante inspección visual, identificando daños físicos, heridas, cicatrices o pudriciones.
+    *   **Descomposición de la Madera:** Es una causa común de fallo estructural, originada por hongos (pudrición blanca, marrón o blanda), aunque no siempre es visible.
+    *   **Cuerpos Fructíferos:** La presencia de hongos o champiñones en el tronco, ramas o raíces indica un grado de descomposición interna. El tipo de hongo puede ofrecer pistas sobre el estado de descomposición.
+    *   **Otros Indicios:** Incluyen heridas muy cercanas, uniones con corteza incluida, filtraciones de agua, cavidades en el tronco o abultamientos.
+    *   **Grietas en la Corteza:** Las líneas verticales no suelen ser peligrosas, pero las grietas horizontales son un signo de fallo estructural inminente, lo que requiere el derribo del árbol.
+    *   **Pared Residual:** En caso de duda sobre la gravedad de una grieta, se debe estudiar la pared residual del árbol para determinar si su alcance compromete la estabilidad estructural, o si se asocia a otros defectos que se suman.
+    *   **Obras y Excavaciones:** Las actividades cercanas pueden afectar la estabilidad radicular. Para evaluar el daño en las raíces, se calcula el radio crítico de raíces (CRR) multiplicando el diámetro del árbol por 18.
+    *   **Uniones Débiles:** Las imperfecciones naturales en las uniones entre tronco y rama pueden predisponer a fallos estructurales.
+    *   **Chancros:** Las heridas hundidas y agrietadas en el tronco, ramas o raíces, causadas por la muerte de la corteza y el cambium, indican riesgo de fallo estructural si afectan más del 40% del tronco o rama.
+    *   **Arquitectura Deficiente:** Un desequilibrio estructural, como el de árboles muy inclinados (más de 40 grados hacia una zona de riesgo) o árboles arpa, se considera un tipo de arquitectura pobre.
+    *   **Árboles o Ramas Muertas:** Pueden fallar en cualquier momento. Si representan un peligro, deben ser retirados lo antes posible.
+9.  **Raíces Dañadas:** El estado de las raíces se puede inferir observando la copa del árbol y la presencia de cuerpos fructíferos en su base.
+10. **Intervenciones en Incendios:** En casos de incendios forestales o urbanos con arbolado, es probable que se deba realizar el apeo de árboles antes de que las llamas avancen, o después si el árbol afectado representa un peligro.
+11. **Secuencia de Intervención:** Los pasos a seguir incluyen la valoración inicial, el establecimiento de un perímetro de seguridad, la eliminación de riesgos (mediante apeo o poda) y, finalmente, las acciones para la finalización de la intervención, como eliminar el perímetro de seguridad y notificar a los responsables sobre los riesgos persistentes.

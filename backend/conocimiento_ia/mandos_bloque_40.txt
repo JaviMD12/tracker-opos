@@ -1,60 +1,223 @@
-## Gestión de Recursos en Intervenciones de Bomberos y Planificación de la Acción
+La valoración del riesgo en las intervenciones del personal de bomberos es un aspecto fundamental que también se extiende a las víctimas. En este sentido, es crucial determinar cómo mitigar los riesgos que les afectan. Para las víctimas, esto incluye el uso de capuchas de respiración autónoma, mantas de protección y dispositivos de protección rígidos o blandos para desencarcelaciones. Para los intervinientes, se emplean parapetos, equipos de protección individual (EPI) y equipamiento SOS.
 
-La eficacia en las intervenciones de los Servicios de Bomberos depende fundamentalmente de una adecuada **gestión de los recursos**, tanto materiales como humanos, así como de la correcta planificación y comunicación de las acciones a emprender. Esta gestión debe considerar las particularidades de cada siniestro y las capacidades disponibles para garantizar la seguridad y eficiencia.
+La priorización de acciones para las víctimas se basa en la magnitud del riesgo y la probabilidad de éxito (triaje). En situaciones donde no se puede garantizar la seguridad del bombero al rescatar a una víctima, el mando debe tomar decisiones complejas, ponderando el riesgo asumido por el propio personal frente al valor de otra vida.
 
-### I. Capacidades y Limitaciones de los Recursos
+La fase de elaboración del plan de acción considera dos elementos cruciales:
+I. **Prioridades:** El establecimiento de prioridades en una intervención sigue un orden general:
+1.  Seguridad de los intervinientes.
+2.  Seguridad de terceros.
+3.  Rescate de víctimas.
+4.  Protección de bienes.
+5.  Protección del medio ambiente.
+Este orden es una pauta general; en cada intervención, se deben valorar las situaciones específicas para determinar qué prioridades aplicar. Por ejemplo, en una intervención de retirada de un árbol caído en una zona rural, no habría riesgo para terceros, víctimas, bienes o el medio ambiente, y la tarea se reduciría a asegurar la seguridad de los intervinientes durante el apeo del árbol.
 
-La capacidad para afrontar una emergencia se fundamenta en la evaluación de los recursos. En este sentido, el mando debe analizar una serie de **parámetros limitantes** para optimizar la respuesta:
+II. **Capacidad de los Recursos:** Las acciones a realizar dependen tanto del siniestro como de la capacidad de los recursos para llevarlas a cabo de forma segura. El mando debe evaluar esta capacidad considerando:
+II.1. **Medios Materiales:**
+*   Número de medios disponibles.
+*   Capacidad de trabajo (ej. litros de agua, alcance, capacidad de tracción).
+*   Posibles roturas o fallos mecánicos (ej. presiones máximas de bomba, resistencia estructural de puntales, capacidad de arrastre de eslingas, sobrecalentamientos).
+*   Consumo de recursos (combustibles, agua).
+*   Contaminación y emisión de gases o chispas (ej. situaciones en las que no se pueda trabajar con equipos de combustión).
+*   Tiempo de disponibilidad.
+II.2. **Medios Humanos:**
+*   Número de efectivos.
+*   Nivel de formación, experiencia y destreza para el tipo de intervención específico.
+*   Conocimiento del medio.
+*   Nivel de estrés y agotamiento físico.
+*   Tiempo de disponibilidad de refuerzos.
 
-#### 1. Medios Materiales
+La norma UNE 22320 enfatiza la importancia de considerar el factor humano para el correcto funcionamiento de las organizaciones y el cumplimiento de la misión. Por ello, se controlan aspectos como la distribución de cargas de trabajo, la rotación de personal, la seguridad e higiene, y el diseño de la interfaz sistema-máquina-persona (ej. la interconexión de equipos como emisoras u ordenadores con el sistema de Mando y Control).
 
-La valoración de los equipos y vehículos disponibles abarca diversos aspectos. En primer lugar, se considera el **número de medios** disponibles, así como su **capacidad de trabajo** específica, como los litros de agua que puede proyectar una autobomba, el alcance de una escala o la fuerza de tracción de un cabestrante. Asimismo, es crucial evaluar el **riesgo de rotura o fallo mecánico**, prestando atención a la presión máxima de las bombas, la resistencia estructural de los puntales, la capacidad de arrastre de las eslingas y el riesgo de sobrecalentamiento. El **consumo** de recursos como combustibles y agua también se debe tener en cuenta. Por otro lado, la **contaminación y emisión de gases o chispas** pueden limitar la operatividad, especialmente en escenarios donde no es factible usar equipos de combustión. Finalmente, la **disponibilidad en tiempo** de cada equipo es un factor crítico para la movilización y el relevo.
+La formulación del plan de acción se basa en la valoración inicial y detallada del siniestro, las prioridades de actuación y las limitaciones de los medios disponibles. El mando debe establecer un plan que resuelva el incidente con el mínimo riesgo y la máxima eficacia.
 
-#### 2. Medios Humanos
+El plan de acción se estructura en tres niveles de decisión (de lo general a lo concreto):
+*   **Nivel Estratégico:** Define los objetivos de la misión. Para un incendio en una vivienda unifamiliar, podría ser asegurar una zona segura para el acceso de bomberos y realizar el rescate. Este nivel se resuelve mediante sistemas de dirección por objetivos, siendo un modelo eficaz y contrastado en ámbitos como el militar, financiero o logístico. El objetivo es el que determina la misión.
+*   **Nivel Táctico:** Establece la forma de ejecución de los objetivos. En el ejemplo anterior, aplicar ventilación por presión positiva para el rescate.
+*   **Nivel Operativo u Operacional:** Determina quién debe realizar cada tarea. Para el incendio, cerrar estancias A y B, abrir salidas C y D, ventilar; el equipo de intervención (equipo E) entrará por el acceso E para el rescate, mientras el equipo de apoyo (SOS) controlará el ventilador y las salidas de humo.
+En un accidente de tráfico leve, el mando puede ejercer los tres niveles operacionales (estratégico, táctico, operativo) aunque actúe con otros servicios. En incidentes de gran magnitud (incendios forestales o industriales), puede ser necesario establecer un mando que asuma los niveles estratégico y táctico, y un segundo mando operativo en el lugar.
 
-El personal constituye un pilar fundamental en la respuesta operativa. Se analiza el **número de efectivos**, su **formación, experiencia y destreza** para el tipo específico de intervención. El **conocimiento del medio** geográfico y de las instalaciones donde se actuará es igualmente relevante. Además, se valora el **nivel de estrés y agotamiento físico** que pueden experimentar los intervinientes, así como la **disponibilidad de refuerzos** en caso de prolongarse la emergencia.
+Los objetivos deben ser redactados con características específicas (S-M-A-R-T):
+*   **S (Específicos):** Claros y definidos.
+*   **M (Medibles):** Cuantificables.
+*   **A (Asumibles):** Acordes con la capacidad de los medios disponibles.
+*   **R (Realistas):** Posibles de alcanzar.
+*   **T (Temporalizados):** Con un plazo de ejecución definido (especialmente en siniestros).
+Deben formularse de manera positiva, enfocándose en "qué hacer". Este modelo de dirección por objetivos facilita la división del siniestro en metas manejables para diferentes grupos de acción, mejorando la reevaluación de técnicas, el control, la seguridad y la planificación.
 
-### II. La Importancia del Factor Humano en la Norma UNE 22320
+Las decisiones pueden tener diferentes caracteres estratégicos:
+*   **Planteamiento o Modo Defensivo:** Busca el control y protección propia y de terceros con los medios existentes, asumiendo riesgos menores. Se utiliza cuando la capacidad de los medios es insuficiente, o mientras se espera refuerzos o la mejora de las condiciones para un ataque ofensivo.
 
-La norma UNE 22320 subraya que el **factor humano** es esencial para el buen funcionamiento de las organizaciones y el cumplimiento de los objetivos de la misión, minimizando errores derivados de limitaciones humanas. Por ello, es necesario controlar la **distribución de las cargas de trabajo**, la **rotación del personal** para evitar la fatiga, la **seguridad e higiene** en el entorno laboral y el **diseño de la interfaz sistema-máquina-persona**, asegurando una interacción óptima entre los operarios y los sistemas de mando y control.
+La siguiente tabla resume los factores para determinar la estrategia a seguir:
 
-### III. Construcción y Elaboración del Plan de Acción
+| Riesgos a asumir en comparación con el beneficio de resultados | Capacidad de los medios disponibles para hacer frente al control del siniestro |
+| :----------------------------------------------------------- | :---------------------------------------------------------------------------------- |
+| Aceptables                                                   | Ofensiva                                                                            |
+| Inaceptables                                                 | Defensiva                                                                           |
+|                                                              | Ofensiva*                                                                           |
+|                                                              | Defensiva                                                                           |
 
-La elaboración del plan de acción es un proceso crítico que requiere cotejar la **valoración inicial y detallada del siniestro** con las **prioridades de actuación** establecidas y las **limitaciones de los medios** disponibles. El objetivo es diseñar un planteamiento que minimice los riesgos y maximice la eficacia y eficiencia en la respuesta.
+El planteamiento adoptado debe ser flexible y adaptarse a las condiciones cambiantes del siniestro, evolucionando desde el descontrol hacia el control, la mitigación y la normalidad.
 
-El plan de acción se articula en **tres niveles de decisión**, que van de lo general a lo particular:
-*   El **nivel estratégico** establece los objetivos generales de la misión, como la creación de una zona segura o la realización de un rescate.
-*   El **nivel táctico** define cómo se ejecutarán esos objetivos, por ejemplo, mediante la implementación de ventilación a presión positiva para el rescate.
-*   El **nivel operativo** asigna tareas específicas a nivel individual o de equipo, como el sellado de habitaciones o la apertura de vías de evacuación.
+Generalmente, en un siniestro se trabaja con tres planes de acción:
+*   **Plan A para el control:** Es el plan principal, el más crítico, y representa la mejor opción para abordar el siniestro.
+*   **Plan B para el control:** Actúa como respaldo del Plan A, aplicándose cuando el Plan A no funciona como se esperaba o cuando las condiciones cambian (ej. un deterioro en la salud de las víctimas que requiere una extracción más rápida y agresiva).
+*   **Plan de mitigación:** Se establece después de controlar la situación, aunque a veces puede aplicarse en paralelo si existen recursos suficientes. Su objetivo es eliminar las causas del siniestro y devolver la situación a la normalidad. En esta fase, es crucial extremar precauciones debido a estructuras inestables y fatiga del personal.
 
-La dirección por objetivos es un modelo eficaz para el nivel estratégico, fragmentando el incidente en objetivos manejables para los distintos grupos de acción. Los objetivos deben ser **SMART** (Específicos, Medibles, Asumibles, Realistas y Temporalizados) y deben formularse de manera positiva, enfocándose en el "qué hacer".
+No todos los planes de acción están completamente desarrollados desde el inicio; el mando completa el Plan A y, una vez en ejecución, comienza a considerar el Plan B y el Plan de Mitigación.
 
-### IV. Estrategias de Intervención
+Algunas bibliografías, en lugar de tres planes de acción, usan tres lapsos temporales para la misma idea:
+*   **Ahora:** Acciones inmediatas (coincide con el Plan A).
+*   **Luego:** Prolongación del Plan A con acciones de menor urgencia.
+*   **Después:** Acciones de mitigación del siniestro.
 
-Se contemplan **tres estrategias** principales para los planes de acción, que materializan las decisiones con diferentes enfoques:
-*   El **modo defensivo** prioriza el control del riesgo y la protección de terceros, asumiendo riesgos menores. Se emplea cuando los recursos son insuficientes o para esperar refuerzos o mejoras en las condiciones del siniestro.
-*   El **modo ofensivo** implica una confrontación directa con el riesgo y la mitigación activa, lo que conlleva la asunción de riesgos más significativos.
-*   El **modo mixto** combina ambos enfoques, permitiendo la aplicación simultánea de estrategias defensivas y ofensivas para controlar y mitigar la situación en paralelo.
+El mando intermedio, en servicios de bomberos, fusiona las decisiones estratégicas y tácticas, mientras que el nivel operativo lo asume el personal actuante. Una única orden, que resuma los niveles estratégico y táctico, debe ser emitida, seguida de una orden operativa más detallada. El mando debe considerar el Plan B y el Plan de Mitigación mientras se ejecuta el Plan A.
 
-La elección de la estrategia se basa en factores como la suficiencia de los recursos y la aceptabilidad del riesgo en comparación con los beneficios esperados. Un plan de acción debe ser flexible, adaptándose a la evolución del siniestro, pasando de una fase de descontrol a control y, finalmente, a la normalización.
+En un accidente de tráfico con una víctima atrapada, el plan A podría ser: "Extracción pausada mediante abatimiento lateral del vehículo" (consenso con medios sanitarios). Si el plan de acción es muy simple y no requiere niveles estratégico o táctico, coincidirá con una orden del nivel operativo.
 
-### V. Planes de Acción Temporales y Comunicación
+d) **Comunicación del plan de acción:** Es crucial para la correcta ejecución del plan.
+*   Tanto el Plan A como el Plan B deben ser conocidos por todo el personal interviniente.
+*   Se debe comunicar la activación de cualquiera de los planes.
 
-Generalmente, se trabaja con **tres planes de acción** temporales:
-*   El **Plan A**, o "Ahora", es el plan principal e inmediato para el control.
-*   El **Plan B**, o "Luego", actúa como respaldo si el Plan A no funciona o si las condiciones cambian.
-*   El **Plan de Mitigación**, o "Después", se enfoca en eliminar las causas del siniestro y restaurar la normalidad, pudiendo ejecutarse después del control inicial o de forma simultánea si los recursos lo permiten.
+La orden del mando, derivada del plan de acción, debe ser:
+*   **Clara.**
+*   **Concisa.**
+*   **Concreta.**
+*   **Legítima.**
+*   **Ajustada al sistema de comunicación utilizado** (visual, radio, one-to-one).
+*   **Contrastada** (para confirmar que se ha entendido; conocido como *acknowledgement* o *ack*).
 
-La **comunicación del plan de acción** es crucial para su correcta ejecución. Tanto el Plan A como el Plan B deben ser conocidos por todo el personal. Las órdenes deben ser **claras, concisas, concretas, legítimas**, adaptadas al sistema de comunicación utilizado (visual, radio, one-to-one) y **contrastadas** mediante un reconocimiento o confirmación (ack).
+Para facilitar la consecución de objetivos, se puede definir un formato específico para dar y recibir órdenes. Un ejemplo de comunicación sería el siguiente, con frases y tiempos verbales predeterminados:
+*   Delta 31: "Charly31 para Delta31, ¿me recibes? Cambio"
+*   Charly 31: "Aquí Charly31, adelante Delta31. Cambio"
+*   Delta 31: "Solicito ubicación para Bomba31 en siniestro. Cambio"
+*   Charly 31: "Delta 31, diríjase a la fachada 1. Cambio"
+*   Delta 31: "Entiendo que me dirija a la fachada 1. Cambio"
+*   Charly 31: "Afirmativo. Cambio"
+*   Delta 31: "Recibido, procedo a ubicación frente a fachada 1. Cambio y corto"
 
-### VI. Estándares de Comunicación y Códigos de Identificación
+Esta estandarización de mensajes y comunicación se puede preestablecer.
+La siguiente tabla muestra la identificación unívoca de vehículos del Servicio:
 
-Para una comunicación eficiente, se utilizan **estándares preestablecidos** en los mensajes y formas de comunicarse. Esto incluye códigos unívocos para la identificación de vehículos, siniestros y personal.
+| PARQUE           | VEHÍCULO                           | CÓDIGO IDENTIFICATIVO    |
+| :--------------- | :--------------------------------- | :----------------------- |
+| Primero (Molina) | Autobomba 1ª salida (BRP)          | BOMBA 11                 |
+| Primero (Molina) | Autobomba refuerzo (BRP)           | R 1                      |
+| Primero (Molina) | Todoterreno de mando               | TT 10                    |
+| Primero (Molina) | Todoterreno pickup                 | TT 16                    |
+| Primero (Molina) | Remolque genérico / achiques       | REMOLQUE 19              |
+| Primero (Molina) | Remolque suministro combustible    | REMOLQUE SUMINISTRO 19   |
+| Primero (Molina) | Remolque Rampa de Carga            | REMOLQUE RAMPA 19        |
+| Segundo (Sigüenza) | Autobomba 1ª salida (BRP)          | BOMBA 21                 |
+| Segundo (Sigüenza) | Autobomba refuerzo (BRP)           | R 2                      |
+| Segundo (Sigüenza) | Todoterreno de mando               | TT 20                    |
+| Segundo (Sigüenza) | Todoterreno pickup                 | TT 26                    |
+| Segundo (Sigüenza) | Furgón de apeos y apuntalamientos | APEOS 29                 |
+| Segundo (Sigüenza) | Remolque genérico / achiques       | REMOLQUE 29              |
+| Segundo (Sigüenza) | Remolque suministro combustible    | REMOLQUE SUMINISTRO 29   |
+| Segundo (Sigüenza) | Remolque Rampa de Carga            | REMOLQUE RAMPA 29        |
+| Segundo (Sigüenza) | Zodiac                             | ZODIAC 29                |
+| Tercero (Azuqueca) | Autobomba 1ª salida (BRP)          | BOMBA 31                 |
+| Tercero (Azuqueca) | Autobomba 1ª salida (BUL)          | BOMBA 32                 |
+| Tercero (Azuqueca) | Autobomba refuerzo (BRP)           | R 3                      |
+| Tercero (Azuqueca) | Autobrazo (ABE)                    | BRAZO 34                 |
+| Tercero (Azuqueca) | Todoterreno de mando               | TT 30                    |
+| Tercero (Azuqueca) | Todoterreno pickup                 | TT 36                    |
+| Tercero (Azuqueca) | Todoterreno pickup                 | TT 37                    |
+| Tercero (Azuqueca) | Remolque genérico / achiques       | REMOLQUE 39              |
+| Tercero (Azuqueca) | Remolque NBQ                       | REMOLQUE NBQ 39          |
+| Tercero (Azuqueca) | Zodiac                             | ZODIAC 39                |
+| -                | Todoterreno de jefe de guardia     | TT 0                     |
+| -                | Todoterreno de mando               | TT 40                    |
+| -                | Autobomba escuela / refuerzo (BRL) | R 4                      |
+| -                | Transporte personal (Vito)         | BUS 1                    |
+| -                | Transporte personal (Skoda)        | BUS 2                    |
+| -                | Transporte personal (pickup)       | BUS 3                    |
 
-*   Los **códigos de identificación de vehículos** (Tabla 24) asocian un identificador a cada vehículo según el parque de origen. Por ejemplo, "BOMBA 11" para la primera autobomba del Parque Primero. Los asteriscos en los códigos indican el uso de dígitos numéricos para una identificación única, donde el primer número hace referencia al parque y el segundo a un orden correlativo.
-*   Los **códigos de identificación de siniestros** (Tabla 26) categorizan los incidentes, asignando, por ejemplo, "CÓDIGO 1" a NRBQ, "CÓDIGO 2" a incendios, y así sucesivamente.
-*   El **Alfabeto Fonético Internacional (ICAO)** (Tabla 27) se emplea para deletrear con precisión matrículas, direcciones u otros detalles, utilizando palabras clave para cada letra y número, junto con términos como "Afirmativo" (SI) y "Negativo" (NO).
-*   Los **códigos identificativos del personal** (Tabla 25) asignan un código a cada puesto (por ejemplo, "Eme cero (0)" para el Oficial-Jefe de Servicio).
-*   Las **fachadas** de los edificios siniestrados se numeran a partir de la principal (Fachada 1) en sentido horario.
-*   Las **coordenadas geográficas** se gestionan con un datum WGS84 preestablecido.
-*   El código "Emergencia, emergencia, emergencia" (Tabla 27) se utiliza para situaciones críticas e inesperadas que requieren una reevaluación del plan, liberando automáticamente el canal de comunicación para uso prioritario.
+La siguiente tabla presenta los códigos de identificación para el personal en siniestros:
+
+| PUESTO OCUPADO              | CÓDIGO IDENTIFICATIVO              |
+| :-------------------------- | :--------------------------------- |
+| Oficial – Jefe de Servicio  | Eme cero (0)                       |
+| Jefe de Guardia             | Jota cero (J0)                     |
+| Oficial Técnico             | Tango1, Tango2, Tango3             |
+| Sargento – Jefe de Parque   | Sierra1, Sierra2, Sierra3, Sierra4 |
+| Cabo – Jefe de Dotación     | Charli **                          |
+| Bombero – Conductor         | Delta **                           |
+| Bombero                     | Bravo **                           |
+| Equipo de intervención      | (Equipo de) intervención *         |
+| Equipo de apoyo             | (Equipo de) apoyo *                |
+| Cabo – Jefe de Dotación de refuerzo | Charli ** refuerzo                 |
+| Bombero – Conductor de refuerzo | Delta ** refuerzo                  |
+| Bombero de refuerzo         | Bravo ** refuerzo                  |
+| Equipo de intervención de refuerzo | (Equipo de) intervención * refuerzo |
+| Equipo de apoyo de refuerzo | (Equipo de) apoyo * refuerzo       |
+
+Los asteriscos en los códigos indican dígitos numéricos para una identificación unívoca. El primer número se refiere al parque, y el segundo (si existe) a un número de orden correlativo.
+
+En cuanto a la nomenclatura de las fachadas de edificios implicados en siniestros, la fachada de acceso principal se designa como Fachada 1, y las demás se numeran correlativamente en el sentido de las agujas del reloj. También se emplea un sistema de coordenadas geográficas en datum WGS84.
+
+Se utilizan códigos para referirse a situaciones, como "Emergencia, emergencia, emergencia" para accidentes o situaciones inesperadas que requieran un replanteamiento de las operaciones. Este código libera automáticamente el canal de comunicación para quien invoca la situación de emergencia, mientras los demás esperan la información del mando para reorientar las tareas.
+
+La siguiente tabla muestra los códigos de identificación de los siniestros:
+
+| TIPO DE SINIESTRO     | CÓDIGO IDENTIFICATIVO |
+| :-------------------- | :-------------------- |
+| NRBQ                  | CÓDIGO 1              |
+| INCENDIO              | CÓDIGO 2              |
+| RESCATE               | CÓDIGO 3              |
+| INUNDACIONES          | CÓDIGO 4              |
+| EDIFICIOS             | CÓDIGO 5              |
+| ASISTENCIA / RETEN    | CÓDIGO 6              |
+
+Para deletrear elementos como matrículas o direcciones, se utiliza el código ICAO (Alfabeto Fonético Internacional).
+La siguiente tabla presenta el Alfabeto Fonético Internacional:
+
+| Letra/Número | Código                |
+| :----------- | :-------------------- |
+| A            | Alpha (Alfa)          |
+| B            | Bravo                 |
+| C            | Charlie (Charli)      |
+| D            | Delta                 |
+| F            | Foxtrot               |
+| G            | Golf                  |
+| H            | Hotel                 |
+| I            | India                 |
+| J            | Juliet (Yuliet)       |
+| K            | Kilo                  |
+| L            | Lima                  |
+| M            | Mike (Maik)           |
+| N            | November              |
+| O            | Oscar                 |
+| P            | Papa                  |
+| Q            | Quebec                |
+| R            | Romeo                 |
+| S            | Sierra                |
+| T            | Tango                 |
+| U            | Uniform (Iuniform)    |
+| V            | Victor                |
+| W            | Whiskey               |
+| X            | X-Ray (ex rey)        |
+| Y            | Yanky                 |
+| Z            | Zulu                  |
+| 0            | Negativo              |
+| 1            | Primero               |
+| 2            | Segundo               |
+| 3            | Tercero               |
+| 4            | Cuarto                |
+| 5            | Quinto                |
+| 6            | Sexto                 |
+| 7            | Séptimo               |
+| 8            | Octavo                |
+| 9            | Noveno                |
+| SI           | Afirmativo, afirma, positivo, o Sierra |
+| NO           | Negativo              |
+
+### 3.3.4. Acercamiento y preparación del siniestro
+
+Esta fase se divide en tres sub-fases.
+
+a) **Confirmación de datos en remoto:** Durante el trayecto hacia el siniestro, el Cabo (o el mando de mayor graduación movilizado) recibirá información sobre su desarrollo a través del 112 o de otros Servicios activados (como las Fuerzas del Orden). Es fundamental confirmar los datos iniciales y, si es necesario, solicitar contacto telefónico directo con el alertante para obtener nueva información. La verificación de la ubicación del siniestro es crucial para evitar retrasos significativos en la atención. En esta etapa, el mando puede emitir pautas operativas para el alertante o el servicio ya presente en el lugar, como el corte de la carretera, el establecimiento de una distancia mínima de seguridad (N metros), la recomendación de evacuar si no hay humo, o la preparación de la evacuación del edificio. Con la información recibida, se consultan las Fichas de Prevención Operativa (FPO), los hidrantes cercanos y otros datos relevantes para preparar el acercamiento y la intervención junto con los demás efectivos movilizados.
+
+b) **Activación de nuevos medios:** Tras la confirmación de la información, se puede requerir la solicitud de medios adicionales (propios o externos) o la transmisión de información a entidades superiores. Si la zona queda desatendida y se prevé un incidente prolongado, puede ser conveniente activar refuerzos propios o alertar a servicios colindantes. La activación de medios externos es un proceso continuo durante toda la emergencia, siguiendo programas establecidos (trenes de salida y protocolos del 112). Estos medios se confirman o desmovilizan una vez en el siniestro y pueden ser remobilizados según la evolución de las operaciones.
+
+.

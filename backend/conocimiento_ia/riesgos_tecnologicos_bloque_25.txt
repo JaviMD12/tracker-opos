@@ -1,37 +1,142 @@
-# Instalaciones de Edificios y Riesgos Asociados para Cuerpos de Bomberos
+## Instalaciones en Edificios y Gestión de Riesgos
 
-Las intervenciones de los cuerpos de bomberos en edificaciones requieren un conocimiento técnico exhaustivo de sus instalaciones, dado que estas configuran los escenarios habituales de las emergencias. Las instalaciones de edificios se definen como el conjunto de redes y equipos fijos que posibilitan el suministro y la operación de los servicios esenciales, como la provisión de materia y energía. La normativa aplicable que rige estas instalaciones en España incluye el Código Técnico de la Edificación (CTE) en sus Documentos Básicos de Salubridad (DB HS), específicamente para Suministro de agua (HS4) y Evacuación de aguas (HS5), y en el Documento Básico de Ahorro de Energía (DB HE), que remite al Reglamento de Instalaciones Térmicas en Edificios (RITE) para HE2 y a la Contribución solar mínima de ACS para HE4. Además, el Reglamento Electrotécnico de Baja Tensión (REBT) es fundamental para las instalaciones eléctricas, y el Reglamento técnico de distribución y utilización de combustibles gaseosos (RD 919/2006) para las instalaciones de gas.
+### 9.5. Instalaciones de Edificios
 
-Las instalaciones pueden clasificarse en varios tipos, destacando por su relevancia en emergencias las de agua fría, agua caliente sanitaria (ACS), saneamiento, electricidad, y combustibles gaseosos y líquidos.
+Las instalaciones de edificios comprenden el conjunto de redes y equipos fijos diseñados para suministrar y operar los servicios necesarios para el funcionamiento de una edificación. Actualmente, todas las edificaciones, independientemente de su uso o actividad, cuentan con sistemas para el aporte, distribución y/o evacuación de materia y energía.
 
-## Instalaciones de Agua Fría y Agua Caliente Sanitaria (ACS)
+**Marco Normativo:** Estas instalaciones están reguladas por una amplia normativa, destacando:
+*   **Código Técnico de la Edificación (CTE) DB HS (Salubridad):**
+    *   HS4: Suministro de agua (Agua Fría y Agua Caliente Sanitaria - ACS).
+    *   HS5: Evacuación de aguas (Saneamiento).
+*   **CTE DB HE (Ahorro de Energía):**
+    *   HE 2 >> RITE: Reglamento de Instalaciones Térmicas de Edificios.
+    *   HE 4: Contribución solar mínima de ACS.
 
-El sistema de **agua fría** se compone de una red canalizada destinada al consumo humano, que debe asegurar caudales y presiones adecuadas en todos los puntos de captación. La aptitud para el consumo humano exige sistemas de calidad con filtros y materiales regulados para evitar sustancias nocivas o corrosión. La legislación específica para este tipo de instalación es el CTE DB HS-4. Las redes se configuran como de **contador único** o **contadores divisionarios**.
+**Instalaciones Generadoras de Emergencias:** En el contexto de las intervenciones de bomberos, se caracterizan las instalaciones que pueden originar una emergencia y requerir su actuación. El análisis se enfoca en sus elementos básicos, dispositivos de maniobra y corte, y los riesgos inmediatos asociados.
+Las instalaciones prioritarias a considerar son:
+*   Agua fría.
+*   Agua caliente sanitaria (ACS).
+*   Saneamiento.
+*   Electricidad.
+*   Instalaciones receptoras de combustibles gaseosos.
+*   Instalaciones petrolíferas de uso propio (combustibles líquidos).
 
-Los elementos básicos de una instalación de enlace de agua fría incluyen la **acometida**, que conecta la red de distribución exterior con la **Caja General de Protección (CGP)**, la **red general** de suministro, las **instalaciones particulares** de cada usuario y las **instalaciones complementarias** como los equipos de sobre-elevación. Para la gestión de emergencias, los equipos de corte y maniobra son cruciales. Entre ellos se encuentran la **llave de toma o collarín de toma en carga**, ubicada en la tubería de distribución exterior para abrir el paso a la acometida; la **llave de corte en el exterior de la propiedad**; la **llave de corte general**, situada en el interior de la propiedad en un armario o arqueta para seccionar el suministro a la edificación; las **llaves de contadores**, ubicadas antes y después de estos, ya sean centralizados o divisionarios; y las **llaves de paso**, localizadas en el interior de cada propiedad para independizar o conectar la red del establecimiento. Asimismo, existen **derivaciones particulares** con llaves de corte para cada cuarto húmedo, que abastecen a los **puntos de consumo**, donde cada aparato sanitario debe tener su propia llave de corte individual. Finalmente, las **llaves de seccionamiento** se encuentran antes y después de los equipos de sobre-elevación y elementos reductores. La señalización de las redes de agua potable se realiza con colores verde oscuro o azul, mientras que las de agua no potable deben estar claramente identificadas. El principal riesgo asociado a estas instalaciones es la **inundación**, la cual puede verse agravada por la presencia de **electricidad**.
+#### 9.5.1. Agua Fría
 
-Por su parte, las instalaciones de **agua caliente sanitaria (ACS)** calientan el agua de la red fría para su uso y consumo. La normativa que las regula es también el CTE DB HS-4, complementándose con el CTE DB HE-4 que exige el apoyo de equipos bitérmicos, como los paneles solares. En estas redes se distinguen las de **impulsión**, que distribuyen el ACS desde el aparato térmico a los puntos de calefacción, pudiendo o no requerir armarios de compartimentación para los ramales, y las de **retorno**, obligatorias en instalaciones con una longitud de tubería de ida al punto de consumo más alejado superior a 15 metros. Los componentes básicos son similares a los de agua fría, incluyendo la acometida de AFCH, los aparatos de generación y acumulación de calor (generadores y acumuladores), las redes de suministro, los elementos terminales (grifos y duchas) y los circuitos de retorno. Los equipos de corte y maniobra incluyen válvulas automáticas (termostáticas, antirretorno y equilibrio) y válvulas manuales en la entrada y salida de todos los elementos. Los principales riesgos de estas instalaciones son la **inundación** y las **quemaduras** debido a las altas temperaturas del agua de salida de las calderas (hasta 80ºC).
+**Introducción:** Se refiere a la red canalizada de agua destinada al consumo humano, diseñada para asegurar caudales y presiones adecuadas en todos los puntos de captación del edificio.
 
-## Instalaciones de Saneamiento
+**Calidad:** El agua para consumo humano debe cumplir rigurosos sistemas de calidad, incluyendo filtros y regulación de materiales, para garantizar que no contenga sustancias nocivas, ni afecte la potabilidad, olor o sabor, ni provoque corrosión interna.
 
-Las instalaciones de **saneamiento** están diseñadas para extraer las aguas residuales, ya sea de forma independiente o conjunta con las precipitaciones atmosféricas y escorrentías. La normativa específica es el CTE DB HS 5. Las redes se clasifican según la **naturaleza de las aguas** en redes de **aguas negras** (residuales o fecales), que se dirigen al alcantarillado o fosas sépticas, y redes de **aguas blancas o pluviales**, que recogen el agua de cubiertas, terrazas, patios y jardines, pudiendo verterse al alcantarillado o no. En cuanto al **sistema de canalización**, se diferencian el **sistema unitario** (todas las aguas en una única canalización), el **sistema separativo** (aguas negras y blancas en dos canalizaciones distintas) y el **sistema semiseparativo** (dos canalizaciones, una para aguas residuales a depuradora y otra para pluviales a un medio receptor).
+**Legislación:** Las disposiciones específicas para estas instalaciones se establecen en el CTE DB HS-4.
 
-Los elementos básicos del saneamiento son las **redes de pequeña evacuación**, las **bajantes de aguas residuales** y los **colectores horizontales**. Para la intervención de bomberos, son relevantes los **elementos visitables**, como los **sifones individuales** (ubicados cerca de la válvula de descarga para minimizar la longitud de tubería sucia y con tapón roscado para registro inferior) y los **botes sifónicos** (colectivos de aparatos sanitarios compatibles, enrasados con el pavimento y registrables con tapa hermética). Es importante señalar que los sifones que recogen urinarios son incompatibles con otros aparatos, y está prohibido conectar a los botes sifónicos desagües de electrodomésticos, bombeo o trituradores.
+**Tipos de Redes (según número de contadores):**
+*   Redes con contador único.
+*   Redes con contadores divisionarios.
 
-Las **arquetas** son depósitos enterrados para recibir, enlazar y distribuir canalizaciones subterráneas, facilitando la revisión de la red. Pueden ser fabricadas *in situ* (ladrillo enfoscado y bruñido) o prefabricadas (PVC), y siempre cuentan con una tapa superior registrable. Se distinguen las **arquetas de paso** (para conexión de dos conductos o en quiebros con ángulos, usualmente al pie de las bajantes), las **arquetas sumidero** (con cubierta de rejilla metálica, desagüe lateral con diámetro mínimo de 110mm, vertiendo a arqueta sifónica o separador), las **arquetas sifónicas** (con conducto de salida con codo de 90º para cierre hidráulico que evita olores, situadas antes de la conexión a la red general y registrables), y las **arquetas separadoras de grasas** (ubicadas antes de la conexión a la red general y registrables para limpieza periódica).
+**Elementos Básicos de Instalación de Enlace:** En una instalación de enlace, se distinguen los siguientes componentes:
+*   Acometida.
+*   Red general.
+*   Instalaciones particulares.
+*   Instalaciones complementarias.
 
-Los **pozos de registro** son puntos de acceso a las alcantarillas, localizados en quiebros y cambios de pendiente de grandes colectores, ejecutados *in situ* y con tapa hermética. Si son de gran profundidad, deben incluir una escala fija. Las **fosas sépticas** son tanques estancos e impermeables con dos o más compartimentos donde se realiza decantación y fermentación bacteriana anaerobia; el agua tratada se evacúa a un pozo de absorción. No deben confundirse con los pozos negros o ciegos, actualmente prohibidos, que simplemente filtran el líquido al terreno y retienen el sólido. Los riesgos principales en saneamiento son la **asfixia**, que puede provocar desmayos en pocos segundos y generar víctimas concatenadas, requiriendo el uso de equipos de respiración autónoma (ERA).
+**Equipos de Corte y Maniobra (accesibles para intervención):** Para una intervención eficaz, se identifican los siguientes puntos de corte accesibles:
+*   **Llave de toma o collarín de toma en carga:** Ubicada en la tubería de distribución exterior, permite abrir el paso a la acometida.
+*   **Llave de corte en el exterior de la propiedad.**
+*   **Llave de corte general:** Localizada en el interior de la propiedad, en un armario o arqueta de la zona común, interrumpe el suministro de agua a todo el edificio.
+*   **Llaves de contadores:** Una antes y otra después de cada contador, tanto en sistemas centralizados como divisionarios.
+*   **Llave de paso:** Situada en el interior de cada propiedad particular, en un lugar accesible, para independizar o conectar la red del establecimiento.
+*   **Derivaciones particulares:** Con trazado individual a los cuartos húmedos, cada derivación cuenta con una llave de corte para agua fría y caliente.
+*   **Puntos de consumo:** Todos los aparatos de descarga (depósitos, grifos, calentadores, acumuladores, calderas individuales, sanitarios) deben tener una llave de corte individual.
+*   **Llaves de seccionamiento:** Ubicadas antes y después de los equipos de sobre-elevación (bombas y depósitos) y los elementos reductores.
 
-## Instalaciones Eléctricas
+**Señalización (agua):**
+*   **Redes de agua potable:** Se identifican con los colores verde oscuro o azul.
+*   **Redes de agua no potable:** Las tuberías, grifos y puntos terminales deben estar claramente señalizados.
 
-Las instalaciones eléctricas se definen como el conjunto de aparatos y circuitos destinados a la producción, transformación, transmisión, distribución o utilización de la energía eléctrica. Se subdividen en instalaciones de **alta tensión** (tensiones nominales superiores a 1.000 V en corriente alterna o 1.500 V en continua) y de **baja tensión** (inferiores a 1.000 V en alterna o 1.500 V en continua). Las tensiones más comunes son 11kV a 380kV para alta tensión y 380V (trifásica), 220V, y 125V para baja tensión.
+**Riesgos (para potenciales intervenciones de bomberos):**
+*   El riesgo principal son las inundaciones.
+*   Un riesgo secundario es la electrocución por la presencia de agua en contacto con elementos eléctricos.
 
-El **grado de electrificación de una vivienda** se refiere a la carga eléctrica que su instalación puede soportar, calculada sumando las potencias de los receptores con una reducción del 40% por no uso simultáneo. Se distinguen dos grados principales: el **básico** (mínimo de 5.750 W a 230 V, con 5 circuitos obligatorios: C1 iluminación, C2 tomas generales y frigorífico, C3 horno y cocina, C4 lavadora/lavavajillas/termo, C5 baño y auxiliares de cocina) y el **elevado** (mínimo de 9.200 W a 230 V, con más de 5 circuitos, incluyendo C6-C12 para circuitos adicionales de iluminación, tomas, calefacción, aire acondicionado, secadora y domótica).
+#### 9.5.2. Agua Caliente Sanitaria (ACS)
 
-Los elementos básicos de una instalación de enlace eléctrica son la **acometida**, que conecta la red de distribución con la **Caja General de Protección (CGP)**. La acometida es responsabilidad de la compañía eléctrica, es única por edificio (hasta 160 Kw) y puede ser aérea o subterránea. La CGP aloja los elementos de protección de la línea repartidora y marca el inicio de la propiedad del usuario, siendo única por cada 160 Kw. Contiene fusibles (cilíndricos hasta 80A, de cuchilla para mayores intensidades; el neutro no lleva fusible). La **Línea General de Alimentación (LGA)** conecta la CGP con la centralización de contadores, incluyendo tres conductores de fase con fusible y uno de neutro sin fusible. La **centralización de contadores (CC)** mide el consumo total de energía y está centralizada en una pared común para hasta 16 contadores; si son más, requiere un cuarto específico con puerta RF y un interruptor de corte general. Finalmente, la **derivación individual de abonado** se extiende desde la CC hasta el **Cuadro de Mando y Protección (CMP)** de cada vivienda o local, que es obligatorio según el REBT y se ubica normalmente tras la puerta de entrada. El CMP integra varios mecanismos de protección y control: el **Interruptor de Control de Potencia (ICP)**, precintado por la compañía, corta automáticamente por sobreconsumo y se rearma manualmente; el **Interruptor General Automático (IGA)** protege la derivación individual contra sobrecargas y cortocircuitos; el **Interruptor Diferencial (ID)** protege contra derivaciones a masa (tierra) interrumpiendo la corriente si la fuga supera la sensibilidad diferencial (ej. 30mA); y los **Pequeños Interruptores Automáticos (PIAs)**, de protección magnetotérmica monofásica bipolar, protegen los circuitos de la vivienda contra sobrecargas y cortocircuitos. Los riesgos asociados a la electricidad incluyen la **tetanización**, la **electrocución** y los **incendios** por cortocircuito.
+**Introducción:** Esta instalación calienta el agua de la red fría para uso y consumo humano.
 
-## Instalaciones Receptoras de Combustibles Gaseosos y Líquidos
+**Legislación:** Las prescripciones para estas instalaciones se recogen en el CTE DB HS-4. Además, el CTE DB HE-4 exige la inclusión de equipos bitérmicos (por ejemplo, paneles solares) para apoyar la producción de ACS.
 
-Las **instalaciones receptoras de combustibles gaseosos** son ampliamente valoradas por su alto poder energético y su implantación en zonas urbanas, siendo el último tramo de la cadena de suministro de gas a establecimientos y edificaciones. Se rigen por el Reglamento técnico de distribución y utilización de combustibles gaseosos (RD 919/2006). Se distinguen redes **alimentadas desde la red de distribución**, que no almacenan envases, y redes **no alimentadas desde la red de distribución**, que siempre incorporan envases o depósitos.
+**Tipos de Redes (según punto de inicio y fin):**
+*   **Redes con trazado paralelo:**
+    *   **Impulsión:** Red de distribución de ACS desde el aparato térmico hasta el punto de calefacción. Los ramales pueden requerir armarios de compartimentación (en caso de suelo radiante) o no (en radiadores), dependiendo del sistema de calefacción.
+    *   **Retorno:** Obligatorio en instalaciones individuales o centralizadas si la longitud de la tubería de ida al punto de consumo más alejado es igual o superior a 15 metros.
 
-Los elementos básicos de estas instalaciones son el **almacenamiento**, la **red de distribución canalizada**, la **acometida a usuario** y la **instalación interior**. Los equipos de maniobra comprenden la **llave de acometida** (corta el suministro total), la **llave del edificio** (corte más cercano o en cerramiento), la **llave de abonado** (obligatoria, accesible en zonas comunes), la **llave de montante colectivo** (si hay varios usuarios), la **llave de contador** (previa al contador), la **llave de vivienda o local privado** (posterior al contador, accesible interior), la **llave de regulador** (cierra el paso próximo a la entrada del regulador), y la **llave de aparato** (cada aparato de gas tiene su llave propia). Adicionalmente, existen **envases** móviles (hasta 15 kg unitario, total hasta 300 kg en exterior o armarios ventilados; o más de 15 kg unitario, total hasta 1000 kg en interior ventilado si <= 70 kg, o exterior en caseta ventilada si > 70 kg), y **depósitos** fijos (500 m3 enterrados, 2000 m3 en superficie). Otros equipos son las **estaciones de bombeo y equipos de trasiego**, así como la identificación de **zonas de fuego abierto** (con llamas, chispas o superficies calientes). Los principales riesgos de estas instalaciones son los **derrames**, la **combustión** y la **emisión de vapores asfixiantes o tóxicos**.
+**Elementos Básicos:**
+*   Acometida de Agua Fría de Consumo Humano (AFCH).
+*   **Aparatos de generación y acumulación:**
+    *   **Generador de calor:** Conjunto de elementos que elevan la temperatura del agua (calderas/intercambiadores).
+    *   **Acumulador:** Depósito(s) para almacenar agua caliente. Mejora la inercia térmica y permite el uso de generadores de menor potencia para picos de demanda.
+*   **Redes de suministro:** Conjunto de tuberías que transportan agua atemperada a los elementos terminales.
+*   **Elementos terminales:** Grifos y duchas para el uso de ACS.
+*   **Circuitos de retorno:** Redes que reconducen el agua desde los puntos más distantes del suministro al acumulador, con el fin de mantener una temperatura aceptable en toda la red, incluso durante periodos sin demanda.
+
+**Equipos de Corte y Maniobra:**
+*   El circuito de ACS incluye numerosas válvulas automáticas (termostáticas, antirretorno, equilibrio) para la autorregulación y optimización del rendimiento.
+*   Válvulas manuales: Ubicadas a la entrada y salida de todos los elementos (generadores, acumuladores, terminales).
+
+**Riesgos (para potenciales intervenciones de bomberos):**
+*   El riesgo principal es la ocurrencia de inundaciones.
+*   Existe riesgo de quemaduras, ya que el agua a la salida de los generadores de calor puede alcanzar temperaturas de hasta 80º C.
+
+#### 9.5.3. Saneamiento
+
+**Introducción:** Comprende las instalaciones destinadas a la evacuación de las aguas residuales generadas en los edificios, ya sea de forma independiente o en combinación con las precipitaciones atmosféricas y escorrentías.
+
+**Legislación Aplicable:** El CTE DB HS 5, "Evacuación de aguas", establece las normas para estas instalaciones.
+
+**Tipos de Redes (según la naturaleza de las aguas):**
+*   **Redes de aguas negras (residuales o fecales):** Recogen las aguas de los desagües sanitarios y las dirigen a la red pública de alcantarillado o a fosas sépticas.
+*   **Redes de aguas blancas o pluviales:** Conducen las aguas de cubiertas, terrazas, azoteas, patios y jardines a través de canalones y bajantes. Pueden descargarse en el alcantarillado o en otros puntos.
+
+**Tipos de Redes (según el sistema de canalización):**
+*   **Sistema unitario:** Todas las aguas se canalizan a través de una única red.
+*   **Sistema separativo:** Las aguas residuales se recogen en dos canalizaciones independientes.
+    *   **Aguas negras:** Transportan vertidos domésticos, comerciales e industriales.
+    *   **Aguas blancas:** Conducen aguas de escorrentía superficial (procedentes de precipitaciones, riego o drenaje).
+*   **Sistema semi-separativo:** Consta de dos canalizaciones totalmente independientes: una para aguas residuales (domésticas, comerciales e industriales) dirigida a la estación depuradora, y otra para aguas pluviales hacia el medio receptor.
+*   **Redes con vertido a fosas sépticas:** Utilizan un pozo estanco para las aguas negras, donde se someten a procesos químicos bacterianos.
+
+**Elementos Básicos:**
+*   Redes de pequeña evacuación.
+*   Bajantes de aguas residuales.
+*   Colectores horizontales de aguas residuales.
+
+**Elementos Visitables (puntos de intervención):** Los principales puntos de intervención en la red de saneamiento son los elementos visitables:
+*   **Sifones individuales y botes sifónicos:** Deben ser accesibles desde el propio local donde estén instalados.
+*   **Sifones individuales:** Cuentan con un dispositivo de registro en su parte inferior, provisto de un tapón roscado. Se sitúan lo más cerca posible de la válvula de descarga del aparato sanitario o dentro del mismo, para minimizar la longitud de la tubería de aguas sucias. Es importante señalar que los sifones que recogen desagües de urinarios son incompatibles con otros aparatos sanitarios.
+*   **Botes sifónicos:** Son sifones colectivos para aparatos sanitarios compatibles. Se instalan enrasados con el pavimento y son registrables mediante una tapa con cierre hermético que evita el paso de aire y agua. Es fundamental que los aparatos sanitarios no dispongan de sifón si existe uno común, para evitar la formación de burbujas de aire que dificultarían el desagüe. Además, no se permite la conexión de desagües de electrodomésticos, sistemas de bombeo o trituradores a los botes sifónicos.
+*   **Arquetas:** Depósitos enterrados de pequeño volumen utilizados para recibir, enlazar y distribuir canalizaciones subterráneas. Son elementos clave para la revisión de la red de saneamiento interior de una edificación. Pueden ser fabricadas in situ (ladrillo de medio pie enfoscado y bruñido) o prefabricadas (PVC). Se encuentran enterradas y cerradas con una tapa superior que permite el acceso para inspección y limpieza.
+    *   **Tipologías de arquetas (según su función):**
+        *   **Arquetas de paso:** Conectan dos conductos y se ubican en quiebros con ángulos donde no hay piezas curvadas normalizadas. Frecuentemente se localizan al pie de las bajantes.
+        *   **Arquetas sumidero:** Tienen rejilla metálica apoyada sobre angulares para cubrir su parte superior. El desagüe se realiza por uno de sus laterales con un diámetro mínimo de 110 mm. Vierten a una arqueta sifónica o a un separador de grasas y fangos.
+        *   **Arquetas sifónicas:** Provistas de un conducto de salida con un codo de 90º que crea un cierre hidráulico para prevenir malos olores. Se instalan antes de las conexiones con la red general y son registrables.
+        *   **Arquetas separadoras de grasas:** Se colocan antes de la conexión a la red general para evitar el vertido de productos grasos. Son registrables para permitir su limpieza periódica.
+*   **Pozos de registro:** Puntos de acceso a las alcantarillas, situados en coincidencias de quiebros y cambios de pendiente de los grandes colectores de saneamiento. Generalmente se construyen in situ con fábrica de ladrillo macizo de un pie, enfoscada y bruñido interiormente, y se cubren con una tapa hermética de hierro fundido. En caso de gran profundidad, deben contar con una escala fija.
+
+**Fosas Sépticas:** Consisten en tanques estancos e impermeables, con dos o más compartimentos donde se producen procesos de decantación y fermentación bacteriana anaerobia (sin oxígeno). En ellas, la materia orgánica se metaboliza, gasifica, hidroliza y mineraliza. El agua tratada se descarga mediante una tubería a un pozo de absorción.
+No deben confundirse con los pozos negros o ciegos, que actualmente están prohibidos. Estos últimos eran excavaciones en el terreno con paredes perforadas que recibían las aguas negras; la parte líquida se filtraba en el terreno, y la sólida se retenía hasta su descomposición bacteriana.
+
+**Riesgos (para potenciales intervenciones de bomberos en saneamiento):**
+*   La causa más común de accidentes es la asfixia durante el mantenimiento o limpieza, provocando desmayos en pocos segundos. Esto puede resultar en múltiples víctimas concatenadas al intentar socorrerse mutuamente.
+*   En estas intervenciones es imprescindible el uso de equipos de respiración autónoma (ERA).
+
+#### 9.5.4. Electricidad
+
+**Definición:** En el ámbito de las edificaciones, las instalaciones de enlace son el conjunto de elementos que conectan la red de distribución con las instalaciones interiores o receptoras.
+
+**Legislación:** El Reglamento Electrotécnico de Baja Tensión (REBT) es la normativa principal.
+
+**Tipos de Redes (según grado de electrificación):**
+*   **Grado de electrificación básico:** Potencia no inferior a 5750 W a 230 V, con 5 circuitos.
+*   **Grado de electrificación elevado:** Potencia no inferior a 9200 W a 230 V, con más de 5 circuitos (12 unidades).
+
+**Elementos Básicos de la Instalación de Enlace:**
+*   **1. Acometida:** Tramo de la instalación que conecta la red de distribución con la caja general de protección (CGP). Su construcción, inspección y verificación final son responsabilidad de la compañía eléctrica (según el Artículo 15 del REBT). Son únicas para cada edificio y pueden ser aéreas (con conductores desnudos o aislados/trenzado) o subterráneas (discurren por el subsuelo de vías principales).
+*   **2. Caja General de Protección (CGP):** Aloja los elementos de protección de la línea repartidora y marca el inicio de la propiedad del usuario. Cada edificio dispone de una CGP por cada 160 Kw de demanda o fracción.

@@ -1,74 +1,30 @@
-# Rescate en Accidentes Ferroviarios: Caracterización y Tácticas de Intervención
+## PARTE 5: RESCATE EN ACCIDENTES DE TRÁFICO - CASOS PRÁCTICOS
 
-Los accidentes ferroviarios, al igual que otros siniestros de gran envergadura, requieren una comprensión profunda de las características del entorno, el material implicado y las tácticas de intervención para garantizar una respuesta eficaz y segura. Este manual aborda los aspectos esenciales de la caracterización y las técnicas operativas en rescates ferroviarios, así como la gestión de emergencias asociadas.
+### 4. Colisión de dos camiones y un autocar
 
-## Caracterización de los Siniestros Ferroviarios
+#### a) Planteamiento
 
-Un accidente ferroviario se define como un suceso que implica trenes, vehículos de transporte de personas o mercancías, que discurren sobre carriles. La complejidad de estos incidentes radica en la diversidad de la infraestructura, la superestructura, el material rodante y los sistemas de seguridad y propulsión, que deben ser comprendidos por los equipos de rescate.
+La situación inicial se describe como una colisión por alcance en una autovía de dos carriles por sentido. Los dos camiones involucrados quedaron apoyados sobre sus cuatro ruedas, mientras que el autobús volcó sobre un lateral. Se reportan numerosas víctimas, incluyendo al conductor del segundo camión, al conductor del autocar y un número indeterminado de pasajeros del autobús. El primer camión transporta palés de madera y el segundo, ropa. En el lugar, se encuentran presentes las fuerzas del orden, pero solo una UVI móvil; las ambulancias tardarán aproximadamente media hora. La intervención se registra el 4 de julio a las 14:00 p.m.
 
-### Elementos del Sistema Ferroviario
-El sistema ferroviario se compone de varios elementos clave, cada uno con características específicas relevantes para las operaciones de rescate.
+#### b) Intervención
 
-#### Infraestructura
-La **infraestructura** abarca el conjunto de obras civiles diseñadas para la plataforma y geometría de la vía. Esto incluye movimientos de tierra destinados a nivelar el terreno, así como estructuras de fábrica como viaductos, puentes y túneles, que permiten superar obstáculos naturales.
-
-#### Superestructura
-La **superestructura** comprende la vía propiamente dicha y las instalaciones accesorias que aseguran la circulación de los trenes con eficacia y seguridad. Dentro de ella, distinguimos:
-*   **Carriles:** Barras de acero laminado con forma de seta, cuya función primordial es sustentar y guiar los trenes. También sirven como retorno de los circuitos eléctricos de la catenaria y las señales. Se unen por soldadura, formando una barra continua, aunque se distribuyen juntas de dilatación para compensar los cambios de temperatura. Los carriles se asientan sobre **traviesas**, barras transversales de madera u hormigón que sostienen el carril y lo unen al **balasto**, un elemento granular de silíceo que reduce y redistribuye los esfuerzos del tren, impidiendo el desplazamiento de las vías y protegiendo la plataforma. La fijación del carril a la traviesa se realiza mediante **tirafondos** y **placas de asiento**.
-*   **Ancho de vía:** La distancia entre carriles puede variar. En España, existen tres anchos principales: el **europeo** (1.435 mm), el **ibérico** o **español** (1.668 mm) y el **métrico** o **vía estrecha** (1.000 mm), utilizado en zonas de difícil acceso, como algunas áreas mineras.
-*   **Aparatos de vía:** Incluyen las **agujas**, sistemas que permiten desdoblar los carriles para cambiar de vía. Se componen de una parte fija (**corazón**) y una parte móvil (**espadín**). Los cambios de aguja pueden accionarse eléctrica, mecánica o manualmente.
-*   **Señales:** Dispositivos que transmiten mensajes visuales (semáforos luminosos o portátiles) y sonoros a los trenes y estaciones, reguladas por el Reglamento General de Circulación.
-*   **Electrificación:** Los trenes eléctricos se alimentan desde la **catenaria** (línea aérea de contacto) o, en sistemas más antiguos o específicos, desde un **tercer carril electrificado** situado al lado de la vía. La energía se capta mediante un **pantógrafo** (en catenaria) o un patín (en tercer carril). Los sistemas de catenaria operan a 25 kV en corriente alterna para alta velocidad y a 3.000 V en corriente continua para la red convencional. Las **subestaciones eléctricas** transforman y rectifican la corriente, distribuyéndola cada 20 a 50 km.
-
-#### Material Rodante
-El **material rodante** se refiere a los vehículos que circulan por la vía.
-*   **Locomotoras:** Proporcionan la fuerza motriz, situándose generalmente en la parte delantera del tren. Pueden ser diésel o eléctricas, y algunas están diseñadas para maniobras o reparaciones.
-*   **Automotores:** Trenes autopropulsados con motor integrado en los coches, lo que les permite funcionar como una unidad inseparable. Pueden ser diésel o eléctricos y operar en líneas convencionales o de alta velocidad.
-*   **Coches:** Vehículos destinados al transporte de viajeros, como coches litera, cafetería, restaurante, furgones generadores o coches laboratorio.
-*   **Vagones:** Vehículos diseñados para el transporte de mercancías de todo tipo, incluyendo vagones tolva, cisterna, cerrados o plataformas para automóviles y contenedores.
-*   **Bogies:** Dispositivos giratorios con dos o más ejes y ruedas, sobre los que se apoya el vehículo ferroviario. Pueden ser tractores (con tracción) o remolcados (sin tracción).
-
-#### Aparatos de Unión y Frenado
-Para acoplar y desacoplar vagones se utilizan diversos sistemas:
-*   **Acoples manuales:** Incluyen el gancho de tracción, tensor, palanca del tensor, husillos y brida.
-*   **Acoples semipermanentes:** Usados para unir vehículos de ramas que circulan siempre juntas, como en unidades de metro, y se enganchan/desenganchan en taller.
-*   **Acoples automáticos:** Permiten enganche sin operario y se usan en trenes donde el acoplamiento/desacoplamiento no es frecuente (tranvías, automotores).
-Los **dispositivos de frenos** incluyen la tubería de freno automático (TFA), la tubería de depósitos principales (TDP), semiacoplamientos (SA), grifo de aislamiento y freno de estacionamiento. La **TFA** es una tubería de aire comprimido que recorre todo el tren, regulando la presión para el frenado (5 kg/cm² afloje, 3.5 kg/cm² frenada de servicio, 0 kg/cm² emergencia). La **TDP** es similar a la TFA, pero no controlada por el freno, alimenta los dispositivos del tren a 7-10 kg/cm². Los **semiacoplamientos** conectan las tuberías de aire entre vehículos y deben asegurarse cuando no se usan. Los **grifos de aislamiento** (azul para TFA, rojo para TDP) permiten cortar la continuidad de las tuberías. El **freno de estacionamiento** se usa en vagones mediante un volante que acciona un tornillo.
-
-#### Elementos de Seguridad y Gestión de Emergencias
-Todo tren en España debe cumplir con la normativa de interoperabilidad y homologación, e incluir un **plan de autoprotección** para controlar y prevenir riesgos, coordinando con el sistema público de Protección Civil. La comunicación efectiva con el puesto de mando y control es crucial en emergencias.
-
-## Tácticas de Intervención en Accidentes Ferroviarios
-
-Las intervenciones en accidentes ferroviarios requieren una estrategia táctica bien definida, que considere tanto los riesgos específicos como los recursos disponibles.
-
-### Incidentes y Prioridades
-Las tácticas se adaptan al tipo y gravedad del incidente, pudiendo ser **ofensivas** (resolución con medios disponibles) o **defensivas** (contener la situación a la espera de refuerzos). Los principales tipos de incidentes son:
-*   **Incendio:** Prioridad máxima en salvar vidas, seguida de preservar bienes. Implica zonificación, evacuación/confinamiento de pasajeros, extinción con agente adecuado y prevención de propagación.
-*   **Arrollamiento, caída de catenaria o atropello:** El objetivo es rescatar a las personas afectadas y asegurar la zona. Incluye zonificación, balizamiento, localización de riesgos y rescate/excarcelación de víctimas.
-*   **Descarrilamiento:** Es una de las situaciones más complejas. Requiere previsión de medios materiales y humanos, activación de la táctica genérica, triage y, si es necesario, una noria de evacuación.
-
-### Medidas de Seguridad Cruciales
-La seguridad de los intervinientes es la prioridad.
-1.  **Corte de suministros eléctricos:** Es fundamental requerir el corte de la tensión a la empresa gestora de la infraestructura. Una vez confirmado, se debe **derivar la catenaria a tierra** y **señalizar la zona de trabajo**. Las cinco normas de seguridad para la desconexión eléctrica incluyen cortar las fuentes de alimentación, evitar realimentación, comprobar la tensión con pértigas aisladas, derivar a tierra y señalizar. Un **shunt de vía** (circuito eléctrico o electrónico que indica la presencia de un convoy) se utiliza para proteger a los equipos de trabajo en las vías, previniendo la llegada de trenes regulares.
-2.  **Uso de EPI:** Emplear equipo de protección individual adecuado.
-3.  **Prevención de incendios y explosiones:** Identificar fuentes de ignición (combustibles, sistemas eléctricos), disponer de extintores y proteger la zona. Los neumáticos de vehículos pesados pueden explotar con fuerza en un incendio, creando daños graves.
-4.  **Estabilización de vehículos:** Es esencial inmovilizar los vehículos implicados para evitar movimientos inesperados que puedan agravar las lesiones de las víctimas o poner en riesgo a los rescatadores.
-5.  **Control de acceso y zonificación:** Delimitar la zona de intervención y regular el tráfico de vehículos de emergencia y curiosos, estableciendo zonas caliente (mayor riesgo), templada (apoyo) y fría (estacionamiento).
-
-### Proceso de Intervención
-La cronología de la intervención se inicia con la **recepción del aviso** a través del centro de coordinación de emergencias, recopilando datos como la localización, tipo de accidente, víctimas y riesgos. Luego se procede a la **movilización** de personal especializado y material, estableciendo el **Puesto de Mando Avanzado (PMA)**.
-
-Durante la **valoración inicial**, se confirman los datos, se evalúan los riesgos (geográficos, meteorológicos, presencia de mercancías peligrosas o fuego) y se elabora un plan de acción. La **valoración continua** es vital para adaptar el plan a las circunstancias cambiantes.
-
-### Funciones del Personal de la Compañía
-El **maquinista** tiene como funciones principales parar el tren, alertar al centro de tráfico, proteger la vía y evacuar el tren. El **personal técnico de Adif** se encarga de verificar daños, restituir el funcionamiento de las instalaciones, verificar la ausencia de tensión, comprobar el corte de línea y la toma a tierra, y realizar el **shuntado**.
-
-### Acceso y Excarcelación
-El acceso al tren se prioriza por **huecos naturales** (puertas, ventanas). Si están deformadas, se utilizan herramientas hidráulicas. En caso de ventanas, se pueden cortar las juntas de goma o usar una sierra para vidrio. Para crear aberturas mayores, se pueden eliminar revestimientos y cortar montantes. La **retirada del techo** se realiza solo si la catenaria está sin tensión o el tren volcado, protegiendo siempre a los ocupantes de fragmentos.
-
-## Casos Prácticos en Accidentes Ferroviarios
-
-En un accidente grave con **colisión de dos camiones y un autocar**, la situación, por su magnitud, requiere una **planificación defensiva inicial** y la solicitud de múltiples recursos (refuerzos de parques, grúas pesadas, medios logísticos y sanitarios). La **ubicación del PMA** es fundamental para coordinar el continuo tránsito de ambulancias y equipos. Las prioridades se establecen en torno a la seguridad de los intervinientes, la estabilización de los vehículos y la atención sanitaria a las víctimas. Las **zonas de trabajo** se señalizan adecuadamente y se aplican **EPI específicos**. La excarcelación del conductor del camión se realiza por la puerta del conductor, con posible abatimiento del salpicadero, mientras que la extracción de las víctimas del autobús se efectúa con tablero. Se mantiene una **evaluación continua** debido a la complejidad de la logística y el cansancio del personal.
-
-En un **descarrilamiento de tren**, que puede implicar un AVE con 140 pasajeros y dos coches volcados, la situación es de alta complejidad. La **tensión de 25 kV en corriente alterna** exige la desconexión telemática y la intervención de un técnico especializado para la puesta a tierra. La prioridad es el **triage de víctimas** y su evacuación, utilizando las escaleras del tren o las de bomberos si es necesario. La **participación ciudadana** se coordina para tareas de apoyo y logística, nunca para rescate directo de atrapados. Se establece una "noria de evacuación" para el traslado eficiente de heridos a centros sanitarios. Tras la intervención, se verifica el estado del material y la infraestructura, y se elaboran informes para futuras mejoras.
+1.  **Movilización inicial:**
+    *   La situación se clasifica como inabordable para una única dotación de bomberos, requiriendo un plan de acción defensivo inmediato.
+    *   Se solicitan refuerzos de otros parques, grúas para vehículos pesados para la movilización, medios logísticos, personal de Protección Civil y sanitarios adicionales.
+    *   Es fundamental la presencia de las fuerzas del orden.
+2.  **Ubicación de vehículos de bomberos:**
+    *   Es crucial para este tipo de incidente con tránsito continuo de ambulancias.
+    *   Se establece un Puesto de Mando Avanzado (PMA) para organizar los grupos de trabajo.
+3.  **Señalización del incidente:** Se realiza una señalización adecuada.
+4.  **Evaluación perimetral y control de riesgos:** Se ejecuta una evaluación perimetral y control de riesgos inmediatos.
+5.  **Estabilización primaria:** No siempre es necesaria en este tipo de vehículos, pero se evalúa su posibilidad considerando el alto número de víctimas en el autobús.
+6.  **Limitaciones de equipo y personal:** El mando debe considerar las restricciones de equipo y personal, establecer prioridades de actuación con el equipo sanitario y tener un plan B ofensivo para la extracción de víctimas del autobús y del camión.
+7.  **Abordaje de vehículos:** En la medida de lo posible y con el personal y medios disponibles, se procede al abordaje.
+    *   **Abordaje del autobús:** Se prioriza debido al elevado número de víctimas en el interior. Se observa que el techo no colapsó, permitiendo numerosos accesos y rutas de extracción potencialmente sencillas.
+    *   **Coordinación simultánea:** Se coordina la movilización del primer camión con la extracción del conductor del segundo camión, que está empotrado contra el primero.
+8.  **Acceso al autobús:** Se introduce un equipo médico para la evaluación y triaje de las víctimas, se evalúan riesgos, se crean espacios interiores, se retiran asientos y se establecen nuevas rutas de extracción.
+9.  **Excarcelación de víctimas:** Se procede a la excarcelación de las víctimas atrapadas.
+10. **Excarcelación del conductor del camión:** Si los equipos no son necesarios en la excarcelación del autobús, el enfoque se traslada al conductor del camión, que se encuentra estable.
+    *   La excarcelación se realiza por la puerta del conductor, con retirada de puerta y posible abatimiento del salpicadero, siguiendo las técnicas de abordaje y excarcelación para vehículos pesados (camiones).
+    *   La extracción se efectúa con tablero, siguiendo las técnicas de extracción con tablero.
+11. **Evaluación continua:** El mando de la intervención lleva a cabo una evaluación continua, especialmente crítica en estos incidentes por la importancia de la logística, el avituallamiento, los relevos por cansancio y la organización general. El mando de mayor graduación integra el PMA y dirige sus operaciones.

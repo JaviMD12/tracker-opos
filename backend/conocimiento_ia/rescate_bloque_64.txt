@@ -1,56 +1,130 @@
-## Caracterización de Accidentes de Tráfico y Mecánica de la Colisión
+## Temario de Oposiciones de Bomberos y Emergencias: Rescate y Salvamento
 
-Los accidentes de tráfico representan un fenómeno de gran relevancia social, dado que la Organización Mundial de la Salud (OMS) estima una cifra anual de 1.2 millones de fallecimientos a nivel global, previendo que se conviertan en la tercera causa de muerte. Además del impacto humano, conllevan un coste económico significativo, que puede alcanzar hasta el 2% del Producto Interno Bruto (PIB) en países desarrollados. Estos siniestros pueden originarse por fallos en la conducción, condiciones desfavorables de la vía o problemas mecánicos del vehículo.
+### Parte 5: Rescate en Accidentes de Tráfico
 
-### Mecánica Fundamental de la Colisión
+#### Capítulo 1: Caracterización
 
-La **teoría de la colisión** explica los fenómenos físicos que ocurren durante un impacto. En esencia, un accidente es el resultado de una secuencia de eventos que involucran al conductor, el vehículo y el entorno vial.
+**1. Tipología de Accidentes y Lesiones Más Frecuentes**
 
-1.  **Inercia:** Es la propiedad de la materia que explica la tendencia de un cuerpo en movimiento a continuar su estado o de un cuerpo en reposo a permanecer inmóvil, a menos que una fuerza externa actúe sobre él. En un choque, la inercia provoca que el vehículo continúe su movimiento o que sus ocupantes se desplacen bruscamente, incluso tras el impacto inicial.
-2.  **Energía Cinética:** Todo cuerpo en movimiento posee energía cinética, la cual es su capacidad para realizar trabajo. En una colisión, esta energía se libera abruptamente mediante una **deceleración** intensa. La energía cinética se transforma en trabajo de deformación de los materiales y en calor. La magnitud de esta energía aumenta con la masa del vehículo y, de forma exponencial, con el cuadrado de su velocidad.
-    *   Las **colisiones elásticas** son aquellas en las que se conserva la energía cinética total del sistema y no se producen deformaciones significativas.
-    *   Por el contrario, las **colisiones inelásticas** implican que una parte de la energía cinética inicial se absorbe en la deformación de los vehículos y se disipa en forma de calor.
-3.  **Transmisión de Fuerzas:** Las fuerzas generadas en una colisión se propagan a lo largo de la carrocería del vehículo, generando diversas deformaciones.
-    *   La **transmisión por diseño estructural** se refiere a cómo la carrocería está concebida para desviar y absorber las fuerzas. Por ejemplo, en impactos frontales, el diseño del frontal puede actuar como una "quilla de barco" para desplazar el objeto lateralmente y reducir el efecto directo del golpe sobre los ocupantes. En colisiones desaxiales (no completamente frontales), los largueros longitudinales, la traviesa inferior y la cuna del motor contribuyen a absorber la energía.
-    *   La **transmisión por dirección del impacto** provoca la mayoría de las deformaciones laterales, especialmente en colisiones donde los vehículos se mueven en direcciones diferentes o cuando uno de ellos patina en superficies resbaladizas.
+**1.1. Definición y Condiciones (Teoría de la Colisión)**
 
-### Clasificación de Accidentes de Tráfico
+**1.1.1. Elementos Involucrados en el Accidente**
 
-Los accidentes de tráfico se pueden categorizar según varios criterios:
+Un accidente vial se concibe como el desenlace de una cadena de eventos, condiciones y comportamientos. Los factores determinantes son el conductor, el vehículo, la vía y el entorno circundante. El comportamiento del conductor puede adaptarse a la utilización de los otros elementos para optimizar su beneficio.
 
-1.  **Por Situación Geográfica:**
-    *   **Accidentes Urbanos:** Ocurren dentro del casco urbano, incluyendo travesías.
-    *   **Accidentes Interurbanos:** Se producen en vías fuera de los núcleos urbanos, como carreteras nacionales, comarcales o autopistas.
-        *   Estadísticamente, el 75% de las víctimas mortales en vías interurbanas se producen en carreteras convencionales de una única calzada y doble sentido. Aunque las autopistas y autovías soportan un mayor volumen de tráfico, el riesgo de accidente es más alto en las vías convencionales. Las cifras en España indican que el 58% de los accidentes con víctimas ocurren en zonas urbanas y el 42% en interurbanas; sin embargo, el 73% de las víctimas mortales se registran en vías interurbanas.
-2.  **Por Consecuencias o Daños:**
-    *   **Mortales:** Aquellos en los que al menos una persona fallece en el lugar del accidente o dentro de las 24 horas siguientes.
-    *   **Con Víctimas:** Implican una o varias personas heridas, ya sean **graves** (requieren hospitalización superior a 24 horas) o **leves** (no se ajustan a la definición de herido grave).
-    *   **Solo con Daños Materiales:** No hay fallecidos ni heridos, únicamente daños a la propiedad (vehículos, infraestructura pública o privada).
-3.  **Por Número de Vehículos Implicados:**
-    *   **Simples:** Involucran un solo vehículo.
-    *   **Complejos:** Participan dos o más vehículos, o un vehículo y al menos un peatón.
-4.  **Por Tipo de Vehículo Implicado:** Los turismos representan el 67% del parque automovilístico y están implicados en el 80% de los accidentes con víctimas, así como en el 43% de los fallecimientos. En contraste, el 23% del total de víctimas mortales son peatones.
-    *   **Bicicletas:** 7% de accidentes con víctimas, 4% de fallecidos.
-    *   **Ciclomotores:** 8% de accidentes con víctimas, 3% de fallecidos.
-    *   **Motocicletas:** 22% de accidentes con víctimas, 18% de fallecidos. El 62% de estas son colisiones con otros vehículos, y dos tercios ocurren en zonas urbanas, donde se registra el 33% de los fallecimientos por motocicleta.
-    *   **Turismos:** 80% de accidentes con víctimas, 43% de fallecidos. Las colisiones frontales-laterales (24%) y las salidas de vía (19%) son las más frecuentes, con aproximadamente la mitad (58%) ocurriendo en zonas urbanas.
-    *   **Vehículos de Mercancías:** 13% de accidentes con víctimas, 7% de fallecidos.
-    *   **Autobuses:** 2% de accidentes con víctimas, 1% de fallecidos.
-    *   **Colisión entre turismo y vehículo pesado:** Más del 75% de las víctimas mortales son peatones u ocupantes del otro vehículo. El vehículo pesado tiende a absorber el impacto, protegiendo a sus ocupantes. Una colisión frontal de un turismo contra un vehículo pesado conlleva una probabilidad de muerte del 86% para el ocupante del turismo. Los conductores de vehículos pesados tienen un 66% de probabilidades de supervivencia y un 3% de fatalidad. En más del 90% de los casos, las muertes en turismos se deben al aplastamiento por la estructura del propio vehículo, mientras que menos del 10% son por eyección.
-        *   La **incompatibilidad geométrica** entre turismos y vehículos pesados, donde el turismo puede introducirse bajo el pesado (75% de los casos), provoca que el impacto se produzca contra zonas menos protegidas del turismo. Se ha propuesto la instalación de barras anti-empotramiento a 45 cm del suelo y 40 cm del frontal de los camiones para mitigar esto.
-        *   La **diferencia de masas** entre vehículos pequeños (1000 kg) y pesados (38000 kg) genera deceleraciones extremas para los turismos (por ejemplo, de 80 km/h a 60 km/h en 120-200 milisegundos).
-        *   En colisiones entre vehículos pesados de tipo similar, la deformación es mínima, pero la deceleración para los ocupantes es excesiva. La presencia de **sustancias peligrosas** transportadas aumenta el riesgo.
+**1.1.2. Fuerzas Intervinientes**
 
-5.  **Por el Modo en que se Producen:**
-    *   **Choque:** Impacto de un vehículo en movimiento contra un objeto fijo (árbol, muro, valla) o un objeto estacionado/abandonado en la vía. El 36% de los fallecimientos son por salida de vía, seguidos por colisiones frontales y frontales-laterales (18% y 15%). Los atropellos de peatones representan el 12% de las muertes en carretera.
-    *   **Salidas de Vía:** El vehículo abandona la calzada, con o sin vuelco.
-    *   **Atropellos:** Colisión de un vehículo con un peatón, ciclista o ciclomotor.
-    *   **Colisión:** Encuentro violento entre dos o más vehículos en movimiento. Pueden ser:
-        *   **Frontales:** Los ejes longitudinales de los vehículos coinciden (central) o son paralelos pero no coincidentes (excéntricas), o forman un ángulo inferior a 90º (angulares). En una colisión frontal, la parte delantera del vehículo se deforma, los largueros se desvían hacia abajo y las torretas de suspensión se elevan. La sección central y trasera continúan el movimiento por inercia, el pilar delantero empuja hacia atrás, y la sección central resiste la deformación, provocando deformaciones en el techo, la luna trasera y las puertas.
-        *   **Laterales:** La colisión ocurre en el lateral del vehículo. La deformación inicial es seguida por el desplazamiento de la sección central y la resistencia de las secciones extremas, lo que provoca un acortamiento de la longitud lateral del vehículo.
-        *   **Alcance o Colisión Trasera:** Un vehículo golpea por detrás a otro en la misma dirección. La secuencia implica la deformación de la parte trasera del vehículo, desviación de largueros y suelo del maletero hacia abajo, resistencia de la sección central, elevación de la luna trasera y techo, y desalineamiento de la carrocería.
-        *   **Reflejas:** Colisiones sucesivas entre los mismos vehículos implicados.
-        *   **Por Raspado:** Roce lateral entre vehículos, clasificados como positivos (sentidos contrarios) o negativos (misma dirección).
-    *   **Vuelco:** El vehículo se golpea contra el suelo y otros objetos a su paso. Complicado para la excarcelación. Puede ser de campana (giro longitudinal), de tonel (giro transversal) o lateral/total (apoyado de lado o sobre el techo). En un vuelco, la esquina de la sección central impacta primero, produciendo deformaciones. El área inferior puede desalinearse si la fuerza externa es grande.
+Cada tipo de vehículo requiere un protocolo específico para la recuperación de sus deformaciones estructurales. Sin embargo, todas las carrocerías exhiben patrones de comportamiento y respuesta comunes. Una colisión se define como un contacto abrupto entre dos o más cuerpos en un lapso muy breve, que altera su movimiento debido a la energía generada por las fuerzas implicadas.
 
-Estas clasificaciones son cruciales para entender la complejidad de cada incidente y diseñar la intervención de rescate más adecuada y segura.
+*   **a) Inercia:** La ley de la inercia, que rige la tendencia de un cuerpo en movimiento a seguir en movimiento y de uno en reposo a permanecer en reposo, ejerce una influencia considerable en los daños del vehículo. En un choque, la inercia provoca que el vehículo continúe su trayectoria.
+
+*   **b) Energía Cinética:** Cualquier objeto en movimiento posee la capacidad de realizar trabajo y, por ende, energía cinética. Esta energía se disipa abruptamente con la deceleración del impacto, transformándose en trabajo que proyecta a los ocupantes hacia adelante. La energía cinética aumenta con la masa y, significativamente, con el cuadrado de la velocidad.
+
+    *   **Choques Elásticos:** La energía cinética total del sistema se mantiene después del impacto, sin que se produzcan deformaciones.
+    *   **Choques Inelásticos:** Parte de la energía cinética inicial se emplea en deformaciones y disipación de calor.
+
+**1.1.3. Transmisión de Fuerzas**
+
+Las fuerzas resultantes de una colisión se propagan a través de la carrocería, causando daños. La transmisión de estas fuerzas está supeditada al diseño estructural de la carrocería y a la dirección del impacto.
+
+*   **a) Transmisión por Diseño Estructural:** El diseño de la carrocería es el principal factor de las desviaciones verticales (hacia arriba o hacia abajo) en una colisión. Este efecto se busca en muchos casos para contener el impacto y evitar la transmisión de fuerzas extremas. El frontal del vehículo opera como la quilla de un barco, desviando el objeto hacia los laterales y reduciendo los efectos de un impacto directo. Es beneficioso que el lado opuesto al impacto contribuya a la absorción de energía en colisiones desaxiales, lo que se logra con largueros, traviesa inferior, cuna o puente motor adecuadamente configurados.
+
+*   **b) Transmisión por Dirección del Impacto:** Este tipo de transmisión es responsable de la mayoría de las deformaciones laterales. Ocurre cuando dos o más vehículos se impactan en direcciones diferentes o cuando el vehículo pierde su alineación por resbalamiento en superficies resbaladizas.
+
+**1.2. Clases de Accidentes de Tráfico**
+
+La categorización única de accidentes de tráfico es compleja debido a la multiplicidad de criterios. Las clasificaciones habituales incluyen: situación geográfica, consecuencias/daños, número de vehículos implicados, forma de producción, características especiales y otros criterios (día, hora, actividad, tipo de mercancía transportada).
+
+**1.2.1. Situación Geográfica**
+
+*   **a) Accidentes Urbanos:** Ocurren en calles o vías dentro de un casco urbano. Una variante específica son los accidentes en travesías.
+
+*   **b) Accidentes Interurbanos:** Originados en vías interurbanas.
+    *   Se clasifican por tipo de carretera: nacional, comarcal, autopista.
+    *   También por el trazado de la vía: cruce, curva, cambio de rasante.
+    *   Se distingue entre vías de alta capacidad (autopistas y autovías) y el resto de vías (convencionales).
+    *   El 75% de las muertes en carretera se producen en "otras vías", principalmente carreteras convencionales de una sola calzada y doble sentido.
+    *   Aunque autopistas y autovías soportan mayor volumen de tráfico, el riesgo de accidente es mayor en vías convencionales.
+    *   Estadísticas españolas de la DGT (2013) indican un reparto homogéneo de accidentes con víctimas (58% urbanos, 42% interurbanos), pero la severidad difiere: el 73% de fallecidos se registra en vías interurbanas.
+
+**1.2.2. Consecuencias/Daños**
+
+*   **a) Accidentes Mortales:** Aquellos que causan el fallecimiento de una o varias personas en los 30 días posteriores al suceso. Se considera muerte en el acto si ocurre en las primeras 24 horas.
+
+*   **b) Accidentes con Víctimas:** Implican heridos o muertos.
+    *   **Herido:** Persona no fallecida con heridas graves o leves.
+    *   **Herido Grave:** Requiere hospitalización superior a 24 horas.
+    *   **Herido Leve:** No cumple la definición de herido grave.
+
+*   **c) Accidentes Solo con Daños Materiales:** No hay muertos ni heridos, solo daños a la propiedad del vehículo o a bienes públicos o privados.
+
+**1.2.3. Número de Vehículos Implicados**
+
+*   **a) Accidentes Simples:** Implican un único vehículo.
+
+*   **b) Accidentes Complejos:** Implican dos o más vehículos, o un vehículo y un peatón.
+
+**1.2.4. Tipo de Vehículos Implicados**
+
+La distribución porcentual de accidentes con víctimas y víctimas mortales, según el tipo de vehículo implicado (DGT, 2013), se muestra en la siguiente tabla:
+
+| Tipo de Vehículo         | % Accidentes con Víctimas | % Víctimas Mortales |
+| :----------------------- | :------------------------ | :------------------ |
+| Bicicleta                | 7%                        | 4%                  |
+| Ciclomotor               | 8%                        | 3%                  |
+| Motocicleta              | 22%                       | 18%                 |
+| Turismo                  | 80%                       | 43%                 |
+| Vehículos de mercancías  | 13%                       | 7%                  |
+| Autobús                  | 2%                        | 1%                  |
+
+*Nota: La suma de porcentajes puede superar el 100% debido a la inclusión de varios subepígrafes en un mismo accidente.*
+
+Además, el 23% del total de víctimas mortales son peatones.
+
+Los tipos de accidentes varían según los vehículos involucrados:
+
+*   **a) Colisión entre Turismo y Vehículo de Dos Ruedas:**
+    *   Las motocicletas están implicadas en el 22% del total de accidentes con víctimas.
+    *   La colisión con otros vehículos es el tipo de accidente más frecuente (62%).
+    *   Dos de cada tres accidentes con motocicletas ocurren en zonas urbanas, donde se registra el 33% de los fallecimientos.
+
+*   **b) Colisión entre Turismos:**
+    *   Los turismos representan aproximadamente el 67% del parque automovilístico, participan en el 80% de los accidentes con víctimas y el 43% de los fallecidos.
+    *   Las colisiones fronto-laterales (24%) y salidas de vía (19%) son los tipos más frecuentes.
+    *   Casi la mitad (58%) de estos sucesos ocurren en zonas urbanas.
+
+*   **c) Colisión entre Turismo y Vehículo Pesado:**
+    *   Más del 75% de las víctimas mortales son peatones o ocupantes de los vehículos contrarios.
+    *   El vehículo autoportante absorbe el impacto en estas colisiones.
+    *   La colisión frontal entre un vehículo pesado y un turismo es de alto riesgo para el turismo.
+    *   La probabilidad de muerte del conductor del turismo es del 86%.
+    *   Los conductores de vehículos pesados tienen un 66% de probabilidades de salir ilesos y un 3% de fallecimiento.
+    *   En más del 90% de los accidentes, las muertes o lesiones de los ocupantes del turismo se deben al aplastamiento por la estructura del vehículo, y menos del 10% a eyecciones.
+
+*   **Incompatibilidad Geométrica:** La severidad del accidente difiere si el turismo penetra en los bajos del vehículo pesado.
+    *   Esto ocurre en casi el 75% de los casos.
+    *   La consecuencia es que el turismo no colisiona con la parte frontal (diseñada para absorción de energía) sino con el parabrisas y el habitáculo de pasajeros, lo que agrava las consecuencias.
+    *   Para mitigar esta incompatibilidad, se ha propuesto instalar una barra anti-empotramiento en vehículos pesados a 45 cm del suelo y 40 cm del frontal del camión, impidiendo que el turismo llegue aplastado al eje o impacte con las ruedas direccionales.
+
+*   **Falta de Carenado:** La ausencia de carenado en vehículos grandes crea "huecos" por donde vehículos pequeños pueden penetrar, resultando en aplastamiento o impacto directo con el compartimento de pasajeros.
+
+*   **Incompatibilidad Estructural:** Los vehículos "pequeños" y "grandes" presentan incompatibilidades estructurales.
+    *   Los turismos modernos utilizan carrocerías monobloque de chapa doblada, no elementos rígidos basados en largueros.
+    *   Los fabricantes cumplen el reglamento 33 de Ginebra, que exige que el vehículo se deforme frontalmente a 48 km/h. Algunos incluso cumplen requisitos de choque lateral.
+    *   Los vehículos industriales tienen una estructura rígida, por lo que la energía de deformación en un impacto repercute en el turismo. Un porcentaje de energía se traduce en movimientos post-colisión.
+    *   Se propone que el dispositivo anti-empotramiento sea deformable y absorba energía.
+
+*   **Diferencia de Masas:** La gran diferencia de masa entre turismos (~1.000 kg) y vehículos pesados (~38.000 kg) es un problema sin solución actual, generando inercias muy dispares.
+    *   Un turismo a 80 km/h es arrastrado en sentido contrario a 60 km/h en 120-200 milisegundos.
+    *   Aunque los ocupantes del turismo puedan sobrevivir al aplastamiento, la deceleración brusca supera los límites de tolerancia del cuerpo humano.
+    *   Al conductor del camión no le suele ocurrir nada.
+
+*   **d) Colisión entre Vehículos Pesados:** La colisión entre vehículos del mismo tipo apenas produce deformación, pero genera una deceleración excesiva para los ocupantes.
+    *   Un riesgo importante son las sustancias peligrosas transportadas.
+    *   Si la carga se ve afectada, puede haber daños materiales, fugas, derrames, incendios y explosiones.
+
+**1.2.5. Modo en que se Producen**
+
+*   **a) Choque:** Es el tipo de accidente que más víctimas mortales produce en carretera (36% de las muertes), seguido de la colisión frontal y fronto-lateral (18% y 15% de fallecimientos, respectivamente) (DGT, 2013).
+    *   Se produce cuando el vehículo impacta contra elementos fijos de la vía (árboles, muros, vallas) o contra objetos no parte de la infraestructura que se encuentran en la vía (neumáticos, vigas, troncos, rocas).
+    *   También se considera choque el impacto violento entre un vehículo en movimiento y uno estacionado o abandonado.

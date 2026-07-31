@@ -1,41 +1,191 @@
-## Caracterización de Elementos de Cubiertas y Enlace en la Edificación
+## Temario de Oposiciones de Bomberos y Emergencias: Riesgos Tecnológicos y Asistencias Técnicas - Estabilización de Edificaciones (Parte 1, Capítulo 5)
 
-La comprensión de la estructura de las edificaciones es crucial para las operaciones de emergencia, especialmente en el contexto de intervenciones de bomberos. Un análisis detallado de los elementos de cubiertas y sistemas de enlace, junto con la normativa aplicable, proporciona la base para una actuación eficiente y segura.
+### 5. Estabilización de Rotación de Fachada desde el Interior de la Edificación
 
-### Cubiertas Inclinadas
+Se aborda el caso de un edificio de apartamentos antiguo, ubicado en un centro histórico, que experimenta una rotación externa en un muro de carga de fachada. Esta rotación es consecuencia del empuje horizontal de una cubierta de madera, lo que genera un riesgo considerable de colapso hacia la vía pública.
 
-Las cubiertas inclinadas, comúnmente conocidas como tejados, se caracterizan por sus planos inclinados o faldones, diseñados para evacuar rápidamente el agua hacia el exterior. Estos sistemas pueden ser de madera o de hormigón.
+#### a) Análisis Estructural
 
-En el caso del **hormigón**, las cubiertas inclinadas se configuran mediante forjados inclinados que siguen principios constructivos similares a los forjados horizontales. Se distinguen dos modalidades principales: los forjados **unidireccionales**, donde los faldones se construyen con viguetas, bovedillas y una capa de compresión, apoyándose sobre jácenas que transfieren las cargas a pilares o muros; y los forjados **bidireccionales**, compuestos por losas macizas o aligeradas con casetones, que se apoyan tanto en muros como en pilares. Además, se emplean **láminas de hormigón**, material tradicionalmente escogido para casquetes y láminas estructurales debido a su versatilidad para adoptar cualquier forma, incluso con secciones mínimas frente a grandes luces.
+**Fase 0: Condición pre-patología (viga articulada-articulada)**
+En esta etapa inicial, se registra un estado estructural hiperestático de grado 1, caracterizado por:
+*   Grados de Libertad Externos (GDLE): 3
+*   Coacciones Externas (CE): 6
+*   Grados de Libertad Internos (GDLI): 6
+*   Coacciones Internas (CI): 4
+*   Relación GDL - C: 9 - 10 = 1
 
-Por otro lado, las cubiertas inclinadas de **fábrica** pueden ser **autoportantes o bóvedas**, elementos estructurales curvos que cubren espacios entre muros o pilares alineados. Su geometría se genera por la traslación o giro de un arco generatriz. Se clasifican en sencillas (con una sola generatriz, como las de cañón o cañón apuntado) o complejas (con varias generatrices, como las de arista o nervadas). El principal desafío estructural de las bóvedas radica en las deformaciones horizontales de sus arranques, requiriendo refuerzos como tirantes o contrafuertes. Las cúpulas, por su parte, suelen disponer sus arriostramientos en un tambor basal. También existen cubiertas de fábrica **no autoportantes**, construidas sobre tabiques palomeros o conejeros dispuestos sobre el último forjado con la pendiente deseada, utilizando rasillones machihembrados como soporte final para el material de cubrición, típicamente tejas sobre mortero. Este método busca optimizar costos y tiempos de ejecución al ofrecer una solución estructural ligera que facilita la ventilación.
+**Fase 1: Inicio de la patología (desconexión de la cubierta y muro)**
+Se considera el inicio de la inestabilidad debido a la desconexión entre la cubierta interior vertical y el muro, sin rotación apreciable en la fachada, que aún se mantiene empotrada en su base. El estado estructural es isostático:
+*   Grados de Libertad Externos (GDLE): 3
+*   Coacciones Externas (CE): 4
+*   Grados de Libertad Internos (GDLI): 3
+*   Coacciones Internas (CI): 2
+*   Relación GDL - C: 6 - 6 = 0
 
-### Cubiertas Planas
+**Fase 2: Patología actual (rotación del muro de fachada)**
+La inestabilidad ha progresado debido a la desconexión adicional de la cubierta con el muro vertical interior y la rotación del muro de fachada por fallo en su empotramiento basal. Esto conduce a un mecanismo:
+*   Grados de Libertad Externos (GDLE): 3
+*   Coacciones Externas (CE): 3
+*   Grados de Libertad Internos (GDLI): 3
+*   Coacciones Internas (CI): 2
+*   Relación GDL - C: 6 - 5 = 0
 
-Las cubiertas planas, también llamadas terrazas o azoteas, son superficies sensiblemente horizontales diseñadas para recoger y evacuar el agua a través de sumideros y bajantes.
+El análisis estructural revela que, aunque inicialmente el muro era hiperestático, un fallo limitado en la cubierta lo convertiría en isostático. Sin embargo, el fallo del muro de fachada en la Fase 2 lo convierte en un mecanismo inminente. El objetivo del apeo es estabilizar la rotación del muro.
 
-Cuando se construyen con **hormigón**, tanto el soporte (forjado) como la capa de formación de pendientes se fabrican con este material. Aunque el soporte suele estar armado, la capa de pendientes puede no requerir armadura. En las cubiertas planas de **fábrica**, la estructura de cobertura es similar a la de las inclinadas sobre tabiques palomeros, pero con diferencias en la altura y pendiente de los tabiques. Un ejemplo distintivo es la **cubierta a la catalana**, una cubierta fría característica de climas cálidos y húmedos, que incorpora una cámara de aire ventilada para atenuar las altas temperaturas. Finalmente, las cubiertas **metálicas** planas, conocidas comercialmente como "Cubiertas Deck", son ligeras (inferiores a 10 kg/m²) y se construyen de manera análoga a los forjados metálicos. Son comunes en plantas industriales y a menudo se complementan con aislamiento termoacústico y una membrana impermeabilizante. Su diseño permite la instalación de maquinaria y el tránsito para mantenimiento.
+#### b) Causas
+La rotación del muro se debe al fallo de las uniones entre la cubierta y los muros, provocado por la pudrición de las viguetas de madera. Esta situación es el resultado de una patología continua, intensificada por las sobrecargas de nieve y viento, y la falta de mantenimiento.
 
-### Elementos de Enlace
+#### c) Objetivos
+El objetivo principal es detener la rotación del muro de carga afectado. Esto implica evacuar a los residentes, cerrar el acceso a la zona de la calle bajo riesgo de colapso para proteger a peatones y usuarios de la edificación.
 
-Los elementos de enlace son sistemas constructivos esenciales para la comunicación vertical dentro de un edificio, asegurando comodidad y seguridad para los usuarios. En situaciones de emergencia, es fundamental que estos sistemas, especialmente escaleras y rampas, puedan funcionar sin depender de un suministro energético externo. La normativa que rige estos elementos es amplia, destacando el Código Técnico de la Edificación (CTE) en sus Documentos Básicos de Seguridad de Utilización y Accesibilidad (DB SUA1) y Seguridad en caso de Incendio (DB SI3).
+### 4. Amenaza de Mecanismo en Vivienda Elevada
 
-#### Escaleras
+Se examina una casa unifamiliar de una sola planta, de construcción reciente, con forjados unidireccionales de hormigón armado y bovedillas cerámicas en los cerramientos interiores y exteriores de ladrillo cerámico. La vivienda se asienta sobre pilares de acero de más de 6 metros de altura y sección reducida, en un terreno expansivo y con una pendiente pronunciada, sin estructura de contención.
 
-Las escaleras son estructuras fijas compuestas por una sucesión de escalones que permiten salvar desniveles entre plantas. Sus **elementos estructurales** básicos incluyen zancas (vigas inclinadas de hormigón o acero que recogen las cargas), tableros o forjados (losas macizas sobre las que se apoya el peldaño), y antiguamente, arcos, bóvedas o losas. Los **elementos de revestimiento** comprenden los peldaños (piezas de mármol, cerámica o madera) y el zanquín o zócalo (pieza lateral que cubre la unión del peldaño con el paramento). En cuanto a los **elementos de protección**, se destacan las barandillas, que evitan caídas, y los pasamanos, obligatorios en escaleras que salvan más de 55 cm de altura. Se requieren pasamanos en ambos lados si el ancho libre supera 1,20 m, o si no hay ascensor alternativo. Los pasamanos intermedios son necesarios si el ancho excede los 4 m (con una separación máxima de 4 m), a excepción de escalinatas monumentales. La altura de los pasamanos debe estar entre 90 y 110 cm.
+Tras varias semanas de lluvias intensas, los habitantes han percibido crujidos continuos. El incidente se desencadenó por el desprendimiento de las cruces de San Andrés que estabilizan los pilares, a causa del movimiento del terreno por las precipitaciones.
 
-La **geometría de los escalones** se regula para garantizar la comodidad y seguridad. En escaleras de tramos rectos, la huella (H) debe ser de 28 cm como mínimo, y la contrahuella (C) entre 13 y 18,5 cm, cumpliendo la relación geométrica 54 cm ≤ 2C + H ≤ 70 cm. En **escaleras de evacuación**, se prohíbe el bocel en tramos ascendentes y las tabicas son obligatorias. Para **escaleras de tramos curvos**, las huellas se miden a 50 cm del borde interior, con una dimensión útil mínima de 17 cm y máxima de 44 cm en el tramo exterior.
+#### a) Esquema Estructural
 
-Las **mesetas** deben tener un ancho mínimo igual al de la escalera y una longitud mínima de 1 m en tramos de la misma dirección. En cambios de dirección, el ancho de la escalera no debe reducirse.
+**Visita 1: Situación actual**
+El análisis inicial del Jefe de Guardia (JG) revela una estructura dañada, pero estable (hiperestática). Los parámetros son:
+*   N: 6 (número de barras)
+*   GDLE: 3
+*   CE: 6
+*   GLI: 3(N-1) = 15
+*   CI: 15
+*   GL = 18
+*   C = 21
+*   Conclusión: GL < C, lo que indica una estructura hiperestática.
+El JG determina que la estructura es aparentemente isostática y segura para operar. El resultado final es una estructura hiperestática, lo que sugiere estabilidad y seguridad para los ocupantes, una vez recolocadas las cruces de San Andrés mediante soldadura.
 
-Desde la perspectiva de **protección contra incendios** (CTE DB SI3), las escaleras se clasifican en:
-*   **Escaleras abiertas:** sin protección contra incendios.
-*   **Escaleras compartimentadas:** comunican dos sectores y sus elementos (paredes y puertas) tienen resistencia al fuego (EI). No requieren ventilación y su recorrido en planta de salida debe ser inferior a 15 m.
-*   **Escaleras protegidas:** cumplen condiciones de seguridad (sectorización EI 120), con accesos desde espacios comunes con puertas EI2 60-C5 y recorrido en planta de salida inferior a 15 m. La protección frente al humo puede ser por ventilación natural, conductos de aire o sistemas de presión diferencial (EN 12101-6:2005).
-*   **Escaleras especialmente protegidas:** añaden un vestíbulo de independencia en cada acceso, excepto en la planta de salida para evacuación ascendente.
+**Visita 2: Tras reparaciones iniciales**
+Dos meses después de la intervención del JG, se solicita nuevamente la presencia de bomberos debido a nuevos movimientos y un aumento de vibraciones. El JG observa un descalce parcial de la cimentación de la pasarela de acceso y grietas en las vigas laterales de la misma, con movimientos notables al cruzarla, lo que indica riesgo de derrumbe. También se detecta una pequeña rotación en los pilares de la vivienda (coronación y base).
+El análisis estructural posterior indica una disminución clara de la estabilidad, convirtiéndose el sistema en isostático. La pasarela dañada, si se rompe, transformaría la estructura en un mecanismo, poniendo en peligro a los ocupantes.
+*   N: 6 (número de barras)
+*   GDLE: 3
+*   CE: 4
+*   GLI: 3(N-1) = 15
+*   CI: 11
+*   GL = 18
+*   C = 15
+*   Conclusión: GL > C, indicando una estructura hipostática (mecanismo).
+El JG concluye que, aunque el nivel de seguridad ha disminuido, la estructura sigue siendo hiperestática. Se procede a reinstalar las cruces de San Andrés.
 
-Finalmente, las **escaleras abiertas al exterior** se consideran especialmente protegidas si disponen de huecos permanentemente abiertos al exterior (superficie mínima de 5A m², donde A es la anchura del tramo), sin necesidad de vestíbulos de independencia.
+#### b) Causas
+La estabilización general de la vivienda ha fallado. Las cruces de San Andrés se han roto por insuficiencia de resistencia, debido al empuje del terreno causado por las lluvias, lo que ha mermado la seguridad estructural. El fallo del arriostramiento ha provocado el descalce de la cimentación de la pasarela de acceso, que ha pasado de ser un empotramiento a una articulación. Las rotaciones de la zapata han seccionado la estructura horizontal de la pasarela, generando un riesgo significativo de cizallamiento o ruina.
 
-#### Rampas
+#### c) Estimación de Cargas y Factores Condicionantes
 
-Las **rampas** son planos inclinados que permiten un desplazamiento continuo. El CTE DB SUA establece prescripciones específicas para su geometría: una longitud máxima de 15 m (9 m para itinerarios accesibles) y una pendiente general entre 4% y 12%. Para itinerarios accesibles, la pendiente máxima es 3% (para longitudes menores de 3 m) o 6% (para longitudes menores de 6 m). Las mesetas en tramos de la misma dirección deben tener un ancho igual al de la rampa y una longitud mínima de 1,5 m. Además, si la altura salvada supera los 550 mm y la pendiente es igual o mayor al 6%, deben contar con un pasamanos continuo en al menos un lado, situado entre 0,90 y 1,10 m de altura. A diferencia de las escaleras, el CTE DB SI no contempla una modalidad específica de rampa protegida para evacuación en caso de incendio.
+*   **VIVIENDA**:
+    *   **Acciones permanentes (peso propio)**: No representan un problema grave para la estabilidad. Los pilares son demasiado esbeltos y no tienen sección suficiente para soportar solo su propio peso.
+    *   **Acciones variables (sobrecarga de uso)**: No forman parte de la patología y no requieren apeo.
+
+*   **TERRENO**:
+    *   **Acciones permanentes (empuje del terreno)**: Se estima en 5 kN por metro de profundidad para arcillas.
+    *   **Tabla 35. Empuje del terreno**:
+        *   | Profundidad | Arcilla (kN/m²) | Grava/arena (kN/m²) |
+        *   | :---------- | :------------- | :----------------- |
+        *   | 1 m         | 4.9            | 3.3                |
+        *   | 2 m         | 9.8            | 6.7                |
+        *   | 3 m         | 14.7           | 10                 |
+    *   **Acciones variables (expansividad del suelo)**: No es posible calcular este valor de forma fiable.
+
+#### d) Objetivos
+El objetivo es corregir el desplazamiento horizontal previsible de la vivienda para evitar un mecanismo. Una vez estabilizado, se construirá un muro de contención para que el empuje del terreno no afecte a la estructura.
+
+#### e) Dónde Apuntalar
+Hay dos áreas de trabajo potenciales:
+*   En la pasarela dañada, que actúa como punto de anclaje para todo el conjunto.
+*   En la fachada de la vivienda, donde se produciría el vuelco.
+
+#### f) Técnicas Disponibles
+
+*   **Soluciones inviables**:
+    *   **Apeo estandarizado para muros**: No adaptable a pilares de acero, inviable técnicamente. El terreno es expansivo.
+    *   **Arriostramiento con medios de emergencia**: Descartado debido a que el empuje del terreno ya ha afectado elementos de mayor sección y resistencia.
+
+*   **Soluciones posibles**:
+    *   **Reparación urgente de la viga dañada de la pasarela**: Implica acoplar viga y tablones mediante embridado o cintas de carraca. Requiere exponer la viga, lo cual no siempre es factible.
+    *   **Seguridad reducida (conjunto isostático)**: La vivienda no puede ser reocupada hasta implementar medidas definitivas.
+
+### 5. Empujes sobre Estructura por Acciones Accidentales
+
+Se describe un incendio en un pabellón polideportivo que afectó la cubierta. La estructura está compuesta por vigas trianguladas de acero, separadas cada seis metros y articuladas sobre muros de carga de fábrica. El fuego provocó la rotura de uno de los tirantes y el inicio de la rotación en un muro de la fachada, generando un riesgo de caída sobre una vía pública concurrida. Se requiere la intervención urgente de bomberos para evaluar la situación.
+
+#### a) Esquema Estructural
+
+**Fase 0: Condición pre-patología (viga triangulada articulada)**
+El estado inicial del pórtico es articulado-articulado, clasificado como hiperestático de grado 3:
+*   Grados de Libertad Externos (GDLE): 3
+*   Coacciones Externas (CE): 6
+*   Grados de Libertad Internos (GDLI): 36
+*   Coacciones Internas (CI): 34
+*   Relación GDL - C: 39 - 40 = 1
+
+**Fase 1: Rotura de un tirante**
+La rotura de uno de los tirantes de la viga triangulada transforma el sistema en isostático:
+*   Grados de Libertad Externos (GDLE): 3
+*   Coacciones Externas (CE): 6
+*   Grados de Libertad Internos (GDLI): 33
+*   Coacciones Internas (CI): 30
+*   Relación GDL - C: 36 - 36 = 0
+En esta fase, la estructura sigue siendo estable, aunque con un grado mínimo de seguridad.
+
+**Fase 2: Patología actual (rotación del muro y ruptura de la base)**
+La rotación del muro de apoyo y la ruptura de su base, combinadas con los desplazamientos horizontales en la articulación del extremo derecho, convierten el nudo en un apoyo simple. La estructura se convierte en un mecanismo:
+*   Grados de Libertad Externos (GDLE): 3
+*   Coacciones Externas (CE): 5
+*   Grados de Libertad Internos (GDLI): 33
+*   Coacciones Internas (CI): 30
+*   Relación GDL - C: 36 - 35 = 1
+
+La rotación del muro de carga transforma su base en un apoyo simple. El objetivo del apeo es estabilizar esta rotación.
+
+#### b) Causas
+La rotación en la base del muro de carga es una consecuencia de la combinación de:
+*   Dilatación de la estructura de acero durante el incendio (ya extinguido).
+*   Dilatación diferencial entre las caras del muro de fábrica, que causó una pérdida de verticalidad durante el incendio, y se agravó por su propio peso después de la extinción.
+
+#### c) Objetivos
+El principal objetivo es detener la rotación del muro de carga afectado.
+
+#### d) Cargas a Estabilizar
+
+*   **CUBIERTA**:
+    *   **Acciones permanentes**: El peso propio de la cubierta no genera ni propaga la patología.
+    *   **Acciones variables**: La dilatación producida por el incendio ha desaparecido. No se detecta empuje post-incendio.
+*   **MURO**:
+    *   **Acciones permanentes**: Se debe considerar la acción del peso debida a la inclinación mínima del muro.
+        *   **Tabla 36. Acción del peso producido por la inclinación del muro**
+            *   | Inclinación | 20 cm (kN/m²) | 50 cm (kN/m²) |
+            *   | :---------- | :------------- | :------------- |
+            *   | 10º         | 0.9            | 2.2            |
+            *   | 20º         | 1.8            | 4.5            |
+            *   | 30º         | 2.9            | 7.2            |
+    *   **Acciones variables**: Las tensiones por dilatación diferencial desaparecen tras la extinción del incendio.
+    *   **Acciones accidentales**: Para una sección de 6 m de largo, 3 m de alto, con un empuje de 2.2 kN/m², la carga accidental (Q) es de 39.6 kN.
+
+#### e) Dónde Apuntalar
+En el momento de la inspección, la inestabilidad se atribuye únicamente a la excentricidad del peso debido a la inclinación del muro. Por lo tanto, es suficiente apuntalar el muro para estabilizar el conjunto. La forma más sencilla y segura para los intervinientes es realizar el apeo desde el exterior. El apuntalamiento debe dirigirse a la sección del muro directamente afectada por la viga dañada, cubriendo tres metros a cada lado de esta, lo que suma un total de seis metros lineales de muro.
+
+#### f) Técnicas Disponibles
+La técnica disponible es el apeo estandarizado, que permite la estabilización de muros de hasta tres metros de altura.
+
+#### g) Resistencia del Apeo Estandarizado con los Medios Disponibles
+Existen dos modalidades resistentes para los tornapuntas inferiores:
+*   **Puntales A30**: Ofrecen una resistencia de 10 kN por cada conjunto estructural.
+*   **Doble tablón embridado C18**: Proporcionan una resistencia de 20 kN por cada conjunto estructural.
+
+#### h) Capacidad para Lograr los Objetivos con los Medios Disponibles
+
+*   **Número de conjuntos estructurales necesarios para estabilizar los empujes**:
+    *   Se calcula la distancia (d) entre conjuntos como: `d = capacidad del apeo / (carga x altura) = R / (c x h)`.
+    *   La distancia entre conjuntos no debe superar los 4 metros.
+    *   **Opción 1 (Puntales A30)**: `d = 10 kN / (2.2 kN/m² x 3 m) = 1.50 metros`.
+    *   **Opción 2 (Doble tablón embridado C18)**: `d = 20 kN / (2.2 kN/m² x 3 m) = 3.03 metros`.
+
+*   **Cálculo del número total de conjuntos estructurales**: Se divide la longitud del muro a apuntalar entre la distancia calculada entre conjuntos.
+    *   **Opción 1**: `6 m / 1.50 m = 4 unidades`.
+    *   **Opción 2**: `6 m / 3.03 m = 2 unidades`.
+
+Ambas opciones requieren un número similar de tablones de madera de tres metros. Se selecciona la Opción 1 (tornapunta inferior con puntal telescópico frente a doble tablón embridado) por ser más rápida y sencilla de ejecutar.

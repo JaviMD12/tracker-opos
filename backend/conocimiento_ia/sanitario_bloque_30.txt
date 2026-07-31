@@ -1,166 +1,178 @@
-# Patologías por Agentes Térmicos, Eléctricos, Frío y Congelaciones
-
-Este compendio aborda las **quemaduras**, **traumatismos eléctricos**, **hipotermia** y **congelaciones**, detallando su clasificación, valoración y el protocolo de actuación inicial en el ámbito de las emergencias.
-
 ## Quemaduras
 
-Las quemaduras se definen como lesiones tisulares provocadas por agentes físicos (térmicos, eléctricos, por fricción, radiaciones) o químicos (ácidos, álcalis). El pronóstico de estas lesiones varía significativamente en función de diversos factores, lo que subraya la importancia de una evaluación y manejo adecuados.
+Las quemaduras son lesiones tisulares originadas por diversos agentes físicos, como el calor (térmico), la electricidad, la fricción, o radiaciones, así como por agentes químicos (ácidos o álcalis). El pronóstico de estas lesiones varía significativamente según varios factores:
 
-Los factores pronósticos incluyen la **edad** (peor pronóstico en niños y ancianos), la **extensión** (mayor extensión implica mayor gravedad, considerándose un mal pronóstico si superan el 20% de la superficie corporal total en adultos, el 10% en niños o el 5% si son de tercer grado), la **profundidad** (las de segundo y tercer grado presentan peor pronóstico), la **localización** (manos, pies, cara, perineo, articulaciones y las quemaduras circunferenciales en extremidades o tronco conllevan un peor pronóstico y requieren tratamiento especializado), la **afectación de las vías respiratorias** (puede comprometer la vida del paciente), la **causa** (las quemaduras eléctricas y químicas tienen peor pronóstico), y la **patología previa del paciente** (los pacientes pluripatológicos, como diabéticos, con EPOC u obesidad, presentan un peor pronóstico).
+*   **Edad:** El pronóstico es más desfavorable en niños y personas mayores.
+*   **Extensión:** A mayor superficie corporal quemada, mayor es la gravedad y el riesgo de complicaciones. Se considera un pronóstico notablemente peor si se supera el 20% de la superficie corporal total en adultos, el 10% en niños, o el 5% si las quemaduras son de tercer grado.
+*   **Localizaciones especiales:** Las quemaduras que afectan manos, pies, cara, periné, articulaciones, o aquellas de tipo circunferencial en extremidades o tronco, conllevan un pronóstico más grave y requieren tratamiento en unidades especializadas.
+*   **Afectación de las vías respiratorias:** Puede comprometer gravemente la vida del paciente.
+*   **Causa:** Las quemaduras eléctricas y químicas presentan un peor pronóstico.
+*   **Patología previa del paciente:** Aquellos pacientes con enfermedades preexistentes (como diabetes, EPOC u obesidad) tienen un pronóstico más desfavorable.
 
-### Clasificación según la Profundidad
+### Clasificación de la profundidad de las quemaduras
 
-Las quemaduras se clasifican por su profundidad en cuatro grados:
-*   Las **quemaduras de primer grado** afectan únicamente la epidermis, manifestándose con enrojecimiento cutáneo, dolor intenso y sensación de calor, sin la formación de ampollas.
-*   Las **quemaduras de segundo grado** involucran la epidermis y parte de la dermis. Se subdividen en:
-    *   **Superficiales**, que presentan enrojecimiento, dolor, ampollas de líquido claro y en las que el vello se desprende con facilidad.
-    *   **Profundas**, con un aspecto similar a las superficiales pero más pálido debido a la afectación capilar, menos dolorosas por el compromiso de las terminaciones nerviosas, y donde el vello también se desprende fácilmente.
-*   Las **quemaduras de tercer grado** abarcan la epidermis, dermis e hipodermis. Se caracterizan por un aspecto seco, de color blanco intenso, amarillento o marrón, con una consistencia acartonada, y son indoloras debido a la destrucción de las terminaciones nerviosas, sin vello.
-*   Las **quemaduras de cuarto grado** son las más graves, afectando piel, tejido subdérmico, músculos e incluso hueso, presentando áreas negras y calcinadas.
+| Grado         | Afectación tisular     | Características clínicas                                       | Evolución y curación                        |
+| :------------ | :--------------------- | :------------------------------------------------------------- | :------------------------------------------ |
+| **Primer**    | Epidermis              | Enrojecimiento de la piel. Dolor intenso y sensación de calor. Ausencia de ampollas. | Cura sin dejar secuelas en 3-4 días.        |
+| **Segundo**   |                        |                                                                |                                             |
+| _Superficial_ | Dermis superficial     | Enrojecimiento e hinchazón de la piel. Ampollas con líquido claro. Dolor intenso. El pelo no se desprende al tirar. | Cura sin dejar secuelas en 10-15 días.      |
+| _Profundo_    | Dermis profunda        | Aspecto similar a las superficiales, pero más pálidas. Afectación de capilares. Menos dolorosas por afectación nerviosa. El pelo se desprende fácilmente al tirar. | Cicatrización con secuelas en 3 semanas. Puede requerir amputación. |
+| **Tercer**    | Epidermis, dermis, hipodermis | Aspecto seco, color blanco intenso (puede haber tonos amarillentos o marrones). Consistencia acartonada. Indoloras por afectación nerviosa. Ausencia de pelo debido a la destrucción del folículo piloso. | Cicatrización con secuelas en 3 semanas. Puede requerir amputación. |
+| **Cuarto**    | Piel, tejido subdérmico, músculos, huesos | Zonas negras, calcinadas.                                      | Siempre requiere amputación, generalmente en 2-3 semanas. |
 
-### Valoración de la Extensión
+### Valoración de la extensión
 
-La extensión de las quemaduras se valora mediante la **regla de los nueves o de Wallace**. Esta regla asigna porcentajes de la superficie corporal total a diferentes partes del cuerpo: 9% para la cabeza y cuello, 9% para cada brazo, 18% para el tronco anterior, 18% para el tronco posterior, 18% para cada pierna, y 1% para el perineo y genitales.
+La estimación de la extensión de las quemaduras se realiza mediante la **Regla de los Nueves de Wallace**, que asigna porcentajes de la superficie corporal total (SCT) a distintas áreas anatómicas:
 
-### Actuación ante Quemaduras
+*   **Adultos:**
+    *   Cabeza y cuello: 9%
+    *   Cada brazo: 9%
+    *   Tórax (anterior): 18%
+    *   Abdomen (anterior): 18%
+    *   Espalda (posterior del tronco): 18%
+    *   Cada pierna: 18%
+    *   Perineo: 1%
+*   **Niños:**
+    *   Cabeza: 18%
+    *   Cada brazo: 9%
+    *   Tórax (anterior): 18%
+    *   Abdomen (anterior): 18%
+    *   Cada pierna: 14%
+    *   Perineo: 1%
 
-La actuación inicial varía según el tipo de quemadura:
+### Actuación ante quemaduras
 
-#### Quemaduras Térmicas
-1.  **Retirar al paciente** del agente causal, asegurando la seguridad del rescatador.
-2.  **Retirar toda la ropa y joyas** con cuidado, evitando arrancar tejidos adheridos y previendo la hinchazón en dedos por anillos.
-3.  Realizar una **valoración ABC** prioritaria, prestando especial atención a la afectación de la vía aérea (quemaduras faciales o cervicales, hollín en fosas nasales, ronquera, estridor, esputos carbonáceos, inconsciencia o quemaduras en lugares cerrados). Ante esta sospecha, el traslado urgente al hospital es imprescindible, con el paciente en posición Fowler o semi-Fowler para minimizar el edema.
-4.  **Administrar oxígeno** a alto flujo, incluso si la saturación es normal, para prevenir el síndrome de inhalación de monóxido de carbono.
-5.  **Enfriar las lesiones** con irrigación abundante de suero fisiológico o agua, para reducir la profundidad de la lesión y aliviar el dolor, evitando la hipotermia.
-6.  **Cubrir las lesiones** con gasas estériles empapadas en suero fisiológico, asegurándose de no inducir hipotermia.
-7.  **Traslado urgente** al hospital.
+#### Quemaduras térmicas
+
+En el manejo de quemaduras producidas por llama directa, líquidos o sólidos calientes, o calor radiante:
+
+1.  **Retirada del agente causal:** Es fundamental alejar al paciente de la fuente de calor lo antes posible para prevenir una mayor progresión del daño tisular. El rescatador debe asegurar su propia seguridad utilizando equipos de protección adecuados.
+    *   Apartar al paciente del foco.
+    *   Retirar toda la vestimenta quemada con sumo cuidado, evitando arrancar cualquier tejido adherido a la piel.
+    *   Remover joyas, especialmente anillos, de forma precoz, ya que pueden retener calor o dificultar la circulación debido al edema.
+2.  **Valoración inicial (ABC):** Prestar especial atención a la posible afectación de la vía aérea. Se debe sospechar una lesión inhalatoria en presencia de:
+    *   Quemaduras en la cara o cuello, vello nasal o de cejas chamuscado, o hollín en la mucosa oral.
+    *   Ronquera, estridor o esputo carbonáceo.
+    *   Paciente inconsciente.
+    *   Quemaduras ocurridas en espacios cerrados.
+    *   Si se sospecha lesión inhalatoria, el traslado urgente al hospital es prioritario para el aislamiento temprano y ventilación mecánica. Estos pacientes deben ser trasladados en posición de Fowler o semi-Fowler (cabeza elevada) para minimizar el edema que pueda comprometer la vía aérea. Se debe vigilar estrechamente al paciente por riesgo de paro cardiorrespiratorio.
+3.  **Administración de oxígeno:** Suministrar oxígeno al 100% incluso si la saturación de oxígeno es normal, para prevenir el síndrome de inhalación de monóxido de carbono (que no altera la pulsioximetría).
+4.  **Enfriamiento de las lesiones:** Irrigar las quemaduras con suero fisiológico o agua. Esta medida puede reducir la profundidad de la lesión y aliviar el dolor. Se debe realizar con precaución para evitar la hipotermia.
+5.  **Cobertura de las heridas:** Cubrir las lesiones con gasas estériles empapadas en suero fisiológico, asegurándose de que el paciente no desarrolle hipotermia.
+6.  **Traslado:** El traslado a un centro hospitalario debe ser urgente.
 
 **Acciones a evitar en quemaduras térmicas:**
-*   Demorar el traslado ante sospecha de afectación de la vía aérea.
-*   Aplicar pomadas.
-*   Cortar ampollas.
 
-#### Quemaduras Químicas (Causticaciones)
-1.  **Priorizar la seguridad del rescatador**, utilizando EPI adecuados (bata, guantes, gafas), ya que los guantes comunes pueden no ser suficientes.
-2.  **Retirar al paciente** del agente causal.
-3.  Realizar una **valoración ABC** y de las lesiones.
-4.  **Desvestir completamente al paciente**, incluyendo zapatos y calcetines, para evitar que la sustancia química permanezca en contacto con la piel.
-5.  **Lavar al paciente con abundante agua**, de forma continua, hasta la llegada al hospital. Si la sustancia es en polvo, primero cepillar para eliminar la mayor cantidad posible antes de lavar. No se deben usar neutralizantes químicos por el riesgo de reacciones exotérmicas.
-6.  En caso de **quemadura ocular**, irrigar el ojo con abundante suero fisiológico o agua durante al menos 15 minutos, animando al paciente a parpadear.
-7.  **Traslado urgente** al hospital, intentando identificar el agente causal y llevando la ficha de seguridad si disponible.
-8.  **Preavisar al hospital** para que continúen la irrigación.
+*   Demorar el traslado ante la sospecha de afectación de la vía aérea, incluso si la gravedad no es aparente.
+*   Aplicar pomadas.
+*   Cortar ampollas, ya que estas actúan como mecanismo de protección.
+
+#### Quemaduras químicas (causticación)
+
+En el manejo de quemaduras causadas por ácidos o bases (como productos de limpieza, disolventes o cementos):
+
+1.  **Seguridad del rescatador:** El rescatador debe actuar siempre con equipos de protección individual adecuados (bata, guantes, gafas). Es importante considerar que los guantes comunes (nitrilo, látex) podrían no ofrecer protección suficiente contra algunas sustancias químicas.
+2.  **Retirada del agente causal:** Alejar al paciente de la sustancia química que está causando la quemadura, ya que la sustancia continúa dañando los tejidos mientras está en contacto con la piel.
+3.  **Valoración inicial (ABC) y de las lesiones.**
+4.  **Desvestir al paciente:** Retirar completamente toda la ropa, incluyendo zapatos y calcetines, para evitar que la sustancia química quede impregnada y cause lesiones adicionales por la acumulación de agua de lavado.
+5.  **Irrigación abundante:** Lavar la zona afectada con abundante agua hasta la llegada al hospital para diluir la sustancia. Si el agente es un polvo, primero cepillar la mayor cantidad posible antes de irrigar. No se deben utilizar neutralizantes químicos por el riesgo de reacciones exotérmicas que aumentarían la lesión. La irrigación debe iniciarse lo antes posible. El rescatador debe evitar salpicarse.
+6.  **Afectación ocular:** Si la quemadura afecta un ojo, irrigar con abundante suero fisiológico o agua durante al menos 15 minutos, asegurándose de que el flujo no contamine el otro ojo. La irrigación continua es crucial hasta la llegada al hospital, pudiendo requerir dos rescatadores para mantener los párpados abiertos y controlar al paciente.
+7.  **Traslado urgente:** El traslado al hospital debe ser urgente. Intentar identificar el agente causal y, si se dispone de la hoja de seguridad del material, llevarla consigo al hospital.
+8.  **Pre-alerta hospitalaria:** Informar al hospital con antelación para que puedan continuar con la irrigación al recepcionar al paciente.
 
 **Acciones a evitar en quemaduras químicas:**
-*   Iniciar la actuación sin EPI adecuado.
+
+*   Comenzar la actuación sin el equipo de protección adecuado.
 *   Utilizar neutralizantes químicos.
 
-## Traumatismos Eléctricos
+### Traumatismos eléctricos
 
-Los traumatismos eléctricos se producen cuando el organismo forma parte de un arco eléctrico, y la electricidad atraviesa los tejidos. Pueden ser causados por corrientes de bajo o alto voltaje, así como por rayos (fulguraciones).
+Los traumatismos eléctricos se producen cuando el cuerpo forma parte de un circuito eléctrico. Pueden ser causados por corrientes de bajo o alto voltaje, o por rayos (fulguraciones).
 
-### Afectación Multisistémica
+#### Valoración
 
-Las lesiones eléctricas pueden afectar múltiples sistemas:
-*   **Quemaduras**: Se produce necrosis y destrucción tisular por el efecto térmico de la electricidad. Cuanto menor es el área de contacto, mayor es la profundidad de la lesión, siendo más graves en dedos, manos, pies y antebrazos que en el tronco.
-*   **Lesiones musculoesqueléticas**: Las contracciones musculares violentas pueden causar fracturas. Es frecuente que el paciente sea politraumatizado por la proyección que acompaña a la descarga.
-*   **Lesiones cardíacas**: Pueden inducir arritmias ventriculares, parada cardiorrespiratoria (PCR) e incluso roturas cardíacas.
-*   **Lesiones neurológicas**: Incluyen alteraciones del sueño, amnesia, vértigo, incoordinación, convulsiones y coma.
+Los efectos de la electricidad son multisistémicos:
 
-Las lesiones dependen del **recorrido de la corriente** en el cuerpo, su voltaje y la duración de la exposición. Los recorridos más frecuentes son:
-*   **Mano-Mano**: Presenta una mortalidad del 60%, con quemaduras, posible lesión medular cervical, lesión cardíaca y de musculatura respiratoria, y alto riesgo de PCR.
-*   **Mano-Pie**: Mortalidad del 20%, con quemaduras, posibles fracturas y alto riesgo de arritmias y PCR.
-*   **Cabeza-Pie**: Quemaduras, convulsiones, hemorragias cerebrales, lesiones medulares, fracturas y luxaciones, y alto riesgo de arritmias y PCR.
-*   **Cabeza-Mano**: Similar al anterior, con quemaduras, convulsiones, hemorragias cerebrales, lesiones medulares cervicales, fracturas y luxaciones, y riesgo de arritmias y PCR.
-*   **Pie-Pie**: Poco frecuente y raramente mortal, con quemaduras, fracturas y luxaciones.
+*   **Quemaduras con necrosis y destrucción de tejidos:** Las quemaduras eléctricas son térmicas; la resistencia de los tejidos convierte la energía eléctrica en calor. Cuanto menor es el área de contacto, mayor es la lesión. Por ejemplo, manos, pies, dedos y antebrazos suelen sufrir mayores lesiones que el tronco.
+*   **Lesiones musculoesqueléticas:** El paso de la electricidad provoca contracciones musculares violentas que pueden causar fracturas. Es común que las víctimas sean proyectadas, por lo que se debe sospechar un politraumatismo asociado. Todo paciente con traumatismo eléctrico debe ser tratado como politraumatizado.
+*   **A nivel cardíaco:** Puede provocar paro cardiorrespiratorio (PCR) debido a arritmias ventriculares o roturas cardíacas.
+*   **Lesiones neurológicas:** Incluyen alteraciones del sueño, amnesia, vértigo, descoordinación, convulsiones y coma.
 
-### Actuación ante Traumatismos Eléctricos
+Las lesiones dependen del recorrido de la corriente en el cuerpo. En corrientes de bajo voltaje, la electricidad sigue el camino de menor resistencia, creando puntos de entrada y salida. En corrientes de alto voltaje o fulguraciones, la corriente siempre se dirige a tierra.
 
-1.  **Extremar medidas de autoprotección**: No tocar al paciente hasta asegurar que no hay contacto con la fuente eléctrica.
-    *   En **fulguraciones**, se puede tocar al paciente si no hay riesgo de un nuevo impacto de rayo.
-    *   En **alto voltaje**, la corriente puede formar un arco voltaico de hasta 20 metros; no acercarse hasta cortar la electricidad.
-    *   Si un **cable de alta tensión** ha caído sobre un vehículo, no permitir que los ocupantes salgan; el vehículo actúa como aislante. Si hay riesgo de incendio, instruirles a saltar sin tocar el vehículo y el suelo simultáneamente.
-    *   En **bajo voltaje**, si el corte de energía no es posible, retirar al paciente usando material aislante (banco de plástico, madera seca) sin tocar directamente a la víctima.
-2.  Realizar una **valoración ABC** tratando al paciente como politraumatizado, siempre sospechando lesión medular cervical.
-3.  En caso de **parada cardiorrespiratoria (PCR)**, iniciar las maniobras de RCP de forma precoz. Considerar prolongar la RCP debido a que la contractilidad muscular cardíaca puede ser baja durante un tiempo prolongado. Se priorizará la atención a los pacientes con PCR por electrocución, ya que otros traumatismos eléctricos sin PCR tienen menor riesgo de desarrollarla posteriormente.
-4.  **Trasladar urgentemente** al paciente a un centro hospitalario con inmovilización adecuada. Todos los pacientes con traumatismo eléctrico, incluso si parecen leves, deben ser trasladados para una valoración exhaustiva.
+**Recorridos más frecuentes y su mortalidad asociada:**
+
+*   **Mano-Mano (mortalidad 60%):** Quemaduras, posible lesión medular cervical, lesión cardíaca y muscular respiratoria, alto riesgo de PCR.
+*   **Mano-Pie (mortalidad 20%):** Quemaduras, posibles fracturas, alto riesgo de arritmias y PCR.
+*   **Cabeza-Pie:** Quemaduras, convulsiones, hemorragias cerebrales, lesiones medulares, fracturas y luxaciones, alto riesgo de arritmias y PCR.
+*   **Cabeza-Mano:** Quemaduras, convulsiones, hemorragias cerebrales, lesiones medulares cervicales, fracturas y luxaciones, alto riesgo de arritmias y PCR.
+*   **Pie-Pie (poco frecuente y casi nunca mortal):** Quemaduras, fracturas y luxaciones.
+
+#### Actuación
+
+El grado de lesión depende de la cantidad de corriente y la duración de la exposición.
+
+1.  **Medidas de autoprotección:** Es crucial verificar que el paciente ya no está en contacto con la fuente eléctrica antes de tocarlo.
+    *   **Fulguración (impacto de rayo):** Se puede tocar al paciente sin peligro inmediato, pero hay que asegurar que no hay riesgo de un nuevo impacto.
+    *   **Electrocución por alto voltaje:** La corriente puede viajar hasta 20 metros (arco voltaico). No acercarse al paciente hasta que la situación eléctrica esté controlada.
+    *   **Vehículo con cable de alta tensión caído:** No permitir la salida de los ocupantes del vehículo, ya que este actúa como aislante y es el lugar más seguro. En caso de riesgo de incendio, indicarles que salten sin tocar el vehículo y el suelo simultáneamente.
+    *   **Electrocución por bajo voltaje (si el corte de electricidad no es posible):** Retirar al paciente utilizando una superficie aislante (taburete de plástico seco, madera seca) y sin tocar directamente a la víctima (usar una pértiga de madera seca o material plástico).
+2.  **Valoración inicial (ABC):** Una vez controlada la situación eléctrica, realizar una valoración ABC, asumiendo la posibilidad de un politraumatismo y sospechando siempre una lesión medular cervical.
+3.  **Manejo de PCR:** Si el paciente presenta PCR, iniciar maniobras de RCP precozmente con las siguientes consideraciones:
+    *   Las maniobras pueden requerir una duración prolongada, ya que el músculo cardíaco puede mantener una contractilidad baja por un tiempo variable, incluso hasta 2 horas post-accidente.
+    *   En lesiones eléctricas, se puede priorizar la atención a pacientes en PCR sobre aquellos con otros signos de vida, ya que es poco común que un paciente sin PCR tras el accidente la desarrolle posteriormente.
+4.  **Traslado urgente:** Trasladar al paciente urgentemente a un centro hospitalario con inmovilización adecuada, tratándolo como un politraumatizado. Todos los pacientes electrocutados deben ser trasladados para una evaluación completa.
 
 **Acciones a evitar en traumatismos eléctricos:**
-*   Subestimar las lesiones, que a menudo son más profundas de lo que se ve externamente.
-*   Tocar al paciente sin haber controlado la situación eléctrica.
 
-## Hipotermia
+*   Subestimar las lesiones, ya que el daño tisular profundo puede no ser visible externamente.
+*   Tocar al paciente antes de que la situación eléctrica esté controlada.
 
-La hipotermia se define como una temperatura central inferior a 35 °C, medida rectalmente. Es una condición potencialmente mortal que puede ser influenciada por factores como la exposición al frío (acentuada por el viento y la humedad), la hipoglucemia y el abuso de alcohol. Ancianos, niños y personas desnutridas son especialmente susceptibles. La pérdida de calor se incrementa cinco veces si la piel está mojada.
+### Hipotermia
 
-### Grados de Hipotermia
+La hipotermia se define como una temperatura central del cuerpo inferior a 35 °C, medida por vía rectal.
 
-La hipotermia se clasifica en tres grados principales:
+**Factores predisponentes y supervivencia:**
 
-*   **Hipotermia Leve (35-32 °C)**: El organismo aún es capaz de generar calor.
-    *   **35-36 °C**: Se produce vasoconstricción periférica (piel fría en extremidades), escalofríos intensos y temblores voluntarios.
-    *   **35-32 °C**: Los temblores se vuelven involuntarios, los movimientos son lentos y torpes (dificultad para caminar o realizar tareas sencillas), y puede haber confusión o conductas irracionales, como intentar quitarse la ropa.
-*   **Hipotermia Moderada (32-28 °C)**: Cesa la capacidad del cuerpo para producir calor, desaparecen los escalofríos y el temblor.
-    *   **30-32 °C**: La piel adquiere un color azulado, hay apatía, confusión, delirio y conductas irracionales. El pulso radial puede no ser palpable, el paciente no puede caminar y adopta una posición fetal para conservar calor.
-    *   **28-30 °C**: Se observa bradicardia, bradipnea y un alto riesgo de arritmias ventriculares graves. El nivel de consciencia varía desde estupor hasta coma, y las pupilas están dilatadas pero reaccionan a la luz.
-*   **Hipotermia Grave (<28 °C)**:
-    *   **28-19 °C**: Coma, frecuencia cardíaca y respiratoria irregulares, pupilas dilatadas sin reacción a la luz, y el pulso carotídeo puede ser impalpable.
-    *   **<19 °C**: Se registra un electroencefalograma (EEG) plano.
-    *   **<15 °C**: Se observa un electrocardiograma (ECG) plano (asistolia).
+*   La exposición al frío (empeorada por el viento y la humedad ambiental), la hipoglucemia y el abuso de alcohol son responsables del 80% de los casos.
+*   Los ancianos, niños y personas desnutridas son más susceptibles a la hipotermia y presentan una mayor mortalidad.
+*   La pérdida de calor es 5 veces mayor si la piel está húmeda. Una inmersión prolongada en agua a una temperatura inferior a 24 °C puede provocar una rápida pérdida de calor.
+*   El tiempo de supervivencia aproximado en agua fría es de 10 minutos a 0 °C, 30 minutos a 5 °C, 90 minutos a 10 °C y unas 6 horas a 15 °C.
 
-La mortalidad en hipotermia moderada es del 21%, mientras que en hipotermia severa supera el 50%. La duración aproximada de supervivencia en agua fría es de 10 minutos a 0 °C, 30 minutos a 5 °C, 90 minutos a 10 °C y unas 6 horas a 15 °C.
+#### Valoración (Grados de Hipotermia)
 
-### Actuación ante Hipotermia
+Se clasifican en tres grados, con una mortalidad que aumenta con la severidad: 21% en moderada, y más del 50% en grave.
 
-1.  **Retirar al paciente de la exposición al frío**: Trasladarlo a un ambiente cálido y protegido (aprox. 27 °C o ambulancia con calefacción).
-2.  **Movilización suave y en posición horizontal** para evitar arritmias ventriculares.
-3.  **Retirar ropas húmedas y secar la piel**, cortando la ropa para minimizar la manipulación. Evitar el recalentamiento periférico inicial, ya que aumenta la demanda de oxígeno y el riesgo de arritmias.
-4.  **Abrigar con ropas secas y mantas calientes**, incluyendo cuello y cabeza. Las mantas térmicas solo conservan calor, no lo generan, por lo que deben colocarse sobre un paciente precalentado, con la parte plateada hacia el cuerpo.
-5.  Realizar una **valoración inicial ABC**.
-6.  **Recalentamiento gradual**: El objetivo es aumentar la temperatura 1 °C por hora, no más de 4 °C/hora, para evitar shock, arritmias o asistolia. Inicialmente, recalentar el tronco con bolsas de agua caliente, evitando el contacto directo con la piel.
-7.  En caso de **PCR**, iniciar maniobras de RCP.
-    *   La detección de pulsos puede ser difícil, por lo que se recomienda el uso temprano del DEA y seguir sus indicaciones.
-    *   Las arritmias suelen ceder con el recalentamiento. La desfibrilación puede ser ineficaz por debajo de 30 °C.
-    *   La hipotermia protege el cerebro y otros órganos vitales de la hipoxia; continuar RCP hasta que la temperatura central alcance 35 °C, luego seguir criterios habituales.
-8.  Ante la sospecha de **traumatismo**, inmovilizar al paciente.
-9.  Si el paciente está **inconsciente pero respira**, colocarlo en posición lateral de seguridad y administrar oxígeno.
-10. Si el paciente está **consciente y reactivo**, se le pueden dar líquidos calientes y azucarados a pequeños sorbos; el azúcar es crucial para el temblor y la producción de calor.
-11. No recalentar áreas congeladas hasta que la temperatura corporal central sea de aproximadamente 36 °C.
-12. Las hipotermias moderadas y graves requieren **traslado urgente a una unidad de cuidados intensivos**, manteniendo las medidas generales durante el transporte.
+| Grado       | Rango de Temperatura | Signos y síntomas                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| :---------- | :------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Leve**    | 35-32 ºC             | **35-36 ºC:** Vasoconstricción periférica (extremidades frías). Escalofríos y temblor intenso, que pueden detenerse voluntariamente.                                                                                                                                                                                                                                                                                                                                                        |
+|             |                      | **35-32 ºC:** Temblor intenso que no puede detenerse voluntariamente. Movimientos lentos y torpes (dificultad para subir cremalleras, tropiezos al caminar). Confusión. Conductas irracionales (ej. quitarse la ropa a pesar del frío).                                                                                                                                                                                                                                              |
+| **Moderada** | 32-28 ºC             | **30-32 ºC:** Desaparición de escalofríos y temblor (pérdida de capacidad para producir calor). Piel azulada. Apatía, confusión, delirio y conductas irracionales. Pulso radial no palpable. Incapacidad para caminar. Posición fetal para conservar calor.                                                                                                                                                                                                                            |
+|             |                      | **28-30 ºC:** Disminución de la frecuencia cardíaca (bradicardia). Alto riesgo de arritmias ventriculares graves. Disminución de la frecuencia respiratoria (bradípnea). Disminución del nivel de consciencia desde estupor a coma. Dilatación pupilar que reacciona a la luz.                                                                                                                                                                                                                |
+| **Grave**   | <28 ºC               | **28-19 ºC:** Coma. Frecuencia cardíaca y respiratoria irregulares. Pupilas dilatadas que no reaccionan a la luz. Pulso carotídeo posiblemente no palpable.                                                                                                                                                                                                                                                                                                                         |
+|             |                      | **<19 ºC:** Electroencefalograma (EEG) plano.                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|             |                      | **<15 ºC:** Electrocardiograma (ECG) plano (asistolia).                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
-**Acciones a evitar en hipotermia:**
-*   Manipulaciones bruscas.
-*   Administración de alcohol, té o café.
-*   Baños o duchas calientes (riesgo de shock, arritmias, asistolia).
-*   Detener la RCP antes de alcanzar los 35.5 °C de temperatura central.
+#### Actuación
 
-## Congelaciones
+1.  **Retirar al paciente de la exposición al frío:** Trasladar al paciente a un ambiente cálido y protegido (habitación a 27 ºC o interior de ambulancia con calefacción). Movilizar al paciente con extrema suavidad y, preferiblemente, en posición horizontal, debido al riesgo de arritmias ventriculares ante movimientos bruscos.
+2.  **Retirar ropa húmeda y secar la piel:** Cortar la ropa húmeda para evitar manipulaciones excesivas de las extremidades. Evitar el recalentamiento periférico, que aumentaría la demanda de oxígeno del corazón (ya deprimido por la hipotermia) y la recirculación de sangre fría hacia los órganos vitales, lo que eleva el riesgo de arritmias y PCR.
 
-Las congelaciones son lesiones producidas por temperaturas inferiores a 0 °C, que afectan comúnmente a pies, manos y cara (nariz y orejas). Factores como la fatiga, deshidratación, humedad, tabaquismo, alcohol, diabetes mellitus, heridas infectadas, restricción circulatoria (calzado apretado, anillos) o congelaciones previas predisponen a estas lesiones.
+### Quemaduras
 
-### Valoración de la Congelación
+Las quemaduras son lesiones tisulares provocadas por agentes externos, que pueden ser físicos (térmicas, eléctricas, por fricción, radiaciones) o químicos (ácidos, álcalis). El pronóstico de una quemadura se determina por la interacción de diversos factores:
 
-Inicialmente, las lesiones pueden parecer similares (tumefacción, torpeza, pérdida de sensibilidad), pero su clasificación en grados se realiza tras el recalentamiento:
+*   **Edad:** La afectación es más grave en niños y personas mayores.
+*   **Extensión:** Una mayor superficie corporal quemada incrementa la severidad y el riesgo de complicaciones. Un pronóstico significativamente peor se observa en adultos con más del 20% de superficie corporal total (SCT) quemada, en niños con más del 10% de SCT quemada, o en cualquier paciente con más del 5% de quemaduras de tercer grado.
+*   **Localizaciones especiales:** Las quemaduras en manos, pies, cara, perineo, articulaciones, o aquellas circunferenciales en extremidades o tronco, conllevan un pronóstico más desfavorable y requieren manejo especializado.
+*   **Compromiso de vías respiratorias:** La afectación de las vías aéreas puede ser potencialmente mortal.
+*   **Etiología:** Las quemaduras eléctricas y químicas generalmente presentan un pronóstico más grave.
+*   **Estado de salud previo:** Pacientes con patologías previas (multimorbilidad, diabetes, EPOC, obesidad) tienen un peor pronóstico.
 
-*   **Primer Grado (Superficial)**: Piel enrojecida e hinchada, sin ampollas, con sensación de pinchazos o quemazón. La cura se produce sin secuelas en 3-4 días.
-*   **Segundo Grado (Superficial)**: Piel enrojecida e hinchada. Aparecen ampollas de líquido claro o lechoso en las primeras 24 horas, nunca sangrantes u oscuras. Hay disminución de la sensibilidad, sensación de frío y molestias. La cura se produce sin secuelas en 10-15 días.
-*   **Tercer Grado (Profunda)**: Piel azulada (cianótica). Presenta ampollas hemorrágicas que se transforman en escaras en 2 semanas. Requiere cicatrización con secuelas en 3 semanas y puede precisar amputación.
-*   **Cuarto Grado (Profunda)**: Tejido frío y muerto (necrosis), sin ampollas. Precisa amputación en 2-3 semanas.
+#### Clasificación por profundidad
 
-### Actuación ante Congelaciones
-
-1.  **Trasladar al paciente** a un lugar protegido del frío.
-2.  Realizar una **valoración inicial ABC**, descartando hipotermia (tratarla primero si está presente) y otras lesiones asociadas.
-3.  **Retirar ropas húmedas** y aquellas que dificulten la circulación, cortándolas si es necesario.
-4.  **Evitar cualquier traumatismo mecánico**.
-5.  **Mantener reposo**, evitando la carga sobre las zonas afectadas.
-6.  **Proteger** los espacios interdigitales con gasas estériles para evitar maceraciones.
-7.  **Elevar el miembro** congelado para evitar edemas.
-8.  **Trasladar al hospital** sin demora.
-9.  **No iniciar el recalentamiento activo** en el lugar del incidente, especialmente si no se puede garantizar que no se recongelará, ya que esto agravaría la lesión.
-
-**Acciones a evitar en congelaciones:**
-*   Calentar bruscamente con calor seco o fuego.
-*   Realizar masajes sobre la zona congelada.
-*   Cortar ampollas.
-
-En resumen, la gestión de estas patologías requiere un enfoque sistemático que priorice la seguridad del interviniente y del paciente, la valoración rápida y precisa, la administración temprana de oxígeno y el traslado urgente a un centro hospitalario, adaptando las maniobras de soporte vital a las particularidades de cada situación clínica.
+| Grado de Quemadura | Capa de la piel afectada | Características clínicas                                                                                                                                                   | Evolución y pronóstico de curación                                                                 |
+| :------------------ | :----------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- |
+| **Primer grado**    | Epidermis                | Piel enrojecida. Sensación de calor y dolor intenso. Ausencia de ampollas.                                                                                                 | Cicatriza sin secuelas en 3-4 días.                                                                |
+| **Segundo grado**   |                          |                                                                                                                                                                            |                                                                                                    |
+| _Superficial_       | Dermis superficial       | Piel enrojecida e hinchada. Presencia de ampollas llenas de líquido claro. Dolor intenso. El vello no se desprende al tirar de él, pero el dolor es fuerte.                    | Cicatriza sin secuelas en 10-15

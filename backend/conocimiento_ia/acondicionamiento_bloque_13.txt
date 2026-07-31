@@ -1,0 +1,1271 @@
+### 7. Control de la Intensidad en el Entrenamiento de Resistencia
+
+El control de la intensidad en el entrenamiento de resistencia puede realizarse a través de diversos parámetros fisiológicos y perceptivos.
+
+#### 7.1. Control mediante el Consumo de Oxígeno (VO2)
+
+La evaluación del consumo de oxígeno es un método para controlar la intensidad, especialmente en disciplinas de resistencia aeróbica. Generalmente, una mayor cantidad de oxígeno consumido por unidad de tiempo se correlaciona con una mayor intensidad de la actividad.
+
+La relación entre la intensidad y el consumo de oxígeno (VO2) se presenta en la siguiente tabla:
+
+| Intensidad | VO2 (litros/minuto) |
+| :--------- | :----------------- |
+| Escasa     | <1                 |
+| Moderada   | 1–1                |
+| Media      | 2–2,9              |
+| Elevada    | 3–3,9              |
+| Alta       | 4–4,9              |
+| Exigente   | >5                 |
+
+Este parámetro es fundamental para el control de la intensidad en el entrenamiento de resistencia aeróbica, aunque presenta limitaciones en actividades que no son exclusivamente aeróbicas al 100%.
+
+#### 7.2. Control mediante la Velocidad de Desplazamiento
+
+La velocidad de desplazamiento es uno de los parámetros más comunes para controlar la intensidad en el entrenamiento de resistencia individual. Según el sistema energético involucrado, se distinguen:
+
+*   **Velocidad Máxima Aeróbica (VMA):** Es el indicador más empleado para controlar la intensidad en deportes de resistencia aeróbica. A partir de la VMA, se definen intervalos de intensidad para diversas manifestaciones de resistencia:
+
+    | Tipo de entrenamiento      | VMA                               |
+    | :------------------------- | :-------------------------------- |
+    | Potencia aeróbica          | ≅85% al 115% de la VMA          |
+    | Capacidad aeróbica         | ≅70% al 85% de la VMA           |
+    | Eficiencia aeróbica        | ≅60% al 70% de la VMA           |
+
+    **Ejemplo:** Si un bombero tiene una VMA de 16 km/h y se desea realizar una carrera continua de 30 minutos al 70% de la VMA, la velocidad de entrenamiento será de 11,2 km/h.
+
+*   **Velocidad Máxima de la Distancia (VMD):** Parámetro utilizado para controlar la intensidad en deportes de resistencia anaeróbica. Se define como la velocidad máxima a la que se puede recorrer una distancia específica. Similar a la VMA, la VMD estructura las manifestaciones de resistencia anaeróbica:
+
+    | Tipo de Manifestación     | VMD                               |
+    | :------------------------ | :-------------------------------- |
+    | Capacidad anaeróbica láctica | ≅85% al 95% de la VMD           |
+    | Potencia anaeróbica láctica | ≅95% al 100% de la VMD          |
+
+    **Relación entre Consumo de Oxígeno y Velocidad:**
+    Leger y Mercier (1984) establecieron la siguiente expresión matemática para relacionar el VO2 y la velocidad:
+    VO2(ml/kg/min) = 2,209 + 3,163V + 0,000525542V^3
+    Una aproximación más sencilla es:
+    VO2 (ml/kg/min) = 3,5 x velocidad
+
+    **Ejemplo:** Para un consumo de 45 ml/kg/min, la velocidad requerida sería 12,8 km/h.
+
+    En un mesociclo inicial de trabajo aeróbico de intensidad moderada, el control de este componente de la carga se puede realizar mediante la VMA.
+
+#### 7.3. Control mediante la Frecuencia Cardíaca (FC)
+
+Meléndez (1995) sugirió que, dentro de un rango específico, existe una relación lineal entre la intensidad del ejercicio y la frecuencia cardíaca, lo que permite su uso como parámetro de control, siempre que se haya alcanzado la estabilización.
+
+Aspectos importantes a considerar en relación con la FC:
+
+*   **Estado de entrenamiento:** Los individuos entrenados demuestran una mayor capacidad de trabajo para una FC determinada en comparación con los no entrenados.
+*   **Sexo:** En mujeres, la pendiente de la relación intensidad-FC es más pronunciada, lo que indica una menor capacidad de trabajo. A la misma intensidad, la FC es superior en mujeres que en hombres.
+*   **Progreso del entrenamiento:** El entrenamiento provoca un desplazamiento de las curvas hacia la derecha, lo que significa una disminución del incremento de la FC para la misma intensidad de trabajo.
+*   **Edad:** En adultos, la FC para una intensidad dada es menor que en individuos más jóvenes.
+
+Para calcular las pulsaciones correspondientes a una intensidad deseada, se aplica la fórmula:
+`Intensidad (pulsaciones) = Frecuencia cardíaca máxima x porcentaje de intensidad`
+
+**Frecuencia Cardíaca de Reserva:** Se obtiene restando la FC basal de la FC máxima. Esto proporciona el rango individual de pulsaciones para el entrenamiento.
+`FC de Reserva = (FC máxima – FC reposo) x porcentaje FC deseado + FC reposo`
+
+**Ejemplo 1:** Un bombero con una FC máxima de 170 pulsaciones/min. Para trabajar al 75% de la FC máxima, las pulsaciones objetivo serían 170 x 0,75 = 127,5 pulsaciones/min.
+
+**Ejemplo 2:** Si un bombero tiene una FC máxima de 170 pulsaciones/min y una FC de reposo de 75 pulsaciones/min, y desea trabajar al 80% de la FC de reserva máxima, las pulsaciones objetivo serían (170 - 75) x 0,80 + 75 = 151 pulsaciones/min.
+
+**Ejemplo 3:** Si un bombero tiene una FC máxima de 200 pulsaciones y una FC basal de 50 pulsaciones, el rango de entrenamiento individual es de 150 pulsaciones.
+
+**Efecto de la Duración en la FC:** En esfuerzos submáximos que exceden los 60 minutos, el volumen sistólico tiende a disminuir. Esto provoca un aumento de la FC para mantener un gasto cardíaco constante, lo que desestabiliza los valores de FC inicialmente logrados.
+
+**Fiabilidad:** La FC es un parámetro de control fiable para la resistencia aeróbica, siempre que la duración del ejercicio sea al menos de dos minutos para permitir la estabilización del metabolismo aeróbico (Billat, 2002).
+
+#### 7.4. Control mediante el Lactato Hemático
+
+La intensidad de un ejercicio físico puede programarse basándose en el nivel de lactato producido al finalizar el esfuerzo. Se puede establecer una escala subjetiva que relacione la intensidad con el lactato, ajustándose a los objetivos del entrenamiento de resistencia:
+
+| mM/l   | Sistema energético          | Intensidad   |
+| :----- | :-------------------------- | :----------- |
+| 2-mar  | Aeróbico: lipólisis         | BAJA         |
+| 4      | Aeróbico: glucólisis aeróbica | INTERMEDIA   |
+| 5-ago  | Aeróbico-anaeróbico láctico | MEDIA        |
+| 8-dic  | Anaeróbico láctico          | SUBMÁXIMA    |
+| Más de 12 | Anaeróbico láctico          | MÁXIMA       |
+
+Los avances tecnológicos actuales han simplificado la medición de la intensidad del ejercicio a través de la acumulación de ácido láctico, con analizadores portátiles de fácil uso.
+
+#### 7.5. Escala de Borg
+
+La escala de Borg permite controlar la intensidad del entrenamiento mediante una valoración subjetiva del esfuerzo. Muestra altas correlaciones estadísticas con la frecuencia cardíaca, el consumo de oxígeno, la concentración de ácido láctico y la ventilación, siendo una herramienta útil para esfuerzos aeróbicos. Su sencillez y validez la hacen especialmente útil para bomberos con experiencia en autoevaluación.
+
+**7.5.1. Primera escala de Borg (1970):**
+Esta escala va del 6 al 20. Tras el ejercicio, el bombero indica un valor que, multiplicado por diez, estima la FC.
+
+| Valor Borg | Descripción       |
+| :--------- | :---------------- |
+| 6          |                   |
+| 7          | Ligerísimo        |
+| 8          |                   |
+| 9          | Muy ligero        |
+| 10         |                   |
+| 11         | Ligero            |
+| 12         |                   |
+| 13         | Medio             |
+| 14         |                   |
+| 15         | Duro              |
+| 16         |                   |
+| 17         | Muy duro          |
+| 18         |                   |
+| 19         | Durísimo          |
+| 20         |                   |
+
+**Ejemplo:** Si el bombero elige el valor 15 (trabajo duro), sus pulsaciones por minuto serían aproximadamente 150 (15 x 10).
+
+**7.5.2. Relación de la escala de Borg con la FCmáx. y con el VO2máx.**
+Pollock y Wilmore (1990) establecieron la siguiente relación:
+
+| Fcmax       | VO2máx.     | Escala de Borg | Clasificación de la intensidad |
+| :---------- | :---------- | :------------- | :--------------------------- |
+| <35%        | <30%        | <10            | Muy liviana                  |
+| 35-59%      | 30-49%      | 10-11          | Liviana                      |
+| 60-70%      | 50-74%      | 12-13          | Moderada                     |
+| 80-89%      | 75-84%      | 14-16          | Fuerte                       |
+| >90%        | >85%        | >16            | Muy fuerte                   |
+
+**7.5.3. Segunda escala de Borg: escala de Borg Category Rating 10 (1982)**
+Borg mejoró su escala inicial, dándole propiedades de escala de razón, puntuando del uno al diez (donde 1 es extremadamente débil y 10 es máximo). Estos valores se relacionan con las manifestaciones de la resistencia:
+
+| Escala de Borg (1-10) | Manifestación de la Resistencia         |
+| :-------------------- | :-------------------------------------- |
+| 10-9                  | Capacidad y potencia anaeróbica         |
+| 7-8                   | Potencia aeróbica (A3)                  |
+| 4-6                   | Capacidad aeróbica                      |
+| 2-3                   | Eficiencia aeróbica                     |
+
+#### 7.6. Control Múltiple de la Intensidad
+
+El control de la intensidad en los entrenamientos de resistencia no debe limitarse a un solo parámetro. La tendencia actual es utilizar un control múltiple, relacionando todos los parámetros estudiados. Aunque más costoso, este procedimiento ofrece mayor precisión en la prescripción y control de la intensidad.
+
+### 8. Métodos de Entrenamiento de la Resistencia
+
+#### 8.1. Concepto de Método y Clasificación
+
+**Definición de Método:** Zintl (1991) describe el método como un procedimiento planificado que establece el contenido, los medios y las cargas del entrenamiento según un objetivo predefinido. García Verdugo (2003) lo ve como una herramienta para el entrenador que busca alcanzar objetivos de rendimiento.
+
+**Distinción entre Sistema y Método:** El término "sistema" (conjunto de normas y procedimientos) es más amplio que "método" (conjunto de operaciones para un resultado). Un sistema de entrenamiento engloba varios métodos para desarrollar la resistencia.
+
+**Clasificación de Métodos:** La teoría del entrenamiento ha generalizado los métodos de diversas disciplinas. Álvarez y Ballesteros (1980) los resumieron para el atletismo:
+
+| Categoría                  | Ejemplos                               |
+| :------------------------- | :------------------------------------- |
+| **Sistemas Naturales**     | Carrera continua, Fartlek, Cuestas     |
+| **Sistemas Fraccionados**  | Interval training, Ritmo velocidad resistencia (resistencia, competición) |
+| **Velocidad**              | Estímulos máximos, Ritmo velocidad, Modulaciones de frecuencia |
+| **Sistemas Complementarios** | Pesas, Gimnasia, Saltos, Circuitos, Entrenamiento total |
+
+#### 8.2. Método Continuo
+
+Se caracteriza por una única serie de trabajo sin pausas. Por ejemplo, sesenta minutos de carrera.
+
+**Variantes:**
+
+*   **Método continuo armónico:** Implica un esfuerzo constante en intensidad.
+*   **Método continuo variable:** El esfuerzo se mantiene con intensidad variable, ofreciendo diversas posibilidades:
+    *   **Progresivos:** Cambios de ritmo preprogramados, por ejemplo, diez minutos a 150 pulsaciones, diez minutos a 160 pulsaciones y diez minutos a 170 pulsaciones.
+    *   **Fartlek:** Cambios de ritmo no programados, que se ajustan a las características del entorno natural.
+
+En cuanto a la intensidad, el método continuo puede ser:
+
+*   **Intensivos:** Cuando se prioriza la intensidad sobre el volumen.
+*   **Extensivos:** Cuando se prioriza el volumen sobre la intensidad.
+
+#### 8.3. Método Fraccionado
+
+Se caracteriza por dividir el esfuerzo en varias series, con pausas de descanso entre ellas.
+
+**8.3.1. Orígenes del Método Fraccionado**
+Desde 1850, entrenadores norteamericanos (M. Murphy, L. Robertson y D. Cronwell) observaron que para mejorar la velocidad en carreras, era necesario trabajar con ritmos más rápidos y distancias parciales (1/2 a 1/4 del total), incluyendo períodos de recuperación. Entre 1915 y 1935, corredores y técnicos finlandeses ajustaron este sistema, reduciendo repeticiones, aumentando intensidad e introduciendo pausas, dando origen al entrenamiento fraccionado o interválico (Meléndez, 1995). Emil Zatopek popularizó el *interval training* en la década de 1950. Reindell y Roskamm (1959, 1962) publicaron el método, que ha sido adaptado a diversos deportes.
+
+Para los bomberos, este método es crucial porque el ejercicio intermitente de alta intensidad es común en su trabajo. Las tareas especiales acíclicas con esfuerzos de distinta intensidad y recuperaciones activas e incompletas son frecuentes. La adaptación al método fraccionado es necesaria para optimizar el rendimiento.
+
+**8.3.2. Variantes del Método Fraccionado**
+Este método divide el esfuerzo en series con descansos intermedios. Sus variantes incluyen:
+
+*   **Método Interválico:** Caracterizado por descansos incompletos entre repeticiones. Puede ser:
+    *   **Largo:** Esfuerzos que duran más de 5 minutos, con descansos que no permiten una recuperación completa entre series.
+
+
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-

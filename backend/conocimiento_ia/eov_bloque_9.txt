@@ -1,67 +1,172 @@
-# Equipos de Respiración Autónoma (ERA) en Intervenciones de Bomberos
+**CAPÍTULO 3: Equipos de Protección Individual de las Vías Respiratorias**
 
-Los Equipos de Respiración Autónoma (ERA) son dispositivos esenciales de protección individual de las vías respiratorias, diseñados bajo el principio de circuito abierto de aire comprimido. Su función primordial es suministrar aire respirable al usuario de forma independiente de la atmósfera exterior, un aspecto crucial en ambientes contaminados o con deficiencia de oxígeno.
+**2. Equipos y Herramientas de Protección Respiratoria**
 
-## Componentes y Funcionamiento del ERA
+**2.1. Máscara**
 
-Un equipo ERA se compone principalmente de un **tubo respiratorio flexible** que se conecta a la máscara, y una **botella de aire comprimido** que se sujeta a la espalda mediante un arnés.
+**2.1.4. Mantenimiento**
 
-### Botella de Aire Comprimido
+Para la limpieza de la máscara, solo deben emplearse detergentes desinfectantes autorizados. Es fundamental evitar el uso de disolventes como acetona, alcohol o sustancias similares.
 
-La botella, cargada a una presión de entre 250 y 300 bares, incorpora un regulador que reduce esta alta presión a niveles atmosféricos y alerta acústicamente al usuario cuando el suministro de aire está próximo a agotarse. Un manómetro integrado en el equipo indica la presión actual de la botella.
+Tras cada uso, la máscara debe desinfectarse mediante inmersión en un baño con la dosis adecuada de desinfectante durante el tiempo estipulado, a fin de evitar deformaciones. Adicionalmente, después de cada operación, se recomienda lavar la máscara con agua templada y detergente universal, utilizando un paño suave, y luego enjuagar con abundante agua corriente.
 
-### Sistema de Suministro de Aire
+Para el secado, la máscara debe dejarse secar al aire o en un armario de secado, a una temperatura máxima de 60 °C. Es crucial evitar la exposición directa a la luz solar y no colocar los elementos tensores sobre el marco de sellado. Las guías de los elementos tensores deben lubricarse con vaselina.
 
-El aire de la botella, almacenado a alta presión, es canalizado a través de un **reductor de presión** que lo disminuye a una presión media de aproximadamente 6 a 7,5 bares. Desde allí, el aire pasa a un **regulador** que lo entrega a la máscara a una presión de entre 0 y 4 milibares, operando en modo de presión normal o positiva. Para garantizar la seguridad, el reductor de presión incluye una válvula de alivio que limita la presión media a 12 bares en caso de fallo, asegurando que el aire llegue al usuario a aproximadamente 1 bar. Asimismo, un avisador acústico con silbato se activa cuando la presión de la botella desciende a unos 55 bares, manteniéndose activo hasta los 10 bares.
+El proceso de limpieza de la válvula de exhalación se compone de tres fases:
+1. **Desmontaje**: Se retira la tapa protectora (identificada como 1), el puente elástico de su alojamiento y, a continuación, la válvula.
+2. **Limpieza**: Se verifica que el disco de la válvula (2) y su asiento estén limpios y sin daños. En caso de suciedad, se limpian con agua; si hay daños, se sustituyen.
+3. **Montaje**: El disco de la válvula (2) se humedece con agua y se reinstala en su lugar. El puente elástico (marcado con "L" para izquierda y "R" para derecha, identificado como 3) se posiciona de modo que sus patas queden fijas y encajadas.
 
-Entre los modelos más habituales se encuentran el **PSS-90**, que funciona con presión positiva, y el **autónomo de 3 litros y 300 bares** fabricado en carbón-composite. Este último se distingue por tener el reductor de presión protegido en la espalda, un medidor de presión situado lateralmente en la cintura, y una espaldera flexible que, además, es lavable a máquina, lo que lo hace idóneo para trabajos de corta duración, como el reconocimiento de incendios estructurales o situaciones críticas en incendios forestales.
+Existen dos tipos de puentes para la válvula (negro y rojo) y dos tipos de válvulas (con base grande y con base pequeña). El puente negro es compatible con ambas válvulas, mientras que el puente rojo solo lo es con la válvula de base pequeña.
 
-### Cálculo del Consumo y Autonomía del Aire
+El cristal de la máscara se frotará con un paño antiestático. Para evitar deformaciones y efectos adversos sobre la hermeticidad, los elementos de sujeción no deben colocarse sobre el marco de sellado de la máscara. Debe guardarse en la bolsa o caja correspondiente (huevera) en un lugar seco, exento de polvo, con una temperatura entre -15 °C y 25 °C, y protegida de la luz y fuentes de calor, asegurando que no se deforme.
 
-Para calcular el consumo de oxígeno y estimar la autonomía del equipo en diversas situaciones de trabajo, se emplea la fórmula: `[(Presión inicial - Presión final) x Volumen de la botella] / Tiempo de uso = litros/minuto`. Por ejemplo, una botella de 6 litros cargada a 300 bares, con una alarma configurada a 50 bares, ofrece un total de 1500 litros de aire disponible. Esto se traduce en una autonomía aproximada de 100 minutos en reposo (15 l/min), 30 minutos en rendimiento medio (50 l/min), o 16 minutos en alto rendimiento (90 l/min).
+El usuario debe verificar el estado óptimo de la careta completa tras cualquier operación de mantenimiento o reparación.
 
-### Partes Adicionales del ERA
+**2.2. ERA (Equipo de Respiración Autónomo)**
 
-Las partes constituyentes de un equipo de respiración autónoma también incluyen el **pulmoautomático**, el **manorreductor**, la **espaldera**, el **manómetro**, el **bodyguard**, la **botella de aire comprimido** y un **adaptador en "T"** para configuraciones bibotella.
+**2.2.1. Especificaciones**
 
-## Máscara de Protección Respiratoria
+El Equipo de Respiración Autónoma (ERA) es un sistema de protección respiratoria de circuito abierto que funciona con aire comprimido. Sus componentes principales son un tubo respiratorio flexible para conectar a la máscara y una botella de aire comprimido que se sujeta a la espalda mediante un arnés.
 
-La máscara es el componente que se acopla al rostro para permitir la inhalación de aire limpio y la exhalación de aire contaminado, asegurando una independencia total entre el ambiente exterior y el sistema respiratorio del usuario. Debe garantizar una estanqueidad total, una visibilidad amplia sin empañamiento del visor, y una comunicación oral efectiva gracias a un mecanismo que facilita la transmisión de la voz.
+La botella contiene aire comprimido a una presión de 250 a 300 bares. Incorpora un regulador que reduce esta presión al nivel atmosférico y un avisador acústico que indica el bajo nivel de aire. También se conecta un manómetro que muestra la presión de la botella. Estos equipos operan bajo presión positiva.
 
-Las máscaras suelen estar fabricadas en caucho sintético o silicona antialergénica, adaptándose rápidamente al casco mediante sujeciones de acero inoxidable o atalajes tipo pulpo. Su diseño incluye un doble cerco estanco para un ajuste perfecto y un cristal de policarbonato inastillable, resistente al fuego, con un campo de visión de 180º. La conexión al pulmoautomático se realiza mediante un enchufe rápido tipo bayoneta o rosca.
+El aire a alta presión (200 o 300 bar) es reducido por el sistema reductor a una presión media de aproximadamente 6 a 7,5 bar. El regulador suministra este aire a la máscara, creando una presión positiva de 0 a 4 mbar, según el modo de operación (normal o positivo). Como característica de seguridad, el reductor de presión incluye una válvula de alivio que se activa en caso de mal funcionamiento, limitando la presión media a 12 bar. Un silbato acústico alerta al usuario cuando la presión de la botella desciende a aproximadamente 55 bar (±5 bar), permaneciendo activo hasta los 10 bar.
 
-El funcionamiento de la máscara se basa en una **válvula de exhalación unidireccional** que permite la salida del aire exhalado e impide la entrada de aire exterior. Además, una **membrana fónica o acústica** de lámina metálica vibra para transmitir el sonido de la voz. Las diferencias entre modelos de máscaras suelen residir en los sistemas de unión al usuario (enganches rápidos o pulpos) y en los tipos de conexión del pulmoautomático a la máscara.
+Los modelos comunes de equipos autónomos incluyen el PSS-90 (con presión positiva) y el modelo de 3 litros y 300 bares (de carbono-composite). Las diferencias con los sistemas tradicionales radican en que el reductor de presión está protegido en la espalda, el manómetro se ubica lateralmente en la cintura, la espaldera es flexible y es lavable a máquina. Se emplean en tareas de corta duración, como el reconocimiento de incendios estructurales, evaluación y situaciones críticas en incendios forestales.
 
-### Normativa y Clases de Máscaras
+**Tabla 7. Intervalos de Comprobación y Mantenimiento (Máscara)**
 
-Las caretas completas están reguladas por la norma **EN 136 CL.3**, con el correspondiente marcado CE. La UNE EN 136 establece tres clases de máscaras, todas con el mismo nivel de protección, pero con aplicaciones distintas: la Clase 1 (ligera), la Clase 2 (general) y la Clase 3 (específica para equipos de emergencia y bomberos). Adicionalmente, las caretas deben cumplir los requisitos para una exposición total al fuego según la EN 137.
+| Trabajo a realizar                 | Plazos máximos                                                                                                |
+| :--------------------------------- | :------------------------------------------------------------------------------------------------------------ |
+| Limpieza y desinfección          | Antes del uso (X), Semestralmente (X1)                                                                       |
+| Inspección visual, verificación de funcionamiento y hermeticidad | Antes del uso (X), Cada 2 años (X2)                                                                           |
+| Cambio del disco de la válvula de espiración | Cada 4 años (X)                                                                                               |
+| Cambio de la membrana fónica     | Cada 6 años (X)                                                                                               |
+| Control por el usuario del aparato | Antes del uso (X)                                                                                             |
 
-### Uso y Seguridad de la Máscara
+*Notas para la tabla 7:*
+1.  Para caretas con embalajes herméticos al aire; en otros casos, semestralmente.
+2.  Cada dos años, si las caretas están selladas al vacío.
 
-Para un uso seguro, es fundamental peinarse hacia atrás y despejar la frente antes de colocar la máscara. El procedimiento de colocación implica poner la cinta portadora alrededor de la nuca, alojar el mentón en la mentonera, desplazar los elementos tensores del borde superior de la careta hacia la frente y debajo del casco de protección, y tensar ambos elementos tensores hacia atrás para engancharlos a los alojamientos de retención del casco. Finalmente, se ajusta la careta y se cierra el barboquejo sin apretar excesivamente.
+**Cálculo del Consumo de Oxígeno**
 
-La hermeticidad debe verificarse pulsando la tecla del dispositivo automático pulmonar (1) para insertarlo en la pieza de empalme, soltando la tecla y comprobando el acople. Posteriormente, se cierra el niple enchufable (2) con el pulgar y se aspira hasta producir una depresión, la cual debe mantenerse para confirmar que no entra aire exterior. Este proceso se repite dos veces.
+Para determinar la duración del aire en estos equipos bajo diversas condiciones de trabajo, se utiliza la siguiente fórmula:
 
-Es crucial evitar que la barba, patillas o monturas de gafas comprometan la hermeticidad. Se recomienda realizar una verificación del asiento de la careta con la ayuda de otra persona y asegurarse de que las patillas metálicas estén correctamente alojadas para evitar la pérdida de la máscara. Después de usarla, para desacoplar el dispositivo automático pulmonar, se pulsa la tecla (1) mientras se extrae. Para quitarse la máscara, se tiran hacia atrás los elementos tensores (3), se desenganchan del casco y se retira este último.
+`[(Pi) – (Pf)] x (V) / (T) = litros/minuto`
 
-### Mantenimiento de la Máscara
+Donde:
+*   **Pi**: Presión inicial.
+*   **Pf**: Presión final.
+*   **T**: Duración de la prueba.
+*   **V**: Volumen o capacidad de la botella.
 
-El mantenimiento de la máscara requiere el uso exclusivo de detergentes desinfectantes autorizados, evitando disolventes como acetona o alcohol. Después de cada uso, la máscara debe desinfectarse sumergiéndola en un baño desinfectante a la dosis y tiempo indicados, para evitar deformaciones. También se puede limpiar con agua tibia y detergente universal, enjuagando con abundante agua corriente. El secado debe realizarse al aire o en un armario de secado a una temperatura máxima de 60ºC, evitando la exposición directa al sol y sin colocar los elementos tensores sobre el marco hermetizador. Las guías de los elementos tensores deben lubricarse con vaselina.
+El consumo de aire se expresa en litros por minuto. Este se calcula a partir de la diferencia de presión en el manómetro (Presión inicial – Presión final), multiplicando el resultado por la capacidad volumétrica (V) de la botella y dividiéndolo por el tiempo (T) en minutos.
 
-Para la **válvula de exhalación**, el mantenimiento implica desmontar la tapa protectora (1), retirar el puente elástico de su alojamiento y extraer la válvula. Se comprueba que el disco de la válvula (2) y su asiento estén limpios y sin daños, procediendo a su limpieza con agua o sustitución si es necesario. Para el montaje, se humedece el disco con agua, se aloja en su lugar y se coloca el puente elástico (marcado con "L" para la izquierda y "R" para la derecha) asegurando que sus patas encajen. Los puentes de color negro son compatibles con ambas válvulas, mientras que los rojos solo lo son con las válvulas de base pequeña. El cristal de la máscara se frota con un paño antiestático para evitar deformaciones.
+**Ejemplo:** Para una botella de 6 litros cargada a 300 bar, sin que suene la alarma del ERA:
+*   Se dispone de 1500 litros en la botella [(300 bar – 50 bar) x 6].
+*   En reposo, con un consumo de 15 l/min, se dispone de 100 minutos de aire (1500/15).
+*   Con rendimiento medio, con un consumo de 50 l/min, se dispone de 30 minutos (1500/50).
+*   Con rendimiento alto, con un consumo de 90 l/min, se dispone de 16 minutos (1500/90).
 
-Para su almacenamiento, la máscara debe guardarse en una bolsa o caja adecuada (huevera), en un lugar seco, sin polvo, a una temperatura entre -15ºC y 25ºC, protegida de la luz y de fuentes de calor, y sin que sufra deformaciones. Finalmente, el usuario debe verificar el perfecto estado de la careta después de cada operación o trabajo de mantenimiento y reparación.
+**Componentes del Equipo de Respiración Autónoma (ERA)**
 
-## Manómetro y Bodyguard
+Los equipos de respiración autónoma se componen de:
+*   Pulmoautomático (o segundo regulador)
+*   Manorreductor (reductor de presión)
+*   Espaldera
+*   Manómetro
+*   Bodyguard
+*   Botella de aire comprimido
+*   Adaptador en "T"
 
-El **manómetro** es un dispositivo que permite al bombero visualizar la presión de aire restante en la botella, indicando con una franja roja el último 25% del volumen total, momento en el que se activa una alarma de baja presión.
+**1. El Pulmo (Pulmoautomático o Segundo Regulador)**
 
-El **bodyguard**, un dispositivo más avanzado, reemplaza al manómetro tradicional. Además de mostrar la presión de la botella y el aire restante, proporciona una interpretación de la temperatura corporal del bombero post-intervención. Incorpora una alarma óptica al 50% del contenido de aire y calcula el tiempo de uso restante mediante lecturas periódicas. También cuenta con alarmas de movimiento, un botón de alarma manual, una reserva de aire (activada a los últimos 50 bares de la botella), y una señal de "hombre muerto" que se activa si el usuario permanece inmóvil durante un tiempo determinado. Además, avisa sobre la necesidad de mantenimiento.
+Este componente suministra aire al usuario de acuerdo con el esfuerzo físico realizado. Recibe aire a presión media del manorreductor y lo reduce a baja presión (ligeramente superior a la atmosférica). Se activa con la primera inhalación del usuario y se desactiva pulsando un botón de bloqueo. Para un suministro adicional de aire, se puede presionar el centro de la cubierta de goma. La conexión a la máscara es de tipo bayoneta de enchufe rápido o de rosca.
 
-## Botella de Aire Comprimido (Detalle)
+Los caudales actuales son elevados, aproximadamente 500 litros por minuto (lpm), lo que asegura suficiente aire en situaciones de gran esfuerzo. La válvula de entrada a la máscara está regulada a una presión ligeramente inferior a la del aire que llega por el conducto, lo que permite que el aire supere la resistencia de la válvula y penetre en la máscara. La válvula se cierra cuando la presión del aire dentro de la máscara se iguala con la del conducto.
 
-La botella se compone de un cilindro y un grifo. El **cilindro** lleva grabadas referencias como el año de fabricación, caducidad, capacidad en litros, presión de carga y fecha de las revisiones, además del marcado CE, cumpliendo la normativa UNE-EN 12021. Se fabrica en acero aleado (cromo-níquel molibdeno) o en material compuesto con un alma metálica de aluminio revestida con fibra de carbono y fibra de vidrio para resistir impactos. También existen versiones de fibra de carbono 100% con esqueleto de polietileno de 2mm. Las botellas suelen pesar entre 7 y 8 kg, aunque las aligeradas pueden rondar los 4 kg, y se permite la unión de dos botellas.
+**2. El Manorreductor**
 
-Las botellas deben someterse a **pruebas hidráulicas** por expansión volumétrica o retimbrado cada tres años, a partir del año siguiente a la primera prueba de presión realizada por el fabricante. Además, se realiza una **inspección visual anual** tanto del exterior como del interior para verificar su estado y determinar si deben ser retiradas de servicio.
+El manorreductor reduce la presión del aire que sale de la botella. Su caudal de aire suministrado es de 1000 l/min. Opera con botellas de 200 o 300 bar, realizando una primera etapa de reducción de 200/300 bar a 5,5 bar de manera muy precisa y constante.
 
-El **grifo** de la botella tiene como misión abrir y cerrar el paso de aire, además de filtrar posibles impurezas. Consta de un maneral de apertura/cierre (de goma negra o plástico endurecido, a menudo reflectante), un cuerpo con dos roscas normalizadas (una para unir a la botella y otra al manorreductor de la espaldera), y un filtro interno (hecho de virutas de cobre con poros pequeños y homogéneos, ubicado en un tubo para evitar la condensación de agua). El grifo también debe llevar el marcado CE y una conexión de salida conforme a la UNE-EN 144-2.
+En caso de mal funcionamiento, incorpora una válvula de alivio que se activa para limitar la presión media a un máximo de 12 bares, llegando al usuario una presión aproximada de 1 bar tras pasar por el pulmoautomático. Se fija a la parte inferior de la espaldera mediante un tornillo pasante y es basculante para facilitar la conexión a la botella de aire comprimido. La conexión a la botella se realiza mediante una rosca con recubrimiento de goma para facilitar la manipulación, e incorpora una junta tórica para garantizar la estanqueidad. La conexión siempre debe hacerse a mano y sin fuerza excesiva. Incluye un freno de seguridad (antivibración) para evitar que la rosca se afloje accidentalmente. Antes de desmontar la botella, es necesario despresurizar el equipo.
+
+Sus componentes se ubican en la cámara de alta presión, la conexión de alta al manómetro, la salida de media presión, la válvula de seguridad, la conexión para el adaptador de carga rápida y la conexión para el segundo regulador (destinado a rescate). Una alarma acústica de baja presión (silbato) alerta al bombero cuando la presión de la botella desciende a 55 (+/- 5) bares, y esta alarma permanece activa hasta que la presión en la botella es de aproximadamente 10 bares.
+
+**3. La Espaldera**
+
+La espaldera es el soporte principal para todos los demás componentes del ERA. Su función es sujetar la botella y distribuir su peso sobre el cuerpo del usuario. Permite ajustar la altura y cuenta con un cinturón dorsal articulado para facilitar los giros.
+
+Está formada por:
+*   **Placa dorsal**: Fabricada en plástico con fibra de vidrio o carbono, con diseño anatómico. Incorpora una cinta regulable para la fijación de la(s) botella(s), atalajes y un sistema reductor de presión.
+*   **Atalajes**: Con hebillas ajustables, incluyen cinturón y tirantes de fibra ignífuga, generalmente acolchados en hombros y zona lumbar.
+
+**4. El Manómetro**
+
+Es un dispositivo que indica la presión de aire restante en la botella. Un margen de color rojo en el manómetro señala que se ha alcanzado el último 25% del volumen total del cilindro, momento en el que se activa el silbato de baja presión.
+
+**5. El Bodyguard**
+
+Este dispositivo sustituye al manómetro tradicional. Ofrece una lectura digital de la presión de la botella y del aire restante. Además, proporciona una interpretación de la temperatura corporal del bombero a través del traje de intervención. Incorpora una alarma óptica que se activa al 50% del contenido de aire y ayuda a calcular el tiempo de uso restante mediante lecturas periódicas. Dispone también de una alarma de movimiento, un botón de alarma manual, una reserva de aire (los últimos 50 bares de la botella) y una señal de "hombre muerto" que se activa si el usuario permanece inmóvil por un tiempo determinado. También notifica la necesidad de mantenimiento.
+
+**6. La Botella de Aire Comprimido**
+
+Se compone del cilindro y el grifo.
+El cilindro lleva grabadas referencias como el año de fabricación, la caducidad, la capacidad en litros, la presión de carga y las fechas de revisiones, además de la marca CE. Está regulado según la norma UNE-EN 12021. Se fabrica en acero aleado (cromo-níquel molibdeno) o en material compuesto con un núcleo de aluminio, recubierto de fibra de carbono y reforzado con fibra de vidrio para resistir impactos. También existen botellas 100% de fibra de carbono con un esqueleto interno de polietileno de 2mm y revestimiento de fibra de vidrio. El cuello lleva un firme de aluminio para alojar el grifo. El peso total de estas botellas es de 3,6 kg.
+
+La presión de servicio es de 200 o 300 bar, con capacidades de 4, 6, 6,8 y 9 litros de agua. Una botella de 6 litros a 300 bares contiene 1.800 litros de aire. El peso de las botellas varía de 7-8 kg, con versiones aligeradas de alrededor de 4 kg. Es posible conectar dos botellas.
+
+Las botellas deben someterse a una prueba hidráulica cada tres años para verificar la expansión volumétrica o el retimbrado (sobrepresión). A partir del año siguiente a la primera prueba de presión estampada por el fabricante, se realizan inspecciones visuales anuales (externa e interna). Se deben verificar los datos externos de la botella para determinar la fecha del último retimbrado y si deben ser retiradas para revisión.
+
+**El Grifo**
+
+El grifo va roscado en el cuello de la botella y su función es abrir y cerrar el paso de aire, además de filtrar posibles impurezas. Sus componentes son:
+*   **Maneral**: de goma negra o plástico endurecido (reflectante), fijado al grifo con un tornillo o tuerca.
+*   **Cuerpo**: incorpora dos roscas estandarizadas para unir el grifo a la botella y la botella al manorreductor de la espaldera.
+*   **Filtro**: fabricado con virutas de cobre y poros muy pequeños y homogéneos. Se ubica en un pequeño tubo para evitar la salida de agua por condensación del cilindro (la botella se encuentra invertida cuando el equipo está puesto y el grifo hacia abajo).
+
+El grifo también debe llevar el marcado CE, con una conexión de salida conforme a la norma UNE-EN 144-2.
+
+**7. El Adaptador en “T”**
+
+La mayoría de los equipos de protección respiratoria de aire comprimido pueden adaptarse para ser utilizados como unidad bibotella, mediante un conector en "T".
+
+**2.2.2. Normativa**
+
+Los Equipos de Respiración Autónoma (ERA) se clasifican como EPI de categoría III y están regulados por la norma UNE-EN 137:2007 "Equipos de protección respiratoria autónomos de circuito abierto de aire comprimido. Requisitos, ensayos y marcado". Esta norma establece dos clases de ERA: Tipo 1 para uso industrial y Tipo 2 para bomberos. Los equipos de Tipo 2 solo deben conectarse a máscaras de Clase 3, diseñadas para equipos de emergencia y bomberos.
+
+Además, algunos elementos específicos se rigen por sus propias normas:
+*   Los pulmones (pulmoautomáticos) deben cumplir las normas EN 148-1 y EN 148-3.
+*   El manorreductor y el grifo de la botella están regulados por la norma UNE-EN 144-2.
+*   El cilindro de la botella, al referirse al cilindro que contiene el aire, debe cumplir la norma UNE-EN 12021.
+
+**2.2.3. Uso y Seguridad**
+
+Estos equipos se emplean en atmósferas con deficiencia de oxígeno (inferior al 19,5% en volumen), concentraciones elevadas de contaminantes, presencia de compuestos químicos muy tóxicos, o en situaciones donde se desconoce la composición o concentración de los agentes contaminantes, impidiendo una correcta selección del equipo de protección respiratoria.
+
+**Colocación del Equipo:**
+1.  Extender completamente las hombreras y el cinturón.
+2.  Abrochar la hebilla del cinturón.
+3.  Ajustar el cinturón a las caderas tirando de los extremos sueltos hacia fuera hasta que el equipo quede bien ajustado y cómodo.
+4.  Introducir los extremos sueltos del cinturón en las presillas.
+5.  Tirar hacia abajo de las hombreras hasta sentir que el equipo está bien colocado.
+
+Los extremos sueltos de las hombreras se colocan dentro de la almohadilla del cinturón y las correas.
+
+**Colocación de la Máscara:**
+1.  Extender las correas, dejando el centro del atalaje libre.
+2.  Colocar la barbilla en la máscara.
+3.  Posicionar los atalajes sobre la cabeza.
+4.  Ajustar las correas inferiores y luego las superiores, tirando de ellas hacia la nuca sin apretar demasiado.
+
+La máscara se considera correctamente colocada si la superficie de sellado está en estrecho contacto con la piel. Se debe tener precaución con el vello facial que pueda afectar la estanqueidad y al usar gafas. Una vez logrado el ajuste perfecto, las válvulas de demanda de presión positiva se activan automáticamente con la primera inhalación, permitiendo una respiración normal.
+
+**Comprobación del Funcionamiento de las Válvulas de Exhalación:**
+Para verificar el funcionamiento, respirar profundamente varias veces. Al aguantar la respiración, la unidad debe mantenerse equilibrada sin fugas audibles. Al continuar respirando, el aire exhalado debe fluir fácilmente. Finalmente, se comprueba el suministro adicional de aire presionando el centro de la cápsula de protección (botón negro).
+
+**Ajuste de la Botella de Aire Comprimido:**
+1.  Abrir completamente la correa de sujeción de la botella en la espaldera.
+2.  Verificar que la válvula de la botella y la rosca estén en perfectas condiciones, al igual que la junta de alta presión.
+3.  Con el equipo en posición horizontal, deslizar la botella por la correa de sujeción desde la parte superior de la espaldera hacia el conector de la botella situado sobre el reductor de presión. La salida de la válvula debe apuntar hacia la rosca de cierre del manorreductor.
+4.  Colocar el equipo en posición vertical y enroscar la llave de cierre del reductor de presión a la salida de la válvula de la botella.

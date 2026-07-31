@@ -1,59 +1,257 @@
-## Elementos Mecánicos de Vehículos de Bomberos: Neumáticos, Lubricación, Refrigeración y Escape
+El neumático cumple diversas funciones esenciales:
+*   **Adherencia**: Proporciona agarre tanto en superficies secas como mojadas.
+*   **Duración y Resistencia**: Ofrece alta durabilidad y resiste el desgaste y las agresiones.
+*   **Rodadura**: Contribuye a una baja resistencia durante la rodadura.
+*   **Confort acústico**: Reduce el ruido generado en la marcha.
+*   **Manejo del vehículo**: Facilita la dirección y el control del automóvil.
+*   **Estética**: Mejora la apariencia del vehículo.
 
-La operatividad y seguridad de los vehículos de bomberos dependen críticamente de diversos sistemas mecánicos, entre los que destacan los neumáticos, el sistema de lubricación, la refrigeración y el escape. Cada uno de estos elementos cumple funciones específicas y está sujeto a normativas y mantenimientos rigurosos.
+El **flanco** del neumático, que es la zona lateral entre la banda de rodadura y los talones de la cubierta, define su altura. Sus funciones son:
+*   Soportar la carga.
+*   Resistir las constantes flexiones mecánicas.
+*   Ofrecer resistencia a roces y agresiones.
+*   Contribuir a la estabilidad y confort.
 
-### Neumáticos: Componentes, Propiedades y Mantenimiento
+Las **lonas de cima** están compuestas por cables metálicos recubiertos de goma, dispuestas sobre la carcasa para formar un cinturón que asegura la resistencia mecánica del neumático a la velocidad y a la fuerza centrífuga. El cruce de sus hilos con los de la carcasa crea triángulos indeformables que garantizan la rigidez de la cima. Las lonas de cima deben ser:
+*   **Rígidas en sentido circunferencial**: Para evitar la expansión por efecto centrífugo y controlar el diámetro del neumático.
+*   **Rígidas en sentido transversal**: Para resistir los esfuerzos de deriva.
+*   **Flexibles en sentido vertical**: Para absorber los obstáculos.
 
-Los neumáticos son el único punto de contacto entre el vehículo y el suelo, desempeñando un papel vital en la adherencia, la frenada y la estabilidad. Se componen de varias partes interconectadas, cada una con características específicas.
+**1.5.2. Diseño de la Banda de Rodadura del Neumático**
 
-El **dibujo o escultura de la banda de rodadura** es la superficie en contacto directo con el terreno y es fundamental para la adherencia, la capacidad de frenado y el confort acústico. En superficies mojadas, su diseño con cortes y canales está optimizado para evacuar grandes volúmenes de agua, minimizando el riesgo de *aquaplaning*. Las pequeñas laminillas presentes en el dibujo actúan como limpiaparabrisas, mejorando la tracción en mojado y helado. Para superficies secas, un dibujo menos recortado con un perfil plano y hombros cuadrados en la escultura asegura una mayor superficie de contacto con el suelo, lo que incrementa el agarre y la estabilidad en las curvas, sin embargo, los bloques de goma, aunque proporcionan rigidez, pueden incorporar laminillas tridimensionales para evitar la excesiva rigidez de la escultura.
+El diseño o escultura del neumático es crucial para:
+*   La adherencia.
+*   La capacidad de frenado.
+*   Las prestaciones y la seguridad, especialmente en condiciones climáticas adversas.
 
-El **flanco** del neumático, situado entre la banda de rodadura y el talón, define la altura del mismo. Su función es soportar la carga, absorber las flexiones mecánicas, resistir abrasiones y agresiones, y contribuir a la estabilidad y confort del vehículo. Por su parte, la **carcasa** está formada por cables metálicos revestidos de goma, que crean una estructura robusta para resistir la velocidad y la fuerza centrífuga. Esta estructura debe ser rígida circunferencialmente para evitar la expansión, rígida transversalmente para soportar fuerzas laterales y flexible verticalmente para absorber irregularidades del terreno. Además, el **revestimiento de goma interior** actúa como cámara de aire estanca, mientras que el **aro de talón**, compuesto por cables de acero inextensibles, fija el neumático a la llanta y transmite el par motor.
+Para evaluar el diseño de un neumático, es necesario conocer su comportamiento tanto en mojado como en seco.
 
-La información técnica esencial de un neumático se inscribe en su flanco, incluyendo el nombre del **fabricante** y el **tipo de neumático**. La **anchura** se mide en milímetros (típicamente entre 125 y 335 mm para convencionales), aunque la real puede variar según la llanta. La **relación altura/anchura** se expresa en porcentaje, indicando que un menor porcentaje implica un perfil más bajo. La **estructura** se identifica con "R" (radial, la más común actualmente) o "D" (diagonal, hoy en desuso). El **diámetro de la llanta** se expresa en pulgadas. El **código de carga** y el **código de velocidad** indican la capacidad de carga máxima y la velocidad máxima permitida, respectivamente, con tablas estandarizadas para su equivalencia. Los neumáticos **sin cámara** ("tubeless") son comunes en turismos y más seguros, pero no deben llevar cámara. La **fecha de fabricación** (DOT) se indica con cuatro dígitos (semana y año). El **indicador de desgaste** (TWI) señala el límite legal de 1,6 mm de dibujo (aunque se recomienda reemplazarlos a 3 mm en mojado). Finalmente, los neumáticos de **invierno** ("M+S") están diseñados para condiciones adversas y pueden tener un código de velocidad inferior al normal, con requisitos de dibujo variables según la normativa específica de cada país.
+**a) Comportamiento en Mojado**
+La función principal de la escultura del neumático en mojado es evacuar el agua de la zona de contacto. Cuanto más profundas sean las ranuras del dibujo y mayor el número de canales, mayor será su capacidad para almacenar y bombear agua entre la zona de contacto y la superficie de la carretera.
 
-Es fundamental respetar la normativa europea (Reglamento ECE 30) y verificar las homologaciones ("E" o "e" mark) para garantizar la seguridad. Pueden existir excepciones en las que se permita un índice de carga o velocidad superior al especificado en la ficha técnica del vehículo, siempre y cuando se cumplan ciertas condiciones.
+La forma del dibujo de la escultura (simétrica, direccional, asimétrica) determina la rapidez con la que se expulsa el agua de la zona de contacto. Las laminillas son pequeñas ranuras en la superficie de la goma del neumático que mejoran la tracción en superficies mojadas o heladas, actuando como limpiaparabrisas y ayudando a las aristas y entalladuras a expulsar el agua. La escultura del neumático recoge y desplaza el agua de la zona de contacto en milisegundos. Por ejemplo, un neumático 195/65 R 15 puede desplazar hasta 15 litros de agua por segundo.
 
-### Sistema de Lubricación
+**b) Comportamiento en Seco**
+Una característica relevante para el control del vehículo es la rigidez de la escultura, lograda gracias a su perfil. Un perfil plano con hombros cuadrados proporciona un excelente soporte en los giros.
 
-La lubricación es crucial para reducir el rozamiento entre las piezas móviles del motor, previniendo el desgaste prematuro y disipando el calor. Los componentes que requieren lubricación incluyen apoyos del cigüeñal y árbol de levas, engranajes, pistones, guías de válvulas, y pies de bielas y balancines.
+Cuanto menos dibujo tenga el neumático, más goma estará en contacto directo con el suelo, lo que aumenta el agarre. Los tacos de goma limitan la movilidad de la escultura. Los bloques de goma, atravesados por múltiples laminillas, reducen la rigidez de la escultura; para compensar este efecto, se introducen laminillas tridimensionales que se agrupan al soportar una carga.
 
-Existen varios **tipos de engrase**:
-*   **Por barboteo**: Un sistema antiguo y menos eficiente donde el aceite salpica por el movimiento de las piezas, requiriendo una bomba mecánica auxiliar para mantener el nivel.
-*   **A presión**: Una bomba impulsa el aceite directamente a todos los puntos de lubricación.
-*   **Mixto**: Combina engrase a presión para algunas piezas y por barboteo para otras, común en motores modernos.
-*   **Por mezcla**: Utilizado en motores de dos tiempos, donde el aceite se mezcla directamente con el combustible.
-*   **Por cárter seco**: El aceite es bombeado desde un depósito externo al circuito de presión.
-*   **Lubricación del turbocompresor**: esencial debido a las altas temperaturas que alcanza este componente, para evitar la carbonización del aceite en cojinetes y ejes.
+**1.5.3. Interpretación de la Información del Neumático**
 
-El **sistema de lubricación** incluye la bomba de engrase (que suministra aceite a presión), una válvula de descarga (que regula la presión devolviendo el exceso de aceite al cárter), un sistema de filtrado y depuración (con mallas y filtros de papel para retener partículas), un sistema de refrigeración del aceite (por agua o aire para mantener su viscosidad) y un manocontacto (que enciende una luz de advertencia en el salpicadero si la presión de aceite es baja).
+El flanco del neumático contiene números, letras, símbolos y códigos que proporcionan información técnica relevante sobre su capacidad. Las características técnicas de los neumáticos están reguladas por el reglamento de vehículos. Los neumáticos para turismos están unificados en Europa según el reglamento 30 de la ECE.
 
-Los **lubricantes** se clasifican por su viscosidad (según la Sociedad de Ingenieros Automotrices, SAE, con grados que indican su comportamiento a diferentes temperaturas, como "W" para invierno), y por su calidad (según el Instituto Americano de Petróleo, API, que los clasifica para motores de gasolina "S" y diésel "C" en orden alfabético creciente de calidad; y según la Asociación de Constructores Europeos de Automóviles, ACEA, que los divide en categorías "A" para gasolina, "B" para diésel y "C" para motores con sistemas de post-tratamiento de gases). Los aceites **multigrado** son más versátiles y reducen el desgaste en arranques en frío. Los lubricantes **sintéticos** ofrecen un mejor rendimiento a temperaturas extremas y mayor durabilidad que los convencionales derivados del petróleo, aunque son más delgados y no siempre recomendables para vehículos antiguos. Los **aditivos** mejoran las propiedades del aceite, como la estabilidad de viscosidad y la resistencia a la oxidación.
+Los elementos de identificación de un neumático son:
+1.  **Fabricante del neumático** (marca).
+2.  **Tipo de neumático** y diseño de la banda de rodadura.
+3.  **Ancho del neumático** (en milímetros). La anchura de un neumático se indica en intervalos de 10 mm. La anchura real puede diferir de la marcada por los márgenes de tolerancia aplicados en el proceso y depender de la anchura de la llanta sobre la que va montado. Los neumáticos convencionales tienen una anchura entre 125 mm (ej. 125/80 R 12) y 335 mm (ej. 335/30 R 19). Los neumáticos especiales, como los TD de Dunlop o los TRX o TDX de Michelin, tienen un ancho de 160 mm a 240 mm.
+    Aunque la estandarización de los neumáticos permite, en teoría, montarlos en llantas de diversas anchuras, es crucial respetar las indicaciones del fabricante en la documentación y manual de servicio del vehículo, ya que diferencias de ancho pueden limitar el montaje de ciertos neumáticos. Las cadenas de nieve también pueden presentar estas limitaciones.
+4.  **Relación entre la altura y la anchura del neumático** (en porcentaje). Indica la relación entre la altura y la anchura de sección. Por ejemplo, un porcentaje del 50% significa que el neumático es la mitad de alto que ancho. Cuanto menor sea este porcentaje, más bajo será el neumático, como en los coches deportivos (225/45...). Como caso especial, antes no se solía incluir “.../80” en los neumáticos de las series 80 y 82, por lo que en la documentación del vehículo puede aparecer solo “155 R13”, que ahora corresponde a “155/80 R13”.
+5.  **Estructura del neumático**. Se indica con una letra:
+    *   "R": radial.
+    *   "D" o "-": diagonal.
+    Actualmente, todos los neumáticos son de estructura radial y llevan una carcasa con lonas de cables en arcos radiales. Hasta los años 60, eran habituales los neumáticos diagonales, que ahora solo se fabrican para casos particulares, como coches antiguos. Es obligatorio montar todos los neumáticos con la misma estructura.
+6.  **Diámetro de la llanta** expresado en pulgadas. Es la distancia en diagonal de borde a borde de la llanta, generalmente entre 10 y 20 pulgadas. Para neumáticos TD de Dunlop y TRX, TDX y PAX de Michelin, el diámetro de la llanta se indica en milímetros, entre 315 mm y 440 mm.
+7.  **Código de carga**. Indica la carga máxima que puede soportar el neumático. Existe una tabla estandarizada que correlaciona este índice con la carga soportada para una presión de inflado específica. El código de carga debe estar en la documentación del vehículo, aunque se permiten neumáticos con códigos de carga superiores. Si el neumático incluye el indicador “reforzado” (12), está diseñado para soportar grandes cargas (vehículos pequeños de carga, microbuses, furgonetas, todoterrenos, etc.).
 
-### Sistema de Refrigeración
+**Tabla 24. Códigos de Carga de Neumáticos (Fabricante MICHELIN)**
 
-El sistema de refrigeración tiene como objetivo disipar el calor generado por el motor para mantener una temperatura óptima de funcionamiento, evitando el sobrecalentamiento.
+| Índice | Carga en kg | Índice | Carga en kg |
+| :----- | :---------- | :----- | :---------- |
+| 63     | 272         | 88     | 560         |
+| 64     | 280         | 89     | 580         |
+| 65     | 290         | 90     | 600         |
+| 66     | 300         | 91     | 615         |
+| 67     | 307         | 92     | 630         |
+| 68     | 315         | 93     | 650         |
+| 69     | 325         | 94     | 670         |
+| 70     | 335         | 95     | 690         |
+| 71     | 345         | 96     | 710         |
+| 72     | 355         | 97     | 730         |
+| 73     | 365         | 98     | 750         |
+| 74     | 375         | 99     | 775         |
+| 75     | 387         | 100    | 800         |
+| 76     | 400         | 101    | 825         |
+| 77     | 412         | 102    | 850         |
+| 78     | 425         | 103    | 875         |
+| 79     | 437         | 104    | 900         |
+| 80     | 450         | 105    | 925         |
+| 81     | 462         | 106    | 950         |
+| 82     | 475         | 107    | 975         |
+| 83     | 487         | 108    | 1000        |
+| 84     | 500         | 109    | 1030        |
+| 85     | 515         | 110    | 1060        |
+| 86     | 530         | 111    | 1090        |
+| 87     | 545         | 112    | 1120        |
 
-Existen dos **sistemas principales de refrigeración**:
-*   **Por aire**: Este sistema disipa el calor directamente a la atmósfera a través de aletas en la superficie exterior del motor. Puede ser de **refrigeración directa**, donde el motor está expuesto al aire (común en motocicletas), o **forzada**, que utiliza un ventilador para generar una corriente de aire sobre los cilindros (motores dentro de la carrocería). Sus ventajas incluyen la simplicidad, menor peso y menor mantenimiento, además de ser independiente de fluidos. No obstante, es más ruidoso, puede tener una refrigeración irregular y un mayor riesgo de gripaje.
-*   **Por agua o mixto**: El agua circula a través de camisas en el bloque motor, absorbe el calor y lo transporta a un radiador donde se enfría mediante el aire. Una bomba centrífuga (accionada por el motor) asegura la circulación del agua. El **termostato** regula la temperatura del motor, abriendo o cerrando el paso al radiador según sea necesario. Un **ventilador** (eléctrico o mecánico) mejora la eficiencia del radiador, especialmente a bajas velocidades.
+*(Los valores son aproximados y pueden variar entre fabricantes).*
 
-Los **circuitos de refrigeración** pueden ser:
-*   **Abiertos**: El radiador tiene una válvula en el tapón de llenado que permite la evacuación de vapor y la entrada de aire. Tienden a perder líquido y requieren rellenado frecuente.
-*   **Cerrados**: Son los más comunes. No tienen tapón de llenado en el radiador, sino que se conectan a un depósito de expansión donde los gases de evaporación se licúan, minimizando las pérdidas de líquido.
+8.  **Código de velocidad**. Indica la velocidad máxima a la que puede someterse el neumático, mediante una letra que se corresponde con los valores de la siguiente tabla:
 
-Los **líquidos refrigerantes y anticongelantes** se utilizan para superar las limitaciones del agua (oxidación, formación de cal, congelación). Los anticongelantes, generalmente basados en etilenglicol, disminuyen el punto de congelación y elevan el punto de ebullición del agua, además de incorporar aditivos anticorrosivos.
+**Tabla 25. Códigos de Velocidad de Neumáticos**
 
-### Sistema de Escape
+| Índice | Velocidad máxima en km/h | Índice | Velocidad máxima en km/h |
+| :----- | :----------------------- | :----- | :----------------------- |
+| M      | 130                      | U      | 200                      |
+| N      | 140                      | H      | 210                      |
+| P      | 150                      | V      | 240                      |
+| Q      | 160                      | W      | 270                      |
+| R      | 170                      | Y      | 300                      |
+| S      | 180                      | ZR     | >240                     |
+| T      | 190                      |        |                          |
 
-El sistema de escape persigue dos objetivos fundamentales: reducir el ruido del motor y disminuir las emisiones de gases contaminantes a la atmósfera.
+9.  **Neumáticos sin cámara** (tubeless). Son comunes en turismos y ofrecen mayor seguridad en caso de pinchazo, sirviendo como solución de emergencia provisional. No se recomienda (y suele estar prohibido) introducir una cámara en este tipo de neumáticos.
 
-Está compuesto por los siguientes elementos:
-*   **Tubo de colector**: Recoge los gases de combustión directamente del motor, soportando altas temperaturas (hasta 900ºC).
-*   **Convertidor catalítico o catalizador**: Transforma los gases tóxicos (óxidos de nitrógeno, monóxido de carbono, hidrocarburos) en sustancias menos nocivas (nitrógeno, dióxido de carbono y vapor de agua).
-*   **Sonda lambda**: Un sensor que monitoriza la mezcla de aire y combustible para optimizar la combustión y reducir emisiones.
-*   **Silenciador delantero o intermedio**: Reduce el ruido y asegura un flujo adecuado de gases.
-*   **Tubo intermedio**: Conecta los silenciadores y permite el enfriamiento y condensación de gases.
-*   **Silenciador trasero**: Reduce el ruido final del escape, aunque es susceptible a la corrosión en trayectos cortos donde el motor no alcanza su temperatura óptima.
+10. **Fecha de fabricación**. El número DOT (Departamento de Transporte de Estados Unidos) indica la fecha de fabricación. En neumáticos antiguos, el indicador constaba de tres dígitos (las dos primeras para la semana de fabricación, el último para el año), con un triángulo si fue fabricado en los años 90 o sin triángulo en los años 80. A partir del año 2000, el indicador pasó a cuatro dígitos (las dos primeras para la semana y las dos últimas para el año de fabricación). Por ejemplo, el número "0100" indica que el neumático se fabricó durante la primera semana del año 2000.
 
-Es vital realizar el mantenimiento periódico de todos estos sistemas para asegurar la seguridad y eficiencia del vehículo. La sustitución de elementos deteriorados y la limpieza regular son prácticas esenciales para prolongar la vida útil y garantizar el correcto funcionamiento de los vehículos de bomberos.
+11. **Indicador de desgaste** (TWI, por sus siglas en inglés). Se señala en el flanco del neumático y, a veces, con otras abreviaturas. Indica que las ranuras principales de la banda de rodadura han alcanzado la profundidad mínima de 1,6 mm. Se aconseja sustituir los neumáticos antes de alcanzar esta profundidad, ya que con menos de 3 mm de dibujo la adherencia disminuye notablemente, especialmente en mojado.
+
+12. **Indicador adicional para neumáticos reforzados**. (Información ya mencionada en el punto 7 del código de carga).
+
+13. **Indicador para neumáticos de invierno** (y para todas las estaciones). La marca "M+S" (o similar, en las últimas generaciones con una montaña de tres picos y copo de nieve) identifica los neumáticos de invierno. Estos neumáticos están diseñados para circular en condiciones climáticas adversas y su código de velocidad suele ser inferior al de los neumáticos normales. Existen regulaciones específicas en algunos países europeos; por ejemplo, en Austria se exige una profundidad mínima de dibujo de 4 mm, considerándose neumáticos de verano si es inferior, mientras que en Alemania no hay normativa pero se desaconseja su uso por debajo de 4 mm.
+
+**Otros indicadores**:
+*   **Marcas de homologación**: La marca “E” o “e” certifica el cumplimiento de la normativa europea (Reglamento 30 de la ECE). El número que acompaña a la letra “E” o “e” hace referencia al país que ha realizado la homologación. Desde la semana 40 de 1998 (1 de octubre de 1998), es obligatorio que los neumáticos en Europa lleven esta marca en el flanco. No está permitido montar neumáticos fabricados después de esta fecha que no la lleven, considerándose una falta grave en la Inspección Técnica de Vehículos (ITV).
+*   **Neumático recauchutado**: Se reconoce por la letra “R” o la indicación “recauchutado”. La fecha de recauchutado se indica igual que la fecha de fabricación de neumáticos nuevos.
+*   **Indicador del sentido de giro**: En el flanco del neumático se incluye un indicador (rotación, sentido de giro, dirección) acompañado de una flecha. Es importante tener en cuenta este dato al montar el neumático. Se suele incluir en neumáticos con un diseño especial de la banda de rodadura.
+*   **Green X**: Indica que es un neumático de alta eficiencia energética. Michelin introdujo este logotipo para identificar los neumáticos "verdes" que mantienen las cualidades de duración y seguridad.
+*   **ZP o Neumático Runflat**: Indica que el neumático lleva los flancos reforzados, permitiendo rodar tras un pinchazo aproximadamente 80 km a una velocidad inferior a 80 km/h.
+
+**Divergencias entre ficha técnica del vehículo y neumáticos**:
+*   **Código de carga**: El código de carga del neumático puede ser superior al indicado en la documentación del vehículo. Por ejemplo, si la ficha técnica indica “165/65 R13 76 T”, se puede montar el neumático “165/65 R13 77 T”.
+*   **Índice de velocidad**: Puede ser superior al indicado en la documentación del vehículo. Por ejemplo, en lugar de “185/65 R 86 H” se podrá utilizar neumáticos “185/65 R 86 V”. La velocidad máxima que puede alcanzar el vehículo se corresponde con la del neumático.
+*   **Neumáticos de invierno**: El código de velocidad aplicado a este tipo de neumáticos puede ser inferior al definido por el fabricante para los neumáticos de verano. En ese caso, debe colocarse una pegatina con la velocidad máxima permitida para estos neumáticos M+S en un lugar visible para el conductor.
+
+**Neumáticos P (clasificación de Estados Unidos, por ejemplo P 225/60 R 15...)**: Deben emplearse conforme al reglamento 30 de la ECE, siempre que todas las características indicadas en el neumático (a excepción de la letra P) coincidan con lo indicado en la ficha técnica del vehículo.
+**Neumáticos VR y ZR**: Si en la documentación del vehículo aparecen estos neumáticos se pueden emplear también neumáticos W (hasta 270 km/h) con suficiente capacidad de carga, siempre que la velocidad máxima del vehículo no supere los 260 km/h. En caso de duda se debe consultar al fabricante del vehículo o del neumático.
+
+**2. Partes Mecánicas del Vehículo**
+
+**2.1. Sistema de Lubricación**
+El rozamiento genera pérdidas de potencia y un desgaste prematuro de los componentes del motor. Para mitigar esto, es esencial lubricar el motor. Los elementos del motor sometidos a fricción y que, por tanto, deben lubricarse son los siguientes:
+
+**Tabla 26. Elementos del Motor que Deben Lubricarse**
+
+| Órganos en rotación           | Órganos deslizantes | Órganos oscilantes |
+| :---------------------------- | :------------------ | :----------------- |
+| Apoyos y muñequillas del cigüeñal | Pistones en los cilindros | Pies de bielas     |
+| Apoyos del árbol de levas y las levas | Válvulas en sus guías   | Balancines         |
+| Engranajes o cadena de distribución |                     |                    |
+
+**2.1.1. Tipos de Engrase**
+La lubricación de los motores se realiza mediante distintos sistemas:
+*   **Engrase por barboteo**: Un sistema en desuso, ya que es impreciso y requiere una vigilancia constante del nivel de aceite en el cárter, aunque una bomba mecánica ayuda a mantenerlo.
+*   **Engrase a presión**: Una bomba distribuye el aceite necesario a la presión requerida a todos los puntos del motor que necesitan lubricación.
+*   **Engrase mixto**: Presente en los motores modernos, donde algunas piezas se lubrican a presión y otras por barboteo.
+*   **Otros tipos de engrase**:
+    *   **Engrase por mezcla**: Típico de las motocicletas de dos tiempos, el combustible se mezcla con 2,5% a 5% de aceite. Al vaporizarse el combustible por la temperatura interna, el aceite se libera y lubrica las piezas del motor.
+    *   **Engrase por cárter seco**: Típico de motocicletas y motores de aviación. La gravedad lleva el aceite a la bomba de engrase, que lo distribuye a presión por el circuito a todas las piezas que necesitan lubricación.
+    *   **Engrase del turbo**: Es fundamental debido a las altas temperaturas. Los cojinetes y el eje del turbo requieren buena lubricación para evitar la carbonización del aceite. En turbos de geometría variable, también se lubrica el conjunto de varillas y palancas que mueven el depresor neumático.
+
+**2.1.2. Elementos del Sistema de Engrase**
+Los circuitos de engrase a presión de los motores están compuestos por varios elementos que aseguran que el aceite de engrase llegue con la presión y limpieza adecuadas a los puntos a lubricar. Además, mantienen la circulación del mismo dentro de unos límites de fluidez para mejorar la refrigeración de los elementos lubricados.
+
+El neumático desempeña funciones clave para el vehículo:
+*   **Adherencia**: Garantiza el agarre en superficies secas y mojadas.
+*   **Resistencia y Durabilidad**: Ofrece resistencia al desgaste y a diversas agresiones.
+*   **Baja Resistencia a la Rodadura**: Contribuye a la eficiencia del movimiento.
+*   **Confort Acústico**: Reduce el ruido generado durante la circulación.
+*   **Dirección y Manejo**: Facilita el control y la trayectoria del vehículo.
+*   **Estética**: Mejora la apariencia general.
+
+El **flanco** del neumático, que es la sección lateral entre la banda de rodadura y los talones de la cubierta, define la altura del neumático. Sus propósitos incluyen:
+*   Soportar la carga.
+*   Resistir las flexiones mecánicas constantes.
+*   Ofrecer resistencia a roces y agresiones.
+*   Contribuir a la estabilidad y al confort.
+
+Las **lonas de cima** se fabrican con cables metálicos engomados y se colocan sobre la carcasa para formar un cinturón. Este cinturón confiere al neumático su resistencia mecánica a la velocidad y a la fuerza centrífuga. El cruce de los hilos de las lonas con los de la carcasa crea triángulos indeformables que aportan rigidez a la cima. Las lonas de cima deben ser:
+*   **Rígidas en sentido circunferencial**: Para evitar la expansión por efecto centrífugo y controlar el diámetro.
+*   **Rígidas en sentido transversal**: Para resistir los esfuerzos de deriva.
+*   **Flexibles en sentido vertical**: Para absorber las irregularidades del terreno.
+
+**1.5.2. Diseño del Dibujo del Neumático**
+
+El dibujo o la escultura de la banda de rodadura es un factor crítico para:
+*   La adherencia.
+*   La capacidad de frenado.
+*   Las prestaciones y la seguridad, especialmente en condiciones climáticas adversas.
+
+Para entender el dibujo de un neumático, es fundamental analizar su comportamiento tanto en condiciones húmedas como secas.
+
+**a) Comportamiento en Mojado**
+La función primordial de la escultura del neumático en superficies mojadas es evacuar el agua de la zona de contacto. Cuanto más profundo y con más canales sea el dibujo, mayor capacidad tendrá para almacenar y expulsar agua entre la zona de contacto y la carretera.
+
+La configuración de la escultura (simétrica, direccional, asimétrica) determina la eficiencia en la expulsión del agua. Las laminillas, que son pequeñas ranuras en la superficie de la goma, mejoran la tracción en superficies mojadas o heladas, actuando como elementos que limpian y facilitan la expulsión del agua por las aristas y entalladuras. La escultura del neumático recoge y desplaza el agua de la zona de contacto en milisegundos; por ejemplo, un neumático de medidas 195/65 R 15 puede evacuar hasta 15 litros de agua por segundo.
+
+**b) Comportamiento en Seco**
+Una característica clave para el control del vehículo es la rigidez de la escultura, que se logra mediante su perfil. Un perfil plano con hombros cuadrados proporciona un soporte óptimo en los giros.
+
+Cuanto menos dibujo tenga el neumático, mayor superficie de goma estará en contacto directo con el suelo, lo que aumenta el agarre. Los tacos de goma limitan la movilidad de la escultura. Los bloques de goma, que contienen múltiples laminillas, reducen la rigidez de la escultura. Para compensar, se insertan laminillas tridimensionales que se agrupan al soportar carga.
+
+**1.5.3. Información Grabada en el Neumático**
+
+El flanco del neumático presenta una serie de números, letras, símbolos y códigos que proporcionan datos esenciales sobre su capacidad. Las características técnicas del neumático se rigen por el reglamento de vehículos, y los neumáticos de turismo están armonizados en Europa según el reglamento 30 de la ECE.
+
+Los datos de identificación de un neumático incluyen:
+1.  **Marca del fabricante**.
+2.  **Tipo de neumático** y patrón de la banda de rodadura.
+3.  **Anchura del neumático** (en milímetros). Se indica en intervalos de 10 mm. La anchura real puede variar respecto a la indicada debido a los márgenes de tolerancia de fabricación y la anchura de la llanta. Los neumáticos estándar suelen tener entre 125 mm (ej. 125/80 R 12) y 335 mm (ej. 335/30 R 19). Modelos específicos como los Dunlop TD o Michelin TRX, TDX y PAX tienen anchos entre 160 mm y 240 mm. Es fundamental respetar las indicaciones del fabricante en la documentación del vehículo, ya que un ancho incorrecto puede dificultar el montaje. Esto también se aplica a las cadenas de nieve.
+4.  **Relación altura/anchura del neumático** (en porcentaje). Este indicador muestra la relación entre la altura y la anchura de la sección. Por ejemplo, 50% significa que la altura es la mitad de la anchura. Un porcentaje menor indica un neumático más bajo (ej. 225/45...). Antiguamente, las series 80 y 82 no incluían el "/80", por lo que "155 R13" ahora se interpreta como "155/80 R13".
+5.  **Estructura del neumático**. Indicada por una letra:
+    *   "R": radial.
+    *   "D" o "-": diagonal.
+    Actualmente, la mayoría son radiales con carcasas de lonas de cables en arcos radiales. Los neumáticos diagonales, comunes hasta los años 60, ahora son específicos para casos particulares, como vehículos clásicos. Es obligatorio que todos los neumáticos del vehículo tengan la misma estructura.
+6.  **Diámetro de la llanta** en pulgadas. Es la distancia diagonal entre los bordes de la llanta, generalmente entre 10 y 20 pulgadas. Para los neumáticos Dunlop TD y Michelin TRX, TDX y PAX, el diámetro de la llanta se indica en milímetros (entre 315 mm y 440 mm).
+7.  **Código de carga**. Este índice numérico indica la carga máxima que puede soportar el neumático. Una tabla estandarizada relaciona este índice con la carga para una presión de inflado específica. El código de carga debe figurar en la documentación del vehículo, aunque se permiten neumáticos con códigos de carga superiores. El indicador "reforzado" (12) en el neumático significa que está preparado para cargas elevadas (vehículos de carga pequeños, microbuses, furgonetas, todoterrenos, etc.).
+
+**Tabla 24. Códigos de Carga de Neumáticos (Fabricante MICHELIN)**
+
+| Índice | Carga en kg | Índice | Carga en kg |
+| :----- | :---------- | :----- | :---------- |
+| 63     | 272         | 88     | 560         |
+| 64     | 280         | 89     | 580         |
+| 65     | 290         | 90     | 600         |
+| 66     | 300         | 91     | 615         |
+| 67     | 307         | 92     | 630         |
+| 68     | 315         | 93     | 650         |
+| 69     | 325         | 94     | 670         |
+| 70     | 335         | 95     | 690         |
+| 71     | 345         | 96     | 710         |
+| 72     | 355         | 97     | 730         |
+| 73     | 365         | 98     | 750         |
+| 74     | 375         | 99     | 775         |
+| 75     | 387         | 100    | 800         |
+| 76     | 400         | 101    | 825         |
+| 77     | 412         | 102    | 850         |
+| 78     | 425         | 103    | 875         |
+| 79     | 437         | 104    | 900         |
+| 80     | 450         | 105    | 925         |
+| 81     | 462         | 106    | 950         |
+| 82     | 475         | 107    | 975         |
+| 83     | 487         | 108    | 1000        |
+| 84     | 500         | 109    | 1030        |
+| 85     | 515         | 110    | 1060        |
+| 86     | 530         | 111    | 1090        |
+| 87     | 545         | 112    | 1120        |
+
+*(Los valores son aproximados y pueden variar entre fabricantes).*
+
+8.  **Código de velocidad**. Una letra indica la velocidad máxima a la que el neumático puede ser sometido, según la siguiente tabla:
+
+**Tabla 25. Códigos de Velocidad de Neumáticos**
+
+| Índice | Velocidad Máxima (km/h) | Índice | Velocidad Máxima (km/h) |
+| :----- | :---------------------- | :----- | :---------------------- |
+| M      | 130                     | U      | 200                     |
+| N      | 140                     | H      | 210                     |
+| P      | 150                     | V      | 240                     |
+| Q      | 160                     | W      | 270                     |
+| R      | 170                     | Y      | 300                     |
+| S      | 180                     | ZR     | >240                    |
+| T      | 190                     |        |                         |
+
+9.  **Neumáticos sin cámara** (tubeless). Son frecuentes en turismos, proporcionando mayor seguridad en caso de pinchazo como solución temporal. No se aconseja (y a menudo está prohibido) introducir una cámara en estos neumáticos.
+
+10. **Fecha de Fabricación**. El número DOT (Departamento de Transporte de Estados Unidos) indica la fecha de fabricación. Antiguamente, era un código de tres dígitos (las dos primeras para la semana, la última para el año), con un triángulo adicional si era de los años 90. Desde el año 2000, el indicador tiene cuatro dígitos, los dos primeros para la semana y los dos últimos para el año. Por ejemplo, "0100" indica la primera semana del año 2000.
+
+11. **Indicador de

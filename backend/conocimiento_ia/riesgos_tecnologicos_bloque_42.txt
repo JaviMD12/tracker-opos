@@ -1,57 +1,18 @@
-## Fundamentos de los Sistemas Constructivos y Análisis Estructural en Edificación para Bomberos
+### Estabilización de Árboles y Arbolado
 
-La intervención en edificaciones requiere de los cuerpos de bomberos un conocimiento exhaustivo de los sistemas constructivos y los principios de la física que rigen su estabilidad. Una **edificación**, según la Real Academia Española (RAE), se define como una construcción fija, elaborada con materiales resistentes y destinada al uso humano o a otros propósitos. Desde una perspectiva técnica, una edificación es el resultado de la combinación de elementos estructurales, complementarios y auxiliares.
+#### 3.3. Atrapamiento del Espadín
 
-### Componentes de una Edificación y Marco Normativo
+Durante las labores de apeo de un árbol, es frecuente que el espadín de la motosierra quede atrapado, especialmente en árboles muy rectos donde es difícil determinar la dirección natural de caída.
 
-Los **elementos estructurales** son aquellos que soportan y transmiten las cargas al terreno, garantizando la estabilidad de la edificación sin sufrir deformaciones excesivas; también se les denomina elementos portantes. La **capacidad portante** de una estructura se refiere a su aptitud para mantener la estabilidad y resistencia durante un periodo de servicio, generalmente establecido en 50 años según el Código Técnico de la Edificación (CTE DB SE). Complementariamente, la **aptitud de servicio** asegura que la estructura limite deformaciones, degradaciones o anomalías inadmisibles.
+*   **Árboles pequeños y medianos:** Se puede intentar liberar el espadín empujando el árbol o utilizando una cuña, procurando no dañar la cadena de la motosierra.
+*   **Árboles grandes:** Si las opciones anteriores no son suficientes, es necesario cambiar la dirección de caída del árbol, lo que implica el uso de otra motosierra. Para ello, se realiza un corte de dirección por encima del corte de derribo existente, y un nuevo corte de derribo por encima del corte de dirección anterior.
 
-Por otro lado, los **elementos complementarios** son aquellos que, sin ser portantes, definen el espacio interior y proporcionan el confort necesario para el uso previsto del edificio, incluyendo cerramientos, divisiones y acabados. Finalmente, los **elementos auxiliares** forman parte de la edificación durante su construcción o reparación (como andamios, cimbras o apeos), pero carecen de función estructural una vez finalizada la obra.
+#### 3.4. Técnicas de Apeo en Condiciones Singulares
 
-El marco normativo principal que rige la construcción en España es el **Código Técnico de la Edificación (CTE)**, aprobado en 2006. Este documento, derivado de la Ley de Ordenación de la Edificación (LOE), establece los requisitos básicos de seguridad y habitabilidad de las construcciones, abarcando desde el diseño hasta el mantenimiento. El CTE se estructura en Documentos Básicos de Seguridad (DB-SE) y Documentos Básicos de Habitabilidad (DB-HS). Los DB-SE incluyen apartados específicos para acciones en la edificación (DB-SE AE), cimientos (DB-SE C), acero (DB-SE A), fábrica (DB-SE F) y madera (DB-SE M), además de seguridad en caso de incendio (DB-SI) y seguridad de utilización y accesibilidad (DB-SUA). Entre los Documentos Básicos de Habitabilidad se encuentran salubridad (DB-HS), protección frente al ruido (DB-HR) y ahorro de energía (DB-HE). A estas normas se suman otras complementarias como la Instrucción de Hormigón Estructural (EHE) o la Norma de Construcción Sismorresistente (NCSE).
-
-### Conceptos Físicos Fundamentales en Edificación
-
-Para comprender el comportamiento estructural, es esencial manejar conceptos de la física:
-
-La **fuerza** es una magnitud vectorial que describe la interacción entre cuerpos. Se cuantifica en Newtons (N), equivalentes a Kg·m/s², y se caracteriza por su módulo o magnitud, dirección, sentido y punto de aplicación. Las **tres leyes de Newton** son la base de la mecánica: la primera, o principio de inercia, establece que un cuerpo permanece en reposo o movimiento uniforme a menos que una fuerza externa actúe sobre él; la segunda, F=m·a, relaciona la fuerza aplicada con la masa y la aceleración resultante; y la tercera, o principio de acción y reacción, indica que toda fuerza aplicada por un cuerpo sobre otro genera una fuerza igual y opuesta. En una edificación, las fuerzas pueden sumarse o restarse vectorialmente para determinar una fuerza resultante.
-
-Los **momentos**, o pares de fuerzas, se generan por la aplicación de una fuerza a una distancia de un punto o eje, lo que puede causar rotación. Se miden en Newtons por metro (N·m) y pueden ser positivos (sentido horario) o negativos (sentido antihorario). Un **momento resistente** o de empotramiento es la reacción que equilibra un par de fuerzas, evitando la rotación. Cuando un par de fuerzas no se contrarresta, tiende a anularse alineando las fuerzas.
-
-El **equilibrio estático** es el estado en el que las fuerzas y momentos resultantes que actúan sobre un cuerpo son nulos (ΣF=0, ΣM=0), lo que implica ausencia de movimiento. En una estructura, las cargas aplicadas (empujes y giros) deben ser contrarrestadas por reacciones iguales y opuestas para mantener este equilibrio.
-
-El **centro de gravedad** de un cuerpo es el punto donde se puede considerar concentrado todo su peso. Para que un objeto apoyado sobre una base plana esté en equilibrio estable, la vertical que pasa por su centro de gravedad debe caer dentro de su base de apoyo. Si se desplaza ligeramente de esta posición, un **momento restaurador** lo devolverá al equilibrio.
-
-### Propiedades Mecánicas y Comportamiento Térmico de los Materiales
-
-Los materiales de construcción exhiben diferentes propiedades mecánicas:
-La **elasticidad** es la capacidad de un material para deformarse reversiblemente bajo la acción de fuerzas externas y recuperar su forma original al cesar estas fuerzas. La **Ley de Hooke** (σ = Eε) establece que la tensión (σ) es directamente proporcional a la deformación (ε) y al **módulo de elasticidad longitudinal o módulo de Young (E)**, que es una medida de la rigidez del material. Los materiales con un alto módulo de Young son más rígidos. En contraste, la **plasticidad** describe deformaciones permanentes que ocurren cuando se superan los límites elásticos, lo que a menudo implica una pérdida de sección y resistencia.
-
-Las **tensiones** son magnitudes físicas que representan la fuerza por unidad de área, midiendo la transmisión de cargas a través del material. Se expresan en N/mm² (equivalente a MPa o Kg/cm²). Se distinguen la **tensión de rotura**, la máxima que un material puede soportar en laboratorio, y la **tensión de trabajo**, el umbral máximo para una operación segura, que suele ser entre el 70% y el 80% del límite elástico.
-
-Los **esfuerzos** pueden ser:
-*   **Simples:**
-    *   **Compresión:** las partículas de un material tienden a acercarse, como en pilares, muros de fábrica o puntales.
-    *   **Tracción:** las partículas de un material tienden a separarse, como en tirantes.
-    *   **Cortante/Cortadura/Cizalladura:** las partículas de un material se deslizan unas respecto a otras, típico en encuentros de viga con pilar.
-*   **Compuestos:** combinaciones de los anteriores, como la **flexión** (combinación de compresión y tracción por carga transversal en elementos longitudinales), el **pandeo** (deformación lateral de elementos esbeltos por compresión axial) o la **torsión** (esfuerzo por fuerza circular, común en voladizos).
-
-Para analizar la interacción de cortantes y flexiones, las **fibras extremas** de una viga experimentan tensiones normales, mientras que la **fibra neutra** (la línea imaginaria en el centro de gravedad de la sección transversal) solo soporta tensiones de cortante. Los **diagramas de cortantes y momentos flectores** son representaciones gráficas que muestran la variación de estas fuerzas a lo largo de un elemento estructural, esenciales para entender su deformación.
-
-El **comportamiento térmico** de los materiales es crucial en incendios. El **coeficiente de conductividad térmica (λ)** mide la capacidad de un material para conducir calor (W/m·K); valores bajos indican mayor aislamiento. Por otro lado, el **coeficiente de dilatación térmica (α)** mide el cambio lineal por grado de aumento de temperatura. Por ejemplo, una viga de hormigón armado de 10 metros que aumenta su temperatura de 20°C a 400°C sufrirá una dilatación lineal de 5.76 cm, lo que puede generar empujes laterales y provocar el colapso.
-
-### Estabilidad Estructural y Tipologías de Nudos
-
-La **rigidez** de un elemento estructural es su capacidad para soportar esfuerzos sin sufrir deformaciones o desplazamientos excesivos. Esta rigidez se relaciona con los **grados de libertad (GL)**, que son los movimientos posibles de un cuerpo en un sistema (tres en un plano: desplazamiento vertical, horizontal y rotación), y las **coacciones (C)**, que son las limitaciones a esos movimientos.
-
-Los **nudos** son las conexiones estructurales entre dos o más elementos portantes. Según las limitaciones que impongan a los movimientos, se clasifican en:
-*   **Apoyo:** permite movimiento horizontal y giro, pero restringe el vertical (1 coacción, 2 GL).
-*   **Articulación:** restringe movimientos verticales y horizontales, permitiendo el giro (2 coacciones, 1 GL).
-*   **Empotramiento:** restringe todos los movimientos (vertical, horizontal y giro) (3 coacciones, 0 GL).
-
-La **clasificación de la estabilidad estructural** se determina comparando el total de grados de libertad (GL = GLE + GLI) con el total de coacciones (C = CE + CI):
-*   **Estructura hiperestática (GL < C):** posee más coacciones de las necesarias para el equilibrio, lo que le otorga una alta seguridad y capacidad de redistribución de esfuerzos si un elemento falla. Permite deformaciones reducidas y un mejor comportamiento dinámico.
-*   **Estructura isostática (GL = C):** tiene el número exacto de coacciones para estar en equilibrio, por lo que su estabilidad es limitada. El fallo de un elemento puede provocar el colapso.
-*   **Estructura hipostática o mecanismo (GL > C):** carece de las coacciones necesarias para mantener el equilibrio, siendo un sistema inestable que se desplaza bajo la acción de fuerzas.
-
-Desde la perspectiva de la intervención de bomberos, es crucial identificar la estabilidad de las estructuras. Un sistema de análisis simplificado para la evaluación de la estabilidad externa e interna considera tres grados de libertad externos (GLE = 3) y calcula los grados de libertad internos (GLI = 3 * (N-1), donde N es el número de barras). Las coacciones externas (CE) se calculan sumando 1 por apoyo, 2 por articulación y 3 por empotramiento. Las coacciones internas (CI) dependen del tipo de unión entre barras: N-1 para barras apoyadas, 2(N-1) para articuladas y 3(N-1) para empotradas. Esta evaluación permite determinar rápidamente si una estructura es hiperestática, isostática o hipostática, lo que informa las tácticas de intervención. Aunque una mayor cantidad de coacciones generalmente implica mayor seguridad, la elección del tipo de nudo debe responder a la función específica de cada elemento en la estructura global.
+Existen circunstancias específicas que requieren modificar las técnicas estándar de derribo para controlar la trayectoria de caída y evitar reacciones inesperadas. Estas situaciones incluyen:
+*   Árboles con diámetros mayores que el espadín.
+*   Árboles con inclinación excesiva.
+*   Árboles en pendientes pronunciadas.
+*   Necesidad de forzar la caída contra la inclinación natural usando cuñas o tracteles.
+*   Árboles podridos o huecos.
+*   Apeo por derribo (empuje o

@@ -1,49 +1,202 @@
-# Gestión y Documentación en los Servicios de Emergencia y Prevención de Riesgos Laborales
+## Tema: Estructura, Regulación, Competencias y Organización de los Servicios de Bomberos
 
-La eficiencia y el rigor en los servicios de emergencia, particularmente en los cuerpos de bomberos, dependen en gran medida de una sólida estructura organizativa y un sistema de documentación exhaustivo. Este entramado de información y procesos abarca desde la gestión de recursos materiales y humanos hasta la prevención de riesgos laborales y la planificación operativa.
+### Fichas Técnicas de Material y de Prevención Operativa
 
-## Documentación Interna y su Importancia
+Es esencial y muy provechoso digitalizar toda la información referente a certificados, garantías y manuales de uso y mantenimiento de los equipos y vehículos adquiridos. Además, para aquellos elementos que puedan presentar consideraciones especiales o riesgos en su uso o mantenimiento, es posible crear una ficha específica que compile la información relevante que a menudo no se detalla claramente en los manuales del fabricante.
 
-La documentación interna constituye un pilar fundamental para la operatividad y la mejora continua de cualquier servicio de emergencias. Entre los tipos de documentos esenciales se encuentran las **fichas técnicas de material y el archivo digital de manuales**, cuya función principal es recopilar de forma digitalizada la información detallada sobre certificados, garantías, manuales de uso y mantenimiento de todos los equipos y vehículos. Además, se deben crear fichas específicas para aquellos datos relevantes que no estén claramente explícitos en los manuales originales del fabricante, asegurando así un conocimiento preciso y accesible del equipamiento.
+**Ejemplo de Ficha Técnica de Material: Inventario BRP Tipo - CEIS Guadalajara**
 
-De manera complementaria, las **fichas de prevención operativa (FPO)** son herramientas diseñadas para agrupar datos cruciales sobre edificaciones, industrias, residencias de ancianos, núcleos urbanos y otros enclaves que representen un riesgo significativo. Estas fichas contienen información sobre medios y recursos que pueden influir positiva o negativamente en una intervención operativa, como la ubicación de aerogeneradores, gasolineras, hidrantes, puntos de acceso a vías férreas, gasoductos, estrechamientos o puentes que puedan dificultar el paso de autobombas, y accesos a ríos y embarcaderos. La disponibilidad de esta información, geolocalizada en un Sistema de Información Geográfica (SIG) de uso interno, es vital para facilitar una consulta rápida y eficaz antes y durante las actuaciones.
+| CANTIDAD | DESCRIPCIÓN                               | UBICACIÓN               |
+| :------- | :---------------------------------------- | :---------------------- |
+|          | **ZONA TRASERA**                        |                         |
+| 1        | Batería de reemplazo para EPI            | trasera                 |
+| 1        | Extintor                      | trasera                 |
+| 1        | Botiquín 1r auxilios                      | trasera                 |
+| 1        | Chaleco salvavidas                      | lateral derecha         |
+| 1        | Botella aire comprimido (20L)            | lateral derecha         |
+| 1        | Casco integral                           | lateral derecha         |
+| 1        | Guantes protección                     | lateral derecha         |
+| 1        | Linterna personal                      | lateral derecha         |
+| 1        | Cámara térmica                         | lateral derecha         |
+| 1        | Detector de gases                       | lateral derecha         |
+| 1        | Descarcelación                          | lateral derecha         |
+| 1        | Material para acceso (p.e. cortafuegos) | lateral derecha         |
+| 1        | Equipo de señalización                | lateral derecha         |
+| 1        | Equipo de protección individual (EPI)    | lateral derecha         |
+| 1        | Botas de intervención                   | lateral derecha         |
+|          | **CABINA - JARDINERA**                  |                         |
+| 1        | Batería de reemplazo para EPI            | jardinera               |
+| 1        | Extintor                      | jardinera               |
+| 1        | Botiquín 1r auxilios                      | jardinera               |
+| 1        | Chaleco salvavidas                      | lateral izquierda       |
+| 1        | Botella aire comprimido (20L)            | lateral izquierda       |
+| 1        | Casco integral                           | lateral izquierda       |
+| 1        | Guantes protección                     | lateral izquierda       |
+| 1        | Linterna personal                      | lateral izquierda       |
+| 1        | Cámara térmica                         | lateral izquierda       |
+| 1        | Detector de gases                       | lateral izquierda       |
+| 1        | Descarcelación                          | lateral izquierda       |
+| 1        | Material para acceso (p.e. cortafuegos) | lateral izquierda       |
+| 1        | Equipo de señalización                | lateral izquierda       |
+| 1        | Equipo de protección individual (EPI)    | lateral izquierda       |
+| 1        | Botas de intervención                   | lateral izquierda       |
+|          | **CABINA - ZONA DELANTERA**             |                         |
+| 1        | Batería de reemplazo para EPI            | delantera               |
+| 1        | Extintor                      | delantera               |
+| 1        | Botiquín 1r auxilios                      | delantera               |
+| 1        | Chaleco salvavidas                      | lateral central         |
+| 1        | Botella aire comprimido (20L)            | lateral central         |
+| 1        | Casco integral                           | lateral central         |
+| 1        | Guantes protección                     | lateral central         |
+| 1        | Linterna personal                      | lateral central         |
+| 1        | Cámara térmica                         | lateral central         |
+| 1        | Detector de gases                       | lateral central         |
+| 1        | Descarcelación                          | lateral central         |
+| 1        | Material para acceso (p.e. cortafuegos) | lateral central         |
+| 1        | Equipo de señalización                | lateral central         |
+| 1        | Equipo de protección individual (EPI)    | lateral central         |
+| 1        | Botas de intervención                   | lateral central         |
 
-Asimismo, los **planes de autoprotección** se elaboran y archivan para aquellas áreas o zonas que los requieran, ya sea por imperativo legal o por la necesidad de incrementar la seguridad. El formato de ficha de estos planes optimiza su utilidad para el personal operativo, ofreciendo una guía concisa y accesible.
+**Fichas de Prevención Operativa (FPO)**
 
-Más allá de las fichas técnicas, la comunicación interna se materializa mediante **notas internas**, que actúan como un canal formal y vertical para transmitir información de la dirección al personal. Estas notas suelen tener un carácter temporal o caduco, como las relativas a convocatorias o plazos específicos. La **documentación de formación** también es crucial, consistiendo en el archivo de presentaciones y otros materiales didáctos de los cursos impartidos en el Servicio. Para asegurar la trazabilidad de la actividad, se mantienen **registros de actividades** detallados y fehacientes de todas las intervenciones, incidencias de material, horas de trabajo del personal y accidentes. Este registro sistemático permite generar memorias de actividad, estadísticas y datos que son fundamentales para monitorear indicadores clave y mejorar la gestión y el control del servicio. Finalmente, existen otros documentos de gran importancia, como los **Acuerdos Marco (Convenios Sociales)** y las **Relaciones de Puestos de Trabajo (RPT)**, que son necesarios para el correcto funcionamiento legal y estructural de la organización.
+Las Fichas de Prevención Operativa (FPO) permiten recolectar datos sobre edificios, industrias, residencias de ancianos, municipios y otras zonas de riesgo. Esta información es útil para una consulta rápida antes de una intervención. La documentación adicional sobre medios y recursos de apoyo (aerogeneradores, gasolineras, hidrantes, puntos de acceso a vías férreas, gasoductos, estrechamientos y puentes que impiden el acceso de autobombas, accesos a ríos y embarcaderos, etc.) se proporciona a las dotaciones a través de un Sistema de Información Geográfica (SIG) interno, facilitando el acceso y consulta antes y durante los trayectos hacia un incidente.
 
-## Organización Administrativa y Estructura de Personal
+**Ejemplo de Ficha de Prevención Operativa – CEIS Guadalajara (Comunidad de Molina de Aragón - Km 89 - Planta Biomasa)**
 
-La **organización administrativa del servicio** se enfoca en estructurar las funciones organizativas para garantizar que cada miembro del personal desempeñe sus tareas de manera óptima. El **personal**, indispensable para cumplir las funciones del Servicio, se clasifica en dos categorías principales: el **personal de administración**, encargado de las tareas de gestión y burocracia, y el **personal operativo**, que incluye las escalas técnica y operativa.
+**INFORMACIÓN**
+*   **Denominación:** Planta Biomasa de Molina de Aragón, Km 89.
+*   **Tipo de actividad:** Producción de energía eléctrica a partir de biomasa.
+*   **Titular:** Comunidad de Molina de Aragón.
+*   **Contacto:** Técnico de guardia.
+*   **Horario:** 24 horas.
+*   **Cargo:** Jefe de Producción.
+*   **Nivel de riesgo:** Grave-Muy grave.
+*   **Instalación interior:** SGP.
+*   **Riesgos:** Incendios forestales, riesgo químico, etc.
+*   **Normativa aplicable:** RD 903/1997.
 
-Dentro de la escala operativa, las categorías suelen basarse en la jerarquía, que se establece a partir de normativas como el Real Decreto 861/1986, que regula las retribuciones de los funcionarios de la Administración Local. Aunque la nomenclatura puede variar entre servicios, comúnmente se encuentran puestos como Inspector, Subinspector, Oficial, Suboficial, Sargento, Cabo, Guardia o Bombero. A modo de ejemplo, en el Consorcio de Bomberos de Guadalajara, la escala técnica o de mando incluye a los Oficiales (Jefe de Servicio, de Área, Técnico), mientras que la escala operativa comprende a Suboficiales, Sargentos (Jefe de Parque), Cabos (Jefe de Dotación) y Bomberos (Conductores-Mecánicos). El personal operativo de guardia se organiza en **dotaciones**, que son unidades o equipos operativos compuestos por efectivos y un mando, y pueden ser reducidas, ordinarias o ampliadas. La definición de **dotaciones mínimas o mínimos de guardia** establece un criterio cuantitativo autoimpuesto para garantizar la seguridad del personal y la calidad del servicio en cada parque, siempre bajo una perspectiva global.
+**PRIORIDADES (medidas ante riesgos)**
+*   **Protección en medio natural:** Activa prevención (forestal y ambiental).
+*   **Riesgos químicos:** Plan específico.
+*   **Incendio:** Plan de emergencia por incendio forestal.
+*   **Accidente grave:** Protocolo de actuación.
+*   **Riesgos biológicos:** Plan de control.
 
-### Acceso y Carrera Profesional
+**TENDENCIAS (riesgos a futuro)**
+*   **General:** Preferentemente usar tendido de 45 mm, adaptado para dotaciones de bomberos clase A.
 
-El **acceso** a un puesto de mando intermedio en un servicio público de bomberos se rige por procesos de selección que cumplen con la Ley 7/2007 del Estatuto Básico del Empleado Público (EBEP). Los mecanismos de acceso incluyen la promoción interna y los sistemas de oposición o concurso-oposición general. De forma excepcional, la provisión provisional de puestos puede realizarse a través de una Comisión de Servicios o por accidentalidad. Los requisitos típicos para el acceso a un puesto de mando intermedio incluyen una determinada antigüedad en el Servicio, el cumplimiento de los requisitos de ingreso al puesto (como edad mínima, nacionalidad española y carné para conducir vehículos pesados), la titulación académica correspondiente y una aptitud médica específica, confirmada mediante un examen. La idoneidad del candidato, una vez superado el proceso selectivo, se desarrolla y perfecciona a través del trabajo diario y la formación continua.
+**VENTILACIÓN (riesgos actuales)**
+*   **General:** Buena ventilación en todos los edificios excepto el de mantenimiento.
+*   **En caso de incendio en edificio de mantenimiento:** Ventilación natural.
 
-En cuanto a la **aptitud médica**, la Asociación de Bomberos (ASBE) elaboró en 1992 cuadros de aptitud para ingreso y permanencia en los cuerpos, revisados veinte años después. Estos cuadros exigen que el aspirante esté exento de cualquier enfermedad orgánica, secuelas de accidentes, deficiencias psíquicas (según DSM-IV-TR) o físicas (como problemas oftalmológicos, otorrinolaringológicos, del aparato locomotor, digestivos o cardiovasculares) que pudieran dificultar el desempeño de sus funciones.
+**EMERGENCIAS (planes)**
+*   **Personal requerido:** 15 personas.
+*   **Turnos:** 2 turnos.
 
-La **carrera profesional** en los servicios de bomberos aún no está uniformemente establecida. No obstante, el Instituto Nacional de las Cualificaciones Profesionales (INCUAL) incluyó en 2005 la Cualificación Profesional de "Extinción de Incendios y Salvamento" en su Catálogo Nacional. Esta cualificación se estructura en cuatro módulos formativos: operaciones de salvamento, control y extinción de incendios, fenómenos naturales y antrópicos, y operaciones de ayudas técnicas. En 2011, INCUAL también definió una cualificación para el mando intermedio, denominada "Gestión y coordinación en Protección Civil y emergencias", que comprende cinco módulos formativos: planificación de Protección Civil, riesgos en Protección Civil y emergencias, prevención de riesgos en Protección Civil, intervención operativa en emergencias y rehabilitación de servicios básicos en catástrofes.
+**OTRAS (superficies, número de plantas, volumen, etc.)**
+*   **Superficie total:** 8800 m².
+*   **Altura:** 15 m.
+*   **Nº de plantas:** 2.
+*   **Volumen:** 4400 m³.
+*   **Nº de secciones:** 2.
 
-### Derechos y Deberes del Personal
+### 4.2.7. Planes de Autoprotección
 
-La pertenencia al Servicio de Bomberos confiere una responsabilidad significativa que se traduce en **derechos y deberes** esenciales, intrínsecamente ligados a los valores organizacionales. Entre los **derechos** se incluyen la formación profesional continuada (teórica, práctica y física), la promoción profesional, la dotación de vestuario y equipo técnico adecuado, la cobertura de riesgos personales, la responsabilidad civil y la asistencia jurídica en procedimientos derivados de sus funciones, y una remuneración justa acorde con sus responsabilidades.
+Similar a las FPO, se redactan y archivan Planes de Autoprotección y Emergencia en áreas que lo requieren, ya sea por imperativo legal o para aumentar la seguridad de una zona, área, población o urbanización. La presentación de estos planes en formato de ficha incrementa su utilidad para el personal operativo en caso de intervención.
 
-Por su parte, los **deberes** abarcan la obligación de no incurrir en incompatibilidad, cumplir las órdenes recibidas (siempre que no constituyan delito o infrinjan el ordenamiento jurídico), mantener la uniformidad y el perfecto estado del material, las instalaciones y la maquinaria. Además, el personal debe participar en la formación continua para mantener su aptitud profesional, cumplir íntegramente su horario de trabajo y guardar sigilo profesional sobre la información sensible.
+### 4.2.8. Notas Internas
 
-### Áreas Funcionales del Servicio
+Las notas internas constituyen un canal de comunicación vertical y formal para transmitir al personal información de la dirección del Servicio con carácter transitorio o temporal. A través de ellas se comunica información específica, como la convocatoria o el cierre de plazos para solicitar un curso. Cada nota debe estar claramente redactada y firmada por el responsable para asegurar su carácter oficial, y ser expuesta en un tablón de anuncios.
 
-La labor técnico-operativa se articula a través de **Departamentos o Áreas Funcionales Técnicas**, cuya estructura se adapta a los recursos disponibles, la cualificación del personal, el nivel de evolución del servicio, la carga de trabajo y el atractivo de cada área. Estas áreas persiguen la eficiencia y eficacia en las tareas, fusionando o fragmentando funciones según convenga.
+### 4.2.9. Documentación de Formación
 
-En un servicio de bomberos maduro, las áreas funcionales implementadas suelen ser: **Formación**, **Prevención y Preparación**, **Operativa**, **Compras e Inversión**, **Mantenimiento y Almacén**, y **Prevención de Riesgos Laborales**.
+El archivo documental de formación contiene todas las presentaciones y demás documentación relevante de los cursos impartidos por el Servicio.
 
-El **área de Formación** es responsable de programar, desarrollar, supervisar y evaluar un plan de formación anual que asegure la capacitación continua del personal. Esta formación, esencial por la complejidad de las tareas, se adapta en ámbitos y formatos para potenciar las aptitudes profesionales. Incluye la formación de **acceso** para nuevos ingresos, la **corporativa** para homogeneizar criterios y el uso de equipos, la **permanente** mediante maniobras diarias, la de **reciclaje** para actualizar conocimientos, y la **avanzada o de especialización** para temas complejos. Tareas específicas de esta área son la programación y ejecución del plan, la coordinación de la comisión de formación, la regulación de la habilitación de formadores, el acopio y mantenimiento de documentos formativos, la gestión del almacén de material de formación, y la planificación de maniobras diarias y documentación asociada.
+### 4.2.10. Registros de Actividades
 
-El área de **Prevención y Preparación** aborda la prevención desde dos perspectivas: la **estructural o arquitectónica**, que implica la supervisión del cumplimiento normativo y el asesoramiento especializado; y la **dirigida a la ciudadanía**, que busca fortalecer la capacidad de autoprotección mediante actividades formativas y divulgativas, como campañas, charlas o visitas a colegios, especialmente para colectivos vulnerables. Ambas vertientes, junto con la prevención operativa, constituyen la segunda gran función del servicio, con el objetivo de prever y evitar siniestros o minimizar sus daños. Las tareas específicas incluyen la **inspección y asesoramiento** no urgente para evaluar el cumplimiento normativo y emitir recomendaciones, la **divulgación** para mejorar el conocimiento ciudadano y limitar los daños, y la **preparación o prevención operativa**, que abarca la recopilación y estudio de planes y normativas, el diseño de protocolos externos, la elaboración de fichas de prevención operativa, la revisión de planes de emergencia y autoprotección, la gestión de retenes preventivos, el diseño de cursos y simulacros para personal externo, y el acopio de datos operativos relevantes en un catálogo. La gestión de estas actividades preventivas puede requerir la intervención de una comisión multidisciplinar.
+Es imperativo que toda actividad del Servicio sea monitorizada y registrada de forma fidedigna. Esto implica mantener un registro detallado y actualizado de las intervenciones realizadas, las incidencias en las revisiones de material, las horas y jornadas de trabajo de cada efectivo, y los accidentes ocurridos. El análisis de estos registros permite elaborar memorias de actividad, obtener estadísticas y datos para evaluar el estado de diversos indicadores, facilitando así la gestión y el control del Servicio.
 
-### Diseño y Alcance del Servicio Operativo
+### 4.2.11. Otra Documentación
 
-El diseño y alcance del servicio operativo, desde una perspectiva estratégico-táctica, se fundamenta en un riguroso **análisis del riesgo**. Este método sistemático implica la recopilación, evaluación, registro y difusión de información para formular recomendaciones que permitan adoptar medidas eficaces ante peligros específicos. Idealmente, antes de dimensionar cuantitativa y cualitativamente la capacidad de respuesta, se debería realizar un estudio exhaustivo de los riesgos potenciales de un territorio, considerando factores como la población, el tipo y envergadura de las industrias, la climatología, la masa forestal, la orografía y el historial de catástrofes. Esta información es crucial para planificar las actuaciones, definir los vehículos necesarios y determinar la formación especializada del personal.
+Existen otros documentos de gran importancia para el funcionamiento legal de la estructura organizacional, como el Acuerdo Marco (convenio social) y la Relación de Puestos de Trabajo (RPT).
 
-La **organización redundante de los medios**, tanto personales como materiales, es un principio rector en la planificación para garantizar la alta disponibilidad y mitigar fallos imprevistos. Para los **medios materiales**, la redundancia se logra mediante una estrategia de interoperabilidad, que permite sustituir equipos y vehículos con capacidades similares y asegura que los servicios de mantenimiento no sean únicos. Esto implica un estudio detallado de las características y funcionamiento de los equipos adquiridos. En cuanto a los **medios personales**, la redundancia se consigue con la disponibilidad constante de personal, estableciendo sistemas para cubrir ausencias y, si es necesario, reforzar la respuesta operativa ordinaria, siempre cultivando la disposición del personal. La cantidad de intervenciones que un bombero debe resolver determina la necesidad de una amplia variedad de material, que debe mantenerse en perfecto estado. En el pasado, la tendencia era dedicar un vehículo a cada actividad específica (desagües, hidropolvo, achiques, apeos, demolición, altura, extinción, inspecciones, químico, subacuático), lo que garantizaba la especificidad pero dificultaba la redundancia. Actualmente, se observa una simplificación del material y una tendencia hacia la polivalencia, dando mayor relevancia a los remolques por su menor coste y mantenimiento, sin comprometer la capacidad de respuesta en emergencias.
+### 5. Organización Administrativa del Servicio
+
+El concepto de "organización administrativa del Servicio" se refiere a la estructuración de las funciones organizativas necesarias para que el personal del Servicio pueda llevar a cabo sus tareas asignadas correctamente.
+
+### 5.1. El Personal
+
+Las funciones del Servicio requieren indispensablemente el apoyo de su personal. Este se clasifica en dos categorías profesionales distintas:
+*   **Personal de administración:** Se encarga de las labores de gestión y apoyo burocrático a la escala técnica.
+*   **Personal operativo:** Incluye las escalas técnica y operativa, cuyas categorías están fijadas por el Real Decreto 861/1986, de 25 de abril, en su disposición adicional segunda, para Policías y Bomberos, de la siguiente manera:
+    *   **Grupo A:** Comprende Inspector, Subinspector y Oficial.
+    *   **Grupo B:** Incluye Suboficial y Sargento.
+    *   **Grupo C:** Abarca Cabo, Guardia o Bombero.
+
+La nomenclatura de estos puestos varía significativamente entre los distintos Servicios debido a la descentralización. A modo de ejemplo, en el Consorcio de Bomberos de Guadalajara, las categorías se estructuran de la siguiente forma (aunque no todas han sido creadas):
+*   **Escala técnica o de mando:** Oficial – Jefe de Servicio, Oficial de Área, Oficial Técnico.
+*   **Escala Operativa:** Suboficial, Sargento – Jefe de Parque, Cabo – Jefe de Dotación, Bombero – Conductor – Mecánico.
+
+El personal operativo de guardia se organiza en dotaciones, entendidas como un conjunto de efectivos operativos que, junto con un mando, constituyen una unidad o equipo operativo. Algunos Servicios emplean dotaciones reducidas, ordinarias y ampliadas. La figura de "mínimos de guardia" establece un criterio autoimpuesto por el Servicio para asegurar la seguridad del personal y la calidad del servicio ofrecido a la ciudadanía. Este concepto cuantitativo debe aplicarse a cada parque con una visión global del Servicio.
+
+### 5.2. El Acceso
+
+El acceso a puestos de mando intermedio en servicios públicos de bomberos generalmente se rige por los procesos de selección establecidos en la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público (EBEP). Aunque algunas Administraciones implementan leves modificaciones o regulan el acceso a través de sus propios Estatutos, Reglamentos o normativas similares.
+
+Para los puestos de mando intermedio, el acceso se realiza comúnmente mediante promoción interna o a través de sistemas de oposición o concurso-oposición. Excepcionalmente, también puede proveerse de forma provisional mediante una Comisión de Servicios o por accidentalidad.
+
+Los requisitos de acceso para un puesto de mando intermedio suelen incluir:
+*   Una antigüedad determinada en el Servicio.
+*   El cumplimiento de los requisitos iniciales de acceso al puesto (ej. edad mínima, nacionalidad española, permiso para conducir vehículos pesados).
+*   La titulación académica requerida para el nivel del puesto.
+*   Una aptitud médica específica, verificada mediante examen o reconocimiento.
+*   Otros requisitos.
+
+Una vez finalizado el proceso selectivo, la idoneidad del candidato se desarrollará mediante el trabajo diario y la formación, adquiriendo las competencias necesarias para el ejercicio de sus funciones.
+
+### 5.2.1. Aptitud Médica
+
+En España, la Asociación de Bomberos (ASBE) realizó en 1992 un estudio multidisciplinar con especialistas en Traumatología, Medicina de la Educación Física y el Deporte, Otorrinolaringología, Cardiología, Oftalmología, Ortopedia y Medicina del Trabajo, entre otras áreas. El objetivo fue redactar cuadros de aptitud para el ingreso y la permanencia en los Cuerpos de Bomberos. Veinte años después, se revisaron estos cuadros y se recopilaron estudios sobre los puestos de trabajo y sus riesgos laborales. Se constató que la mayoría de los estudios científicos se centran en la lucha contra incendios, que es solo una de las actividades desempeñadas por los bomberos.
+
+Para ser bombero, se requiere estar libre de enfermedades orgánicas, secuelas de accidentes, deficiencias psíquicas (incluyendo enfermedades mentales según el DSM-IV-TR) o físicas (oftalmología, otorrinolaringología, aparato locomotor, digestivo, cardiovascular, etc.) que puedan dificultar la práctica profesional.
+
+### 5.3. La Carrera Profesional
+
+Actualmente, pocos Servicios de Bomberos tienen una carrera profesional establecida, a pesar de los avances desde 2005, cuando el Instituto Nacional de las Cualificaciones Profesionales (INCUAL) incluyó la Cualificación Profesional de EXTINCIÓN DE INCENDIOS Y SALVAMENTO en el Catálogo Nacional de Cualificaciones Profesionales.
+
+La definición del INCUAL para esta Cualificación Profesional establece 4 módulos formativos:
+*   Operaciones de Salvamento.
+*   Control y Extinción de Incendios.
+*   Fenómenos Naturales y Antrópicos, para actuar en situaciones descontroladas con amenazas a personas o al medio ambiente.
+*   Operaciones de Ayudas Técnicas, para el control de emergencias con las ayudas técnicas apropiadas.
+
+En 2011, el trabajo del INCUAL resultó en la publicación de la cualificación profesional de "Gestión y coordinación en Protección Civil y emergencias" para el mando intermedio. Esta define 5 módulos formativos:
+*   Planificación de Protección Civil.
+*   Riesgos en Protección Civil y emergencias, para intervenir en el catálogo de riesgos y promover su estudio en entidades públicas o privadas.
+*   Prevención de riesgos en Protección Civil, para difundir y proponer medidas preventivas y de autoprotección corporativa y ciudadana.
+*   Intervención operativa en emergencias, durante y conforme a los planes establecidos.
+*   Rehabilitación de servicios básicos en catástrofes.
+
+### 5.4. Derechos y Deberes del Personal
+
+La pertenencia al Servicio de Bomberos implica una responsabilidad considerable, que se traduce legalmente en una serie de derechos y deberes alineados con los valores de la organización.
+
+Los derechos y deberes del mando intermedio se dividen en dos categorías principales:
+*   Los relacionados con funciones técnico-administrativas.
+*   Los relacionados con funciones operativas.
+
+**Tabla: Derechos y Deberes del Mando Intermedio**
+
+| DERECHOS                                                                                                                                                                                                                                                                                                            | DEBERES                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Acceso a la formación profesional continua (teórica, práctica y física).                                                                                                                                                                                                                                            | No incurrir en incompatibilidad.                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Derecho a la promoción profesional.                                                                                                                                                                                                                                                                                  | Obedecer órdenes siempre que no sean delito manifiesto o infrinjan el ordenamiento jurídico.                                                                                                                                                                                                                                                                                                                                                                                   |
+| Suministro de vestuario y equipo técnico adecuado al puesto.                                                                                                                                                                                                                                                        | Mantener la uniformidad y el buen estado de conservación de material, instalaciones y maquinaria.                                                                                                                                                                                                                                                                                                                                                                          |
+| Cobertura de riesgos personales, responsabilidad civil y asistencia jurídica en procedimientos por el ejercicio de funciones.                                                                                                                                                                                        | Participar en la formación profesional (teórica, práctica y física) de forma continua para mantener la aptitud requerida en el trabajo.                                                                                                                                                                                                                                                                                                                                 |
+| Remuneración equitativa según las funciones y responsabilidades asociadas al puesto.                                                                                                                                                                                                                                 | Cumplir el horario de trabajo en su totalidad.                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                                                                                                                     | Guardar sigilo profesional.                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                                                                                                                                                                                                                                                     | Otras obligaciones.                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+### 5.5. Las Áreas Funcionales
+
+El trabajo de gestión del personal técnico-operativo se organiza frecuentemente en Departamentos o Áreas Funcionales Técnicas. La estructura de estas áreas se determina por factores como la cantidad de recursos disponibles, la cualificación técnica necesaria, el estado de evolución del Servicio y del área específica, la carga de trabajo de los técnicos y el atractivo del área para el personal. El objetivo es fusionar o fragmentar funciones o tareas unitarias entre áreas para mejorar la eficiencia y eficacia del trabajo.

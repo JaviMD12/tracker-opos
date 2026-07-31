@@ -12,18 +12,18 @@ solapamiento de 200) antes de indexarse en Chroma.
 El indice se persiste en disco en `backend/chroma_db_data/` (ver
 CARPETA_PERSISTENCIA_VECTORSTORE): la primera vez que se usa el Tutor IA tras
 un `git clone` (o si se borra esa carpeta) se reconstruye leyendo los PDFs y
-llamando a OpenAI para los embeddings, lo cual tarda 1-2 minutos con el
+llamando a Gemini para los embeddings, lo cual tarda 1-2 minutos con el
 volumen actual de documentos; en cualquier arranque posterior, se carga
 directamente desde disco en menos de 2 segundos, sin volver a leer los PDFs
-ni gastar llamadas a OpenAI (_vectorstore, con inicializacion perezosa: no se
-llama a OpenAI ni se toca el disco hasta la primera pregunta, para que el
+ni gastar llamadas a Gemini (_vectorstore, con inicializacion perezosa: no se
+llama a Gemini ni se toca el disco hasta la primera pregunta, para que el
 resto de la aplicacion siga funcionando aunque la clave de API no este
 configurada todavia).
 
 Nota: los Simulacros IA ya NO usan este vectorstore -- se sirven desde un
 banco de preguntas precargado (ver app/models/pregunta_test.py y
 backend/generar_banco.py), para que la respuesta al frontend sea una consulta
-SQL en vez de una llamada a OpenAI en cada peticion.
+SQL en vez de una llamada a Gemini en cada peticion.
 """
 
 from pathlib import Path
@@ -36,17 +36,18 @@ from langchain_community.document_loaders import (
 )
 from langchain_core.documents import Document
 from langchain_core.messages import HumanMessage, SystemMessage
-from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 from app.services.rutinas import RUTINAS_PRO, TECNICAS_ESTUDIO_PRO
 
-# OPENAI_API_KEY se carga desde backend/.env (ver app/main.py, load_dotenv()).
-# Si no esta configurada, OpenAIEmbeddings/ChatOpenAI fallan al primer uso real
-# (inicializacion perezosa, ver _obtener_vectorstore), no al importar este modulo.
+# GOOGLE_API_KEY se carga desde backend/.env (ver app/main.py, load_dotenv()).
+# Si no esta configurada, GoogleGenerativeAIEmbeddings/ChatGoogleGenerativeAI
+# fallan al primer uso real (inicializacion perezosa, ver _obtener_vectorstore),
+# no al importar este modulo.
 
-MODELO_CHAT = "gpt-4o-mini"
-MODELO_EMBEDDINGS = "text-embedding-3-small"
+MODELO_CHAT = "gemini-2.5-flash"
+MODELO_EMBEDDINGS = "models/gemini-embedding-001"
 FRAGMENTOS_A_RECUPERAR = 4
 CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 200
@@ -180,7 +181,7 @@ def _obtener_vectorstore() -> Chroma:
 
     CASO A (ya indexado): si CARPETA_PERSISTENCIA_VECTORSTORE tiene datos de
     una ejecucion anterior, se abre directamente desde disco (rapido, sin
-    leer PDFs ni llamar a OpenAI para generar embeddings).
+    leer PDFs ni llamar a Gemini para generar embeddings).
     CASO B (primera vez / carpeta vacia o borrada): se reconstruye el indice
     completo desde los PDFs/TXT de conocimiento/ y se persiste en disco para
     que la proxima carga sea instantanea.
@@ -189,7 +190,7 @@ def _obtener_vectorstore() -> Chroma:
     if _vectorstore is not None:
         return _vectorstore
 
-    embeddings = OpenAIEmbeddings(model=MODELO_EMBEDDINGS)
+    embeddings = GoogleGenerativeAIEmbeddings(model=MODELO_EMBEDDINGS)
 
     if _indice_persistido_existe():
         _vectorstore = Chroma(
@@ -218,7 +219,7 @@ def preguntar_al_tutor(query: str) -> str:
     fragmentos = vectorstore.similarity_search(query, k=FRAGMENTOS_A_RECUPERAR)
     contexto = "\n\n---\n\n".join(doc.page_content for doc in fragmentos)
 
-    llm = ChatOpenAI(model=MODELO_CHAT, temperature=0.3)
+    llm = ChatGoogleGenerativeAI(model=MODELO_CHAT, temperature=0.3)
     mensajes = [
         SystemMessage(content=SYSTEM_PROMPT),
         HumanMessage(
@@ -265,7 +266,7 @@ def generar_plan_estudio_convocatoria(titulo_plaza: str, requisitos_minimos: str
         "plantilla aparte: es texto normal con formato Markdown, se renderiza "
         "directamente en la pantalla del usuario."
     )
-    llm = ChatOpenAI(model=MODELO_CHAT, temperature=0.3)
+    llm = ChatGoogleGenerativeAI(model=MODELO_CHAT, temperature=0.3)
     mensajes = [
         SystemMessage(content=SYSTEM_PROMPT_PLAN_ESTUDIO),
         HumanMessage(content=user_prompt),

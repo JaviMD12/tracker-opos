@@ -1,48 +1,135 @@
-## Elementos de Cierre y Protección en Edificaciones
+## Parte 6. Riesgo Eléctrico: Valoración e Intervención
 
-La comprensión de los elementos de cierre y protección en edificaciones es crucial para los servicios de emergencia, especialmente los bomberos, ya que constituyen los puntos de acceso y, en ocasiones, los obstáculos en intervenciones. Estos elementos incluyen puertas, cerraduras, ventanas, rejas y cierres metálicos, cada uno con características específicas en términos de diseño, materiales y nivel de seguridad.
+### 2.2. Incidentes con Baja Tensión
 
-### Cerraduras y sus Mecanismos de Seguridad
+#### 2.2.1. Protocolo General de Actuación en Baja Tensión
 
-Las cerraduras son el componente más vulnerable de las puertas, y su diseño incorpora diversas tecnologías para mejorar la seguridad. Un tipo común es la cerradura de tambor de pines o de cámara de pernos, la cual utiliza pines de distintas longitudes para bloquear el cerrojo hasta que la llave adecuada alinea estos pines, permitiendo el giro del tambor y la apertura.
+**a) Interrupción del Suministro Eléctrico**
+La interrupción del suministro eléctrico se asegura a través de la compañía eléctrica, si el incendio se produce fuera del centro de transformación y dentro de los límites de la propiedad. Si el incendio ocurre en el interior de la vivienda, la interrupción la realiza el equipo de intervención. El procedimiento para cortar el suministro se puede ejecutar de la siguiente manera:
 
-Existen mecanismos avanzados para dificultar la apertura forzada. Los sistemas **antiganzúa** emplean pernos tensionados con muelles robustos, mientras que los sistemas **antibumping** incorporan pernos de acero templado en las primeras posiciones del cilindro para resistir el taladrado. En algunos diseños, los **pasadores antitaladro** (barras internas de acero) y los **piñones laterales** también aumentan la resistencia al taladro. Además, los **escudos protectores** se instalan externamente para resguardar el cilindro, el punto más débil de la puerta, contra ataques físicos como el taladrado, la rotura o la extracción, comunes en cerraduras de bombillo europeo o suizo.
+*   **Líneas de distribución:**
+    *   Primero, se localiza el cuadro de baja tensión que alimenta los cables para retirar rápidamente los fusibles.
+    *   Luego, se corta el trenzado para interrumpir la alimentación. Para ello, se sueltan las bridas de unión, se separan los cables con una herramienta aislante y se cortan los conductores, uno a uno, finalizando con el neutro.
+    *   Finalmente, se procede a la extinción.
+*   **Caja General de Protección (CGP):**
+    *   Se corta el cable de acometida con cizalla dieléctrica.
+    *   Normalmente, las entradas de cables están en la parte superior y las salidas en la inferior.
+    *   Se procede a la extinción.
+*   **Centralización de Contadores:**
+    *   Se retiran los fusibles de la CGP que alimentan el cuadro de contadores.
+    *   Si no es posible retirarlos o si el incendio persiste después de la retirada de fusibles, se procede a la extinción.
+    *   Al desconectar el interruptor general de maniobra, se debe considerar que los ascensores, la ventilación forzada de garajes, etc., quedarán fuera de servicio.
+*   **Vivienda:**
+    *   Se localiza la CGP y se retiran los fusibles, uno o tres, según el grado de electrificación.
+    *   Si no es posible acceder a la CGP, se debe actuar en el interruptor general de maniobra del cuarto de contadores.
+    *   Si tampoco es posible, se abren los elementos del cuadro de mando y protección de la vivienda (diferencial, interruptor general, PIA, etc.) y, por último, se procede a la extinción.
+*   **Vivienda Unifamiliar o Industria:**
+    *   Se localiza el armario de protección y medida, generalmente en la fachada principal junto a la puerta de entrada.
+    *   En caso de estar allí, se abre el interruptor general de maniobra y se retiran los fusibles uno a uno lo más rápido posible para evitar la formación de arcos.
+    *   Se verifica que no haya otras fuentes de corriente, como generadores.
+    *   Finalmente, se procede a la extinción.
 
-### Ventanas: Tipologías y Sistemas de Cierre
+**b) Distancia de Seguridad**
+Se debe mantener la distancia de seguridad recomendada para cada situación.
 
-Las ventanas, como parte fundamental de la envolvente del edificio, varían ampliamente en sus características, influenciando tanto la estética como su funcionalidad y resistencia a la intrusión. Los materiales más comunes en su fabricación son el aluminio, que destaca por su resistencia a la corrosión, la madera, si bien menos resistente a los agentes atmosféricos, y el PVC o poliuretano, valorados por su aislamiento térmico y durabilidad.
+#### 2.2.2. Protocolo Específico para la Extinción de un Incendio
 
-Según su sistema de apertura, se distinguen varios tipos:
-*   Las **ventanas batientes** se abren lateralmente, ofreciendo amplia ventilación y luminosidad, aunque requieren espacio interior para su apertura.
-*   Las **ventanas oscilantes en el eje superior** pivotan sobre un eje horizontal superior, permitiendo ventilación controlada y limitando el espacio ocupado.
-*   Las **ventanas basculantes** giran sobre un eje horizontal central, combinando ventilación y entrada de luz, aunque su limpieza exterior puede ser compleja.
-*   Las **ventanas pivotantes** rotan sobre un eje vertical central, manteniendo la hoja en posición vertical durante la apertura.
-*   Las **ventanas oscilobatientes**, comunes en aluminio y PVC, permiten tanto la apertura lateral como la inclinada, optimizando la ventilación y la limpieza.
-*   Las **ventanas correderas** se deslizan horizontalmente, lo que ahorra espacio, pero su apertura parcial limita la ventilación y puede dificultar la limpieza total.
-*   Finalmente, las **ventanas de celosía** están compuestas por lamas de cristal horizontales que giran simultáneamente, proporcionando buena ventilación y facilidad de limpieza, pero con menor hermeticidad.
+**a) Control de la Propagación**
+Para prevenir la extensión del incendio o los daños, se debe refrigerar con extintores de polvo químico, CO2, y polvo polivalente ABC. Si no hay corriente eléctrica en la instalación, también pueden usarse agua pulverizada o espumas.
 
-Los mecanismos de cierre de las ventanas suelen ser más simples que los de las puertas, enfocándose en la sujeción más que en la resistencia a la efracción. Los tipos más habituales incluyen la manivela, los cierres basculantes planos, los de corredera y los oscilobatientes, junto con pasadores de fijación para las hojas.
+**b) Extinción del Incendio**
+Una vez interrumpido el suministro eléctrico, se instala una línea de 45 mm con una bifurcación a 45-25 mm y mangajes o lanzas de 25 mm para la extinción en intemperie, si la envergadura del incendio no es excesiva. En incendios de gran envergadura, la instalación anterior podría ser válida. También es posible usar mangajes de 45 mm y monitores de largo alcance. En casetas, locales o subterráneos, la extinción puede realizarse con extintores de CO2 o polvo polivalente ABC, o con agua o espumas, complementadas con técnicas de ventilación.
 
-### Tipos de Vidrio en Ventanas y su Resistencia
+*   **En líneas de distribución (cable trenzado):** Se emplea extintor de polvo químico seco o polivalente. La extinción es más complicada si hay cortocircuitos, requiriendo el corte del suministro eléctrico.
+*   **Se utiliza agua pulverizada:** Con corte rápido para enfriar el aislamiento trenzado. Se usa agua a chorro discontinuo si la altura es inaccesible o si los cortocircuitos/radiaciones impiden el acercamiento.
+*   **En CGP:** Se debe usar polvo químico seco o polivalente. En caso de cortocircuitos, se debe cortar la corriente y usar agua pulverizada para enfriar y reducir las calorías.
+*   **En la centralización de contadores:** Siempre que sea posible, se utilizan extintores de CO2. Si no son eficaces, se recurre a extintores de polvo polivalente ABC. En caso de cortocircuitos, se debe cortar la corriente eléctrica y usar agua pulverizada para enfriar y reducir las calorías.
 
-El tipo de vidrio utilizado en una ventana es un factor determinante para su seguridad y sus propiedades aislantes. La normativa europea, como la UNE-EN 12600:2003 para seguridad de uso, la UNE-EN 356:2001 para anti-agresión, la UNE-EN 1063:2001 para anti-balas y la UNE-EN 13541:2001 para anti-explosión, clasifica los cristales según su capacidad de protección.
+**c) Vuelta a la Normalidad**
+Una vez sofocado el incendio y confirmada la seguridad de la situación, se procede a restablecer la normalidad. Si un cuadro eléctrico no puede rearmarse por daños en las protecciones, el propietario debe realizar las reparaciones necesarias. Se debe emitir un informe sobre la intervención.
 
-Se identifican principalmente cuatro categorías:
-*   El **cristal termoendurecido** posee mayor resistencia mecánica que el vidrio común y soporta mejor los golpes, aunque no se considera un producto de seguridad propiamente dicho, ya que al romperse produce fragmentos grandes.
-*   El **cristal templado** es un elemento de seguridad que, al fracturarse, se desintegra en pequeños trozos inofensivos, siendo ideal para zonas con riesgo de impacto.
-*   El **cristal laminado** consiste en dos o más hojas de vidrio unidas por láminas de butiral de polivinilo (PVB) de aproximadamente 1 mm de grosor, lo que le confiere una resistencia superior. Los vidrios blindados y de seguridad se obtienen superponiendo múltiples capas laminadas.
-*   El **cristal con cámara** se compone de dos o más láminas de vidrio separadas por una cámara de aire o gas deshidratado, lo que mejora significativamente su aislamiento térmico y acústico.
+### 2.2.3. Protocolo Específico para el Rescate
 
-### Persianas y Rejas de Protección
+**a) Valoración del Tipo de Material a Utilizar**
+El equipo a utilizar incluye: alfombra aislante, extractor de fusibles, cizalla aislante, llaves de cruceta aisladas, alicate aislado, cortacables aislado, destornilladores de estrella y planos aislados, guantes dieléctricos, guantes de trabajo, pinza amperimétrica, comprobador de tensión o polímetro, traje de protección, etc.
 
-Las **persianas** son elementos retráctiles o enrollables que se instalan tanto en el interior como en el exterior de las ventanas. Su función abarca desde la regulación de la luz y el calor hasta la provisión de privacidad y seguridad. Fabricadas comúnmente en plástico (PVC) o aluminio, son ligeras y resistentes. El sistema más extendido implica que las lamas o listones se enrollen en un tambor superior. Los mecanismos de accionamiento pueden ser eléctricos (con control domótico), mediante cinta con muelle interno o manivela (más lento, con un torno y un cable interno), o por cuerda.
+Para el rescate de víctimas en centros de transformación, se debe mantener la distancia de seguridad necesaria y emplear equipo de protección individual específico para cada situación (por ejemplo: banqueta, pértiga de salvamento, guantes aislantes, etc.). Nunca se debe establecer contacto directo con partes desnudas o ropa mojada de la víctima. En viviendas, no es necesaria una distancia de seguridad estricta, pero se debe usar el equipo de protección adecuado al nivel de tensión existente.
 
-Las **rejas de protección**, o enrejados, son elementos arquitectónicos que aumentan la seguridad de ventanas y otros huecos. Su composición, generalmente a base de barras metálicas, puede adoptar diversas formas y diseños. Se clasifican principalmente en **rejas fijas**, que están embutidas en la pared o el marco y ofrecen mayor resistencia, y **rejas desmontables** (como las de ballesta), que son plegables o abatibles y, aunque presentan perfiles más ligeros, son más seguras y estéticas al poder ocultarse.
+**b) Rescate**
+Se deben aplicar los primeros auxilios necesarios de inmediato a la situación.
 
-### Cierres Metálicos en Locales Comerciales
+**c) Extinción si Procede**
+Se utilizarán medios extintores apropiados al nivel de tensión, si no se ha podido cortar el suministro.
 
-Los **cierres metálicos** son sistemas de seguridad habituales en locales comerciales, muchos de los cuales cuentan con accionamiento motorizado. Su diseño permite forzar una única cerradura para activar el mecanismo de desbloqueo del motor y facilitar la apertura.
+**d) Vuelta a la Normalidad**
+Se debe informar a la empresa eléctrica sobre el accidente para sus estadísticas y el mantenimiento de sus instalaciones. Es necesario emitir un informe de la intervención.
 
-Se distinguen dos tipos principales:
-*   El **cierre de tijera** es un sistema tradicional extensible, frecuente en comercios y viviendas, que se ha mejorado con la pintura al horno para reducir su sonoridad y mejorar su estética. Puede incorporar hojas giratorias o guías inferiores abatibles.
-*   Los **cierres enrollables** pueden ser ciegos o con visibilidad. Los **ciegos** son los más implantados en zonas comerciales urbanas y bloquean completamente el acceso y la visibilidad. Los **con visibilidad** son comunes en locales con escaparates y se fabrican en diversos materiales como metal troquelado, microperforado o varillas de acero.
+### 3. Valoración Dinámica de Intervención
+
+Las acciones implementadas, según el plan inicial, no siempre resultan óptimas y pueden empeorar la situación. Por ejemplo, en un incendio de transformador con miles de litros de aceite, verter agua que desborde la balsa o en un fuego de hidrocarburos puede agravar y propagar el incidente a áreas inicialmente no afectadas. Si las acciones no alcanzan el objetivo deseado, es fundamental reevaluar y modificar el plan de intervención.
+
+## Capítulo 3. Tácticas de Intervención
+
+### 1. Elección de Planteamiento Táctico
+
+En cualquier intervención con riesgo eléctrico, es crucial evaluar las opciones disponibles en cada momento para cumplir el objetivo deseado. Esto implica seleccionar una estrategia táctica que establezca las prioridades para lograr el mejor resultado.
+
+**PLAN DE ACCIÓN**
+
+*   **Identificación de Riesgos:** Incendio, rescate.
+*   **Comunicación con Víctimas:** Número, estado, estrés.
+*   **Valoración del Siniestro:** Alta Tensión (AT), Baja Tensión (BT).
+*   **Solicitud de Presencia:** Personal de la compañía eléctrica (C.E.) a través del teléfono único de emergencias.
+*   **Aviso:** Al mando/Jefe de Guardia o control.
+
+**Rama AT (Alta Tensión):**
+
+*   **Balizar Zona de Trabajo.**
+*   **Pasos a Seguir (Obligatorios):**
+    1.  Abrir con corte visible todas las posibles fuentes de tensión (requiere material aislante y detección adecuada).
+    2.  Enclavar o bloquear los aparatos de corte que se hayan manipulado (siempre que sea posible).
+    3.  Comprobar la ausencia total de tensión en cada conductor tras el corte.
+    4.  Poner en corto y a tierra todas las posibles fuentes de tensión (Recomendable).
+    5.  Acotar y balizar zona de trabajo (Recomendable).
+
+**Rama BT (Baja Tensión):**
+
+*   **Balizar Zona de Trabajo.**
+*   **Pasos a Seguir (Obligatorios):**
+    1.  Abrir con corte visible todas las posibles fuentes de tensión y comprobar la ausencia total de tensión en cada conductor tras el corte.
+*   **Medidas Recomendables:**
+    *   Enclavar o bloquear los aparatos de corte abiertos anteriormente (siempre que sea posible).
+    *   Poner en corto y a tierra todas las posibles fuentes de tensión, y acotar y señalizar la zona de trabajo.
+
+**Definiciones Clave:**
+*   **C.E.:** Compañía Eléctrica
+*   **AT:** Alta Tensión
+*   **BT:** Baja Tensión
+
+### 1.1. Fases de una Intervención
+
+La planificación táctica de intervención en emergencias con riesgo eléctrico considera los siguientes aspectos fundamentales:
+
+*   **Experiencia profesional:** La pericia del personal.
+*   **Conocimiento técnico y científico:** La base teórica y práctica.
+*   **Abanico de técnicas aplicables:** La diversidad de métodos disponibles.
+*   **Valoración del suceso:** El análisis de la situación.
+
+El proceso de una intervención estándar para estabilizar edificaciones se desglosa en el siguiente cuadro de acciones cronológicas. El orden de las tareas puede no ser estricto y algunas pueden ejecutarse simultáneamente, dependiendo de cada caso. La valoración inicial por el mando, que se realiza mientras los vehículos se posicionan, permite priorizar las acciones para mitigar riesgos.
+
+| Fase              | Definición Fase                           | Acciones                                             | Quién realiza           |
+| :---------------- | :---------------------------------------- | :--------------------------------------------------- | :---------------------- |
+| **0 Movilización** | Recepción de aviso                        | Toma de datos                                        | Central                 |
+|                   |                                           | Confirma datos. Nivel de gravedad. Solicita medios.  | Mando                   |
+|                   |                                           | Zonificación teórica.                                | Mando                   |
+| **1 Valoración**  | Reconocimiento.                           | Reconocimiento.                                      | Varios                  |
+|                   |                                           | Valoración in situ.                                  | Mando                   |
+|                   | Rescate                                   | Rescate rápido con nivel 1.                          | Grupo de intervención   |
+|                   | Zonificación                              | Zonificación inicial.                                | Varios                  |
+|                   |                                           | Ubicación y control de medios.                       | Mando                   |
+| **2 Control Daños** | Método defensivo u ofensivo               | Método defensivo u ofensivo                          | Grupo de intervención   |
+|                   | Evacuación o confinamiento.               | Evacuación o confinamiento.                          | Grupo de apoyo          |
+|                   | Descontaminación                          | Descontaminación intervinientes y víctimas.          | Grupo de apoyo          |
+| **3 Mitigación**  | Mitigar causa de emergencia               | Mitigar causa de emergencia                          | Grupo de intervención   |
+|                   | Descontaminación                          | Descontaminación                                     | Grupo de apoyo          |
+|                   | Vuelta a la normalidad                    | Vuelta a la normalidad                               | Todos                   |

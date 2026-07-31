@@ -1,23 +1,352 @@
-Los **equipos de protección individual (EPI) para las vías respiratorias** son fundamentales en las intervenciones de bomberos y emergencias, diseñados para reducir la concentración de contaminantes en la zona de inhalación del usuario a niveles seguros, protegiendo así contra diversos riesgos atmosféricos. Estos riesgos incluyen deficiencias o excesos de oxígeno (concentraciones inferiores al 19,5% o superiores al 23,5% en volumen, respectivamente), la presencia de gases o vapores inflamables (que exceden el 10% del límite inferior de inflamabilidad), la exposición a sustancias tóxicas o contaminantes por encima de los límites permitidos, y la disminución de la visibilidad a menos de 1,5 metros debido a polvos o neblinas. Además, protegen contra sustancias irritantes, inflamatorias o cualquier otro agente perjudicial para la salud.
+## Temario de Oposiciones de Bomberos y Emergencias: Equipos de Medición y Protección Respiratoria
 
-Dentro de los equipos de protección respiratoria, se encuentran los **detectores de gases**, también conocidos como explosímetros, los cuales se emplean para identificar la presencia o ausencia de gases peligrosos que podrían generar asfixia, toxicidad o explosividad. Estos dispositivos suelen estar configurados con sensores para detectar, por ejemplo, sulfuro de hidrógeno (H2S), monóxido de carbono (CO), oxígeno (O2) y metano (CH4). Su funcionamiento se basa en la medición continua de gases, con características operativas que abarcan temperaturas desde -20 °C hasta +58 °C y un rango de humedad relativa del 0% al 95% sin condensación. La calibración puede ser automática o manual, y se recomienda el uso de un filtro en ambientes con polvo o vapor.
+### Capítulo 16: Instrumentos de Medición
 
-Existen diversos modelos de detectores, como el **Gas Alert Microclip XT**, un equipo portátil y compacto que puede albergar hasta cuatro sensores, y el **Dräger X-AM 7000**, capaz de detectar hasta cinco gases diferentes e incorporar una bomba interna para la toma de muestras mediante una sonda. Ambos cumplen con normativas como ATEX, IEC, UL y CSA, que especifican sus condiciones de seguridad y funcionamiento en distintos rangos de temperatura. Para su uso, es imperativo encenderlos en una atmósfera no contaminada, donde realizan una autoverificación y calibración de los sensores. Las lecturas erráticas o rápidas en la escala pueden indicar una concentración peligrosa de gas, mientras que la aparición de "OL" (overload) en la pantalla señala que la concentración está fuera del rango de alarma. Es crucial proteger el sensor de combustible de sustancias como plomo, siliconas e hidrocarburos clorados, ya que pueden inhibir su rendimiento. Además, la detección de gases tóxicos a niveles peligrosos debe activar el uso de equipos de respiración autónoma (ERA). Las alarmas visuales y sonoras integradas alertan sobre la presencia de gases o el bajo nivel de batería, y un "bip de confianza" confirma el correcto funcionamiento al inicio.
+#### 2. Instrumentos de Medición
 
-En cuanto al **mantenimiento** de los detectores de gases, es fundamental calibrarlos y realizar pruebas de respuesta e inspecciones periódicas. Deben limpiarse externamente con un paño húmedo y suave, evitando sumergirlos en líquidos o usar jabones y limpiadores agresivos. Es vital mantener un registro de todas las operaciones de mantenimiento y, en caso de golpe o daño, realizar una inspección visual y retirarlos de atmósferas potencialmente explosivas si presentan fallos. No se deben realizar modificaciones en sus componentes eléctricos ni utilizar piezas defectuosas.
+##### 2.1. Radiámetro
 
-Por otro lado, para evaluar las condiciones ambientales, se emplean **anemómetros portátiles**, como el modelo Kestrel® K 3000, que miden la velocidad y fuerza del viento, el índice de calor, la ráfaga máxima, el punto de rocío, la temperatura (aire, agua, nieve) y la humedad relativa, además de calcular el efecto de enfriamiento del viento (sensación térmica). Estos dispositivos, compactos y con alta protección (IP67 o superior), son ideales para trabajos en altura y en incendios forestales. Cuentan con un impulsor reemplazable, sensores de temperatura y humedad compensados, y son fáciles de manejar mediante tres botones táctiles. Las lecturas de humedad relativa y punto de rocío deben tomarse a la sombra para mayor precisión. La **Escala Beaufort** es un sistema de 13 puntos que permite estimar la fuerza del viento sin instrumentos, basándose en sus efectos visibles.
+###### 2.1.1. Especificaciones
 
-El **mantenimiento** de los anemómetros portátiles requiere evitar su almacenamiento o uso prolongado a temperaturas extremas para prevenir daños. Si la miniturbina se usa continuamente a velocidades superiores a 25 M/S (90 KM/H) puede perder precisión. Una pantalla borrosa o sin datos indica la necesidad de cambiar las pilas. Se deben revisar los niveles de batería y se recomienda que el fabricante realice la calibración de los sensores, aunque se pueden ajustar manualmente en aire fresco para restablecer el punto cero del sensor de oxígeno al 20,9%. Deben guardarse en fundas o estuches en lugares secos, protegidos de la luz solar y evitando golpes.
+El radiámetro es un instrumento portátil diseñado para la medición de diferentes tipos de contaminación en la atmósfera, como partículas alfa, beta y gamma, durante emergencias nucleares. Este dispositivo mide la radiación recibida por un sensor interno y se utiliza para dos tipos de mediciones principales:
 
-Para la detección de fuentes de calor y la visualización en entornos de baja visibilidad, las **cámaras termográficas o térmicas** son herramientas esenciales. Estos equipos leen la radiación infrarroja y la convierten en imágenes visibles al ojo humano, mostrando las diferencias de temperatura en grados Fahrenheit o Celsius. Son cruciales en incendios para localizar el foco, identificar puntos calientes, evaluar la posibilidad de combustión súbita generalizada (flashover o backdraft) y determinar puntos de ventilación o entrada/salida, así como para la búsqueda de víctimas y la detección de materiales peligrosos en grandes áreas o incendios forestales. El modelo **Bullard de la Serie T3** es un ejemplo portátil y robusto, resistente a golpes, altas temperaturas y al agua.
+*   **Medición de rayos X y partículas gamma:** Se expresa en la Unidad de Tasa de Dosis equivalente Ambiental (sievert/hora), con la ventana del equipo cerrada. Este modo no detecta partículas alfa o beta y se centra en la tasa de dosis.
+*   **Medición de contaminación (partículas alfa, beta y gamma):** Se expresa en la Unidad de Tasa de Cuentas por Segundo (cps). Para una máxima eficiencia, la medición debe realizarse lo más cerca posible de la fuente con la ventana completamente abierta.
 
-La cámara termográfica se compone de una **lente** (generalmente de germanio) que enfoca la imagen, un **detector** que convierte la radiación infrarroja, una **electrónica de proceso** que gestiona las señales y una **pantalla** que muestra la imagen en blanco y negro o en tonos de gris para indicar diferencias de temperatura. La información en pantalla incluye la identificación de objetos pasivos (muebles), activos (personas, animales) y emisores directos de alta energía (llamas, sol). Los objetos calientes suelen aparecer en tonos blancos, los fríos en tonos negros y las diferencias de temperatura en tonos grises. Es fundamental que los usuarios estén familiarizados con su manejo, ya que un uso incorrecto puede ser peligroso. Cumplen con normativas como la Directiva 1989/366/CE y los estándares NFPA 1901-10-17 para su integración en vehículos.
+Las partes de un radiámetro incluyen un filtro atenuador de energías giratorio y la ventana del detector. Además, dispone de botones para el menú, audio, encendido y reinicio (`reset`).
 
-El **mantenimiento** de las cámaras termográficas implica una inspección visual diaria antes y después de cada uso. Se deben limpiar la carcasa exterior, la lente y la pantalla con jabón neutro o detergente suave y un paño, evitando disolventes o abrasivos. Si el orificio de drenaje del bisel está obstruido, se debe desmontar y limpiar. Es vital comprobar la carga de las baterías antes y después de cada uso y almacenarlas en estaciones de carga o en sus maletas de transporte, protegidas de la luz solar directa, el calor y los productos químicos.
+**Características generales del radiámetro:**
 
-Finalmente, el **medidor puntero láser HILTI PD-E** es un instrumento portátil de alta precisión que permite medir distancias, sumar, restar, calcular áreas y volúmenes, realizar trazados, cálculos pitagóricos y mediciones indirectas. Es útil para determinar superficies trapezoidales y para registrar datos. Este dispositivo funciona con pilas e incorpora un indicador de batería. Su rango de medición con diana es de 0 a 200 metros, con una precisión de ±1,0 mm en distancia y ±0,2° en inclinación. Dispone de un visor óptico para uso exterior con luz y una pantalla LCD iluminada que muestra las distancias y el estado del servicio. Incluye apagado automático del láser y del equipo, además de una protección IP65 contra polvo y salpicaduras.
+*   Sistema digital controlado por microcontrolador.
+*   Tipo de medida: Gamma y Rayos-X, con indicación H*(10).
+*   Detector: Geiger-Müller, con compensación de energía.
+*   Modos de medida: Tasa y tasa máxima (Sv/h). Configurado para alcanzar mediciones de hasta 100 mSv/h.
+*   Dosis acumulada: Sv.
+*   Alimentación: Pila alcalina de 9 voltios.
+*   Autonomía: Más de 80 horas de funcionamiento continuo (con una tasa inferior a 1 Sv/h).
 
-El equipo cuenta con dos modos de medición principales: la **medición simple**, que ofrece resultados en menos de un segundo al apuntar y pulsar, y la **medición continua**, utilizada para nivelar o medir distancias difíciles, registrando entre 6 y 10 mediciones por segundo. Las superficies con mala reflexión o los cambios rápidos en las condiciones ambientales pueden afectar la precisión. Su normativa exige homologación y el cumplimiento de las indicaciones del fabricante en cuanto a seguridad, como no anular dispositivos de seguridad, no dirigir el láser hacia el sol o fuentes potentes de luz, y evitar su uso en atmósferas inflamables o explosivas. Debe ser operado por personal cualificado y solo con accesorios originales del fabricante.
+###### 2.1.2. Normativa
 
-Para el **mantenimiento** del medidor puntero láser, se debe recurrir al servicio técnico del fabricante en caso de avería, especialmente si no se aprietan correctamente los tornillos y los rayos láser pueden exceder la clase 2. Para su transporte, se almacena junto a las emisoras y linternas en el maletín de riesgo eléctrico, garantizando su disponibilidad inmediata.
+La normativa aplicable a este instrumento de medición incluye:
+
+*   Directiva de compatibilidad electromagnética 2004/108/CEE.
+*   Directiva 93/68/CEE.
+
+###### 2.1.3. Uso y seguridad
+
+El radiámetro se emplea en diversas situaciones de emergencia radiológica, tales como:
+
+*   Manejo de materiales radiactivos.
+*   Intervenciones en emergencias durante el transporte de materiales radiactivos.
+*   Detección de fuentes no controladas (abandonadas, perdidas, robadas o encontradas).
+*   Monitoreo de fuentes industriales y médicas peligrosas (para medición de espesores, radiografía, etc.).
+*   Respuesta a bombas sucias, amenazas y actos dolosos.
+*   Identificación de otras fuentes o contaminaciones de origen desconocido.
+
+**Procedimiento de medición:**
+
+*   Para medir radiación (0,16 μSv/h para rayos X y partículas Gamma), la ventana debe estar cerrada. No detecta partículas Alfa o Beta.
+*   Para medir contaminación (0,48 cps para partículas Alfa, Beta y Gamma), se debe realizar la medición lo más cerca posible de la fuente con la ventana completamente abierta para máxima eficiencia.
+
+**Encendido:**
+
+*   El radiámetro se enciende mediante el botón ON/OFF.
+*   Se realiza un autotest que muestra todos los puntos del display y la información del equipo (modelo y número de serie).
+*   Tras unos segundos, la tasa de dosis aparece en el display, indicando que el monitor está listo.
+*   Un mensaje alertará si el nivel de la pila es bajo.
+*   Las lecturas se muestran digitalmente, y el número de decimales y el múltiplo se ajustan automáticamente según el rango.
+
+**Navegación:**
+
+*   La navegación por los menús es sencilla e intuitiva, con opciones indicadas en pantalla y botones específicos.
+
+**Modos de indicación:**
+
+*   **Rate (Tasa):** 0,16 μSv/h. Es el modo por defecto.
+    *   Totalmente automático.
+    *   Mide cada evento calibrado con el dato de usuario.
+    *   Emite luz y sonido, con mayor intensidad y pitidos a mayor radiación.
+    *   Detecta radiación ambiental.
+    *   Medición en 50 segundos.
+    *   Reset automático y manual.
+*   **Hold (congelado):** H1,8 mSv/h.
+    *   Totalmente automático.
+    *   Fija el valor máximo en pantalla, incluso si el modo Rate opera en segundo plano.
+    *   Para poner a cero el valor Hold, se pulsa Reset.
+    *   Muestra alarma acústica y mensaje en pantalla si se superan los valores del usuario.
+
+**Alarmas:**
+
+Al encender el equipo, el sonido suele estar desactivado. Para activarlo, se pulsa `Audio` (aparecerá un altavoz en la parte inferior izquierda). Los mensajes de alarma pueden ser:
+
+*   `Alarm`: la tasa de dosis (mSv/h o cps) supera el umbral de alarma.
+*   `OflwR`: la tasa supera el rango de medida.
+*   `DETer`: el equipo no recibe datos del detector (detector o sistema averiados).
+*   `LowBat`: batería baja.
+*   `Flat Battery`: batería completamente gastada.
+
+**Límites de alarma:**
+
+*   Dosis: 40 mSv/h.
+*   Modo Rate: 20 mSv/h.
+*   Modo Hold: 1000 cps Beta y Gamma "presencia" Alfa.
+
+**Batería:**
+
+*   Debe retirarse cuando no se utiliza el equipo, apagándolo previamente.
+
+**Precauciones y seguridad:**
+
+*   No introducir objetos en las ranuras o aperturas de las carcasas.
+*   Utilizar solo el tipo de alimentación indicado en las especificaciones técnicas.
+*   No abrir la carcasa del equipo.
+*   En caso de avería, no intentar reparar el equipo debido al peligro de alta tensión.
+
+**Unidades de magnitud del radiámetro:**
+
+| UNIDADES DE TRABAJO        |
+| :-------------------------- |
+| Micro Sievert Hora (µSv/H)  |
+| Mili Sievert Hora (mSv/H)   |
+| Sievert hora (Sv/H)         |
+
+| Valor |
+| :---- |
+| 10⁶   |
+| 10³   |
+| 1     |
+
+**Valores mínimos permitidos del equipo:**
+
+| Tasa de Dosis           | 1 µSv/H (Para partículas Gama y Rayos X) |
+| :--------------------- | :--------------------------------------- |
+| Tasa de Cuentas por Segundo | cps (Para partículas Alfa y Beta)         |
+
+###### 2.1.4. Mantenimiento
+
+*   **Revisión:**
+    *   Comprobar periódicamente el correcto apagado y encendido, y la navegación por los menús.
+*   **Ubicación:**
+    *   Guardarse en la zona del parque destinada a emisoras y linternas. El mando es responsable de su transporte.
+*   **Limpieza:**
+    *   No utilizar productos abrasivos.
+*   **Calibración:**
+    *   Los coeficientes de calibración ajustados en fábrica no deben modificarse, a menos que sea estrictamente necesario por personal autorizado de Laboratorios de Calibración acreditados.
+
+##### 2.2. Detector de gases
+
+###### 2.2.1. Especificaciones
+
+El detector de gases, también conocido como "explosímetro", se utiliza para identificar la presencia o ausencia de gases peligrosos que generan riesgos de asfixia, toxicidad o explosividad. Este dispositivo advierte cuando un gas supera los niveles de activación establecidos. Según el modelo, puede integrar diferentes tipos de sensores que miden y reproducen alarmas al sobrepasar los límites preestablecidos.
+Normalmente se configura con cuatro sensores para detectar:
+
+*   **H2S (sulfídrico):** Riesgo de toxicidad.
+*   **CO (monóxido de carbono):** Gases de combustión, riesgo de asfixia y toxicidad.
+*   **O2 (oxígeno):** Riesgo de asfixia por ausencia o exceso de oxígeno.
+*   **CH4 (metano):** Riesgo de explosividad de gases combustibles.
+
+**Características generales de los detectores de gases comerciales:**
+
+*   Temperatura de operación: -20°C a +58°C (-4°F a +136°F). Los sensores de gas combustible están certificados por CSA-International con una precisión de ±5% (para +50°C a +58°C).
+*   Temperatura de almacenamiento: -40°C a +50°C.
+*   Humedad de operación: 0% a 95% de humedad relativa (sin condensación).
+*   En ambientes con polvo o vapor, es necesario usar un filtro.
+
+**Límites de detección:**
+
+*   H2S: 0 – 100 ppm (incrementos de 1 ppm).
+*   CO: 0 – 500 ppm (incrementos de 1 ppm).
+*   CO: 0 – 1000 ppm (incrementos de 1 ppm).
+*   O2: 0 – 30,0% vol. (incrementos de 0,1% vol.), con sensor de concentración controlado por capilares y autocalibración automática.
+*   Gas combustible (LEL): 0 – 100% (incrementos de 1% LEL) o 0 – 5,0% v/v de metano.
+
+**Tipo de sensor:**
+
+*   H2S, CO, O2: Celda electroquímica enchufable.
+*   Gases combustibles: Perla catalítica enchufable.
+*   Autodiagnóstico: Se inicia en la activación.
+*   Calibración: Automática y manual.
+
+Dos modelos certificados ATEX y homologados son el Gas Alert Microclip XT y el Dräger X-AM ®7000.
+
+**Detector multigas (Gas Alert Microclip XT y Gas Alert Quattro):**
+
+Es un detector de gas portátil y compacto que admite hasta cuatro sensores. Incluye una pantalla para visualización de cristal líquido, una barra de alarmas visuales, un botón y una alarma audible.
+
+**Dräger X-AM ® 7000:**
+
+Este modelo puede detectar de forma continua y combinada hasta 5 gases diferentes. Incorpora una bomba interna para la recogida de muestras de gas a través de una sonda.
+
+###### 2.2.2. Normativa
+
+La normativa aplicable a estos aparatos es:
+
+*   **ATEX:** CE 0158, IM2 EEx ia d I, II 2G EEx ia d IIC T4, BVS 03 ATEX E 371 X.
+    *   Para NiMH: 20ºC ≤ Ta + 60ºC.
+    *   Para Alkaline: 20ºC ≤ Ta ≤ + 40ºC.
+*   **IEC:** EEx ia d I/IIC T4.
+    *   Para NiMH: 20ºC ≤ +60ºC.
+    *   Para Alkaline: 20ºC ≤ Ta ≤ + 40ºC.
+*   **UL:** Clase I, Div 1, Grupos A, B, C, D, Temp Code T4.
+    *   Para NiMH: 20ºC ≤ Ta + 60ºC.
+    *   Para Alkaline: 20ºC ≤ Ta ≤ + 40ºC.
+*   **CSA:** Clase I, Div 1, Grupos A, B, C, D, Ex ia T4 C22.2 No. 152.
+    *   Para NiMH: 20ºC ≤ Ta ≤ + 60ºC.
+    *   Para Alkaline: 20ºC ≤ Ta ≤ + 40ºC.
+
+###### 2.2.3. Uso y seguridad
+
+*   **Encendido y apagado:**
+    *   Los explosímetros siempre deben encenderse en un área con aire no contaminado.
+    *   Realizan un autochequeo y calibración automática de los sensores al encenderse.
+    *   El modelo Multigas X-am 7000 muestra información sobre los sensores activos, rango de medida y límite de alarma.
+*   **Riesgos, precauciones y medidas de seguridad:**
+    *   Una lectura que aumente rápidamente en la escala, seguida de una lectura declinante o errática, puede indicar una concentración peligrosa de gas por encima del límite superior de la escala.
+    *   Proteger el sensor de combustible de compuestos de plomo, siliconas e hidrocarburos clorados. Los vapores de gasolina con plomo pueden inhibir temporalmente el rendimiento del sensor.
+    *   LEL By Vol. CH4 muestra la lectura del LEL (límite inferior de inflamación) en porcentaje por volumen, asumiendo un entorno de metano.
+    *   Si se detecta un gas inflamable con concentración superior al LSI, el sensor LEL indicará "OL" (overload) en la pantalla (alarma fuera de rango).
+*   **Índices y uso de equipos de protección respiratoria (ERA):**
+    *   Es crucial utilizar equipos de respiración autónoma cuando el detector de gases indique la presencia de un gas tóxico.
+
+**Tabla 3. Índices y Uso de ERA vs Gas Tóxico**
+
+| Gas tóxico | TLV-TWA | ERA   | IDLH-IPSV |
+| :--------- | :------ | :---- | :-------- |
+| CO (ppm)   | <25     | 50    | >1200     |
+| CO2 (ppm)  | <5000   | 30000 | >40000    |
+| H2S (ppm)  | <1      | 5     | >80       |
+| HCM (ppm)  | <10     | 20    | >50       |
+
+*   **Alarmas:**
+    *   Incorporan sistemas de alarmas visuales y sonoras que indican la presencia de gases, el rango detectado y el estado de la batería.
+    *   Cuentan con un "bit de confianza" para asegurar el funcionamiento y la activación de alarmas tras el encendido.
+
+###### 2.2.4. Mantenimiento
+
+*   **Revisión:**
+    *   Calibrar, realizar una prueba de respuesta e inspeccionar periódicamente el detector.
+    *   Limpiar el exterior con un paño suave y húmedo. No usar jabones o limpiadores.
+    *   No sumergir el detector en líquido.
+    *   Mantener un registro de operaciones con todas las tareas de mantenimiento, pruebas de respuesta, calibraciones y eventos de alarma.
+    *   No se permiten modificaciones en el material eléctrico ni el uso de piezas defectuosas o incompletas.
+    *   Si el aparato sufre un golpe o caída, se debe realizar una inspección visual y retirarlo de la atmósfera potencialmente explosiva con la unidad de alimentación extraída.
+*   Las operaciones de cambio de sensor o filtro, así como la recalibración periódica, deben ser realizadas por el fabricante o un mantenedor autorizado. Sin embargo, se puede realizar una calibración manual al aire fresco para ajustar el punto cero y el oxígeno al 20,9%.
+*   **Ubicación:**
+    *   Los explosímetros se ubicarán en las zonas del parque destinadas a emisoras y linternas, conectados a sus cargadores de baterías y listos para su uso inmediato.
+
+##### 2.3. Anemómetro portátil
+
+###### 2.3.1. Especificaciones
+
+El anemómetro portátil combina las funciones de anemómetro, termómetro e higrómetro, proporcionando las siguientes mediciones:
+
+*   Velocidad del viento.
+*   Índice de calor.
+*   Ráfaga de viento máxima.
+*   Punto de rocío.
+*   Velocidad de viento media.
+*   Temperatura (aire, agua, nieve).
+*   Humedad relativa.
+*   Efecto de enfriamiento del viento.
+
+Existen diversos modelos en el mercado, como el Kestrel® K 3000, que integra estas funciones.
+
+**Características generales del Kestrel® K 3000:**
+
+*   Diseño pequeño, compacto y alta protección, ideal para múltiples situaciones y condiciones adversas.
+*   Protección IP67 o superior.
+*   Temperatura de almacenamiento: 30°C a 80°C.
+*   Amplio ámbito de funcionamiento y alta precisión.
+*   Impulsor cambiable por el usuario sin herramientas.
+*   Sensor de temperatura externo de respuesta rápida.
+*   Sensor de humedad corregido con la temperatura.
+*   Sencillez de uso: tres botones táctiles controlan todas las funciones.
+
+**Alarmas incorporadas en estos equipos:**
+
+*   `Low Alarm`: valor bajo de activación de alarma para todos los sensores.
+*   `High Alarm`: valor alto de activación de alarma para todos los sensores.
+*   `Alarma varios gases`: cuando se indican valores de alarma para distintos sensores.
+*   `TWA Alarm`: valor promedio ponderado en el tiempo (solo para sensores de gases tóxicos).
+*   `STEL Alarm`: valor límite de exposición a corto plazo (solo para sensores de gases tóxicos).
+*   `Alarma de fuera de rango (OL)`: cuando se supera el rango calibrado del sensor.
+*   `ERR`: cuando algún sensor da error.
+*   `Alarma de batería baja`: un bip y un destello cada cinco segundos.
+*   `Alarma de apagado automático`.
+*   `Bip de confianza`: un bip cada 10 segundos.
+
+###### 2.3.2. Normativa
+
+Debe estar homologado y cumplir la normativa CE.
+
+###### 2.3.3. Uso y seguridad
+
+Estos aparatos se utilizan principalmente en trabajos en altura e incendios forestales para:
+
+*   **Medidas atmosféricas:** Proporciona información sobre:
+    *   **Velocidad del viento:** media de los tres segundos anteriores (lectura precisa si se considera la corriente de aire de la parte delantera o trasera de la unidad).
+    *   **Ráfaga de viento máxima:** velocidad máxima del viento durante 3 segundos desde el encendido.
+    *   **Velocidad del viento media:** media de velocidad del viento desde el encendido.
+    *   **Temperatura:** instantánea del termistor (respuesta rápida a cambios; para una respuesta más rápida, se ondea la unidad al viento).
+    *   **Efecto de Enfriamiento del Viento (Wind Chill):** Combinación de velocidad del viento y temperatura. La temperatura efectiva para humanos o animales a bajas temperaturas debido a la velocidad del viento. Las lecturas son iguales a la temperatura por encima de 7.2°C o por debajo de 4.8 Km/h.
+    *   **Humedad Relativa:** Cantidad de humedad en aire comparada con la capacidad máxima del aire para la temperatura dada, expresada en porcentaje. Las lecturas deben realizarse en la sombra.
+    *   **Índice de calor:** Temperatura efectiva sobre un ser humano o animal con alta humedad. Las lecturas serán iguales a la temperatura por debajo de 21°C.
+    *   **Punto de rocío:** Medida de humedad contenida en el aire. Si la medida es muy similar a la temperatura, el aire es húmedo. Si son iguales, se forma rocío. Si la temperatura está bajo cero, se forma escarcha.
+    *   **Escala Beaufort:** Sistema para estimar la fuerza del viento sin instrumentos, basándose en efectos visibles en el entorno. Consta de 13 puntos.
+
+**Tabla 4. Escala Beaufort**
+
+| Fuerza | Descripción          | Kts   |
+| :----- | :------------------- | :---- |
+| 0      | Calma                | 0     |
+| 1      | Aire ligero          | 1-3   |
+| 2      | Brisa ligera         | 4-6   |
+| 3      | Brisa suave          | 7-10  |
+| 4      | Brisa moderada       | 11-16 |
+| 5      | Brisa fresca         | 17-21 |
+| 6      | Brisa fuerte         | 22-27 |
+| 7      | Vendaval cercano     | 28-33 |
+| 8      | Vendaval             | 34-40 |
+| 9      | Fuerte vendaval      | 41-47 |
+| 10     | Tormenta             | 48-55 |
+| 11     | Fuerte tormenta      | 56-63 |
+| 12+    | Huracán              | 64+   |
+
+**Seguridad:**
+
+*   Evitar introducir los dedos en el ventilador para prevenir cortes.
+
+###### 2.3.4. Mantenimiento
+
+*   Guardar el aparato a temperaturas inferiores a -30°C o superiores a 80°C durante periodos prolongados puede causar daños irreparables.
+*   Tras varias horas de uso continuo cerca de 25 M/S (90 KM/H), puede perder precisión debido al desgaste de los rodamientos de zafiro de la miniturbina.
+*   Es normal que la miniturbina oscile al detenerse, pero esto no indica desequilibrio. Para sustituirla, seguir las instrucciones del fabricante.
+*   Si la pantalla se vuelve borrosa o no muestra datos, es necesario cambiar las pilas.
+*   **Ubicación/transporte:**
+    *   El anemómetro se ubica en el vehículo del mando responsable de la intervención (M-0), siendo el mando (J-0) el encargado de su transporte.
+*   **Calibración:**
+    *   Los sensores son calibrados por el fabricante para garantizar la precisión. Si se requiere recalibrar, contactar al fabricante.
+
+##### 2.4. Cámara termográfica o térmica
+
+###### 2.4.1. Especificaciones
+
+La cámara termográfica se emplea para detectar radiación infrarroja y convertirla en imágenes visibles al ojo humano, indicando la temperatura presente en un incendio. Los sensores de estas cámaras están diseñados para detectar y representar en imagen diferentes niveles de calor, incluso pequeñas fracciones de grados (Fahrenheit o Celsius), como la diferencia entre el calor irradiado por el suelo o una pared.
+
+La tecnología infrarroja ofrece una nueva perspectiva en la escena del incendio, permitiendo a los bomberos localizar víctimas en lugares de poca visibilidad, y encontrar rápidamente el foco del fuego y puntos de calor.
+
+El modelo Bullard de la Serie T3 es una opción de mercado diseñada para bomberos, con tecnología avanzada y portátil. Es resistente a golpes, altas temperaturas y agua.
+
+**Características de la cámara termográfica:**
+
+*   **Componentes:** Cuatro elementos.
+    *   **Lente:** Centra la imagen en el detector, generalmente de metal (germanio).
+    *   **Detector:** Convierte las radiaciones infrarrojas en señales eléctricas.
+    *   **Electrónica de proceso:** Recibe las señales y las muestra como imagen. Controla también otras funciones de la cámara.
+    *   **Display:** Generalmente en blanco y negro, con imagen de TV.
+*   **Materiales:** Carcasa exterior de Ultem, termoplástico, sellante de silicona y cubierta de pantalla de policarbonato.
+*   **Alimentación:** Baterías recargables NiMH, con salida de 10 V, capacidad de 1100 mA.hr. Incluye cargador para una batería. También puede alimentarse con 220 VAC o 12 VDC.
+*   **Ciclos:** 1.000.000 ciclos de encendido/apagado.
+*   **Vida útil de la batería:** 1500 ciclos de carga/descarga.
+*   **Dimensiones y peso:** 2600 g, 305x254x152 mm (con batería).
+*   **Resistencia al calor:** 343ºC durante 5 minutos.

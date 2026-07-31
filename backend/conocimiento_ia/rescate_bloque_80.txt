@@ -1,51 +1,52 @@
-## Elementos de Seguridad y Gestión de Riesgos en Vehículos Especiales para Bomberos
+El temario de oposiciones de bomberos y emergencias, en la sección dedicada al rescate en vehículos, abarca procedimientos y precauciones específicas para la intervención en siniestros, prestando especial atención a la gestión de elementos de seguridad, el tratamiento de cristales y las técnicas de apertura y retirada de puertas y techos.
 
-La intervención en accidentes de tráfico y otras emergencias con vehículos requiere un conocimiento profundo de sus sistemas de seguridad, especialmente en lo que respecta a la gestión de riesgos asociados a sus fuentes de energía y diseño estructural. Los bomberos deben estar capacitados para identificar y neutralizar peligros, así como para aplicar técnicas de rescate seguras y eficientes.
+**3. Tratamiento de la batería y retirada de llaves (Continuación)**
 
-### Desconexión de Baterías y Sistemas Eléctricos
+**c) Procedimiento para vehículos sumergidos o semisumergidos**
+En situaciones de vehículos total o parcialmente sumergidos, los fabricantes no especifican un procedimiento detallado, pero recomiendan retirar el vehículo del agua y, si es posible, drenar el interior antes de seguir con la actuación de emergencia. No hay riesgo al tocar la carrocería, pero debe evitarse manipular las partes eléctricas de color naranja. En caso de cortocircuito en el sistema eléctrico, la batería se descarga en segundos, perdiendo la alta tensión. Bajo el agua, la batería se autodescarga rápidamente, reduciendo su voltaje inicial. No existe riesgo eléctrico al tocar el vehículo o atender a los ocupantes. El vehículo puede permanecer en modo READY, pero los cables de alta tensión no deben cortarse ni manipularse hasta que la batería esté desconectada.
 
-En cualquier intervención, es crucial desconectar las baterías para mitigar el riesgo de incendio y la activación accidental de sistemas de retención como airbags y pretensores. Para ello, se sigue un procedimiento específico: primero se desconecta el terminal negativo (masa) y luego el positivo, evitando cortocircuitos. Si hay varias baterías (principal y auxiliar), todas deben ser desconectadas. Para descargar condensadores y prevenir reconexiones accidentales, los cables de las baterías se mantienen unidos o se cubren con cinta. Es importante realizar todas las operaciones eléctricas necesarias (como la apertura de ventanas) antes de desconectar la batería, ya que la desconexión inhabilitará estos sistemas.
+**2.5.2. Camiones híbridos**
+Los trabajos en camiones híbridos accidentados solo deben iniciarse una vez que el motor de combustión interna esté detenido y la batería de alta tensión (HV) desactivada.
+Cuando se activa el desconectador de la batería HV, se interrumpe únicamente el circuito de energía que va y viene de la batería HV, sin que desaparezca completamente la tensión del sistema HV. Para lograr la ausencia total de tensión, también es necesario detener el motor de combustión interna.
 
-La manipulación de baterías conlleva riesgos inherentes. Los **cortocircuitos** pueden ocurrir si objetos metálicos entran en contacto con los terminales, pudiendo provocar incendios, especialmente en baterías de alto voltaje de vehículos pesados. La **carga electrostática**, generada al frotar la batería, puede causar chispas y explosiones; por ello, se recomienda descargar la electricidad estática tocando la carrocería del vehículo antes de la manipulación. En compartimentos cerrados, puede acumularse **gas oxihídrico**, altamente explosivo, lo que exige precaución al desconectar. Además, el **ácido de las baterías** es cáustico y requiere el uso de guantes y protección ocular; en caso de contacto, la zona afectada debe lavarse con abundante agua limpia. Finalmente, se debe evitar inclinar las baterías para prevenir derrames.
+**2.5.3. Autobús híbrido**
 
-Tras la desconexión, es fundamental verificar la ausencia de tensión. Si las luces de advertencia (intermitentes) permanecen activas, indica la presencia de una batería adicional que debe ser localizada y neutralizada. En situaciones donde la desconexión es imposible, se deben extremar las precauciones durante las operaciones de abordaje y excarcelación.
+**Desconexión del sistema de alta tensión (750 V)**
+Existen diversas metodologías para desconectar el sistema de alta tensión (750 V) de un autobús:
+*   Girar la llave de contacto hasta la posición '0'.
+*   Accionar el interruptor de apagado de emergencia, situado a la izquierda del puesto del conductor (2).
+*   Accionar el interruptor de apagado de emergencia ubicado en el compartimento de baterías (1).
+*   Accionar el interruptor de apagado de emergencia situado a la derecha, detrás de la tapa frontal del vehículo (3), si bien esta opción no está disponible en todos los vehículos.
 
-### Vehículos Híbridos y Eléctricos
+En las cuatro variantes mencionadas, se produce una descarga rápida del sistema de alta tensión (aproximadamente 5 segundos). Si la descarga rápida falla, el sistema se desenergiza pasivamente, proceso que puede tardar hasta seis minutos. Tras la descarga, el vehículo ya no presenta tensión y se puede trabajar con seguridad. Durante este tiempo, se debe actuar con la debida cautela, ya que en el interior de las baterías sigue existiendo tensión.
 
-Los vehículos eléctricos e híbridos presentan riesgos específicos debido a sus sistemas de alto voltaje (HV). Estos sistemas se caracterizan por el uso de baterías de alta capacidad y cables de color naranja, a menudo identificados con etiquetas de advertencia. Es esencial que los bomberos conozcan la ubicación de estos componentes.
+**2.5.4. Vehículos hidrogenados**
+Estos vehículos suelen incorporar una batería de ion-litio como fuente de alimentación suplementaria. Algunos modelos disponen de sensores en todo el vehículo para detectar fugas de hidrógeno. Si se produce una fuga, el sistema de ventilación se activa y un sistema automático de cierre corta las válvulas en el tanque de hidrógeno o en las líneas de suministro.
 
-En caso de **incendio** en vehículos eléctricos, las baterías de iones de litio pueden experimentar una rápida reacción térmica sin explosión. La extinción se realiza enfriando las baterías con grandes cantidades de agua, y en casos específicos, con CO2 o tácticas defensivas. No se debe romper la cubierta de las baterías HV ni cortar los cables de alto voltaje. Los ruidos de las válvulas de seguridad durante un incendio son normales y no indican explosión.
+**4. Técnicas de intervención (Continuación)**
 
-El **riesgo eléctrico** persiste incluso tras un incendio o desconexión. Las líneas de alta tensión pueden estar activas y calientes, por lo que se debe mantener una distancia de seguridad (hasta 1000V) y evitar el contacto con herramientas metálicas o elementos estabilizadores. Para desconectar el sistema HV, se extrae la llave de contacto, se aleja la smart key del vehículo y se desconectan las baterías de 12V o el enchufe de bajo voltaje de la batería HV, si es accesible. En muchos casos, los vehículos disponen de dispositivos adicionales para la desconexión del sistema de alto voltaje, como puntos de separación o interruptores específicos.
+**4.4.3. Techo**
+El acceso a través del techo depende del tipo de tren y del material de fabricación (techos de cristal, metálicos, etc.). Lo más importante es asegurar que la tensión de la catenaria haya sido eliminada. Esta solución solo debe aplicarse si hay total seguridad de que la catenaria no tiene tensión o si el tren ha volcado.
 
-### Vehículos Propulsados por Hidrógeno y Gas Natural
+**4.5. Apertura de huecos**
+La estructura de los trenes es muy compleja, con múltiples clases de locomotoras, coches, vagones y automotores, y cada fabricante emplea elementos diferentes. La primera opción para abrir huecos es utilizar los naturales (puertas y ventanas); si es necesario improvisar una apertura, lo más sencillo es hacerlo por debajo o por encima de las ventanas. Los coches pueden emplear estos huecos naturales, ya que generalmente no tienen largueros de refuerzo verticales entre las ventanas. Para el primer acceso, es suficiente realizar aberturas que permitan comprobar las funciones vitales de los accidentados y evaluar el estado interior del tren.
 
-Los **vehículos hidrogenados** utilizan hidrógeno comprimido o pilas de combustible para generar electricidad. Poseen una batería auxiliar de iones de litio. En caso de fuga, los sensores activan el sistema de ventilación y cierran las válvulas del tanque. La tubería de expulsión de hidrógeno, equipada con una caperuza protectora, libera el gas. El hidrógeno, al expandirse, se calienta y puede inflamarse, con llamas no visibles. Los sistemas de seguridad incluyen monitorización de sobrecarga, subtensión, sobretensión, y un elemento pirotécnico que desconecta el suministro en caso de colisión. Las válvulas de sobrepresión y los dispositivos de protección contra altas temperaturas (110°C) previenen la ruptura de los tanques. Para la desconexión del sistema, se debe mover la palanca selectora a 'P', retirar la llave de contacto, desconectar la batería de 12V y desactivar el sistema de alto voltaje.
+**CAPÍTULO 3. Valoración**
 
-Por otro lado, los **vehículos a gas natural comprimido (GNC)** utilizan metano almacenado a altas presiones (200-300 bar, soporta hasta 600 bar). Aunque son intrínsecamente seguros y están equipados con sensores que cortan el suministro en caso de impacto, un incendio puede generar riesgos de asfixia (por desplazamiento de oxígeno), fugas inflamables y ruptura por sobrepresión. La intervención incluye desconectar el contacto, cerrar manualmente las válvulas de gas y, si es necesario, permitir que el gas se queme de forma controlada mientras se enfrían los recipientes.
+**1. Inspeccionar la escena**
+Se deben evitar nuevos daños identificando riesgos potenciales (ambientales, para bomberos o víctimas). Puede ser necesario buscar víctimas, lo que aumentaría el personal requerido.
 
-### Estabilización de Vehículos Pesados
+**2. Determinar necesidades de primeros auxilios**
+La información de la inspección inicial permite identificar necesidades de primeros auxilios y solicitar medios sanitarios. Aunque se detecte un accidentado, si la complejidad del rescate lo aconseja, se deben solicitar medios sanitarios preventivamente. En situaciones de siniestros complejos o lejanos, pueden requerirse medios helitransportados, e incluso es preferible que lleguen a la víctima en lugar de trasladar a esta.
 
-La estabilización de vehículos pesados, como camiones y autobuses, es una tarea compleja debido a su gran tamaño, peso e inestabilidad, especialmente si están volcados. El objetivo principal es anular los movimientos horizontales y verticales, así como el balanceo, para garantizar la seguridad de la víctima y los intervinientes.
+**3. Analizar el riesgo**
+En rescates en altura, la situación debe analizarse fríamente para encontrar la solución más sencilla. El riesgo es inherente al oficio de bombero y es especialmente presente en maniobras en altura. Se considera un riesgo para la vida (nivel 3) debido a los materiales utilizados. Las intervenciones de alto riesgo pueden ser muy complicadas, y la respuesta debe estar alejada de la zona crítica, a menos que se asuma el riesgo voluntariamente. Al analizar los riesgos, se debe asegurar la disponibilidad de material necesario para minimizarlos (EPR, NRBQ, iluminación, achique, etc.).
 
-En vehículos sobre sus ruedas, se utilizan calzos (del propio vehículo o del equipo de rescate) en al menos dos ruedas de distinto eje. En el caso de **camiones**, es vital asegurar la cabina al bastidor con correas tensoras, impidiendo su "resbalamiento" si la suspensión está destruida. Los puntos de apoyo para gatos hidráulicos se encuentran en la boca de acoplamiento delantera (detrás del parachoques) y trasera (debajo de la matrícula), así como en los ejes con fuelles neumáticos.
+**4. Elaborar el plan de actuación**
+El plan de actuación es crucial en el rescate y depende de los datos previos, el reconocimiento del lugar, la experiencia y los recursos disponibles. El equipo humano debe distribuirse coherentemente (mando, rescate, SOS, seguro).
 
-Para la estabilización de un **vehículo sobre el costado**, se emplean puntales mecánicos (madera, metal, hidráulicos o neumáticos) con cuñas en sus bases para evitar deslizamientos o punzonamientos. Algunos puntales incorporan cinchas para un anclaje más seguro. Los "medios de fortuna", como escaleras de mano, pueden usarse con correas para reafirmar la sujeción.
+**5. Demarcar las zonas de actuación y adecuar el lugar del siniestro**
+Se distinguen tres zonas de actuación según la peligrosidad y cercanía al siniestro: caliente, templada y fría. El lugar del siniestro se adecuará a su naturaleza y complejidad (ej. pozo, colector, trabajador en grúa). Para adecuar el lugar, se consideran recursos como iluminación nocturna, protección contra fuego y control de peligros secundarios.
 
-Cuando un **vehículo está sobre el techo**, la estabilización es crítica, especialmente si el techo está colapsado. Se utilizan cojines hinchables de baja presión para levantar la estructura, aunque son inestables y susceptibles de pinchazos. Los cojines de alta presión son más resistentes pero tienen menos volumen. La clave es la estabilidad, no la elevación. Una técnica común en turismos volcados es colocar cuñas de escalera a lo largo de los anillos longitudinales del vehículo para aumentar la superficie de apoyo.
-
-### Creación de Espacios y Excarcelación en Vehículos Pesados
-
-El abordaje y la excarcelación en vehículos pesados, como camiones y autobuses, son tareas técnicas que requieren herramientas de rescate de mayor capacidad debido a la robustez de su construcción. El objetivo es crear espacios seguros para el acceso del personal sanitario y la rápida extracción de las víctimas, minimizando riesgos para todos los implicados.
-
-La **apertura de puertas** se intenta primero de forma manual o con los sistemas eléctricos/neumáticos del vehículo. Si están deformadas, se recurre a herramientas hidráulicas como el separador. Para puertas delanteras, se introduce el separador en el intersticio de la puerta a la altura de la cerradura del montante B y se expande gradualmente. En puertas traseras, se realiza una abertura similar en el marco de la ventana. Las puertas de ala de gaviota requieren un procedimiento específico: cortar los montantes delantero y trasero, abatir la puerta y cortar la cerradura.
-
-La **retirada de un lateral** implica eliminar por completo la puerta delantera, el montante B y la puerta trasera, utilizando cortes de alivio en los pilares y separadores para ensanchar el espacio.
-
-El **tratamiento del techo** varía según el material. Si es necesario eliminarlo, se retiran previamente los revestimientos interiores y se verifica la presencia de generadores de gas de airbags. Los cortes se realizan en el montante A lo más bajo posible, evitando el generador de gas, y en la zona del marco del techo. También se puede cortar el parabrisas y retirarlo junto con el techo. En vehículos pesados, los techos son más robustos y su retirada requiere una evaluación previa del tipo de tren y material.
-
-El **abatimiento del salpicadero** busca desplazar el panel de instrumentos para liberar las piernas de la víctima. Se estabiliza el vehículo, se cortan los montantes A por encima del salpicadero, y se utiliza un cilindro de rescate para empujar el salpicadero hacia adelante. Si la maniobra no es posible con un solo cilindro, se pueden emplear dos.
-
-La **liberación de atrapamiento por pedales** se realiza haciendo cortes de alivio en la base del pilar A y utilizando un separador para crear espacio y permitir el acceso al cortapedales. En camiones, las piezas de la cabina están reforzadas y requieren herramientas potentes.
-
-Finalmente, la **creación de espacios** en vehículos pesados es un reto. Se pueden emplear plataformas de rescate, trampillas de carga, o escaleras giratorias para acceder. Es crucial proteger a la víctima con plásticos y mantas y al personal con mascarillas y gafas, especialmente ante el polvo de vidrio o la activación de airbags.
+**6. Instalar un sistema de rescate**
+Antes del rescate, puede ser necesario montar un acceso para uno o dos bomberos-rescatadores para reconocer a la víctima y evaluar la necesidad de asistencia médica. Se debe elegir el emplazamiento del dispositivo de subida/bajada de víctimas considerando posibles incidentes. Si existen varias opciones, se elegirá la más sencilla (descender a la víctima es más fácil que izarla). Se debe prestar especial atención al montaje de los Sistemas de Anclajes de Seguridad (SAS), utilizando sobredimensionamiento y redundancia (materiales resistentes, instalaciones dobles).

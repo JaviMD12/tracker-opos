@@ -1,91 +1,69 @@
-# Energía Térmica y sus Efectos en Incendios
+## Capítulo 1: Caracterización del Fuego
 
-La comprensión de la **Teoría del Fuego** es fundamental para el personal de emergencias, involucrando el estudio de la energía, la materia y sus interacciones. Específicamente, el **calor** y la **temperatura** son conceptos clave en la dinámica de los incendios.
+### 1. Conceptos Fundamentales
 
-## Calor y Temperatura: Conceptos Fundamentales
-El **calor** se define como la energía generada por la interacción de las moléculas de la materia. Por su parte, la **temperatura** es la manifestación del grado de calor que un cuerpo posee, directamente relacionada con el movimiento de sus moléculas: a mayor agitación o velocidad de traslación de los electrones, mayor será la temperatura. Es importante destacar que los cuerpos no "contienen calor", sino que poseen temperatura; el calor, en cambio, es un proceso de transferencia de energía que ocurre debido a una diferencia de temperatura entre sistemas.
+El dominio del fuego es esencial para la prevención y extinción de incendios. Para lograrlo, es imprescindible conocer en profundidad qué es el fuego.
 
-La medición del calor se realiza mediante los cambios de estado calorífico de los cuerpos, que se reflejan en variaciones de temperatura o de estado físico. La energía calorífica puede manifestarse de diversas formas, incluyendo **energía eléctrica, mecánica, química, nuclear y solar**. La capacidad de los cuerpos para transmitir calor se conoce como **conductividad calorífica**. Las principales fuentes de calor son el sol y los combustibles, tanto sólidos como líquidos y gaseosos.
+#### 1.1. Composición de la Materia
 
-El **calor de combustión** es el calor que se libera cuando una sustancia reacciona completamente con el oxígeno a volumen y presión constantes, siendo este el proceso más relevante para la generación de energía calorífica. La unidad de medida para el calor es la **caloría (cal)**, definida como la cantidad de calor necesaria para elevar 1 gramo de agua en 1°C (específicamente entre 14.5°C y 15.5°C a presión atmosférica normal). En una escala mayor, se utilizan la **kilocaloría (1.000 calorías)** y la **megacaloría (1.000.000 calorías o 1.000 kilocalorías)**. Sin embargo, en el sistema científico actual, la unidad de energía es el **julio (J)**, donde **1 caloría equivale a 4.1868 julios** y **1 julio a 0.24 calorías**. La potencia o flujo de energía en un incendio se expresa en **Kilowatios (kW)** o **Megawatios (MW)**, con **1 Watio (W) equivalente a 1 Julio por segundo (J/s)**.
+El estudio de cualquier tipo de combustión requiere comprender la composición atmosférica. La atmósfera terrestre se compone principalmente de una mezcla de gases: un 21% de oxígeno, un 79% de nitrógeno y un 0,02% de otros gases como dióxido de carbono, neón, criptón y xenón.
 
-El **calor específico** es la capacidad intrínseca de una sustancia para absorber calor, representando la cantidad de calor necesaria para aumentar la temperatura de 1 gramo de esa sustancia en 1°C. Este valor varía según la sustancia y ligeramente con la temperatura, siendo un mayor calor específico sinónimo de un mayor efecto refrigerante. Por ejemplo, el agua tiene un calor específico de 4.182 J/(gºC) o 1.0 cal/(gºC), mientras que el aire seco es de 1.009 J/(gºC) o 0.241 cal/(gºC). La **capacidad calorífica (C)** de un cuerpo, por otro lado, es la cantidad de calor necesaria para elevar su temperatura en 1°C, calculándose como el producto de la masa del cuerpo por su calor específico.
+Los gases inertes, como el nitrógeno y los gases nobles, no reaccionan bajo condiciones estándar de presión y temperatura debido a su configuración eléctrica estable.
 
-En cuanto a la medición de la temperatura, se emplean **termómetros** que utilizan la variación de volumen de un líquido (como el mercurio) en un tubo graduado. Existen varias escalas de temperatura:
-*   **Celsius o Centígrada:** 0°C (fusión del hielo) a 100°C (ebullición del agua).
-*   **Réaumur:** 0°R a 80°R (actualmente en desuso).
-*   **Fahrenheit:** 32°F a 212°F (usada en países angloparlantes).
-*   **Absoluta o Kelvin:** 273 K a 373 K, donde 0 K representa el cero absoluto, punto en el que las moléculas carecen de energía cinética.
+##### 1.1.1. Moléculas y Átomos
 
-Las fórmulas de conversión entre estas escalas son:
-*   °F = °C · 1.8 + 32
-*   °C = (°F - 32) ÷ 1.8
-*   °C = K - 273.15
-*   K = °C + 273.15
-*   K = 5/9 (°F - 32) + 273.15
-*   °F = 1.8 (K - 273.15) + 32
-Además, una simplificación común para la conversión es: C/5 = R/4 = (F-32)/9 = (K-273)/5.
+La materia se organiza en moléculas, las cuales están compuestas por átomos. A su vez, los átomos se integran por neutrones, protones y electrones.
 
-## Efectos del Calor sobre los Cuerpos
-El calor incide sobre los cuerpos generando dos fenómenos principales: la **dilatación** y los **cambios de estado**.
+*   **Átomo:** Partícula fundamental de la composición química de la materia, de dimensiones extremadamente pequeñas. Posee un núcleo compacto con protones y neutrones, y electrones que giran a su alrededor.
+*   **Electrón:** Partícula subatómica con carga eléctrica elemental negativa, simbolizada como e⁻.
+*   **Protón:** Partícula con carga positiva. El número de protones en el núcleo define el número atómico de un elemento, como se muestra en la tabla periódica.
+*   **Neutrón:** Partícula subatómica sin carga eléctrica presente en el núcleo atómico.
 
-### Dilatación
-La **dilatación** es el aumento de volumen que experimentan los cuerpos al calentarse, independientemente de su estado inicial. Los gases presentan el mayor poder de dilatación. Una notable excepción es el agua, que se dilata al descender su temperatura de 4°C a 0°C, comportándose de manera normal en otros intervalos. La dilatación puede generar fuerzas considerables y es un factor relevante en el diseño de estructuras. Se distinguen tres tipos de dilatación:
-*   **Dilatación lineal:** Aumento de la longitud de un cuerpo al calentarse, proporcional a la variación de temperatura. Se calcula como **ΔL = L - Lo**, donde ΔL es la variación de longitud, L la longitud final y Lo la longitud inicial, además de **ΔL = Lo · α · Δt**, siendo α el coeficiente de dilatación lineal y Δt la variación de temperatura.
-*   **Dilatación superficial:** Aumento de la superficie de un cuerpo, predominando la variación en dos dimensiones (largo y ancho). Se expresa con las fórmulas **ΔS = So · β · Δt** o **S - So = So · β · Δt**, donde ΔS es la variación de superficie, So la superficie inicial, β el coeficiente de dilatación superficial. También se utiliza la expresión **S - So = So · 2β · Δt**, lo que implica que β puede ser equivalente a 2α.
-*   **Dilatación cúbica o volumétrica:** Aumento del volumen de un cuerpo en sus tres dimensiones (alto, ancho, profundo), aplicable a esferas, prismas o cubos. Se calcula mediante **ΔV = Vo · γ · Δt** o **V - Vo = Vo · 3γ · Δt**, donde ΔV es la variación de volumen, Vo el volumen inicial, γ el coeficiente de dilatación volumétrica. Esto sugiere que γ puede ser equivalente a 3α.
+##### 1.1.2. Sustancias y Fórmulas Químicas Básicas
 
-### Cambios de Estado
-Los cambios de estado de la materia se clasifican en **progresivos** y **regresivos**.
-*   Los **cambios progresivos** son aquellos en los que el cuerpo absorbe calor:
-    *   **Fusión:** Paso de sólido a líquido (ej. hielo a agua).
-    *   **Vaporización:** Paso de líquido a gas (ej. agua a vapor).
-    *   **Sublimación:** Paso de sólido a gas directamente (ej. nieve carbónica a gas).
-*   Los **cambios regresivos** son aquellos en los que el cuerpo desprende calor:
-    *   **Solidificación:** Paso de líquido a sólido (ej. agua a hielo).
-    *   **Condensación (o licuefacción):** Paso de gas a líquido (ej. gases licuados del petróleo).
-    *   **Sublimación regresiva:** Paso de gas o vapor directamente a sólido.
+Una sustancia es una variedad de materia con características y composición química invariables. Se distinguen dos tipos:
+*   Sustancias simples o elementos químicos.
+*   Sustancias compuestas o compuestos químicos.
 
-## Presión de Vapor y Tensión Superficial
-La **presión de vapor** es la presión a la que las fases líquida y gaseosa de una sustancia coexisten en equilibrio dinámico a una temperatura específica. Este valor es independiente de la cantidad de líquido o vapor, siempre que ambas fases estén presentes. Este fenómeno también se observa en sólidos a través de la sublimación. En equilibrio, las fases se denominan líquido saturado y vapor saturado. La presión de vapor es inversamente proporcional a las fuerzas de atracción intermoleculares: fuerzas mayores requieren más energía para el cambio de estado. Por ejemplo, el agua hierve cuando su presión de vapor iguala la presión exterior, y el punto de ebullición normal ocurre cuando iguala la presión atmosférica. La presión de vapor debe considerarse en la aspiración de bombas para evitar la cavitación.
+Por ejemplo, la molécula de agua está formada por dos átomos de hidrógeno y uno de oxígeno, con la fórmula química H₂O (H+H+O). Una fórmula química indica la cantidad de átomos de cada elemento en una molécula, aunque no siempre su distribución. El butano, por ejemplo, tiene la fórmula química C₄H₁₀, lo que significa que contiene cuatro átomos de carbono y diez átomos de hidrógeno.
 
-La **tensión superficial** es la cantidad de energía requerida para aumentar la superficie de un líquido por unidad de área. Es una manifestación de las fuerzas intermoleculares, y junto con las fuerzas líquido-sólido, genera la capilaridad. Las moléculas en el interior de un líquido experimentan fuerzas de atracción equilibradas, mientras que en la superficie, la fuerza resultante se dirige hacia el interior, lo que minimiza el área superficial, comportándose como una membrana elástica. La alta tensión superficial del agua, debida a los puentes de hidrógeno, explica la formación de gotas.
+#### 1.2. Reacciones
 
-## Hidrostática y Presión
-La **hidrostática**, una rama de la mecánica de fluidos, estudia los fluidos en estado de equilibrio, donde no actúan fuerzas que alteren su movimiento o posición. Sus principios fundamentales son el **Principio de Pascal** y el **Principio de Arquímedes**.
+Una reacción es un cambio que experimenta un elemento o compuesto, como la combustión de combustibles. Las reacciones pueden ser de tres tipos: físicas, químicas o nucleares.
 
-La **presión (p)** se define como la fuerza ejercida perpendicularmente por unidad de superficie. La unidad de medida en el Sistema Internacional es el **pascal (Pa)**, equivalente a una fuerza de 1 newton actuando uniformemente sobre 1 metro cuadrado.
-*   La **presión atmosférica** es la presión ejercida por la atmósfera debido al peso de la columna de aire, variando con la altitud y las condiciones meteorológicas. A nivel del mar, es equivalente al peso de una columna de mercurio de 760 mm.
-*   El **vacío** se refiere a la extracción total o parcial del aire (u otro fluido) de un recipiente, siendo el vacío perfecto teóricamente inalcanzable.
-*   La **presión absoluta** toma como referencia el cero absoluto, mientras que la **presión relativa** se mide tomando como referencia la presión atmosférica. La relación es: **Presión Absoluta = Presión Relativa + Presión Atmosférica**.
-*   La **presión estática** es la presión de un fluido independiente de su velocidad, medida con tubos piezométricos. La **presión dinámica** depende de la velocidad del fluido. La suma de ambas es la **presión total**.
+##### 1.2.1. Reacciones Físicas
 
-## Gases y Sustancias Tóxicas en Incendios
-Los incendios generan una variedad de gases, muchos de ellos tóxicos, que representan un grave riesgo para la salud humana.
+Una reacción física implica un cambio en el estado de la materia sin alterar su composición química. Por ejemplo, la evaporación del agua (H₂O) de estado líquido a vapor (H₂O) modifica las propiedades físicas, pero no crea una nueva sustancia. Las moléculas de los reactivos son idénticas a las de los productos.
 
-### Monóxido de Carbono (CO)
-Gas incoloro, más ligero que el aire, que arde con llama azul. Es inflamable y explosivo en concentraciones del 12.5% al 74.2% en aire. Se forma por la combustión incompleta de materiales orgánicos carbonáceos (madera, petróleo, gas natural), especialmente en condiciones de déficit de oxígeno. El principal riesgo es la **inhalación**, ya que el CO se une a la hemoglobina formando **carboxihemoglobina (COHb)**, lo que impide el transporte de oxígeno, causando hipoxia o anoxia. Su afinidad por la hemoglobina es 260 veces mayor que la del oxígeno. Es una reacción reversible, y la cantidad de COHb se expresa como porcentaje de saturación sanguínea.
+##### 1.2.2. Reacciones Químicas
 
-### Dióxido de Carbono (CO2)
-También conocido como óxido de carbono (IV) o gas carbónico, es un gas no inflamable, incoloro, inodoro, soluble en agua, y más pesado que el aire (1.52 veces). Aunque no es tóxico en sí mismo, es un **asfixiante** en altas concentraciones. Puede causar irritación digestiva si se ingiere y, por inhalación, provoca asfixia e hiperventilación. El contacto directo con la piel o los ojos puede causar congelación. Su punto de fusión es -78°C y el de ebullición -57°C.
+Una reacción química altera la composición química de un elemento, transformando las sustancias originales (reactivos) en otras nuevas con propiedades diferentes (productos). Por ejemplo, la descomposición de una naranja modifica su estructura química, o el oxígeno del aire reacciona con el hierro para formar óxido de hierro. Durante estas reacciones, los elementos constituyentes se conservan, aunque reorganizados en nuevas sustancias. Un ejemplo es la combinación de dos átomos de carbono con uno de oxígeno para formar dióxido de carbono (2C + O₂ = 2CO₂).
 
-### Cianuro de Hidrógeno (HCN)
-Incluye el ácido cianhídrico y sus sales, como el cianuro de sodio, potasio y calcio. En estado gaseoso es incoloro y más pesado que el aire; en estado líquido es un líquido blanco azulado con olor a almendras amargas. Es explosivo en mezclas con aire del 5% al 40%. Se forma por la acción del agua y ácidos sobre cianuros. Su ingreso principal es por vía **respiratoria**, y también puede ser por ingestión o contacto cutáneo. Los cianuros irritan las mucosas y la piel, y a nivel sistémico, el HCN se une a iones metálicos (como el hierro), inhibiendo la citocromooxidasa y causando anoxia química al impedir la entrega de oxígeno a los tejidos, alterando el mecanismo aeróbico.
+Las reacciones químicas implican la ruptura y formación de enlaces químicos. Si los enlaces de los productos son más fuertes que los de los reactivos, se libera energía en forma de calor, denominándose reacción exotérmica. Si, por el contrario, se absorbe energía, la reacción es endotérmica. Las reacciones exotérmicas espontáneas son más comunes, como la combustión de compuestos de carbono que produce CO₂ y H₂O con enlaces fuertes. Un ejemplo de reacción endotérmica es la disolución de sal en agua.
 
-### Sulfuro de Hidrógeno (H2S)
-Gas inflamable (4.5% a 45% en aire), incoloro, tóxico y soluble en agua, conocido como ácido hidrosulfúrico o gas de alcantarilla. Emite un olor característico a huevos podridos en concentraciones bajas (por debajo de 30 ppm), y un olor dulce que puede paralizar el olfato a 100 ppm o más. Es más pesado que el aire, por lo que su **inhalación** en espacios confinados puede causar asfixia. El contacto con la piel o los ojos puede provocar irritación, dolor y quemaduras. Es extremadamente nocivo, con 20-50 ppm en el aire suficientes para causar malestar agudo, asfixia y muerte por sobreexposición. Su punto de ebullición es -60°C y de fusión -86°C.
+En resumen:
+*   Una reacción endotérmica absorbe energía, aumentando la energía interna del sistema.
+*   Una reacción exotérmica libera energía, disminuyendo la energía interna del sistema.
 
-### Amoniaco (NH3)
-Compuesto químico formado por un átomo de nitrógeno y tres de hidrógeno. Es un gas inflamable (16% a 25% en aire) a temperatura ambiente, incoloro, con un olor muy penetrante y nauseabundo. Se produce naturalmente por descomposición orgánica e industrialmente. Es fácilmente soluble en agua y se evapora rápidamente, comercializándose a menudo en forma líquida.
+##### 1.2.3. Reacciones Nucleares
 
-### Formaldehído o Metanal (H2C=O)
-Es el aldehído más simple, un compuesto químico altamente volátil y muy inflamable, obtenido por oxidación catalítica del alcohol metílico. Es fungicida, germicida y desinfectante. A temperatura normal, es un gas incoloro con olor penetrante, muy soluble en agua y ésteres. Las disoluciones acuosas al 40% se conocen como formol, un líquido incoloro con olor sofocante, que puede contener alcohol metílico como estabilizante. Puede ser comprimido hasta estado líquido, con un punto de ebullición de -21°C.
+Una reacción nuclear es un proceso de combinación y transformación de partículas y núcleos atómicos, que puede ser endotérmico o exotérmico. Durante la desintegración de un átomo radiactivo, se generan otras partículas subatómicas como las alfa, beta y la radiación gamma.
 
-### Cloro y Clorados (Cl2)
-El cloro es un elemento químico halógeno (número atómico 17). En condiciones normales, forma dicloro (Cl2), un gas tóxico no inflamable de color amarillo-verdoso, 2.5 veces más pesado que el aire, con un olor desagradable y picante. Reacciona con líquidos orgánicos para formar ácidos y, en altas concentraciones, actúa como asfixiante. Por **inhalación**, irrita las mucosas, causa tos, dificultad respiratoria, y puede provocar edema pulmonar. El contacto con la piel prolongado puede causar acné, y con los ojos, quemaduras graves. Su punto de ebullición es -34.7°C y de fusión -101.0°C.
+El decaimiento de un átomo radiactivo se representa mediante una fórmula química que indica el número atómico y el número másico, como en el ejemplo ¹⁴₇N + ⁴₂He → ¹⁷₈O + ¹₁H. Estas reacciones nucleares se distinguen de las químicas por:
 
-### Flúor (F) o Ácido Fluorhídrico (HF)
-El flúor es un gas diatómico amarillo pálido (F2) a temperatura ambiente, siendo el elemento más electronegativo y reactivo. El ácido fluorhídrico (HF) es una disolución acuosa de fluoruro de hidrógeno, un ácido débil pero más peligroso que otros ácidos fuertes, y es conocido por atacar el vidrio, esmaltes, cemento, caucho, cuero, metales (especialmente hierro) y compuestos orgánicos. La **inhalación** del gas puede causar irritación respiratoria severa, asfixia y edema pulmonar, mientras que el contacto con la piel pura es muy peligroso, provocando quemaduras químicas graves y destrucción de tejidos. Su punto de ebullición es -188°C y de fusión -220°C.
+| Características             | Reacciones Químicas                                  | Reacciones Nucleares                                    |
+| :-------------------------- | :--------------------------------------------------- | :------------------------------------------------------ |
+| Reordenamiento atómico    | Ruptura y formación de enlaces químicos.           | Cambio en la constitución del núcleo, generando nuevos elementos o isótopos. |
+| Participación de partículas | Solo electrones.                                     | Protones, neutrones, electrones y otras partículas elementales. |
+| Cantidad de energía        | Relativamente pequeñas (ej. CH₄+O₂ → CO₂+2H₂O+200 kcal). | Enormes cantidades (ej. ⁷₃Li+¹₁H → 2⁴₂He + 23.000.000 kcal). |
+| Velocidad de reacción      | Afectada por temperatura, presión y catalizadores. | Generalmente no afectada por temperatura, presión o catalizadores. |
 
-### Cloruro de Carbonilo o Fosgeno (COCl2)
-Gas muy tóxico que se produce por el contacto de las llamas con productos clorados, como PVC, aislamientos de cables eléctricos y refrigerantes. Es un componente industrial importante para plásticos y pesticidas. A 21°C es un gas venenoso, y al ser enfriado y presurizado se convierte en líquido. Cuando se libera, se transforma rápidamente en gas, permaneciendo cerca del suelo y propagándose con rapidez. También se conoce por su denominación militar CG.
+### 2. Teoría del Fuego
+
+El fuego es una combustión caracterizada por la emisión de calor, humo y llamas. Una combustión es un proceso químico-físico donde un cuerpo se une a un oxidante, liberando calor. La velocidad del proceso determina si es una oxidación simple o una explosión violenta. El fuego es una reacción de oxidación-reducción fuertemente exotérmica.
+
+#### 2.1. Definición y Normativa
+
+La **norma UNE 23026** define el fuego como una combustión con emisión de calor, humo y llamas. La combustión se define como una reacción química exotérmica de oxidación que implica un elemento combustible y un comburente (generalmente oxígeno gaseoso O₂), liberando calor (exotérmica), luz, humo y gases.
+
+Otras normativas aplicables en España y a nivel internacional incluyen la **UNE-EN ISO 13943:2001** (Europa), que anula la norma española, y la **NFPA** (Estados Unidos, usada como referencia en países latinoamericanos como Argentina, Colombia, México, Puerto Rico, República Dominicana, Venezuela y Perú). La **ISO 13943** define el fuego como una combustión autosoportada, deliberadamente iniciada para aprovechar sus efectos y controlada en duración y extensión. El incendio, según la **ISO 13943**, es una combustión incontrolada que se propaga en tiempo y espacio, es decir, una combustión de aportación incontrolada.

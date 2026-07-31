@@ -1,77 +1,77 @@
-# Técnicas de Intervención en Incidentes con Ascensores y Caracterización de Trabajos de Apeo y Poda
+## PARTE 7: NRBQ - CARACTERIZACIÓN
 
-El presente manual aborda aspectos fundamentales para la intervención de los cuerpos de bomberos en situaciones que involucran tanto rescates en ascensores como trabajos de apeo y poda de arbolado, haciendo énfasis en la caracterización y la metodología operativa.
+### 3. Sección de las Cisternas
 
-## Intervención en Incidentes con Ascensores: Casos Prácticos
+La forma de la sección de una cisterna se define por la presión a la que estará sometida. El ADR establece diversas secciones de cisterna en función del tipo de material transportado, su estado y la presión interna, con el objetivo de asegurar la óptima resistencia a las cargas.
 
-El rescate en ascensores, especialmente en situaciones de emergencia, requiere una comprensión clara de los distintos escenarios y los procedimientos más seguros. Se distinguen diversas tipologías de ascensores, así como las causas más frecuentes que motivan una intervención.
+**Tabla: Tipos de secciones de cisterna según ADR**
 
-### Rescate en Ascensores Hidráulicos sin Acceso al Cuarto de Máquinas o Cuadro de Maniobras
+| Tipo           | Características                                                                                                                                              | Sección / Fondo                                              |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------- |
+| **POLICÉNTRICA** | Poca presión interior. Máxima carga con menor longitud. Se utiliza en el entorno urbano. Lateral poco resistente. Los refuerzos se sustituyen por diseños ovalados. | (Representación gráfica de una sección policéntrica)         |
+| **OVALADA**    | Poca presión interior. Mayor longitud lineal para igual capacidad. Costados más resistentes. Poca presión interior.                                            | (Representación gráfica de una sección ovalada)              |
+| **CIRCULAR CON FONDO SEMIESFÉRICO** | Para materias muy peligrosas. Mejor comportamiento en accidentes. Costados más resistentes y más segura. Más fácil de construir.                        | (Representación gráfica de una sección circular con fondos semiesféricos) |
+| **CIRCULAR CON FONDO ESFÉRICO** | Alta presión interior. Mejor comportamiento en accidentes. Costados más resistentes y más segura. Más fácil de construir.                             | (Representación gráfica de una sección circular con fondos esféricos) |
+| **ESPECIAL**   | Mayor volumen de carga. Muy común para granulados. Algunas presentan cuello de cisne.                                                                        | Secciones y formas distintas a lo largo de la cuba           |
 
-Cuando una persona queda atrapada en un ascensor hidráulico en un edificio público y no se dispone de acceso al cuarto de máquinas ni al cuadro de maniobras, el procedimiento de rescate se inicia con el **corte del suministro eléctrico**. Para ello, se debe localizar el cuadro de contadores del edificio y retirar los fusibles que alimentan la derivación del ascensor.
+Para la identificación de las sustancias peligrosas, se utiliza información basada en el protocolo del CEIS, la cual incluye los siguientes datos del código:
+*   La **primera letra** indica el estado de la materia.
+*   La **segunda letra** se refiere a la presión de cálculo de la cisterna.
+*   La **tercera letra** señala la ubicación de las aberturas y orificios.
+*   La **cuarta letra** especifica si la cisterna dispone de válvula de seguridad o alivio, o si está herméticamente cerrada sin estos dispositivos.
 
-Posteriormente, se busca el **botón o tirador rojo de descenso** (si está disponible) en el cuarto de máquinas o en un cuadro auxiliar de maniobras. Este dispositivo permite bajar la cabina manualmente hasta la planta de rescate. Es crucial observar los indicadores visuales o acústicos del fabricante que confirman el nivel de la cabina. Si, por el contrario, la cabina necesita ser elevada para el desenclave de puertas, se deberá localizar la **palanca de accionamiento hidráulico**. Una vez completado el rescate, es imprescindible **desconectar el interruptor principal (VP)**, notificar a la empresa de asistencia técnica del ascensor y asegurar el cierre de la tapa del armario.
+### 4. Recipientes de Transporte y Almacenaje. Afección en Siniestros
 
-### Rescate de Persona Atrapada con Extremidad fuera de Cabina
+La normativa ADR y RID regula los recipientes para el transporte de mercancías peligrosas. El tamaño, características y uso de los envases varían según el tipo de mercancía, su estado, temperatura y presión. Estos recipientes están fabricados con diversos materiales como madera, cartón, plástico, aluminio o acero al carbono.
 
-En el caso de una persona con una extremidad atrapada por el ascensor fuera de nivel, la **comunicación inicial con la víctima** es primordial. Esta permite evaluar su estado físico y psicológico, así como los riesgos asociados a la caída. El rescate debe priorizar la liberación de la extremidad sin mover la cabina, ya que un desplazamiento podría agravar la lesión.
+#### 4.1. Tipos de Recipientes
 
-La técnica implica **cortar el suministro eléctrico** en el cuarto de máquinas. A continuación, se debe **apoyar y asegurar una escalera** en el fondo del hueco. Un bombero asegurado desciende por la escalera para **colocar un cojín neumático de media presión** entre la pared y la pisadera de la cabina. Este cojín se infla suavemente para desplazar la cabina hacia el fondo del hueco, liberando la extremidad atrapada. Una vez liberado, se mueve a la persona al interior de la cabina, se despresuriza el cojín y se verifica el cierre de las puertas.
+Se distinguen tres modalidades principales para el transporte de mercancías peligrosas:
 
-### Medidas de Seguridad y Consideraciones Generales en Rescate de Ascensores
+*   **Transporte en bultos:** Las mercancías se envasan en recipientes como cajas, botellas, jerricanes o bidones.
+*   **Transporte en cisternas:** El vehículo actúa como envase para gases o líquidos (cisterna fija, desmontable, vehículo batería, contenedor cisterna).
+*   **Transporte a granel:** El vehículo también funciona como envase, pero para sólidos sin envasar.
 
-Independientemente del tipo de ascensor y la situación, ciertas medidas de seguridad son universales. Antes de cualquier maniobra, se debe **cortar y verificar la ausencia de suministro eléctrico** en el cuarto de máquinas, en el recinto o en el foso. Asimismo, es fundamental **bloquear el interruptor** o limitar el acceso al cuadro general para evitar una reconexión accidental. Se debe **comprobar la situación de la cabina** desde la planta más baja y **desenclavar/enclavar las puertas** según sea necesario.
+El ADR establece requisitos de documentación, señalización de bultos y vehículos, y condiciones de transporte. Los tipos de envases y embalajes se definen según las características de las mercancías.
 
-La **comunicación continua con la persona atrapada** es esencial para tranquilizarla e informarla sobre los movimientos y efectos previstos de la intervención, instruyéndole a permanecer alejada de las puertas y a no tocar ningún botón. Es crucial **valorar el tipo de ascensor** (electromecánico o hidráulico) y la **ubicación de la cabina** para seleccionar la técnica de rescate adecuada. La identificación de riesgos, como electrocución o caídas, es constante.
+##### 4.1.1. Transporte en Bultos
 
-Las **causas principales de intervención** incluyen paradas de cabina fuera de nivel, personas o mercancías atrapadas, precipitaciones por el hueco, inundaciones o ascensores acuñados. Generalmente, **se prohíbe el uso del ascensor en caso de incendio**; no obstante, se requiere una valoración específica para determinar su viabilidad como vía de evacuación en cada situación.
+Además de cisternas, se utilizan otros envases para mercancías peligrosas en vehículos con paneles naranja:
 
-## Caracterización de Trabajos de Apeo y Poda de Arbolado
+*   **Bidón:** Envase cilíndrico con fondo plano o abombado, de metal, cartón, plástico o contrachapado. Su capacidad máxima no excede los **400 kg**.
+*   **Jerricán:** También conocido como "Cuñete". Envase rectangular o poligonal con uno o varios orificios, de metal o plástico. Capacidad máxima de **60 litros o 120 kg**.
+*   **Caja:** Envase con lados compactos rectangulares o poligonales, de metal, madera, contrachapado, aglomerado de madera, cartón o plástico. Su capacidad máxima es de **400 kg**, excepto **60 kg** si es de plástico expandido. Para manipularlas, se pueden practicar pequeños orificios sin comprometer la integridad.
 
-Los trabajos de apeo y poda realizados por bomberos se distinguen de las labores forestales convencionales por las condiciones específicas del entorno urbano, donde la presencia de árboles podridos, caídos o peligrosos exige una evaluación y técnicas adaptadas.
+### 4.2. Transporte en Cisternas
 
-### Fases y Tipos de Intervención
+El ADR define cisterna como un "depósito, incluidos sus equipos de servicio y de estructura." Abarca contenedores cisterna, cisternas portátiles, desmontables, fijas, y elementos de vehículos a batería o CGEM.
 
-La gestión de un incidente de arbolado consta de varias fases clave: la **valoración del riesgo** inicial, la **delimitación de un perímetro de seguridad**, el **control y mitigación del riesgo** detectado, y finalmente, la **restauración de la normalidad** con la retirada de los restos y el abandono de la escena.
+#### 4.2.1. Estructura y Sección
 
-Las intervenciones pueden clasificarse en:
-*   **Apeo**: Derribo de árboles inclinados, podridos, secos o de grandes dimensiones.
-*   **Poda**: Corte de ramas, cuya dificultad aumenta con la altura, requiriendo el uso de vehículos elevados, escaleras o técnicas de escalada.
-*   **Trabajos en Incendios Forestales**: Despeje de zonas arboladas para crear cortafuegos o enclaves seguros.
-*   **Árboles Caídos**: Evaluación de fuerzas de tracción y compresión, puntos de apoyo y riesgos adicionales en el entorno (elementos inestables o peligrosos).
-*   **Desbroce con Motosierra**: Eliminación de vegetación baja para facilitar búsquedas o crear zonas libres de combustible.
+La estructura de las cisternas se compone de elementos que asumen y refuerzan las cargas para las que fueron diseñadas. El ADR exige pruebas específicas de presión hidráulica y estanqueidad.
 
-### Anatomía y Propiedades Mecánicas de la Madera
+*   **Mamparos:** Tabiques internos que dividen el volumen del depósito en compartimentos para almacenar distintos productos sin mezclarse. También tienen una función estructural y asumen parte de la carga según su material y grosor. Las cisternas de gases no suelen tener mamparos, pero sí rompeolas.
+*   **Rompeolas:** Similares a los mamparos, pero no dividen el depósito en compartimentos independientes, permitiendo el paso de la materia. Están diseñados para repartir la masa de la mercancía uniformemente durante el desplazamiento del vehículo, evitando el "efecto ola" y compromisos en la estabilidad. La superficie del rompeolas debe ocupar al menos el **70%** de la sección recta del depósito en el punto de instalación.
+    *   Para evitar daños, las cisternas circulares y algunas elípticas deben tener una separación entre refuerzos adyacentes de hasta **1,75 m**. El espesor mínimo debe ser igual al del depósito.
+    *   Los depósitos de líquidos, gases licuados o refrigerados sin divisiones (capacidad máxima de **7500 litros**) deben circular casi llenos (más del **80%**) o casi vacíos (menos del **20%**) para evitar el "efecto ola".
+    *   Los rompeolas y mamparos tienen forma cóncava en el sentido normal de marcha y una profundidad mínima de **10 cm**.
+*   **Anillos de Refuerzo:** Anillos de soldadura internos que se colocan en el depósito para soportar esfuerzos y reforzar la estructura en puntos calculados.
 
-Para comprender el comportamiento de los árboles, es fundamental conocer su anatomía y la estática de la madera. Un árbol se compone de raíces, tronco, ramas, hojas, flores y frutos, siendo los tres primeros de mayor interés en estas operaciones.
-*   Las **raíces** anclan el árbol y absorben nutrientes.
-*   Las **ramas** realizan la fotosíntesis.
-*   El **tronco** actúa como columna de soporte.
+#### 4.2.2. Estructura Externa
 
-La sección transversal del tronco revela varias capas desde el exterior hacia el interior:
-*   **Corteza**: Capa protectora de células muertas.
-*   **Cambium**: Capa que se divide para formar xilema (madera interior) y floema (madera exterior, parte de la corteza).
-*   **Albura**: Madera más joven y blanquecina, por donde circula la savia.
-*   **Duramen**: Madera dura, consistente y oscura, fisiológicamente inactiva y usualmente afectada por pudriciones.
-*   **Médula vegetal**: Zona central de baja resistencia.
+La estructura externa se instala por fuera del depósito, ya sea soldada o unida, o junto a otros equipos de servicio.
 
-Desde el punto de vista de la estática, un árbol se considera estable si existe equilibrio entre las cargas que actúan sobre él (como su propio peso, hielo, nieve o viento), las propiedades de sus materiales (dureza y elasticidad) y su geometría. La carga más crítica para la estabilidad es el viento fuerte, cuya fuerza depende de factores geográficos, topográficos, la estación del año (final de verano/otoño es más crítico por las hojas), influencias meteorológicas y la altura del árbol.
+*   **Anclajes:** Elementos para izado, amarre o estiba, esenciales en cisternas intermodales (transporte por carretera y ferrocarril).
+*   **Refuerzos Exteriores:** Similares a los anillos internos, proporcionan rigidez externa y ayudan a soportar el vacío, así como a evitar roturas o abombamientos por impacto. No deben confundirse con las soldaduras que unen las virolas o los marcos que rodean las chapas aisladas.
+*   **Elementos Protectores:** Protegen los componentes de la cisterna (válvulas, tuberías, bridas) en caso de vuelco o impacto para evitar derrames. La parte superior suele tener aros de refuerzo o capotas.
+*   **Parachoques Traseros:** Obligatorios, deben tener el mismo ancho que el vehículo y estar separados **100 mm**. En contenedores-cisterna, la estructura del contenedor cumple esta función.
 
-La **dureza de la madera** varía entre especies y condiciones (verde o seca), y se cuantifica por su resistencia a la compresión. La **elasticidad** se refiere a la capacidad de un material para deformarse y recuperar su forma original; el **límite elástico** es la tensión máxima que soporta antes de deformarse permanentemente.
+#### 4.2.3. Equipamiento de Seguridad y Servicio
 
-### Cálculo del Peso de la Madera
+Las cisternas están dotadas de equipos que aseguran su funcionamiento y responden ante emergencias por fallos o traslados en condiciones inseguras. El equipo de estructura incluye elementos de fijación que aportan refuerzo, protección o estabilización. El equipo de servicio varía según la cisterna o vehículo.
 
-Para planificar intervenciones, es útil estimar el peso de un árbol caído o en pie. El cálculo aproximado se realiza tratando el árbol como un cilindro: multiplicando el valor de pi (π) por el cuadrado del radio y la altura, y luego por la densidad de la madera. La densidad de la madera verde es significativamente mayor que la seca (aproximadamente un 55% de humedad media para madera seca al aire, mientras que la madera verde puede tener entre 50-60% de humedad). Para las especies comunes en España como pino, olmo y chopo, se puede usar una densidad aparente de 0,8 kg/dm³ "en verde".
+*   **De la cisterna:** Dispositivos de llenado, vaciado, aireación, seguridad, calefacción, aislamiento térmico y aparatos de medida.
+*   **De los elementos de un vehículo batería o de un CGEM:** Dispositivos de llenado, vaciado, tubería colectora, seguridad y aparatos de medida.
+*   **De un GRG (IBC):** Dispositivos de llenado, vaciado, descompresión o aireación de seguridad, calefacción, aislamiento térmico y aparatos de medida.
 
-### Indicadores de Peligro en Arbolado
-
-La inspección visual permite detectar defectos en los árboles, como pudriciones, grietas, problemas en las raíces, uniones débiles de ramas, chancros y arquitectura pobre.
-*   La **madera descompuesta** es la causa más común de fallo estructural, causada por hongos xilófagos (basidiomicetos y ascomicetos). La pudrición puede ser blanca (afecta lignina, madera pálida), marrón (afecta celulosa, madera oscura) o blanda (afecta celulosa, madera paja).
-*   Las **grietas** son hendiduras en la corteza y madera, indicando que el árbol no puede soportar las cargas. Pueden ser verticales (peligrosas si atraviesan el árbol, como las grietas enrolladas) u horizontales (sinónimo de fallo estructural inminente).
-*   Los **problemas en las raíces** suelen provocar el vuelco del árbol. Las causas incluyen obras cercanas, excavaciones, sequías o inundaciones. Los síntomas visibles pueden ser grietas en el suelo, abultamientos, levantamiento de raíces o depresiones. El **radio crítico de raíces (CRR)**, que es el área necesaria de raíces sanas para la estabilidad, se calcula multiplicando el diámetro del árbol por 18.
-*   Las **uniones débiles de ramas** se producen por imperfecciones naturales o por **corteza incluida**, donde la corteza entre dos partes que crecen juntas actúa como una grieta, sin resistencia a la tensión.
-*   Los **chancros** son heridas hundidas y agrietadas en el tronco, ramas o raíces, causadas por hongos o insectos, que pueden indicar fallo estructural si afectan más del 40% del tronco.
-*   La **arquitectura pobre** (árboles inclinados o con forma de arpa) indica desequilibrio estructural. Un árbol con una inclinación superior a 40° hacia una zona de riesgo debe ser retirado.
-*   Los **árboles o ramas muertas** pueden fallar en cualquier momento y deben retirarse si representan un peligro.
-
-La evaluación de estos indicadores permite categorizar el riesgo estructural como alto o moderado y determinar la intervención más adecuada.
+La imagen muestra elementos como válvulas de fondo, recuperación de vapores y conectores API en una cisterna de seis compartimentos para hidrocarburos o para otras mercancías.

@@ -1,61 +1,87 @@
-## Tácticas de Estabilización en Emergencias: Elementos Verticales, Horizontales y Terreno
+El temario de oposiciones de bomberos y emergencias se presenta a continuación, elaborado a partir del análisis riguroso de la información proporcionada.
 
-La intervención en estructuras afectadas por patologías o colapsos, así como en terrenos inestables, requiere la aplicación de tácticas de estabilización con el fin primordial de salvaguardar vidas humanas, asegurar la edificación para su posterior rehabilitación o demolición controlada, y prevenir daños a terceros o a propiedades colindantes. Este proceso, que exige una evaluación continua, se clasifica según el tipo de elemento a estabilizar: elementos verticales, horizontales y el propio terreno.
+**CAPÍTULO 4: Casos prácticos (Continuación)**
 
-### Estabilización de Elementos Verticales (Pilares y Muros) desde el Interior
+**2. Rescate en ascensor detenido con sistema eléctrico de emergencia y sistema electromecánico, con personas atrapadas en su interior (continuación de Procedimiento, punto 3.b)**
 
-El objetivo principal de esta táctica es controlar la estabilidad de fachadas o medianerías desde el interior, limitando los daños internos y evitando afecciones externas. Esto es crucial para preparar el edificio para su rehabilitación o demolición.
+El procedimiento para el rescate incluye los siguientes pasos:
+3.  **Localización del cuadro de control:**
+    *   Después de presionar los pulsadores (h o i) hasta que el piloto rojo LZP se ilumine, se continúa el procedimiento en el punto 9, que indica la cabina está a nivel de planta.
+    *   Si tras 10 segundos el piloto LZP no se enciende, se desconecta el interruptor principal de fuerza (VP) para trabajar con el sistema mecánico.
+4.  **Apertura y observación de la cabina en el último piso:**
+    *   Si la cabina se halla por encima del último piso, se abre la puerta de la cabina, se procede al rescate y se continúa en el punto 10 del procedimiento.
+    *   Si la cabina se encuentra por debajo del primer piso, se debe acceder al primer piso, abrir la puerta de acceso y rescatar al personal, asegurándose de cerrar y enclavar la puerta después. Luego, se continúa en el punto 10.
+    *   Si la cabina no está en ninguna de las posiciones anteriores (ni por encima ni por debajo del último/primer piso), se retira la manivela del armario y se acopla a la argolla del generador. Posteriormente, se extrae el pedal del armario y se coloca en el suelo.
+5.  **Maniobra de la manivela y pedal:**
+    *   Se sujeta la manivela con ambas manos y se pisa el pedal hasta el final del recorrido. Se debe retirar el pie del pedal si se detecta un movimiento incontrolado de la instalación, ya que el sistema se activará en este punto.
+6.  **Movimiento controlado de la cabina:**
+    *   Se gira la manivela en el sentido de menor esfuerzo hasta que el piloto LZP se encienda. Esta acción puede durar hasta 5 minutos. Si el piloto LZP no se ilumina tras este tiempo, se detiene la actividad y se pasa al punto 10.
+7.  **Liberación de pedal y manivela:**
+    *   Se sueltan el pedal y la manivela.
+8.  **Reubicación de elementos:**
+    *   Se recolocan el pedal y la manivela en su posición original.
+9.  **Acceso a pasajeros y finalización del rescate:**
+    *   Se accede al piso de los pasajeros, se abren las puertas con la llave especial y se permite la evacuación.
+    *   Se cierran las puertas y se vuelve al armario de control, dando por finalizado el rescate.
+10. **Desconexión y aviso:**
+    *   Se deja el interruptor principal (VP) desconectado, se llama al Servicio de Asistencia Técnica y se cierra la tapa del armario.
 
-Para lograrlo, se emplean diversas **técnicas de referencia**, tales como el apeo de forjados (cuando hay fallos en nudos o por flexión), el apeo de muros de hasta tres metros de altura, y el apeo de emergencia mediante sistemas traccionados.
+**3. Ascensor hidráulico sin acceso al cuarto de máquinas ni al cuadro de maniobras, con personas atrapadas en su interior**
 
-En cuanto a las **indicaciones operativas**, es posible realizar simultáneamente operaciones interiores y exteriores, siempre que estas se desarrollen en niveles distintos o fuera de la vertical del elemento dañado. No obstante, se desaconseja la simultaneidad de operaciones en un mismo nivel si estas repercuten sobre los mismos nudos o elementos rígidos, debido al riesgo de alterar la resistencia de los elementos apuntalados. Además, esta táctica no es adecuada para un control inmediato de la propagación del riesgo, ya que su aplicación demanda un tiempo considerable.
+*   **a) Planteamiento:**
+    *   Se recibe un aviso de emergencia sobre una persona atrapada en un ascensor hidráulico en un edificio público.
+    *   El responsable del edificio está ausente, por lo que no se dispone de acceso al cuarto de máquinas ni al cuadro de maniobras.
+    *   Tras una valoración inicial del esquema general de intervención, se procede al rescate.
+*   **b) Procedimiento:**
+    1.  **Corte y verificación del suministro eléctrico:**
+        *   Se corta y verifica la ausencia de suministro eléctrico en el emplazamiento de contadores.
+        *   Se confirma que el ascensor es de tipo hidráulico y que no hay llaves disponibles para acceder al cuarto de máquinas o maniobras.
+        *   Se accede al emplazamiento o cuarto de contadores del edificio y se corta el suministro eléctrico retirando los fusibles que alimentan la derivación del ascensor.
+    2.  **Aseguramiento de puertas:** Se asegura el cierre de todas las puertas.
+    3.  **Verificación del cierre interior:** Se confirma con los pasajeros el cierre de las puertas interiores.
+    4.  **Determinación de la vía de rescate:**
+        *   Si la cabina se encuentra a nivel de planta o si la dirección del rescate no está condicionada por el espacio libre entre la planta y la cabina, se procede al desenclavamiento de la puerta del piso para el rescate.
+        *   Si la cabina no está a nivel de planta y no hay espacio para la vía de rescate, se aplica la técnica de rescate sin corriente eléctrica en ascensores hidráulicos, lo que implica localizar la zona de accionamiento de la maquinaria.
 
-La **ejecución** implica, en primer lugar, **acciones defensivas** como balizar y controlar los accesos al edificio para permitir un análisis integral, y apunar los elementos horizontales (forjados) y verticales (muros y pilares) que se apoyen en la estructura vertical afectada. Posteriormente, se pueden realizar **acciones ofensivas**, como el apeo de emergencia con sistemas traccionados y el apeo inclinado para muros de hasta tres metros de altura.
+**4. Persona atrapada en un ascensor con la cabina fuera de planta**
 
-Las **consideraciones de seguridad** incluyen la prohibición de bloquear salidas de evacuación con materiales retirados y la necesidad de verificar la resistencia de los elementos de apoyo, incluso mediante catas. Es fundamental, además, mantener una distancia de seguridad equivalente a la altura del elemento dañado y evaluar el incremento de cargas (permanentes y puntuales) debido al peso del apeo o la inclinación del muro.
+*   **a) Planteamiento:**
+    *   Se recibe información de que el brazo de una persona ha quedado atrapado por el ascensor.
+    *   En este tipo de intervenciones, la comunicación con la víctima es crucial para la valoración y la identificación de riesgos, ya que no se puede mover el ascensor hasta que la víctima sea liberada.
+    *   Se destaca la importancia de la experiencia previa en estos rescates debido al alto riesgo de caída al vacío.
+*   **b) Procedimiento:**
+    1.  **Corte de corriente:** Se corta la corriente en el cuarto de máquinas.
+    2.  **Rescate por la parte inferior de la cabina:** Se aplica la técnica de rescate por la parte inferior de la cabina, priorizando la liberación sin movimiento de la misma para evitar agravar la situación del herido.
+    3.  **Apoyo y aseguramiento de la escalera:**
+        *   Se apoya y asegura una escalera en el fondo del hueco, sujetándola para evitar su vuelco.
+        *   Simultáneamente, se asegura al bombero que realizará la actuación sobre la escalera.
+    4.  **Colocación de cojín neumático:** Se coloca un cojín neumático de media presión entre la pared y la pisadera de la cabina para desplazarla hacia el fondo del hueco, con precaución de que la persona no caiga al vacío.
+    5.  **Liberación e introducción en cabina:** Se libera el miembro atrapado y se introduce a la persona en la cabina.
+    6.  **Maniobra de rescate:**
+        *   Se procede a la maniobra de rescate si la dirección no está condicionada por el espacio libre entre la planta y la cabina.
+        *   Alternativamente, se despresuriza el cojín neumático y se realiza la maniobra de rescate moviendo la cabina hasta que alcance el nivel de planta.
+    7.  **Despresurización:** Se despresuriza el cojín neumático una vez completado el rescate.
+    8.  **Verificación de cierre:** Se verifica el cierre de las puertas.
 
-### Estabilización de Elementos Horizontales (Forjados) desde el Exterior
+**CONVIENE RECORDAR (Rescate en Ascensores)**
 
-Esta táctica se enfoca en controlar la estabilidad horizontal de los forjados desde el exterior, lo que permite asegurar el elemento constructivo para su reparación o demolición parcial, reducir los empujes sobre elementos verticales y limitar los daños a terceros o a la vía pública.
-
-Las **técnicas de referencia** incluyen el apeo de forjados (por fallos en nudos o flexión), el apeo de muros de hasta tres o seis metros, y el apeo de emergencia con sistemas traccionados.
-
-Entre las **indicaciones operativas**, se destaca que, ante patologías graves, el análisis integral por técnicos es indispensable, y no deben realizarse apeos interiores simultáneamente. Asimismo, la unión del forjado con el apeo exterior debe realizarse a la altura de su canto.
-
-La **ejecución** comienza con **acciones defensivas**, clausurando la entrada al edificio y balizando la vía pública con una separación equivalente a dos veces la altura de la edificación. Las **acciones ofensivas** implican el acodalamiento exterior de la fachada afectada respecto a edificios colindantes y el apeo externo de muros de tres y seis metros de altura.
-
-Las **consideraciones de seguridad** son estrictas: no se debe acumular material ni concentrar personal cerca del elemento afectado. La estabilidad de los forjados inferiores debe ser verificada, y el edificio debe evacuarse si se confirma la patología, no permitiéndose la reocupación hasta la completa estabilización.
-
-### Estabilización del Terreno (Muros de Contención y Entibaciones)
-
-La estabilización del terreno se divide en dos enfoques principales: muros de contención de tierras y entibaciones.
-
-#### Muros de Contención de Tierras
-
-El objetivo es controlar la estabilidad vertical y estructural de los muros de contención, asegurando su reparación o la demolición parcial del trasdós, y previniendo daños a elementos inferiores, a terceros o a la vía pública.
-
-Las **técnicas de referencia** se limitan al apeo de muros de hasta tres y seis metros de altura.
-
-Las **indicaciones operativas** prohíben operaciones exteriores simultáneas sobre el elemento dañado y no se considera una táctica inicial para el control inmediato del riesgo debido a su lenta ejecución.
-
-La **ejecución** consiste en **acciones defensivas** como balizar y controlar accesos hasta completar el análisis, y apeo de forjados y elementos verticales que soporten el muro. Las **acciones ofensivas** implican la ejecución de apeos inclinados para muros de hasta tres y seis metros de altura.
-
-Las **consideraciones de seguridad** requieren no acumular deshechos en la base del muro y cuantificar la eliminación de cargas variables. Es vital comprobar la resistencia del suelo que soporta el apeo, mantener una distancia de seguridad de dos veces la altura del elemento dañado y evitar el tránsito bajo el muro hasta su estabilización.
-
-#### Entibaciones (Zanjas y Pozos)
-
-Esta táctica busca controlar la estabilidad volumétrica del terreno adyacente a una excavación, evitar sepultamientos de operarios y prevenir daños a edificaciones o viales cercanos.
-
-La **técnica de referencia** es la entibación para profundidades de hasta tres metros.
-
-Las **indicaciones operativas** no permiten operaciones simultáneas en la proximidad. Aunque lenta, es la única técnica estandarizada para estabilizar suelos de cimentación y asegurar zanjas o pozos en rescates.
-
-La **ejecución** incluye **acciones defensivas** como balizar y controlar el acceso, además de apunar forjados y elementos verticales afectados en cimentaciones próximas a las zanjas y pozos. La **acción ofensiva** directa es la entibación de hasta tres metros.
-
-En cuanto a la **seguridad**, es crucial identificar las características del terreno, inspeccionar instalaciones subterráneas (agua, gas, electricidad) y evitar el uso de motores de explosión en excavaciones estrechas sin verificar la atmósfera. No se deben almacenar materiales al borde de la excavación. Se recomienda disponer siempre de una escalera para vía de escape y asegurar que los paneles de la entibación se coloquen verticales, con los codales a 90º para evitar fuerzas verticales. La presión sobre los codales aumenta con la profundidad de la zanja.
-
-### Principios Fundamentales de la Estabilización y Demolición en Emergencias
-
-La estabilización de elementos constructivos en situación precaria o de colapso inminente, o la demolición de aquellos irreparables, persigue una serie de objetivos esenciales. Estos incluyen la protección de vidas humanas, la evacuación segura de ocupantes, la prevención del efecto dominó en estructuras adyacentes y la corrección de la causa subyacente de la inestabilidad.
-
-Las estructuras auxiliares para estabilización se dividen en entibaciones (sistemas de estabilización bajo la rasante del terreno) y apeos (estabilizaciones sobre la rasante). La demolición, por su parte, es el último recurso cuando la estabilización es inviable y el elemento representa un peligro inminente, con el objetivo de eliminar el riesgo. La identificación de riesgos, la valoración de la situación y la selección de la técnica adecuada son pasos críticos en cualquier intervención.
+*   **Tipos de ascensores:** Se clasifican por sistema de funcionamiento (eléctricos, hidráulicos) y por uso (emergencia, panorámicos, doble cabina, inclinados, unifamiliares, minusválidos, industriales, montacargas).
+*   **Componentes del ascensor:** Incluyen cuarto de máquinas, recinto (o hueco) y foso.
+*   **Elementos de emergencia:** Instrucciones de rescate en el cuarto de máquinas, pulsador de bomberos, caja de llaves de emergencia, mecanismos de seguridad, faldones de cabina, alumbrado de emergencia y tele-alarma.
+*   **Técnica de rescate:** Depende del tipo de ascensor (electromecánico o hidráulico). Tras una valoración inicial, la intervención se realiza aplicando la técnica recomendada y siguiendo las instrucciones del fabricante.
+*   **Medidas de seguridad en cualquier intervención:**
+    1.  Cortar el suministro eléctrico al realizar cualquier maniobra en el cuarto de máquinas, cabina o foso.
+    2.  Bloquear el interruptor o limitar el acceso al cuadro general para evitar una reconexión accidental.
+    3.  Comprobar la situación de la cabina desde la planta más baja, desenclavar y volver a enclavar la puerta.
+    4.  Antes de desplazar la cabina, asegurar el cierre de todas las puertas (de planta y de cabina).
+    5.  Comunicar constantemente a los bomberos los pormenores de la intervención.
+*   **Principales técnicas de intervención:**
+    *   Rescate con funcionamiento normal del ascensor.
+    *   Rescate sin movimiento de cabina.
+    *   Rescate moviendo la cabina con el sistema eléctrico de emergencia.
+    *   Rescate moviendo la cabina sin corriente eléctrica en ascensores electromecánicos.
+    *   Rescate moviendo la cabina sin corriente eléctrica en ascensores hidráulicos.
+    *   Desenclave de puertas de piso.
+*   **Causas principales de intervención:** Paradas de cabina fuera de nivel, personas o mercancías atrapadas, precipitación de personas o mercancías por el hueco, inundaciones, o ascensor acuñado.
+*   **Uso del ascensor en caso de incendio:** Generalmente prohibido. Es necesario realizar una valoración específica para determinar si es viable como vía de evacuación.
+*   **Pasos previos a la intervención:** Comunicación con la persona atrapada, valoración de la situación e identificación de riesgos. Un protocolo de actuación específico debe seguirse en función de la situación del ascensor.

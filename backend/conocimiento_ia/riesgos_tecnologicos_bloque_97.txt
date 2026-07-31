@@ -1,76 +1,312 @@
-# Tácticas de Intervención en Estructuras Colapsadas: Valoración y Rescate
+### Capítulo 1. Caracterización del Riesgo Eléctrico
 
-En el ámbito de las operaciones de emergencia, la intervención en estructuras colapsadas demanda un conocimiento técnico profundo y una planificación meticulosa para garantizar la seguridad del personal y la efectividad del rescate. Esta labor se divide en varias fases críticas, desde la valoración inicial hasta la ejecución de las técnicas de rescate, siempre bajo un enfoque que prioriza la vida humana y la minimización de riesgos.
+#### 1. Conceptos Fundamentales sobre Electricidad
 
-## Fases del Salvamento en Estructuras Colapsadas
+El átomo, la unidad mínima de la materia, está compuesto por un núcleo (con protones de carga positiva y neutrones sin carga) y electrones de carga negativa que orbitan alrededor.
 
-El éxito de una operación de salvamento en estructuras colapsadas se fundamenta en un proceso estructurado que comprende diversas etapas, cada una con objetivos y consideraciones específicas.
+La **carga eléctrica (Q)**, medida en culombios (C), describe la interacción entre cuerpos. Los electrones tienen una carga idéntica y opuesta a la de los protones. La **fuerza electromagnética** surge de la presencia de cargas, donde cargas de la misma polaridad se repelen y de polaridad diferente se atraen.
 
-En primer lugar, se requiere un **reconocimiento y evaluación de la situación**. Esta fase inicial es crucial para determinar los puntos de anclaje seguros, las dimensiones de los huecos a abrir, el espacio disponible para las maniobras, la distancia para el transporte de las víctimas y el estado del terreno. La elección de la maniobra más adecuada y segura se basa en esta información, reconociendo que no siempre la técnica idónea es la más viable en el contexto dado.
+La **electricidad electrostática** se produce por la separación de dos materiales en contacto debido a la atracción de electrones o fricción. Este fenómeno puede generar una diferencia de potencial que cause descargas o incendios, como al descargar hidrocarburos o deslizarse por un tobogán de plástico.
 
-En segundo lugar, se procede a la **asignación de tareas**. Es fundamental que cada miembro del equipo de bomberos conozca con precisión sus roles y responsabilidades. Las acciones directas implican que cada bombero sepa "qué, cómo y cuándo" actuar, minimizando malentendidos. Las acciones auxiliares, como despejar el camino para la extracción de heridos en zonas templadas, son igualmente importantes, aunque el desplazamiento de camillas sobre escombros puede ser desafiante. Además, la coordinación con personal externo, como los servicios sanitarios, es esencial para atender posibles percances. Es imperativo mantener a curiosos y personal no esencial fuera del cordón de seguridad establecido.
+##### 1.1. Intensidad de la Corriente Eléctrica
 
-Finalmente, la **evaluación continua y los ajustes** son parte integral del proceso. El plan de intervención no es estático; se reevalúa constantemente para corregir imprevistos y adaptar las tácticas a la evolución de la emergencia.
+La **intensidad de corriente eléctrica (I)**, o simplemente corriente, es la cantidad de carga eléctrica que fluye por un conductor en una unidad de tiempo, medida en amperios (A).
 
-### Acciones Prioritarias
+Según la **Ley de Ohm**, la intensidad de corriente (I) es directamente proporcional a la diferencia de potencial o tensión eléctrica (V) aplicada e inversamente proporcional a la resistencia (R):
+`I = V / R`
 
-Las acciones prioritarias se centran en identificar la causa del desplome para tomar decisiones estratégicas. Si la emergencia se debe a un ataque terrorista o un sismo, la evacuación del edificio afectado y los colindantes debe realizarse con la máxima celeridad, anticipando posibles explosiones o colapsos inminentes. En caso de un desplome por incendio, se deben sopesar cuidadosamente los pros y contras de la evacuación o el confinamiento de la población.
+La circulación de electrones ocurre desde el polo positivo al negativo. Un generador eléctrico mantiene la diferencia de potencial, asegurando un flujo continuo de corriente.
 
-### Capacidad de los Recursos Disponibles
+**Fenómenos asociados:**
+*   **Efecto Joule:** La corriente genera un aumento de temperatura en el conductor debido a la colisión de electrones con moléculas. Este efecto se aprovecha en electrodomésticos como hornos, tostadoras o soldadoras, pero es indeseable en otras aplicaciones (ej. ordenadores).
+*   **Arco voltaico:** Se produce al desconectar un circuito con carga, liberando energía rápidamente en el aire, lo que puede causar daños.
 
-La evaluación inicial también contempla la capacidad de los recursos disponibles, lo que permite establecer un plan de acción y asignar prioridades. Una concentración excesiva de medios en el lugar no siempre optimiza la operatividad; el mando debe equilibrar la necesidad de recursos con la gestión de los descansos y la sectorización del trabajo para evitar el entorpecimiento de las labores de búsqueda y rescate.
+El **amperímetro** es el aparato para medir la corriente eléctrica. Para mediciones en corriente continua (CC), se inserta en serie en el circuito, respetando la polaridad (+/-). En corriente alterna (CA), la conexión es indistinta al conectarse en paralelo.
 
-### Éxito de las Acciones Emprendidas
+##### 1.2. Potencial Eléctrico
 
-El éxito de las acciones se mide por factores como el tiempo transcurrido desde el derrumbe y el tiempo estimado para el desescombro. Es fundamental determinar cuánto tiempo es viable prolongar la búsqueda con los medios disponibles y cuándo las posibilidades de supervivencia desaparecen. En grandes catástrofes, si se agotan las posibilidades de encontrar víctimas con vida y no hay indicios fiables, se puede declarar la zona como "campo santo" y tratarla como un cementerio.
+Cuando un cuerpo acumula un exceso de electrones, estos se desplazan hacia zonas con menor carga negativa para buscar el equilibrio. La **diferencia de potencial (DDP)** o **tensión (V)**, medida en voltios (V), representa la energía para el desplazamiento de cargas entre dos puntos.
 
-## Tácticas de Rescate en Estructuras Colapsadas
+El **voltímetro** es el aparato para medir la tensión, conectándose en paralelo al circuito sin interrumpirlo. En CC, se considera la polaridad, mientras que en CA, la conexión en paralelo es indistinta.
 
-El planteamiento táctico en una intervención de bomberos puede ser de dos tipos: defensivo u ofensivo, dependiendo de la situación y los riesgos inherentes.
+##### 1.3. Resistencia Eléctrica
 
-### Planteamiento Defensivo
+La **resistencia eléctrica (R)** es la dificultad que un conductor opone al paso de la corriente, siendo la magnitud inversa a la conductancia eléctrica. Depende directamente de la resistividad (ρ) del material, de su longitud e inversamente de su sección. La resistividad se mide en ohmios por metro (Ω·m) o Ω·mm²/m.
 
-El modo táctico defensivo se adopta por defecto y busca **impedir la ampliación de la catástrofe**. No implica acciones directas sobre el elemento colapsado, sino que se enfoca en las zonas o edificaciones aledañas que podrían verse afectadas por empujes, arrastres o desprendimientos. Es característico de la fase de "Control" de una intervención y conlleva un menor riesgo para el personal. Se mantiene hasta que no existan garantías de éxito para un planteamiento ofensivo, el balance riesgo-beneficio no sea favorable o los recursos se agoten. Las medidas incluyen balizar la zona de intervención, clausurar edificaciones afectadas o anexas, y apear elementos constructivos sanos que soporten otros dañados, como forjados que descargan sobre muros con rotaciones.
+Una resistencia elevada, como la que ofrecen guantes aislantes o botas, previene el paso de corriente. Si la resistencia es nula o despreciable, se produce un **cortocircuito**.
 
-### Planteamiento Ofensivo
+**Clasificación de materiales según su conductividad eléctrica:**
+*   **Superconductores:** Conducen corriente sin resistencia ni pérdida de energía en condiciones específicas (bajas temperaturas). Ejemplos: estaño, aluminio, aleaciones.
+*   **Conductores eléctricos:** Transmiten electricidad al contacto. Los metales y sus aleaciones son los mejores. Ejemplos:
+    *   **Cobre:** Más usado para cables.
+    *   **Aluminio:** Peor conductor (60% de la conductividad del cobre) pero más ligero, apto para líneas de alta tensión.
+    *   **Oro:** Para aplicaciones especiales (equipos de sonido).
+*   **Semiconductores:** Su conductancia puede controlarse variando su estado. Usados en electrónica (silicio, placas).
+*   **Dieléctricos (aislantes):** No conducen electricidad. Usados para evitar cortocircuitos o como aisladores. Ejemplos: vidrio, cerámica, plásticos, goma, mica, cera, papel, madera seca, porcelana, grasas, baquelita. El aire y el agua son aislantes bajo ciertas condiciones, pero pueden convertirse en conductores a bajas frecuencias o tensiones.
 
-El planteamiento ofensivo busca **abordar la edificación colapsada para localizar y rescatar personas atrapadas**. Se aplica cuando el conjunto edificatorio parece estable, aunque pueden existir inestabilidades puntuales. Es propio de la fase de "Mitigación" y conlleva asumir mayores riesgos personales, por lo que la ponderación riesgo-beneficio es fundamental para salvar vidas. Es importante reconocer que, a pesar de la correcta aplicación de protocolos, el éxito no está garantizado debido a factores imponderables. Antes de iniciar las tareas, se debe realizar una evaluación exhaustiva del conjunto, considerando víctimas, entorno, tiempo transcurrido, recursos disponibles, riesgos para víctimas e intervinientes, y la sectorización. Además, cualquier perforación requiere un estudio previo de sus consecuencias.
+##### 1.4. Tipos de Circuito
 
-### Rescate de Víctimas tras Elementos Verticales
+*   **Circuitos en Serie:** Los receptores se conectan uno tras otro, de modo que la corriente es la misma en todos, y la tensión de la fuente se reparte entre las resistencias. Si un elemento se rompe, el circuito se interrumpe. Ejemplo: luces navideñas.
+    *   Para dos resistencias de 5 ohmios y una fuente de 10 voltios, la resistencia total es 10 ohmios, y la intensidad es 1 amperio (I = 10V / 10Ω = 1A).
 
-El objetivo primordial es **acceder al interior del trasdós de un elemento constructivo** para alcanzar a una víctima atrapada o abrir una vía de evacuación, inspeccionar recintos con salidas taponadas y permitir asistencia sanitaria urgente. Las técnicas de referencia incluyen perforaciones en elementos verticales, apeo de muros de hasta tres metros de altura y apeos de emergencia con sistemas traccionados. Durante la intervención, se pueden simultanear operaciones interiores y exteriores a distinto nivel, siempre que no repercutan en elementos estructurales críticos que puedan alterar su resistencia. No obstante, esta táctica no es adecuada al inicio para el control inmediato de la propagación, ya que requiere tiempos elevados.
+*   **Circuitos en Paralelo:** Cada receptor se conecta de forma independiente a la fuente. La tensión es la misma en todos, y la intensidad se reparte entre las ramas, dependiendo de la resistencia de cada una. Si un elemento se rompe, el circuito total no se interrumpe, pero la intensidad en las otras ramas aumenta.
 
-La ejecución implica **acciones defensivas** como balizar y controlar los accesos al edificio hasta completar un análisis integral, y apear elementos horizontales y verticales que soporten la carga del elemento afectado. Las **acciones ofensivas** se centran en apear, señalizar, abrir huecos de inspección y perforar el elemento.
+    Tabla 2. Equivalencia entre metros, decímetros y centímetros cúbicos (Ejemplo de aplicación - Esto no pertenece a tipos de circuito)
 
-Las consideraciones de seguridad incluyen:
-*   No bloquear las vías de escape con escombros, realizando una retirada paulatina.
-*   Valorar el incremento de cargas sobre la edificación debido a los medios de rescate.
-*   Comprobar la resistencia de los elementos que soportan el apeo mediante catas si es necesario.
-*   Mantener una distancia mínima de seguridad equivalente a la altura del elemento dañado.
-*   Evitar el tránsito y actividades bajo el muro hasta que esté estabilizado.
+    | | Metros | Decímetros | Centímetros |
+    | :----- | :----- | :--------- | :---------- |
+    | **Unidad** | 1 m³ | 1.000 dm³ | 1.000.000 cm³ |
 
-Las pautas de actuación, para la perforación de elementos verticales, se aplican principalmente en estructuras adinteladas de materiales formáceos (adobe, revoltón, hormigón). En muros de ladrillo y forjados de madera, el colapso se caracteriza por muros y forjados descompuestos, huecos inestables y riesgos secundarios como incendios o caída de escombros. La intervención implica abrir butrones con apuntalamiento previo, evitar arrastres con poleas o tracteles, y retirar escombros inestables con medios manuales. En muros de ladrillo y forjados con viguetas de hormigón, el colapso presenta forjados o paños grandes, huecos inestables y riesgos de nuevos deslizamientos. La intervención es similar, haciendo butrones con apuntalamiento previo y retirando escombros de la parte superior con medios manuales.
+    Si tenemos una fuente de 10V y dos resistencias de 5 ohmios en paralelo, la tensión en cada resistencia es 10V. La intensidad se reparte.
 
-### Rescate de Víctimas bajo Elementos Horizontales
+*   **Combinación de Poleas (Polipasto):** Las poleas pueden ser fijas o móviles. Su combinación permite reducir la fuerza necesaria para mover una carga. El polipasto simple usa una cuerda, mientras que el compuesto usa varias. La potencia (P) es igual a la resistencia (R) dividida por el doble del número de poleas móviles (n):
+    `P = R / 2^n`
 
-El objetivo es **acceder a la parte inferior de un forjado desplomado** para alcanzar a una víctima o crear una vía de evacuación, inspeccionar niveles bajo rasante obturados y facilitar la asistencia sanitaria. Las técnicas de referencia son la perforación de elementos horizontales y el apeo de forjados afectados por fallos en nudos o flexión. Las indicaciones de intervención sugieren simultanear operaciones interiores y exteriores a distinto nivel, pero no operaciones de estabilización al mismo nivel que puedan afectar la resistencia. Al igual que en los rescates verticales, esta táctica no se aplica al inicio para el control de propagación debido a los tiempos requeridos.
+##### 1.5. Corriente Continua y Alterna
 
-La ejecución implica **acciones defensivas** como balizar accesos y descargar elementos verticales sobre los forjados afectados. Las **acciones ofensivas** consisten en apear previamente, perforar y apear con posterioridad.
+*   **Corriente Continua (CC):** Flujo constante de carga eléctrica en una única dirección. Aparatos con electrónica (audio, ordenadores) la requieren. Las fuentes de alimentación la obtienen rectificando la corriente alterna.
+*   **Corriente Alterna (CA):** La magnitud y sentido de la corriente varían cíclicamente. La forma sinusoidal es la más común para una transmisión eficiente. Otras formas periódicas (triangular, cuadrada) se usan en aplicaciones específicas. Se genera y transforma fácilmente a diferentes magnitudes mediante transformadores. La red española utiliza CA a 220/230V entre fase y neutro, 380/400V entre fases, con una frecuencia de 50Hz.
 
-Las consideraciones de seguridad resaltan:
-*   No acumular material sobre los elementos a perforar, transportándolo según necesidad.
-*   Valorar el incremento de cargas en la edificación.
-*   Comprobar la resistencia de los forjados inferiores y otros elementos para evitar derrumbes secundarios.
+##### 1.6. Corriente Trifásica
 
-### Rescate de Víctimas mediante Galerías
+Es la forma más común y eficiente de generación y uso de energía eléctrica, especialmente en industrias. Consiste en tres ondas sinusoidales idénticas, desfasadas 120º entre sí, generadas por bobinas simétricas en un alternador. Si el rotor y las bobinas son iguales y espaciados simétricamente, el sistema trifásico es equilibrado.
 
-Cuando las víctimas se encuentran atrapadas bajo varios niveles de escombros en una amalgama producida por el colapso edificatorio, el rescate se realiza mediante galerías, con el objetivo de **proporcionar asistencia sanitaria urgente**. Las técnicas de referencia incluyen perforaciones verticales y horizontales, apeo de muros de poca altura y apeo de forjados. No se debe simultanear con otras operaciones de desescombro sobre los mismos elementos estructurales o nudos rígidos.
+El retorno de estas fases se acopla en un punto neutro (donde la suma de las tres corrientes es cero si el sistema está equilibrado), permitiendo el transporte con solo tres cables. Las conexiones pueden ser en **estrella** o **triángulo (delta)**.
 
-La ejecución se basa en un **ataque ofensivo**, que consiste en apear previamente, vaciar escombros, realizar el entibado y adintelado, y arriostrar la estructura.
+##### 1.7. Potencia Eléctrica
 
-Las consideraciones de seguridad enfatizan:
-*   Evitar acumular material sobre los elementos donde se excava la galería, transportándolo a la zona de intervención según se necesite.
-*   Comprobar la capacidad de resistencia de los elementos o materiales inferiores al dañado para evitar derrumbes secundarios.
-*   Evacuar a los intervinientes cuya presencia no sea esencial en la galería.
-*   Mantener la presencia de un equipo de rescate y un equipo sanitario en las inmediaciones ante la previsión de un posible derrumbe.
-*   Las pautas de actuación siguen las mismas lógicas que para elementos verticales y horizontales, según el elemento a perforar.
+La **potencia eléctrica (P)** es la capacidad de un dispositivo eléctrico para realizar un trabajo mediante la energía que genera o transmite en un tiempo determinado. Se mide en vatios (W), aunque el kilovatio hora (kWh) es la unidad habitual en contadores.
+
+*   En CC, la potencia es el producto de intensidad por tensión: `P = I · V`
+*   En CA, se añade el **factor de potencia (cos φ)**: `P = V · I · cos φ`
+
+Se distinguen tres tipos de potencia en el **triángulo de potencias**:
+*   **Potencia Activa (P):** Realiza trabajo, se mide en vatios (W).
+*   **Potencia Reactiva (Q):** Asociada a bobinas y condensadores, se mide en voltiamperios reactivos (VAr).
+*   **Potencia Aparente (S):** Es el valor total, se mide en voltiamperios (VA).
+
+Las empresas suministradoras penalizan los factores de potencia muy alejados de la unidad, lo que lleva a la instalación de **baterías de condensadores** para mejorar este factor.
+
+#### 2. Redes Eléctricas
+
+Las instalaciones eléctricas se dividen según la tensión de servicio:
+*   **Alta Tensión (AT):** Tensiones nominales superiores a 1.000 V en CA y 1.500 V en CC. Las tensiones usuales en CA van de 11 kV a 380 kV.
+*   **Baja Tensión (BT):** Tensiones nominales inferiores a 1.000 V en CA y 1.500 V en CC. Las tensiones usuales son 380 V (trifásica), 220 V y 125 V.
+
+La energía eléctrica se genera en **centrales eléctricas** (solares, hidráulicas, térmicas, nucleares) mediante alternadores que producen energía trifásica en CA a 20 kV. Estas centrales incluyen una **estación de transformación** con transformadores elevadores que aumentan la tensión a 66 kV o 380 kV para la transmisión.
+
+##### 2.1. Plantas de Generación de Electricidad
+
+**Líneas de Transporte y Distribución en Alta Tensión:**
+Transportan la energía a largas distancias desde las centrales a las subestaciones. Se clasifican en tres categorías según el Reglamento:
+
+*   **Líneas de tensión nominal superior a 66 kV:**
+    *   Parten de las centrales a grandes subestaciones.
+    *   Conductores dobles, triples o cuádruples por fase (comúnmente dobles).
+    *   Son las líneas más altas, con apoyos tipo celosía que sustentan tres o más conductores.
+    *   Pueden incluir uno o dos **hilos de guarda** (pararrayos) en la parte superior, de menor sección.
+    *   Utilizan **aisladores de vidrio** (más de seis aisladores, aproximadamente 10.000 V por aislador).
+
+*   **Líneas de tensión nominal entre 30 kV y 66 kV:**
+    *   Parten de grandes a medianas y pequeñas subestaciones.
+    *   Pueden ser aéreas o subterráneas (en ciudades).
+    *   Las aéreas pueden tener dos conductores por fase o uno, las subterráneas son rojas o marrones (líneas antiguas de aceite).
+    *   Suelen usar entre cuatro y seis aisladores de vidrio.
+
+*   **Líneas de tensión nominal entre 1 kV y 30 kV:**
+    *   Parten de pequeñas y medianas subestaciones a centros de transformación industriales o urbanos.
+    *   No tienen hilo de guarda.
+    *   Discurren bajo el suelo en ciudades y son aéreas en zonas interurbanas.
+    *   Usan menos de tres aisladores de vidrio.
+
+Estas líneas pueden tener **reenganches automáticos**, donde el cierre automático de la apertura por un aparato mecánico de conexión se produce tras un tiempo predeterminado. Un reenganche puede ocurrir hasta tres veces en un máximo de tres minutos, después de lo cual la compañía realiza pruebas.
+
+#### 2.2. Líneas de Distribución en Media Tensión
+
+Las líneas de distribución de media tensión (11 o 20 kV) parten de las subestaciones y llegan a los centros de reparto, desde donde distribuyen la corriente a los centros de transformación o directamente a clientes de alta tensión.
+
+Sus partes fundamentales son:
+1.  **Celdas de entrada de MT.**
+2.  **Celdas de salida de MT.**
+3.  **Embarrado de MT.**
+
+#### 2.3. Centros de Transformación
+
+Reducen la tensión de media tensión (11 o 20 kV) a baja tensión (BT), como 380 V (trifásica) o 220 V (monofásica, fase y neutro). Se encuentran en barrios, industrias y centros públicos.
+
+Las redes de distribución de media tensión suelen tenderse en anillo, con líneas de entrada y salida en cada centro. También funcionan como centros de seccionamiento.
+
+**Tipos de subestaciones transformadoras según su tamaño:**
+*   **Grandes subestaciones:**
+    *   Grandes parques eléctricos que elevan o disminuyen tensiones entre líneas de primera y segunda categoría.
+    *   Controladas desde una central mediante telemando (software específico).
+    *   Reciben tensiones de 66 kV a 380 kV y transforman a MT (10 kV a 45 kV) para distribución.
+    *   Acceso restringido a personal autorizado.
+*   **Pequeñas o medianas subestaciones:**
+    *   Elevan o disminuyen tensiones entre líneas de segunda y tercera categoría.
+    *   No están permanentemente vigiladas, pero no son accesibles al público.
+    *   El control se realiza desde las grandes subestaciones de zona (telemando).
+
+**Componentes del centro de transformación:**
+Se encuentran líneas de entrada y salida con sus protecciones e interruptores de maniobra. Las líneas de salida de BT tienen fusibles de protección en el cuadro de BT.
+
+##### a) Celdas de Entrada y Salida
+
+Cuentan con dos celdas de entrada y salida en media tensión y un seccionador de entrada o salida. Estas celdas son:
+*   **Celda del interruptor de línea:** Contiene un interruptor de aceite o hexafluoruro de azufre (SF6) para cortar el anillo de la línea de MT.
+*   **Celda de derivación:** Alberga una derivación de línea y un seccionador.
+*   **Celda de medida en MT:** Contiene transformadores pequeños para aparatos de medida de MT.
+*   **Celda del interruptor del centro:** Alberga un interruptor de MT conectado antes de la entrada al primario del transformador o transformadores (puede ser de aceite o un seccionador en carga).
+*   **Celda de transformador:** Alberga el transformador, una máquina que reduce la tensión a la de consumo. Suele tener seis bobinas: tres para AT y tres para BT.
+
+El transformador tiene un núcleo de hierro dulce con bobinas (devanado primario y secundario) aisladas entre sí. Los campos magnéticos generados por la corriente en el primario (conectado a AT) inducen una tensión en el secundario (según la Ley de Faraday).
+
+La relación de transformación teórica se calcula como:
+`(nº de espiras del devanado primario) / (nº de espiras del devanado secundario)`
+
+##### b) Tipos de Transformadores
+
+*   **De aceite:** Algunos usan **piraleno**, que al arder produce humos tóxicos y cancerígenos, por lo que su uso está prohibido por mandato legislativo en España.
+*   **Seco:** Las bobinas están cubiertas con **resina epoxi**, que es auto-extinguible en caso de incendio.
+
+##### c) Cuadro de Baja Tensión
+
+Dispone de los siguientes elementos:
+*   Interruptor conectado a la salida del secundario del transformador.
+*   Aparatos de medida en baja tensión.
+*   Interruptores de salida en la línea de baja tensión.
+
+##### 2.3.3. Centros de Transformación en Plantas Industriales
+
+Las industrias (fábricas, hospitales) a menudo tienen su propio centro de transformación debido a su alta demanda de energía, que requiere tensiones superiores a la nominal.
+
+En grandes consumos, la acometida es trifásica, aunque el suministro particular puede ser monofásico o bifásico. La acometida suele ser única y llega a una caseta receptora del usuario donde se ramifica. Incluye un cuadro de control y medida en el lado de AT.
+
+La instalación interior de alumbrado (monofásica) reparte las líneas entre las fases de entrada para equilibrar el sistema.
+
+##### 2.3.4. Centros de Transformación de Vías Férreas
+
+Trenes, tranvías y metros usan electricidad para el movimiento del motor. Las tensiones típicas son 3 kV en CC, pero en alta velocidad pueden alcanzar 20-25 kV en CA a 50 Hz.
+
+El tren recibe corriente de la **catenaria** (tendido aéreo sobre las vías) a través del pantógrafo. La catenaria es el conjunto de cables (alimentadores, de tracción y suspensión) y apoyos. El polo positivo está en la catenaria y el negativo en los raíles. Una excepción son los trolebuses, donde no hay carriles y el retorno de corriente se hace por un segundo cable paralelo.
+
+Las **protecciones** en las líneas aéreas de contacto evitan cortocircuitos, derivaciones, sobretensiones y vandalismo, y dependen del tipo y tensión de la corriente.
+*   **En CC:** Cable tierra (o guarda), descargadores de sobretensiones, tomas de tierra, conexiones equipotenciales (entre estructuras y carril), viseras, pantallas y barreras mecánicas, y frenos/bloqueos que evitan la caída de la línea.
+*   **En CA:** Cable de tierra (paralelo al retorno de tracción), tomas de tierra, conexiones equipotenciales, descargadores de sobretensiones, viseras, pantallas y barreras mecánicas, y frenos/bloqueos de caída de la línea.
+
+En alta velocidad, la CA es de 25 kV, y la catenaria está más tensa.
+
+#### 2.4. Instalaciones de Enlace
+
+Unen la red de distribución con las instalaciones interiores o receptoras. Incluyen:
+*   **Caja General de Protección (CGP):** Alberga elementos de protección de la línea repartidora y marca el inicio de la propiedad del usuario. Es responsabilidad de la compañía eléctrica, que realiza su construcción, inspección y verificación final.
+    *   Una CGP por cada 160 kW o fracción de demanda del edificio.
+    *   Fusibles calibrados por la corriente que protegen. Hasta 80A son cilíndricos, para mayores intensidades son tipo cuchilla. El hilo neutro no lleva fusible.
+*   **Línea General de Alimentación (LGA):** Conecta la CGP con la centralización de contadores.
+    *   Normalmente tres conductores de fase con fusible y uno de neutro sin fusible.
+*   **Contadores centralizados:** Miden el consumo total de energía del abonado.
+    *   En edificios, hasta 16 contadores en una pared común. Para más, se requiere un cuarto específico con puerta cortafuegos y un interruptor de corte general.
+    *   El interruptor general de maniobra desconecta los contadores de tensión, que alimentan un embarrado general con fusibles.
+    *   En viviendas unifamiliares o un solo abonado, el contador se ubica en el exterior junto a los fusibles, siendo propiedad de la suministradora y precintado. La LGA y el contador forman una **Línea o caja de Protección y Medida (CPM)**.
+
+#### 2.5. Grado de Electrificación de la Vivienda
+
+Indica la carga eléctrica que debe soportar la instalación de una vivienda. Se calcula sumando las potencias de los receptores con una reducción del 40% (no se usan simultáneamente todos).
+
+**Se definen dos grados de electrificación:**
+*   **Grado de electrificación básico:** Potencia mínima de 5.750 W a 230 V. Circuitos independientes:
+    *   C1: Iluminación.
+    *   C2: Tomas de corriente generales y frigorífico.
+    *   C3: Tomas de horno y cocina.
+    *   C4: Tomas de lavadora, lavavajillas y termo eléctrico.
+    *   C5: Tomas de corriente del baño y auxiliares de la cocina.
+*   **Grado de electrificación elevado:** Potencia mínima de 9.200 W a 230 V. Circuitos adicionales:
+    *   C6: Circuito tipo C1 adicional.
+    *   C7: Circuito tipo C2 adicional.
+    *   C8: Calefacción eléctrica.
+    *   C9: Aire acondicionado.
+    *   C10: Secadora.
+    *   C11: Domótica.
+    *   C12: Tipo C3, C4, C5 adicional.
+
+La efectividad de las protecciones diferenciales se basa en una **red de tierra** (malla o cableado a cimientos con picas) que establece una referencia de cero voltios. El **telurómetro** mide la conductividad o resistividad del terreno.
+
+#### 2.6. Instalaciones de Alumbrado Exterior
+
+Deben cumplir condiciones específicas según su ubicación y facilidad de acceso. Los tipos de suministro (art. 10 REBT) son:
+
+*   **Suministros normales:** Una empresa suministra energía a un abonado en un punto único.
+*   **Suministros complementarios o de seguridad:** Garantizan continuidad. Incluyen:
+    *   **Socorro:** 15% de la potencia contratada.
+    *   **Reserva:** 25% de la potencia contratada, para funcionamiento restringido de elementos indispensables.
+    *   **Duplicado:** > 50% de la potencia contratada.
+
+#### 3. Medidas de Seguridad con Riesgo Eléctrico
+
+La extensión del uso de electricidad aumenta el riesgo de accidentes, lo que requiere medidas de prevención (legislación, protocolos, procedimientos). Aunque los accidentes domésticos son menos frecuentes, es vital la prevención. En España, se registran más de 2.000 accidentes eléctricos anuales, con un 0,4% laborales y casi 6% mortales de origen eléctrico. La tensión más baja registrada que causó la muerte fue 60V.
+
+##### 3.1. Contacto Eléctrico Directo
+
+La persona toca directamente un conductor con corriente. La electricidad pasa por el cuerpo a tierra. Para evitar esto, se aplican medidas como:
+*   Separar las partes activas o cargadas (2,5 m de elevación, 1 m de enterramiento).
+*   Interponer obstáculos o barreras.
+*   Aislar las partes bajo tensión con material dieléctrico.
+
+##### 3.2. Contacto Eléctrico Indirecto
+
+La persona toca un elemento que está en contacto con una fuente eléctrica por fallo de aislamiento. Las medidas de protección se clasifican en:
+
+*   **Medidas de Clase A (prevención):** Impiden el paso de corriente.
+    *   Separar circuitos para manipulación sin tensión ni corriente.
+    *   Usar pequeñas tensiones de seguridad.
+    *   Aislar partes activas y masas accesibles.
+    *   Emplear elementos que eviten la simultaneidad de conductores y masas (alfombras aislantes).
+    *   Recubrir masas con aislantes.
+    *   **Conexiones equipotenciales:** Unir partes metálicas con masa para igualar la tensión, previniendo electrocución (ej. bañeras conectadas a tierra en cuartos de baño).
+
+*   **Medidas de Clase B (corte automático):** Actúan si se produce un defecto.
+    *   Puesta a tierra de masas con picas.
+    *   Uso de interruptores diferenciales.
+    *   Puesta a tierra de masas y dispositivo de corte por intensidad de defecto.
+    *   Puesta a neutro de masas y dispositivo de corte por intensidad de defecto (sin red de tierras).
+
+##### 3.3. Reglas Básicas de Actuación ante Riesgo Eléctrico
+
+En España, la reglamentación (REBT) y la legislación laboral establecen "cinco reglas de oro" o pautas:
+
+**Pautas de Actuación al Trabajar con Alta y Baja Tensión:**
+
+| Pautas de actuación                | Prescripción (Alta Tensión) | Prescripción (Baja Tensión) |
+| :-------------------------------- | :-------------------------- | :-------------------------- |
+| 1. Abrir con corte visible todas las posibles fuentes de tensión | Obligatorio                 | Obligatorio                 |
+| 2. Enclavar aparatos de corte abiertos anteriormente | Obligatorio                 | Siempre que sea posible     |
+| 3. Comprobar ausencia total de tensión en cada uno de los conductores tras el corte | Obligatorio                 | Obligatorio                 |
+| 4. Poner en corto y a tierra todas las posibles fuentes de tensión | Obligatorio                 | Recomendable                |
+| 5. Acotar y señalizar la zona de trabajo | Obligatorio                 | Recomendable                |
+
+El personal debe usar equipos de protección individual (EPI) específicos para trabajos bajo tensión: pantalón, camiseta, cubre-pantalón, botas, chaquetón, guantes y casco de intervención, junto con material de riesgo eléctrico (banquetas, pértigas, alfombrillas, etc.).
+
+##### 3.3.1. Distancias de Seguridad
+
+*   **En instalaciones aéreas (zonas de trabajo):**
+    *   Tensión > 66.000 V: distancia mínima de seguridad de 5 metros.
+    *   Tensión < 66.000 V: distancia mínima de seguridad de 3 metros.
+    *   Si no se pueden mantener estas distancias, se debe contactar al responsable de la instalación para desconectar la tensión o construir obstáculos.
+
+*   **En instalaciones subterráneas:**
+    *   Con herramientas manuales: distancia mínima de seguridad de 0,5 metros.
+    *   Con herramientas o útiles mecánicos: distancia mínima de seguridad de 1 metro.
+
+#### 3.4. Frecuencia de Accidentes por Riesgo Eléctrico y su Clasificación
+
+La mayoría de incendios en viviendas se deben a la electricidad (cortocircuitos, sobrecargas). Otros incendios pueden ocurrir en líneas de distribución (BT), aéreas (por empalmes) o subterráneas (por roedores o humedad), y en CGP o centralización de contadores.
+
+Los accidentes eléctricos, aunque menos numerosos, son graves. Los estudios estadísticos se dividen en:
+*   Accidentes laborales (industrial).
+*   Accidentes de profesionales (producción, transporte, distribución).
+*   Accidentes domésticos.
+
+El Instituto Nacional de Seguridad e Higiene en el Trabajo de España clasificó los accidentes por riesgo eléctrico:
+*   35% por contacto directo.
+*   17% por contacto indirecto.
+*   48% por arco eléctrico.

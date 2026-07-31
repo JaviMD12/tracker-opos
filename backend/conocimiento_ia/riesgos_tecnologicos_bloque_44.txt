@@ -1,47 +1,123 @@
-## Estabilización de Edificaciones: Patología Estructural y Tipologías Fundamentales
+## Tema: Patologías en Edificaciones y Actuaciones de Emergencia
 
-La intervención en estructuras con patologías requiere una comprensión profunda del comportamiento de las edificaciones, especialmente cuando existe un riesgo de colapso. En tales situaciones, es fundamental aplicar soluciones de estabilización que minimicen el peligro, como el **apeo inferior** con elementos verticales, buscando siempre la opción más sencilla y eficaz. Este proceso busca retornar la estructura a un estado de equilibrio, incluso si el nivel de seguridad es menor al original.
+### 1. Caracterización de Patologías Edilicias
 
-### Elementos Estructurales: Conceptos Fundamentales y Clasificación
+Las patologías que afectan a las edificaciones, especialmente aquellas que demandan la intervención de los servicios de emergencia como los bomberos, pueden clasificarse en dos categorías principales: de origen mecánico ordinario y asociadas a fenómenos accidentales.
 
-Los **elementos estructurales** son aquellos componentes de una edificación diseñados para soportar y transmitir cargas sin experimentar deformaciones excesivas, manteniendo la **capacidad portante** y la **aptitud de servicio** de la estructura durante su vida útil, que por defecto se establece en 50 años según el Código Técnico de la Edificación (CTE DB SE). La legislación en España, incluyendo el CTE con sus Documentos Básicos (DB-SE AE, C, A, F, M, SI, SUA, HS, HR, HE), así como instrucciones específicas como la EHE para hormigón y la NCSE para sismorresistencia, regula exhaustivamente estos aspectos.
+#### 1.1. Patologías Asociadas a la Acción del Agua
 
-Para analizar el comportamiento estructural, se consideran tres factores principales: la **geometría**, la **rigidez** y los **materiales** empleados. La geometría, por ejemplo, determina la magnitud y dirección de los esfuerzos. En este sentido, las **curvas funiculares**, como la **catenaria** (para cargas de peso propio) y la **parábola** (para cargas lineales uniformemente repartidas en proyección horizontal), describen la forma óptima que adopta un cable bajo tracción pura. Una **estructura funicular** se caracteriza por generar reacciones y esfuerzos principalmente de compresión o tracción, dependiendo del estado de carga.
+Las patologías comunes vinculadas a la acción del agua incluyen:
 
-La **rigidez** de una estructura se relaciona con su capacidad para resistir deformaciones. Se evalúa mediante los **grados de libertad (GL)**, que representan los movimientos posibles de un cuerpo, y las **coacciones (C)**, que son las limitaciones a esos movimientos. El **grado de estaticidad** de un conjunto estructural se clasifica en:
-*   **Hiperestática:** GL < C, indicando una estructura estable con redundancia.
-*   **Isostática:** GL = C, una estructura con equilibrio limitado, que es estática pero sin redundancia.
-*   **Hipostática (o mecanismo):** GL > C, lo que implica un sistema inestable que se desplaza ante una fuerza.
-Los **nudos** son las conexiones entre elementos portantes, y su tipología (apoyo, articulación o empotramiento) determina las coacciones y grados de libertad. Un **apoyo** limita un movimiento vertical (1 coacción, 2 GL); una **articulación** limita movimientos verticales y horizontales (2 coacciones, 1 GL); y un **empotramiento** limita todos los movimientos (vertical, horizontal y giro) (3 coacciones, 0 GL).
+*   **Eflorescencias:** Manchas superficiales de aspecto algodonoso, resultantes de la disolución de sales, que pueden manifestarse en las caras interiores o exteriores de los paramentos.
+*   **Criptoeflorescencias:** Similares a las eflorescencias, pero con una evaporación y cristalización intensas de las sales que provocan la disgregación del material, llevando al desprendimiento de fragmentos del revestimiento o revoque en muros porosos.
+*   **Generación de Organismos:** Ocurren por la difusión de semillas y esporas aeróbicas que germinan, dando lugar a la aparición de musgo, moho, y organismos xilófagos en maderas con humedad excesiva, lo que puede causar corrosión química por ácidos.
+*   **Disgregación por Heladicidad:** Principalmente causada por el aumento de volumen del agua infiltrada o condensada en los intersticios porosos al congelarse, provocando desprendimientos e incluso el colapso de revestimientos pétreos o cerámicos.
+*   **Oxidación y Corrosión:** Procesos acelerados en metales en presencia de agua. La oxidación puede formar una capa protectora, pero la corrosión implica una pérdida de material que anula la capacidad estructural del elemento.
 
-### Estructuras Enterradas: Cimentaciones y Contenciones
+Los tipos de humedad relevantes (filtración y rotura de instalaciones) requieren especial atención por parte de los bomberos debido a su potencial para causar descalce del terreno y afectar la habitabilidad.
 
-Las **estructuras enterradas**, también conocidas como **cimentaciones**, son el conjunto de elementos estructurales que transmiten las cargas de la edificación al terreno, asegurando que la presión admisible no sea superada y evitando sobrecargas puntuales. Cualquier fallo en la cimentación puede comprometer gravemente la estabilidad del edificio. Los parámetros clave para su diseño incluyen la geometría (determinada por la profundidad del estrato resistente), el material (predominantemente hormigón armado por su capacidad de moldeo y rigidez) y la rigidez (rígida o flexible, según la EHE-08).
+##### 1.1.1. Humedades de Filtración
 
-Existen diversas **tipologías de cimentación** según el CTE DB SE-C, incluyendo la directa, la profunda y los elementos de contención:
+Estas humedades son resultado de fenómenos meteorológicos (lluvia, nieve) sobre las cubiertas. Se manifiestan inicialmente como manchas en techos y partes superiores de paredes verticales, acompañadas de otras señales secundarias.
 
-#### Cimentación Directa, Superficial o Somera
-Este tipo de cimentación reparte las cargas de la estructura horizontalmente sobre el terreno. Se emplea en suelos cuya capa superficial posee la resistencia necesaria para soportar grandes cargas, o en terrenos menos consistentes si las tensiones transmitidas son pequeñas. Se localizan a poca profundidad, de ahí su denominación de superficial o somera. Las principales tipologías son:
+Los síntomas varían según el tipo de cubierta afectada:
 
-1.  **Zapatas Aisladas:** Destinadas a cimentar cargas puntuales (pilares), ensanchando la base de apoyo para reducir las tensiones transmitidas al terreno. Son adecuadas para terrenos firmes y compactos, con presiones medias-altas y asentamientos pequeños.
-    *   **Geometría:** Suelen ser cuadradas en planta para facilitar su construcción y optimizar el comportamiento estructural. Las zapatas de medianería suelen ser rectangulares con mayor dimensión paralela a la medianería, y las de esquina, cuadradas. El pilar debe apoyarse idealmente en el centro de la zapata (zapata centrada), pero pueden ser excéntricas.
-    *   **Rigidez (según EHE-08):**
-        *   **Zapatas rígidamente estructurales:** Aquellas cuyo vuelo (distancia del borde al pilar) es menor o igual a dos veces el canto de la zapata (v ≤ 2h). Trabajan predominantemente a compresión y, en teoría, podrían ejecutarse en hormigón en masa sin armadura.
-        *   **Zapatas flexiblemente estructurales:** Aquellas con un vuelo mayor a dos veces el canto (v > 2h). Trabajan a flexión y requieren armadura.
-    *   **Elementos auxiliares de rigidización:** Para controlar deformaciones, desplazamientos laterales y giros, se emplean **vigas de atado o soleras** (elementos lineales para arriostrar cimentaciones superficiales o profundas, absorbiendo tracciones, especialmente en zonas sísmicas) y **vigas centradoras** (para absorber momentos de vuelco de zapatas excéntricas, conectándolas con zapatas interiores; suelen ser de canto importante, entre 60 y 100 cm, y efectivas hasta luces de 6-8 m).
+*   **Cubiertas Inclinadas:**
+    *   **Agrietamientos:** Rotura de piezas.
+    *   **Sujeción defectuosa:** El mortero pierde adherencia, provocando el desprendimiento de tejas.
+    *   **Desplazamiento:** Piezas desalineadas que crean huecos por donde se filtra el agua, o superposiciones insuficientes en los solapes.
+*   **Cubiertas Planas:**
+    *   **Bacterias y hongos:** Provocados por una pendiente reducida que favorece el estancamiento de agua y la proliferación de microorganismos.
 
-2.  **Zapatas Combinadas y Corridas:** Recogen las cargas de varios pilares en una única zapata. Las **zapatas combinadas** recogen cargas de dos o más pilares próximos, mientras que las **zapatas corridas** lo hacen de tres o más pilares alineados.
-    *   **Recomendación:** Se utilizan cuando las cargas por pilar son elevadas, la capacidad portante del terreno es baja o moderada, existen varios pilares muy próximos o las zapatas aisladas se solaparían.
-    *   **Geometría:** La forma habitual en planta de las zapatas combinadas es rectangular, aunque pueden ser irregulares (trapezoidales). Las cimentaciones de muros corridos se construyen sobre una "verdugada" de mayor anchura para una mejor distribución de tensiones.
-    *   **Rigidez:** Al igual que las aisladas, su rigidez dependerá de la relación canto/vuelo.
-    *   **Control de asientos:** Son sistemas recomendables para evitar movimientos o asientos diferenciales excesivos entre pilares debido a variaciones de carga o heterogeneidades del terreno, rigidizando el conjunto de la cimentación.
+##### 1.1.2. Deterioro de la Impermeabilización
 
-3.  **Pozos de Cimentación:** Una solución tradicional de bajo coste para cimentaciones "intermedias" cuando los estratos resistentes se encuentran a 4-6 m de profundidad.
-    *   **Geometría:** Presentan una forma prismática con una longitud significativamente mayor que su dimensión transversal media, y una profundidad superior a ocho veces su diámetro o ancho, comportándose como una columna que trabaja a compresión.
-    *   **Rigidez (según EHE-08):** Los pozos de cimentación de hormigón son siempre rígidos y trabajan exclusivamente a compresión, por lo que teóricamente no requerirían armadura.
-    *   **Arriostramiento:** Si la colaboración lateral del terreno no es suficiente o existen momentos horizontales apreciables, es necesario introducir vigas centradoras o de atado.
-    *   **Tipologías tradicionales y actuales:** La tipología tradicional consistía en pozos de unos 3 m de profundidad, rellenados con piedra natural y arriostrados en la parte superior con arcos de ladrillo. Los sistemas actuales, según CTE DB SE-C, incluyen:
-        *   **Con hormigón pobre:** Relleno de la excavación con hormigón pobre desde la cota de apoyo, con la zapata transmitiendo cargas a la profundidad deseada.
-        *   **Con plinto:** Se ejecuta un plinto de gran rigidez que desciende hasta el nivel de terreno competente de apoyo para evitar problemas de pandeo.
+El deterioro de las láminas impermeabilizantes, causado por la exposición a rayos UVA y ozono, impactos, envejecimiento natural, o fallos constructivos/de ejecución, puede manifestarse como:
 
-4.  **Emparrillados:** Se emplean en terrenos con baja capacidad de carga, elevada deformabilidad o heterogeneidades que hacen prever asientos totales elevados. Consisten en un conjunto de zapatas corridas ortogonales que recogen todos los pilares de la estructura
+*   **Cuarteamiento:** Fisuras superficiales con patrón de piel de cocodrilo, resultantes del agua estancada y el calor. Afecta la estética sin comprometer la solidez estructural.
+*   **Fisuras:** Aparecen por la reducción de componentes volátiles, causando retracción y rotura de la estructura.
+*   **Grietas:** Generadas por movimientos diferenciales.
+*   **Arrugamiento:** Se produce cuando la base es irregular o no cede a la presión, afectando la transitabilidad de la cubierta.
+*   **Burbujas:** Formadas en los fieltros por agua entre capas o evaporación desde los elementos base.
+
+##### 1.1.3. Humedades por Rotura de Instalaciones
+
+Esta es la forma de humedad más compleja de detectar, pero a menudo la más sencilla de resolver mediante reparaciones y contenciones localizadas. Su origen es interno a la edificación (conductos de agua, saneamiento, calefacción). Si no se reparan a tiempo, pueden generar eflorescencias, moho, pudrición de madera, desmoronamiento de revocos, saturación de ladrillo, oxidación, descomposición electromecánica, ataque químico y obstrucciones en las canalizaciones.
+
+#### 1.2. Patologías Vinculadas al Terreno y Calidad Constructiva
+
+Estas patologías, las más extensas e importantes en la edificación, se originan por una variación significativa en la distribución de cargas y tensiones, ya sea lenta o abruptamente. Esto genera desequilibrios estructurales que pueden llevar al colapso si los elementos no son capaces de absorberlos.
+
+Las cinco tipologías más comunes, según el esfuerzo tensional o movimiento provocado, son:
+
+*   **I. Adaptación o Encaje:**
+    *   **Definición:** Lesiones producidas durante la construcción o rehabilitación inicial, debido al acoplamiento de macizos, el asiento relativo de materiales o la adaptación del plano de asiento.
+    *   **Tipologías:**
+        *   **Lesiones por encaje:** Asentamiento relativo entre los componentes de un mismo elemento constructivo. Los casos más frecuentes son muros de carga con mortero excesivo y conexiones incorrectas en rehabilitaciones.
+        *   **Lesiones por asiento inicial del terreno:** Adaptación de terrenos blandos por sobrecarga del nuevo edificio o incremento de cargas durante su vida útil.
+    *   No suelen requerir intervención urgente de bomberos.
+
+*   **II. Cedimiento o Hundimiento:**
+    *   **Definición:** Lesiones producidas durante la construcción o rehabilitación por asentamientos excesivos/diferenciales, cambios en las propiedades del suelo (rotura de colectores, excavaciones) o aumento de cargas de servicio. También incluyen la hinchazón o retracción de arcillas expansivas y problemas de raíces.
+    *   **II.1. Colapso del Terreno:**
+        *   **Grietas por hundimientos:** Derivadas de la tipología constructiva y la zona de cedimiento.
+        *   **II.1.1. Estructuras Adinteladas:** En muros de carga sobre cimentaciones corridas, el cedimiento del plano de asiento causa grietas rectilíneas y el combado de zapatas.
+            *   **Grietas primarias:** Parabólicas en la parte superior del muro.
+            *   **Grietas secundarias:** Similares a las primarias (grieta homóloga).
+            *   **Características:** Flecha de 1/3 de la luz, luz dependiente de la longitud del plano de asiento.
+            *   **Geometría:** Grietas parabólicas con vértice en la zona de mayor cedimiento en muros sin huecos.
+
+##### 1.2.1. Patologías en Estructuras Adinteladas
+
+*   **Muros con Huecos:** Grietas parabólicas concentradas alrededor de grandes aberturas, que son los puntos más débiles.
+*   **Variantes:** La magnitud del cedimiento puede distorsionar las curvas parabólicas, manifestándose como:
+    *   **Muy alargada:** Dos líneas verticales muy pronunciadas, comunes en cedimientos abruptos.
+    *   **Aplastada:** Grietas horizontales, típicas en cedimientos totales de muros aislados.
+    *   **Deformada:** Grietas por superposición de cedimientos, heterogeneidad estructural, presencia de huecos o espesores desiguales de muros.
+
+##### 1.2.2. Patologías en Estructuras Reticuladas
+
+*   **Pilares sobre Zapatas Aisladas:** El cedimiento del terreno produce grietas rectilíneas, sinuosas y con tendencia vertical. Son más anchas en la parte superior y se originan a una altura específica (h) del suelo en muros sin huecos.
+*   **Muros con Huecos:** Las grietas rectilíneas son más anchas en las esquinas de los huecos.
+*   **Zonas de Cedimiento:**
+    *   **Arrufo:** Cedimiento en la zona central de la cimentación.
+    *   **Quebranto:** Cedimiento en las zonas laterales de la cimentación (parcial si afecta una esquina, total si afectan todas).
+
+##### 1.2.3. Arcillas Expansivas
+
+*   **Problema Principal:** Variaciones de volumen (hinchazón y retracción) debido a la humedad del terreno.
+*   **Patología:** Hundimientos y hinchazones (arrufos o quebrantos) combinados con empujes horizontales.
+*   **Grietas:** Verticales e inclinadas en ambos sentidos, resultantes de la alternancia de arrufos y quebrantos según la estación.
+*   **Nudos Estructurales:** Los nudos rígidos (empotramientos) son frecuentes en arcillas expansivas debido al asiento diferencial.
+
+##### 1.2.4. Problemas de Raíces
+
+*   **Causas:** Acción humana (obras, excavaciones, pavimentación) o causas naturales (hongos, sequías, inundaciones).
+*   **II.3.1. Empujes:** El crecimiento continuo de las raíces genera empujes de compresión y grietas longitudinales.
+    *   **Grietas:** Con geometría escalonada, cerca de la cimentación y disminuyendo hacia arriba.
+*   **II.3.2. Deshidratación:** La falta de humedad y la disminución de volumen provocan cedimiento del terreno y quebranto parcial (grietas parabólicas invertidas).
+
+*   **III. Rotación:**
+    *   **Definición:** Desviación de elementos constructivos respecto a su plano vertical, medida por el "ángulo de rotación" (interna o externa).
+    *   **Rotación Interna:** Pérdida de verticalidad hacia el interior de la edificación.
+    *   **Rotación Externa:** Pérdida de verticalidad hacia el exterior de la edificación.
+    *   **Causas:** Principalmente cedimiento del plano de asiento o empujes laterales.
+        *   **Deslizamiento/Cedimiento del plano de asiento:** Muro se desploma (gira) por cedimiento del plano de asiento, desliga de muros contiguos y cae por gravedad. Produce grietas en paramentos perpendiculares con trazado opuesto al de empujes.
+        *   **Empujes laterales:** Rotura o ausencia de arriostramiento horizontal/inclinado causa empujes laterales y potenciales rotaciones, debido a:
+            *   Esfuerzos oblicuos en cerchas, cuchillos y armaduras (viento en cubiertas).
+            *   Arcos o bóvedas sin tirantes.
+            *   Dilatación de elementos estructurales.
+            *   Empujes de terraplenes, desplazamientos de terreno, aguas subterráneas, arcillas expansivas, excavaciones cercanas.
+
+*   **V. Movimiento del Terreno:**
+    *   **Definición:** Empujes generados por los estratos del terreno debido a dos causas fundamentales:
+        *   **Movimiento de ladera:**
+            *   **Definición:** Desplazamiento de un estrato superior de terreno seco sobre uno inferior fluido, creando una superficie de rotura entre ambos.
+            *   **Tipologías:**
+                *   **Desprendimientos:** Despegue de masa de roca de pared muy inclinada (ángulo >76º).
+                *   **Vuelcos:** Rotación hacia delante y exterior de suelo/roca, con eje bajo su centro de gravedad (ángulo 45-76º).
+                *   **Deslizamientos y rodaduras:** Desplazamiento de masa de suelo/roca sobre una o más superficies de rotura (inclinación A<45º).
+                *   **Flujos:** Se asimila a fluido viscoso, masa movida pierde su forma, pierde cohesión con agua, fluye por pendientes inclinadas. Tipos: flujos de arena y limo, avalanchas.
+        *   **Subsidencias y Colapsos:**
+            *   **Definición:** Hundimientos de terreno (naturales o inducidos por actividad humana).
+            *   **Subsidencia:** Hundimiento lento y progresivo, asociado a variación lenta del contenido de agua en estratos blandos superficiales.
+            *   **Colapso:** Hundimiento brusco y rápido del terreno por desaparición de la compactación de un estrato inferior.

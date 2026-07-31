@@ -1,47 +1,140 @@
-# Instrumentos de Medición para Bomberos y Emergencias
+## Instrumentos de Medición para Servicios de Emergencia
 
-Los instrumentos de medición son herramientas esenciales para el personal de bomberos y emergencias, diseñados para obtener datos instantáneos sobre diversas magnitudes físicas y concentraciones de sustancias. Estas mediciones son cruciales para evaluar riesgos como la temperatura en incendios, la velocidad del viento, la humedad del ambiente o distancias, contribuyendo a la seguridad y eficacia de las operaciones.
+Este apartado detalla las características, normativas, uso, seguridad y mantenimiento de diversos instrumentos de medición esenciales para los servicios de bomberos y emergencias.
 
-## Radiámetro
+### 3.3.3. GPS (Garmin nüvi®)
 
-Un **radiámetro portátil** es un Equipo de Protección Individual (EPI) que se emplea para determinar la presencia de contaminación por radiación alfa, beta y gamma en atmósferas con riesgo nuclear. Este dispositivo mide la radiación recibida a través de un sensor interno, lo que permite realizar dos tipos de mediciones principales: la **Tasa de Dosis equivalente Ambiental** para rayos X y gamma, expresada en sievert/hora (Sv/h), y la **contaminación radiactiva** de partículas alfa, beta y gamma, indicada en cuentas por segundo (cps), para lo cual cuenta con una ventana que puede abrirse o cerrarse manualmente.
+El GPS Garmin nüvi® es un navegador vial que opera con cartografía viaria, ofreciendo una precisión de 10 metros y una autonomía de batería de 40 minutos. Su sensibilidad es baja, lo que implica que requiere una señal potente. Puede verse afectado por entornos interiores, proximidad a edificios o árboles de gran altura.
 
-Entre sus componentes principales se encuentran un filtro atenuador de energías giratorio, la ventana del detector y botones de control para el menú, audio, encendido y reinicio. Se caracteriza por ser un sistema digital controlado por microcontrolador, que mide H*(10) para gamma y rayos X. Utiliza un detector Geiger-Müller con compensación de energía, ofreciendo modos de medida de tasa y tasa máxima configurables hasta 100 mSv/h, además de registrar la dosis acumulada en Sv. Funciona con una pila alcalina de 9 voltios, proporcionando una autonomía superior a 80 horas de uso continuo si la tasa de radiación es inferior a 1 Sv/h.
+**b) Normativa:**
+Se rige por la Directiva 1999/5/CE del Parlamento Europeo y del Consejo, del 9 de marzo, relativa a equipos radioeléctricos y terminales de telecomunicación y el reconocimiento mutuo de su conformidad.
 
-La normativa aplicable a estos radiámetros incluye la Directiva de Compatibilidad Electromagnética 2004/108/CEE y la Directiva 93/68/CEE.
+**c) Uso y seguridad:**
+Este dispositivo se emplea en la conducción de vehículos para una respuesta rápida en emergencias, facilitando la navegación en carretera y la localización de sitios y parajes mediante coordenadas de situación.
 
-**Uso y Seguridad:** Los radiámetros son indispensables en emergencias radiológicas, que abarcan desde la presencia de materiales radiactivos, incidentes durante el transporte, fuentes no controladas (abandonadas, perdidas, robadas o encontradas) y fuentes industriales o médicas peligrosas.
+El Garmin nüvi® permite consultar mapas, conocer las coordenadas propias y navegar a un punto. Proporciona información sobre la intensidad de la señal, conexión Bluetooth, estado de la batería y la hora. Ofrece acceso directo a funciones de búsqueda de destino, consulta de mapa y llamadas a través de un teléfono móvil conectado.
 
-Para medir la radiación de rayos X y gamma (0,16 µSv/h), la ventana del dispositivo debe permanecer cerrada, ya que en esta configuración no se detectan partículas alfa o beta. En cambio, para medir la contaminación por partículas alfa, beta y gamma (0,48 cps), la ventana debe estar completamente abierta y la medición debe realizarse lo más cerca posible de la fuente para una máxima eficiencia.
+Debe instalarse correctamente en el vehículo, asegurando una conexión adecuada al cable de corriente para uso continuo sin depender de la batería. Se recomienda retirar la batería si el vehículo se expone al sol directo para evitar daños.
 
-El encendido del radiámetro se realiza mediante el botón ON/OFF, tras lo cual efectúa un autodiagnóstico mostrando la información del equipo, incluyendo el modelo y número de serie. La tasa de dosis se visualiza digitalmente, con ajuste automático de decimales y múltiplos según el rango. Un mensaje de batería baja indica la necesidad de reemplazo. Es crucial interpretar con precaución cualquier aumento rápido en la escala seguido de una lectura descendente o errática, ya que puede indicar una concentración peligrosa de gas más allá de los límites del dispositivo.
+**d) Mantenimiento:**
+Para el mantenimiento, es crucial evitar caídas, vibraciones o golpes excesivos que puedan dañar los componentes electrónicos. La pantalla táctil se limpiará con un paño suave y limpio (sin pelusas), utilizando agua, alcohol isopropílico o limpiador para gafas.
 
-**Mantenimiento:** La revisión periódica incluye la comprobación del correcto encendido y apagado, así como la navegación por los menús. Se almacenan en la zona habilitada del parque junto a emisoras y linternas, conectados a sus cargadores, listos para uso inmediato. El transporte debe ser responsabilidad del mando de intervención. La limpieza debe evitar productos abrasivos. La calibración, con coeficientes ajustados de fábrica, solo puede ser modificada por laboratorios acreditados.
+### Capítulo 16: Instrumentos de Medición
 
-## Detector de Gases (Explosímetro)
+#### 1. Características Generales de los Instrumentos de Medición
 
-El **detector de gases**, también conocido como **explosímetro**, es un dispositivo esencial para detectar la presencia o ausencia de gases que pueden generar riesgos como asfixia, toxicidad o explosividad. Estos aparatos advierten cuando los niveles de gases peligrosos superan los valores preestablecidos. En función del modelo, pueden incorporar múltiples sensores calibrados, generalmente configurados para cuatro tipos de gases: sulfuro de hidrógeno (H2S), monóxido de carbono (CO), oxígeno (O2) y metano (CH4). El H2S se asocia con toxicidad, el CO con gases de combustión y riesgo de asfixia, el O2 con riesgo de asfixia por deficiencia o enriquecimiento, y el CH4 con límites de explosividad.
+Los instrumentos de medición son herramientas esenciales para determinar instantáneamente concentraciones de sustancias y otras magnitudes físicas relevantes en el ámbito de los bomberos. Esto incluye la temperatura en incendios, velocidad, humedad, distancias y cálculos de volumen y superficies.
 
-Las **características generales** incluyen una temperatura de operación de -20°C a +58°C (con certificación CSA-International para el sensor de gas combustible y una precisión de ±5%), una temperatura de almacenamiento de -40°C a +50°C, y una humedad de operación del 0% al 95% sin condensación. En ambientes con polvo o vapor, es necesario usar un filtro. Los **límites de detección** son específicos para cada gas: 0-100 ppm para H2S y CO (incrementos de 1 ppm), 0-1000 ppm para CO (incrementos de 1 ppm), 0-30,0% vol. para O2 (incrementos de 0,1% vol.) y 0-100% LEL o 0-5,0% v/v para metano. Los sensores pueden ser electroquímicos (H2S, CO, O2) o de perla catalítica (gases combustibles), con autodiagnóstico y calibración automática y manual.
+#### 2. Instrumentos de Medición
 
-Un modelo destacado es el **Dräger X-AM ® 7000**, que puede detectar hasta cinco gases de forma continua y combinada, con una bomba interna para muestreo. Cumple con normativas como ATEX CE 0158, IEC EEx ia d I/IIC T4, UL Clase I y CSA Clase I, con rangos de temperatura específicos para baterías NiMH y Alcalinas.
+**2.1. Radiámetro**
 
-**Uso y Seguridad:** Los explosímetros deben encenderse en una zona de aire no contaminada, donde realizan un autochequeo y calibración automática de los sensores. El Dräger X-AM 7000 muestra información sobre sensores activos, rangos de medida y límites de alarma. Una lectura rápida en aumento seguida de una caída o una señal errática indica una concentración peligrosa de gas fuera de los límites de la escala. Es crucial proteger el sensor de combustible de sustancias como compuestos de plomo, siliconas e hidrocarburos. El LEL se muestra como porcentaje por volumen (LEL By Vol. CH4), y si supera el LSI, aparecerá "OL" (overload) en pantalla. Ante la detección de gases tóxicos, es imperativo utilizar Equipos de Respiración Autónoma (ERA). Los aparatos incorporan alarmas visuales y sonoras para indicar la presencia de gases, nivel de batería bajo y estado del equipo, incluyendo un "bit de confianza" al encender. No se permite modificar componentes eléctricos ni usar piezas defectuosas.
+**2.1.1. Especificaciones:**
+Un radiámetro portátil se utiliza para medir distintos tipos de contaminación (alfa, beta y gamma) en la atmósfera durante emergencias nucleares. Emplea un sensor interno y puede realizar dos tipos de mediciones:
+*   Radiación de rayos X y gamma, expresada en Tasa de Dosis equivalente Ambiental (sievert/hora).
+*   Contaminación radiactiva de partículas alfa, beta y gamma, expresada en Tasa de Cuentas por Segundo (cps), mediante una ventana que puede abrirse o cerrarse.
 
-**Mantenimiento:** El mantenimiento periódico incluye calibrar el detector, realizar pruebas de respuesta e inspecciones visuales. La limpieza exterior se efectúa con un paño suave y húmedo, sin usar jabones o sumergir el dispositivo en líquido. Se debe mantener un registro de todas las operaciones de mantenimiento y eventos de alarma. Si el aparato sufre un golpe o caída, debe ser inspeccionado visualmente y retirado de atmósferas potencialmente explosivas si presenta daños.
+Las partes del radiámetro incluyen un filtro atenuador de energía giratorio, una ventana de detector, y botones para menú, audio, encendido y reinicio.
 
-## Anemómetro Portátil
+Sus características generales son:
+*   Sistema digital controlado por microcontrolador.
+*   Tipo de medición: Gamma y Rayos-X, H*(10).
+*   Detector: Geiger-Müller compensado en energía.
+*   Modos de medición: Tasa y tasa máxima (Sv/h), configurable hasta 100 mSv/h.
+*   Dosis acumulada (Sv).
+*   Alimentación: Pila alcalina de 9 voltios. Autonomía: más de 80 horas de funcionamiento continuo (con tasa <1 Sv/h).
 
-El **anemómetro portátil** es un instrumento multifunción que combina las capacidades de un anemómetro, termómetro e higrómetro. Permite medir la velocidad del viento, el índice de calor, la ráfaga máxima de viento, el punto de rocío, la velocidad media del viento, la temperatura del aire, agua y nieve, la humedad relativa y el efecto de enfriamiento del viento (sensación térmica).
+**2.1.2. Normativa:**
+La normativa aplicable a estos instrumentos incluye:
+*   Directiva de Compatibilidad Electromagnética 2004/108/CEE.
+*   Directiva 93/68/CEE.
 
-Un ejemplo representativo es el modelo **Kestrel® K 3000**, un dispositivo pequeño, compacto y robusto, ideal para diversas situaciones. Sus características generales incluyen una protección IP67 o superior, rangos de temperatura de almacenamiento entre -30°C y 80°C (evitando daños irreparables), un impulsor cambiable y sensores de temperatura y humedad de respuesta rápida. Es fácil de usar gracias a sus tres botones táctiles.
+**2.1.3. Uso y seguridad:**
+Se emplea en diversas emergencias radiológicas como:
+*   Materiales radiactivos.
+*   Emergencias de transporte.
+*   Fuentes no controladas (abandonadas, perdidas, robadas o encontradas).
+*   Fuentes industriales y médicas peligrosas (medición de espesores, radiografía, etc.).
+*   Bombas sucias, amenazas y actos dolosos.
+*   Otras fuentes o contaminaciones de origen desconocido.
 
-Cumple con la normativa vigente de homologación.
+**a) Forma de realizar la medición:**
+*   Para medir radiación de 0,16 μSv/h (rayos X y partículas Gamma), la ventana debe permanecer cerrada. No detecta partículas Alfa o Beta, midiendo la tasa de dosis.
+*   Para medir contaminación de 0,48 cps (partículas Alfa, Beta y Gamma), la ventana debe abrirse completamente y la medición debe realizarse lo más cerca posible de la fuente para máxima eficiencia.
 
-**Uso y Seguridad:** Estos aparatos son fundamentalmente empleados en trabajos en altura e incendios forestales para monitorear condiciones atmosféricas. Proporcionan la velocidad del viento (media de tres segundos y ráfaga máxima), y la temperatura instantánea. Es recomendable ondear la unidad para una respuesta más rápida de la temperatura.
+**b) Encendido:**
+El radiámetro se enciende mediante el botón ON/OFF. Tras un autodiagnóstico en pantalla que muestra todos los puntos del display y la información del equipo (modelo, número de serie), la tasa de dosis aparece en el display, indicando que está listo para usar. Si el nivel de batería es bajo, se mostrará un mensaje. Las lecturas son digitales y se ajustan automáticamente según el rango.
 
-El anemómetro portátil cuenta con diversas **alarmas**: de nivel bajo y alto (Low/High Alarm) para todos los sensores, alarmas para varios gases, alarmas de promedio ponderado en el tiempo (TWA Alarm) y de límite de exposición a corto plazo (STEL Alarm) para gases tóxicos, alarma de fuera de rango (OL) si un sensor excede su calibración, alarma de error (ERR), alarma de batería baja, y un bip de confianza.
+**c) Navegación:**
+La navegación a través de los menús es intuitiva, con opciones y teclas indicadas en la pantalla.
 
-La **Escala Beaufort** es un sistema de 13 puntos para estimar la fuerza del viento basándose en sus efectos observables en el entorno, sin necesidad de instrumentos. Por seguridad, se debe evitar el contacto de los dedos con el ventilador para prevenir cortes. Si la miniturbina se detiene, es normal una ligera oscilación, pero si la pantalla se vuelve borrosa o no muestra datos, es un indicativo de que se deben cambiar las pilas.
+**d) Modos de indicación:**
+*   **Tasa (Rate):** Modo por defecto al encender el equipo, 0,16 μSv/h. Automático, mide cada evento calibrado con datos de usuario, emite luz y sonido (intensidad y pitidos aumentan con la radiación), detecta radiación ambiental, mide en 50 segundos, con reinicio automático y manual.
+*   **Retención (Hold):** H1,8 mSv/h. Automático, fija el valor máximo en pantalla mientras el modo Tasa opera en segundo plano. Se puede reiniciar a cero con el botón Reset. Alarma acústica y mensaje en pantalla si se superan los valores establecidos.
 
-**Mantenimiento:** Es crucial evitar almacenar el aparato a temperaturas extremas (-30°C o superiores a 80°C) para prevenir daños. Para una precisión óptima, es aconsejable evitar que la miniturbina funcione continuamente a altas velocidades (más de 25 M/S o 90 Km/H) durante largos periodos, ya que puede perder precisión por el desgaste de los rodamientos de zafiro. Se almacenan en los vehículos de intervención, limpios de polvo y suciedad. La calibración de los sensores es realizada por el fabricante, y en caso de recalibración, se debe contactar con este.
+**Alarmas:**
+El sonido de alarma está desactivado por defecto al encender el equipo; para activarlo, se debe pulsar "Audio". Mensajes de alarma posibles: "Alarm" (tasa de dosis o cps supera umbral), "OflwR" (tasa supera rango de medida), "DETer" (error de detector o sistema), "LowBat" (batería baja), "Flat Battery" (batería agotada, reemplazar).
+
+**Límites de alarma:**
+*   Dosis: 40 mSv/h.
+*   Modo Tasa: 20 mSv/h.
+*   Modo Retención: 1000 cps Beta y Gamma "presencia" Alfa.
+
+**Batería:**
+Debe retirarse del equipo cuando no se use, apagándolo previamente.
+
+**e) Precauciones y seguridad:**
+Se deben observar las siguientes medidas de seguridad:
+*   Evitar introducir objetos en las ranuras o aberturas del equipo.
+*   Utilizar solo la alimentación especificada.
+*   No abrir la carcasa ni intentar reparar el equipo si está averiado (riesgo de alta tensión).
+
+**2.1.4. Mantenimiento:**
+*   **Revisión:** Comprobar periódicamente el correcto apagado y encendido, y la navegación por los menús del dispositivo.
+*   **Ubicación:** Guardar en la zona designada del parque para emisoras y linternas. El mando es responsable del transporte.
+*   **Limpieza:** No usar productos abrasivos.
+*   **Calibración:** Los coeficientes de calibración no deben modificarse, salvo por personal autorizado de Laboratorios de Calibración acreditados.
+
+**2.2. Detector de Gases**
+
+**2.2.1. Especificaciones:**
+También conocido como "explosímetro", se emplea para detectar la presencia o ausencia de gases que impliquen riesgos (asfixia, toxicidad, explosividad). El detector multigas alerta cuando los niveles peligrosos de gas superan los umbrales preestablecidos. Puede integrar varios sensores calibrados a límites específicos. Comúnmente se configura con cuatro sensores:
+*   H2S (sulfhídrico): riesgo de toxicidad.
+*   CO (monóxido de carbono): gases de combustión y riesgo de asfixia.
+*   O2 (oxígeno): riesgo de asfixia por deficiencia de oxígeno.
+*   CH4 (metano): límites de explosividad para gases combustibles.
+
+**a) Características generales de los detectores de gases comerciales:**
+*   **Temperatura de operación:** -20°C a +58°C (-4°F a +136°F). Certificado por CSA-International para sensor de gas combustible con una precisión de ±5% (entre +50°C y +58°C).
+*   **Temperatura de almacenamiento:** -40°C a +50°C.
+*   **Humedad de operación:** 0% a 95% de humedad relativa (sin condensación).
+*   **Filtro:** Necesario en ambientes con polvo y/o vapor.
+*   **Límites de detección:**
+    *   H2S: 0-100 ppm (incrementos de 1 ppm).
+    *   CO: 0-500 ppm (incrementos de 1 ppm) o 0-1000 ppm (incrementos de 1 ppm).
+    *   O2: 0-30,0% vol. (incrementos de 0,1%), con sensor de concentración controlado por capilares y auto-calibración automática.
+    *   Gas combustible (LEL): 0-100% (incrementos de 1% LEL) o 0-5,0% v/v de metano.
+*   **Tipo de sensor:**
+    *   H2S, CO, O2: celda electroquímica enchufable.
+    *   Gases combustibles: perla catalítica enchufable.
+*   **Autodiagnóstico:** Se inicia en la activación.
+*   **Calibración:** Automática y manual.
+
+Entre los modelos de explosímetros certificados ATEX y homologados, se encuentran el Gas Alert Microclip XT y el Dräger X-AM ®7000.
+
+**b) Detector multigas (Gas Alert Microclip XT y Gas Alert Quattro):**
+Dispositivo portátil y compacto que permite hasta cuatro sensores.
+
+**c) Dräger X-AM ® 7000:**
+Capaz de detectar de forma continua y combinada hasta 5 gases diferentes. Incluye una bomba interna para recoger muestras de gas mediante una sonda.
+
+**2.2.2. Normativa:**
+La normativa que rige estos aparatos es:
+*   **ATEX:** CE 0158, IM2 EEx ia d I, II 2G EEx ia d IIC T4, BVS 03 ATEX E 371 X (con rangos de temperatura específicos para baterías NiMH y Alcalinas).
+*   **IEC:** EEx ia d I/IIC T4 (con rangos de temperatura específicos para baterías NiMH y Alcalinas).
+*   **UL:** Clase I, Div 1, Grupos A, B, C, D, Temp Code T4 (con rangos de temperatura específicos para baterías NiMH y Alcalinas).
+*   **CSA:** Clase I, Div 1, Grupos A, B, C, D, Ex ia T4 C22.2 No. 152 (con rangos de temperatura específicos para baterías NiMH y Alcalinas).
+
+**2.2.3. Uso y seguridad:**
+*   **Encendido y apagado:** Siempre debe encenderse en una zona con aire no contaminado. Al iniciarse, realiza un autochequeo y calibración automática de los sensores. El Dräger X-am 7000 muestra información sobre los sensores activos, el rango de medida y el límite de alarma.
+*   **Riesgos, precauciones y medidas de seguridad:** Una lectura rápida en ascenso, seguida de un descenso o irregularidad, puede indicar una concentración peligrosa de gas que supera el límite superior de la escala.

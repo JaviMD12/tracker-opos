@@ -1,35 +1,259 @@
-# Apeos Estandarizados en Oposiciones de Bomberos y Emergencias
+El manejo técnico para el apeo y la poda de arbolado, llevado a cabo por los servicios de bomberos, difiere del forestal, principalmente por las condiciones impuestas por los árboles a intervenir (ejemplares podridos, derribados, ramas rotas). Para una intervención eficaz y de mínimo riesgo, es fundamental evaluar el estado del árbol, sus características, las técnicas aplicables y las herramientas adecuadas.
 
-Los apeos estandarizados constituyen un conjunto de técnicas y procedimientos esenciales en las intervenciones de bomberos para la estabilización provisional de estructuras dañadas, bien sean edificaciones o terrenos, con el objetivo primordial de garantizar la seguridad de los intervinientes y, a su vez, facilitar el rescate de posibles víctimas. Estos sistemas, diseñados para una respuesta rápida y eficaz en situaciones de emergencia, se basan en la aplicación de elementos auxiliares que permiten contrarrestar movimientos incontrolados y transmitir cargas al terreno o a elementos estables de la estructura.
+**1. Competencias**
 
-## Principios Generales de los Apeos Estandarizados
+Si la situación no constituye una emergencia inminente (un árbol podrido que aún se mantiene en pie o un árbol muy inclinado en una zona forestal), la intervención de apeo o poda no es competencia de los bomberos.
 
-La implementación de apeos en situaciones de emergencia se rige por una serie de principios generales que buscan optimizar la operación. Un apeo no se compone de un único elemento, sino de tantos conjuntos elementales como sean necesarios para cubrir la zona afectada o la carga prevista. Es crucial entender que las dimensiones y geometrías proporcionadas en los protocolos son genéricas; el mando de intervención tiene la responsabilidad de adaptar la capacidad mecánica del apeo a la solicitación previsible de cada incidente. Esto implica que, si bien existen diseños preestablecidos, la situación real en el terreno puede requerir ajustes en las geometrías y calidades de los materiales, siempre considerando el impacto en la capacidad mecánica del sistema de apeo. La distancia entre los conjuntos elementales del apeo no debe exceder los cuatro metros, garantizando así una distribución adecuada de las cargas y la estabilidad general del sistema.
+Tras eliminar una amenaza, se debe decidir si continuar la intervención (ej. tronzar un árbol derribado que bloquea una vía) o si el Ayuntamiento o entidad responsable debe hacerse cargo, como en el caso de un árbol en un parque.
 
-### Cargas Comunes a Considerar
+**2. Desarrollo de la intervención**
 
-En la edificación, diversas acciones pueden generar la necesidad de un apeo. Estas cargas se clasifican, según el Código Técnico de la Edificación (CTE DB SE AE), en permanentes, variables y accidentales. Entre las **acciones permanentes** se encuentran el peso propio de los materiales y los esfuerzos debidos al pretensado o a las acciones del terreno. Por ejemplo, el peso específico aparente de materiales comunes oscila entre 13 kN/m³ para la cal y 78,5 kN/m³ para el acero. Los empujes del terreno varían con la profundidad y el tipo de suelo, registrando valores como 4,9 kN/m² para arcilla a 1 metro de profundidad o 14,7 kN/m² para arcilla a 3 metros, y 3,3 kN/m² para grava/arena a 1 metro o 10 kN/m² a 3 metros.
+La fase inicial y más crucial es la valoración de la situación para identificar el riesgo real que supone el árbol. A partir de esta valoración, se establece la estrategia a seguir. Posteriormente, se delimita un perímetro de seguridad para proteger a terceros. Una vez controlado el riesgo, se procede a su eliminación y, restablecida la normalidad, se finaliza la intervención.
 
-Las **acciones variables** incluyen la sobrecarga de uso (que puede ser uniforme o concentrada), las acciones sobre barandillas y elementos divisorios (con una resistencia máxima considerada de 0,5 kN/m ante intervención de bomberos), el viento (estimado en 0,5 kN/m² en cualquier punto de España, aunque se recomienda 1,5 kN/m² en elementos expuestos) y la nieve (1,0 kN/m² para cubiertas planas a menos de 1000m de altitud). Las **acciones accidentales** abarcan sismos, incendios e impactos, como los de vehículos, donde se consideran 50 kN paralelos a la vía y 25 kN perpendiculares para impactos de hasta 30 kN de peso total del vehículo.
+**3. Tipología de las intervenciones**
 
-## Apeos Estandarizados para Muros
+**3.1. Apeo**
+El apeo implica el derribo de un árbol, que puede estar inclinado, sobre un plano inclinado, podrido o seco, y ser de grandes dimensiones.
 
-Los apeos para muros se implementan para estabilizar elementos verticales dañados o con riesgo de colapso. Los protocolos de apeo para muros distinguen entre aquellos de altura inferior a 3 metros y los de altura inferior a 6 metros.
+**3.2. Poda**
+Consiste en el corte de una o varias ramas. La dificultad principal es el acceso a ramas altas, requiriendo el uso de escaleras, vehículos de altura o equipos de rescate en altura.
 
-Para **muros de altura inferior a 3m**, el apeo estándar implica una capacidad mecánica de 20 kN para una carga puntual horizontal a 2 metros de altura. Se deben considerar las cargas específicas del muro, como la exposición al viento (1,5 kN/m²) y el peso de posibles fachadas desplomadas, que varían según el espesor y la inclinación (ej., una fachada de 20 cm y 10º de inclinación implica 0,9 kN/m², mientras que una de 50 cm y 30º implica 7,2 kN/m²). Para contenedores de agua, los pesos varían con la profundidad: 5 kN/m² a 1m, 10 kN/m² a 2m y 15 kN/m² a 3m. El empuje de tierras también sigue esta progresión. La distancia entre los conjuntos de apeo no debe exceder los 4 metros.
+**3.3. Trabajos en incendios forestales**
+Se despejan zonas de árboles para crear cortafuegos o enclaves seguros para el trabajo, especialmente en árboles afectados por el fuego.
 
-En el caso de **muros de altura inferior a 6m**, la capacidad mecánica elemental se establece en 20 kN para una carga puntual horizontal a 2 metros de altura, sumándose 15 kN adicionales para una carga puntual horizontal a 4,5 metros de altura. Las cargas a considerar son las mismas que para los apeos de muros de menos de 3 metros, adaptando los valores según las dimensiones y condiciones del siniestro. La distancia máxima entre conjuntos de apeo se mantiene en 4 metros.
+**3.4. Árboles caídos**
+Esta intervención implica valorar las fuerzas de tracción y compresión que actúan sobre el árbol, identificar los puntos de apoyo y evaluar el riesgo que el peso del árbol puede generar sobre otros elementos inestables o peligrosos.
 
-## Apeos Estandarizados para Forjados
+**3.5. Desbroce con motosierra**
+Permite eliminar combustible en zonas específicas o limpiar vegetación. Aunque la motosierra no está diseñada para desbroce, puede ser eficaz con la técnica correcta.
 
-La estabilización de forjados, especialmente aquellos con riesgo de fallo en sus apoyos y de altura inferior a 3 metros, también cuenta con sistemas estandarizados. Un conjunto elemental de apeo para forjados posee una capacidad mecánica de 50 kN, aplicable a una carga uniformemente distribuida sobre los durmientes. La distancia entre puntales no debe exceder la distancia entre viguetas, lo que asegura una correcta transmisión de la carga.
+**4. Conocimientos teóricos básicos**
 
-Las cargas a considerar en forjados incluyen el peso propio y las sobrecargas. Para una vivienda, el peso propio es de 3 kN/m², mientras que para un garaje es de 5 kN/m². Las sobrecargas de uso en viviendas son de 3 kN/m², en cubiertas de 2 kN/m², en uso dotacional de 4 kN/m² y en garajes de 10 kN/m². El número de puntales necesarios se calcula dividiendo la superficie por la carga y la capacidad por puntal, con un mínimo de cuatro. La distancia entre puntales se determina mediante la raíz cuadrada de la superficie dividida por el número de puntales.
+**4.1. Anatomía de los árboles**
+Un árbol consta de seis elementos principales: raíz, tronco, ramas, hojas, flores y frutos. Las raíces, el tronco y las ramas son los de mayor interés para los bomberos.
+*   **Raíces:** Sujetan el árbol al suelo y absorben nutrientes.
+*   **Ramas:** Realizan la fotosíntesis.
+*   **Tronco:** Funciona como columna de soporte. Un corte transversal revela:
+    *   **Corteza:** Capa externa de células muertas, protege contra microorganismos y agentes atmosféricos.
+    *   **Cámbium:** Se divide en xilema (forma la madera) y floema (parte de la corteza).
+    *   **Albura:** Madera más reciente, de color más claro, por donde circula la savia.
+    *   **Duramen:** Madera dura, densa y oscura, formada por células fisiológicamente inactivas, suele ser la parte afectada por pudriciones.
+    *   **Médula vegetal:** Zona central de baja resistencia.
 
-## Entibaciones Estandarizadas para Zanjas
+**4.2. La estática en los árboles y las propiedades mecánicas de la madera verde**
+Un árbol se considera estáticamente seguro si existe un equilibrio entre las cargas actuantes, las propiedades de la madera (dureza y elasticidad) y la geometría de la estructura. Por ejemplo, un árbol expuesto a viento fuerte necesita una estructura y material resistentes.
 
-Las entibaciones se utilizan para estabilizar terrenos excavados, como zanjas, con alturas inferiores a 3 metros. Un conjunto elemental de entibación tiene una capacidad mecánica de 50 kN, correspondiente a una carga uniformemente repartida sobre los durmientes en contacto con el terreno. La distancia entre conjuntos de entibación no debe superar los 2 metros.
+**4.2.1. Cargas que actúan sobre los árboles**
+*   **Peso del propio árbol:** Generalmente insignificante debido a la alta resistencia a compresión de la madera (2,0 kN/cm²).
+*   **Peso de hielo o nieve:** Riesgo de fractura de ramas, ya que la madera verde tiende a agrietarse bajo carga constante.
+*   **Viento fuerte (tormentas, vendavales):** La carga más comprometedora para la estabilidad. El viento constante no es peligroso, ya que el árbol genera madera de reacción para aumentar su resistencia.
 
-Las cargas de empuje del terreno varían según la profundidad y el tipo de suelo. Por ejemplo, a 1 metro de profundidad, el empuje en arcilla es de 4,9 kN/m² y en grava/arena de 3,3 kN/m². A 3 metros, estos valores aumentan a 14,7 kN/m² para arcilla y 10 kN/m² para grava/arena. Para una profundidad de 3 metros, las distancias máximas recomendadas entre conjuntos de entibación son de 1,50 metros para arcillas y 2,00 metros para gravas, si bien la distancia máxima global sigue siendo de 2 metros.
+La fuerza del viento depende de:
+*   **Situación geográfica:** Velocidad y dirección del viento varían según la zona.
+*   **Situación topográfica:** El viento no es el mismo en una ciudad que en campo abierto.
+*   **Estación del año:** Final de verano/otoño es la época de mayores tormentas, la presencia de hojas amplifica la presión del viento.
+*   **Influencias meteorológicas:** Bajas presiones aumentan la densidad del aire y, por tanto, la presión del viento.
+*   **Altura:** Mayor altura implica mayor velocidad del viento. Árboles grandes requieren troncos más gruesos que árboles pequeños.
+*   **Resistencia:** Durante tormentas, hojas y ramas se doblan para reducir la superficie expuesta.
 
-En todas estas técnicas estandarizadas, el **mando de intervención** desempeña un papel crucial al adaptar los valores genéricos y las dimensiones a las circunstancias específicas del siniestro. La comprensión de estos parámetros y la capacidad para realizar cálculos rápidos son fundamentales para una respuesta efectiva y segura.
+**4.2.2. Propiedades de los materiales**
+
+**a) Dureza de la madera**
+Las propiedades varían entre madera verde y seca. El Catálogo de Stuttgart (Brudi, 2001) registra la dureza de las maderas de árboles vivos, incluyendo resistencias a compresión y cizallamiento. En promedio, la madera verde resiste 2,0 kN/cm² a compresión. Especies como el Castaño de Indias resisten 1,4 kN/cm², mientras que el Roble alcanza 2,8 kN/cm².
+
+**b) Elasticidad**
+El límite de elasticidad es la tensión máxima que un material soporta antes de deformarse permanentemente. En la madera, si se supera este límite, las fibras se fisuran (ruptura primaria) y con carga continua, se rompen (ruptura secundaria). El límite elástico es constante a diferentes alturas del tronco.
+
+**c) Geometría del tronco**
+La seguridad de un tronco hueco depende de la carga y el grosor de la pared residual. No todo tronco hueco es inseguro (ej. mástiles de barcos). La seguridad estructural se determina midiendo la pared residual.
+
+**4.3. Cálculo del peso de la madera**
+Es necesario calcular el peso aproximado del árbol para planificar la intervención (ej. determinar si se necesita grúa o tractel para arrastrarlo).
+Los métodos de expertos (compás finlandés, medidor angular de diámetro de Bitterlich, teodolito) son complejos y tienen un margen de error del 15% debido a la no inclusión de las ramas.
+
+Una técnica simplificada considera el árbol como un cilindro: **Peso = volumen × densidad = (π × r² × h) × densidad**. Las medidas deben estar en la misma unidad.
+
+**4.3.1. Cálculo de la altura**
+*   **Árbol caído:** Medir de punta a punta (desde el inicio del tronco hasta la copa).
+*   **Árbol en pie o apoyado:** Para seguridad, realizar un cálculo aproximado.
+
+Para una medida más exacta:
+*   Situarse a una distancia conocida "D" del árbol.
+*   Sujetar una regla o flexómetro a la altura de los ojos con el brazo extendido, siendo "d" la distancia entre la mano y el ojo.
+*   Cerrar un ojo y medir cuántos centímetros "h" de la regla corresponden a la altura del árbol.
+*   Aplicar semejanza de triángulos: H/D = h/d, donde H es la altura del árbol.
+
+Ejemplo: Si D=20m (2000 cm), d=70cm, h=50cm, entonces H = (2000 * 50) / 70 = 1428.57 cm = 14,25 m.
+
+**4.3.2. Cálculo del radio mediante el cálculo del perímetro**
+Debido a la dificultad de medir directamente el radio del tronco (cortes limpios, acceso al centro), se calcula a partir del perímetro.
+*   Medir el perímetro a media altura del tronco (si es posible), o a la altura del pecho si el árbol está en pie.
+*   Dividir el perímetro por π (3,14) para obtener el radio.
+
+Ejemplo: Perímetro de 180 cm.
+*   Radio del árbol = 180 / (2π) ≈ 28,65 cm.
+*   Diámetro del árbol = 2 × 28,65 = 57,3 cm.
+
+**4.3.3. Cálculo del volumen**
+Multiplicar π por el cuadrado del radio y por la altura.
+
+Ejemplo: Árbol con radio de 28 cm y altura de 14,25 m.
+*   Volumen = 3,14 × (28 cm)² × 1425 cm = 3.508.008 cm³ ≈ 3,5 m³.
+
+**4.3.4. Cálculo de la densidad de la madera verde y de la seca**
+La densidad de la madera varía con la especie, humedad y ubicación del árbol.
+*   **Madera seca (secada al aire, 15% humedad):** La humedad media es del 15%.
+*   **Madera verde:** Contiene agua de constitución, saturación y agua libre. Su humedad es mayor (50-60%) que la seca.
+
+Para estimar la densidad de madera verde, se suma un 40% (55% - 15% = 40%) a la densidad de la madera seca.
+La densidad aparente alta indica mayor madera maciza y menos huecos.
+
+**Tabla 3. Densidad aparente de las maderas más comunes “en seco” (humedad media = 15%)**
+
+| Especie        | Densidad (Kg/dm³) |
+| :------------- | :---------------- |
+| Abeto          | 0,32 – 0,62       |
+| Pino Común     | 0,32 – 0,76       |
+| Pinabette      | 0,37 – 0,75       |
+| Pino Negro     | 0,38 – 0,74       |
+| Alerce         | 0,44 – 0,80       |
+| Álamo          | 0,45 – 0,70       |
+| Olmo           | 0,56 – 0,82       |
+| Nogal          | 0,60 – 0,81       |
+| Haya           | 0,60 – 0,90       |
+| Roble          | 0,71 – 1,07       |
+| Pino-tea       | 0,83 – 0,85       |
+| Encina         | 0,95 – 1,20       |
+
+Estas densidades se utilizan para árboles en pie o recién caídos.
+Se ha determinado el valor de 0,6 kg/dm³ como densidad media "en seco", equivalente a 0,8 kg/dm³ "en verde", aplicable a pino, olmo y chopo. Para encina o roble, se utiliza 0,8 kg/dm³ en seco y 1 kg/dm³ en verde (las maderas pesadas, con densidades mayores a 1, se hunden en el agua).
+
+Ejemplo: Pino verde con volumen de 3,5 m³.
+*   Densidad del pino verde = 0,8 kg/dm³ = 800 kg/m³.
+*   Peso = 800 kg/m³ × 3,5 m³ = 2800 kg.
+
+**Página 363 (Columna Derecha)**
+
+**2.3. Control y mitigación del riesgo**
+
+Esta fase se enfoca en controlar y mitigar el riesgo de la emergencia. Se aplican técnicas como apeo normal, apeo a contracaída con tractel o poda con tres cortes. Es posible que se requiera reevaluar la situación, ya que los cortes pueden alterar las tensiones y la distribución del peso, especialmente si el árbol está apoyado sobre una casa.
+
+**2.4. Fin de la intervención**
+
+Una vez eliminado el riesgo y restablecida la normalidad, se retira el perímetro de seguridad. Si el árbol debe ser retirado (por ejemplo, en vía pública), puede ser necesario tronzarlo o desramarlo. Se debe informar al propietario o responsable sobre los riesgos residuales o futuros.
+
+**3. Técnicas de apeo de arbolado**
+
+Las técnicas de apeo y derribo de árboles se basan en el binomio "Corte de dirección - Corte de derribo". Se pueden introducir modificaciones para controlar la trayectoria de caída y evitar reacciones no deseadas. Es importante que el motoserrista sea diestro, aunque las posiciones deben adaptarse si es zurdo.
+
+**Página 364 (Columna Izquierda)**
+
+**3.1. Corte de dirección**
+El corte de dirección actúa como una bisagra, determinando la trayectoria de caída del árbol. Es crucial realizarlo perpendicular a la dirección deseada. Se compone de dos cortes:
+*   **Corte inferior:** Horizontal, en la base del árbol, lo más bajo posible.
+*   **Corte superior:** Oblicuo, por encima del corte inferior y coincidiendo con su parte interior. Se recomienda realizar el corte inferior primero para observar la coincidencia. El corte superior es opcional en árboles pequeños o medianos.
+El ángulo de la cuña de dirección suele ser de 45°, importante en casos especiales. Su profundidad no debe exceder un cuarto del diámetro del tronco.
+
+**Página 364 (Columna Derecha)**
+
+**3.2. Corte de derribo**
+También conocido como corte de tala, determina la velocidad de caída. Es un corte horizontal, opuesto a la cuña de dirección, ligeramente por encima del corte inferior de la cuña. Se debe dejar un "listón de quebradura" (charnela) sin cortar, con un ancho aproximado del 10% del diámetro del tronco, que complementa el efecto bisagra.
+
+Durante el corte final, se debe:
+1.  Retirar la espada de la motosierra.
+2.  Accionar el freno de cadena.
+3.  Retroceder 3-4 metros por una ruta de escape.
+4.  Esperar a que el árbol caiga y se estabilice.
+
+**Página 365 (Columna Izquierda)**
+
+**3.3. Atrapamiento del espadín**
+Ocurre por estimación incorrecta de la dirección de caída, común en árboles rectos.
+*   **Árbol pequeño o mediano:** Empujar con el cuerpo o una rama, o usar una cuña con precaución para no dañar la cadena.
+*   **Árbol grande:** Si no es suficiente, cambiar la dirección de caída con otra motosierra, realizando un nuevo corte de dirección y derribo por encima del anterior.
+
+**3.4. Técnicas de apeo en condiciones singulares**
+Circunstancias especiales pueden requerir modificaciones en las técnicas de derribo para controlar la trayectoria de caída o evitar reacciones indeseadas. Estas incluyen:
+*   Árbol con diámetro mayor que el espadín.
+*   Árbol con inclinación excesiva.
+*   Árbol en pendiente pronunciada.
+*   A contracaída con cuñas.
+*   Modificación de la caída natural con tractel.
+*   Apeo de árbol podrido o hueco.
+*   Apeo por derribo.
+
+**3.4.1. Árbol con diámetro mayor que el espadín**
+*   **Técnica del compás:** Se aplica cuando el diámetro del árbol es hasta el doble de la longitud de la espada.
+    *   **Pasos:**
+        1.  Realizar un corte de punta lateral en la cuña de dirección, paralelo a la línea de charnela, hasta el centro del tronco.
+        2.  Realizar la cuña de dirección normal.
+        3.  Ejecutar un movimiento de giro seccionando el lado contrario a la cuña de dirección hasta completar el corte de derribo, respetando la charnela o bisagra.
+
+**Página 365 (Columna Derecha)**
+
+*   **Técnica del corte de corazón o corte de mortaja:** Se aplica cuando el diámetro del árbol supera el doble de la longitud de la espada.
+    *   **Pasos:**
+        1.  Realizar la cuña de dirección con un ángulo de inclinación mayor en la cara superior.
+        2.  Mediante un corte de punta horizontal, insertar la espada hasta la mitad del diámetro del árbol en el centro de la línea de unión de las caras superior e inferior de la cuña (2-3 cm por encima).
+        3.  Realizar un movimiento de abanico con la espada en el corazón del árbol.
+        4.  Completar el corte de derribo con la técnica del compás.
+
+**3.4.6. Apeo de árbol podrido o hueco**
+No se recomienda el apeo convencional debido a la imprevisibilidad de la caída.
+*   **Técnica:** Utilizar el corte de corazón o mortaja para eliminar las fibras resistentes del núcleo central del tronco, reduciendo el riesgo de rajado.
+*   **Consideraciones:** Realizar una bisagra más gruesa y el corte de derribo ligeramente más alto que en un apeo normal.
+
+**3.4.7. Apeo por derribo**
+Se realiza cuando es necesario derribar un árbol sin cortes de motosierra, utilizando un tractel. Es adecuado para árboles con grandes grietas verticales por viento o inclinación excesiva debido a fallos radiculares.
+
+**Página 366 (Columna Izquierda)**
+
+**Pasos para el derribo con tractel:**
+1.  Anclar una eslinga en la parte baja del tronco (nunca bajo el árbol) y, si es posible, hacer una muesca para un mejor asiento.
+2.  Tirar del tronco con el tractel en la dirección de caída más probable.
+3.  Establecer un perímetro de seguridad de más del doble de la altura del árbol. Solo el motoserrista y el coordinador del tractel deben estar dentro.
+4.  Coordinar la tensión del tractel con el corte de derribo. Si el tractel tensa demasiado rápido, puede romper el tronco; si el motoserrista se adelanta, el corte puede cerrarse.
+5.  Una vez completado el corte, el operario del tractel seguirá accionándolo hasta que el árbol caiga.
+
+**4. Técnicas a aplicar sobre el árbol caído**
+
+Intervenir en un árbol caído puede deberse a causas accidentales (tormenta, tráfico) o a errores en el apeo. La actuación dependerá de la estabilidad y causa de la caída.
+
+**4.1. Apoyado sobre otro árbol**
+Si el árbol cae y se apoya en otro, se deben tomar las siguientes precauciones:
+*   Nunca derribar un segundo árbol sobre el primero.
+*   Nunca apear un árbol que ya está apoyado en otro.
+*   Nunca trabajar bajo un árbol enganchado o inestable.
+
+**4.1.1. Técnica del corte de buzón**
+*   **Prerrequisito:** Requiere una charnela o bisagra. Si no, usar tracción mecánica.
+*   **Pasos:**
+    1.  Evaluar el punto de apoyo del árbol.
+    2.  Cortar la charnela/bisagra desde el lado de apoyo del árbol con precaución, observando su comportamiento.
+    3.  Apartarse a una posición segura cuando el árbol comience a girar.
+    4.  Repetir hasta que el árbol caiga. Si no cae, usar una palanca.
+
+**Página 366 (Columna Derecha)**
+
+**4.1.2. Técnica del corte escalonado**
+Consiste en retirar el árbol con su extremo inferior clavado en el suelo, utilizando cortes que forman un escalón. Necesita una superficie de deslizamiento adecuada.
+*   **Pasos:**
+    1.  Colocar una superficie deslizante (ramas, troncos).
+    2.  Realizar un primer corte posterior (aproximadamente la mitad del diámetro del tronco).
+    3.  Igualar el corte en el lado opuesto. En diámetros grandes, usar un chaflán frontal.
+    4.  Evitar que la motosierra se atasque insertando una cuña.
+    5.  Realizar un segundo corte desde la parte frontal, paralelo y 3-5 cm por debajo del primero.
+    6.  Introducir la cuña y golpear hasta que el tronco se deslice.
+    7.  Usar una palanca para desplazar el árbol.
+    8.  Repetir si no se suelta.
+
+**4.1.3. Desenganche con tractel o cabestrante**
+Se usa cuando la técnica de corte escalonado no desengancha el árbol.
+*   **Pasos:**
+    1.  Colocar una eslinga en la parte baja del tronco (nunca bajo el árbol), haciendo una muesca para un mejor asiento.
+    2.  Tirar del tronco con el tractel en la dirección con más probabilidades de caída.
+
+**4.2. Apoyado sobre elemento inestable o peligroso**
+Esta situación puede implicar una gran variedad de casos (casas, vehículos, farolas). Se requiere una evaluación exhaustiva del riesgo y una secuencia de acciones cuidadosa.
+*   **Evaluación:** Estabilidad del conjunto, riesgo para bienes/personas, fuerzas de tensión/compresión, peso del árbol.
+*   **Acciones:** Apuntalar el árbol, fijarlo al elemento, descolgarlo.

@@ -1,45 +1,96 @@
-La estabilización de estructuras y terrenos es una tarea fundamental en el ámbito de las emergencias, que requiere un conocimiento profundo de los materiales y las técnicas disponibles. Este proceso se divide conceptualmente en entibaciones, destinadas a sistemas bajo la rasante del terreno, y apeos, aplicables a estructuras por encima de esta. Adicionalmente, cuando la estabilización es inviable, se recurre a técnicas de demolición para eliminar riesgos.
+El temario a desarrollar para las oposiciones de bomberos y emergencias, basado en el texto proporcionado, aborda los siguientes puntos:
 
-### **Elementos Auxiliares en la Estabilización: Puntales, Uniones y Apoyos**
+### 3. Derrumbe en un Edificio Antiguo. Locales Impactados. Cono de Escombros (Continuación)
 
-Para llevar a cabo estas operaciones, se dispone de una serie de elementos auxiliares, entre los que destacan los puntales telescópicos. Estos se definen como apoyos verticales provisionales de acero, regulables en altura y diseñados para detener movimientos incontrolados, transmitir cargas al suelo o a elementos estables, y prevenir colapsos en estructuras inestables. Aunque su resistencia es más limitada que la de la madera, su facilidad de ajuste y reutilización los convierte en un recurso valioso, estando certificados bajo la norma EN1065.
+**d) Tareas**
 
-Un puntal telescópico se compone de dos tubos concéntricos: uno exterior, roscado en un extremo, y uno interior, provisto de orificios. El ajuste de la longitud se realiza mediante un sistema de prisionero (pasador o espiga) y una tuerca de ajuste, complementado con una empuñadura para manipulaciones precisas. La capacidad de carga nominal (Ryk) de estos puntales varía significativamente según su clase (A, B, C, D, E) y su máxima longitud extendida (Lmax). Por ejemplo, un puntal Clase A30, con una Lmax de 3.0 metros, ofrece una resistencia nominal de 17.0 kN. Es importante destacar que, en condiciones reales y ante la inestabilidad de las estructuras dañadas, el espaciado teórico de los puntales debe reducirse para garantizar la seguridad.
+**I. Bomberos**
 
-Para asegurar la efectividad de los puntales, es crucial su correcta instalación. Las precauciones incluyen evitar el desplome por cargas excesivas, puntales deteriorados o mal instalados, y el desplazamiento horizontal causado por un arriostramiento deficiente o fuerzas laterales externas. Para mitigar estos riesgos, se emplean sistemas de arriostramiento que pueden incluir guías horizontales de encofrado (perfiles metálicos), bridas metálicas o soluciones de fortuna como cables y cuerdas.
+*   **Establecimiento de los equipos de Intervención y Rescate:**
+    *   **Organización de medios propios de bomberos:**
+        *   La formación inicial de los equipos de intervención (EI) y seguridad (ES) es fundamental para el análisis inicial, la búsqueda superficial de víctimas, los rescates rápidos y la toma de decisiones operativas. Los EI comprenden un Cabo Jefe de Dotación (CJD) y un Bombero 1 (BB1), mientras que los ES incluyen un Bombero Conductor (BC) y un Bombero 2 (BB2), todos equipados con su Equipo de Respiración Autónoma (ERA) correspondiente. Estos equipos pueden reconfigurarse si se incorporan nuevos efectivos.
+        *   Es necesario verificar la estabilidad teórica de la estructura parcialmente colapsada, trabajando por debajo de los niveles de seguridad isostáticos.
+        *   Un cálculo rápido determina que el conjunto se encuentra en un estado hipostático, es decir, un mecanismo. El edificio con personas atrapadas es completamente inseguro para trabajar.
+        *   Con la llegada de refuerzos y medios adicionales de estabilización (vehículos y apeos), los equipos iniciales se reconfiguran para una distribución mínima de efectivos:
+            *   Equipo de intervención: Primera dotación completa en el lugar (CJD1 + BC1 + BB1.1 + BB1.2).
+            *   Equipo de rescate: Dos miembros adicionales de la dotación de refuerzo (CJD2 + BB2.1).
+            *   Equipo de apoyo: BC2 + BB2.2.
+        *   Los marcos de entibación (cabeceros y largueros) necesarios se prefabricarán en una zona segura por el equipo de apoyo y el equipo de rescate, una vez que el equipo de intervención haya abandonado el área afectada.
+        *   El desplazamiento hasta el punto de colocación se realizará utilizando una autoescala en modo grúa.
+    *   **Otros:**
+        *   Se debe confirmar la estabilidad general de la estructura y demoler los elementos que sean necesarios.
+        *   Una vez rescatadas las víctimas y eliminados los riesgos potenciales, la responsabilidad se transfiere a los técnicos municipales.
 
-Además de los puntales, los elementos de unión, templado y apoyo son esenciales. Las **cuñas**, piezas triangulares de madera o material sintético, son fundamentales para ajustar los elementos del apeo, facilitando una entrada gradual y controlada en carga. Se colocan opuestas y se golpean suavemente hasta lograr la firmeza deseada, inmovilizándolas con un clavo. Es vital que las cuñas posean la misma calidad que los tablones principales para evitar deformaciones.
+**II. PMA (Puesto de Mando Avanzado)**
 
-Los **elementos de unión** son cruciales para ensamblar las diferentes piezas. Los **clavos**, piezas metálicas delgadas con cabeza y punta, permiten uniones rápidas y aceptables en madera. Sin embargo, su inserción puede generar fisuras, reduciendo la resistencia, por lo que se recomienda el pretaladrado. La resistencia de un clavo de 6 mm de diámetro no pretaladrado es de 1.0 kN, aumentando a 1.5 kN si se pretaladra. Las **bridas**, compuestas por dos pletinas de acero unidas por tornillos, son un sistema robusto para ensamblar tablones, aumentando la resistencia a compresión y previniendo el pandeo, especialmente si se colocan contrapeadas y se revisa su apriete periódicamente. Los **pernos**, aunque menos comunes en intervenciones rápidas por su mayor tiempo de montaje, se utilizan en pares para unir tablones, aportando una resistencia nominal equivalente a la mitad de la resistencia de un tablón embridado.
+*   Desde el PMA, se solicitan las siguientes tareas a los demás grupos:
+    *   **Grupo de orden:**
+        *   **Ampliación de datos:** Recopilar información adicional sobre posibles víctimas a través de la empresa de construcción, familiares, vecinos, etc.
+        *   **Balizamiento y control de seguridad:** Establecer perímetros para la maquinaria y vehículos en el área definida por el mando de la intervención.
+    *   **Grupo sanitario:**
+        *   **Atención a víctimas:** Indicar las prescripciones para asistir adecuadamente a las víctimas.
+        *   **Primeros auxilios:** Proporcionar los primeros auxilios a las víctimas y a los rescatadores heridos.
+        *   **Unidad sanitaria:** Instalar una unidad sanitaria en un espacio seguro para atender a las víctimas una vez rescatadas por el grupo de intervención.
+    *   **Grupo logístico:**
+        *   **Delimitación de zona:** Delimitar, junto al grupo de orden, la zona de apoyo.
+        *   **Suministro:** Proporcionar agua y bebidas a todo el personal interviniente.
+    *   **Grupo apoyo técnico:**
+        *   **Participación:** Se requiere la participación de técnicos de la compañía que está ejecutando los trabajos.
 
-Los **ejiones**, piezas de madera fijadas a un elemento principal, actúan como tope, soporte o contención para otros elementos. Generalmente son de alta capacidad de carga a compresión axial y su resistencia está limitada por las fijaciones metálicas utilizadas. Por último, las **riostras** son elementos de arriostramiento, generalmente tablones de menor sección, que se disponen formando triangulaciones para evitar desplazamientos perpendiculares a los ejes de los elementos principales del apeo, trabajando principalmente a tracción.
+### Tareas a Realizar por el Equipo de Intervención (EI):
 
-Los **cables de acero** constituyen otro elemento de arriostramiento fundamental, especialmente en estructuras complejas o en cubiertas y arcos. Su alta resistencia a tracción y su reducido diámetro los hacen idóneos. En el Consorcio Provincial de Bomberos de Guadalajara (CEIS Guadalajara), se utilizan cables de Φ10mm con configuración 6x19+1 (alma textil), ofreciendo una resistencia de 40.0 kN para cargas estáticas y 20.0 kN para cargas dinámicas. El correcto anclaje mediante ojales y guardacabos metálicos es esencial, así como el uso de un mínimo de cuatro abrazaderas para garantizar la unión y una separación de 6-8 veces el diámetro del cable. El apriete debe ser gradual y verificado tras una primera carga para asegurar la estabilidad.
+*   **Acceso a víctimas:** Utilizar métodos conocidos para acceder a las víctimas.
+    *   **Acceso a través de muros:** Dada la inestabilidad evidente, los muros deben ser reforzados mediante apeos antes de perforarlos.
+    *   **Acceso a través de forjados:** Se accederá desde los niveles superiores perforando los forjados y, si es necesario, abriendo galerías.
+    *   **Protocolo de seguridad:** Al atravesar un elemento constructivo (muro o forjado) y asegurar su estabilidad, solo dos bomberos entrarán, mientras dos más permanecerán fuera para un rescate de emergencia.
+    *   **Atención a riesgos:** Se debe prestar especial atención a todos los riesgos asociados a la intervención, incluyendo derrumbes secundarios e instalaciones existentes.
+*   **Rescate de las víctimas:**
+    *   **Búsqueda:** Se emplean las técnicas de búsqueda conocidas.
+    *   **Atención:** Se brinda apoyo psicológico y primeros auxilios a las víctimas, seguido de su rescate.
+    *   **Transferencia:** Una vez fuera de la estructura, las víctimas se transfieren a los equipos sanitarios.
+*   **Tareas del Equipo de Seguridad (ES):**
+    *   **Preparación:** Preparar el equipamiento completo ante la posibilidad de tener que rescatar a los compañeros.
+    *   **Control:** Controlar los tiempos y el consumo de aire, si se utiliza ERA.
+    *   **Seguimiento:** Realizar el seguimiento de las mediciones tomadas por el grupo de intervención.
+    *   **Logística:** Recopilar los materiales requeridos por el equipo de intervención.
+    *   **Relevo:** Realizar el relevo y asegurar la continuidad de las tareas iniciadas por el primer equipo.
+*   **Otros:**
+    *   **Confirmación de estabilidad:** Confirmar la estabilidad general del conjunto y demoler los elementos que sean necesarios.
+    *   **Transferencia de responsabilidad:** Una vez rescatadas las víctimas y eliminados los riesgos potenciales, la responsabilidad se transfiere a los técnicos municipales.
 
-### **Herramientas para la Estabilización**
+### CONVIENE RECORDAR
 
-Para ejecutar las técnicas de estabilización, los bomberos requieren herramientas específicas:
+*   **Intervenciones de Aperturas Forzadas:** Los Cuerpos de Bomberos pueden realizar entradas forzadas en edificios y viviendas ante emergencias como incendios, vidas en peligro, escapes de gas, inundaciones o cierres inesperados.
+*   **Marco Legal:** Toda entrada forzada debe respetar la legislación vigente, que prohíbe el acceso no solicitado, excepto en situaciones de emergencia. La presencia de Fuerzas y Cuerpos de Seguridad es obligatoria.
+*   **Selección de Acceso:** Es fundamental evaluar las distintas vías de acceso (puertas, cerraduras, ventanas, vidrios, rejas, cierres metálicos) para determinar la opción más rápida, segura, eficaz y con menor daño posible. La "fase de vuelta a la normalidad" post-intervención debe considerarse cuidadosamente.
+*   **Equipo de Protección Individual (EPI):** Para aperturas forzadas, se requiere EPI específico: guantes protectores, ropa de manga larga anticorte, casco, calzado reforzado con punta de acero, gafas o pantalla de protección ocular con mascarilla buco-nasal para partículas.
+*   **Protección Suplementaria:** En casos de riesgo adicional (trabajo en altura o incendio interior), se debe usar protección suplementaria (material de rescate en altura, protección contra fuego y equipos de respiración autónoma (ERA)).
+*   **Prioridad de Acceso:** La puerta suele ser la vía principal, pero siempre se deben inspeccionar alternativas.
+*   **Herramientas:** La elección de herramientas varía según el método: radiografías o plásticos para la técnica del resbalón; auto-brazos para alturas elevadas. Herramientas comunes incluyen mazas, palancas, destornilladores, taladros, sierras, mordazas y extractores.
+*   **Principios de Intervención:** El acceso debe ser rápido, seguro y proporcionado, sin poner en riesgo a los compañeros y minimizando los daños.
 
-*   **Equipos de medición:** Incluyen cintas métricas (plásticas y metálicas), flexómetros, medidores láser para distancias, superficies y volúmenes, plomadas para verificar la verticalidad, niveles de burbujas, escuadras para ángulos rectos y falsas escuadras para ángulos ajustables, y escantillones para calcular ángulos y longitudes.
-*   **Equipos de corte:** Comprenden motosierras (de explosión o eléctricas) para cortes no precisos en tablones, sierras ordinarias o serruchos para madera, sierras de costilla con refuerzo metálico para mayor precisión pero menor profundidad, y formones para tallado de madera.
-*   **Equipos de unión y separación:** Destacan martillos (de orejas o de bola) para clavar y extraer, mazas con mocheta de nailon para golpes de percusión, patas de cabra o barras de uñas para hacer palanca y extraer clavos, y martillos percutores eléctricos para demolición y perforación en estructuras.
+### CONVIENE RECORDAR (Continuación)
 
-### **Técnicas de Estabilización Específicas**
-
-Las técnicas de estabilización se clasifican en función del área de aplicación:
-
-1.  **Entibaciones:** Se aplican bajo la rasante del terreno, principalmente en zanjas y pozos, cuando el terreno es inestable debido a excavaciones o movimientos de tierras. El objetivo es prevenir el colapso y asegurar la seguridad del personal.
-    *   **Componentes principales:** Travesaños (verticales), tablas o cabeceros (horizontales que distribuyen cargas) y codales (horizontales a compresión).
-    *   **Tipologías:** Entibación cuajada (100% de superficie cubierta, para terrenos de baja cohesión con agua), semicuajada (50% de superficie, para terrenos de mayor cohesión) y ligera (sin cabeceros, para terrenos de alta cohesión).
-    *   **Métodos de ejecución:** El "método Pronto" implica el montaje de marcos en superficie para luego introducirlos en la zanja y acodalarlos, mientras que el "método Quillery" consiste en introducir las piezas una a una en la zanja, adecuado para profundidades máximas de 3.5 metros en terrenos cohesivos.
-    *   **Profundidad de entibado:** Según la normativa NTP 278 INSH/NTE-ADZ, se considera peligrosa toda excavación que exceda los 0.80 metros en terrenos corrientes o 1.30 metros en terrenos consistentes. En situaciones de emergencia, se debe entibar a partir de 1.50 metros de profundidad.
-    *   **Precauciones:** Identificar las características del terreno, verificar instalaciones subterráneas (agua, gas, electricidad), evitar el uso de motores de explosión en espacios confinados, no almacenar materiales cerca del borde de la excavación y asegurar una ruta de escape (escalera).
-2.  **Apeos:** Se emplean sobre la rasante del terreno para estabilizar elementos aéreos. El diseño de un apeo busca complementar la estructura dañada, dotándola de la estabilidad necesaria.
-    *   **Elementos simples:** Piezas individuales de madera estandarizada, arriostradas mediante triangulaciones, que trabajan a compresión con nudos articulados. Excepcionalmente, se utiliza la aguja.
-    *   **Elementos compuestos:** Estructuras auto-resistentes, más complejas, diseñadas para situaciones que requieren mayor capacidad.
-    *   **Elementos verticales (postes, rollizos, pie derecho, puntales, virotillos, velas):** Diseñados para trabajar a compresión axial, su longitud máxima está limitada por su esbeltez.
-    *   **Elementos horizontales (sopanda, durmiente, codal, puente, agujas):** Recogen y transmiten cargas. La sopanda recoge cargas de elementos horizontales dañados, el durmiente las transmite al terreno, y el codal mantiene la separación entre apoyos.
-    *   **Elementos inclinados (tornapuntas, jabalcones, riostras):** Transmiten esfuerzos verticales a horizontales o viceversa, trabajando a compresión o tracción y contribuyendo al arriostramiento.
-    *   **Elementos complementarios (manguetas, muletillas, orejas):** Se usan para unir, arriostrar o coartar movimientos laterales.
-
-La correcta planificación, el uso de materiales adecuados y la aplicación de técnicas estandarizadas son esenciales para la seguridad y la eficacia en cualquier intervención de estabilización o demolición.
+*   **Fases de Intervención:** El desarrollo de las intervenciones se divide en etapas clave:
+    *   Asegurar el escenario para evitar que las condiciones empeoren.
+    *   Realizar una evaluación inicial para establecer el plan de acción.
+    *   Distribuir las áreas de trabajo para facilitar las tareas.
+    *   Asignar funciones a los grupos; todos los intervinientes deben conocer su rol.
+    *   Realizar el reconocimiento *in situ* y evaluaciones continuas.
+    *   Buscar víctimas, acceder y rescatar a los heridos.
+    *   Retirar los escombros (selectiva o total).
+*   **Sistemas de Localización y Búsqueda de Víctimas:** El rescate de víctimas es primordial. Existen varios sistemas de localización y búsqueda:
+    *   Basados en las probabilidades de supervivencia.
+    *   Según la sectorización y el tipo de derrumbe.
+    *   Búsquedas físicas, probabilísticas, sistemáticas, táctiles, técnicas, caninas o con retirada de escombros (selectiva o total).
+*   **Equipamiento Técnico para Localización de Víctimas:** El equipo técnico puede incluir (según el cuerpo de bomberos y su especialización):
+    *   Geófonos.
+    *   Sensores electromagnéticos, de reluctancia o capacitivos.
+    *   Cámaras térmicas y de vídeo.
+    *   Micro-cámaras de visión nocturna.
+    *   Fonendoscopios.
+    *   Medios de fortuna.
+*   **Técnicas de Rescate:** Para acceder a personas atrapadas se pueden emplear perforaciones, apertura de galerías, contención de deslizamientos de tierra, control de escombros y movilización de cargas (con palancas, poleas, tractel, cojines neumáticos). Siempre se deben aplicar medidas de seguridad y reforzar las estructuras.
+*   **Normas de Intervención:** Las intervenciones deben seguir normas como la evaluación continua de víctimas y del entorno, y el establecimiento de un Puesto de Mando Avanzado (PMA) conforme al plan de actuación e intervención.
+*   **Tácticas de Intervención:** Las tácticas pueden ser defensivas (por defecto) u ofensivas, y siempre se deben evaluar los riesgos y los resultados.
+*   **Objetivo Primordial:** El rescate de personas es el objetivo principal, pero siempre deben tomarse las medidas de seguridad adecuadas, evitando el exceso de celo.

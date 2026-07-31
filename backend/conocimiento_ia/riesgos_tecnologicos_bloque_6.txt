@@ -1,106 +1,190 @@
-## Hormigón y Fábrica: Materiales Fundamentales en Edificación para Opositores a Bombero
+El siguiente temario técnico aborda la caracterización de edificaciones, centrándose en los materiales de construcción y las patologías que pueden afectar su estabilidad.
 
-La comprensión de los materiales de construcción es esencial para los profesionales de emergencias, especialmente para los bomberos, cuyas intervenciones a menudo implican estructuras dañadas. Este manual profundiza en las propiedades y clasificaciones del hormigón y la fábrica, dos de los materiales más utilizados en la edificación.
+**PARTE 1: EDIFICACIONES**
 
-### 1. El Hormigón
+**CAPÍTULO 1: CARACTERIZACIÓN**
 
-El **hormigón** se define como un material de construcción compuesto por la mezcla de un conglomerante (habitualmente cemento), agua, árido grueso y, en ocasiones, aditivos, el cual se vierte en estado plástico en encofrados para su fraguado y endurecimiento.
+**1. INTRODUCCIÓN**
 
-Este material ha sido ampliamente adoptado en la construcción desde el siglo XX debido a la gran disponibilidad de sus materias primas, su bajo costo y la facilidad en sus procesos de fabricación y ejecución. No obstante, posee una aceptable resistencia a la compresión, pero una resistencia despreciable a la tracción y baja al cortante. Por esta razón, con frecuencia, se complementa con **armaduras de acero** en su interior, dando lugar al **hormigón armado**, el cual es capaz de resistir tanto esfuerzos de tracción (gracias al acero) como de compresión (hormigón y acero). Es importante señalar que la armadura de acero no comienza a trabajar hasta que el elemento de hormigón está desencofrado y en carga.
+La arquitectura se define como el arte y la técnica de diseñar y proyectar edificios, estructuras y espacios, empleando el término griego *arch* (jefe, mando) y *tekton* (constructor, carpintero). La construcción, por su parte, se refiere a los procedimientos técnicos para erigir elementos constructivos que conforman una edificación, derivado del latín *construere* (amontonar). La Real Academia Española (RAE) define edificación como una "construcción fija, hecha con materiales resistentes, para habitación humana o para otros usos".
 
-#### 1.1. Tipologías de Hormigón
+Dado que las edificaciones son un área primordial de actuación para los cuerpos de bomberos, es fundamental un conocimiento básico de sus características de diseño (normativa) y ejecución (sistemas constructivos, materiales), ya que estas configuran los escenarios de las intervenciones.
 
-Existen varias tipologías de hormigón, clasificadas según la presencia y el momento de aplicación de las armaduras:
+**2. CONCEPTOS DE FÍSICA APLICADOS A LA EDIFICACIÓN**
 
-*   **Hormigón en masa:** Es una masa pétrea artificial que carece de armado o complemento estructural en su interior. Su función principal es soportar compresiones, empleándose comúnmente en hormigones de limpieza o en cimentaciones rígidas.
-*   **Hormigón armado (HA):** Como se mencionó, incorpora armaduras de acero calculadas y posicionadas para resistir tracciones y compresiones.
-*   **Hormigones pretensados (HP):** Estos hormigones incluyen una estructura de acero en su interior (denominados tendones) que entra en carga, es decir, se tensa, *antes* del desapeo de la pieza. Su finalidad es reducir las tracciones generadas por la flexión del elemento. Dentro de esta categoría, se distinguen dos métodos:
-    *   **Armadura pretesa:** El tensado de la armadura se realiza en fábrica, antes de verter el hormigón. Los cables se tensan entre dos topes, se vierte y cura el hormigón, y luego se cortan los cables, transfiriendo las tensiones al hormigón por adherencia.
-    *   **Armadura postesa:** El tensado de la armadura se efectúa en obra, después de que el hormigón haya fraguado y alcanzado una resistencia suficiente.
+**2.1. Fuerza**
 
-El **proceso de pretensado** generalmente sigue estas fases: inicialmente, se colocan los tendones sin tensar, envueltos en vainas o fundas. A continuación, se hormigona la pieza y se espera a que el hormigón endurezca. Una vez fraguado, los tendones se anclan por un extremo y se tensan con un gato por el otro, apoyándose en el hormigón. Finalmente, se anclan ambos extremos y se retira el gato, rellenando las vainas con pasta o lecha a presión si la armadura es adherente, o dejándolas sin rellenar si es no adherente.
+Una fuerza es una magnitud vectorial que en física esquematiza las interacciones entre cuerpos, es decir, la acción o efecto que un cuerpo puede ejercer o sufrir. Se calcula como el producto de la masa por la aceleración (F = m · a). Las fuerzas en edificación se caracterizan por sus atributos: módulo o magnitud, dirección, sentido y punto de aplicación. La unidad de medida en el Sistema Internacional (SI) es el Newton (N), equivalente a Kg m/s².
 
-Las **ventajas de los hormigones pretensados y postesados** frente al hormigón armado convencional son significativas: ofrecen estructuras permanentemente comprimidas que no fisuran, resultando más rígidas, durables y estancas. Presentan una deformabilidad inicial muy reducida, pudiendo incluso generar contraflechas. Además, exhiben un mejor comportamiento frente al fuego que los forjados reticulares y las alveoplacas. Gracias al tesado completo de una planta, la estructura es autorresistente al tercer día del hormigón, permitiendo descimbrar totalmente y retirar los puntales. Todo esto posibilita la reducción de cantos, espesores y cantidad de armaduras pasivas, disminuyendo el peso propio y aumentando las luces a cubrir, lo que a su vez reduce los plazos de ejecución.
+Las fuerzas y la mecánica se rigen por las tres leyes de Newton:
+*   **Primera Ley (Principio de Inercia):** Un cuerpo mantiene su estado de reposo o movimiento rectilíneo uniforme a menos que una fuerza externa actúe sobre él.
+*   **Segunda Ley:** La suma de las fuerzas que actúan sobre un cuerpo es igual al producto de su masa por la aceleración resultante, la cual se produce en la dirección de la resultante de las fuerzas.
+*   **Tercera Ley (Principio de Acción y Reacción):** Dos cuerpos que interactúan entre sí ejercen fuerzas de igual intensidad y dirección opuesta, pero en sentidos contrarios.
 
-#### 1.2. Nomenclatura y Clasificación
+De acuerdo con la tercera ley, toda fuerza aplicada (acción) debe ser contrarrestada por otra fuerza igual y de sentido contrario (reacción) para mantener el equilibrio. Las fuerzas, como magnitudes vectoriales, pueden combinarse (sumarse, restarse, multiplicarse) para generar nuevas fuerzas.
 
-La **nomenclatura del hormigón**, según la EHE-08 "Instrucción de Hormigón Estructural", sigue el patrón T – R / C / TM / A, donde:
+Un "par de fuerzas" se define como un sistema de dos fuerzas paralelas, de la misma magnitud pero sentidos opuestos (ejemplo: una fuerza y su reacción). Este par se caracteriza por su momento, que es una magnitud vectorial igual al producto de la magnitud de una de las fuerzas por la distancia perpendicular entre ellas (brazo del par). El momento de un par de fuerzas respecto a un punto indica la capacidad del sistema para inducir una rotación en el cuerpo alrededor de un eje. Para prevenir esta rotación, se debe generar un "momento resistente" o "momento de empotramiento" de magnitud idéntica y sentido contrario.
 
-*   **T (Tipología):** Indica si es Hormigón en Masa (HM), Hormigón Armado (HA) o Hormigón Pretensado (HP).
-*   **R (Resistencia):** Se refiere a la resistencia característica a compresión del hormigón a los 28 días, medida en N/mm². Las resistencias normalizadas más comunes son 20, 25, 30 N/mm² para HM; 25, 30, 35, 40, 45, 50 N/mm² para HA; y ≥ 35 N/mm² (aunque ≥ 25 N/mm² es posible) para HP.
-*   **C (Consistencia):** Clasifica la trabajabilidad del hormigón fresco: Seca (S), Plástica (P), Blanda (B), Fluida (F) y Líquida (L).
-*   **TM (Tamaño máximo del árido):** Expresado en milímetros, es crucial para la penetración del hormigón entre las armaduras.
-*   **A (Ambiente de exposición):** Describe el ambiente al que estará expuesto el hormigón, considerando factores como humedad, corrosión, ataque químico, heladas o abrasión. Se divide en clases generales (I, IIa, IIb, IIIa, IIIb, IIIc y IV para corrosión por cloruros) y clases específicas (Qa, Qb, Qc para exposición química; H para hielo; F para fundentes; E para abrasión).
+Los momentos se cuantifican en Newtons por metro (N·m), equivalentes a Kg m²/s². Pueden ser positivos (giro horario) o negativos (giro antihorario) según el sentido de giro que produzcan respecto a un punto.
 
-La **consistencia de los hormigones frescos** se mide mediante el cono de Abrams, con valores de asiento que van de 0-2 cm (Seca), 3-5 cm (Plástica), 6-9 cm (Blanda), 10-15 cm (Fluida) y 16-20 cm (Líquida), asociando cada tipo a un método de compactación (vibrado o picado con barra).
+El resultado o reacción de una fuerza depende en gran medida de su punto de aplicación, que puede generar "momentos". Una misma fuerza o par de fuerzas generará momentos distintos según el punto de aplicación, siendo mayor el momento cuanto mayor sea el brazo del par (distancia perpendicular entre fuerzas).
 
-La **ejecución o puesta en obra** del hormigón implica varios periodos:
-*   **Encofrado:** Conformación de un molde estanco, resistente y no adherente donde se vierte la masa plástica.
-*   **Vibrado:** Proceso mecánico para asegurar la mezcla adecuada de productos, la penetración entre armados y la expulsión de burbujas de aire.
-*   **Curado/Endurecimiento:** El proceso de hidratación que transforma el hormigón de consistencia plástica a sólido (fraguado, en 2-8 horas), y el endurecimiento que permite alcanzar el 100% de su resistencia característica (en 28 días). Durante este proceso, la resistencia alcanza el 50% entre 24-48 horas y 3/4 de la resistencia máxima en 1 semana. El tiempo mínimo de puesta en carga es de 2 semanas (14-15 días).
+*Ejemplo práctico:* Al sostener una bolsa de compra con el brazo extendido horizontalmente, se genera un momento entre el peso de la bolsa y la reacción del hombro. Este momento debe ser contrarrestado por un esfuerzo adicional (momento de empotramiento) para evitar que la bolsa descienda. Si se lleva la bolsa en la vertical del hombro, el brazo de palanca es nulo y no hay momento que estabilizar. Si el hombro se deja libre (momento cero), el brazo girará hasta que la bolsa se detenga en la vertical, eliminando el brazo de palanca.
 
-Los **aditivos** son sustancias que se añaden al hormigón para modificar sus características físicas o químicas, sin exceder el 5% del peso del cemento. Pueden ser reductores de agua o plastificantes, superplastificantes, modificadores de fraguado (aceleradores o retardantes), inclusores de aire o multifuncionales.
+El "equilibrio del par" implica que un par de fuerzas sin reacción tiende a equilibrarse reduciendo su brazo de palanca, alineando ambas fuerzas hasta que el brazo y, por ende, el momento, sean nulos.
 
-Finalmente, al **comparar la resistencia** de los conglomerados con base de cemento, se observa que el cemento (32.5-52.5 N/mm²) pierde al menos un 50% de su resistencia al convertirse en mortero (1.0-25.0 N/mm²) debido al aumento de volumen y menor compactación al añadir árido fino. Sin embargo, al incorporar árido grueso para formar hormigón (20.0-50.0 N/mm², hasta 100.0 N/mm² en alta resistencia), la resistencia aumenta nuevamente a niveles similares o superiores al cemento puro, gracias a una estructura granular heterogénea con menores o inexistentes oquedades, lo que incrementa la compacidad del material.
+El principio de la palanca se basa en una barra rígida que gira alrededor de un punto fijo (fulcro), donde una fuerza (potencia P) vence una resistencia R. En equilibrio, P · brazo de potencia (dp) = R · brazo de resistencia (dr). Para mover una resistencia R sin aumentar P, se debe aumentar dp o reducir dr.
 
-#### 1.3. Elementos Auxiliares del Hormigón
+**2.3. Equilibrio**
 
-Durante la construcción o reparación de elementos de hormigón, se emplean diversos elementos auxiliares:
-*   **Separadores:** Pequeñas piezas que elevan la armadura sobre el encofrado horizontal para asegurar su correcta posición. Pueden ser de plástico o de hormigón y quedan embebidos en el elemento constructivo.
-*   **Distanciadores:** Separadores que garantizan el recubrimiento total de las armaduras respecto a los encofrados, tanto horizontales como verticales. Fabricados en plástico.
-*   **Pasamuros:** Elementos que evitan la adhesión del espadín del encofrado al hormigón.
-*   **Conectores:** Utilizados para la conexión entre elementos resistentes en forjados mixtos (acero-HA).
-*   **Berenjenos:** Piezas de sección triangular empleadas para "matar los vivos de esquinas" en el encofrado.
-*   **Setas:** Tapones protectores colocados en los extremos de las armaduras para prevenir accidentes.
-*   **Pasatubos:** Elementos que se disponen durante el encofrado para facilitar el paso de futuras instalaciones.
-*   **Cartuchos de fijación de balaustradas:** Usados para la fijación de barandillas auxiliares.
+La estática es la rama de la mecánica clásica que estudia las cargas (fuerza, par/momento) y el equilibrio de fuerzas en sistemas físicos en "equilibrio estático". Este último se define como el estado de fuerzas donde no hay movimientos relativos en el tiempo entre los elementos del sistema.
 
-### 2. La Fábrica
+Las cargas sobre una estructura generan "empujes" (fuerzas) y "giros" (momentos), que deben ser contrarrestados por reacciones iguales y opuestas en los elementos estructurales. Según la primera ley de Newton, toda situación de equilibrio implica que los sumatorios de fuerzas (ΣF) y momentos (ΣM) de cada cuerpo son iguales a cero.
 
-La **fábrica** se define como un conjunto de piezas prefabricadas, como piedras o ladrillos, que se unen con mortero, "a hueso" (sin mortero) o mediante llaves. Estas piezas se disponen en un aparejo que asegura que su plano de apoyo sea perpendicular al esfuerzo, y se traban entre sí mediante el desplazamiento de las juntas verticales, garantizando la estabilidad y resistencia del conjunto.
+La "condición límite de equilibrio" se expresa como:
+R = F1 + F2
+M1 = F1 · d1 = F2 · d2 = M2
 
-Históricamente, la fábrica fue un material estructural fundamental entre los siglos V y XIX. Sin embargo, en la actualidad, su uso como elemento estructural primario es limitado debido a las mejores prestaciones del hormigón armado y la prevalencia de sistemas estructurales entramados.
+Para entender el equilibrio, es esencial el concepto de "centro de gravedad", definido como el punto de un cuerpo donde se puede considerar concentrado su peso, de modo que si se apoya en él, el cuerpo permanece en equilibrio en cualquier posición.
 
-#### 2.1. Fábrica de Piedra
+**Propiedades del centro de gravedad:**
+*   Es el punto de aplicación de una fuerza única (equivalente a la resultante de cargas) para lograr el equilibrio del cuerpo.
+*   No necesariamente coincide con un punto material del cuerpo (ejemplo: centro de gravedad de una esfera hueca).
+*   Un objeto apoyado en una base plana está en equilibrio estable si la vertical que pasa por su centro de gravedad intersecta la base de apoyo.
+*   Si el cuerpo se desvía ligeramente del equilibrio, un momento restaurador lo devuelve a la posición inicial. Si la desviación es mayor y el centro de gravedad cae fuera de la base de apoyo, no habrá momento restaurador y el cuerpo rotará a una nueva posición de equilibrio.
 
-La **fábrica de piedra** es un elemento constructivo, generalmente estructural, elaborado a partir de piezas de piedra natural esculpidas en mayor o menor medida y trabadas mediante aparejos sencillos.
+**2.4. Elasticidad**
 
-Sus **características** incluyen:
-*   **Ligazón:** Las piezas se unen mediante mortero, a hueso, o con llaves (grapas o armaduras de conexión), dependiendo del nivel de labra.
-*   **Tipologías estructurales:** Genera sistemas estructurales masivos, como muros, pilastras y arcos, que trabajan principalmente a compresión.
-*   **Capacidad mecánica:** La piedra natural posee una muy alta resistencia a compresión. Sin embargo, ante la aparición de esfuerzos distintos a la compresión, los elementos constructivos requieren refuerzos, como contrafuertes en muros verticales, para absorber esfuerzos horizontales.
+La teoría de la elasticidad es la base del estudio de la mecánica de sólidos. Define la capacidad de un material para sufrir deformaciones reversibles bajo fuerzas externas y recuperar su forma original al cesar estas fuerzas.
 
-Se distinguen varias **tipologías de fábrica de piedra** en función del tamaño y labra de las piezas:
-*   **Sillar:** Piedra labrada en varias de sus caras, generalmente en forma de paralelepípedo, cuyo gran peso y tamaño requieren manipulación con máquinas.
-*   **Sillarejo:** Muro de fábrica construido con piedras labradas o desbastadas, de forma paralelepípeda rectangular y pequeñas dimensiones. Se aplica especialmente cuando la pieza no atraviesa todo el grueso del muro. Existen dos modalidades:
-    *   **Sillarejo irregular:** Las juntas horizontales y verticales se trabajan hasta 15 cm de profundidad.
-    *   **Sillarejo regular:** Las juntas verticales se trabajan hasta 15 cm de profundidad, pero las horizontales abarcan toda la piedra.
-*   **Mampuesto:** Obra ejecutada con piedras sin labrar, de forma irregular, rejuntadas "a hueso" o ligadas con mortero. Pueden ser manejadas por una sola persona sin medios mecánicos. Dependiendo de la regularidad de las piezas, se requerirá mayor o menor cantidad de ripios (pequeñas piedras para calzar) y mortero.
+Todos los materiales presentan un comportamiento elástico inicial hasta el "límite de elasticidad", punto a partir del cual el comportamiento se vuelve plástico. La diferencia entre ambos estados es:
+*   **Elasticidad:** Las variaciones dimensionales y de forma son temporales y recuperables.
+*   **Plasticidad:** Las deformaciones son permanentes e irrecuperables debido a la alteración de los enlaces moleculares por esfuerzos que superan el límite elástico, lo que suele acompañarse de una pérdida de sección y resistencia.
 
-La **capacidad resistente** de la fábrica de piedra varía según la tipología:
-*   Sillería de granito: 40 a 50 kN/mm².
-*   Sillería de arenisca: 20 a 25 kN/mm².
-*   Sillería de caliza: 5 a 15 kN/mm².
-*   Mampostería de granito: 10 a 15 kN/mm².
-*   Mampostería de caliza: 6 a 10 kN/mm².
+La "ley de Hooke" describe el comportamiento resistente de un material:
+σ = E ε
+Donde:
+*   σ (sigma) es la tensión sufrida por un cuerpo sólido.
+*   E es el módulo de elasticidad (o módulo de Young).
+*   ε (epsilon) es la deformación efectiva.
 
-#### 2.2. Fábrica a base de Arcilla
+Según esta ley, la tensión es directamente proporcional al módulo de elasticidad y a la deformación.
 
-Esta categoría incluye el adobe y el ladrillo cerámico:
+Para una evaluación precisa del comportamiento y deformación de materiales y estructuras, es fundamental conocer el "Módulo de elasticidad longitudinal" o "Módulo de Young (E)", que indica la deformación admisible.
 
-##### 2.2.1. Adobe (Arcilla Seca)
+**Tabla 1. Deformación admisible para ciertos materiales según el módulo de elasticidad longitudinal**
 
-El **adobe** es un ladrillo de barro (compuesto por un 20% de arcilla y un 80% de arena) vertido en moldes y secado al sol durante 25-30 días. Se le añaden fibras naturales (como paja, crin de caballo o heno seco) para aumentar su resistencia y prevenir fisuraciones durante el secado.
-Sus **características** son:
-*   **Aislamiento térmico:** Bueno.
-*   **Durabilidad:** Mala.
-*   **Costo:** Bajo en material, pero elevado en mano de obra.
-*   **Mantenimiento:** Requiere mantenimiento continuo con capas de barro o cal. No es adecuado usar mortero de cemento, ya que la poca permeabilidad al vapor del cemento puede disolver el adobe o causar el desprendimiento del mortero.
+| Material                 | Módulo de Elasticidad (valor aproximado N/mm²) |
+| :----------------------- | :--------------------------------------------- |
+| Mampostería de ladrillo  | E = 3000 - 5000                                |
+| Maderas duras (frondosas)| E = 10000 – 22500                              |
+| Maderas blandas (coníferas)| E = 9000 - 11000                               |
+| Acero                    | E = 210000                                     |
+| Hierro de fundición      | E = 100000                                     |
+| Hormigón (Resistencia)   | E = 21500 - 39000                              |
 
-##### 2.2.2. Ladrillo Cerámico (Arcilla Cocida)
+La relación se puede expresar también como: ε = σ / E.
 
-El **ladrillo cerámico** es una pieza de base arcillosa, generalmente ortoédrica, obtenida por moldeo, secado y cocción a altas temperaturas (350ºC). Se utiliza en albañilería, principalmente para elementos constructivos verticales como muros y tabiques. A diferencia del adobe, el ladrillo cerámico es una versión irreversible que no experimenta cambios físico-químicos tras la cocción.
+A igual deformación, un material con mayor elasticidad (mayor módulo "E") soporta menores tensiones.
+*   La madera se deforma significativamente en la dirección de la fibra.
+*   El hierro fundido se deforma el doble que el acero.
+*   El hormigón puede deformarse hasta 10 veces más que el acero.
 
-La **nomenclatura de un ladrillo** incluye:
-*   **Superficies:**
-    *   **Tabla o Lecho:** La superficie mayor del ladrillo, delimit
+**2.5. Factores asociados al comportamiento térmico**
+
+Dado que las intervenciones de bomberos a menudo ocurren en escenarios con grandes variaciones térmicas (incendios), es necesario comprender y cuantificar varios parámetros térmicos:
+
+**2.5.1. Coeficiente de conductividad térmica (λ)**
+
+Este valor numérico cuantifica la capacidad de un material para conducir el calor. Sus unidades son W/m ºC o W/m K. Un valor bajo indica una mayor capacidad aislante.
+
+**Tabla 2. Conductividad térmica de algunos materiales**
+
+| Material         | Conductividad térmica (W/m K) |
+| :--------------- | :----------------------------- |
+| Acero            | 47-58                          |
+| Acero inoxidable | 14-16                          |
+| Hierro           | 80                             |
+| Aluminio         | 209                            |
+| Corcho           | 0,04-0,30                      |
+| Fibra de vidrio  | 0,03-0,07                      |
+| Ladrillo         | 0,80                           |
+| Madera           | 0,13                           |
+| Poliuretano      | 0,018-0,025                    |
+
+Observando esta tabla, se concluye que:
+*   El hierro conduce el calor significativamente mejor que el acero.
+*   Materiales como el corcho, la fibra de vidrio o el poliuretano son excelentes aislantes.
+
+**2.5.2. Coeficiente de dilatación térmica (α)**
+
+La dilatación es el cambio en cualquier dimensión lineal (longitud, alto o ancho) de un sólido debido al aumento de temperatura (dilatación volumétrica). Generalmente, se observa dilatación lineal en barras o alambres delgados sometidos a cambios de temperatura, ya que los cambios en otras dimensiones son despreciables.
+
+El coeficiente de dilatación lineal mide la dilatación por cada grado de aumento de temperatura por cada metro lineal.
+
+**Tabla 3. Dilatación térmica en algunos materiales**
+
+| Material  | Coeficiente de dilatación térmica (x10-5) |
+| :-------- | :---------------------------------------- |
+| Hormigón  | 1,17                                      |
+| Acero     | 1,2                                       |
+| Hierro    | 1,1                                       |
+| Ladrillo  | 0,9                                       |
+| Madera    | 0,2-0,9                                   |
+
+Por ejemplo, el coeficiente de dilatación térmica del acero es de 0,000012 (1/ºC), similar al del hormigón.
+
+**Page 44:**
+
+Esto significa que una viga de hormigón armado de 10 metros de longitud, expuesta a un incendio que eleve su temperatura de 20ºC a 400°C, experimentará una dilatación lineal de:
+α = 0,000012 · 10 · 480 = 0,0576 m = 5,76 cm.
+Este incremento de longitud genera empujes laterales que pueden causar el colapso de la estructura.
+
+**3. ACCIONES EN LA EDIFICACIÓN**
+
+Según el Código Técnico de la Edificación (CTE), Documento Básico de Seguridad Estructural, Acciones en la Edificación (CTE DB SE AE), las fuerzas, cargas o solicitaciones que debe soportar un edificio se clasifican en las siguientes categorías:
+
+*   **Acciones permanentes:** Cargas constantes durante la vida útil del edificio, como el peso propio, el pretensado y las acciones del terreno.
+*   **Acciones variables:** Cargas que pueden actuar o no, y cuya magnitud puede variar en el tiempo. Incluyen sobrecarga de uso, acciones sobre barandillas y elementos divisorios, viento, acciones térmicas y nieve.
+*   **Acciones accidentales:** Cargas por riesgos naturales (sismo) o accidentes antrópicos (incendio, impacto).
+
+**3.1. Acciones permanentes**
+
+**3.1.1. Peso Propio**
+
+Es el peso de todos los elementos constructivos de un edificio, incluyendo estructura, cerramientos, tabiquería, acabados e instalaciones. Se calcula a partir de las dimensiones de los elementos y el peso de sus materiales. Las tablas 4 y 6 del CTE DB SE AE recogen los valores más significativos para materiales y elementos constructivos, relevantes para una intervención de bomberos.
+
+**Tabla 4. Peso propio de materiales**
+
+| Material           | Peso específico (kN/m³) | Material            | Peso específico (kN/m³) |
+| :----------------- | :----------------------- | :------------------ | :----------------------- |
+| Cal                | 13                       | Adobe               | 16                       |
+| Yeso               | 15                       | Ladrillo cerámico   | 12-15                    |
+| Cemento            | 16                       | Bloque hormigón     | 13-16                    |
+| Mortero cemento    | 19-23                    | Piedra natural      | 24-28**                  |
+| Hormigón           | 24+1*                    | Madera              | 3,5 – 5,0                |
+| Acero              | 77 – 78,5                |                     |                          |
+| *En hormigón armado con armados ordinarios, aumenta 1kN/m³ | | | |
+| ** Basalto: 30 kN/m³ | | | |
+
+**3.1.2. Pretensado**
+
+Son esfuerzos generados por procesos constructivos específicos del hormigón armado (tensado de barras de acero y compresión de la masa de hormigón antes del fraguado). No es un valor de referencia para bomberos, solo se verifica si las acciones de pretensado se mantienen para identificar problemas de estabilidad.
+
+**3.1.3. Acciones del terreno**
+
+Son esfuerzos transmitidos a la estructura por el terreno en contacto con el edificio (peso del terreno, empujes, hundimientos, etc.). Su cuantía se estima según el Código Técnico de la Edificación (DB-SE-C: Documento Básico Seguridad Estructural - Cimientos). Para el cálculo, es esencial identificar el tipo de suelo (arcillas, gravas o arenas) y su altura.
+
+A efectos del manual, se consideran los siguientes valores de referencia para acciones permanentes:
+
+**Tabla 5. Empuje del terreno**
+
+| Profundidad | Arcilla (kN/m²) | Grava/Arena (kN/m²) |
+| :---------- | :-------------- | :------------------ |
+| 1 m         | 5               | 3,3                 |
+| 2 m         | 10              | 6,6                 |
+| 3 m         | 15              | 10                  |
+
+**Tabla 6. Peso de elementos constructivos**
+
+|

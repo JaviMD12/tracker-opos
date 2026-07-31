@@ -1,37 +1,159 @@
-## Agentes Extintores en Incendios Industriales: Espumas y Agua
+A continuación, se presenta un temario original y exhaustivo sobre técnicas de extinción y manejo de incendios, conservando la totalidad de la información relevante del material original:
 
-La extinción de incendios industriales requiere el conocimiento y la aplicación de agentes extintores específicos, los cuales se seleccionan en función de la naturaleza del combustible y las características del entorno. Entre los más destacados se encuentran las espumas y el agua, cada uno con sus propias propiedades y modos de aplicación.
+## PARTE 5: INCENDIOS INDUSTRIALES
 
-### Espumas Extintoras: Tipos y Aplicación
+### Capítulo 1: Caracterización
 
-Las espumas son agentes extintores versátiles, compuestos por una mezcla de concentrado espumógeno, agua y aire, cuya densidad relativa es inferior a la de la mayoría de los líquidos inflamables. Su eficacia radica principalmente en la sofocación y el enfriamiento, al formar una capa que impide el contacto del combustible con el oxígeno y reduce la liberación de gases inflamables.
+**5. Uso de Espumas en Incendios Industriales**
 
-Existen distintas categorías de espumas, clasificadas según su relación de expansión:
+La espuma extintora es una mezcla de concentrado espumógeno, agua y aire, considerándose uno de los agentes principales para combatir incendios de líquidos inflamables, que son frecuentes en entornos industriales. Su eficacia está ligada a la eficiencia de los equipos de producción, la composición de la espuma y la fiabilidad del concentrado espumógeno.
 
-1.  **Espumas de Media Expansión (20:1 a 200:1):** Estas espumas se diseñan principalmente para suprimir la vaporización de productos químicos peligrosos, siendo su rango óptimo de expansión entre 30:1 y 50:1 para líquidos orgánicos de bajo punto de ebullición y sustancias reactivas al agua. Se caracterizan por una textura suave y excelente fluidez, lo que les permite extenderse en espacios confinados como sótanos, pozos de minas, bodegas de barcos o salas de máquinas, donde las temperaturas o dimensiones hacen inaccesible el foco. Además, son valiosas para prevenir incendios en derrames de líquidos inflamables. El cálculo de su rendimiento se aproxima mediante la densidad de aplicación, similar a las espumas de baja expansión.
-2.  **Espumas de Alta Expansión (>200:1):** Ideales para combatir incendios en grandes volúmenes cerrados como garajes, bodegas, sótanos, minas o hangares. Su mecanismo de extinción combina el enfriamiento y la sofocación, aunque su bajo contenido de agua (una relación de 1:1000 agua-espuma) implica que gran parte puede ser consumida por el fuego. Para una aplicación efectiva, es crucial que la ventilación del recinto permita la salida de gases calientes en el punto opuesto a la aplicación de la espuma, manteniendo el tiro del fuego en dirección contraria a la espuma. Se recomienda que la capa de espuma tenga una profundidad mínima de aproximadamente 60 centímetros sobre el fuego. Sin embargo, su efectividad en exteriores es limitada, excepto con relaciones de expansión más bajas (alrededor de 1:300).
+Es crucial el mantenimiento frecuente de los equipos operativos y vehículos de bomberos para asegurar su correcto funcionamiento. Sin embargo, los concentrados espumógenos, almacenados en bidones o tanques, rara vez se inspeccionan con métodos no destructivos. Por tanto, su uso prolongado depende en gran medida de la pericia, la experiencia y la calidad del producto suministrado.
 
-El cálculo del caudal de espuma de alta expansión necesario para controlar un incendio es complejo, ya que depende de múltiples factores como el tipo de almacenamiento, el material implicado, su distribución y el estado de combustión al inicio de la extinción. No obstante, la **NFPA (National Fire Protection Association)** proporciona una fórmula orientativa: `R = (V/T) * Cn * CL`, donde:
-*   **R** es la velocidad de descarga en metros cúbicos por minuto.
-*   **V** representa el volumen del espacio a proteger.
-*   **T** es el tiempo de descarga en minutos (que puede variar de 2 a 8 minutos, según el riesgo y la construcción).
-*   **C** es el coeficiente de compensación por contracción normal de la espuma (1.15).
-*   **Cn** es el coeficiente de compensación por fugas (que oscila entre 1.0 y 1.2, según el tipo de local).
+**5.1. Formas de Generación de Espumas**
 
-Esta fórmula es útil para estimar la cantidad de espuma requerida y verificar si se dispone de los recursos para una inundación total, aunque solo es orientativa si el fuego ya está muy extendido.
+Para la creación de espuma, se requieren agua, aire y espumógeno. El primer paso es obtener la mezcla de agua y espumógeno, lo cual se logra mediante los siguientes sistemas:
 
-### Agua como Agente Extintor: Técnicas de Ataque
+**5.1.1. Premezcla**
+En este sistema, el espumógeno y el agua ya están mezclados, como ocurre en extintores o camiones de bomberos.
 
-El agua es un agente extintor fundamental debido a su alta capacidad de absorción de calor, siendo efectiva tanto en enfriamiento como en dilución de gases.
+**5.1.2. Proporcionador (o Hidromezclador)**
+El proporcionador es el componente que genera la mezcla de agua y agente emulsor o espumógeno. De este dispositivo sale un tubo que se sumerge en el depósito de espumógeno adyacente. Un volante lateral permite ajustar la proporción de líquido emulsor en la mezcla resultante (agua-emulsor), que generalmente varía entre el 1% y el 6%.
 
-Las técnicas de aplicación de agua en incendios industriales incluyen:
+Un proporcionador en línea de manguera consta de las siguientes partes:
+1.  **Carcasa**.
+2.  **Boquilla**: Reduce la sección de paso del agua. El diámetro del racor de entrada se disminuye a aproximadamente 8 mm.
+3.  **Colector**: Canaliza la mezcla de agua-emulsor, que posee una mayor concentración de la mezcla respecto a la salida.
+4.  **Cámara de Mezcla**: Aquí se produce la mezcla de agua y emulsor.
+5.  **Línea de Succión**: Es el conducto de entrada del emulsor.
+6.  **Válvula de Retención**: Impide la salida de agua por la línea de succión, evitando la mezcla de agua en los bidones de emulsor.
+7.  **Derivación o Bypass**: Desvía el agua hacia el circuito de agua limpia.
+8.  **Válvula de Compensación**: Selecciona la cantidad de agua que pasa por el circuito de agua limpia y, por ende, la que se fuerza a través del circuito de mezclado.
 
-1.  **Ataque Defensivo Contra la Propagación:**
-    *   **Objetivo:** Limitar la extensión del incendio a zonas no afectadas.
-    *   **Métodos:** Se basa en la **presurización de espacios** y la **refrigeración de superficies**. La presurización busca evitar que el humo y los gases calientes penetren en áreas seguras, aunque puede ser compleja en estructuras industriales con grandes volúmenes o cubiertas abiertas (tipologías D y E, o A, B y C con grandes volumetrías). Los planes de prevención industrial deben contemplar zonas presurizadas como cortafuegos o rutas de evacuación. La refrigeración de superficies colindantes, por su parte, retrasa el impacto del calor radiado y convectivo. La **NTP 420** recomienda caudales másicos de 1 kg/s para chorros de fuego (jet fires) de 10-15 m y 2 kg/s para incendios de charco (pool fires) de 50 m². La **NFPA-15** sugiere tasas de aplicación de agua para enfriamiento: 4-8 litros/min/m² para calor radiante, 10 litros/min/m² para llama directa incipiente y 1000-2000 litros/min para chorros de llama (jet fire).
-2.  **Ataque Directo con Agua:**
-    *   **Objetivo:** Extinguir el incendio aplicando un chorro de agua directamente sobre la base del fuego.
-    *   **Proceso:** Se utiliza un chorro pleno de agua, pero debe aplicarse con moderación. El vapor generado por el agua al entrar en contacto con las superficies calientes ayuda a sofocar el fuego al desplazar el oxígeno. No obstante, una aplicación excesiva puede generar vapor que afecte las capas térmicas, provocando un rápido descenso del humo y un alto riesgo de quemaduras por vapor.
-    *   **Caudales Críticos y Óptimos:** Durante la extinción, el caudal de agua no es constante. El **caudal crítico** es el mínimo necesario para extinguir un incendio, mientras que el **caudal óptimo** es el que logra la extinción con el mínimo consumo de agua. Aumentar el caudal disponible reduce el tiempo de extinción, con una disminución brusca justo por encima del caudal crítico. Un caudal excesivo más allá del óptimo no mejora la eficacia de extinción, sino que aumenta el gasto de agua. Estudios estadísticos (Grimwood 2014, Barnett 2004) indican valores de 24 LPM/MW para incendios residenciales y 5 LPM/m² para grandes superficies industriales.
+En su funcionamiento, el caudal de agua que ingresa por la boca de entrada se bifurca en dos circuitos:
+*   Uno, a través de la boquilla, que se conecta con la cámara de mezcla.
+*   Otro, por el conducto que se comunica directamente con la salida a través de la válvula de compensación.
 
-En resumen, la elección del agente y la técnica de extinción se basa en una evaluación integral de la situación, considerando factores como el tipo de combustible, la geometría del recinto, la fase del incendio y los recursos disponibles, siempre priorizando la seguridad del personal y la efectividad en el control y extinción del fuego.
+La reducción de la sección de la boquilla eleva la velocidad del agua en la cámara de mezcla, creando una depresión (efecto Venturi) que se transmite a la línea de succión. Si esta línea está conectada a un depósito de emulsor, el líquido emulsor circulará hacia la cámara de mezcla según la demanda.
+
+**5.1.3. Tanque a Presión Sin Membrana**
+Este sistema consiste en un depósito presurizado lleno de espumógeno, sobre el cual se instala un proporcionador. El agua a presión se divide en dos flujos: una parte entra al depósito para mezclarse con el espumógeno, y la otra atraviesa el proporcionador, donde, por efecto Venturi, extrae la mezcla de espumógeno y agua presente en el depósito.
+
+**5.1.4. Tanque de Membrana**
+Este sistema incluye un depósito con una membrana interna llena de espumógeno y un proporcionador. El agua a presión entra en el proporcionador, y una parte se dirige al depósito, donde presiona la membrana, expulsando el espumógeno. La otra parte del agua atraviesa el proporcionador y, por efecto Venturi, absorbe el espumógeno que ha salido de la membrana.
+
+**5.1.5. Sistema de Bombeo**
+Este sistema es más complejo y se compone de:
+*   Depósito de espumógeno.
+*   Bombas para la impulsión del espumógeno.
+*   Controlador de las bombas.
+*   Proporcionador.
+*   Sondas de presión.
+*   Manómetros.
+*   Válvulas de bypass.
+*   Otros elementos auxiliares.
+
+Se realizan mediciones de presión en las líneas de suministro de agua y espumógeno. En función de la demanda, se suministra el caudal de espumógeno necesario, y el excedente se retorna al depósito.
+
+**5.1.6. Proporcionador de Presión Balanceada en Línea**
+Es similar al sistema de bombeo, pero se aplica cuando el depósito de espumógeno y su bomba están muy distantes.
+
+**5.1.7. Boquillas Auto-Aspirantes**
+Funcionan de forma similar a un proporcionador, pero este está integrado en la boquilla de descarga. Se instalan en monitores.
+
+**5.1.8. Bombas Hidráulicas**
+Estos sistemas mezclan el espumógeno con el agua mediante difusión volumétrica. El agua a presión ingresa en una bomba hidráulica conectada a la bomba dosificadora del espumógeno, de modo que el caudal de espumógeno es proporcional al caudal de agua demandado. Una válvula de tres vías permite devolver el caudal de espumógeno al depósito o introducirlo en el sistema para la mezcla con el agua.
+
+**5.1.9. Otros Sistemas Portátiles (Pro-PAK)**
+Este sistema multiexpansión se usa para extinguir fuegos de rastrojo, secos, en viviendas, vehículos, entre otros, mediante técnicas de inundación y cubrición. Soporta un caudal máximo de 45 LPM a 7 bares de presión, requiriendo una presión mínima de 3 bares. Es un dispositivo sencillo y ligero (aproximadamente 16 kg). Sus características incluyen un inyector incorporado, una autonomía de 7 minutos al 3%, 21 minutos al 1%, y 3 horas al 0,1%. Permite ajustar el caudal desde el mismo mango, facilitando un control constante.
+
+En general, la dosificación de espumógeno se realiza mediante dos procedimientos:
+*   **Métodos por efecto Venturi**: Utilizan la energía de presión de la corriente de agua. Introducen el concentrado a través de orificios, causando una pérdida de presión del 35% en la corriente de agua. Ejemplos incluyen el eductor de lanza (N.P.U) y los inductores en línea o dosificadores alrededor de la bomba.
+*   **Métodos con Bombas Auxiliares o Presión de Caída**: Inyectan el concentrado en la corriente de agua en una proporción fija.
+
+**5.2. Tipos de Espuma**
+Las espumas se clasifican en baja, media y alta expansión.
+
+**5.2.1. Espumas de Baja Expansión**
+Con un ratio de expansión de 20:1, estas espumas están diseñadas para combatir incendios de líquidos inflamables (Clase B), controlándolos, confinándolos y extinguiéndolos. También son eficaces en fuegos de Clase A por su capacidad de enfriamiento.
+
+La calidad de una espuma de baja expansión se caracteriza por:
+*   Gran capacidad de retención de agua.
+*   Burbujas minúsculas y tenaces.
+*   Elevada resistencia al calor.
+
+Contaminantes (detergentes, residuos de petróleo, inhibidores de corrosión) pueden reducir la calidad de la espuma. Son más estables cuando se generan con agua dulce o de mar, a una temperatura entre 12 ºC y 27 ºC.
+
+Su aplicación más adecuada es para controlar y extinguir la mayoría de los incendios de líquidos inflamables (Clase B). Debido a su alto contenido de agua, es útil en incendios de Clase A, pero no debe aplicarse sobre elementos con tensión eléctrica por su conductividad. Tampoco se recomienda para derrames de gases licuados (butadieno, propano, cloruro de vinilo) o incendios de materiales que reaccionen con agua (Clase D, carburo de calcio).
+
+El éxito de la espuma está determinado por su densidad de aplicación, expresada como litros de solución agua-concentrado por minuto por metro cuadrado. Esta densidad influye en el número de lanzas necesarias para una superficie de líquido inflamado. Para incendios de derrames, se aplican espumas de baja expansión (sintéticas de triple expansión y polivalentes) con una densidad de 5 litros por minuto por metro cuadrado. Densidades superiores al mínimo recomendado reducen el tiempo de extinción, mientras que densidades inferiores lo aumentan o impiden el control del incendio.
+
+Para determinar el número mínimo de lanzas necesarias para combatir un derrame, se usa la siguiente fórmula:
+`Superficie del derrame x densidad de Aplicación = Caudal necesario`
+Una vez obtenido el caudal, se calcula el número de lanzas (de 200 y 400 l/m) necesarias para completarlo.
+
+**5.2.2. Espumas de Media Expansión**
+Su ratio de expansión varía de 20:1 a 200:1. Se emplean para suprimir la vaporización de químicos peligrosos. Empíricamente, la expansión óptima para suprimir químicos reactivos con agua y líquidos orgánicos de bajo punto de ebullición está entre 30:1 y 50:1.
+
+La espuma de media expansión se utiliza en zonas confinadas como sótanos, pozos de minas, barcos, alcantarillados, salas de máquinas y otros lugares inaccesibles por temperatura o dimensiones. Posee una textura suave y una excelente fluidez que ayuda a evitar obstáculos. Su uso es significativo para prevenir incendios en derrames de líquidos inflamables.
+
+Para espumas de media expansión, los cálculos de rendimiento se realizan de forma aproximada usando la densidad de aplicación como punto de partida, de manera similar a las espumas de baja expansión.
+
+**5.2.3. Espumas de Alta Expansión**
+Con un ratio de expansión superior a 200:1, estas espumas se diseñan para combatir incendios en espacios confinados (garajes, bodegas, sótanos, minas, hangares, etc.).
+
+Al igual que las espumas anteriores, controlan y extinguen el fuego por enfriamiento y sofocación. Sin embargo, su bajo contenido en agua (1 litro de agua y concentrado produce 1.000 litros de espuma) hace que gran parte se destruya por el fuego al avanzar.
+
+Se aplican principalmente en espacios confinados con ventilación, que permite la salida de humo y gases calientes mientras la espuma se genera. El tiraje del incendio debe estar en el lado opuesto al punto de aplicación de la espuma de alta expansión para facilitar la entrada. Para evitar daños irreversibles, es necesario llenar el local de espuma a una velocidad adecuada, en cantidad suficiente y hasta una profundidad eficaz por encima del incendio, que debe ser aproximadamente de sesenta centímetros.
+
+**Ejemplo de cálculo para espumas:**
+*   **Cálculo de caudal necesario para extinguir un derrame de 56 m² (7 x 8m):**
+    *   `56 m² x 5 litros/m² · minuto = 280 l/min.`
+    *   Se requiere un caudal igual o superior a 280 l/min, lo que se logra con una lanza de 400 l/m o dos de 200 l/m.
+*   **Cálculo de caudal para un derrame de 100m² de superficie:**
+    *   `100 m² x 5 l/m² · min = 500 l/min.`
+    *   Se necesitan dos lanzas (una de 400 l/min y otra de 200 l/min) o tres lanzas de 200 l/min.
+    *   Fuente: Zapater (1988).
+
+### Capítulo 2: Técnicas
+
+**1. Ataque Defensivo Contra la Propagación**
+
+Las técnicas defensivas buscan controlar la expansión del incendio industrial y prevenir su crecimiento o afección a elementos cercanos, basándose principalmente en la presurización de espacios y la refrigeración de superficies.
+
+**1.1. Presurización de Espacios**
+La presurización de espacios evita la entrada de humo en zonas presurizadas, manteniéndolas libres de incendios externos. Esta técnica es compleja en:
+*   **Incendios industriales de tipo D y E**: por tener cubierta parcialmente abierta.
+*   **Incendios industriales de tipo A, B y C**: los ventiladores de presión positiva a menudo no generan suficiente caudal de aire para presurizar grandes volúmenes.
+
+Los planes de prevención industriales deben especificar zonas de presurización como cortafuegos, vías de evacuación o áreas de confinamiento seguro. La mayoría de las naves industriales no están bien aisladas, por lo que la presurización es una protección efectiva en naves colindantes, especialmente si se combina con ventilación natural. Sin embargo, si la ventilación forzada se opone a la natural, el resultado es desfavorable.
+
+**1.2. Refrigeración de Superficies**
+La refrigeración de superficies retrasa el impacto del incendio cercano, tanto por radiación como por convección. Según la NTP 420, se consideran controlables:
+*   **Dardos o chorros de fuego (jet fires)**: caudales másicos de 1 kg/s, con una longitud de 10-15 metros.
+*   **Incendios de charco (pool fires)**: caudales másicos de 2 kg/s, con una superficie de 50 m².
+
+Para enfriar se pueden aplicar 4-8 litros/min/m² en exposición por calor radiante y 10 litros/min/m² en llama directa incipiente. Para dardos o chorros de manguera, se requieren 1000-2000 litros/min.
+
+La cantidad de agua para enfriamiento puede variar según tres situaciones de exposición al incendio. Los caudales de aplicación de agua se expresan por metro cuadrado de recipiente o de superficie proyectada. Se puede usar la tabla 2 (Agua contra incendios requerida para el enfriamiento, según NFPA-15) para estimar los hidrantes y monitores necesarios o para diseñar sistemas fijos de difusores y diluvios. Los manuales recomiendan un caudal mínimo de 4 a 20 litros/min/m² (por m² de área de superficie proyectada). Los cálculos deben evaluarse individualmente para cada escenario, pudiendo ser útil el manual NFPA-11. Si se recomienda espuma como medio de extinción, se debe considerar en el cálculo de la demanda total de agua.
+
+**2. Ataque Directo Con Agua**
+El ataque directo se realiza aplicando un chorro pleno a la base del fuego, por un tiempo moderado. Las capas térmicas se ven afectadas, el vapor producido se condensa y el humo desciende rápidamente, con alto riesgo de quemaduras por el vapor de agua.
+
+**2.1. Cálculo de los Caudales Críticos de Extinción**
+Durante la extinción, el caudal de agua no es continuo. Las condiciones interiores determinan el caudal o la interrupción temporal hasta recuperar el equilibrio térmico. Un caudal significativo puede ser necesario para controlar fenómenos de inflamación rápida.
+
+Conocer los términos clave ayuda a diferenciar los caudales de agua (Tabla 3: Términos clave en extinción de incendios – caudales):
+
+| Gasto de agua     | Volumen de agua utilizado durante la intervención.                                    |
+| :---------------- | :----------------------------------------------------------------------------------- |
+| Caudal medio      | Gasto de agua dividido por el tiempo de intervención.                                  |
+| Caudal disponible | Caudal máximo disponible en la punta de lanza en cualquier momento de la intervención. |
+| Caudal crítico    | Caudal mínimo necesario para la extinción de un incendio.                             |
+| Caudal óptimo     | Caudal disponible que permite extinguir un incendio con el mínimo gasto de agua.     |
+
+**3. Ataque Indirecto Con Agua**
+
+El ataque indirecto busca la extinción por saturación en vapor de espacios confinados, aplicándose desde el exterior de la zona o, por ejemplo, a través de una puerta o ventana. Se dirige un chorro de agua nebulizada o niebla de ángulo estrecho hacia el techo, moviéndose a través de las paredes y los gases superficiales a nivel del techo.
+
+El contacto con superficies calientes genera una gran cantidad de vapor rápidamente, gracias a la expansión que sufre al cambiar de estado. Este vapor absorbe una extraordinaria cantidad de calor, lo que contribuye a la sofocación por desplazamiento de oxígeno, logrando la extinción del incendio en un breve lapso y con poca agua. No es aconsejable si hay víctimas atrapadas o si la propagación a zonas no implicadas es posible, ya que el efecto pistón puede extender el incendio.

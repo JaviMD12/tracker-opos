@@ -1,178 +1,249 @@
-# Rescate en Accidentes de Tráfico: Valoración, Fases y Organización Operativa
+## Temario de Oposiciones de Bomberos y Emergencias: Rescate y Salvamento
 
-La intervención en accidentes de tráfico requiere un enfoque sistemático y coordinado para la liberación y asistencia de las víctimas. Este proceso se desglosa en varias fases, cada una con sus propias consideraciones de seguridad y objetivos específicos.
+### PARTE 1: Rescate en Altura
 
-## Fases de Intervención en Accidentes de Tráfico
+#### Capítulo 1: Caracterización
 
-La actuación en un accidente de tráfico se estructura cronológicamente en varias fases para garantizar la eficacia y seguridad de la intervención.
+##### 2. Legislación y Regulaciones
 
-### Fase 0: Movilización
+###### 2.1. Legislación Española sobre Trabajos en Altura
 
-La primera etapa es la **recepción de la llamada de emergencia**, donde se recopila información crucial como la ubicación exacta (carretera, punto kilométrico, sentido de la vía), el tipo y número de vehículos implicados, la naturaleza de la carga (especialmente si es peligrosa), la presencia de incendio o víctimas atrapadas. Una correcta gestión de esta información es fundamental para una respuesta rápida y eficaz, permitiendo dimensionar los recursos necesarios y activar planes de emergencia específicos si se identifican mercancías peligrosas o múltiples víctimas.
+Es esencial conocer la normativa vigente para la ejecución segura de trabajos en altura y la selección de materiales, aunque la legislación española sirva como referencia general donde no exista una normativa específica.
 
-Tras la recepción del aviso, se realiza la **solicitud de medios adicionales** a través del centro coordinador de emergencias (como el 112 en España), activando a los servicios de seguridad, sanitarios, grúas y personal de mantenimiento de carreteras, según la información recopilada.
+La Ley de Prevención de Riesgos Laborales (LPR 31/1995, de 8 de noviembre) establece las bases de seguridad, las responsabilidades de los empleadores (entidades públicas o privadas) y las garantías para la protección de la salud de los trabajadores frente a los riesgos laborales. Aunque inicialmente generó dudas sobre su aplicación a los servicios de bomberos, aclaraciones posteriores confirmaron su validez para este colectivo, remitiendo a normativa específica futura dadas las particularidades de su actividad.
 
-Finalmente, se procede al **desplazamiento de los vehículos de intervención** desde el parque más cercano. Durante el trayecto, el mando de intervención debe actualizar continuamente la información, asignar tareas a la dotación y asegurarse de que el conductor elija la ruta más segura, considerando las condiciones meteorológicas y del tráfico, y priorizando la seguridad por encima de la velocidad. Es esencial recordar que el código de circulación recomienda facilitar el paso a los vehículos de emergencia, pero no exime de la obligación de no causar más daño.
+Otras disposiciones legales relevantes son:
 
-### Fase 1: Valoración y Zonificación
+*   **Real Decreto 773/1997, de 30 de mayo:** Define los equipos de protección individual (EPI), las obligaciones del empresario, los criterios de uso y mantenimiento, y los requisitos de selección de EPI. Sus anexos proporcionan listas indicativas de EPI, métodos para inventariar riesgos, actividades peligrosas y evaluaciones de riesgo.
+*   **Real Decreto 1407/1992, de 20 de noviembre:** Regula las condiciones, requisitos y certificaciones europeas (EN) mínimas para la comercialización de EPI en la Unión Europea. Detalla el proceso y los organismos de certificación, sirviendo de guía para la revisión y aseguramiento del cumplimiento de los materiales.
+*   **Real Decreto 486/1997, de 14 de abril:** Establece las disposiciones mínimas de seguridad y salud en los lugares de trabajo, aclarando las situaciones que requieren protección en altura debido a riesgos de caída a distinto nivel. Esto incluye trabajos a más de 2 metros o con escaleras de mano de más de 3,5 metros.
+*   **Real Decreto 1215/1997, de 18 de julio:** Reitera que la altura a partir de la cual es necesario usar equipos de protección contra caídas es de 2 metros. Además, especifica los requisitos que deben cumplir tanto el equipo de trabajo como el equipo de protección individual.
+*   **Real Decreto 1627/1997, de 24 de octubre:** Establece las disposiciones mínimas de seguridad y salud en las obras de construcción, siendo importante para las intervenciones de bomberos derivadas de siniestros en este sector y para conocer los EPI necesarios en estas obras.
 
-Al **llegar al lugar del siniestro**, se informa al centro de control de emergencias para evitar incertidumbres y se realiza una valoración *in situ* para actualizar las características del accidente y del entorno. Esta información es crucial para decidir si se requieren medios adicionales o si, por el contrario, algunos recursos movilizados pueden ser desmovilizados. La valoración debe ser continua y centrarse en la seguridad de los intervinientes, los riesgos inminentes (incendios, colisiones, estabilidad estructural), el número y estado de las víctimas, el alcance del siniestro y las prioridades de actuación, así como la información proporcionada por el personal sanitario y las fuerzas del orden.
+Es de particular relevancia el **Real Decreto 2177/2004, de 12 de noviembre**, que modifica el Decreto 1215/1997 y establece disposiciones específicas para el uso de equipos de trabajo en tareas temporales en altura, especialmente sobre la utilización de escaleras de mano en "trabajos verticales" de más de 3,5 metros. Este anexo establece que:
 
-Posteriormente, se establece la **ubicación de los vehículos de intervención y la zonificación** del siniestro. Esto implica dividir el área en tres zonas principales:
-- La **zona caliente** es el área de mayor riesgo, donde se realiza la intervención directa sobre el vehículo, y a la que solo pueden acceder los equipos de emergencia debidamente equipados y controlados. Se delimita con un círculo de 2 a 5 metros alrededor del vehículo y no se deben depositar herramientas ni materiales retirados en su interior.
-- La **zona templada** es un área intermedia, de riesgo moderado, donde se ubican los vehículos de apoyo y el material. Esta zona, de forma elíptica, abarca entre 5 y 10 metros alrededor de la zona caliente. Dentro de ella, se establece una "zona limpia" para las herramientas de uso inmediato y una "zona sucia" para los restos del vehículo.
-- La **zona fría** es el espacio exterior donde estacionan vehículos no directamente implicados, como los de mando, apoyo técnico o familiares.
+*   El ascenso, descenso y trabajo desde escaleras deben realizarse de frente.
+*   Las escaleras de mano deben asegurar puntos de apoyo y sujeción constantes.
+*   Trabajos a más de 3,5 metros desde el punto de operación hasta el suelo, que requieran movimientos o esfuerzos peligrosos para la estabilidad del trabajador, solo se realizarán si se utiliza un equipo de protección individual anticaídas o medidas alternativas adecuadas.
+*   No se usarán escaleras de mano por dos o más personas simultáneamente.
 
-### Fase 2: Control de la Propagación
+Además, el decreto especifica condiciones para el uso de técnicas de acceso y posicionamiento mediante cuerdas:
 
-Esta fase se centra en **asegurar la zona de trabajo** para prevenir riesgos adicionales.
+*   El sistema debe incluir al menos dos cuerdas con sujeción independiente: una como cuerda de trabajo (acceso, descenso, apoyo) y otra como cuerda de seguridad (emergencia).
+*   Se proporcionarán arneses adecuados, que los trabajadores deberán usar y conectar a la cuerda de seguridad.
+*   La cuerda de trabajo debe contar con un mecanismo de ascenso y descenso seguro, y un sistema de bloqueo automático para evitar caídas en caso de pérdida de control. La cuerda de seguridad debe tener un dispositivo móvil anticaídas que siga los movimientos del trabajador.
+*   Las herramientas y objetos del trabajador deben estar sujetos al arnés, al asiento de trabajo o por otros medios adecuados.
+*   El trabajo debe planificarse y supervisarse correctamente para permitir el rescate inmediato del trabajador en caso de emergencia.
+*   Según el artículo 5, se impartirá formación adecuada y específica sobre:
+    1.  Técnicas de progresión con cuerdas y sobre estructuras.
+    2.  Sistemas de sujeción.
+    3.  Sistemas anticaídas.
+    4.  Normas de cuidado, mantenimiento y verificación de equipos.
+    5.  Técnicas de salvamento de personas accidentadas en suspensión.
+    6.  Medidas de seguridad ante condiciones meteorológicas.
+    7.  Técnicas seguras de manipulación de cargas en altura.
 
-- La **señalización** del accidente es primordial para garantizar la seguridad de los intervinientes y de otros usuarios de la vía. Si las fuerzas del orden no están presentes, los bomberos deben señalizar la zona, asegurando que sea visible a una distancia mínima de 100 metros y que no se convierta en un obstáculo adicional.
-- El **control de riesgos inminentes** implica la extinción inmediata de incendios en vehículos o estructuras cercanas, así como la gestión de mercancías peligrosas, vehículos inestables o estructuras que amenacen con derrumbe.
-- La **prevención de incendios** requiere tener un extintor de clase B disponible, identificar posibles fuentes de ignición (como el sistema de inyección de combustible o superficies calientes), cubrir derrames con espuma o absorbentes y, muy importante, **desembornar la batería** para eliminar riesgos eléctricos. Al desembornar la batería, se desconecta la alimentación del sistema de alto voltaje y se desactiva la mayoría de los sistemas de seguridad pasiva (airbags, pretensores). Si el vehículo está inestable, se prioriza su estabilización urgente.
+El Anexo 4 autoriza el uso de una sola cuerda en circunstancias excepcionales si la evaluación de riesgo indica que dos cuerdas lo harían más peligroso, siempre que se justifiquen las razones técnicas y se tomen medidas de seguridad adecuadas. Es importante recordar que estas normas no son limitaciones, sino guías para garantizar la seguridad.
 
-### Fase 3: Rescate de Víctimas
+###### 2.2. Normativa y Certificaciones
 
-En esta fase, se procede a la **estabilización del vehículo** para prevenir movimientos no intencionados que puedan causar lesiones adicionales a las víctimas o a los intervinientes. La estabilización debe ser manual o asistida por herramientas, utilizando calzos, cuñas o puntales. Es fundamental que el vehículo permanezca inmóvil durante las acciones de rescate.
+Al no existir una normativa específica para rescates con cuerdas en bomberos, es necesario que los materiales cumplan con las mejores certificaciones y homologaciones. Los materiales se regulan por diversas directrices:
 
-El **abordaje o apertura de huecos de entrada** busca crear espacios en el vehículo para permitir el acceso de los sanitarios y preparar las maniobras de excarcelación. Se realiza un reconocimiento del interior para identificar riesgos y proteger a las víctimas con mascarillas, cascos y plásticos.
+*   **CT. 160 (Comité Técnico para EPI contra caídas en altura):** Regula dispositivos de descenso, anticaídas, absorbedores de energía, cuerdas de bajo alargamiento, arneses de cuerpo entero, etc., en un entorno profesional.
+*   **CT. 136 (Comité Técnico para Equipamiento en Montañismo):** Regula materiales de actividades de ocio como escalada o montañismo (cordinos, cuerdas auxiliares, bloqueadores, poleas, cuerdas dinámicas) que también se usan en rescate.
 
-La **estabilización de los heridos** es realizada por personal sanitario cualificado para mantener sus constantes vitales antes de la excarcelación, inmovilizando el cuello y la columna vertebral con un collarín ortopédico y tablas espinales.
+Los mosquetones, por ejemplo, están regulados por la normativa CE 362 para el ámbito laboral y CE 12275 para el deportivo, indicando diferencias de diseño según su uso previsto.
 
-La **excarcelación o liberación y apertura de huecos de salida** consiste en extraer a la víctima de las chapas del vehículo, creando vías de salida con herramientas hidráulicas.
+##### 3. Características de los Entornos de Trabajo Vertical
 
-Finalmente, se realiza la **extracción de las víctimas**, siguiendo técnicas eficientes y coordinadas con los servicios sanitarios para asegurar el soporte vital. Además, se lleva a cabo la **búsqueda de posibles víctimas despedidas o indicios** en el perímetro del accidente, estableciendo puntos de reunión para ambulancias y evaluando si hubo más ocupantes en el vehículo.
+El trabajo en altura se define como cualquier actividad o desplazamiento donde el trabajador está expuesto a un riesgo de caída a distinto nivel con una diferencia de cota superior a 1,5 metros respecto al plano horizontal más cercano. También incluye trabajos bajo nivel 0, como pozos, tanques enterrados o excavaciones de más de 1,5 metros de profundidad, los cuales comparten características con los espacios confinados.
 
-### Fase 4: Restitución y Vuelta a la Normalidad
+Los riesgos inherentes a estos trabajos exigen el cumplimiento de reglas básicas:
 
-Esta última fase consiste en **despejar las vías de comunicación** y retirar los obstáculos (como escombros, vehículos, árboles) para restablecer el tráfico. Si no hay servicios de mantenimiento de vías, los bomberos realizarán esta tarea.
+*   **Ubicación y seguridad de anclajes:** Deben ser rigurosos y seguros. La calidad es primordial. Es crucial distribuir los esfuerzos y colocar los aparatos correctamente. En rescate y tirolinas, se duplican o triplican los anclajes para una seguridad óptima.
+*   **Organización del lugar de trabajo:** Las instalaciones deben ser simples y correctamente equipadas. Es fundamental verificar sistemáticamente la instalación antes de usarla. Montajes más sencillos y ordenados facilitan una verificación rápida y eficaz.
+*   **Dispositivo de autoaseguramiento:** Siempre que sea posible, debe asociarse un dispositivo de autoaseguramiento independiente a los sistemas de rescate para garantizar la seguridad de víctimas y socorristas (excepto en autoevacuación). Los EPI están diseñados para una persona, pero se permite el uso para dos en casos excepcionales (descenso acompañado, de camilla).
+*   **Plan de evacuación:** Debe preverse un plan para autoevacuación o rescate en caso de accidente.
 
-El **reparto de tareas** en un accidente de tráfico se realiza por un equipo ideal de 5 a 6 personas.
-- El **Oficial al mando o líder del equipo** (jefe de dotación) coordina todas las operaciones, visualiza la escena, decide las acciones prioritarias y sirve como punto central de comunicación con otras entidades. A menudo asume también el rol de oficial de seguridad.
-- El **primer miembro técnico (Bombero 1)** trabaja junto al segundo miembro técnico, realizando las tareas de rescate y liberación de víctimas.
-- El **segundo miembro técnico (Bombero 2)** complementa las funciones del primero.
-- El **coordinador de equipos y herramientas (Bombero Conductor)** gestiona el equipamiento y apoya al grupo técnico.
-- El **cuidador de la víctima (Bombero 3)** mantiene contacto directo con la víctima, asiste a los paramédicos y se enfoca exclusivamente en el bienestar del afectado si no hay sanitarios presentes.
+##### 4. Principios Básicos del Trabajo en Altura
 
-## Elementos de Seguridad en Vehículos
+###### 4.1. Retención
 
-Los vehículos actuales incorporan diversos sistemas de seguridad clasificados en activa, pasiva y terciaria.
+Un sistema de retención establece una zona de trabajo que impide al trabajador acceder a áreas con riesgo de caída. No está diseñado para detener una caída.
 
-### Seguridad Activa
+###### 4.2. Sujeción
 
-La **seguridad activa** busca prevenir el accidente. Aunque estos sistemas suelen dejar de actuar tras el impacto, algunos pueden representar riesgos adicionales durante la intervención. Incluyen:
+Un sistema de sujeción permite al usuario posicionarse con precisión en apoyo o suspensión. No está diseñado para detener caídas y debe complementarse con un sistema anticaídas. El trabajador debe mantener tensión sobre este sistema.
 
-- **Faros inteligentes**: iluminan la vía según sea necesario, utilizando faros de xenón (aproximadamente 1000 V).
-- **Ordenador de a bordo**: proporciona información al conductor, pero no representa un riesgo para el personal de rescate.
-- **Paro y arranque automático**: detiene el motor en paradas (semáforos) para ahorrar combustible, pero puede desplazar el vehículo si se presiona el acelerador inadvertidamente tras un accidente.
-- **Otros sistemas de seguridad activa**: cámaras en retrovisores, detectores de distancia, proyectores de información en parabrisas, ayuda al aparcamiento, sensor de luminosidad y sensor de lluvia, entre otros.
+###### 4.3. Anticaídas
 
-### Seguridad Pasiva
+Es un dispositivo de aseguramiento independiente de la progresión o sujeción, conectado al punto de enganche "A" del arnés. Su función es detener la caída libre y limitar la fuerza de choque sobre el usuario. Requiere prever una altura libre de seguridad.
 
-La **seguridad pasiva** actúa automáticamente durante la colisión para minimizar los daños a los ocupantes.
+###### 4.4. Distancia para la Detención de la Caída y Altura Libre Necesaria
 
-- **Neumáticos**: la banda de rodadura proporciona adherencia. Existen tubetype (con cámara) para vehículos pesados y tubeless (sin cámara) más comunes. En vehículos agrícolas, se pueden lastrar con líquido (agua y anticongelante al 75%) para aumentar la tracción.
-- **Suspensión**: absorbe irregularidades del terreno y mejora la estabilidad. En turismos, el sistema McPherson es común. Los camiones y todoterrenos combinan suspensiones mecánicas y neumáticas, siendo estas últimas comunes en la parte trasera de vehículos pesados y autobuses para una conducción suave, adaptándose a la carga. Su vaciado puede reducir la altura de rescate.
-- **Frenos**: detienen el vehículo. Han evolucionado de tambor a disco, incluyendo sistemas como ABS (antibloqueo) y ASR (control de tracción) que previenen el deslizamiento. En vehículos pesados, los frenos neumáticos emplean aire comprimido.
-- **Innovaciones**: las más recientes incluyen elementos de seguridad pasiva avanzados y controlados electrónicamente, que reducen fuerzas sobre los ocupantes y aseguran espacio vital.
+La altura libre es la altura mínima de seguridad requerida bajo un sistema anticaídas para evitar que el usuario choque con obstáculos al detener la caída. Depende de:
 
-### Seguridad Terciaria
+*   Distancia de parada de aparatos móviles o longitud del elemento de amarre (A).
+*   Longitud de desgarro del absorbedor de energía (B).
+*   Altura media del usuario (C).
+*   Margen de seguridad (D).
+*   Alargamiento del soporte (elasticidad de la cuerda) (E).
 
-La **seguridad terciaria** busca facilitar el rescate de los ocupantes después de un accidente.
+La ficha técnica de cada aparato incluye una estimación de la altura libre.
 
-- **Desbloqueo automático del cierre centralizado**: algunos vehículos abren automáticamente las puertas tras un impacto significativo.
-- **Sistema de luces intermitentes de advertencia**: se activa automáticamente tras un choque, indicando a los servicios de rescate que el vehículo tiene alimentación eléctrica.
-- **eCall**: sistema activo en la UE que realiza una llamada automática a los servicios de emergencia en caso de accidente grave, proporcionando localización y otros datos del vehículo, facilitando la llegada de ayuda.
-- **Hojas de rescate**: documentos que proporcionan información técnica esencial sobre el vehículo (zonas de corte, ubicación de componentes de seguridad) para agilizar el rescate de víctimas atrapadas. Se recomienda imprimirlas y guardarlas en el parasol del vehículo.
+##### 5. La Cadena de Seguridad
 
-### Elementos de seguridad adicionales para terceros
+Es el conjunto de elementos que absorben la energía de una caída para lograr una detención "amortiguada" y evitar daños al cuerpo. Incluye el arnés del bombero, el nudo de encordamiento, la cuerda, los mosquetones, las cintas en seguros intermedios, los anclajes a puntos fijos y el elemento asegurador (que puede ser otro bombero y su arnés). La detención de la caída será dinámica, dependiendo de la técnica, anclajes y materiales. Coexisten tres factores clave: el peso del bombero, el factor de caída y el tipo de cuerda con su sistema de freno.
 
-Estos elementos tienen como objetivo reducir la gravedad de las lesiones a personas impactadas por el vehículo.
-- **Paragolpes**: fabricados con materiales de síntesis y con diseño envolvente, su altura influye en la gravedad de las lesiones en atropellos. Los extremos deben dirigirse hacia el interior para evitar enganches.
-- **Capó activo**: en algunos modelos, se eleva unos 5 cm en caso de atropello para amortiguar el impacto del peatón sobre el capó.
-- **Faros**: sus cerquillos y marcos no deben sobresalir más de 3 cm de la superficie exterior.
-- **Mandos de apertura y tapones del depósito**: deben estar empotrados en la carrocería y sus extremos abiertos hacia atrás.
-- **Aristas de chapa**: los bordes deben ser redondeados o recubiertos con protectores.
-- **Retrovisores exteriores**: deben tener forma redondeada y desprenderse fácilmente en caso de impacto.
-- **Luna parabrisas**: debe ser curva e inclinada hacia atrás para que la víctima se deslice en caso de atropello. Se recomiendan laminadas para facilitar la visión tras impactos.
-- **Molduras y cerquillos**: los elementos que sobresalgan más de 10 cm deben retraerse, desprenderse o doblarse.
-- **Puntos de apoyo para gato elevador**: no pueden sobresalir más de 1 cm de la línea vertical del suelo.
-- **Tuercas de rueda, tapacubos y embellecedores**: no deben presentar aristas marcadas ni salientes en forma de aletas.
+##### 6. La Cuerda en el Rescate
 
-## Estructura de Vehículos de Transporte de Pasajeros y Carga
+###### 6.1. La Importancia de la Cuerda
 
-Los vehículos se diseñan con estructuras que gestionan la energía de colisión y protegen a los ocupantes.
+En rescates verticales, la cuerda es el elemento más crítico de la cadena dinámica de seguridad. Se requiere un análisis exhaustivo de este material. La cuerda permite el ascenso y descenso, y mantiene la seguridad ante posibles caídas, actuando como "cordón umbilical" en espacios confinados como pozos. También se usa para el rescate de víctimas en altura, tanto en interiores como exteriores.
 
-### Carrocerías de Turismos y 4x4
+###### 6.2. Características de la Cuerda
 
-Existen dos tipos principales de carrocerías en turismos y 4x4:
-- **Carrocería con chasis independiente**: el bastidor y la carrocería son elementos separados. El bastidor (chasis) soporta los esfuerzos estructurales y puede funcionar sin carrocería. La carrocería es independiente y se une mediante sistemas mecánicos o elásticos. Proporciona gran rigidez, pero tiene poca capacidad de absorción de impactos.
-- **Carrocería autoportante**: la mayoría de los automóviles modernos la emplean. Es una estructura unitaria donde la carrocería y el chasis forman un todo, unidas por soldadura. Distingue tres zonas:
-    - La **célula de seguridad o habitáculo indeformable**: protege a los ocupantes. Posee anillos de refuerzo (transversales y longitudinales) y pilares que soportan grandes cargas.
-    - Las **secciones extremas (frontal y posterior)**: son estructuras deformables programadas para absorber la energía del impacto progresivamente, evitando su transmisión al habitáculo.
+Las cuerdas modernas se fabrican con fibras derivadas del petróleo (poliamidas, poliéster, polipropileno). Son de bajo coste, fáciles de tejer, imputrescibles y tienen excelentes prestaciones mecánicas (alta elasticidad, resistencia a tracción y rozamiento), tendiendo a recuperar su forma original tras un esfuerzo. Se componen de dos partes:
 
-Los **elementos mecánicos** de seguridad pasiva incluyen:
-- **Inmovilizador de freno, embrague y acelerador**: reduce lesiones en las piernas y pies al impedir el desplazamiento de los pedales.
-- **Inmovilizador del volante**: evita que el volante atrape al conductor, ya que puede regularse en altura e inclinación y está diseñado con un aro elástico para absorber impactos.
-- **Columna de dirección**: ha evolucionado de rígida a deformable, con mallas, codos flexibles o ejes excéntricos, para evitar que penetre en el habitáculo.
-- **Depósito de combustible**: se ubica en zonas protegidas (delante del eje trasero) y cuenta con una válvula inercial de seguridad que bloquea el paso de combustible en caso de vuelco.
-- **Baterías**: suministran energía eléctrica. Pueden ser de plomo de 12 V (convencionales), de 42 V (para sistemas de detención de motor) o de alta tensión (HV) de metal-níquel para vehículos híbridos. Su ubicación varía y deben considerarse los riesgos eléctricos.
+*   **Alma:** Parte interior de múltiples fibras independientes, formando varios cordones que aportan el 75-80% de la resistencia. Su tejido determina si es semiestática o dinámica.
+*   **Camisa o "funda":** Grupos de hilos trenzados que dan resistencia a la abrasión y desgaste (rayos UVA, polvo, ácidos), aportando entre el 20-25% de la resistencia total.
 
-Los **sistemas de seguridad adicionales para ocupantes** comprenden:
-- **Tarjetas de acceso y arranque**: sistemas sin llave que desbloquean el vehículo por proximidad, activando el encendido automáticamente.
-- **Salpicadero**: diseñado para disipar energía y evitar lesiones, puede tener alma metálica.
-- **Asientos**: anatómicos y flexibles, fijados firmemente al suelo para evitar el "efecto submarino". Pueden tener ajustes eléctricos o neumáticos, así como calefacción o sensores de carga.
-- **Sillas especiales para niños**: el sistema ISOFIX proporciona una fijación segura en el asiento trasero.
-- **Acristalamientos**: lunas templadas (rompen en pequeños fragmentos) o laminadas (se agrietan sin desprenderse, manteniendo la visión). Las lunas de emergencia de autobuses son de vidrio templado para fácil rotura.
-- **Cinturones de seguridad**: obligatorios en todos los asientos, poseen elasticidad y pretensores para reducir el movimiento del ocupante y asegurar la retención.
-- **Airbags**: sistemas de retención suplementarios (SRS) que se inflan instantáneamente en caso de impacto. Pueden ser frontales (conductor, acompañante), laterales (puertas, asientos) o de cortina (techo), e incluso para rodillas o peatones. Los airbags inteligentes de doble fase ajustan el inflado a la severidad del impacto.
+###### 6.3. Clases de Cuerdas
 
-### Vehículos Pesados: Camiones y Autobuses
+**6.3.1. Por sus Propiedades Mecánicas**
 
-Los **camiones** tienen una estructura básica con bastidor (largueros y travesaños muy resistentes) y una cabina (autoportante de acero). Su altura de cabina puede llegar a 3,70 m.
+Existen dos tipos principales:
 
-Los **autobuses** se clasifican en autoportantes (estructura multitubular) o con bastidor y carrocería independiente. Cuentan con refuerzos en la estructura para la seguridad de los pasajeros. Los espacios especiales incluyen cabina de aseo, cocina a bordo, maletero y cabina de descanso del conductor.
+*   **Cuerdas dinámicas:** Usadas en maniobras con riesgo de caída (progresiones de primero o segundo de cuerda). Tienen una capacidad de alargamiento de 6-10% debido a su trenzado en espiral, que actúa como muelle y reduce la energía de la caída. Se regulan por la norma europea EN 892; el número de terminal indica su uso (simple, doble o gemela) y suelen ser de colores llamativos.
+*   **Cuerdas semiestáticas:** Usadas para trabajos en suspensión (ascenso o descenso) y para remontar heridos en rescates. Su alargamiento es menor (2-5%), evitando el efecto "yo-yo" por su baja elasticidad. Se regulan por la norma europea EN 1891 y suelen ser blancas, aunque pueden encontrarse en otros colores.
+    *   **Tipo A:** Resistencia mínima de 22 kN. Fuerza de choque máxima soportada: factor 0,3 con masa de 100 kg.
+    *   **Tipo B:** Resistencia mínima de 18 kN. Fuerza de choque máxima soportada: factor 0,3 con masa de 80 kg.
 
-Las **fuentes de energía motriz** en vehículos pesados incluyen:
-- **Gasolina y gasoil**: motores de combustión interna, siendo el gasoil el más extendido. Los depósitos están integrados en el chasis o bajo los asientos.
-- **Gas Licuado de Petróleo (GLP) y Gas Natural Comprimido (GNC)**: combustibles alternativos con depósitos resistentes. El GNC se almacena a altas presiones (200 bar), mientras que el GLP a bajas presiones (6-7 bar). Ambos tienen válvulas de seguridad y limitadores de caudal.
-- **Vehículos eléctricos e híbridos**: combinan motores eléctricos y de combustión. Las baterías de alto voltaje (hasta 650 V) suelen ubicarse en el techo en autobuses híbridos.
-- **Vehículos hidrogenados**: utilizan hidrógeno almacenado a presión (300-700 bares). El hidrógeno se libera a presión si se detecta una fuga, y arde con llamas no visibles.
+Si el factor de caída supera 0,3 en cualquiera de estos tipos de cuerda, es necesario un aseguramiento con cuerda dinámica.
 
-### Técnicas de Abordaje y Excarcelación en Vehículos Pesados
+**6.3.2. Por su Resistencia**
 
-La intervención en vehículos pesados requiere herramientas de mayor capacidad debido a su robustez.
+El diámetro es el factor más importante para evaluar la resistencia de la cuerda. Las cuerdas varían de 2 a 11 mm; los diámetros de 8 a 11 mm son los más comunes, mientras que los diámetros menores se denominan cordinos.
 
-- **Creación de espacios o excarcelación**: implica abrir huecos y retirar elementos para acceder a las víctimas.
-- **Acceso a través de los vidrios**: los parabrisas de camiones pueden pesar hasta 35 kg. Se recomienda proteger a los ocupantes y utilizar sierras o cizallas para cortar el cristal.
-- **Apertura/retirada de puertas**: en camiones y autobuses, las puertas basculantes o corredizas pueden abrirse con pulsadores, llaves de emergencia o herramientas hidráulicas.
-- **Retirada de laterales y creación de una tercera puerta**: en vehículos de dos puertas, se elimina la puerta delantera y se realizan cortes en los pilares B y C para crear una gran abertura lateral.
-- **Abatimiento/retirada de techo**: se recorta el parabrisas, se eliminan los revestimientos interiores y se cortan los montantes para abatir el techo hacia adelante o hacia atrás. Si el vehículo está volcado, se utiliza la "maniobra de la ostra" para abrir el techo y liberar a las víctimas.
-- **Maniobras con asientos y volante**: los asientos pueden regularse manualmente, eléctricamente o neumáticamente. Es posible cortar los asientos o abatirlos. La columna de dirección puede regularse o empujarse para crear espacio.
-- **Liberación de atrapamiento por pedales**: se realizan cortes de alivio en la base del pilar A y se utiliza un separador hidráulico o herramientas para retirar los pedales.
-- **Corte y abordaje en vehículos de fibra/plástico**: se utilizan sierras de sable o vaivén para cortar piezas de fibra de carbono.
-- **Técnicas específicas en vehículos descapotables**: los aparatos hidráulicos de bomberos pueden no ser adecuados para cortar los tubos de refuerzo de la capota. Los sistemas de arco protector (ROPS) se activan automáticamente en caso de vuelco.
+**6.3.3. Por su Utilización**
 
-### Estabilización de Vehículos Pesados
+Según su uso, se clasifican en:
 
-- **Estabilización sobre las ruedas**: se bloquean las ruedas con calzos y se utilizan bloques de estabilización para reforzar el apoyo.
-- **Estabilización sobre el costado**: se emplean puntales mecánicos o hidráulicos para soportar el vehículo, asegurándolos con cinchas.
-- **Estabilización sobre el techo**: se usan cojines hinchables de baja o alta presión, o cuñas de escalera para estabilizar y elevar el vehículo.
-- **Estabilización solidaria de varios vehículos**: se estabilizan los vehículos de forma independiente y luego se unen con correas.
+*   **Cuerdas de uso en simple (9,4 a 11 mm de diámetro):** Solo se conectan con un cabo. Nunca deben usarse con dos cabos, ya que la fuerza de choque en caso de caída sería muy alta (pictograma 1).
+*   **Cuerdas de uso en doble (8 a 9 mm de diámetro):** Se usan encordando ambos cabos a la vez, pasándolos por los seguros de forma alterna. Su ventaja es que, si un cabo se daña en un borde afilado, la seguridad no depende de una sola cuerda. Estadísticamente, no se han registrado roturas de ambas cuerdas por cortes. Este tipo se representa con el pictograma ½.
+*   **Cuerdas de uso en gemelas (8 a 9 mm de diámetro):** Se usan como si fueran cuerdas simples, encordando ambos cabos a la vez y pasándolos por los seguros también a la vez. Se representan con el pictograma de intersección (dos círculos entrelazados).
 
-### Técnicas de Extracción de Víctimas
+###### 6.4. Revisión y Mantenimiento de las Cuerdas
 
-La extracción de víctimas es prioritaria y debe ser coordinada con los servicios sanitarios, manteniendo la alineación cabeza-cuello-tronco.
+Es fundamental revisar periódicamente las cuerdas para detectar cortes, daños en la camisa o discontinuidades en el alma. Cualquier anomalía debe llevar a su descarte. La revisión incluye una inspección visual y la prueba del bucle para detectar roturas en el alma mediante el tacto (imagen 9).
 
-- **Inmovilización**: se utiliza un collarín ortopédico y, si es necesario, una tabla espinal o Ferno-Ked para trasladar al herido.
-- **Maniobra de Rautek**: consiste en liberar las piernas, pasar los brazos del rescatador por debajo de las axilas del herido, sujetar uno de los antebrazos con una mano y la mandíbula con la otra para extraerlo.
-- **Extracción lateral o colocación del Ferno-Ked**: se introduce el Ferno-Ked por un lateral, se ajustan las cintas y se gira a la víctima sobre la tabla.
-- **Extracción por parte trasera**: se abate el asiento, se utiliza el respaldo como tabla de apoyo y se traslada a la víctima con el tablero espinal.
+Las cuerdas también deben revisarse y reemplazarse si se sospecha de su integridad tras un choque o caída importante, ya que el desgaste no siempre es evidente. Antes del primer uso, incluso antes de marcar su longitud, es aconsejable sumergirlas en agua, ya que tienden a encoger un 2%.
 
-## Gestión de la Información y Coordinación
+##### 7. Física de la Caída
 
-La correcta gestión de la información y la coordinación entre los diferentes servicios de emergencia (bomberos, fuerzas del orden, sanitarios, protección civil, etc.) son fundamentales para el éxito de la intervención. Esto incluye el establecimiento de un Puesto de Mando Avanzado (PMA), la asignación de roles (jefe de intervención, coordinador de rescate, jefe de equipo, socorristas, especialistas, etc.) y la creación de un sistema de comunicación efectivo (radio, telefonía móvil, mapas). La información se recopila, analiza y contrasta continuamente para adaptar el plan de acción a las circunstancias cambiantes del siniestro. Se prioriza la seguridad del personal y de las víctimas en todo momento.
+###### 7.1. Energía de una Caída
 
-En situaciones de búsqueda de personas desaparecidas en grandes áreas, se emplean métodos como la **búsqueda probabilística** (identificación de rutas prioritarias con alta probabilidad de hallazgo) y la **búsqueda sistemática** (rastreo completo de un área segmentada en sectores). Para ello, se utilizan herramientas cartográficas (mapas, ortofotos, GPS) y tecnologías de localización de teléfonos móviles. Los factores antrópicos (edad, estado psicológico, destreza) y psico-sociales (alarma social, relación con familiares, medios de comunicación) influyen en la estrategia de búsqueda.
+Es crucial comprender la energía que se puede generar en una caída durante trabajos con cuerda, especialmente en ascensos. El concepto de riesgo de caída debe dominarse.
 
-Finalmente, la **prevención** es clave para evitar que las situaciones de emergencia lleguen a producirse, implicando la divulgación de pautas de comportamiento seguro a la población.
+La gravedad de una caída depende de varios parámetros:
+
+*   **Masa del usuario con equipo:** A mayor masa, mayor energía a disipar. La masa influye en la fuerza de choque (ver sección de rescatador); una caída acumula energía cinética que aumenta con la altura. La cuerda absorbe parte de esta fuerza.
+*   **Altura de la caída:** A mayor altura, más energía a disipar y mayor riesgo de chocar con obstáculos.
+*   **Posición respecto al anclaje:** Si el trabajador asciende por encima del anclaje, la gravedad de la caída aumenta. El factor de caída describe la posición del trabajador en relación al anclaje y la severidad de la caída.
+
+En una caída de 1,2 m con una cuerda dinámica de 0,6 m de longitud, la fuerza de choque sobre la cuerda dinámica es de 7 kN. En una caída de 1,2 m con un anillo de cinta o cuerda estática de 0,6 m de longitud, la fuerza de choque es de 18 kN. (1 kN = 100 kg de fuerza) (Imagen 10).
+
+###### 7.2. Absorción de Energía
+
+Una caída genera energía que debe ser absorbida por el sistema de aseguramiento, el nudo de encordamiento, los anclajes y el rescatador. La fuerza de choque que llega al rescatador no debe exceder 12 kN.
+
+Las normas deportivas de caída con cuerdas dinámicas establecen que la fuerza máxima de choque debe ser inferior a 12 kN. En el ámbito laboral, la normativa exige que el trabajador no soporte una fuerza superior a 6 kN. Para lograrlo, hay dos métodos:
+
+*   Asegurar que los elementos de amarre estén siempre fijados por encima del nivel de la cabeza, minimizando la altura de caída y las fuerzas de choque.
+*   Cuando no se puede limitar la caída, usar un EPI amortiguador de choques, como los absorbedores de energía.
+
+###### 7.3. Fuerza de Choque
+
+Cuando un bombero cae, el sistema de aseguramiento, especialmente la cuerda, debe absorber la energía. Si la cuerda absorbe correctamente la energía, el impacto sobre el bombero se reduce.
+
+###### 7.4. Efecto Polea
+
+En una caída, el último mosquetón por donde pasa la cuerda soporta dos fuerzas: la de choque del bombero y la del asegurador. Ambas se suman, creando el efecto polea. La fuerza del asegurador es menor debido al rozamiento del mosquetón. La fuerza total ejercida en el último punto (anclaje) es aproximadamente 1,60 veces la fuerza que actúa sobre el bombero que cae. Por ejemplo, si una caída genera 9 kN, el asegurador recibe aproximadamente 6 kN, y el anclaje soporta una carga de 15 kN (suma de la fuerza del bombero y la del asegurador).
+
+###### 7.5. Factor de Caída
+
+El factor de caída indica la severidad de una caída; a mayor valor, mayor gravedad. Se calcula dividiendo la altura de la caída entre la longitud de la cuerda utilizada para detenerla. En escalada normal, el valor suele estar entre 0 y 2.
+
+Es crucial entender que la severidad de la caída no solo depende de la altura, sino también de la longitud de la cuerda; una cuerda más larga puede estirarse más para amortiguar.
+
+*   La situación más peligrosa es un factor de caída de 2 (ej. caída de 10 m con 5 m de cuerda), siendo la más severa para el cuerpo y con mayor sobrecarga en los anclajes.
+*   Un factor de caída de 1 (ej. caída de 10 m con 10 m de cuerda) es menos grave y genera menor sobrecarga en los anclajes.
+*   Factores de caída inferiores a 1 son menos peligrosos.
+
+Cuantos más metros de cuerda estén en juego y más seguros intermedios se establezcan, menor será el factor de caída. Un caso excepcional es cuando el factor de caída supera 2, llegando a un factor 10 (ej. 10 m de caída con 1 m de cuerda), lo que implica riesgo de muerte (Imagen 13).
+
+###### 7.6. Aseguramiento Dinámico y Estático
+
+La detención de una caída provoca una sobrecarga en los anclajes y repercute en la fuerza de choque recibida por el bombero y en la cadena de seguridad. Siempre se debe usar cuerda dinámica, por lo que el aseguramiento será dinámico.
+
+Desde el punto de vista del dispositivo de frenado, existen dos tipos de aseguramiento:
+
+*   **Aseguramiento estático:** El dispositivo de freno bloquea la cuerda sin apenas deslizar. Detiene la caída rápidamente, pero todos los elementos de la cadena de seguridad sufren un fuerte impacto. Ejemplos son el GRIGRI® 2 y el I´D®. Un aseguramiento estático de 1200 daN en el anclaje central puede producir 2000 daN en un anclaje.
+*   **Aseguramiento dinámico:** El dispositivo de freno (como el ocho o un nudo dinámico) permite el deslizamiento de la cuerda, generando fricción que transforma parte de la energía en calor. Esto reduce notablemente el impacto sobre la cuerda y la cadena de seguridad, resultando en una detención más suave y segura. Un aseguramiento dinámico de 350 daN en el anclaje central puede producir 875 daN en un anclaje.
+
+##### 8. Acceso mediante Cuerdas: Concepto de Doble Cuerda
+
+En rescate, el concepto de doble cuerda implica el uso de dos cuerdas como norma general: la cuerda de tracción y la cuerda de vida o seguro. Es importante no confundirlo con el uso de cuerda en doble.
+
+*   **Cuerda de tracción:** Se utiliza para maniobras de rescate y trabajos en altura. Es una cuerda semiestática tipo "A" de 10-11 mm de diámetro. No es adecuada para asegurar caídas en progresión, por lo que siempre se debe usar una cuerda dinámica.
+*   **Cuerda de vida o de seguro:** Proporciona seguridad si falla algún elemento de la cuerda de tracción (SAS, mosquetones o la propia cuerda). En tal caso, el usuario quedaría suspendido de la cuerda de vida. Normalmente es una cuerda dinámica para absorber la fuerza de choque. Si el trabajo se asegura con un sistema anticaídas con absorbedor de energía, la cuerda de seguro puede ser semiestática. La cuerda de vida o seguro siempre debe estar sujeta a un SAS independiente de la cuerda de tracción.
+
+##### 9. Los Sistemas de Anclaje de Seguridad (SAS)
+
+Los Sistemas de Anclaje de Seguridad (SAS) son el equivalente a las reuniones en alpinismo y escalada, utilizados en rescates en altura. Deben cumplir varias características:
+
+*   **Número de anclajes:** Mínimo dos, idealmente tres. Al menos uno debe ofrecer garantía total, preferiblemente dos o más.
+*   **Mosquetones:** Deben ser de seguridad, sobredimensionados, con seguro y una resistencia longitudinal superior a 22 kN.
+*   **Cintas:** Deben tener resistencia adecuada y estar en perfectas condiciones.
+*   **Cuerdas:** Usar cuerdas en perfecto estado, nunca auxiliares.
+*   **Punto central de anclaje:** Además de los otros seguros, debe tener un punto central.
+*   **Simplicidad:** Su sencillez debe permitir una verificación rápida y visual para asegurar su fiabilidad con poco material.
+
+###### 9.1. Localización de los Anclajes
+
+La elección y la instalación de los puntos de anclaje son los aspectos más críticos del montaje del sistema de seguridad. La ubicación de los anclajes depende de la experiencia, pero deben cumplir:
+
+*   **Capacidad de resistencia:** Soportar grandes cargas (como el factor de caída). Deben ofrecer máximas garantías; si la capacidad es limitada, aumentar el número de anclajes.
+*   **Condición del anclaje:** Preferiblemente un árbol vivo sobre uno muerto, o un camión sobre un coche.
+*   **Naturaleza estructural:** Anclar a elementos estructurales como vigas o pilares, no a perfiles de ventana.
+*   **Localización de la fuerza:** Situar el anclaje lo más bajo posible en el plano vertical; por ejemplo, en una farola, anclar cerca de la base para reducir el brazo de palanca.
+*   **Dirección de la carga:** Revisar y, si es posible, instalar anclajes multidireccionales. Si son unidireccionales, verificar que la dirección de la carga no pueda cambiar y comprometer la seguridad.
+*   **Reenvíos y desviadores:** Si los anclajes no pueden estar cerca del sujeto, es necesario instalarlos.
+
+###### 9.2. Tipos de Puntos de Anclaje del SAS
+
+**9.2.1. SAS en línea**
+
+Se usa para unir anclajes muy distanciados o con resistencia desigual. La carga recae sobre el anclaje principal (el de mayor calidad). Es importante evitar dejar grandes bucles entre los anclajes.
+
+Hay dos posibilidades de configuración:
+*   Si el anclaje más robusto está más cerca del rescatador, actuará primero y, si falla, los demás anclajes entrarán en acción.
+*   Si el anclaje principal está arriba y el secundario abajo.
+
+Al equipar, es crucial cuidar los rozamientos.
+
+**9.2.2. SAS con Triángulo de Fuerzas**
+
+Este sistema distribuye la carga del punto central de anclaje de forma equitativa y multidireccional entre dos o más seguros, ajustándose a la nueva dirección si la carga se desplaza.
+
+*   **Ángulos:** Los ángulos exteriores del triángulo no deben superar los 60° para evitar sobrecargar los anclajes. Si son superiores a 60°, se deben elegir anclajes de buena calidad y tener precaución.
+*   **Anillo auxiliar:** Si se usa, la cuerda se pasa entre cada seguro y se aproxima al punto central, formando un bucle girando la cuerda entre cada seguro, unidos con un mosquetón. Hay que evitar que el nudo de unión del anillo (si no es cosido) quede entre dos mosquetones para que no interfiera.
+*   **Fallo de anclaje:** Si uno de los anclajes falla, los otros (o el otro) lo sostendrán. Por ello, todos deben ser de igual calidad. Si no es posible, se debe bloquear el triángulo con un nudo en el lado del anclaje dudoso.
+
+##### 9.3. Reenvíos y Desviadores
+
+Los desviadores son instalaciones comunes en rescate urbano y trabajos verticales, a veces usando un trípode como desviador. Un uso incorrecto, por desconocimiento de las fuerzas, incrementa el riesgo de sobrecarga en los anclajes y posibles accidentes.
+
+La carga en el anclaje del desviador aumenta con el ángulo que forma la cuerda al colocar el mosquetón: a mayor ángulo, menor sobrecarga. Por ejemplo, con un ángulo de 90º, la sobrecarga es del 141%. Si una camilla con un herido pesa 100 kg, la carga soportada a 90º sería de 141 kg. Si el ángulo se cierra al límite, se produce un efecto polea y la carga soportada podría duplicarse (200 kg).
+
+Por lo tanto, es necesario vigilar los ángulos de trabajo de los desviadores y sobredimensionar los anclajes y materiales (mosquetones, cintas) para asegurar su resistencia.

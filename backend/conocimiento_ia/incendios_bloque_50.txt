@@ -1,34 +1,148 @@
-### Técnicas de Extinción y Agentes Extintores en Incendios Industriales
+## Incendios Industriales
 
-La gestión de incendios industriales requiere un conocimiento profundo de las propiedades de los combustibles y los agentes extintores, así como de las técnicas de aplicación más adecuadas. La forma física del combustible es un factor determinante en la velocidad de combustión. Mientras que los sólidos finamente divididos (partículas mayores de 0.5 mm) experimentan una combustión rápida sin riesgo de explosión, los combustibles pulverulentos (partículas menores de 0.5 mm) pueden generar una combustión extremadamente rápida, incluso pirofórica o explosiva. En este último caso, la temperatura y energía de ignición necesarias son significativamente inferiores a las de las fuentes comunes. La selección del agente extintor adecuado se basa en la naturaleza específica del polvo, la ubicación del incendio, la presencia de otros equipos o materiales, y la disponibilidad de recursos.
+### 4.4. Incendios de Materiales Pulverulentos
 
-**Agentes Extintores para Materiales Pulverulentos**
+La velocidad de combustión se ve significativamente influenciada por la configuración física del combustible. En el caso de sólidos finamente divididos con un tamaño de partícula superior a 0,5 mm, la combustión es rápida pero no presenta riesgo de explosión. Por el contrario, si el combustible se encuentra en estado pulverulento con partículas inferiores a 0,5 mm, la combustión es extremadamente veloz, pudiendo ser pirofórica o incluso explosiva. Además, la temperatura y la energía de ignición requeridas para la explosión de nubes de polvo son considerablemente más bajas que las necesarias para fuentes de ignición comunes.
 
-Para incendios de materiales pulverulentos, se emplean diversos agentes:
-*   El **agua**, aplicada en forma nebulizada o de fina pulverización, es el agente extintor más común y eficaz para polvos de origen vegetal o sintético, como los plásticos. Sin embargo, su uso está contraindicado en incendios de metales reactivos (como aluminio o magnesio) y en presencia de tensión eléctrica. Además, no es efectiva en masas de polvo con más de un metro de profundidad, ya que tiende a embarrar la superficie, lo que limita su penetración. En estos casos, se recomienda el uso de aditivos humectantes para mejorar su capacidad de penetración.
-*   La **espuma física** tiene una aplicación limitada debido a su incapacidad para penetrar en depósitos de polvo, y su acción sofocante es mínima, ya que el aire puede ocupar los intersticios de la masa pulverulenta.
-*   El **polvo químico seco** se utiliza principalmente para incendios de polvo metálico, donde otros agentes pueden reaccionar violentamente. Su aplicación es manual y se restringe a incendios de pequeñas dimensiones.
-*   El **dióxido de carbono (CO₂)** y el **nitrógeno** pueden emplearse en incendios de materiales pulverulentos, siempre que no impliquen metales reactivos y se eviten las turbulencias. Estos gases son particularmente efectivos en masas de polvo confinadas en volúmenes cerrados como depósitos, silos o bodegas de buques. Para lograr una extinción completa, el gas o vapor debe mantenerse por un período prolongado, que puede extenderse desde días hasta semanas, con aportaciones suplementarias para compensar las pérdidas.
-*   Los **hidrocarburos halogenados**, como los halones (por ejemplo, Halón 1211 y 1301), están prohibidos por la normativa europea debido a su impacto ambiental negativo en la capa de ozono, aunque aún pueden encontrarse en instalaciones industriales antiguas. Han sido reemplazados por **agentes limpios** o gases inertes especiales, menos agresivos, que se mezclan rápidamente con la nube pulverulenta, inertizando el ambiente y logrando la extinción por sofocación.
+La selección del agente extintor adecuado es la decisión clave para el éxito en la extinción de estos incendios. Esta elección debe basarse en diversos factores, incluyendo la naturaleza del polvo, la ubicación del incendio, la presencia de otros equipos o materiales en las proximidades y la disponibilidad de recursos.
 
-**Agentes Extintores de Espuma en Incendios Industriales**
+#### 4.4.1. Agua
 
-La **espuma** es un agente extintor crucial para incendios de líquidos inflamables, que son frecuentes en entornos industriales. Se compone de un concentrado espumógeno, agua y aire, y su efectividad depende de la eficiencia del equipo de fabricación, la composición del concentrado y su fiabilidad. Aunque el mantenimiento de los concentrados de espumógeno no suele revisarse con frecuencia, su uso prolongado se basa en la experiencia y calidad del proveedor.
+El agua es el agente extintor más empleado, excepto en incendios de metales reactivos (como aluminio o magnesio) o en presencia de tensión eléctrica. Para incendios de materiales pulverulentos de origen vegetal y sintético (plásticos), la aplicación nebulizada o mediante fina pulverización resulta eficaz. Sin embargo, no penetra en masas de polvo con más de un metro de profundidad, formando una capa superficial de barro. En estos casos, se recomienda el uso de aditivos humectantes para disminuir la tensión superficial del agua y mejorar su capacidad de penetración.
 
-Existen diversas formas de generar espuma:
-*   La **premezcla** se refiere a una solución de espumógeno y agua ya combinada, como la que se encuentra en extintores o camiones de bomberos.
-*   El **proporcionador** o hidromezclador es un dispositivo que genera la mezcla de agua y agente emulsor/espumógeno. Sus componentes incluyen una carcasa, una boquilla que reduce la sección de paso del agua, un colector que canaliza la mezcla, una cámara de mezcla donde se produce la combinación, una línea de succión para el emulsor, una válvula de retención para evitar el retorno de agua a los bidones de emulsor, una derivación o *bypass* para el agua limpia y una válvula de compensación para regular el flujo. Funciona ramificando el caudal de agua en dos circuitos: uno a través de la boquilla hacia la cámara de mezcla y otro directamente a la salida. La reducción de la sección de la boquilla crea una depresión (efecto Venturi) que aspira el emulsor desde el depósito a través de un mangote, dosificándolo según la demanda.
-*   Los **tanques a presión sin membrana** contienen espumógeno presurizado. Una parte del agua a presión se mezcla con el espumógeno en el depósito, mientras otra pasa por un proporcionador que, mediante el efecto Venturi, extrae la mezcla de espumógeno y agua del tanque.
-*   Los **tanques de membrana** tienen el espumógeno dentro de una membrana. El agua a presión entra en el proporcionador, una parte al depósito para presionar la membrana y expulsar el espumógeno, y otra parte de agua atraviesa el proporcionador, absorbiendo el espumógeno de la membrana por efecto Venturi.
-*   El **sistema de bombeo** es más complejo y está compuesto por un depósito de espumógeno, bombas para su impulsión, un controlador, proporcionador, sondas de presión, manómetros, válvulas de *by-pass* y otros elementos auxiliares. Se realizan mediciones de presión tanto en la línea de suministro de agua como en la de espumógeno, y se suministra el caudal necesario según la demanda, devolviendo el sobrante al depósito.
-*   El **proporcionador de presión balanceada en línea** es similar al sistema de bombeo, pero se utiliza cuando el depósito de espumógeno y la bomba de suministro están muy distantes entre sí.
-*   Las **boquillas auto-aspirantes** integran el proporcionador directamente en la boquilla de descarga y se instalan comúnmente en monitores.
-*   Las **bombas hidráulicas** mezclan el espumógeno con agua mediante difusión volumétrica. El agua a presión se dirige a una bomba hidráulica conectada a una bomba dosificadora de espumógeno, garantizando que el caudal de espumógeno sea proporcional al caudal de agua. Una válvula de tres vías gestiona el espumógeno sobrante, devolviéndolo al depósito o introduciéndolo en el sistema.
-*   Los **sistemas portátiles** (PRO-PAK) son equipos multiexpansión utilizados en fuegos de rastrojo, viviendas o vehículos, aplicando técnicas de inundación y cubrición. Operan con caudales máximos de 45 LPM a 7 bares y requieren una presión mínima de 3 bares. Son dispositivos sencillos y ligeros (aproximadamente 16 kg), que incorporan un inyector y permiten ajustar el caudal. Pueden dosificar el espumógeno mediante el efecto Venturi o con bombas auxiliares.
+#### 4.4.2. Espuma Física
 
-**Clasificación y Aplicaciones de Espumas**
+El uso de espuma física en este tipo de incendios es limitado. Su capacidad para penetrar en depósitos de polvo es baja, y su efecto sofocante sobre la superficie es reducido debido a la presencia de aire entre las partículas del polvo.
 
-Las espumas se clasifican principalmente según su ratio de expansión:
-*   Las **espumas de baja expansión** (ratio 20:1) están diseñadas para combatir incendios de líquidos inflamables (Clase B), controlando, confinando y extinguiéndolos eficazmente. También son útiles en fuegos de Clase A por su capacidad de enfriamiento. La densidad de aplicación, expresada en litros de solución agua-concentrado por minuto y metro cuadrado, determina el número de lanzas necesarias. Para derrames, la aplicación es de 5 litros/min/m². Una densidad de aplicación por debajo del mínimo recomendado aumenta el tiempo de extinción e incluso puede impedir el control del incendio.
-*   Las **espumas de media expansión** (ratio 20:1 a 200:1) se utilizan para suprimir la vaporización de químicos peligrosos. La expansión óptima para químicos reactivos e líquidos orgánicos de bajo punto de ebullición se sitúa entre 30:1 y 50:1. Son aplicables en zonas confinadas como sótanos, pozos, minas, barcos, alcantarillados y salas de máquinas, donde la inaccesibilidad es un factor. Presentan una textura suave y excelente fluidez, siendo significativas en la prevención de incendios en derrames de líquidos inflamables. Su rendimiento se calcula de manera aproximada, similar a las espumas de baja expansión.
-*   Las **espumas de alta expansión** (ratio > 200:1) están concebidas para incendios en espacios confinados como garajes, bodegas, sótanos, minas y hangares. Extinguen por enfriamiento y sofocación, pero su bajo contenido en agua (1:1000) hace que gran parte se destruya por el fuego en avance. Se aplican en espacios confinados con ventilación controlada, donde el tiraje de humo y gases calientes se opone al punto de aplicación de la espuma. El objetivo es llenar el local de espuma a una velocidad y cantidad adecuadas, con una profundidad eficaz sobre el incendio (aproximadamente 60 cm). No son efectivas en incendios exteriores, excepto en rangos de expansión bajos (1:300), y su desintegración puede ocurrir por calor, fugas o rociadores. El cálculo del caudal de espuma de alta expansión es complejo, influenciado por la intervención, el almacenamiento, el material y el estado de combustión. La fórmula NFPA, R = (V/T) * Cn * Cl, proporciona un caudal orientativo (R es la velocidad de descarga en m³/min, V el volumen del espacio en m³, T el tiempo de descarga en min - de 2 a 8 -, C la compensación por contracción de 1.15 y Cn la compensación por fugas de 1.0 a 1.2), siendo válida cuando el fuego ya está extendido.
+#### 4.4.3. Polvo Químico Seco
+
+Este agente se emplea principalmente en incendios de polvo de origen metálico, ya que estos pueden reaccionar de forma muy enérgica con otros agentes extintores. La aplicación suele ser manual, lo que restringe su uso a incendios de pequeñas proporciones.
+
+#### 4.4.4. Anhídrido Carbónico y Nitrógeno
+
+El anhídrido carbónico, el nitrógeno e incluso el vapor de agua pueden utilizarse como agentes extintores en incendios de materiales pulverulentos, con la excepción de polvos de metales reactivos y siempre que se eviten las turbulencias. Son efectivos cuando la masa de polvo se encuentra confinada en un volumen cerrado al paso de gases, como en depósitos, silos o bodegas de buques. Para garantizar una extinción completa, el gas o vapor debe mantenerse por un período prolongado (que puede extenderse días o semanas), requiriendo aportaciones suplementarias para compensar las pérdidas.
+
+#### 4.4.5. Hidrocarburos Halogenados y Otros Gases Extintores Especiales
+
+Los hidrocarburos halogenados, como el Halón 1211 y el 1301, tienen un uso limitado como agentes extintores en incendios de pequeña magnitud. Es importante destacar que los halones no deben emplearse en presencia de polvos de metales reactivos. Aunque su uso está prohibido, todavía se encuentran en antiguas instalaciones industriales con sistemas automáticos de extinción. Estos han sido reemplazados por gases inertes especiales, menos perjudiciales para la capa de ozono, que se mezclan rápidamente con la nube pulverulenta e inertizan el ambiente.
+
+### 5. Uso de Espumas en Incendios Industriales
+
+La espuma es una combinación de concentrado espumógeno, agua y aire. Constituye uno de los agentes extintores más relevantes para líquidos inflamables, que son la causa más común de incendios industriales. Su eficacia está ligada a la eficiencia del equipo de fabricación, su composición y la fiabilidad del concentrado espumógeno.
+
+El mantenimiento regular de los equipos operativos y vehículos de bomberos es crucial para asegurar su funcionamiento óptimo. Sin embargo, los concentrados espumógenos almacenados en bidones o tanques rara vez son inspeccionados debido a la falta de métodos de verificación no destructivos. Por tanto, su uso prolongado depende en gran medida de la habilidad, experiencia y la calidad garantizada por los proveedores.
+
+#### 5.1. Formas de Generación de Espumas
+
+Para producir espuma, se requieren agua, aire y espumógeno. El primer paso implica obtener la mezcla de agua y espumógeno, lo cual se logra mediante los siguientes sistemas:
+
+##### 5.1.1. Premezcla
+
+En este sistema, el espumógeno y el agua ya están mezclados. Es común encontrarlo en extintores o camiones de bomberos.
+
+##### 5.1.2. Proporcionador (o Hidromezclador)
+
+Este elemento genera la mezcla de agua y agente emulsor (espumógeno). De él emerge un tubo que se sumerge en el depósito del espumógeno. Un volante lateral permite ajustar la proporción del emulsor líquido en la mezcla (agua-emulsor), que generalmente oscila entre el 1% y el 6%.
+
+Un proporcionador en línea de manguera se compone de las siguientes partes:
+
+1.  **Carcasa**: El cuerpo principal del dispositivo.
+2.  **Boquilla**: Reduce la sección de paso del agua. Su diámetro de entrada es de aproximadamente 8 mm.
+3.  **Colector**: Canaliza la mezcla de agua-emulsor, con una concentración más elevada que la de salida.
+4.  **Cámara de Mezcla**: Donde se produce la mezcla de agua y emulsor.
+5.  **Línea de Succión**: El conducto por donde entra el emulsor.
+6.  **Válvula de Retención**: Impide que el agua retroceda por la línea de succión hacia los bidones de emulsor.
+7.  **Derivación o Bypass**: Desvía el agua hacia el circuito de agua limpia.
+8.  **Válvula de Compensación**: Regula la cantidad de agua que fluye por el circuito de agua limpia y, en consecuencia, la que se fuerza a través del circuito de mezclado.
+
+En su funcionamiento, el caudal de agua que ingresa por la boca de entrada se divide en dos circuitos: uno que pasa por la boquilla y se dirige a la cámara de mezcla, y otro que se conecta directamente a la salida mediante la válvula de compensación. La reducción de la sección de la boquilla incrementa la velocidad del agua en la cámara de mezcla, lo que genera una depresión (efecto Venturi) que aspira el concentrado de espuma desde la línea de succión, si esta está conectada a un depósito de emulsor.
+
+##### 5.1.3. Tanque a Presión Sin Membrana
+
+Este sistema consta de un depósito presurizado que contiene espumógeno, sobre el cual se instala un proporcionador. El agua a presión circula por el proporcionador: una parte entra al depósito para mezclarse con el espumógeno, y la otra parte atraviesa el proporcionador y, por efecto Venturi, extrae la mezcla de espumógeno y agua que se encuentra en el depósito en ese momento.
+
+##### 5.1.4. Tanque de Membrana
+
+Este sistema incluye un depósito con una membrana interna que contiene el espumógeno, junto con un proporcionador. El agua a presión entra en el proporcionador, y una parte se dirige al depósito, donde presiona la membrana para expulsar el espumógeno. La otra parte del agua atraviesa el proporcionador y, por efecto Venturi, absorbe el espumógeno liberado por la membrana.
+
+##### 5.1.5. Sistema de Bombeo
+
+Este sistema es más complejo y comprende: un depósito de espumógeno, bombas para impulsar el espumógeno, un controlador de bombas, un proporcionador, sondas de presión, manómetros, válvulas de bypass y otros elementos auxiliares. Se realizan mediciones de presión tanto en la línea de suministro de agua como en la línea de suministro de espumógeno. En función de la demanda, se ajusta el caudal de espumógeno suministrado, y el excedente se devuelve al depósito.
+
+##### 5.1.6. Proporcionador de Presión Balanceada en Línea
+
+Es similar al sistema de bombeo, pero se aplica específicamente cuando el depósito de espumógeno y la bomba de suministro están significativamente distanciados.
+
+##### 5.1.7. Boquillas Auto-Aspirantes
+
+Funcionan de manera similar a un proporcionador, pero el proporcionador está integrado en la propia boquilla de descarga. Estas boquillas se instalan en monitores.
+
+##### 5.1.8. Bombas Hidráulicas
+
+En estos sistemas, la mezcla de espumógeno con agua se realiza mediante difusión volumétrica. El agua a presión entra en una bomba hidráulica conectada a la bomba dosificadora de espumógeno, lo que garantiza que el caudal de espumógeno sea proporcional al caudal de agua demandado. Una válvula de tres vías gestiona el espumógeno, devolviendo el excedente al depósito o introduciéndolo en el sistema para la mezcla con agua.
+
+##### 5.1.9. Otros Sistemas Portátiles (Pro-Pak)
+
+Este sistema multi-expansión se emplea para incendios de rastrojo, incendios secos, incendios en viviendas y vehículos, y otros, utilizando técnicas tanto de inundación como de cubrición. Soporta un caudal máximo de 45 LPM a 7 bares de presión y requiere una presión mínima de 3 bares. Es un dispositivo de uso sencillo, con un peso reducido (aproximadamente 16 kg). Algunas características notables incluyen: un inyector integrado; una autonomía de 7 minutos al 3%, 21 minutos al 1% y 3 horas al 0,1%; y la capacidad de ajustar el caudal desde el mismo mango, lo que facilita un control continuo.
+
+En general, la dosificación de espumógeno para la corriente de agua se puede realizar mediante dos procedimientos:
+
+*   **Métodos que utilizan la energía de la presión en la corriente de agua (efecto Venturi)**: El concentrado se introduce a través de orificios, lo que genera una pérdida de presión del 35% en la corriente de agua. En este grupo se incluyen el eductor de lanza (N.P.U.), los inductores en línea y los dosificadores alrededor de la bomba.
+*   **Métodos que emplean bombas auxiliares o presión de caída**: Para inyectar el concentrado en la corriente de agua en una proporción fija respecto al caudal.
+
+#### 5.2. Tipos de Espuma
+
+Las espumas se clasifican en espumas de baja, media y alta expansión.
+
+##### 5.2.1. Espumas de Baja Expansión
+
+Poseen un ratio de expansión de 20:1. Están diseñadas para combatir incendios de líquidos inflamables, controlando, confinando y extinguiendo la mayoría de los fuegos de Clase B. Son también efectivas en fuegos de Clase A, donde su capacidad de enfriamiento es muy útil.
+
+Sus propiedades incluyen:
+*   Gran capacidad de retención de agua.
+*   Burbujas minúsculas y tenaces.
+*   Elevada resistencia al calor.
+
+El agua que contiene contaminantes (detergentes, residuos de petróleo o inhibidores de corrosión) puede reducir la calidad de la espuma. En general, las espumas son más estables si se generan con agua dulce o de mar, a una temperatura entre 12 ºC y 27 ºC.
+
+La aplicación más adecuada de la espuma de baja expansión es para controlar y extinguir la mayoría de los incendios de líquidos inflamables (Clase B). Debido a su alto contenido de agua, también es eficaz en incendios de Clase A. Por esta misma razón, no debe aplicarse sobre elementos con tensión eléctrica, ya que es un buen conductor de la electricidad.
+
+No se recomienda su uso sobre derrames de gases licuados como butadieno, propano o cloruro de vinilo. Tampoco debe utilizarse en incendios de materiales que reaccionan con agua, como los fuegos de Clase D o carburo de calcio.
+
+La densidad de aplicación de la espuma es un factor clave para su éxito. Se expresa como los litros de solución agua-concentrado (no de espuma expandida) que alcanzan la superficie del combustible. Es decir, la densidad de aplicación indica los litros de solución por minuto (caudal de la lanza) y por metro cuadrado. Esta densidad también determina el número de lanzas necesarias en función de la extensión del líquido inflamado.
+
+Las espumas de baja expansión (sintéticas de triple expansión y polivalentes) deben aplicarse con una densidad de cinco litros por minuto y metro cuadrado para incendios de derrames. Al aumentar la densidad de aplicación por encima del mínimo recomendado, el tiempo requerido para la extinción se reduce. Sin embargo, si la densidad de aplicación es inferior a dicho mínimo, el tiempo necesario para la extinción será mayor y podría no lograrse el control del incendio.
+
+La siguiente operación permite determinar el número mínimo de lanzas necesario para combatir eficazmente un derrame:
+
+**Superficie del derrame x densidad de aplicación = Caudal necesario**
+
+Una vez obtenido el caudal, se calcula el número de lanzas (en función de lanzas de 200 y 400 l/m) que permitan completar la operación.
+
+**Ejemplo de cálculo:**
+
+*   **Pregunta**: ¿Cuál sería el caudal necesario para extinguir un derrame de 56 m² (7 x 8m) de superficie?
+    *   **Cálculo**: 56 m² x 5 litros/m² · minuto = 280 L/min.
+    *   **Respuesta**: Se requiere un caudal igual o superior a 280 L/min, lo que se logra con una sola lanza de 400 L/min o con dos de 200 L/min.
+*   **Pregunta**: ¿Cuál sería el caudal para un derrame de 100m² de superficie?
+    *   **Cálculo**: 100 m² x 5 L/m² · min = 500 L/min.
+    *   **Respuesta**: Se necesitan dos lanzas (una de 400 L/min y otra de 200 L/min) o tres lanzas de 200 L/min.
+    *   (Fuente: Zapater (1988)).
+
+### 5.2.2. Espumas de Media Expansión
+
+Su ratio de expansión varía de 20:1 a 200:1. Están diseñadas para suprimir la vaporización de químicos peligrosos. Empíricamente, la expansión óptima para suprimir químicos reactivos con el agua y líquidos orgánicos de bajo punto de ebullición se sitúa entre 30:1 y 50:1.
+
+La aplicación de espuma de media expansión es adecuada en áreas confinadas (como sótanos, pozos de minas, barcos, alcantarillados, salas de máquinas) y otros lugares donde la temperatura o sus propias dimensiones los hacen inaccesibles.
+
+La espuma de media expansión posee una textura suave y una excelente fluidez que le permite sortear obstáculos. Es relevante su uso para prevenir incendios en derrames de líquidos inflamables.
+
+Los cálculos de rendimiento para espumas de media expansión se realizan de manera aproximada, tomando como punto de partida la densidad de aplicación, de forma similar a las espumas de baja expansión.
+
+### 5.2.3. Espumas de Alta Expansión
+
+Estas espumas, con un ratio de expansión superior a 200:1, están diseñadas para combatir incendios en espacios confinados (garajes, bodegas, sótanos, minas, hangares, etc.).
+
+Funcionan controlando y extinguiendo el fuego mediante enfriamiento y sofocación. Sin embargo, su bajo contenido de agua (1 litro de agua y concentrado producen 1.000 litros de espuma) significa que gran parte de la espuma puede ser destruida por el avance del fuego.
+
+Su aplicación principal es en espacios confinados, pero requieren ventilación que permita la salida de humo y gases calientes mientras la espuma generada entra. El tiro del incendio debe estar en el lado opuesto al lugar de aplicación de la espuma de alta expansión para que esta pueda entrar. Para evitar daños irreversibles, es necesario llenar el espacio con espuma a una velocidad adecuada, en cantidad suficiente y hasta una profundidad eficaz por encima del incendio. La profundidad de la capa de espuma debe ser de aproximadamente sesenta centímetros.

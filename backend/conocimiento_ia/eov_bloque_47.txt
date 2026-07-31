@@ -1,62 +1,170 @@
-# Equipos de Protección Individual para Trabajos con Tensión Eléctrica
+El presente documento describe de manera exhaustiva el equipamiento de protección individual (EPI) y las herramientas de intervención esenciales para las oposiciones de bomberos y emergencias, basándose en información técnica rigurosa.
 
-Los trabajos que implican exposición a tensión eléctrica, con voltajes nominales superiores a 1000 V en corriente alterna o 1500 V en corriente continua, exigen el uso de equipos de protección individual (EPI) y herramientas específicamente diseñadas con propiedades aislantes. Estos dispositivos deben cumplir rigurosas normas internacionales, como la IEC/EN 60900, que garantiza su seguridad en el diseño, fabricación y métodos de prueba.
+**Capítulo 1. Equipos de Protección Individual (EPI)**
 
-## Guantes Dieléctricos
+**1. Características Generales de los Equipos para Trabajos con Riesgo Eléctrico**
 
-Los **guantes dieléctricos** son EPI fundamentales que protegen al trabajador de descargas eléctricas. Se fabrican generalmente con **caucho natural**, ofreciendo una resistencia a la tracción mínima de 16 MPa, una elongación a la ruptura no inferior al 600%, y una resistencia a la perforación de al menos 18 N/mm. Además, deben mantener sus propiedades en un rango de temperatura de -25 ± 3°C durante al menos una hora y ser resistentes a la propagación de la llama (tras una aplicación de 10 segundos).
+**1.1. Definición**
+Se define como herramienta a todo instrumento de uso manual. En el contexto del sector eléctrico, estas herramientas facilitan operaciones como torsión, tracción, sujeción, impacto, corte, medición, demarcación y perforación. Un aspecto crucial es que deben estar aisladas en sus zonas de contacto manual para prevenir electrocuciones accidentales, dada la inherente peligrosidad de trabajar con corriente eléctrica.
 
-Estos guantes se clasifican en diferentes **clases** según el nivel máximo de tensión de trabajo que soportan:
-*   **Clase 00**: hasta 500 V
-*   **Clase 0**: hasta 1.000 V
-*   **Clase 1**: hasta 7.500 V
-*   **Clase 2**: hasta 17.000 V
-*   **Clase 3**: hasta 26.500 V
-*   **Clase 4**: hasta 36.000 V
+**1.2. Conceptos Clave en los Trabajos con Tensión Eléctrica**
+Para comprender el riesgo eléctrico, es fundamental manejar los siguientes conceptos:
+*   **Corriente Continua (CC)**: Flujo eléctrico que mantiene una dirección constante.
+*   **Corriente Alterna (CA)**: Flujo eléctrico que invierte su dirección periódicamente.
+*   **Unidades de Medida**:
+    *   **Voltio (V)**: Unidad que cuantifica el potencial eléctrico, la fuerza electromotriz y la tensión.
+    *   **Amperio (A)**: Unidad que mide la intensidad de la corriente eléctrica.
+    *   **Ohmio (Ω)**: Unidad que representa la resistencia o continuidad de un circuito.
 
-Asimismo, se categorizan por su resistencia a agentes químicos o temperaturas:
-*   **Categoría A**: resistencia al ácido.
-*   **Categoría H**: resistencia al aceite.
-*   **Categoría Z**: resistencia al ozono.
-*   **Categoría R**: resistencia al ácido, aceite y ozono.
-*   **Categoría C**: resistencia a muy bajas temperaturas.
+**1.3. Normativa**
+Para el bombero que realiza trabajos con riesgo eléctrico, es imperativo garantizar la protección contra el contacto con cualquier elemento a un potencial diferente al suyo. Para ello, se requiere el uso de material aislante específico o material adaptado a la tarea.
+Las herramientas se clasifican en dos categorías según la normativa IEC/EN60-900:
+*   **Herramientas Aisladas**: Fabricadas en metal y recubiertas total o parcialmente con material aislante.
+*   **Herramientas Aislantes**: Compuestas principalmente por material aislante, pudiendo incluir insertos conductores para refuerzo, siempre que las partes metálicas no sean accesibles para evitar cortocircuitos.
 
-Para su uso, es imperativo que los guantes estén en perfecto estado y se empleen en **tareas eléctricas específicas**, como la conexión y desconexión de circuitos energizados, trabajos de puesta a tierra, manipulación de superficies o conductores bajo tensión. Adicionalmente, pueden servir como doble protección al usar otras herramientas aislantes. Siempre se recomienda el uso de guantes de cuero por encima para protección mecánica, o guantes finos ignífugos por debajo para mayor seguridad.
+Los trabajos en tensión o cerca de partes activas, con una tensión nominal superior a 1000 V en corriente alterna o 1500 V en corriente continua, exigen el empleo de herramientas aisladas o aislantes con una resistencia eléctrica que exceda la tensión de trabajo. Estos equipos deben cumplir con la norma internacional IEC/EN 60 900 y llevar el marcado 1.000 V IEC / EN 60-900, indicando el fabricante, la referencia de la herramienta y el año de fabricación. Tanto en baja como en alta tensión, el equipo personal (guantes dieléctricos, banqueta, pértiga) debe ser el adecuado, y para alta tensión se requieren dos o más elementos de seguridad combinados.
 
-El **mantenimiento** incluye inspecciones periódicas visuales (cada 30-90 días) y dieléctricas (según la clase y norma EN 60903). Los guantes de clase 1 a 4 no deben usarse si no han sido verificados en los últimos seis meses. Se almacenan en bolsas de nylon impermeabilizadas, protegidos de fuentes de calor y en un rango de temperatura de 10-21°C. La limpieza se realiza con agua y jabón, sin exceder los 65°C.
+**2. Equipos de Intervenciones con Riesgo Eléctrico**
 
-## Pértigas Aislantes
+**2.1. Guantes Dieléctricos**
 
-Las **pértigas aislantes** son herramientas compuestas por tubos de material aislante, a menudo telescópicos, que permiten trabajar a distancia con elementos bajo tensión. Su función principal es el rescate y la verificación de ausencia de tensión. Están equipadas con una empuñadura y pueden incorporar detectores ópticos, acústicos o ambos, que suelen incluir un sistema de autocomprobación.
+**2.1.1. Especificaciones**
+Los guantes dieléctricos son equipos de protección individual (EPI) diseñados para proteger al trabajador de posibles descargas eléctricas. Sus características generales incluyen:
+*   **Material**: Fabricados en caucho natural.
+*   **Resistencia a la tracción**: Media de ≥ 16 MPa.
+*   **Alargamiento a la ruptura**: Medio de ≤ 600%.
+*   **Resistencia a la perforación**: ≥ 18 N/mm.
+*   **Remanencia de alargamiento**: ≤15%.
+*   **Bajas temperaturas**: Resistencia probada con acondicionamiento de 1 hora a -25 ± 3ºC.
+*   **No propagación de llamas**: Resistencia a la aplicación de una llama durante 10 segundos en el extremo de un dedo.
+*   **Partes**: Se componen de nudillo, manga, palma, refuerzo, dedos y una zona designada para el marcado.
 
-La clasificación de las pértigas se establece por la tensión máxima que pueden soportar:
-*   **Clase I**: hasta 20 kV.
-*   **Clase II**: hasta 30 kV.
-*   **Clase III**: hasta 45 kV.
-*   **Clase IV**: hasta 66 kV.
+**Tipos de Guantes Dieléctricos**
+La clasificación de los guantes dieléctricos se realiza por su clase, que indica el valor de tensión máxima de trabajo, y por su categoría, que informa sobre la resistencia a agentes físicos y químicos.
 
-Su normativa principal incluye la UNE-EN 60855:1998 para tubos y varillas aislantes, y la UNE-EN 61243-1:2006 para detectores de tensión. Al utilizar una pértiga, es crucial que sea la adecuada para la tensión de trabajo y **nunca se debe superar la distancia de seguridad** marcada. No se consideran un único elemento aislante, por lo que deben complementarse con guantes y banquetas aislantes. El **mantenimiento** implica revisiones visuales previas a cada uso, protección contra la exposición solar, calor y sustancias químicas, y limpieza con paño de silicona. Se almacenan en fundas para evitar daños y a temperaturas entre -10°C y 35°C.
+**Clases de Guantes Dieléctricos (Sofamel):**
+| Clase | Tensión de trabajo V Máx. |
+| :---- | :-------------------- |
+| 00    | 500                   |
+| 0     | 1.000                 |
+| 1     | 7.500                 |
+| 2     | 17.000                |
+| 3     | 26.500                |
+| 4     | 36.000                |
 
-## Cizallas Aislantes
+**Categorías de Guantes Dieléctricos (Sofamel):**
+| Clase | Resistencia              |
+| :---- | :----------------------- |
+| A     | Ácido                    |
+| H     | Aceite                   |
+| Z     | Ozono                    |
+| R     | Ácido, aceite, ozono     |
+| C     | Muy bajas temperaturas   |
 
-Las **cizallas aislantes** son herramientas de corte manual con brazos aislados, diseñadas específicamente para seccionar conductores eléctricos. Sus cuchillas son de acero, y los mangos de tubo de poliéster reforzado con fibra de vidrio proporcionan un aislamiento de hasta 25 kV. Son capaces de cortar cables de hasta 25 mm de diámetro.
+**2.1.2. Normativa**
+Los guantes dieléctricos son considerados EPI de categoría III y están regulados por:
+*   UNE-EN 60903:2003: "Trabajos en tensión. Guantes de material aislante".
+*   IEC 60903:2002: Modificación de la norma anterior.
+*   Procedimiento 11b de la Directiva 89/686/CEE: Clasifica los guantes aislantes para trabajos en tensión en la categoría III (riesgos mortales).
 
-Estas cizallas están reguladas por la norma UNE EN 60900. Su **marcado** debe ser permanente y visible, incluyendo la tensión máxima, condiciones de uso (interior/exterior), modelo, marca y año de fabricación. Es fundamental usarlas exclusivamente para **cables eléctricos**, no para materiales como hierro o cadenas, y siempre en combinación con otros EPI aislantes como guantes y banquetas. Se prohíbe cortar dos cables simultáneamente y se debe considerar la rigidez dieléctrica de la herramienta y la tensión de la instalación. El **mantenimiento** implica verificar el estado de cuchillas y mangos, mantenerlas limpias y secas, y transportarlas en un lugar seguro dentro del vehículo.
+Esta normativa exige a los fabricantes proporcionar la siguiente información en el marcado de los guantes: nombre del fabricante, clase, categoría (si aplica), talla, longitud y tipo de borde del guante.
 
-## Banquetas Aislantes
+**2.1.3. Uso y Seguridad**
+Los guantes dieléctricos se emplean para proteger las manos en tareas relacionadas con la electricidad, como maniobras de conexión y desconexión en circuitos energizados o desenergizados, puesta a tierra, manipulación de superficies energizadas y conductores, e instalación de postes. Es crucial utilizarlos como doble protección junto con pértigas o instrumentos de medición, o al usar escaleras o cualquier equipo expuesto a redes eléctricas energizadas, independientemente de las condiciones climáticas.
 
-Las **banquetas aislantes** son elementos de protección individual que proporcionan un aislamiento del trabajador respecto a tierra. Están construidas de polipropileno copolímero de alto impacto, con una superficie rugosa y antideslizante, y patas equipadas con conteras de goma para mayor adherencia y protección.
+Antes y después de cada uso, se debe verificar el buen estado de los guantes, inspeccionando su superficie. Se recomienda utilizarlos con guantes de piel externos para protección mecánica o con guantes finos ignífugos como protección adicional.
 
-Se clasifican según su uso en **Tipo A (interior)** y **Tipo B (exterior)**, y por la tensión que pueden aislar (hasta 20 kV, 30 kV, 45 kV, 66 kV), con el nivel máximo impreso en su superficie. La norma UNE 204001 regula su fabricación. Se emplean en trabajos con tensión para prevenir el paso de corriente eléctrica a través del cuerpo del operario y son obligatorias en el rescate de personas electrocutadas. Es esencial protegerlas del sol, grasas y aceites, ya que estos elementos pueden comprometer su capacidad aislante. Si presentan poros, fisuras o contaminantes, no deben utilizarse. El **mantenimiento** incluye la limpieza, verificación de su rigidez estructural y el estado de las superficies, así como un almacenamiento en lugar seco y protegido, dentro de estuches o fundas.
+**2.1.4. Mantenimiento**
+El mantenimiento adecuado implica revisiones periódicas, generalmente cada 30 a 90 días o antes de su uso. Las revisiones para las clases 00 y 0 incluyen inspección visual y de fugas de aire, mientras que para el resto de clases se añade un ensayo dieléctrico según la norma UNE EN 60903. Está prohibido usar guantes de clase 1, 2, 3 y 4 que no hayan sido verificados en los últimos 6 meses.
 
-## Alfombrillas Aislantes
+**2.2. Pértigas Aislantes**
 
-Las **alfombrillas aislantes** son superficies antideslizantes, generalmente de caucho o goma sintética, diseñadas para proporcionar aislamiento eléctrico. Se utilizan para establecer una zona segura en trabajos eléctricos o en operaciones de rescate con riesgo eléctrico.
+**2.2.1. Especificaciones**
+Las pértigas aislantes son tubos de material aislante, compuestos por uno o varios tramos unidos mediante un dispositivo de empalme, y una empuñadura. Su funcionalidad se orienta al salvamento y la verificación de ausencia de tensión. Existen modelos para uso interior y exterior. Las pértigas de salvamento llevan un útil acoplado en la cabeza de trabajo para actuar directamente sobre el accidentado.
 
-Su normativa principal es la UNE-EN 61111:2010 y la IEC 60243-1. Durante su uso, es importante evitar la exposición excesiva al sol, así como el contacto con grasas y aceites, que podrían convertirlas en conductoras. Antes de cada uso bajo tensión, se debe realizar una inspección visual para detectar poros, fisuras o elementos incrustados. El **mantenimiento** incluye revisiones regulares, limpieza con un paño húmedo, y almacenamiento en lugares secos, dentro de estuches o fundas, para protegerlas.
+Las partes de una pértiga aislante incluyen: un indicador, una marca límite, el elemento aislante, guarda manos, el mango, un electrodo de contacto, un conductor de tierra (con pinza o mordaza) y una extensión de electrodo.
 
-## Alicates Aislados
+Existen diversos tipos de pértigas según su uso específico:
+*   Pértiga de salvamento.
+*   Pértiga de verificación de tensión.
+*   Verificador de ausencia de tensión (luminoso y sonoro para 10-30 kV).
+*   Cruz de maniobra.
 
-Los **alicates aislados** son herramientas manuales utilizadas para trabajos de baja tensión (hasta 1000 V). Consisten en dos piezas metálicas unidas que forman una pinza, recubiertas con material termoplástico aislante para proteger contra el contacto eléctrico. Existen diversos tipos según su forma y aplicación, incluyendo alicates planos, redondos, de corte, combinados, universales y de punta acodada. Cada tipo está diseñado para tareas específicas como sujetar, doblar o cortar distintos materiales.
+Según sus características eléctricas, se clasifican en:
+*   Clase I: hasta 20 kV.
+*   Clase II: hasta 30 kV.
+*   Clase III: hasta 45 kV.
+*   Clase IV: hasta 66 kV.
 
-Están regulados por la norma EN 60900. Su uso debe limitarse a las operaciones para las que fueron diseñados, evitando usarlos como palanca o martillo, o para cortar materiales excesivamente duros. Es crucial no cortar dos cables simultáneamente y considerar siempre la rigidez dieléctrica de la herramienta y la tensión de la instalación. El **mantenimiento** incluye la verificación del estado de la funda protectora, las mordazas y el mango, lubricando la articulación frecuentemente. Se guardan limpios y secos en el maletín de riesgo eléctrico.
+Los detectores de las pértigas pueden ser ópticos, acústicos o una combinación de ambos, e incorporar un dispositivo de comprobación de funcionamiento. El detector solo debe utilizarse dentro del rango de tensiones indicado en su placa de características y siempre acoplado a pértigas aislantes apropiadas a la tensión. Es obligatorio comprobar el funcionamiento del detector antes y después de su uso.
+
+**2.2.2. Normativa**
+Las pértigas aislantes están reguladas por las siguientes normas:
+*   UNE-EN 60855:1998: Tubos aislantes rellenos de espuma y barras aislantes macizas para trabajos en tensión.
+*   UNE-EN 61243-1:2006: Trabajos en tensión. Detectores de tensión.
+*   UNE-EN 61236:2012: Trabajos en tensión. Asientos, abrazaderas de pértigas y sus accesorios.
+*   UNE-EN 60832:1998: Pértigas aislantes y herramientas para cabezal universal para trabajos en tensión.
+*   UNE 21 731 191: Pértigas aislantes y herramientas para cabezal universal para trabajos en tensión.
+*   UNE-EN 60743:2002: Trabajos en tensión. Terminología para las herramientas, equipos y dispositivos.
+
+**2.2.3. Uso y Seguridad**
+Al utilizar pértigas, es fundamental seguir precauciones como:
+*   Asegurarse de que la pértiga sea adecuada para la tensión de trabajo, por ejemplo, hasta 45 kV.
+*   Nunca rebasar la distancia de seguridad marcada en la pértiga, ya que esto compromete el aislamiento.
+*   No utilizar las pértigas como único elemento aislante de la red; deben combinarse con guantes y una banqueta aislante.
+
+**2.2.4. Mantenimiento**
+El mantenimiento de las pértigas aislantes incluye una verificación visual previa al uso, rechazando o verificando el equipo si hay dudas sobre su estado. Deben almacenarse protegidas de la luz y el calor, y evitar el contacto con sustancias químicas. Si se usan bajo lluvia o en condiciones de alta condensación, se debe aplicar silicona. Después de cada uso, se limpian con una bayeta y silicona, y se transportan en fundas para minimizar su deterioro. La temperatura de almacenamiento debe oscilar entre -10ºC y 35ºC.
+
+**2.3. Cizalla Aislante**
+
+**2.3.1. Especificaciones**
+La cizalla aislante es una herramienta de corte manual compuesta por dos brazos aislados y dos cuchillas de acero. Está diseñada para cortar cables de hasta 25 mm de diámetro. Sus mangos son de poliéster reforzado con fibra de vidrio, con una longitud de 50 mm y un diámetro de 32 mm, y ofrecen una tensión de aislamiento de 25 kV. Es crucial considerar las distancias de seguridad eléctrica al usarla.
+
+**2.3.2. Normativa**
+Las cizallas aislantes deben llevar un adhesivo permanente y visible que indique:
+*   Tensión máxima de utilización.
+*   Condiciones de uso (exterior-interior).
+*   Modelo o referencia.
+*   Nombre o marca del fabricante.
+*   Año de fabricación.
+
+Están reguladas por la norma UNE EN 60900: "Trabajos en tensión. Herramientas manuales para trabajos en tensión hasta 1000 V en corriente alterna y 1500 V en corriente continua".
+
+**2.3.3. Uso y Seguridad**
+Se utilizan para seccionar conductores eléctricos y deben combinarse con otras herramientas aislantes como banquetas, alfombrillas o guantes. Es importante tomar precauciones específicas:
+*   No cortar dos cables simultáneamente.
+*   Utilizarla exclusivamente para cables eléctricos, no para hierro o cadenas.
+*   Considerar la rigidez dieléctrica de la herramienta y la tensión de la instalación.
+
+**2.3.4. Mantenimiento**
+Después de cada uso, se debe inspeccionar visualmente el perfecto estado de las cuchillas, la empuñadura y los mangos. La herramienta debe mantenerse limpia y seca y transportarse en una zona segura del camión.
+
+**2.4. Banqueta Aislante para Trabajos en Tensión**
+
+**2.4.1. Especificaciones**
+Las banquetas aislantes proporcionan aislamiento a los usuarios respecto a tierra, aumentando la resistencia al paso de la corriente. Están fabricadas en polipropileno copolímero de alto impacto, con una superficie rugosa y antideslizante, y conteras de goma en las patas para mayor adherencia y protección. Se componen de una plataforma, patas y conteras.
+
+Se clasifican por el lugar de utilización en:
+*   Tipo A: Banquetas de interior.
+*   Tipo B: Banquetas de exterior (intemperie).
+
+Se fabrican según la tensión que pueden aislar (hasta 20 kV, 30 kV, 45 kV, 66 kV) y llevan impreso el nivel de tensión máximo que soportan.
+
+**2.4.2. Normativa**
+Las banquetas aislantes para trabajos eléctricos están reguladas por la norma UNE 204001.
+
+**2.4.3. Uso y Seguridad**
+Se emplean en trabajos y maniobras con tensión para evitar que la corriente eléctrica pase a través del cuerpo del usuario hacia el suelo, siendo obligatorias para el rescate de personas electrocutadas. Es importante tener en cuenta que la exposición prolongada al sol las daña, y la presencia de grasa o aceites puede volverlas conductoras. Las precauciones incluyen:
+*   No usar la herramienta si presenta poros, fisuras o incrustaciones.
+*   Emplear suelos aislantes y calzado de seguridad.
+*   Evitar el contacto con agua.
+*   No tocar directamente piezas bajo tensión; usar un comprobador de tensión.
+
+**2.4.4. Mantenimiento**
+El mantenimiento implica verificar el cumplimiento de las condiciones de limpieza, rigidez estructural y estado de las superficies y patas. Deben almacenarse protegidas de grietas y perforaciones, en lugares secos, en estuches o fundas. Durante el transporte, se deben evitar impactos, ralladuras y cargas, y después de cada uso, se limpian con un paño húmedo y se secan.
+
+**2.5. Alfombrilla Aislante**
+
+**2.5.1. Especificaciones**
+La alfombrilla aislante es un material aislante con superficie antideslizante, fabricada generalmente de caucho o goma sintética. Se utiliza para proporcionar aislamiento eléctrico en trabajos de instalación o rescate con riesgo eléctrico.

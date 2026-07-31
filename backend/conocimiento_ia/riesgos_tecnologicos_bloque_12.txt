@@ -1,51 +1,17 @@
-## Análisis de la Estabilidad Estructural y Elementos Constructivos en Edificaciones
+**6.2. Problemática General de la Estabilidad Estructural**
 
-La seguridad y funcionalidad de las edificaciones son aspectos cruciales, especialmente en el ámbito de las emergencias. Para comprender cómo se comportan las estructuras bajo diversas cargas y patologías, es fundamental dominar los principios de la estabilidad estructural y la clasificación de sus componentes.
+Para un estudio exhaustivo de la estabilidad en cualquier sistema estructural, se recomienda un análisis evolutivo de las patologías, que incluye las siguientes fases:
 
-### Conceptos Fundamentales de Estabilidad Estructural
+*   **Fase 0:** Analizar el equilibrio de la estructura antes de que la patología se manifieste.
+*   **Fase 1:** Investigar el nuevo equilibrio de la estructura una vez dañada.
+*   **Fase 2:** Proponer y justificar soluciones adecuadas, priorizando siempre las opciones más sencillas de implementar y con menor riesgo para los intervinientes.
 
-La **estabilidad estructural** de un conjunto se analiza mediante la relación entre los grados de libertad (GL) y las coacciones (C) del sistema, tanto a nivel externo como interno. Los **grados de libertad** representan los movimientos posibles de un cuerpo (traslación vertical, traslación horizontal y giro en un sistema plano), mientras que las **coacciones** son las limitaciones impuestas a estos movimientos por los vínculos estructurales.
+Como ejemplo práctico, se puede considerar el escenario de un posible colapso en una viga Pratt, utilizada en elementos como cubiertas, puentes o marquesinas.
 
-La estabilidad de una estructura se clasifica de la siguiente manera:
-*   **Estructura hiperestática:** Se produce cuando el número total de coacciones (C) es mayor que el número total de grados de libertad (GL) del sistema (C > GL). Estas estructuras son más seguras debido a su redundancia, lo que permite una redistribución de esfuerzos si un elemento falla, evitando un colapso inmediato.
-*   **Estructura isostática:** Ocurre cuando el número total de coacciones (C) es igual al número total de grados de libertad (GL) (C = GL). Estas estructuras poseen un equilibrio limitado, suficiente para ser estables, pero la falla de un solo elemento puede comprometer seriamente su estabilidad.
-*   **Estructura hipostática o mecanismo:** Se da cuando el número total de grados de libertad (GL) es mayor que el número total de coacciones (C) (GL > C). Estas estructuras son inestables y, ante cualquier fuerza, se desplazarán sin encontrar un equilibrio.
-
-En un sistema plano, cada cuerpo o elemento estructural posee tres grados de libertad potenciales (desplazamiento vertical, horizontal y giro). Las coacciones se generan en los puntos de conexión o "nudos", los cuales se clasifican en:
-*   **Apoyo:** Limita el movimiento vertical, pero permite los movimientos horizontales y el giro, aportando una coacción y dos grados de libertad.
-*   **Articulación:** Restringe los movimientos verticales y horizontales, permitiendo el giro, con dos coacciones y un grado de libertad.
-*   **Empotramiento:** Impide todo tipo de movimientos (vertical, horizontal y giro), confiriendo tres coacciones y cero grados de libertad.
-
-Además, la **geometría** de una estructura influye determinantemente en su comportamiento. Las **curvas funiculares** son formas geométricas adoptadas libremente por un cable bajo una carga distribuida uniformemente. Si la carga es el propio peso del cable, la curva se denomina **catenaria**. Si la carga es lineal y uniformemente repartida en proyección horizontal, la curva es una **parábola**. Las **estructuras funiculares**, por su diseño, propician esfuerzos de compresión y tracción, minimizando la flexión. Un aumento en la "flecha" de un cable funicular reduce las fuerzas internas desarrolladas.
-
-### Clasificación de los Elementos Constructivos de la Edificación
-
-Una edificación se compone de tres categorías de elementos constructivos:
-*   **Elementos estructurales:** Son aquellos diseñados para soportar y transmitir cargas, asegurando la **capacidad portante** (estabilidad y resistencia durante un periodo de servicio, típicamente 50 años según el CTE DB SE) y la **aptitud de servicio** (limitación de deformaciones o anomalías inadmisibles). Ejemplos incluyen forjados, pilares y cimentaciones.
-*   **Elementos complementarios:** Aquellos que, junto con la estructura, configuran el espacio interior y el confort necesario para el uso del edificio, como cerramientos, divisiones interiores e instalaciones.
-*   **Elementos auxiliares:** Forman parte de la edificación durante su construcción o reparación (andamios, cimbras, encofrados, apeos) y carecen de función estructural una vez finalizados los trabajos.
-
-El comportamiento estructural de una edificación se ve influenciado por su **geometría**, **rigidez** y los **materiales** empleados.
-
-### Cimentaciones: Estructuras Enterradas
-
-Las **cimentaciones** son el conjunto de elementos estructurales que transmiten las cargas de la edificación al terreno, asegurando que no se superen las presiones admisibles. Un fallo en la cimentación puede generar problemas graves de estabilidad. Los **parámetros clave** en la cimentación son su geometría, el material utilizado (predominantemente hormigón armado por su capacidad de adoptar cualquier forma y rigidez) y su rigidez.
-
-Las cimentaciones se clasifican en:
-1.  **Cimentación directa, superficial o somera:** Reparte las cargas en un plano de apoyo horizontal. Se utiliza en terrenos con resistencia suficiente en la capa superficial, a poca profundidad (sin superar 1 metro para zapatas aisladas).
-    *   **Zapatas aisladas:** Soportan cargas puntuales (pilares), reduciendo las tensiones transmitidas al terreno. Son comunes en terrenos firmes, compactos y con asientos pequeños. Suelen ser cuadradas en interiores y rectangulares en medianerías. Pueden ser **rígidas** (vuelo ≤ 2h, trabajan a compresión) o **flexibles** (vuelo > 2h, requieren armado para resistir tracciones). Para aumentar la rigidez, se usan **vigas de atado/soleras** (arriostramiento lateral) y **vigas centradoras** (para zapatas excéntricas).
-    *   **Zapatas combinadas y corridas:** Recogen cargas de varios pilares. Las combinadas unen dos o más pilares próximos, mientras que las corridas unen tres o más pilares alineados, o cimentan muros continuos. Son ideales para cargas elevadas, terrenos de baja o moderada capacidad portante y para evitar asientos diferenciales entre pilares. Su rigidez depende de la relación canto/vuelo.
-    *   **Pozos de cimentación:** Solución económica para cimentaciones intermedias (estratos resistentes a 4-6 m de profundidad). Tradicionalmente, se rellenaban con piedra natural y se arriostraban con arcos de ladrillo. Actualmente, se ejecutan con hormigón pobre o con un plinto rígido. Se consideran rígidos y trabajan a compresión.
-    *   **Emparrillados:** Se usan en terrenos de baja capacidad de carga o con heterogeneidades que puedan causar asientos elevados. Reparten esfuerzos de forma más homogénea.
-    *   **Losas:** Cimentación superficial con excelente comportamiento en terrenos heterogéneos, de baja capacidad portante o cuando el nivel freático está por debajo. Cubren toda el área de cimentación, distribuyendo la carga unitaria mínima. Son consideradas flexibles según la EHE.
-2.  **Cimentación profunda:** El extremo inferior de la cimentación se encuentra a una profundidad superior a ocho veces su diámetro o ancho, utilizándose cuando las cimentaciones superficiales no son viables.
-    *   **Pilotes aislados:** Independientes entre sí, sin interacción geotécnica.
-    *   **Grupo de pilotes:** Interactúan entre sí o están unidos rígidamente para trabajar conjuntamente.
-    *   **Zonas pilotadas:** Pilotes dispuestos para reducir asientos o mejorar la seguridad, con escasa capacidad portante individual.
-    *   **Micropilotes:** Pilotes de pequeñas dimensiones, útiles en edificaciones existentes sin maquinaria grande.
-
-Los **pilotes** transmiten cargas a estratos resistentes profundos, trabajando a compresión. Existen dos sistemas de rigidización: el **encepado** (une grupos de pilotes con pilares o muros) y el **arriostramiento** (rigidiza pilotes aislados o en parejas con vigas centradoras). Según el CTE DB SE C, no se pueden colocar pilotes sin arriostrar, salvo si son de hormigón in situ con diámetro superior a 1m. Los pilotes se clasifican por su forma de trabajo (por fuste o por punta) y por su procedimiento constructivo (prefabricados/hincados o perforados/hormigonados in situ).
-
-Finalmente, los **elementos de contención** se utilizan para establecer diferencias de nivel en el terreno con pendientes superiores a las naturales.
-*   Los **muros de contención** son elementos esbeltos que trabajan a compresión pura y/o flexión, transmitiendo empujes laterales a su base. Sus partes incluyen el trasdós (contacto con terreno), intradós (cara vista), puntera (parte de la base bajo el intradós), tacón (parte del cimiento bajo el trasdós) y alzado o cuerpo. Se fabrican de hormigón en masa o armado, mampostería o fábrica.
-*   Las **pantallas de contención** son elementos de gran esbeltez que funcionan a flexión, usados para excavaciones verticales profundas, evitar filtraciones de agua y asegurar la estabilidad del terreno. Se fabrican por bataches discontinuos y requieren empotramiento en el terreno (aproximadamente 1/3 de su altura) y elementos de sujeción (anclajes, puntales) para profundidades mayores de 3-4 metros. Sus materiales principales son el hormigón armado, pretensado o postensado.
+*   **Fase 0: Estabilidad Previa a la Patología**
+    *   El esquema (Imagen 214) muestra una estructura hiperestática, caracterizada por un alto nivel de estabilidad.
+*   **Fase 1: Equilibrio de la Estructura Dañada**
+    *   La situación patológica actual (Imagen 215) indica que la viga no cumple su función de diseño original, comportándose como un mecanismo.
+*   **Fase 2: Soluciones Propuestas**
+    *   En cualquier análisis estructural, se deben plantear todas las soluciones viables, priorizando las de ejecución más simple.
+    *   Para el caso actual, la solución más directa es un ape

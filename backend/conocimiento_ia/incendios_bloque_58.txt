@@ -1,56 +1,142 @@
-# Transmisión y Factores Determinantes del Comportamiento en Incendios Forestales
+## Factores del Comportamiento y Transmisión del Calor en Incendios Forestales
 
-La comprensión de la transmisión del calor y de los factores que modulan el comportamiento del fuego es fundamental para la gestión y extinción de incendios forestales. Estos fenómenos, intrínsecamente complejos, guían las estrategias de intervención y la seguridad del personal.
+Este manual aborda los elementos clave que influyen en la transmisión del calor y el comportamiento del fuego en entornos forestales, detallando los mecanismos de transferencia térmica y los factores ambientales y de combustible que los determinan.
 
-## Mecanismos de Transmisión del Calor en Incendios Forestales
+### 2. Transmisión del Calor en Incendios Forestales
 
-La propagación de un incendio forestal se produce mediante la transferencia de calor, que se manifiesta a través de tres mecanismos principales: **conducción**, **radiación** y **convección**. La eficacia de cada uno de estos procesos está influenciada por la distribución espacial de los combustibles (superficiales o aéreos), la pendiente del terreno y la compacidad de la capa combustible, así como la acción del viento.
+La transferencia de calor en incendios forestales se ve influenciada por varios factores:
+*   La distribución espacial de los combustibles, ya sean superficiales o aéreos.
+*   La pendiente del terreno.
+*   La compacidad o el ahuecamiento de la capa de combustible.
+*   El viento, entre otros.
 
-En primer lugar, la **conducción** implica la transferencia de calor por contacto directo entre sólidos. En el contexto forestal, su eficacia es limitada debido a la baja conductividad térmica de la materia vegetal y al contacto imperfecto entre los combustibles, salvo en acumulaciones densas como la hojarasca o la leña fina. La compactación de la capa combustible, como en las pinochas o la hojarasca de haya, puede aumentar la eficiencia de la conducción. Sin embargo, la presencia de aire entre las partículas combustibles, que es inversamente proporcional a la compacidad, puede contrarrestar este efecto, limitando la combustibilidad en periodos secos.
+Los mecanismos por los cuales se produce esta transmisión de calor son la conducción, la radiación y la convección.
 
-En segundo lugar, la **radiación** transfiere calor mediante ondas electromagnéticas a través del aire. La continuidad tanto horizontal como vertical de los combustibles incide de manera decisiva en la eficiencia de este mecanismo. Un mayor grado de ahuecamiento o porosidad en la capa combustible, a diferencia de la compacidad, favorece la radiación, ya que el aire interpuesto actúa como medio transmisor de calor. Ejemplos de esto se observan en capas de hojarasca de roble melojo con abundantes huecos de aire, así como en matorrales y combustibles superficiales y aéreos continuos.
+#### 2.1. Conducción
+La conducción es la transferencia de calor entre cuerpos sólidos mediante contacto directo, cuya velocidad está determinada por la conductividad térmica del material. En la vegetación, la conductividad térmica es baja, y el contacto entre los combustibles suele ser imperfecto, salvo en la hojarasca y la leña fina, lo que convierte a la conducción en un mecanismo poco eficiente para la transmisión del calor entre combustibles forestales.
 
-Finalmente, la **convección** se erige como el mecanismo más eficiente en la transmisión del calor en incendios forestales. Consiste en el transporte de calor por el aire que, al calentarse en el foco del incendio, se expande, disminuye su densidad y asciende. Al contactar con combustibles situados a mayor altura, este aire caliente transfiere su energía y desciende. La convección es responsable de que los combustibles aéreos se vuelvan disponibles para la combustión y de la transición de incendios superficiales a fuegos de copas. Cuando se combina con la pendiente del terreno, la convección acelera la deshidratación y el calentamiento de los combustibles ladera arriba, lo que favorece una propagación ascendente más rápida. En contraste, la propagación ladera abajo se ralentiza considerablemente, ya que la convección no opera de manera eficaz, predominando únicamente la transmisión por radiación.
+La compacidad de la capa combustible está directamente relacionada con la conducción: a mayor compacidad, mayor es la eficiencia de la conducción (como en la pinocha de pino silvestre o la hojarasca de haya, que forman capas compactas). No obstante, la presencia limitada de aire entre los combustibles en capas compactas puede restringir la combustibilidad fuera de los períodos secos.
 
-Un fenómeno particularmente relevante en la propagación de incendios forestales es la **emisión de partículas en ignición**, conocidas como pavesas o "saltos de fuego". Estas partículas vegetales incandescentes o inflamadas son proyectadas a distancia del frente de fuego, pudiendo originar incendios secundarios fuera del perímetro inicial. Este fenómeno es más frecuente en masas de pinos con fuego en las copas, especialmente durante las horas centrales del día con temperaturas suaves a altas (20-35°C), baja humedad (20-50%) y vientos moderados a fuertes (16-39 km/h). La presencia de vientos intensos favorece la emisión, el transporte a largas distancias y la ignición de estos focos secundarios, siendo las piñas del pino carrasco y la corteza del eucalipto partículas especialmente peligrosas. La ocurrencia de saltos de fuego afecta significativamente la propagación, disminuye la eficacia de las barreras preventivas y representa un riesgo considerable para los equipos de extinción y las áreas habitadas cercanas.
+#### 2.2. Radiación
+La radiación implica la transmisión de calor como ondas electromagnéticas a través del aire. La continuidad horizontal y vertical de los combustibles influye de manera decisiva en la eficiencia de este mecanismo.
 
-## Factores que Determinan el Comportamiento de un Incendio Forestal: La Gran Tríada
+La relación entre la superficie y el volumen de un combustible favorece el efecto de la radiación, ya que un área mayor irradia y recibe más calor. El "ahuecamiento" de la capa combustible, que es lo opuesto a la compacidad, favorece la radiación al permitir que el aire interpuesto transmita el calor, siempre que los huecos no sean excesivamente grandes. Ejemplos incluyen hojarasca de roble melojo con grandes huecos de aire, matorrales bajos o altos, y combustibles superficiales y aéreos continuos.
 
-El comportamiento de un fuego de vegetación se rige por lo que se conoce como la **Gran Tríada**, compuesta por la **topografía**, las **condiciones climatológicas y el tiempo atmosférico**, y las **propiedades del combustible vegetal**.
+#### 2.3. Convección
+La convección es el mecanismo más eficaz para la transmisión de calor. Consiste en el transporte de calor por el aire que, al calentarse desde el foco calórico, se expande, disminuye su densidad y asciende. Este aire caliente cede el calor al contactar con combustibles situados a mayor altura, y luego desciende.
 
-### Influencia de la Topografía
+La convección transforma los combustibles aéreos en elementos disponibles para la combustión y es responsable de la transición de incendios de superficie a fuegos de copas. La combinación de convección y pendiente acelera la desecación del combustible cuesta arriba, favoreciendo la propagación. Por el contrario, en pendientes descendentes, la convección no es efectiva, y la transmisión de calor se produce únicamente por radiación, resultando en un progreso mucho más lento del fuego.
 
-La **topografía** es el componente más constante de la Gran Tríada y ejerce una influencia determinante sobre el clima local y los regímenes de viento. Su configuración, exposición y pendiente son cruciales. El relieve condiciona la formación de **microclimas**, afectando la dirección y velocidad de los vientos. La **exposición solar** (orientación de las laderas) influye en la temperatura y humedad relativa de la vegetación; las laderas de solana son más secas y con menos combustible, mientras que las de umbría son más frescas y húmedas. La **altitud** también determina el desarrollo de la vegetación, con menor cantidad de combustible a mayor altura.
+#### 2.4. Emisión de Partículas en Ignición
+En los incendios forestales es común la proyección a distancia de partículas vegetales incandescentes o inflamadas (pavesas) desde el frente del fuego, lo que puede causar focos secundarios (saltos de fuego) fuera del perímetro. Este fenómeno depende de las características del fuego, la vegetación y las condiciones climatológicas, y tiene implicaciones importantes para la estrategia de lucha contra incendios, ya que afecta la propagación, reduce la eficacia de estructuras preventivas y pone en riesgo a los equipos y a las zonas habitadas cercanas.
 
-La **pendiente** es el factor topográfico más importante, ya que favorece la continuidad horizontal y vertical de los combustibles, aumentando la velocidad de propagación ladera arriba (hasta veinte veces más rápida que en terreno plano, a diferencia del viento que puede multiplicarla por cien). En los fondos de barrancos o vaguadas con pendientes pronunciadas y laderas próximas, la rápida propagación se ve acentuada por el calentamiento veloz del aire y la creación de vacíos que impulsan las llamas.
+La proyección de partículas es más frecuente en masas de pinos con fuego en las copas, alcanzando distancias de hasta 0,5 kilómetros (o pocos metros), especialmente en las horas centrales del día con temperaturas suaves a altas (aproximadamente 20º a 35º C), baja humedad (entre 20% y 50% aproximadamente) y vientos moderados a fuertes (16 a 39 km/h aproximadamente). Las proyecciones más peligrosas provienen de las piñas del pino carrasco y la corteza del eucalipto. Las ráfagas de viento intensifican la emisión, el transporte a grandes distancias y la ignición de focos secundarios.
 
-### Influencia de la Climatología y el Tiempo Atmosférico
+### 3. Factores que Determinan el Comportamiento de un Incendio Forestal
 
-Los factores climatológicos y atmosféricos se dividen en el tiempo previo, el tiempo actual y el tiempo transcurrido durante el incendio. Los factores meteorológicos de mayor influencia son la **temperatura**, la **velocidad del viento**, la **humedad relativa** y la **estabilidad atmosférica**.
+El comportamiento de un incendio de vegetación se define por la "gran tríada":
+*   **Características del terreno**: Topografía.
+*   **Ambiente del sector afectado**: Climatología y tiempo atmosférico.
+*   **Propiedades del material vegetal en combustión**: Combustible vegetal.
 
-#### Temperatura
+#### 3.1. Topografía
+La topografía ejerce efectos directos sobre el incendio, como la pendiente, la orientación y la configuración del terreno. Es el componente más constante de la tríada y tiene una gran influencia sobre los otros dos factores.
 
-La **temperatura**, principalmente la solar, regula la deshidratación y la temperatura interna de los tejidos vegetales, lo que influye en la energía necesaria para la ignición y el contenido de humedad de los combustibles muertos. La temperatura presenta variaciones estacionales (máximo en verano) y diarias (mínimo al amanecer, máximo por la tarde).
+Los factores topográficos que afectan el comportamiento del fuego incluyen:
+*   **Configuración o relieve**: Condiciona el clima (microclimas) e influye en los regímenes de viento, su dirección y velocidad.
+*   **Exposición**: La orientación o posición de las laderas respecto a la incidencia de los rayos solares afecta la temperatura y la humedad relativa. Las laderas de solana son más secas y con menos vegetación, lo que reduce la cantidad de combustible, mientras que las de umbría tienen menor temperatura y más humedad.
+*   **Pendiente**: Es el factor topográfico más importante en el comportamiento del fuego, ya que influye en la transmisión de energía (convección y radiación). A mayor pendiente, la velocidad de propagación del fuego cuesta arriba es mayor, y el progreso de las llamas cuesta abajo es más lento. Los barrancos y laderas muy próximas con mucha pendiente favorecen una propagación rápida, pues los espacios abiertos reducidos aceleran el calentamiento del aire, su ascenso y la ocupación de los vacíos por las llamas.
 
-Dentro del incendio, se distinguen varias zonas térmicas:
-- La **temperatura del suelo** experimenta un aumento mínimo, dependiendo de su composición orgánica o mineral.
-- La **temperatura de la zona de combustible** (por delante de las llamas) se precalienta por radiación, alcanzando 1000-1400°C en zonas arboladas y hasta 500°C en arbustos.
-- La **temperatura de la zona de llamas** oscila entre 700-1000°C, con rápidas fluctuaciones debido a la turbulencia.
-- La **temperatura de la columna de convección** disminuye rápidamente con la altura, por ejemplo, reduciéndose en tres cuartas partes a 3 metros de altura en arbustos.
+##### 3.1.1. Influencia de la Topografía en el Tiempo Atmosférico
+Las elevaciones del terreno actúan como obstáculos para las masas de aire, causando variaciones en su temperatura y humedad al superarlas. La topografía también ejerce una gran influencia sobre los vientos generales, modificando su velocidad, dirección y comportamiento, y es la causa de fenómenos locales que afectan notablemente a los incendios.
 
-#### Humedad del Aire
+##### 3.1.2. Relación de la Topografía en los Combustibles
+Los factores topográficos (altitud, exposición, pendiente y configuración del terreno) están directamente relacionados con la clase, cantidad y humedad de los combustibles.
+*   **Altitud**: Determina el desarrollo de la vegetación. A mayor altitud, la cantidad de vegetación y, por ende, de combustible, es menor.
+*   **Exposición**: La orientación o posición de las laderas influye en el desarrollo de la vegetación y del incendio por las variaciones de viento y radiación solar. Las laderas de solana son más secas y tienen menos combustible, mientras que las de umbría son más húmedas y tienen más combustible.
+*   **Pendiente**: Influye significativamente en la continuidad horizontal y vertical de los combustibles. Los efectos de la pendiente son similares a los del viento. Un fuego en pendiente se propaga cien veces más rápido. La pendiente se calcula en grados o porcentaje (450 grados equivalen a 100%).
 
-El **vapor de agua** es crucial en el inicio y comportamiento del fuego. La **humedad absoluta** (gramos de vapor de agua por metro cúbico de aire) estima la capacidad del aire para absorber vapor. La **humedad relativa** es la proporción de vapor presente respecto al máximo posible. Valores inferiores al 30% de humedad relativa son muy propicios para la ignición y propagación. Una regla general establece que una disminución de 10°C duplica la humedad relativa, mientras que un aumento de 10°C la reduce a la mitad. La humedad afecta la disponibilidad de oxígeno (mayor humedad, menor oxígeno y combustión más lenta) y el contenido de humedad de la vegetación (mayor humedad, más energía para evaporar el agua, prolongando la fase de presecado y reduciendo la energía de ignición).
+#### 3.2. Climatología y Tiempo Atmosférico
+En los incendios forestales, tres factores son de interés:
+*   **Tiempo previo**: Considerado un factor de riesgo y determinante de la cubierta forestal.
+*   **Tiempo actual**: Actúa como causa desencadenante (rayos, combustión, etc.).
+*   **Tiempo transcurrido durante el fuego**: Incluye la duración del viento, la lluvia, etc.
 
-#### Vientos
+##### 3.2.1. Variables Meteorológicas
+Las variables meteorológicas con mayor influencia en un incendio son la temperatura, la velocidad del viento, la humedad relativa y la estabilidad atmosférica.
 
-El **viento**, el movimiento del aire respecto a la superficie terrestre, es un vector cuya dirección e intensidad son vitales. Se origina por diferencias de temperatura y presión, y por la rotación de la Tierra (fuerza de Coriolis). En la atmósfera, las isobaras indican la dirección y velocidad del viento (isobaras más juntas, viento más fuerte). A nivel de superficie, el rozamiento y la orografía modifican el viento. Se mide en m/s, km/h o nudos (1 nudo = 1.852 km/h = 0.515 m/s). Su dirección se expresa en grados (0°/360° Norte, 90° Este, etc., en sentido horario).
+En los ambientes estables y secos del verano, la energía solar eleva la temperatura y reduce la humedad relativa del aire, lo que afecta la hidratación de los combustibles muertos.
 
-El viento tiene efectos complejos en incendios forestales: aumenta la cantidad de oxígeno, direcciona el avance del fuego, seca los combustibles, transporta pavesas causando focos secundarios, e incrementa la velocidad de propagación.
+##### 3.2.2. Temperatura
+Es la medida del efecto de la radiación solar, que es crucial para la vegetación al regular la desecación, la temperatura interna de los tejidos vegetales (determinando la energía calórica externa para la ignición) y la humedad de los combustibles muertos. La temperatura es un factor estacional (máximos en verano) y diario (fresca/húmeda de madrugada, máxima en la tarde, entre 15:00 y 17:00 h).
 
-Los **vientos locales** son sistemas secundarios generados por contrastes térmicos y orográficos. Incluyen:
-- Los **vientos de ladera** soplan paralelos a la inclinación del terreno por diferencias de temperatura. Los **descendentes (catabáticos)** ocurren por la noche/madrugada (6 PM-5 AM), son lentos (1-10 km/h) y de flujo laminar, llevando aire frío a valles. Los **ascendentes (anabáticos)** ocurren de día (8 AM-puesta de sol), son más rápidos (6-13 km/h), intensos en cumbres y con turbulencias, llevando aire caliente ladera arriba. La transición de vientos de ladera puede reactivar fuegos controlados.
-- Los **vientos de valle** fluyen paralelos al eje longitudinal del valle, resultado de gradientes de presión o diferencias de temperatura entre el aire del valle y el de las laderas adyacentes.
-- La **brisa marina** se forma en costas por diferencias de temperatura entre tierra y mar, soplando de mar a tierra de día (aire frío) y de tierra a mar de noche (aire cálido, más suave).
-- El **Foehn** son vientos terrales cálidos, secos e intensos (hasta 145 km/h, 3% humedad relativa) que descienden de regiones altas a bajas, secando la vegetación y haciendo los incendios incontrolables. Suelen terminar bruscamente y durar hasta tres días, siendo especialmente peligrosos en zonas costeras.
-- Los **torbellinos** o remolinos de fuego (vórtices) son columnas de aire ascendente que rotan y se desplazan, levantando humo, escombros y fuego. Se desarrollan por calentamiento atmosférico y giro del aire local. Pueden ser **horizontales** (rotación paralela al suelo) o **verticales** (perpendicular al suelo). Contribuyen a la propagación del fuego al transferir masa y calor, transportando pavesas. Se mueven con el viento si este supera los 7-8 km/h. Aunque suelen durar minutos, ocasionalmente pueden persistir más de una hora.
+Es una variable con clara influencia en el incendio, fácil de medir, pero su valor reside en su influencia sobre otros mecanismos de transferencia de calor, ya que fluctúa constantemente. En relación con la temperatura, se distingue:
+*   **Temperatura del suelo**: Depende de la composición del lecho orgánico y mineral; su aumento suele ser mínimo.
+*   **Temperatura de la zona de combustible**: Se observa delante de las llamas, en una zona precalentada por la radiación. Oscila entre 1000º y 1400º (zonas arboladas) y unos 500º (zonas de matorral).
+*   **Temperatura de la zona de llamas**: Varía rápidamente y de forma significativa (entre 700º y 1000º C aproximadamente) debido a la turbulencia del propio incendio.
+*   **Temperatura de la columna de convección**: Por encima de la zona de combustión, las temperaturas varían ampliamente y disminuyen rápidamente con la altura (por ejemplo, en zonas de arbustos, puede decrecer en tres cuartas partes a 3 m de altura, y en casi un tercio si se duplica la altura).
+
+##### 3.2.3. Vapor de Agua - Humedad
+El vapor de agua, en estado gaseoso, es uno de los parámetros más importantes en el inicio y comportamiento del fuego. El aire atmosférico nunca está completamente seco, y su grado de humedad es muy variable.
+
+Existen varias formas de expresar la humedad:
+*   **Humedad absoluta**: Cantidad de vapor de agua (generalmente en gramos) por unidad de volumen de aire ambiente (en metros cúbicos). Se utiliza, junto con la temperatura, para estimar la capacidad del aire para contener vapor.
+*   **Humedad relativa**: Proporción de vapor de agua respecto al máximo que el aire podría contener a esa temperatura. 100% de humedad relativa indica aire saturado.
+
+Valores de humedad relativa por debajo del 30% propician condiciones muy favorables para el inicio y la propagación del fuego. Una regla aproximada para la humedad relativa es que, si la temperatura desciende 10º, la humedad relativa se duplica; si asciende 10º, se reduce a la mitad.
+
+La humedad del aire influye en el comportamiento del fuego de dos maneras:
+*   **Disponibilidad de oxígeno**: A mayor humedad relativa, menor proporción de oxígeno en el ambiente, lo que retarda la combustión.
+*   **Humedad de la vegetación**: A mayor humedad en la vegetación, mayor energía calórica externa necesaria para eliminar el agua. Esto prolonga el período de presecado de la combustión, reduciendo la energía necesaria para la ignición.
+
+##### 3.2.4. Vientos
+La humedad relativa presenta una marcada variación diurna, con máximos durante las horas de oscuridad y mínimos después del mediodía.
+
+El viento es el movimiento del aire respecto a la superficie terrestre, siendo un vector que requiere conocer su dirección e intensidad. A grandes rasgos, el viento se mueve debido a:
+*   Las diferencias de temperatura en grandes áreas terrestres.
+*   Las diferencias de presión generadas por estas diferencias de temperatura.
+*   La rotación de la Tierra.
+*   La fuerza de Coriolis.
+
+En la atmósfera, la presión y el viento están directamente relacionados. Los mapas de isobaras (valores de presión atmosférica) proporcionan información sobre la velocidad y dirección del viento. El viento sopla paralelo a las isobaras, y su velocidad entre dos puntos es directamente proporcional a la diferencia de presión entre ellos (isobaras más juntas implican viento más fuerte).
+
+A nivel de superficie, el rozamiento con el terreno y la adaptación al relieve pueden modificar la velocidad y dirección del viento respecto a su componente general. La velocidad del viento se mide en metros por segundo (m/s), kilómetros por hora (km/h) o nudos (millas marinas por hora). La equivalencia es: 1 nudo = 1,852 km/h = 0,515 m/s. La dirección se expresa en grados, en sentido horario desde el norte geográfico (0º/360º Norte, 90º Este, 180º Sur, 270º Oeste).
+
+**Efecto del viento en los incendios forestales:**
+Las fluctuaciones de velocidad y dirección del viento complican sus efectos sobre el incendio. Generalmente, una mayor velocidad del viento implica mayor intensidad y velocidad de propagación. El flujo de propagación de una llama tiene un componente vertical y otro horizontal; el vertical es más significativo debido a la inclinación de la llama (aumento de radiación) y al contacto directo/transporte de calor por convección hacia el combustible.
+
+El viento contribuye a la combustión y extensión del fuego mediante varios mecanismos:
+*   Aumento de la cantidad de oxígeno.
+*   Influencia en la dirección de avance del incendio, permitiendo prever su propagación.
+*   Desecación de los combustibles.
+*   Transporte de chispas y material encendido (focos secundarios).
+*   Aumento de la velocidad de propagación.
+
+**Vientos locales:**
+Son sistemas de viento secundarios generados por el contraste de calentamiento y enfriamiento local del suelo, que pueden surgir independientemente o combinados con factores orográficos. Se consideran vientos locales a los vientos de ladera, de valle, la brisa marina, las olas de montaña, el Foehn y los torbellinos.
+
+**a) Vientos de ladera:**
+Soplan paralelos a la inclinación de las vertientes, inducidos por diferencias de temperatura entre el aire adyacente a la ladera y el aire exterior en la capa límite. Existen dos tipos:
+*   **Vientos de ladera descendentes**: Ocurren de noche o madrugada. El aire frío desciende hacia valles o llanuras, formando una zona de baja presión. Un incendio en la parte alta de una colina durante la madrugada podría propagarse hacia las tierras bajas por diferencias de presión.
+    *   **Características**:
+        *   **Duración**: Desde las primeras horas de la noche (18:00 h) hasta la madrugada (05:00 h) o cuando la ladera está en sombra.
+        *   **Velocidad**: 1-10 km/h (lentos).
+        *   **Flujo**: Laminar, sin turbulencia.
+*   **Vientos de ladera ascendentes**: Se dan durante el día. El aire en contacto con las laderas se calienta más rápido que el de un valle o llanura, volviéndose más liviano que el aire a la misma altitud. Esto provoca un movimiento de aire ladera arriba desde el fondo del valle. Este fenómeno cesa cerca del ocaso, a menos que la nubosidad altere las condiciones.
+    *   **Características**: (continúa en la página 253)
+
+
+
+- **Duración**: Desde las 8:00 a.m. hasta el atardecer (6:00 p.m.) o cuando la ladera se encuentra en sombra.
+- **Velocidad**: 6-13 km/h.
+- **Intensidad**: En las cumbres, el viento puede ser intenso, y cuesta arriba se producen turbulencias.
+
+Es crucial considerar que si el viento de ladera cambia de descendente a ascendente (fenómeno que también ocurre en los vientos de valle), podría activar rápidamente un fuego aunque estuviera controlado. Este cambio de viento suele ir acompañado de una ruptura de la inversión térmica, lo que disminuiría la estabilidad atmosférica y aumentaría las rachas de viento.
+
+**b) Vientos de valle**
+Los vientos de valle soplan paralelos al eje longitudinal del valle, originados por gradientes de presión horizontal. Son el resultado de diferencias de temperatura a lo largo del eje del valle o entre el aire del valle y el aire a la misma altura sobre el plano adyacente. Durante el día, el calentamiento solar provoca corrientes ascendentes hacia las partes altas del valle. Por la noche, soplan valle abajo, aunque este cambio de dirección es más lento debido a la movilización de grandes masas de aire.
+
+**c) Brisa**
+La brisa marina se produce en las costas debido a la diferencia de temperatura entre la tierra y el agua del mar. Durante el día, la tierra más caliente genera corrientes de convección compensadas rápidamente por el aire frío del mar. Por la noche, el mecanismo se invierte al estar el agua del mar más caliente, aunque la velocidad del viento suele ser menor por una diferencia de temperatura menos acusada, resultando en brisas nocturnas más suaves.
+
+Las brisas de montaña, también llamadas vientos catabáticos, se forman especialmente en las laderas de solana. Son vientos de intensidad suave, con una velocidad de propagación de pocos kilómetros por hora.

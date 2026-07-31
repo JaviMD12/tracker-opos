@@ -1,76 +1,84 @@
-# Características y Clasificación de Accidentes de Tráfico
+El presente temario aborda los procedimientos y características del rescate y salvamento en diversas situaciones de emergencia, centrándose en la intervención de los servicios de bomberos.
 
-El rescate en accidentes de tráfico es una de las intervenciones más comunes y complejas para los servicios de emergencia, siendo fundamental para los bomberos comprender a fondo la naturaleza de estos incidentes y los riesgos asociados. Un accidente de tráfico se define como el resultado final de una cadena de eventos que involucran al conductor, el vehículo y el entorno vial, bajo condiciones ambientales específicas. La Organización Mundial de la Salud (OMS) estima que anualmente 1,2 millones de personas pierden la vida en las carreteras, y se prevé que los accidentes de tráfico se conviertan en la tercera causa de muerte global en breve, lo que subraya su alto coste humano y económico.
+## RESCATE EN ACCIDENTES DE TRÁFICO
 
-## Tipología y Consecuencias de los Accidentes de Tráfico
+### Capítulo 1. Caracterización
 
-La clasificación de los accidentes de tráfico se puede establecer según diversos criterios, incluyendo su situación geográfica, las consecuencias, el número y tipo de vehículos implicados, y el modo en que se producen.
+#### 1. Tipos de accidentes y lesiones más frecuentes
 
-### Según las Consecuencias
+##### 1.1. Definición y condiciones (Teoría de la colisión)
 
-Los accidentes pueden clasificarse por la gravedad de sus resultados:
-*   **Mortales**: aquellos en los que una o varias personas fallecen en el acto o dentro de los 30 días posteriores al suceso.
-*   **Con víctimas**: implican personas heridas, las cuales se subdividen en:
-    *   **Heridos graves**: aquellos que requieren una hospitalización superior a 24 horas.
-    *   **Heridos leves**: aquellos cuyas lesiones no son clasificadas como graves.
-*   **Solo con daños materiales**: únicamente afectan a la propiedad, sin implicar fallecimientos ni heridos.
+Un accidente de tráfico puede originarse por un fallo en la conducción o por una alteración en las condiciones de la vía o del vehículo. Se considera un fenómeno social con un alto coste en vidas, ya que la Organización Mundial de la Salud (OMS) estima 1,2 millones de muertes anuales en carreteras, previendo que será la tercera causa de muerte. Además del impacto humano, el coste económico puede ascender hasta un 2% del Producto Interno Bruto (PIB) en países desarrollados.
 
-### Teoría de la Colisión: Fuerzas y Transmisión de Impactos
+###### 1.1.1. Elementos que intervienen en el accidente
 
-En una colisión, la energía cinética del cuerpo en movimiento se libera bruscamente por la desaceleración, transformándose en trabajo que proyecta a los ocupantes hacia adelante. Esta energía aumenta con la masa y, exponencialmente, con la velocidad del vehículo. La **inercia** es un principio físico clave, ya que un cuerpo en movimiento tiende a mantener su estado, lo que explica por qué un vehículo sigue moviéndose y deformándose tras un impacto. Los choques pueden ser **elásticos**, si la energía cinética total del sistema se mantiene, o **inelásticos**, si parte de la energía se consume en deformaciones y generación de calor.
+Un accidente es el resultado de una secuencia de eventos, condiciones y conductas interrelacionadas. Los factores que influyen en un accidente son el conductor (comportamiento), el vehículo (estado) y la vía con su entorno (condiciones).
 
-La **transmisión de fuerzas** en la carrocería del vehículo es crucial. El diseño estructural influye en cómo las fuerzas se desvían, a menudo buscando evitar su transmisión directa a los ocupantes. Por ejemplo, en una colisión frontal, el diseño actúa como la quilla de un barco, desplazando el objeto lateralmente para reducir los efectos del golpe directo. En colisiones desaxiales (no completamente frontales), los largueros, la traviesa inferior y la cuna del motor están configurados para que el lado opuesto al choque participe en la absorción de energía. La dirección del impacto es un factor determinante, especialmente en deformaciones laterales, y se observa en colisiones multivehículo o por resbalamiento en superficies resbaladizas.
+###### 1.1.2. Fuerzas involucradas
 
-### Clases de Accidentes según su Origen y Contexto
+Cada vehículo requiere un tratamiento específico para recuperar las deformaciones post-colisión. La carrocería presenta comportamientos estructurales comunes ante los impactos.
 
-Los accidentes pueden clasificarse detalladamente por la **situación geográfica**, distinguiendo entre:
-*   **Urbanos**: ocurren en calles o vías dentro de cascos urbanos, incluyendo las travesías.
-*   **Interurbanos**: se producen en vías fuera de zonas urbanas, como carreteras nacionales, comarcales, autopistas o autovías. En España, el 75% de las víctimas mortales ocurren en vías convencionales de doble sentido, a pesar de que las autopistas y autovías, con mayor volumen de tráfico, presentan un riesgo de accidente superior en términos relativos. Las estadísticas recientes indican que el 58% de los accidentes con víctimas ocurren en zonas urbanas y el 42% en interurbanas, pero el 73% de las muertes se concentran en estas últimas.
+*   **a) Inercia:** La ley física de la inercia influye significativamente en los daños del vehículo. Un cuerpo en movimiento tiende a mantener su estado hasta que una fuerza externa actúe sobre él. En un choque vehicular, la inercia hace que el coche continúe su movimiento post-impacto.
+*   **b) Energía cinética:** Cualquier cuerpo en movimiento posee energía cinética, que se libera bruscamente al decelerar en un choque, transformándose en trabajo. Esta energía genera una fuerza de empuje que proyecta a los ocupantes hacia adelante. La energía aumenta con la masa y, especialmente, con la velocidad. Los choques pueden ser:
+    *   **Elásticos:** La energía cinética total del sistema se conserva después del choque, sin deformación.
+    *   **Inelásticos:** Parte de la energía cinética se destina a la deformación y liberación de calor.
 
-Por el **número de vehículos implicados**, se dividen en:
-*   **Simples**: con un único vehículo.
-*   **Complejos**: con dos o más vehículos, o un vehículo y un peatón.
+###### 1.1.3. Transmisión de fuerzas
 
-Según el **tipo de vehículos implicados**, se observa una distribución porcentual de accidentes con víctimas y fallecidos:
-*   **Motocicletas**: 22% de los accidentes con víctimas y 18% de las víctimas mortales. El 62% de las colisiones ocurren con otros vehículos, y el 33% de las muertes en estas colisiones se producen en zonas urbanas.
-*   **Turismos**: 80% de los accidentes con víctimas y 43% de las víctimas mortales. Las colisiones fronto-laterales (24%) y las salidas de vía (19%) son las más frecuentes.
-*   **Vehículos pesados (camiones)**: 13% de los accidentes con víctimas y 7% de las víctimas mortales.
-*   **Bicicletas y ciclomotores**: ambos representan el 7% y 8% de los accidentes con víctimas, y el 4% y 3% de las víctimas mortales, respectivamente.
-*   **Autobuses**: 2% de los accidentes con víctimas y 1% de las víctimas mortales.
-Cabe destacar que los **peatones** constituyen un 23% del total de víctimas mortales.
+Las fuerzas en una colisión se transmiten a lo largo de la carrocería, causando diversos daños. La transmisión está condicionada por el diseño estructural y la dirección del impacto.
 
-### Colisiones Específicas
+*   **a) Transmisión debida al diseño estructural:** El diseño estructural de la carrocería es la principal causa de desviaciones verticales (arriba/abajo). A menudo, se busca retener progresivamente el impacto para evitar la transmisión de fuerzas extremas a los ocupantes. La parte frontal del vehículo, como la quilla de un barco, tiende a desplazar el objeto hacia los laterales, reduciendo los efectos de un golpe directo. Es beneficioso que el lado opuesto al choque participe en la absorción de energía en colisiones desaxiales (no totalmente frontales), mediante largueros, traviesa inferior, cuna o puente motor.
+*   **b) Transmisión debida a la dirección del impacto:** Origina la mayoría de las deformaciones laterales en colisiones entre vehículos en direcciones distintas o por desalineación al resbalar sobre suelo helado.
+    *   **Secuencia de una colisión lateral:**
+        1.  Al impacto, el vehículo se deforma por la fuerza externa. Su peso y el rozamiento con el suelo se oponen al movimiento.
+        2.  El lateral continúa deformándose y desplazándose en la dirección de la fuerza. La inercia hace que las secciones extremas se desalineen respecto a la central.
+        3.  La sección central se desplaza más rápido, mientras las laterales se resisten, hasta que todo el vehículo se desplaza. La combinación de deformación central y desalineamiento acorta la longitud lateral.
+*   **III. Alcance o colisión trasera:** Ocurre cuando dos o más vehículos colisionan, con el frontal de uno impactando la parte trasera del otro, y ambos se mueven en el mismo sentido. El vehículo impactado por detrás puede estar estacionado o en movimiento a menor velocidad.
+    *   **Tipos de colisión trasera:**
+        *   **Reflejas:** Colisiones sucesivas entre los mismos vehículos implicados.
+        *   **Por raspado:** Roce lateral entre vehículos. Se distinguen:
+            *   **Positivos:** Vehículos circulan en sentido contrario.
+            *   **Negativos:** Vehículos circulan en la misma dirección.
+    *   **Secuencia de una colisión trasera:**
+        1.  Al impacto, la parte trasera del vehículo es empujada hacia adelante. El resto del vehículo se opone por inercia.
+        2.  La sección trasera se arruga; largueros y suelo del maletero se desvían hacia abajo.
+        3.  La sección trasera continúa desplazándose, pero encuentra oposición de la sección central. La resistencia inferior de la sección central genera un desplazamiento ascendente del larguero trasero. La inercia de la sección frontal provoca el giro del pilar delantero, descuadrando los huecos de puerta.
+        4.  La luna trasera y el techo se desplazan hacia arriba, aumentando el desalineamiento de la carrocería.
+*   **e) Vuelco:** Los accidentes pueden incluir o no vuelco. Este factor es clave en las intervenciones, ya que la liberación de ocupantes puede ser más complicada si están atrapados o sujetos por cinturones. Al volcar, el vehículo golpea el suelo y objetos, resultando en una serie de colisiones simultáneas. Cada impacto contribuye al daño global.
+    *   **Tipos de vuelco:**
+        *   **De campana:** El vehículo da vueltas longitudinalmente sobre su eje transversal, proyectándose sobre su parte frontal.
+        *   **De tonel:** El vehículo da vueltas transversalmente sobre su eje longitudinal, girando sobre sus laterales.
+    *   **Posición final del vehículo:** Puede ser vuelco lateral (apoyado sobre un lateral, sin tocar el suelo con las ruedas) o vuelco total (apoyado sobre el techo, con las ruedas hacia arriba).
+    *   **Análisis de fuerzas en vuelco:** Se toma como referencia un vehículo que vuelca una vez (una colisión).
+    *   **Secuencia de colisión por vuelco:**
+        1.  La esquina de la sección central que entra en contacto con el suelo se detiene. El resto del vehículo se desplaza al suelo, causando deformaciones.
+        2.  La deformación continúa, transmitiéndose a la zona inferior de la carrocería debido a la resistencia de la unión entre el pilar y la luna.
+        3.  Aunque la mayoría de los daños visibles están en la parte superior de la carrocería, el área inferior de la estructura puede desalinearse si la fuerza externa es suficientemente grande. La reparación de la carrocería debe incluir correcciones en la plataforma inferior.
+*   **f) Otros:** Esta categoría incluye accidentes no clasificados anteriormente, como incendios, sumersiones, explosiones, caídas de usuarios de vehículos o derrumbamientos, que presentan características especiales.
 
-*   **Colisión entre turismo y vehículo de dos ruedas**: las motocicletas son las más implicadas.
-*   **Colisión entre turismos**: los turismos, que representan el 67% del parque automovilístico, están implicados en el 80% de los accidentes con víctimas y el 43% de las muertes. Las colisiones fronto-laterales y salidas de vía son las más comunes.
-*   **Colisión entre turismo y vehículo pesado**: más del 75% de las muertes son ocupantes del turismo o peatones. El vehículo pesado absorbe el impacto gracias a su estructura de deformación programada. En colisiones frontales, el riesgo de muerte para el conductor del turismo es del 86%, mientras que el conductor del pesado tiene un 66% de posibilidades de salir ileso. La severidad aumenta si el turismo penetra el bajo del vehículo pesado debido a la diferencia de altura, impactando con el parabrisas o habitáculo, no con el frontal diseñado para absorber energía. Una barra anti-empotramiento, situada a 45 cm del suelo y a 40 cm del frontal del camión, es una solución para absorber energía y evitar el aplastamiento. La gran diferencia de masa entre un turismo (1.000 kg) y un pesado (hasta 38.000 kg) genera deceleraciones brutales en el turismo. Más del 90% de las muertes en turismos se deben al aplastamiento de la estructura, y menos del 10% a la eyección de los ocupantes.
-*   **Colisión entre vehículos pesados**: estas colisiones presentan pocas deformaciones pero una desaceleración excesiva para los ocupantes. Un riesgo adicional es el transporte de mercancías peligrosas.
+##### 1.3. Lesiones más frecuentes según el tipo de accidente
 
-## Modo de Producción de los Accidentes
+###### 1.3.1. Factores que influyen en la gravedad de las lesiones
 
-Los accidentes también se clasifican por cómo ocurren:
-*   **Choque**: un vehículo impacta contra elementos fijos (árboles, muros, vallas) o un objeto estacionado en la vía.
-*   **Salidas de vía**: el vehículo abandona la calzada, con o sin vuelco. Representan el 36% de las víctimas mortales en carretera.
-*   **Alcance o colisión trasera**: un vehículo impacta contra la parte trasera de otro que circula en la misma dirección o está estacionado.
-    *   **Reflejas**: colisiones sucesivas entre los mismos vehículos implicados.
-    *   **Por raspado**: un roce lateral entre vehículos en colisión, pudiendo ser **positivas** (circulación en sentidos contrarios) o **negativas** (circulación en el mismo sentido).
-*   **Vuelco**: cualquier accidente puede implicar un vuelco, complicando la liberación de ocupantes atrapados. Cada impacto del vehículo contra el suelo u objetos durante el vuelco contribuye al daño global. Puede ser un **vuelco de campana** (rotación longitudinal sobre su eje transversal, con proyección frontal) o un **vuelco de tonel** (rotación transversal sobre su eje longitudinal, con giro lateral). También se distinguen **vuelco lateral** (apoyado sobre un lateral, sin ruedas en el suelo) y **vuelco total** (apoyado sobre el techo, ruedas hacia arriba).
+La gravedad de las lesiones en un accidente de tráfico está influenciada por:
+*   Un error humano en el sistema de circulación.
+*   La magnitud y naturaleza de la energía cinética del impacto.
+*   La tolerancia del cuerpo humano al impacto.
+*   La disponibilidad y calidad de los servicios de urgencia y asistencia médica.
 
-## Factores de Riesgo en Accidentes de Tráfico
+La tolerancia del organismo a las fuerzas físicas generadas en una colisión es limitada. Las lesiones se relacionan con la energía cinética, que aumenta con el cuadrado de la velocidad, de modo que pequeños incrementos de velocidad aumentan considerablemente el riesgo de lesión. La relación entre las fuerzas de impacto y el tipo de lesiones, así como las categorías de usuarios y grupos de edad, es bien conocida. Los límites biomecánicos asociados a la edad, sexo y velocidad son predictores fiables de lesiones. Por ejemplo, una misma fuerza de impacto puede causar un traumatismo moderado en un hombre de 25 años y ser mortal en una mujer de 65 años.
 
-La gravedad de las lesiones depende de la **energía cinética** del impacto, la **tolerancia del cuerpo humano** y la **disponibilidad de servicios médicos de urgencia**. Los pequeños incrementos de velocidad aumentan considerablemente el riesgo de lesión debido a la relación exponencial con la energía cinética.
+**Factores de riesgo que influyen en la gravedad de las lesiones:**
+*   Velocidad inadecuada o excesiva.
+*   Presencia de alcohol u otras drogas.
+*   No uso de sistemas de retención (cinturones de seguridad, sillitas infantiles).
+*   Falta de uso de casco protector.
+*   Presencia de elementos rígidos y con aristas pronunciadas en los laterales de las vías sin protección adecuada.
+*   Deficiencias de protección en elementos interiores del vehículo.
+*   Elementos exteriores de vehículos agresivos en atropellos o colisiones con usuarios vulnerables.
 
-Los **factores de riesgo** que influyen en la gravedad de las lesiones incluyen:
-*   **Velocidad inadecuada** o excesiva.
-*   **Consumo de alcohol o drogas**, siendo el alcohol un factor concurrente en una de cada cuatro muertes, incluso a bajos niveles, y el policonsumo con drogas tiene efectos devastadores.
-*   **Distracciones del conductor** (visuales, auditivas, físicas, cognitivas), como el uso del teléfono móvil o manipular el navegador.
-*   **No utilización de sistemas de retención** (cinturones de seguridad, sillitas infantiles, casco) que incrementa la gravedad de las lesiones y la probabilidad de eyección.
-*   **Elementos rígidos o punzantes** en la vía o deficiencias en la protección interior/exterior del vehículo.
-
-Los **factores que agravan las lesiones después del accidente** son:
-*   **Retraso en la respuesta** de los servicios de emergencia.
-*   **Deficiencias en la atención** a las víctimas durante el traslado.
-*   **Presencia de fuego** o sustancias peligrosas.
-*   **Dificultades en la evacuación** o excarcelación de las víctimas.
-
-Para evaluar la seguridad, los vehículos nuevos se someten a **pruebas de impacto** (crash test) para asegurar que los ocupantes no sufran lesiones irreparables y que la evacuación sea posible tras una colisión. Estas pruebas se realizan con impactos frontales y laterales a velocidad controlada contra una barrera indeformable.
+**Factores que agravan las lesiones después del accidente:**
+*   Respuesta tardía de los servicios de emergencia (por no detección del accidente o gestión inadecuada).
+*   Deficiencias en la atención a las víctimas durante el traslado o en los servicios de urgencia.
+*   Presencia de fuego o sustancias peligrosas.
+*   Dificultades para evacuar y extraer víctimas de los vehículos.

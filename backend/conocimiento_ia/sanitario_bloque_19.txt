@@ -1,90 +1,140 @@
-# Gestión de Emergencias con Múltiples Víctimas: Sectorización, Triage y Cadena Asistencial
+## TEMARIO DE OPOSICIONES DE BOMBEROS Y EMERGENCIAS: GESTIÓN DE INCIDENTES CON MÚLTIPLES VÍCTIMAS Y TRIAGE
 
-La respuesta a **grandes emergencias y catástrofes** demanda una organización táctica y una coordinación interservicios rigurosa para optimizar la rapidez y la eficiencia en la atención. Estas situaciones, caracterizadas por un número de víctimas que excede la capacidad de los recursos locales, requieren la activación de un **Plan de Emergencias** bajo la dirección de un **Director del Plan**, coordinado a través de un Centro de Coordinación Operativa (CECOP). La estructura operativa en la zona del incidente se articula mediante un **Puesto de Mando Avanzado (PMA)** que integra a los mandos de los grupos de acción: Intervención (bomberos, rescate), Seguridad (fuerzas y cuerpos de seguridad), Sanitario (servicios de emergencias, Cruz Roja, Protección Civil), Técnico (especialistas) y Logístico (Protección Civil, Cruz Roja). En este esquema, los cuerpos de seguridad delimitan y aseguran la zona, los bomberos rescatan víctimas, y los sanitarios clasifican, tratan y evacúan heridos.
+### 1. Organización táctica y sectorización de la escena
 
-## Sectorización de la Escena
+En el abordaje de desastres y grandes emergencias, la gestión eficaz de la escena requiere una coordinación y planificación exhaustiva entre los diferentes servicios intervinientes. Esto se logra mediante la creación de un Plan de Emergencia que define y organiza los recursos. Cuando este plan se activa, un Director del Plan, que opera desde un Centro de Coordinación Operativa (CECOP), asume el mando.
 
-Para organizar la respuesta, la escena se divide en tres zonas funcionales principales:
+La estructura operativa en la zona del incidente se articula en un Puesto de Mando Avanzado (PMA), que agrupa a los mandos de diversos Grupos de Acción:
+*   **Grupo de Intervención:** Integrado por bomberos y personal de rescate.
+*   **Grupo de Seguridad:** Compuesto por fuerzas y cuerpos de seguridad.
+*   **Grupo Sanitario:** Conformado por servicios de emergencias, Cruz Roja y Protección Civil.
+*   **Grupo Técnico:** Incluye personal de Protección Civil y otros técnicos especialistas.
+*   **Grupo Logístico:** Constituido por Protección Civil y Cruz Roja, entre otros.
 
-1.  **Zona Caliente o Área de Salvamento y Rescate (Zona Roja):** Es el lugar del impacto, donde se concentra la mayoría de las víctimas y se realizan las operaciones de búsqueda y rescate. En esta zona, solo trabajan los rescatadores, y la asistencia sanitaria se limita a medidas vitales esenciales como la apertura de la vía aérea o el control de hemorragias, sin proceder a la asistencia completa de los heridos. El movimiento de las víctimas hacia un área segura se realiza mediante la **primera noria de rescate o de camilleros**, que debe ser continua y unidireccional, garantizando la alineación cervical del paciente.
-2.  **Zona Templada o Área de Socorro y Asistencial (Zona Amarilla):** Esta es un área segura, próxima a la zona caliente, donde se despliegan los servicios sanitarios. Incluye el **nido de heridos**, un punto de concentración de las víctimas rescatadas para su clasificación inicial. El **Puesto de Mando Sanitario (PMSAN)**, liderado por el Mando Médico Operativo (MMO), dirige la organización del personal sanitario, coordina las áreas asistenciales y mantiene la comunicación con el Centro Coordinador del Sistema Sanitario. La **área de clasificación o triage**, dirigida por un responsable de triage, se establece precozmente cerca del nido de heridos. Aquí se realiza un **segundo triage o triage avanzado**, clasificando a las víctimas con tarjetas de colores (amarillo o rojo), mientras que los pacientes verdes pasan directamente a la zona de evacuación. El **Puesto Médico Avanzado (PMA)**, determinado por el MMO, es el espacio seguro (tiendas o carpas) donde se estabiliza y trata a los heridos rojos y amarillos según su prioridad. En esta zona se gestiona también el **Puesto de Carga** para la evacuación de pacientes en ambulancias, asegurando un registro y control de destinos. Además, se establece un **redil** para ilesos y pacientes leves (verdes), y una **morgue** para los fallecidos, ubicada estratégicamente cerca de los pacientes rojos pero alejada de los verdes.
-3.  **Zona Fría o Área de Base o Apoyo (Zona Verde):** Es la zona más segura y de apoyo logístico. Aquí se ubica el Puesto de Mando Avanzado principal, con los responsables de todos los grupos de acción, y se sitúa la zona de estacionamiento de ambulancias, con fácil acceso para el flujo de vehículos.
+En esta estructura, las fuerzas de seguridad del Estado se encargan de acordonar la zona y asegurar la integridad tanto de las víctimas como del personal de rescate. Los bomberos se responsabilizan de controlar la seguridad en el punto de incidente y de efectuar el rescate de los afectados. Por su parte, el personal sanitario se ocupa de la clasificación, tratamiento y evacuación de los heridos.
 
-## El Triage: Clasificación de Víctimas
+El Grupo Sanitario opera jerárquicamente bajo la supervisión de un Mando Sanitario (MS) en el terreno, integrado en el PMA. El MS coordina a los jefes de los diferentes niveles asistenciales para asegurar una cadena de asistencia adecuada.
 
-El **triage** es el método utilizado para clasificar a las víctimas en función de su gravedad y pronóstico, estableciendo la prioridad de tratamiento y evacuación con el objetivo de salvar el mayor número de vidas posible. Este proceso, que exige decisiones rápidas bajo presión, debe ser **anterógrado, dinámico y continuo**, implicando una reevaluación constante de las víctimas. La categorización se realiza mediante un código de colores universal: rojo (prioridad 1, muy grave, atención inmediata), amarillo (prioridad 2, grave, atención diferida), verde (prioridad 3, leve, atención menor) y negro (prioridad 4, moribundo/expectante, nula posibilidad de supervivencia).
+Los "primeros intervinientes" son las personas que llegan inicialmente al lugar de un incidente con múltiples víctimas (IMV). Aunque pueden ser testigos o supervivientes, el término se refiere al primer equipo de respuesta. Para los equipos médicos que llegan a una catástrofe, es crucial priorizar la organización y el control del caos antes de la asistencia y el tratamiento individual de los pacientes. Sus objetivos iniciales incluyen:
+*   Evaluar la seguridad de la escena para proteger tanto a los intervinientes como a las víctimas.
+*   Realizar una valoración global de la escena para evitar que víctimas pasen desapercibidas, se pierdan o sean evacuadas sin un orden establecido por los testigos.
+*   Determinar y comunicar al centro coordinador el número estimado de lesionados y los recursos adicionales necesarios.
+*   Identificar las ubicaciones apropiadas para el PMA (junto a los responsables de otros estamentos), las zonas de clasificación y agrupación de víctimas, el puesto médico avanzado y la organización de ambulancias y personal sanitario para la evacuación.
+*   Concentrar a los ilesos y a las víctimas capaces de caminar en una zona segura, ya que estos no pasarán necesariamente por el puesto médico avanzado y serán los últimos en recibir asistencia.
 
-### Tipos de Triage
+### 2. Sectorización de la escena
 
-El triage se divide en fases y enfoques:
+La sectorización implica la delimitación y división de la escena de un incidente en áreas funcionales para los distintos estamentos que participan. Este enfoque mejora la organización, la seguridad y facilita el trabajo de los servicios de emergencia. Generalmente, se establecen tres zonas principales:
 
-*   **Triage Básico o Primario:** Se lleva a cabo en la zona de impacto o en el nido de heridos, generalmente por personal con formación sanitaria básica o no sanitario entrenado. Clasifica a las víctimas mediante cintas de colores para determinar la prioridad inicial de traslado al PMA.
-*   **Triage Avanzado o Secundario:** Se realiza en el Puesto Médico Avanzado por personal sanitario de los equipos de emergencia, utilizando tarjetas de triage para documentar las lesiones. Incluye:
-    *   **Triage de Estabilización o Tratamiento:** Define la prioridad para el tratamiento en cada categoría.
-    *   **Triage de Evacuación:** Establece el orden de evacuación una vez estabilizados los pacientes.
+#### 2.1. Zona Caliente o Área de Salvamento o Rescate (Zona Roja)
+Es el lugar inicial del incidente, donde se encuentran la mayoría de las víctimas. Aquí se efectúa la búsqueda y el rescate de las víctimas, trasladándolas a una zona segura (nido de heridos) para su clasificación y posterior socorro. En esta área, solo operan los rescatadores (bomberos); el personal sanitario no debe acceder a menos que sea solicitado para asistir conjuntamente a víctimas atrapadas o para realizar un triage inicial por colores según la gravedad. La asistencia sanitaria en esta zona se limita a medidas vitales como la apertura de la vía aérea o la compresión de hemorragias.
 
-### Métodos de Triage
+Desde la zona de salvamento, se inicia la "noria de rescate" o "noria de camilleros", un movimiento continuo y unidireccional de las víctimas hacia la zona de socorro. Este traslado, realizado a pie, en camillas o con otros medios improvisados, debe garantizar la alineación de la columna cervical si es posible.
 
-Existen diversos modelos de triage que se adaptan a las necesidades específicas de cada servicio, pudiendo clasificarse según su polaridad:
+#### 2.2. Zona Templada o Área de Socorro o Asistencial (Zona Amarilla)
+Esta es una zona segura, contigua al área de salvamento, donde se despliegan los servicios sanitarios:
+*   **Nido de Heridos:** Ubicado en el límite entre la zona de impacto y la de socorro, es un área segura donde se concentran las personas rescatadas para ser clasificadas según su gravedad y prioridad.
+*   **Puesto de Mando Sanitario (PMSAN):** Desplegado por el primer equipo de emergencia, se sitúa cerca de la zona de salvamento. Aquí, el Mando Médico Operativo (MMO) organiza al personal sanitario, coordina el despliegue de áreas asistenciales y mantiene la comunicación con el Centro Coordinador del Sistema Sanitario. Cada equipo sanitario que llega debe contactar con el MMO para recibir instrucciones.
+*   **Área de Clasificación o Triage:** Debe establecerse lo antes posible, bajo la dirección de un responsable de triage. Se sitúa cerca del nido de heridos, en un lugar visible, seguro y espacioso, para recibir a las víctimas de la primera noria de rescate. Aquí se realiza un segundo triage (triage avanzado), clasificando a los pacientes con una tarjeta que determina su prioridad de estabilización (amarillo o rojo). Las víctimas clasificadas como verdes pasan directamente a una zona próxima al área de evacuación. Este triage es realizado por personal sanitario entrenado y puede no coincidir con la categoría asignada en el triage inicial.
+*   **Puesto Médico Avanzado (PMA):** Se ubica en un área segura, cercana a la zona de impacto, y su localización la determina el MMO. Puede consistir en tiendas de campaña o carpas, o realizarse al aire libre. Su despliegue precoz es crucial para la asistencia a los heridos. Generalmente, se divide en dos áreas: una para los clasificados como "rojos" y otra para los "amarillos". Tras el triage avanzado, los pacientes son estabilizados y tratados según su prioridad.
 
-*   **Bipolar:** Distingue dos categorías, como consciente/inconsciente o deambula/no deambula, siendo rápido pero menos preciso. Útil en grandes emergencias con muchos heridos o zonas inseguras.
-*   **Tripolar:** Más utilizado y preciso que el bipolar, incorporando una tercera variable, como la categoría de fallecidos.
-*   **Tetrapolar:** Es el más extendido, usando las cuatro categorías de colores clásicas (rojo, amarillo, verde y negro).
-*   **Pentapolar:** Menos frecuente, añade una quinta categoría (azul o gris) para pacientes moribundos o con pronóstico muy desfavorable que requieren esfuerzos desproporcionados, con reevaluación si su probabilidad de supervivencia mejora.
+Desde el PMA, se realiza un último triage o clasificación para determinar el orden de evacuación. El flujo de heridos e intervinientes en el PMA debe ser unidireccional para evitar aglomeraciones. A la salida del PMA se establece el Puesto de Carga, donde las ambulancias esperan para evacuar. Si el número de heridos es alto, el Puesto de Carga puede ubicarse aparte, permitiendo que las víctimas estabilizadas esperen su traslado sin bloquear el PMA. La "segunda noria de camilleros" o "noria de evacuación" traslada a los pacientes del PMA al Puesto de Carga. En este último, un jefe registra a los pacientes evacuados y su destino, organizando la disponibilidad de ambulancias. Se debe evitar la evacuación indiscriminada de víctimas en vehículos no sanitarios.
 
-Entre los métodos basados en lesiones y alteraciones fisiopatológicas, destacan los algoritmos **S.H.O.R.T.** y **S.T.A.R.T.**:
+En el área de asistencia también se encuentran otras estructuras como el **redil**, donde se concentran ilesos y pacientes leves (categoría verde) para su traslado en vehículos no sanitarios, desplegándose cerca del PMA y de los pacientes amarillos. La **morgue**, reservada para los fallecidos, se sitúa preferiblemente cerca del PMA y alejada de los pacientes verdes.
 
-*   **Algoritmo S.H.O.R.T. (Simple Triage And Rapid Treatment, simplificado):**
-    *   Si el paciente **puede caminar**, se clasifica como **VERDE**.
-    *   Si no puede caminar, se evalúa si **habla sin dificultad y obedece órdenes sencillas**. Si es así, se asigna **AMARILLO**.
-    *   Si no cumple lo anterior, se verifica si **respira** y presenta **signos de circulación**. En este caso, se categoriza como **ROJO**.
-    *   Si **no respira, jadea o boquea, o no presenta signos vitales**, se clasifica como **NEGRO**.
-    *   La intervención para **taponar hemorragias** se considera en la categoría ROJO.
+#### 2.3. Zona Fría o Área de Base o Apoyo (Zona Verde)
+Es la zona más segura y limita con el área de salvamento. Aquí se ubica el Puesto de Mando Avanzado, compuesto por los responsables de los grupos de intervención, orden público y sanitario. También se encuentran los grupos de apoyo logístico y la zona de estacionamiento de ambulancias, con fácil acceso para su flujo.
 
-*   **Algoritmo S.T.A.R.T. (Simple Triage And Rapid Treatment):**
-    *   Primero, se pregunta si el paciente **puede andar**. Si la respuesta es afirmativa, se clasifica como **LEVE**. Si no puede andar, se pasa al siguiente criterio.
-    *   Se evalúa la **frecuencia respiratoria**. Si es nula o no respira tras abrir la vía aérea, se declara **MUERTO**. Si respira menos de 30 veces por minuto, se continúa. Si respira más de 30 veces por minuto, se clasifica para **ATENCIÓN INMEDIATA**.
-    *   A continuación, se comprueba el **pulso radial**. Si está presente, se prosigue la evaluación. Si está ausente, se clasifica para **ATENCIÓN INMEDIATA**.
-    *   Finalmente, se determina si el paciente **responde a órdenes sencillas**. Si es así, se categoriza como **URGENTE**. Si no responde, también requiere **ATENCIÓN INMEDIATA**.
-    *   Medidas clave incluyen **cobijar hemorragias** y **abrir la vía aérea** cuando sea necesario.
+### 3. Triage
 
-## Cadena Asistencial de los Heridos
+#### 3.1. Concepto
+El triage es la clasificación de heridos en incidentes con múltiples víctimas según su gravedad y pronóstico. Su propósito es establecer la prioridad de tratamiento y evacuación para salvar el mayor número de vidas posible con los recursos disponibles, priorizando el interés colectivo sobre el individual y evitando el uso ineficaz de recursos en casos no salvables a tiempo.
 
-La asistencia a los heridos sigue un flujo escalonado y coordinado:
+El triage debe ser anterógrado (progresivo), dinámico y continuo, implicando un flujo unidireccional de víctimas y una reevaluación constante para asegurar la continuidad asistencial. Es una tarea compleja bajo presión emocional y con tiempo limitado, por lo que las herramientas y procedimientos deben ser precisos, rápidos, sencillos y completos. La categorización y el etiquetado con códigos de colores universales (rojo, amarillo, verde y negro) son esenciales para indicar el pronóstico vital y el tiempo máximo de espera.
 
-1.  **Triage Básico o Inicial:** Realizado por el primer interviniente en la zona de impacto, donde se asigna una prioridad provisional mediante colores. Los pacientes **verdes** (deambulantes) son dirigidos a un **redil**, mientras que los **negros** (fallecidos) se gestionan al final. Las primeras medidas salvadoras (apertura de vía aérea, control de hemorragias, posición lateral de seguridad) se aplican de inmediato.
-2.  **Primer Triage Avanzado o de Estabilización:** Los heridos **rojos** y **amarillos** son trasladados al **Puesto Médico Avanzado (PMA)**. Aquí, personal sanitario cualificado realiza una evaluación más detallada, estabiliza a los pacientes y registra sus datos y tratamientos en tarjetas de triage.
-3.  **Tercer Triage o Triage Avanzado de Evacuación:** También en el PMA, un médico experto en cirugía establece el orden definitivo de evacuación de los pacientes estabilizados, registrando la información.
-4.  **Traslado a Puesto de Carga:** Desde el PMA, los pacientes son movilizados al **Puesto de Carga** donde esperan las ambulancias para el traslado hospitalario. Se mantiene un registro exhaustivo de los pacientes y sus destinos para asegurar la continuidad asistencial.
+#### 3.2. Tipos de triage
 
-## Soporte Vital Básico (SVB) y Desfibrilador Externo Automático (DEA) en Adultos
+Los métodos de triage se pueden clasificar según su ubicación y el personal que los realiza:
 
-La **parada cardiorrespiratoria (PCR)** es una interrupción brusca y potencialmente reversible de la respiración y la circulación espontáneas. La **reanimación cardiopulmonar (RCP)** es el conjunto de maniobras dirigidas a revertir la PCR, restaurando la función respiratoria y cardiaca para lograr una perfusión sanguínea adecuada de los órganos vitales. El **soporte vital básico (SVB)** comprende las maniobras de RCP que garantizan las funciones ventilatoria y circulatoria esenciales para la supervivencia.
+| Tipo de Triage          | Triage básico o primario                                       | Triage avanzado o secundario                                                                                             |
+| :---------------------- | :------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------- |
+| **Ubicación**           | Zona de impacto o nido de heridos.                             | Puesto Médico Avanzado.                                                                                                |
+| **Personal**            | Personal con formación básica sanitaria o no sanitario entrenado. | Personal sanitario de los equipos de emergencia.                                                                         |
+| **Categorización**      | Cintas de colores para prioridad inicial de traslado al PMA, según gravedad y probabilidad de supervivencia. | Tarjetas de triage sujetas al brazo, pierna o cuello del paciente.                                                       |
+| **Objetivo (Triage de Estabilización o Tratamiento)** | No aplicable directamente.                                     | Establece la prioridad de tratamiento para cada categoría.                                                               |
+| **Objetivo (Triage de Evacuación)**    | No aplicable directamente.                                     | Determina el orden de evacuación tras la estabilización y tratamiento.                                                    |
 
-La **Cadena de Supervivencia** describe los pasos críticos a activar en caso de PCR:
-1.  Reconocer la PCR y alertar rápidamente a los servicios de emergencias.
-2.  Iniciar las maniobras de RCP sin demora.
-3.  Desfibrilación precoz con un DEA.
-4.  Traslado urgente al hospital.
-5.  Cuidados post-resucitación.
+Se utilizan cuatro categorías principales, representadas por colores:
+*   **ROJO (Prioridad 1, Muy Grave, Inmediato):** Pacientes con riesgo vital que requieren asistencia inmediata. Pueden presentar complicaciones en el ABC, traumatismos torácicos o abdominales graves, inconsciencia o bajo nivel de consciencia, o amputaciones por encima del codo o rodilla. Serán los primeros en ser atendidos y evacuados.
+*   **AMARILLO (Prioridad 2, Grave, Diferido):** Necesitan atención médica urgente, pero no inmediata. Pueden tener lesiones abdominales hemodinámicamente estables, heridas profundas con hemorragias controladas, fracturas abiertas o cerradas de miembros inferiores, traumatismo craneoencefálico leve o moderado con constantes vitales estables, o amputaciones distales con hemorragia controlada. Serán los segundos en ser evacuados.
+*   **VERDE (Prioridad 3, Leve, Menor):** No requieren atención urgente. Se caracterizan por heridas menores, contusiones, erosiones, pequeñas quemaduras, y signos vitales estables. Pueden deambular y ser atendidos por voluntarios, personal no sanitario, o incluso colaborar en el cuidado de otros heridos.
+*   **NEGRO (Prioridad 4, Moribundo, Expectante):** Pacientes fallecidos o con nulas posibilidades de supervivencia.
 
-El algoritmo de actuación ante sospecha de PCR en adultos sigue una secuencia estandarizada:
+#### 3.3. Métodos de triage
 
-1.  **Asegurar el Lugar:** Verificar que la escena sea segura para la víctima y el interviniente.
-2.  **Comprobar Consciencia:** Sacudir suavemente al paciente por los hombros y preguntar "¿Está usted bien?". Si responde, indagar sobre lo ocurrido y si necesita ayuda. Si no responde, continuar con el algoritmo.
-3.  **Abrir Vía Aérea:**
-    *   Si no se sospecha de traumatismo cervical, realizar la **maniobra frente-mentón**: hiperextender suavemente la cabeza con una mano en la frente y elevar la mandíbula con los dedos índice y medio de la otra mano.
-    *   Si se sospecha de traumatismo cervical, realizar la **maniobra de elevación de la mandíbula**: traccionar la mandíbula hacia adelante con el pulgar en la boca y la otra mano en la frente, manteniendo la cabeza en posición neutra para evitar la hiperextensión del cuello.
-    *   Para desobstruir la vía aérea: extraer objetos visibles con facilidad (sin barrido a ciegas), aspirar secreciones con un aspirador (máximo 5 segundos en adultos, 100 mm Hg de presión negativa en niños) colocando al paciente en posición lateral de seguridad si está inconsciente para evitar broncoaspiración.
-    *   Considerar la colocación de una **cánula de Guedel** (midiéndola desde el ángulo de la boca hasta el lóbulo de la oreja e introduciéndola girando 180º a mitad de camino) o una **mascarilla laríngea** (lubricar y deslizar por el paladar, inflar balón 20-40 ml y conectar a bolsa autoinflable, verificando elevación torácica).
-4.  **Comprobar Respiración:** Evaluar durante no más de 10 segundos, acercando la cara al paciente y observando movimientos torácicos, escuchando ruidos respiratorios y sintiendo el aire exhalado. No confundir la respiración agónica ("gasping") con respiración normal, ya que es un signo de parada cardiaca.
-5.  **Iniciar RCP (si no respira o no hay signos vitales):** Consiste en una combinación de 30 compresiones cardiacas y 2 ventilaciones.
-    *   **Masaje Cardiaco:** Colocar el talón de una mano en el centro del tórax (línea intermamaria), con la otra mano entrelazada encima. Comprimir el tórax 5 cm a una frecuencia de 100-120 compresiones por minuto, minimizando interrupciones.
-    *   **Ventilación Artificial:** Realizar dos ventilaciones sellando la boca (boca a boca, boca-nariz o estoma si traqueotomía) y pinzando la nariz, realizando una inspiración normal que eleve el pecho durante un segundo. Utilizar sistemas de barrera y protección. Lo óptimo es ventilar con un **balón autoinflable (AMBU)** conectado a una fuente de oxígeno a 15 litros, previa colocación de cánula de Guedel. La ventilación debe ser a un ritmo de 15 respiraciones por minuto.
+La diversidad de modelos de triage y las preferencias de cada país dificultan su clasificación. Sin embargo, los métodos más comunes se basan en el número de opciones de clasificación o en los signos vitales, lesiones y capacidades fisiológicas de las víctimas.
 
-### Uso del Desfibrilador Externo Automático (DEA)
+##### 3.3.1. Según su polaridad
+*   **Bipolar:** Distingue a las víctimas en dos categorías, como consciente-inconsciente, deambula-no deambula, o vivo-muerto. Es el método más simple y rápido, pero menos preciso. Es útil en grandes emergencias con muchos heridos o en zonas inseguras.
+*   **Tripolar:** Más preciso que el bipolar, utiliza tres variables, incluyendo una categoría para los fallecidos. Ejemplo: muerto-deambula-no deambula.
+*   **Tetrapolar:** Es el más extendido, utilizando las cuatro categorías clásicas (rojo, amarillo, verde y negro) previamente descritas.
+*   **Pentapolar:** Menos común, añade una quinta categoría (azul o gris) para pacientes moribundos que requieren recursos excesivos con un pronóstico desfavorable, siendo reevaluados tras atender a los pacientes con mayor probabilidad de supervivencia.
 
-En la PCR del adulto, el tratamiento eléctrico precoz con un **DEA** es vital. Una vez disponible, se coloca en la cabecera del paciente. El DEA analiza el ritmo cardiaco y proporciona instrucciones:
-1.  **Colocar Electrodos:** Ubicar uno bajo la clavícula derecha y otro en el costado izquierdo del pecho desnudo.
-2.  **Análisis del Ritmo:** No tocar al paciente mientras el DEA analiza. Los ritmos desfibrilables son la **fibrilación ventricular (FV)** y la **taquicardia ventricular sin pulso (TVSP)**.
-3.  
+##### 3.3.2. Según sus lesiones y alteraciones fisiopatológicas
+Se utilizan diversos métodos y escalas de gravedad, como el método SHORT y el método START, que se detallan a continuación.
+
+**Método S.H.O.R.T. (Simple Triage And Rapid Treatment)**
+
+Este gráfico representa el algoritmo de triage para personal sanitario prehospitalario en incidentes con múltiples víctimas:
+
+1.  **¿Puede caminar?**
+    *   **SÍ:** Verde (Lesión Leve)
+    *   **NO:** Continuar.
+2.  **¿Habla sin dificultad y obedece órdenes sencillas?**
+    *   **SÍ:** Amarillo (Lesión Grave).
+    *   **NO:** Continuar.
+3.  **¿Respira? (¿Signos de circulación?)**
+    *   **SÍ:** Rojo (Atención Inmediata).
+    *   **NO:** Negro (Fallecido).
+4.  **Taponar hemorragias:** Esta acción se aplica tanto a la categoría Roja como Amarilla.
+
+**Significado de las categorías del método S.H.O.R.T.:**
+*   **S:** Sale caminando (Verde)
+*   **H:** Habla sin dificultad (Amarillo)
+*   **O:** Obedece órdenes (Amarillo)
+*   **R:** Respira (Rojo)
+*   **T:** Taponar hemorragias (Rojo/Amarillo)
+
+**Método S.T.A.R.T. (Simple Triage And Rapid Treatment)**
+
+Este gráfico representa el algoritmo de triage básico para niños:
+
+1.  **¿Puede andar?**
+    *   **SÍ:** LEVE (Verde)
+    *   **NO:** Continuar.
+2.  **Frecuencia respiratoria:**
+    *   **Ninguna:** MUERTO (Negro).
+    *   **¿Respira tras abrir vía aérea?**
+        *   **SÍ:** MUERTO (Negro).
+        *   **NO:** Continuar a evaluar la frecuencia respiratoria (si es menor de 30 por minuto, seguir; si es mayor o igual a 30 por minuto, ATENCIÓN INMEDIATA (Rojo)).
+3.  **¿Tiene pulso radial?**
+    *   **SÍ:** Continuar.
+    *   **NO:** ATENCIÓN INMEDIATA (Rojo).
+4.  **¿Responde dos órdenes sencillas?**
+    *   **SÍ:** ATENCIÓN INMEDIATA (Rojo).
+    *   **NO:** ATENCIÓN INMEDIATA (Rojo).
+
+**Acciones adicionales en el método S.T.A.R.T.:**
+*   **¡Atención!** Se debe abrir la vía aérea, verificar la respiración y los signos vitales, y esperar la asistencia médica.
+*   **Urgente:** Implica la necesidad de atención inmediata.
+
+#### 3.4. Cadena asistencial de los heridos
+
+En resumen, la cadena asistencial para los heridos en incidentes con múltiples víctimas sigue los siguientes pasos:
+1.  **Clasificación inicial (Triage básico):** Realizada por personal no sanitario en la zona de impacto, asignando un color a cada víctima.
+2.  **Víctimas verdes:** Pacientes ambulatorios que se dirigen directamente a una zona segura (redil).
+3.  **Víctimas negras:** Permanecen en el área de salvamento y son las últimas en ser trasladadas. En esta fase de triage básico, se pueden realizar medidas salvadoras como la apertura de la vía aérea, el control de hemorragias y la colocación en posición lateral de seguridad.
+4.  **Traslado de víctimas rojas y amarillas:** Son transferidas a la zona de clasificación.
+5.  **Primer triage avanzado (Triage de estabilización):** Realizado por personal sanitario (enfermeros o médicos) en el Puesto Médico Avanzado (PMA). Se registran los datos del paciente, las lesiones y el tratamiento en una tarjeta de triage.
+6.  **Tercer triage (Triage de evacuación):** Preferiblemente a cargo de un médico con experiencia en cirugía en el PMA. Se establece el orden de evacuación de las víctimas estabilizadas, registrando la información en la tarjeta de triage.
+7.  **Traslado final:** Desde el PMA, los pacientes son llevados al Puesto de Evacuación (si se ha desplegado) y, desde allí, al hospital correspondiente.

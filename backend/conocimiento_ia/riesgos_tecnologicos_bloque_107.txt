@@ -1,83 +1,98 @@
-# Aperturas Forzadas en Intervenciones de Bomberos y Emergencias
+A continuación, se presenta un temario exhaustivo sobre riesgos tecnológicos y asistencias técnicas, centrado en la caracterización de NRBQ, sus propiedades físico-químicas, y la normativa aplicable, basado en el texto proporcionado.
 
-Las intervenciones de los cuerpos de bomberos a menudo requieren la realización de **aperturas forzadas** en edificaciones para acceder a personas en situaciones de riesgo o para controlar emergencias. Esta capacidad es fundamental en diversos escenarios, como viviendas, establecimientos industriales, almacenes o garajes. La ejecución de estas operaciones debe guiarse por principios de seguridad, eficacia y el menor daño posible, siempre en el marco legal vigente.
+### Parte 7: NRBQ - Capítulo 1. Caracterización
 
-## Marco Legal y Consideraciones Éticas
+#### 1. Conceptos previos
+La evolución acelerada de la sociedad moderna, tanto a nivel industrial como tecnológico y social, ha incrementado la producción, el transporte y el uso de sustancias químicas. Estas sustancias, aunque mejoran la calidad de vida, conllevan riesgos potenciales.
 
-La actuación en aperturas forzadas está estrictamente regulada por la ley. Es imperativo que las intervenciones se realicen con **indicios claros de emergencia o desamparo**. En ausencia de tales indicios, la entrada no solicitada en una propiedad puede constituir un allanamiento de morada, sancionado por el Código Penal con penas de prisión. Por ello, la presencia o autorización previa de las Fuerzas y Cuerpos de Seguridad del Estado (FF.CC.SS.) es crucial para realizar las comprobaciones necesarias, como la identificación de la vivienda, la ausencia de una orden de alejamiento o la confirmación de que no se trata de un acto delictivo.
+Las intervenciones de bomberos en incidentes con mercancías peligrosas (ej., accidentes de tráfico) o en polígonos industriales (con almacenamiento de productos químicos) son comunes. La gestión de estos siniestros es crucial debido a los riesgos para personas, bienes y el medioambiente, requiriendo una respuesta integral y coordinada entre las administraciones (local, regional, estatal) y los cuerpos de emergencia.
 
-El principio de **proporcionalidad** es esencial: no se debe poner en riesgo excesivo a la dotación de bomberos para evitar daños menores a la propiedad. Por ejemplo, descender desde grandes alturas para una apertura sencilla de ventana no sería proporcional. Además, la planificación de la intervención debe considerar la **fase de "vuelta a la normalidad"**, buscando minimizar los desperfectos para facilitar la posterior recuperación de la propiedad.
+Es fundamental un Plan preestablecido que incluya un catálogo de riesgos, un índice de probabilidad de ocurrencia y una evaluación de la vulnerabilidad de los elementos afectados, asegurando que los procedimientos, medios y recursos sean eficaces en la intervención.
 
-## Equipamiento y Precauciones Generales
+Los avances tecnológicos y científicos han generado los siguientes riesgos potenciales:
+*   **Riesgos nucleares**: Aunque el objetivo es reducir la probabilidad y mitigar las consecuencias de accidentes nucleares, las 8 centrales operativas en España (incluyendo instalaciones para combustible en Juzbado, uranio en Salamanca, residuos en El Cabril y ATC en Villar de Cañas) representan una fuente de radiación y contaminación potencial.
+*   **Riesgos radiológicos**: Son menos devastadores que los nucleares pero más probables. España cuenta con aproximadamente 1300 centros autorizados para el uso de radionúclidos, lo que implica traslados frecuentes de estos materiales.
+*   **Riesgos químicos**: Se asocian a establecimientos industriales que fabrican, almacenan o generan sustancias químicas peligrosas. La normativa ajusta las exigencias según el tipo y cantidad de sustancia.
+*   **Transporte de mercancías peligrosas**: El mero traslado ya implica un riesgo, que se incrementa por la naturaleza de la mercancía. Es el riesgo tecnológico que más intervenciones de protección civil requiere.
 
-Para cualquier apertura forzada, el personal interviniente debe estar equipado con los **Equipos de Protección Individual (EPI)** adecuados, incluyendo guantes protectores, ropa de manga larga anticorte, casco, calzado reforzado con puntera de acero y gafas o pantalla de protección ocular. En situaciones con riesgo añadido, como trabajo en altura, se utilizarán equipos de rescate específicos, mientras que en presencia de incendios o gases peligrosos, se emplearán protección contra fuego y equipos de respiración autónoma (ERA), así como mascarillas buconasales con filtro de partículas.
+La capacidad de los riesgos tecnológicos para generar daños devastadores justifica que la normativa que los regula sea más específica y de un nivel superior que las normas generales.
 
-Es fundamental realizar una **valoración inicial exhaustiva** del lugar para identificar el punto más débil o de más fácil acceso. Se deben considerar otros sistemas de seguridad que el propietario pudiera haber instalado, como cerrojos interiores o bloqueadores de ventanas, ya que pueden dificultar el acceso y requerir un plan alternativo.
+#### 1.1. Normativa aplicable
+Se detalla la normativa actual española relacionada con los diversos riesgos.
 
-## Técnicas de Apertura de Puertas
+##### 1.1.1. Riesgo nuclear-radiológico
+*   **Normativa internacional**:
+    *   **DIRECTIVA 2013/59 EURATOM del CONSEJO, de 5 de diciembre de 2013**: Establece los estándares básicos de seguridad para la protección contra los peligros derivados de la exposición a las radiaciones ionizantes.
+*   **Normativa española**:
+    *   **Real Decreto 1440/2010, de 5 de noviembre**: Aprueba el Estatuto del Consejo de Seguridad Nuclear.
+    *   **Real Decreto 1439/2010, de 5 de noviembre**: Modifica el Reglamento sobre protección sanitaria contra radiaciones ionizantes, aprobado por Real Decreto 783/2001, de 6 de julio.
+    *   **Real Decreto 102/2014, de 21 de febrero**: Para la gestión responsable y segura del combustible nuclear gastado y los residuos radiactivos.
+    *   **Real Decreto 1564/2010, de 19 de noviembre**: Aprueba la Directriz Básica de planificación de Protección Civil ante el riesgo radiológico.
+    *   **Resolución de 20 de octubre de 1999 de la Subsecretaría**: Dispone la publicación del acuerdo del Consejo de Ministros (1 de octubre de 1999) sobre información pública de medidas de protección sanitaria y comportamiento en caso de emergencia radiológica.
+    *   **Ley 25/1964, de 29 de abril**: Ley de Energía Nuclear (BOE nº 107, 4 de mayo de 1964).
+    *   **Ley 15/1980, de 22 de abril**: Ley de Creación del Consejo de Seguridad Nuclear (BOE nº 100, 25 de abril de 1980).
+    *   **Ley 33/2007, de 7 de noviembre**: Reforma de la Ley 15/1980.
+    *   **Real Decreto 1836/1999, de 3 de diciembre**: Aprueba el Reglamento sobre Instalaciones Nucleares y Radiactivas.
+    *   **Real Decreto 35/2008, de 18 de enero**: Modifica el Reglamento sobre Instalaciones Nucleares y Radiactivas (BOE nº 42, 18 de febrero de 2008).
+    *   **Real Decreto 783/2001, de 6 de julio**: Aprueba el Reglamento sobre Protección Sanitaria contra radiaciones ionizantes (BOE nº 178, 26 de julio de 2001).
+    *   **Real Decreto 1546/2004, de 25 de junio**: Aprueba el Plan Básico de Emergencia Nuclear (BOE nº 169, 14 de julio de 2004).
+    *   **Corrección de errores del Real Decreto 1546/2004, de 2 de noviembre de 2004**.
+    *   **Real Decreto 1428/2009, de 11 de septiembre**: Modifica el Plan Básico de Emergencia Nuclear.
+    *   **Orden INT/1695/2005, de 27 de mayo**: Aprueba el Plan de Emergencia Nuclear del Nivel Central de Respuesta y Apoyo (BOE nº 137, 9 de junio de 2005).
+    *   **Resolución, de 7 de junio de 2005 de la Subsecretaría**: Aprueba las directrices para programas de información previa a la población, formación y simulacros de planes de emergencia nuclear externos. (BOE nº 147, 21 de junio de 2005).
+    *   **Resoluciones de 20 de octubre de 2009 de la Subsecretaría**: Publica acuerdos del Consejo de Ministros (16 de octubre de 2009) que aprueban los Planes Directores correspondientes a los Planes de Emergencia Nuclear Exteriores a las Centrales Nucleares (Boletín Oficial del Estado de 10 de noviembre de 2009).
+    *   **Planes Directores específicos**: PENGUA (José Cabrera y Trillo, Guadalajara), PENTA (Ascó y Vandellós, Tarragona), PENBU (Santa María de Garoña, Burgos), PENVA (Cofrentes, Valencia), PENCA (Almaraz, Cáceres).
 
-La elección de la técnica de apertura de puertas depende de factores como el tipo de cerradura y la robustez de la puerta.
+##### 1.1.2. Riesgo químico
+*   **Normativa CE**:
+    *   **Decisión de la Comisión de 2 de diciembre de 2008**: Establece el formulario de declaración de accidente grave, según la Directiva 96/82/CE, sobre control de riesgos de accidentes graves con sustancias peligrosas.
+    *   **DIRECTIVA 2012/18/UE del PARLAMENTO EUROPEO Y DEL CONSEJO de 4 de julio de 2012**: Relativa al control de los riesgos de accidentes graves con sustancias peligrosas, modificando y derogando la Directiva 96/82/CE (conocida como SEVESO III).
+*   **Normativa española**:
+    *   **Real Decreto 1254/1999, de 16 de julio**: Aprueba medidas de control de riesgos inherentes a accidentes graves con sustancias peligrosas.
+    *   **Real Decreto 119/2005, de 4 de febrero**: Modifica el Real Decreto 1254/1999.
+    *   **Real Decreto 948/2005, de 29 de julio**: Modifica el Real Decreto 1254/1999.
+    *   **Real Decreto 1196/2003, de 19 de septiembre**: Aprueba la Directriz Básica de protección civil para planificación ante accidentes graves con sustancias peligrosas (BOE nº 242, 9 de octubre de 2003).
+    *   **Real Decreto 1254-1999, de 16 de julio (Texto refundido no oficial)**: Sobre medidas de control de riesgos de accidentes graves con sustancias peligrosas.
+    *   **Orden PRE/1206/2014, de 9 de julio**: Modifica el anexo I del Real Decreto 1254/1999.
 
-### Apertura de Cerraduras
+##### 1.1.3. Riesgo en el transporte de mercancías peligrosas
+*   **Normativa española**:
+    *   **Real Decreto 1070/2012, de 13 de julio**: Aprueba el Plan estatal de protección civil ante el riesgo químico.
+    *   **B.O.E. nº 276, de 16 de noviembre de 2004 (Orden INT/3716/2004, de 28 de octubre)**: Publica fichas de intervención para accidentes en el transporte de mercancías peligrosas por carretera y ferrocarril.
+    *   **Orden INT/3716/2004, de 28 de octubre**: Fichas de intervención para los servicios operativos en accidentes de transporte de mercancías peligrosas.
+    *   **Real Decreto 387/1996, de 1 de marzo**: Aprueba la Directriz Básica de Planificación de Protección Civil ante el riesgo de accidentes en el transporte de mercancías peligrosas por carretera y ferrocarril (B.O.E. de 22 de marzo de 1996).
+    *   **ANEXO I**: Modelo de Boletín de Notificación de Accidentes en los Transportes de Mercancías Peligrosas.
+    *   **ANEXO II**: Modelo de boletín estadístico de mercancías peligrosas por accidentes.
+    *   **Resolución de 6 de octubre de 2011 de la Dirección General de Protección Civil y Emergencias**: Publica la nueva relación de números telefónicos para la notificación de accidentes y otros datos de interés en el transporte de mercancías peligrosas por carretera y ferrocarril.
+    *   **ADR. Real Decreto 97/2014, de 14 de febrero**: Regula las operaciones de transporte de mercancías peligrosas por carretera en territorio español.
+*   **Planes especiales de emergencias específicos de cada comunidad autónoma**: Ejemplo: Plan especial de protección civil ante el riesgo por accidentes en el transporte de mercancías peligrosas por carretera y ferrocarril de Castilla la Mancha (PETCAM).
 
-1.  **Técnica del resbalón (mica):** Es la primera opción ante un cierre accidental sin llave echada. Consiste en introducir un material flexible (como una lámina de mica, radiografía o plástico de botella) por la ranura de la puerta a la altura del resbalón, desplazándolo mientras se agita la puerta para facilitar su apertura.
-2.  **Extracción de bombín:** Busca forzar o descerrajar la cerradura para liberar el mecanismo.
-    *   **Con mordaza de presión o llave inglesa:** Se sujeta el bombín por su parte más estrecha y se aplica fuerza lateral hasta partirlo, extrayendo la leva y accionando el mecanismo.
-    *   **Con extractores de bombín:** Se introduce un tornillo de acero en el bocallaves (previamente perforado con un taladro fino si es necesario) y se utiliza el extractor para partir el bombín. Posteriormente, se acciona el mecanismo con un portalevas o destornillador plano.
-    *   **Con barra de uña:** Similar a la mordaza, se utiliza un tornillo autorroscante de cabeza hexagonal y la barra de uña para romper el cilindro.
-    *   **Con mordaza o destornillador (bombín redondo saliente):** Se aprieta el bombín con la mordaza y se gira repetidamente hasta partir los tornillos internos. Si el bombín no sobresale, se golpea un destornillador plano en el bocallaves y se fuerza su giro.
-3.  **Retirada de escudo protector:** Si la cerradura posee un escudo, este debe retirarse, ya sea con sierra radial, sierra de sable o taladro, para acceder al bombín. En escudos de alta seguridad, es posible que no se pueda partir el bombín debido a sus características antirrotura.
-4.  **Taladro de bombín:** Se perfora el bombín por debajo del tambor para vaciar los pernos que lo traban, permitiendo girar el bombín con una ganzúa o destornillador. En bombines antitaladro, se debe desgastar previamente el tetón de acero con una amoladora.
-5.  **Fresado de bombín:** Consiste en limar el tambor del bombín con fresas especiales para metal hasta alcanzar el embrague central, que luego se gira con un destornillador.
-6.  **Apertura destructiva con maza:** Se emplea como último recurso, golpeando la puerta a la altura de la cerradura para romper el cerradero o derribar la puerta por completo. Antes de utilizarla, se debe informar al propietario de los daños irreversibles y de que el servicio de bomberos no se hará cargo de la reparación.
-7.  **Otras técnicas (apalancamiento):** El separador hidráulico "abrepuertas" o la herramienta Halligan pueden usarse para apalancar puertas, creando un hueco y aplicando fuerza.
-8.  **Retirada de bisagras:** En puertas cuyas bisagras son accesibles desde el exterior, se pueden retirar (perno, corte o desatornillado) para abrir la puerta en sentido contrario.
+#### 2. Conceptos básicos y propiedades físico-químicas
+El conocimiento de la materia a nivel microscópico y macroscópico, junto con sus propiedades físicas y químicas, es fundamental para seleccionar la técnica de mitigación adecuada, considerando las características de la sustancia, su estado y la extensión del siniestro.
 
-## Técnicas de Apertura de Ventanas
+##### 2.1. La materia
+Todo lo que nos rodea es materia, como el agua que posee masa y volumen. Para entender los elementos químicos, es necesario analizar sus componentes más pequeños.
 
-Para las ventanas, el primer paso siempre es apartar las persianas si están bajadas, forzando su enrollado o desmontando lamas.
+##### 2.1.1. Átomos e Isótopos
+Un átomo es la unidad más pequeña de un elemento químico que conserva sus propiedades, aunque es invisible. Su composición incluye:
+*   **Núcleo**: Es el centro del átomo, la parte más pequeña, que contiene protones (carga positiva) y neutrones (sin carga). Ambos poseen masa.
+*   **Número atómico (Z)**: Es el número de protones en el núcleo, lo que diferencia a un elemento químico de otro.
+*   **Número másico (A)**: Es la suma del número de protones y neutrones en el núcleo.
+*   **Corteza**: Capa externa con electrones (carga negativa) que giran alrededor del núcleo. La masa de un electrón es 2000 veces menor que la de un protón o neutrón.
+*   **Carga eléctrica**: Un exceso de electrones resulta en carga negativa; un exceso de protones, en carga positiva. Un átomo neutro tiene igual número de protones y electrones.
+*   **Isótopos**: Átomos del mismo elemento (igual Z) pero con diferente número de neutrones (distinto A). Por ejemplo, los isótopos de hidrógeno son protio, deuterio y tritio.
+*   **Inestabilidad**: Los núcleos con exceso o déficit de neutrones son inestables, se desintegran y emiten radiaciones.
 
-1.  **Ventanas correderas:** Se apalanca la ventana por la esquina inferior y luego por la zona de la cerradura para hacer saltar el cierre y deslizar la hoja.
-2.  **Ventanas abatibles:** Se apalanca la hoja por las partes superior e inferior para evitar los tetones de cierre y abrir la ventana. Dada la dificultad de forzar cierres de presión, a veces es preferible la rotura del cristal.
-3.  **Ventanas oscilobatientes (en posición inclinada):** Se utiliza un útil sencillo (tubo de PVC y cuerda) para introducirlo en la maneta y guiar la hoja hacia la posición de cerrado, tirando luego de la cuerda para poner la maneta en horizontal y abrir.
-4.  **Rotura de vidrios:** Si no es posible otra técnica, se rompe el cristal con precaución, utilizando cinta adhesiva o plástico para retener fragmentos. En vidrios laminados, se usa sierra de sable o cortalunas. Siempre con guantes anticorte, mascarilla y gafas.
+##### 2.1.2. Moléculas, Elementos y Compuestos químicos
+*   **Moléculas**: Agrupaciones de átomos que mantienen sus propiedades físico-químicas. Pueden estar compuestas por un solo tipo de átomo (ej., oxígeno, ozono) o por varios (ej., agua).
+*   **Sustancias**: Poseen propiedades físico-químicas específicas y no se pueden descomponer en sustancias más simples por métodos físicos.
+*   **Elementos químicos**: Son sustancias con átomos de un solo tipo, representados por símbolos (ej., Oxígeno (O), Hidrógeno (H)).
+*   **Compuestos químicos**: Son sustancias con átomos de diferentes tipos, representados por fórmulas químicas (ej., H2O, CO2).
 
-## Técnicas de Apertura de Rejas y Cierres Metálicos
+##### 2.2. Estados de agregación. Cambios de estado
+La materia se presenta en tres estados: sólido, líquido y gaseoso. El estado de la materia depende de la presión barométrica y la temperatura. Como referencia, se utilizan 20ºC y 1 atm de presión (a nivel del mar); bajo estas condiciones, el agua es líquida, el oxígeno gaseoso y la madera sólida.
 
-Los **enrejados** pueden forzarse retirando tornillos de sujeción o cortando anclajes con sierra motorradial, cortapedales o cizalla, extrayendo los barrotes con herramientas hidráulicas o palancas.
+La temperatura influye en la energía, la fuerza de cohesión y el movimiento de las moléculas de la materia. Una cantidad suficiente de energía puede provocar un cambio de estado.
 
-En **cierres metálicos** de locales comerciales, si son motorizados, se intenta forzar la cerradura para accionar el embrague de desbloqueo del motor. Si la emergencia no lo permite, se cortan las lamas con motosierra de rescate, sierra de sable o cizalla/separador para crear una abertura.
-
-## Butrones
-
-Un **butrón** es un agujero practicado en superficies (suelos, techos, paredes) para acceder a un espacio. Es una técnica utilizada cuando otros métodos son inviables. Se emplean diversas herramientas (mazas, martillos, hachas, sierras, herramientas eléctricas o hidráulicas) según el material. Se debe usar siempre mascarilla buconasal debido a la generación de polvo.
-
-## Casos Prácticos Detallados
-
-### 1. Vivienda con Sospecha de Suicidio (8º Piso)
-
-*   **Contexto:** Vivienda unifamiliar en 8º piso, puerta blindada, bombín de seguridad, sin otras entradas accesibles. No hay respuesta a llamadas, información familiar indica posible suicidio por depresión.
-*   **Actuación:**
-    1.  **Movilización:** UVI móvil y FF.CC.SS. (por riesgo de posible agresividad o necesidad de asistencia sanitaria).
-    2.  **Valoración:** Se confirma la ausencia de respuesta y la inviabilidad de accesos alternativos.
-    3.  **Intervención:** Se opta por la apertura forzada de la puerta mediante la **rotura del bombín con barra de uña**. Se introduce un tornillo autorroscante, se apoya la barra de uña, se rompe el cilindro, se extraen la leva y el activador, y se acciona el mecanismo con un portalevas.
-    4.  **Seguridad y Cierre:** Tras el acceso de FF.CC.SS. y sanitarios (víctima inconsciente por sobredosis), se baliza la zona y se informa a la familia para que contacte a un cerrajero.
-
-### 2. Bloque de Viviendas Inundado de Humo
-
-*   **Contexto:** Bloque de 3 plantas con humo en el exterior, sin fuego visible en fachada. Familia atrapada en 2ºA, otros vecinos ya evacuados. Riesgo de intoxicación, baja visibilidad y poca carga térmica.
-*   **Actuación:**
-    1.  **Movilización:** Sanitarios (intoxicados, quemados) y FF.CC.SS. (orden, evacuación).
-    2.  **Valoración:** Se confirma la situación de la familia en el 2ºA y los riesgos.
-    3.  **Intervención:** Se ventila la escalera y se procede a la entrada en el 2ºA con la **técnica de la maza** (para romper el cerradero o derribar la puerta). Una vez extinguido el fuego en el interior, se rescatan a las víctimas y se ventila la vivienda. Con las llaves de los propietarios, se abren y ventilan los demás pisos afectados.
-    4.  **Cierre:** Se recoge el material, se verifica la ausencia de gases con explosímetro y se registran los datos.
-
-### 3. Local Comercial con Cierre Metálico (Incendio Interior)
-
-*   **Contexto:** Local comercial con única entrada por cierre metálico de varillas y puerta de aluminio interior. Incendio en el interior.
-*   **Actuación:**
-    1.  **Movilización:** Se recibe el aviso.
-    2.  **Valoración:** Se explora el perímetro, confirmando la única entrada por el cierre metálico y el incendio interior.
-    3.  **Intervención:** Se decide cortar las varillas del cierre con **cizalla o moto radial** para crear una abertura. Posteriormente, se golpea la puerta de aluminio con la **maza** a la altura del cerradero para hacer saltar la cerradura.
-    4.  **Extinción y Búsqueda:** Se aplica la técnica de extinción de incendios adecuada, se sofoca el fuego y se ventila el local. Se realiza una búsqueda de víctimas, confirmando la ausencia de ocupantes.
-    5.  **Cierre:** Se recoge el material y se registran los datos de la intervención.
+##### 2.2.1. Sólidos
+Las partículas de los sólidos están fuertemente unidas por fuerzas de atracción, por lo que su forma y volumen son constantes. Un aumento de la temperatura incrementa el movimiento de sus partículas.

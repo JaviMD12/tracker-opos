@@ -1,77 +1,95 @@
-# Caracterización Estructural de la Edificación: Esfuerzos y Elementos Constructivos
+## Temario: Manual de Riesgos Tecnológicos y Asistencias Técnicas - Estabilización de Edificaciones y Terrenos
 
-La comprensión de la **arquitectura** como el arte y técnica de proyectar y diseñar edificios, estructuras y espacios, y de la **construcción** como el conjunto de procedimientos técnicos para edificar, resulta fundamental en el ámbito de las oposiciones a bomberos. Una **edificación** se define como una construcción fija de materiales resistentes, destinada a usos humanos. Dado que las edificaciones son un escenario principal de intervención para los cuerpos de bomberos, es esencial un conocimiento básico de sus características, desde la normativa que las rige hasta los materiales y sistemas constructivos empleados.
+### Capítulo 2. Técnicas de Estabilización de Sistemas Constructivos y Terrenos (Continuación)
 
-## Conceptos Fundamentales de Física Aplicados a la Edificación
+**2.1.2. Apeos Estandarizados**
 
-Para comprender el comportamiento de las estructuras, es necesario dominar algunos principios básicos de la física, comenzando por el concepto de **fuerza**. En física, una fuerza es una magnitud vectorial que esquematiza la interacción entre cuerpos, calculándose como el producto de la masa por la aceleración (F = m · a). Las fuerzas se caracterizan por su módulo o magnitud, dirección, sentido y punto de aplicación, cuantificándose en Newtons (N) en el Sistema Internacional, lo que equivale a (Kg·m/s²).
+Para estabilizar una estructura, la dirección de intervención debe aplicar soluciones técnicas adecuadas basándose en la evaluación realizada. Sin embargo, la implementación de medidas de apeo efectivas no puede comenzar antes de que se haya calculado la estructura auxiliar requerida.
 
-Las fuerzas se rigen por las tres **Leyes de Newton**:
-*   La **Primera Ley o Principio de Inercia** establece que un cuerpo mantiene su estado de reposo o movimiento uniforme y rectilíneo a menos que una fuerza externa actúe sobre él.
-*   La **Segunda Ley** indica que la suma de todas las fuerzas que actúan sobre un cuerpo es igual al producto de su masa por la aceleración resultante, desplazándose en la dirección de esta última.
-*   La **Tercera Ley o Principio de Acción y Reacción** postula que si dos cuerpos interactúan, ejercen fuerzas recíprocas de igual intensidad y dirección, pero en sentidos opuestos.
+Para agilizar el trabajo de los mandos y reducir el tiempo de inicio de las tareas de estabilización, se han desarrollado y precalculado apeos estandarizados. Estos apeos son adecuados para intervenciones genéricas y frecuentes, mientras que las situaciones que demandan cálculos específicos o son de mayor envergadura requieren intervenciones especiales o de mayor complejidad.
 
-Además de las fuerzas, los **momentos** son cruciales. El resultado de una fuerza no solo depende de su magnitud y dirección, sino también de su punto de aplicación, lo que genera un momento. Un **par de fuerzas** se define como un sistema de dos fuerzas paralelas, de igual magnitud y sentidos opuestos, caracterizado por su momento, que es el producto de la magnitud de una fuerza por la distancia perpendicular entre ellas (brazo del par). Este momento mide la capacidad de un sistema de fuerzas para cambiar el estado de rotación de un cuerpo alrededor de un eje. Para evitar una rotación no deseada, se debe generar un momento resistente o de empotramiento de igual magnitud y sentido contrario. Los momentos se cuantifican en Newtons por metro (N·m). Si una fuerza produce un giro horario, el momento se considera positivo; si es antihorario, negativo.
+En el Centro de Extinción y Salvamento (CEIS) de Guadalajara, por ejemplo, se ha establecido una colección de apeos básicos, complementados con cálculos mínimos y capacitación regular del personal. Esto proporciona una herramienta eficaz para la estabilización de elementos constructivos.
 
-El **equilibrio del par** ocurre cuando un par de fuerzas sin reacción que lo contrarreste tiende a alinearse, anulando su brazo de palanca y, por ende, el momento. Esto implica que todo giro libre produce un momento nulo. Este principio subyace al funcionamiento de una **palanca**, una barra rígida que gira alrededor de un punto fijo (fulcro) cuando se le aplica una fuerza (potencia P) para vencer una resistencia R. El equilibrio se alcanza cuando los momentos de potencia y resistencia son iguales y opuestos: P · dp = R · dr. Para mover una resistencia sin aumentar la potencia, se puede incrementar el brazo de palanca o reducir el de resistencia.
+La documentación detallada sobre los materiales y apeos estandarizados del CEIS Guadalajara puede consultarse en el Anexo II.
 
-## Estática y Equilibrio en Edificaciones
+La sistemática de valoración del CEIS Guadalajara enfatiza la importancia de conocer con precisión los materiales, medios y personal disponibles antes de planificar cualquier apeo o solución técnica. Por ejemplo, un vehículo de primera respuesta de CEIS Guadalajara dispone de material limitado pero con un alcance conocido.
 
-La **estática**, una rama de la mecánica clásica, se dedica al análisis de cargas (fuerzas y momentos) y al estudio del equilibrio de fuerzas en sistemas físicos. En este contexto, el **equilibrio estático** se define como el estado de fuerzas en el que los elementos de un sistema no experimentan movimientos relativos. Las cargas estructurales (empujes y giros) deben ser contrarrestadas por reacciones iguales y opuestas en los elementos constructivos, de modo que la suma de todas las fuerzas (ΣF) y momentos (ΣM) en cada cuerpo sea cero.
+Consideremos un escenario en el que se debe apuntalar un muro que ha sufrido una rotación externa hacia la calle. Utilizando los recursos disponibles en el vehículo operativo, se pueden implementar dos tipos de configuraciones de apeo:
+*   **Muro con altura inferior a 3 metros (h<3m):** Se pueden desarrollar 4 conjuntos estructurales de apeo.
+*   **Muro con altura inferior a 6 metros (h<6m):** Se pueden desarrollar 2 conjuntos estructurales de apeo.
 
-Para una comprensión completa del equilibrio, el **centro de gravedad** de un cuerpo es el punto donde se considera concentrado su peso, permitiendo que el cuerpo permanezca en equilibrio si se apoya en dicho punto. Este no siempre coincide con un punto material del cuerpo (ej. esfera hueca). Un objeto apoyado en una base plana estará en equilibrio estable si la vertical que pasa por su centro de gravedad cae dentro de la base de apoyo. Si el cuerpo se desvía ligeramente, un momento restaurador lo devuelve a la posición original; sin embargo, si se desvía más allá de un límite, el centro de gravedad puede caer fuera de la base de apoyo, provocando una rotación y un nuevo estado de equilibrio.
+Estas soluciones se basan en la capacidad mecánica y el diseño predefinido para garantizar una respuesta eficaz.
 
-La **elasticidad** es la capacidad de los materiales para deformarse reversiblemente bajo fuerzas externas y recuperar su forma original al cesar estas fuerzas. Es la base de la mecánica de sólidos. Tras superar el **límite de elasticidad**, los materiales entran en un estado de **plasticidad**, donde las deformaciones son permanentes e irrecuperables, a menudo con pérdida de sección y resistencia. Según la **Ley de Hooke**, la tensión (σ) sufrida por un cuerpo sólido es directamente proporcional a su elasticidad (E, Módulo de Young) y a la deformación efectiva (ε): σ = E · ε. Conocer el módulo de Young es crucial para evaluar la deformación admisible de materiales como mampostería de ladrillo (E = 3000-5000 N/mm²), maderas duras (10000-22500 N/mm²), maderas blandas (9000-11000 N/mm²), acero (210000 N/mm²), hierro de fundición (100000 N/mm²) u hormigón (21500-39000 N/mm²). A igual deformación, un material con mayor elasticidad soporta menores tensiones.
+**2.1.1. Ubicación de los Elementos del Apeo**
 
-Los **factores asociados al comportamiento térmico** son relevantes en emergencias con variaciones térmicas intensas, como incendios. El **coeficiente de conductividad térmica (λ)** cuantifica la capacidad de un material para conducir calor (W/m·ºC o W/m·K); un valor bajo indica mayor capacidad aislante. Así, el corcho (0.04-0.30 W/m·K), la fibra de vidrio (0.03-0.07 W/m·K) y el poliuretano (0.018-0.025 W/m·K) son buenos aislantes, mientras que el hierro (80 W/m·K) es mejor conductor que el acero (47-58 W/m·K) o el aluminio (209 W/m·K).
+Una correcta estabilización de la edificación no solo exige un cálculo estructural preciso, sino también una ubicación efectiva de los elementos de apeo. Para comprender este concepto, se pueden analizar diversas situaciones según la tipología de los nudos estructurales.
 
-El **coeficiente de dilatación térmica (α)** mide la dilatación lineal por cada grado Celsius y cada metro lineal. Materiales como el hormigón (1.17 x 10⁻⁵ 1/ºC), acero (1.2 x 10⁻⁵ 1/ºC) y hierro (1.1 x 10⁻⁵ 1/ºC) tienen valores similares. Una dilatación de 5.76 cm en una viga de hormigón armado de 10 m al pasar de 20°C a 400°C puede generar empujes laterales y colapsos estructurales.
+Cuando se requiere apuntalar un forjado con un solo puntal debido a un problema de conexión entre una vigueta y una viga, el puntal debe colocarse en el punto donde el momento es nulo, actuando como una articulación. Este puntal telescópico, diseñado para nudos articulados, previene desplazamientos verticales, mientras que los horizontales son controlados por el propio elemento constructivo.
 
-## Acciones en la Edificación
-Según el Código Técnico de la Edificación (CTE DB SE AE), las fuerzas, cargas o solicitaciones que un edificio debe soportar se clasifican en tres categorías principales:
-*   **Acciones permanentes**: Aquellas cargas que actúan de forma constante a lo largo de la vida útil del edificio, como el **peso propio** de todos los elementos constructivos (estructura, cerramientos, tabiquería, acabados, instalaciones), el **pretensado** (esfuerzos asociados al hormigón armado) y las **acciones del terreno** (empujes, hundimientos). Los pesos específicos de materiales varían, por ejemplo, cal (13 kN/m³), adobe (16 kN/m³), hormigón (24+1 kN/m³ si es armado) o acero (77-78.5 kN/m³). Los empujes del terreno dependen de la profundidad y tipo de suelo (ej., arcilla: 5 kN/m² a 1m, 15 kN/m² a 3m). Los pesos específicos aparentes de elementos constructivos incluyen cubiertas (1.0-2.5 kN/m²), forjados (2.0-5.0 kN/m²) y cerramientos exteriores (7.0 kN/m para 3m de altura).
-*   **Acciones variables**: Cargas que pueden actuar o no, y cuya magnitud puede variar en el tiempo. Estas incluyen la **sobrecarga de uso** (uniforme o concentrada, según el tipo de ocupación, ej., viviendas 2 kN/m², comercial 5 kN/m²), **acciones sobre barandillas y elementos divisorios** (resistencia máxima de 0.5 kN/m), **viento** (0.5 kN/m² simplificado, 5 kN/m² en elementos expuestos) y **nieve** (1.0 kN/m² en cubiertas planas a altitud < 1000 m).
-*   **Acciones accidentales**: Cargas debidas a riesgos naturales o antrópicos, tales como **sismos** (aceleración > 0.04g es peligrosa, norma sismorresistente NCSR-02), **incendios** (resistencia durante minutos, según CTE-DB SI) e **impactos** (vehículos hasta 30 kN: 50 kN paralela a vía, 25 kN perpendicular; impactos premeditados excluidos).
+A continuación, se describen los puntos de momento nulo para diferentes configuraciones de apoyo en vigas:
 
-## Esfuerzos y Tensiones
-Una estructura bajo cargas experimenta **esfuerzos** (comportamiento mecánico) que se traducen en **tensiones internas**. La **tensión** se define como la fuerza por unidad de área que transmite la carga a través del material. Se mide en N/mm² (1 N/mm² = 1 kg/cm² = 1 MPa).
+*   **Viga articulada-apoyada o apoyada-apoyada:** Los puntos de momento nulo coinciden con los nudos. Por lo tanto, el apeo debe situarse directamente en el nudo de la vigueta dañada.
+*   **Viga articulada-empotrada:** El punto de momento nulo se ubica aproximadamente a un tercio de la luz de la vigueta, medido desde el extremo empotrado.
+*   **Viga empotrada-empotrada:** El punto de apoyo debe situarse a un quinto de la luz de la vigueta, medido desde el extremo dañado.
 
-Las tensiones se clasifican de diversas formas:
-*   **Según coeficientes de seguridad**:
-    *   **Tensión de rotura**: Tensión máxima que un material puede soportar en laboratorio, sin coeficientes de seguridad.
-    *   **Tensión de trabajo**: Umbral máximo de tensión para una seguridad estructural adecuada, generalmente 70-80% del límite elástico.
-*   **Según la naturaleza del esfuerzo**:
-    *   **Esfuerzos simples**:
-        *   **Compresión**: Las partículas del material tienden a reducir su distancia (el material se aprieta) por fuerzas opuestas con la misma dirección y sentido hacia el interior. Elementos como pilares, muros, soportes o puntales suelen trabajar a compresión.
-        *   **Tracción**: Las partículas del material tienden a separarse (el material se estira) por fuerzas opuestas con la misma dirección y sentido hacia el exterior. Los tirantes son un ejemplo común.
-        *   **Cortante/Cortadura/Cizalladura**: Las partículas del material se deslizan con movimiento relativo por dos fuerzas paralelas no coincidentes y de sentidos opuestos. Se producen, por ejemplo, en la unión de una viga con un pilar.
-    *   **Esfuerzos compuestos**: Combinaciones de los esfuerzos simples.
-        *   **Flexión (o flexión pura)**: Esfuerzo en piezas longitudinales por carga transversal. En vigas biapoyadas, la parte inferior sufre tracción y la superior compresión; en voladizos, se invierte. Típica en carreras, jácenas, vigas o sopandas.
-        *   **Pandeo (o flexión compuesta)**: Deformación en elementos largos y delgados por fuerzas de compresión en la dirección de su directriz. Ejemplos incluyen tirantes sometidos a compresión.
-        *   **Torsión**: Esfuerzo creado por una fuerza circular aplicada a una pieza, como en voladizos.
+Si una viga presenta múltiples tramos o voladizos, los nudos intermedios se consideran empotramientos. Aunque los puntos de momento nulo varían, las reglas para vigas de un solo tramo son aplicables: en nudos apoyados, y a un tercio o un quinto del nudo empotrado, según el caso.
 
-Para el análisis de elementos sometidos a flexión, es crucial entender el **cortante** (tensión en la fibra neutra) y el **momento flector** (compresiones/tracciones en fibras externas). La **fibra neutra** es la línea imaginaria en la sección transversal de una pieza sometida a flexión que no experimenta esfuerzos de flexión. La representación gráfica de cortantes y flectores ayuda a visualizar la variación de fuerzas y momentos a lo largo de un elemento estructural. Las cargas puntuales generan fuerzas cortantes constantes y momentos flectores lineales, mientras que las cargas uniformemente repartidas producen variaciones lineales en cortantes y parabólicas en flectores.
+**2.1.2. Apeos Estandarizados**
 
-## Materiales de Construcción
-Los **materiales de construcción** son materias primas transformadas en elementos constructivos mediante técnicas adecuadas para edificar. Su disponibilidad y costo son factores clave. En términos de **comportamiento mecánico**, se distinguen:
-*   **Materiales tenaces**: Absorben energía antes de fracturar gracias a su alta ductilidad (deformabilidad). Resisten bien a compresión y tracción, siendo muy flexibles (ej., madera, acero).
-*   **Materiales frágiles**: Se comportan bien a compresión pero mal a tracción, no soportando flexiones. Son materiales "másicos" (ej., piedra, ladrillo).
+Para estabilizar una estructura, la dirección de intervención aplicará las soluciones técnicas consideradas adecuadas tras la evaluación. No obstante, el inicio de los trabajos de apeo efectivos está condicionado a la existencia de un cálculo de la estructura auxiliar.
 
-Un análisis más amplio considera el origen, naturaleza y proceso de fabricación.
+Para facilitar la labor de los mandos y reducir el tiempo de inicio de los trabajos de estabilización, se recomienda el diseño y prueba de apeos estandarizados y precalculados, utilizables en intervenciones genéricas y frecuentes. Las situaciones que requieran cálculos específicos o sean más complejas se limitarán a intervenciones especiales o de mayor envergadura.
 
-### Materiales Pétreos
-Los **materiales pétreos** se dividen en naturales y artificiales.
-*   **Pétreos naturales**: Extraídos directamente de la naturaleza, resisten a agentes medioambientales pero tienen inconvenientes como alto costo y fragilidad. Se usan como materia prima o elementos de acabado.
-    *   **Rocas ígneas**: Solidificación de magma.
-        *   **Intrusivas/Plutónicas/Magmáticas**: Solidificadas en el interior terrestre (ej., granito), muy densas y resistentes, usadas en cimentaciones y muros de carga.
-        *   **Extrusivas/Volcánicas/Eruptivas**: Solidificadas en superficie (ej., basalto), menos densas y resistentes, más oscuras.
-    *   **Rocas sedimentarias**: Formadas por sedimentación de rocas preexistentes.
-        *   **Dentríticas**: Por alteración física (ej., gravas, arenas, limos), clasificadas en sueltas (gravas, arenas, limos) y compactas (conglomerados, areniscas, lutitas). Las gravas se usan en mampostería y hormigones. Las arenas son esenciales en morteros y hormigones. Las arcillas se usan en ladrillos y elementos cerámicos.
-        *   **No dentríticas**: Por precipitación química (ej., arcilla, caliza, yeso).
-    *   **Rocas metamórficas**: Transformación de rocas ígneas o sedimentarias por presión y temperatura, resultando en cambios de composición y estructura. Su uso es limitado por baja resistencia y exfoliabilidad, principalmente en revestimientos. La "serie pelítica" (arcilla > pizarra > esquisto > micacita > gneis > migmatita) ilustra una secuencia de mayor resistencia y compacidad.
-*   **Pétreos artificiales**: Obtenidos por procesos industriales.
-    *   **Materiales formáceos**: Mezclas fluidas que endurecen en moldes.
-        *   **Aglomerantes**: Unen fragmentos por efectos físicos (ej., barro, cola). El producto final es aglomerado. El **tapial** (aglomerado de arcilla) se usa en muros verticales, apisonado en encofrados. Tiene densidad de 16-21 kN/m³, baja resistencia (1.5 N/mm²), baja durabilidad atmosférica pero buen aislamiento térmico y transpiración. Se fabrica *in situ* con 15-20% de arcilla y paja. Su uso actual es en restauración.
-        *   **Conglomerantes**: Unen fragmentos por transformaciones químicas. El producto final es conglomerado. Se usan como elemento de ligazón (piedras, ladrillos) o revestimiento. Los tipos se distinguen por el medio de fraguado:
-            *   **Aéreos**: Fraguan en contacto con el aire (ej., yeso, cal). El **yeso** (obtenido de aljez) tiene una densidad de 15 kN/m³, muy baja resistencia (≥ 2 N/mm²), fragua rápido con aumento de temperatura y volumen, y es buen aislante térmico/eléctrico. Tipos: yeso grueso (YG), yeso fino (YF), yeso proyectado (YP), escayola E-30 (tabiques, techos) y E-35 (decoración). La **cal grasa/cal aérea** (óxido de calcio CaO) se obtiene por calcinación de caliza pura (<5% arcilla). Reacciona violentamente con agua (hasta 90°C) formando hidróxido de calcio (cal apagada Ca(OH)₂), que luego reacciona con CO₂ del aire para formar carbonato de calcio (CaCO₃). Uso: mezclas con agua/pigmentos, morteros.
-            *   **Hidráulicos**: Fraguan en aire y agua (ej., cemento, cal hidráulica). La **cal hidráulica** tiene >5
+Por ejemplo, el CEIS Guadalajara ha desarrollado una serie de apeos básicos, que, junto con cálculos mínimos y entrenamiento regular, constituyen una herramienta eficaz para la estabilización de elementos constructivos.
+
+(Se remite al Anexo II para consultar el material y la colección de apeos estandarizados del CEIS Guadalajara).
+
+En la sistemática de valoración, antes de cualquier planteamiento de apeo o solución técnica, es crucial conocer con máxima exactitud los materiales, medios y personal disponibles para la ejecución del apeo.
+
+El CEIS Guadalajara dispone de un furgón de apeos con material limitado pero de alcance conocido, lo que permite una primera respuesta eficaz.
+
+Por ejemplo, para apuntalar un muro con rotación externa hacia la calle mediante tornapuntas exteriores, los medios disponibles en el vehículo operativo permiten desarrollar:
+*   4 conjuntos estructurales de apeo para muros de altura inferior a 3 metros (h<3m).
+*   2 conjuntos estructurales de apeo para muros de altura inferior a 6 metros (h<6m).
+
+**2.1.3. Organización de los Trabajos**
+
+La organización de los trabajos se basa en la información recopilada en la fase de inspección, permitiendo determinar aspectos fundamentales:
+
+*   **Determinación de la necesidad de intervención:** Si el apeo se realiza únicamente con recursos de bomberos o en colaboración con otras entidades.
+*   **Ubicación y elementos necesarios:** Establecimiento del lugar de la intervención y los materiales requeridos.
+*   **Tipo de apuntalamiento:** Definición del modelo de apeo y su descripción explícita.
+*   **Zonas de riesgo y puntos críticos:** Identificación de áreas peligrosas y elementos estructurales clave.
+*   **Material y herramientas:** Determinación de los recursos materiales y herramientas necesarios, así como la previsión de refuerzos para el personal.
+*   **Duración estimada:** Cálculo del tiempo aproximado para la realización del apeo.
+*   **Disponibilidad de personal:** Horario y capacidad de otras entidades participantes.
+*   **Acciones auxiliares previas:** Identificación de tareas necesarias antes del apeo, como saneamiento, desescombro o desalojo, seguidas del balizamiento y precintado.
+
+Después de las operaciones auxiliares, se procede con el apeo, garantizando la seguridad mediante una zonificación básica que incluye:
+
+*   **Área de Intervención:** Zona de riesgo de colapso/hundimiento donde se instalan las estructuras auxiliares. Su tamaño varía según la extensión de los daños. Solo el personal de apeo debe permanecer en esta área durante el tiempo estrictamente necesario. El resto del personal debe permanecer fuera del perímetro.
+*   **Área de Apoyo Logístico:** Zona adyacente al área de intervención, destinada al acopio de materiales y la realización de tareas auxiliares (corte y construcción de piezas). Su proximidad reduce el tiempo de transporte. Se debe utilizar Equipo de Protección Individual (EPI) adecuado (botas, guantes, casco, ropa de intervención), considerando factores como la presencia de humo o polvo. El mando debe asegurar el cumplimiento de las normas de seguridad y la buena comunicación en el equipo. Se requiere la presencia de servicios sanitarios en esta zona por posibles percances. El personal externo y curiosos deben permanecer fuera del área acordonada.
+
+**2.2. Capacidad de los Recursos Disponibles**
+
+La capacidad de los recursos es un factor esencial en cualquier acción inicial, que el mando debe evaluar:
+
+*   **Alcance de las medidas:** Tanto para la población (evacuación o confinamiento) como para la edificación (estabilización, demolición o precintado).
+
+**a) Medidas para la Población**
+
+Cuando se detecta un problema constructivo con inestabilidad potencial, se debe evaluar su alcance y determinar acciones preventivas:
+
+*   **Confinamiento de ocupantes (solución predeterminada):** Es la opción más conveniente y rápida. Consiste en mantener a los habitantes del edificio en sus viviendas o zonas seguras internas, controlando su permanencia y evitando acciones individuales.
+*   **Evacuación de ocupantes:** Se opta por esta solución cuando los riesgos son incontrolables o los ocupantes no pueden ser controlados. Requiere asegurar las rutas de escape, con posibles apeos de emergencia, y la presencia de recursos humanos y sanitarios, lo que puede alargar el proceso.
+
+**Rescates inminentes:** Si se confirma la existencia de personas en situaciones críticas, su rescate tiene prioridad sobre cualquier otra acción, incluida la valoración inicial del incidente.
+
+### 2.3. Valoración Dinámica de la Estabilización
+
+La valoración dinámica o continua de la intervención es fundamental y debe preverse desde el inicio para adaptarse a nuevos escenarios. Esta reevaluación frecuente de todos los factores determinantes permite:
+
+*   **Planteamiento estructural:** Recalcular el apeo de forma exacta y revisar su aplicación ante cualquier modificación o incremento de patología.
+*   **Soluciones:** Optimizar las soluciones a ejecutar según los medios y recursos disponibles.
+*   **Recursos necesarios:** Reevaluar continuamente la disponibilidad de recursos y, si es necesario, solicitar apoyo adicional.
+*   **Éxito de las acciones:** Comprobar que la patología no ha evolucionado y prolongar preventivamente las medidas de seguridad tras su finalización.

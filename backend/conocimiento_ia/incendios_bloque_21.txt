@@ -1,31 +1,103 @@
-# Riesgos en Incendios de Interior y la Intervención con Agua
+## Tema: Aspectos Físicos y Técnicos de Intervención en Incendios
 
-Los incendios en espacios interiores presentan una serie de riesgos intrínsecos que afectan tanto al personal interviniente como a las posibles víctimas, destacando el **calor**, la **toxicidad** de los gases, la **visibilidad** reducida y el **rango de supervivencia**. Una comprensión profunda de estos factores es crucial para desarrollar tácticas de intervención seguras y eficaces.
+### 4.2. El Calor como Riesgo en Incendios
 
-El **calor** es un peligro físico que puede generar lesiones severas o incluso la muerte si la energía calorífica total excede la capacidad de defensa del cuerpo humano. La humedad en la atmósfera amplifica la eficacia de la transmisión de calor, reduciendo la capacidad del cuerpo para disiparlo. La transferencia de calor en un incendio se produce por múltiples mecanismos, incluyendo la radiación directa desde el foco del incendio a las superficies expuestas, la radiación del colchón de gases calientes acumulados en el recinto, la conducción por contacto directo entre el equipo de protección personal y los gases, y la convección en las zonas de flujos de gases calientes. Es fundamental saber que el exceso de calor en los pulmones puede provocar una caída drástica de la presión sanguínea, colapso de vasos sanguíneos y acumulación de fluido pulmonar. La temperatura máxima del aire respirado que un ser humano puede tolerar para sobrevivir durante un breve periodo es de 140°C, siempre que no haya humedad. Por tanto, los bomberos deben utilizar equipos de protección y máscaras en atmósferas hostiles. Es importante señalar que los incendios presentan una **estratificación térmica** marcada, con temperaturas superiores a 600ºC en las zonas altas y alrededor de 100ºC en el colchón de gases inferior. Valores de radiación de 10 kW/m² se consideran el umbral de trabajo para bomberos equipados, mientras que 20 kW/m² pueden causar daños personales y a los equipos. Los equipos de protección individual ofrecen un aislamiento térmico limitado y se saturan con el tiempo, lo que exige una monitorización constante. El movimiento de gases genera una **ruta fría**, protegida de la exposición térmica, y una **ruta caliente**, donde los gases inflamables buscan la salida, siendo vital identificarlas para la seguridad.
+El calor constituye un riesgo físico significativo para los seres humanos. Si la energía térmica total que incide sobre el cuerpo humano excede su capacidad de autodefensa, puede causar desde lesiones leves hasta la muerte. En atmósferas con alta humedad, las consecuencias de la exposición al aire caliente se intensifican, ya que la humedad mejora la eficiencia de la transferencia de calor y reduce la capacidad del cuerpo para disipar dicha carga térmica.
 
-La **toxicidad** de los gases en un incendio interior es compleja. El personal y las víctimas están expuestos a una combinación de agentes irritantes y tóxicos cuyo efecto sinérgico (la combinación es más tóxica que la suma individual) no puede identificarse con exactitud previamente. Estos gases pueden afectar directamente el tejido pulmonar o pasar a la corriente sanguínea, impidiendo funciones vitales. La magnitud del riesgo tóxico depende de la dosis (concentración y tiempo de exposición), la naturaleza y desarrollo del combustible, la temperatura y la concentración de oxígeno.
+La transmisión de calor en un incendio se produce a través de varias modalidades:
+*   La radiación de energía desde el foco del incendio hacia las superficies expuestas.
+*   La radiación de calor del colchón de gases calientes, que se extiende por todo el recinto a altas temperaturas.
+*   La conducción por contacto entre el equipo de protección personal (EPP) y los gases de incendio.
+*   La convección en las zonas de flujo de gases calientes.
 
-La **visibilidad** se ve drásticamente reducida por la alta concentración de partículas en suspensión, especialmente durante la transición de un incendio limitado por el combustible (ILC) a uno limitado por la ventilación (ILV), momento en que aparecen productos incompletos de combustión. Esta pérdida de visibilidad, que también depende de la estratificación térmica y el plano neutro, obliga a los intervinientes a "palpar" su camino, causando desorientación y dificultando la localización del foco.
+Una exposición excesiva al calor en los pulmones puede provocar un descenso drástico de la presión sanguínea y el colapso vascular, llevando a un fallo circulatorio. Además, el calor intenso puede causar acumulación de líquido en los pulmones.
 
-El **rango de supervivencia de víctimas** en un incendio interior es complejo y está influenciado por parámetros respiratorios (presencia de agentes tóxicos, falta de oxígeno, partículas) y térmicos (quemaduras, bloqueo de la función respiratoria). Estudios indican que el rango de supervivencia es de 6 a 12 minutos desde el inicio del incendio en una estancia con puerta abierta, siendo los parámetros respiratorios más críticos que los térmicos, con la fase de ILV alcanzándose en aproximadamente 5 minutos.
+Estudios del National Research Council de Canadá (NRCC) indican que la temperatura máxima del aire respirable compatible con la supervivencia es de 140°C. Esta temperatura solo puede tolerarse por un breve período y nunca en presencia de humedad. Por ello, los bomberos deben equiparse con vestuario y máscaras protectoras al operar en atmósferas hostiles.
 
-### Influencia de la Aplicación de Agua en Incendios
+Las variaciones de temperatura en un recinto incendiado son considerables debido a una marcada estratificación térmica. Las zonas superiores pueden superar los 600°C, mientras que el colchón de gases inferior puede mantenerse alrededor de los 100°C. Otras áreas del recinto experimentarán temperaturas más bajas.
 
-La aplicación de agua es una estrategia fundamental que modifica la dinámica del incendio a través de dos efectos principales: **enfriamiento** y **dilución**.
+En cuanto a la radiación, valores de 10 kW/m² representan el umbral de trabajo para bomberos con equipo completo. Niveles puntuales de 20 kW/m² pueden causar daños tanto al EPP como al personal. El EPP protege mediante aislamiento, pero su capacidad es limitada; con el tiempo, el traje se satura y la sensación térmica se transmite al usuario.
 
-El **efecto de enfriamiento** del agua se desarrolla en tres fases consecutivas: el calentamiento del agua, el cambio de fase de líquido a gas (evaporación) y el calentamiento del vapor de agua resultante. El agua posee un alto **calor específico** (cantidad de energía necesaria para elevar 1ºC la temperatura de una unidad de masa) y un elevado **calor latente de vaporización** (cantidad de energía requerida para cambiar de fase sin aumentar la temperatura, que para el agua es significativamente mayor que el calor necesario para elevar su temperatura). Por ejemplo, para evaporar 1 kg de agua a 100°C se requieren 2.257 kJ, mientras que para elevar 1 L de agua de 18°C a 100°C se absorben 343 kJ. En la práctica, esto significa que la evaporación del agua es mucho más eficiente en la absorción de energía calorífica, siendo hasta 7,58 veces más eficaz que solo calentarla sin evaporación.
+El flujo de gases en un incendio abarca tanto la entrada de aire como la salida de gases de combustión. Este flujo, determinado por el diferencial de presión, puede dividirse en una "ruta fría" (desde la entrada de ventilación hasta el foco) y una "ruta caliente" (gases de combustión buscando una salida). Las zonas de flujo frío ofrecen protección térmica, mientras que las de flujo caliente forman una columna de gases cálidos.
 
-El **efecto de enfriamiento** varía según el lugar de aplicación:
-*   Sobre **superficies incendiadas con temperaturas superiores a 100ºC**, el agua absorbe calor hasta la ebullición y se evapora, pero el vapor resultante pasa al recinto y el enfriamiento directo sobre la superficie se vuelve despreciable. Esta técnica solo es efectiva para líquidos inflamables con puntos de inflamación superiores a 38ºC.
-*   En el **colchón de gases calientes**, el agua absorbe energía al calentarse hasta la ebullición, evaporarse y el vapor resultante calentarse hasta la temperatura de equilibrio. Este proceso contribuye significativamente a reducir la temperatura global. Por ejemplo, refrigerar un colchón de gases hasta 200°C con agua a 18°C requiere una cantidad considerable de agua, demostrando la alta capacidad extintora del vapor.
+#### 4.3. Toxicidad
+El personal que interviene en incendios interiores está expuesto a una mezcla de agentes irritantes y tóxicos cuya composición exacta es difícil de predecir. La combinación de estas sustancias puede tener un efecto sinérgico, resultando en una toxicidad o irritación mayor que la suma de los efectos individuales.
 
-El **efecto de dilución** se produce cuando el vapor de agua generado se incorpora a la mezcla de gases del incendio. Un litro de agua se expande aproximadamente 1.600 veces al convertirse en vapor a 100ºC, y esta expansión es aún mayor a temperaturas más elevadas (pudiendo llegar a 3.900 L a 600ºC). Este vapor de agua, un tercer fluido no inflamable, desplaza y diluye las concentraciones de gases combustibles y comburentes, alejándolos del rango de inflamabilidad y contribuyendo a la extinción del incendio.
+Los gases tóxicos inhalados causan diversos efectos nocivos. Algunos afectan directamente el tejido pulmonar, comprometiendo su función, mientras que otros ingresan al torrente sanguíneo, interfiriendo con funciones vitales. La respuesta fisiológica a estos agentes depende de la dosis (concentración y tiempo de exposición). Aunque existen estudios sobre la toxicidad individual de gases, evaluar el efecto sinérgico de su combinación es complejo. La cantidad y naturaleza de los gases tóxicos en un incendio dependen de:
+*   La naturaleza del combustible.
+*   El desarrollo del incendio.
+*   La temperatura.
+*   La concentración de oxígeno.
 
-La **efectividad de la aplicación de agua** en un incendio interior es crucial. El agua que no se evapora únicamente absorbe calor, mientras que la que se convierte en vapor y alcanza el equilibrio térmico absorbe más de siete veces esa energía. Los autores sugieren una efectividad del 50% al 70% en el enfriamiento del colchón de gases con lanzas combinadas, aunque el agua que genera escorrentía o no se evapora en las superficies puede ser ineficaz o incluso perjudicial.
+#### 4.4. Visibilidad
+La visibilidad dentro de un recinto incendiado disminuye a medida que aumenta la concentración de partículas en suspensión. La transición de un incendio limitado por el combustible (ILC) a uno limitado por la ventilación (ILV) genera productos de combustión incompleta y partículas suspendidas, causando una pérdida drástica de visibilidad en un corto período. La visibilidad depende de la estratificación térmica y la posición del plano neutro.
 
-Para maximizar la eficacia del agua y reducir la **escorrentía**, es fundamental considerar el **tamaño de la gota**. Las **gotas reducidas** (neblina) tienen una mayor superficie de contacto en relación con su volumen, lo que les permite mayor tiempo en suspensión, una absorción de energía más eficiente y, por ende, un enfriamiento más rápido del colchón de gases. Sin embargo, su alcance es limitado, ya que tienen poca inercia y su velocidad horizontal se anula rápidamente. Por otro lado, las **gotas grandes** tienen mayor alcance, pero caen más rápidamente y su intercambio de calor es menos efectivo. La distancia de aplicación también es crítica, ya que una distancia excesivamente corta no permite que las gotas se evaporen completamente antes de impactar. Un **chorro sólido** penetra mínimamente evaporándose hasta impactar, mientras que una gota excesivamente pequeña se evapora cerca del bombero, exponiéndolo al vapor. El rango óptimo de tamaño de gota para bomberos se estima entre 0,3 mm y 0,7 mm, logrando un equilibrio ideal entre alcance y capacidad de absorción de energía.
+La pérdida de visibilidad, el sentido principal en estas situaciones, obliga a los intervinientes a orientarse por tacto. La desorientación y la dificultad para localizar el foco, incluso en proximidad, son riesgos adicionales.
 
-### Control de la Ventilación en Incendios
+#### 4.5. Rango de Supervivencia de Víctimas
+Las condiciones de supervivencia para las víctimas en incendios interiores son intrínsecamente complejas y están determinadas por dos categorías de parámetros según su efecto-dosis:
+*   **Parámetros respiratorios:** Relacionados con la presencia de agentes tóxicos y su acción sinérgica, la ausencia de oxígeno y la presencia de partículas en suspensión.
+*   **Parámetros térmicos:** Incluyen los efectos del calor en el organismo, como quemaduras y el bloqueo de la función respiratoria en ambientes de alta temperatura.
 
-El **control de la ventilación** es una táctica vital en operaciones de rescate y extinción en incendios de interior, ya que permite modificar la dinámica del incendio. Un control adecuado busca aumentar la visibilidad, reducir las temperaturas en zonas específicas, controlar la potencia del incendio y dirigir el flujo de gases según la estrategia más conveniente. Esto implica manejar tanto el volumen como la dirección de los flujos de entrada y salida de gases. Al abrir una salida al exterior, se establece un flujo desde las zonas de mayor presión (por encima del plano neutro) hacia el exterior de menor presión, lo que evacúa gases tóxicos calientes y combustibles. Simultáneamente, se crea un flujo de aire fresco desde el exterior hacia las zonas de menor presión en el interior (por debajo del plano neutro), mejorando la visibilidad. La aplicación coordinada de agua y técnicas de ventilación permite maximizar los beneficios de la ventilación mientras se minimiza el crecimiento del incendio por el aporte de oxígeno.
+Estudios de Underwriters Laboratories determinaron un rango de supervivencia de 6 a 12 minutos desde el inicio del incendio para víctimas en una estancia con una puerta abierta, con variaciones según la ubicación. Dado que el régimen ILV se alcanza en cinco minutos, el rango de supervivencia de una víctima en un incendio infraventilado con mobiliario moderno apenas excede esta situación.
+
+### 5. Influencia de la Aplicación de Agua sobre Incendios
+
+La aplicación de agua en un recinto incendiado altera la dinámica del fuego mediante dos efectos principales: el **enfriamiento** y la **dilución**. El calentamiento del agua y su cambio de fase de líquida a gaseosa absorben energía, enfriando los gases de incendio, el combustible y la estructura. El vapor de agua generado contribuye a diluir las concentraciones de comburente y combustible. La ubicación de la aplicación de agua también es un factor relevante.
+
+*   **Sobre combustibles:** El agua aplicada en las superficies de los combustibles los enfría, interrumpiendo los procesos de pirólisis y reduciendo la emisión de gases inflamables. Una cantidad adecuada de agua detendrá la pirólisis sin generar exceso de vapor o escorrentía.
+*   **En el colchón de gases de incendio:** Se produce un doble efecto (enfriamiento y dilución) sobre el combustible y el comburente, alejando la masa de gases de su punto de inflamabilidad. La aplicación correcta de agua (caudal, tamaño y geometría del cono) permite que la contracción del colchón de gases sea superior a la expansión del vapor, manteniendo el equilibrio térmico y la estratificación.
+*   **En las superficies del recinto:** El enfriamiento de las paredes y el entorno reduce la temperatura. El vapor generado diluye los gases de incendio y los desplaza fuera de su rango de inflamabilidad.
+
+#### 5.1. Efecto de Enfriamiento
+El enfriamiento o absorción de calor por el agua como agente extintor ocurre en tres fases consecutivas a medida que absorbe calor:
+1.  Calentamiento del agua.
+2.  Cambio de fase líquido-gas (evaporación y formación de vapor).
+3.  Calentamiento del vapor de agua.
+
+La cantidad de energía necesaria para elevar un grado Celsius la temperatura de una unidad de masa se conoce como calor específico (Ce). Para el agua, este valor varía entre 0°C y 100°C; se toma 18°C como referencia. El agua no hierve inmediatamente al alcanzar los 100°C. Una vez en el punto de ebullición (100°C a nivel del mar), requiere una cantidad adicional de energía para vaporizarse. El calor latente de vaporización (Cv H₂O = 2.257 kJ/kg) es significativamente mayor que la energía necesaria para calentar la misma cantidad de agua de 0°C a 100°C. Esta propiedad es clave para la singularidad del agua como agente extintor.
+
+**Ejemplo de cálculo de energía absorbida por calentamiento de agua:**
+Para elevar 1 litro de agua (1 kg) de 18°C a 100°C:
+*   Masa de agua (`mH₂O`) = 1 kg
+*   Calor específico del agua (`CeH₂O`) = 4,183 kJ/kg°C
+*   Variación de temperatura (`ΔT`) = (100 - 18) = 82°C
+*   Energía absorbida (`Eab`) = `mH₂O` x `CeH₂O` x `ΔT` = 1 kg x 4,183 kJ/kg°C x 82°C = **343 kJ**
+
+Una vez en fase gaseosa, el vapor de agua absorbe energía del entorno al aumentar su temperatura, aunque su calor específico difiere ligeramente del de la fase líquida.
+
+**Ejemplo de cálculo de energía absorbida por vapor de agua:**
+Para elevar 1 kg de vapor de agua de 100°C a 300°C:
+*   Calor específico del vapor de agua (`CeH₂O`) = 4,090 kJ/kg°C
+*   Energía absorbida (`Eab`) = `mH₂O` x `CeH₂O` x `ΔT` = 1 kg x 4,090 kJ/kg°C x (300 - 100)°C = 1 kg x 4,090 kJ/kg°C x 200°C = **818 kJ**
+
+El efecto final de enfriamiento depende del lugar de aplicación. En superficies por encima de 100°C, la energía absorbida incluye el calentamiento del agua hasta ebullición y su posterior evaporación. Una vez en forma de vapor, el efecto de enfriamiento sobre las superficies es despreciable. La cantidad máxima de energía absorbida por 1 litro de agua a 18°C en una superficie es de `343 kJ` (calentamiento) + `2.257 kJ` (vaporización) = `2.600 kJ` o **2,6 MJ**. Esto implica que la absorción de energía es 7,58 veces mayor si se logra la evaporación del agua.
+
+#### 5.2. Efecto de Dilución
+La aplicación de agua en un recinto incendiado, al generar vapor, influye en la dinámica del incendio por el efecto de dilución del volumen de gases de combustible y comburente. El vapor de agua actúa como un tercer fluido que desplaza los gases, alejándolos del rango de inflamabilidad.
+
+El volumen de vapor de agua generado a 100°C es aproximadamente 1.600 veces mayor que el volumen original en fase líquida, y esta expansión aumenta con la temperatura.
+
+**Tabla 5. Expansión de un 1L de agua**
+
+| TEMPERATURA [ºC] | Volumen de vapor [l] |
+| :---------------- | :------------------- |
+| 100               | 1.600                |
+| 200               | 2.060                |
+| 300               | 2.520                |
+| 400               | 2.980                |
+| 500               | 3.440                |
+| 600               | 3.900                |
+
+La aplicación de vapor de agua permite desplazar el oxígeno disponible.
+
+**Ejemplo de cálculo de volumen de vapor de agua generado:**
+Calcular el volumen de vapor de agua generado tras cuatro pulsaciones de tres segundos con un caudal de 475 LPM para lograr un 70% de evaporación a una temperatura de equilibrio de 200°C.
+*   Caudal: 475 LPM = 7,92 LPS
+*   Energía de vaporización (`Eab`) para 1 kg de agua = 1 kg x 2.257 kJ/kg = 2.257 kJ
+*   Volumen de vapor de agua a 200°C = 2.060 L
+*   Volumen total de vapor generado a 200°C = 66,53 x 2.060 = **137.047 L** (aproximadamente **137 m³**).
+*   Respuesta: 30,3 litros de agua son suficientes para refrigerar el colchón de gases hasta 200°C (equivalente a dos pulsaciones de 1 segundo a 50 LPM con una efectividad del 100%).
+
+#### 5.3. Efectividad en la Aplicación de Agua
+Es fundamental determinar la efectividad del agua en un recinto incendiado. El agua que no se evapora, como máximo, solo puede absorber la energía para aumentar su temperatura hasta la final. Sin embargo, el agua que logra convertirse en vapor y alcanzar la temperatura de equilibrio con el recinto absorberá al menos siete veces más energía.

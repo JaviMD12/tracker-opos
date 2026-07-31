@@ -1,9 +1,65 @@
-# Fundamentos de la Composición de la Materia y la Atmósfera
+### TEMARIO DE OPOSICIONES DE BOMBEROS Y EMERGENCIAS: HIDRÁULICA
 
-El estudio de la composición de la materia es fundamental para comprender fenómenos como la combustión en la lucha contra incendios. La **materia** se define como aquello que constituye los cuerpos y está conformada por **moléculas**, las cuales, a su vez, se componen de **átomos**. Estos últimos se integran por partículas aún más pequeñas: **neutrones**, **protones** y **electrones**.
+**PARTE 2: HIDRÁULICA**
 
-Un **átomo** es la partícula elemental y diminuta que conforma la base de la composición química de cualquier sustancia. Se caracteriza por poseer un **núcleo** central y compacto, donde residen los **protones** y **neutrones**. Los **protones** son partículas con carga eléctrica positiva, y su cantidad en el núcleo es la que define el **número atómico** de un elemento, tal como se organiza en la tabla periódica. Por otro lado, los **neutrones** son partículas subatómicas que se encuentran en el núcleo, pero carecen de carga eléctrica. Orbitando alrededor de este núcleo se hallan los **electrones**, partículas subatómicas que portan una carga eléctrica elemental negativa, comúnmente representadas con el símbolo e⁻.
+**CAPÍTULO 1. CARACTERIZACIÓN**
 
-Las **moléculas** se forman por la combinación de uno o más átomos. Cuando una molécula agrupa dos o más clases de átomos diferentes, se denomina **compuesto**. Así, una **sustancia** se distingue por tener características definidas, reconocibles y una composición química invariable, pudiendo ser de dos tipos: **simples**, si están constituidas por un solo tipo de elemento químico, o **compuestas**, si se forman por la unión de distintos elementos. Las **fórmulas químicas** se emplean para expresar el número de átomos de cada elemento presente en una molécula, aunque no siempre detallan su distribución espacial. Un ejemplo común es el agua, con fórmula H₂O, que indica dos átomos de hidrógeno y uno de oxígeno. Otro ejemplo es el butano, con fórmula C₄H₁₀, que representa cuatro átomos de carbono y diez de hidrógeno.
+**1. Propiedades Fundamentales de los Fluidos**
 
-En el contexto de la combustión, la **atmósfera** juega un papel crucial. Esta se compone principalmente de una mezcla de gases, donde el **nitrógeno** constituye aproximadamente el 79% del volumen total, el **oxígeno** el 21%, y otros gases, como el dióxido de carbono (CO₂), neón, criptón y xenón, representan el 0,02%. Cabe destacar que los **gases inertes**, como el nitrógeno y los gases nobles, son aquellos que no reaccionan bajo condiciones específicas de presión y temperatura, debido a su configuración eléctrica intrínsecamente estable.
+La hidráulica, como sección de la mecánica de fluidos, se dedica al estudio de las características mecánicas de los fluidos, considerando tanto sus propiedades específicas como las fuerzas y condiciones a las que están sometidos.
+
+**1.1. Masa**
+
+La masa se define como la magnitud física que representa la cantidad de materia en un cuerpo. En el Sistema Internacional de Unidades, su unidad es el kilogramo (kg). Es una magnitud escalar, a diferencia del peso que es vectorial, aunque ambos conceptos están relacionados.
+
+**1.2. Densidad**
+
+La densidad es una magnitud vectorial que indica la masa presente en un volumen determinado de una sustancia. Se simboliza con ρ (rho). La densidad promedio se calcula como la relación entre la masa de un cuerpo y el volumen que este ocupa. Su unidad es [kg/m³].
+La fórmula para la densidad es: ρ = masa / volumen.
+
+**1.3. Peso Específico**
+
+El peso específico, denotado por el símbolo γ (gamma), es la relación entre el peso de un cuerpo y el volumen que ocupa. Su unidad es [N/m³].
+
+**1.4. Densidad Relativa y Peso Específico Relativo**
+
+La densidad relativa y el peso específico relativo se establecen al comparar sus valores absolutos con los de una sustancia de referencia. Convencionalmente, el agua a 4ºC y 1 atmósfera se utiliza como sustancia patrón.
+
+*   La densidad del agua (ρagua) es de 1.000 kg/m³.
+*   El peso específico del agua (γagua) es de 9.810 N/m³.
+*   Las fórmulas son:
+    *   ρrelativa = ρabsoluta / ρagua
+    *   γrelativo = γabsoluto / γagua
+
+**1.5. Viscosidad**
+
+La viscosidad es una característica inherente a los fluidos que describe su resistencia a las deformaciones tangenciales, un fenómeno atribuido a las fuerzas de cohesión molecular. Aunque todos los fluidos exhiben esta propiedad, se considera un "fluido ideal" aquel que no posee viscosidad, lo cual es una aproximación útil en ciertas aplicaciones.
+
+La manifestación de la viscosidad es observable únicamente en líquidos en movimiento. Se define como la relación entre el esfuerzo cortante y el gradiente de velocidad, también conocida como viscosidad absoluta o dinámica, y se representa con el símbolo μ (mu griega).
+
+Cuando un fluido está sujeto a fuerzas cortantes, se deforma, generando capas paralelas donde la velocidad es constante en cada una de ellas.
+
+La siguiente tabla muestra densidades relativas de diversas sustancias:
+
+| Sustancia | Densidad Relativa |
+| :-------- | :---------------- |
+| Mercurio  | 13,6              |
+| Hierro    | 7,8               |
+| Grava     | 2,2               |
+| Hielo     | 0,85              |
+| Aceite    | 0,8               |
+| Madera    | 0,5               |
+
+**1.6. Presión de Vapor**
+
+Para una temperatura específica, la presión de vapor es aquella en la que las fases líquida y gaseosa de una sustancia están en equilibrio dinámico. Este valor permanece constante mientras ambas fases estén presentes, independientemente de sus cantidades. Este fenómeno también se observa en sólidos. Cuando un sólido pasa directamente a la fase gaseosa (sublimación), también se habla de presión de vapor.
+
+En una situación de equilibrio, las fases líquida y gaseosa se conocen como "líquido saturado" y "vapor saturado", respectivamente. Esta propiedad muestra una relación inversamente proporcional a las fuerzas de atracción molecular; a mayores fuerzas, mayor energía (calor u otra forma) se necesita para superar la cohesión y producir el cambio de estado.
+
+Si se introduce una cantidad de líquido en una burbuja de cristal con vacío y a temperatura constante, el líquido se evaporará rápidamente al principio. A medida que la cantidad de vapor y la presión interna de la burbuja aumentan, la velocidad de condensación también se incrementa hasta que ambas velocidades se igualan, alcanzando la máxima presión de vapor o de saturación, la cual no puede superarse sin un aumento de temperatura.
+
+El equilibrio dinámico se logra más rápidamente cuanto mayor es la superficie de contacto entre el líquido y el vapor, lo que favorece la evaporación. Por ejemplo, un charco de agua extenso y poco profundo se seca más rápido que uno pequeño y profundo, aunque contengan la misma cantidad de agua, alcanzando el equilibrio a la misma presión.
+
+La presión de saturación está influenciada por varios factores, siendo la naturaleza del líquido el más importante. En general, en líquidos con propiedades similares, la presión de vapor a una temperatura dada es menor cuanto mayor sea el peso molecular del líquido.
+
+A nivel del mar, el aire saturado con vapor de agua a 20ºC tiene una presión parcial de 23 mbar de agua. En la misma atmósfera, el nitrógeno tiene una presión parcial de aproximadamente 780 mbar, el oxígeno 210 mbar, y el argón 9 mbar.

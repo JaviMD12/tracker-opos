@@ -1,77 +1,121 @@
-## Evaluación y Técnicas de Intervención en Incidentes con Arbolado Peligroso
+## Parte 7: NRBQ - Caracterización y Técnicas de Intervención
 
-La intervención ante incidentes con arbolado requiere una valoración exhaustiva y la aplicación de técnicas especializadas por parte de los cuerpos de bomberos, dado el potencial riesgo para personas y bienes. El proceso comprende tanto la identificación de árboles peligrosos como la ejecución de apeos (derribos) o podas controladas.
+### 2.2. Acciones Químicas
 
-### 1. Evaluación de Arbolado Peligroso
+Los métodos químicos de control tienen como objetivo mitigar derrames de materiales peligrosos mediante reacciones químicas controladas que reducen los efectos del incidente.
 
-La valoración inicial es crucial para determinar la necesidad y el tipo de intervención, basándose en la identificación de indicadores de peligro estructural en los árboles. Esta evaluación permite establecer la estrategia más segura y eficaz.
+#### 2.2.1. Adsorción
 
-#### 1.1. Indicadores de Peligro
+La adsorción es un proceso físico donde un adsorbato, o líquido peligroso, interactúa con la superficie sólida de un adsorbente. Sus características principales son:
+1.  La superficie del adsorbente es rígida, sin incremento de volumen.
+2.  El proceso de adsorción genera calor, a diferencia de la absorción.
+3.  La adsorción solo ocurre en superficies activas, como carbón activado o alúmina.
 
-Los defectos en los árboles pueden manifestarse de diversas formas, afectando su estabilidad:
+#### 2.2.2. Dispersantes, Agentes Activos Superficiales y Aditivos Biológicos
 
-*   **Pudrición de la madera:** Constituye la causa más común de fallo estructural. Los hongos xilófagos, que se alimentan de la madera, provocan su descomposición. Aunque un árbol pueda parecer sano externamente, la pudrición interna, especialmente en el duramen (madera central inactiva), puede comprometer gravemente su capacidad estructural. La presencia de cuerpos fructíferos (setas, champiñones) en el tronco, ramas o raíces es un indicio de descomposición interna. Asimismo, heridas mal cerradas, uniones débiles o cortes de poda inadecuados pueden ser puntos de entrada para los hongos.
-    Existen varios tipos de pudrición: la pudrición **blanca**, que ataca la lignina y es más común en árboles de hoja caduca; la pudrición **marrón**, que degrada la celulosa y es frecuente en coníferas, dejando la madera con un color oscuro; y la pudrición **blanda**, causada por ascomicetos, que deja la madera con una textura similar a la paja. La capacidad portante del árbol se mantiene gracias a una capa externa resistente, conocida como "concha" o pared residual, cuyo espesor es vital para la seguridad. Un grosor insuficiente de esta pared indica un alto riesgo de fallo.
-*   **Grietas:** Son hendiduras en la corteza y madera, indicando una falta de capacidad para soportar las cargas. Las grietas **horizontales**, perpendiculares a las fibras, son un signo de fallo estructural inminente. Por otro lado, las grietas **verticales**, paralelas a las fibras, son menos críticas pero pueden ser peligrosas si atraviesan completamente el tronco. La interpretación de las grietas se basa en su forma, posición, amplitud y evolución, así como en la medición del espesor de la pared residual. Grietas recientes pueden indicar poco vigor del árbol, mientras que las que se han "cerrado" pueden ser señal de que el árbol ha desarrollado madera de reacción.
-*   **Problemas en las raíces:** El sistema radicular ancla el árbol al suelo. Daños en las raíces, ya sean por acciones humanas (excavaciones, obras) o causas naturales (hongos, sequías, inundaciones), comprometen la estabilidad del árbol y pueden provocar su vuelco. La valoración del estado de las raíces se infiere de la apariencia de la copa, la presencia de abultamientos o levantamientos en el suelo (indicando rotura de raíces) o la inclinación progresiva del tronco. El *Radio Crítico de Raíces* (CRR), que se calcula multiplicando el diámetro del tronco por 18, es un parámetro clave para evaluar el impacto de daños cercanos a las raíces.
-*   **Uniones débiles de ramas y chancros:** Las uniones de ramas con "corteza incluida" (donde la corteza queda comprimida entre el tronco y la rama) son inherentemente débiles y propensas a fallos estructurales. Los *chancros* son heridas hundidas y agrietadas en el tronco, ramas o raíces, donde la corteza y el cámbium (capa de crecimiento) están muertos, lo que puede conducir a la formación de huecos y debilitar el árbol si afectan más del 40% de su perímetro.
-*   **Arquitectura pobre:** Se refiere a desequilibrios estructurales del árbol, como la inclinación excesiva. Árboles con una inclinación superior a 40 grados, especialmente hacia zonas de riesgo como viviendas o vías públicas, deben ser retirados. Los "árboles arpa", con una rama horizontal grande de la que crecen varias ramas verticales, también presentan una arquitectura pobre y son vulnerables a vientos fuertes.
-*   **Árboles o ramas muertas:** Un árbol muerto o una rama seca pueden caer en cualquier momento, representando un peligro constante. Si su ubicación implica riesgo para personas o bienes, deben ser retirados.
+Estos agentes químicos se utilizan para dispersar materiales perjudiciales en derrames líquidos, especialmente sobre agua. La aplicación de dispersantes resulta en una falta de contención y una mayor expansión del líquido, convirtiendo el vertido en finas gotas y diluyendo el material. Su uso puede requerir aprobación previa de la autoridad ambiental debido a la extensión del área afectada.
 
-Factores externos como vientos fuertes, nevadas o lluvias intensas pueden acelerar el fallo estructural de árboles con defectos preexistentes.
+#### 2.2.3. Gelificación
 
-#### 1.2. Proceso de Evaluación y Decisiones
+La gelificación es un proceso químico que busca espesar y estabilizar un material líquido peligroso mediante la formación de un gel (sistema coloidal con fase sólida y líquida). El gel resultante se convierte en un material peligroso que debe eliminarse adecuadamente.
 
-La evaluación de un árbol peligroso debe realizarse con la mayor cantidad de información posible, considerando el equilibrio entre las cargas (peso propio, nieve, viento), las propiedades de la madera (dureza, elasticidad) y la geometría del árbol. En caso de duda sobre el alcance de una pudrición, se puede emplear una varilla metálica para medir oquedades y un martillo de goma para detectar cambios acústicos en la madera. La decisión final sobre la técnica de intervención se basará en esta valoración y en un análisis de riesgos-beneficios.
+#### 2.2.4. Neutralización
 
-### 2. Técnicas de Intervención para Apeo y Poda de Arbolado
+Consiste en aplicar ácidos o bases a un derrame para formar una sal neutra, reduciendo o eliminando la peligrosidad del material. La reacción siempre libera calor, pero existen formulaciones especiales que evitan reacciones violentas o calentamiento localizado. Cuando se utilizan agentes neutralizantes sólidos, a menudo resulta en la contención del material derramado. Para grandes cantidades, la absorción es más apropiada.
 
-Las intervenciones de apeo y poda deben llevarse a cabo de manera planificada y segura, utilizando las herramientas y técnicas adecuadas para cada situación.
+#### 2.2.5. Polimerización
 
-#### 2.1. Principios Generales de Intervención
+Este proceso químico implica que un material peligroso reaccione en presencia de un catalizador (calor, luz u otra sustancia) para formar un sistema polimérico o macromolécula. Se distingue entre:
+*   **Polimerización por adición**: No genera residuos.
+*   **Polimerización por condensación**: Produce un residuo de pequeña molécula, como agua o gas de ácido clorhídrico.
 
-1.  **Valoración del riesgo:** Antes de cualquier acción, se debe evaluar si el riesgo es real, aparente o inminente, así como los medios disponibles y el entorno afectado.
-2.  **Delimitación del perímetro de seguridad:** Se establece una zona de seguridad para proteger a personas ajenas a la intervención. La distancia estándar es 2.5 veces la altura del árbol en pie. Si el árbol ya está caído, la distancia se ajusta al riesgo de los elementos que puedan caer.
-3.  **Preparación de rutas de escape:** Se deben prever al menos dos rutas de escape a 45 grados de la dirección de caída planificada del árbol, útiles como parapeto si hay estructuras cercanas.
+#### 2.2.6. Solidificación
 
-#### 2.2. Materiales y Herramientas Esenciales
+Proceso que trata químicamente un líquido peligroso para transformarlo en un material sólido no peligroso. Ejemplos incluyen el uso de adsorbentes o formulaciones especiales que crean sales neutras para derrames de ácidos o álcalis. La principal ventaja es la rápida contención y tratamiento de pequeños derrames.
 
-Para las labores de apeo y poda, se utilizan herramientas específicas:
+### 3. Descontaminación
 
-*   **Motosierra:** Herramienta principal para cortes. Es fundamental mantenerla a máxima aceleración durante el corte, utilizar el freno de cadena al desplazarse y evitar el contacto con el suelo o materiales duros que puedan dañar la cadena. Al trabajar, la postura debe ser estable, con el fuste del árbol a la derecha del operario.
-*   **Tractel:** Sistema de tracción manual con cable de acero, útil para modificar la dirección de caída de un árbol o arrastrarlo una vez caído. Requiere un punto de anclaje resistente (otro árbol grande, camión) y, si es necesario, un sistema de reenvío con cuerda semiestática para mantener la distancia de seguridad.
-*   **Cuñas:** Piezas de madera o material sintético (plástico, teflón, aluminio) que se insertan en el corte para evitar que la motosierra se atasque, cambiar la dirección de caída o apear árboles inclinados. Las cuñas de metal deben evitarse en depósitos metálicos para prevenir chispas.
-*   **Material de altura:** Para trabajos en ramas elevadas, se emplean arneses, cordines, anillos de cinta y mosquetones para establecer líneas de vida y asegurar al operario y la motosierra.
+La descontaminación, según la NFPA, es un proceso químico o físico para reducir o prevenir la propagación de la contaminación en personas y equipos. La meticulosidad en el lavado es prioritaria en incidentes con materiales peligrosos para controlar la fuente y el perímetro contaminado, aunque la rapidez es preferible cuando hay muchas personas involucradas.
 
-#### 2.3. Técnicas de Apeo (Derribo)
+Los objetivos principales de la descontaminación son:
+*   Evitar que las personas contaminadas actúen como agentes contaminantes.
+*   Prevenir la propagación del contaminante desde la zona caliente hacia las zonas templada y fría.
+*   Asegurar que el personal interviniente no se contamine al quitarse el traje de protección química.
+*   Reducir o eliminar la contaminación en las víctimas rescatadas para que puedan recibir asistencia médica.
+*   Garantizar que los EPI y herramientas no se contaminen para su reutilización o, de lo contrario, desecharlos.
 
-El apeo es el derribo controlado de un árbol. Las técnicas básicas incluyen el corte de dirección y el corte de derribo.
+Las prioridades en el proceso de descontaminación son:
+1.  Personas rescatadas o evacuadas potencialmente contaminadas.
+2.  Personal de intervención en la zona caliente.
+3.  Personal encargado de la descontaminación.
+4.  Posible contaminación del equipo utilizado.
 
-*   **Corte de dirección:** Se realiza un corte horizontal inferior y un corte oblicuo superior, con una apertura o ángulo de cuña de 45 grados, hasta una profundidad que no supere un cuarto del diámetro del tronco. Esto actúa como una bisagra, guiando la caída del árbol.
-*   **Corte de derribo:** Es un único corte horizontal realizado en el lado opuesto al corte de dirección, ligeramente por encima del corte inferior de la cuña, dejando una charnela del 10% del diámetro del tronco. Este corte final determina la velocidad de caída.
+Una descontaminación efectiva requiere el uso de equipos de protección personal adecuados, el manejo correcto de equipos y herramientas, y buenas prácticas para evitar riesgos (como agacharse en lugar de arrodillarse, planificar movimientos y minimizar el tiempo en las aberturas de escape).
 
-Existen técnicas adaptadas para situaciones singulares:
+#### 3.1. Equipos y Materiales de Descontaminación
 
-*   **Árbol con diámetro mayor que el espadín:** Se utilizan técnicas como el "corte de compás" o "corte de corazón/mortaja". Estas implican cortes de punta y movimientos en abanico con la espada para seccionar el árbol cuando el diámetro supera el doble de la longitud del espadín de la motosierra.
-*   **Árbol con inclinación excesiva:** Se emplea la técnica del "corte final inverso" para evitar que el árbol caiga bruscamente o se raje, realizando un corte de punta en el lateral y el corte de derribo en sentido inverso, dejando una pequeña parte sin seccionar.
-*   **Árbol en pendiente pronunciada:** Se aplica la técnica del "corte Humboldt", que consiste en una muesca de caída invertida.
-*   **A contracaída con cuñas:** Cuando es necesario forzar la caída del árbol en dirección opuesta a su inclinación natural, se usan cuñas para empujar el tronco. Si la inclinación es muy pronunciada, se recurre al Tractel.
-*   **Árbol podrido o hueco:** No se recomienda el apeo convencional debido a la imprevisibilidad del fallo. Se prefiere la técnica del corte de corazón o mortaja, con una bisagra o charnela de mayor grosor.
-*   **Derribo de un árbol caído con tractel:** Se utiliza cuando los cortes con motosierra son inviables, anclando el árbol en un punto alto y tirando con el tractel en la dirección deseada, coordinando el tensado con los cortes para evitar movimientos bruscos.
+El proceso y las técnicas de descontaminación varían según el contaminante, el grado de penetración y la forma de contaminación. Aunque existen equipos sofisticados, a menudo es crucial contar con equipos o materiales "de fortuna" y el agente descontaminante adecuado.
 
-#### 2.4. Técnicas de Poda
+A continuación, se presenta una tabla con equipos y materiales comunes para la descontaminación:
 
-La poda implica el corte de ramas, siendo la técnica de los "tres cortes" la más recomendada para ramas de más de 10 cm de diámetro. Esta técnica busca descargar el peso de la rama antes del corte final para evitar desgarros. La poda en altura puede realizarse con vehículos (autoescala), escaleras o material de trepa, siempre asegurando al operario y la motosierra.
+| Herramienta              | Finalidad                                                                                               |
+| :----------------------- | :------------------------------------------------------------------------------------------------------ |
+| Cepillos de mango largo  | Cepillado y retirada de contaminante.                                                                   |
+| Pulverizador de jardín   | Aplicación de descontaminantes líquidos sobre trajes o equipos.                                         |
+| Bolsas de basura grandes | Almacenamiento de ropa y equipos contaminados no reutilizables "in situ".                               |
+| Jabón                    | Limpieza general.                                                                                       |
+| Gamuzas o paños absorbentes | Absorción de líquidos que puedan quedar en trajes o equipos.                                            |
+| Bidones                  | Contención de mercancías peligrosas y material de absorción o descontaminación contaminado.             |
+| Ventilador               | Descontaminación seca de productos volátiles cuando el tiempo no permite la descontaminación al aire libre. |
+| Bancos o sillas          | Proporcionar asientos al personal interviniente entre estaciones de descontaminación.                   |
+| Cubos                    | Introducción de guantes y botas para descontaminar en mejores condiciones.                              |
+| Guantes y trajes         | Protección para el equipo de descontaminación.                                                          |
+| Ducha                    | Permiten la descontaminación húmeda; pueden ser específicas o con mangueras y lanzas.                   |
+| Lona de plástico         | Delimitar zonas de descontaminación, evitar la caída de contaminantes al suelo y facilitar su retirada. |
+| Piscinas hinchables      | Contener el agua utilizada en la descontaminación.                                                      |
+| Soluciones o aplicaciones | Descontaminación química o biológica de trajes y equipos.                                               |
+| Señalización y balizas   | Mantener las zonas delimitadas correctamente y los riesgos identificados.                               |
 
-#### 2.5. Técnicas de Tronzado y Desramado
+#### 3.2. Métodos de Descontaminación
 
-Después del apeo, puede ser necesario tronzar (cortar transversalmente) o desramar (quitar ramas) el árbol. Estas tareas requieren atención a las fuerzas de tensión y compresión presentes en el tronco para evitar el atrapamiento de la espada de la motosierra y posibles rebotes. Se recomienda trabajar siempre del lado más seguro del tronco y avanzar con cortes secuenciales. Para desbrozar matorral bajo con motosierra, se adopta una postura inclinada para mayor comodidad y se realizan barridos de izquierda a derecha.
+En función de la sustancia contaminante y el tiempo disponible para la descontaminación, se pueden distinguir métodos físicos y químicos.
 
-### 3. Casos Prácticos Relevantes para Bomberos
+##### 3.2.1. Métodos Físicos
 
-La aplicación de estas técnicas se ejemplifica en situaciones comunes:
+Cuando la eliminación del contaminante se realiza con métodos físicos, el contaminante mantiene sus propiedades y riesgos.
 
-*   **Árbol sobre tendido eléctrico:** Ante un árbol caído sobre líneas de alta tensión, la prioridad es verificar el corte del suministro por la compañía eléctrica (líneas "en cortocircuito y a tierra"). El perímetro de seguridad debe ser al menos el doble de la altura del árbol, especialmente cerca de los apoyos. La intervención implica el uso de cuerdas estáticas y un Tractel para tirar del árbol en sentido contrario a su inclinación, utilizando cuerda en lugar de cable metálico cerca de las líneas eléctricas para evitar conductividad.
-*   **Árbol sobre vivienda:** Para un pino de 15 metros caído sobre una casa, se requiere una grúa. La valoración incluye estimar el peso del árbol (aproximadamente 4800 kg para un pino seco de 8 m³ de volumen) para seleccionar la grúa adecuada. Se establece un perímetro de seguridad estricto alrededor de la vivienda y el árbol, y la intervención con grúa se dirige a enganchar el árbol en su punto más alto para una extracción segura.
+*   **Cepillado**: Retirar el producto cepillando el traje del personal, prestando atención a zonas de difícil acceso como axilas o entrepierna. Se complementa con una línea de agua para facilitar la eliminación.
+*   **Absorción**: Eliminar productos adheridos a trajes o equipos, o como complemento de otros procesos.
+*   **Lavado**: El agua es un disolvente eficaz y es el método más común en descontaminación. Es muy efectivo, salvo con materiales que puedan reaccionar con el agua.
+*   **Venteo**: Exposición al aire libre o a una ligera corriente de aire para eliminar productos contaminantes. Indicado para materiales poco solubles en agua o muy volátiles.
+*   **Aspiración**: Recoger y controlar el contaminante sólido. Facilita el tratamiento posterior.
 
-En todas las intervenciones con arbolado, la seguridad del personal interviniente es primordial, seguida del salvamento de vidas, la protección del medio ambiente y la minimización de daños a bienes materiales. La valoración continua y el balance riesgo-beneficio son la base de todas las decisiones tácticas.
+### 3.3. Procedimientos de Descontaminación
+
+La descontaminación debe ser efectiva para cumplir los objetivos. Su efectividad depende del método, los equipos, la minuciosidad de la aplicación y la escrupulosidad del procedimiento. Requiere personal capacitado, pero las condiciones idóneas no siempre están disponibles.
+
+#### 3.3.1. Descontaminación Masiva
+
+Prioriza la rapidez sobre la minuciosidad cuando hay muchas personas afectadas por contacto con nubes tóxicas o productos contaminantes. El procedimiento dicta la retirada de la ropa, ya que se estima que elimina el 80% del contaminante. Existen sistemas integrados de descontaminación masiva, pero si no se dispone de ellos, se puede utilizar agua pulverizada desde dos camiones o bombas, aplicando de cabeza a pies para arrastrar el contaminante.
+
+Además, se deben considerar:
+*   Prioridad de la descontaminación de personas, equipos y ambiente.
+*   Uso de diques de contención para el agua de lavado.
+*   Protección y/o cobertura del equipo responsable de la descontaminación.
+
+#### 3.3.2. Descontaminación General
+
+Es vital aislar la zona del accidente desde el inicio de la emergencia, estableciendo una zonificación (caliente, templada y fría) con señalización adecuada. Se activa un corredor de descontaminación, ubicado en la zona templada, para confinar las actividades y asegurar que el personal afectado salga por él. La entrada debe ser controlada para verificar el estado y nivel de protección del personal.
+
+El mando debe considerar:
+*   Ubicación del corredor.
+*   Métodos de descontaminación (solución, equipo humano, material disponible).
+*   Control de las aguas contaminadas.
+*   Asistencia médica.
+*   Entrega y reposición de ropa y equipo contaminado.
+
+### 3.4. Etapas o Dimensión de la Descontaminación
+
+Para prever la dimensión del corredor de descontaminación, se debe valorar el contaminante y los medios materiales y humanos disponibles. Como mínimo, la descontaminación se realizará en una estación de lavado con ducha y cepillado en una piscina hinchable. Si los medios son insuficientes, se puede montar un cubículo provisional con mangueras y una lona como ducha, usando una lanza.
+
+****

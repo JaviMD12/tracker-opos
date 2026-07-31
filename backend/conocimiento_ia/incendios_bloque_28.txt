@@ -1,55 +1,133 @@
-## Técnicas de Control de la Ventilación en Incendios de Interior
+### Capítulo 1: Caracterización de Incendios de Interior y Ventilación
 
-El control de la ventilación constituye una herramienta táctica fundamental en la gestión de incendios de interior, cuyo objetivo primordial es alterar la dinámica del fuego. Este control abarca un espectro amplio de técnicas, desde el confinamiento total del incendio hasta la ventilación mecánica forzada, pasando por diversas modalidades de ventilación natural. Es crucial entender que cualquier técnica de ventilación que implique el aporte de aire al foco debe coordinarse simultáneamente con la aplicación de agua para mitigar el riesgo de crecimiento y propagación del incendio.
+**1. Desarrollo de Incendios de Interior**
 
-### Antiventilación o Confinamiento
+Un incendio en espacios interiores se define como un fuego sin control en un espacio delimitado, donde la transferencia de calor y el intercambio de gases (humos o aire fresco) con el exterior no son libres. Cuando un incendio está confinado, el intercambio gaseoso con el exterior es nulo. Un ejemplo es un incendio doméstico donde puertas y ventanas permanecen cerradas.
 
-La **antiventilación** o **confinamiento de un incendio** busca limitar su crecimiento al privarlo del acceso a aire fresco. Esta técnica es de particular interés en incendios que se encuentran limitados por la ventilación (ILV). Su aplicación efectiva reduce la potencia del fuego y previene la dispersión de gases incendiados a otras áreas del edificio. No obstante, una desventaja inherente es que puede provocar un descenso significativo del plano neutro, limitando severamente la visibilidad, lo que la hace menos efectiva en ILV donde el plano neutro ya es muy bajo.
+**1.1. Desarrollo General de un Incendio de Interior**
 
-El método más común para el confinamiento consiste en el cierre de puertas y ventanas del edificio. La utilización de **cortinas de bloqueo de humo** portátiles ha ganado popularidad en Europa y EE.UU. por su capacidad para asegurar el confinamiento en aperturas con escasa resistencia al fuego o estanqueidad deficiente, incluso en dinteles o pasillos sin puertas, facilitando el paso de las mangueras a ras de suelo.
+El estudio de los incendios de interior en laboratorio distingue tres fases principales: crecimiento, pleno desarrollo y decaimiento.
 
-### Ventilación Natural
+**a) Fase de Crecimiento**
+Esta fase inicial se caracteriza por el inicio del fuego en un punto de ignición. El calor se propaga por radiación a los combustibles cercanos. Una columna de convección se forma sobre el foco, transportando calor a los combustibles en la parte superior. Al principio, la potencia del incendio es limitada y su crecimiento es lento. Los combustibles circundantes requieren energía para iniciar la pirólisis, proceso que se acelera a medida que el incendio aumenta de magnitud, llevando a un incremento exponencial de la temperatura.
 
-La **ventilación natural** tiene como propósito la evacuación de gases de incendio basándose en las diferencias de presión generadas por el propio fuego. Este proceso busca restaurar la visibilidad, expulsar la atmósfera combustible (reduciendo su volumen hasta en un 50%) y disminuir la temperatura, lo que facilita las operaciones de progresión interior y mejora las posibilidades de supervivencia de las víctimas.
+Los gases generados por el incendio se acumulan en los estratos superiores. El aumento de temperatura reduce la densidad de los gases, lo que favorece su flotabilidad y distribución por todo el recinto.
 
-Para lograr un flujo de gases unidireccional óptimo, donde el aire fresco entra y los gases calientes salen de forma controlada, es indispensable que los puntos de entrada y salida se encuentren a distintos niveles, creando así un diferencial de presión favorable.
+En esta etapa, se observan dos estratos diferenciados:
+*   **Estrato superior:** Compuesto por gases de incendio de menor densidad que ascienden, generando presiones superiores a las del exterior.
+*   **Estrato inferior:** Capa de aire frío y denso, más limpia, con presiones inferiores a las del exterior.
 
-Dentro de la ventilación natural, se distinguen dos tipos principales:
+El límite horizontal donde las presiones internas y externas son idénticas se denomina **plano neutro**.
 
-1.  **Ventilación vertical:** Implica una entrada y salida de gases a distinto nivel, lo que genera un flujo unidireccional. La eficacia de esta técnica está influida por la diferencia de presión entre la entrada y la salida de gases (determinada por la altura y el gradiente térmico), así como por el tamaño de la apertura de salida de gases. Un mayor tamaño de salida aumenta el caudal, aunque con rendimientos decrecientes. La relación entre el tamaño de la salida (Ae) y la entrada (Ai), denominada *r*, es un factor crítico; un valor de *r*=1 es óptimo, y *r*=0.5 (entrada con el doble de tamaño que la salida) también proporciona buenos resultados. En entornos europeos con cubiertas no perforables, su aplicación es menos común.
-2.  **Ventilación horizontal:** Se produce cuando las entradas y salidas de gases se encuentran al mismo nivel, generando flujos bidireccionales. Esta modalidad es menos efectiva que la ventilación vertical debido a la ausencia de un flujo unidireccional claro hacia el foco del incendio, lo que obliga al equipo de intervención a avanzar a través de la capa de gases calientes, aunque por debajo se mantenga una capa de aire fresco. La eficiencia en este caso depende del tamaño y altura de las aberturas de gases y de la proximidad de la salida al foco. Las cortinas de bloqueo de humo pueden transformar un flujo bidireccional en unidireccional vertical, permitiendo una pequeña entrada de aire en la zona baja y manteniendo la estratificación.
+Durante esta fase, el colchón de gases de incendio (productos de la combustión y pirólisis) puede alcanzar su punto de inflamabilidad. Esto puede manifestarse como fenómenos localizados de **rollover** (lenguas de gases inflamados) o una inflamación generalizada de todo el recinto, conocida como **flashover**.
 
-A pesar de sus beneficios, la ventilación natural posee una efectividad limitada, especialmente en las fases avanzadas del incendio, donde los combustibles modernos reaccionan muy rápidamente a la ventilación, concediendo un tiempo escaso para la evacuación y el control.
+**b) Fase de Pleno Desarrollo**
+El incendio alcanza su pleno desarrollo cuando la concentración de oxígeno en el recinto comienza a disminuir debido a varios factores:
+*   Combustión generalizada del colchón de gases de incendio, con un consumo significativo de oxígeno.
+*   Confinamiento del incendio o ventilación insuficiente, donde el consumo de oxígeno excede el aporte externo.
+*   Alta demanda de oxígeno por la combustión de combustibles distribuidos en el recinto.
 
-### Ventilación Forzada
+Esta fase se caracteriza por que la curva de temperatura alcanza su límite y se mantiene estable durante un periodo. La potencia del incendio está limitada por la falta de oxígeno, no por el combustible.
 
-La **ventilación forzada** se basa en el empleo de ventiladores mecánicos o extractores para dirigir el movimiento de los gases en un incendio. A diferencia de la ventilación natural, aquí el flujo de gases es predominantemente controlado por la acción mecánica de estos equipos, lo que permite establecer flujos unidireccionales y, en consecuencia, mejorar las condiciones internas del recinto, incluyendo la visibilidad y la reducción de temperatura y toxicidad.
+En incendios con ventilación, los estratos de gases de incendio y aire fresco se mantienen definidos. El aire fresco más denso cae a las zonas bajas, mientras los gases calientes ascienden. Sin embargo, en incendios confinados, el plano neutro desciende casi al suelo, eliminando el estrato inferior de aire fresco y la visibilidad. Esto tiene un impacto crucial en las tácticas de intervención.
 
-Las técnicas de ventilación forzada se clasifican según el diferencial de presión y el tipo de propulsión:
+**c) Fase de Decaimiento**
+Eventualmente, el recinto pierde temperatura y el incendio se extingue, ya sea por el consumo total del combustible o por la insuficiencia de ventilación para compensar las pérdidas de calor al entorno.
 
-#### Según el Diferencial de Presión:
+**1.6. Incendios Infraventilados**
 
-1.  **Ventilación por Presión Positiva (VPP):** Consiste en la colocación de un ventilador en el exterior (por ejemplo, en la puerta principal de acceso) para presurizar el interior del recinto. Este aumento de presión crea un flujo unidireccional que expulsa los gases calientes hacia una salida. La VPP es eficaz para reducir la inflamabilidad de los gases, disminuir la temperatura, aumentar la visibilidad y mejorar la supervivencia de las víctimas.
-2.  **Ventilación por Presión Negativa (VPN) o Extracción:** Se logra colocando extractores en las salidas de gases para generar diferenciales de presión negativos, succionando los gases hacia el exterior. Aunque similar a la VPP en principio, la VPN presenta inconvenientes como la exposición de los equipos a los gases de incendio y un menor rendimiento en comparación con la VPP. Además, el uso de motores de explosión está restringido en esta modalidad debido a la interferencia de los gases de combustión con el motor. Por estas razones, la VPN tiene un número limitado de aplicaciones en bomberos, generalmente en túneles y garajes.
+Un incendio infraventilado es un incendio de interior que alcanza el estado limitado por la ventilación sin haber pasado por una fase de flashover. Son comunes en recintos confinados o con ventilación muy restringida, donde el oxígeno disponible se consume durante la fase de desarrollo. El confinamiento suele ser la causa principal.
 
-#### Según el Tipo de Propulsión:
+En ausencia de un flujo continuo de aire, el plano neutro desciende hasta el nivel del suelo, eliminando la estratificación de gases y el colchón de aire fresco. Esto resulta en visibilidad casi nula para el personal de intervención.
 
-1.  **Ventiladores térmicos:** Funcionan con motores de explosión (gasolina). Ofrecen gran autonomía y portabilidad (desde 3CV para equipos pequeños hasta 150CV para unidades móviles). Sin embargo, son ruidosos, producen gases de escape que pueden contaminar el ambiente y no son aptos para entornos ATEX (atmósferas explosivas) o como extractores.
-2.  **Ventiladores eléctricos:** Conectados a la red eléctrica o alimentados por batería. Son más silenciosos, no generan gases de combustión y pueden ser aislados a nivel ATEX, lo que permite su uso como extractores. Su desventaja radica en la dependencia de un cableado eléctrico o en su limitada autonomía y potencia (para los modelos a batería).
-3.  **Ventiladores hidráulicos:** Utilizan una turbina impulsada por agua proveniente de la bomba del vehículo de bomberos. Evitan los inconvenientes de los motores térmicos (gases, aislamiento ATEX) pero requieren un despliegue logístico más complejo debido a la necesidad de tendidos de manguera para el suministro y retorno de agua.
-4.  **Ventilación hidráulica generada por flujo de manguera:** En esta técnica, el movimiento de los gases se genera por el arrastre de un flujo de agua (cono de agua) a través de una apertura, sin necesidad de hélice. Es una opción de rendimiento reducido, útil para la ventilación final de estancias una vez extinguido el incendio.
+En los incendios infraventilados, el colchón de gases contiene una alta fracción de combustible (productos de pirólisis y combustión incompleta) debido a la reducción de oxígeno. Esta alta fracción confiere un elevado potencial de crecimiento si se introduce ventilación.
 
-#### Capacidad y Colocación de los Ventiladores VPP
+En el entorno actual, con edificaciones bien aisladas y combustibles sintéticos de alta demanda de oxígeno, los incendios infraventilados son el escenario más frecuente para los bomberos.
 
-La **huella del ventilador** describe el campo de vectores de velocidad del aire que genera, influenciada por el diseño de la hélice, el régimen de giro, la rejilla frontal, los deflectores y la forma de la carcasa. Se distinguen un **dardo a alta velocidad** central y un **bulbo de aire succionado** o arrastrado. Los ventiladores pueden generar conos de aire cerrados o abiertos, cada uno con ventajas y desventajas en cuanto a distancia de posicionamiento y reducción de ruido/turbulencias.
+**1.7. Flashover Inducido por la Ventilación**
 
-La capacidad de un ventilador se mide a través de:
+El flashover inducido por la ventilación es un flashover que se produce como resultado de la ventilación aplicada a un incendio infraventilado. Cuando se abre una vía de ventilación, el incendio recupera potencia, ya que el oxígeno se combina con la gran cantidad de combustible disponible, lo que puede provocar un flashover.
 
-*   **Caudal estricto (Qe):** Volumen de aire que atraviesa la hélice.
-*   **Caudal libre (Ql):** Volumen total de aire movido en un espacio abierto (incluye aire arrastrado).
-*   **Empuje (E):** Medida del caudal libre basada en la conservación del momento.
-*   **Caudal efectivo (Qr):** Volumen real de gases que fluyen a través de la estructura.
-*   **Caudal AMCA240:** Medición estandarizada que considera el tránsito a través de una estructura (valores típicos: 25.000-30.000 m³/h para ventiladores de 18-20 pulgadas).
-*   **Caudal ULH (Universidad de Le Havre):** Extrapolación de la velocidad del aire en el centro de la salida, que tiende a sobreestimar el caudal efectivo real.
+Los experimentos de Underwriters Laboratories en viviendas reales con mobiliario moderno han mostrado que el flashover inducido puede ocurrir en aproximadamente dos minutos desde la apertura de ventilación. Además de los indicadores clásicos de flashover, la formación creciente de flujos de entrada y salida de aire es una característica. El flujo inicial, a menudo laminar, evoluciona a flujos de mayor velocidad y turbulencia a medida que el incendio recupera potencia y se acerca al flashover inducido.
 
-La elección del ventilador VPP adecuado y su colocación son críticos. Un solo ventilador de 18-20 pulgadas (25.000-30.000 m³/h AMCA240) es generalmente suficiente para operaciones de VPP ofensiva en viviendas unifamiliares de tamaño medio o defensiva en bloques de 4 a 6 plantas. La **distancia de colocación óptima** varía entre 1,8 y 5 metros para puertas estándar, permitiendo el paso del personal y evitando la recirculación o un "cortocircuito" del flujo de aire. Un **barómetro de entrada** puede ofrecer información sobre el funcionamiento de la ventilación desde el punto de acceso, aunque puede reducir ligeramente la eficiencia y favorecer la turbulencia con gases extremadamente calientes.
+**2. Influencia del Combustible**
+
+El combustible es un factor determinante en el desarrollo y comportamiento de los incendios. En incendios limitados por el combustible (ILC), sus características, distribución y continuidad son fundamentales.
+
+**2.1. Poder Calorífico**
+
+La energía química de un combustible depende de su composición, estructura molecular y la diferencia energética entre los estados pre y post-combustión. El poder calorífico se determina a partir de la energía del combustible, sus productos y la energía de activación requerida.
+
+El **poder calorífico (Hc)** se mide en kJ/kg. La tabla siguiente muestra valores para sustancias comunes:
+
+| MATERIAL      | Hc [kJ/kg] |
+| :------------ | :--------- |
+| Madera        | 16         |
+| Poliuretano   | 23         |
+| Carbón        | 29         |
+| Neumáticos    | 32         |
+| Gasolina      | 45         |
+
+La potencia del incendio (Q) se expresa en MW (cantidad de energía por unidad de tiempo) y es directamente proporcional al poder calorífico del combustible, tanto en incendios limitados por ventilación como por combustible.
+
+**2.2. Carga de Combustible**
+
+La **carga de combustible (Cc)** es la cantidad de energía de los combustibles por unidad de superficie, medida en kJ/m². Se calcula como:
+Cc = Hc · mu
+donde:
+*   Hc = poder calorífico [kJ/kg]
+*   mu = masa de combustible por unidad de superficie [kg/m²]
+
+La carga de combustible influye decisivamente en la duración del incendio. Incendios con poca carga de combustible no alcanzan el estado de ILV. Cargas de combustible de 200 MJ/m² han demostrado ser suficientes para alcanzar el estado de ILV. La duración del pleno desarrollo en un incendio interior con ventilación depende de la carga de combustible y otros factores.
+
+**2.3. Otros Factores Ligados al Combustible**
+
+Otros factores incluyen:
+*   **Tasa de pirólisis (tp):** Masa de combustible que piroliza por unidad de tiempo y superficie. Es una medida de la volatilidad de los compuestos inflamables en estado sólido.
+*   **Tasa de combustión (mc):** Velocidad a la que el combustible se consume [kg/s].
+
+Estos factores están ligados a las características del combustible, su distribución y las características del recinto.
+
+**a) Influencia del Combustible sobre la Potencia del Incendio**
+La potencia del incendio es directamente proporcional al poder calorífico del combustible, en ambos tipos de incendios (ILC e ILV). La expresión para incendios ILC es Q = mc · Hc. Para incendios ILV es Q = k · Hc · A√h.
+
+**b) Influencia sobre la Velocidad de Desarrollo**
+La velocidad de desarrollo del incendio depende de:
+*   **Facilidad para emitir productos combustibles en fase gaseosa (tasa de pirólisis):** Para líquidos, es una medida de volatilidad.
+*   **Velocidad de consumo (tasa de combustión):** Vinculada a la energía de activación. Combustibles que requieren mucha energía de activación resultan en incendios de desarrollo lento.
+
+**2.4. Combustibles Tradicionales vs. Combustibles Modernos**
+
+La incorporación masiva de materiales sintéticos en mobiliario y enseres ha repercutido significativamente en el desarrollo de los incendios de interior. Los plásticos y sintéticos tienen un poder calorífico muy superior y curvas de desarrollo más rápidas que los combustibles tradicionales.
+
+Factores adicionales como el aumento de mobiliario, distribuciones en planta abierta, mayor superficie y aislamiento térmico, contribuyen a dinámicas de incendio más violentas. Estudios de Underwriters Laboratories han analizado el impacto de la ventilación en viviendas actuales versus tradicionales, mostrando:
+*   Los incendios confinados evolucionan a incendios infraventilados.
+*   Se alcanzan temperaturas significativamente mayores.
+*   La potencia del incendio es mayor; se consume más combustible en menos tiempo.
+*   Las concentraciones de oxígeno son menores, aunque altas temperaturas permiten oxidación con bajas concentraciones.
+*   La reacción a la ventilación es muy rápida, debido a la mayor cantidad de productos incompletos de combustión y pirólisis en los gases de incendio.
+
+### Capítulo 2: Técnicas de Intervención
+
+**2.3. Ventilación Forzada**
+
+Las técnicas de ventilación forzada utilizan ventiladores mecánicos para expulsar los gases de un incendio. En estos casos, el flujo de gases no solo está dominado por los diferenciales de presión creados por el incendio, sino también por los generados por los ventiladores o extractores.
+
+Se entiende la ventilación forzada como una herramienta para establecer el flujo de gases más conveniente tácticamente. Permite crear flujos unidireccionales que ofrecen ventajas operativas, como el acceso del personal a lo largo de una ruta de gases fríos y la canalización de gases calientes.
+
+No obstante, las técnicas de ventilación que implican un aporte de aire al foco del incendio conllevan un crecimiento del mismo que debe mitigarse con la aplicación simultánea y coordinada de agua. Una correcta coordinación entre ventilación y aplicación de agua es crucial para mejorar las condiciones internas (visibilidad, temperatura, toxicidad) sin provocar una propagación o crecimiento adverso del incendio.
+
+La base de la ventilación en incendios es fundamental para su correcta aplicación. La multitud de técnicas de ventilación forzada se clasifican según:
+*   El tipo de diferencial de presión utilizado para mover los gases.
+*   La forma de propulsión del equipo.
+*   El recorrido del flujo de gases.
+
+**a) En función del diferencial de presión**
+Las técnicas se clasifican en:
+*   **Ventilación por Presión Positiva (VPP):** Consiste en colocar un ventilador de presión positiva en el exterior del recinto (generalmente en la puerta principal de acceso) para presurizar el interior de la estructura. Este diferencial de presión genera un movimiento de gases calientes hacia la apertura exterior. Esta técnica es fácil de implementar y el ventilador no requiere protección especial frente a gases calientes, ya que no se expone a su salida.
+
+El ventilador VPP crea un flujo de aire a alta velocidad que impacta en la apertura del recinto. Esta deceleración del flujo genera un aumento de presión interior, explicable por la ecuación de Bernoulli.
+
+**Ejemplo:** Si un ventilador VPP genera un flujo de aire con una velocidad media de 8 m/s antes de introducirse en una estructura a través de una apertura de 1,6 m² y reduce la velocidad a 4 m/s, y despreciamos el efecto del incendio y las diferencias de altura, el diferencial de presión creado en el interior es de 28,8 Pa y el flujo de gases de salida asciende a 23040 m³/h.
+
+*   **Ventilación por Presión Negativa (VPN) o extracción:** Consiste en colocar extractores en las salidas de gases para generar diferenciales de presión negativos en el interior del recinto respecto al exterior. Es similar a la VPP, pero el flujo se genera en la salida, no en la entrada.

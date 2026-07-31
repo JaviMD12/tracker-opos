@@ -1,46 +1,207 @@
-# Patologías Estructurales en la Edificación y su Relevancia para Intervenciones de Emergencia
+El temario de oposiciones de bomberos y emergencias se estructura en diversas fases tácticas para la intervención en siniestros, que comprenden desde la sectorización del incidente hasta la estabilización de elementos estructurales y el rescate de víctimas.
 
-La comprensión de las **patologías estructurales** en la edificación resulta crucial para los cuerpos de bomberos, dado que estas situaciones configuran los escenarios de intervención más complejos y peligrosos. Se entiende por **edificación** toda construcción fija, elaborada con materiales resistentes, destinada a usos humanos o de otra índole. Para los equipos de emergencia, este conocimiento abarca desde las características proyectadas y los sistemas constructivos hasta los materiales empleados.
+**2. Evaluación (Página 275)**
 
-## Clasificación y Origen de las Patologías Edilicias
+**2.1. Acciones prioritarias**
 
-Las patologías edificatorias pueden clasificarse en función de su origen principal, diferenciándose entre factores internos inherentes al propio edificio y factores externos, que suelen ser de naturaleza accidental o natural.
+La valoración inicial de una patología en edificaciones permite al mando de intervención determinar las soluciones adecuadas. Para esta decisión, se considera la consulta con técnicos externos y, si es posible, la opinión de los residentes. Los aspectos clave a determinar son:
+*   La necesidad real de intervención.
+*   La capacidad para abordar la patología con los recursos disponibles y la idoneidad de solicitar medios externos.
+*   El planteamiento preliminar, que incluye un cálculo rápido de la estructura auxiliar necesaria y la ubicación de sus componentes.
 
-### Factores Internos (Intrínsecos a la Edificación)
-Las deficiencias intrínsecas a un edificio a menudo se originan en:
-*   **Errores de diseño o proyecto:** Decisiones tomadas en la fase de planificación que no contemplan adecuadamente las cargas, resistencias o interacciones entre elementos.
-*   **Defectos de ejecución:** Incumplimientos de las especificaciones de diseño durante la fase de construcción, como el uso incorrecto de materiales o técnicas.
-*   **Calidad de materiales:** Empleo de materiales que no cumplen con los estándares requeridos o que se degradan prematuramente.
-*   **Reformas inadecuadas:** Modificaciones estructurales que alteran la estabilidad original del edificio sin un análisis o refuerzo apropiado.
-*   **Envejecimiento y falta de mantenimiento:** La degradación natural de los materiales con el tiempo y la ausencia de las reparaciones necesarias comprometen la integridad estructural.
-*   **Uso incorrecto:** Aplicación de cargas no previstas o un uso indebido de la estructura.
+En este proceso, la urgencia del servicio, los peligros inminentes, la presencia de ocupantes, la hora del día y las consecuencias de una acción específica son determinantes. Es fundamental no abandonar la zona del siniestro sin establecer claramente las medidas de seguridad, como el cierre del edificio y la restricción de acceso, delegando la responsabilidad y custodia.
 
-### Factores Externos (Accidentales y Naturales)
-Por otro lado, las patologías también pueden ser inducidas por agentes externos que actúan sobre la edificación, en muchas ocasiones con consecuencias súbitas y graves:
-*   **Antrópicos:** Incluyen el agotamiento estático del terreno debido a la extracción de materiales, alteraciones volumétricas del suelo por cambios de humedad o excavaciones adyacentes, demoliciones de edificios colindantes que descalzan estructuras existentes, y sobrecargas diferenciales impuestas al terreno.
-*   **Naturales:** Comprenden eventos como **sismos** (movimientos bruscos de la corteza terrestre), **incendios estructurales**, **explosiones** (ya sean de origen accidental o intencionado), e **inundaciones** o acción de aguas subterráneas que pueden generar socavones.
+**a) Necesidad de intervenir**
+Hay situaciones donde la intervención de bomberos para afianzar estructuras no es necesaria:
+*   Lesiones leves que no comprometen la estabilidad del edificio ni representan riesgo para personas.
+*   Lesiones graves que superan la capacidad de los bomberos y deben ser gestionadas por el propietario o empresas especializadas.
+*   Lesiones en áreas no habitadas que no conllevan riesgo y pueden posponerse.
+*   Incendios donde los daños no han afectado la estabilidad estructural.
 
-## Tipologías de Patologías Específicas y sus Manifestaciones
+Aun cuando no se requiera un sistema de apeo, es crucial realizar los análisis pertinentes y aplicar medidas preventivas para garantizar la seguridad, tales como sanear, desescombrar, señalizar, balizar, precintar el acceso, encadenar puertas o vallas, y evacuar/desalojar si es necesario.
 
-### Humedades y sus Efectos
+**b) Planteamiento preliminar**
+Una vez identificada la patología, se proponen soluciones generales (shoring de cimentaciones, muros, etc.), priorizando las más efectivas según el nivel de daño y el elemento a apuntalar. Se procede a un precálculo rápido de las cargas a soportar y un dimensionamiento de los materiales, definiendo la ubicación de los elementos.
 
-La presencia de **humedad** en una edificación, que excede el nivel de equilibrio hídrico de sus materiales, es una patología común con diversas causas y manifestaciones. La humedad degrada los materiales a través de la corrosión, disgregación o pudrición.
+**c) Precálculo**
+Las estimaciones de cargas del apeo se simplifican en dos puntos: la estimación de las cargas a soportar y el volumen general de materiales necesarios.
+1.  **Cargas a soportar:** Conforme al CTE DB SE AE, las cargas mínimas para una estabilización son:
+    *   **Acciones permanentes de la edificación:**
+        *   **Cubiertas:**
+            *   Ligeras (chapa, tablero, paneles ligeros): 1 KN/m².
+            *   Pesadas (teja, placa, pizarra): 3 KN/m².
+        *   **Forjados:**
+            *   Vivienda: 3 KN/m².
+            *   Garaje: 5 KN/m².
+        *   **Fachadas:**
+            *   Cerramientos exteriores (altura = 3m): 7 KN/m.
+        *   **Tabiquería:**
+            *   Cerramientos interiores-tabiquería (altura = 3m): 5 KN/m.
+            *   Casos particulares:
+                *   Viviendas: 1 KN/m².
+                *   Edificios sin posibilidad de inspección: 1,5 KN/m².
 
-Existen varios tipos de humedades según su origen:
-*   **Humedades de origen natural:**
-    *   **Capilaridad:** Agua subterránea que asciende por los poros de muros y tabiques en contacto con el terreno, común en edificios antiguos con materiales porosos.
-    *   **Freáticas:** Asociadas a la elevación del nivel de las aguas subterráneas, a menudo por lluvias intensas, afectando elementos constructivos enterrados si la impermeabilización es deficiente.
-    *   **Filtración:** Provenientes de la acción meteorológica (lluvia, nieve) que penetra por cerramientos exteriores dañados (cubiertas, fachadas), descendiendo por gravedad.
-    *   **Condensación:** Resultado del cambio de estado del vapor de agua en el aire al entrar en contacto con superficies frías en el interior de la edificación.
-*   **Humedades de origen antrópico:**
-    *   **De obra:** Excedente de agua empleada durante el proceso constructivo que tarda en evaporarse.
-    *   **Accidentales:** Causadas por roturas o fugas en las instalaciones (tuberías, desagües) embebidas en la estructura.
+**2.1. Sectorización (Página 275, Columna derecha)**
 
-### Patologías Constructivas
+La sectorización del incidente implica dividir la zona en áreas de intervención más pequeñas, según su ubicación o las tareas específicas. Es fundamental un planteamiento táctico distinto para cada sector, con objetivos y recursos adaptados. El Mando de Intervención debe realizar una evaluación continua y transferir recursos según las necesidades.
 
-Las patologías derivadas de problemas en la construcción o el terreno de cimentación se manifiestan en diversas formas de inestabilidad y daño.
+**2.2. Capacidad de los recursos disponibles (Página 275, Columna derecha)**
 
-*   **Adaptación o encaje:** Se refieren a las lesiones, generalmente fisuras, que aparecen en las partes más débiles de los cerramientos, como las esquinas de huecos de puertas o ventanas, poco después de la construcción debido al acomodamiento de los materiales o al asentamiento inicial del terreno. Estas lesiones suelen estabilizarse con el tiempo.
-*   **Cedimiento o hundimiento:** Implican una deformación excesiva o un descenso de la cimentación. Las causas son variadas, incluyendo la mala elección del terreno, errores en el proyecto o ejecución de la cimentación, o alteraciones imprevistas en las propiedades del suelo, como suelos expansivos que modifican su volumen con la humedad. Las grietas resultantes pueden ser parabólicas en muros de carga o rectilíneas en estructuras reticuladas. Un hundimiento central se denomina **arrufo**, mientras que uno lateral se conoce como **quebranto**. Si es significativo y diferencial, puede comprometer la estabilidad global del edificio.
-*   **Aplastamiento:** Es la pérdida de resistencia de los materiales por compresión excesiva, reduciéndolos a partículas mínimas. Se observa en elementos verticales (pilares, muros) y horizontales (forjados) y progresa en fases desde la disgregación de morteros hasta la rotura de los elementos. Los síntomas incluyen grietas finas, sonido hueco al percutir, y combado de muros.
-*
+Al iniciar cualquier acción, se debe evaluar la capacidad de los recursos disponibles desde dos perspectivas:
+*   El alcance de las medidas preventivas para la población (evacuación o confinamiento).
+*   El alcance de las medidas destinadas a la edificación (estabilización, demolición o precintado).
+
+**a) Medidas hacia la población**
+Cuando se presenta un problema constructivo con riesgo potencial de inestabilidad, se evalúa la situación para determinar si confinar o evacuar.
+*   **Confinamiento de ocupantes (solución inicial por defecto):** Opción más conveniente y rápida. Consiste en mantener a los habitantes en sus viviendas o en zonas estructuralmente seguras, controlando que no abandonen el lugar.
+*   **Evacuación de ocupantes:** Se opta por esta solución cuando no se pueden controlar los riesgos o no hay certeza de la permanencia de los ocupantes en las zonas seguras. Requiere asegurar la ruta de escape, a menudo con apeos de emergencia, y la presencia de recursos humanos y sanitarios, especialmente para personas con discapacidad.
+*   **Rescates inminentes:** Si hay víctimas en situaciones críticas, su rescate es prioritario sobre cualquier otra acción, incluida la valoración inicial.
+
+**2.3. Modo táctico: ofensivo o defensivo (Página 275, Columna derecha)**
+
+El modo táctico (ofensivo o defensivo) se elige según el sector y define las acciones.
+
+**1.3.1. Planteamiento ofensivo**
+*   **Objetivo:** Lograr una estabilización correcta de la edificación.
+*   **Fase:** Corresponde a la fase de “mitigación”.
+*   **Riesgos:** Implica mayores riesgos personales, requiriendo un análisis riesgo-beneficio y garantías de éxito.
+*   **Aplicación:** Para rotaciones de muros, fallos en forjados (flexión o apoyo), arriostramiento de cubiertas y derrumbes en zanjas o pozos.
+
+**1.3.2. Planteamiento defensivo**
+*   **Objetivo:** Impedir la ampliación de la catástrofe.
+*   **Fase:** Corresponde a la fase de “Control”.
+*   **Riesgos:** Conlleva un menor riesgo personal.
+*   **Aplicación:** En balizamiento de la zona, clausura de edificaciones afectadas o anexas, y apeos de elementos sanos que soportan otros dañados.
+
+**2. Estabilización de elementos verticales (Página 276)**
+
+**2.1. Estabilización de pilares y muros desde el interior**
+
+**Objetivos principales:**
+*   Acometer la estabilidad parcial de fachadas o medianerías desde el interior.
+*   Garantizar la edificación para su rehabilitación o demolición.
+*   Limitar los daños internos y evitar afectaciones externas.
+
+**Técnicas de referencia:**
+*   Apeo de forjados (fallo en nudo y por flexión).
+*   Apeo de muros para alturas hasta 3 metros.
+*   Aplicación de apeos de emergencia mediante sistemas traccionados.
+
+**Indicaciones:**
+*   Posibilidad de simultanear con otras operaciones interiores o exteriores a diferente nivel y fuera de la vertical del elemento dañado.
+*   No simultanear operaciones de estabilización al mismo nivel que puedan afectar la resistencia de los elementos a apear o a los que soportan cargas.
+*   No aplicable desde el inicio de la intervención como táctica de control de propagación debido a los tiempos de ejecución.
+
+**Ejecución:**
+1.  **Acciones defensivas:**
+    *   Balizar y controlar el acceso al edificio hasta completar el análisis integral.
+    *   Apoyar los elementos horizontales (forjados) y verticales (muros y pilares) que incidan en el elemento vertical afectado.
+2.  **Ataque ofensivo:**
+    *   Estabilización de emergencia con sistemas traccionados (opcional).
+    *   Ejecutar el apeo inclinado para muros de hasta 3 metros de altura.
+
+**Consideraciones de seguridad:**
+*   No bloquear las salidas de evacuación con materiales retirados.
+*   Considerar el aumento de cargas (generales y puntuales) debido al peso de los elementos del apeo o a la inclinación del muro.
+*   Verificar la resistencia de los elementos que soportan las cargas del apeo, realizando catas si es necesario.
+*   Mantener una distancia mínima de seguridad equivalente a la altura del elemento dañado multiplicada por dos.
+*   No permitir el tránsito ni otras actividades bajo el muro hasta su estabilización y eliminación de causas patológicas.
+
+**4.2. Estabilización de muros desde el exterior (Página 276, Columna izquierda)**
+
+**Objetivos principales:**
+*   Controlar la estabilidad de la fachada o muro de contención desde el exterior.
+*   Asegurar el elemento constructivo para su rehabilitación o demolición.
+*   Evitar daños a terceros o a la vía pública ante un posible derrumbe.
+
+**Técnicas de referencia:**
+*   Apeo de forjados (fallo por flexión o en apoyo).
+*   Apeo de muros de hasta 3 metros de altura.
+*   Apeo de muros de hasta 6 metros de altura.
+*   Recercados de huecos.
+*   Apeos de emergencia con sistemas traccionados.
+
+**Indicaciones:**
+*   Se pueden simultanear otras operaciones interiores, siempre que no afecten a la estructura de los elementos en la misma vertical del dañado.
+*   No se pueden simultanear operaciones de estabilización exterior en la misma fachada o en las colindantes.
+*   No aplicable al inicio de la intervención para control de riesgo de derrumbe, debido a los tiempos de ejecución.
+
+**Ejecución:**
+1.  **Acciones defensivas:**
+    *   Balizar y controlar los accesos al edificio hasta que los servicios de bomberos completen el análisis integral.
+    *   Descargar los elementos horizontales (forjados) y verticales (muros y pilares) que soporten el elemento vertical afectado.
+2.  **Ataque ofensivo:**
+    *   Estabilización de emergencia con sistemas traccionados (opcional).
+    *   Recercar los huecos en caso de movimientos paralelos al plano de fachada.
+    *   Ejecutar el apeo inclinado para muros de hasta 3 metros y luego complementarlo con apeos para muros de hasta 6 metros.
+
+**Consideraciones de seguridad:** (Idénticas a las de la sección 2.1: Estabilización de pilares y muros desde el interior)
+*   No bloquear las salidas de evacuación con materiales retirados.
+*   Considerar el incremento de cargas (generales y puntuales) debido al peso de los elementos del apeo o a la inclinación del muro.
+*   Verificar la resistencia de los elementos que soportan las cargas del apeo, realizando catas si es necesario.
+*   Mantener una distancia mínima de seguridad equivalente a dos veces la altura del elemento dañado.
+
+**3. Estabilización de elementos horizontales (Página 276, Columna derecha)**
+
+**3.1. Estabilización de forjados desde el interior**
+
+**Objetivos principales:**
+*   Controlar la estabilidad vertical del forjado de una planta desde el interior.
+*   Asegurar el elemento constructivo para reparación o demolición parcial.
+*   Limitar los daños en los elementos constructivos inmediatamente debajo del dañado.
+
+**Técnicas de referencia:**
+*   Apeo de forjados (fallo en nudo y por flexión).
+
+**Indicaciones:**
+*   Posibilidad de simultanear con otras operaciones exteriores en niveles inferiores al elemento constructivo dañado.
+*   Aplicable desde el inicio de la intervención como táctica ofensiva para el control inminente de la patología, o en elementos constructivos que se apoyan (acciones defensivas), ya que no requiere un tiempo excesivo de ejecución.
+
+**Ejecución:**
+1.  **Acciones defensivas:**
+    *   Balizar y controlar los accesos al edificio hasta finalizar el análisis integral.
+    *   Descargar los elementos horizontales auxiliares que soporten los elementos de orden mayor afectados (viguetas que descarguen en vigas).
+2.  **Ataque ofensivo:**
+    *   Apear forjados (fallo en apoyo y por flexión).
+    *   Atirantar el interior del forjado afectado.
+
+**Consideraciones de seguridad:**
+*   No acumular material sobre el elemento a perforar; trasladar los materiales a la zona de intervención según se necesiten.
+*   Valorar el incremento de cargas (generales y puntuales) debido al peso de los elementos del apeo o a la inclinación del muro.
+*   Comprobar la capacidad de resistencia de los forjados inferiores al dañado (y de otros elementos constructivos) que soportan la estructura, para evitar derrumbes secundarios.
+
+**4. Estabilización del terreno (Página 277)**
+
+**4.1. Muros de contención de tierras**
+
+**Objetivos principales:**
+*   Controlar la estabilidad vertical y la estructura de contención de tierras entre dos cotas de servicio.
+*   Asegurar el conjunto constructivo para repararlo o descargar el trasdós del muro para demolición parcial.
+*   Limitar los daños en los elementos constructivos inmediatamente debajo del dañado.
+*   Evitar daños a terceros o a la vía pública por un posible derrumbe exterior.
+
+**Técnicas de referencia:**
+*   Apeo de muro hasta 3 metros de altura.
+*   Apeo de muro hasta 6 metros de altura.
+
+**Indicaciones:**
+*   No simultanear con otras operaciones exteriores sobre el elemento constructivo dañado.
+*   No aplicar al inicio de la intervención como táctica para controlar los riesgos de derrumbe, debido a los tiempos de ejecución.
+
+**Ejecución:**
+1.  **Acciones defensivas:**
+    *   Balizar y controlar los accesos al edificio hasta que el servicio de bomberos complete el análisis integral.
+    *   Apear los forjados (elementos horizontales) y los muros y pilares (elementos verticales) que se apoyen en el elemento vertical afectado.
+2.  **Ataque ofensivo:**
+    *   Ejecutar el apeo inclinado para muros de hasta 3 metros de altura.
+    *   Ejecutar el apeo inclinado para muros de hasta 6 metros de altura.
+
+**Consideraciones de seguridad:** (Idénticas a las de la sección 4.2. Entibaciones)
+*   Identificar las características del terreno.
+*   Asegurar y examinar las instalaciones subterráneas (agua, alta tensión, gas, otros peligros).
+*   No entrar en alcantarillados, pozos o aljibes sin comprobar la atmósfera interior o con equipos de respiración.
+*   No usar motores de explosión en excavaciones estrechas o profundas; si es necesario, comprobar los gases de escape.
+*   No almacenar materiales ni arena en el borde de la excavación.
+*   Colocar siempre que sea posible una escalera como vía de escape.
+*   Procurar que los paneles se coloquen en vertical y los codales a 90º respecto al panel, para evitar esfuerzos verticales en los codales.
+*   Cuanto más profunda sea la zanja, mayor presión se ejercerá sobre los codales en la parte inferior.

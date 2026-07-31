@@ -1,44 +1,194 @@
-## Conceptos Fundamentales del Riesgo Eléctrico y Sistemas Constructivos
+## Temario: Manual de Riesgos Tecnológicos y Asistencias Técnicas
 
-El estudio de los riesgos tecnológicos en emergencias requiere un conocimiento profundo de la física básica aplicada a las estructuras y a los fenómenos eléctricos. A continuación, se detallan los conceptos fundamentales de la electricidad, la naturaleza de los materiales y los sistemas de distribución eléctrica, esenciales para la intervención de los cuerpos de bomberos.
+### 3. DESCONTAMINACIÓN
 
-### Fundamentos de la Electricidad
+La descontaminación se define como un proceso químico o físico destinado a reducir o prevenir la propagación de la contaminación de personas y equipos. Es fundamental minimizar el tiempo de contacto directo o indirecto con el contaminante para reducir la probabilidad de exposición.
 
-La **electricidad** se basa en el comportamiento de partículas subatómicas. Un **átomo**, la unidad más pequeña de la materia, posee un núcleo central con **protones** (carga positiva) y **neutrones** (sin carga), y **electrones** (carga negativa) que orbitan alrededor. La diferencia en el número de protones define el elemento químico y su **número atómico (Z)**, mientras que la suma de protones y neutrones define el **número másico (A)**. La **carga eléctrica (Q)** se mide en culombios (C) y representa el exceso o defecto de electrones.
+**Tipos de Descontaminación:**
 
-La **fuerza electromagnética** surge de la interacción entre cargas, donde cargas iguales se repelen y opuestas se atraen. Este fenómeno es la base de la **electricidad electrostática**, producida por la separación o fricción de materiales, generando una diferencia de potencial que puede causar descargas o incendios.
+| Tipo de Contaminación | Peligrosidad | Ejemplo                          | Descontaminación |
+| :-------------------- | :----------- | :------------------------------- | :--------------- |
+| Directa               | + Severa     | Contacto directo con ácido       | + Tiempo         |
+| Indirecta             | - Concentración | Camilla de rescate de víctima contaminada | - Tiempo         |
 
-La **intensidad de corriente eléctrica (I)** es la cantidad de carga eléctrica que fluye por un conductor en un tiempo dado, y se mide en Amperios (A). La **Ley de Ohm** relaciona esta intensidad con la **diferencia de potencial (V)** o tensión (medida en voltios) y la **resistencia eléctrica (R)** (medida en ohmios), estableciendo que la intensidad es directamente proporcional a la tensión e inversamente proporcional a la resistencia (I = V/R). Es crucial señalar que la medición de la intensidad se realiza en serie con un amperímetro, mientras que la tensión se mide en paralelo con un voltímetro.
+En incidentes con mercancías peligrosas, la prioridad es controlar la fuente contaminante y el perímetro afectado para evitar una mayor extensión, más allá de la minuciosidad del lavado. No obstante, en situaciones de gran volumen de personas afectadas por nubes tóxicas o productos contaminantes, se prioriza la rapidez en el lavado, lo que se denomina descontaminación masiva.
 
-El paso de corriente por una resistencia genera calor, conocido como **efecto Joule**, causado por los choques de electrones con las moléculas del conductor. Por otro lado, la desconexión de un circuito con carga puede generar un **arco voltaico**, disipando energía en el aire.
+**Objetivos Fundamentales de la Descontaminación:**
 
-Se distinguen dos tipos principales de corriente: la **corriente continua (CC)**, donde el flujo de carga es constante y unidireccional; y la **corriente alterna (CA)**, donde la magnitud y el sentido varían cíclicamente, a menudo de forma sinusoidal. Las redes eléctricas utilizan mayoritariamente corriente alterna debido a su eficiencia en el transporte y la facilidad de transformación. La red eléctrica española, por ejemplo, emplea CA a 50 Hz, con tensiones de 220/230 V entre fase y neutro, y 380/400 V entre fases.
+*   Prevenir que las personas contaminadas actúen como agentes contaminantes.
+*   Evitar la propagación del contaminante desde la zona caliente (mayor riesgo y exposición) hacia la zona templada (vehículos y apoyo) y luego a la zona fría (descanso y avituallamiento).
+*   Garantizar la no contaminación del personal de intervención al retirarse el equipo de protección química.
+*   Reducir o, si es posible, eliminar la contaminación de las víctimas rescatadas para que puedan recibir asistencia médica.
+*   Asegurar que los Equipos de Protección Individual (EPI) y herramientas no se contaminen, para su reutilización. En caso contrario, deben ser retirados.
 
-Una evolución de la CA es la **corriente trifásica**, que consiste en tres ondas sinusoidales idénticas, desfasadas 120° entre sí. Es la forma más común y eficaz en la industria. Las conexiones trifásicas pueden ser en **estrella**, donde los retornos se unen en un punto neutro (la suma de corrientes es cero si está equilibrado), o en **triángulo (delta)**.
+Para que la descontaminación sea efectiva, deben establecerse prioridades:
 
-La **potencia eléctrica (P)** es la capacidad de un dispositivo para realizar trabajo, medida en vatios (W) o kilovatios-hora (kWh). En CC, P = V · I. En CA, se introduce el **factor de potencia (cos φ)**, siendo P = V · I · cos φ. La potencia se clasifica en **activa** (trabajo útil), **reactiva** (consumida por bobinas/condensadores) y **aparente** (suma vectorial de las anteriores).
+1.  **PRIORIDAD 1:** Personas rescatadas o evacuadas que puedan estar contaminadas.
+2.  **PRIORIDAD 2:** Personal de intervención en la zona caliente.
+3.  **PRIORIDAD 3:** Personal de intervención encargado de la descontaminación.
+4.  **PRIORIDAD 4:** Posible contaminación de los equipos utilizados.
 
-Los materiales se clasifican según su capacidad de conducir electricidad:
-*   **Superconductores:** Conducen electricidad sin resistencia a bajas temperaturas (ej. estaño, aluminio).
-*   **Conductores:** Transmiten la electricidad eficazmente (ej. cobre, aluminio, grafito, agua de mar).
-*   **Semiconductores:** Su conductancia es controlable (ej. silicio).
-*   **Dieléctricos (aislantes):** No conducen electricidad (ej. vidrio, cerámica, plásticos, madera seca, aire).
+La descontaminación es una acción crucial en emergencias NRBQ. La prevención de la contaminación es el método más efectivo y se logra mediante:
 
-### Redes Eléctricas y su Distribución
+*   Uso adecuado de equipos de protección personal.
+*   Manejo correcto de equipos y herramientas.
+*   Buenas prácticas para evitar riesgos (adoptar posturas como ponerse en cuclillas, planificar movimientos, minimizar el tiempo en orificios de fuga).
 
-Las **redes eléctricas** se categorizan por su tensión de servicio en:
-*   **Instalaciones de Alta Tensión (AT):** Voltajes superiores a 1000 V en CA o 1500 V en CC (ej. 11 kV a 380 kV para CA).
-*   **Instalaciones de Baja Tensión (BT):** Voltajes inferiores a 1000 V en CA o 1500 V en CC (ej. 380 V trifásica, 220 V o 125 V para CA).
+#### 3.1. Equipos y materiales de descontaminación
 
-La energía eléctrica se genera en **plantas de generación**, donde alternadores producen energía trifásica (típicamente 20 kV) que luego es elevada a tensiones de AT (66 kV a 380 kV) en **subestaciones elevadoras**.
+El proceso y las técnicas de descontaminación varían según el contaminante, el grado de penetración y la forma de contaminación (contacto con gases tóxicos, rociado de líquidos corrosivos, tiempo en charcos).
 
-Las **líneas de transporte y distribución en AT** llevan la energía a grandes distancias, clasificándose por tensión:
-*   **Líneas superiores a 66 kV:** Conectan centrales con grandes subestaciones, con múltiples conductores por fase y aisladores de vidrio.
-*   **Líneas entre 30 kV y 66 kV:** Conectan grandes con medianas/pequeñas subestaciones. Pueden ser aéreas o subterráneas y utilizan de 4 a 6 aisladores.
-*   **Líneas entre 1 kV y 30 kV:** Conectan subestaciones con centros de transformación. Suelen ser subterráneas en ciudades y aéreas en zonas interurbanas, con menos de 3 aisladores.
+A pesar de la existencia de equipos sofisticados, la efectividad a menudo depende más de la disponibilidad de equipos o materiales "de fortuna" y del agente descontaminante aplicado. A continuación, se detallan algunos equipos y materiales:
 
-Un aspecto importante de estas líneas es la capacidad de **reenganches automáticos**, que intentan restablecer el servicio tras una interrupción temporal, realizando varios intentos en un lapso de tiempo definido (ej. 3 minutos).
+| HERRAMIENTA                   | FINALIDAD                                          |
+| :---------------------------- | :------------------------------------------------- |
+| Cepillos de mango largo       | Cepillado y retirada de contaminante               |
+| Pulverizador de jardín        | Aplicación de descontaminantes líquidos sobre trajes o equipos |
+| Bolsas de basura grandes      | Almacenamiento de ropa y equipos contaminados no aptos para servicio |
+| Jabón                         | Limpieza general                                   |
+| Gamuzas o paños absorbentes   | Absorción de líquidos que puedan quedar en trajes o equipos |
+| Bidones                       | Contención de mercancías peligrosas y material de absorción o descontaminación contaminado |
+| Ventilador                    | Descontaminación seca de productos volátiles cuando el tiempo no lo permite la descontaminación al aire libre |
+| Bancos o sillas               | Proporcionar asientos a los intervinientes entre estaciones de descontaminación |
+| Cubos                         | Introducir guantes y botas para descontaminar en mejores condiciones |
+| Guantes y trajes              | Protección para el equipo de descontaminación       |
+| Ducha                         | Permiten la descontaminación húmeda, pueden ser específicas o con mangueras y lanzas |
+| Lona de plástico              | Delimitar zonas de descontaminación y evitar la caída de contaminantes al suelo, facilitando su retirada |
+| Piscinas hinchables           | Contener el agua utilizada en la descontaminación   |
+| Soluciones o aplicaciones     | Descontaminación química o biológica de trajes y equipos |
+| Señalización y balizas        | Mantener zonas correctamente delimitadas y riesgos identificados |
 
-Los **centros de transformación (CT)** reducen la AT (11-20 kV) a BT (380 V trifásica o 220 V monofásica) para el consumo. Se encuentran en diversos entornos (industrias, urbanos, rurales) y se clasifican por ubicación física (intemperie, prefabricados de hormigón, subterráneos, edificios de obra civil) y por su posición en la red (de punta, de paso, de anillo). Están protegidos por **celdas de entrada y salida** y **seccionadores**.
+### 3.2. Métodos de descontaminación
 
-Finalmente, las **instalaciones de enlace** conectan la red de distribución con las instalaciones interiores del usuario, incluyendo la **Acometida**, la **Caja General de Protección (CGP)**, la **Línea General de Alimentación (LGA)**, la **centralización de contadores (CC)** y la **derivación individual de abonado**. El **grado de electrificación de una vivienda** indica la carga eléctrica mínima que su instalación debe soportar, diferenciando entre grado básico (5.750 W a 230 V, 5 circuitos) y elevado (9.200 W a 230 V, más de 5 circuitos, hasta 12). La **red de tierra** es fundamental para la seguridad, conectando el edificio con el terreno para proteger contra derivaciones y asegurar el correcto funcionamiento de los diferenciales.
+Los métodos de descontaminación se clasifican según la sustancia contaminante y el tiempo disponible.
+
+#### 3.2.1. Métodos físicos
+
+Si la eliminación del contaminante se realiza por métodos físicos, este conservará sus propiedades y riesgos.
+
+*   **Cepillado:** Retirada del producto cepillando el traje del interviniente. Es importante no olvidar zonas de difícil acceso como axilas o entrepierna. Se complementa con una línea de agua para facilitar la eliminación.
+*   **Absorción:** Eliminación de productos adheridos a trajes o como complemento de otros procesos.
+*   **Lavado:** El agua es un disolvente eficaz y, al estar disponible en grandes cantidades en los vehículos, es el método más utilizado. Es muy eficiente, excepto con materiales que reaccionen con el agua.
+*   **Venteo:** Consiste en la exposición al aire libre o a una ligera corriente de aire para eliminar los productos contaminantes. Es adecuado para contaminantes poco solubles en agua o muy volátiles. Se debe considerar la densidad respecto al aire.
+*   **Aspiración:** Tiene el mismo objetivo que la absorción (recoger el contaminante y controlarlo). Se aplica a contaminantes sólidos para facilitar su posterior tratamiento.
+
+#### 3.2.2. Métodos químicos
+
+Los métodos químicos de control utilizan productos químicos para neutralizar o eliminar contaminantes biológicos y químicos. Su objetivo es reducir la toxicidad o corrosividad.
+
+*   **Desinfección:** Proceso químico que reduce los agentes patógenos (bacterias o virus) a un nivel seguro para la salud. Desinfectantes comunes incluyen compuestos fenólicos, cloro u ozono.
+*   **Neutralización:** Proceso que implica aplicar ácidos o bases a un derrame para obtener una sal neutra. La reacción suele liberar calor. Existen formulaciones especiales que no generan reacciones violentas o calor localizado. Si se usan sólidos, a menudo se confina el material derramado. Para grandes cantidades, la absorción puede ser más adecuada.
+*   **Polimerización:** Reacción química de un material peligroso en presencia de un catalizador (calor, luz u otro material) para formar un polímero sólido. En la polimerización por adición no se producen residuos, mientras que por condensación sí.
+*   **Solidificación:** Proceso de tratamiento químico de un líquido peligroso para convertirlo en un sólido no peligroso. Los adsorbentes son un ejemplo. También se usan formulaciones especiales para formar sales neutras en derrames de ácidos o álcalis. Permite confinar y tratar rápidamente pequeños derrames.
+
+### 3.3. Procedimientos de descontaminación
+
+La descontaminación debe ser eficaz para cumplir los objetivos. Su efectividad depende del método, los equipos, la minuciosidad y el seguimiento del procedimiento. Requiere personal capacitado y comprometido.
+
+#### 3.3.1. Descontaminación masiva
+
+En situaciones de contaminación masiva de personas por nubes tóxicas o productos contaminantes, se prioriza la rapidez del lavado sobre la minuciosidad. Para una descontaminación eficaz y rápida, se calcula que la retirada de la ropa elimina el 80% del contaminante.
+
+Existen sistemas integrados comerciales para descontaminación masiva de personas, que consisten en contenedores o duchas con múltiples líneas. Si no se dispone de estos medios, la descontaminación masiva puede realizarse con agua pulverizada de dos camiones o bombas enfrentadas, aplicada de arriba hacia abajo para arrastrar el contaminante hacia el suelo y evitar salpicaduras.
+
+**Consideraciones Adicionales:**
+
+*   La descontaminación de personas, equipos y medio ambiente es prioritaria. Se deben usar diques de contención para el agua de lavado.
+*   El equipo de descontaminación debe estar protegido.
+
+#### 3.3.2. Descontaminación General
+
+Es fundamental aislar el lugar del accidente desde el inicio, estableciendo una zonificación de tres zonas (caliente, fría y templada) claramente señalizadas.
+
+La activación de un corredor de descontaminación es necesaria cuando se prevé la contaminación de intervinientes o víctimas en una emergencia. Este corredor, ubicado en la zona templada, debe estar disponible al entrar el primer grupo en contacto con la sustancia peligrosa.
+
+Para evitar la transferencia de la contaminación, los límites del corredor deben estar marcados, restringiendo la entrada y salida, asegurando que los afectados lo utilicen para salir de la zona caliente. Para acceder a la zona fría, el personal debe estar totalmente descontaminado.
+
+**Aspectos a Considerar por el Mando:**
+
+*   **Ubicación:** Cerca del corredor, permitiendo observar el estado de las personas y el nivel de protección.
+*   **Métodos de descontaminación:** Soluciones, equipo humano, material disponible.
+*   **Control de aguas contaminadas.**
+*   **Asistencia médica.**
+*   **Entrega y reposición de ropa y equipo contaminado.**
+
+Es crucial analizar el pH del agua utilizada para la descontaminación. Si el pH no está entre 5 y 9, se debe informar al organismo competente para su tratamiento.
+
+### 3.4. Etapas o dimensión de la descontaminación
+
+Para determinar la dimensión del corredor de descontaminación, se valoran el contaminante y los medios materiales y humanos disponibles. Como mínimo, la descontaminación debe realizarse en una estación de lavado con ducha y cepillado en una piscina hinchable. Si los medios son insuficientes, se puede usar un cubículo con mangueras y una lona para contener el agua, complementado con una lanza sobre escaleras a modo de ducha.
+
+#### 3.4.1. Primera estación: Ducha extensa
+
+Antes de entrar en la primera balsa, se introducen botas y guantes en cubetos para desprender la mayor parte del contaminante. La ducha debe ser con abundante agua, aplicada de la cabeza hacia abajo para arrastrar el contaminante de la superficie del equipo de protección y evitar salpicaduras. En esta etapa, la dilución es muy efectiva para productos corrosivos.
+
+El responsable de la descontaminación debe definir los movimientos del "contaminado" para maximizar la efectividad. Después de la ducha, la persona levanta un pie hacia atrás para cepillarse la bota antes de pasar a la siguiente estación, repitiendo con el otro pie.
+
+#### 3.4.2. Segunda estación: Descontaminación con soluciones
+
+En esta fase, es crucial el cepillado junto con la aplicación de una solución descontaminante. Si no hay soluciones específicas, se puede usar detergente con agua, prestando atención a posibles reacciones adversas. Para contaminación por contacto con fluidos o sangre, se puede utilizar un desinfectante tipo Zorkil.
+
+Cuando se requiera un tiempo de contacto del descontaminante (bacterias, etc.), se puede establecer una zona intermedia de espera. La persona a descontaminar debe estar orientada hacia la tercera estación, con los brazos en cruz para una aplicación correcta de la solución (con pulverizador). Dos personas cepillarán con minuciosidad, prestando atención a zonas de difícil acceso. Después de completar una vuelta completa, se procede al cambio de estación, limpiando las suelas del calzado. La limpieza de las botas es indispensable para evitar la propagación de agua contaminada.
+
+#### 3.4.3. Tercera estación: Aclarado
+
+Es fundamental un buen aclarado para eliminar la solución limpiadora y cualquier resto de contaminante. Se debe asegurar la ausencia de producto perjudicial en el traje utilizando un dosímetro u otro equipo de detección (radiación, pH, etc.).
+
+#### 3.4.4. Cuarta estación - Retirada de trajes y monitoreo
+
+Después de las tres primeras estaciones, se pasa a la cuarta. La correcta retirada del traje es vital para evitar el contacto con restos nocivos y la contaminación del personal.
+
+Es necesario realizar un monitoreo de las personas implicadas antes de ir a la zona fría, midiendo, como mínimo, la presencia de corrosividad y material radiactivo (si aplica) antes de abandonar el corredor. Si hay servicios médicos presentes, se establecerá el tratamiento adecuado para evitar la transferencia de contaminación y asegurar que estén en condiciones para salir a la zona fría o apoyar.
+
+Después de la intervención, para la descontaminación de equipos y herramientas, estos se almacenan en bolsas herméticas para su traslado y posterior revisión, tratamiento o retirada.
+
+**Casos Posibles para Equipos y Herramientas:**
+
+*   **Limpieza y reincorporación:** Si se limpian in situ o en el parque y se verifica su descontaminación, se reincorporan al servicio.
+*   **Equipos desechables:** Trajes antisalpicaduras, guantes de látex, mascarillas, etc., se tratan y eliminan adecuadamente.
+*   **Equipos Nivel III:** Deben ser revisados por personal especializado. Es crucial la información y el control del personal, ya que si el producto ha permeado, el interviniente debe ser informado y tratado en un hospital o centro médico para su desintoxicación.
+
+Se debe reponer el equipo lo antes posible para futuras intervenciones.
+
+### 1. Valoración del siniestro. Prioridades
+
+La valoración del siniestro es esencial en cualquier intervención. Una valoración imprecisa, tardía o desactualizada puede llevar a decisiones tácticas erróneas y soluciones ineficaces. Para una valoración óptima, es necesario recopilar toda la información posible sobre el suceso, preferiblemente obtenida y transmitida al llegar al lugar por personal con conocimientos en prevención de riesgos laborales (ej., personal de la empresa, técnico o compañeros de otros cuerpos de seguridad).
+
+La valoración continua del incidente incluye los siguientes momentos clave:
+
+*   **Antes de la llegada:** Recogida de información y preplanificación.
+*   **In situ:** Valoración inicial, continua y final.
+
+Las prioridades en la intervención ante emergencias con daños devastadores deben ser claras: `Seguridad de intervinientes`, `Salvar vidas`, `Medio ambiente`, `Bienes materiales`.
+
+#### 1.1. Antes de la llegada
+
+Al recibir una llamada o alerta de emergencia con presencia de sustancias químicas, biológicas o radiológicas, se deben formular preguntas para recabar la máxima información y datos adicionales:
+
+*   **MATERIA:** Nombre, número ONU, NIP, número CAS, etiqueta de peligro.
+*   **ESTADO:** Estado físico, cantidad presente/implicada, tipología y características del contenedor.
+*   **ALCANCE:** Tipo de siniestro (según Tabla 47), alcance sobre personas, medio ambiente y bienes materiales, entorno (elementos vulnerables cercanos, climatología, etc.).
+
+**Tabla 47. Tipos de siniestro (Ministerio del Interior)**
+
+| Tipo   | Descripción                                                                                                                                                                                                                                                                                                    |
+| :----- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tipo 1 | Avería o accidente donde el vehículo/convoy de transporte no puede continuar, pero el contenedor de materiales peligrosos está intacto y no ha volcado/descarrilado.                                                                                                                                       |
+| Tipo 2 | Accidente con contenedor dañado o vuelco/descarrilamiento, pero sin fuga o derrame del contenido.                                                                                                                                                                                                      |
+| Tipo 3 | Accidente con contenedor dañado y fuga o derrame del contenido.                                                                                                                                                                                                                                      |
+| Tipo 4 | Daño o incendio en el contenedor con fuga y llamas del contenido.                                                                                                                                                                                                                                      |
+| Tipo 5 | Explosión del contenido que destruye el contenedor.                                                                                                                                                                                                                                                        |
+
+Con esta información, el mando debe elaborar un preplanning, que puede diferir de la evaluación *in situ* debido a que la valoración inicial se basa en la inmediatez de la emergencia y en información incompleta. La estrategia inicial de preplanificación busca:
+
+*   Requerir el apoyo de medios adicionales.
+*   Definir una zonificación teórica, si es viable, al llegar la primera dotación.
+*   Prever el confinamiento o evacuación de los afectados según el entorno y las características de la materia peligrosa.
+
+#### 1.2. In situ. Riesgos frente a beneficios
+
+Al llegar la primera dotación al lugar de la emergencia, se realiza una toma de información más precisa para mejorar la toma de decisiones. Es posible identificar mejor los riesgos de la sustancia, confirmar la presencia de víctimas y localizar puntos vulnerables cercanos (cursos de agua, colegios). Por ello, el mando debe realizar una evaluación completa del entorno y reconocer la zona caliente para establecer las líneas de actuación.
+
+##### 1.2.1. Valoración inicial
+
+La valoración inicial es la primera realizada por el mando en la escena, utilizando la información aportada por los intervinientes. Su precisión es clave para establecer prioridades y definir el plan de acción. Es fundamental reconocer la importancia de los primeros momentos y, si es posible, realizar acciones simultáneamente.

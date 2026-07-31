@@ -1,13 +1,139 @@
-## Caracterización de Recipientes y Estructuras de Edificación para Bomberos
+El contenido extraído del documento PDF, reescrito de forma nueva, rigurosa y técnica, es el siguiente:
 
-El conocimiento de los distintos elementos constructivos y los tipos de recipientes utilizados para el transporte de mercancías peligrosas resulta fundamental para una intervención eficaz y segura de los cuerpos de bomberos en situaciones de emergencia.
+### PARTE 1: EDIFICACIONES
 
-### I. Recipientes de Transporte y Almacenaje
+**III.1.4. Productos planos de acero recubiertos en continuo de materias orgánicas (prelacados)**
+Estos productos son revestimientos orgánicos utilizados para cubrir metales prepintados (poliéster, poliuretano, PVDF, resina epoxi, entre otros). Su desarrollo busca conferir diversas propiedades, como brillo, dureza y resistencia a ataques químicos.
 
-Los recipientes empleados en el transporte y almacenaje de mercancías peligrosas se rigen por normativas específicas, como el Acuerdo Europeo sobre el Transporte Internacional de Mercancías Peligrosas por Carretera (ADR) y el Reglamento de Transporte Internacional de Mercancías Peligrosas por Ferrocarril (RID). Sus características varían según el tipo de mercancía, su estado (sólido, líquido o gaseoso), la temperatura y la presión, así como el material de fabricación, que puede ser madera, cartón, plástico, aluminio o acero.
+**III.1.5. Otros productos**
+Se refiere a otros productos de acero no especificados en las categorías anteriores.
 
-Existen diversas modalidades de recipientes para el transporte de mercancías peligrosas:
-*   **Bultos:** Son envases que contienen sustancias peligrosas, tales como cajas, botellas, jerricanes o bidones.
-    *   Los **bidones** son recipientes cilíndricos, fabricados en metal, cartón o plástico, con una capacidad máxima de 400 kg.
-    *   Los **jerricanes**, también conocidos como cuñetes, tienen una sección rectangular o poligonal y pueden almacenar hasta 60 o 120 kg.
-    *   Las **cajas
+**III.1.6. Acero laminado en caliente (chapas y perfiles)**
+Fabricados con acero de las clases resistentes mencionadas previamente, se presentan en una amplia gama de perfiles y chapas.
+
+*   **Perfiles más comunes:**
+    *   **Perfiles "I" (IPN, IPE):** Su geometría, con un canto mayor que el ala, les otorga una resistencia superior a la flexión, siendo los más usados como vigas. La diferencia entre IPE e IPN radica en la sección del ala; en el IPN disminuye a medida que se aleja del alma, mientras que en el IPE permanece constante. Esto ha llevado a que el IPN caiga en desuso por requerir más material para la misma resistencia, siendo también conocido como "Doble T".
+    *   **Perfiles "H" (HEA, HEB, HEM):** Su diseño, con igual canto que ala, demanda mayor material y costo para la misma resistencia a flexión que los perfiles "I". No obstante, su alta resistencia tanto longitudinal como transversal los hace más adecuados para pilares, siendo el HEB el más común.
+    *   **Perfiles "U" (UPE, UPN):** Empleados en vigas de menor entidad o para la fabricación de otros elementos metálicos como vigas o pilares. La distinción entre UPE y UPN es similar a la de IPE e IPN.
+    *   **Otros perfiles:** Existe una variada oferta comercial de perfilería auxiliar, destacando los modelos en L, LD (Lados Desiguales) y T.
+*   **Chapas:**
+    *   **Chapas medias:** Espesor entre 3 mm y 4,75 mm.
+    *   **Chapas gruesas:** Espesor superior a 4,75 mm.
+
+**III.1.7. Productos huecos para la construcción**
+Se distinguen dos tipos:
+
+*   **Acabados en caliente:** Incluyen perfiles huecos estructurales de sección transversal constante, con un espesor igual o mayor a 2 mm, conformados en caliente, con o sin tratamiento térmico posterior. También pueden ser conformados en frío con tratamiento térmico posterior. Se utilizan en estructuras y están disponibles en secciones circular, cuadrada, rectangular o elíptica.
+*   **Conformados en frío:** Comprenden perfiles huecos estructurales soldados conformados en frío sin tratamiento térmico posterior, con un espesor igual o mayor a 2 mm y sección transversal constante. Utilizados igualmente en estructuras, se encuentran en secciones circular, cuadrada o rectangular.
+
+**III.1.8. Perfiles de sección abierta conformados en frío y perfilados**
+Son perfiles de sección constante y formas diversas, obtenidos por conformado en frío de chapas planas laminadas en caliente o en frío. Se emplean en la construcción de estructuras. Las tipologías más frecuentes incluyen las secciones en L, U, C, Z y Omega.
+
+**III.1.9. Productos planos de acero recubiertos en continuo de materias orgánicas (prelacados)**
+Esta categoría agrupa revestimientos orgánicos usados para cubrir metal prepintado (poliéster, poliuretano, PVDF, resina epoxi, etc.). Su objetivo es proporcionar diversas propiedades como brillo, dureza o resistencia a ataques químicos.
+
+**6. Sistemas constructivos básicos empleados en la construcción**
+Según la RAE, una edificación es una "construcción fija, hecha con materiales resistentes, para habitación humana o para otros usos". Esto implica la puesta en obra de materiales de construcción mediante técnicas adecuadas para generar un espacio interior habitable y dotado de instalaciones que proporcionen confort para el uso previsto.
+Desde una perspectiva técnica, la edificación se analiza como la combinación de tres tipos de elementos constructivos: estructurales, complementarios y auxiliares.
+
+*   **Elementos estructurales:** Conjunto de componentes de una edificación diseñados para soportar cargas y transmitirlas al terreno sin deformaciones excesivas (manteniendo la elasticidad). También se les denomina elementos portantes.
+    *   **Capacidad portante de una estructura:** Aptitud de un edificio para asegurar la estabilidad y resistencia necesarias durante su periodo de servicio (por defecto, 50 años según el CTE DB SE).
+    *   **Aptitud de servicio:** Capacidad para limitar deformaciones, degradaciones o anomalías a niveles admisibles, de acuerdo con el uso del edificio.
+*   **Elementos complementarios:** Componentes que, junto con la estructura, crean un espacio interior con el confort necesario para el uso previsto. Ejemplos incluyen cerramientos, divisiones interiores, instalaciones y acabados.
+*   **Elementos auxiliares:** Partes de la edificación presentes durante el proceso de construcción o reparación. Pueden retirarse o quedar embebidas en la estructura sin cumplir una función permanente. Ejemplos: andamios, cimbras, encofrados o apeos.
+
+**Marco normativo:** La legislación sobre sistemas estructurales es extensa, destacando el Código Técnico de la Edificación (CTE) en España desde 2006. El CTE establece los requisitos básicos de seguridad y habitabilidad según la Ley de Ordenación de la Edificación (LOE), considerando las fases de proyecto, construcción, mantenimiento y conservación.
+
+*   **Documentos Básicos del CTE:**
+    *   **Documentos Básicos de Seguridad (DB-SE):**
+        *   DB-SE AE (Acciones en la Edificación): Especifica acciones o fuerzas externas que deben soportar las estructuras.
+        *   DB-SE C (Cimientos)
+        *   DB-SE A (Acero)
+        *   DB-SE F (Fábrica)
+        *   DB-SE M (Madera)
+    *   **DB-SI (Documento Básico de Seguridad en caso de Incendio)**
+    *   **DB-SUA (Documento Básico de Seguridad de Utilización y Accesibilidad)**
+    *   **Documentos Básicos de habitabilidad:**
+        *   DB-HS (Documento Básico de Salubridad)
+        *   DB-HR (Documento Básico de protección frente al Ruido)
+        *   DB-HE (Documento Básico de Ahorro de Energía): Promueve sistemas de energía solar y materiales/técnicas que ahorren energía.
+*   **Normativa complementaria:**
+    *   EHE (Instrucción de hormigón estructural)
+    *   EFHE (Instrucción para proyecto y ejecución de forjados unidireccionales de hormigón estructural con elementos prefabricados)
+    *   NCSE (Norma de construcción sismorresistente: parte general y edificación)
+    *   Otros.
+
+**Factores de análisis estructural:** Para intervenciones de bomberos, se prioriza el análisis de tres factores fácilmente identificables:
+
+*   **Geometría:** Factor de mayor incidencia en el comportamiento y funcionamiento de una estructura, influyendo directamente en la magnitud y dirección de esfuerzos y tensiones.
+*   **Rigidez**
+*   **Materiales**
+
+**6.1.1. Geometría**
+La forma de una estructura es crucial para su comportamiento. Por ejemplo, un papel A4 puede soportar el peso de un vaso si se dobla, pero no si se deja plano, demostrando que la geometría modifica la capacidad mecánica.
+
+*   **Funicular/Polígono funicular:** Forma geométrica adoptada por un cable que se deforma libremente bajo fuerzas externas, manteniéndose en tracción pura.
+    *   **Curva funicular:** Es la forma que toma un cable deformado por una carga uniformemente distribuida. Si la carga es solo su propio peso, se denomina **catenaria**. Si se debe a una carga lineal uniformemente repartida en proyección horizontal, es una **parábola**.
+    *   **Estructura funicular:** Aquella cuyas características geométricas (reacciones y esfuerzos solo de compresión y tracción) son exclusivas para cada estado de carga. Una distribución de cargas diferente genera flexiones.
+    *   **Cuantía de las tensiones internas de la estructura:** A mayor flecha de un cable funicular, menores son las fuerzas internas desarrolladas. Este principio es aplicable a los arcos.
+
+**6.1.2. Rigidez**
+Define la capacidad de un elemento estructural para soportar esfuerzos sin deformaciones o desplazamientos excesivos. Para entenderla, se analizan:
+
+*   **Grados de libertad (GL):** Conjunto de movimientos posibles o no impedidos de un cuerpo en un sistema plano. Se distinguen:
+    *   **Grados de Libertad Externos (GLE):** Movimientos del cuerpo en el espacio (vertical, horizontal, giro). En un sistema plano, son 3.
+    *   **Grados de Libertad Internos (GLI):** Movimientos de las partículas en el interior del cuerpo. La fórmula para GLI es 3(N-1), donde N es el número total de barras.
+*   **Coacciones:** Limitaciones a los grados de libertad. Pueden ser:
+    *   **Coacciones Externas (CE)**
+    *   **Coacciones Internas (CI)**
+*   **Nudo:** Conexión o vínculo estructural entre dos o más elementos portantes. Se clasifica según los movimientos limitados:
+    *   **Apoyo:** Limita movimientos verticales (1 coacción), permite horizontales y giros (2 grados de libertad).
+    *   **Articulación:** Limita desplazamientos verticales y horizontales (2 coacciones), permite giros (1 grado de libertad).
+    *   **Empotramiento:** Limita todo tipo de movimientos (3 coacciones), sin grados de libertad.
+
+Para comprender el equilibrio, un ejemplo de columpio ilustra estos nudos:
+*   **Empotramientos:** En la base del conjunto y entre las piezas de la estructura principal.
+*   **Articulaciones:** Para permitir la oscilación del columpio, situadas en los encuentros del larguero superior y el asiento.
+*   **Apoyo:** El asiento cuando una persona se sienta, configurado como un apoyo simple.
+El funcionamiento del columpio se ve afectado si alguno de estos nudos falla.
+
+**I. Isostaticidad e hiperestaticidad**
+Para comprender el comportamiento estructural, se analizan los nudos en conjunto:
+
+*   **Estructuras Isostáticas / predeterminadas:** Presentan equilibrio limitado pero suficiente para ser estables. Se analizan con la 1ª Ley de Newton (sumatorios de fuerzas y momentos iguales a cero).
+    *   **Ventajas:** No generan nuevas tensiones por diferencias de temperatura, ya que dilatan libremente.
+    *   **Inconvenientes:** El fallo de un elemento puede causar el colapso, ya que la estructura no puede absorber tensiones adicionales.
+*   **Estructuras hiperestáticas / indeterminadas:** Tienen un equilibrio robusto y mayor seguridad que las isostáticas. Su análisis requiere considerar la compatibilidad de movimientos entre elementos.
+    *   **Ventajas:** Mayor seguridad frente al colapso, ya que el fallo de un elemento no lo provoca. El reparto de esfuerzos genera desplazamientos y tensiones internas que buscan el equilibrio. Menor coste material (menor sección) con igual carga. Mayores luces y mejor comportamiento dinámico.
+    *   **Inconvenientes:** Pueden ser más elaboradas en su construcción.
+
+**I.3. Estructuras Hipostáticas o mecanismos**
+Son sistemas inestables que, ante una fuerza, no logran el equilibrio y se desplazan. Funcionan como un "mecano".
+
+**I.4. Identificación de estructuras isostáticas, hiperestáticas y mecanismos**
+Para bomberos, es crucial identificar las propiedades mecánicas del conjunto estructural para actuar o estabilizarlo. Se utiliza un sistema de análisis sencillo para cualquier estructura ordinaria en un sistema plano.
+
+*   **Visión externa del sistema:**
+    *   **GLE (Grados de Libertad Externos):** Sumatorio de GL externos del conjunto. Se considera valor 3 (desplazamiento vertical, horizontal y giro).
+    *   **CE (Coacciones Externas):** Sumatorio de coacciones externas. Cada apoyo cuenta como 1, articulaciones 2, y empotramientos 3.
+*   **Visión interna del sistema:**
+    *   **GLI (Grados de Libertad Internos):** Sumatorio de GL internos. Valor 3(N-1), donde N es el número total de barras.
+    *   **CI (Coacciones Internas):** Sumatorio de coacciones internas. Se estudian nudo por nudo.
+
+**Cálculo de Coacciones Internas:**
+
+| Tipo de Barra      | n | CI      |
+| :----------------- | :- | :------ |
+| Apoyadas entre sí  | 2 | n-1 = 1 |
+| Articuladas entre sí | 2 | 2(n-1) = 2 |
+| Empotradas entre sí | 2 | 3(n-1) = 3 |
+
+**Cálculo de la estaticidad de un cuerpo:** Se calculan los grados de libertad externos (GLE) e internos (GLI) y las coacciones externas (CE) e internas (CI), sumándolos para obtener el grado de hiperestatismo.
+*   **GL < C:** Estructura hiperestática.
+*   **GL = C:** Estructura isostática.
+*   **GL > C:** Estructura hipostática (mecanismo).
+
+**Ejemplo de cálculo de estaticidad (cuerpo humano):**
+Un sistema apoyado en "dos manos" con bloqueo de codos, hombros, cadera y rodillas (empotramiento) tiene N=7 barras, GLE=3, CE=6 (3 empotramientos * 1ud + 1 apoyo * 1ud + 2 articulaciones * 1ud = 6). GLI=3(7-1)=18, CI=16. Sumatorio GL=21, Sumatorio C=22. Como GL < C, es una estructura hiperestática, muy estable.
+Si el mismo sistema se apoya en "dos manos y cabeza" con bloqueo de hombros, cadera y rodillas (empotramiento) pero codos sin bloquear (articulación), presenta también N=7 barras, GLE=3, CE=6, GLI=3(7-1)=18, CI=16. Sumatorio GL=21, Sumatorio C=22. Sigue siendo hiperestática y estable.
+La posición "pino a tres apoyos" (dos manos y cabeza en el suelo) es isostática (GLE=3, CE=3, GLI=18, CI=18; GL=21, C=21). Aunque permite un mínimo equilibrio, es menos estable que las posiciones hiperestáticas. El bloqueo de muñeca, tronco y cadera requiere gran esfuerzo físico.

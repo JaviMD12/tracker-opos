@@ -1,56 +1,18 @@
-## Tablas de Buceo con Aire: Fundamentos y Procedimientos para Operaciones Subacuáticas
+## Tablas para Buceo con Aire: Unidades, Utilización y Términos Clave
 
-Las operaciones de rescate y salvamento que implican buceo subacuático requieren un conocimiento exhaustivo de las tablas de descompresión y sus principios subyacentes, fundamentales para garantizar la seguridad del personal interviniente. Estas tablas son herramientas esenciales para la planificación y ejecución de inmersiones, especialmente en un entorno donde las variaciones de presión y tiempo pueden tener consecuencias fisiológicas críticas.
+### Unidades de Medida
 
-### Unidades de Medida y Validez de las Tablas
+*   **Tiempo:** Expresado en minutos.
+*   **Profundidad:** Indicada en metros de columna de agua (mca), referida a la profundidad pulmonar del buceador.
 
-Para la correcta aplicación de las tablas de buceo, los **tiempos** se expresan en minutos, mientras que las **profundidades** se miden en metros de columna de agua (mca), haciendo referencia a la presión que afecta directamente a los pulmones del buceador. Es importante señalar que estas tablas están calculadas para una presión atmosférica de 1 bar (equivalente a 100 kPa o 1 atmósfera) y son aplicables con ligeras variaciones de presión o altitud hasta los 300 metros sobre el nivel del mar. Para altitudes superiores, es imperativo utilizar tablas de inmersión específicas para altitud. Además, estas tablas están diseñadas para su uso por buceadores certificados, y su validez para la planificación de buceos reales no está garantizada al 100%, sirviendo como referencia. La Dirección General de Marina Mercante prohíbe explícitamente las inmersiones civiles y profesionales que impliquen un "salto a cámara hiperbárica".
+### Uso de las Tablas
 
-### Terminología Esencial para el Buceo
+Estas tablas han sido elaboradas considerando una presión atmosférica de 1 bar (equivalente a aproximadamente 100 kPa o 1 atmósfera). No obstante, pueden emplearse con ligeras variaciones de presión atmosférica o altitudes de hasta 300 metros sobre el nivel del mar. Si la altitud supera los 300 metros, es obligatorio utilizar las Tablas de Inmersión en Altitud.
 
-Para interpretar correctamente las tablas, es crucial comprender la siguiente terminología:
+### Términos Cruciales
 
-*   **Tiempo de descenso (Td):** Corresponde al tiempo total, en minutos, desde que el buceador abandona la superficie hasta que alcanza el fondo. Este valor se redondea siempre al minuto superior.
-*   **Tiempo en el fondo (TF):** Es el tiempo total, en minutos, transcurrido desde que el buceador deja la superficie hasta que inicia su ascenso desde el fondo, redondeado al minuto superior.
-*   **Tiempo total de descompresión (TTD) o Tiempo total de ascenso:** Se refiere al período en minutos desde que el buceador deja el fondo hasta que retorna a la superficie.
-*   **Tiempo total de inmersión (TTI):** Es el tiempo total, en minutos, desde que el buceador inicia la inmersión hasta que finaliza en superficie.
-*   **Profundidad en el fondo (Prof.):** Indica la máxima profundidad, en metros de columna de agua (mca) enteros, alcanzada durante la inmersión y registrada por el profundímetro.
-*   **Profundidad máxima (Prof. Máx.):** Es la profundidad resultante tras aplicar el factor de corrección del profundímetro a la profundidad del fondo, siendo esta la que se utiliza para consultar las tablas de descompresión.
-*   **Profundidad de ascenso:** Designa la profundidad a la que se encuentra el buceador al dejar el fondo, empleada para calcular el tiempo de ascenso hasta la primera parada de descompresión o la superficie. Es fundamental **no utilizar** esta profundidad para la tabulación.
-*   **Parada de descompresión:** Se refiere a una profundidad específica donde el buceador debe permanecer un tiempo determinado para eliminar el nitrógeno acumulado en los tejidos durante el ascenso.
-*   **Límite sin descompresión (No DECO):** Indica el tiempo máximo que un buceador puede permanecer a una profundidad específica sin requerir paradas de descompresión durante el ascenso.
-*   **Inmersión sin descompresión:** Es aquella en la que no se necesitan paradas de descompresión durante el ascenso.
-*   **Inmersión con descompresión:** Por el contrario, requiere una o varias paradas de descompresión durante el ascenso.
-*   **Intervalo en Superficie (IS):** Es el tiempo que el buceador permanece en la superficie entre dos inmersiones sucesivas, comenzando al llegar a la superficie y finalizando al iniciar el siguiente descenso.
-*   **Nitrógeno residual (NR):** Representa el exceso de nitrógeno disuelto en los tejidos del buceador al alcanzar la superficie. Este nitrógeno se elimina gradualmente durante el intervalo en superficie y debe considerarse para calcular la descompresión necesaria en inmersiones sucesivas.
-*   **Inmersión sencilla:** Se define como una inmersión realizada después de que todo el nitrógeno residual de inmersiones previas haya sido eliminado.
-*   **Inmersión continuada:** Se considera una inmersión continuada cuando el intervalo en superficie es menor de 10 minutos. Para las tablas de descompresión, se trata como una inmersión simple, sumando la profundidad máxima y todos los tiempos.
-*   **Inmersión Sucesiva:** Ocurre cuando el intervalo en superficie es mayor de 10 minutos pero menor que el tiempo máximo indicado en la Tabla II.
-*   **Grupo de inmersión sucesiva (GIS):** Es una letra que clasifica la cantidad de nitrógeno residual que permanece disuelto en los tejidos del buceador después de una inmersión.
-*   **Descompresión en superficie con oxígeno (DSO2):** Es una técnica que implica realizar la descompresión, total o parcial, en una cámara hiperbárica en lugar de en el agua, reduciendo el tiempo de permanencia subacuática. No obstante, esta práctica no está permitida en el ámbito civil y profesional en España.
+Es fundamental familiarizarse con los siguientes términos antes de emplear las tablas de descompresión:
 
-### Utilización de las Tablas de Nitrógeno Residual (TNR) para Inmersiones Sucesivas con Aire (Tabla II)
-
-Para determinar el **Tiempo de Nitrógeno Residual (TNR)** necesario en una inmersión sucesiva, se debe seguir un procedimiento específico. Primero, se localiza el Grupo de Inmersión Sucesiva (GIS) de la inmersión previa en la línea diagonal de la tabla. A continuación, se avanza horizontalmente desde esa letra hasta encontrar el intervalo de tiempo real transcurrido en superficie. Finalmente, se lee hacia abajo desde esa columna para encontrar el nuevo GIS al final del Intervalo en Superficie (IS) y se continúa bajando por la columna correspondiente a la profundidad de la inmersión sucesiva. El valor en la intersección será el TNR, expresado en minutos.
-
-Cabe destacar que si el Intervalo en Superficie supera los periodos máximos especificados en la Tabla II, la inmersión no se considera sucesiva, y se deben utilizar los tiempos reales en el fondo de la Tabla de Aire para la planificación. Si el TNR no puede determinarse con esta tabla, se recomienda leer verticalmente hasta los 9 metros de profundidad de la inmersión sucesiva y calcular el tiempo de inmersión sencilla equivalente, realizando la descompresión con la tabla de aire de 9 metros.
-
-### Utilización de las Tablas de Descompresión Normal con Aire (Tabla III)
-
-La Tabla III consolida tres métodos de descompresión: con aire en el agua, con aire y oxígeno en el agua, y en superficie con oxígeno.
-
-#### Descompresión en el Agua con Aire
-
-Este método se emplea cuando la descompresión se lleva a cabo exclusivamente con aire. Se accede a la tabla localizando la profundidad máxima alcanzada (exacta o inmediata superior) y el tiempo en el fondo (igual o inmediato superior al real). Las paradas requeridas se leen en la columna "Aire", siendo la última parada a 6 mca. La columna siguiente indica el tiempo total de ascenso, y la última columna proporciona el Grupo de Inmersión Sucesiva (GIS). Si el tiempo en el fondo es inferior al primer tiempo tabulado, no se requieren paradas, y el ascenso a superficie se realiza a 9 mca/minuto, consultando la Tabla I para el GIS.
-
-#### Descompresión en el Agua con Aire y Oxígeno
-
-Este método se aplica cuando la descompresión se realiza parcialmente con aire y parcialmente con oxígeno al 100%. Se siguen pasos similares: se entra en la fila "aire/O2" con la profundidad máxima (exacta o superior) y el tiempo en el fondo (igual o superior al real). Las paradas se leen en esta fila hasta los 9 mca (o 6 mca si no hay parada a 9 mca) con aire, y a partir de ese punto, se cambia a oxígeno al 100%. Los tiempos de parada con oxígeno se resaltan en negrita y comienzan al confirmar que los buceadores están respirando oxígeno. Tras completar la parada de oxígeno a 6 mca, se asciende a superficie a 9 m/min, continuando la respiración de oxígeno. El tiempo total de ascenso, incluyendo el descanso con aire, se indica en la columna correspondiente, y si se respira oxígeno por más de 30 minutos, se debe realizar un descanso de 5 minutos con aire cada 30 minutos. El GIS resultante es el mismo que para la descompresión solo con aire en el agua.
-
-### Planificación y Consideraciones de Seguridad en la Descompresión
-
-La planificación de la descompresión es una etapa previa esencial para cada inmersión. En inmersiones a distintos niveles, la planificación debe proceder de la profundidad mayor a la menor. Es crucial evitar aproximaciones o salidas rápidas a la superficie que puedan aumentar el riesgo de enfermedad descompresiva. Las condiciones psicofísicas del buceador deben ser óptimas. Se debe tener en cuenta que trabajos difíciles, el estrés o las bajas temperaturas incrementan el riesgo de enfermedad descompresiva, lo que puede requerir un aumento del tiempo en el fondo o la realización de paradas adicionales. Durante las paradas, se debe tender un cabo de descenso y, si es necesario, suministrar aire. La velocidad de descenso no debe exceder los 24 m/min, y la de ascenso debe ser de 9 m/min (con variaciones aceptables de 3 m/min).
-
-Los tiempos de parada se contabilizan desde el momento de llegar a la parada hasta que se abandona, y el tiempo entre paradas o para alcanzar la superficie es de un minuto. Después de cada inmersión, el buceador debe ser observado durante al menos 30 minutos, aunque los síntomas de la enfermedad descompresiva pueden manifestarse hasta seis horas después. Es fundamental evitar situaciones que disminuyan la presión ambiental tras una inmersión (como subir una montaña o viajar en avión). Además, es imprescindible disponer de un equipo de oxigenación completo y un botiquín de emergencia, y concertar la disponibilidad de una cámara hiperbárica a menos de dos horas de distancia.
-
-Si bien los ordenadores de buceo ofrecen un ajuste preciso a las condiciones y monitorizan en tiempo real, aumentando el tiempo de fondo, no sustituyen la necesidad de comprender y aplicar las tablas de descompresión. Los programas de enseñanza para títulos de buceo deben incluir formación en el manejo de estas tablas, que son válidas para buceadores certificados, aunque no garantizan una exactitud absoluta para la planificación de buceos reales.
+*   **Fuente de las tablas:** Centro de Buceo de la Armada Española.
+*   **Nota Importante:** Las tablas son válidas únicamente para buceadores certificados. No se garantiza la exactitud de todos los datos ni se recomienda su uso para la planificación de inmersiones reales. La Dirección General de la Marina Mercante no autoriza inmersiones civiles o profesionales que impliquen "salto a cámara hiperbárica".
+*   **Tiempo de descenso (Td):** Tiempo total, en minutos, desde que el buceador abandona la superficie hasta que llega al fondo. Para fines de tabulación,

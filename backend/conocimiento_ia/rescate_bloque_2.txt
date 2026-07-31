@@ -1,79 +1,138 @@
-# Fundamentos del Rescate y Trabajo en Altura: Seguridad y Técnicas Esenciales
+## Temario de Oposiciones: Rescate y Salvamento – Rescate en Altura
 
-El rescate y el trabajo en altura son operaciones que exigen un conocimiento profundo de los principios de seguridad, una formación especializada y el uso adecuado de equipamiento. La evolución del urbanismo moderno, con la proliferación de estructuras verticales de gran envergadura, ha hecho que las técnicas de socorro en montaña, espeleosocorro y trabajos verticales sean imprescindibles para los servicios de emergencia, incluyendo a los bomberos. Dominar estas técnicas garantiza la seguridad, rapidez y eficacia en cualquier intervención.
+### Parte 1: Rescate en Altura
 
-## Marco Legal y Normativo en España
+#### Capítulo 1: Caracterización
 
-En España, la seguridad en los trabajos en altura se rige principalmente por la **Ley de Prevención de Riesgos Laborales (LPR 31/1995)**. Esta ley establece las garantías básicas y responsabilidades para proteger la salud de los trabajadores. Aunque inicialmente el colectivo de bomberos no estaba incluido, aclaraciones posteriores confirmaron su aplicación, remitiendo a normativa específica dadas las particularidades de su actividad.
+**6.3.2. Resistencia de la Cuerda**
 
-Complementariamente, diversas disposiciones regulan aspectos específicos:
-*   El **Real Decreto 773/1997**, de 30 de mayo, establece las disposiciones mínimas de seguridad y salud relativas a la utilización de equipos de protección individual (EPI). Detalla qué se entiende por EPI, las obligaciones del empleador, los criterios de uso, las condiciones que deben cumplir, cómo elegirlos y mantenerlos, e incluye anexos con listas indicativas de EPI, actividades de riesgo y métodos de evaluación.
-*   El **Real Decreto 1407/1992**, de 20 de noviembre, regula las condiciones, requisitos y certificaciones europeas (EN) que deben cumplir los EPI para su comercialización en la Unión Europea. Esto es crucial para revisar y asegurar que el material cumpla los estándares de seguridad.
-*   El **Real Decreto 486/1997**, de 14 de abril, define las disposiciones mínimas de seguridad y salud en los lugares de trabajo. Destaca que la protección en altura es necesaria para riesgos de caída a distinto nivel, específicamente en trabajos a más de 2 metros o con escaleras de mano de más de 3,5 metros.
-*   El **Real Decreto 1215/1997**, de 18 de julio, reitera la necesidad de equipos de protección contra caídas a partir de los dos metros de altura y establece los requisitos para el equipo de trabajo y el EPI.
-*   El **Real Decreto 1627/1997**, de 24 de octubre, se centra en las disposiciones mínimas de seguridad y salud en obras de construcción, normativa relevante dado que muchas intervenciones de bomberos se derivan de siniestros en este sector.
-*   El **Real Decreto 2177/2004**, de 12 de noviembre, modifica el RD 1215/1997 y establece disposiciones específicas para la utilización de escaleras de mano en trabajos temporales en altura. En particular, señala que el ascenso, descenso y trabajos desde escaleras deben realizarse de frente a estas, asegurando en todo momento un punto de apoyo y sujeción seguros. Los trabajos a más de 3,5 metros del punto de operación al suelo, que impliquen movimientos o esfuerzos peligrosos para la estabilidad del trabajador, solo se realizarán con equipo de protección individual anticaídas o medidas de protección alternativas. Prohíbe el uso simultáneo de escaleras por dos o más personas.
+Para evaluar la resistencia de una cuerda, su diámetro es el factor más crítico. Las cuerdas disponibles en el mercado varían entre 2 y 11 mm de diámetro. Aquellas con diámetros inferiores a 8 mm son comúnmente denominadas "cordinos".
 
-En cuanto a las técnicas de acceso y posicionamiento mediante cuerdas, la normativa exige el uso de **dos cuerdas como mínimo y con sujeción independiente**: una como medio de trabajo (acceso, descenso, apoyo) y otra como medio de emergencia (cuerda de seguridad). El trabajador debe usar arneses adecuados y conectarse a ambas cuerdas. La cuerda de trabajo debe contar con un mecanismo seguro de ascenso y descenso con bloqueo automático. Las herramientas y objetos deben estar sujetos al arnés o asiento del trabajador. Es fundamental que el trabajo se planifique y supervise para permitir un rescate inmediato en caso de emergencia. Se requiere formación adecuada y específica en técnicas de progresión con cuerdas, sistemas de sujeción y anticaídas, mantenimiento de equipos y salvamento de personas en suspensión. Excepcionalmente, el uso de una sola cuerda puede admitirse si la evaluación de riesgos lo justifica y se implementan medidas de seguridad adecuadas, como la premura por salvar una vida.
+**6.3.3. Uso de la Cuerda**
 
-Además de la legislación, las **normas y certificaciones** para el material de rescate son vitales. Dado que no existe una normativa específica para el rescate con cuerdas en bomberos, se busca que el material cumpla las mejores certificaciones y homologaciones. El **Comité Técnico CT.160** regula equipos de protección individual contra caídas (dispositivos de descenso, anticaídas, absorbedores de energía, cuerdas de bajo alargamiento, arneses de cuerpo entero), mientras que el **CT.136** se encarga del equipamiento de montañismo (cordinos, cuerdas auxiliares, bloqueadores, poleas, cuerdas dinámicas). Otros materiales, como los mosquetones, se regulan bajo normativas específicas (CE 362 para trabajo, CE 12275 para deporte), destacando que su diseño varía según el uso previsto.
+Las cuerdas se clasifican según su modalidad de uso: simple, doble o gemelas.
 
-## Características de los Entornos de Trabajo Vertical
+*   **Cuerdas de Uso en Simple (diámetros entre 9,4 y 11 mm):** Al emplear este tipo de cuerda, el usuario se conecta a un único cabo. Es crucial evitar el anclaje a dos cabos de una cuerda de uso en simple, ya que una caída generaría una fuerza de choque excesivamente alta. Esto se ilustra con el pictograma número 1.
+*   **Cuerdas de Uso en Doble (diámetros entre 8 y 9 mm):** Con este tipo de cuerda, el usuario se encuerda utilizando ambos cabos de manera simultánea, pero pasándolos alternativamente por los puntos de seguridad. Una ventaja significativa de este método es que, en caso de que una cuerda se dañe por un borde afilado, no se depende exclusivamente de una sola línea. El pictograma ½ representa este tipo de cuerda.
+*   **Cuerdas de Uso en Gemelas (diámetros entre 8 y 9 mm):** Estas cuerdas se emplean como si fueran una sola, es decir, el usuario se encuerda con ambas cuerdas a la vez y las pasa por los puntos de seguridad de forma conjunta. El pictograma de intersección (dos círculos entrelazados) las representa.
 
-El **trabajo en altura** se define como cualquier actividad o desplazamiento donde un trabajador está expuesto a un riesgo de caída a distinto nivel con una diferencia de cota superior a 1,5 metros respecto al plano horizontal inferior. También se considera trabajo en altura cualquier operación bajo el nivel 0, como en pozos, tanques enterrados o excavaciones de más de 1,5 metros de profundidad, que comparten peculiaridades con el trabajo en espacios confinados.
+**6.4. Inspección y Mantenimiento de Cuerdas**
 
-Los **principios básicos** que rigen la seguridad en estos trabajos son:
-1.  **Retención:** Un sistema de retención previene que el trabajador acceda a zonas con riesgo de caída. No está diseñado para detener una caída.
-2.  **Sujeción:** Un sistema de sujeción permite al usuario posicionarse con precisión en apoyo o suspensión, pero no detiene caídas, por lo que debe complementarse con un sistema anticaídas. El trabajador siempre debe mantener tensión en el sistema de sujeción.
-3.  **Anticaídas:** Es un dispositivo de aseguramiento independiente del modo de progresión o sujeción. Su función es detener una caída libre, limitando la fuerza de choque sobre el usuario. Requiere prever una **altura libre de seguridad**, que es la distancia mínima necesaria por debajo del sistema anticaídas para evitar que el usuario choque con obstáculos durante la detención de la caída. Esta altura se calcula considerando la distancia de parada de los aparatos móviles, la longitud de desgarro del absorbedor de energía, la altura media del usuario, un margen de seguridad y el alargamiento de la cuerda.
+Es esencial realizar inspecciones periódicas del estado de las cuerdas, prestando especial atención a posibles cortes, deterioros en la "camisa" exterior o interrupciones en la "alma" interna. Cualquier anomalía detectada requiere el desecho inmediato de la cuerda.
 
-La **ubicación e instalación de los puntos de anclaje** deben ser rigurosas y seguras, siendo la calidad de los anclajes primordial. Es fundamental repartir los esfuerzos y duplicar o triplicar los anclajes, especialmente en rescates y tirolinas, para garantizar la seguridad. Una **organización adecuada del lugar de trabajo** implica instalaciones sencillas, correctamente equipadas y verificadas sistemáticamente antes de su uso. Siempre que sea posible, debe asociarse un **dispositivo de autoaseguramiento independiente** a los sistemas de rescate, para asegurar simultáneamente a víctimas y socorristas, salvo en autoevacuaciones. Finalmente, debe preverse un **plan de evacuación** para auto-rescate de los equipos o evacuación en caso de accidente. Los EPI están diseñados para una sola persona, permitiéndose su uso para dos personas (descenso acompañado, izado de camilla) solo en casos excepcionales.
+La revisión implica una inspección visual y la "prueba del bucle" (ver imagen 9), donde se verifica mediante el tacto que no haya roturas en el alma. Además, si se sospecha de la integridad de la cuerda tras un choque o caída importante, debe reemplazarse, ya que el desgaste podría no ser visible externamente.
 
-## La Física de la Caída y la Absorción de Energía
+Antes de su primer uso, e incluso antes de marcar su longitud, es aconsejable sumergir la cuerda en agua, ya que tiende a encogerse aproximadamente un 2%.
 
-La **energía de una caída** en trabajos en altura se genera por la masa del usuario y la altura de la caída. Una cuerda detiene la caída transformando esta energía en fuerza elástica, lo que reduce la fuerza de choque. Es crucial que el sistema de aseguramiento **absorba esta energía** para evitar daños al cuerpo humano, limitando la fuerza de choque a un máximo de 12 kN en normas deportivas y a 6 kN en el ámbito laboral. Esto se logra asegurando que los elementos de amarre estén fijados por encima del nivel de la cabeza o utilizando EPI amortiguadores de choque, como los absorbedores de energía. La **fuerza de choque** es la fuerza que experimenta el bombero al final de la caída y es atenuada por la cuerda, los anclajes, el nudo de encordamiento y el asegurador.
+**7. Mecánica de la Caída**
 
-El **factor de caída** es un indicador de la gravedad de la caída, calculado dividiendo la altura de la caída entre la longitud de cuerda utilizada. Un valor alto indica mayor gravedad. Este factor suele estar entre 0 y 2 en escalada normal, siendo 2 el más severo. Cuanto más larga sea la cuerda en uso y más seguros intermedios se establezcan, menor será el factor de caída. Un caso excepcional y muy peligroso es un factor de caída superior a 2, que puede alcanzar 10 (por ejemplo, una caída de 10 metros con 1 metro de cuerda en uso).
+**7.1. Energía Generada por una Caída**
 
-El **efecto polea** se produce cuando la cuerda pasa por un punto mosquetoneado, y este punto recibe la suma de la fuerza de choque del bombero y la fuerza del asegurador, multiplicando la carga total sobre el anclaje en aproximadamente 1,60 veces la fuerza que actúa sobre el bombero.
+Es fundamental comprender la magnitud de energía que puede generarse durante una caída mientras se trabaja asegurado con cuerda, especialmente en operaciones de ascenso. El concepto de riesgo de caída debe ser dominado en trabajos en altura.
 
-El **aseguramiento dinámico** y el **aseguramiento estático** son dos modalidades. El **estático** se da cuando el dispositivo de freno bloquea la cuerda sin deslizamiento, deteniendo la caída abruptamente y transmitiendo un fuerte impacto a toda la cadena de seguridad (ejemplos: GRIGRI® 2, I'D). Por el contrario, el **dinámico** permite el deslizamiento de la cuerda, convirtiendo la energía en calor por fricción, lo que suaviza la detención y la hace más segura (ejemplo: nudo dinámico, ocho). Siempre se debe utilizar cuerda dinámica en progresión para el aseguramiento.
+La magnitud de la caída está influenciada por varios parámetros interdependientes:
 
-## La Cuerda en el Rescate Vertical
+*   **Masa del Usuario con Equipo:** A mayor masa, mayor energía cinética se debe disipar durante la caída. La masa del usuario impacta en la fuerza de choque, la cual se explica en el apartado del rescatador; al caer desde mayor altura, se acumula más energía cinética. La cuerda absorbe una porción de esta fuerza.
+*   **Fuerza de Choque:** La fuerza de choque que llega al rescatador no debe exceder los 12 kN.
+*   **Altura de la Caída:** Una mayor altura de caída implica una mayor energía a disipar y un riesgo elevado de colisión con obstáculos.
+*   **Posición Relativa al Anclaje:** Cuando el trabajador supera la altura del anclaje en el ascenso, la gravedad de la caída se intensifica. El "factor de caída" se emplea para describir la relación entre la posición del trabajador respecto al anclaje y la severidad de la caída.
 
-La cuerda es el componente más vital de la cadena dinámica de seguridad en rescates verticales. Su importancia radica en su capacidad para facilitar el ascenso y descenso, y para mantener la seguridad frente a caídas. Además, en espacios confinados como pozos, actúa como un vínculo esencial con la zona exterior y es crucial para el rescate de víctimas.
+**7.2. Disipación de Energía**
 
-Las cuerdas modernas se fabrican de fibras derivadas del petróleo, como poliamidas, poliéster o polipropileno, lo que les confiere bajo costo de fabricación, facilidad de tejido, imputrescibilidad y excelentes propiedades mecánicas como alta elasticidad, resistencia a la tracción y al rozamiento. Tienden a recuperar su forma original tras un esfuerzo y se componen de dos partes:
-*   **Alma:** Parte interior, formada por múltiples fibras independientes o cordones, que proporcionan entre el 75% y 80% de la resistencia total. Su tejido determina si la cuerda es semiestática o dinámica.
-*   **Camisa o funda:** Cubierta de hilos trenzados que protege el alma de la abrasión, el desgaste y agentes externos (rayos UV, polvo, ácidos). Aporta entre el 20% y 25% de la resistencia de la cuerda.
+Una caída genera energía. El cuerpo humano, en promedio, puede soportar una fuerza de choque máxima de 12 kN durante una fracción de segundo. Para reducir los esfuerzos transmitidos al cuerpo, es necesario disipar la energía de la caída.
 
-Existen dos **clases de cuerdas** según sus propiedades mecánicas:
-*   **Cuerdas dinámicas:** Utilizadas en maniobras con riesgo de caída, especialmente en progresiones de primero o segundo de cuerda. Poseen una capacidad de alargamiento de entre 6% y 10%, y su trenzado en espiral actúa como un muelle, reduciendo la energía de la caída. Se regulan por la norma EN 892 y suelen ser de colores llamativos.
-*   **Cuerdas semiestáticas:** Empleadas para trabajos en suspensión (ascenso o descenso) y para el izado de heridos en rescates. Su alargamiento es menor (entre 2% y 5%), lo que previene el efecto "yo-yo" por su baja elasticidad. Se regulan por la norma EN 1891 y suelen ser de color blanco. Dentro de las semiestáticas, se distinguen el **TIPO A** (resistencia mínima de 22 kN, fuerza de choque máxima factor 0,3 con 100 kg) y el **TIPO B** (resistencia mínima de 18 kN, fuerza de choque máxima factor 0,3 con 80 kg).
+Las normas deportivas para caídas con cuerdas dinámicas establecen que la fuerza máxima de choque debe ser inferior a 12 kN. Sin embargo, en el ámbito laboral, la normativa exige que el trabajador no sufra una fuerza superior a 6 kN. Esto se logra de dos maneras:
 
-La **resistencia de la cuerda** se valora principalmente por su diámetro, que oscila entre 2 y 11 mm. Diámetros menores de 8 mm se denominan cordinos.
+*   **Fijación Constante:** Asegurar que los elementos de amarre permanezcan anclados por encima del nivel de la cabeza del trabajador para minimizar la altura de la caída y las fuerzas de choque resultantes.
+*   **Equipo de Protección Individual (EPI) Amortiguador:** Cuando no es posible limitar la caída, se debe usar un EPI con amortiguadores de energía, siendo los absorbedores de energía los más comunes.
 
-Según su **utilización**, las cuerdas pueden clasificarse en:
-*   **Uso en simple (9,4-11 mm):** Solo se usa un cabo. No se deben atar dos cabos a la vez, ya que la fuerza de choque en caso de caída sería muy elevada.
-*   **Uso en doble (8-9 mm):** Se emplean dos cabos pasándolos alternativamente por los seguros. Ofrece la ventaja de no depender de una sola cuerda en caso de corte sobre un borde afilado.
-*   **Uso en gemelas (8-9 mm):** Se utilizan las dos cuerdas como si fueran una simple, pasándolas simultáneamente por los seguros.
+**7.3. Fuerza de Impacto**
 
-La **revisión y mantenimiento** de las cuerdas son esenciales. Se debe realizar una inspección visual y táctil periódica, prestando atención a posibles cortes, daños en la camisa o discontinuidades en el alma. Cualquier anomalía o sospecha de integridad comprometida tras un choque o caída importante obliga a desechar la cuerda. Antes de su primera utilización, se recomienda sumergirla en agua, ya que tienden a encoger un 2%.
+Cuando un bombero cae, la cuerda y el sistema de aseguramiento deben absorber la energía. Si la cuerda disipa la energía correctamente, el impacto sobre el bombero al final de la caída se reduce, lo que se conoce como fuerza de choque.
 
-El **concepto de doble cuerda en rescate** implica el uso de una **cuerda de tracción** (semiestática tipo A, 10-11 mm) para las maniobras de rescate y trabajos en altura, y una **cuerda de vida o seguro** (dinámica) que proporciona seguridad adicional en caso de fallo de cualquier elemento de la línea de tracción. Esta cuerda de vida debe estar sujeta a un Sistema de Anclaje de Seguridad (SAS) independiente.
+**Imagen 9: Revisión de la cuerda.** Esta imagen presenta visualmente el estado de diferentes tipos de cuerdas, distinguiendo entre aquellas en buen estado (OK) y aquellas que no lo están (NO) debido a hilos cortados, quemaduras, hilos deshilachados, y desplazamiento del alma.
 
-## Sistemas de Anclaje de Seguridad (SAS)
+**7.3. Fuerza de Choque (continuación)**
 
-Los **Sistemas de Anclaje de Seguridad (SAS)** son el conjunto de anclajes empleados en rescates en altura, análogos a las reuniones en alpinismo. Un SAS debe cumplir características rigurosas: contar con al menos dos anclajes (idealmente tres), con al menos uno de ellos ofreciendo garantía total; usar mosquetones de seguridad sobredimensionados (resistencia longitudinal >22 kN); emplear cintas adecuadas y en perfecto estado; usar cuerdas en perfecto estado, nunca auxiliares; disponer de un punto central de anclaje; y ser simple para una verificación rápida.
+La energía potencial acumulada por un bombero en altura depende de su masa y de la altura de la caída. Al detener una caída, la cuerda actúa como un elemento elástico. Por ejemplo, si se comparara con una goma elástica, el rebote sería suave y la fuerza de choque baja; con un cable metálico, la caída sería rígida y la fuerza de choque alta, pudiendo causar lesiones graves o la rotura del equipo.
 
-La **localización de los anclajes** es crítica y depende de la experiencia. Deben ser capaces de resistir grandes cargas (multiplicando anclajes si la capacidad es baja), priorizando elementos estructurales robustos (vigas, pilares) frente a perfiles de ventana. Es preferible situar el anclaje lo más abajo posible sobre el plano vertical para minimizar el brazo de palanca y, por ende, la carga. Se recomienda revisar la dirección de la carga e instalar anclajes multidireccionales. Si esto no es posible, verificar que la dirección de la carga no pueda cambiar para incrementar la seguridad. A menudo, los anclajes deben estar próximos al sujeto, pero en ocasiones se requieren reenvíos y desviadores.
+A continuación, se presentan ejemplos de fuerzas de choque según el tipo de cuerda y configuración:
 
-Existen dos **tipos principales de SAS**:
-*   **SAS en línea:** Usado cuando los anclajes están muy distanciados o su resistencia es desigual. La carga recae principalmente sobre el anclaje principal (de mayor calidad). Hay dos configuraciones: la más robusta más próxima al usuario (actúa primero) o la más robusta más alejada (anclaje principal arriba y secundario abajo).
-*   **SAS con triángulo de fuerzas:** Reparte la carga de manera equitativa y multidireccional entre dos o más seguros. Es crucial que el ángulo formado por los lados exteriores del triángulo no supere los 60° para evitar sobrecargas en los anclajes; ángulos mayores requieren anclajes más robustos. Si se usa un anillo auxiliar, hay que asegurar que el nudo de unión no moleste. Si un anclaje falla, los otros deben soportar la carga, por lo que todos deben ser de igual calidad. Si la calidad es desigual, se debe bloquear el triángulo con un nudo en el lado del anclaje dudoso.
+*   **Caída (1,2 m) con Cuerda Dinámica:** Longitud de cuerda utilizada 0,6 m, resultando en una fuerza de choque de 7 kN.
+*   **Caída (1,2 m) con Anillo de Cinta o Cuerda Estática:** Longitud de cuerda utilizada 0,6 m, resultando en una fuerza de choque de 18 kN.
+*   **Equivalencia:** 1 kN = 100 kg de fuerza.
 
-## Reenvíos y Desviadores
+**Imagen 10: Fuerza de choque según el tipo de cuerda.** Muestra visualmente las fuerzas de choque resultantes de caídas en diferentes configuraciones de cuerda.
 
-Los **reenvío y desviadores** son instalaciones muy utilizadas en rescate urbano y trabajos verticales, a veces usando un trípode como desviador. Sin embargo, su mal uso por desconocimiento de las fuerzas implicadas puede sobrecargar los anclajes. El porcentaje de incremento de carga en el anclaje del desviador varía en función del ángulo de la cuerda: a mayor ángulo, menor sobrecarga. Por ejemplo, con un ángulo de 90°, la carga puede aumentar al 141%. Si el ángulo se cierra al límite, se produce un efecto polea que duplica la carga original. Por ello, es fundamental vigilar los ángulos y sobredimensionar adecuadamente los anclajes y materiales de los desviadores.
+**7.4. Efecto Polea**
 
-En conclusión, la preparación exhaustiva, el conocimiento de la normativa y de la física de la intervención, y la habilidad en el manejo de equipos y técnicas de anclaje son la base para garantizar la seguridad y eficacia en cualquier operación de rescate y trabajo en altura, minimizando riesgos y asegurando el éxito de la misión.
+En una caída, el último mosquetón por el que pasa la cuerda experimenta dos fuerzas simultáneamente: la fuerza de choque transmitida por el bombero que cae y la fuerza proveniente del bombero asegurador. La suma de estas dos fuerzas se denomina "efecto polea".
+
+Debido al rozamiento en el mosquetón, la fuerza que llega del asegurador es menor que la del bombero en caída. La fuerza total ejercida en el último punto de la cuerda es aproximadamente 1,60 veces la fuerza que actúa sobre el bombero en caída. En una intervención, es importante recordar que en el centro de la polea (anclaje) se suman las cargas de cada lado. Por ejemplo, si se genera una fuerza de 9 kN en la caída, el asegurador recibe aproximadamente 6 kN, y el anclaje soporta una carga de 15 kN (9 kN + 6 kN).
+
+**7.5. Factor de Caída**
+
+El factor de caída indica la severidad de una caída: a mayor valor, mayor gravedad. En escalada, su valor habitual se encuentra entre 0 y 2. Se calcula dividiendo la altura de la caída entre la longitud de la cuerda utilizada para detenerla:
+
+**Factor de Caída = (Longitud de la caída) / (Longitud de la cuerda para detenerla)**
+
+El factor de caída máximo en circunstancias normales es 2. Es importante notar que la dureza de la caída no depende únicamente de su altura, sino de la longitud de la cuerda; una cuerda más larga se estira más y, por ende, amortigua mejor la caída.
+
+**Imagen 11: Efecto polea.** Ilustra cómo las fuerzas se duplican en el punto de anclaje debido al efecto polea.
+**Imagen 12: Efecto polea cargas.** Muestra las fuerzas que actúan sobre el asegurador y el anclaje.
+
+La figura central en la imagen 13 presenta la situación más peligrosa: un factor de caída de 2 (ejemplo: caída de 10 m con 5 m de cuerda en uso), siendo la más severa para el cuerpo y la que genera mayor sobrecarga en los anclajes. Un factor de caída de 1 (ejemplo: caída de 10 m con 10 m de cuerda en uso) es menos grave. Los factores de caída inferiores a 1 son considerablemente más seguros y generan menos sobrecarga. A mayor cantidad de metros de cuerda en uso y más seguros intermedios, menor será el factor de caída. Un caso excepcional es cuando se supera un factor de caída de 2, alcanzando un factor de 10 (ejemplo: caída de 10 m con 1 m de cuerda), lo que ocurre, por ejemplo, al caer del cabo de anclaje. En este escenario, el bombero asciende por una línea de vida fija de cable sin bloqueador. Esta situación es altamente peligrosa, ya que una caída podría romper el arnés o la cuerda, provocando un accidente. Es crucial destacar que, en las progresiones, la cuerda utilizada debe ser siempre dinámica. Este sistema es muy útil para resolver rápidamente situaciones o descender.
+
+**Imagen 13: Factor de caída y longitud de la cuerda.** Muestra diferentes escenarios de factor de caída (1, 2, y 10) y sus implicaciones.
+
+**7.6. Aseguramiento Dinámico y Estático**
+
+Como se mencionó al hablar del efecto polea, la detención de una caída impone una sobrecarga a los anclajes, afecta la fuerza de choque que recibe el bombero y repercute en la instalación de la cadena de seguridad. Se insiste en el uso de cuerda dinámica para un aseguramiento dinámico.
+
+Desde el punto de vista del dispositivo de frenado, existen dos tipos de aseguramiento:
+
+*   **Aseguramiento Estático:** Se produce cuando el dispositivo de freno bloquea la cuerda de forma fija, impidiendo su deslizamiento. Esto detiene la caída rápidamente, pero todos los elementos de la cadena de seguridad sufren un fuerte impacto. Ejemplos de frenos estáticos son el GRIGRI® 2 y el I'D® 2.
+*   **Aseguramiento Dinámico:** Ocurre cuando el dispositivo de freno (como un ocho o un nudo dinámico) permite el deslizamiento de la cuerda, generando fricción que convierte parte de la energía en calor. Esto reduce significativamente el impacto sobre la cuerda y los demás elementos de seguridad, haciendo la detención más suave y segura.
+
+**Imagen 14: Aseguramiento estático.** Muestra las cargas distribuidas en un sistema de anclajes estáticos (800 daN, 2000 daN, 1200 daN).
+**Imagen 15: Aseguramiento dinámico.** Muestra las cargas distribuidas en un sistema de anclajes dinámicos, que reducen las fuerzas aplicadas (875 daN, 525 daN, 350 daN).
+
+**8. Acceso Mediante Cuerdas: Concepto de Doble Cuerda**
+
+En rescate, el término "doble cuerda" se refiere al uso simultáneo de dos cuerdas: una cuerda de tracción y una cuerda de vida o seguro. Es importante no confundir esto con la cuerda de uso en doble ya descrita.
+
+*   **Cuerda de Tracción:** Es la cuerda principal para las maniobras de rescate y trabajos en altura. Generalmente es una cuerda semiestática de "tipo A" con un diámetro de entre 10-11 mm. No es apta para asegurar caídas en progresión, por lo que siempre se complementa con una cuerda dinámica.
+*   **Cuerda de Vida o de Seguro:** Proporciona seguridad en caso de fallo de cualquier elemento de la cuerda de tracción (SAS, mosquetones o la propia cuerda). En caso de un fallo, el usuario quedaría suspendido de esta cuerda. Normalmente, es dinámica para absorber la fuerza de choque; sin embargo, si el trabajo se asegura con un sistema anticaídas con absorbedor de energía, la cuerda de seguro puede ser semiestática. La cuerda de vida o seguro siempre debe estar sujeta a un SAS independiente de la cuerda de tracción.
+
+**9. Sistemas de Anclaje de Seguridad (SAS)**
+
+Los Sistemas de Anclaje de Seguridad (SAS) son los anclajes utilizados en rescates en altura, equivalentes a las "reuniones" en alpinismo y escalada. Los SAS deben cumplir características específicas:
+
+*   **Múltiples Anclajes:** Deben contar con al menos dos anclajes, siendo tres el número ideal. Al menos uno de ellos debe ofrecer garantía total de resistencia, preferiblemente dos o más.
+*   **Mosquetones de Seguridad:** Deben ser sobredimensionados, con seguro y una resistencia longitudinal superior a 22 kN.
+*   **Cintas:** Deben tener la resistencia adecuada y estar en perfectas condiciones.
+*   **Cuerdas:** Deben estar en perfecto estado de uso, nunca cuerdas auxiliares.
+*   **Punto Central de Anclaje:** El sistema debe incluir un punto central de anclaje.
+*   **Simplicidad:** Su diseño debe ser simple para permitir una verificación rápida y eficaz, y utilizar poco material.
+
+**9.1. Localización de los Anclajes**
+
+La elección y montaje de los puntos de anclaje son los aspectos más críticos en la configuración de un sistema de seguridad. La ubicación de los anclajes depende de la experiencia del rescatador y debe cumplir los siguientes requisitos:
+
+*   **Resistencia a Cargas:** Los anclajes deben ser capaces de resistir grandes cargas (como las generadas por el factor de caída). En general, deben ofrecer las máximas garantías. Si la capacidad del lugar es limitada, se debe aumentar el número de anclajes.
+*   **Condición del Anclaje:** Es preferible utilizar un árbol vivo antes que uno muerto, o un camión antes que un coche, como anclaje.
+*   **Naturaleza Estructural:** Es más seguro anclarse a un elemento estructural robusto (viga, pilar) que a un perfil de ventana.
+*   **Posición de la Fuerza:** Es mejor situar el anclaje lo más abajo posible en el plano vertical del lugar para minimizar el brazo de palanca (ejemplo: anclar a la base de una farola en lugar de la parte superior).
+*   **Dirección de la Carga:** Es recomendable revisar la dirección de la carga e instalar anclajes multidireccionales. Si son unidireccionales, se debe verificar que la dirección de la carga no pueda cambiar y comprometer la seguridad.
+*   **Proximidad al Sujeto:** Lo ideal es que los anclajes estén cerca y directamente sobre el sujeto. Si esto no es posible, se requerirá la instalación de reenvíos y desviadores.
+
+**9.2. Tipos de Puntos de Anclaje del SAS**
+
+**9.2.1. SAS en Línea**
+
+Este sistema se emplea cuando se necesita unir anclajes muy distanciados o con resistencias desiguales. La carga principal recae sobre el anclaje de mayor calidad, procurando evitar grandes bucles entre los anclajes.
+
+Existen dos configuraciones principales para el SAS en línea:
+
+*   **Anclaje Más Robusto Próximo:** Cuando el anclaje más resistente está más cerca del punto de operación, actúa primero, y en caso de fallo, los demás anclajes entran en carga.
+*   **Anclaje Principal Arriba, Secundario Abajo:** Esta configuración se representa en la figura.

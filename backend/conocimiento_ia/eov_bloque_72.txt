@@ -1,72 +1,93 @@
-# Vehículos de Rescate y Altura en Servicios de Bomberos
+Este temario ha sido elaborado de forma original y exhaustiva a partir del contenido facilitado, manteniendo la totalidad de la información relevante.
 
-Los servicios de extinción de incendios y salvamento requieren una flota de **vehículos especializados** para el transporte de personal y material, que permitan abordar eficazmente las diversas tareas y funciones encomendadas. En este contexto, los vehículos se clasifican y codifican conforme a la norma europea **EN 1846**, la cual se estructura en tres partes principales que abordan la nomenclatura y designación, los requisitos comunes de seguridad y prestaciones, y los equipos instalados de manera fija. Esta normativa es esencial para garantizar que los vehículos cumplen con los estándares necesarios para su homologación y un óptimo desempeño operativo.
+### **Vehículos de Altura**
 
-## Tipología y Características Generales de Vehículos Especiales
+**6.1. Seguridad y Uso Específico**
 
-Los vehículos de bomberos se construyen adaptándose a las necesidades específicas del servicio, siendo los propios bomberos quienes definen las especificaciones técnicas. Se clasifican según su masa total en carga (MTC) como **ligeros** (entre 2 y 7,5 t), **medios** (entre 7,5 y 14 t) o **pesados** (más de 14 t). Adicionalmente, se categorizan por su capacidad de tránsito (**urbano**, **rural** o **todo terreno**) y por su principal aplicación (en 9 grupos y 4 subgrupos, como autobombas, vehículos con equipo elevador, furgones de salvamento, ambulancias, entre otros).
+Para garantizar la seguridad en el uso de vehículos de altura, como autoescalas o autobrazos, es fundamental considerar diversas cuestiones antes, durante y después de su operación en una intervención.
 
-### Vehículos de Rescate
+**6.1.1. Antes del Uso**
 
-Los **vehículos de rescate**, también conocidos como furgones de salvamento, están equipados para operaciones de rescate acuático, vial y otras emergencias, incluyendo herramientas de separación y corte, así como material sanitario. Su diseño y equipamiento varían según las necesidades específicas de cada servicio. Pueden incorporar una pequeña cisterna de agua, tomas de fuerza para alimentar generadores eléctricos o grupos hidráulicos de excarcelación, pequeñas grúas y cabestrantes. Dentro de esta categoría se encuentran:
-*   **Furgones de Salvamentos Varios (FSV)**: Designación genérica para furgones adaptados a diversas necesidades de rescate.
-*   **Furgones de Equipo Acuático (FEA)** y **Furgones de Escalada y Espeleología (FER)**: Específicamente preparados para rescate subacuático o de montaña, incluyendo material para que el personal pueda equiparse dentro del vehículo.
-*   **Ambulancias (AMB)**: Vehículos asistenciales sometidos a normativa específica (EN 1789).
+Previo a cualquier intervención, se deben verificar las siguientes condiciones:
 
-### Vehículos de Altura (Autoescalas y Autobrazos)
+*   El vehículo debe estar en perfectas condiciones de funcionamiento y circulación.
+*   El conjunto de la escalera debe estar completamente recogido y apoyado en su portaescalera.
+*   El sistema de apoyo hidráulico debe estar recogido, con las lámparas testigo de los apoyos apagadas en la cabina del conductor.
+*   La toma de fuerza auxiliar debe estar desconectada, con la lámpara testigo apagada en la cabina del conductor.
+*   La cesta de salvamento debe estar abatida, con su lámpara testigo apagada en la cabina del conductor.
+*   El equipamiento debe estar completo.
+*   Todos los elementos y módulos del equipamiento deben estar sujetos en sus alojamientos y todos los bloqueos y enclavamientos debidamente cerrados.
+*   El depósito de carburante debe estar completamente lleno.
 
-Estos vehículos son cruciales para el trabajo en altura y requieren consideraciones especiales de seguridad y uso.
-*   **Antes de la utilización**: Es imprescindible asegurar que el vehículo esté completamente operativo y listo para circular, con la escalera totalmente recogida y apoyada, el sistema de apoyo hidráulico y la toma de fuerza auxiliar desconectados (con sus respectivas luces indicadoras apagadas), la cesta de salvamento abatida, y todo el equipo completo, sujeto y bloqueado en sus alojamientos. Además, el depósito de combustible debe estar lleno.
-*   **Durante el desplazamiento**: Se deben activar las señales prioritarias (ópticas y acústicas) y respetar el código de circulación. La conducción debe ser cautelosa debido al **elevado centro de gravedad** y al **mayor radio de giro** del vehículo, lo que incrementa el riesgo de desviaciones y vuelcos en curvas rápidas. La altura del vehículo también es mayor, lo que exige precaución en puentes (verificando la capacidad de carga) y túneles (verificando la altura y anchura).
-*   **Durante la intervención**: Es fundamental accionar el freno de estacionamiento y el freno de mano, conectar las luces intermitentes y rotativas, y acordonar la zona de trabajo para proteger al público y al personal.
-*   **Selección del emplazamiento**: Es el factor más crítico. Implica una valoración inicial para determinar la ubicación óptima de la torre, la posición de los apoyos, la presencia de obstáculos (como cables o ramas), y la firmeza del terreno. Es preferible avanzar que retroceder, y el espacio delante del vehículo no debe ser ocupado. La distancia a objetos se puede medir con precisión utilizando un medidor láser. El **campo de trabajo** de cada vehículo se define por diagramas de extensión máxima y mínima, que pueden variar desde una circunferencia de 360º hasta una elipse en la extensión mínima. Es crucial respetar la **pendiente máxima** permitida (10%) y la **capacidad portante** del terreno (ej. 100 N/cm² en carreteras), prestando especial atención a aceras, jardines y zonas de alcantarillado.
+**6.1.2. Durante el Desplazamiento**
 
-### Partes y Elementos de Autoescalas y Autobrazos
+Durante el movimiento del vehículo, se deben aplicar las siguientes medidas:
 
-Una **autoescala** es un vehículo con un conjunto de tramos de escalera que se elevan, extienden y giran para acceder a diferentes alturas.
-*   **Sistema Motriz**: Compuesto por bombas hidráulicas controladas desde el puesto de mando. La elevación se logra mediante cilindros hidráulicos con bloqueo automático en caso de fallo de presión. Los cables de extensión y retracción se enrollan en tambores accionados hidráulicamente. El giro se realiza por un engranaje sinfín autoblocante con motor de aceite.
-*   **Sistema de Equilibrado**: Incluye un bloqueo de ballestas en el eje trasero, estabilizadores (zancas) que aumentan la superficie de apoyo para absorber momentos de vuelco, y un dispositivo de ajuste lateral que nivela los peldaños de la escalera incluso con el chasis inclinado (hasta 7º).
-*   **Juego de Tramos**: Formados por perfiles tubulares de acero electrosoldado, protegidos contra la corrosión interna y con mínima exposición al viento. Se guían por rodillos de material plástico y se accionan por cables. El tramo inferior puede tener un anclaje para elevación de cargas, mientras que el superior dispone de anclajes para barquillas, lanzas monitoras e iluminación. Los peldaños están forrados con material antideslizante.
-*   **Áreas de Operación**: Definidas por diagramas que consideran la extensión de los apoyos, los grados de elevación y giro, y el peso total soportado en la cesta y los tramos. Una señal acústica y el bloqueo se activan si se superan los parámetros programados.
-*   **Vientos**: La longitud de estiraje debe reducirse si la velocidad del viento supera los 25 km/h (Beaufort 5). Se prohíbe el uso si supera los 55 km/h (Beaufort 7).
+*   Las señales prioritarias deben estar activadas, haciendo valer el derecho de paso, y se debe seguir el código de circulación sin restricciones.
+*   El comportamiento de una autoescala no es comparable al de un camión o bomba, debido a:
+    *   Su elevado centro de gravedad, que la hace propensa a desviaciones y vuelcos en curvas tomadas a alta velocidad.
+    *   Un mayor radio de giro, ya que el conjunto de la escalera sobresale de la cabina del conductor.
+    *   Una mayor altura del vehículo debido al conjunto de la escalera.
+*   Es crucial que los túneles por los que se transite posean el ancho y la altura suficientes.
 
-Los **autobrazos** se distinguen por tener un brazo principal telescópico con una cesta en su extremo. Sus elementos principales incluyen:
-*   **Sistema Estabilizador**: Compuesto por cuatro apoyos telescópicos tipo H con accionamiento hidráulico, que garantizan la estabilidad de la plataforma en cualquier posición, con control individual o simultáneo.
-*   **Sistema de Brazos**: Generalmente consta de tres brazos articulados: el principal es telescópico con cuatro secciones, el segundo soporta el peso de la cesta y el tercero forma parte del sistema de nivelación de la cesta. Los movimientos se controlan mediante cilindros hidráulicos.
-*   **Escalera del Brazo**: Siempre lista para su uso, facilita el acceso a la cesta sin dificultad y permite el ascenso/descenso del personal.
-*   **Sistema Hidráulico**: Funciona con una bomba hidráulica de pistones de caudal variable, accionada por la toma de fuerza del vehículo.
-*   **Sistema de Reserva**: En caso de fallo de la bomba principal, un sistema independiente permite realizar todos los movimientos de los brazos y apoyos, aunque a menor velocidad.
-*   **Monitor de Agua**: Con mando a distancia, para todas las operaciones de extinción.
+**6.1.3. Durante la Intervención**
 
-## Riesgos y Medidas de Seguridad en Vehículos de Altura
+Las precauciones durante la intervención son:
 
-El uso de autoescalas y autobrazos conlleva riesgos específicos que deben mitigarse con medidas de seguridad rigurosas:
-*   **Vuelco**: Es el principal peligro, especialmente en superficies inclinadas o de baja adherencia. La estabilidad se ve comprometida si la inclinación del terreno excede el 14º.
-*   **Viento Fuerte**: Puede causar balanceo y deformación incontrolada de la escalera, poniendo en peligro la estabilidad. Se utilizan cables tensores en vientos moderados.
-*   **Sobrecarga**: El peso excesivo en la cesta o en el conjunto de la escalera reduce la capacidad adicional. La cesta de salvamento tiene un límite de 3 personas, y el conjunto de la escalera, un máximo de 8.
-*   **Tensión Eléctrica**: El contacto con elementos energizados es un riesgo grave. Se utilizan calces que conducen corriente para asegurar la descarga a tierra.
-*   **Deslizamiento**: En superficies inclinadas o de baja adherencia (nieve, hielo, aceite), la autoescala puede deslizarse. Es crucial verificar la inclinación del terreno y usar calzos adecuados.
-*   **Caída de Personal**: Riesgo presente si la cesta de salvamento está inclinada o por movimientos bruscos. Es obligatorio el uso de arneses de seguridad.
-*   **Aplastamiento**: Durante la puesta en marcha del sistema de apoyo. Se debe asegurar que no haya personal en el radio de acción.
+*   Accionar el freno de estacionamiento y el freno de mano.
+*   Conectar las luces intermitentes y las luces de identificación (rotativos).
+*   Acordonar la zona de trabajo de la autoescala para proteger el tránsito público. Es vital asegurarse de que ninguna persona no autorizada acceda a la zona de trabajo de la autoescala.
 
-## Mantenimiento de Vehículos de Altura
+**6.1.4. Elección del Emplazamiento**
 
-El mantenimiento de los vehículos de altura es fundamental para su seguridad y operatividad.
-*   **Después de cada uso**: Se debe revisar el estado general del trípode de rescate y la camilla, asegurándose de que estén plegados, limpios y secos.
-*   **Revisiones periódicas**: El estado de la estructura de la escalera, el sistema de apoyo hidráulico, el puesto de mando, la cesta, las instalaciones eléctricas, los cables de acero y todas las piezas deben ser verificados. Cualquier daño o deformación debe ser reparado por personal cualificado o reemplazado.
-*   **Limpieza**: Los componentes deben limpiarse con agua, jabón neutro y un cepillo, evitando disolventes o hidrocarburos.
-*   **Transporte y almacenamiento**: Los equipos deben guardarse plegados y bloqueados en su lugar asignado en el camión, protegidos de la humedad, suciedad y luz solar directa.
+La ubicación del vehículo de altura es un factor determinante para el éxito de las operaciones. Al llegar, se debe realizar una valoración inicial para identificar el lugar adecuado, considerando los accesos, las fachadas afectadas, y que es más sencillo avanzar que retroceder. El espacio delantero del vehículo no debe ser ocupado por otro vehículo. Es fundamental conocer las dimensiones del vehículo de altura en planta y con los apoyos extendidos.
 
-### Fichas de Inspección
+Para un posicionamiento y ubicación correctos, especialmente en el CEIS Guadalajara, se siguen estas acciones, aunque pueden variar según las características específicas del vehículo:
 
-Para el control y mantenimiento se emplean **fichas de inspección** que detallan elementos a revisar y su estado (correcto/incorrecto), incluyendo:
-*   **Cesta**: Estado, sujeción, cierres.
-*   **Peldaños**: Estado y limpieza.
-*   **Largueros y Cables de acero**: Estado sin roturas ni deformaciones.
-*   **Pieza de la escalera**: Estado.
-*   **Sistemas (apoyo hidráulico, puesto de mando, instalaciones eléctricas)**: Funcionamiento correcto.
-*   **Equipamiento**: Verificación de existencia y limpieza.
+1.  Verificar la accesibilidad hasta la posición deseada. Comprobar visualmente la pendiente y la capacidad portante del terreno.
+2.  Posicionar el vehículo lo más cerca posible de la fachada para permitir la máxima extensión de los apoyos (5.20 m).
+3.  Una vez marcado el punto central para estabilizar el vehículo, se deben verificar los puntos de apoyo, evitando jardines, alcantarillados, arquetas de riego o terrenos con resistencia inadecuada, y considerando líneas de tensión aéreas.
+4.  Si es posible, posicionar el vehículo de forma que pueda girar 90°.
 
-### Revisiones y Prácticas
+Para comprobar el alcance visual hasta el objetivo con la cesta, se puede utilizar un medidor láser para obtener con precisión la distancia horizontal (X) y vertical (Y) y verificar su compatibilidad con las gráficas de campo de trabajo. El proceso es el siguiente:
 
-El mantenimiento incluye labores de **limpieza** y un **calendario de revisiones** semanales, además de prácticas con autoescala, asegurando que el personal utilice el equipamiento correcto (ropa de parque, arnés y casco) y que se prohíba el uso de la cesta a personal ajeno al operativo, salvo instrucción expresa. Las prácticas deben realizarse en condiciones climáticas adecuadas, en espacios amplios y sin pendientes ni proximidad a cableado eléctrico.
+1.  Encender el láser.
+2.  Seleccionar la función de mediciones indirectas (distancia indirecta vertical II, 2 ángulos, 2 distancias).
+3.  Medir la distancia horizontal (X).
+4.  Medir la distancia oblicua (Z), sin mover el láser.
+5.  El láser proporcionará la distancia vertical (Y).
+6.  Verificar en la gráfica de campos de trabajo si el objetivo es alcanzable con las distancias X e Y obtenidas.
+
+Las medidas de seguridad incluyen considerar el entorno de los edificios (según CTE), la pendiente máxima del 10%, la capacidad portante de las carreteras en España (100 N/cm²), y ser cuidadoso con la resistencia del terreno en aceras, jardines y alcantarillados a cota cero.
+
+**Tabla 15. Campo de utilización vertical M32 L-AS con cesta de rescate RC 300**
+
+| Modo de funcionamiento       | Carga Máxima             | Volado Máximo (a partir del borde exterior del platillo de apoyo) |
+| :--------------------------- | :----------------------- | :---------------------------------------------------------------- |
+| A. Funcionamiento de cesta con 3 personas | 3 personas (270 kg)      | 19,1 m                                                            |
+| B. Funcionamiento de cesta con dos personas | 2 personas (180 kg)      | 20,1 m                                                            |
+| C. Funcionamiento de cesta con una persona | 1 persona (90 kg)        | 21,8 m                                                            |
+| D. Funcionamiento de cesta sin personas | -                        | 23,9 m                                                            |
+| E. Límite sin cesta de 1 persona | 1 persona (90 kg)        | 25,7 m                                                            |
+| F. Funcionamiento de puente | 12 personas (1.080 kg)   | 27,6 m                                                            |
+
+Las autoescalas giratorias, al circular sobre suelos como hielo, arena o barro, pueden deslizarse. Por ello, se debe verificar que la superficie de inclinación no exceda los 7º, y no se deben usar calzos en estas condiciones. Si la pendiente longitudinal supera los 14º, la autoescala podría volcar o deslizarse, prohibiéndose su uso.
+
+El riesgo de caída es inminente si la cesta de salvamento está inclinada. Un fallo en la supervisión de la inclinación detendrá la cesta a aproximadamente 10º y bloqueará todos los movimientos del equipo de rescate en altura. Es crucial la comunicación radiofónica con las personas en la cesta para tranquilizarlas. El operador no debe abandonar el puesto de mando principal durante la operación de rescate en altura, y las personas en la cesta deben descender por la escalera.
+
+En caso de riesgo de caída, se debe tener en cuenta que la cesta de salvamento se nivela horizontalmente con el control de la cesta en posición de presión positiva. Los movimientos basculantes fuertes del equipo de rescate en altura pueden provocar la eyección de las personas en la cesta. Si los peldaños de la escalera tienen inclinación lateral, nadie debe subirse a ella.
+
+Los movimientos del conjunto de la escalera siempre conllevan riesgo de caída si no se adoptan las medidas de seguridad adecuadas. Es obligatorio el uso del arnés de seguridad al trabajar con estos medios.
+
+Otros riesgos potenciales incluyen:
+
+*   Resbalones si los peldaños no están alineados.
+*   Contusiones en manos y pies debido a movimientos de recogida y extensión.
+*   Evitar moverse dentro de la cesta; permanecer de pie y en calma.
+*   Riesgo de aplastamiento al arrancar el sistema de apoyo de la autoescala; asegurarse de que no haya nadie en el radio de acción.
+
+**6.3. Partes y Elementos de Autoescalas y Autobrazos**
+
+**6.3.1. Autoescala**
+
+*   **Sistema Motriz:** Este sistema, presente en los modelos automáticos, se encarga de la elevación, extensión y giro de los tramos de la escalera. Se controla mediante bombas hidráulicas desde el puesto de mando. La elevación se realiza con cilindros hidráulicos equipados con mecanismos de bloqueo automático en caso de fallo de presión. Los cables para la extensión y recogida de la escalera se enrollan en tambores de accionamiento hidráulico.

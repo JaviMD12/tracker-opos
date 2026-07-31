@@ -1,77 +1,159 @@
-### Conceptos Fundamentales de la Edificación y sus Propiedades Físicas
+## Análisis de Patologías en la Edificación
 
-La intervención eficaz en situaciones de emergencia en edificaciones requiere un conocimiento profundo de los principios de la física y las propiedades de los materiales de construcción. Estos conceptos son cruciales para evaluar la estabilidad estructural y anticipar el comportamiento de los elementos ante diversas solicitaciones.
+El estudio de patologías en la edificación abarca el análisis de la degradación estructural y las manifestaciones visibles de dichos procesos, como grietas y fisuras.
 
-Una **edificación** se define como una construcción fija, elaborada con materiales resistentes, destinada principalmente a la habitación humana o a otros usos. La **arquitectura** comprende el arte y la técnica de diseñar y proyectar estas estructuras y espacios, mientras que la **construcción** se refiere al conjunto de procedimientos técnicos empleados para levantar los elementos que conforman una edificación. Para los cuerpos de bomberos, entender tanto las características de diseño (normativa) como las de ejecución (sistemas constructivos y materiales) es fundamental, ya que configuran el entorno de sus operaciones.
+### I. Manifestaciones de Grietas y Fisuras
 
-#### Principios Físicos Fundamentales
+La reducción del espacio de interconexión tensional entre los lados de una grieta provoca una concentración de tensiones en un área pequeña. La sobrecarga local resultante puede romper el equilibrio tensional, incrementando las fuerzas de compresión y tracción. El aumento de estas fuerzas, a su vez, favorece la extensión de la grieta y reduce aún más el área de interconexión.
 
-El estudio de la mecánica que analiza el equilibrio de fuerzas en sistemas físicos se denomina **estática**. El **equilibrio estático** es el estado en el que las fuerzas actuantes no producen movimientos relativos en los elementos del sistema.
+**Características Generales de Grietas y Fisuras en Patologías Constructivas:**
+*   Surgen en puntos de máxima tracción.
+*   Su trazado es perpendicular a las fuerzas de tracción y paralelo a las de compresión.
 
-**1. Fuerza:**
-Es una magnitud vectorial que describe la interacción entre cuerpos, es decir, la acción que un cuerpo puede ejercer o sufrir. Se calcula como el producto de la masa por la aceleración (F = m · a). En el contexto de la edificación, una fuerza se caracteriza por su **módulo** (magnitud), **dirección**, **sentido** y **punto de aplicación**. La unidad estándar de fuerza en el Sistema Internacional (SI) es el **Newton (N)**, equivalente a un kilogramo-metro por segundo al cuadrado (Kg m/s²).
+Para un análisis exhaustivo, se procede de una evaluación microscópica a una macroscópica.
 
-El comportamiento de las fuerzas se rige por las tres leyes de Newton:
-*   La **Primera Ley de Newton**, o Principio de Inercia, postula que un cuerpo mantendrá su estado de reposo o movimiento rectilíneo uniforme a menos que una fuerza externa neta actúe sobre él.
-*   La **Segunda Ley de Newton** establece que la fuerza neta aplicada sobre un cuerpo es directamente proporcional a la aceleración que adquiere, y esta aceleración tiene la misma dirección que la fuerza neta.
-*   La **Tercera Ley de Newton**, o Principio de Acción y Reacción, indica que por cada acción existe una reacción igual y opuesta; por lo tanto, para que un sistema permanezca en equilibrio, cualquier fuerza aplicada (acción) debe ser contrarrestada por una fuerza igual y de sentido contrario (reacción).
+**A. Análisis Microscópico o Local**
+Se observa que la distribución de tensiones, y la posterior aparición de grietas o fisuras, se localizan en los puntos donde se producen variaciones en las isostáticas de compresión y tracción, como en la parte inferior del vano central o en los nudos rígidos (empotramientos). Las zonas de máxima tracción en las caras superior e inferior son propensas a la aparición de estas discontinuidades.
 
-Las fuerzas, como magnitudes vectoriales, pueden ser **compuestas**, lo que implica que pueden sumarse, restarse o multiplicarse para determinar una fuerza resultante.
+**B. Análisis Macroscópico o General**
+A nivel macroscópico, el comportamiento de las grietas en un conjunto estructural (marco) está determinado por la rigidez de sus elementos. El marco, entendido como un rectángulo vertical delimitado por elementos horizontales (vigas, zunchos, forjados) y verticales (pilares, pilastras, pies derechos) con relleno o cerramiento interior, puede estar en contacto con el suelo o en el espacio.
 
-**2. Momentos:**
-Un **par de fuerzas** consiste en dos fuerzas paralelas de igual magnitud pero sentidos opuestos. El **momento** de un par de fuerzas, una magnitud vectorial, se define como el producto de la magnitud de una de las fuerzas por la distancia perpendicular entre ellas (brazo del par). Representa la capacidad de un sistema de fuerzas para inducir rotación en un cuerpo alrededor de un eje. Su unidad en el SI es el **Newton-metro (N·m)**. Los momentos pueden ser **positivos** (asociados a un giro horario) o **negativos** (asociados a un giro antihorario) con respecto a un punto. Para contrarrestar una rotación y mantener el equilibrio, se requiere un **momento resistente** o de **empotramiento** de igual magnitud y sentido opuesto. El **punto de aplicación** de una fuerza es crucial, ya que un mayor brazo de palanca resultará en un mayor momento y, en consecuencia, un mayor esfuerzo necesario para mantener el equilibrio. Un par de fuerzas no contrarrestado tenderá a equilibrarse por sí mismo, reduciendo su brazo de palanca hasta que el momento sea nulo.
+Generalmente, las fisuras o grietas patológicas se manifiestan en el relleno interior del marco, siendo este el lugar donde se pueden interpretar, independientemente de los problemas en elementos del pórtico (hormigón, hierro o madera). La morfología de las grietas depende de la zona más vulnerable al esfuerzo.
 
-El principio de los momentos es la base del funcionamiento de una **palanca**, una barra rígida que gira sobre un punto fijo (fulcro). El equilibrio en una palanca se alcanza cuando el momento de la potencia (P) por su brazo de potencia (dp) es igual al momento de la resistencia (R) por su brazo de resistencia (dr) (P · dp = R · dr). Así, para vencer una resistencia sin aumentar la fuerza aplicada, se puede optar por incrementar el brazo de la potencia o disminuir el brazo de la resistencia.
+**Tipos de Marcos:**
+*   **Marcos Rígidos:** Presentan uniones robustas entre muros y otros componentes estructurales (vigas y pilares). Un alargamiento en una diagonal (tracción) y un acortamiento en la opuesta (compresión) generan grietas inclinadas, típicamente a unos 45º.
 
-**3. Centro de Gravedad:**
-El **centro de gravedad** de un cuerpo es el punto donde se puede considerar concentrada la totalidad de su peso. Si un cuerpo se apoya en este punto, se mantendrá en equilibrio en cualquier posición. Este punto representa el lugar de aplicación de una fuerza única equivalente a la resultante de todas las cargas que actúan sobre el cuerpo. Es importante notar que el centro de gravedad no siempre coincide con un punto físico del material (por ejemplo, en una esfera hueca, se encuentra en su centro geométrico, que es un espacio vacío). La estabilidad de un objeto apoyado sobre una superficie plana es **estable** si la línea vertical que pasa por su centro de gravedad se proyecta dentro de su base de apoyo. Si el cuerpo se inclina ligeramente y su centro de gravedad se mantiene dentro de la base, un **momento restaurador** lo devolverá a la posición original. Sin embargo, si el centro de gravedad cae fuera de la base de apoyo, el cuerpo continuará rotando hasta alcanzar una nueva posición de equilibrio o colapsar.
+**Variaciones del Modelo Básico y sus Causas:**
+Este modelo básico exhibe variaciones frecuentes debido a dos causas principales:
+*   **Elementos Constructivos Heterogéneos:** La falta de uniformidad en las propiedades constructivas de los materiales provoca el fallo en el punto más débil. En muros de fábrica con mortero, el fallo suele ocurrir en las juntas, generando grietas con forma de escalera.
 
-#### Comportamiento Mecánico de los Materiales
+### II. Grietas y Fisuras por Tipología y Ubicación
 
-Los materiales de construcción exhiben diferentes respuestas a las cargas, clasificadas en términos de elasticidad y plasticidad.
+**A. En Huecos de Puertas y Ventanas**
+En los huecos de puertas y ventanas, las grietas y fisuras surgen debido a la concentración de tensiones en las esquinas.
 
-**1. Elasticidad:**
-La **elasticidad** es la capacidad intrínseca de un material para deformarse bajo la acción de fuerzas externas y recuperar su forma y dimensiones originales una vez que dichas fuerzas son retiradas. Las variaciones en su forma y tamaño son, por lo tanto, temporales y completamente reversibles.
+**B. En Marcos Flexibles**
+Las uniones débiles entre muros, pilares y vigas (marcos flexibles) resultan en un desplazamiento relativo entre ellos. La magnitud de este desplazamiento depende de la adherencia entre los elementos.
 
-**2. Plasticidad:**
-Cuando las fuerzas aplicadas superan el **límite de elasticidad** del material, este entra en la fase de **plasticidad**. En este estado, las deformaciones que experimenta el material son permanentes e irrecuperables, lo que implica una alteración en sus enlaces moleculares y, a menudo, una reducción de su sección transversal y de su capacidad resistente.
+**C. Modelos Básicos de Grietas y Fisuras en Puntos de Contacto**
+Se identifican los siguientes patrones en los puntos de contacto entre elementos estructurales y paños de cerramiento:
 
-**3. Ley de Hooke y Módulo de Elasticidad Longitudinal (Módulo de Young E):**
-La relación entre la tensión (σ) y la deformación unitaria (ε) en el régimen elástico de un material se describe mediante la **Ley de Hooke**: σ = E · ε. Esta fórmula indica que la tensión en un cuerpo sólido es directamente proporcional a su **Módulo de elasticidad longitudinal (E)** y a la deformación que experimenta. El Módulo de Young es un parámetro esencial para evaluar el comportamiento mecánico de los materiales, permitiendo prever su deformación ante cargas y comparar la rigidez entre distintos elementos. Un valor de E más elevado implica que el material experimentará menores tensiones para una misma deformación unitaria.
-A continuación, se presentan valores aproximados del Módulo de Young (E) para materiales comunes de edificación (expresados en N/mm²):
-*   Mampostería de ladrillo: 3000 - 5000
-*   Maderas duras (frondosas): 10000 - 22500
-*   Maderas blandas (coníferas): 9000 - 11000
-*   Hierro de fundición: 100000
-*   Acero: 210000
-*   Hormigón (Resistencia): 21500 - 39000
+**1. Discontinuidades Horizontales**
+*   **Fisuras cortas:** Son perpendiculares a las fuerzas de tracción e inclinadas aproximadamente a 45º, paralelas entre sí.
+*   **Deslizamiento relativo:** Se manifiesta como una única grieta en el techo que delimita la parte inferior de la viga, con ramales ligeramente inclinados.
 
-Es relevante notar que, bajo una carga idéntica, la madera se deforma considerablemente más en la dirección de sus fibras, el hierro fundido duplica la deformación del acero, y el hormigón puede llegar a deformarse hasta diez veces más que el acero.
+**2. Discontinuidades Verticales**
+*   **Grietas verticales:** Una única grieta vertical o una serie de grietas oblicuas.
+*   **Despegues y giros:** El contacto entre tabique y pilar no soporta las fuerzas de tracción, provocando un despegue con una grieta vertical (en ocasiones, dos grietas verticales) que indica el giro del tabique (mayor abertura en la parte superior).
 
-#### Factores Asociados al Comportamiento Térmico de los Materiales
+**D. Tipologías de Grietas por Causas y Evolución**
+Las grietas pueden clasificarse según su origen (mecánico, físico, químico) y su evolución (vivas o muertas):
+*   **Grietas vivas:** Presentan bordes limpios y un color brillante del material recién expuesto en la fisura, indicando que están activas y progresando.
+*   **Grietas muertas:** Tienen bordes oscurecidos por el polvo y el paso del tiempo, lo que sugiere que la actividad ha cesado.
+La monitorización de la evolución de las grietas se puede realizar eficazmente mediante testigos de yeso.
 
-Las intervenciones en incendios a menudo exponen las estructuras a altas temperaturas, haciendo esencial comprender cómo los materiales reaccionan térmicamente.
+**E. Grietas/Fisuras según la Causa (Hormigón Armado)**
 
-**1. Coeficiente de Conductividad Térmica (λ):**
-Este coeficiente cuantifica la capacidad de un material para conducir el calor y se mide en **Watios por metro-grado Celsius (W/m·°C)** o **Watios por metro-Kelvin (W/m·K)**. Un valor de λ más bajo indica una mayor capacidad de aislamiento térmico del material.
-Ejemplos de conductividad térmica para diversos materiales (en W/m·K):
-*   Poliuretano: 0.018 - 0.025
-*   Fibra de vidrio: 0.03 - 0.07
-*   Corcho: 0.04 - 0.30
-*   Madera: 0.13
-*   Ladrillo: 0.80
-*   Acero inoxidable: 14 - 16
-*   Acero: 47 - 58
-*   Hierro: 80
-*   Aluminio: 209
-Se deduce que el hierro transporta el calor con mayor eficiencia que el acero, y que materiales como el corcho, la fibra de vidrio y el poliuretano son excelentes aislantes térmicos.
+**1. Causa Mecánica: Pilares**
+*   **Aplastamiento en hormigón:**
+    *   **Manifestaciones:** Grietas muy finas que aparecen en las dos caras opuestas o en las esquinas, con tendencia al pandeo de las barras de armado.
+    *   **Causas:**
+        *   Exceso de carga.
+        *   Hormigón deficiente.
+        *   Armadura insuficiente, o con estribos caídos o no cerrados.
+*   **Desagregación del hormigón:**
+    *   **Manifestaciones:** El hormigón pierde resistencia, desagregándose y desmoronándose.
+    *   **Causas:** Ataque químico del hormigón (interno o externo).
+*   **Tracción:**
+    *   **Manifestaciones:** Grieta horizontal que secciona el soporte.
+    *   **Causas:**
+        *   Asiento del cimiento.
+        *   Excavación de solar medianero.
+        *   Movimiento (alargamiento) del pilar debido a la ausencia de vigas centradoras.
+*   **Cortante:**
+    *   **Manifestaciones:** Fisura en dos caras a 60º y en las otras dos en horizontal.
+    *   **Causas:**
+        *   Hormigón deficiente.
+        *   Empuje horizontal superior al previsto.
+        *   Armadura transversal (estribos) insuficiente.
+        *   Fuertes momentos en pilares muy rígidos.
+        *   Deslizamiento de la cimentación.
+*   **Flexión:**
+    *   **Manifestaciones:** Fisura fina horizontal en la cabeza o pie del pilar.
+    *   **Causas:**
+        *   Hormigón deficiente.
+        *   Armadura insuficiente.
+        *   Aumento del momento por un asiento.
+        *   Anclaje incorrecto de pilar extremo de última planta.
+*   **Pandeo:**
+    *   **Manifestaciones:** Grietas horizontales en una cara del pilar. A veces, antes de las fisuras, se produce el desprendimiento del recubrimiento.
+    *   **Causas:**
+        *   Sección insuficiente.
+        *   Armadura insuficiente.
+        *   Exceso de carga en pilares esbeltos.
 
-**2. Coeficiente de Dilatación Térmica (α):**
-Este coeficiente mide la expansión lineal de un material por cada grado de aumento de temperatura y por unidad de longitud. Esta dilatación lineal se acompaña de una dilatación volumétrica.
-Algunos valores de α (x10⁻⁵) para materiales comunes son:
-*   Madera: 0.2 - 0.9
-*   Ladrillo: 0.9
-*   Hierro: 1.1
-*   Hormigón: 1.17
-*   Acero: 1.2
-Por ejemplo, si una viga de hormigón armado de 10 metros de longitud experimenta un aumento de temperatura de 20°C a 400°C (380°C de incremento), su dilatación lineal sería de aproximadamente 5.76 centímetros (0.000012 x 10 m x 380°C). Estas expansiones pueden generar empujes laterales considerables que, a su vez, pueden comprometer la estabilidad y causar el colapso de la estructura.
+**2. Causa Mecánica: Vigas**
+*   **Aplastamiento:**
+    *   **Manifestaciones:** Reducción localizada del espesor del hormigón.
+    *   **Causas:**
+        *   Exceso de carga.
+        *   Hormigón deficiente.
+        *   Sección pequeña con gran armadura de tracción.
+*   **Flexión:**
+    *   **Manifestaciones:** Grietas en zonas traccionadas. En empotramientos, se observan en la parte central inferior y en las partes superiores de los nudos.
+    *   **Causas:**
+        *   Sobrecarga excesiva.
+        *   Sección insuficiente.
+        *   Insuficiencia de sección metálica: armadura insuficiente o mal colocada.
+        *   Luz mayor a la de cálculo.
+*   **Cortante:**
+    *   **Manifestaciones:** Fisuras cerradas con inclinación entre 45 y 75º hacia el pilar. La rotura puede ser instantánea.
+    *   **Causas:**
+        *   Armadura transversal insuficiente o cercos con menor diámetro o separación.
+        *   Hormigón deficiente.
+*   **Torsión:**
+    *   **Manifestaciones:** Grietas con inclinación entre 45 y 75º en el contorno de la pieza.
+    *   **Causas:**
+        *   Armadura (longitudinal y transversal) insuficiente o cercos sin soldar.
+        *   Muy frecuente en brochales o vigas de fachada.
+*   **Punzonamiento:**
+    *   **Manifestaciones:** Grietas cerradas y concéntricas al pilar.
+    *   **Causas:**
+        *   Escaso espesor de forjado.
+        *   Armadura insuficiente.
+        *   Hormigón de menor resistencia que la prevista.
+
+### III. Causa Física (Fenómenos Higrotérmicos)
+
+**A. Fenómenos Higrotérmicos Previos al Fraguado**
+*   **Asentamiento Plástico o Exudación:** Las partículas gruesas de la mezcla descienden, el agua de amasado asciende a la superficie y se evapora. El hormigón se asienta, disminuyendo de volumen.
+*   **Retracción Plástica o Afogarado:** Fenómeno asociado a una reacción exotérmica con fuerte desprendimiento de calor y posterior enfriamiento. Si la velocidad de evaporación supera la exudación, se produce una contracción de la masa y la aparición de fisuras. Este proceso está fuertemente condicionado por la temperatura ambiente y el viento. Las fisuras suelen oscilar entre 0,2-0,4 mm de ancho.
+
+**B. Fenómenos Higrotérmicos Posteriores al Fraguado**
+*   **Retracción Hidráulica:** Tras el fraguado, el hormigón sigue experimentando un cambio de volumen debido a la pérdida de agua de cristalización y del gel de cemento, provocando contracciones y, por ende, fisuraciones. A diferencia de las fisuras por retracción plástica, estas suelen ser de ancho constante, trazado limpio, sin entrecruzamiento ni ramificaciones, y muy estrechas (generalmente inferiores a 0,02 mm).
+
+**C. Manifestaciones en Elementos Estructurales**
+*   **Pilares:**
+    *   **Manifestaciones:** Fisuras periódicas en las caras expuestas a un mayor soleamiento.
+    *   **Causa:** Exceso de agua en el amasado y curado deficiente con fuerte soleamiento.
+*   **Vigas:**
+    *   **Manifestaciones:** Rápida aparición de grietas en la ubicación de barras y estribos.
+    *   **Causa:**
+        *   Exceso de agua.
+        *   Recubrimientos excesivos de hormigón.
+*   **Vigas de Gran Canto:**
+    *   **Manifestaciones:** Fisuras muy finas periódicas, surgidas durante el endurecimiento del hormigón.
+    *   **Causa:**
+        *   No llega agua de curado a la cara inferior de la viga.
+        *   Armados con escaso recubrimiento.
+*   **Muros:**
+    *   **Manifestación:** Fisura abierta en la coronación, que se cierra a medida que desciende.
+    *   **Causa:** Muros excesivamente largos o sin juntas de hormigonado.
+
+### IV. Causa Química
+
+**A. En Fábricas**
+*   **Eflorescencias:** Pátina blanquecina en piedras porosas causada por la cristalización de sales solubles del agua evaporada. Provoca alteraciones en la piedra como picaduras y disgregaciones.
+
+**B. En Acero**
+*   **Corrosión:** El acero, como otros metales, sufre corrosión electroquímica. Este proceso, combinado con el fuego, tiene un gran poder destructivo. Sin embargo, su acción es más lenta en comparación con los efectos térmicos directos. Los daños no son significativos hasta que el deterioro es avanzado.

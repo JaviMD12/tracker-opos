@@ -1,49 +1,144 @@
-# Caracterización de Sustancias en Intervenciones de Emergencia
+## APÉNDICES
 
-La comprensión de la **materia** y sus propiedades es fundamental para los equipos de emergencia, ya que permite valorar adecuadamente el comportamiento de sustancias químicas y seleccionar las tácticas de mitigación más apropiadas en cada siniestro. La materia se define como todo aquello que posee masa y ocupa un volumen, presentándose en tres **estados de agregación**: sólido, líquido y gaseoso. La transición entre estos estados está determinada por las condiciones externas de **presión** (barométrica) y **temperatura** (termométrica). Como referencia general, a 20ºC y 1 atmósfera de presión, el agua se encuentra en estado líquido, el oxígeno en estado gaseoso y la madera en estado sólido.
+### Glosario
 
-## Estados de Agregación y Cambios de Estado
+Este glosario define términos clave utilizados en el ámbito de los riesgos tecnológicos y asistencias técnicas, organizados alfabéticamente.
 
-En el estado **sólido**, las partículas están fuertemente cohesionadas, lo que confiere a la sustancia una forma y un volumen constantes. Sin embargo, un aumento de la temperatura incrementa el movimiento de estas partículas. Los **líquidos**, por su parte, poseen un volumen constante pero carecen de forma fija, adaptándose al recipiente que los contiene, debido a fuerzas de atracción molecular menores que en los sólidos. Un incremento de energía y temperatura acentúa el movimiento de sus partículas. Finalmente, los **gases** se caracterizan por fuerzas de atracción molecular muy pequeñas, lo que les permite expandirse libremente, ocupando todo el volumen disponible y careciendo de forma o volumen fijos; un aumento de temperatura provoca mayor movimiento y separación molecular.
+**A**
+*   **Acometida**: Tramo de una instalación compuesto por conductores que conectan la Red General de Distribución (RGD) con la Caja General de Protección (CGP).
 
-Los **cambios de estado** pueden ser progresivos o regresivos. Los **cambios progresivos** (como la fusión o vaporización) ocurren mediante la absorción de energía, mientras que los **cambios regresivos** (como la solidificación, condensación o sublimación regresiva) se producen por la cesión de calor. La **fusión** es el paso de sólido a líquido, donde el volumen de la sustancia (a excepción del agua, hierro y bismuto) suele aumentar. La **vaporización** o **evaporación** es el paso gradual de líquido a gas. La **solidificación** es el proceso inverso a la fusión, y la **condensación** es el paso de gas a líquido. Una variante de la condensación es la **licuación**, que implica el paso de gas a líquido mediante un aumento de presión. Por otro lado, la **sublimación regresiva** describe el paso directo de gas a sólido, un fenómeno que puede observarse con el dióxido de carbono formando nieve carbónica.
+**C**
+*   **Capacidad máxima**: Se refiere al volumen interior máximo de recipientes, envases o embalajes, expresado en metros cúbicos o litros.
+*   **Central eléctrica**: Conjunto de instalaciones (incluyendo edificaciones y obras civiles) utilizadas para la producción de energía eléctrica de forma directa o indirecta.
+*   **Central nuclear**: Central térmica que emplea uno o varios reactores nucleares como fuente de calor.
+*   **Centro de transformación**: Instalación dotada de uno o varios transformadores que reducen la tensión de Alta Tensión a Baja Tensión, junto con la aparamenta y obra complementaria necesarias.
+*   **Centro de transformación prefabricado**: Instalación de diseño y construcción en fábrica, en serie, que integra transformador, aparamenta de alta tensión, interconexiones (cables, barras, etc.), y equipo auxiliar de baja tensión en una envolvente. Si la envolvente es metálica y los componentes son funcionalmente independientes, se denomina «centro de transformación integrado».
+*   **Circuito**: Conjunto de materiales eléctricos (conductores, aparamenta, etc.) que se alimentan de una misma fuente de energía y están protegidos contra sobreintensidades por sus propios dispositivos de protección. No incluye los circuitos de los aparatos de utilización o receptores.
+*   **Cisterna**: Concepto que abarca contenedores cisterna, cisternas portátiles, fijas y desmontables, o elementos de un vehículo batería con una capacidad superior a 1000 litros.
+*   **Cisterna cerrada herméticamente**: Cisterna diseñada para el transporte de líquidos con una presión de cálculo mínima de 4 bar, o de sólidos (pulverulentos o granulares) con cualquier presión de cálculo, cuyas aberturas pueden cerrarse herméticamente. Sus variantes son:
+    *   Sin válvulas de seguridad, discos de ruptura, u otros dispositivos de seguridad o depresión.
+    *   Sin válvulas de seguridad, discos de ruptura, o cualquier otro dispositivo de seguridad similar, pero equipada con válvulas de depresión.
+    *   Con válvulas de seguridad precedidas de un disco de ruptura, pero sin válvulas de depresión.
+    *   Con válvulas de seguridad precedidas de un disco de ruptura y válvulas de depresión.
+*   **Clases ADR**: Cada uno de los 13 grupos en los que se clasifican las mercancías peligrosas según sus características y los riesgos asociados.
+*   **Comburente**: Sustancia que aporta oxígeno a la combustión, favoreciendo o intensificando esta.
+*   **Combustible**: Sustancia capaz de reaccionar y producir calor o energía.
+*   **Combustible nuclear**: Material modificado para su uso en la generación de energía nuclear.
+*   **Condiciones normales**: Condiciones de medición de sustancias a 1 atmósfera de presión y 21° C de temperatura.
+*   **Conexión equipotencial**: Conexión que une dos partes conductoras para que la corriente que pueda circular no genere una diferencia de potencial perceptible entre ambas.
+*   **CSN**: Consejo de Seguridad Nuclear. Organismo español independiente de la Administración General del Estado, cuya misión principal es velar por la seguridad nuclear y la protección radiológica de personas y medio ambiente.
+*   **Cuadro de mando y protección**: Cuadro eléctrico ubicado cerca de la entrada o en la parte superior de la cocina, desde el cual parten los distintos circuitos de la vivienda con sus protecciones (Interruptor de Control de Potencia (ICP), Interruptor Diferencial (ID) y Pequeños Interruptores Automáticos (PIA)).
+*   **Cuerda semiestática**: Cuerda utilizada para unir el árbol al tractel cuando el cable (normalmente de 20 m) es insuficiente para respetar la distancia de seguridad (ej. en un árbol a partir de 10 m). Sus características principales son:
+    *   Grosor: 10 a 16 mm.
+    *   Uso: principalmente para rescate y trabajos verticales.
+    *   Resistencia: Mínima de 1.500 kg durante tres minutos, según la Norma EN 1891 (considerando el nudo de ocho, sin el cual la resistencia sería significativamente mayor, de 2.200 kg).
+    *   Precaución: Cerca de cables eléctricos, se usa cuerda en lugar de cable para evitar derivaciones al tractel y al bombero.
+*   **Cuñas**: Elementos de madera o material sintético utilizados para taponar envases o cisternas.
 
-La relación entre los estados de la materia y las condiciones de presión y temperatura se visualiza en un **diagrama de fases**. Este diagrama muestra el **punto triple**, donde las tres fases coexisten en equilibrio, y el **punto crítico**, la temperatura máxima a la cual una sustancia puede coexistir como líquido y gas, existiendo solo como gas por encima de esta. Por ejemplo, el agua tiene un punto triple a 0,01ºC y 0,06 atmósferas, y su punto de ebullición a 100ºC bajo presión atmosférica normal. En contraste, el dióxido de carbono se sublima, no funde, a presiones y temperaturas normales.
+**D**
+*   **Defensiva**: Táctica cuyo objetivo es controlar la progresión del incidente y evitar riesgos excesivos.
+*   **Deflagración**: Reacción química de combustión donde las ondas de presión se propagan a una velocidad entre 1 y 340 m/seg.
+*   **Densidad**: Relación entre la masa y el volumen de un cuerpo (gr/cm³).
+*   **Densidad relativa**: Comparación de la densidad de una sustancia con una densidad de referencia (agua o aire atmosférico). Ambas densidades se expresan en las mismas unidades y en condiciones idénticas de temperatura y presión. Es una magnitud adimensional.
+*   **Depósito**: Envoltura que contiene la materia, incluyendo la apertura y los sistemas de obturación.
+*   **Derivación individual**: Parte de la instalación que se extiende desde la Línea General de Alimentación (LGA) y alimenta la instalación de un usuario.
+*   **Detectores de gases**: Aparato que detecta la presencia de gas en el ambiente y emite una señal óptica o acústica de aviso al alcanzar una concentración determinada.
+*   **Detonación**: Propagación de ondas de presión en la combustión a una velocidad superior a la del sonido (340 m/seg.), lo que se denomina explosión.
+*   **Diamante de peligro**: Sistema de identificación de productos químicos peligrosos utilizado por la NFPA.
+*   **Dilatación**: Aumento de longitud, superficie o volumen de un cuerpo debido a la separación de sus moléculas, lo que implica una disminución de su densidad.
+*   **Disco de ruptura**: Dispositivo de alivio de presión sin cierre repetido, que se activa por la diferencia de presión entre el interior y el exterior, diseñado para funcionar por estallido o venteo. Suele preceder a la válvula de seguridad.
+*   **Dosis de exposición**: Concentración de contaminante inhalado en el aire durante un periodo de tiempo.
+*   **Dosis absorbida o retenida**: Cantidad de sustancia presente en el cuerpo en un momento específico, durante o después de la exposición.
+*   **Dosis efectiva (DE50)**: Dosis que produce un efecto específico en el 50% de los animales de una población, sin causar la muerte.
+*   **Dosis letal (DL50)**: Dosis que causa la muerte en el 50% de los animales de una población. Se utiliza para determinar la toxicidad aguda de sustancias químicas.
+*   **Dosis máxima tolerada (DMT)**: Nivel de exposición que, aunque cause toxicidad, no afecta significativamente la supervivencia.
 
-## Propiedades Físicas Relevantes
+**E**
+*   **Efecto dominó**: Concatenación de efectos que aumentan las consecuencias. Fenómenos peligrosos que pueden afectar a elementos vulnerables externos (recipientes, tuberías, equipos de la instalación), provocando nuevas fugas, incendios, etc.
+*   **Efracción**: Capacidad de un producto para resistir intentos de entrada forzada utilizando fuerza física y herramientas predefinidas en un espacio protegido.
+*   **Elementos vulnerables**: Personas, medio ambiente o bienes que pueden sufrir daño por accidentes importantes.
+*   **Embalaje**: Recipiente con todos los elementos y materiales necesarios para su función de retención.
+*   **Embarrado**: Conjunto de barras metálicas por cada fase y neutro a la salida del seccionador o interruptor, que distribuyen la tensión a los diferentes módulos. Contiene fusibles de corte y protección de cada derivación de abonado (contador).
+*   **Espuma**: Agente extintor compuesto por un aglomerado estable de burbujas, obtenido al mezclar espumógeno con agua e incorporar aire u otro gas. Se extiende sobre el combustible, formando una capa que impide el contacto con el oxígeno y elimina la emisión de vapores.
+*   **Estallido**: Rotura de un recipiente por el aumento de presión interna, debido a recalentamiento del contenido. Se diferencia de la explosión en que la causa es física y va unida a la inflamación violenta del producto. Ambos fenómenos pueden ocurrir simultáneamente o en cadena.
+*   **Estator**: Parte fija de una máquina dentro de la cual gira un rotor.
+*   **Etiquetas de peligro**: Pictogramas que indican los peligros de las mercancías peligrosas.
+*   **Expedidor**: Persona natural o jurídica que, por su cuenta y orden, realiza el envío de una mercancía peligrosa, contratando su transporte.
 
-Las **propiedades físicas** son aquellas que pueden cambiar sin alterar la composición química de la materia, como la forma, el estado o la densidad.
+**F**
+*   **Fasores**: Representación gráfica de un número complejo utilizado para representar una señal.
+*   **Fichas de intervención**: Fichas que proporcionan información sobre cómo abordar emergencias que involucran mercancías peligrosas.
 
-### Densidad y Leyes de los Gases
+**G**
+*   **Galga rotativa**: Dispositivo que proporciona información precisa sobre el contenido de GLP o amoníaco en un recipiente. Para operarlo, se abre la válvula de respiración y se gira lentamente el tubo de nivel desde el espacio de vapor hacia el espacio destinado a líquido. Se identifica por la formación de hielo o escarcha en la salida del tubo. Está diseñada para evitar rebosamientos y puede detener la carga.
+*   **Gas comprimido**: Gas envasado a presión para su transporte que es completamente gaseoso a -50°C. Incluye todos los gases con temperatura crítica inferior o igual a -50°C.
+*   **Gas inflamable**: Gases que a 20°C y 101,3 kPa se vuelven inflamables en mezclas de hasta 13% (volumen) con aire o poseen una franja de inflamabilidad con el aire de al menos 12 puntos de porcentaje.
+*   **Gas licuado**: Gas que, sometido a presión para su transporte, se encuentra parcialmente líquido a temperaturas superiores a -50°C.
+*   **Gas licuado refrigerado**: Gas que, en su forma de envasado para transporte, se encuentra parcialmente líquido debido a su baja temperatura.
+*   **GLP**: Gases licuados del petróleo. Mezcla de gases licuados (propano y butano) presentes en gas natural o petróleo, que se licuan fácilmente a temperatura y presión ambientales.
+*   **Grupo de embalaje I, II y III**: Grupos a los que pertenecen ciertas materias según su grado de peligrosidad para el transporte.
+*   **Hidrocarburos**: Compuestos orgánicos formados exclusivamente por átomos de carbono e hidrógeno. Su estructura molecular consiste en un armazón de átomos de carbono a los que se unen átomos de hidrógeno.
 
-La **densidad (ρ)** se define como la cantidad de masa contenida en una unidad de volumen, expresándose en g/cm³ o kg/m³. En líquidos y gases, la densidad varía con la temperatura y la presión, por lo que es crucial especificar estas condiciones. La **densidad relativa (ρr)** es una magnitud adimensional que compara la densidad de una sustancia con la de una sustancia de referencia (agua para líquidos y sólidos a 1 atm y 4ºC, y aire para gases a 1 atm y 0ºC). Un ejemplo de aplicación es que el alcohol, con una densidad relativa de 0,78, flota en agua.
+**I**
+*   **IATA**: Asociación Internacional de Transporte Aéreo.
+*   **IMDG**: Código internacional de transporte de mercancías peligrosas por vía marítima.
+*   **IMO**: Organización Marítima Internacional.
+*   **Inerte**: Sustancia que no reacciona con otras sustancias.
+*   **Instalación eléctrica**: Conjunto de aparatos y circuitos destinados a la producción, conversión, rectificación, transformación, transmisión, distribución o utilización de energía eléctrica.
+*   **Interruptor**: Aparato con poder de corte, diseñado para abrir y cerrar un circuito. Tiene dos posiciones estables (abierto/cerrado) sin acción exterior.
+*   **Interruptor de Control de Potencia (ICP)**: También llamado “limitador”. Interruptor unipolar de corte automático, precintado por la compañía suministradora, que salta si el consumo excede el contratado. Se rearma manualmente. Se instala en caja empotrada junto al cuadro general.
+*   **Interruptor Diferencial (ID)**: Sistema de seguridad que corta inmediatamente la corriente en caso de derivación a tierra por defecto de aislamiento, evitando descargas a través de personas. Dispone de un botón de test para verificar su funcionamiento.
+*   **Interruptor General Automático (IGA)**: Interruptor que corta la corriente de entrada al cuadro general de mando y, por tanto, a toda la vivienda. Puede accionarse manual o automáticamente por cortocircuito en la línea. No siempre está presente en todos los cuadros.
+*   **Irradiación**: Emisión y difusión de radiaciones, medida en roentgen, rad, sievert y rem.
 
-El comportamiento de los gases se rige por leyes fundamentales: la **Ley de Boyle-Mariotte** establece que, a temperatura constante, el volumen de un gas es inversamente proporcional a su presión. La **Ley de Charles** indica que, a presión constante, el volumen de un gas es directamente proporcional a su temperatura. Complementariamente, la **Ley de Gay-Lussac** postula que, a volumen constante, la presión de un gas es directamente proporcional a su temperatura. Estas leyes se integran en la **ecuación general de los gases**, que relaciona presión, volumen y temperatura, y es crucial para prever el comportamiento de sustancias peligrosas en vertidos y fugas.
+**L**
+*   **Licuación/licuefacción**: Cambio de estado de un gas a líquido por disminución de temperatura y aumento de presión, superando una sobrepresión elevada. Este factor diferencia la licuefacción de la condensación.
+*   **LII (Límite Inferior de Inflamabilidad)**: Concentración mínima de vapor o gas en el aire, por debajo de la cual no se propaga la llama al contacto con una fuente de ignición.
+*   **Líquido**: Materia que a 50°C tiene una tensión de vapor inferior a 300 kPa y no es totalmente gas a 20°C y 101,3 kPa. Posee un punto de fusión inicial inferior a 20°C a 101,3 kPa.
 
-### Presión de Vapor y Viscosidad
+**M**
+*   **Materias autorreactivas**: Según el ADR, son sustancias térmicamente inestables que pueden sufrir una descomposición fuertemente exotérmica, incluso sin oxígeno.
+*   **Materias pirotécnicas**: Productos pirofóricos y sustancias susceptibles de inflamación espontánea.
+*   **Multimodal**: Tipo de transporte que utiliza dos o más modos de transporte distintos (carretera, ferrocarril, marítimo, aéreo) para trasladar la mercancía desde su origen hasta su destino, sin ruptura de carga.
 
-La **presión de vapor** es la presión a la que las fases líquida y gaseosa de una sustancia están en equilibrio a una temperatura determinada. Esta presión aumenta exponencialmente con la temperatura, lo que a su vez incrementa la volatilidad de la sustancia y disminuye su punto de ebullición. Los líquidos más volátiles, por ejemplo, tienen una mayor presión de vapor.
+**N**
+*   **Neutralizar**: Volver neutra una disolución ácida con una base.
+*   **NRBQ**: Acrónimo de los riesgos Nuclear, Radiológico, Biológico y Químico.
 
-La **viscosidad** es la resistencia de un fluido (gas o líquido) a fluir, medida comúnmente en Poise. Es inversamente proporcional a la temperatura. Líquidos muy viscosos se extienden con dificultad y son más fáciles de contener en caso de derrame, mientras que los poco viscosos se dispersan rápidamente.
+**O**
+*   **OACI**: Organización Internacional de Aviación Civil.
 
-### Solubilidad y Conductividad Eléctrica
+**P**
+*   **Periodo de semidesintegración**: Tiempo necesario para que el 50% de los núcleos de una muestra inicial de un radioisótopo se desintegre.
+*   **Presión**: Fuerza ejercida por el producto sobre las paredes del envase, expresada como masa por unidad de superficie. Unidades: 1 bar = 100 kPa = 1 kg/cm² = 760 mmHg = 1 Atm. = 14.7 psi.
+*   **Presión crítica**: Presión característica de cada líquido, por encima de la cual no puede pasar del estado gaseoso al líquido.
+*   **Profilaxis**: Conjunto de medidas destinadas a impedir la aparición o propagación de enfermedades.
+*   **Puntiforme**: Que presenta la forma o tamaño de un punto.
 
-La **solubilidad** es la capacidad de una sustancia para disolverse en otra, influenciada por la temperatura, la presión y la naturaleza del soluto y disolvente. La solubilidad de los sólidos aumenta con la temperatura, mientras que la de los gases disminuye. Las sustancias se clasifican como polares (hidrosolubles/hidrófilas) o no polares (hidrófobas), dependiendo de su capacidad para disolverse en agua.
+**R**
+*   **Radiación gamma**: Radiación electromagnética, similar a la luz ordinaria o a la radiación X, pero con una longitud de onda mucho menor. Es muy energética y posee considerable poder de penetración. Se propaga muy lejos en el aire y requiere barreras densas como plomo u hormigón para su detención.
+*   **Radiactividad**: Emisión espontánea de partículas (alfa, beta, neutrón) o radiaciones (gamma, captura K), o de ambas a la vez, originadas por la desintegración de ciertos nucleidos al recomponer su estructura interna.
+*   **Recipientes a presión**: Término genérico que engloba botellas, tubos, bidones a presión, recipientes criogénicos cerrados, dispositivos de almacenamiento de hidruro metálico, bloques de botellas o un recipiente a presión de socorro.
+*   **RID**: Reglamento para el transporte internacional por ferrocarril de mercancías peligrosas.
 
-La **conductividad eléctrica** mide la capacidad de una sustancia para permitir el paso de corriente eléctrica, lo cual depende de su estructura molecular y temperatura. En disoluciones líquidas, la conductividad está ligada a la presencia de sales; así, el agua desionizada es no conductora, mientras que el agua marina es altamente conductora. La **resistividad** es la propiedad inversa a la conductividad. Las **descargas electrostáticas**, generadas por fricción o contacto y separación de materiales, pueden ser peligrosas en entornos con sustancias combustibles, inflamables o explosivas. La baja humedad ambiental favorece la acumulación de carga electrostática, mientras que la alta humedad puede disiparla.
+**S**
+*   **Seccionador**: Aparato mecánico de conexión que, por razones de seguridad, en posición abierta asegura una distancia de seccionamiento especificada. Puede abrir y cerrar un circuito con corriente despreciable, o cuando no hay cambio de tensión en los bornes. Soporta corrientes de paso en condiciones normales o anormales (cortocircuitos) por un tiempo especificado.
 
-## Toxicología de Sustancias Peligrosas
+**T**
+*   **Tasa de exposición**: Dosis efectiva expresada en mSv/h, que valora el tiempo de irradiación.
+*   **TDAA**: Temperatura de descomposición autoacelerada. Es la temperatura más baja a la que un material o sustancia química puede experimentar una descomposición exotérmica. Se aplica a las materias autorreactivas (clase 4.1) y peróxidos (clase 5.2) según el acuerdo europeo de transporte internacional de mercancías peligrosas por carretera.
+*   **Tensión**: Diferencia de potencial entre dos puntos. En sistemas de corriente alterna, se expresa por su valor eficaz, a menos que se indique lo contrario.
+*   **TLV**: Valor umbral límite. Nivel al que un trabajador puede exponerse durante su vida laboral sin sufrir efectos adversos para la salud. Incluye TLV-TWA (media ponderada de tiempo), TLV-STEL (límite de exposición a corto plazo) y TLV-C (límite máximo).
+*   **Transporte a granel**: Transporte de materias sólidas o de objetos no envasados en contenedores o vehículos. No se aplica a bultos ni a materias en cisternas.
 
-La **toxicología** es la disciplina que se enfoca en identificar y cuantificar los efectos nocivos de la exposición a agentes físicos, químicos o biológicos. El **riesgo para la salud** se determina combinando la **exposición** (duración y concentración) y la **toxicidad** (capacidad inherente del producto para causar daño). La acción tóxica de una sustancia depende de sus características, las condiciones ambientales y la vía de entrada al organismo.
+**V**
+*   **Válvula de fondo**: Válvulas instaladas en los compartimentos de depósitos o cisternas, que regulan el paso de fluidos. La apertura y cierre requieren un número de vueltas del volante (ubicado arriba o abajo de la cisterna). Puede ser neumática o hidráulica.
+*   **Válvula de sobrepresión**: Dispositivo de seguridad para evitar la rotura mecánica del recipiente por un exceso de presión. Contiene un muelle tarado que permite la salida de líquido o gas a la atmósfera o a otro recipiente cuando se superan los límites de presión establecidos.
+*   **Volumen**: Magnitud física que expresa el espacio que ocupa un cuerpo en tres dimensiones (largo, ancho y alto). Su unidad en el Sistema Internacional es el metro cúbico (m³).
 
-La **dosis** es la cantidad de sustancia que afecta al organismo. Se distingue entre **dosis de exposición** (concentración inhalada durante un tiempo) y **dosis absorbida o retenida** (cantidad presente en el cuerpo). Existe un **umbral de dosis** por debajo del cual no se observan efectos apreciables. Los **efectos agudos** se manifiestan tras una exposición limitada, pudiendo ser reversibles o irreversibles.
-
-Para cuantificar la toxicidad, se emplean varios conceptos:
-*   La **dosis letal 50 (DL50)** es la cantidad de sustancia que causa la muerte del 50% de una población animal, sirviendo como indicador de toxicidad aguda.
-*   La **dosis efectiva 50 (DE50)** provoca un efecto específico en el 50% de los animales, sin causar la muerte.
-*   El **Nivel sin Efecto Adverso Observable (NOEL/NOAEL)** es la máxima concentración o dosis de una sustancia que no produce efectos perjudiciales.
-*   La **Concentración Letal 50 (CL50)** es la concentración inhalada que causa el 50% de mortalidad en un tiempo determinado.
-*   Las **Partes por Millón (PPM)** representan la concentración de una sustancia en un millón de unidades del conjunto, utilizándose para valores muy bajos.
-*   La **dosis máxima tolerada (DMT)** es el nivel de exposición máximo que, aun produciendo toxicidad, no afecta significativamente la supervivencia.
-
-En intervenciones de emergencia, el conocimiento de estas propiedades permite una evaluación rigurosa de los peligros y una gestión eficaz de los riesgos, garantizando la seguridad de los intervinientes y la población.
+**Z**
+*   **Zona caliente**: Área de trabajo en un incidente donde la población está en riesgo y no puede protegerse por sí misma. Requiere la máxima protección personal para enfrentar el riesgo potencial. Es la zona de trabajo para equipos de intervención de Bomberos u otros medios externos con capacidades y protección NRBQ.
+*   **Zona de acceso prohibido**: Área donde existe riesgo de recibir, en una única exposición, dosis superiores a los límites estipulados.
+*   **Zona de permanencia limitada**: Área donde un trabajador corre el riesgo de recibir una dosis superior al máximo anual.
+*   **Zona fría**: Área destinada al descanso, reposición, ubicación de vehículos de apoyo, mandos, sanitarios, etc., en una intervención NRBQ.
+*   **Zona templada**: Área de trabajo para equipos de socorro, mando de la intervención, vehículos de apoyo de Bomberos y otros servicios participantes en una intervención NRBQ.

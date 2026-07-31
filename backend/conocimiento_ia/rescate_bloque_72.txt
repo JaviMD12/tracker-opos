@@ -1,85 +1,159 @@
-# Rescate en Accidentes de Tráfico: Seguridad y Elementos Clave
+## Seguridad en Vehículos y Componentes (Páginas 311-314)
 
-El rescate en accidentes de tráfico es una de las labores más complejas y de alto riesgo para los servicios de emergencia, requiriendo una actuación coordinada y un conocimiento técnico exhaustivo de los vehículos y las técnicas de intervención. El objetivo primordial es liberar a las víctimas atrapadas con la máxima seguridad y rapidez posible, basándose en el principio de la "hora de oro", que establece que la asistencia hospitalaria debe recibirse antes de los 60 minutos posteriores al accidente para maximizar las posibilidades de supervivencia. Durante esta intervención, es fundamental no descuidar el apoyo psicológico a los afectados, ya que el impacto emocional puede ser significativo.
+### 4.2. Seguridad Activa (Continuación de página 310)
 
-## Elementos de Seguridad Pasiva en Vehículos
+#### 4.2.3. Baterías (Continuación)
 
-Los vehículos modernos integran una serie de elementos de seguridad pasiva, diseñados para reducir los efectos de un accidente una vez que este ocurre. Estos sistemas se activan automáticamente sin necesidad de la intervención del conductor. Se clasifican en:
+Existen diferentes tipos de baterías o acumuladores en los vehículos:
 
-*   **Elementos estructurales:** directamente relacionados con el diseño de la carrocería, su resistencia y geometría. Incluyen la **célula de seguridad o habitáculo indeformable**, concebida para proteger a los ocupantes manteniendo un espacio de supervivencia estable frente a esfuerzos elevados. Componentes clave de esta célula son la chapa del salpicadero (que evita la entrada de elementos mecánicos en el habitáculo en colisiones frontales), el túnel central (espina dorsal del habitáculo, reforzado transversalmente), el suelo (elemento más rígido de la carrocería), los estribos bajo puertas (protectores laterales esenciales en colisiones), las puertas (diseñadas para un cierre perfecto con los pilares, estribos y montantes de techo, con bisagras, resbalones y cerraduras reforzadas, e incluso barras de protección laterales interiores) y el techo (a menudo reforzado con traviesas y cerchas centrales). También se incluyen las **secciones extremas** (frontal y posterior), diseñadas con una estructura deformable programada para absorber la energía del impacto y evitar su transmisión a los ocupantes. En vehículos con chasis independiente, la carrocería se fija al bastidor mediante sistemas mecánicos, mientras que en los monocasco y autoportantes, todos los elementos están íntimamente unidos.
-*   **Elementos mecánicos:** se refieren al diseño y disposición de conjuntos como los **pretensores de cinturón**, que ajustan el cinturón al cuerpo del ocupante eliminando holguras, activándose electrónicamente por sensores de deceleración justo antes de los airbags. Se distinguen varios tipos de pretensores, incluyendo mecánicos de hebilla (resorte helicoidal) y pirotécnicos (de bolas o tubulares con accionamiento eléctrico).
-*   **Elementos adicionales:** complementan la carrocería y los sistemas anteriores, como las **barras antivuelco** en el techo (traviesas y largueros reforzados que evitan el hundimiento de la parte superior en caso de vuelco), y el **arco de seguridad** automático en vehículos descapotables. También los **airbags** (frontales, laterales, de cortina, de rodilla, en la banqueta, para peatones e inteligentes o de doble fase) que se hinchan instantáneamente en caso de impacto para amortiguar el golpe, impidiendo el choque de los ocupantes contra el interior del vehículo y desinflándose posteriormente.
-*   **Otros elementos de seguridad pasiva** incluyen los **bordes cortantes** (perfiles de chapa redondeados o vueltos para evitar lesiones), los **productos anticorrosivos** (chapas galvanizadas, cincadas, antioxidantes para proteger la carrocería de la corrosión y sus efectos en la seguridad), y los **materiales ligeros** (aceros especiales, aluminio, plásticos, fibra de carbono, magnesio) que reducen el peso del vehículo, influyendo en la energía de deformación y el daño en caso de colisión.
+*   **Acumulador o batería de plomo de 12 Voltios:** También conocida como batería de ácido-plomo, es común en vehículos convencionales, funcionando como batería de arranque y, en vehículos eléctricos, como batería de tracción. Son capaces de suministrar una gran intensidad de corriente. Estas baterías están compuestas por un depósito de ácido sulfúrico que contiene placas de plomo paralelas y dispuestas alternadamente según su polaridad. Son las más habituales; los turismos pueden llevar dos de estas baterías en distintas ubicaciones. Su capacidad varía según el modelo, y en vehículos pesados se conectan en serie para obtener 24 V.
+*   **Baterías de 42 V:** Algunos vehículos incluyen estas baterías para el sistema de detención del motor, lo que permite ahorrar combustible y reducir emisiones. Se utilizan para suministrar energía a accesorios como el aire acondicionado. Suelen ubicarse en un lugar diferente a la batería de servicio.
+*   **Baterías de alta tensión (HV) de metal-níquel (Ni-MH):** Empleadas en vehículos híbridos. Su electrolito es un alcalino de hidróxido de potasio y sodio, generalmente en estado de gel, lo que previene fugas incluso en caso de colisión. La batería está protegida por una carcasa metálica situada estratégicamente detrás de los asientos traseros.
 
-## Seguridad Terciaria y Valoración Post-Accidente
+#### 4.2.4. Frenos
 
-La seguridad terciaria engloba los sistemas que actúan después del accidente para facilitar el rescate. Entre ellos, destacan:
+Los frenos son elementos esenciales para detener el vehículo en el menor espacio posible, manteniendo la dirección y el control. Su funcionamiento se basa en la transformación de la energía cinética en calor. La evolución de los frenos ha pasado de tambor a disco, y a autoventilados para mejorar el rendimiento. Pueden incorporar sistemas como el ABS (antibloqueo) para evitar el bloqueo de las ruedas, y el ASR (control de tracción) que previene el derrape frenando la rueda que pierde adherencia. Actualmente, se desarrollan sistemas como el control de trazado en curvas ESP, que puede ser desactivado según las necesidades de la conducción. Cada marca puede utilizar siglas diferentes para denominar estos sistemas.
 
-*   **Depósitos de combustible:** diseñados para evitar derrames o interrupciones en la inyección tras un impacto.
-*   **Puertas:** con mecanismos que facilitan su apertura incluso en los peores escenarios de deformación.
-*   **Hebillas de cinturón de seguridad:** diseñadas para soltarse con rapidez y facilidad, evitando que los ocupantes queden bloqueados.
-*   **Desbloqueo automático del cierre centralizado:** algunos vehículos activan esta función mediante un sensor de colisión que envía una señal para la apertura de emergencia de las puertas.
-*   **Sistema de luces intermitentes de advertencia:** se activan automáticamente tras un choque y pueden desconectarse manualmente. Indican al personal de rescate que la alimentación de tensión del vehículo está activa y se desactivan al desconectar la batería.
-*   **Sistema eCall (balizas de localización en emergencia):** obligatorio en la Unión Europea, acelera la llegada de los servicios de emergencia. En caso de accidente grave, realiza una llamada automática vía satélite a un centro de recepción de emergencias, proporcionando la localización precisa del vehículo y permitiendo la comunicación verbal. También es posible la llamada manual.
+Los vehículos pesados suelen utilizar sistemas de frenos neumáticos, con pistones alimentados por depósitos de aire comprimido a través de un compresor. El control se realiza mediante válvulas, y los pistones actúan como prensas neumáticas contra los tambores o discos de freno.
 
-Para optimizar las tareas de rescate, los fabricantes de vehículos elaboran **hojas de rescate** (documentos A4 con información detallada, imprimibles en color y guardados en el parasol, con una pegatina identificativa en la luna). Estas hojas identifican rápidamente las zonas de corte más adecuadas para acceder a los heridos, reduciendo el tiempo de rescate y, por ende, el riesgo para las víctimas.
+#### 4.2.5. Innovaciones
 
-## Riesgos y Seguridad en la Intervención
+Entre las innovaciones más recientes en seguridad activa, se incluyen:
 
-En un accidente de tráfico, la seguridad del personal de rescate es primordial, por lo que es esencial identificar y mitigar los riesgos.
+*   **Faros inteligentes:** Utilizan faros de xenón alimentados con una tensión aproximada de 1000 V, capaces de iluminar selectivamente la vía.
+*   **Ordenador de a bordo:** Proporciona información variada al conductor. En principio, no representa riesgo para el personal de rescate.
+*   **Paro y arranque automático:** Común en vehículos urbanos para ahorrar combustible. El motor se detiene automáticamente en paradas (ej. semáforo) y se reinicia al presionar el acelerador. Se debe tener precaución ya que al presionar el acelerador sin querer, el vehículo podría desplazarse.
+*   **Otras innovaciones:** Cámaras en retrovisores, detectores de distancia, proyector de información en parabrisas, ayuda al aparcamiento, detector de cambio de carril, sensor de luminosidad y sensor de lluvia.
 
-**Consideraciones Previas y Ubicación de Vehículos:**
-La intervención debe adaptarse a las circunstancias del accidente, priorizando la seguridad y evitando soluciones genéricas. La ubicación de los vehículos de emergencia es clave: se recomienda situarlos a unos 15 metros del accidente, inclinados 30°-35° hacia la mediana respecto al sentido de la marcha, y con la proximidad adecuada al arcén para no impedir el paso. Es fundamental señalizar la zona adecuadamente, ya que el humo de un incendio, por ejemplo, puede reducir la visibilidad. La señalización con los vehículos y balizas luminosas debe ser visible a al menos 100 metros de distancia.
+### 4.3. Seguridad Pasiva
 
-**Riesgos Genéricos:**
-Los riesgos en un rescate de tráfico incluyen:
-*   **Espadas y filos:** fragmentos metálicos y estructuras filosas generadas por cortes o deformaciones. Se mitigan protegiendo a intervinientes y víctimas con protecciones blandas (lonas, mantas) o duras en los puntos de corte.
-*   **Cristales:** pequeños y afilados fragmentos de vidrio templado o polvo de vidrio de lunas laminadas. Se cubren con protecciones blandas y se usan mascarillas y gafas de protección para evitar lesiones respiratorias y oculares.
-*   **Herramientas y piezas pesadas:** su manipulación incorrecta o desprendimiento puede causar daños. Deben transportarse usando puntos de agarre designados y controlando sus movimientos.
-*   **Elementos con alta presión:** como los equipos hidráulicos (700 bares) y las mangueras que transportan aceite a presión. Requieren que manos y cuerpo se mantengan fuera del radio de acción, y que las mangueras estén en perfecto estado y no se utilicen para otras funciones.
+#### 4.3.1. Características
 
-## Medidas de Seguridad en Vehículos con Energías Alternativas
+La seguridad pasiva comprende el conjunto de elementos y sistemas que se activan automáticamente en caso de pérdida de control y colisión del vehículo, sin intervención del conductor. Su objetivo es reducir las fuerzas y aceleraciones sobre los ocupantes, asegurar un espacio vital y minimizar el desplazamiento dentro del habitáculo.
 
-La intervención en vehículos con sistemas de energía alternativa (híbridos, eléctricos, hidrógeno, GNC/GLP) requiere precauciones específicas.
+Los fabricantes han desarrollado sistemas de protección avanzados, muchos controlados electrónicamente. La relación entre las fuerzas de impacto, el tipo de lesiones y las categorías de usuarios se conoce bien, y los límites biomecánicos máximos asociados a la edad, sexo y velocidad son predictores fiables de lesiones. Por ejemplo, una misma fuerza de impacto que causa un traumatismo moderado en un hombre de 25 años podría ser mortal para una mujer de 65 años.
 
-**Vehículos Eléctricos e Híbridos:**
-*   **Identificación:** pueden presentar la palabra "Hybrid" o la letra "h" en el modelo, cables de alto voltaje de color naranja, indicadores de carga en el salpicadero y, generalmente, carecen de sistema de escape.
-*   **Riesgo de incendio:** las baterías de iones de litio pueden sufrir una reacción térmica rápida, pero no explosiva. Se combate con extinción ofensiva, enfriando con agua y, si es necesario, con CO2 para baterías de alto voltaje, siempre manteniendo la distancia de seguridad. No se deben romper las cubiertas de las baterías.
-*   **Riesgo eléctrico:** persiste incluso después de un incendio. Se deben respetar distancias de seguridad (hasta 1000 V), señalizar las líneas de alta tensión expuestas y desconectar el encendido. El proceso incluye poner la llave en posición "0", retirarla del bombín a 5 metros del vehículo, y desembornar las baterías de 12V o retirar el enchufe de bajo voltaje (LV) de la batería de alto voltaje (HV). El enchufe HV se desconecta con guantes aislantes, y los componentes conductores de alto voltaje dañados no deben ser tocados ni cortados. La línea de alta tensión se desconecta completamente a los cinco minutos.
+#### 4.3.2. Elementos estructurales
 
-**Vehículos de Hidrógeno:**
-*   **Riesgos:** el metanol, si se usa para obtener hidrógeno, es inflamable (punto de inflamación 11°C, límites de inflamabilidad 7,8-86) y más pesado que el aire. El hidrógeno almacenado a presión (300-700 bares, -253°C) puede despresurizarse rápidamente y arder con llamas no visibles si la temperatura sube a -40°C. Existe riesgo de explosión en espacios cerrados.
-*   **Medidas:** desactivar el circuito de hidrógeno, mantener lejos fuentes de ignición, no introducir en espacios cerrados (garajes, túneles), evitar cortar o deformar carrocería con aparatos de rescate donde haya tuberías o componentes de hidrógeno. El sistema cuenta con alarmas acústicas y visuales, y un sistema de ventilación y cierre automático de válvulas en caso de fuga.
+Los fabricantes realizan pruebas de impacto ("crash test") para evaluar el comportamiento del vehículo en caso de accidente. El objetivo es asegurar que, tras una colisión frontal, los pasajeros puedan ser evacuados sin sufrir lesiones irreparables en sus zonas vitales.
 
-**Vehículos de Gas Natural Comprimido (GNC) y Gas Licuado de Petróleo (GLP):**
-*   **GNC:** compuesto por metano (90%), gaseoso, almacenado a 200 bares. Los tanques se sitúan en el techo (autobuses) o en la tapa del motor (turismos), con cubiertas grandes.
-*   **GLP:** mezcla butano y propano, líquido, almacenado a 6-7 bares. Los tanques son más ligeros y baratos.
-*   **Riesgos:** el GNC es más liviano que el aire y tiende a subir; el GLP es más pesado y tiende a caer al suelo. Ambos son inflamables.
-*   **Seguridad:** cuentan con válvulas de cierre de seguridad de gas (eléctrica y mecánica), cortocircuito fusible (se activa a 110°C), limitador de caudal y caperuzas de goma para ventilación controlada. Se identifican por "CNG" o "GLP" y la ubicación de las bocas de llenado.
+**a) Carrocería**
+El diseño de la carrocería considera la resistencia y el diseño de la estructura.
 
-**Vehículos Tuneados con Óxido Nitroso (NITROX):**
-*   **Riesgos:** el N2O (óxido de dinitrógeno) tiene 36% O2, es un comburente, con temperatura de descomposición 275-300°C y temperatura crítica 36,4°C, lo que lo convierte en un gas comprimido a más de 70 bares. Su instalación es ilegal y peligrosa en caso de incendio por ser un comburente.
-*   **Intervención:** en caso de mordedura de serpiente, avisar a emergencias y hospital, inmovilizar al paciente, mantener parte afectada debajo del corazón, evitar esfuerzos, no aplicar hielo ni cortes.
-*   **Material:** el gancho es la herramienta principal para manejar serpientes. También se utilizan pinzas (desaconsejadas) y cajas trampa para contención.
+*   **Resistencia de la carrocería:** Depende del comportamiento individual de cada pieza. Los elementos estructurales tienen un espesor de 1,2 a 2,5 mm, mientras que los cosméticos son de 0,6 a 0,8 mm. La forma y geometría de las piezas influyen en la canalización de la energía y las deformaciones.
+*   **Comportamiento de la carrocería:** La sección central (célula de seguridad) es muy rígida y reforzada, proporcionando un espacio de supervivencia a los ocupantes. Las secciones extremas (frontal y posterior) se diseñan para deformarse progresivamente y absorber energía, evitando su transmisión a los ocupantes. Este proceso de deformación ocurre en décimas de segundo.
 
-## Coordinación y Roles en el Accidente de Tráfico
+**b) Célula estructural**
+El habitáculo de pasajeros se diseña para ser una zona de seguridad rígida, minimizando el riesgo de daños para los ocupantes. La rigidez se mantiene gracias a anillos de refuerzo y sujeción al suelo y techo. Los componentes incluyen:
+*   **Anillos transversales:** Tres anillos (A, B, C) se instalan en la parte delantera, media y posterior respectivamente, a veces con un anillo adicional "D".
 
-Una intervención en accidente de tráfico exige la coordinación de múltiples servicios de emergencia (policía, sanitarios, bomberos) con roles y competencias diferenciadas.
+### 4.3. Seguridad Pasiva (Continuación de página 312)
 
-*   **Fuerzas del orden:** controlan el tráfico, señalizan el accidente, mantienen el orden público, controlan accesos, retiran vehículos y restablecen la circulación.
-*   **Sanitarios:** estabilizan a las víctimas, organizan el triaje, establecen prioridades de rescate, vigilan y acompañan a las víctimas, apoyan en la extracción y realizan el traslado sanitario y la limpieza de la zona.
-*   **Bomberos:** controlan riesgos inminentes (incendio, estabilidad estructural), rescatan víctimas atrapadas, asisten a otras víctimas, realizan control perimétrico, buscan víctimas expulsadas y retiran obstáculos.
+#### 4.3.2. Elementos estructurales (continuación)
 
-## Planificación de la Intervención
+*   **Pilares:** Los pilares laterales (partes de los anillos) deben soportar grandes cargas longitudinales y transversales, por lo que su construcción y sistemas de unión deben ofrecer alta resistencia. Los pilares centrales y traseros deben resistir las cargas generadas en un impacto para los anclajes de los cinturones, por lo que se refuerzan con soldaduras para distribuir los esfuerzos.
+*   **Anillos longitudinales:** Son dos elementos, cada uno formado por los pilares "A", "C" y los largueros inferior y superior de cada lateral.
 
-La planificación del rescate se divide en fases clave:
+En caso de colisión, la parte delantera y trasera del vehículo se deforman de manera programada para absorber energía, mientras la parte central debe permanecer indeformable, actuando como célula de supervivencia. Ante esta situación, no es posible prever la reacción del vehículo, lo que resalta la importancia de estabilizar la víctima y el vehículo.
 
-1.  **Movilización:** se recibe el aviso de emergencia (ej. 112), se confirma el número y estado de las víctimas, la localización del incidente (coordenadas), la presencia de medios sanitarios y se movilizan los recursos de bomberos (tren de salida, material de altura).
-2.  **Valoración:**
-    *   **Llegada al siniestro:** se emplaza el vehículo de bomberos de forma segura (a barlovento si hay viento), se prepara el material (herramienta hidráulica, bomba manual, material de altura, camilla, botiquín).
-    *   **Valoración *in situ*:** se determina el tipo de inundación, nivel de emergencia, previsión meteorológica, riesgos (peligrosidad del terreno, vulnerabilidad de edificaciones) y plan de acción (corte de suministros, apertura de salidas de agua, achique).
-3.  **Control de Riesgos Inminentes:** se asegura la zona, se cortan los suministros (eléctrico, gas, agua) si es necesario, y se controlan la estabilidad de los vehículos y otros riesgos.
-4.  **Intervención:** se planifica la inmersión, se establece un plan de acción, se localizan y elevan víctimas, se proporciona atención sanitaria y se controla el tiempo de inmersión.
-5.  **Restitución de la Normalidad:** se recoge el equipo y material, se toman datos, se realiza un *briefing* de la intervención para analizar el desarrollo y, finalmente, se regresa al parque.
+**c) Aligeramiento / disminución del peso**
+El peso de los vehículos se ha reducido mediante el uso de materiales como aceros especiales, aluminio y plásticos (FPRV). Esta construcción rígida y ligera disminuye la energía de deformación en una colisión, ya que las deformaciones dependen de la velocidad y masa del vehículo. Mayores velocidad y peso resultan en mayor daño.
+Ejemplos de aceros de nueva generación son el boro, la martensita, Dual Phase y TRIP, que son más ligeros (cuarta parte) y más fuertes (ocho veces) que el acero convencional.
 
-La **evaluación inicial** y **continua** es fundamental para adaptar el plan de actuación a las circunstancias cambiantes del incidente, priorizando la seguridad y la eficacia del rescate.
+Los vehículos utilizan una gran variedad de materiales: aceros blandos y de alta resistencia, acero ultrarresistente (usibor), aluminio, plástico y fundición a presión de magnesio. Algunos vehículos de alta gama combinan fibra de carbono.
+La chapa es el principal material de las carrocerías y chasis, tratada con procesos anticorrosión y antisonoros (parafinas, breas, ceras, masillas), que son altamente combustibles. Los grosores varían de 0,4 a 0,8 mm en zonas estándar y de 0,8 a 1,5 mm en zonas reforzadas, lo que no ofrece una resistencia significativa a las herramientas de corte y separación habituales.
+Las técnicas de ensamblaje más comunes son soldadura por puntos de resistencia, arco continuo bajo gas protector, y recientemente, soldadura láser o láser híbrida (combinación de láser y MIG) y láser-Brazing (soldadura láser con características de temperatura y acabado similares a la soldadura Brazing). Se refuerzan las uniones mecánicas y resistentes de la carrocería (techos, huecos de puertas, huecos de motor, etc.) para aportar solidez y elasticidad ante impactos. Las piezas fijas de la carrocería (puertas, capós, aletas, frentes) suelen tener uniones atornilladas.
+
+**d) Materiales de alto límite elástico**
+El uso de largueros y traviesas fabricados con materiales de alto límite elástico (flexibles y adaptables a impactos violentos) en la parte delantera y trasera del vehículo evita la transmisión del impacto a la célula de seguridad.
+
+**e) Diseño de las piezas más afectadas por los choques y sistema Procon-ten**
+Los elementos estructurales de la carrocería que sufren más daños se fabrican con materiales especiales y un diseño que canaliza las deformaciones. Los largueros y traviesas son perfiles resistentes, ligeros y flexibles, con puntos fusibles para absorber el impacto. Dos largueros gruesos de chapa preformada se localizan delante y debajo del habitáculo indeformable, sirviendo de soporte al motor (con anclajes que permiten su deslizamiento hacia abajo y hacia atrás) y como punto de absorción de energía inicial. El sistema Procon-ten actúa de tres formas simultáneas en caso de choque frontal: el motor se desplaza hacia atrás y abajo alejándose del habitáculo; la columna de dirección se empotra en el salpicadero; y los cinturones de seguridad se tensan automáticamente.
+
+**f) Capó**
+Los refuerzos internos del capó delantero canalizan las deformaciones en caso de impacto frontal, impidiendo que el capó penetre en el habitáculo a través del parabrisas.
+
+**g) Refuerzos laterales del suelo**
+La base inferior del vehículo tiene poca resistencia a los impactos, por lo que se refuerza lateralmente para aumentar la seguridad del habitáculo, dada la frecuencia de golpes laterales.
+
+**h) Refuerzos interiores de puertas - SIPS - barras laterales de protección**
+Los golpes laterales pueden causar lesiones significativas. Las partes más débiles son las puertas, por lo que se refuerzan internamente. El sistema SIPS (Side Impact Protection System) es un avance que utiliza la anchura del vehículo para ubicar elementos deformables de espuma en puntos estratégicos, conectados con barras que se colapsan en el impacto, cediendo la estructura inferior del vehículo.
+
+**i) Puertas**
+Las puertas deben tener bisagras que permitan una apertura sin dificultad, incluso con daños significativos. Deben incorporar sistemas que impidan su apertura accidental en caso de vuelco o pandeo del automóvil.
+
+### 4.3. Seguridad Pasiva (Continuación de página 313)
+
+#### j) Refuerzos en el techo
+Las traviesas y largueros unidos a los montantes de las lunas en la parte superior evitan que el techo se hunda en accidentes que afectan esta zona. Estos elementos se conocen como barras antivuelco.
+Los vehículos descapotables actuales incorporan un arco de seguridad secundario, que consiste en una estructura tubular de refuerzo del techo. Algunos modelos tienen este arco oculto y de accionamiento automático. En general, los descapotables tienen menor seguridad en vuelcos, aunque con el arco de seguridad proporcionan un espacio de supervivencia adecuado para los ocupantes.
+
+#### k) Bordes cortantes
+Los diseños constructivos actuales eliminan del interior del habitáculo todas las aristas y partes cortantes que podrían lesionar a los pasajeros. Los perfiles de chapa están redondeados y vueltos hacia el interior.
+
+#### l) Productos anticorrosivos
+El debilitamiento de la chapa por corrosión puede causar roturas o desprendimientos de elementos importantes para la seguridad del vehículo. Los fabricantes usan chapas galvanizadas, cincadas y antioxidantes para recubrir la chapa y protegerla del medio ambiente, retrasando la corrosión.
+
+#### 4.3.3. Elementos mecánicos
+Los elementos mecánicos pueden ser responsables de numerosas lesiones. Se aplican nuevos diseños y materiales para reforzar la seguridad.
+
+**a) Inmovilizador de freno, embrague y acelerador**
+La inmovilización de los pedales reduce el riesgo de lesiones en la parte inferior de las piernas y los pies del ocupante en caso de desplazamiento del habitáculo.
+
+**b) Inmovilizador del volante**
+El desplazamiento del volante puede atrapar al conductor contra el asiento, causando lesiones graves en el tórax y órganos vitales, dificultando su evacuación. Las direcciones regulables en altura e inclinación pueden retraerse para liberar al conductor o aumentar el espacio operativo. El aro del volante está hecho de material elástico y sobresale de la columna central de dirección para reducir el riesgo de lesiones (volantes EAS o con cuerpo central de absorción de impactos).
+
+**c) Columna de dirección**
+Es el sistema que dirige la trayectoria de las ruedas directrices del vehículo, accionado por el volante. Los vehículos de los años 30 tenían columnas rígidas que causaban daños graves al conductor en impactos frontales. Las soluciones técnicas actuales incluyen:
+*   Columna de dirección con una malla en un extremo, flexible y deformable para evitar el desplazamiento de la columna.
+*   Columna de dirección con codos de flexibilidad (juntas cardán, delco o fuelle y columna por secciones) para impedir el desplazamiento longitudinal y la penetración en el habitáculo.
+*   Direcciones eléctricas que eliminan la barra de dirección, transmitiendo las órdenes de giro mediante cables eléctricos.
+
+#### d) Depósito de combustible
+Su ubicación ha evolucionado de un lateral del maletero a la parte delantera del eje trasero (debajo de los asientos posteriores) para mayor protección. La localización exacta se especifica en las hojas de rescate.
+Los orificios de ventilación o aireación de gases previenen riesgos de incendio. Una válvula inercial de seguridad cierra el paso del combustible en caso de vuelco, bloqueando la bomba eléctrica de alimentación. Contiene láminas antiolas para evitar desplazamientos del carburante. Los depósitos suelen ser de metal (acero o aluminio) o plástico (polietileno de alta densidad), resistentes a la corrosión. Las conducciones son metálicas o de plástico y discurren por los bajos del vehículo.
+
+#### e) Baterías
+Las baterías almacenan energía química que se convierte en eléctrica. Suministran energía para el motor de arranque y el alternador las recarga en funcionamiento. Es crucial conocer su funcionamiento para las intervenciones, ya que alimentan sistemas eléctricos del vehículo y pueden activarlos o desactivarlos.
+
+### 4.3. Seguridad Pasiva (Continuación de página 314)
+
+#### e) Baterías (Continuación)
+
+Es esencial entender el funcionamiento de la batería en las intervenciones, dado que alimenta los sistemas eléctricos del vehículo y puede activarlos o desactivarlos electrónicamente.
+
+**Tipos de baterías/acumuladores en vehículos:**
+*   **Acumulador o batería de plomo de 12 Voltios:** También conocida como batería de ácido-plomo, es una batería húmeda común en vehículos convencionales, utilizada para el arranque y como batería de tracción en vehículos eléctricos. Suministra una gran intensidad de corriente. Consta de un depósito de ácido sulfúrico y placas de plomo paralelas. Los turismos pueden llevar dos de estas baterías en distintas ubicaciones. Su capacidad varía por modelo; en vehículos pesados se conectan en serie (24 V).
+*   **Baterías de 42 V:** Presentes en algunos vehículos con sistema de detención del motor para ahorro de combustible y reducción de emisiones. Suministran energía para accesorios como el aire acondicionado. Suelen ubicarse en un lugar diferente a la batería de servicio.
+*   **Baterías de alta tensión (HV) de metal-níquel (Ni-MH):** Utilizadas en vehículos híbridos. El electrolito es un gel alcalino (hidróxido de potasio y sodio) que previene fugas incluso en colisión. La batería está protegida por una carcasa metálica situada estratégicamente detrás de los asientos traseros.
+
+**Ubicaciones alternativas de la batería:**
+Aunque lo más frecuente es que la batería esté en el compartimento del motor, algunos vehículos nuevos la ubican en:
+*   Debajo del asiento posterior de los pasajeros.
+*   En el maletero.
+*   En la parte delantera del guardabarros.
+
+**f) Disposición motor - caja de cambios**
+En una colisión frontal, la unidad motor-caja de cambios se desplaza hacia atrás y abajo debido al impacto. La palanca de la caja de cambios está diseñada para desprenderse o doblarse bajo una fuerza horizontal longitudinal, evitando salientes peligrosos.
+
+**g) Inyección**
+La introducción de sistemas de inyección electrónica y bombas eléctricas de combustible ha aumentado los incendios en automóviles tras colisiones. Anteriormente, los carburadores rotos solo goteaban combustible; ahora, las bombas eléctricas modernas impulsan grandes cantidades. Los fabricantes han diseñado sistemas de seguridad para prevenir esto:
+*   Interruptor inercial que corta el contacto y detiene la bomba eléctrica ante una fuerte deceleración.
+*   Sensor de rotación del motor que interrumpe el suministro cuando el motor se detiene.
+*   Válvula de corte especial.
+*   La medida más segura es cortar el suministro eléctrico (borne negativo de la batería).
+
+**h) Circuito eléctrico y cableado**
+La sección de cables y aislamientos de fusibles debe ser adecuada para prevenir chispazos en caso de aplastamiento, sección o desgarro.
+
+**i) Mando de freno y de servicio**
+Con el freno de mano accionado en reposo, el vehículo debe resistir movimientos por golpes. La empuñadura debe ser de material flexible y sin aristas vivas.
+
+**j) Arco protector (ROPS, sistemas de protección automática de techo frente al vuelco)**
+Es un sistema de protección antivuelco automático que se instala en vehículos descapotables (cabrio). Los arcos se sitúan detrás de los reposacabezas y se activan cuando el automóvil comienza a girar sobre sí mismo. Se enclavan positivamente, proporcionando un espacio de supervivencia suficiente. En otros modelos, el arco protector se integra en la estructura. No suponen ningún riesgo para la intervención. El sistema de protección antivuelco de techo es independiente y no tiene conexión con la unidad del airbag.
+
+#### 4.3.4. Medidas adicionales de seguridad pasiva para los ocupantes del vehículo
+Se deben proteger pasajeros y terceros.
+
+**a) Tarjetas de acceso y arranque**
+Son sistemas de bloqueo y arranque automático. La llave actúa con sensores de proximidad (1,50 metros). Desbloquea y activa el encendido electrónicamente. Puede usarse como llave convencional al desconectar la batería de 12 V. Las nuevas funcionalidades incluyen el botón del aire acondicionado que permite activarlo durante tres minutos con el vehículo parado y puertas bloqueadas.

@@ -1,106 +1,109 @@
-## Valoración de Incendios Industriales y sus Riesgos para la Intervención
+El proceso de valoración de incendios en túneles es una tarea compleja, pues se trata de escenarios dinámicos con múltiples variables en constante interacción que modifican el desarrollo y el resultado. El recalentamiento de la infraestructura y las instalaciones de un túnel presenta una evolución más rápida y violenta que en otros tipos de incendios debido al confinamiento. El calor generado por la capa de humo y las llamas tiene un efecto perjudicial sobre el combustible, acelerando la pirólisis y el crecimiento del incendio. Por ello, una intervención rápida es crucial, dado que los incendios en vehículos se propagan con gran velocidad, típicamente entre 5 y 10 minutos. Para minimizar los daños y el número de víctimas, la intervención debe producirse dentro de los 10 minutos posteriores a la alarma.
 
-La correcta valoración de un incendio, especialmente en entornos industriales, es un pilar fundamental para una intervención de bomberos eficaz y segura. Este proceso, que debe ser dinámico y continuo, permite al mando establecer un plan de acción acorde con la magnitud del siniestro y los recursos disponibles.
+La valoración del incidente presenta una dificultad técnica, ya que es frecuente que el desconcierto generalizado dificulte la obtención de información fiable, y la información no siempre está disponible o puede ser errónea. El mayor desafío para el equipo de intervención es lograr un equilibrio entre la urgencia de la respuesta y la certidumbre de la información. La toma de decisiones debe ser ágil para aplicar la táctica adecuada antes de que la situación se agrave. La valoración debe ser continua para ajustar el plan de acción momento a momento. Es crucial que la valoración tenga un carácter integral, abarcando la lectura del incendio, la identificación de acciones prioritarias, el impacto de las acciones realizadas y el estado de los recursos.
 
-### 1. Lectura y Caracterización del Incendio
+La valoración de un incendio en un túnel se realiza en varias fases: antes de la intervención y en el lugar del siniestro.
 
-La fase inicial de valoración, denominada "lectura del incendio", se basa en el análisis de diversos parámetros. Aunque compleja y sujeta a incertidumbres, es vital para comprender la evolución y los riesgos asociados.
+**2. Valoración Previa a la Intervención**
 
-#### 1.1. Factores Ambientales y Estructurales
+Generalmente, se inicia con una llamada de auxilio que reporta el incidente. Durante este primer contacto, es esencial recopilar información sobre:
+*   La ubicación exacta del incidente.
+*   El acceso más cercano.
+*   El tipo de túnel (por ejemplo, ferroviario, de carretera, de uno o dos tubos).
+*   Las características del incidente, incluyendo vehículos implicados, personas heridas y problemas en las instalaciones.
+*   La posible presencia de mercancías peligrosas y perecederas.
+*   El itinerario a seguir, incluyendo rutas alternativas en caso de colapso del tráfico.
+*   La dirección de acceso (aguas arriba o aguas abajo), en coordinación con el centro de control del túnel.
+*   Las acciones que el centro de control ya esté realizando, como ventilación, control de accesos o evacuaciones, tal como se especifica en el plan de emergencia del túnel.
+*   La posible intervención de otros equipos, como servicios sanitarios o fuerzas de orden público.
 
-La **valoración genérica del desarrollo del incendio**, inspirada en los principios de los incendios de interior, considera principalmente los recursos disponibles, el plan de actuación y las condiciones operativas, que a su vez dependen del tipo de combustible, la estructura y los riesgos inherentes.
+**3. Valoración en el Lugar del Siniestro**
 
-Las **características de la construcción** son determinantes, ya que la estabilidad estructural influye en el tiempo de intervención. Determinar esta estabilidad a priori es difícil, pero a modo orientativo se considera:
-*   Las **estructuras de acero** soportan temperaturas medias prolongadas, pero son vulnerables a picos de temperatura, que pueden reducir su límite elástico a los 350ºC y llevarlas a un estado plástico a los 500ºC, provocando el colapso.
-*   El **hormigón armado**, al ser un material compuesto, actúa como aislante de la ferralla y es pesado, lo que le confiere una mayor inercia térmica frente a los picos de temperatura, aunque las exposiciones prolongadas pueden fisurar y desconcharlo, dejando el acero expuesto y debilitando la estructura.
-*   Las **estructuras de madera** son combustibles y aportan carga térmica al incendio. Si bien poseen una buena estabilidad estructural inicial, se debilitan con el tiempo a medida que la sección resistente se carboniza. Su uso no es habitual en edificios industriales.
-Otros factores constructivos importantes son el sistema de equilibrio (estático o hiperestático), los detalles de unión y la capacidad de los elementos para permitir la dilatación.
+Una vez en el sitio del incidente, se debe identificar:
+*   El acceso óptimo, que es el más cercano al foco del fuego y aguas arriba.
+*   La ubicación de los vehículos involucrados y de los vehículos de emergencia.
+*   El estado general de la evacuación.
+*   La presencia de personas atrapadas (aguas abajo).
 
-En cuanto a las **características del entorno**, estas influyen en la elección de los métodos de actuación. En naves industriales de **tipología D y E**, que son espacios abiertos o parcialmente cubiertos, los peligros de propagación, acumulación de gases, altas temperaturas y colapso estructural son menos frecuentes. Por el contrario, en naves industriales de **tipología A, B o C**, que ocupan un edificio completo o adosado, el comportamiento del incendio se asemeja al de una vivienda, a menudo con estructuras más susceptibles al colapso.
+Posteriormente, se procede a una valoración pormenorizada y dinámica del escenario del incendio, que incluye:
+*   Valoración inicial.
+*   Valoración exterior.
+*   Valoración interior.
+*   Valoración continua.
+*   Valoración final.
 
-El factor más crítico es el **tipo y la cantidad de combustible** involucrado. La carga de fuego en industrias suele ser media o baja, aunque puede ser alta en químicas, talleres de pintura/barnices y fábricas pirotécnicas. La carga de fuego ponderada y corregida (Qe) se utiliza para determinar el nivel de riesgo intrínseco de un edificio industrial. Además, la combustibilidad, definida como la capacidad de arder de un material, es un aspecto clave.
+### 3.1. Valoración Inicial
 
-#### 1.2. Identificación de Acciones Prioritarias
+Esta fase es crucial para que el mando de intervención establezca las acciones prioritarias y un plan de acción coherente con el siniestro y los recursos disponibles. Es muy útil que el primer equipo de intervención interior acompañe al mando para verificar la información y conocer de primera mano la distribución del edificio y la lectura del incendio.
 
-La **identificación de acciones prioritarias** es crucial y busca neutralizar riesgos inminentes. Se priorizan el rescate, la evacuación o el confinamiento de ocupantes, el control de la propagación, el corte de servicios y la valoración de la estabilidad estructural.
+**Acciones prioritarias:**
+Se deben identificar situaciones que representen un riesgo inminente y requieran acciones inmediatas para evitar el agravamiento de la situación. Estas acciones se relacionan con:
+*   **Control y evacuación de ocupantes:** Si el riesgo en el túnel es incontrolable o no hay certeza de que los ocupantes permanezcan en zonas seguras (por falta de información, nerviosismo, etc.), se prioriza la evacuación. Esto implica asegurar primero la viabilidad de la ruta de escape, que se consigue mediante el aislamiento del incendio o la limpieza y presurización de cajas de escaleras con técnicas de ventilación por presión positiva (VPP). Esta operación requiere la participación de varios miembros del equipo de rescate y tiempo.
+*   **Rescate inminente de víctimas:** Cuando se confirma la presencia de víctimas en situación crítica, su rescate es prioritario sobre cualquier otra acción, incluyendo la valoración inicial del incidente.
+*   **Control de la propagación:** Al llegar al siniestro, es necesario un control temprano de la propagación. Si el riesgo de propagación es inminente, se debe designar un equipo para controlarla mientras se completa la valoración y se establece un plan de acción completo. Estas acciones buscan aumentar la seguridad de los bomberos y evitar que un incendio menor se propague. La propagación del fuego está intrínsecamente relacionada con la tasa de liberación de calor, las temperaturas de los gases, la distancia entre vehículos, la longitud de la llama y las condiciones de ventilación.
+*   **Corte del suministro eléctrico:** Si no se realiza, puede aumentar la gravedad de la situación.
+*   **Establecimiento de un plan de acción:** Este plan debe incluir la sectorización del incidente, el planteamiento táctico y la asignación de funciones a los bomberos en cada sector. El plan debe comunicarse a todo el personal para que conozcan las acciones de su sector y las de otros que puedan tener un efecto colateral.
 
-*   **Evacuación de ocupantes:** Se basa en la existencia de un Plan de Autoprotección o Emergencia, que contemple un punto de encuentro y un responsable. A la llegada de los equipos de emergencia, la evacuación de los trabajadores suele haberse completado; en caso contrario, se debe informar al mando.
-*   **Búsqueda y rastreo de víctimas:** Estas tareas son habituales en el ataque a incendios y constituyen una prioridad táctica. Se recomienda la simultaneidad con el ataque al incendio para aumentar las posibilidades de éxito. Herramientas como la cámara térmica son de gran utilidad, ya que reducen el tiempo de rastreo y facilitan la orientación en condiciones de visibilidad nula.
-*   **Gases tóxicos:** Representan el mayor riesgo para las víctimas. Las estrategias se centran en extraer a la víctima de la zona de peligro o en retirar el peligro (humo y temperatura) de la zona donde se encuentra. La ventilación de presión positiva (VPP) defensiva es especialmente útil para la búsqueda y rastreo en edificios complejos, con múltiples víctimas o con escasez de personal, y puede complementarse con el uso de cuerdas guía en espacios amplios y con baja visibilidad.
+Ingason y otros (2005) y Bergqvist (2005b) señalan varios aspectos que influyen en la eficacia de la intervención en un túnel:
+1.  Cálculos de la inversión del flujo de aire.
+2.  Velocidad de movimiento.
+3.  Alcance de los equipos de respiración.
+4.  Requerimientos mínimos de agua.
+5.  Distancia mínima de extinción de incendios en un entorno de túnel.
 
-Los **riesgos inminentes** en un incendio industrial incluyen:
-*   **Colapsos estructurales:** Un riesgo generalizado en naves industriales que puede afectar a víctimas e intervinientes, con especial atención a los colapsos en cadena en estructuras compartidas.
-*   **Propagación del incendio:** Dado el tamaño y el alto poder calorífico de los incendios industriales, pueden propagarse a naves y lugares colindantes, por lo que el mando debe considerarlo prioritario tras el rescate.
+### 3.2. Valoración Exterior
 
-La **capacidad de los recursos disponibles** se organiza según tres funciones principales, en orden de importancia: rescate, propagación y extinción. Los recursos propios de la empresa, contemplados en el Plan de Emergencia, son valiosos por su conocimiento de las instalaciones y combustibles.
+Siempre que sea posible, se debe realizar una inspección visual de 360º del siniestro durante la valoración inicial. Se intentará acceder por el tubo aguas arriba del incendio.
 
-*   **Para el rescate, evacuación o confinamiento:** Se requiere un mínimo de personal. Los vehículos de altura son muy útiles en incendios industriales para el rescate.
-*   **Para el control de la propagación:** Esta es la prioridad después del rescate en servicios con pocos efectivos. Los vehículos de altura son un gran apoyo en puntos de difícil acceso.
-*   **Para la extinción:** Se deben cuantificar con precisión el agua/agente extintor necesario, el caudal mínimo, el número de intervinientes y los relevos.
+### 3.3. Valoración Interior
 
-#### 1.3. Valoración Dinámica y Final de la Intervención
+El objetivo es recopilar información básica del interior, como el grado de compartimentación, la previsible carga de combustible y otros indicadores que faciliten la lectura del incendio, sin pretender llegar al foco del fuego. Dependiendo de los recursos disponibles y el tipo de túnel, el mando de intervención puede delegar esta valoración en el equipo de progresión interior.
 
-La **valoración dinámica durante la intervención** es primordial para ajustar el plan de acción en tiempo real, ya que las condiciones pueden cambiar rápidamente.
+### 3.4. Valoración Continua
 
-*   **En incendios en naves A, B o C**, la actuación es similar a la de un incendio de interior, siempre que no haya peligro de colapso. La extinción se logra por enfriamiento o sofocación puntual.
-*   **En naves E y F** (sin cubierta), los incendios son alimentados por el exterior y el control de la propagación se realiza retirando el material combustible.
+Su objetivo es introducir las correcciones necesarias al plan de acción, evaluando críticamente el nivel de logro de las acciones ya emprendidas. El plan de acción debe ser flexible y modificarse según el alcance y estado del siniestro. La valoración continua también debe considerar el estado y disponibilidad de los recursos para determinar la capacidad de realizar rescates, controlar la propagación y extinguir el incendio en tiempo real. Es crucial emprender acciones con los recursos necesarios. En siniestros grandes, es un error iniciar la extinción con suministro de agua o personal insuficiente.
 
-La **reevaluación continua de los recursos** disponibles y el **éxito de las acciones emprendidas** es fundamental, ya que los incendios industriales son de larga duración y sus condiciones pueden variar drásticamente en minutos. El mando debe tener acceso a toda la información posible para tomar decisiones acertadas.
+### 3.5. Valoración Final
 
-Finalmente, la **valoración final** se realiza una vez concluida la intervención, con el objetivo de descartar puntos calientes, constatar la estabilidad estructural y verificar el restablecimiento de los servicios. Esta valoración, realizada por el mando, debe quedar reflejada por escrito con recomendaciones para el beneficiario.
+Una vez concluida la fase de retorno a la normalidad, se requiere una valoración final para descartar la presencia de puntos calientes, confirmar la estabilidad estructural del conjunto y el posible restablecimiento del servicio eléctrico. Esta valoración debe ser realizada por el mando de intervención y sus resultados deben quedar registrados por escrito en una hoja de recomendaciones para el beneficiario.
 
-### 2. Lectura Detallada del Incendio
+**4. Lectura del Incendio**
 
-El método B-SAHF (Building, Smoke, Airtrack, Heat, Flame) es un marco aceptado para valorar incendios, que considera la edificación, el humo, el flujo de gases, el calor y las llamas. Esta lectura, aunque compleja, es esencial para una intervención informada.
+Aunque la lectura del incendio debe basarse en el máximo número de indicadores, es difícil obtener información precisa sobre todos ellos. La lectura siempre estará sujeta a cierta incertidumbre, por lo que es importante evitar simplificaciones. Los parámetros e indicadores a considerar son:
+*   Características del túnel.
+*   Características del humo.
+*   Características de las llamas.
+*   Nivel de temperatura.
+*   Flujo de gases.
 
-#### 2.1. Aspectos de la Edificación
+### 4.1. Características del Túnel
 
-El **combustible** se evalúa por su cantidad, naturaleza y distribución.
+El plan de intervención varía significativamente según el tipo de túnel. Por ejemplo, la intervención será diferente en un túnel bidireccional, donde los vehículos siniestrados pueden encontrarse a ambos lados del foco, comparado con un túnel unidireccional, donde los vehículos siniestrados estarán aguas arriba del foco. De manera similar, la intervención en un túnel bitubo con infraestructura de acceso para equipos de emergencia difiere de un túnel monotubo. La sala de control, si es exigible en infraestructuras subterráneas, facilitará el trabajo del equipo de emergencia en aspectos como el control de la velocidad del aire, la localización del foco y la activación de los sistemas de lucha contra incendios propios del túnel.
 
-La **inflamabilidad de la estructura** es crucial, ya que si es inflamable, el incendio puede propagarse a través de ella, dificultando el confinamiento. Las estructuras de ladrillo y hormigón suelen limitar el incendio al contenido, mientras que las de madera, especialmente las de entramado ligero, pueden ser parte del combustible.
+Los tres tipos principales de infraestructuras subterráneas presentes en España son:
+*   Túnel monotubo sin accesos de evacuación.
+*   Túnel monotubo con accesos de evacuación.
+*   Túnel bitubo con infraestructura de conexión.
 
-La **estabilidad estructural** determina el tiempo de intervención. Las estructuras de acero pierden resistencia a altas temperaturas, y el hormigón armado, aunque más inerte, puede sufrir fisuras. Las estructuras de madera colapsan por pérdida de sección al carbonizarse.
+Otros aspectos del túnel que pueden condicionar la intervención incluyen:
+*   **Dimensiones del túnel:** longitud, altura, ancho, conformado por uno o dos tubos.
+*   **Puntos de acceso.**
+*   **Colapso circulatorio.**
+*   **Límites en evacuación.**
+*   **Dificultades en comunicaciones:** pueden provocar descoordinación, fallos en la información y descontrol del riesgo.
+*   **Limitaciones de la comunicación por radio:**
+    *   Para frecuencias de 80 MHz, el alcance es de 200-300 metros.
+    *   Para frecuencias de hasta 400 MHz, el alcance es de 800 metros.
+    *   El uso de repetidores móviles, telefonía IP o el cable radiante permite asegurar la comunicación por radio en todo el túnel, siendo una instalación fija y protegida.
 
-La **ocupación** del edificio influye en la carga y tipo de combustible, siendo mayor en recintos comerciales. En edificios de múltiples viviendas o dotacionales, es prioritaria la protección de vías de escape.
+### 4.2. Amenazas en el Entorno
 
-La **antigüedad** de la edificación puede indicar el tipo de estructura y compartimentación. Los contenidos modernos, con materiales sintéticos, aceleran el desarrollo del incendio, alcanzan temperaturas más altas y reaccionan más agresivamente a la ventilación.
+Las amenazas en el entorno también condicionan la intervención, ya que pueden agravar la situación o propiciar daños colaterales. Por ejemplo, un túnel en un casco urbano presenta la posibilidad de afectar viviendas aledañas, mientras que un túnel de carretera en alta montaña centraría la preocupación en la propagación del incendio hacia el área forestal.
 
-La **superficie** del recinto está directamente ligada a la carga de combustible y es un parámetro clave para determinar el caudal óptimo de extinción.
+### 4.3. El Equipamiento
 
-La **compartimentación** interna dificulta la propagación del incendio, favoreciendo la lucha por recintos y requiriendo menores caudales de extinción. Los espacios diáfanos, en cambio, facilitan la propagación y el acceso de aire.
+Es fundamental prestar estricta atención al cumplimiento de las medidas de autoprotección y al estado de conservación de los equipos disponibles.
 
-La **altura** del edificio y de los techos influye en la dificultad de acceso y en el volumen de oxígeno y gases de combustión.
+### 4.4. Características del Pavimento
 
-El **nivel de aislamiento y la inercia térmica** del recinto también son factores. Un alto aislamiento térmico resulta en mayores temperaturas y potencia del incendio, con menor concentración de oxígeno. La inercia térmica, por su parte, alarga las fases del incendio, absorbiendo energía en el crecimiento y liberándola en el desarrollo y decaimiento.
-
-Las **aperturas de ventilación** alimentan el incendio y aumentan su potencia, por lo que su valoración es importante.
-
-Finalmente, los **espacios ocultos** como falsos techos o conductos de climatización pueden favorecer la acumulación de gases de incendio y su propagación, dificultando el uso de técnicas de ventilación por presión positiva.
-
-### 3. Riesgos y Dinámicas del Fuego
-
-#### 3.1. Inflamabilidad y Fenómenos de Rápido Desarrollo
-
-La inflamabilidad de los gases de incendio, influenciada por la composición, fracción de combustible, temperatura y concentración de oxígeno, puede dar lugar a fenómenos de rápido desarrollo como el *flashover*, *backdraft* o la explosión de humo si alcanzan su rango de inflamabilidad. Estos eventos pueden producirse por el aporte de aire repentino a un incendio infraventilado o por la presencia de una fuente de ignición en una mezcla inflamable.
-
-#### 3.2. Calor y sus Efectos
-
-El **calor** representa un riesgo físico significativo. La exposición a una energía calorífica total que supere la capacidad de defensa humana puede causar desde lesiones leves hasta la muerte, amplificándose si la atmósfera contiene humedad. La transmisión de calor se produce por **radiación** (desde el foco o el colchón de gases), **conducción** (por contacto con equipos de protección o gases) y **convección** (por flujos de gases calientes).
-
-El calor excesivo en los pulmones puede provocar un colapso circulatorio. La temperatura máxima tolerable para la respiración es de 140ºC por un breve período y sin humedad, lo que exige el uso de equipos de protección personal y máscaras. Las variaciones térmicas dentro del recinto de incendio muestran una fuerte estratificación, con zonas superiores que superan los 600ºC y zonas inferiores alrededor de los 100ºC. Valores de radiación de 10 kW/m² se consideran el umbral de trabajo para bomberos equipados, mientras que 20 kW/m² pueden causar daños personales y a equipos.
-
-El **flujo de gases**, compuesto por el aire de alimentación y los gases de combustión, se clasifica en ruta fría (aire que entra) y ruta caliente (gases que salen), diferenciadas por presión. La ruta fría protege al personal, mientras que la ruta caliente representa una columna de gases peligrosos.
-
-#### 3.3. Toxicidad y Visibilidad
-
-La **toxicidad** de los gases inhalados, como el monóxido de carbono (CO), dióxido de carbono (CO2), cianuro de hidrógeno (HCN), sulfuro de hidrógeno (H2S), amoniaco (NH3) y formaldehído (H2C=O), puede tener efectos sinérgicos que aumentan su peligrosidad. Estos gases pueden dañar el tejido pulmonar o interferir con funciones vitales a través del torrente sanguíneo.
-
-La **visibilidad** se reduce drásticamente por la concentración de partículas en suspensión, empeorando en la transición de incendios limitados por combustible (ILC) a incendios limitados por ventilación (ILV). La pérdida de visión genera desorientación y dificulta la localización del foco.
-
-El **rango de supervivencia de las víctimas** es complejo y depende de parámetros respiratorios (agentes tóxicos, falta de oxígeno) y térmicos (quemaduras). Estudios indican un rango de 6 a 12 minutos en viviendas con puerta abierta, siendo los factores respiratorios los más críticos.
-
-#### 3.4. Influencia de la Aplicación de Agua
-
-La **aplicación de agua** modifica la dinámica del incendio mediante el **enfriamiento** (absorción de energía, reducción de temperatura de gases, combustibles y estructura) y la **dilución** (el vapor de agua generado diluye las concentraciones de combustible y comburente). La evaporación del agua es fundamental, ya que 1 litro de agua a 100°C genera aproximadamente 1.600 litros de vapor, absorbiendo una gran cantidad de calor y contribuyendo a la sofocación.
-
-La efectividad del agua depende del tamaño de gota (las finas son más eficaces para enfriar gases), la distancia de aplicación y el impacto en superficies calientes. Es crucial minimizar la escorrentía para maximizar la eficiencia.
+Las características del pavimento pueden constituir un riesgo importante si forman parte del combustible del incendio, contribuyendo a su crecimiento desmedido. Un ejemplo significativo es el incendio del túnel del Mont Blanc (24 de abril de 1999), donde la producción de vapor por el efecto de *spalling* en el hormigón (a temperaturas entre 100 y 150 °C) afecta la visibilidad de la cámara térmica, aunque esta suele recuperar su funcionamiento normal después de un tiempo.

@@ -1,42 +1,48 @@
-## Métodos de Transferencia de Calor y Mecanismos de Extinción del Fuego
+A continuación, se presenta un temario riguroso y técnico, elaborado a partir del contenido de las páginas 45 a 48 del documento original:
 
-La comprensión de cómo se transfiere el calor es fundamental para el estudio de los incendios y sus técnicas de extinción. La energía térmica se desplaza siempre desde regiones de mayor temperatura a zonas de menor temperatura hasta alcanzar un equilibrio, y la magnitud de esta transferencia se define como la cantidad de calor por unidad de tiempo. Este proceso se realiza mediante tres mecanismos principales: conducción, convección y radiación.
+### TEMA 8. PROPAGACIÓN DE INCENDIOS
 
-### Mecanismos de Transferencia de Calor
+#### 8.1. Conducción
+La conducción es el proceso de transferencia de calor que ocurre por contacto molecular directo entre cuerpos, prevalentemente en sólidos, aunque también se manifiesta en líquidos y gases. Un ejemplo es la transferencia de calor de una tubería de vapor a una pieza de madera mediante contacto directo, donde la tubería actúa como conductor.
 
-#### Conducción
-La **conducción** es la transferencia de calor que se produce por contacto molecular directo. Las moléculas de un cuerpo caliente vibran con mayor energía y chocan con las moléculas adyacentes, transmitiendo así energía cinética-calorífica a través del material. Este fenómeno es predominante en los sólidos, aunque también se observa en líquidos y gases. Para que la conducción tenga lugar, es indispensable la existencia de materia; por lo tanto, no es posible en el vacío absoluto. La conducción en gases y aire es, dentro de rangos normales de presión, independiente de esta, acercándose a cero a presiones muy bajas.
+Cuando un material se calienta, sus moléculas incrementan su vibración. Al colisionar con moléculas adyacentes, les transmiten energía cinético-calorífica, propagando así la energía de agitación térmica a través del material, manteniendo cada molécula su posición inicial.
 
-Diversos factores influyen en la eficiencia de la conducción térmica. Una mayor **superficie de contacto** entre materiales a diferente temperatura incrementa la transferencia de calor. Del mismo modo, una **diferencia de temperaturas** más acentuada entre los cuerpos implicados resultará en un mayor flujo de calor. El **espesor** del material frío es inversamente proporcional a la eficiencia de la conducción; a mayor espesor, menor transferencia. La **relación superficie/volumen** también es crucial: un material finamente dividido (por ejemplo, polvo de madera) presentará una mayor superficie expuesta y, por ende, una mayor capacidad de conducción. La **conductividad térmica (K)**, una propiedad intrínseca de cada material, mide su capacidad para transferir calor y se expresa en J/(cm·seg·°C); varía ligeramente con la temperatura y la humedad. Finalmente, el **grado de disgregación** o menor densidad de un material reduce su capacidad de conducción; los sólidos transfieren calor mejor que los líquidos, y estos a su vez mejor que los gases. Los aislantes térmicos comerciales, por ejemplo, aprovechan esta propiedad al incorporar pequeñas partículas sólidas con intersticios de aire.
+Para que la conducción tenga lugar, es indispensable la presencia de materia; en el vacío absoluto no hay transferencia de calor por conducción. La conducción de calor en el aire u otros gases es independiente de la presión en rangos normales, tendiendo a cero en presiones muy bajas.
 
-#### Convección
-La **convección** es el mecanismo de transferencia de calor que ocurre en fluidos circulantes (líquidos o gases). Se basa en la diferencia de densidad que experimentan los fluidos al calentarse: el fluido más caliente se expande, disminuye su densidad y asciende, desplazando al fluido más frío y denso hacia abajo. Este proceso genera corrientes (como en una estufa donde el aire caliente sube y el frío baja) que buscan el equilibrio térmico en un sistema aislado. Al igual que la conducción, la convección requiere un medio material para manifestarse.
+Factores que influyen en la conducción térmica:
+*   **Superficie de Contacto (S):** Una mayor superficie de contacto entre dos materiales a distinta temperatura aumenta la transferencia de calor molecular.
+*   **Diferencia de Temperaturas (T1–T2):** La conducción solo se produce si existen diferencias de temperatura entre las partes del cuerpo. Un mayor gradiente térmico implica un mayor flujo de calor.
+*   **Espesor del Material:** Un mayor espesor del material frío reduce la eficiencia de la transferencia de calor por conducción.
+*   **Relación Superficie/Volumen:** Un material más finamente dividido posee una mayor relación superficie/volumen, lo que incrementa la posibilidad de conducción de calor. En combustibles forestales, una estructura densa de arbustos o vegetación facilita la transferencia de calor por convección o contacto molecular, aumentando la eficiencia de la conducción.
+*   **Conductividad Térmica (K):** Es la capacidad de un material para conducir calor, medida como el flujo de calor a través de una unidad de superficie por unidad de gradiente de temperatura. Su unidad típica es el julio por centímetro por segundo por grado Celsius (J / (cm · s · ºC)). Este valor es una propiedad física que varía ligeramente con la temperatura y características específicas del material, como la humedad.
+*   **Grado de Disgregación (Menor Densidad):** Disminuye la capacidad de conducción. El calor se transmite más eficazmente en sólidos que en líquidos, y en líquidos mejor que en gases. Los aislantes térmicos comerciales suelen consistir en pequeñas partículas o fibras sólidas con intersticios llenos de aire.
+*   **Calor Específico:** La cantidad de calor que un material absorbe para elevar su temperatura en 1ºC. Un mayor calor específico del material frío implica que se requerirá más calor del material caliente para alcanzar el equilibrio térmico, o que el proceso de equilibrio será más prolongado.
 
-La convección es particularmente eficaz en la propagación de incendios, especialmente en entornos donde el calor generado convierte los combustibles aéreos en vapores inflamables, lo que puede escalar fuegos superficiales a incendios de copas en áreas forestales. Las corrientes de aire caliente arrastran partículas incandescentes, contribuyendo a la propagación. Factores como las **variaciones de densidad** del fluido con la temperatura, la **pendiente del terreno** (que acelera la desecación y el calentamiento de combustibles cuesta arriba, pero la inhibe cuesta abajo donde predomina la radiación) y la **compacidad de la capa de combustible** (una capa muy compacta con poco aire interpuesto dificulta la convección) influyen en este proceso.
+#### 8.2. Convección
+La convección es el mecanismo de transferencia de calor en medios fluidos (gases o líquidos) circulantes.
 
-#### Radiación
-La **radiación** es la transferencia de energía a través del espacio o de materiales mediante ondas electromagnéticas, como la luz visible, las ondas de radio o los rayos X. A diferencia de la conducción y la convección, la radiación puede propagarse en el vacío absoluto. Se transmite en línea recta, a la velocidad de la luz en el vacío, y en dirección radial desde la fuente. Cuando las ondas electromagnéticas inciden sobre un cuerpo, pueden ser absorbidas, reflejadas o transmitidas.
+El mecanismo se produce cuando masas de aire o gas calientes se expanden, reducen su densidad y ascienden, desplazando el volumen más frío y denso (rico en oxígeno) hacia abajo.
 
-Las emisiones de un proceso de combustión se encuentran principalmente en la región infrarroja del espectro electromagnético, siendo la fracción visible mínima. Por ejemplo, el calor que se percibe al acercar la mano a la llama de una vela es calor radiante.
+Al igual que en la conducción, la convección requiere la presencia de materia para su desarrollo.
 
-### Mecanismos de Extinción del Fuego
+Este fenómeno se rige por las diferencias de densidad del fluido en función de la temperatura, buscando el equilibrio térmico en un sistema perfectamente aislado y en reposo. Así, si dos cuerpos sólidos están inmersos en un fluido, sus temperaturas tienden a igualarse por convección.
 
-Los mecanismos de extinción del fuego se fundamentan en la eliminación o reducción de los factores que componen el tetraedro del fuego: combustible, comburente, energía de activación (calor) y reacción en cadena.
+En el contexto de un incendio, la circulación de aire caliente distribuye el calor por toda la habitación. El aire caliente asciende, creando un vacío que es ocupado por aire fresco y oxígeno, realimentando el foco calorífico. Este aire caliente puede arrastrar partículas en ignición (pavesas o ascuas), contribuyendo a la propagación del fuego.
 
-#### Desalimentación o Eliminación del Combustible
-Este mecanismo busca la retirada parcial o total del **combustible** de la zona de combustión, asegurando que la velocidad de eliminación sea superior a la velocidad de propagación del fuego. Una forma específica es la **dilución**, donde la concentración de vapores combustibles se reduce por debajo de su límite inferior de inflamabilidad (LII).
+La expansión del fuego por convección es, probablemente, el método de transmisión de calor con mayor influencia en la definición de la estrategia de intervención. Las aplicaciones de la transmisión de calor por convección incluyen calentadores de agua, chimeneas, ventiladores y extractores de aire.
 
-La desalimentación puede ser **directa**, como la separación física de materiales en combustión (ejemplo: mover un palet ardiendo) o la interrupción del flujo de líquidos o gases combustibles mediante el cierre de válvulas. También puede ser **indirecta**, dificultando la propagación al enfriar combustibles adyacentes o interponiendo barreras incombustibles. La dilución de combustibles es aplicable únicamente a líquidos polares que pueden mezclarse con agua (como los alcoholes), reduciendo así la concentración de vapores inflamables.
+Factores principales que afectan a la transmisión de calor por convección:
+*   **Variaciones de la densidad del gas (aire) o fluido:** Provocadas por los cambios de temperatura.
+*   **Pendiente:** La combinación de convección y pendiente acelera la desecación y el calentamiento de los combustibles en ascenso, favoreciendo la propagación cuesta arriba. Por el contrario, cuesta abajo la convección es ineficaz, y la transmisión de calor se produce solo por radiación, lo que ralentiza el avance del fuego.
+*   **Compacidad de la capa de combustibles:** En capas muy compactas, la convección se ve obstaculizada por la escasa presencia de aire.
 
-#### Sofocación o Eliminación del Comburente
-La **sofocación** consiste en eliminar o desplazar el **comburente** (generalmente oxígeno atmosférico) de la zona de fuego, o en reducir su concentración por debajo del umbral necesario para mantener la combustión (aproximadamente un 15% de oxígeno).
+#### 8.3. Radiación
+La radiación es una forma de energía que se propaga a través del espacio o de materiales mediante ondas electromagnéticas, como la luz, ondas de radio o rayos X. Constituye el proceso de transmisión de calor de un cuerpo a otro, tanto en un medio material como en ausencia de este, como el calor solar que atraviesa el espacio y calienta la Tierra.
 
-Este método puede lograrse mediante la **separación completa** del comburente, cubriendo el material en llamas con sustancias incombustibles como arena, espuma, polvos extintores, o incluso una tapa, impidiendo así el contacto con el aire. Otra forma es la **dilución del oxígeno** o inertización, introduciendo gases inertes como el dióxido de carbono (CO2) o nitrógeno, o grandes volúmenes de vapor de agua. Por ejemplo, un litro de agua líquida pulverizada puede generar hasta 1770 litros de vapor, desplazando el oxígeno. Este método no es efectivo si el combustible genera su propio oxígeno.
+Todas las formas de energía radiante se propagan en línea recta a la velocidad de la luz en el vacío, en dirección radial y con sentido hacia el exterior desde el foco de origen. Al interaccionar con un cuerpo, pueden ser absorbidas, reflejadas o transmitidas.
 
-#### Enfriamiento o Eliminación de la Energía de Activación
-El **enfriamiento** tiene como objetivo reducir la temperatura del **combustible** por debajo de su punto de ignición, impidiendo así la liberación de vapores inflamables. El agente extintor más común y eficaz para esto es el **agua**, debido a su elevado calor latente de vaporización (540 calorías por gramo al pasar de líquido a vapor) y su alta capacidad calorífica, que le permiten absorber una gran cantidad de energía térmica de las superficies calientes.
+El calor radiado se desplaza por el espacio hasta ser absorbido por un cuerpo opaco.
 
-La aplicación de agua se realiza generalmente sobre las superficies calientes. En ocasiones, puede complementarse con ventilación controlada para reducir el humo y los gases. Otros agentes como el CO2, los halones y algunos polvos extintores (tipo ABC) también poseen propiedades refrigerantes, aunque en menor medida que el agua.
+Las emisiones de un proceso de combustión se concentran principalmente en la región del infrarrojo (longitudes de onda mayores que las del rojo). La fracción de energía emitida en la región visible es mínima.
 
-#### Inhibición o Rotura de la Reacción en Cadena
-La **inhibición**, también conocida como acción catalítica negativa, interrumpe la **reacción en cadena** de la combustión. Este mecanismo se logra mediante la desactivación de los radicales libres que perpetúan la combustión. Se emplean compuestos químicos, como halones o polvos químicos secos, que al ser proyectados sobre el fuego, reaccionan con estos radicales libres, impidiendo que el oxígeno se una a ellos y deteniendo así la oxidación. Este método es altamente efectivo en fuegos con llama, donde la formación de radicales libres es característica, pero no es aplicable en fuegos incandescentes o de brasas, ya que en estos no hay llamas visibles y, por ende, una menor presencia de los radicales que el agente busca neutralizar.
+Un ejemplo común de radiación es la llama de una vela: el aire calentado por la llama asciende mientras el aire frío desciende, aportando oxígeno para mantener la combustión. La sensación de calor percibida al acercar la mano a la llama se denomina radiación o calor radiante.

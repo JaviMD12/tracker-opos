@@ -1,99 +1,116 @@
-La caracterización de los materiales y sistemas constructivos empleados en la edificación constituye un pilar fundamental para el personal de emergencias, especialmente para los bomberos. Comprender la estructura de un edificio, los materiales que lo componen y las fuerzas a las que está sometido permite anticipar su comportamiento en situaciones críticas como incendios, derrumbes o impactos, facilitando así una intervención más segura y eficaz.
+El temario aborda las técnicas de estabilización de estructuras y terrenos, detallando los métodos y herramientas utilizados en intervenciones de emergencia.
 
-## Materiales de Construcción Esenciales
+**Estabilización de Edificaciones: Apeos para Forjados sin Apoyo Inferior**
 
-La edificación se compone de una diversidad de materiales, cada uno con propiedades específicas que determinan su uso y resistencia.
+En estructuras adinteladas con muros de fábrica, cuando una losa requiere ser descargada sin la posibilidad de transmitir las cargas al nivel inferior inmediato, se emplean diferentes modelos de apeo para redireccionar las fuerzas.
+*   **Apeo de Puente Alto**: La viga horizontal (sopanda) se apoya sobre un puente jabalconado. Cada jabalcon (elemento diagonal) se soporta en la base de los muros paralelos que delimitan la crujía.
+*   **Apeo en Aspa**: Es una variación del modelo anterior donde se prescinde del puente, y los jabalcones soportan directamente la sopanda.
+*   **Apeo de Pescante**: Un elemento de madera atraviesa el muro como un voladizo simétrico. Las sopandas de las crujías contiguas se apoyan en los extremos de este voladizo. Si el voladizo es considerable, se jabalcona con apoyo en la base del muro.
+*   **Apeo Viga-Puente**: Una viga principal (jácena) se apoya en el centro de la sopanda y transfiere las cargas a los muros de la crujía.
 
-### La Madera
+Estos métodos de apeo evitan la colocación de elementos en las plantas inferiores, facilitando el tránsito de operarios y materiales durante las reparaciones. Sin embargo, su ejecución es compleja y requiere mucho tiempo.
 
-La madera es un material lignocelulósico obtenido de árboles y arbustos, ampliamente utilizado en la construcción, tanto para elementos estructurales como para cerramientos y acabados. Sus propiedades varían significativamente según la especie y el grado de humedad. La densidad, por ejemplo, fluctúa entre 350 y 500 kg/m³. La madera es un material **higroscópico**, lo que significa que su contenido de humedad se ajusta a las condiciones ambientales, absorbiendo o liberando agua, lo que a su vez altera su densidad y comportamiento estructural. En condiciones normales de temperatura y humedad relativa en España, la madera seca al aire presenta un rango de humedad de equilibrio entre el 7% y el 20%.
+**Apeo de Forjados en Voladizos**
 
-En cuanto a sus propiedades térmicas, la madera es un **excelente aislante** debido a su baja conductividad, lo que minimiza la dilatación por cambios de temperatura. Mecánicamente, la madera exhibe un comportamiento **anisotrópico**, es decir, sus propiedades no son uniformes en todas las direcciones (fibras, normal y tangencial). Ofrece buena resistencia a la flexión y una resistencia razonable a la compresión y tracción. Sin embargo, la resistencia de las uniones es un punto crítico, siendo más sencilla la ejecución de uniones a compresión que a tracción.
+Para estabilizar forjados en voladizo o alerones, se pueden aplicar distintos modelos de estabilización, siendo el jabalcon un elemento característico.
 
-Las **tipologías de madera** empleadas en construcción, reguladas por normativas como el Código Técnico de la Edificación (CTE DB SE M), incluyen:
-*   **Madera aserrada**: Es madera maciza obtenida directamente del aserrado del árbol y generalmente escuadrada con caras paralelas y cantos perpendiculares. Se clasifica en:
-    *   **Coníferas (maderas blandas)**: Como cedro, abeto o pino. Se identifican con la letra 'C' seguida de un número que indica su resistencia a flexión (N/mm²). Por ejemplo, una madera C14 posee el doble de resistencia a compresión que a tracción, mientras que una C50 puede presentar mayor resistencia a tracción.
-    *   **Frondosas (maderas duras)**: Como cerezo, roble o castaño. Se identifican con la letra 'D' y un número que representa su resistencia a flexión (N/mm²). Las D30, D35 y D40 muestran mayor resistencia a compresión, invirtiéndose esta tendencia en D50, D60 y D70, donde predomina la tracción.
-*   **Madera laminada encolada**: Consiste en varias capas de madera encoladas entre sí, pudiendo ser **homogénea** (misma clase de resistencia) o **combinada** (diferentes clases). Se nombra con 'GL' más un número (24-36) para la resistencia a flexión y 'h' o 'c' para indicar homogeneidad o combinación. Aunque sus resistencias son similares a la madera aserrada de la misma clase, permite mayores dimensiones en los elementos estructurales y presenta un comportamiento mecánico más lineal, con una resistencia a compresión axial aproximadamente un 30% mayor que a tracción axial.
-*   **Madera microlaminada (LVL)**: Producto derivado de chapas finas (3-5 mm) encoladas con las fibras en la misma dirección, utilizado estructuralmente.
-*   **Tableros**: Productos donde la longitud y anchura predominan sobre el espesor. Incluyen:
-    *   **Tableros de madera maciza**: Formados por tablas unidas mediante encolado o machihembrado.
-    *   **Contrachapado**: Compuesto por capas de chapas encoladas, con las fibras de capas consecutivas dispuestas a 90°.
-    *   **Tableros de fibras**: Fabricados con fibras lignocelulósicas, calor, presión y aglomerante sintético. Pueden ser de densidad media (DM/MDE), duros o semiduros.
-    *   **Aglomerado**: Partículas de madera u otros materiales leñosos aglomeradas con adhesivo y presión/calor.
-    *   **OSB (Oriented Strand Board)**: Similar al aglomerado, pero con virutas más grandes y orientadas longitudinalmente en las capas externas para mejorar las propiedades mecánicas en esa dirección, a expensas de la dirección perpendicular.
+**Apeo de Jácenas y Vigas Maestras**
 
-El **comportamiento mecánico de los tableros** varía significativamente según el modelo y la dirección de aplicación del esfuerzo, siendo inversamente proporcional a su espesor y grado de humedad.
+Para contener la deformación de una viga maestra, se utilizan pies derechos (soportes verticales) cuya sopanda y durmiente deben orientarse perpendicularmente a los elementos resistentes de la estructura, incluso si sus direcciones no coinciden inicialmente. El apeo debe prolongarse por las plantas inferiores hasta alcanzar un terreno firme o al menos dos forjados intactos debajo del elemento dañado.
 
-## Conceptos Físicos Aplicados a la Edificación
+**Consideraciones adicionales para el apeo de jácenas y vigas maestras**:
+*   Si el apeo directo a la jácena no es posible, se deben descargar todos los forjados que esta soporta.
+*   En el caso de vigas con cargas importantes y posibles movimientos laterales, se pueden emplear asnillas o puentes de apeo para descargar la jácena.
+*   Si un muro se apoya sobre la jácena, este también debe ser apeado.
 
-La estabilidad y el comportamiento de las edificaciones se rigen por principios fundamentales de la física.
+**Apeo de Muros**
 
-### Fuerza y Momentos
+El apuntalamiento de muros presenta una gran variedad de soluciones, que varían según el tipo de daño y la ubicación del muro en la edificación. Estas soluciones pueden incluir apuntalamientos horizontales, verticales, inclinados o combinaciones de ellos.
 
-La **fuerza** se define como una magnitud vectorial que describe la interacción entre cuerpos, calculada como el producto de la masa por la aceleración (F = m · a). Sus atributos son el módulo (magnitud), dirección, sentido y punto de aplicación. La unidad en el Sistema Internacional (SI) es el Newton (N), equivalente a kg·m/s². Las tres **Leyes de Newton** (inercia, F=ma, acción-reacción) son la base de la mecánica de fuerzas, implicando que toda fuerza aplicada (acción) debe ser contrarrestada por otra igual y de sentido contrario (reacción) para mantener el equilibrio. Las fuerzas pueden componerse (sumarse, restarse, multiplicarse) para generar fuerzas resultantes.
+**Modelos básicos de apuntalamiento de muros**:
+*   **Tornapuntas Simples**: Se emplean para prevenir el hundimiento o desplome de un muro de fachada. El método usual implica el uso de tornapuntas de doble o triple tablón, arriostrados entre el suelo y el muro mediante un durmiente y una vela, o una zapata mural.
+    *   Como regla general, el apoyo en el muro debe situarse, si es posible, bajo las carreras o bajo el forjado.
+    *   En función de la magnitud del daño y la esbeltez del elemento a apear, pueden realizarse apuntalamientos con tornapuntas paralelos en el mismo plano vertical, apoyándose en el muro mediante una zapata mural.
+*   **Tornapuntas a Varias Alturas (en abanico)**: Se utilizan para apear muros de gran altura, caracterizándose geométricamente por recibir los esfuerzos del muro dañado en una zona vertical más extensa. Consiste en usar tornapuntas paralelos en el mismo plano vertical, a menudo reemplazando las zapatas murales verticales por muletillas tradicionales.
+*   **Apeo con Asnillas**: Este método se usa para descargar la sección inferior de un muro dañado. Implica la colocación de agujas en huecos previamente realizados por encima de la lesión, las cuales soportan la parte superior del muro y su carga. Los extremos de cada aguja se apoyan en pies derechos o en parejas de tornapuntas que, a su vez, descansan sobre durmientes.
+*   **Apuntalamientos en Muros Interiores**: Se aplican para apear las vigas o forjados que se apoyan en el muro, de manera similar a cómo se apean los pilares, buscando recoger todas las cargas que actúan sobre el muro.
+*   **Acodalado de Muros**: Su objetivo es evitar el vuelco de elementos estructurales verticales o del edificio. Se utilizan sistemas acodalados que se apoyan en un segundo muro o en una estructura paralela a la afectada.
+    *   Este modelo de apeo, con una longitud máxima de 8 metros entre muros o estructuras paralelas, permite liberar la base del elemento a apear. Su ejecución requiere codales auxiliados por tornapuntas que descansan en elementos verticales mediante zapatas murales que no tocan el suelo.
+*   **Apuntalamientos en Muros de Contención**: El tipo de apuntalamiento depende de la lesión:
+    *   Si es un deslizamiento en el plano de asiento, se debe apear horizontalmente, acodalando la base y reforzando el codal con tornapuntas a media altura para prevenir el desplome inminente.
+    *   Si la lesión es un vuelco, el apeo se realiza con tornapuntas en la parte superior del muro.
+*   **Recercados**: Son apeos característicos de los muros de carga, diseñados para reforzar los puntos más débiles y aumentar la rigidez del conjunto. Se han descrito anteriormente como elementos compuestos de los apeos.
 
-Un **par de fuerzas** es un sistema de dos fuerzas paralelas de igual intensidad pero sentidos opuestos. Su efecto se cuantifica mediante el **momento** (o momento de un par de fuerzas), que es el producto de la magnitud de una de las fuerzas por la distancia perpendicular entre ellas (brazo del par). Se mide en Newton-metro (N·m). El momento de un par de fuerzas con respecto a un punto indica su capacidad para cambiar el estado de rotación de un cuerpo alrededor de un eje. Para evitar esta rotación, se genera un **momento resistente** o de **empotramiento** de magnitud idéntica y sentido contrario. Los momentos pueden ser positivos (giro horario) o negativos (giro antihorario). Un **giro libre** resulta en un momento nulo cuando las fuerzas se alinean y el brazo de palanca se anula.
+**Apeo de Pilares**
 
-### Equilibrio Estático y Elasticidad
+Para apear un pilar dañado, se suelen colocar dos pies derechos (postes verticales) con orejas a los lados del pilar. Estos pies derechos están diseñados para recibir la carga del pilar y transmitirla a la losa inmediatamente inferior. Un problema común, especialmente en pilares de plantas altas, es la falta de una base resistente para el apoyo, lo que requiere un enfoque específico para la transmisión de cargas a niveles inferiores.
+*   Las piezas verticales (pies derechos o puntales metálicos) deben estar perfectamente alineadas en todas las plantas, insertándose en el forjado mediante taladro.
+*   Es necesario calcular la capacidad resistente del forjado.
+*   Como paso previo a la reparación, todos los elementos que inciden en el pilar (forjados, vigas, etc.) deben ser descargados.
+*   Para gestionar los esfuerzos, existen dos soluciones principales:
+    *   **Arriostramiento de la cabeza de los pilares**: Se transmiten sus cargas a la base de un muro de carga cercano.
+    *   **Construcción de un puente o tornapuntas**: Implica el apeo vertical de estas cargas, extendiéndose hasta un mínimo de tres forjados sanos por debajo del apeo o hasta el terreno. Generalmente, el apeo se construye de abajo hacia arriba, para luego proceder a su templado progresivo.
 
-La **estática** es la rama de la mecánica que estudia el equilibrio de fuerzas y momentos en sistemas físicos. El **equilibrio estático** se logra cuando no hay movimientos relativos de los elementos del sistema, lo que implica que la suma de todas las fuerzas (ΣF) y momentos (ΣM) en cada cuerpo es cero. Las cargas que soporta una estructura se manifiestan como **empujes** (fuerzas) y **giros** (momentos), los cuales deben ser contrarrestados por reacciones opuestas.
+**Apeo de Cimientos**
 
-El **centro de gravedad** de un cuerpo es el punto donde se puede considerar concentrado todo su peso. Para que un objeto apoyado sobre una base plana esté en equilibrio estable, la vertical que pasa por su centro de gravedad debe caer dentro de la base de apoyo. Si el cuerpo se desvía ligeramente, un momento restaurador tenderá a devolverlo a la posición inicial; sin embargo, si se aleja demasiado y el centro de gravedad cae fuera de la base, el cuerpo rotará hasta una nueva posición de equilibrio.
+La reparación de cimentaciones es una tarea compleja, por lo que se consideran casos genéricos de apeo. El punto de partida es la derivación o descarga de todas las acciones gravitatorias que la estructura transmite a la cimentación, mediante la combinación de los siguientes sistemas básicos:
+*   **Sistemas a compresión**: Utilizan tornapuntas y puntales.
+*   **Sistemas a flexión**: Emplean agujas.
 
-La **elasticidad** es la capacidad de los materiales para deformarse reversiblemente bajo fuerzas externas y recuperar su forma original al cesar estas fuerzas. La **plasticidad**, por otro lado, describe deformaciones permanentes que ocurren cuando los esfuerzos superan el límite elástico del material, a menudo acompañadas de pérdida de sección y resistencia. La **Ley de Hooke** (σ = Eε) establece que la tensión (σ) en un cuerpo sólido es directamente proporcional a su elasticidad (E, Módulo de Young) y a la deformación (ε). Materiales como el acero y el hormigón poseen módulos de elasticidad muy diferentes, lo que resulta en distintas deformaciones bajo la misma carga. Por ejemplo, el hormigón puede deformarse hasta diez veces más que el acero.
+**Tipos de cimentaciones apear**:
+*   **Zapatas corridas**:
+    *   **Cimentaciones corridas de muros accesibles por ambos lados**: Se apean mediante agujas.
+    *   **Cimentaciones corridas medianeras (inaccesibles por un lado)**: El apeo más básico se realiza con agujas que actúan como palanca. Este método se limita a casos de baja carga.
+*   **Zapatas aisladas**:
+    *   **Zapatas centrales del edificio**: Se ejecutan 2/4 tornapuntas que recogen la carga de la cabeza de la zapata y la transmiten a otras cimentaciones cercanas o a un terreno resistente, debidamente acodaladas.
+    *   **Zapatas de medianería**: Se apean mediante un sistema de puntales paralelos a la medianería.
+    *   **Zapatas de esquina**: El apeo se realiza por el interior con puntales y por el exterior en planta baja con tornapuntas.
 
-### Comportamiento Térmico
+**Otros Apeos: Elementos de Generatriz Curva (Arcos y Bóvedas)**
 
-Las variaciones térmicas, frecuentes en escenarios de incendios, afectan el comportamiento de los materiales.
-*   El **coeficiente de conductividad térmica (λ)** cuantifica la capacidad de un material para conducir calor. Se mide en W/m·°C o W/m·K. Materiales con valores bajos (como corcho, fibra de vidrio o poliuretano) son buenos aislantes, mientras que los metales (hierro, acero, aluminio) son excelentes conductores.
-*   El **coeficiente de dilatación térmica (α)** mide el cambio de dimensión lineal de un material por cada grado de aumento de temperatura. Por ejemplo, una viga de hormigón armado de 10 metros de longitud que experimenta un aumento de temperatura de 20°C a 400°C sufrirá una dilatación lineal de 5.76 cm (considerando α = 0.000012 1/°C), generando empujes laterales que pueden causar el colapso estructural.
+Los elementos esenciales para el apeo de un arco o bóveda deben:
+*   Reducir la forma del intradós.
+*   Permitir el asentamiento de los materiales y su descimbrado.
+*   Ser indeformables y transmitir las cargas a carreras y puntales.
 
-## Acciones en la Edificación
+El apeo de arcos debe ajustarse lo máximo posible a la generatriz del arco, requiriendo una plantilla para su construcción. Cuando los vanos y cargas son significativos, además del apeo en el plano del arco, se deben organizar arriostramientos transversales para evitar el vuelco. El apeo de bóvedas y cúpulas se efectúa mediante una secuencia de cimbras a lo largo de la traslación del arco (bóvedas) o por giro del mismo (cúpulas).
 
-Según el Código Técnico de la Edificación (CTE DB SE AE), las fuerzas, cargas o solicitaciones que un edificio debe soportar se clasifican en:
+**Ejemplo de Apeos Estandarizados (CEIS Guadalajara)**
 
-### Acciones Permanentes
+El Consorcio de Extinción de Incendios y Salvamentos de Guadalajara (CEIS Guadalajara) ha implementado una colección de apeos para situaciones frecuentes, con tiempos de ejecución controlados y capacidad resistente conocida. La clave es que todo el personal tenga claridad sobre el objetivo y la capacidad mecánica del apeo a la solicitación previsible. Las acotaciones y dimensiones genéricas deben adaptarse, y pueden usarse geometrías y calidades de material diversas.
 
-Son cargas que actúan de forma constante a lo largo de la vida útil del edificio:
-*   **Peso propio**: Incluye el peso de todos los materiales (cal, yeso, cemento, mortero, hormigón, acero, adobe, ladrillo, bloque de hormigón, piedra natural, madera) y elementos constructivos (cubiertas, forjados, solados, cerramientos, tabiquería). Los pesos específicos varían, por ejemplo, el acero (77-78.5 kN/m³) es mucho más denso que la madera (3.5-5.0 kN/m³), mientras que los forjados pueden oscilar entre 2.0 y 5.0 kN/m².
-*   **Pretensado**: Esfuerzos asociados al tensado de barras de acero y compresión del hormigón, previos al fraguado.
-*   **Acciones del terreno**: Fuerzas generadas por el terreno en contacto con la estructura (peso, empujes, hundimientos), cuya cuantía depende del material (arcillas, gravas/arenas) y la altura del terreno. Por ejemplo, el empuje de arcilla a 1 metro de profundidad es de 5 kN/m², y a 3 metros, 15 kN/m².
+**Pautas de Ejecución de Estructuras Auxiliares (Fases)**
 
-### Acciones Variables
+La correcta ejecución de un apeo requiere tener en cuenta el uso adecuado de las piezas y que la estructura se construya con elementos sueltos que funcionan como uniones articuladas, impidiendo el desplazamiento de los enlaces para que el apeo cumpla su función. El proceso se divide en las siguientes fases:
 
-Son cargas cuya cuantía y presencia pueden variar en el tiempo:
-*   **Sobrecarga de uso**: Peso de elementos necesarios para el uso del edificio. Puede ser uniforme (kN/m²) o concentrada (kN). Por ejemplo, en viviendas es de 2 kN/m² (uniforme) y 2 kN/m² (concentrada), mientras que en áreas de aglomeración pública es de 5 kN/m² (uniforme) y 7 kN/m² (concentrada).
-*   **Acciones sobre barandillas y elementos divisorios**: Fuerza horizontal uniforme (el CTE estipula 1-3 kN/m, pero para bomberos se considera un máximo de 0.5 kN/m).
-*   **Viento**: Presiones y succiones sobre la estructura (simplificado a 0.5 kN/m² en España).
-*   **Acciones térmicas**: Deformaciones por variaciones de temperatura. Se pueden despreciar si hay juntas de dilatación cada 40 m en estructuras de hormigón o acero.
-*   **Nieve**: Sobrecarga por acumulación de nieve en cubiertas (1.0 kN/m² para localidades con altitud inferior a 1.000 m).
+**3.1. Dimensionado**
+La selección del número de puntales, su separación y el tamaño de los durmientes se realiza para asegurar la transmisión de todas las cargas del edificio al terreno. Es fundamental conocer la resistencia de los elementos disponibles (tablones, puntales telescópicos). Se prefiere el uso de sistemas de apeo estandarizados y predefinidos para agilizar los cálculos y la ejecución.
 
-### Acciones Accidentales
+**3.2. Toma de Medidas y Cortes**
+Una vez definida la geometría del apeo, se miden las dimensiones y ángulos de las piezas con cintas métricas, escuadras y escantillones.
+*   Para la longitud total de la pieza, se restan dos grosores del tablón de la sopanda y durmiente, más un margen de 2 cm para el acuñado (esta medida puede variar según el tamaño de las cuñas).
+*   Los cortes se efectúan después de trazar con una escuadra de carpintero, evitando mermar la sección de la madera con cortes angulados o cruzados.
 
-Cargas debidas a riesgos naturales o accidentes antrópicos:
-*   **Sismo**: Respuesta del edificio a movimientos sísmicos. La norma sismorresistente (NCSR-02) considera peligrosos sismos con aceleración superior a 0.04 veces la gravedad.
-*   **Incendio**: Los edificios deben resistir incendios durante un tiempo mínimo (CTE-DB SI).
-*   **Impacto**: Acciones generadas por impactos accidentales (excluye impactos premeditados). El impacto de vehículos de hasta 30 kN de peso total se calcula como 50 kN en dirección paralela a la vía y 25 kN en dirección perpendicular. Para carretillas elevadoras, se estima en cinco veces su peso máximo autorizado.
+**3.3. Embridado de Tablones**
+Las piezas principales del apeo (pies derechos, tornapuntas, codales) deben agruparse en dos o tres tablones unidos mediante bridas para prevenir el pandeo anormal debido a nudos u otros defectos de la madera.
 
-## Esfuerzos y Tensiones en la Edificación
+**3.4. Sujeción de los Durmientes**
+Es crucial preparar el suelo o nivel de apoyo con suficiente resistencia para evitar el deslizamiento del durmiente. Esto se logra mediante cajeado, riostras en todos los durmientes, codales contra los muros de carga o anclaje con redondos.
 
-Los elementos estructurales de un edificio, al estar sometidos a cargas, experimentan esfuerzos internos que se manifiestan como tensiones.
+**3.5. Piezas en Contacto Directo con Muros**
+Para piezas en contacto con muros donde puedan ocurrir cizallamientos (puntales telescópicos, pies derechos, agujas), se instala una pieza de madera como elemento de contacto para recibir directamente el esfuerzo del muro, preferiblemente anclada con pasadores y fijada por ranas.
 
-Una **tensión** es la fuerza por unidad de área que resulta de la transmisión de carga a través del material. Se mide en N/mm² (equivalente a 1 Kg/cm² o 1 MPa).
+**3.6. Montaje de un Apeo**
+Una vez reunidas todas las piezas, se clavan las piezas horizontales a las verticales (de arriba abajo): la sopanda se clava a dos pies derechos, el conjunto se eleva y se posiciona sobre el durmiente, nivelándose. Luego se montan el resto de elementos: pies derechos, cuñas, riostras, etc.
 
-Según los coeficientes de seguridad, se distinguen:
-*   **Tensión de rotura**: Tensión máxima que un material puede soportar antes de fracturarse, determinada en laboratorio sin coeficientes de seguridad.
-*   **Tensión de trabajo**: Umbral máximo de tensión para que una estructura funcione con seguridad, considerando coeficientes de seguridad, generalmente entre el 70% y el 80% de su límite elástico.
+**3.7. Aplomado de las Piezas**
+Es esencial que las piezas verticales queden perfectamente aplomadas para garantizar la eficacia del trabajo. Si es necesario, se deben colocar varios pies derechos en fila, perfectamente alineados.
 
-Los **tipos de esfuerzos** se clasifican según su naturaleza:
-*   **Esfuerzos simples**:
-    *   **Compresión**: Las partículas del material tienden a reducir su distancia, es decir, el material se aprieta. Elementos como pilares o muros de fábrica son frecuentemente comprimidos.
-    *   **Tracción**: Las partículas del material tienden a separarse, el material se estira. Los tirantes son elementos traccionados.
-    *   **Cortante/Cizalladura**: Las partículas del material se deslizan con movimiento relativo. Ocurre al someter una pieza a dos fuerzas paralelas no coincidentes y de sentidos opuestos, como en la unión de una viga con un pilar.
-*   **Esfuerzos compuestos**:
-    *   **Flexión**: Una pieza longitudinal es sometida a una carga transversal, generando simultáneamente esfuerzos de tracción en una parte y compresión en la opuesta (ej. vigas). En voladizos, la flexión se invierte.
-    *   **Pandeo**: Deformación de elementos largos y delgados por fuerzas de compresión axial (ej. un tirante comprimido). También conocido como flexión compuesta.
-    *   **Torsión**: Esfuerzo creado por una fuerza circular aplicada a una pieza (ej. voladizos).
+**3.8. Acuñado del Apeo**
+Para posicionar los pies derechos o tornapuntas, se cortan ligeramente más cortos de la distancia requerida. El pequeño hueco entre el durmiente y el pie derecho se rellena con dos cuñas enfrentadas que se aprietan simultáneamente para templar y ajustar el apeo.
 
-Los **cortantes y flexiones** están íntimamente asociados. En una viga, las fibras extremas experimentan tensiones normales (compresión o tracción por flexión), mientras que en la **fibra neutra** (línea imaginaria en el centro de gravedad sin esfuerzos de flexión) predominan las tensiones cortantes
+**3.9. Ejecución de Piezas**
+En apeos de madera, aunque las piezas estén sujetas, deben clavarse para asegurar las uniones y prevenir pequeños movimientos causados por la humedad y las variaciones térmicas que podrían desplazarlas.
+
+**3.10. Arriostramiento**
+Los apeos deben arriostrarse siempre mediante la triangulación de pies derechos o tornapuntas con riostras (piezas alargadas y de poca sección que trabajan a tracción). Se utilizan cruces de San Andrés en las piezas principales para evitar desplazamientos y asegurar un trabajo conjunto.

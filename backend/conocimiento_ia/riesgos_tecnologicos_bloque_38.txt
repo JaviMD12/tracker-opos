@@ -1,65 +1,75 @@
-## Caracterización de Materiales y Sistemas Constructivos en Edificación
+El temario de oposiciones de bomberos y emergencias, elaborado con rigor técnico, se presenta a continuación:
 
-La comprensión de los materiales y sistemas constructivos en la edificación es fundamental para la actuación de los servicios de emergencia, ya que constituyen los escenarios habituales de intervención. Una edificación se concibe como el resultado de la combinación de elementos estructurales, complementarios y auxiliares, cada uno con funciones específicas para soportar cargas, definir espacios y garantizar confort.
+**Capítulo 2. Técnicas de estabilización de sistemas constructivos y terrenos**
 
-### Hormigón
+**2.1. Entibaciones**
 
-El hormigón, un material ampliamente utilizado en la construcción, se caracteriza y cualifica mediante el **cono de Abrams**, una prueba que determina su consistencia. Un parámetro esencial es el **tamaño máximo del árido (TM)**, ya que influye directamente en la capacidad del hormigón fresco para penetrar adecuadamente entre los armados.
+Las entibaciones son estructuras auxiliares que se utilizan para estabilizar el terreno en situaciones donde existe riesgo de desplazamiento por inestabilidad, ya sea natural o inducida por excavaciones (desmontes, vaciados, zanjas, pozos o galerías). Se emplean para prevenir el colapso, proteger edificaciones colindantes y facilitar el rescate de víctimas.
 
-Por otro lado, el **ambiente de exposición (A)** es crucial, pues clasifica la idoneidad del hormigón para resistir condiciones como la humedad, la corrosión, el ataque químico, las heladas o la abrasión. Existen categorías generales (desde I hasta IV, relacionadas con la corrosión por cloruros) y específicas (Qa, Qb, Qc para exposición química; H para hielo; F para fundentes; E para abrasión).
+**Ejecución de entibaciones:**
 
-La **consistencia de los hormigones frescos** se mide por el asentamiento en el cono de Abrams, clasificándose en categorías como Seca (0-2 cm), Plástica (3-5 cm), Blanda (6-9 cm), Fluida (10-15 cm) y Líquida (16-20 cm), cada una con un método de compactación asociado (vibrado o picado con barra). La nomenclatura, siguiendo estándares como HA-25/S/20/IIa, informa sobre su composición, resistencia y condiciones de uso.
+1.  **Preparación de tablones:** Colocar clavos a aproximadamente 40 cm de distancia en los tablones, de manera que queden enfrentados para sujetar los puntales. Un clavo adicional en la parte posterior del tablón servirá de apoyo. Es crucial que el tablón sobresalga unos 20 cm por encima del pozo, actuando como rodapié.
+2.  **Posicionamiento inicial:** Introducir los tablones pre-clavados en el pozo. Posteriormente, insertar los puntales en los clavos, colocándolos uno frente al otro. Esta metodología reduce la necesidad de acumular personal alrededor del pozo.
+3.  **Configuración en cruz:** Repetir la operación anterior (paso 2) de forma perpendicular con otros dos tablones, creando una configuración en cruz con los puntales.
+4.  **Descenso progresivo:** Continuar la colocación sucesiva de puntales en los tablones mientras se desciende de forma segura por el pozo.
 
-La **ejecución o puesta en obra** del hormigón se divide en varias fases. Primero, el **encofrado**, que es el molde estanco y resistente donde se vierte la masa plástica. Seguidamente, el **vibrado** asegura una mezcla homogénea, la penetración entre armados y la expulsión de burbujas de aire. Finalmente, el proceso de **curado o endurecimiento** implica reacciones químicas que transforman el hormigón de plástico a sólido. Este último se desglosa en el **fraguado** (2-8 horas para pasar de plástico a sólido) y el **curado propiamente dicho o endurecimiento** (28 días para alcanzar el 100% de su resistencia característica, con hitos intermedios como el 50% a 24-48 horas y el 75% a 7 días). El tiempo mínimo para la puesta en carga es de 2 semanas (14-15 días).
+**2.1.2. Profundidades de entibado**
 
-En cuanto a su composición, los **aditivos** se añaden para modificar características físicas o químicas, sin superar el 5% del peso del cemento. Se clasifican en reductores de agua o plastificantes (disminuyen el agua o aumentan la trabajabilidad), reductores de agua de alta actividad o superplastificantes (disminuyen significativamente el agua o aumentan significativamente la trabajabilidad), modificadores de fraguado (aceleradores o retardantes), inclusores de aire (mejoran el comportamiento frente a heladas) y multifuncionales (modifican varias propiedades).
+La determinación del tipo de entibación se basa en la normativa NTP 278 del INSH/NTE-ADZ, que considera la profundidad de la excavación y el tipo de terreno.
 
-El hormigón requiere **elementos auxiliares** para su correcta puesta en obra, tales como:
-*   **Separadores** y **distanciadores**: piezas que aseguran la correcta posición y recubrimiento de las armaduras dentro del encofrado.
-*   **Pasamuros**: evitan la adhesión del espadín del encofrado al hormigón.
-*   **Conectores**: unen elementos resistentes en forjados mixtos.
-*   **Berenjenos**: piezas triangulares para rematar esquinas.
-*   **Setas**: tapones protectores de armaduras.
-*   **Pasatubos**: facilitan el paso de instalaciones.
-*   **Cartuchos de fijación de balaustradas**: para anclaje de barandillas.
+*   **Excavación peligrosa:** Se considera peligrosa toda excavación en terrenos corrientes que alcance una profundidad de 0,80 m, y en terrenos consistentes a partir de 1,30 m, si existe riesgo de oprimir el tórax de personas.
+*   **Estudio geotécnico:** Un estudio previo del terreno es indispensable para evaluar su estabilidad.
+*   **Obligatoriedad de entibación:** Es necesaria cuando la pendiente de la excavación supera la inclinación natural del talud. En situaciones de emergencia, la entibación debe iniciarse a partir de 1,30 m de profundidad, y si una persona está completamente cubierta, desde 1,50 m. En estos casos, se debe crear un hueco para respiración y proceder a la entibación si la liberación directa no es posible.
+*   **Terrenos no cohesivos (gravas y arenas):** Requieren entibación en todos los casos.
+*   **Terrenos cohesivos (arcillas):** La entibación es automática si la zanja o pozo se encuentra cerca de un vial, una cimentación o cualquier otro elemento cuya solicitación pueda provocar su derrumbe, especialmente si la distancia es inferior a dos veces su profundidad.
 
-En la comparativa de resistencia, los **cementos** (32,5-52,5 N/mm²) son la base. Al añadir áridos para formar **morteros** (1,0-25,0 N/mm²), la resistencia disminuye por una mayor volumetría y menor compactación. Sin embargo, la incorporación de árido grueso en los **hormigones** (20,0-50,0 N/mm², hasta 100,0 N/mm² en alta resistencia) aumenta la compacidad y, por ende, la resistencia.
+**2.1.3. Precauciones**
 
-### Fábrica de Piedra
+Al ejecutar entibaciones bajo la cota del terreno, es fundamental seguir las siguientes medidas de seguridad:
 
-La **fábrica de piedra** engloba elementos constructivos estructurales de piedra natural, esculpida en mayor o menor grado, unidos mediante aparejos. Históricamente, fue un material estructural principal entre los siglos V y XIX, aunque su uso actual es limitado debido a su costo, fragilidad y menor plasticidad comparado con materiales artificiales.
+*   **Identificación del terreno:** Conocer las características del terreno.
+*   **Inspección de instalaciones:** Verificar la existencia y estado de instalaciones subterráneas (agua, líneas de alta tensión, gas).
+*   **Ambientes confinados:** Abstenerse de entrar en alcantarillados, pozos o aljibes sin previa comprobación de la atmósfera interior o sin equipos de respiración autónoma.
+*   **Motores de explosión:** Prohibido su uso en excavaciones estrechas o profundas. Si es indispensable, verificar la presencia de gases de escape.
+*   **Almacenamiento de materiales:** No depositar materiales o arena en el borde de la excavación.
+*   **Vías de escape:** Disponer siempre de una escalera como vía de escape, si es posible.
+*   **Posicionamiento de elementos:** Colocar los paneles de forma vertical y los codales con una angulación de 90º respecto al panel para evitar la generación de esfuerzos verticales en los codales.
+*   **Presión:** Tener en cuenta que a mayor profundidad de la zanja, mayor será la presión ejercida sobre los codales en la parte inferior.
 
-Las características principales de la fábrica de piedra incluyen:
-*   **Ligazón**: Se realiza con mortero, "a hueso" (sin mortero) o con llaves (grapas, armaduras).
-*   **Tipologías estructurales**: Genera sistemas masivos (muros, pilastras, arcos) que trabajan principalmente a compresión.
-*   **Capacidad mecánica**: Presenta alta resistencia a la compresión, pero requiere refuerzos como contrafuertes para absorber esfuerzos distintos a la compresión.
+**Tabla 28. Tipo de entibación (para una profundidad de corte en metros)**
 
-Según el tamaño de las piezas y su labra, se distinguen:
-*   **Sillar**: Piedra labrada, generalmente paralelepipédica, de gran peso y tamaño, que requiere manipulación mecánica.
-*   **Sillarejo**: Piedra labrada o desbastada, de dimensiones menores, rectangular. Puede ser irregular (juntas horizontales y verticales hasta 15 cm de profundidad) o regular (juntas horizontales en toda la piedra, verticales hasta 15 cm).
-*   **Mampuesto**: Piedras sin labrar, de forma irregular, unidas con mortero o "a hueso", manipulables manualmente. Requieren ripios (pequeñas piedras o cuñas) y mortero según su irregularidad.
+| Tipo de terreno            | Solicitación    | Tipo de corte              | ≤ 1,30      | 1,30-2,00             | 2,00-2,50             | ≥ 2,50                |
+| :------------------------- | :-------------- | :------------------------- | :---------- | :-------------------- | :-------------------- | :-------------------- |
+| **Coherente (Arcillas)**   | Ninguna         | Zanja / Pozo               | No necesita | Ligera Semicuajada    | Semicuajada Cuajada   | Cuajada Cuajada       |
+|                            | Vial            | Zanja / Pozo               | Ligera Semicuajada | Semicuajada Cuajada   | Cuajada Cuajada       | Cuajada Cuajada       |
+|                            | Cimentación     | Cualquiera                 | Cuajada     | Cuajada               | Cuajada               | Cuajada               |
+| **Suelto (Gravas y arenas)** | Cualquiera      | Cualquiera                 | Cuajada     | Cuajada               | Cuajada               | Cuajada               |
 
-La resistencia varía significativamente entre tipologías, siendo la sillería de granito la más resistente (40-50 kN/mm²), seguida por la de arenisca (20-25 kN/mm²) y caliza (5-15 kN/mm²). La mampostería de granito oscila entre 10-15 kN/mm², y la de caliza entre 6-10 kN/mm².
+**2.2. Apeos**
 
-### Fábrica de Arcilla y Bloque de Hormigón
+*   **Definición:** Los apeos son un conjunto de elementos estructurales auxiliares, de carácter temporal, cuya función es estabilizar elementos constructivos situados sobre la rasante del terreno.
+*   **Diseño y ejecución:** El diseño y ejecución de un apeo busca aumentar la estabilidad de una estructura dañada mediante una estructura auxiliar, proporcionando un mayor grado de seguridad para realizar intervenciones necesarias.
 
-Los materiales a base de arcilla incluyen el **adobe** (arcilla seca), un ladrillo de barro (20% arcilla, 80% arena) moldeado y secado al sol, reforzado con fibras naturales (paja, crin de caballo, heno seco) para aumentar su resistencia y evitar fisuración. Ofrece buen aislamiento térmico, pero su durabilidad es baja y su mantenimiento es continuo. Sus dimensiones comunes son próximas a 1:2 (ej. 6x15x30 cm). Se diferencia del ladrillo cerámico en que no experimenta cambios físico-químicos tras la cocción.
+**2.2.1. Tipología de Apeos**
 
-El **ladrillo cerámico** (arcilla cocida) es una pieza de base arcillosa, generalmente ortoédrica, cocida a altas temperaturas. Se utiliza en elementos verticales (muros, tabiques). En su nomenclatura, la **soga** es la dimensión mayor (largo), el **tizón** la media (ancho) y el **grueso** la menor (espesor). Las superficies se denominan **tabla o lecho**, **canto** y **testa**. Las juntas horizontales son **tendeles** y las verticales **llagas**. Los formatos comunes son el normalizado (25x12x5 cm) y el métrico (24x11,5x5,25 cm). El "ladrillo catalán" (29 cm de longitud) es una variante extendida en algunas regiones.
-Según sus huecos y perforaciones, se clasifican en:
-*   **Macizos (M)**: con perforaciones inferiores al 10% de la superficie total, utilizados en muros estructurales.
-*   **Perforados (P)**: con perforaciones prismáticas o cilíndricas del 10% al 33% de la superficie, para muros de carga y cerramientos, también con fines de aislamiento acústico.
-*   **Huecos (H)**: con perforaciones de testa a testa, sin función estructural, para cerramientos y divisiones. Se subdividen en sencillo (HS), doble (HD), triple (HT) y gran formato (LGF), cada uno con espesores y usos específicos.
+La variedad de apeos es considerable, pero para los cuerpos de bomberos se clasifican según la velocidad de ejecución:
 
-En cuanto a la **fábrica de bloque de hormigón**, se trata de piezas prefabricadas con cemento, agua, áridos y aditivos/pigmentos, de forma ortoédrica y dimensiones no superiores a 60 cm (ej. 40x20x20 cm). Aunque principalmente resiste a compresión, requiere armaduras para tracción y pandeo. Se utiliza frecuentemente en recintos industriales y ofrece buen aislamiento acústico.
+*   **Apeos ordinarios:** Son los sistemas detallados a continuación.
+*   **Apeos de urgencia:** Se implementan de manera inmediata cuando la situación lo requiere y los medios tradicionales no están disponibles.
 
-### Materiales Metálicos
+**a) Apeos ordinarios. Elementos que los conforman**
 
-Los **materiales metálicos** se distinguen entre no ferrosos y ferrosos, con el **contenido de carbono** como factor clave en sus propiedades. A mayor porcentaje de carbono, aumenta la dureza y resistencia, pero también la fragilidad y disminuye la ductilidad, mientras que a menor carbono mejora la soldabilidad.
+Según su complejidad y capacidad resistente, los elementos de un apeo se dividen en:
 
-Entre los **no ferrosos**, encontramos el plomo, cinc, cobre, latón, bronce, estaño y aluminio, utilizados para fines no estructurales. Los **ferrosos** son aleaciones de hierro, e incluyen:
-*   **Hierro dulce o forjado**: Con gran pureza de hierro (<0,03% carbono), es dúctil, maleable y admite forja. Sin embargo, su porosidad lo hace susceptible a la oxidación y a grietas internas, limitando su utilidad. Se usa principalmente en cerrajería.
-*   **Fundición**: Aleaciones con alto contenido de carbono (>2,00%), fabricadas por fusión y moldeo. Presenta alta resistencia al choque térmico, corrosión y desgaste, pero es quebradizo. Se emplea en tuberías y tapas de registro.
-*   **Acero**: Aleación de hierro y carbono (0,03-2%, comúnmente 0,2-0,3%), regulado por el CTE DB SE-A. Es un material de alta resistencia a compresión y tracción, alta conductividad térmica y eléctrica, dúctil, maleable y soldable. Requiere protección contra la corrosión (cincado, galvanizado) o composiciones específicas (acero inoxidable, Corten).
+*   **Elementos simples:** Piezas individuales, generalmente tablones con escuadrías estandarizadas, que se arriostran mediante triangulaciones (con madera de menor sección o cables de acero) y se calculan para trabajar a compresión con nudos articulados. La aguja es una excepción.
+*   **Elementos compuestos:** Apeos autorresistentes diseñados para enfrentar situaciones de mayor complejidad, soportar cargas significativas o estabilizar elementos de gran envergadura.
 
-El **acero estructural**, laminado
+**I. Elementos simples**
+
+**I.1. Nomenclatura**
+
+**I.1.1. Elementos verticales:**
+
+*   **Postes:** Fustes de árboles sin mecanizado, utilizados de forma individual. Destacan por su considerable altura (más de 6 metros o dos plantas) y su trabajo a compresión axial. Presentan dificultad para la elaboración de elementos compuestos.
+*   **Rollizos:** Fustes de árboles sin corteza superficial, de diámetro uniforme, también utilizados de forma aislada. Su longitud es de hasta 3-4 metros (una planta) y trabajan a compresión axial. Similar a los postes, presentan dificultad en la elaboración de elementos compuestos.
+*   **Pie derecho:** Pieza vertical de madera escuadrada que recibe las cargas de una sopanda y las transmite a un durmiente. Trabaja a compresión axial. Generalmente se forma con dos piezas de madera normalizada y tres br

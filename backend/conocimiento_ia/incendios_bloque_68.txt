@@ -1,225 +1,85 @@
-## Tácticas de Intervención y Valoración en Incendios para Bomberos
+## Casos Prácticos y Ejemplos de Incendios
 
-La gestión eficaz de un incendio, especialmente en contextos complejos como túneles o industrias, requiere un enfoque táctico riguroso y una valoración constante de la situación, además de la aplicación adecuada de agentes extintores y técnicas de ventilación.
+### 6. Ejemplo 1: Triaje de Estructuras en Incendios de Interfaz (Duce, 2013)
 
-### Agentes Extintores y sus Mecanismos de Actuación
+Este formulario se emplea para clasificar estructuras en un incendio de interfaz, determinando la prioridad de defensa y el riesgo para el personal de bomberos.
 
-Los agentes extintores se clasifican según su estado de agregación y actúan sobre uno o más componentes del tetraedro del fuego (combustible, comburente, energía de activación, y reacción en cadena) para suprimir o disminuir sus efectos.
+| Campo                                          | Opciones / Valor                                                                                                    |
+| :--------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ |
+| **INCENDIO:**                                  | ______________________________________________                                                                      |
+| **MUNICIPIO:**                                 | ____________________________________                                                                                |
+| **LOCALIZACIÓN (UTM/GEOG):**                   | ______________________________________________                                                                      |
+| **HABITADA:**                                  | Sí / NO                                                                                                             |
+| **CERRADA:**                                   | SÍ / NO                                                                                                             |
+| **PROPIETARIO:**                               | __________________________________________                                                                          |
+| **TELÉFONO:**                                  | ____________________________________                                                                                |
+| **TOPOGRAFÍA (pendiente %)**                   | <20%=1, 20%-35%=3, >35%=5                                                                                         |
+| **TIPO DE COMBUSTIBLE (carga alrededor de la estructura)** | Ligera=1, Moderada=3, Densa=5                                                                                       |
+| **SUPERFICIE DE DEFENSA (radio)**              | 50-30 m=1, 30-70 m=3, 0-10 m=5                                                                                      |
+| **CARGA AÉREA (cobertura de copas alrededor)** | <30%=1, 30%-70%=3, >70%=5                                                                                         |
+| **TEJADO (material)**                          | Poco inflamable=1, Inflamable/hojas/ramas=3, Muy inflamable=5                                                       |
+| **PAREDES (material)**                         | Poco inflamable=1, Inflamable/porche=3, Muy inflamable=5                                                            |
+| **OTRAS VIVIENDAS (alrededor)**                | Según cantidad=1, 2, 3, 4…                                                                                          |
+| **ACCESOS (anchura pistas)**                   | >5 m/vertedero/salida=1, 3-5 m/vertedero/salida=3, <3 m/vertedero/salida=5                                           |
+| **CONDUCCIÓN SUMINISTROS (luz, agua, gas…)** | Soterradas=1, Por aire=5                                                                                            |
+| **TANQUES DE COMBUSTIBLE (gas, gasóleo)**    | Protegidos=1, Necesitan protección=5                                                                                |
+| **SISTEMAS DE PROTECCIÓN (riego, agua, estanques…)** | Presencia de sistemas=1, Sin presencia de sistemas=5                                                                |
+| **OTROS PELIGROS (coche, animales…)**          | Según cantidad=1, 2, 3, 4…                                                                                          |
+| **CHOQUES:**                                   |                                                                                                                     |
+| **LEYENDA:**                                   | 0-15: FÁCIL DE PROTEGER, 16-32: DEFENDIBLE CON ACTUACIÓN, >33: MUY DIFÍCIL DE PROTEGER                             |
+| **NOMBRE:**                                    |                                                                                                                     |
+| **FIRMA:**                                     |                                                                                                                     |
+| **FECHA:**                                     |                                                                                                                     |
 
-#### Agentes Extintores Líquidos
+### 7. Ejemplo 2: Lista de Información en un Triaje de Estructuras (Duce, 2013)
 
-El **agua** es el agente extintor más común y eficaz, destacando por su capacidad de enfriamiento y dilución. Sus propiedades clave incluyen:
-*   Es un líquido incoloro, inodoro e insípido, hirviendo a 100°C y congelándose a 0°C, con un volumen máximo a 4°C.
-*   Posee un alto calor latente de vaporización (540 cal/gr) y un calor latente de fusión (80 cal/gr), además de un calor específico de 1 cal/°C.
-*   Su densidad es de 1 kg/litro.
-*   Al evaporarse, su volumen aumenta entre 1.500 y 1.700 veces, o hasta 1.880 veces según algunas fuentes.
-*   Es un excelente disolvente, capaz de alcanzar el núcleo de la combustión.
-*   Mantiene una viscosidad estable entre 1°C y 99°C, facilitando el bombeo.
-*   Su elevada tensión superficial permite la formación de chorros sólidos o finas nieblas.
-*   Tiene una alta estabilidad molecular, soportando hasta 1.650°C antes de la disociación.
-*   La temperatura crítica del agua es de 374°C.
+Este es un listado de información para considerar en un triaje de estructuras.
 
-Los mecanismos de extinción del agua incluyen:
-*   **Enfriamiento:** Principalmente por su calor latente de vaporización y calor específico. Es más efectivo con gotas pequeñas, que maximizan la superficie de intercambio de calor, y es útil en fuegos Clase A. En superficies por encima de 100ºC, el agua absorbe energía al calentarse y evaporarse, produciendo un efecto de enfriamiento más efectivo cuanto mayor sea la evaporación.
-*   **Sofocación:** El vapor de agua generado desplaza el oxígeno del aire, reduciendo la concentración de comburente.
-*   **Desalimentación:** En combustibles líquidos hidrosolubles, reduce la concentración de combustible por dilución.
+| Campo                    | Pregunta                                                              | Opción "Sí" | Opción "No" |
+| :----------------------- | :-------------------------------------------------------------------- | :---------- | :---------- |
+| **Nombre:**              |                                                                       |             |             |
+| **Medio:**               |                                                                       |             |             |
+| **Accesos:**             | ¿Calles sin salida, estrechas o callejones de menos de sesenta metros? | Sí          | No          |
+| **Tejado:**              | ¿Material muy inflamable?                                             | Sí          | No          |
+| **Árboles:**             | ¿En contacto con estructura?                                          | Sí          | No          |
+| **Ramas y arbustos:**    | ¿A menos de diez metros de la estructura?                             | Sí          | No          |
+| **Vehículos:**           | ¿Aparcados a menos de diez metros de la estructura?                   | Sí          | No          |
+| **Pendiente:**           | ¿Más de un 20% alrededor de la estructura?                            | Sí          | No          |
+| **Entrada / porche:**    | ¿De madera y sin estar en contacto con el suelo?                      | Sí          | No          |
+| **Líneas eléctricas/gas:** | ¿A menos de diez metros de la estructura?                             | Sí          | No          |
+| **TOTAL**                |                                                                       |             |             |
 
-El **agua nebulizada** optimiza el uso del agua al dividirla en gotas finas, lo que maximiza la superficie de intercambio de calor para una refrigeración y evaporación más eficientes. Se logra con boquillas especiales y presiones de trabajo entre 4 y 200 bares.
+| Número de SÍES | Interpretación                   |
+| :------------- | :------------------------------- |
+| 0–2            | No necesita mucha defensa        |
+| 3–6            | Defensa con precaución           |
+| 7-8            | Poca probabilidad de defensa     |
 
-Los **aditivos** mejoran las propiedades físicas del agua:
-*   **Humectantes o aligerantes:** Reducen la tensión superficial del agua, aumentando su poder de penetración y eficacia en incendios sólidos.
-*   **Espesantes o viscosantes:** Aumentan la viscosidad del agua, mejorando su adherencia al material en ignición y formando una capa continua, útil en incendios forestales y para que el agua flote sobre líquidos inflamables insolubles.
-*   **Boratos:** Mezclas de boratos cálcicos y sodio que, al evaporarse el agua, forman una capa vidriosa dura que retiene el agua y actúa como retardante de llama, además de proporcionar aislamiento térmico. Son útiles en fuegos forestales pero requieren aplicación rápida por su tendencia a asentarse.
-*   **Modificadores de flujo:** Reducen las pérdidas de presión por fricción en mangueras (debido a óxido de polietileno), incrementando el flujo y la presión en la boquilla.
-*   **Modificadores de densidad:** La adición de aire crea espuma aérea semiestable, mientras que los agentes emulsificantes forman emulsiones de agua y combustible no inflamables, útiles en líquidos combustibles e inflamables.
+**OBSERVACIONES:**
 
-Las **limitaciones del agua** como agente extintor son:
-*   Es un conductor de electricidad, lo que restringe su uso en fuegos eléctricos.
-*   Su densidad (más densa que muchos líquidos inflamables) puede causar la propagación del incendio si flota sobre ellos.
-*   La expansión de vapor a altas temperaturas puede desplazar los gases de incendio a otras zonas, empeorando la visibilidad y el peligro para las víctimas.
-*   Puede reaccionar violentamente con ciertos materiales (sodio, aluminio) produciendo gases o explosiones.
-*   Se congela a 4°C, lo que puede romper conducciones.
-*   A temperaturas muy altas (3222,2°C), la molécula de agua se descompone en H2 (gas combustible) y O2 (gas comburente), generando explosiones.
+### 8. Ejemplo 3: Protocolo N.º 2.4 de Incendios de Vegetación. Movilización de Medios basándose en una Clasificación según la Gravedad del Siniestro (CEIS de Guadalajara)
 
-#### Espumas Físicas
-Las espumas son masas de burbujas rellenas de gas (aire) que se forman al combinar un espumógeno, agua y aire. Su densidad relativa es menor que la de los líquidos inflamables. Se utilizan principalmente en fuegos de líquidos inflamables (Clase B) y, en menor medida, en fuegos Clase A.
+Este protocolo del CEIS Guadalajara clasifica los incendios según su gravedad para determinar la movilización de recursos.
 
-**Mecanismos de extinción de las espumas:**
-*   **Sofocación:** Su efecto principal es separar el combustible del oxígeno en la superficie, evitando la liberación de vapores inflamables y tóxicos. Las espumas de alta expansión desplazan el aire al ocupar el volumen del recinto.
-*   **Enfriamiento:** Contienen agua, por lo que también actúan reduciendo la temperatura del combustible y las superficies metálicas.
-*   **Estabilidad:** Si la espuma es estable, evita la reignición del combustible.
+| Gravedad | Situación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Movilizaciones CEIS Guadalajara (prevalece Protocolo 0.2 TRENES DE SALIDA)                                                                                                                                                                                                                                                                                                                                                             | Movilización Apoyos Externos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| :------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **LEVE** | Se dan las siguientes condiciones: <br> • No existen riesgos inminentes. <br> • Abordable con una sola dotación. <br> • No requiere apoyos.                                                                                                                                                                                                                                                                                                                                                                                                                          | **Aviso al jefe de guardia (J0) en el momento de la salida:** <br> <br> \| Dotación                \| Vehículos salida           \| Personal movilizado         \| <br> \| :---------------------- \| :------------------------- \| :-------------------------- \| <br> \| Primera salida <br> (despacho automático) \| TT pickup + <br> BRP          \| Cabo jefe de dotación (CJD) <br> + tres bomberos (3BB) \| <br> <br> **No se requieren apoyos externos en siniestros leves.**                                                                                                                                                                                                                                                                           | No se requieren apoyos externos en siniestros leves.                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **MEDIO** | Se dan las siguientes condiciones: <br> • Existen riesgos inminentes o propagación descontrolada. <br> • Requiere apoyos internos o externos. <br> • Existe previsión de control con los medios desplegados.                                                                                                                                                                                                                                                                                                                                                        | **MOVILIZACIONES CEIS GUADALAJARA (prevalece Protocolo 0.2 TRENES DE SALIDA)** <br> **Aviso a J0 en el momento de la salida.** <br> **Salida parque zona operativa:** <br> TT pickup + BRP <br> **Salida de refuerzo interno (opcional y por orden de preferencia):** <br> 1. BRP-R o TT pickup del parque 3.º con BB34-BB33 si existe dotación. <br> 2. BRP + TT pickup del parque más próximo.                                                                                                                                                                                                                                                                                 | 1. Junta de Comunidades de Castilla-La Mancha (JCCM) en todo caso, cualquier hora del día, cualquier época del año. <br> 2. Otros servicios regionales de extinción de incendios forestales (Madrid, Aragón, Castilla-León) requeridos desde el Puesto de Mando Avanzado (PMA). <br> 3. Medios aéreos dependientes del Ministerio de Medio Ambiente (Brigada de Refuerzo contra Incendios Forestales –BRIF–, helicópteros de gran carga, aviones carga en tierra, hidroaviones) requeridos desde el PMA.                                    |
+| **GRAVE** | Se dan las siguientes condiciones: <br> • Siniestro de gran envergadura. <br> • Múltiples administraciones implicadas. <br> • Medios movilizados insuficientes. <br> • No existe previsión de control. | **MOVILIZACIONES CEIS GUADALAJARA (prevalece Protocolo 0.2 TRENES DE SALIDA)** <br> **Aviso y movilización de J0 en el momento de la salida.** <br> **Aviso y movilización del oficial jefe de servicio (OJS) por J0 tras evaluar siniestro *in situ* para integración en el PMA.** <br> **Salida del parque zona operativa:** <br> TT pickup+BRP. <br> **Salida de refuerzo interno:** <br> • BRP de refuerzo (BRP-R) o TT pickup del parque 3.º con bombero 4 del parque n.º 3, Parque de Azuqueca (BB34)+ bombero 3 del parque n.º 3 (BB33) si existe dotación. <br> • BRP+TT pickup parque/s más próximo. | 1. Junta de Comunidades de Castilla-La Mancha (JCCM) en todo caso, cualquier hora del día, cualquier época del año. <br> 2. Otros servicios regionales de extinción de incendios forestales (Madrid, Aragón, Castilla-León) requeridos desde el Puesto de Mando Avanzado (PMA). <br> 3. Medios aéreos dependientes del Ministerio de Medio Ambiente requeridos desde el PMA. <br> 4. Otros medios de la Administración Central (Unidad Militar de Emergencias –UME–) requeridos desde el PMA. |
 
-**Clasificación de espumas según su expansión (UNE EN 1568):**
-*   **Baja expansión (<20):** Densas, con alto contenido de agua. Alcance similar al agua.
-*   **Media expansión (20-200):** Grandes volúmenes, menor alcance (5-6 metros).
-*   **Alta expansión (>200):** Muy ligeras, llenan grandes espacios rápidamente.
+**Recordatorio General**
 
-**Clasificación de espumógenos según la normativa UNE 23603:**
-*   **Baja expansión:** Coeficiente entre 3 y 30.
-*   **Media expansión:** Coeficiente entre 30 y 250.
-*   **Alta expansión:** Coeficiente entre 250 y 1000.
-    *   La normativa UNE 23600 establece rangos ligeramente diferentes: Baja (2-20), Media (20-200), Alta (>200).
-
-**Clasificación de espumógenos según su composición:**
-*   **De base proteínica:** Obtenidas por hidrólisis de proteínas naturales (cueros, pezuñas, etc.). Generalmente de baja expansión, en desuso, no compatibles con polvos extintores ni aptas para combustibles polares. Las fluoroproteicas (FFFP) son compatibles con polvos extintores, pero no con combustibles polares.
-*   **De base sintética:** Contienen tensoactivos sintéticos (detergentes). Los sintéticos retienen agua por más tiempo, son más estables al calor y para hidrocarburos (ej. B-330), y son de alta expansión. Los fluorosintéticos tienen tensoactivos fluorados, suelen ser de baja expansión. Los formadores de película acuosa (AFFF) contienen fluorados que forman una delgada película sobre el hidrocarburo, impidiendo el contacto con el aire. Son de baja expansión, polivalentes y se usan con surtidores convencionales.
-
-**Tipología de espumas según su función:**
-*   Para hidrocarburos.
-*   Para líquidos polares (anti-alcohol).
-*   Polivalentes para todo tipo de combustibles líquidos.
-
-**Limitaciones de las espumas:**
-*   Contienen más del 95% de agua, por lo que comparten sus limitaciones (conductor de electricidad, no apto para líquidos no solubles en agua).
-*   Precio elevado y requiere gran capacidad de almacenamiento.
-*   Ciertas espumas pueden ser incompatibles con polvos extintores.
-*   Algunos espumógenos pueden causar irritación.
-
-#### Agentes Extintores Sólidos (Polvos Químicos)
-Son sustancias pulverulentas (sales inorgánicas finamente molidas) que se proyectan sobre materiales en combustión.
-
-**Características y propiedades:**
-*   Polvo muy fino (25-30 micras/partícula) con gran superficie específica.
-*   Máxima fluidez y división, sin atracción electrostática entre partículas ni efecto bacteriológico.
-*   Dieléctricos a bajas tensiones.
-*   Estables a temperaturas inferiores a 50°C.
-
-**Mecanismos de extinción:**
-*   **Inhibición:** Actúan primariamente rompiendo la reacción en cadena al combinarse con radicales libres. Es eficaz en fuegos con llama.
-*   **Sofocación:** Secundariamente, desplazan el oxígeno y crean una costra de carbonato sódico. Relevante en polvos ABC y tipo D.
-*   **Enfriamiento:** Efecto despreciable.
-
-**Tipos de polvos extintores:**
-*   **Polvos convencionales BC:** Compuestos por carbonato potásico, bicarbonato potásico, bicarbonato sódico y cloruro potásico. Utilizados para fuegos de líquidos inflamables y gases (Clase B y C) y fuegos eléctricos hasta 1000 voltios. No son eficaces en fuegos Clase A ni compatibles con espumas. El carbonato potásico es más efectivo, especialmente combinado con urea.
-*   **Polvos polivalentes ABC (antibrasa):** Compuestos por fosfatos, sulfatos y sales amónicas. Eficaces en fuegos Clase A, B y C. La descomposición del fosfato monoamónico forma una capa pegajosa que sofoca las brasas.
-*   **Polvos especiales (Clase D):** Diseñados para fuegos de metales combustibles (aluminio en polvo, potasio, sodio, magnesio, etc.). Compuestos por grafito pulverizado y carbón mineral. Ejemplos: Polvo G1 o pireno, Metal Guard, Met-L-X, Na X, Lith-X.
-
-**Ventajas de los polvos:**
-*   Actuación muy rápida.
-*   Compatibles con otros agentes extintores (excepto espumas).
-*   Dieléctricos.
-*   Económicos y de mantenimiento sencillo.
-
-**Limitaciones de los polvos:**
-*   No enfrían, por lo que el fuego puede reiniciarse.
-*   Solo sirven para fuegos limitados en volumen.
-*   No tóxicos, pero abrasivos. Dejan residuos y pueden causar trastornos respiratorios y dificultar la visibilidad.
-*   Reaccionan químicamente con espumas, inutilizándolas.
-
-#### Agentes Extintores Gaseosos
-Almacenados en estado líquido bajo presión, se gasifican al ser liberados. Penetran fácilmente en los espacios, pero su efectividad puede verse comprometida en exteriores. Incluyen nitrógeno, dióxido de carbono y halones.
-
-*   **Nitrógeno (N2):** Gas incoloro, inodoro e insípido, muy estable a altas temperaturas. No es tóxico, pero asfixiante al desplazar el oxígeno. Mecanismo primario de sofocación, secundario de inhibición y enfriamiento. Utilizado en incendios de petróleo y derivados.
-*   **Dióxido de Carbono (CO2):** Agente extintor gaseoso más usado. Gas incoloro, inodoro e insípido, de bajo coste. Se licúa fácilmente y se almacena en botellas a presión. Al liberarse, se convierte en nieve a -79°C y gas a -40°C, absorbiendo gran cantidad de calor. Pesa 1,5 veces más que el aire. Es dieléctrico y no corrosivo, no deja residuos. Mecanismo primario de sofocación, secundario de enfriamiento. Eficaz en fuegos superficiales Clase A, B y C. No apto para metales activos o fuegos profundos. Requiere poca concentración para extinguir.
-*   **Hidrocarburos Halogenados (Halones):** Como el Halón 1211 (Diflúor clorobromometano) y Halón 1301 (Trifluorobromometano). Gases de alta densidad en estado líquido, no dejan residuos. El flúor reduce el punto de ebullición y aumenta la estabilidad, el cloro y el bromo aumentan la eficacia extintora. Mecanismo primario de inhibición (rompiendo la reacción en cadena) y sofocación, secundario de enfriamiento. Prohibida su fabricación por normativa europea debido a su daño a la capa de ozono. Útil en fuegos Clase A, B y C y en equipos delicados.
-*   **Sustitutos de Halones y Gases Inertes (Agentes Limpios):** Compuestos químicos (halocarbonados) o mezclas de gases inertes (nitrógeno, argón, CO2). No corrosivos, no contaminantes, no dañan equipos. Reducen la concentración de oxígeno para extinguir por sofocación. Ejemplos: Inergen (N2, Ar, CO2), Argonite (N2, Ar), Argón (100%).
-
-### Clasificación y Evolución de los Incendios
-
-Los incendios pueden clasificarse según diversos parámetros:
-
-#### Clases de Fuego (Norma EN 2 y UNE 23010)
-*   **Clase A:** Sólidos orgánicos con formación de brasas (madera, papel, tela, caucho).
-*   **Clase B:** Líquidos o sólidos licuables inflamables (gasolina, petróleo, alcohol, grasas). No producen brasas.
-*   **Clase C:** Gases inflamables (acetileno, butano, metano, propano).
-*   **Clase D:** Metales combustibles (aluminio en polvo, potasio, sodio, magnesio).
-*   **Clase F (Americana Clase K):** Aceites y grasas de cocina.
-*   La antigua Clase E (fuegos eléctricos) no es reconocida actualmente, ya que la electricidad no es el combustible en sí.
-
-#### Según la Forma del Foco de Incendio
-*   **Foco plano:** Incendio horizontal, visible, como charcos de líquidos o sólidos dispersos.
-*   **Foco vertical:** Incendio en varios planos o con zonas de combustión ocultas (pacas de paja).
-*   **Foco alimentado:** Mantenido por un aporte continuo de combustible (depósitos, tuberías de gas).
-
-#### Según la Superficie Afectada (para incendios forestales)
-*   **Conato:** Menos de 1 hectárea.
-*   **Incendio:** 1 hectárea o más.
-*   **Gran incendio forestal:** 500 hectáreas o más.
-    *   Adicionalmente, se clasifican por grado:
-        *   **Pequeño:** hasta 4 m².
-        *   **Mediano:** de 4 a 10 m².
-        *   **Grande:** de 10 a 100 m².
-        *   **De envergadura:** más de 100 m², con altura de llamas superior a la diagonal media de la superficie afectada.
-
-#### Según la Velocidad de Reacción (Combustiones)
-*   **Lenta y muy lenta (oxidación):** Poca energía desprendida, no produce aumento local de temperatura ni llama (ej. amarilleado del papel, oxidación del hierro).
-*   **Simple, normal o rápida:** Oxidaciones moderadamente rápidas, velocidad del frente de reacción inferior a 1 m/s, con desprendimiento de calor, luz y llamas. Típicas de incendios normales.
-*   **Instantánea o muy rápida (explosión):** Velocidad de propagación superior a 1 m/s, generando ondas de presión. Se clasifican en:
-    *   **Deflagración:** Onda de combustión subsónica (<340 m/s), con sobrepresiones de 5 a 10 veces la presión original. Típicas de vapores de líquidos inflamables, mechas lentas.
-    *   **Detonación:** Onda de combustión sónica o supersónica (>340 m/s), con sobrepresiones de 20 a 100 veces la presión original. Típicas de explosivos industriales.
-
-#### Según la Emisión o No de Llamas
-*   **Combustión con llamas:** Típica de líquidos y gases inflamables. La llama es la zona de combustión en fase gaseosa, emitiendo luz y calor. Su color (amarillo luminoso si hay mucho oxígeno, azul y más energético si hay poco oxígeno) y temperatura (1800°C-2200°C) varían según el combustible y comburente. Tiene una zona interna (fría y oscura), media (muy luminosa, combustión incompleta) y externa (poco luminosa, máxima temperatura, combustión completa).
-*   **Combustión sin llamas (incandescencia):** Típica de sólidos (carbón puro, magnesio, aluminio). Produce emisión de luz visible en forma de ascuas y calor, sin reacción en cadena.
-
-#### Según el Lugar de Desarrollo
-*   **Fuegos interiores:** En el interior de edificios, consumen oxígeno interno, generan brasas y alta presión de gases tóxicos/combustibles. Sin manifestación exterior.
-*   **Fuegos exteriores:** Manifestación visible al exterior del edificio (llamas por puertas/ventanas), alimentados por oxígeno exterior, se propagan rápidamente.
-*   **Según la actividad desarrollada en el recinto:** Viviendas, oficinas, industrias, garajes, hospitales, comercios, almacenes, vía pública, recintos de gran volumen.
-
-#### Según su Magnitud
-*   **Conato:** Pequeño, sofocable con extintores estándar.
-*   **Incendio parcial:** Abarca parte de una instalación/edificio, peligroso por su potencial de extensión. No se controla con extintores.
-*   **Incendio total:** Completamente fuera de control, afecta toda la instalación. Los bomberos buscan evitar su propagación a edificios colindantes.
-
-#### Evolución de los Incendios
-Un incendio se desarrolla en cuatro fases:
-*   **Inicio:** Requiere combustible, comburente y energía de activación. Genera calor suficiente para mantener la reacción en cadena.
-*   **Desarrollo:** El oxígeno abundante permite una combustión completa, aumentando rápidamente la temperatura (hasta 700°C en techos). A medida que el oxígeno disminuye, aumenta el monóxido de carbono y otros gases inflamables. Es la fase latente que precede a la combustión súbita generalizada (CSG).
-*   **Propagación:** El incendio crece, transmitiendo calor por conducción, convección y radiación. Las corrientes de humo y gases calientes buscan vías de escape, y la radiación juega un papel clave en la propagación.
-*   **Extinción:** Puede ser natural (agotamiento del combustible) o provocada por la intervención humana, siguiendo pautas específicas de los bomberos.
-
-#### Transmisión del Calor
-El calor se transfiere de zonas de mayor a menor temperatura por tres mecanismos:
-*   **Conducción:** Contacto molecular directo, principal en sólidos, menos eficiente en gases. Depende de la superficie de contacto, la diferencia de temperaturas, el espesor del material y su conductividad térmica.
-*   **Convección:** En fluidos circulantes (gases o líquidos), donde las masas calientes ascienden y las frías descienden. El aire caliente se expande, se eleva y cede calor al entrar en contacto con combustibles a mayor altura. Acelera la desecación y propagación cuesta arriba.
-*   **Radiación:** Transmisión de energía mediante ondas electromagnéticas (luz, rayos X), propagándose en línea recta a la velocidad de la luz. Al chocar con un cuerpo, se absorbe, refleja o transmite.
-
-### Incendios en Interiores: Fenómenos y Riesgos
-
-Los incendios en interiores presentan fenómenos y riesgos específicos debido a su confinamiento:
-
-#### Estratificación y Plano Neutro
-En un incendio de interior con ventilación, se forman dos estratos:
-*   **Estrato superior:** Gases de incendio calientes, menos densos, con presiones superiores a las exteriores.
-*   **Estrato inferior:** Aire fresco y frío, más denso, con presiones por debajo de las exteriores.
-El **plano neutro** es el límite horizontal donde las presiones internas y externas son idénticas. En incendios confinados, el plano neutro desciende hasta el suelo y el estrato inferior de aire fresco desaparece.
-
-#### Fenómenos de Rápido Desarrollo
-*   **Rollover:** Inflamación de gases combustibles en zonas puntuales del colchón de gases calientes, que pueden alcanzar su punto de inflamación.
-*   **Flashover:** Fase transitoria en la que todas las superficies expuestas a la radiación térmica alcanzan simultáneamente su temperatura de inflamación, generalizándose el incendio rápidamente en todo el recinto. Ocurre con suficiente carga de combustible, oxígeno adecuado y ventilación. Produce un pico de potencia, ligera sobrepresión y alta radiación.
-*   **Flashover inducido por la ventilación:** Un flashover provocado por la entrada de aire en un incendio infraventilado, donde la alta fracción de combustible disponible se mezcla con el oxígeno, haciendo que la temperatura suba rápidamente.
-*   **Backdraft:** Deflagración causada por el aporte repentino de aire a un incendio infraventilado en un espacio confinado, con abundancia de productos incompletos de combustión por falta de oxígeno. El aumento de potencia es repentino, generando una onda de presión.
-*   **Explosión de humo:** Deflagración de una mezcla de gases de incendio y aire en su rango de inflamabilidad, debido a una fuente de ignición en espacios ocultos o remotos.
-
-#### Influencia del Combustible en Incendios de Interior
-El combustible condiciona el desarrollo del incendio.
-*   **Poder calorífico (Hc):** Energía química por unidad de masa. La potencia del incendio es directamente proporcional al poder calorífico.
-*   **Carga de combustible (Cc):** Cantidad de energía por unidad de superficie. Condiciona la duración y desarrollo del incendio. Las cargas de combustible modernas (plásticos, sintéticos) tienen mayor poder calorífico y tasas de pirólisis/combustión más rápidas, generando incendios más violentos y alcanzando el estado de ILV más rápidamente.
-*   **Tasa de pirólisis (tp):** Masa de combustible que piroliza por unidad de tiempo y superficie. Medida de la volatilidad de los compuestos inflamables.
-*   **Tasa de combustión (mc):** Velocidad a la que se consume el combustible.
-*   **Facilidad para emitir productos combustibles en fase gaseosa:** Determinada por la tasa de pirólisis.
-*   **Velocidad de consumo:** Ligada a la energía de activación necesaria.
-
-#### Influencia del Recinto
-El recinto afecta el desarrollo del incendio:
-*   **Incendios de contenido vs. de estructura:** Los primeros se limitan a los combustibles interiores; los segundos afectan también a la estructura del edificio (ej. casas de madera).
-*   **Superficie y altura del recinto:** Mayores superficies/alturas pueden implicar mayor volumen de oxígeno disponible y más pérdidas de calor.
-*   **Geometría interna (confinamiento y compartimentación):** El grado de ventilación entre el recinto y el exterior/otras estancias influye en la potencia del incendio y la posibilidad de flashover.
-*   **Nivel de aislamiento e inercia térmica:** Un alto aislamiento aumenta la temperatura y la velocidad de desarrollo del incendio, mientras que una alta inercia térmica prolonga las fases de crecimiento y desarrollo/decaimiento al absorber y luego liberar calor.
-
-#### Riesgos del Trabajo en Incendios de Interior
-*   **Inflamabilidad y fenómenos de rápido desarrollo:** La ignición de gases puede aumentar la potencia del incendio.
-*   **Calor:** Peligro físico que puede causar lesiones o la muerte. La temperatura máxima tolerable en el aire respirado es de 140°C por un breve periodo, sin humedad.
-    *   **Calor de combustión:** Calor desprendido en una reacción con oxígeno.
-    *   **Temperatura:** Manifestación de la energía cinética de las moléculas.
-    *   **Caloría:** Cantidad de calor para elevar 1°C la temperatura de 1 gramo de agua. 1 cal = 4,1868 J.
-    *   **Julio (J):** Unidad de calor del Sistema Internacional. 1 J = 0,24 cal.
-    *   **Calor específico (Ce):** Cantidad de calor para elevar 1°C la temperatura de 1 gramo de sustancia.
-    *   **Capacidad calorífica (C):** Cantidad de calor para elevar 1°C la temperatura de un cuerpo (C = masa · Ce).
-    *   **Escalas de temperatura:** Celsius (0-100°C), Réaumur (0-80°R), Fahrenheit (32-212°F), Kelvin (273-373 K).
-*   **Toxicidad:** Exposición a agentes irritantes y tóxicos (CO, HCN, SO2, NH3, H2C=O, Cl, HF). La combinación de gases puede tener un efecto sinérgico, más tóxico que la suma individual.
-    *   **Monóxido de carbono (CO):** Gas incoloro, inodoro, más ligero que el aire, inflamable y explosivo (12.5%-74.2% en aire). Se forma por combustión incompleta, se combina con la hemoglobina (260 veces más afinidad que el oxígeno) causando hipoxia/anoxia. Vía de ingreso respiratoria.
-    *   **Dióxido de carbono (CO2):** Gas no inflamable, incoloro, inodoro, más pesado que el aire. Asfixiante en altas concentraciones. Puede causar irritación digestiva o congelación por contacto.
-    *   **Cianuro de hidrógeno (HCN):** Gas incoloro, más pesado que el aire, con olor a almendras amargas. Explosivo (5%-40% en aire). Forma complejos con iones metálicos (Fe), inhibiendo la citocromooxidasa y causando anoxia química.
-    *   **Sulfuro de hidrógeno (H2S):** Gas inflamable (4.5%-45% en aire), incoloro, tóxico, soluble en agua. O
+*   **Definición de Incendio:** Para que un fuego se clasifique como incendio, es esencial que se propague sin control. Los incendios de interfaz urbano-forestal son aquellos que ocurren en áreas donde las edificaciones colindan o están próximas a zonas forestales. El estudio de las características físicas de estos incendios es fundamental para comprender su comportamiento y definir la estrategia de intervención y los recursos necesarios.
+*   **Comportamiento y Evolución:** La dinámica y evolución de un incendio están determinadas por el tipo de combustible vegetal, la climatología y la topografía. La columna de humo de un incendio proporciona información sobre su comportamiento (meteorología, características intrínsecas) y su intensidad (color del humo).
+*   **Principios de Evolución:** Los principios clave de la evolución de un incendio incluyen:
+    *   **Conducción:** Transmisión de calor entre sólidos por contacto.
+    *   **Radiación:** Transmisión de calor mediante ondas electromagnéticas a través del aire.
+    *   **Convección:** Transporte de calor por el aire en expansión desde el foco calorífico.
+Estos principios influyen en características como la longitud de la llama, la intensidad lineal del fuego, la velocidad de propagación y las condiciones ambientales.
+*   **Situaciones de Máximo Riesgo:** Un incendio forestal presenta el riesgo más alto cuando la temperatura supera los 30ºC, la humedad relativa es inferior al 30%, y la velocidad del viento excede los 30 km/h.
+*   **Combustibles:** La clasificación de los combustibles según su velocidad de propagación y resistencia al control (baja, media, alta y extrema) es crucial.
+*   **Objetivos de Valoración:** El proceso de valoración de un incendio busca tomar decisiones basadas en un análisis riguroso y rápido de todos los elementos y variables involucradas (incendios previos en la zona, relieve, climatología, combustible, hora, accesos y salidas, estructuras amenazadas).
+*   **Triaje de Estructuras:** Consiste en clasificar las edificaciones y estructuras amenazadas por un incendio según la eficacia y seguridad de su defensa, y el riesgo para los bomberos. La decisión de defender una estructura depende de su estado, materiales, ubicación, combustibles que la amenazan, evolución del incendio, medios disponibles y garantías de seguridad.
+*   **Riesgos en Intervenciones IUS (Interfaz Urbano-Forestal):** Es fundamental considerar los riesgos asociados a la falta de información, deficiencias en la comunicación, intervenciones inadecuadas, cambios climáticos inesperados y la topografía del terreno.
+*   **Principios Básicos de Seguridad:** Para minimizar estos riesgos, es vital adaptarse al comportamiento del incendio, tomar decisiones activas, transmitir información con claridad, mantener la calma y estar alerta, y apoyarse en la fórmula OCEL (Observación, Comunicación, Escape y Lugar seguro).
+*   **Intervención en Incendios:** La intervención busca controlar y extinguir la propagación del incendio, protegiendo tanto a personas y bienes materiales como naturales. El ataque directo se dirige a la llama controlando su borde, mientras que el ataque indirecto se enfoca en el perímetro circundante para establecer líneas de defensa.

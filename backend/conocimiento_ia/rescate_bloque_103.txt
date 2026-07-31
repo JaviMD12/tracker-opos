@@ -1,47 +1,90 @@
-# Técnicas de Intervención en Accidentes Ferroviarios
+A continuación, se presenta un temario técnico y exhaustivo sobre el rescate y salvamento, elaborado a partir del análisis riguroso de la información proporcionada.
 
-La intervención en accidentes ferroviarios exige un conocimiento profundo de las técnicas y procedimientos específicos, así como de la legislación aplicable, dada la complejidad del entorno y la naturaleza de los vehículos implicados. La seguridad de los intervinientes y de las víctimas es la prioridad fundamental en todas las fases de la operación.
+**TEMA: Rescate en Accidentes Ferroviarios - Técnicas de Intervención**
 
-## 1. Acceso a las Vías y Rutas
+**1. Técnicas de Acceso a las Vías y Rutas**
+   
+   **1.1. Comunicaciones**
+   La eficacia en intervenciones ferroviarias depende críticamente del acceso seguro y rápido al punto del incidente. En España, la comunicación se establece con el Centro de Gestión 24 Horas (CGRH24) de Adif y el Centro de Control de Emergencias (CECON) de Renfe.
 
-Un aspecto crítico en cualquier suceso ferroviario es asegurar el acceso más rápido y seguro al punto del incidente. En España, la coordinación se establece mediante comunicación con el Centro de Gestión 24 horas (CGRH24) de Adif y el Centro de Control de Emergencias (CECON) de Renfe.
+   **1.2. Accesos, Mapas, Ortofotos, GPS, Fichas de Intervención**
 
-Para la localización precisa del accidente y la planificación del acceso, es imprescindible disponer de mapas detallados de las rutas ferroviarias, que incluyan poblaciones, zonas industriales, infraestructura y posibles riesgos naturales. El uso de sistemas de posicionamiento global (GPS) y ortofotos (fotografías aéreas corregidas geométricamente) es crucial para obtener coordenadas exactas y una representación realista del entorno, lo que facilita la identificación de los accesos más adecuados. Las fichas de intervención, que detallan el ámbito de actuación, trayectos de trenes y puntos de interés con riesgos para la población o industrias, son herramientas vitales.
+   **a) Accesos**
+   Puntos de difícil acceso, como túneles o viaductos, exigen el desplazamiento del convoy a un lugar más seguro y accesible.
 
-## 2. Técnicas en Presencia de Tensión Eléctrica
+   **b) Mapas**
+   Se requiere el uso de mapas detallados de rutas ferroviarias, incluyendo poblaciones, riesgos, áreas industriales, infraestructuras y accidentes naturales.
 
-Una característica distintiva de los ferrocarriles es la presencia de **tensión eléctrica elevada** en las líneas, que puede ser de hasta 25 kV en corriente alterna para alta velocidad o 3 kV en corriente continua para vías convencionales, circulando a través del *Feeder*. Es fundamental disponer de aparatos específicos para identificar con certeza la corriente en la vía afectada.
+   **c) GPS (Sistema de Posicionamiento Global)**
+   El GPS permite establecer coordenadas exactas del lugar del suceso.
 
-El protocolo de seguridad para el **corte de suministro eléctrico** es estricto y garantiza la seguridad del personal:
-1.  **Solicitud de corte:** Se deben enviar "telefonemas" o comunicaciones escritas para solicitar la interrupción de la tensión.
-2.  **Verificación:** El responsable de la catenaria, en contacto con el Centro de Control de Tráfico Centralizado (CTC), debe verificar la ausencia de corriente.
-3.  **Puesta a tierra:** Una vez confirmada la ausencia de tensión, se procede a colocar las pértigas de toma de tierra para prevenir accidentes por descargas eléctricas residuales.
-4.  **Señalización:** La zona de trabajo debe ser debidamente señalizada para indicar que la tensión ha sido cortada y hay personal realizando tareas.
+   **d) Ortofoto**
+   Una ortofoto (fotografía aérea corregida geométricamente) facilita la localización de accesos y una visión realista del entorno.
 
-### Medidas de Seguridad Eléctrica
-Las corrientes en las vías son muy elevadas; por ejemplo, una unidad de cercanías puede requerir 300-400 Amperios para arrancar, una magnitud 10.000 veces superior a la de un diferencial doméstico. Por lo tanto, se implementan diversos **sistemas de seguridad**:
-*   **En subestaciones:** Detectan anomalías como derivaciones a tierra, sobretensiones o caídas de tensión, abriendo los disyuntores y verificando hasta tres veces. Si el problema persiste, se desconecta completamente hasta su reparación.
-*   **En el propio tren:** Los disyuntores extrarrápidos, similares a los de las subestaciones pero de menor tamaño, también se activan ante fallos y cortan la tensión del tren, sin rearmarse automáticamente. El maquinista es el encargado de su rearme.
-*   **Pararrayos:** Tanto trenes como subestaciones y catenaria están equipados con pararrayos para distribuir la energía de un rayo, lo que reduce los daños y previene la atracción de más rayos. Un cable de guarda conecta los postes de la catenaria para este fin.
+   **e) Elaboración de fichas de intervención**
+   Es útil disponer de fichas de emergencia que detallen el ámbito de actuación, trayectos de trenes e incorporen PDI (Puntos de Interés para GPS) con información sobre accesos, riesgos y características del entorno.
 
-Es crucial recordar que la alta tensión ferroviaria puede provocar **electrocución** incluso sin contacto directo con la catenaria, ya que el arco voltaico puede buscar el camino más corto a tierra. Por seguridad, está prohibido trabajar a menos de un metro de la catenaria cuando esta tiene tensión.
+**2. Técnicas en Presencia de Tensión Eléctrica en Líneas**
 
-## 3. Técnicas de Evacuación
+   La electrificación ferroviaria en España utiliza tensiones elevadas: 25 kV en corriente alterna para alta velocidad y 3 kV en corriente continua para vías convencionales. Por ello, es crucial usar aparatos para identificar la corriente.
 
-La decisión de confinar o evacuar a las personas en un accidente ferroviario se toma en función de la gravedad del incidente.
-*   **Confinamiento (incidente leve):** Se mantiene a los pasajeros dentro de los coches si el incidente es leve, si el exterior presenta riesgos o si no hay una ruta de escape definida. Por ejemplo, en caso de un pequeño incendio que no comprometa la estructura del tren.
-*   **Evacuación (accidente grave):** Se evacua a los pasajeros si existe un peligro inminente dentro del tren (como un incendio incontrolable) o si el suceso ocurre en un túnel o puente. En estos casos, el maquinista debe dirigir el tren a una zona accesible (andén o plataforma) para facilitar la salida.
+   **2.1. Corte de Suministros**
+   Las catenarias se dividen en tramos para interrumpir la corriente mediante seccionadores controlados remotamente desde el centro de tráfico. Los bomberos deben solicitar el corte de electricidad para eliminar riesgos. El responsable de catenaria debe verificar la ausencia de corriente a través del CTC y, posteriormente, instalar pértigas de toma de tierra para evitar accidentes por derivación de cargas eléctricas.
 
-### Estrategias de Evacuación
-Las estrategias de evacuación más importantes son:
-*   **Evacuación en andén:** Aplicable cuando el tren está en una estación o en una zona segura a nivel de andén. Permite una salida fácil por cualquier puerta sin necesidad de medios adicionales como escaleras.
-*   **Evacuación en balastro:** En este caso, para evitar el riesgo de atropello, es fundamental verificar la interrupción del tráfico ferroviario. Se utilizan las escaleras del tren, o si es necesario, escaleras de bomberos, como pasarelas para cruzar vías. La prioridad es que los pasajeros permanezcan en el mismo coche y evitar que transiten por las vías. El personal sanitario proporciona apoyo en la zona segura.
-*   **Estrategias comunes:** Incluyen comunicar las indicaciones de evacuación a los viajeros, sectorizar el tren en caso de incendio para alejar a los pasajeros de la zona afectada, y habilitar una ruta de escape segura. La tripulación del tren coopera en la evacuación y el triage de las víctimas, que se realiza con equipos médicos para clasificar la gravedad y priorizar la atención.
+   **2.2. Medidas de Seguridad**
 
-## 4. Técnicas de Abordaje y Excarcelación
+   **2.2.1. Sistemas de Seguridad**
+   Las corrientes son muy elevadas, hasta 300-400 amperios para un tren de cercanías (30 mA es letal). Se requieren sistemas de seguridad.
+   - Si una subestación detecta una anomalía (derivación a tierra, sobretensión, subtensión, o fallo de comunicación), abre sus disyuntores (interruptores) y reintenta el suministro hasta tres veces. Si el problema persiste, se desconecta hasta la reparación.
+   - El sistema principal de seguridad es la subestación.
+   - Los disyuntores extrarrápidos en el tren son otro sistema de seguridad, más pequeños que los de las subestaciones, pero con función similar. Se abren y cortan la tensión ante un fallo, no se rearman automáticamente y deben ser rearmados por el maquinista.
+   - Los trenes, subestaciones y catenarias están equipados con pararrayos, que funcionan como los de edificios. Un cable de guarda conecta los postes de catenaria, distribuyendo la energía de un rayo y evitando impactos en vías/trenes.
+   - La alta tensión puede electrocutar sin contacto directo (arco voltaico busca el suelo por menor rigidez dieléctrica del aire). El personal de mantenimiento tiene prohibido trabajar a menos de un metro de la catenaria energizada.
 
-Las características de peso y dimensiones de los trenes hacen que las operaciones de abordaje y excarcelación sean complejas y requieran equipos específicos, como grúas.
-*   **Trenes autopropulsados de alta velocidad (ancho de vía 1435 mm):** Pueden medir hasta 200 metros, pesar alrededor de 421 toneladas con carga normal, con coches de más de 20 metros de longitud y 17 toneladas por eje. Alcanzan una altura de hasta 4 metros.
-*   **Trenes automotores de media y larga distancia (ancho de vía 1668 mm):** Pueden tener una longitud de hasta 78 metros, con coches de hasta 26 metros. El peso total con carga máxima puede ser de 168 toneladas, con 48 toneladas por coche.
+   **2.2.2. Normas de Seguridad para la Desconexión de la Electricidad**
+   Para desconectar la electricidad se aplican cinco normas de seguridad:
+   1.  **Cortar fuentes de alimentación**: Abrir seccionadores e interruptores.
+   2.  **Evitar riesgo de realimentación**: Aplicar fórmulas de consigna (candados, llaves, etc.).
+   3.  **Comprobar corte de tensión**: Usar pértigas aisladas.
+   4.  **Derivar instalación a tierra**: Cortocircuitar a tierra. Requiere pértiga aislada, mordaza para cable de contacto, grapa de carril y cable de cobre. En líneas de 25.000V AC, el carril se deriva a tierra en ambos lados de la zona de trabajo.
+   5.  **Señalizar zona de trabajo**.
+   - Los trabajos sin tensión no pueden iniciarse hasta completar los pasos anteriores y confirmar la ausencia de tensión. La puesta a tierra y cortocircuito se instalan en ambos extremos del punto de trabajo y en cualquier otro punto de posible entrada de tensión.
 
-En todas estas intervenciones, la coordinación y el uso de técnicas especializadas son fundamentales para garantizar la seguridad de todos los implicados y el éxito del rescate.
+   **2.2.3. Shunt de Vía. Protección Básica ante la Llegada de Trenes**
+   También conocida como barra de shuntado, protege a los equipos de trabajo de trenes regulares en las vías. Complementa, pero no sustituye, el puesto de seguridad. Los vehículos de obra pueden circular por la zona de trabajo.
+   - Un circuito de shunt es electrónico e indica la presencia de un convoy en un tramo de vía, activando señales y previniendo el acceso de otro tren.
+   - El circuito genera una diferencia de potencial. Las ruedas del tren cortocircuitan los carriles, activando un relé. El shunt aplica mordazas de contacto a ambos carriles, simulando la presencia de un tren.
+
+**3. Técnicas de Evacuación**
+   Según la gravedad, se valora el confinamiento o la evacuación. El personal del tren (maquinista, interventor, tripulación) forma parte del plan de emergencia.
+
+   **3.1. Confinamiento. Incidente Leve**
+   Confinar a los pasajeros dentro de los coches si el incidente es leve, ya que es más seguro que deambular por las vías, o si el exterior presenta riesgos o la ruta de escape no está definida.
+
+   **3.2. Evacuación. Accidente Grave**
+   Se recomienda la evacuación si existe peligro inminente dentro del tren. En túneles o puentes, el maquinista debe buscar una zona accesible.
+
+**3.3. Estrategias de Evacuación**
+
+   **3.3.1. Estrategias Comunes**
+   - Comunicar las instrucciones de evacuación a los viajeros por medios disponibles.
+   - En caso de incendio (ej. coche cafetería en medio del tren), sectorizar el tren en dos partes y alejar a los viajeros hacia los extremos para evacuarlos desde allí.
+   - Habilitar una ruta de escape hacia un lugar exterior seguro para atender a los afectados.
+   - La tripulación desalojará los coches afectados y adyacentes, sectorizará el incidente y llevará a los viajeros a coches alejados.
+   - Para múltiples víctimas, aplicar el triage: definir zona de reconocimiento y usar noria de evacuación sanitaria. Las técnicas de triage de accidentes de tráfico (Parte 5) son aplicables aquí.
+   
+   **3.3.2. Estrategia de Evacuación en Balastro**
+   - Para evitar atropellos, verificar interrupción de la circulación de trenes. Usar andén opuesto a la circulación de trenes.
+   - Utilizar escaleras del tren (pueden servir de pasarela).
+   - Para mayor control, evacuar pasajeros del mismo coche. Evitar que transiten por las vías.
+   - El personal sanitario puede apoyar a los bomberos en el área de salvamento con acciones terapéuticas.
+
+   **3.3.3. Estrategia de Evacuación en Andén**
+   Esta estrategia se usa cuando el maquinista decide continuar a un lugar seguro (andén o plataforma) tras detectar una emergencia, o cuando el tren está parado en una estación. La evacuación se realiza por cualquier puerta, ya que el andén está a nivel del tren y no requiere escaleras.
+
+**4. Técnicas de Abordaje/Excarcelación**
+
+   **4.1. Pesos y Dimensiones**
+   El gran tamaño y peso de vagones y coches de tren exigen equipos específicos de excarcelación y estabilización (ej. grúas). Hay muchos fabricantes y modelos de tren.
+   - **Trenes autopropulsados de alta velocidad**: Ancho de vía 1435 mm (algunos 1668 mm). Longitud hasta 200 m, carga normal 421 toneladas, coches de más de 20 m y 17 toneladas por eje. Altura hasta 4 m.
+   - **Trenes automotores de media y larga distancia de pasajeros**: Ancho de vía 1668 mm. Longitud hasta 78 m, coches hasta 26 m. Peso total con carga máxima 168 toneladas, 48 toneladas por coche.

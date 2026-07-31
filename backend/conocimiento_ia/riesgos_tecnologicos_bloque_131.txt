@@ -1,73 +1,155 @@
-## Caracterización de las Instalaciones Eléctricas en Edificaciones
+## Tácticas de Intervención (NRBQ)
 
-La comprensión de las instalaciones eléctricas en edificaciones es fundamental para los servicios de emergencia, ya que constituyen escenarios habituales de intervención. Estas instalaciones se estructuran en dos grandes categorías principales, según la tensión de servicio que manejan: las instalaciones de **alta tensión (AT)** y las de **baja tensión (BT)**. Las primeras gestionan tensiones superiores a 1.000 V en corriente alterna (CA) o 1.500 V en corriente continua (CC), mientras que las segundas operan con tensiones nominales inferiores a estos valores, siendo las más comunes 380 V en CA trifásica, 220 V en CA monofásica y 125 V en CC.
+### 1. Manejo Táctico de Incidentes con Riesgo Químico
 
-### Fuentes de Generación y Distribución Eléctrica
+La gestión táctica en incidentes con sustancias peligrosas involucra la definición de estrategias y la ejecución de tácticas. La estrategia establece los planes de acción, mientras que la táctica aplica los métodos para llevarlos a cabo. El mando de intervención debe evaluar diversas variables y condiciones para seleccionar el método más adecuado. El asesoramiento de expertos es crucial para esta selección.
 
-La energía eléctrica se produce en **plantas de generación de electricidad**, las cuales transforman diversas fuentes de energía (renovables como solar e hidráulica, o no renovables como nuclear) en electricidad. Estas plantas suelen emplear alternadores para producir energía eléctrica trifásica a una tensión de 20 kV entre fases, elevándola posteriormente a entre 66 kV y 380 kV en **estaciones de transformación** mediante transformadores elevadores para su transmisión a larga distancia.
+#### 1.1. Fases de una Intervención: Elección Táctica
 
-La distribución de esta energía se realiza a través de **redes eléctricas** compuestas por:
-*   **Líneas de alta tensión:** Transportan la energía desde las centrales hasta las subestaciones. Se clasifican según su tensión nominal:
-    *   **Superiores a 66 kV:** Utilizan apoyos tipo celosía con conductores dobles, triples o cuádruples, incluyendo un hilo de guarda superior para pararrayos. Emplean aisladores de vidrio (aproximadamente 10.000 V por aislador).
-    *   **Entre 30 kV y 66 kV:** Conducen la energía desde las grandes subestaciones hasta las medianas y pequeñas. Pueden ser aéreas (con dos o un conductor por fase y entre cuatro y seis aisladores de vidrio) o subterráneas (identificables por cables rojos en líneas modernas o marrones en antiguas de aceite).
-    *   **Hasta 30 kV:** Distribuyen desde las pequeñas y medianas subestaciones a los centros de transformación industriales o urbanos. Carecen de hilo de guarda y utilizan postes de baja altura con menos de tres aisladores de vidrio.
-    Las líneas de alta tensión pueden sufrir **"reenganches automáticos"**, cerrando el circuito tras una interrupción. Este proceso puede repetirse hasta tres veces en un máximo de tres minutos, tras lo cual la compañía realiza pruebas.
-*   **Centros de transformación (CT):** Encargados de reducir la tensión de media (11 o 20 kV) a baja tensión (380 V trifásica o 220 V monofásica). Se encuentran en entornos urbanos e industriales. Internamente, se dividen en secciones de medición, cuchillas de paso e interruptor, y pueden ser de diversos tipos según su ubicación:
-    *   **De intemperie:** Alejados de núcleos de población, montados sobre postes de hormigón o acero, de baja potencia.
-    *   **Prefabricados de hormigón:** En polígonos industriales o zonas rurales, pueden albergar varios transformadores y suelen tener rejillas de ventilación.
-    *   **Subterráneos o de obra civil:** Ubicados en nuevas urbanizaciones, centros comerciales o bajos de edificios antiguos.
+Las acciones en una intervención requieren una sistematización y un orden cronológico. El líder de la intervención establece el Plan de Acción, siendo fundamental la elección de tácticas ofensivas o defensivas.
 
-### Conexión del Consumidor: Las Instalaciones de Enlace
+La decisión inicial del mando debe considerar los pros y contras de las tácticas, basándose en las propiedades de la sustancia, la evaluación *in situ*, la experiencia del equipo y los recursos disponibles. También es vital evaluar la viabilidad de cambiar de táctica si las iniciales resultan ineficaces.
 
-Las **instalaciones de enlace** conectan la red de distribución eléctrica con las instalaciones interiores o receptoras de los usuarios, conforme al Reglamento Electrotécnico de Baja Tensión (REBT). Incluyen los siguientes elementos:
+Generalmente, una aproximación defensiva es más sencilla y presenta menores riesgos. Sin embargo, un líder de equipo debe considerar si una táctica ofensiva podría reducir el daño ambiental. La estimación del tiempo para cambiar de tácticas (de ofensiva a defensiva) es compleja, siendo el impacto y la probabilidad de éxito factores clave.
 
-1.  **Acometida:** Es el tramo inicial que une la red de distribución con la Caja General de Protección (CGP). Su construcción y verificación son responsabilidad de la compañía eléctrica. Son únicas por edificio (cada 160 kW o fracción) y pueden ser aéreas o subterráneas. La sección de sus conductores se dimensiona según la tensión de suministro, la densidad de corriente máxima, la demanda de potencia y la caída de tensión.
-2.  **Caja General de Protección (CGP):** Aloja los elementos de protección de la línea repartidora y marca el inicio de la propiedad del usuario. Contiene fusibles calibrados (hasta 80 A cilíndricos, o tipo cuchilla para mayores intensidades), sin fusible en el hilo de neutro.
-3.  **Línea General de Alimentación (LGA):** Enlaza la CGP con la centralización de contadores, desde donde parten las derivaciones individuales. Consta de tres conductores de fase con fusible y un neutro sin fusible.
-4.  **Centralización de contadores (CC):** Mide el consumo total de energía. En edificios, se ubican en una pared común (hasta 16 contadores); si hay más, se requiere un cuarto específico con puerta cortafuegos y un interruptor general de maniobra que desconecta la tensión de los contadores. En viviendas unifamiliares, el contador (propiedad de la suministradora) está en el exterior junto a los fusibles, formando la Línea o Caja de Protección y Medida (CPM).
-5.  **Derivación Individual de abonado:** Conecta la centralización de contadores de la LGA con el Cuadro de Mando y Protección (CMP) de cada vivienda o local. El CMP, obligatorio según el REBT, se sitúa normalmente detrás de la puerta de entrada y contiene los siguientes dispositivos de protección y control:
-    *   **Interruptor de Control de Potencia (ICP):** Dispositivo unipolar precintado por la compañía que corta automáticamente el suministro si se excede la potencia contratada. Se rearma manualmente.
-    *   **Interruptor General Automático (IGA):** Protege la derivación individual contra sobrecargas y cortocircuitos. Se rearma manualmente.
-    *   **Interruptor Diferencial:** Actúa por derivación a masa (tierra) si un conductor en tensión entra en contacto con una carcasa metálica o una persona. Requiere que la fuga a tierra sea superior a su sensibilidad (normalmente 30 mA).
-    *   **Pequeños Interruptores Automáticos (PIA):** Protegen cada circuito contra sobrecargas y cortocircuitos, generalmente monofásicos bipolares (fase y neutro).
+#### 1.1.1. Fase 0: Movilización y Reconocimiento Preliminar
 
-### Grado de Electrificación de la Vivienda
+En las intervenciones NRBQ, la zonificación del área geográfica afectada es crucial debido a la probable virulencia y el alcance de los efectos de la sustancia peligrosa. Se realiza una zonificación teórica, calculando las dimensiones y la forma de la "zona caliente" basándose en el peor escenario posible. Aunque no siempre se establece un perímetro físico, se garantiza un control adecuado de los accesos.
 
-El **grado de electrificación** determina la carga eléctrica mínima que la instalación de una vivienda debe soportar, así como el número de circuitos independientes requeridos. Se calcula sumando las potencias de todos los receptores y aplicando un factor de reducción del 40% debido a que no todos se usan simultáneamente.
+El protocolo de la Fase 0 para intervenciones con sustancias peligrosas, desarrollado por el CEIS Guadalajara, se estructura de la siguiente manera:
 
-*   **Grado de electrificación básico:** Potencia mínima de 5.750 W a 230 V. Incluye circuitos para iluminación (C1), tomas de corriente generales y frigorífico (C2), tomas de horno y cocina (C3), tomas de lavadora, lavavajillas y termo eléctrico (C4), y tomas de baño y auxiliares de cocina (C5).
-*   **Grado de electrificación elevado:** Potencia mínima de 9.200 W a 230 V. Incluye todos los circuitos del grado básico, más circuitos adicionales para iluminación (C6), tomas de corriente (C7), calefacción eléctrica (C8), aire acondicionado (C9), secadora (C10), domótica (C11) y tomas adicionales de baño, cocina y horno (C12).
+**RECEPCIÓN DEL AVISO DE INTERVENCIÓN CON SUSTANCIAS PELIGROSAS**
+*   Recopilación de datos adicionales.
+*   Activación del Jefe de Guardia.
 
-Para asegurar la protección, las edificaciones cuentan con una **red de tierra**, que es una malla o cableado que conecta el edificio con los cimientos y tomas de tierra (picas). Esto proporciona una referencia cero para que los interruptores diferenciales actúen correctamente. El **telurómetro** es el aparato utilizado para medir la conductividad o resistividad del terreno y es esencial para los instaladores de baja tensión.
+**ACTIVACIÓN Y SALIDA**
+*   Confirmación de los datos del incidente con el 112 o el alertante.
+*   Determinación de los niveles de activación y gravedad.
+*   Movilización hacia el lugar del siniestro.
+*   Movilización de dotaciones de refuerzo y recursos externos.
+*   Comunicación con el Jefe de Servicio, excepto para el nivel de activación 0.
 
-### Medidas de Seguridad y Efectos de la Electricidad en el Organismo
+**SALIDA (Dotación)**
+*   Transporte del Kit Básico NRBQ.
+*   Consulta y transporte de la ficha de intervención (*3*).
+*   Planificación de la zonificación teórica según la materia implicada.
+*   Salida al lugar del siniestro.
 
-La seguridad eléctrica es un pilar fundamental en cualquier intervención, regulada por normativas como el REBT. Los riesgos principales son el **contacto eléctrico directo** (al tocar un conductor en tensión) y el **contacto eléctrico indirecto** (al tocar un elemento que, accidentalmente, está en tensión).
+**LLEGADA (Dotación)**
+*   Aproximación cautelar (a pie, a favor del viento, respetando la zonificación teórica, etc.).
+*   Valoración general a distancia (con prismáticos, cámara térmica, etc.) para confirmar los datos iniciales.
+*   Informar al Jefe de Guardia sobre la situación, confirmando:
+    *   Materia implicada.
+    *   Perímetros de zonificación iniciales.
+    *   Ruta y aproximación.
+    *   Nivel de protección.
 
-Para prevenir el **contacto eléctrico directo**, se implementan medidas de clase A, como:
-*   **Separación:** Mantener una distancia segura de las partes activas (2,5 m en AT, 0,5 m en BT) o enterrarlas (1 m).
-*   **Interposición de obstáculos y barreras:** Delimitar zonas de peligro.
-*   **Aislamiento:** Cubrir partes en tensión con materiales aislantes.
+**LLEGADA (Jefe de Guardia)**
+*   Aproximación según el informe del Cabo.
+*   Recopilación de datos adicionales del Cabo.
+*   Asunción del mando.
+*   Valoración general: confirmación o recálculo de las zonificaciones.
 
-Para prevenir el **contacto eléctrico indirecto**, se aplican medidas de clase A y B:
-*   **Clase A (protección pasiva):**
-    *   Separación de circuitos para asegurar tensión nula.
-    *   Uso de tensiones de seguridad (inferiores al umbral).
-    *   Aislamiento de partes activas y masas.
-    *   Uso de elementos que eviten el contacto simultáneo con conductores y masas (como guantes aislantes, alfombras aislantes).
-    *   Recubrimiento de masas con materiales aislantes.
-    *   **Conexiones equipotenciales:** Unir todas las partes metálicas y la masa a la misma tensión (ej., bañera conectada a tierra) para evitar diferencias de potencial, mejorando la seguridad personal y la protección contra la corrosión en entornos húmedos.
-*   **Clase B (protección activa):**
-    *   **Puesta a tierra de masas:** Conectar las masas del equipo a un sistema de tierra mediante picas.
-    *   **Dispositivos de corte por intensidad de fuga:** Interruptores diferenciales calibrados a un umbral de seguridad.
-    *   Combinación de puesta a tierra de masas con dispositivos de corte por intensidad de defecto.
-    *   Puesta a neutro de masas con dispositivos de corte por intensidad de defecto (cuando no hay red de tierras).
+**DATOS ADICIONALES PARA VALORACIÓN GENERAL**
+*   **Materia:**
+    *   Nombre, número ONU, NIP (Número de Identificación de Peligro).
+    *   Etiqueta de peligro.
+    *   Carta de porte.
+*   **Estado:**
+    *   Estado físico de la materia.
+    *   Cantidad presente o implicada.
+    *   Tipología y características del contenedor.
+*   **Siniestro:**
+    *   Tipo de siniestro.
+    *   Alcance del siniestro sobre personas, medio ambiente y bienes materiales.
+    *   Entorno (elementos vulnerables cercanos, climatología, etc.).
+    *   **Tipos de Siniestro:**
+        *   Tipo 1: Sin fuga.
+        *   Tipo 2: Sin fuga (contenedor dañado).
+        *   Tipo 3: Fuga/Derrame.
+        *   Tipo 4.1: Fuga incendiada.
+        *   Tipo 4.2: Incendio que afecta al contenedor.
+        *   Tipo 5: Explosión.
 
-Los **efectos de la electricidad en el organismo** son severos y dependen de la intensidad, el tiempo de exposición, la trayectoria interna de la corriente, la frecuencia y la tensión. Incluso tensiones bajas pueden ser mortales. Se distinguen efectos inmediatos (sacudida, quemaduras, parálisis) y efectos tardíos (daño a órganos vitales).
-*   **Tetanización muscular:** Ocurre con intensidades superiores al umbral de "no soltar" (10 mA), impidiendo la separación del punto de contacto.
-*   **Paro respiratorio:** Si la corriente atraviesa el sistema nervioso respiratorio.
-*   **Asfixia:** Si la corriente paraliza el diafragma.
-*   **Fibrilación ventricular:** La ruptura del ritmo cardíaco, que puede ser fatal en pocos minutos.
-*   **Quemaduras:** Producidas por la energía calorífica liberada, con gravedad variable según el órgano afectado y la parte del cuerpo.
+#### 1.1.1. Niveles de Activación y Gravedad
 
-La **resistencia del cuerpo humano** a la corriente es muy variable (entre 1.000 y 100.000 ohmios, con valores medios de 1.600 ohmios en seco, 800 en húmedo y 200 sumergido). Disminuye con la sudoración y la presión del contacto. La **tensión de seguridad** se establece en 50 V para locales secos, 25 V para húmedos y 12 V para mojados o exteriores. La **frecuencia de la corriente** también influye: la CA a 50/60 Hz es más peligrosa que la CC para la fibrilación ventricular, aunque la CA de alta frecuencia (más de 100 Hz) aumenta el riesgo de quemaduras.
+La evaluación de la gravedad se basa en los daños existentes y potenciales a personas, al medio ambiente y a los bienes.
+
+| Nivel de Gravedad | Personas | Medio Ambiente | Bienes |
+| :---------------- | :------- | :-------------- | :----- |
+| LEVE              | ?        | ?               | ?      |
+| MEDIO             | ✓        | ✓               | ✓      |
+| GRAVE             | ✓✓       | ✓✓              | ✓✓     |
+| MUY GRAVE         | ✓✓✓      | ✓✓✓             | ✓✓✓    |
+
+**Leyenda:**
+*   `?`: existencia real o prevista
+*   `✓`: existencia real o prevista de gran importancia
+
+**DOTACIONES DE REFUERZO (Nivel 1) SALIDA**
+*   Transporte del Kit Básico NBQ y materiales/medios adicionales establecidos por el Jefe de Guardia.
+*   Transporte y consulta de la ficha de intervención (*3*).
+*   Confirmación de ruta y aproximación con el Jefe de Guardia.
+
+**DOTACIONES DE REFUERZO (Nivel 1) LLEGADA**
+*   Comunicación con el Jefe de Guardia para recibir instrucciones sobre el nivel de protección, posicionamiento y tareas de intervención.
+
+**MEDIOS EXTERNOS (Nivel 2) SALIDA**
+*   Movilización de dotaciones, medios y materiales externos por el Jefe de Guardia.
+*   Confirmación de ruta y aproximación con el Jefe de Guardia.
+
+**MEDIOS EXTERNOS (Nivel 2) LLEGADA**
+*   Comunicación con el Jefe de Guardia para recibir instrucciones sobre el nivel de protección, posicionamiento y tareas de intervención.
+
+#### 1.1.1. Fichas de Intervención
+
+Las fuentes para consultar las pautas de intervención son:
+1.  Fichas resumen del CEIS Guadalajara (si coincide con el número ONU previsto).
+2.  Fichas de intervención en situaciones de emergencia de la Dirección General de Protección Civil (información básica para la Fase 1, disponible para todo el personal).
+3.  Fichas de intervención ante accidentes con materias peligrosas del Gobierno Vasco (consultadas por el Jefe de Intervención en la Fase 2).
+Cualquier otra información, como la etiquetado con instrucciones de accidente o datos de fuentes externas, es relevante.
+
+### 1.1.2. Fase 1: Valoración y Rescate
+
+**a) Valoración**
+Los detalles de esta fase se han abordado en un capítulo anterior del manual.
+
+**b) Rescate**
+El rescate de personas es la máxima prioridad para los servicios de bomberos. En incidentes con mercancías peligrosas, el rescate debe ser rápido, evitando el contacto con los productos y empleando equipos de protección de Nivel I. Un ejemplo es el rescate de un conductor atrapado en una cisterna de líquidos de hidrocarburos con fuga, donde se utiliza la maniobra Rautek.
+
+Si el rescate inicial se realiza incorrectamente con otras sustancias, el equipo podría contaminarse. La decisión de llevar a cabo el rescate depende de:
+*   La sustancia peligrosa específica.
+*   El nivel de contaminación en la escena.
+*   El personal del equipo de rescate.
+*   El nivel de protección disponible.
+
+El Protocolo del CEIS Guadalajara para la Fase 1 de rescates en intervenciones con sustancias peligrosas establece:
+
+**EQUIPOS DE INTERVENCIÓN**
+*   Evaluar la viabilidad de un rescate rápido con el nivel de protección existente.
+*   Evaluar la necesidad del rescate según el estado de las víctimas, si se requiere un nivel de protección muy alto.
+*   Prever un equipo SOS, compuesto por un Equipo de Intervención o de Apoyo, según las necesidades.
+*   Los Equipos de Apoyo colaborarán según sea necesario.
+
+**c) Zonificación**
+La zonificación realizada por los bomberos implica dividir el área geográfica alrededor del incidente según la sustancia peligrosa, la ubicación y el tipo de accidente (ver imagen 306 y tabla 52).
+
+La zonificación es una tarea delicada en incidentes NRBQ debido a las grandes áreas de afección y la población potencialmente afectada. Una zonificación deficiente puede llevar a objetivos erróneos y errores estratégicos.
+
+Según el Plan Especial de Protección Civil de Transporte de Mercancías Peligrosas (PETCAM) de Castilla-La Mancha, el Jefe del Grupo de Intervención es el responsable técnico del Servicio de Extinción de Incendios y Salvamento en la zona del incidente. Sus responsabilidades incluyen la valoración inicial de las consecuencias, el cálculo de distancias de afectación y la estimación de personal necesario. También comprende el establecimiento de la Zona de Intervención y la Zona de Alerta, comunicando al Jefe del Puesto de Mando Avanzado la ubicación más adecuada.
+
+Los principales factores que influyen en la zonificación en incidentes con sustancias peligrosas son la toxicidad, los efectos de sobrepresión y la radiación térmica, sin descartar la posibilidad de un efecto dominó (como la rotura de recipientes anexos).
+
+Históricamente, se han utilizado modelos simplificados para facilitar la zonificación, como determinar la zona caliente mediante el cálculo de la presión de vapor de la sustancia inflamable.
+
+**Tabla 52. Zonas o sectores en una intervención con sustancias peligrosas**
+
+| ZONA             | CONDICIONES                                                                                                                                                                                                                                                                                                                                   |
+| :--------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CALIENTE (ZC)** | Área de riesgo para la población donde no puede protegerse; requiere máxima protección personal para riesgo potencial. Zona de trabajo para equipos de intervención de Bomberos u otros medios con capacidades y protección NRBQ. Preparada para evacuación inmediata a zona templada. El personal no interviniente debe abandonar la zona perpendicular al viento lo antes posible. |
+| **TEMPLADA (ZT)** | Zona funcional para tareas de intervención; riesgo mínimo o nulo de materialización del riesgo. Zona de trabajo para equipos SOS, mando de intervención, vehículos de bomberos y otros servicios. Preparada para evacuación a zona fría. El personal no interviniente debe abandonar la zona perpendicular al viento lo antes posible.                 |
+| **FRÍA (RIESGO BAJO / NULO)** | Área fuera de las cotas de Zona Templada y Zona Caliente. Zona de descanso, reposición, ubicación de vehículos de apoyo, mandos, sanitarios, etc.                                                                                                                                                                                        |
+| **DESCONTAMINACIÓN** | Área que asegura el aislamiento del riesgo en cada zona de intervención (ZT y ZC). Delimita los puntos únicos de entrada y salida a la zona caliente. La salida se encuentra en la Zona Templada.                                                                                                                                                   |
+
+**c) Medidas de Protección**
+*   **Confinamiento:** La población cercana permanece en sus domicilios o edificios próximos para evitar la exposición externa a la nube radiactiva y la interna por inhalación de sustancias.

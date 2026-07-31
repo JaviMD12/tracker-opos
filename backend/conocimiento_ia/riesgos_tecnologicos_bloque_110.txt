@@ -1,58 +1,145 @@
-## Caracterización y Marco Normativo de los Ascensores en Intervenciones de Emergencia
+## Temario de Oposiciones: Riesgos Tecnológicos y Asistencias Técnicas - Caracterización de Materiales Peligrosos
 
-El ascensor, también denominado elevador, se define como un sistema de movilidad vertical diseñado para el transporte de personas o bienes entre diferentes niveles de altura. Este equipo opera mediante la acción conjunta de elementos mecánicos, eléctricos y electrónicos, desplazando una cabina a lo largo de guías con una inclinación máxima de 15 grados respecto a la horizontal.
+### 2.3.2. Propiedades Físicas: Inflamabilidad y Presión de Vapor
 
-Para una intervención eficaz en situaciones de emergencia, es crucial que los equipos de rescate comprendan la estructura, el funcionamiento y la normativa específica de estos aparatos. La normativa europea EN 81-28:2003 establece que las empresas de mantenimiento de ascensores deben garantizar un servicio técnico en un plazo máximo de 24 horas para averías, si bien la respuesta debe ser inmediata en casos de urgencia, como personas atrapadas o accidentes.
+La inflamabilidad de una sustancia se evalúa considerando tres aspectos fundamentales: su rango de inflamabilidad, el punto de inflamación y la energía mínima de ignición (EMI).
 
-### Componentes Fundamentales del Ascensor
+**a) Rango de Inflamabilidad**
 
-Un ascensor se compone principalmente de tres partes: el cuarto de máquinas, el recinto o hueco, y el foso.
+Este rango se define por las concentraciones máxima y mínima de una sustancia en el aire, expresadas como el porcentaje de vapor de combustible presente.
 
-#### El Cuarto de Máquinas
+*   **Límite Inferior de Inflamabilidad (LII):** Representa la concentración mínima necesaria de vapor para que la mezcla se inflame. Por debajo de este límite, la mezcla no es inflamable.
+*   **Límite Superior de Inflamabilidad (LSI):** Indica la concentración máxima de vapor por encima de la cual no hay suficiente oxígeno para que ocurra la combustión.
 
-Este espacio alberga el mecanismo de tracción, ya sea un grupo tractor, un grupo hidráulico o un tambor de arrollamiento. Su ubicación varía: en los modelos con cuarto físico, puede estar en la parte superior del recinto (más accesible para el operario), en la parte inferior (implicando una carga para la estructura superior del edificio), o contiguo al recinto. Los ascensores modernos carecen de cuarto de máquinas; en estos, la maquinaria de tracción y el sistema de maniobra se sitúan en la parte superior o inferior del hueco del foso, junto a la última puerta de planta.
+A modo de ejemplo, si la concentración de vapor de gasolina en el aire es inferior a 1,4%, no se considerará inflamable. En el caso de una fuga de gas inflamable, puede que inicialmente esté fuera del rango de inflamabilidad cerca del punto de fuga, pero al mezclarse con el aire atmosférico, puede entrar en dicho rango y encenderse si encuentra una fuente de energía. Si se dispersa lo suficiente, la concentración de vapor podría caer por debajo del LII y dejar de encenderse. Un rango LII/LSI más amplio indica un mayor riesgo de inflamabilidad. El hidrógeno, por ejemplo, es más peligroso que la gasolina en este aspecto.
 
-Los elementos principales de este cuarto son:
-*   **Motor-reductor:** Constituido por un motor acoplado a un reductor de velocidad, generalmente de corriente alterna con una o dos velocidades, actualmente integrando variadores de frecuencia.
-*   **Polea motriz:** Asegura la adherencia con los cables de acero, moviendo la cabina sin deslizamiento, independientemente de su carga.
-*   **Volante:** Esencial para la operación manual de ascenso y descenso de la cabina en rescates sin suministro eléctrico.
-*   **Freno:** Localizado en el eje motor, se encarga de detener el ascensor. Sus zapatas permanecen bloqueadas en reposo y se desbloquean mediante un electroimán durante el movimiento, bloqueándose manualmente en operaciones de rescate sin energía.
-*   **Limitador de velocidad:** Dispositivo que detiene la cabina mediante un paracaídas o sistema de acuñamiento si la velocidad excede un valor predeterminado. Incluye un contacto eléctrico que interrumpe el motor y se compone de dos poleas (una en el cuarto de máquinas y otra en el foso), conectadas por un cable de acero independiente de los cables de tracción, que a su vez se une a la cabina y a un sistema de cuñas.
-*   **Cuadro de maniobras:** Contiene los componentes eléctricos y electrónicos (relés, contadores, cableado, etc.) que controlan el funcionamiento del ascensor. Maneja tensiones de 230 a 400V, por lo que el acceso a su interior sin aislamiento adecuado está restringido.
-*   **Cuadros de distribución de corriente:** Alojan los dispositivos de protección (fusibles, interruptores magnetotérmicos y diferenciales) contra cortocircuitos y derivaciones. Su ubicación es clave para cortar el suministro eléctrico en una emergencia.
+La siguiente tabla muestra los límites de inflamabilidad para algunas sustancias:
 
-#### El Recinto o Hueco
+| Sustancia | LII (%) | LSI (%) |
+| :-------- | :------ | :------ |
+| Butano    | 1,8     | 8,4     |
+| Gasolina  | 1,4     | 7,6     |
+| Hidrógeno | 4,1     | 75,6    |
 
-Es el espacio vertical por donde se desplazan la cabina y el contrapeso. En este, encontramos:
-*   **Cabina:** El habitáculo diseñado para el transporte de pasajeros.
-*   **Puertas de acceso:** Se distinguen entre puertas de planta (en cada nivel del edificio) y puertas de cabina. Las tipologías más comunes incluyen puertas batientes (que solo abren si la cabina está a nivel y cuentan con enclavamiento eléctrico y mecánico), puertas batientes con librillo en cabina, batientes en pisos con puertas telescópicas automáticas en cabina, puertas telescópicas automáticas en pisos y cabina, y puertas de apertura central, tanto automáticas como telescópicas.
-*   **Guías de cabina:** Perfiles laminados en forma de T que dirigen el movimiento tanto de la cabina como del contrapeso.
-*   **Contrapeso:** Su función es reducir la potencia requerida por el motor. Su peso se calcula sumando el de la cabina más el 45% de su masa, siendo un factor importante para determinar si la cabina tenderá a subir o bajar en ciertas situaciones.
-*   **Cables de tracción:** Conectan la cabina con el contrapeso, pasando por la polea motriz. Es fundamental verificar visualmente su tensión, ya que un cable destensado puede indicar un problema de acuñamiento o rotura.
-*   **Cordones de maniobras:** Cables eléctricos que transmiten energía y señales para las diversas funciones del ascensor, como la apertura de puertas o la iluminación.
+**b) Punto de Inflamación**
 
-#### El Foso
+Se define como la temperatura mínima a la cual un líquido genera suficientes vapores para formar una mezcla inflamable con el aire. Los líquidos se clasifican según su punto de ebullición y punto de inflamación, lo que determina su nivel de peligrosidad.
 
-Constituye la parte inferior del recinto, localizada por debajo del nivel de la última parada. Su suelo debe ser liso y nivelado, y suele estar impermeabilizado si se encuentra por debajo del nivel de la calle. Su profundidad debe ser suficiente para garantizar un espacio libre de al menos 0,5 metros cuando los amortiguadores de la cabina están completamente comprimidos, ofreciendo un margen de seguridad para una persona. Los **amortiguadores** son elementos esenciales en el foso, diseñados para frenar el descenso de la cabina en caso de fallo mecánico o al llegar al final de carrera, minimizando el impacto de una caída libre.
+La presión de vapor de una sustancia se ve influenciada por la temperatura. Por ejemplo:
 
-### Elementos Relacionados con la Emergencia
+*   La gasolina, con una presión de vapor de 171 mmHg, es más volátil que el gasoil, con 3 mmHg, y se evapora más rápidamente.
+*   El alcohol etílico tiene una presión de vapor de 43 mmHg.
 
-Los ascensores incorporan dispositivos y sistemas específicos para gestionar situaciones de emergencia:
-*   **Instrucciones de rescate:** Obligatorias y accesibles en el cuarto de máquinas para asegurar un rescate seguro.
-*   **Pulsador de bomberos:** Presente en ascensores de emergencia, se activa rompiendo un cristal y acciona un microrruptor. En ascensores eléctricos, si la cabina sube, se detiene en el siguiente piso; si baja, lo hace en la planta principal. Atiende llamadas internas, ignorando las externas.
-*   **Caja de llaves de emergencia:** Contiene las llaves de la sala de máquinas o de la puerta de planta. No deben estar al alcance de personal no autorizado para evitar manipulaciones indebidas o caídas por el hueco.
-*   **Mecanismos de seguridad:** Incluyen el interruptor de corte de emergencia (en el foso o parte superior de la cabina), que interrumpe el funcionamiento del ascensor si alguno de sus elementos de seguridad conectados en serie falla (por ejemplo, al abrir una puerta de planta). En ausencia de acceso al cuarto de máquinas, se pueden desconectar los fusibles del contador para cortar el suministro.
-*   **Faldones de cabina:** Chapas situadas bajo la puerta de cabina para cubrir el hueco del foso cuando el ascensor se detiene entre pisos. Pueden ser fijos o telescópicos, con una longitud total de 750 mm (200 mm mínimo para la parte fija) e incluyen una etiqueta de precaución para asegurar su extensión completa antes de extraer pasajeros.
-*   **Alumbrado de emergencia:** Obligatorio en cabina, se activa ante un fallo eléctrico. Funciona independientemente de los sistemas automáticos o diferenciales de alumbrado, lo que garantiza la iluminación incluso si estos fallan.
-*   **Tele-alarma / Servicio 24 horas:** Implementado obligatoriamente en España desde 1999, permite la comunicación entre la cabina y el exterior, a menudo con un servicio de asistencia 24 horas gestionado por el fabricante.
+Una mayor presión de vapor implica una mayor volatilidad del líquido.
 
-### Marco Normativo de los Aparatos de Elevación
+**c) Energía Mínima de Ignición (EMI o MIE)**
 
-La legislación en España es extensa y fundamental para la seguridad en ascensores:
-*   El **Real Decreto 2291/1985**, que aprueba el Reglamento de Aparatos de Elevación y Manutención (RAEM), define las características de los ascensores.
-*   La **inspección técnica periódica** es obligatoria para ascensores con velocidades inferiores a 0,15 m/s y es realizada por un Organismo de Control Autorizado. Los defectos graves deben corregirse en un plazo máximo de seis meses, o el aparato quedará fuera de servicio.
-*   Modificaciones significativas en los ascensores deben ser evaluadas según la normativa vigente.
-*   El RAEM ha sido modificado y desarrollado por normativas posteriores como el **Real Decreto 1314/1997** (que lo modifica), la **Resolución de 10 de septiembre de 1998** (que lo desarrolla), el **Real Decreto 57/2005** (que incrementa la seguridad del parque de ascensores), y el **Real Decreto 560/2010** (que adapta normas industriales a leyes de libre acceso a servicios).
-*   Para aparatos elevadores de propulsión hidráulica, la **Orden de 30 de julio de 1974** establece condiciones y normas de aprobación. Además, el **Código Técnico de la Edificación (CTE)** y la **Norma EN 81-28:2003** (relativa a alarmas a distancia) también son aplicables.
+Este parámetro cuantifica la energía mínima necesaria para iniciar la combustión de una mezcla inflamable. Varía según la concentración de combustible. Los valores más altos de EMI se encuentran cerca de la concentración estequiométrica, siendo aproximadamente 0,25 mJ para el butano a 1 atmósfera de presión. El hidrógeno presenta un valor inferior, de 0,017 mJ.
 
-El conocimiento profundo de estos aspectos es vital para los cuerpos de bomberos, permitiéndoles afrontar rescates en ascensores de forma segura, eficiente y conforme a la legalidad.
+La concentración de oxígeno y la presión influyen en la EMI; por ejemplo, un aumento del oxígeno reduce la EMI (de 0,26 mJ en aire a 0,002 mJ en oxígeno a 1 atmósfera de presión). Esto significa que la ignición del butano (0,25 mJ) es más sencilla que la del gas natural (0,28 mJ). Para prevenir igniciones, es crucial evitar la generación de cargas electrostáticas.
+
+### 2.4.3. Toxicología
+
+La toxicología se encarga de identificar y cuantificar los efectos nocivos derivados de la exposición a agentes físicos, sustancias químicas u otros incidentes. El nivel de riesgo potencial se expresa como:
+
+**Exposición + Toxicidad = Riesgo para la Salud**
+
+*   **Exposición:** Determinada por el tiempo y la concentración de la sustancia a la que una persona está expuesta.
+*   **Toxicidad:** Propiedad intrínseca de cada producto que mide su capacidad de causar daños inmediatos o acumulativos a un ser vivo.
+
+La acción tóxica de una sustancia depende de sus características, las condiciones ambientales y la vía de entrada al organismo. Los efectos pueden variar entre individuos y situaciones; una dosis pequeña puede ser inofensiva o terapéutica, mientras que una dosis grande puede ser letal.
+
+**a) Conceptos Clave en Toxicología:**
+
+*   **Dosis:** Cantidad de sustancia que afecta a un organismo.
+    *   **Dosis de Exposición:** Concentración del contaminante en el aire inhalado durante un periodo.
+    *   **Dosis Absorbida o Retenida:** Cantidad de sustancia presente en el cuerpo en un momento dado.
+*   **Umbral de Dosis:** Nivel por debajo del cual no se aprecian efectos.
+*   **Efectos Agudos:** Ocurren tras una exposición limitada y de corta duración (horas, días); pueden ser reversibles o irreversibles. Los efectos crónicos, resultantes de exposiciones prolongadas, no se consideran en esta categoría.
+*   **Dosis Letal 50 (DL50):** Dosis que causa la muerte del 50% de una población animal. Una DL50 baja indica una sustancia muy tóxica.
+*   **Dosis Efectiva 50 (DE50):** Dosis que produce un efecto específico en el 50% de los animales, sin causar la muerte.
+*   **NOEL (No Observed Effect Level) / NOAEL (No Observed Adverse Effect Level):** Nivel más alto de una sustancia que no produce efectos adversos. Requiere pruebas exhaustivas.
+*   **LOAEL (Lowest Observed Adverse Effect Level):** Dosis mínima necesaria para producir algún efecto.
+*   **Concentración Letal 50 (CL50):** Concentración inhalada que causa la muerte del 50% de una población en un tiempo dado (ej., 1 hora). Se expresa en partes por millón (PPM) para gases/vapores o en miligramos por metro cúbico (mg/m³) para polvos.
+*   **Partes por Millón (PPM):** Unidad de concentración, equivalente a 10.000 ppm = 1%. Utilizada para bajas concentraciones de contaminantes (agua/aire).
+*   **Dosis Máxima Tolerada (DMT):** Nivel de exposición que, aunque tóxico, no afecta significativamente la supervivencia.
+
+**b) Clasificación Toxicológica (Reglamento CLP):**
+
+La legislación comunitaria (Reglamento CE 1272/2008 CLP) clasifica las sustancias y preparados químicos según sus propiedades toxicológicas:
+
+*   **MUY TÓXICOS:** Pequeñas cantidades causan efectos agudos, crónicos o la muerte por inhalación, ingestión o contacto dérmico.
+*   **TÓXICOS:** Cantidades pequeñas causan efectos agudos, crónicos o la muerte por las vías de entrada.
+*   **NOCIVOS:** Cantidades no pequeñas causan efectos agudos, crónicos o la muerte por las vías de entrada.
+*   **CORROSIVOS:** Provocan destrucción de tejidos vivos al contacto.
+*   **IRRITANTES:** No corrosivos; causan inflamación en piel o mucosas tras contacto breve o repetido.
+*   **SENSIBILIZANTES:** Causan una reacción de hipersensibilidad (alergia, asma) tras inhalación o contacto dérmico.
+
+**c) Efectos Específicos sobre la Salud Humana:**
+
+*   **CARCINOGÉNICOS (cancerígenos):** Inducen o aumentan el cáncer por inhalación, ingestión o contacto dérmico.
+*   **MUTAGÉNICOS:** Inducen o aumentan alteraciones genéticas hereditarias por inhalación, ingestión o contacto dérmico.
+*   **TÓXICOS PARA LA REPRODUCCIÓN:** Causan efectos negativos no hereditarios en la descendencia, o deterioran la función reproductiva masculina o femenina, por inhalación, ingestión o contacto dérmico.
+
+**d) Efectos sobre el Medio Ambiente:**
+
+Las sustancias peligrosas para el medio ambiente pueden generar un peligro inmediato o futuro para uno o más de sus componentes al entrar en contacto con él.
+
+**e) Normativa y Estándares:**
+
+Las fichas de seguridad y detectores de gases se basan en normativas americanas para los niveles de toxicidad. El estándar sueco define:
+
+*   **Level Limit Value (LLV):** Concentración promedio máxima durante una jornada laboral completa.
+*   **Ceiling Limit Value (CLV):** Concentración máxima durante 15 minutos o periodos cortos.
+
+El estándar americano incluye:
+
+*   **TLV/STEL (Threshold Limit Value/Short Term Exposure Limit):** Límites de concentración para trabajos de 15 minutos, sin repetir más de 4 veces al día y con 60 minutos de recuperación. Si no se determina, se aplica 3 veces el valor TLV/TWA para intervalos de 30 minutos.
+*   **TLV/C (Threshold Limit Value/Ceiling):** Concentración que no debe ser excedida en ningún momento. Una exposición rápida y esporádica a este límite no causa daño. Si no se determina, se aplica 5 veces el TLV/TWA.
+*   **IPVS o IDLH (Immediately Dangerous to Life or Health):** Nivel de concentración que representa un peligro inmediato para la vida o la salud. Una exposición breve puede ser mortal o causar daños irreversibles. Si no se determina, se aplica 10 veces el TLV/TWA. Es el valor utilizado en detectores de gases.
+
+Como ejemplo, una concentración de CO2 del 1,5% en el aire ya puede aumentar el ritmo cardíaco, y al 4% existe un peligro inmediato para la vida y la salud.
+
+### 2.4.4. Otras Reacciones
+
+**a) Reactividad Química:**
+
+La reactividad de los elementos químicos determina su capacidad para reaccionar entre sí. En la tabla periódica, la reactividad de los metales aumenta de derecha a izquierda y de arriba hacia abajo, mientras que la de los no metales aumenta de izquierda a derecha y de arriba hacia abajo. Esta característica está ligada al número de electrones y su posición respecto al núcleo del átomo. Un número par de electrones en la órbita externa confiere estabilidad, mientras que un número impar indica reactividad.
+
+Las reacciones químicas a menudo se manifiestan con indicios físicos visibles, como cambios de color, formación de sólidos o burbujas, liberación o absorción de calor, e incluso generación de llamas.
+
+### 3. Sustancias Químicas, Residuos Tóxicos y Mercancías Peligrosas
+
+Actualmente, existen más de 9 millones de sustancias químicas. Estas sustancias mantienen una composición y propiedades químicas constantes, independientemente de su cantidad o tamaño. Se distinguen las sustancias simples (un solo elemento químico) y las compuestas (varios elementos, ej., sal disuelta en agua).
+
+Existen diferencias cruciales entre sustancias peligrosas, mercancías peligrosas y residuos tóxicos peligrosos, que impactan tanto en las consecuencias de un accidente como en los marcos normativos y las medidas de seguridad y métodos de identificación aplicables.
+
+El **Reglamento (CE) nº 1272/2008 del Parlamento Europeo y del Consejo (CLP)** define las sustancias peligrosas (o materias peligrosas) como "aquellos elementos o compuestos químicos nocivos o perjudiciales que, durante su fabricación, almacenamiento, transporte o uso, pueden generar o desprender humos, gases, vapores, polvos o fibras de naturaleza explosiva, inflamable, tóxica, infecciosa, radiactiva, corrosiva o irritante en cantidades que tengan probabilidad de causar lesiones y daños a las personas, al medio ambiente o a otros materiales". Existen más de 13.000 de estas sustancias.
+
+Las **mercancías peligrosas** son sustancias peligrosas cuyo transporte está regulado por acuerdos o reglamentos internacionales. No incluyen, por ejemplo, municiones tóxicas, pero el transporte de las autorizadas está sujeto a requisitos estrictos.
+
+La siguiente tabla resume los estándares internacionales para el transporte de mercancías peligrosas:
+
+| Normativa | Medio de Transporte |
+| :-------- | :------------------ |
+| ADR       | Carretera           |
+| RID       | Ferrocarril         |
+| ADN       | Navegación Interior |
+| IATA-OACI | Aviación            |
+| IMO-IMDG  | Marítima            |
+
+El ADR clasifica aproximadamente 3.000 sustancias como mercancías peligrosas. Se estima que se transportan alrededor de 17.000 sustancias químicas con diversas características y grados de peligrosidad.
+
+Según datos de la Confederación Española de Transporte de Mercancías (CETM), la distribución de los accidentes por electrocución según la forma de contacto es:
+
+*   Contacto directo: 48%
+*   Contacto indirecto: 35%
+*   Arco eléctrico: 17%
+
+Otros datos indican:
+*   Toxicidad: 35%
+*   Líquidos inflamables: 19%
+*   Gases: 19%
+*   Corrosivo: 12%
+*   Otros: 2%
+*   Resto de sustancias: 13%

@@ -1,79 +1,121 @@
-# Elementos Complementarios y de Acabado en Edificación
+## 9. Elementos Complementarios de la Edificación
 
-La edificación, entendida como una construcción fija elaborada con materiales resistentes para usos específicos, se configura a partir de la conjunción de tres clases de elementos constructivos: estructurales, complementarios y auxiliares. Los elementos **complementarios** son aquellos que, sin ser portantes, contribuyen a definir el espacio interior y a proveer el confort necesario para la habitabilidad, abarcando cubiertas, cerramientos exteriores e interiores, revestimientos y acabados, e instalaciones.
+### 9.1. Cubiertas
 
-## Cubiertas
-La **cubierta** es el conjunto de elementos constructivos, inclinados u horizontales, que limitan superiormente la edificación, proporcionando protección contra agentes meteorológicos y contribuyendo al confort interior.
-Sus funciones principales incluyen la **resistencia** a solicitaciones estructurales como el peso propio de sus componentes, sobrecargas por uso, acciones meteorológicas (nieve, viento, efectos térmicos) y sísmicas. Adicionalmente, actúa como **soporte** para elementos de cobertura como aislamientos, impermeabilizantes, barreras de vapor e instalaciones diversas (antenas, pararrayos, chimeneas, elementos de ventilación, accesos para conservación, climatización, colectores solares).
+Las cubiertas se definen como el conjunto de elementos de carácter inclinado u horizontal que, situados en la parte superior exterior de una edificación, proporcionan protección contra agentes meteorológicos y contribuyen al confort interior según el uso previsto del edificio.
 
-La geometría de la cubierta y sus elementos sustentantes, que conforman el **entramado inclinado**, dependen de la inclinación de sus planos. Las cubiertas se clasifican según su inclinación en **inclinadas** (tejados) o **planas** (terrazas, azoteas).
-Las **cubiertas inclinadas** se caracterizan por planos que facilitan la rápida evacuación del agua hacia el exterior, ya sea mediante aleros o canalones. Según el CTE DB HS1, deben tener una pendiente mínima del 5%. Un ejemplo común es la cubierta a varias aguas, que puede presentar variantes como las de mariposa (con limahoya en la cumbrera) o quebrantada (con diferentes pendientes).
-Por otro lado, las **cubiertas planas** son sensiblemente horizontales y recogen el agua hacia sumideros y bajantes. Aunque el CTE DB HS1 permite pendientes superiores en algunos casos, suelen ser inferiores al 5%. Su diseño posibilita el desarrollo de actividades en su superficie, como el tránsito de personas o vehículos o la instalación de jardineras. Requieren pendientes mínimas hacia los sumideros, que varían según su uso: transitable (solado fijo o flotante, capa de rodadura para vehículos) o no transitable (grava, lámina autoprotegida) y ajardinada (tierra vegetal).
+Las cubiertas cumplen las siguientes funciones principales:
+*   **Estanqueidad:** Deben ser estancas a la lluvia o nieve y disponer de un sistema de evacuación de agua.
+*   **Barrera contra la humedad:** Impedir el paso de vapor de agua.
+*   **Aislamiento térmico:** Proteger contra el frío y el calor.
+*   **Aislamiento acústico.**
+*   **Resistencia al fuego:** Prevenir la producción y propagación del fuego.
 
-Además de la inclinación, las cubiertas se distinguen por la **disposición del aislante**:
-*   En la **cubierta tradicional**, el impermeabilizante se sitúa sobre el aislante.
-*   En la **cubierta invertida**, el aislamiento se coloca sobre el impermeabilizante para protegerlo, siendo esencial el uso de aislantes no degradables debido al contacto con agua y humedad. Sobre estos se dispone una capa de acabado o protección.
+Otras funciones incluyen servir de soporte para instalaciones como pararrayos y antenas.
 
-Respecto al **comportamiento higrotérmico**, las cubiertas pueden ser:
-*   **Frías:** Presentan una cámara de aire entre el aislamiento y el impermeabilizante, lo que favorece la ventilación, como en las "cubiertas a la catalana".
-*   **Calientes:** Carecen de cámara de aire, con el aislamiento e impermeabilizante en contacto, como en las "cubiertas a Deck".
+El Código Técnico de la Edificación (CTE DB HS) especifica los siguientes elementos de cobertura:
 
-Los **elementos singulares** de las cubiertas, como antepechos, lucernarios, sumideros, canaletas, juntas de dilatación, albardillas, chimeneas y otras instalaciones, representan puntos críticos donde se debe asegurar la estanqueidad.
+*   **Sistema de formación de pendientes:** Elemento cuya única función es proporcionar la inclinación necesaria para la evacuación de agua. Si la estructura de cubierta no lo permite, se construye. Para su ejecución, se emplea hormigón aligerado para pendientes suaves y tableros de rasilla, madera o entramado metálico para pendientes pronunciadas.
+*   **Aislante térmico:** Capa destinada a mantener el confort térmico. Si se coloca expuesto al agua y humedad, debe ser no degradable. Los modelos más comunes incluyen lana de roca, lana de vidrio, poliestireno expandido (porexpan), espuma elastomérica (coquillas) y poliuretano extrusionado. Sus conductividades térmicas (W/m K) son:
+    *   Corcho: 0,04-0,30
+    *   Fibra de vidrio: 0,03-0,07
+    *   Poliuretano: 0,018-0,025
+*   **Capa de impermeabilización:** Lámina para evitar la entrada de agua exterior. Según el CTE DB HS, se distinguen materiales como bituminosos, policloruro de vinilo (PVC), etileno propileno y poliolefinas.
+*   **Capa de protección:** Depende del uso de la cubierta.
+    *   **Cubierta no transitable:** Grava, solado fijo o flotante, mortero, tejas.
+    *   **Cubierta transitable para peatones:** Solado fijo o flotante.
+    *   **Cubierta transitable para vehículos:** Capa de rodadura.
+*   **Barrera de vapor (BV):** Lámina para evitar la condensación de vapor de agua en el interior de los elementos constructivos. Se coloca en la cara caliente del cerramiento y debe controlarse que no haya roturas. Los materiales aislantes sensibles a la humedad a menudo incorporan esta barrera, requiriendo solo el sellado de juntas.
+*   **Cámara de aire ventilada:** Con doble función de eliminar humedades y aislar térmicamente. Se sitúa en el lado exterior del aislante térmico y se ventila. La relación entre su área efectiva (Ss en cm²) y la superficie de cubierta (Ac en m²) debe cumplir 30 > Ss/Ac > 3.
 
-## Cerramientos Exteriores
-Los **cerramientos exteriores** son los elementos de paramento que conforman la envolvente externa de la edificación, con la función primordial de proteger el interior de agentes externos como temperaturas extremas, agua, viento y ruido. Su diseño y características dependen de su uso y orientación.
-Estos se clasifican en **pesados** o **ligeros** en función de su peso por metro cuadrado y espesor.
+Las **cubiertas planas** (terrazas o azoteas), formadas por planos horizontales o ligeramente inclinados, recogen el agua hacia sumideros para su evacuación. Según el CTE DB HS1, requieren pendientes mínimas. Su principal ventaja es que permiten actividades en su superficie.
 
-### Cerramientos Pesados
-Con un peso superior a 100 kg/m², suelen tener un espesor considerable.
-*   **De una hoja:** Fachadas tradicionales, comunes hasta el siglo XIX, construidas con materiales como piedra (mampostería, sillería), arcilla (tapia) o cerámica. Presentan mínima impermeabilidad, elevada condensación superficial y bajo aislamiento térmico, aunque una alta inercia térmica que ayuda a mantener la temperatura.
-*   **Trasdosados:** Usuales en la construcción actual, carecen de capacidad estructural y se basan en la superposición de capas de diferentes materiales para mejorar el aislamiento térmico.
-    *   Se componen de un **muro exterior** (generalmente cerámico, de 12-14 cm de espesor, con o sin función estructural), un **aislamiento térmico** (de 7-10 cm de espesor, con o sin cámara de aire, con una conductividad térmica < 0,08 W/m·°C) y un **tabique interior**.
-    *   La gestión de **condensaciones** requiere considerar el tipo de aislante; los degradables necesitan una barrera de vapor. Las **cámaras de aire** pueden ser estancas en climas fríos y secos, o ventiladas en climas cálidos y húmedos.
-*   **Tabiques interiores:** Comúnmente de material cerámico, funcionan como cerramiento de la cámara de aire y soporte para acabados interiores. La interrupción de la cámara en puntos como forjados o huecos puede generar **puentes térmicos**, afectando el aislamiento.
+Sus elementos específicos son:
+*   **Antepecho (1):** Parte maciza inferior que se eleva desde el piso para protección contra caídas, coronada por una pieza vierteaguas.
+*   **Lucernario (2):** Similar a los de cubiertas inclinadas, suele ser un punto de generación de humedades en cubiertas planas.
+*   **Sumidero (3):** Puntos de recogida de agua, situados en la cota más baja de los cuarteles/paños.
+*   **Cuartel o paño (4):** Equivalente a los faldones de las cubiertas inclinadas.
+*   **Canaletas (5):** Sumideros lineales para recogida de agua.
+*   **Junta de dilatación (6):** Discontinuidad estructural para evitar deformaciones térmicas. La lámina impermeabilizante debe respetar estas juntas.
+*   **Albardilla (7):** Pieza de coronación de un muro para desviar aguas pluviales y evitar su penetración.
+*   **Chimeneas e instalaciones (8):** Elementos de la edificación que atraviesan o se apoyan en la cubierta.
 
-### Cerramientos Ligeros
-Con un peso inferior a 100 kg/m² y un espesor reducido (10-15 cm), consisten en una retícula de elementos verticales y horizontales anclados a la estructura y complementados con paneles de baja densidad.
-*   Se caracterizan por su anclaje (colgados o apoyados), nula estabilidad estructural intrínseca, bajo aislamiento acústico y térmico, buena iluminación y alta velocidad de montaje. Su peso típico oscila entre 50 y 75 kg/m².
-*   Las tipologías más frecuentes son:
-    *   **Muro cortina:** Fachadas ligeras suspendidas de los forjados, ofreciendo continuidad vertical y compuestas por elementos de aluminio, acristalamientos y zonas opacas.
-    *   **Fachada panel:** Fachadas ligeras apoyadas en cada forjado, interrumpiéndose en cada nivel y formadas por paneles independientes.
-    *   **Fachadas ventiladas o trasventiladas:** Similares a los muros cortina, pero con montantes anclados a muros de fábrica y piezas de cerramiento pesadas (piedra o cerámica). Permiten ventilación a través de pequeñas separaciones, sin necesidad de juntas estancas.
+Según la **disposición del aislante**, las cubiertas se clasifican en:
+*   **Tradicionales:** El impermeabilizante se ubica encima del aislante.
+*   **Invertidas:** El aislante se coloca sobre la capa impermeabilizante para protegerla. Sobre ambas se dispone la capa de acabado/protección. Requiere aislantes no degradables en contacto con agua y humedad.
 
-## Cerramientos Interiores
-Los **cerramientos interiores** son elementos constructivos como divisiones, tabiquería o particiones que, apoyándose en la estructura (forjados, fachadas), cierran, separan o dividen los espacios interiores. Generalmente son planos, verticales y no tienen función estructural portante, aunque algunos pueden ofrecer aislamiento térmico.
-Se distinguen dos tipologías principales:
+En función del **comportamiento higrométrico**, se distinguen:
+*   **Cubiertas frías:** Poseen una cámara de aire entre el aislamiento y el impermeabilizante. Un ejemplo son las "cubiertas a la catalana", que son ventiladas y atenúan las temperaturas.
+*   **Cubiertas calientes:** No tienen cámara de aire, con aislamiento e impermeabilizante en contacto. Ejemplo: "Cubiertas a Deck".
 
-*   **Tabiquería húmeda:** Métodos tradicionales que utilizan conglomerantes y agua para unir piezas.
-    *   Ventajas: Mano de obra no especializada, uso de materiales básicos y bajo costo.
-    *   Inconvenientes: Genera abundantes escombros, tiene tiempos de ejecución lentos debido al fraguado y ofrece acabados más toscos.
-    *   Incluye **muros conformados** (hormigón armado con refuerzos en huecos) y **muros de fábrica** (pequeños elementos prefabricados unidos con aparejo).
-*   **Tabiquería seca:** Producto de la industrialización, reemplaza los componentes húmedos por piezas prefabricadas.
-    *   Ventajas: Requiere mano de obra especializada, pero acelera los tiempos de ejecución, reduce escombros y permite acabados de alta perfección.
-    *   Incluye **trasdosados** (directos, semidirectos o autoportantes sobre entramado, como revestimiento de muros exteriores o medianeros) y **tabiques de cartón yeso** (estructuras metálicas con placas).
-    *   Los tabiques de cartón yeso se clasifican según el tipo de yeso y sus propiedades: N (normal), FOC (resistente al fuego), WA (resistente al agua), FON (aislante acústico) y TRILLAJE (alma celular).
+Los **elementos singulares** de las cubiertas son puntos críticos para la entrada de agua, como barandillas, sumideros, juntas de dilatación y antenas.
 
-## Revestimientos y Acabados
-Los **revestimientos y acabados** son elementos superficiales que dotan de continuidad a la edificación y proporcionan protección térmica, acústica y contra agentes atmosféricos. Su principal función es proteger los elementos constructivos subyacentes de la acción del viento, el agua, las reacciones químicas y los cambios de temperatura, a la vez que ofrecen resistencia frente a posibles desprendimientos. La correcta elección y mantenimiento son cruciales para su durabilidad.
+### 9.2. Cerramientos Exteriores
 
-Se distinguen dos tipos principales según su aplicación:
-*   **Acabados continuos:**
-    *   **A base de cal:** Incluyen el **encalado** (cal y agua líquida, como pintura), el **revoco** (cal, agua y arena, formando un mortero de más de tres capas), la **jabelga** (cal, agua y polvo de mármol/marmolina, como pintura) y el **estuco** (jabelga con mayor proporción de mármol/marmolina o arena, de consistencia pastosa).
-    *   **A base de yeso:** Comprenden los **guarnecidos** (yeso negro rugoso, primera capa de 10-12 mm de espesor en paramentos interiores, mejorando aislamiento acústico, térmico y resistencia al fuego) y los **enlucidos** (yeso blanco liso, capa de terminación de 1-3 mm sobre el guarnecido, usualmente pintada).
-    *   **A base de cemento:** El **enfoscado** es un acabado de mortero de cemento o bastardo, de 2-3 mm de espesor, utilizado como base o para regularizar superficies.
-    *   **Otros materiales:** Se encuentran los **morteros monocapas**, que son compuestos hidráulicos con áridos y agua, a menudo con resinas epoxi o componentes textiles para refuerzo.
-*   **Acabados discontinuos:**
-    *   **Alicatado:** Revestimiento de paramentos con azulejos (cerámica, ladrillo vidriado) de cara esmaltada, impermeables y escurridizos. Con espesores entre 3 y 15 mm. No son aptos para suelos.
-    *   **Chapados:** Verticales, con placas de piedra natural (pizarra, granito) de dimensiones fijadas por proyecto. Las **plaquetas** miden menos de 61 cm y hasta 12 mm de espesor, mientras que las **baldosas** superan los 12 mm de espesor.
-    *   **Tablero en bruto:** Producto semielaborado de superficie plana con aristas sin acabar, obtenido por aserrado o partición.
+Los cerramientos exteriores son elementos de paramento en la envolvente externa del edificio, diseñados para proteger el interior de agentes externos como temperaturas (frío o calor), agua (en sus estados líquido, sólido o gaseoso) y ruidos. Constituyen la "piel" exterior de la edificación, siendo las fachadas su componente principal. Las cubiertas se consideran la 5ª fachada, pero se tratan aparte por sus particularidades constructivas.
 
-## Instalaciones de Edificios
-Las **instalaciones de edificios** son el conjunto de redes y equipos fijos que suministran y operan los servicios esenciales para el funcionamiento y habitabilidad de las edificaciones, distribuyendo o evacuando materia y energía. El Código Técnico de la Edificación (CTE) en sus Documentos Básicos HS (Salubridad) y HE (Ahorro de Energía) regula ampliamente estas instalaciones.
+El diseño y características de los cerramientos están condicionados por su uso y orientación.
 
-Los bomberos deben centrarse en las **instalaciones generadoras de emergencias**, que incluyen:
-*   **Agua fría:** Red canalizada para consumo humano, con caudales y presiones adecuadas. Su legislación se recoge en el CTE DB HS-4. Se distinguen redes con contador único o divisionarios. Los elementos básicos incluyen la acometida, red general, instalaciones particulares y complementarias. Los equipos de corte y maniobra incluyen llaves de toma, corte general, contadores, paso y seccionamiento. Las tuberías de agua potable se señalizan en verde oscuro o azul, y las no potables con un símbolo distintivo. El riesgo principal es la inundación, con especial atención a zonas con electricidad.
-*   **Agua caliente sanitaria (ACS):** Instalación de agua que se calienta para consumo humano, regulada también por el CTE DB HS-4. Las redes se clasifican por su punto de inicio y fin (impulsión y retorno). Incluyen acometida de AFCH, aparatos de generación (calderas, intercambiadores) y acumulación (depósitos), y elementos terminales (grifos, duchas). Los circuitos de retorno mantienen la temperatura. Los equipos de corte y maniobra cuentan con válvulas automáticas y manuales. Los riesgos incluyen inundaciones y quemaduras por altas temperaturas (hasta 80°C).
-*   **Saneamiento:** Conjunto de instalaciones para la extracción de aguas residuales y pluviales, regulado por el CTE DB HS 5. Las redes se clasifican según la naturaleza de las aguas (negras, blancas o pluviales) y el sistema de canalización (unitario, separativo, semiseparativo). Los elementos básicos son redes de pequeña evacuación, bajantes y colectores horizontales. Los elementos visitables, como sifones individuales y botes sifónicos, así como arquetas y pozos de registro, son puntos clave de intervención. Las fosas sépticas, sistemas de decantación y fermentación, son una alternativa al alcantarillado. Los riesgos en intervenciones son asfixia por gases tóxicos o por falta de oxígeno, requiriendo el uso de ERA.
-*   **Electricidad:** Las instalaciones de enlace unen la red de distribución con las instalaciones interiores o receptoras, reguladas por el Reglamento Electrotécnico de Baja Tensión (REBT). Se clasifican por el grado de electrificación (básico o elevado), que determina la potencia mínima y los circuitos independientes. Los elementos incluyen la acometida, la Caja General de Protección (CGP) con fusibles y el inicio de la propiedad, la Línea General de Alimentación (LGA) que enlaza la CGP con la centralización de contadores, y la Derivación Individual de abonado con su cuadro de mando y protección (ICP, IGA, Diferencial, PIAs). La toma de tierra es esencial para la seguridad. Los riesgos son tetanización, electrocución e incendio por cortocircuito.
-*   **Instalaciones receptoras de combustibles gaseosos:** Reguladas por el RD 919/2006. Las redes se dividen en alimentadas y no alimentadas desde la red de distribución. Los elementos básicos incluyen el almacenamiento (envases/depósitos), red de distribución, acometida y instalación interior. Los equipos de maniobra son llaves de acometida, edificio, abonado, montante colectivo, contador, vivienda/local privado, regulador y aparato individual, así como llaves de seccionamiento. Otros equipos son los envases móviles (hasta 3000 litros) y depósitos fijos (hasta 2000 m³). Los riesgos principales son combustión (explosiones y deflagraciones), fugas y asfixia.
-*   **Instalaciones petrolíferas para uso propio:** Reguladas por el RD 2085/1994. Incluyen almacenamiento (tanque/depósito/recipiente fijo o móvil), red de distribución, acometida y estación de bombeo. Las llaves de reparto, colector, ramal, columna, contador y aparato permiten la maniobra. Los riesgos son derrame y combustión, con emisión de vapores asfixiantes o tóxicos.
+Las **características generales** incluyen:
+*   **Aislamiento térmico:** Función principal para el confort interior. Depende de:
+    *   **Transmisión térmica:** Capacidad del material para transferir calor.
+    *   **Inercia térmica:** Capacidad para mantener el calor, a mayor densidad, mayor inercia.
+*   **Condensación Superficial Interna:** Fenómeno que ocurre cuando la temperatura superficial interior de un cerramiento es igual o inferior al punto de rocío del aire.
+*   **Estanqueidad:** Impermeabilidad total frente a la lluvia o nieve.
+
+Se distinguen dos **tipologías básicas** de cerramientos exteriores:
+*   **Cerramientos pesados:** Aquellos con un peso medio (macizo y hueco) superior a 100 kg/m².
+*   **Cerramientos ligeros:** Fachadas con elementos de bajo peso (inferior a 100 kg/m²) y pequeño espesor (10-15 cm).
+
+#### 9.2.1. Cerramientos Pesados
+
+a) **Cerramiento de una hoja**
+    *   **Definición:** Fachadas tradicionales, muy comunes hasta el siglo XIX, caracterizadas por un gran espesor. Se fabricaban con piedra (mampostería o sillería), arcilla (muro de tapia), cerámica o combinaciones de estos.
+    *   **Características:**
+        *   **Impermeabilidad:** Mínima, dependiente de la unión de las piezas de fábrica.
+        *   **Condensación superficial:** Elevada.
+        *   **Aislamiento térmico:** Bajo, sin cámara de aire. Se calientan con dificultad en invierno pero mantienen la temperatura en verano debido a su inercia térmica.
+
+b) **Cerramiento trasdosado**
+    *   **Definición:** Cerramiento de dos hojas, muy utilizado en la construcción actual y generalmente sin capacidad estructural. Se basa en la superposición de varias capas con distintas propiedades para actuar como multibarrera frente a agentes meteorológicos y la pérdida de confort. Mejora significativamente el aislamiento térmico.
+    *   **Elementos:** Se compone de un muro exterior, un aislamiento y un tabique interior.
+        *   **Muro exterior:**
+            *   **Material:** Comúnmente cerámico (fábrica), con un espesor mínimo entre 12 y 14 cm.
+            *   **Función estructural:** Puede o no tenerla, aunque generalmente no la tiene.
+            *   **Impermeabilización:** Debe estar garantizada desde su cara exterior.
+            *   **Acabados:** Puede ser de cara vista o con revestimientos como revoco, mortero, estucado o aplacado de piedra.
+        *   **Aislamiento térmico:**
+            *   **Definición:** Material dispuesto en los cerramientos exteriores para crear una barrera de calor entre el espacio exterior y el interior.
+            *   **Espesor medio:** 7-10 cm. Puede incluir una cámara de aire y el material aislante.
+            *   **Ubicación:** Comúnmente en la parte central del cerramiento, utilizando un material que prevenga la variación térmica.
+            *   **Características aislantes:** Un material es aislante si su conductividad térmica (λ) es inferior a 0,08 W/m·°C. Ejemplos de conductividad térmica incluyen corcho (0,04-0,30 W/m K), fibra de vidrio (0,03-0,07 W/m K) y poliuretano (0,018-0,025 W/m K).
+            *   **Condensaciones:** Es crucial evitar condensaciones internas. Se debe colocar una barrera de vapor en el lado caliente del aislamiento (en España, junto a la hoja interior). Los aislantes degradables se arruinan con el contacto con el agua y deben ser reemplazados. Los aislantes no degradables pueden aplicarse indistintamente en la cara interna del muro exterior o del tabique, sin riesgo de perder capacidad aislante.
+            *   **Ventilación de cámaras de aire:** Las cámaras pueden ser estancas (climas fríos y secos) o ventiladas (climas cálidos y húmedos), dependiendo de las condiciones climáticas.
+        *   **Tabique interior:**
+            *   **Material:** Frecuentemente cerámico.
+            *   **Funciones:** Constituir el cerramiento interior de la cámara de aire y servir de soporte para el acabado interior (enlucido, alicatado, revoco, chapado de madera).
+            *   **Problemas:** La interrupción de la cámara en puntos como encuentros de forjados con la estructura o huecos de puertas y ventanas genera puentes térmicos, lo que aumenta el gasto energético y propicia condensaciones.
+
+c) **Tabiques pluviales**
+    *   **Definición:** Sistema constructivo para impermeabilizar y aislar paredes medianeras laterales exteriores que han quedado expuestas a los agentes meteorológicos debido a la demolición de una edificación colindante.
+    *   **Características:** Una medianería de tabique pesado de una sola hoja suele carecer de impermeabilización. Para su protección, se construye una segunda hoja paralela con una cámara de aire intermedia.
+    *   **Elementos:**
+        *   **Hoja de protección exterior:** Puede ser de ladrillo cerámico, bloque, placas de fibrocemento o plancha prelacada, fijada al muro soporte directamente o mediante una estructura portante.
+        *   **Cámara de aire:** Espacio vacío o con masa de aire entre las dos hojas del muro. Evita la penetración de humedad y genera condensaciones en el exterior. Es común en zonas costeras con altas temperaturas y humedad, y suele tener orificios de ventilación.
+        *   **Aislamiento:** Si se dispone, se coloca adherido a la cara externa del muro soporte para evitar puentes térmicos. El material suele ser proyectado para evitar anclajes a la fachada.
+
+Los **encuentros de las fachadas con los forjados** son puntos frecuentes de condensación por "puentes térmicos". Existen dos modalidades básicas para su ejecución:
+*   **Hoja exterior por delante del canto del forjado:** La fachada pasa por delante del canto del forjado y se ancla a la estructura.
+*   **Hoja exterior apoyada en el canto del forjado:** La fachada se apoya en el canto del forjado y utiliza angulares para el arranque de la fábrica.
+
+#### 9.2.2. Cerramientos Ligeros
+
+*   **Definición:** Retícula de elementos constructivos verticales y horizontales conectados y anclados a la estructura del edificio. Se complementa con paneles de baja densidad para formar una superficie continua que delimita el espacio interior.
+*   **Características:**
+    *   **Anclaje:** Pueden ser colgadas o apoyadas.
+    *   **Estabilidad estructural:** Nula.
+    *   **Aislamiento acústico:** Malo (poca densidad), por lo que no se usan en edificios residenciales.
+    *   **Aislamiento térmico:** Malo, lo que resulta en un alto consumo de calefacción y aire acondicionado.
+    *   **Iluminación:** Muy buena.
+    *   **Montaje:** De gran velocidad, lo que los hace ideales para la construcción de torres y espacios públicos.
+    *   **Peso:** Entre 50 y 75 kg/m².

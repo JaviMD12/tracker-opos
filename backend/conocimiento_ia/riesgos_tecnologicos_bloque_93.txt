@@ -1,61 +1,145 @@
-# Técnicas de Intervención en Colapsos Estructurales y Manejo de Cargas
+### Evaluación de Arbolado en Situación de Peligro: Indicadores Clave
 
-La intervención en situaciones de colapso estructural y el manejo de cargas exigen por parte de los equipos de emergencia un conocimiento exhaustivo de los materiales, equipos y técnicas disponibles, así como de las medidas de seguridad asociadas. Una planificación meticulosa y la adecuada selección de herramientas son cruciales para garantizar la eficacia y la seguridad de las operaciones de rescate.
+La identificación del riesgo de colapso estructural en árboles se puede categorizar mediante diversos parámetros y síntomas. La siguiente tabla resume los niveles de riesgo según las características del árbol:
 
-## Equipos de Protección Individual (EPI) y Maquinaria
+| Características del Árbol Inclinado                                     | Nivel de Riesgo          |
+| :---------------------------------------------------------------------- | :----------------------- |
+| Defecto severo en la base del tronco o en el cuello radicular           | Riesgo alto de fallo     |
+| Grietas en espiral (cuernos de carnero) o por esfuerzo cortante         | Riesgo inminente de fallo |
+| Presencia de tensión o grietas horizontales en la parte superior del tronco | Riesgo inminente de fallo |
 
-El equipamiento de protección individual (EPI) es fundamental en cualquier intervención de emergencia, y su elección se adapta a la naturaleza de la tarea y la maquinaria empleada. Para trabajos de estabilización de estructuras, el EPI mínimo obligatorio incluye **botas de seguridad** (con caña alta, puntera antideformación de acero y plantilla antiperforación), **pantalones**, **camisa**, **chaqueta**, **casco** y **guantes**. En situaciones específicas, como aquellas con daños por agua, socavones o incendios, pueden requerirse protecciones adicionales como **arneses de seguridad**, **mascarillas**, **equipos de respiración autónoma (ERA)**, **trajes antisalpicaduras** y **guantes de látex**, además de **vadeadores** para ambientes húmedos. Es esencial que los guantes cumplan la normativa EN388 con niveles mínimos de abrasión 4, corte 5, desgarro 4 y perforación 1, y que el casco se ajuste a la EN397, incorporando un sistema de fijación completo (cierre de carraca y barboquejo de tres puntos) y protección ocular integrada. Las chaquetas y pantalones deben ser multi-riesgo y contar con refuerzos en codos, hombros y espalda.
+#### Resumen de la Evaluación del Arbolado Peligroso
 
-En cuanto a la maquinaria y equipos, los grupos especializados en búsqueda y rescate en estructuras colapsadas (BREC o USAR) utilizan técnicas y procedimientos adaptados a catástrofes internacionales, empleando material indispensable para despliegues rápidos, incluso a pie. Dentro del equipamiento estándar disponible en los cuerpos de bomberos, se distinguen varios tipos:
+Para abordar eficazmente incidentes con arbolado, es crucial analizar la situación y los recursos disponibles. La estrategia táctica óptima se define evaluando la información y los riesgos en relación con los beneficios esperados.
 
-En primer lugar, los **equipos de tracción y arrastre** comprenden el **tractel**, un mecanismo manual con cable de acero, y el **cabrestante**, que funciona con un mecanismo eléctrico y cable de acero o plasma.
+La siguiente tabla detalla los riesgos de fallo estructural derivados de la descomposición de la madera, según la presencia de defectos:
 
-Por otro lado, los **equipos de elevación** incluyen **cojines neumáticos** para levantar cargas, **cilindros hidráulicos** para movimientos controlados, **palancas** para aplicar fuerza mecánica, y **eslingas** y **cuerdas** para tracción y sujeción.
+| Parámetro                     | Condición de Riesgo ALTO                                                                                                    | Condición de Riesgo MODERADO                                                                                               |
+| :---------------------------- | :-------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------- |
+| **Apariencia General del Árbol** | Copa o árbol muerto.                                                                                                        |                                                                                                                            |
+| **Tronco**                    | La descomposición afecta más del 40% del perímetro, rama o cuello; el espesor de la pared residual es menor del 33% del radio; el tronco tiene una abertura mayor del 30% de su perímetro y un grosor de la pared residual menor del 66,66% del radio; troncos con grietas que los separan en dos; partes del tronco con múltiples grietas y descomposición. | La descomposición afecta entre el 25% y el 40% del perímetro, rama o cuello; el espesor de la pared residual está entre el 33,33% y el 66,66% del radio, y el tronco tiene aberturas menores del 30% del perímetro; troncos de árboles con una grieta simple y descomposición. |
+| **Ramas**                     | Ramas grandes con descomposición, grietas de origen epicórmico o adventicio en troncos descompuestos; ramas colgadas o muertas. | Ramas o troncos codominantes con corteza incluida.                                                                         |
+| **Chancro**                   | Afecta más del 40% del perímetro.                                                                                           | Afecta entre el 25% y el 40% del perímetro.                                                                                |
+| **Inclinación**               | Árboles con inclinación superior a 40º; árboles inclinados con una grieta en su tronco; árboles inclinados con descomposición o chancro en la parte basal (pie o base del fuste); árbol inclinado con grieta horizontal en la parte alta de la inclinación o abultamientos de corteza y madera en la parte baja. | Ramas con forma de arpa en flexión o torsión; ramas grandes horizontales con varias ramas verticales.                       |
+| **Defectos en Raíces**        | Árbol inclinado con evidencias recientes de roturas, movimientos o abultamientos en el suelo; más del 40% de las raíces existentes dentro del radio crítico (CRR) están dañadas, descompuestas, cercenadas o muertas; raíces estrangulantes que oprimen más del 40% de su perímetro. | Menos del 40% de las raíces existentes dentro del radio crítico (CRR) están dañadas, descompuestas, cercenadas o muertas. |
 
-Para las **operaciones de corte**, se dispone de **motosierras**, **sierras circulares** (con discos o cadenas de diamante para materiales más duros) y **equipos de oxicorte**.
+### Consideraciones Cruciales para Intervenciones con Arbolado Peligroso
 
-Finalmente, los **equipos de perforación** suelen consistir en **martillos rotativos**, esenciales para abrir huecos en estructuras.
+Para operar de manera efectiva y segura en situaciones que involucran arbolado, es esencial tener en cuenta los siguientes puntos:
 
-### Medios Técnicos Especializados de ONGs Internacionales
+1.  **Evaluación Integral**: Es fundamental conocer el estado, características y técnicas de apeo y poda, así como las herramientas adecuadas, para actuar con la máxima eficiencia y el menor riesgo posible.
+2.  **Estabilidad Estática**: Un árbol se considera estáticamente seguro si existe un equilibrio entre las cargas que actúan sobre él, las propiedades mecánicas (dureza y elasticidad) de sus materiales y la geometría de su estructura.
+3.  **Tipologías de Intervención**: Las operaciones sobre árboles pueden clasificarse en apeo, poda, trabajos en incendios forestales, gestión de árboles caídos o desbroce con motosierra.
+4.  **Fases de Apeo y Derribo**: Generalmente, se siguen estos pasos:
+    *   **Creación del Perímetro de Seguridad**: Evaluar los riesgos potenciales y establecer una distancia segura, que debe ser al menos dos veces y media la altura del árbol en pie.
+    *   **Preparación de la Zona**: Despejar el entorno y considerar las condiciones que podrían afectar el apeo.
+    *   **Corte de Dirección**: Determinar la trayectoria de caída del árbol.
+    *   **Corte de Derribo**: Controlar la velocidad de caída.
+    *   **Trabajos Post-Caída**: Retirar el árbol si su ubicación lo requiere.
+5.  **Modificación de Técnicas de Derribo**: En ciertas situaciones, puede ser necesario ajustar la técnica para controlar la trayectoria de caída y evitar reacciones no deseadas, como en árboles con gran diámetro, inclinación excesiva, pendiente pronunciada o para alterar la caída natural.
+6.  **Retirada de Árboles Caídos**: Una vez que el árbol ha caído, si su ubicación representa un peligro, es necesario tronzarlo o desrramarlo con motosierra para retirarlo.
+7.  **Evaluación de Árboles Potencialmente Peligrosos**: Antes de intervenir en un árbol que parece peligroso, es crucial determinar si el riesgo es real.
+8.  **Detección de Defectos**: Los problemas en los árboles a menudo pueden identificarse visualmente (daños físicos, heridas, pudriciones) y revelan su estado de salud y riesgo potencial.
+    *   **Descomposición de la Madera**: Es uno de los defectos más comunes y una causa habitual de fallo estructural. Se distinguen pudriciones blanca (afecta lignina), marrón (afecta celulosa) y blanda. No siempre es visible.
+    *   **Cuerpos Fructíferos**: La presencia de hongos o champiñones en el tronco, ramas o raíces indica un grado de descomposición interna. El tipo de hongo puede sugerir el estado de la pudrición.
+    *   **Otros Indicios de Descomposición**: Heridas cercanas o grietas, uniones con corteza incluida, o filtraciones de agua de lluvia, huecos en el tronco o abultamientos.
+9.  **Evaluación de Raíces**: El estado de las raíces se valora por la copa del árbol y la presencia de cuerpos fructíferos en la base. Las obras o excavaciones cercanas pueden afectar su estabilidad. Para evaluar el daño de las raíces, se calcula el radio crítico de raíces (CRR), multiplicando el diámetro del árbol por 18.
+10. **Intervenciones en Incendios Forestales o Urbanos**: Es probable que sea necesario realizar el apeo de árboles antes o después de un incendio para controlar el avance del fuego o mitigar los riesgos posteriores.
+11. **Procedimiento de Intervención para Apeo o Poda**: Incluye:
+    *   **Valoración**: Analizar la situación de riesgo y su alcance.
+    *   **Perímetro de Seguridad**: Delimitar la zona de trabajo para el personal interviniente.
+    *   **Eliminación de Riesgos**: Retirar los restos del árbol si es necesario, priorizando el apeo o la poda.
+    *   **Fin de la Intervención**: Eliminar el diámetro de seguridad y notificar a los responsables sobre los riesgos residuales.
 
-Las organizaciones no gubernamentales (ONGs) que intervienen en grandes catástrofes internacionales, como los equipos BREC, disponen de herramientas tecnológicas avanzadas para la localización de víctimas y la evaluación del estado estructural. Los **geófonos** son dispositivos electrónicos que amplifican sonidos, permitiendo identificar su dirección en un radio de diez metros, gracias a sensores electromagnéticos, de reluctancia, de capacidad o piezométricos que traducen las vibraciones en señales eléctricas visualizables en pantalla. Estos equipos también suelen integrar auriculares y micrófonos para la comunicación directa con las víctimas.
+### Equipamiento Técnico para la Localización de Víctimas
 
-Asimismo, las **cámaras térmicas** son vitales, ya que captan la radiación infrarroja emitida por los cuerpos, incluso en la oscuridad, generando imágenes térmicas que permiten evaluar la temperatura superficial de objetos o el nivel de líquidos en contenedores, aunque no pueden ver a través de las estructuras.
+El equipo técnico para la detección de víctimas en estructuras colapsadas varía según la especialización del cuerpo de bomberos. Incluye:
 
-Adicionalmente, se emplean **videocámaras** con varillas telescópicas para acceder a espacios reducidos, y **microcámaras de visión normal o nocturna** (de unas 5 pulgadas, con función LEM para imágenes claras en baja luminosidad) para inspección visual. Aunque menos sofisticados, los **fonendoscopios** amplifican los sonidos y, como método rudimentario, los **bidones de agua** pueden utilizarse para amplificar sonidos, si bien con un margen de error considerable.
+*   **Geófonos**: Aparatos electrónicos que amplifican sonidos, permitiendo identificar la dirección de la respuesta de víctimas en un radio de hasta 10 metros. Un sensor transmite la señal a un convertidor que la muestra en pantalla. También permiten la comunicación bidireccional con las víctimas.
+    *   **Tipologías de Sensores**:
+        *   **Electromagnéticos**: Basados en el desplazamiento de un imán en una bobina debido a vibraciones.
+        *   **De Reluctancia**: Formados por imanes con cargas opuestas alineados y separados por una cámara de aire; el movimiento modifica el flujo de corriente.
+        *   **De Capacidad**: Un condensador cuya capacidad varía con la vibración, generando fluctuaciones eléctricas.
+        *   **Piezométricos**: Con una masa de placas metálicas combinadas con material piezométrico sensible a la presión; el movimiento del terreno altera el peso y la presión de los cristales, variando el voltaje eléctrico.
+*   **Cámaras Térmicas**: Captan la radiación infrarroja emitida por cuerpos con temperatura superior al cero absoluto (0 Kelvin = -273,15 °C), convirtiéndola en una imagen térmica visible. Operan en un espectro más amplio (0,2 - 20 micras) que el ojo humano (0,5 - 0,75 micras). No permiten ver el interior de objetos o recipientes, pero indican la temperatura superficial y si una superficie está en contacto con material. Las mediciones pueden ser afectadas por la radiación solar y las condiciones ambientales.
+*   **Otros Medios Técnicos**:
+    *   **Cámaras de Vídeo**: Se introducen con un mando telescópico entre los escombros, enviando imágenes al exterior. Su eficacia depende de la capacidad de la cámara para moverse en los escombros.
+    *   **Microcámaras de Visión Normal y/o Nocturna**: Herramientas de inspección visual de aproximadamente 5 pulgadas, con unidad de control integrada y función LEM para imágenes claras en condiciones de poca luz.
+    *   **Fonendoscopio**: Utilizado por personal sanitario para amplificar sonidos. Su radio de acción es limitado.
+    *   **Medios de Fortuna**: Elementos rudimentarios como bidones de agua, que pueden amplificar sonidos, aunque con elevado margen de error.
 
-## Técnicas de Apertura de Huecos en Elementos Constructivos
+### Métodos de Búsqueda y Localización de Víctimas en Estructuras Colapsadas
 
-La apertura de huecos en estructuras colapsadas es una tarea crítica que requiere considerar la geometría del elemento, su rigidez y el material de construcción para seleccionar las herramientas y técnicas más adecuadas.
+El objetivo principal en la búsqueda de víctimas es localizarlas rápidamente para su atención.
 
-### Perforaciones en Elementos Verticales
+#### Búsqueda Física
 
-Al realizar perforaciones en elementos verticales, como muros o pilares, es fundamental evaluar previamente el **esquema estructural** y la **rigidez** del elemento para prever el impacto de la apertura. Las herramientas varían según el material: **motosierras** para madera, **sierras de disco abrasivo** (tronzadoras) para metal, y **martillos rotativos** con discos de diamante para mampostería. La profundidad de corte dependerá del tipo de muro, como los de ladrillo o bloques de hormigón.
+Es la técnica más efectiva en las primeras fases del derrumbe y se basa en la percepción humana (vista, oído) o táctil.
 
-El objetivo principal es crear un **hueco de acceso** para los rescatadores o una **vía de evacuación** para las víctimas, que debe tener una superficie mínima de 0,5 m² con lados de al menos 70 cm en el caso de cortes triangulares, siendo el triángulo la forma más sencilla de ejecutar y que a menudo no requiere apuntalamiento. Es recomendable iniciar con un pequeño **agujero de inspección** para evaluar la situación de la víctima y los riesgos circundantes. Antes de perforar, se debe marcar la geometría del hueco con pintura o spray. Durante la ejecución, en bloques de hormigón se actúa sobre los huecos, que son menos resistentes, mientras que en muros de ladrillo se rompen las juntas. En hormigón armado, los cortes deben realizarse en un ángulo de 45° para evitar la caída incontrolada de la placa. Si el análisis estático previo lo aconseja, se debe **estabilizar** el elemento mediante técnicas de apuntalamiento.
+1.  **Procedimiento de "Llamada-Escucha" (Búsqueda Probabilística)**:
+    *   El equipo de rescate se distribuye en línea.
+    *   Se emite una alerta sonora, se guarda silencio total y se realizan llamadas (ej: "¡Somos del equipo de rescate! ¡Si alguien puede oírme, grite o golpee!").
+    *   El equipo indica con el brazo la dirección de la respuesta.
+    *   Para aplicar esta técnica, es crucial mantener un silencio absoluto en el área.
 
-### Aperturas en Elementos Horizontales
+2.  **Procedimientos de Búsquedas Físicas (Búsqueda Sistemática)**:
+    *   Se subdivide el área en sectores (cuadrículas, números).
+    *   Se asignan tareas para evitar duplicidad de esfuerzos.
+    *   Se establecen descansos y relevos.
+    *   Todo el equipo debe manejar la señalética internacional y un lenguaje común.
+    *   **Búsqueda Visual**: Es la primera búsqueda, realizada por vecinos, familiares o supervivientes. Se debe inspeccionar desde diferentes ángulos y alturas del edificio, asomándose a huecos, ventanas y puertas. Aunque se haya realizado una búsqueda visual inicial, los equipos BREC deben realizar una búsqueda visual sectorizada.
+        *   **Patrón Circular Externo / en Cruz**: El mando distribuye a cuatro miembros del equipo alrededor del área de búsqueda. Se realiza un avance de dos o tres metros, se agachan e intentan escuchar. Se repite el proceso hasta que se detecta una respuesta.
+        *   **Patrón de Avance en Línea**: Utilizado en búsquedas superficiales de estructuras colapsadas. Los miembros del equipo se colocan en línea con separación de 1,5 metros. El mando se sitúa detrás y da las órdenes de silencio y avance. Si se escucha algo, se indica la dirección.
+        *   **Patrón de Búsqueda en Habitaciones Múltiples**: Para edificaciones con múltiples divisiones o locales que no han colapsado completamente.
 
-Cuando se requiere abrir huecos en elementos horizontales, como forjados colapsados, es primordial garantizar la seguridad y minimizar riesgos de nuevos colapsos. Es crucial realizar un **análisis de estabilidad** para identificar la tipología constructiva. En **forjados unidireccionales**, la perforación debe centrarse en las bovedillas, evitando los nervios y los puntos de momento nulo para no comprometer la estabilidad. Para **forjados bidireccionales**, se perforan los casetones, evitando los nervios y los capiteles. Antes de la perforación, es necesario instalar un **apeo previo** que soporte las cargas de la estructura, y luego, si el análisis estático lo requiere, un **apeo posterior** desde el interior.
+#### Búsqueda Técnica
 
-### Creación de Galerías
+Para localizar víctimas sepultadas en profundidad, los equipos de rescate (BREC, USAR, ONG internacionales) emplean medios técnicos específicos:
 
-Las **galerías** se emplean para acceder a víctimas atrapadas bajo varios niveles de escombros, especialmente en sótanos. Esta técnica, similar a la entibación, implica la colocación de dinteles en la parte superior del túnel. Dada su complejidad y el tiempo considerable que requiere, se considera un último recurso, y su ejecución depende en gran medida de la disponibilidad de madera y requiere una estabilización complementaria.
+*   **Cámaras Térmicas**: Revelan mapas de temperatura en escombreras.
+*   **Cámaras de Vídeo**: Muestran espacios inaccesibles.
+*   **Detectores Geofónicos**: Captan pequeños sonidos.
+*   **Ratas con Implantes Cerebrales**: Controladas remotamente, exploran escombreras con cámaras de vídeo.
 
-### Contención de Deslizamientos de Tierra y Escombros
+La tecnología aún no supera el sistema elemental de búsqueda con perros de rescate, que se remonta a la Primera Guerra Mundial y es insustituible por su capacidad olfativa superior.
 
-La **contención de deslizamientos de tierra y escombros** es una técnica crucial para proteger a las víctimas y a los rescatadores. Se basa en la construcción de **barreras físicas** o diques utilizando tablones de madera o estacas de acero, que se insertan perpendicularmente a la pendiente del derrumbe y se rellenan con tierra para formar una placa estabilizadora. La eficacia de esta técnica está condicionada por el **ángulo de rozamiento** del terreno. En suelos arcillosos con alta humedad, que pueden comportarse como fluidos, se pueden usar tablones escalonados o acuñados. En terrenos granulares, la estabilización se logra mediante una forma de cuña.
+**Reglas Esenciales para Perros de Rescate**:
 
-### Movilización de Cargas
+1.  **Autonomía**: Capacidad del perro para desvincularse del guía y mejorar la eficiencia de la búsqueda, directamente proporcional a su nivel de concentración.
+2.  **Motivación**: Fuerza interna adquirida durante el entrenamiento, que lo protege de estímulos distractores.
+3.  **Concentración**: Organización de la atención para la tarea, especialmente la detección olfativa de moléculas humanas.
 
-La **movilización de cargas** es esencial en intervenciones de colapso para crear accesos y liberar víctimas. Los materiales de construcción son pesados y deben removerse con seguridad. Los factores que influyen en estas maniobras son la **magnitud de las cargas** a desplazar (definida por el peso específico aparente de los materiales), el **movimiento** a realizar (izado, arrastre, empuje, rodamiento), y las **condiciones de la carga** (anclajes y sujeciones).
+**Comportamiento con Perros de Rescate**: Es crucial seguir pautas específicas tanto en el adiestramiento como en la intervención para asegurar la eficacia. La conducta correcta se refuerza con felicitaciones.
 
-Para comprender la movilización de cargas, se utilizan conceptos de estática. Las **palancas**, barras rígidas que giran alrededor de un fulcro, permiten vencer una resistencia (R) aplicando una potencia (P), logrando el equilibrio cuando los momentos de ambas fuerzas son idénticos pero opuestos. Esto se rige por la fórmula $P \cdot dp = R \cdot dr$, donde $dp$ y $dr$ son los brazos de potencia y resistencia, respectivamente. Así, para mover una resistencia R sin aumentar P, basta con incrementar el brazo de potencia o reducir el de resistencia.
+**Pautas en Zonas de Catástrofe**:
 
-Las **poleas** son máquinas simples compuestas por una rueda con un canal para cuerda o cable. En una **polea fija**, la potencia es igual a la resistencia (P=Q), mientras que en una **polea móvil**, la potencia es la mitad de la resistencia (P=Q/2). Los **polipastos** son combinaciones de poleas que multiplican la fuerza, reduciendo la potencia necesaria ($P=R/2^n$, donde $n$ es el número de poleas móviles), aunque aumentando la longitud del cable.
+*   El perro es una herramienta de trabajo y un compañero insustituible.
+*   **No tirar comida** en las zonas de trabajo.
+*   **No sentarse** en escombros ni realizar necesidades fisiológicas.
+*   **Impedir el acceso** a personal no autorizado.
+*   **Respetar el silencio** si se ordena, incluso con impactos acústicos.
+*   **Ayudar con el transporte** de trasportines, evitando usarlos como muebles.
+*   **Proteger a los perros del sol**.
+*   **No jugar** ni lanzar objetos.
+*   **Trabajar siempre con guantes**.
+*   **Evitar dejar prendas usadas** donde operen los perros.
+*   Permitir que las personas reticentes se marchen después de que los animales las huelan.
+*   **Colocar al personal aguas abajo** en el sentido del viento antes de la búsqueda.
+*   En caso de duda sobre el comportamiento del perro, el guía canino o el responsable de la Unidad Canina de Rescate (U.C.R.) resolverá; la actitud más inocua es mostrar indiferencia.
 
-Los **tracteles** son aparatos de arrastre manuales con cable de acero que funcionan en cualquier posición. Su capacidad de carga varía según el tipo y las características del cable. Por ejemplo, un tractel T-13 con cable de 11,5 mm tiene una resistencia a la rotura de 8.000 kg (78,4 kN), mientras que un T-35 con cable de 16,3 mm alcanza los 16.000 kg (156,8 kN). La **tracción directa** implica fijar el cable a la carga y al tractel, mientras que la **tracción indirecta** usa una polea de reenvío para cambiar la dirección de la tracción.
+#### Búsqueda tras Retirada Selectiva de Escombros
 
-Los **cojines neumáticos de alta presión** (8-10 kg/cm²) y baja presión (0,5-1 kg/cm²) se utilizan para elevar grandes cargas. Su fuerza máxima depende de la presión y la superficie del cojín. Es crucial calzar el suelo y la carga para evitar inestabilidad, no superponer más de dos cojines en paralelo y evitar el contacto con superficies cortantes, afiladas o a altas temperaturas. La operación debe realizarse con un órgano de control a distancia, manteniendo siempre el contacto visual con el cojín.
+Se procede a esta búsqueda cuando no se han encontrado víctimas accesibles o la zona superficial está barrida.
 
-En resumen, la correcta valoración de la situación, la selección de los EPI y la maquinaria adecuada, así como la aplicación metódica de las técnicas de apertura de huecos y movilización de cargas, son pasos esenciales para asegurar una intervención eficiente y segura en escenarios de colapso estructural.
+*   **Cuidado Extremo**: La retirada debe ser minuciosa y especialmente cuidadosa en zonas de alta ocupación (sótanos, garajes, huecos de vida), ya que el tránsito y las labores de desescombro pueden ser peligrosos.
+*   **Estabilización**: Puede requerirse apeos, entibaciones o estabilización de la estructura colapsada para abrir huecos o rescatar víctimas.
+*   **Maquinaria**: La retirada de escombros se realiza con maquinaria ligera y de forma manual para no alterar la estabilidad de los restos.
+*   **Búsquedas Continuas**: A medida que se retiran escombros, se deben realizar nuevas búsquedas.
+*   **Finalización**: Las tareas de búsqueda y rescate terminan cuando se tiene certeza de que no hay más víctimas.
+
+#### Búsqueda Final tras Retirada Total o Parcial de Escombros
+
+Se lleva a cabo una vez descartada la existencia de personas con vida (tras cuatro o cinco días).
+
+*   **Maquinaria Pesada**: Esta tarea se realiza con maquinaria pesada.
+*   **Control Exhaustivo**: En áreas sensibles o con sospecha de víctimas, los equipos BREC deben realizar un control exhaustivo.

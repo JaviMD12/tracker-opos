@@ -1,73 +1,107 @@
-# Técnicas de Intervención y Ventilación en Incendios Industriales
+## TÉCNICAS DE INTERVENCIÓN EN INCENDIOS INDUSTRIALES
 
-La intervención en incendios industriales requiere un enfoque especializado debido a la diversidad de combustibles, las grandes dimensiones y la complejidad de las estructuras. La eficacia de las operaciones se basa en la aplicación de técnicas de extinción y ventilación adecuadas, con el objetivo primordial de proteger vidas humanas, controlar la propagación y extinguir el fuego.
+### 1. ATAQUE DEFENSIVO CONTRA LA PROPAGACIÓN
 
-## Agentes Extintores y Modos de Aplicación
+Las técnicas defensivas en incendios industriales buscan controlar la expansión del fuego, impidiendo su crecimiento o afectación a elementos cercanos. Se fundamentan en dos principios clave: la presurización de espacios y la refrigeración de superficies.
 
-La elección del agente extintor y su método de aplicación son cruciales. Cada tipo de incendio industrial, condicionado por la naturaleza del combustible, la estructura y las condiciones ambientales, demanda una estrategia específica.
+#### 1.1. Presurización de Espacios
 
-### Aplicación de Agua
+La presurización de áreas tiene como objetivo principal evitar que el humo penetre en ellas, manteniendo así estas zonas a salvo del incendio exterior. Su aplicación puede presentar dificultades en ciertos escenarios:
+*   En incendios industriales de tipos D y E, donde una parte de la cubierta está al aire libre, lo que dificulta la contención de la presión.
+*   En incendios industriales de tipos A, B y C, donde los grandes volúmenes de las naves pueden exceder la capacidad de los motoventiladores utilizados para la presurización.
 
-El agua es un agente extintor fundamental, valorado por su alta capacidad de absorción de calor y su eficacia como enfriador. Su aplicación en un incendio busca generar un efecto de **enfriamiento** mediante la absorción de calor latente de vaporización y un efecto de **dilución** de los gases de incendio por el vapor de agua generado. Es importante que el agua se evapore en el aire, antes de impactar contra las superficies, para maximizar su efectividad en el enfriamiento de los gases.
+Los planes de prevención industrial deben contemplar la designación de zonas de presurización que actúen como cortafuegos, vías de evacuación o áreas de confinamiento seguro.
+Cabe destacar que la mayoría de las naves industriales carecen de un aislamiento térmico óptimo. En estos casos, la presurización, especialmente si se complementa con ventilación natural que refuerza la ventilación forzada, puede ofrecer buenos resultados de protección en naves colindantes. Sin embargo, si la ventilación forzada se opone a la natural, el efecto puede ser contraproducente.
 
-Existen distintas técnicas de aplicación de agua:
+#### 1.2. Refrigeración de Superficies
 
-1.  **Ataque Directo con Agua:** Consiste en aplicar un chorro pleno de agua directamente a la base del fuego. Esta técnica busca enfriar rápidamente las superficies incendiadas e interrumpir la pirólisis de los combustibles. Se recomienda un tiempo de aplicación moderado, ya que un exceso de vapor puede comprometer la visibilidad y causar quemaduras. Aunque efectivo para extinguir el foco, no siempre es la primera opción debido a los riesgos asociados con el vapor de agua y la posible alteración de la visibilidad.
-2.  **Ataque Indirecto con Agua:** Su objetivo principal es la extinción por saturación del recinto con vapor de agua, especialmente en espacios confinados. Se realiza desde el exterior, dirigiendo un chorro nebulizado o cono estrecho hacia el techo o las paredes. El vapor generado desplaza el oxígeno, sofocando el fuego y absorbiendo una gran cantidad de calor. Este método es rápido y utiliza poca agua, pero no es aconsejable si hay víctimas atrapadas o si la propagación es incontrolada, debido al riesgo del "efecto pistón" del vapor.
+La refrigeración de superficies busca retrasar la afectación que un incendio próximo pueda ejercer sobre ellas, tanto por radiación como por convección.
+Según la Norma Técnica de Prevención (NTP) 420, se consideran controlables caudales másicos de 1 kg/s para chorros de fuego (jet fires) con longitudes de 10-15 metros, y 2 kg/s para incendios de charco (pool fires) con superficies de 50 m².
 
-Para ambas técnicas, la eficiencia de la aplicación de agua se mide por el porcentaje de agua que se evapora en el colchón de gases o al contacto con la superficie. El tamaño de la gota es un factor determinante: las gotas finas tienen un mayor tiempo de suspensión y absorción de energía, pero menor alcance; las gotas grandes tienen mayor alcance pero menor eficacia en el intercambio de calor. Diversos estudios sugieren un tamaño de gota óptimo entre 0.3 y 0.7 mm para un equilibrio ideal entre alcance y capacidad de absorción de energía.
+Para la estimación del agua necesaria para el enfriamiento, se pueden distinguir tres situaciones de exposición al incendio, cada una con recomendaciones diferentes sobre la cantidad de agua a aplicar. Los caudales de aplicación de agua se expresan por unidad de superficie de recipiente (m²) o por unidad de área de la superficie proyectada (m²).
+El manual NFPA-11 (estándar para espumas de baja, media y alta expansión) puede ser útil para calcular los caudales de aplicación. Si se considera el uso de espuma como método de extinción, su demanda total debe incluirse en el cálculo de agua.
 
-En cuanto al caudal de agua, se distinguen:
-*   **Gasto de agua**: El volumen total de agua utilizado durante una intervención.
-*   **Caudal medio**: El gasto de agua dividido por el tiempo de intervención.
-*   **Caudal disponible**: El caudal máximo que se puede obtener en la punta de lanza en un momento dado.
-*   **Caudal crítico**: El caudal mínimo necesario para extinguir un incendio.
-*   **Caudal óptimo**: El caudal que permite la extinción con el mínimo gasto de agua posible.
+### 2. ATAQUE DIRECTO CON AGUA
 
-La cantidad de agua necesaria para enfriamiento, según la norma NFPA-15, varía entre 4-8 L/min/m² para calor radiante y 10 L/min/m² para llama directa incipiente. Para dardos de fuego, se requieren 1000-2000 L/min. Estudios estadísticos, como los de Grimwood (2014) y Barnett (2004), indican valores de 24 LPM/MW para incendios residenciales y 5 LPM/m² para superficies amplias (>100m²). Es fundamental que el caudal disponible no sea inferior al óptimo y que sea suficiente para garantizar la seguridad del personal ante fenómenos de rápido desarrollo.
+El ataque directo implica la aplicación de un chorro de agua directamente a la base del fuego. Esta técnica debe emplearse con una duración moderada.
 
-### Técnicas de Extinción con Espumas
+#### 2.1. Cálculo de los Caudales Críticos de Extinción
 
-Las espumas son agentes extintores importantes, especialmente para líquidos inflamables. Se forman por una combinación de concentrado espumógeno, agua y aire. Su efectividad radica en su capacidad para flotar sobre los combustibles, adherirse a las superficies, sofocar el fuego impidiendo el contacto con el oxígeno y enfriar por su contenido de agua.
+Durante una intervención de extinción, el caudal de agua no se aplica de forma continua. Las condiciones internas del recinto dictarán el caudal a utilizar o la interrupción temporal de la aplicación para restablecer el equilibrio térmico. En momentos específicos, un caudal elevado puede ser necesario para enfrentar fenómenos de rápida inflamación o controlar la situación.
 
-Se clasifican según su coeficiente de expansión:
-*   **Espumas de baja expansión (ratio < 20:1):** Densas, con alto contenido de agua. Son ideales para controlar y extinguir incendios de líquidos inflamables (Clase B) y útiles en incendios de Clase A por su capacidad de enfriamiento. No deben usarse sobre elementos con tensión eléctrica. Se aplican con una densidad de 5 L/min/m² para derrames.
-*   **Espumas de media expansión (ratio 20:1 a 200:1):** De textura suave y excelente fluidez. Se usan para suprimir la vaporización de químicos peligrosos, con un rango óptimo de expansión entre 30:1 y 50:1 para reactivos con agua y líquidos orgánicos de bajo punto de ebullición. Se emplean en zonas confinadas (sótanos, minas, barcos).
-*   **Espumas de alta expansión (ratio > 200:1):** Muy ligeras. Diseñadas para combatir incendios en grandes espacios confinados como garajes, bodegas o hangares. Su bajo contenido de agua (1:1000) hace que se destruyan parcialmente al avanzar sobre el fuego. Requieren ventilación en el extremo opuesto al punto de aplicación y una profundidad eficaz de al menos 60 cm para la cubrición.
+Para diferenciar los caudales de agua, se emplean los siguientes términos clave:
 
-Las técnicas principales de aplicación de espuma incluyen la **cubrición simple**, donde se apunta la lanza al suelo para que el flujo arrastre la espuma sobre el fuego, y la **cubrición por rebote**, donde la espuma se dirige a un obstáculo (como una pared) para que escurra suavemente sobre la superficie en llamas, especialmente útil en superficies sensibles.
+| Término          | Descripción                                                                 |
+| :--------------- | :-------------------------------------------------------------------------- |
+| Gasto de agua    | Volumen de agua utilizado durante una intervención.                         |
+| Caudal medio     | Gasto de agua dividido por el tiempo total de intervención.                 |
+| Caudal disponible | Caudal máximo que puede salir por la punta de lanza en cualquier momento.   |
+| Caudal crítico   | Caudal mínimo necesario para lograr la extinción de un incendio.             |
+| Caudal óptimo    | Caudal disponible que permite extinguir un incendio con el menor consumo de agua. |
 
-El cálculo del caudal de espuma de alta expansión necesario para inundar un espacio se determina mediante la fórmula de la NFPA: R = (V/T) × Cn × CL, donde R es la velocidad de descarga en m³/min, V el volumen a proteger en m³, T el tiempo de descarga (entre 2 y 8 minutos), C la compensación por contracción de espuma (1.15) y Cn la compensación por fugas (1.0-1.2).
+### 2.2. Modo de Aplicación del Agua
 
-### Agentes Extintores Sólidos
+El agua es un agente extintor muy eficaz para el enfriamiento debido a su alto calor específico, y también resulta económico y práctico. La mayoría de los combustibles tienen temperaturas de ignición superiores a 150 ºC, por lo que enfriar las superficies expuestas a aproximadamente 150 ºC detendrá la combustión y extinguirá el incendio.
 
-Estos agentes, compuestos por sales inorgánicas finamente pulverizadas, extinguen el fuego por **inhibición o ruptura de la reacción en cadena** y, secundariamente, por **sofocación**, al desplazar el oxígeno y formar una costra. Son dieléctricos y estables a temperaturas inferiores a 50ºC.
-*   **Polvos Convencionales BC**: Compuestos por bicarbonato sódico o potásico, más aditivos hidrófugos. Se usan para líquidos inflamables y gases (Clases B y C), así como fuegos con tensión eléctrica hasta 1000 voltios. No son efectivos en fuegos de Clase A ni compatibles con espumas.
-*   **Polvos Polivalentes ABC (antibrasa)**: Contienen fosfatos, sulfatos y sales amónicas. Son efectivos en fuegos de Clase A (superficiales y profundos), B y C. Al descomponerse por el calor, forman una capa pegajosa que sofoca las brasas e impide la alimentación de oxígeno.
-*   **Polvos Especiales**: Diseñados para fuegos de metales (Clase D), como aluminio, magnesio o potasio. Cada tipo de polvo es específico para un metal. No se deben usar agentes extintores convencionales ni agua, ya que pueden generar reacciones violentas y explosiones.
+La máxima acción de enfriamiento con un volumen de agua dado se logra cuando el agua se convierte en vapor. La evaporación del agua produce una expansión de volumen que puede ser de 1 a más de 1600 veces, lo que resulta altamente eficaz en la lucha contra grandes incendios en espacios cerrados y contribuye a reducir accidentes y evitar el *flashover*.
 
-### Agentes Extintores Gaseosos
+El chorro pleno de agua se considera muy ineficiente debido a su limitada superficie de exposición al fuego en relación con su volumen. La capacidad de absorción de calor de un material aumenta si su superficie expuesta es mayor en relación con su volumen.
 
-Se almacenan en estado líquido a presión y se gasifican al ser liberados. Penetran con facilidad pero son menos efectivos en exteriores o zonas con alta presión ambiental.
-*   **Dióxido de Carbono (CO2)**: Es el agente gaseoso más común, económico, inodoro, incoloro y no corrosivo. Es dieléctrico y 1.5 veces más pesado que el aire. Actúa principalmente por **sofocación** al desplazar el oxígeno, y secundariamente por **enfriamiento** al expandirse y convertirse en nieve carbónica a -79ºC. Es muy efectivo en fuegos superficiales de Clase A, B y C, pero no en fuegos profundos o metales activos que desprendan oxígeno.
-*   **Nitrógeno (N2)**: Gas incoloro, inodoro e insípido, muy estable a altas temperaturas. Actúa por **sofocación** al desplazar el oxígeno. No es tóxico pero sí asfixiante. Su uso era limitado por la formación de cianógeno y peróxido de nitrógeno, pero ahora es más frecuente.
-*   **Hidrocarburos Halogenados (Halones)**: Como el Halón 1211 y 1301. Actúan por **inhibición de la reacción en cadena** y **sofocación** (desplazamiento de oxígeno), con un efecto secundario de enfriamiento. Son muy limpios y adecuados para proteger equipos delicados. El Halón 1301 se usa en inundación total de espacios cerrados, mientras que el 1211 en aplicación local y extintores portátiles. Su fabricación está prohibida por normativa europea debido a su agresividad contra la capa de ozono. En su lugar, se emplean **sustitutos de halones o gases limpios e inertes** (como Inergen, Argonite, Argón 100%), que no son corrosivos ni conductores de electricidad, y actúan por sofocación al diluir la concentración de oxígeno.
+### 3. ATAQUE INDIRECTO CON AGUA
 
-## Ventilación en Incendios Industriales
+El ataque indirecto busca la extinción mediante la saturación de espacios confinados con vapor de agua. Se realiza desde el exterior, apuntando un chorro nebulizado o de niebla de ángulo estrecho hacia el techo y moviéndolo a través de las paredes y superficies del techo.
+La eficacia se logra por la absorción de calor durante la evaporación del agua y la dilución de los gases de incendio por el vapor generado. Este proceso ocurre rápidamente con una cantidad mínima de agua.
 
-La ventilación es una técnica vital para cambiar la dinámica del incendio, mejorar la visibilidad, reducir la temperatura y toxicidad de los gases, y controlar la potencia del fuego.
+No es recomendable usar el ataque indirecto si hay víctimas atrapadas o si la propagación del fuego a zonas no afectadas no puede contenerse, debido al efecto pistón que la expansión súbita del vapor puede provocar.
 
-### Ventilación Natural
+### 4. TÉCNICAS DE EXTINCIÓN A BASE DE ESPUMAS
 
-Utiliza las diferencias de presión generadas por el propio incendio o por el viento.
-*   **Ventilación Horizontal Natural:** Se produce en aperturas al mismo nivel (ventanas, puertas), creando flujos bidireccionales. Mantiene una capa de aire fresco en la zona baja y gases calientes en la superior, pero su efectividad es limitada, y no hay un flujo unidireccional claro hasta el foco.
-*   **Ventilación Vertical Natural:** Implica la creación de aberturas de entrada y salida de gases a diferentes niveles, generalmente en cubierta. Se busca un flujo unidireccional donde el aire fresco entra por abajo y los gases calientes salen por arriba, facilitando la progresión interior. Es más efectiva que la horizontal, pero su uso en edificaciones modernas es menos común.
+La espuma es una mezcla de concentrado espumógeno, agua y aire. Es un agente extintor crucial para líquidos inflamables, que son causas frecuentes de incendios industriales. Su eficacia depende de la eficiencia de los equipos de generación, su composición y la fiabilidad del concentrado espumógeno.
 
-### Ventilación Forzada (Mecánica)
+El mantenimiento de los concentrados espumógenos, almacenados en bidones o tanques, es a menudo descuidado debido a la falta de métodos de verificación no destructivos. La duración de su eficacia depende de la habilidad, experiencia y calidad de los proveedores.
 
-Emplea ventiladores mecánicos para controlar y dirigir el flujo de gases.
-*   **Ventilación por Presión Positiva (VPP)**: Consiste en introducir aire a presión en un recinto para crear un gradiente positivo que expulse los humos y gases de incendio. Permite aumentar la visibilidad, reducir la temperatura y la toxicidad, y controlar la potencia del incendio. La dirección del ataque debe ser a favor de las corrientes de aire fresco. No se debe usar una apertura de salida como punto de ataque, ya que puede proyectar productos de combustión hacia la toma de aire e impedir el ingreso del personal. El **caudal efectivo (Qr)**, el **caudal libre (Ql)** y el **empuje (E)** son parámetros clave para evaluar la capacidad de un ventilador.
+Las espumas actúan principalmente por sofocación (flotan y se adhieren a la superficie, impidiendo el contacto del combustible con el oxígeno) y enfriamiento (por su contenido de agua). También pueden inundar espacios, desplazando el oxígeno.
+La inundación con espuma de alta expansión requiere ventilación en el extremo opuesto al punto de aplicación para desplazar el aire. De lo contrario, las contrapresiones reducen el ratio de expansión, resultando en una espuma más densa.
+Las espumas son versátiles, pero su efectividad depende de la forma de aplicación.
 
-La **presurización de espacios** mediante VPP es útil para proteger zonas anexas al incendio, evitando la propagación del humo. Sin embargo, no es adecuada para controlar la propagación por radiación o conducción. Es importante que la ventilación forzada se coordine siempre con la aplicación de agua para mitigar el crecimiento del incendio que el aporte de oxígeno puede generar. La eficacia de la VPP se ve afectada por pérdidas de flujo (aberturas no deseadas), fricción (longitud y sinuosidad del recorrido de gases) y un sellado deficiente de la estructura.
+Las principales técnicas de uso de espumas son:
 
-La elección del ventilador (diámetro de hélice, distancia de colocación, tipo de propulsión) y su configuración (cono cerrado o abierto, en paralelo o serie) son aspectos técnicos que influyen en el rendimiento y la efectividad de la ventilación. Es crucial considerar estos factores para adaptar la técnica a las condiciones específicas de cada incendio industrial y garantizar la seguridad de los intervinientes.
+#### 4.1. Cubrición Simple
+
+El bombero dirige la lanza al suelo frente al incendio. La velocidad del chorro arrastra la espuma hacia el combustible encendido, extinguiéndolo.
+
+#### 4.2. Cubrición por Rebote
+
+Se utilizan lanzas específicas para espuma. El chorro se dirige contra un obstáculo (como una pared) para que la espuma escurra suavemente sobre el fuego. Esta técnica es ideal cuando la aplicación directa podría dispersar el incendio o causar una reacción química.
+
+#### 4.3. Cálculo de la Cantidad de Espuma Necesaria según Extensión
+
+La cantidad de espuma requerida varía según la presión de trabajo de la bomba, el espacio/volumen a cubrir, el volumen de espuma producido por minuto y el ratio de expansión.
+
+| Presión de trabajo (K/cm²) | Caudal Nominal (LPM) | Rendimiento Espuma (m³/min) | Expansión (Presión máxima) |
+| :------------------------- | :------------------- | :-------------------------- | :------------------------- |
+| 2,8                        | 160                  | 40                          | 1:260                      |
+| 4,20                       | 195                  | 56                          | 1:290                      |
+| 5,6                        | 223                  | 70                          | 1:320                      |
+| 7                          | 245                  | 80                          | 1:330                      |
+| 8,4                        | 259                  | 94                          | 1:360                      |
+
+### 5. APLICACIÓN ESPECÍFICA DE LAS TÉCNICAS DE VENTILACIÓN EN INCENDIOS INDUSTRIALES
+
+Las condiciones de ventilación son tan importantes como los medios y técnicas de extinción para la efectividad de los trabajos. Los tres tipos de ventilación más influyentes son:
+
+#### 5.1. Ventilación Horizontal Natural
+
+Se emplea en situaciones con poca carga de combustible, incendios con carga de fuego controlada por línea de agua, o durante una búsqueda primaria. Es crucial asegurar que no provoque un aumento de la mezcla inflamable de gases. Aperturas insuficientemente grandes pueden catalizar la pirólisis e intensificar el incendio.
+
+#### 5.2. Ventilación Vertical Natural
+
+Característica en incendios de edificios con ventilación unidireccional, donde el efecto chimenea succiona el aire hacia cajas de escaleras o ascensores, debido a la diferencia de temperaturas entre el interior y el exterior del edificio, generando cambios de presión y estratificación.
+El humo tiende a moverse hacia zonas más frías, como escaleras o pisos superiores, y puede contener CO letal para las víctimas y los intervinientes.
+No se deben usar las aberturas de salida de ventilación para introducir líneas de ataque, ya que esto dificultaría la evacuación de calor, humo y gases, y los empujaría hacia la toma de aire, impidiendo el acceso del personal y favoreciendo el incendio.
+
+#### 5.3. Ventilación por Presión Positiva (VPP)
+
+La VPP utiliza la tendencia de los gases a equilibrar sus presiones. Al introducir aire en un recinto, se genera un gradiente de presión positiva que expulsa el humo y los gases de combustión hacia zonas de menor presión.
+La dirección de ataque al fuego debe ser desde las posiciones que favorecen las corrientes de aire, facilitando el acceso rápido al foco del incendio.
+Al igual que en la ventilación vertical natural, no se deben usar las aberturas de salida de ventilación para líneas de ataque, ya que esto obstaculiza la evacuación de calor, humo y gases, empujándolos hacia la toma de aire y dificultando el acceso del personal. Esta práctica concede tiempo y espacio al incendio.

@@ -1,7 +1,66 @@
-La comprensión profunda de la dinámica del fuego y los métodos de extinción es crucial en la labor de bomberos y emergencias, ya que permite abordar incidentes con mayor seguridad y eficiencia. La formación en esta área se basa en el estudio detallado de la **Teoría del Fuego**, las **Propiedades de los Fluidos** aplicadas a la hidráulica y las **Técnicas de Intervención** específicas para distintos escenarios de incendios.
+### Ventilación en Incendios de Interior: Tipos y Efectos de la Presurización
 
-### **1. Teoría del Fuego y la Combustión**
+#### 6.  Patrones de Ventilación y Movimiento de Gases
 
-El **fuego** se define como una combustión caracterizada por la emisión de calor, humo y llamas. Por otro lado, un **incendio** es una combustión que se propaga de manera incontrolada en el tiempo y en el espacio. Para que ocurra, es necesaria la presencia de tres elementos fundamentales, que conforman el **Triángulo del Fuego**: el **combustible**, el **comburente** y la **energía de activación (calor)**. Si a estos se añade la **reacción en cadena**, se forma el **Tetraedro del Fuego**, un modelo más preciso que explica la auto-sostenibilidad de la combustión. La eliminación de cualquiera de estos factores detiene o previene el fuego.
+La dinámica de los gases en un incendio presenta diferentes patrones de ventilación, los cuales influyen significativamente en la evolución del fuego y la seguridad de las operaciones.
 
-Las **reacciones químicas** involucradas en la combustión son procesos de oxidación-reducción (redox), donde una sustancia (reductor/combustible) cede electrones y se oxida, mientras otra (oxidante/comburente) los capta y se
+**6.1. Flujos Unidireccionales**
+Un flujo unidireccional se establece en aberturas de ventilación que se encuentran claramente por encima o por debajo del plano neutro. Cuando la abertura está bajo el plano neutro (zona de presiones negativas), se genera un flujo de entrada. Si la abertura está por encima del plano neutro (zona de presiones positivas), se produce un flujo de salida.
+
+Para que ocurra un flujo unidireccional, es indispensable la existencia de al menos dos aberturas bien diferenciadas para la entrada y salida. Estos flujos son característicos de los incendios con ventilación natural, donde el suministro de aire y la evacuación de gases se realizan a distintas alturas, favoreciendo la diferencia de presión.
+
+*   **Nota sobre incendios confinados:** En los incendios confinados no se observa el fenómeno de "flujo de gases" tal como se define en incendios ventilados. La ausencia de aberturas al exterior impide el suministro de aire fresco y la expulsión de gases de incendio, aunque puede haber movimiento de fluidos interno generado por la columna de convección del foco.
+*   **Nota sobre Ventilación por Presión Positiva (VPP):** Las técnicas de VPP permiten generar flujos unidireccionales artificialmente, incluso en aberturas donde naturalmente no se establecerían. La VPP se considera uno de los métodos más efectivos para asegurar un flujo de gases unidireccional, lo cual facilita las operaciones en el interior.
+
+**6.2. Flujos Bidireccionales**
+Los flujos bidireccionales se originan en aberturas de ventilación cuya altura abarca zonas tanto por encima como por debajo del plano neutro. En estas aberturas, la parte superior (por encima del plano neutro) generará un flujo de salida de gases, mientras que la parte inferior (por debajo del plano neutro) actuará como flujo de alimentación de aire.
+
+**6.3. Antiventilación**
+Cuando un incendio está confinado, la ventilación efectiva y el flujo de gases son inexistentes. Sin embargo, esto no implica una ausencia total de movimiento de gases dentro del recinto, ya que la convección originada por el foco del incendio generará movimiento. A medida que estos incendios confinados alcanzan un régimen limitado por la ventilación (ILV), la concentración de oxígeno disminuye sin posibilidad de aporte adicional, lo que provoca que la potencia del incendio se reduzca progresivamente hasta aproximarse a cero.
+
+Los incendios en fase de desarrollo con un patrón de antiventilación se caracterizan por un plano neutro muy bajo, una visibilidad casi nula y condiciones de supervivencia desfavorables para las víctimas.
+
+**6.4. Ventilación Natural**
+La ventilación natural se produce en incendios no confinados con aberturas que permiten establecer flujos unidireccionales (verticales) o bidireccionales (horizontales). En estos casos, el motor principal del flujo de gases es el diferencial de presiones entre el interior y el exterior del recinto.
+
+La potencia del incendio, una vez en régimen de ILV, dependerá del tamaño y la geometría de las aberturas de ventilación, lo que, en última instancia, determina el volumen de oxígeno que alimenta el incendio. Si la ventilación y la carga de combustible son adecuadas, los incendios con ventilación natural pueden alcanzar el *flashover*.
+
+La ventilación natural puede presentar una estratificación clara de los gases, manteniendo una zona de visibilidad en la parte baja con aire fresco. Mantener este equilibrio térmico durante la intervención es crucial para preservar la visibilidad en las operaciones interiores.
+
+**6.5. Incendios Dominados por el Viento**
+La influencia del viento en incendios con aperturas al exterior es significativa. La fachada a barlovento experimenta presión, mientras que la fachada a sotavento sufre depresión. Estas variaciones de presión pueden controlar el flujo de gases del incendio. A velocidades de viento de tan solo 6 m/s (21 km/h), la diferencia de presión entre fachadas opuestas puede generar presiones de 25-30 Pa, a menudo superiores a las generadas por el incendio en la mayor parte de su desarrollo.
+
+El viento provoca incendios "sobrealimentados" con un aporte adicional de aire a través de ventanas expuestas al viento y la salida de gases por otras fachadas. Este flujo de gases calientes favorece la propagación. Si hay acumulación previa de gases (por ejemplo, por la rotura súbita de una ventana), el régimen turbulento del aire que ingresa por la ventana puede favorecer la mezcla de aire y gases de incendio, lo que puede provocar una combustión casi completa a lo largo del flujo de gases, resultando en un aumento repentino de potencia y un flujo de gases extremadamente calientes que propagan el incendio.
+
+Los incendios dominados por el viento se caracterizan por flujos de gases unidireccionales a lo largo de la dirección del viento y humos claros de combustión casi completa, debido a la abundancia de oxígeno (efecto antorcha).
+*   **Advertencia:** En incendios dominados por el viento, el acceso interior a lo largo del flujo de gases calientes es totalmente desaconsejable.
+
+#### 7.  Influencia de la Presurización de Recintos
+
+**7.1. Presiones en el Recinto de Incendio**
+La flotabilidad de los gases explica las diferencias de presión dentro de un recinto incendiado, que son una consecuencia de las diferencias de presión hidrostática (el término ρgh de la ecuación de Bernoulli). En un punto dentro del recinto, la columna de gases calientes superior es más ligera que la columna de gases fríos externos, lo que genera una diferencia de presión.
+
+La variación de la presión atmosférica ($P_o$) está ligada a la altura; aumenta con la altura de la columna de aire. De manera similar, la presión en el interior del recinto ($P_i$) se comporta, pero la columna de gases del incendio pesa menos debido a su dilatación por la temperatura.
+En el estudio de las presiones internas, es más útil referirse a los diferenciales de presión ($\Delta P = P_i - P_o$) que a las presiones absolutas.
+
+**Ejemplo de Cálculo de Diferencial de Presión:**
+Para calcular la diferencia de presión generada por un incendio ventilado a 1.5 metros por encima del plano neutro, asumiendo una temperatura media del colchón de gases de 500 °C:
+*   Punto 1: Interior del recinto, a 2.5 m de altura sobre el plano neutro.
+*   Punto 2: Exterior, a la misma altura (h1 = h2 = 2.5 m).
+*   Velocidad de los gases (v1 = v2 = 0) puede despreciarse.
+*   Densidad de gases de incendio ($\rho_1$) a 500 °C: 0.65 kg/m³.
+*   Densidad del aire ambiente ($\rho_o$) a 500 °C: 1.2 kg/m³.
+
+Aplicando la ecuación de Bernoulli ($P_1 + \rho_1gh_1 + ½ \rho_1v_1² = P_2 + \rho_2gh_2 + ½ \rho_2v_2²$):
+$P_1 + 0.65 \cdot 9.81 \cdot 2.5 = P_2 + 1.2 \cdot 9.81 \cdot 2.5$
+$\Delta P = P_1 - P_2 = 1.2 \cdot 9.81 \cdot 2.5 - 0.65 \cdot 9.81 \cdot 2.5 = 18.14 \text{ Pa}$
+La diferencia de presión es de 18.14 Pa.
+
+Dentro de un incendio, las variaciones de temperatura generan gradientes de presión. En un recinto de vivienda habitual con un incendio ventilado en fase de pleno desarrollo, los diferenciales de presión ($P_i - P_o$) pueden variar de -15 Pa en la zona inferior a +30 Pa en la zona superior. Es importante notar que esta representación no utiliza la presión atmosférica como referencia cero, sino el diferencial entre el interior y el exterior.
+
+En incendios confinados, la presión puede variar a lo largo del tiempo, y es común que los incendios infraventilados muestren cambios en la presión.
+
+**7.2. Efectos sobre la Propagación del Incendio**
+Estudios y experimentos han demostrado que la presurización de un recinto adyacente a un incendio puede prevenir su propagación. Los gases de incendio buscarán la salida con la mayor caída de presión, siguiendo el camino más corto. Diferenciales de presión relativamente pequeños (5 Pa) son suficientes para evitar la propagación, incluso con pequeñas aberturas entre el recinto incendiado y el adyacente.
+
+Este principio es la base de tácticas como el ataque con presión positiva contra la propagación, donde el mando de intervención protege las zonas no afectadas mediante la sobrepresión generada por un ventilador de presión positiva.

@@ -1,77 +1,39 @@
-# Intervención en Incidentes con Riesgo Eléctrico y NRBQ
+## Capítulo 5. Casos Prácticos (Continuación)
 
-La gestión de emergencias que involucran riesgos eléctricos y materiales NRBQ (Nuclear, Radiológico, Biológico y Químico) demanda una capacitación especializada y el empleo de equipos y tácticas específicos. Los bomberos deben estar preparados para enfrentar estas situaciones, priorizando la seguridad del personal interviniente y de las víctimas.
+**6. Radiactivo en Carretera**
 
-## Rescate en Incidentes con Riesgo Eléctrico
+**Planteamiento:**
+Se recibe un aviso del 112 sobre un accidente de tráfico en la A-2, kilómetro 54, en sentido Zaragoza. El vehículo implicado transporta una etiqueta de peligro, según la imagen correspondiente, y su conductor se encuentra atrapado. Además, varios bultos con líquidos en tubos están dispersos por el suelo.
 
-La respuesta ante incidentes con riesgo eléctrico implica la aplicación de protocolos bien definidos, adaptados a la naturaleza del evento y al tipo de tensión involucrada (alta o baja).
+**Movilización Inicial:**
+Ante la información recibida, se debe asumir la posibilidad de un escape de material radiactivo. La intervención estará condicionada por el tipo de material radiactivo, su periodo de caducidad y el tiempo de semidesintegración del isótopo. Es crucial solicitar los números del panel naranja e informar sobre ellos.
 
-### Actuación en Rescates de Máquinas en Contacto con Alta Tensión
+**Establecimiento de Zonificación:**
+La zonificación se realizará utilizando un radiámetro. En ausencia de este, se actuará conforme a la tabla de tácticas de intervención.
 
-Cuando una máquina se encuentra enganchada en una línea de alta tensión, la prioridad es la seguridad del conductor y del personal de rescate. Inicialmente, se debe pedir al conductor que mantenga la calma y permanezca dentro de la cabina, si es seguro. A continuación, es imperativo solicitar a la compañía eléctrica el corte del suministro, proporcionando la localización exacta del incidente y las características de la instalación, como el número de torres o postes. Es fundamental mantener en todo momento las distancias de seguridad establecidas para alta tensión. Una vez confirmada la ausencia de tensión, se puede instruir al conductor para que mueva la máquina y la aleje de la zona eléctrica, evitando descender hasta que la seguridad esté garantizada. Si la máquina no puede ser movida o se ha incendiado, el procedimiento se adapta a estas circunstancias. Si el conductor debe abandonar la cabina, se le indicará que salte lo más lejos posible de la máquina, sin tocarla ni caerse, avanzando con pasos cortos o a saltitos para evitar contactos accidentales con el suelo energizado.
+**Identificación de Riesgos:**
+El riesgo principal de la intervención es la presencia de material radiactivo. Si ha habido una liberación del encapsulado, existe riesgo de contaminación. En tal caso, se debe trabajar desde el lado opuesto a la dirección del viento para rescatar al conductor.
 
-### Actuación en Rescates de Accidentados en Líneas Subterráneas de Alta Tensión
+Para facilitar la recopilación de información, una ficha como la que se muestra en la imagen (Ficha de información del siniestro) es útil. Esta ficha proporciona datos clave para la gestión del incidente.
 
-La distribución de electricidad en alta tensión, desde las plantas generadoras hasta las subestaciones transformadoras (ST) y los centros de transformación (CT), puede realizarse mediante líneas aéreas o subterráneas. En un escenario de accidente de tráfico con un conductor atrapado y presencia de material radiactivo en bultos, lo primero es cortar la corriente eléctrica. Se solicitará a la compañía el corte de tensión, proporcionando la localización y características importantes de la instalación. El rescate no debe iniciarse hasta que la compañía confirme que la instalación está completamente en descargo. Si el accidentado está en contacto con elementos energizados, el rescate se efectuará utilizando medios aislantes adecuados al nivel de tensión, como banquetas aislantes, pértigas y guantes dieléctricos. Si el accidentado no está en contacto, se le retirará a una zona segura, manteniendo siempre una distancia prudencial.
+**Tabla: Ficha de Información del Siniestro (Resumen)**
 
-### Reglas de Oro en Intervenciones Eléctricas
+| Campo                | Valor              | Observaciones                                                                         |
+| :------------------- | :----------------- | :------------------------------------------------------------------------------------ |
+| NIP                  | 70                 |                                                                                       |
+| Clase Peligro Físico | 7                  |                                                                                       |
+| Monitoreo            | 1916 (mSv/h)       |                                                                                       |
+| Cantidades           | UD-125             |                                                                                       |
+| Unidades             | 4                  |                                                                                       |
+| Periodo Intervención | Más de una hora    |                                                                                       |
+| Riesgo PPAL          | Irradiación        |                                                                                       |
+| Riesgos SECUNDARIOS  | Contaminación      |                                                                                       |
+| MEDIOS EXTERNOS      | Control y apoyo    |                                                                                       |
+| Control (Daños/MM.PP.) | Protección N-II    |                                                                                       |
+| Nivel Protección     | N-II               |                                                                                       |
 
-La seguridad es el pilar fundamental en cualquier intervención con riesgo eléctrico, tanto para alta como para baja tensión. Las **reglas de oro** son:
-*   **Para Alta Tensión:**
-    1.  Abrir con corte visible todas las posibles fuentes de tensión.
-    2.  Enclavar o bloquear los aparatos de corte que se hayan abierto.
-    3.  Comprobar la ausencia total de tensión en cada conductor tras el corte.
-    4.  Poner en corto y a tierra todas las posibles fuentes de tensión.
-    5.  Acotar y señalizar la zona de trabajo.
-*   **Para Baja Tensión:**
-    1.  Abrir con corte visible todas las posibles fuentes de tensión y comprobar la ausencia total de tensión en cada conductor tras el corte.
-    2.  Siempre que sea posible, se deben enclavar los aparatos de corte abiertos.
-    3.  Como medida recomendable, se debe poner en corto y a tierra todas las posibles fuentes de tensión, y acotar y señalizar la zona de trabajo.
+**Establecimiento del Nivel de Protección para los Intervinientes:**
+Para el acercamiento y rescate rápido, se utilizará un nivel de protección N-I. Si la contaminación es posible y la permanencia se prolonga, se evaluará la necesidad de un nivel N-II para una mejor descontaminación. Se verificará la posible contaminación del equipo con N-I.
 
-## Medios Materiales y Equipos para Intervenciones NRBQ
-
-Para la gestión de incidentes NRBQ, es crucial disponer de equipos de protección individual (EPI) y herramientas específicas que garanticen la seguridad de los intervinientes.
-
-### Equipos de Protección Individual (EPI) en Riesgo Eléctrico
-
-Para el personal de bomberos, la protección incluye una **pértiga aislante** diseñada para tensiones de hasta 36 kV, **detectores de tensión** para pértiga (con indicadores luminosos o acústico-luminosos, con o sin pila), una **pértiga de rescate** equipada con gancho para tensiones de hasta 45 kV, y **banquetas aislantes** para 30 kV. Para baja tensión, se emplean **alfombras aislantes** (1.000 V), **cizallas dieléctricas**, destornilladores y alicates aislados, manetas extractoras de fusibles, polímetros o pinzas amperimétricas, así como guantes de clase 0 y guantes de trabajo. La selección del EPI debe ser apropiada al riesgo y al material.
-
-### Herramientas y Equipos de Taponamiento y Contención NRBQ
-
-En el ámbito NRBQ, las herramientas son fundamentales para taponar, contener y trasvasar sustancias peligrosas. Para **taponamiento** de pequeños orificios, grietas o cortes en cisternas, contenedores o tuberías, se utilizan calzas, cojines neumáticos, cuñas de madera o teflón, pastas de taponamiento, bridas y separadores hidráulicos. Es crucial evitar el uso de cuñas metálicas en grietas de metal para prevenir chispas. Este proceso permite el trasvase posterior sin pérdida de producto. Las **vendas para sellado de fugas** se emplean para tuberías de diferentes diámetros, mientras que las **lanzas de sellado** permiten actuar a distancia. Los **kits de sellado de fugas** están diseñados para fugas de alta presión en tuberías. Para fugas de baja presión (hasta 0,4 bar), se utiliza **pasta selladora**. Los **contenedores de recogida de PRFV (Plástico Reforzado con Fibra de Vidrio)** son adecuados para el almacenamiento seguro de líquidos altamente agresivos. Los **cojines hermetizadores de alcantarilla** pueden sellar alcantarillas hasta 2 metros de altura de líquido, y los **cojines de drenaje de fugas** facilitan el sellado simple y el drenaje controlado de sustancias peligrosas. Los **kits de emergencias en cisternas** incluyen equipo de sellado, cubos, gafas, guantes (especialmente criogénicos para ciertas sustancias) y un obturador de alcantarillas, variando su contenido según la clase de producto.
-
-### Herramientas y Equipos de Trasvase y Desbroce
-
-Para el trasvase de líquidos explosivos e inflamables, se utilizan **bombas peristálticas**. En situaciones donde se requiere trabajar con sólidos o líquidos inflamables sin generar ignición de atmósferas explosivas, se emplean **herramientas "antichispas"** fabricadas con materiales como aluminio, bronce o cobre berilio.
-
-## Técnicas de Mitigación de Incidentes con Materiales Peligrosos
-
-La mitigación de incidentes con materiales peligrosos busca limitar el alcance de los daños y prevenir consecuencias mayores.
-
-### Criterios de Aplicación y Clasificación
-
-La elección de un método de mitigación se basa en la clase de siniestro (escape, fuga), el tipo y estado del material peligroso, la meteorología, la ubicación y los recursos humanos y materiales disponibles. Los métodos se clasifican en físicos y químicos. Los **métodos físicos** suelen ser seguros, rápidos y requieren poco material, mientras que los **métodos químicos** exigen alta especialización, equipamiento y materiales específicos.
-
-### Métodos Físicos de Mitigación
-
-Entre los métodos físicos se encuentran:
-*   **Absorción:** Proceso mediante el cual los materiales absorben y retienen líquidos por humectación, aumentando su volumen. Materiales comunes incluyen arenas, arcillas, serrín, sepiolitas y fibras poliolefínicas. Los absorbentes contaminados se consideran residuos peligrosos. Este método es idóneo para pequeños derrames.
-*   **Cubrimiento:** Mitigación temporal para fugas de materiales biológicos y radiactivos, reduciendo la emisión de vapores por efecto del viento o evaporación. Se utiliza plástico de polietileno, aplicándolo directamente sobre el derrame o el recipiente.
-*   **Dilución:** Consiste en aplicar agua a materiales peligrosos solubles en agua para disminuir su riesgo. Requiere que la sustancia no reaccione con el agua y genera un aumento considerable del volumen del derrame, lo que puede complicar el confinamiento. Es aplicable si el material es soluble y reduce su inflamabilidad o corrosividad.
-*   **Retención (Contención):** Se emplean barreras físicas o diques (de tierra, cemento o materiales sintéticos) para impedir el avance de una sustancia derramada o canalizarla. En el caso de GLP, las retenciones pueden combinarse con la dispersión de vapor. El confinamiento en tierra se utiliza en zonas no pavimentadas, considerando la pendiente y la cercanía a cursos de agua. Las excavaciones permiten abrir zanjas para contener derrames. El confinamiento en agua es más complejo y depende de la densidad y solubilidad de la sustancia.
-*   **Dispersión de Vapor:** Se aplica a fugas de gases, utilizando agua pulverizada para reducir la concentración de gases inflamables por debajo del límite de inflamabilidad o para mitigar nubes tóxicas y orientarlas a zonas menos peligrosas.
-*   **Sobre-empaquetamiento:** Consiste en introducir el recipiente dañado en otro hermético de mayor tamaño, debidamente etiquetado. Es un método rápido y adecuado para bidones o embalajes pequeños y para materiales radiactivos.
-*   **Taponamiento:** Técnica común para mitigar incidentes con materiales peligrosos, sellando pequeños orificios, grietas o cortes en cisternas, contenedores o tuberías. Se utilizan calzas, cojines neumáticos, cuñas de madera o teflón, pastas de taponamiento, bridas o separadores hidráulicos. Es fundamental evitar el uso de cuñas metálicas en depósitos de metal debido al riesgo de chispas.
-*   **Trasvase:** Implica trasladar un líquido, gas o sólido de un contenedor dañado a otro recipiente seguro. Requiere materiales y técnicas específicas, siendo generalmente ejecutado por los responsables de la distribución del producto. Puede ser manual (con bombas) o por diferencia de presión. En materiales inflamables, se debe usar equipo antideflagrante y tomas de tierra.
-*   **Supresión de Vapor (Manto):** Controla la emisión y dispersión de vapores de un derrame mediante la aplicación de espumas. Su efectividad depende de la relación de expansión, velocidad de fluidez, resistencia al calor, resistencia química y a alcoholes, así como de la dosificación y tasa de aplicación. La espuma de baja expansión es eficaz para fuegos de líquidos inflamables, la de media expansión para derrames y la de alta expansión para incendios interiores.
-*   **Relicuación:** Proceso que convierte gases licuados fugados nuevamente a estado líquido. Se canaliza la fuga a recipientes o piscinas cubiertas con lona para evitar la evaporación, aprovechando las propiedades físicas y la temperatura para inducir la condensación.
-
-### Métodos Químicos de Mitigación
-
-Los métodos químicos buscan eliminar o neutralizar contaminantes biológicos y químicos:
-*   **Adsorción:** El adsorbato (líquido peligroso) interactúa con la superficie rígida del sorbente sólido sin aumentar su volumen. Genera calor y ocurre en superficies activas como carbón activado o alúmina.
-*   **Dispersantes, Agentes Activos Superficiales y Aditivos Biológicos:** Se utilizan para dispersar materiales perjudiciales en derrames de líquidos, especialmente sobre agua. Conducen a una expansión del líquido y requieren aprobación ambiental.
-*   **Gelificación:** Forma un gel espeso a partir de un líquido peligroso, estabilizándolo. El gel resultante sigue siendo un material peligroso que debe eliminarse adecuadamente.
-*   **Neutralización:** Consiste en aplicar ácidos o bases a un derrame para formar una sal neutra, reduciendo la toxicidad o corrosividad. Puede liberar calor, por lo que se utilizan formulaciones especiales para evitar reacciones violentas.
-*   **Polimerización:** Consiste en hacer reaccionar un material peligroso con un catalizador (calor o luz) para formar una macromolécula (polímero). Puede ser por adición (sin residuos atómicos) o por condensación (con residuos atómicos pequeños como agua o ácido clorhídrico).
-*   **Solidificación:** Transforma químicamente un líquido peligroso en un sólido no peligroso. Los adsorbentes son un ejemplo, y también se pueden usar formulaciones especiales que forman una sal neutra. Permite confinar rápidamente pequeños derrames para su tratamiento.
+**Establecimiento de los Pasos Básicos de Intervención:**
+Se procederá al rescate del conductor. En la aproximación inicial, se tomará la carta de porte para la valoración. Además, se realizará un control de los tiempos de exposición y de la tasa de dosis.

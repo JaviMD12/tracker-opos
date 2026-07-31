@@ -1,13 +1,102 @@
-## Caracterización de Edificaciones y Estabilidad Estructural para Intervenciones de Emergencia
+El **Código Técnico de la Edificación (CTE)**, aprobado en 2006, establece el marco regulatorio principal para la construcción de edificios en España. Su propósito es definir los requisitos básicos de seguridad y habitabilidad que deben cumplirse en todas las fases del proceso edificatorio: proyecto, construcción, mantenimiento y conservación.
 
-La comprensión de las edificaciones y su estabilidad es fundamental para el personal de emergencias. Desde una perspectiva técnica, una edificación se concibe como el resultado de la combinación de elementos estructurales, complementarios y auxiliares. Los **elementos estructurales** son aquellos que poseen capacidad portante, es decir, están diseñados para recibir y transmitir las cargas a la cimentación, garantizando la estabilidad y resistencia del conjunto durante su vida útil (estimada en 50 años según el CTE DB SE) y manteniendo su aptitud de servicio, la cual limita deformaciones o anomalías inadmisibles. Por otro lado, los **elementos complementarios** son aquellos que, sin ser portantes, definen el espacio interior y aportan confort (como cerramientos, divisiones y acabados), mientras que los **elementos auxiliares** son estructuras provisionales utilizadas durante la construcción o reparación, careciendo de función una vez finalizadas las obras (ej. andamios o apeos).
+El contenido del CTE se organiza en dos grandes categorías de documentos:
 
-El **marco normativo** principal que rige la construcción en España desde 2006 es el Código Técnico de la Edificación (CTE), el cual establece requisitos de seguridad y habitabilidad. Dentro de este, destacan los Documentos Básicos de Seguridad (DB-SE, que incluye subnormativas para acciones en la edificación, cimientos, acero, fábrica y madera, además de seguridad en caso de incendio y seguridad de utilización y accesibilidad) y los Documentos Básicos de Habitabilidad (DB-HS para salubridad, DB-HR para protección frente al ruido y DB-HE para ahorro de energía). Asimismo, existen normativas complementarias como la Instrucción de Hormigón Estructural (EHE) o la Norma de Construcción Sismorresistente (NCSE), entre otras.
+*   **Documentos Básicos de Seguridad:**
+    *   **DB-SE (Seguridad Estructural):** Se subdivide en cinco normativas:
+        *   **DB-SE AE (Acciones en la Edificación):** Detalla las fuerzas o cargas externas que deben soportar las estructuras.
+        *   **DB-SE C (Cimientos).**
+        *   **DB-SE A (Acero).**
+        *   **DB-SE F (Fábrica).**
+        *   **DB-SE M (Madera).**
+    *   **DB-SI (Seguridad en caso de Incendio).**
+    *   **DB-SUA (Seguridad de Utilización y Accesibilidad).**
 
-En el análisis estructural para intervenciones de emergencia, los factores clave a considerar son la **geometría**, la **rigidez** y los **materiales** de la estructura. La geometría es crucial, ya que influye directamente en la magnitud y dirección de los esfuerzos y tensiones soportados. En este sentido, un **funicular** o **polígono funicular** describe la forma geométrica que adopta un cable al deformarse libremente bajo fuerzas externas, operando a tracción pura. Si la carga es solo el peso propio, se denomina **catenaria**; si es una carga lineal uniformemente repartida, se forma una **parábola**. Una **estructura funicular** es aquella donde la geometría permite solo esfuerzos de compresión y tracción, siendo la flexión inducida por cambios en la distribución de cargas. Es importante destacar que, en estas estructuras, al aumentar la flecha de un cable, las tensiones internas disminuyen.
+*   **Documentos Básicos de Habitabilidad:**
+    *   **DB-HS (Salubridad).**
+    *   **DB-HR (Protección frente al Ruido):** Fue aprobado con posterioridad al resto de documentos.
+    *   **DB-HE (Ahorro de Energía):** Exige la implementación de sistemas de energía solar y el uso de materiales y técnicas constructivas que fomenten el ahorro energético.
 
-La **rigidez** se define como la capacidad de un elemento para soportar esfuerzos sin sufrir deformaciones ni desplazamientos excesivos. Los **grados de libertad (GL)** representan los movimientos posibles de un cuerpo en un sistema plano, distinguiéndose los grados de libertad externos (GLE: desplazamiento vertical, horizontal y giro, sumando tres) y los internos (GLI). Las **coacciones** son las limitaciones impuestas a estos grados de libertad, y a mayor número de coacciones, menor será el número de grados de libertad. Un **nudo** es una conexión estructural que puede ser de tres tipos: un **apoyo** que limita el movimiento vertical (una coacción, dos GL restantes), una **articulación** que restringe movimientos verticales y horizontales (dos coacciones, un GL restante) o un **empotramiento** que suprime todos los movimientos (tres coacciones, cero GL). El grado de hiperestatismo se calcula como la diferencia entre el total de grados de libertad y el número de coacciones. Así, una estructura es **hiperestática** (estable) si GL < C, **isostática** si GL = C, y **hipostática** o un **mecanismo** (inestable) si GL > C. Los mecanismos son sistemas inestables que se desplazan ante una fuerza, aunque pueden ser "controlados" en procesos constructivos específicos.
+Complementariamente, deben considerarse otras normativas como:
+*   **EHE (Instrucción de Hormigón Estructural).**
+*   **EFHE (Instrucción para el proyecto y la ejecución de forjados unidireccionales de hormigón estructural realizados con elementos prefabricados).**
+*   **NCSE (Norma de Construcción Sismorresistente):** Parte general y edificación.
+*   Entre otras.
 
-Un análisis estructural completo implica varias fases: primero, evaluar el equilibrio previo a cualquier patología (Fase 0); luego, estudiar el nuevo equilibrio de la estructura dañada (Fase 1); y finalmente, proponer y justificar soluciones, priorizando siempre aquellas que minimicen el riesgo para los intervinientes (Fase 2).
+Para un análisis integral del comportamiento estructural, especialmente en intervenciones de emergencia, se consideran tres factores clave que los bomberos pueden identificar:
+*   **Geometría:** La forma de una estructura es el factor de mayor impacto en su comportamiento, influyendo directamente en la magnitud y dirección de los esfuerzos y tensiones soportadas. Un ejemplo de esto es cómo un simple cambio geométrico en un papel A4 puede permitirle soportar un peso significativamente mayor, ilustrando la importancia del diseño estructural.
+*   **Rigidez.**
+*   **Materiales** (previamente abordados).
 
-En cuanto a los **elementos estructurales más comunes**, se distinguen las **estructuras enterradas** o **cimentaciones** y las **estructuras aéreas**. Las cimentaciones, al estar en contacto con el terreno, transmiten las cargas de la edificación y resisten los empujes del terreno. El **terreno de cimentación** se clasifica por su composición y resistencia en rocas (estables, alta resistencia), terrenos no cohesivos (arenas y gravas, muy permeables, sin cohesión), terrenos cohesivos (arcillas y barros, impermeables, asientos lentos) y terrenos deficientes (fangos, suelos orgánicos, rellenos, con muy baja presión admisible). Según el CTE DB SE-C, los terrenos se agrupan en T-1 (favorables), T-2 (intermedios) y T-3 (desfavorables), lo que orienta las soluciones de cimentación.
+### 6.1. Elementos estructurales
+
+Se definen como el conjunto de componentes de una edificación diseñados para soportar cargas (equilibrio) y transmitirlas al terreno sin sufrir deformaciones excesivas (elasticidad). También se les conoce como elementos portantes.
+
+En relación con esta definición:
+*   La **capacidad portante** de una estructura se refiere a la aptitud de un edificio para garantizar la estabilidad general y la resistencia necesaria durante su período de servicio, que por defecto es de 50 años según el CTE DB SE.
+*   La **aptitud de servicio** es la capacidad de limitar deformaciones, degradaciones o anomalías inadmisibles, conforme al uso previsto del edificio.
+
+El **marco normativo** para los sistemas estructurales es amplio debido a su importancia.
+
+### 6.1.2. Rigidez
+
+La rigidez se define como la capacidad de un elemento estructural para soportar esfuerzos sin experimentar deformaciones o desplazamientos excesivos. Para una correcta comprensión de este concepto, es necesario analizar varios elementos asociados:
+
+*   **Grados de Libertad (GL):** Representan el conjunto de movimientos posibles (o no impedidos) de un cuerpo en un sistema plano. Indican la mayor o menor facilidad de un cuerpo para desplazarse en el espacio. Se distinguen:
+    *   **Grados de Libertad Externos (GLE):** Se refieren a la facilidad de movimiento del cuerpo en el espacio. Un elemento estructural en un sistema plano posee tres movimientos potenciales o grados de libertad: desplazamiento vertical, desplazamiento horizontal y giro.
+    *   **Grados de Libertad Internos (GLI).**
+
+*   **Coacciones:** Son las limitaciones que un cuerpo presenta frente a sus grados de libertad. Un mayor número de coacciones implica una menor cantidad de grados de libertad (y viceversa). Se clasifican en:
+    *   **Coacciones Externas (CE).**
+    *   **Coacciones Internas (CI).**
+
+*   **Nudo:** Es la conexión o vínculo estructural entre dos o más elementos portantes. La clasificación del nudo depende de las limitaciones de movimiento (coacciones externas/internas) que presente. Se identifican tres tipologías:
+    *   **Apoyo:** Un nudo estructural que restringe los movimientos verticales, pero permite los movimientos horizontales y giros. Genera 1 coacción y permite 2 grados de libertad.
+    *   **Articulación:** Un nudo que limita los desplazamientos verticales y horizontales, pero permite los giros. Genera 2 coacciones y permite 1 grado de libertad.
+    *   **Empotramiento:** Un nudo que restringe todo tipo de movimientos (verticales, horizontales y giros). Genera 3 coacciones y permite 0 grados de libertad.
+
+A continuación, se presenta una tabla para el cálculo de coacciones internas:
+
+**Tabla 19. Cálculo de coacciones internas**
+
+|  | Bars supported entre sí: | Bars articulated entre sí: | Bars embedded entre sí: |
+| :------------------ | :------------------- | :--------------------- | :-------------------- |
+| **n** | 2 | 2 | 2 | 3 | 2 | 2 | 3 |
+| **CI** | n-1 = 1 | 2 (n-1) = 2 | 2 (n-1) = 2 | 2 (n-1) = 4 | 3 (n-1) = 3 | 3 (n-1) = 3 | 3 (n-1) = 6 |
+
+Es importante señalar que la seguridad de un nudo no se mide por la cantidad de coacciones o la reducción de grados de libertad. Cada tipo de nudo está diseñado para una función específica dentro de la estructura, y un conjunto estructural puede integrar diferentes modelos de nudos para cumplir su función correctamente.
+
+Como ejemplo, consideremos un columpio básico. Para un funcionamiento correcto, este requerirá:
+*   **Empotramientos:** En la base del conjunto y entre las piezas principales (larguero y postes).
+*   **Articulaciones:** Para que el columpio pueda oscilar, situadas en los encuentros con el larguero superior y el asiento.
+*   **Apoyo:** Al sentarse una persona, el asiento se configura como un apoyo simple, permitiendo que la persona se levante.
+
+El columpio dejaría de funcionar correctamente si alguno de estos nudos fallara, por ejemplo, si se rompe la base del empotramiento, se bloquea la articulación superior o el ocupante cae debido a un exceso de velocidad en el apoyo.
+
+**Isostaticidad e Hiperestaticidad (I)**
+Para comprender el comportamiento real de una estructura, es fundamental analizar sus nudos en conjunto, introduciendo los conceptos de isostaticidad, hiperestaticidad e hipostaticidad.
+
+**I.1. Estructuras Isostáticas / Predeterminadas**
+*   **Definición:** Un sistema estructural que, aunque presenta un equilibrio limitado, es suficiente para mantener la estabilidad. Estas estructuras se pueden analizar y resolver utilizando la 1ª Ley de Newton, donde la suma de fuerzas (ΣF) y momentos (ΣM) en cada cuerpo es igual a cero.
+    *   F = 0; ΣM = 0
+*   **Ventajas:** Las diferencias de temperatura no generan nuevas tensiones, ya que permiten la libre dilatación de los elementos.
+*   **Inconvenientes:** A pesar de su estabilidad mínima, el incremento de tensión causado por la supresión o fallo de cualquier componente (barra, nudo, placa, etc.) no puede ser absorbido por el resto de elementos, lo que conduce al colapso.
+
+**I.2. Estructuras Hiperestáticas / Indeterminadas**
+*   **Definición:** Un sistema estructural con un fuerte equilibrio, ofreciendo mayor seguridad de la que sería necesaria para el equilibrio básico (isostático). Su análisis requiere considerar los principios de la estática y la compatibilidad de movimientos entre sus elementos.
+*   **Ventajas:**
+    *   **Seguridad:** Posee más elementos estructurales de los necesarios para la estabilidad. Por tanto, la supresión o fallo de un elemento no provoca el colapso inmediato. Los esfuerzos se redistribuyen entre los elementos no dañados, generando desplazamientos y nuevas tensiones internas para lograr el equilibrio.
+    *   **Coste:** Aunque son más complejas de construir y tienen un mayor costo de mano de obra, permiten lograr estructuras con menores secciones para las mismas cargas o mayores luces para secciones iguales, gracias a un amplio margen de seguridad.
+    *   **Geometría:** Permiten luces mayores que las estructuras isostáticas o, equivalentemente, el uso de secciones más pequeñas para luces idénticas.
+    *   **Rigidez:** Presentan menores deformaciones ante cargas idénticas y un mejor comportamiento frente a acciones dinámicas.
+
+**6.2. Problema Genérico de Estabilidad Estructural**
+Para un estudio completo de la estabilidad estructural, se recomienda seguir una evolución de la patología:
+*   **Fase 0:** Analizar el equilibrio de la estructura antes de la patología.
+*   **Fase 1:** Estudiar el nuevo equilibrio de la estructura dañada.
+*   **Fase 2:** Proponer y justificar soluciones pertinentes mediante un breve cálculo, eligiendo siempre la opción con menor riesgo para los intervinientes.
+
+Aplicaremos estos pasos a un potencial derrumbe de una viga Pratt (base de una cubierta, puente, marquesina, etc.).
+
+**Fase 0: Estabilidad Previa a la Patología**
+El esquema estructural de la viga Pratt en su estado original (Imagen 214) muestra una configuración hiperestática, lo que indica un alto grado de estabilidad estructural.

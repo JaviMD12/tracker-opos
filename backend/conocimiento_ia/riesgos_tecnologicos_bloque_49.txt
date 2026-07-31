@@ -1,0 +1,45 @@
+El contenido presente ha sido elaborado por Grupo Tragsa y CEIS Guadalajara, bajo licencia Creative Commons CC BY-NC-SA 4.0. Se prohíbe el uso comercial de la obra original y de sus posibles derivados. La distribución de obras derivadas debe hacerse con una licencia idéntica. No se permite la distribución o modificación de las imágenes sin autorización previa de los autores o propietarios originales.
+
+## ANEXOS: APEOS ESTANDARIZADOS
+
+### Apeos en Muros de Altura Inferior a 6 Metros (h<6m)
+
+**Notas Generales para los Apeos:**
+
+*   Cada plano representa un conjunto elemental. El apeo completo se conforma con el número de conjuntos elementales que sean necesarios.
+*   Las dimensiones indicadas son genéricas. El responsable de la intervención deberá ajustar la capacidad mecánica del apeo a las solicitaciones previstas.
+*   Es posible emplear materiales con geometrías y calidades distintas a las especificadas en los planos, siempre que se considere el cambio correspondiente en la capacidad mecánica.
+*   El conjunto elemental base posee una capacidad mecánica de 20 kN para una carga puntual horizontal a 2 metros de altura, y de 15 kN para una carga puntual horizontal a 4,5 metros de altura.
+*   La cantidad de conjuntos elementales a utilizar se determinará en función de la zona afectada o la carga esperada, considerando las siguientes acciones:
+    *   Muros expuestos al viento: 1,5 kN/m².
+    *   Fachadas desplomadas de fábrica, según la inclinación:
+        *   10º: 0,9 kN/m².
+        *   20º: 1,8 kN/m².
+        *   30º: 2,9 kN/m².
+        *   Para fachadas de 50 cm de espesor:
+            *   10º: 2,2 kN/m².
+            *   20º: 4,5 kN/m².
+            *   30º: 7,2 kN/m².
+    *   Depósitos de agua (carga puntual en kN/m²):
+        *   Profundidad de 1 m: 5 kN/m².
+        *   Profundidad de 2 m: 10 kN/m².
+        *   Profundidad de 3 m: 15 kN/m².
+    *   Contención de tierras (carga puntual en kN/m²):
+        *   Arcilla:
+            *   1 m de profundidad: 4,9 kN/m².
+            *   2 m de profundidad: 9,8 kN/m².
+            *   3 m de profundidad: 14,7 kN/m².
+        *   Grava/Arena:
+            *   1 m de profundidad: 3,3 kN/m².
+            *   2 m de profundidad: 6,7 kN/m².
+            *   3 m de profundidad: 10 kN/m².
+*   La distancia entre conjuntos (d) se calcula como: `d = capacidad del apeo / (carga x altura) = 20 kN / (c x h)`. Esta distancia no debe exceder los 4 metros.
+
+### Apeos en Forjados de Altura Inferior a 3 Metros (h<3m) con Fallo en Apoyo
+
+**Notas Generales para los Apeos:**
+
+*   Cada plano representa un conjunto elemental. El apeo completo se conforma con el número de conjuntos elementales que sean necesarios.
+*   Las dimensiones indicadas son genéricas. El Mando de Intervención deberá adaptar la capacidad mecánica del apeo a la solicitación previsible.
+*   Es posible emplear materiales con geometrías y calidades distintas a las especificadas en los planos, considerando el cambio correspondiente en la capacidad mecánica.
+*   El conjunto elemental base posee

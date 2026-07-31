@@ -1,74 +1,130 @@
-# Caracterización y Tipología de los Derrumbes Estructurales
+El siguiente temario aborda las técnicas de intervención en apeo y poda de arbolado, incluyendo la evaluación de riesgos, el uso de herramientas específicas y la ejecución de diversas operaciones.
 
-La gestión de emergencias que involucran el colapso de estructuras requiere una intervención rápida y coordinada por parte de los servicios de bomberos. Un derrumbe, definido como el desplome total o parcial de una construcción, puede tener diversas causas y manifestarse de múltiples formas, lo que exige un conocimiento profundo para una respuesta efectiva.
+**5. Técnicas de Apeo y Poda de Arbolado**
 
-## Causas de los Derrumbes
+**3. Técnicas de Apeo de Arbolado**
 
-Los derrumbes pueden ser categorizados en dos grandes grupos según su origen: naturales y antrópicos.
+**3.4. Técnicas de Apeo en Condiciones Singulares**
 
-### Causas Naturales
+**3.4.5. Modificación de la Caída Natural con Tractel**
+*   **Aplicación:** Se utiliza el tractel cuando se desea alterar la dirección natural de caída de un árbol o asegurar una caída precisa en entornos urbanos con elementos vulnerables (viviendas, vehículos, tendido eléctrico).
+*   **Pasos a seguir:**
+    1.  Colocar el anclaje del tractel en el punto más alto posible del árbol para orientar su caída, manteniendo una distancia segura.
+    2.  Buscar un anclaje resistente para el tractel (otro árbol grande, un camión). El anclaje debe estar a una distancia superior al doble de la altura del árbol a apear. Si no se puede mantener la distancia de seguridad, se realizará un reenvío para accionar el tractel desde una zona segura utilizando una cuerda semiestática.
+    3.  Establecer un perímetro de seguridad, superior al doble de la altura del árbol. Solo el motoserrista y el coordinador del tractel deben permanecer dentro de este perímetro.
+    4.  Coordinar la tensión del tractel con el corte del árbol durante el corte de derribo. El operario del tractel debe tensar progresivamente mientras el motoserrista corta. Si el tractel se tensa demasiado rápido, puede fracturar el tronco; si el motoserrista se adelanta, el corte puede cerrarse por el peso del árbol.
+    5.  Si el árbol no cae tras alcanzar la bisagra en el corte, el operario del tractel debe seguir accionándolo hasta provocar la caída.
 
-Los desastres naturales, eventos como terremotos, aludes, inundaciones o huracanes, superan los umbrales de normalidad y pueden provocar colapsos estructurales.
+**3.4.6. Apeo de Árbol Podrido o Hueco**
+En presencia de árboles con pudriciones o debilidad interna, no se recomienda el apeo convencional debido a posibles comportamientos imprevisibles. En estos casos, se utiliza la técnica del corte de corazón o mortaja para eliminar las fibras resistentes del núcleo central, reduciendo así la posibilidad de rajado del árbol.
+*   Se debe aplicar un mayor grosor a la bisagra o charnela.
+*   El corte de derribo se realiza ligeramente más alto que en un apeo normal.
 
-1.  **Terremotos (Seísmos o Sismos):**
-    Son sacudidas bruscas y transitorias de la corteza terrestre, producto de la liberación de energía en forma de ondas sísmicas. Sus causas principales son las rupturas de fallas geológicas, aunque también pueden deberse a la fricción entre placas tectónicas, procesos volcánicos o incluso actividades humanas que inducen movimientos sísmicos (como grandes embalses o explosiones nucleares). Para su medición se utilizan escalas como la Richter (magnitud) y la MSK (intensidad).
-    *   El **hipocentro** es el punto de origen en el interior profundo de la Tierra, mientras que el **epicentro** es su proyección en la superficie, donde el impacto sísmico es más intenso.
-    *   La energía se propaga mediante ondas sísmicas, clasificadas en **ondas longitudinales (P)**, **transversales (S)** e **ondas superficiales** (Rayleigh y Love), estas últimas con mayor amplitud y carácter destructivo.
-2.  **Aludes o Corrimientos de Tierra:**
-    Estos desastres implican el deslizamiento de masas de tierra, rocas y otros elementos. Pueden ser provocados por terremotos, erupciones volcánicas o inestabilidad del terreno. Los **deslaves de barro o lodo**, causados por la saturación del suelo debido a fuertes lluvias, son una variante.
-    *   Las **deslizamientos** ocurren cuando una masa de terreno inestable se mueve sobre una superficie estable.
-    *   Los **flujos de arcilla** son movimientos lentos de suelos arcillosos saturados, comunes en pendientes suaves.
-    *   La **licuefacción** es un fenómeno donde el suelo granular se comporta como un líquido denso.
-    *   La **reptación** es un movimiento extremadamente lento de las capas superficiales de las laderas arcillosas, influenciado por las variaciones estacionales de humedad.
-3.  **Riesgos Cósmicos:**
-    Se refieren a fenómenos del espacio exterior con potencial de impacto en la superficie terrestre. Los **asteroides** (cuerpos rocosos o metálicos en órbita solar) y los **meteoritos** (fragmentos que se calientan e ignitan al entrar en la atmósfera) representan este riesgo.
-4.  **Riesgos Volcánicos:**
-    Implican la emergencia de magma, lava, ceniza o gases desde el interior de la Tierra. Las erupciones varían en intensidad y pueden generar **avalanchas de origen volcánico** (torrentes de lodo y cenizas) o **erupciones fisurales** (grandes extensiones de lava fluida).
+**3.4.7. Apeo por Derribo**
+El derribo se realiza cuando es más conveniente tirar el árbol con tractel sin efectuar cortes con motosierra, por ejemplo, si el árbol tiene una gran grieta vertical y amenaza con caerse en cualquier momento, o se ha inclinado excesivamente por fallo radicular.
 
-### Causas Antrópicas
+**4. Técnicas a Aplicar Sobre el Árbol Caído**
 
-Las acciones humanas son una fuente significativa de derrumbes, a menudo amplificando los desastres.
+Existen situaciones donde un árbol ya ha caído (tormenta, accidente de tráfico, errores de apeo) y queda enganchado en otro árbol o elementos peligrosos (viviendas, coches, tendido eléctrico). La forma de actuar depende de la posición (estable o inestable) y la causa de la caída.
 
-1.  **Falta de Mantenimiento de la Edificación:**
-    Es una causa frecuente en edificios antiguos. La acumulación de pequeños defectos por el paso del tiempo, inclemencias meteorológicas o roturas de conductos de agua puede llevar a un colapso inevitable si no se corrigen a tiempo.
-2.  **Reformas Inadecuadas:**
-    Una mala planificación o ejecución de reformas, ya sea en el propio edificio o en uno colindante, puede comprometer gravemente la estabilidad estructural, llegando a requerir demoliciones controladas y trabajos de afianzamiento importantes.
-3.  **Construcciones Paralelas:**
-    La ejecución de obras en edificios adyacentes, especialmente demoliciones, puede afectar a estructuras colindantes si no se evalúan y gestionan adecuadamente las cargas y apoyos. A menudo se requiere maquinaria ligera para evitar vibraciones excesivas.
-4.  **Explosiones de Gas:**
-    Suelen manifestarse en los puntos más débiles de fachadas y cerramientos, a menos que el escape de gas sea generalizado. Las explosiones de butano o propano afectan comúnmente cocinas o habitáculos. Es crucial manejar con precaución las posibles bolsas de gas.
-5.  **Atentados Terroristas:**
-    Son las causas más destructivas y peligrosas, dada la posibilidad de artefactos sin detonar. Las intervenciones requieren una estrecha coordinación con las fuerzas de seguridad y priorizan el rescate de víctimas.
-6.  **Incendios:**
-    Los incendios suelen provocar derrumbes en edificaciones no construidas con hormigón armado. Las estructuras de madera colapsan al consumirse, mientras que las metálicas se desploman al perder sus propiedades resistentes por el calor.
+**4.1. Apoyado sobre Otro Árbol**
+Si el fuste del árbol interrumpe su trayectoria de caída al apoyarse en otro árbol cercano, se deben tomar las siguientes medidas de seguridad:
+*   Nunca derribar un segundo árbol hacia el que ya tiene uno enganchado.
+*   No desenganchar un árbol derribándole otro encima.
+*   Nunca apear un árbol sobre el que ya hay otro enganchado.
+*   Nunca trabajar debajo de un árbol enganchado si está sobre otro árbol o un elemento inestable.
 
-## Tipologías de Derrumbes para Intervención
+**4.1.1. Técnica del Corte de Buzón**
+*   **Pasos a seguir:**
+    1.  Respetar la charnela o bisagra, fundamental para esta técnica. Si no se tiene, recurrir a tracción mecánica.
+    2.  Evaluar el punto donde el árbol apoyado descansa su peso.
+    3.  Cortar la charnela o bisagra con precaución desde el lado del apoyo, observando el comportamiento del árbol para prever riesgos.
+    4.  Retirarse a una posición segura cuando el árbol inicie el movimiento de caída.
+    5.  Repetir la operación hasta que el árbol caiga. Si no ha caído, usar una palanca (puntal metálico o rama con eslinga) para girarlo sobre el eje de la charnela no cortada.
 
-Para los cuerpos de bomberos, la evaluación de un derrumbe se centra en la existencia de "huecos de vida" y la probabilidad de encontrar supervivientes. La tipología de derrumbe influye en las tácticas de rescate y en los recursos necesarios.
+**4.1.2. Técnica del Corte Escalonado**
+Esta técnica se utiliza para retirar un árbol enredado que tiene su extremo inferior clavado en el suelo, con cortes y fracturas que forman un escalón. El tronco debe tener una superficie de deslizamiento adecuada.
+*   **Pasos a seguir:**
+    1.  Colocar una superficie deslizante (ramas y troncos).
+    2.  Realizar un primer corte en la parte posterior del árbol, con una profundidad aproximada de la mitad del diámetro del tronco.
+    3.  Igualar el corte en el lado opuesto. Si el diámetro del árbol es mayor que la longitud de la espada, usar un chaflán en la parte frontal.
+    4.  Insertar una cuña para evitar que la motosierra se atasque.
+    5.  Efectuar el segundo corte desde la parte frontal del árbol hasta la mitad del diámetro, paralelo y entre 3 y 5 cm por debajo del primero.
+    6.  Introducir la cuña en la ranura y golpearla hasta que las fibras se partan y el tronco resbale.
+    7.  Usar una palanca (rama o vara de 2 a 3 metros) para desplazar el árbol hasta que caiga.
+    8.  Si el árbol no se suelta, repetir el procedimiento.
 
-1.  **Derrumbe Oblicuo, Lateral o de Plano Inclinado:**
-    Se produce por el colapso de pilares o muros de carga laterales, donde la losa superior queda parcialmente apoyada en un elemento contiguo (muro o pilar), formando espacios inclinados. Las víctimas pueden encontrarse tanto al pie del plano inclinado como bajo los escombros o en los huecos cerca de los muros. En este tipo, las losas metálicas no suelen formar planos inclinados, sino que se rompen.
-2.  **Superposición de Planos o Derrumbe Total:**
-    Caracterizado por "escombros en estratos horizontales e inclinados", resultado de múltiples plantas colapsando una sobre otra. Cuanto mayor es la inclinación de los estratos, más probable es que los objetos resistentes formen "huecos de vida". El rescate es complejo y prolongado, requiriendo maquinaria pesada y equipos de localización (caninos, geófonos).
-3.  **Marquesina:**
-    Consiste en un hueco libre de escombros, delimitado por un plano inclinado, un muro vertical y el suelo. Estos espacios son cruciales para la supervivencia de víctimas y para las operaciones de escucha y depósito de escombros. Una variante es el derrumbe en "V", una marquesina doble causada por el colapso central de una cubierta o forjado. El acceso para rescate se realiza mediante perforación de paredes.
-4.  **Espacio Relleno:**
-    Se define como un "recinto lleno de escombros", donde el interior de una estancia se inunda completamente de detritus, con mínimas posibilidades de "huecos de vida". Suele ocurrir en sótanos. La intervención puede requerir la apertura de galerías para acceder a víctimas.
-5.  **Espacio Inundado-Embarrado:**
-    Similar al espacio relleno, pero cubierto de agua y lodo, generalmente en sótanos o refugios donde el agua de tuberías dañadas o la extinción se mezcla con los escombros. Esto crea una masa consistente con alto riesgo de asfixia o ahogamiento, con baja probabilidad de supervivencia. La primera medida es evacuar el agua.
-6.  **Espacio Estratificado:**
-    Un "recinto lleno de escombros estratificados y comprimidos", donde los escombros se acumulan y compactan en el sótano o planta baja, con los muros permaneciendo en pie. La probabilidad de "huecos de vida" aumenta con la inclinación de los estratos. Las víctimas se encuentran entre los estratos.
-7.  **Tapón de Escombros:**
-    Resultado de colapsos parciales donde los escombros bloquean los accesos, formando un cono. Implica riesgos de asfixia, escapes de gas e inundación. Antes de desalojar, se debe verificar la estabilidad de los escombros pendientes.
-8.  **Local Impactado:**
-    Recinto o edificio afectado por una explosión que conserva su forma inicial, pero con una solidez comprometida. Las explosiones pueden dañar varias plantas, provocando colapsos parciales o afectando edificios vecinos. La intervención requiere extrema precaución para evitar colapsos adicionales.
-9.  **Nido de Golondrinas:**
-    Se produce cuando el suelo resiste el derrumbe, pero las paredes y el techo no. El acceso es difícil y peligroso, requiriendo equipos de salvamento en altura.
-10. **Escombros Adosados al Exterior:**
-    Acumulación compacta y continua de escombros fuera del edificio, al pie de la fachada, alcanzando la altura del primer piso. Las víctimas pueden ser ocupantes arrastrados o transeúntes. Antes de usar maquinaria pesada, se debe buscar víctimas y prestar atención al riesgo de derrumbe de la fachada.
-11. **Escombros Dispersos en el Exterior:**
-    Fragmentos de objetos destruidos (árboles, vehículos) esparcidos sobre la vía pública, dificultando el acceso de equipos de socorro. Las víctimas pueden ser proyectadas o transeúntes. Se deben buscar indicios de presencia humana.
-12. **Cono de Escombros:**
-    Montón cónico de escombros resultante del derrumbe total de un edificio, con la estructura completamente destrozada y muy baja supervivencia. Las víctimas pueden estar en cualquier punto del cono. Si existen sótanos o refugios, se deben desescombrar sus entradas y salidas, o acceder desde sótanos vecinos mediante galerías.
+**4.1.3. Desenganche con Tractel o Cabestrante**
+Si la técnica del corte escalonado no logra desenganchar el árbol, se utiliza el tractel con una técnica similar a la de modificar la dirección de caída natural.
+*   **Pasos a seguir:**
+    1.  Colocar una eslinga en la parte baja del tronco, nunca debajo del árbol. Se recomienda hacer una muesca en la parte inferior del tronco para un mejor asiento de la eslinga.
+    2.  Tirar del tronco con el tractel en la dirección con mayores probabilidades de caída.
 
-En cualquier intervención de derrumbe, la valoración inicial y continua es fundamental para determinar las tácticas más adecuadas, priorizando siempre el rescate de vidas y la seguridad del personal interviniente. Los equipos de Búsqueda y Rescate en Estructuras Colapsadas (BREC) o USAR son clave en estas situaciones.
+**4.2. Apoyado sobre Elemento Inestable o Peligroso**
+Esta es una situación compleja con múltiples escenarios (casas, vehículos, farolas). Se requiere una evaluación cuidadosa para determinar el riesgo y la secuencia de acciones.
+*   **Aspectos a valorar:** estabilidad del conjunto, riesgo para bienes/personas, fuerzas de tensión y compresión generadas y puntos de aplicación, peso del árbol.
+*   Una vez evaluado, se realizarán las acciones pertinentes (apuntalar, fijar o descolgar el árbol).
+
+**4.3. Desarraigado o Derribado por el Viento**
+En estos casos, se aplican varias técnicas de apeo y/o combinaciones de cortes.
+*   **Pasos a seguir:**
+    1.  Evaluar la situación de la madera del tronco (presión/compresión de fibras) para prever riesgos al cortarlo.
+    2.  Separar el tronco de la raíz, realizando cortes cerca de la zona superficial. Si es necesario, se anclará la raíz con cables o estacas. Se valorará si desramar el tronco es necesario.
+    3.  Tronzar el resto del tronco utilizando técnicas de tronzado en tensión o compresión.
+
+**4.4. Arrastre del Árbol Caído**
+Si es posible retirar un árbol apeado a pocos metros para finalizar la intervención rápidamente y con menos esfuerzo (ej., árbol sobre carretera), se usa el tractel.
+Un tractel puede arrastrar un árbol con el doble de su capacidad nominal de elevación. El T-13 (1500 kg de elevación) puede arrastrar 3000 kg sobre hormigón. La forma cilíndrica del árbol reduce el rozamiento. Sobre carretera mojada se arrastra más peso; sobre tierra, menos. Colocar la polea del tractel en la carga duplica el peso movible.
+La dificultad principal es encontrar un punto de anclaje suficientemente fuerte y bien ubicado.
+
+**4.5. Desramado**
+Es necesario desramar un árbol caído o apeado que afecta la vía pública o una carretera.
+*   **Riesgos principales:**
+    *   Ramas como obstáculos que dificultan el movimiento y visibilidad.
+    *   Ramas que reaccionan como ballestas o ganchos.
+    *   Posturas de trabajo que acercan la espada de corte al cuerpo.
+    *   Aumento de rebotes al tocar la punta de la espada con ramas u obstáculos.
+*   Se recomienda usar motosierras medianas o pequeñas con espadas cortas.
+*   **Precauciones:**
+    *   Colocarse en el lado más seguro del tronco.
+    *   Avanzar siempre con el tronco del árbol tendido a la derecha.
+    *   Nunca trabajar más de un operario desramando el mismo árbol.
+    *   Cortar ramas gruesas en varias fases para reducir desgajes y evitar que la motosierra quede atrapada.
+
+**4.6. Técnicas de Tronzado**
+Al tronzar el fuste, considerar:
+*   **Fuerzas de tensión y compresión:** Pueden causar reacciones inesperadas al cortar. Es vital evaluar la situación del tronco.
+*   **Dominio de la motosierra:** El trabajo cerca del suelo y con obstáculos requiere control.
+*   **Uso de la parte inferior de la espada:** Es más seguro y menos fatigoso.
+*   **Agarre de la mano izquierda:** Firme, con todos los dedos (incluido el pulgar) por debajo de la empuñadura.
+*   **Corte de descarga:** Siempre un corte de descarga en la zona de compresión, seguido de un corte completo desde la zona de tensión hasta unirlo con el primero.
+
+**4.6.1. Fuste Sometido a Tracción**
+La madera en zonas de tracción es sensible a la rotura; al cortar, la zona se separa de la espada. Situarse en el lado opuesto a la tensión.
+
+**4.6.2. Fuste Sometido a Compresión**
+La madera en zonas de compresión es resistente a la rotura; al cortar, la zona se cierra sobre la espada, dificultando el avance.
+
+**4.6.3. Fuste Apoyado sobre sus Dos Extremos**
+Caso común donde las fibras superiores están a compresión y las inferiores a tracción. La parte superior tiene riesgo de atrapar la espada.
+*   **Actuación:**
+    1.  Pequeño corte en la parte superior para evitar desgarramientos.
+    2.  Corte ascendente desde la parte inferior hasta coincidir con el inicial.
+
+**4.6.4. Fuste con un Extremo Apoyado y Otro Suspendido**
+Caso frecuente con fibras superiores a tracción y las inferiores a compresión, lo que implica riesgo de atrapamiento de la espada en la parte inferior.
+*   **Pasos a seguir:**
+    1.  Realizar un pequeño corte en la parte inferior para evitar desgarramientos.
+    2.  Realizar un corte descendente desde la parte superior hasta coincidir con el inicial.
+
+**4.6.5. Fuste Apalancado Lateralmente**
+Menos frecuente. Las tensiones se producen en los laterales del tronco.
+*   **Actuación:**
+    1.  Situarse en la zona de compresión (donde el tronco no se moverá).
+    2.  Realizar un corte ligero en la parte interior del tronco (la más cercana al operador).
+    3.  Finalizar el corte desde el lado opuesto.
+
+**5. Técnicas de Poda**
+Se refiere al corte de ramas peligrosas de un árbol en pie. Las ramas se dividen en:
+1.  **Ramas finas:** menos de 10 cm de diámetro y no muy largas.
+2.  **Ramas grandes:** más de

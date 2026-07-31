@@ -1,35 +1,139 @@
-# Soporte Vital Básico y Manejo de Obstrucciones de Vía Aérea en Adultos y Pacientes Pediátricos
+## 3. Obstrucción de la Vía Aérea por Cuerpo Extraño (OVACE) en Adultos
 
-El **Soporte Vital Básico (SVB)** constituye el conjunto de maniobras esenciales dirigidas a revertir una parada cardiorrespiratoria (PCR), garantizando las funciones ventilatoria y circulatoria para la supervivencia del paciente. En este contexto, una valoración inicial rápida y una intervención eficaz son cruciales, tanto en adultos como en pacientes pediátricos, así como en situaciones específicas como la **Obstrucción de la Vía Aérea por Cuerpo Extraño (OVACE)**.
+Cuando un paciente adulto presenta una Obstrucción de la Vía Aérea por Cuerpo Extraño (OVACE), se debe proceder a una evaluación y actuación rápida siguiendo una secuencia de pasos:
 
-## Manejo de la Obstrucción de Vía Aérea por Cuerpo Extraño (OVACE)
+*   **Paciente consciente con tos efectiva:** Se le debe animar a continuar tosiendo y se observará su evolución. Es crucial **no aplicar golpes en la espalda**, ya que esto podría agravar la situación desplazando el cuerpo extraño más profundamente.
+*   **Paciente consciente con tos inefectiva:** Se realizarán las siguientes maniobras:
+    1.  **Cinco palmadas interescapulares:** Aplicar con el talón de la mano entre los omóplatos del paciente, inclinándolo previamente hacia delante.
+    2.  **Cinco compresiones abdominales (Maniobra de Heimlich):** Si las palmadas interescapulares no logran desobstruir la vía aérea, rodear al paciente por detrás, colocar una mano cerrada en forma de puño justo debajo del esternón y la otra mano sobre ella. Realizar compresiones rápidas y firmes hacia adentro y hacia arriba.
+*   **Paciente inconsciente o en Parada Cardiorrespiratoria (PCR):** Se iniciarán de inmediato las maniobras de Reanimación Cardiopulmonar (RCP).
 
-La actuación ante una **OVACE** varía según el estado de consciencia del paciente. En **adultos conscientes capaces de toser**, la principal recomendación es animarles a continuar tosiendo, observando su evolución, y **evitar golpear la espalda** para no agravar la obstrucción. Sin embargo, si el **adulto está consciente pero no puede toser**, se deben aplicar **cinco palmadas interescapulares** utilizando el talón de la mano, inclinando al paciente hacia adelante. Si esta maniobra resulta ineficaz, se procederá a realizar **cinco compresiones abdominales** mediante la **Maniobra de Heimlich**, colocando una mano en forma de puño justo debajo del esternón y cubriéndola con la otra, para luego comprimir hacia dentro y hacia arriba. Si el paciente **pierde la consciencia o entra en PCR**, se debe iniciar inmediatamente la reanimación cardiopulmonar (RCP).
+A continuación se detalla el algoritmo para la actuación en OVACE en adultos:
 
-En el ámbito **pediátrico**, la OVACE se aborda de manera similar: si el **niño está consciente y no puede toser**, se aplicarán **cinco palmadas interescapulares**. Si estas no resuelven la obstrucción, se diferenciará por edad: en **lactantes**, se realizarán **cinco compresiones torácicas**, mientras que en **niños mayores de dos años**, se aplicarán **cinco maniobras de Heimlich**. En cualquier caso de **inconsciencia del paciente pediátrico**, se iniciará directamente la RCP.
+### Algoritmo de Actuación ante Obstrucción de la Vía Aérea por Cuerpo Extraño (OVACE) en Adultos
 
-## Soporte Vital Básico Pediátrico
+```mermaid
+graph TD
+    A[OBSTRUCCIÓN VÍA AÉREA] --> B{Identificar tipo de obstrucción}
+    B --> C{Obstrucción grave<br>(tos inefectiva)}
+    B --> D{Obstrucción leve<br>(tos efectiva)}
+    C --> E{Paciente inconsciente}
+    C --> F{Paciente consciente}
+    E --> G[Iniciar RCP]
+    F --> H[5 palmadas interescapulares]
+    F --> I[5 compresiones abdominales<br>(Maniobra de Heimlich)]
+    D --> J[Anime a toser y continúe evaluando la efectividad de la tos y respiración]
+    G --> A_END[Fin (si se resuelve)]
+    I --> A_END
+    J --> A_END
+    G --> B
+    I --> B
+    J --> B
+```
 
-La principal causa de **parada cardiorrespiratoria (PCR)** en niños difiere de la del adulto, siendo fundamentalmente de **origen respiratorio**. La cadena de supervivencia pediátrica, por lo tanto, hace hincapié en la prevención y en una respuesta temprana, incluyendo la utilización de asientos de seguridad, el inicio precoz de la RCP, la activación rápida de los servicios de emergencia, el acceso a soporte vital avanzado y los cuidados post-reanimación.
+## 4. Soporte Vital Básico Pediátrico
 
-Las técnicas de ventilación y masaje cardíaco en lactantes presentan particularidades. La **ventilación** se realiza preferentemente mediante la **maniobra boca-nariz**. En cuanto al **masaje cardíaco**, las compresiones se adecuan a la edad del niño:
-*   En **recién nacidos**, se aplican compresiones abarcando el diámetro antero-posterior del tórax, utilizando dos dedos pulgares en la mitad del esternón.
-*   Para **lactantes menores de un año**, se utilizan dos dedos en la mitad inferior del esternón, deprimiendo el tórax aproximadamente un tercio de su diámetro, lo que equivale a unos cuatro centímetros.
-*   En **niños mayores de un año**, las compresiones cardíacas se efectúan con una o dos manos en la mitad del esternón, buscando una profundidad de aproximadamente cinco centímetros, garantizando una compresión adecuada.
+La principal causa de parada cardiorrespiratoria (PCR) en niños es de origen respiratorio.
 
-## Uso del Desfibrilador Externo Automático (DEA)
+Los elementos fundamentales de la cadena de supervivencia pediátrica son:
 
-La disponibilidad de un **desfibrilador externo automático (DEA)** es vital para la supervivencia de un paciente adulto en PCR, ya que permite un tratamiento eléctrico precoz. Al llegar al paciente, el DEA debe colocarse en la cabecera, y el dispositivo guiará al reanimador a través de su análisis del ritmo cardíaco.
+1.  Reconocer la PCR y alertar a los servicios de emergencias.
+2.  Iniciar las maniobras de Reanimación Cardiopulmonar (RCP).
+3.  Proporcionar desfibrilación precoz.
+4.  Utilizar asientos de seguridad adecuados para niños.
+5.  Iniciar las maniobras de Reanimación Cardiopulmonar (RCP) (repetido en el texto original).
+6.  Avisar al servicio de emergencias (repetido en el texto original).
+7.  Aplicar Soporte Vital Avanzado.
+8.  Proporcionar cuidados post-resucitación.
 
-El procedimiento general implica los siguientes pasos:
-1.  **Colocación de electrodos:** Se posicionan en el pecho desnudo del paciente, uno bajo la clavícula derecha y el otro en el costado izquierdo.
-2.  **Análisis del ritmo:** Durante esta fase, es imperativo **no tocar al paciente**. El DEA identificará si el ritmo es desfibrilable, siendo los ritmos de descarga la **fibrilación ventricular (FV)** y la **taquicardia ventricular sin pulso (TVSP)**.
-3.  **Descarga:** Si el DEA indica una descarga, se debe asegurar que nadie esté tocando a la víctima, manteniendo una distancia segura, y luego se administra la descarga.
-4.  **Post-descarga:** Inmediatamente después de la descarga, se reinician las maniobras de RCP con una relación de 30 compresiones por 2 ventilaciones (30:2) durante dos minutos, tal como lo indicará el propio DEA. Solo después de este ciclo de RCP, se valorará el pulso, y el DEA registrará los eventos.
-5.  **Ritmos no desfibrilables:** Si el DEA determina que el ritmo no es desfibrilable, indicará continuar con la RCP.
+**Nota importante:** Es crucial no finalizar la llamada a los servicios de emergencias hasta que se hayan proporcionado todos los datos relevantes sobre la ubicación del incidente.
 
-## Algoritmo Genérico de Soporte Vital Básico (SVB) y DEA
+## Algoritmo de Reanimación Cardiopulmonar (RCP) Básica en Niños
 
-Para una intervención eficaz en SVB y con DEA, es fundamental recordar que una RCP de calidad es la base para el soporte vital avanzado y puede salvar vidas. La activación temprana de los servicios de emergencia (SEM) y la pronta obtención del DEA son cruciales, así como minimizar los "tiempos muertos" sin masaje cardíaco. El intervalo entre el cese de las compresiones torácicas y la administración de una descarga indicada por el DEA debe ser inferior a **cinco segundos**. Además, tras una descarga del DEA, se deben realizar dos minutos de RCP antes de reevaluar el ritmo o los pulsos. En caso de duda sobre la presencia de pulso o ritmo, siempre se debe optar por continuar con el masaje cardíaco.
+El siguiente algoritmo detalla la secuencia de actuación para RCP básica en lactantes y niños:
 
-Es importante **evitar** ciertos errores que pueden comprometer la supervivencia del paciente. Nunca se deben iniciar las maniobras de reanimación sin antes haber asegurado la seguridad de la escena y de la víctima. Asimismo, se debe evitar cualquier retraso en la llamada a los servicios de emergencia o en la obtención de un DEA. No se debe perder tiempo en evaluar pulsos cardíacos inmediatamente después de una descarga del DEA; la secuencia correcta es continuar con dos minutos de RCP (30:2) y luego reevaluar el ritmo y los pulsos. Finalmente, nunca se debe subestimar la importancia de la RCP básica de calidad como un componente crítico de la respuesta ante una PCR.
+```mermaid
+graph TD
+    A[COMPRUEBE LA SEGURIDAD<br>EN LA ZONA Y DE PERSONAS] --> B[COMPRUEBE LA<br>INCONSCIENCIA]
+    B --> C{GRITE PIDIENDO AYUDA}
+    C --> D[HABLARLE EN VOZ ALTA<br>ESTIMULAR<br>(Lactante)]
+    C --> E[HABLARLE EN VOZ ALTA<br>SACUDIRLE<br>PELLIZCARLE<br>(Niño)]
+
+    D --> F[a) MANIOBRA FRENTE MENTÓN SIN HIPEREXTENSIÓN<br>b) TRACCIÓN O ELEVACIÓN MANDIBULAR]
+    E --> F
+
+    F --> G[ABRIR LA VÍA AÉREA]
+    G --> H[COMPROBAR RESPIRACIÓN<br>EFECTIVA]
+    H --> I{NO RESPIRA JADEA O BOQUEA}
+    H --> J{NO PRESENTA SIGNOS VITALES}
+
+    I --> K[PIDA AYUDA<br>LLAME AL 112<br>CONSIGA UN DEA]
+    J --> K
+
+    K --> L[5 VENTILACIONES DE<br>RESCATE]
+    L --> M[RCP 30:2 DURANTE 1 MIN]
+
+    M --> N[CONTINUAR RCP<br>30:2 (UN REANIMADOR)<br>15:2 (DOS REANIMADORES)]
+
+    N --> O{SI NO QUIERE O NO<br>PUEDE VENTILAR,<br>SIGA CON LAS<br>COMPRESIONES}
+
+    O --> P[HASTA QUE LLEGUE<br>EL DEA, EL SVA O<br>LA VÍCTIMA SE<br>RECUPERE]
+
+    P --> Q[MINIMIZAR LAS INTERRUPCIONES<br>ENTRE COMPRESIONES TORÁCICAS]
+
+    M --> R[1/3 DEL DIÁMETRO AP DEL TÓRAX<br>4CM CENTRO DEL TÓRAX<br>(Lactante)]
+    M --> S[1/3 DEL DIÁMETRO AP DEL TÓRAX<br>4CM CENTRO DEL TÓRAX<br>(Niño)]
+
+    R --> T[COMPRESIÓN ANTEROPOSTERIOR<br>O CON DOS DEDOS]
+    S --> U[COMPRESIÓN CON<br>UNA O DOS MANOS]
+
+    T --> N
+    U --> N
+
+    N --> V[Al menos 100<br>compresiones /minuto]
+    V --> P
+    V --> Q
+```
+
+## 5. Técnicas de Ventilación y Masaje Cardíaco en Lactantes
+
+La técnica de ventilación para lactantes se efectúa mediante la maniobra boca-nariz.
+
+El masaje cardíaco se aplica de la siguiente manera, según la edad:
+
+*   **Recién nacidos:** Las compresiones se realizan abarcando el diámetro antero-posterior del tórax, utilizando los dos dedos pulgares en la mitad del esternón.
+*   **Niños menores de 1 año:** Las compresiones cardíacas se efectúan con dos dedos en la mitad inferior del esternón, deprimiendo el tórax un tercio de su diámetro. Esto equivale aproximadamente a 4 cm para lactantes y 5 cm para niños.
+*   **Niños mayores de 1 año:** Las compresiones cardíacas se realizan con una o dos manos, según sea necesario para alcanzar una profundidad adecuada.
+
+## 6. Obstrucción de la Vía Aérea por Cuerpo Extraño (OVACE) en el Niño
+
+El siguiente algoritmo describe la actuación en casos de OVACE en niños:
+
+### Algoritmo de Actuación ante Obstrucción de la Vía Aérea por Cuerpo Extraño (OVACE) en Niños
+
+```mermaid
+graph TD
+    A[OBSTRUCCIÓN VÍA AÉREA] --> B{Identificar tipo de obstrucción}
+    B --> C{Consciente}
+    B --> D{Inconsciente}
+    C --> E[5 palmadas interescapulares]
+    E --> F{Si fallan}
+    F --> G[Lactante:<br>5 compresiones torácicas]
+    F --> H[> 2 años:<br>5 Maniobra Heimlich]
+    D --> I[Iniciar RCP]
+    G --> I_END[Fin]
+    H --> I_END
+    I --> I_END
+```
+
+## 7. Desfibrilador Externo Automático (DEA)
+
+En la Parada Cardiorrespiratoria (PCR) del adulto, es fundamental para la supervivencia del paciente disponer y aplicar un tratamiento eléctrico precoz. Una vez que el Desfibrilador Externo Automático (DEA) esté disponible, se deben seguir estos pasos:
+
+Colocar el DEA en la cabecera del paciente. El dispositivo analizará el ritmo cardíaco y proporcionará las instrucciones necesarias en cada momento.
+
+1.  **Colocación de Electrodos:** Los electrodos se sitúan en el pecho desnudo de la víctima: uno debajo de la clavícula derecha y el otro en el costado izquierdo.
+2.  **Análisis del Ritmo:** Durante el análisis del ritmo, es crucial que nadie toque al paciente. Los ritmos cardíacos considerados desfibrilables son la Fibrilación Ventricular (FV) y la Taquicardia Ventricular Sin Pulso (TVSP).
+3.  **Administración de la Descarga:** Es imperativo que todos se mantengan alejados del paciente. Asegurarse de que nadie está en contacto con la víctima y, a continuación, aplicar la descarga si el DEA lo indica.
+4.  **Reinicio de RCP:** Después de la descarga, se debe reiniciar la Reanimación Cardiopulmonar (RCP) con una secuencia de 30 compresiones y 2 ventilaciones (30:2) durante 2 minutos, siguiendo las indicaciones del DEA. Posteriormente, se evaluará el pulso y se registrará la actividad del DEA.
+5.  **Ritmos no Desfibrilables:** Si el DEA informa que el ritmo no es desfibrilable, se continuará con las maniobras de RCP.

@@ -1,5 +1,5 @@
-import openai
 from fastapi import APIRouter, Depends, HTTPException
+from google.genai.errors import APIError
 from pydantic import BaseModel, Field
 
 from app.models.usuario import Usuario
@@ -17,7 +17,7 @@ class ChatMensaje(BaseModel):
 def chat_tutor(payload: ChatMensaje, current_user: Usuario = Depends(get_current_user)):
     try:
         respuesta = preguntar_al_tutor(payload.mensaje)
-    except openai.OpenAIError as exc:
+    except APIError as exc:
         raise HTTPException(
             status_code=502,
             detail=f"El tutor IA no esta disponible ahora mismo: {exc}",

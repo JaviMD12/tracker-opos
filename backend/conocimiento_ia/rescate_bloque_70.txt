@@ -1,106 +1,113 @@
-# Sistemas de Seguridad Pasiva y Elementos Mecánicos en Vehículos
+El temario de oposiciones de bomberos y emergencias, en su módulo de rescate y salvamento, profundiza en los sistemas de seguridad vehicular y las técnicas de intervención.
 
-En el contexto del rescate en accidentes de tráfico, comprender los sistemas de seguridad de los vehículos es fundamental. Estos se dividen en seguridad activa, pasiva y terciaria, cada una con características y elementos específicos diseñados para prevenir accidentes, mitigar sus efectos y facilitar el rescate.
+**4. Elementos de Seguridad en los Vehículos**
 
-## Seguridad Activa
+**4.1. Conceptos de Seguridad Activa, Pasiva y Terciaria**
 
-La seguridad activa engloba los sistemas destinados a **prevenir el accidente**, actuando antes de que este ocurra. Aunque estos sistemas suelen desactivarse tras el impacto, es crucial que los bomberos conozcan su funcionamiento para identificar posibles riesgos adicionales durante la intervención.
+La mayoría de incidentes de tráfico y, por ende, las operaciones de rescate de víctimas, involucran turismos. Por ello, la explicación se centrará en los sistemas de seguridad de estos vehículos, aunque se harán menciones a elementos específicos de vehículos pesados y especiales. Los sistemas de seguridad tienen como objetivo prevenir, neutralizar y minimizar los daños a los ocupantes en caso de accidente, clasificándose en tres categorías:
 
-Entre los elementos más relevantes de la seguridad activa se encuentran:
+*   **Seguridad primaria o activa:** Orientada a la prevención del accidente en sus fases previas. Incluye sistemas como la iluminación, frenos, dirección asistida, y controles de estabilidad y tracción.
+*   **Seguridad secundaria o pasiva:** Reduce los efectos del accidente en el momento del impacto, sin requerir la intervención del conductor.
+*   **Seguridad terciaria:** Aplicada tras el accidente por servicios como policía, sanitarios y bomberos.
 
-*   **Suspensión:** Este conjunto de componentes, que une las ruedas al bastidor del vehículo, tiene como función principal suavizar la transmisión de las irregularidades del terreno, mejorar la estabilidad, controlar las oscilaciones y optimizar el agarre. Su funcionamiento y respuesta ante un corte de suministro de aire (en suspensiones neumáticas, por ejemplo) deben considerarse para la correcta estabilización del vehículo.
-    *   **Tipologías:** A lo largo del tiempo, las suspensiones han evolucionado desde ballestas y amortiguadores de gas hasta sistemas regulables e inteligentes.
-    *   **McPherson:** Común en el 88% de los turismos en el eje delantero, se compone de un muelle elástico y un amortiguador que limita las oscilaciones.
-    *   **Hidractiva:** Presente en vehículos de alta gama, utiliza esferas de gas y un circuito de líquido a alta presión.
-    *   **Vehículos Pesados y Todoterrenos:** Incorporan suspensiones mecánicas, como las ballestas (varias hojas de acero templado que actúan por fricción), o neumáticas, frecuentes en la parte trasera de camiones, autobuses y semirremolques. Estas últimas emplean aire comprimido en cámaras situadas entre el eje y el chasis, con una válvula reguladora para ajustar la presión y amortiguadores para controlar rebotes.
+**4.2. Seguridad Activa**
 
-*   **Frenos:** Su misión es detener el vehículo en el menor tiempo posible, manteniendo la dirección y el control, mediante la transformación de la energía cinética en calor.
-    *   **Evolución y Tecnologías:** Han evolucionado desde los frenos de tambor a los discos autoventilados. Los sistemas avanzados incluyen el ABS (sistema antibloqueo), ASR (control de tracción, que frena la rueda que pierde adherencia) y ESP (control electrónico de estabilidad, que puede desactivarse según las necesidades de la conducción).
-    *   **Frenos Neumáticos:** En vehículos pesados, los pistones se activan por aire comprimido, ejerciendo presión sobre tambores o discos.
+**4.2.1. Características**
 
-*   **Otras Innovaciones:**
-    *   **Faros Inteligentes:** De xenón (aproximadamente 1000 V), iluminan la vía de forma selectiva.
-    *   **Ordenador de a Bordo:** Ofrece información al conductor sin representar un riesgo para el rescate.
-    *   **Paro y Arranque Automático:** Detiene el motor en paradas en vehículos urbanos. Una activación inesperada por una presión accidental del acelerador podría desplazar el vehículo, lo que debe preverse.
-    *   **Sistemas de Asistencia:** Incluyen cámaras en retrovisores, detectores de distancia, proyectores de información en parabrisas, ayuda al aparcamiento, detector de cambio de carril, y sensores de luminosidad y lluvia. Generalmente, estos no presentan riesgos adicionales durante la intervención.
+Aunque los elementos de seguridad activa generalmente no afectan al rescatador (ya que se desactivan tras el accidente), algunos pueden generar riesgos adicionales. La evolución tecnológica, impulsada por la electrónica, ha incorporado mejoras significativas:
 
-## Seguridad Pasiva
+*   **Iluminación:** Faros de xenón con alto voltaje (aproximadamente 1000 V).
+*   **Arranque:** Tarjetas de radiofrecuencia, mandos a distancia.
+*   **Automatización:** Apertura eléctrica de portones y capós, reposacabezas con regulación electrónica, sistemas de confort con movimiento automático de asientos y volante.
+*   **Control energético:** Fundamental para el rescate, se centra en la llave o tarjeta de arranque, el paro automático y la desconexión de la batería (posibilidad de una segunda batería). La interrupción del suministro eléctrico es crucial para la seguridad de los intervinientes y víctimas, ya que afecta a los sistemas de seguridad pasiva.
 
-La seguridad pasiva se compone de los elementos y sistemas que se activan automáticamente en el momento de un accidente para **reducir los daños a los ocupantes**. Estos sistemas no requieren la intervención del conductor y buscan proteger la vida mediante la absorción de energía y el mantenimiento del espacio vital.
+**4.2.2. Neumáticos**
 
-**1. Elementos Estructurales de la Carrocería**
+El agarre del vehículo a la carretera se logra mediante cuatro puntos de contacto: los neumáticos. Su función principal es proporcionar adherencia y fricción para el arranque, frenado y dirección.
 
-El diseño de la carrocería es crucial para la seguridad pasiva y se basa en estudios de deformabilidad y pruebas de impacto.
+*   **Clasificación por hilos de refuerzo:**
+    *   **Diagonales o radiales:** Los radiales son los más comunes en vehículos modernos.
+*   **Clasificación por uso de cámara interna:**
+    *   **Tubetype (TT):** Utilizan cámara y llanta específica. No pueden ser sin cámara. Presentes en algunos todoterrenos, vehículos agrícolas, motocicletas y vehículos pesados de gran tamaño (autobuses, camiones, tractores).
+    *   **Tubeless (TL):** Sin cámara. Anillos de acero (talones) en el interior del neumático lo aseguran a una llanta especial. Comunes en la mayoría de vehículos.
+    *   **Semineumáticos:** Fabricados solo con goma, usados en vehículos pequeños (trolleys, coches de pedales).
 
-*   **Carrocería en General:**
-    *   La resistencia de la carrocería depende del material (aceros especiales, aluminio, plásticos, fibra de carbono), el espesor de las piezas (1.2-2.5 mm para elementos estructurales, 0.6-0.8 mm para cosméticos) y su geometría, que canaliza las deformaciones.
-    *   La **célula de seguridad** (sección central del habitáculo) está diseñada para ser rígida y reforzada, resistiendo el desalineamiento y proporcionando un espacio de supervivencia a los ocupantes. Las **secciones extremas** (frontal y posterior), en cambio, están diseñadas para deformarse progresivamente y absorber la energía del impacto.
+En vehículos agrícolas, es posible lastrar los neumáticos (tubeless o tubetype) con líquido para aumentar el peso del tractor, mejorando la tracción y reduciendo el deslizamiento. Las válvulas son de tipo "aire y agua". Se pueden rellenar hasta un 75% con agua y anticongelante (Glicol) para temperaturas inferiores a 0°C; el 25% restante se infla con aire.
 
-*   **Célula Estructural (Habitáculo de Pasajeros):**
-    *   Se compone de **anillos transversales** (denominados "A" para el delantero, "B" para el central, "C" para el posterior, y a veces "D"), **pilares** (soportan grandes cargas longitudinales y transversales, reforzados con soldaduras) y **largueros** (que, junto con los pilares A y C, forman los anillos longitudinales). Estos elementos garantizan la rigidez y resistencia de la estructura.
+**4.2.3. Suspensión**
 
-**2. Aligeramiento y Disminución del Peso**
+La suspensión es el conjunto de componentes que unen las ruedas al bastidor del vehículo. Su propósito es suavizar las irregularidades del terreno, mejorar la estabilidad, controlar oscilaciones y aumentar el agarre.
+Ha evolucionado desde ballestas primitivas hasta amortiguadores de gas y suspensiones inteligentes regulables.
 
-La búsqueda de reducir el peso del vehículo ha impulsado el uso de nuevos materiales, lo que impacta directamente en la energía de deformación en caso de colisión:
+*   **Suspensión McPherson:** Utilizada en el 88% de los turismos, principalmente en el eje delantero. Compuesta por un muelle elástico y un amortiguador que limita la frecuencia y amplitud de las oscilaciones.
+*   **Suspensión hidractiva:** Presente en vehículos de alta gama, consta de esferas de gas y un circuito de fluido a alta presión.
 
-*   **Materiales Avanzados:** Aceros de alta resistencia (boro, martensita, Dual Phase, TRIP), aluminio, plásticos reforzados con fibra (FPRV), fundición a presión de magnesio y fibra de carbono. Estos materiales son más ligeros y, en algunos casos, considerablemente más resistentes que el acero convencional.
-*   **Ensamblaje:** Las carrocerías se ensamblan principalmente mediante soldaduras (por puntos de resistencia, arco continuo bajo gas, láser, láser híbrido y láser-Brazing), que refuerzan las uniones y aportan solidez y elasticidad. También se utilizan uniones atornilladas.
+**4.2.4. Frenos**
 
-**3. Diseño Específico de Componentes**
+Los frenos son elementos esenciales para detener el vehículo en la menor distancia posible, manteniendo la dirección y el control. Su funcionamiento se basa en la transformación de la energía cinética en calor disipado.
+La tecnología de frenos ha evolucionado de tambores a discos, y luego a discos autoventilados para mejorar el rendimiento. Los sistemas modernos incluyen:
 
-*   **Materiales de Alto Límite Elástico:** Se emplean en largueros y traviesas frontales y traseras, siendo más flexibles para absorber impactos y evitar que la energía se transmita a la célula de seguridad.
-*   **Sistema Procon-ten:** Es un sistema de deformación programada para choques frontales. Ante un impacto, el motor se desplaza hacia abajo y atrás, la columna de dirección se retrae hacia el salpicadero, y los cinturones de seguridad se tensan automáticamente.
-*   **Capó:** Sus refuerzos interiores canalizan las deformaciones, impidiendo que el capó penetre en el habitáculo.
-*   **Refuerzos Laterales del Suelo:** Aumentan la seguridad del habitáculo, especialmente en impactos laterales.
-*   **Barras Laterales de Protección (SIPS):** Integran elementos deformables de espuma y barras colapsables en las puertas para mitigar lesiones en impactos laterales.
-*   **Puertas:** Deben diseñarse para abrirse sin dificultad, incluso con daños, e incorporar sistemas de seguridad que impidan su apertura accidental en caso de vuelco o paneo.
+*   **ABS (Sistema Antibloqueo de Frenos):** Evita el bloqueo de las ruedas durante el frenado.
+*   **ASR (Sistema Antideslizamiento):** Evita que las ruedas patinen, frenando la rueda que pierde adherencia.
+*   **ESP (Programa Electrónico de Estabilidad):** Controla el trazado en curvas, puede desactivarse según las necesidades de conducción.
 
-## Elementos Mecánicos de Seguridad
+Los vehículos pesados suelen incorporar sistemas de frenos neumáticos, que utilizan pistones alimentados por depósitos de aire comprimido, controlados por válvulas, que actúan sobre tambores o discos de freno.
 
-Los vehículos incorporan varios elementos mecánicos para proteger a los ocupantes y facilitar el rescate.
+**4.2.5. Innovaciones**
 
-*   **Inmovilizador de Pedales:** Reduce las lesiones en las piernas y pies del conductor al evitar el desplazamiento de los pedales hacia el habitáculo.
-*   **Inmovilizador del Volante:** Los volantes regulables en altura e inclinación pueden retraerse para liberar al conductor. Los volantes EAS o con cuerpo central de absorción están diseñados para reducir lesiones.
-*   **Columna de Dirección:** A diferencia de las antiguas columnas rígidas, los sistemas modernos emplean mallas flexibles, codos de flexibilidad y ejes excéntricos para evitar que la columna penetre en el habitáculo en caso de impacto. Las direcciones eléctricas más recientes eliminan la barra de dirección, transmitiendo las órdenes de giro mediante cables.
-*   **Depósito de Combustible:** Se ubica generalmente delante del eje trasero para mayor protección. Incorpora orificios de ventilación, una válvula inercial que cierra el paso del combustible en caso de vuelco y láminas anti-olas. Los materiales (acero, aluminio, polietileno de alta densidad) son resistentes a la corrosión. Las conducciones de combustible suelen ser metálicas o plásticas y discurren por los bajos del vehículo.
-*   **Baterías:** Contienen energía química que se transforma en electricidad.
-    *   **Tipos:** Incluyen acumuladores de plomo de 12V (comunes en vehículos convencionales y eléctricos de tracción), baterías de 42V (para funciones de ahorro de combustible) y baterías de alta tensión HV de níquel-metal hidruro (Ni-MH) en vehículos híbridos (hasta 650 V).
-    *   **Ubicación:** Comúnmente en el compartimento del motor, pero también bajo los asientos, en el maletero o guardabarros. Los autobuses híbridos las llevan en el techo.
-    *   **Riesgos:** En caso de cortocircuito, pueden inflamar gases explosivos o causar lesiones por descarga. El ácido sulfúrico (en baterías de plomo) es cáustico.
+Las innovaciones recientes en seguridad activa incluyen:
 
-## Sistemas de Retención Suplementarios (SRS)
+*   **Faros inteligentes:** Iluminan la vía de forma adaptativa, usando faros de xenón con aproximadamente 1000 V.
+*   **Ordenador de a bordo:** Proporciona información variada al conductor; no representa riesgo para el personal de rescate.
+*   **Sistema Start-Stop automático:** Detiene el motor automáticamente en paradas urbanas (ej. semáforos) para ahorrar combustible. El riesgo reside en un desplazamiento accidental si el acelerador se presiona de forma inadvertida tras un accidente.
+*   **Otras innovaciones:** Cámaras en retrovisores, detectores de distancia, proyectores de información en parabrisas (Head-Up Display), ayuda al aparcamiento, detectores de cambio de carril, sensores de luminosidad y lluvia.
 
-Estos sistemas, controlados electrónicamente, se activan automáticamente para ofrecer una protección adicional.
+**4.3. Seguridad Pasiva**
 
-*   **Pretensores de Cinturón:** Se activan instantes antes de los airbags, tensando el cinturón para eliminar holguras y retener al ocupante, evitando su proyección hacia adelante. Pueden ser mecánicos (con resorte helicoidal) o pirotécnicos (activados por una carga química).
-    *   **Ubicación:** Hebilla, entre asientos, o en la parte baja, media o superior del montante B.
-    *   **Riesgos:** Una manipulación incorrecta puede activarlos inesperadamente, causando pequeñas explosiones.
+**4.3.1. Características**
 
-*   **Airbags:** Bolsas que se inflan instantáneamente para amortiguar el impacto de los ocupantes contra el interior del vehículo.
-    *   **Activación:** Requiere velocidad superior a 30 km/h, ángulo de impacto no mayor de 15º, asiento ocupado y deceleración instantánea. Los sensores de seguridad mecánica previenen disparos accidentales.
+La seguridad pasiva comprende los elementos y sistemas que se activan automáticamente al perderse el control del vehículo y durante una colisión, sin requerir intervención del conductor. Los fabricantes han desarrollado sistemas electrónicos avanzados para reducir las fuerzas y aceleraciones sobre los ocupantes, garantizar un espacio vital de supervivencia y controlar el movimiento dentro del habitáculo.
+Una misma fuerza de impacto puede causar un traumatismo moderado en un hombre de 25 años, pero ser letal para una mujer de 65 años.
+Los factores que influyen en la gravedad de las lesiones incluyen: velocidad inadecuada, consumo de alcohol u otras drogas, falta de uso de sistemas de retención (cinturones, sillas infantiles), presencia de elementos rígidos o cortantes en el interior/exterior del vehículo.
+Factores que agravan las lesiones después del accidente: respuesta tardía de los servicios de emergencia, atención deficiente a las víctimas, presencia de fuego o sustancias peligrosas, y dificultades en la extracción de víctimas.
+
+**4.3.2. Elementos Estructurales**
+
+Los fabricantes de automóviles investigan la deformabilidad de las carrocerías mediante pruebas de impacto reales (crash tests) para evaluar el comportamiento en caso de accidente. Para una correcta valoración en una intervención, es crucial conocer los patrones de deformación del vehículo y su posible evolución.
+
+*   **Carrocería:** Su diseño considera la resistencia y el diseño estructural.
+    *   **Resistencia de la carrocería:** Depende del comportamiento individual de cada pieza. Tres aspectos clave:
+        *   **Material utilizado.**
+        *   **Espesor:** La resistencia final es proporcional al área efectiva y al grosor. Elementos estructurales miden de 1.2 a 2.5 mm; cosméticos, de 0.6 a 0.8 mm.
+        *   **Forma y geometría:** La canalización de la energía del impacto está condicionada por la forma y geometría de las piezas, que a veces se diseñan para albergar componentes mecánicos.
+    *   **Comportamiento de la carrocería:** La sección central (célula de seguridad) es rígida y reforzada para ofrecer un espacio de supervivencia. Las secciones extremas se deforman progresivamente para absorber la energía de la colisión.
+
+El diseño propicia que al inicio de la colisión, la carrocería actúe como un bloque homogéneo. Sin embargo, en décimas de segundo, las secciones actúan de forma independiente.
+En vehículos autoportantes, la carrocería es el principal elemento de seguridad pasiva.
+
+*   **Célula estructural (habitáculo de pasajeros):** Diseño rígido para proteger a los ocupantes. Mantiene su rigidez gracias a anillos de refuerzo y su unión al suelo y techo.
+    *   **Elementos de la estructura de seguridad:**
+        *   **Anillos transversales:** Tres anillos (A-delantero, B-medio, C-trasero), a veces un cuarto (D).
+        *   **Pilares:** Parte de los anillos, soportan cargas longitudinales y transversales. Reforzados con soldaduras para distribuir esfuerzos de colisión.
+        *   **Anillos longitudinales:** Dos, formados por pilares A y C, y largueros inferiores y superiores.
+
+En caso de colisión, la parte delantera y trasera del vehículo se deforman de manera programada para absorber energía, mientras la parte central debe permanecer indeformable (célula de supervivencia).
+Se está reduciendo el peso de los vehículos usando materiales como aceros especiales (boro, martensita, Dual Phase, TRIP), aluminio y plásticos (FPRV). Estos aceros de nueva generación son 1/4 más ligeros y 8 veces más resistentes que el acero convencional.
+
+**4.3.3. Elementos Mecánicos**
+
+*   **Inmovilizador de pedales:** Reduce lesiones en piernas y pies en caso de desplazamiento de pedales hacia el habitáculo.
+*   **Inmovilizador de volante:** El desplazamiento del volante puede atrapar al conductor, causando lesiones en el tórax y órganos vitales. Volantes regulables en altura e inclinación, o con cuerpo central de absorción de impactos (volantes EAS), reducen este riesgo.
+*   **Columna de dirección:**
+    *   **Antiguas rígidas:** Las columnas de los años 30 eran barras rígidas que impactaban directamente al conductor en caso de choque frontal.
+    *   **Soluciones actuales:** Malla deformable, codos de flexibilidad (juntas cardán, delco, fuelle), o ejes excéntricos que impiden el desplazamiento longitudinal hacia el habitáculo.
+    *   **Direcciones eléctricas:** Modelos actuales transmiten órdenes de giro mediante cables, eliminando la barra física.
+*   **Depósito de combustible:**
+    *   **Ubicación:** Originalmente en el lateral del maletero, ahora delante del eje trasero para mayor protección.
+    *   **Seguridad:** Orificios de ventilación para prevenir incendios, válvula inercial de seguridad en caso de vuelco, láminas antiolas internas.
+    *   **Materiales:** Acero, aluminio, plásticos (polietileno de alta densidad) para resistencia a la corrosión y bajas emisiones. Conducciones metálicas o plásticas por los bajos del vehículo.
+*   **Baterías:** Contenedores de energía química.
     *   **Tipos:**
-        *   **Frontales:** Conductor (en el volante) y acompañante (en el salpicadero o guantera). Algunos pueden desactivarse.
-        *   **Laterales:** Se despliegan entre la puerta y el cuerpo en impactos laterales. Se activan por sensores de presión en las puertas en 3-5 milisegundos. Pueden ser "solo tórax" o "tórax y cabeza".
-        *   **Cortina Hinchable:** Se despliegan desde el techo (montante C a A) para proteger la cabeza y cuello, evitando el impacto contra ventanas o montantes. Mantienen su volumen de gas durante varios segundos, ofreciendo protección en vuelcos y contra esquirlas de vidrio.
-        *   **Traseros:** Protegen a los pasajeros traseros en colisiones por detrás.
-        *   **Air Belt:** Cinturones de seguridad con airbag incorporado que reducen la presión sobre la caja torácica.
-        *   **De Rodilla:** Se sitúan debajo de la columna de dirección o en el salpicadero.
-        *   **En Banqueta:** Optimizan la posición de los ocupantes en relación al cinturón.
-        *   **Para Peatones:** Se despliega por debajo del capó y el parabrisas (entre 25-55 km/h) para reducir daños a peatones.
-    *   **Riesgos:** La activación del airbag genera un gas caliente (principalmente nitrógeno) en menos de 30 milisegundos. Los residuos en polvo son talco. Existe riesgo de irritación en vías respiratorias y de enrojecimiento cutáneo por la alta velocidad de despliegue.
-
-## Seguridad Terciaria
-
-La seguridad terciaria incluye los sistemas diseñados para **facilitar el rescate** de los ocupantes después de un accidente.
-
-*   **Elementos que Previenen el Agravamiento de Víctimas:**
-    *   **Depósitos de Combustible:** Diseñados para evitar derrames o interrupción de la inyección en caso de impacto.
-    *   **Puertas:** Permiten su apertura sin dificultad, incluso en los peores escenarios.
-    *   **Hebillas de Cinturón:** Se sueltan rápida y fácilmente para evitar que los ocupantes queden bloqueados.
-
-*   **Elementos que Facilitan el Rescate:**
-    *   **Desbloqueo Automático del Cierre Centralizado:** Activa un sensor de colisión que envía una señal a las unidades de control de las puertas para desbloquearlas automáticamente.
-    *   **Sistema de Luces Intermitentes de Advertencia:** Se activa automáticamente en caso de choque y puede indicar que el vehículo tiene alimentación eléctrica.
-    *   **eCall (Sistema de Balizas para Localización):** Envía una llamada automática vía satélite a un centro de emergencias en caso de accidente grave, proporcionando la localización precisa del vehículo y permitiendo la comunicación. Puede activarse manualmente.
-
-La correcta comprensión y gestión de estos sistemas son esenciales para la seguridad de los intervinientes y la eficacia de las operaciones de rescate.
+        *   **Plomo de 12 Voltios (ácido-plomo):** Común en vehículos convencionales para arranque, también como batería de tracción en eléctricos. Suministran alta corriente. Compuestas por placas de plomo en ácido sulfúrico. Ubicación variable, pueden ser dos en serie para 24 V en vehículos pesados.
+        *   **42 V:** Para sistemas de detención de motor (Start-Stop).
+        *   **Ni-MH (Hidruro metálico de níquel) HV (Alta Tensión):** Usadas en vehículos híbridos. Electrolito alcalino (hidróxido de potasio y sodio) en gel. Protegidas por carcasa metálica, ubicadas estratégicamente detrás de asientos traseros.

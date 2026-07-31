@@ -1,29 +1,79 @@
-# Hidráulica: Propiedades Fundamentales de los Fluidos y Fundamentos de la Hidrostática
+## HIDRÁULICA
 
-La **hidráulica** es una rama esencial de la mecánica de fluidos dedicada al estudio de las propiedades mecánicas de estos, considerando sus características específicas, las fuerzas a las que están sometidos y las condiciones ambientales. Dentro de ella, la **hidrostática** se concentra en los fluidos en estado de equilibrio, mientras que la **hidrodinámica** aborda los líquidos en movimiento.
+### Capítulo 1. Caracterización
 
-## Propiedades Fundamentales de los Fluidos
+#### 1. Propiedades de los Fluidos
 
-Para una comprensión profunda del comportamiento del agua y otros agentes extintores, es crucial conocer las propiedades fundamentales que definen a los fluidos.
+La hidráulica, una disciplina de la mecánica, se dedica al estudio de las propiedades mecánicas de los fluidos, considerando tanto sus características específicas como las fuerzas y condiciones a las que pueden estar sometidos.
 
-La **masa** se define como una magnitud física que cuantifica la cantidad de materia que posee un cuerpo. Su unidad en el Sistema Internacional (SI) es el **kilogramo (kg)**, y se considera una magnitud escalar, a diferencia del peso que es vectorial. Por otra parte, la **densidad** (ρ) es una magnitud vectorial que expresa la cantidad de masa contenida en un determinado volumen de una sustancia, calculándose como la relación entre la masa (m) y el volumen (V), es decir, ρ = m/V, y se mide en kg/m³. Por ejemplo, la densidad del agua es de 1.000 kg/m³.
+##### 1.1. Masa
 
-Complementariamente, el **peso específico** (γ) representa la relación entre el peso de un cuerpo y el volumen que ocupa, expresado mediante la fórmula γ = P/V = ρ · g, donde 'g' es la aceleración de la gravedad (9.810 N/m³ para el agua). La **densidad relativa y el peso específico relativo** se obtienen al comparar los valores absolutos de densidad o peso específico de una sustancia con los de una sustancia patrón, que comúnmente es agua a 4°C y 1 atmósfera.
+La masa es una magnitud física que representa la cantidad de materia de un cuerpo. Su unidad en el Sistema Internacional de Unidades es el kilogramo (kg). Aunque está relacionada con el peso, la masa es una magnitud escalar (se expresa con un número), mientras que el peso es una magnitud vectorial.
 
-La **viscosidad** es una propiedad intrínseca de los fluidos que caracteriza su resistencia a las deformaciones tangenciales. Esta oposición se debe a las fuerzas de cohesión molecular presentes entre sus partículas, y aunque todos los fluidos conocidos poseen esta característica, el concepto de "fluido ideal" se refiere a aquel con viscosidad nula. La viscosidad solo se manifiesta en líquidos en movimiento y se define como la viscosidad absoluta o dinámica, que establece la relación entre el esfuerzo cortante y el gradiente de velocidad, y se representa con el símbolo μ. Cuando un fluido es sometido a fuerzas cortantes, se deforma formando capas paralelas en las que la velocidad es constante.
+##### 1.2. Densidad
 
-Otro concepto vital es la **presión de vapor**, que se refiere a la presión a la cual las fases líquida y vapor de una sustancia se encuentran en equilibrio dinámico a una temperatura específica. Esta presión es independiente de las cantidades de líquido y vapor presentes y también se observa en sólidos, manifestándose como sublimación. El equilibrio entre las fases se conoce como "líquido saturado" y "vapor saturado", y su valor se relaciona inversamente con las fuerzas de atracción intermolecular: a mayores fuerzas, mayor energía se requiere para el cambio de estado. Por ejemplo, en una burbuja de vacío a temperatura constante, la evaporación inicial es rápida, pero a medida que el vapor aumenta, la condensación también lo hace hasta alcanzar el equilibrio dinámico y la presión máxima de saturación. Esta presión de saturación está principalmente determinada por la naturaleza del líquido, siendo menor para líquidos de mayor peso molecular. La presión de vapor del agua a 15ºC es de 0,0173 kgf/cm² y a 100ºC es de 1,033 bares. Un líquido hierve cuando su presión de vapor iguala la presión externa, de modo que una disminución de la presión externa reduce el punto de ebullición, mientras que un aumento lo eleva. Esta consideración es crucial al diseñar sistemas de succión en bombas para evitar la **cavitación**.
+La densidad (ρ) es una magnitud vectorial que indica la cantidad de masa contenida en un volumen determinado de una sustancia. Se define como la relación entre la masa de un cuerpo y el volumen que ocupa.
 
-Finalmente, la **tensión superficial** es la cantidad de energía necesaria para aumentar la superficie de un líquido por unidad de área, lo que implica una resistencia inherente a dicha expansión. Esta propiedad es una manifestación de las fuerzas intermoleculares que, junto con las fuerzas líquido-sólido, generan la capilaridad. En el interior del líquido, las moléculas experimentan fuerzas de atracción equilibradas, pero en la superficie, una fuerza resultante se dirige hacia el interior, manteniendo el líquido unido y formando una superficie lisa. Esta propiedad también explica la formación de gotas, ya que la esfera minimiza la relación superficie-volumen. En el caso del agua, los puentes de hidrógeno le confieren una tensión superficial particularmente alta.
+**Fórmula:** Densidad (ρ) = masa / Volumen
+**Unidades:** [kg / m³]
 
-## Fundamentos de la Hidrostática
+##### 1.3. Peso Específico
 
-La **hidrostática** es la rama de la mecánica de fluidos que estudia los líquidos en estado de reposo o equilibrio, es decir, cuando no existen fuerzas que alteren su movimiento o posición. Se fundamenta en principios como los de Pascal y Arquímedes.
+El peso específico (γ) es la relación entre el peso de un cuerpo y el volumen que ocupa.
 
-El concepto de **presión** (p) se define como la magnitud física que mide la proyección de la fuerza ejercida perpendicularmente sobre una unidad de superficie. Su unidad en el Sistema Internacional es el **pascal (Pa)**, equivalente a un newton por metro cuadrado (N/m²). En el ámbito de bomberos, la presión es un término recurrente, utilizado para referirse a la presión en bombas, en las lanzas o a la presión atmosférica, entre otros.
+**Unidades:** [N / m³]
 
-La **presión atmosférica** es la presión que ejerce la atmósfera debido al peso de la columna de aire sobre cualquier punto de la superficie terrestre. Esta presión varía con la altitud y las condiciones meteorológicas. Por ejemplo, al nivel del mar, equivale al peso de una columna de mercurio de 760 mm. El vacío se define como la extracción total o parcial de aire u otro fluido de un recipiente, aunque un vacío perfecto es prácticamente inalcanzable, siempre quedarán restos de fluido que ejercerán una presión residual.
+##### 1.4. Densidad Relativa y Peso Específico Relativo
 
-Es importante diferenciar entre **presión absoluta** y **presión relativa**. La presión absoluta toma como referencia el cero absoluto, mientras que la presión relativa utiliza la presión atmosférica como referencia. Por ejemplo, la presión estática es la presión inherente a un fluido, independientemente de su velocidad, y se mide con tubos piezométricos. La **presión total** de un fluido (líquido o gaseoso) es la suma de su presión estática y su presión dinámica (que depende de la velocidad del fluido).
+La densidad relativa y el peso específico relativo se obtienen comparando sus valores absolutos con los de una sustancia patrón. Para la sustancia patrón se utiliza agua a 4ºC y 1 atmósfera.
 
-La **ecuación fundamental de la hidrostática** describe el equilibrio de una masa líquida. Implica que la presión en un fluido en reposo aumenta con la profundidad, que todos los puntos a una misma profundidad tienen idéntica presión (principio de los vasos comunicantes), y que la presión solo depende de la profundidad, no de la forma del recipiente. Además, en un fluido en reposo, la presión se ejerce perpendicularmente a la superficie sobre la que actúa, lo que garantiza el equilibrio del fluido.
+##### 1.5. Viscosidad
+
+La viscosidad es una propiedad de los fluidos que describe su oposición a las deformaciones tangenciales, causada por las fuerzas de cohesión molecular. Todos los fluidos conocidos poseen esta propiedad. Un fluido ideal, sin viscosidad, es una aproximación aceptada para ciertas aplicaciones.
+
+La viscosidad solo se manifiesta en líquidos en movimiento, definiéndose como la relación entre el esfuerzo cortante y el gradiente de velocidad, también conocida como viscosidad absoluta o dinámica (μ).
+
+Un fluido sometido a fuerzas cortantes se deforma formando capas paralelas, donde la velocidad es constante en cada capa.
+
+A continuación, se presenta una tabla con densidades relativas de diversas sustancias:
+
+| Sustancia | c [J/(gºC)] | c [cal/(gºC)] |
+| :-------- | :---------- | :------------ |
+| Agua      | 4,182       | 1,0           |
+| Aire seco | 1,009       | 0,241         |
+| Aluminio  | 0,896       | 0,214         |
+| Bronce    | 0,385       | 0,092         |
+| Cobre     | 0,385       | 0,092         |
+| Concreto  | 0,92        | 0,22          |
+| Hielo (a 0ºC) | 2,09        | 0,5           |
+| Plomo     | 0,13        | 0,031         |
+| Vidrio    | 0,779       | 0,186         |
+| Zinc      | 0,389       | 0,093         |
+
+La viscosidad depende principalmente de la temperatura y, en menor medida, de la presión. En los gases, la viscosidad aumenta con la temperatura, a diferencia de los líquidos. En el estudio de fluidos, se asume que el agua está a temperatura ambiente, y las fórmulas de cálculo de pérdidas de carga no consideran cambios de viscosidad. Un líquido más viscoso ofrece mayor resistencia al movimiento y sufre mayores pérdidas de presión en las conducciones.
+
+##### 1.6. Presión de Vapor
+
+La presión de vapor es la presión a la que un líquido y su vapor o fase gaseosa coexisten en equilibrio dinámico a una temperatura específica. Mientras ambas fases estén presentes, su valor es independiente de las cantidades de líquido y vapor. Este fenómeno también ocurre en sólidos, donde un sólido pasa directamente al estado gaseoso (sublimación).
+
+Cuando se alcanza el equilibrio, las fases líquida y gaseosa se denominan líquido saturado y vapor saturado, respectivamente. Esta propiedad es inversamente proporcional a las fuerzas de atracción intermoleculares; a mayores fuerzas, se necesita más energía para vencerlas y provocar el cambio de estado.
+
+Un líquido comienza a evaporarse rápidamente al introducir una cantidad en un vacío a temperatura constante, hasta alcanzar el equilibrio entre ambas fases. En este punto, la evaporación y la condensación se igualan, lográndose la máxima presión de vapor o de saturación, que no puede superarse sin aumentar la temperatura. El equilibrio dinámico se alcanza más rápidamente cuanto mayor es la superficie de contacto entre el líquido y el vapor.
+
+El valor de la presión de saturación está determinado por varios factores, siendo el más importante la naturaleza del líquido. Generalmente, en líquidos similares, la presión de vapor a una temperatura dada es menor cuanto mayor es el peso molecular del líquido.
+
+Por ejemplo, el aire saturado con vapor de agua a 20ºC a nivel del mar tiene una presión parcial de agua de 23 mbar, mientras que el nitrógeno es de 780 mbar, el oxígeno de 210 mbar y el argón de 9 mbar.
+
+A continuación, se presenta una tabla con la presión de vapor del agua:
+
+| Tª (ºC) | PVapor (kg/cm²) | Tª (ºC) | PVapor (kg/cm²) |
+| :------ | :------------- | :------ | :------------- |
+| 0       | 0,006          | 70      | 0,317          |
+| 10      | 0,012          | 80      | 0,482          |
+| 20      | 0,023          | 90      | 0,714          |
+| 30      | 0,043          | 100     | 1,033          |
+| 40      | 0,075          | 110     | 1,46           |
+| 50      | 0,125          | 120     | 2,024          |
+| 60      | 0,203          | 130     | 2,754          |
+
+A 15ºC, la presión de vapor del agua es 0,0173 kgf/cm², y a 100ºC es 1,033 bares. Un líquido hierve cuando su presión de vapor iguala la presión exterior, por lo que el punto de ebullición normal es la temperatura a la cual el líquido tiene una presión de vapor igual a la atmosférica. Una disminución de la presión externa reduce el punto de ebullición, mientras que un aumento lo eleva. La presión de vapor es importante para las aspiraciones con bombas, a fin de evitar la cavitación.

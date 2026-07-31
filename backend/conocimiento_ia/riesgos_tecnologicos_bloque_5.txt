@@ -1,15 +1,154 @@
-## Materiales de Construcción en Edificaciones: Propiedades y Tipologías
+## Temario de Oposiciones de Bomberos y Emergencias: Edificaciones y Riesgos Tecnológicos
 
-La comprensión de los materiales de construcción es esencial para los profesionales de emergencias, ya que proporciona una base sólida para evaluar la estabilidad y los riesgos asociados a las edificaciones. Los materiales se clasifican según su origen, composición y comportamiento frente a diversas acciones.
+### Parte 1: Edificaciones
 
-### Materiales Pétreos: Desde la Naturaleza hasta lo Artificial
+#### Capítulo 1. Caracterización
 
-Los **materiales pétreos** se definen como el conjunto de materias primas, de cualquier naturaleza, composición o forma, que una vez puestas en obra mediante técnicas constructivas adecuadas, conforman elementos constructivos y edificaciones. La disponibilidad es un factor clave en su uso, siendo la mayoría elaborados a partir de áridos (arena, grava) o arcilla.
+**2. Conceptos de física aplicados a la edificación (Continuación)**
 
-Desde el punto de vista mecánico, los materiales se distinguen por su respuesta a los esfuerzos: los **materiales tenaces** absorben energía antes de fracturar debido a su ductilidad (ej., madera o acero), comportándose bien a compresión y tracción; por otro lado, los **materiales frágiles** presentan un comportamiento inverso, resistiendo bien a compresión pero mal a tracción y flexión (ej., piedra y ladrillo), caracterizándose por ser "másicos".
+**2.5 Factores asociados al comportamiento térmico (Continuación)**
 
-Los materiales pétreos pueden ser naturales o artificiales:
+**2.5.2 Coeficiente de dilatación térmica (α) (Continuación)**
 
-#### Materiales Pétreos Naturales
+A continuación, se presenta la tabla con los valores comunes del coeficiente de dilatación térmica para diversos materiales:
 
-Se extraen directamente de la naturaleza y, aunque presentan alta resistencia y durabilidad, tienen inconvenientes como su alto coste, baja plasticidad y fragilidad, lo que ha llevado a su progresivo
+| Material   | Coeficiente de dilatación térmica (x10⁻⁵) |
+| :--------- | :---------------------------------- |
+| Hormigón   | 1,17                                |
+| Acero      | 1,2                                 |
+| Hierro     | 1,1                                 |
+| Ladrillo   | 0,9                                 |
+| Madera     | 0,2-0,9                             |
+
+Como ejemplo, el acero tiene un coeficiente de dilatación térmica de 0,000012 (1/ºC), valor similar al del hormigón.
+
+**3. Acciones en la edificación**
+
+La normativa vigente en edificación, el Código Técnico de la Edificación (CTE), específicamente en su Documento Básico de Seguridad Estructural, Acciones en la Edificación (CTE DB SE AE), clasifica las fuerzas, cargas o solicitaciones que debe soportar una edificación en las siguientes categorías:
+
+**3.1 Acciones permanentes**
+
+Estas cargas actúan de forma constante durante toda la vida útil de la edificación. Se subclasifican en:
+
+**3.1.1 Peso Propio**
+
+Corresponde al peso de todos los elementos constructivos del edificio, incluyendo estructura, cerramientos, tabiquería, acabados e instalaciones. El peso propio se calcula a partir de las dimensiones de los elementos y el peso de sus materiales. A continuación, se detallan los valores más relevantes de pesos propios de materiales y elementos constructivos según el CTE para una intervención de bomberos.
+
+| Material           | Peso específico (kN/m³) | Material             | Peso específico (kN/m³) |
+| :----------------- | :---------------------- | :------------------- | :---------------------- |
+| Cal                | 13                      | Adobe                | 16                      |
+| Yeso               | 15                      | Ladrillo cerámico    | 12-15                   |
+| Cemento            | 16                      | Bloque hormigón      | 13-16                   |
+| Mortero cemento    | 19-23                   | Piedra natural       | 24-28\*\*               |
+| Hormigón           | 24+1\*                  | Madera               | 3,5 – 5,0               |
+| Acero              | 77 – 78,5               |                      |                         |
+
+\* En hormigón armado con armados ordinarios, el peso aumenta 1 kN/m³.
+\*\* Basalto: 30 kN/m³.
+
+| Peso específico aparente |
+| :----------------------- |
+| Cubiertas                | 1,0-2,5 kN/m²            |
+| Forjados                 | 2,0-5,0 kN/m²            |
+| Solados                  | 0,5-1,5 kN/m²            |
+| Cerramientos exteriores (h=3m) | 7,0 kN/m                 |
+| Particiones interiores (h=3m) | 3,0-5,0\* kN/m           |
+
+\* En viviendas se puede adoptar el valor medio de 1 kN/m².
+
+**3.1.2 Pretensado**
+
+Son los esfuerzos generados por procesos constructivos específicos del hormigón armado (tensado de las barras de acero y compresión de la masa de hormigón antes de su fraguado). Estos valores no son de referencia para intervenciones de bomberos, solo se verifica si las acciones de pretensado se mantienen o no en una estructura para detectar posibles problemas de estabilidad.
+
+**3.1.3 Acciones del terreno**
+
+Se refieren a los esfuerzos generados y transmitidos a la estructura por el terreno en contacto con el edificio (peso del terreno, empujes, hundimientos, etc.). La cuantía de estos esfuerzos se estima según el Código Técnico de la Edificación (DB-SE-C: Documento Básico Seguridad Estructural - Cimientos), siendo crucial la identificación del material (arcillas, gravas o arenas) y la altura de las mismas.
+
+Para este manual, se considerarán los siguientes valores de referencia para las acciones permanentes del terreno:
+
+| Profundidad | Arcilla kN/m² | Grava/Arena kN/m² |
+| :---------- | :------------ | :---------------- |
+| 1 m         | 5             | 3,3               |
+| 2 m         | 10            | 6,6               |
+| 3 m         | 15            | 10                |
+
+**3.2 Acciones variables**
+
+Son cargas que pueden actuar o no sobre la edificación y cuya cuantía puede variar con el tiempo. Incluyen:
+
+**3.2.1 Sobrecarga de uso**
+
+Corresponde al peso que la estructura debe soportar debido a los elementos necesarios para su función (comercial, vivienda, residencial público, etc.). Las sobrecargas de uso pueden ser uniformes (kN/m²) o concentradas (kN). La siguiente tabla muestra los valores más comunes del CTE DB SE AE:
+
+| Tipo de ocupación    | Uso / Recinto / Elemento                               | Carga uniforme | Carga concentrada |
+| :------------------- | :----------------------------------------------------- | :------------- | :---------------- |
+| Acceso restringido   | Zonas con dormitorios: viviendas, hospitales, hoteles, etc. | 2 kN/m²        | 2 kN/m²           |
+|                      | Cubiertas sin uso público                              | 1 kN/m²        | 2 kN/m²           |
+| Acceso público       | Uso comercial, pública concurrencia (zonas de aglomeración), etc. | 5 kN/m²        | 7 kN/m²           |
+| Acceso vehículos ligeros | Áreas de circulación y aparcamiento                    | 2 kN/m²        | 20 kN/m²          |
+
+**3.2.2 Acciones sobre barandillas y elementos divisorios**
+
+Es la fuerza horizontal uniforme que la estructura de barandillas, petos, miradores, balcones o escaleras debe resistir. El CTE estipula resistencias mínimas de 1 a 3 kN/m según la categoría de uso. En una intervención de bomberos, debido al desconocimiento del estado y resistencia reales, se considerarán resistencias máximas de 0,5 kN/m para barandillas y elementos divisorios.
+
+**3.2.3 Viento**
+
+El viento ejerce acciones (presiones y succiones) sobre la estructura, que dependen de su forma, altura, pendiente de cubierta y la zona geográfica. De forma simplificada, se puede adoptar un valor de 0,5 kN/m² en cualquier punto de España.
+
+**3.2.4 Acciones térmicas**
+
+Los edificios y sus componentes sufren deformaciones y cambios geométricos por variaciones de temperatura exterior, influenciadas por las particularidades climáticas, la orientación y las características de los materiales, calefacción/aislamiento. Las deformaciones por temperatura generan esfuerzos y tensiones en otros elementos constructivos. En intervenciones de emergencia, el enfoque es identificar la presencia de estas deformaciones y sus posibles consecuencias en elementos adyacentes. En edificios con estructura de hormigón o acero, las acciones térmicas pueden no considerarse si se disponen juntas de dilatación cada 40 m como máximo.
+
+**3.2.5 Nieve**
+
+Es necesario prever la sobrecarga por acumulación de nieve en cubiertas, considerando la zona climática y la inclinación de estas. En cubiertas planas de edificios a menos de 1.000 m de altitud, basta con considerar una carga de nieve de 1,0 kN/m².
+
+**3.3 Acciones accidentales**
+
+Son cargas derivadas de riesgos naturales o accidentes antropogénicos:
+
+**3.3.1 Sismo**
+
+Se refiere a la respuesta previsible de un edificio ante un movimiento sísmico. La protección antisísmica se especifica en la norma sismorresistente (NCSR-02, RD 997/2002 de 27 de septiembre). Se consideran peligrosos los sismos con aceleración superior a 0,04 veces la gravedad.
+
+**3.3.2 Incendio**
+
+Los edificios deben soportar un incendio durante un período de tiempo determinado para garantizar su seguridad. El CTE-DB SI establece parámetros mínimos según el uso y tamaño del edificio.
+
+**3.3.3 Impacto**
+
+Acciones en la edificación causadas por un impacto accidental. Se excluyen los impactos premeditados. Si la normativa municipal lo exige, los valores de cálculo para el impacto de vehículos de hasta 30 kN de peso total son 50 kN en dirección paralela a la vía y 25 kN en dirección perpendicular, sin actuar simultáneamente.
+
+**4. Esfuerzos / Tensiones**
+
+Toda estructura, al estar sujeta a las acciones de la edificación (cargas), experimenta un comportamiento mecánico llamado "esfuerzo" o "conjunto de esfuerzos", que se manifiesta como tensiones internas.
+
+**Definición de Tensión:** Es la magnitud física que representa la fuerza por unidad de área, resultado de acciones puntuales, lineales o superficiales (uniformes o no), que transmiten la carga a través del material del elemento constructivo hasta el terreno de cimentación.
+
+**Unidades:** La tensión se cuantifica en Newtons por milímetro cuadrado (N/mm²), donde 1 N/mm² equivale a 1 Kg/cm² o 1 MPa.
+
+**Tipos de Tensiones (según compresión del comportamiento estructural):** El conocimiento de esfuerzos y tensiones es fundamental. Se distinguen las siguientes tipologías:
+
+**Según los coeficientes de seguridad utilizados:**
+
+*   **Tensión de rotura:** Tensión máxima que el material puede soportar en condiciones de laboratorio, sin ponderar por coeficientes de seguridad.
+*   **Tensión de trabajo:** Umbral máximo de tensión para que una estructura funcione con un grado de seguridad suficiente. Suele ser el 70-80% de su límite elástico, dependiendo del material.
+
+**Según la naturaleza del esfuerzo:**
+
+*   **Esfuerzos simples:** Compresión, tracción y cortante.
+*   **Esfuerzos compuestos:** Flexión, pandeo, torsión.
+
+**4.1 Esfuerzos simples**
+
+**4.1.1 Compresión**
+
+Estado de tensión en el que las partículas del material se acercan, es decir, el material se aprieta. Se produce cuando un material es sometido a fuerzas con la misma dirección y sentido opuesto, hacia el interior. Elementos constructivos comúnmente comprimidos son pilares, soportes, pies derechos, muros de fábrica y puntales.
+
+**4.1.2 Tracción**
+
+Estado de tensión en el que las partículas del material se separan, es decir, el material se estira. Se produce cuando un material es sometido a fuerzas con la misma dirección y sentido opuesto, hacia el exterior. Los tirantes son elementos constructivos frecuentemente traccionados.
+
+**4.1.3 Cortante / Cortadura / Cizalladura**
+
+Estado de tensión en el que las partículas del material se deslizan con movimiento relativo entre sí. Se crea cuando una pieza es sometida a dos fuerzas con direcciones paralelas pero no coincidentes y sentidos opuestos. Ejemplo: se producen en los encuentros de una viga con un pilar.

@@ -1,53 +1,178 @@
-La estabilización y demolición de estructuras en situaciones de emergencia son tareas críticas para los servicios de bomberos, que requieren un conocimiento profundo de la física de la edificación, los materiales, las técnicas auxiliares y los procedimientos operativos. Estas intervenciones buscan asegurar la estabilidad de un edificio o eliminar riesgos inminentes, protegiendo vidas y bienes.
+### Tema: Aperturas Forzadas y Técnicas de Estabilización
 
-### Elementos Auxiliares para la Estabilización
+#### 1. Caracterización de Elementos de Cierre
 
-El **apeo** se define como toda construcción auxiliar provisional cuya finalidad es detener movimientos incontrolados en un edificio, transmitir esfuerzos al terreno o a otros elementos, y estabilizar lesiones estructurales. En contextos de emergencia, se recurre a **apeos de emergencia** cuando el riesgo de colapso es inminente y no hay tiempo para soluciones ordinarias. Estos se construyen con elementos de disponibilidad inmediata y resistencia a compresión probada, como puntales telescópicos y tablones.
+##### 1.1. Cerraduras
 
-Los elementos básicos de un apeo incluyen:
+La vulnerabilidad de las cerraduras es un factor crítico en los accesos forzados. Los fabricantes y cerrajeros buscan aumentar su protección, mientras los cuerpos de bomberos deben conocer métodos para su apertura en situaciones de emergencia. Una medida complementaria de seguridad es la instalación de chapas de acero sobre el ojo de la cerradura, ancladas con soldadura a la caja, para dificultar el uso de taladros.
 
-*   **Durmiente**: Es una pieza horizontal, comúnmente un tablón de madera de 200x70 mm, que se coloca en el suelo o sobre una base para recibir las cargas verticales provenientes de elementos como pies derechos o tornapuntas, distribuyéndolas de manera uniforme. Su función principal es resistir la compresión y disipar la carga. Es importante señalar que su resistencia a compresión normal a las fibras es menor que la de un pie derecho, y su flexibilidad limita su capacidad de reparto de cargas. Un durmiente de una tabla puede soportar 49 kN; si se utilizan dos tablas embridadas, 71 kN; tres, 101 kN; y cuatro, 134 kN. En caso de presiones excesivas, se puede aumentar la superficie de descarga mediante elementos como pirámides o rigidizadores.
-*   **Sopanda**: Consiste en una pieza horizontal, generalmente un tablón de madera de 200x70 mm, que se instala en la parte inferior de un elemento estructural horizontal (como una viga o vigueta) para recoger sus cargas y transmitirlas a los elementos verticales del apeo. También sirve para atar las cabezas de los pies derechos. Su función principal es soportar esfuerzos de flexión y compresión. La flexibilidad de la madera permite una buena adaptación a las deformaciones del elemento apear. Sin embargo, su limitada resistencia a flexión a menudo exige la colocación de numerosos pies derechos o puntales a cortas distancias, lo que puede dificultar el paso y aumentar la complejidad de la intervención.
-*   **Tornapunta**: Pieza inclinada de madera diseñada para transmitir cargas verticales a elementos horizontales mediante compresión axial. Su resistencia se calcula de forma similar a la de un pie derecho. Es fundamental que los puntos de apoyo de las tornapuntas dirijan las cargas hacia elementos estructurales sólidos, como zanjas o estructuras adyacentes. La evaluación de los puntos de contacto es crucial para evitar sobrecargas o punzonamientos. Se recomienda instalarla a 2/3 de la altura del muro para corregir giros, a la altura del canto del forjado para empujes horizontales, y en el punto de máxima deformación para pandeo. La principal dificultad radica en la transmisión de cargas desde la pared al suelo, ya que la tornapunta tiende a resbalar. Para mitigar esto, se emplean técnicas como el **embarbillado** (un corte que permite el encaje, aunque debilita la pared) o el **atado mediante ranas de encofrado** (más efectivo y menos dañino). Las tornapuntas pueden presentarse en diversas modalidades, como en paralelo, en abanico (para grandes alturas) o en jineta (la menos recomendable debido a las flexiones inducidas).
-*   **Codales**: Son piezas horizontales de sección cuadrada o circular que se utilizan entre dos elementos de apoyo para mantener su separación, trabajando a compresión axial.
-*   **Agujas**: Piezas de madera que se insertan en un muro perforándolo, con la función de sostenerlo y apoyar otras piezas verticales, trabajando a flexión.
-*   **Jabalcón**: Similar a una tornapunta, es una pieza inclinada de madera que recibe esfuerzos horizontales o inclinados y los transmite a un elemento vertical, trabajando a compresión.
-*   **Orejas**: Generalmente tablones de madera que se usan como topes o elementos de contención para otros componentes, o para controlar movimientos laterales y rotaciones de piezas como las agujas. Su resistencia está directamente ligada al número y tamaño de sus fijaciones.
-*   **Recercados de huecos en muros de carga**: Se utilizan para reforzar puntos débiles en muros, como dinteles rotos, o para mejorar la estabilidad general en caso de asentamientos diferenciales. Un ejemplo efectivo es la **Cruz de San Andrés**, que distribuye los esfuerzos en varias direcciones.
-*   **Puentes de apeo**: Estructuras compuestas por una pieza horizontal resistente (aguja) y dos verticales (pies derechos), diseñadas para soportar cargas perpendiculares a un muro de fachada. Requieren el uso de orejas para evitar desplazamientos laterales de la aguja.
-*   **Apeo en asnillas**: Implica el uso de un par de tornapuntas con tirantes en la base para contrarrestar empujes horizontales, unidas en la cabeza por una aguja y arriostradas transversalmente. Es una técnica compleja reservada para casos estrictamente necesarios.
-*   **Apeo en llave (sistemas comprimidos de emergencia)**: Consiste en tablones de madera contrapuestos y sin clavar, que forman un prisma de base cuadrada. El objetivo es que todas las piezas tengan la misma medida para agilizar la ejecución y que las cargas se distribuyan simétricamente. La altura del apeo no debe superar tres veces el lado de su base. Su resistencia y estabilidad son limitadas, y los pre-cálculos son solo orientativos, ya que actúan como una medida preventiva temporal.
+La cerradura estándar se identifica como cerradura de tambor de pines o de cámara de pernos. Su mecanismo utiliza pines de longitudes diversas que impiden la rotación del cerrojo si no se introduce la llave correcta. La rotación del tambor con la llave abre la cerradura.
 
-### Fases de Ejecución de Estructuras Auxiliares
+La ranura recta en el tambor, conocida como estría, es el punto por donde se inserta la llave. Algunos diseños incluyen salientes que obstruyen el descenso de los pines, complicando la manipulación. Los tambores suelen tener cinco o seis orificios verticales donde se alojan los pines o pernos de distinta longitud, con extremos redondeados para facilitar la inserción de la llave. En la parte superior, pines de control son presionados por muelles.
 
-La correcta ejecución de un apeo sigue una secuencia de fases:
-1.  **Dimensionado**: Se determina la cantidad de puntales, su separación y el tamaño de los durmientes basándose en la resistencia de los materiales disponibles (tablones, puntales telescópicos) y las cargas del edificio a transmitir al terreno.
-2.  **Toma de medidas y cortes**: Una vez definida la geometría del apeo, se miden las piezas y se realizan los cortes necesarios, restando a la longitud total dos veces el grosor del tablón de sopanda y durmiente, más un margen de 2 cm para el acuñado. Los cortes deben ser precisos y perpendiculares para evitar debilitar la sección de la madera.
-3.  **Embridado de tablones**: Las piezas principales del apeo, como pies derechos, tornapuntas o codales, deben ensamblarse en grupos de dos o tres tablones unidos mediante bridas para prevenir pandeos.
-4.  **Sujeción de los durmientes**: Se asegura la base del durmiente para evitar deslizamientos, mediante cajeados, riostras, codales contra muros de carga o anclajes con redondos.
-5.  **Piezas en contacto directo con muros**: En puntos donde exista riesgo de cizallamiento, se utiliza una pieza de madera como contacto directo con el muro, anclada con pasadores o ranas.
-6.  **Montaje del apeo**: Se clavan las piezas horizontales a las verticales de arriba abajo (la sopanda a los pies derechos), se eleva el conjunto, se aploma y se montan los demás elementos (pies derechos, cuñas, riostras).
-7.  **Aplomado de las piezas**: Las piezas verticales deben estar perfectamente aplomadas para asegurar su eficacia. Si es necesario, se alinean varios pies derechos.
-8.  **Acuñado del apeo**: Para fijar los pies derechos o tornapuntas, se sierran ligeramente más cortos que la distancia requerida. El hueco se rellena con dos cuñas enfrentadas que se aprietan para templar y ajustar el apeo, inmovilizándolas con un clavo. La calidad de las cuñas debe ser similar a la de los tablones.
-9.  **Ejecución de piezas**: Las piezas deben clavarse para asegurar las uniones y evitar movimientos debidos a la humedad o variaciones térmicas.
+Las cerraduras más básicas tienen un pin de control por cada pin de la llave. Para aquellas que permiten abrirse con diferentes llaves o con una llave maestra, se incluye un "pin espaciador", que es un pin de control adicional.
 
-### Técnicas de Demolición
+Las cerraduras de tambor de pines se emplean comúnmente en candados cilíndricos, y también en los tubulares o radiales.
 
-La **demolición** es la acción de destruir o desmontar un elemento constructivo, siendo el último recurso cuando la estabilización es inviable o peligrosa. Puede ser total o parcial.
+En cuanto a la protección frente a perforaciones, es necesario el uso de herramientas especializadas, como la mola o la sierra radial, para escudos protectores de alta resistencia. Estas herramientas son ruidosas y difíciles de manejar, lo que puede disuadir a intrusos.
 
-*   **Demolición elemento a elemento**: Se aplica en derribos de pequeña envergadura o como preparación para una demolición total. Es el método más común en edificios entre medianeras. Se caracteriza por ser gradual (evitando desplomes parciales), continuo (sin dejar elementos inestables), ordenado (de arriba hacia abajo, invirtiendo el proceso constructivo), aligerando las plantas simétricamente y las cargas antes de demoler, contrarrestando empujes horizontales, apuntalando voladizos y manteniendo los arriostramientos.
-*   **Demolición por colapso mediante medios mecánicos**:
-    *   **Por empuje**: Requiere maquinaria robusta (bulldozers, retroexcavadoras) que actúa en el cuarto superior de los elementos verticales, por encima del centro de gravedad. Su uso suele estar limitado a plantas bajas o primeras y depende de la disponibilidad de terceros equipos.
-    *   **Por tracción**: Eficaz si se cuenta con suficiente distancia de seguridad. Implica debilitar los elementos estructurales y luego tirar progresivamente para evitar movimientos bruscos.
-    *   **Por corte y perforación**: Utiliza herramientas manuales o mecánicas (motosierras, tronzadoras, equipos hidráulicos, sierras de sable) para elementos pequeños o como preparación para derribos mayores.
+La certificación de cilindros se rige por la norma UNE EN 1303:2006, la cual establece requisitos y métodos de ensayo para herrajes de edificación. La identificación de un cilindro certificado se realiza mediante un código de ocho dígitos (ej. 16010c62).
 
-### Intervenciones Frecuentes y Estabilidad de Fachadas
+Los candados, considerados elementos de seguridad móviles o portátiles, son útiles cuando una puerta no tiene una cerradura normal, especialmente en puertas grandes metálicas aseguradas con cadenas de acero. Pueden abrirse con una llave de acero o mediante un juego de contraseñas, personalizable y variable.
 
-Las intervenciones más frecuentes de bomberos en fachadas se deben a desprendimientos de materiales de acabado (alicatados, aplacados, etc.) y la aparición de grietas o fisuras en cubiertas, petos, aleros y hastiales.
+Los cerrojos, también conocidos como pestillos, son de metal y contribuyen a la seguridad de puertas y portillos o ventanas. El cerrojo de embutir, el más común, tiene un soporte metálico y una barra pasante que se desliza hacia el marco, cerrándose con el simple movimiento de la barra sin pestillo o lengüeta. Se usa en viviendas para asegurar puertas y ventanas, o en puertas de doble hoja. El cerrojo de seguridad, al igual que el de gancho, se caracteriza por un giro de 90º que impide el retroceso. Las láminas de hierro, cilíndricas o rectangulares, se aplican sobre planchas de hierro fundido y se introducen con un movimiento horizontal.
 
-Los **problemas de inestabilidad local** en fachadas se manifiestan en elementos singulares como cornisas, aleros, gárgolas, albardillas y frentes de forjado.
+##### 1.2. Ventanas
 
-La **inestabilidad general** de las fachadas se clasifica según su conexión con los forjados:
+Las ventanas, elementos determinantes para la seguridad y el aislamiento térmico y acústico, pueden estar fabricadas con aluminio, madera, PVC o poliuretano y cuentan con diversos mecanismos de sujeción y apertura.
 
-*   **Fachadas apoyadas en forjados**: Son fachadas tradicionales, generalmente más seguras y con menor espesor. El síntoma más común es el desprendimiento de material entre el forjado y la fachada.
-*   **Fachadas que pasan por delante del canto de forjado**: Son fachadas modernas de fábrica continua, ancladas a los cantos de los forjados mediante grapas y barras de acero. Los anclajes ocultos pueden fallar con el tiempo, lo que las hace más problemáticas. El síntoma es el desprendimiento de paños completos, lo que
+**Tipos de Ventanas según su Sistema de Apertura:**
+
+*   **Batiente:** Es el tipo más tradicional, se abre lateralmente. Ofrece facilidad de uso, ventilación y gran luminosidad, pero ocupa espacio al abrir.
+*   **Oscilante en el eje superior:** Bascula sobre su borde superior, requiere poco espacio al abrir y proporciona ventilación adecuada. Sus inconvenientes incluyen dificultad para la limpieza exterior, limitación de la visión y un mecanismo propenso a averías y atascos, además de un marco generalmente más grueso.
+*   **Basculante:** Oscila sobre un eje central horizontal. Ventila e ilumina eficazmente, y es sencilla de limpiar. Sin embargo, ocupa espacio tanto en la parte superior como inferior.
+*   **Pivotante:** Pivota sobre un eje central vertical. Similar a la basculante, pero el cristal se mantiene vertical y se ensucia menos. No obstante, dificulta asomarse y divide el espacio disponible.
+*   **Corredera:** Compuesta por un mínimo de dos hojas que se deslizan horizontalmente sobre rieles. Su principal ventaja es que solo ocupa su propio plano. Sus limitaciones son que solo la mitad del hueco es utilizable, genera un obstáculo visual, el ajuste es menos hermético y la limpieza exterior es compleja si las hojas no pueden cruzarse completamente.
+*   **Celosía:** Formada por lamas de cristal horizontales que giran de forma simultánea. Es cómoda, sencilla y ofrece buena ventilación y luminosidad ocupando poco espacio. Sus inconvenientes radican en que el mecanismo puede atascarse y el cierre no es hermético, lo que no la hace aconsejable si se busca un buen aislamiento.
+
+**Tipos de Cerradura de Ventana:**
+Las cerraduras de ventana son generalmente más simples que las de las puertas, y su funcionamiento se basa en la fuerza ejercida sobre la ventana, no en la cerradura misma, que tiene una función principalmente mecánica. Los tipos más comunes incluyen:
+*   Cerraduras de manivela.
+*   Cierres de corredera.
+*   Cierres basculantes planos.
+*   Cierres oscilobatientes.
+
+##### 1.3. Tipos de Vidrio
+
+El vidrio, componente esencial de las ventanas, define la seguridad y las propiedades aislantes (térmicas y acústicas) de estas. Se distinguen varios tipos:
+
+*   **Termoendurecido:** Aumenta la resistencia mecánica y soporta impactos, pero no se clasifica como vidrio de seguridad. Al romperse, produce fragmentos de gran tamaño.
+*   **Templado:** Clasificado como vidrio de seguridad, se recomienda para zonas propensas a impactos. Se fragmenta en pequeños trozos no dañinos al quebrarse.
+*   **Laminado:** Compuesto por dos o más placas de cristal unidas por láminas intercaladas de polivinilo butiral (PVB), de aproximadamente 1 mm de grosor, que refuerzan la resistencia. Los vidrios blindados son capas múltiples de cristal laminado.
+*   **Con cámara:** Formado por dos o más láminas separadas por un espacio relleno de aire o gases deshidratados, delimitado por un perfil hueco.
+
+**Normativas Europeas de Seguridad para Cristales:**
+*   UNE-EN 12600:2003: Seguridad de uso.
+*   UNE-EN 356:2001: Resistencia a la agresión.
+*   UNE-EN 1063:2001: Resistencia a las balas.
+*   UNE-EN 13541:2001: Resistencia a la presión de explosión.
+
+##### 1.4. Persianas
+
+Las persianas son elementos retráctiles o enrollables instalados tanto en el interior como en el exterior de las ventanas. Cumplen funciones de control de luz, aislamiento térmico, privacidad y seguridad.
+
+**Materiales:**
+Se fabrican con diversos materiales, siendo los más habituales el plástico (PVC) y el aluminio, valorados por su ligereza y resistencia.
+
+**Mecanismos de Accionamiento:**
+*   **Motor eléctrico y control domótico:** Permite subir y bajar la persiana.
+*   **Cinta:** Sistema más extendido, se recoge en una polea inferior con un muelle interno y otra polea superior que actúa por el peso de la persiana. Algunas persianas motorizadas se accionan desde el cajetín inferior.
+*   **Manivela:** Más lento que la cinta, un torno recoge la cuerda o cinta, cuyo cable pasa por un tubo empotrado en la pared, requiriendo menos fuerza que el sistema de cinta.
+*   **Cuerda:** Recoge y enrolla la persiana por el centro, pudiéndose atar en un lateral o en la parte inferior de la ventana.
+
+##### 1.5. Rejas de Protección
+
+Las rejas de protección, o enrejados, se utilizan como cierres en ventanas y otros huecos. No todas tienen características técnicas de seguridad, algunas son meramente ornamentales.
+
+**Armazón:**
+Generalmente se componen de barras metálicas, unidas en diversos ángulos o complementadas con varillas u otras rejas, configurando una variedad de diseños.
+
+**Clasificación:**
+*   **Fijas:** Embutidas en la pared o marco (mayor resistencia) o adosadas (menor resistencia). Las embutidas son las más resistentes.
+*   **Desmontables:** Plegables o abatibles, con perfiles más ligeros. A menudo se prefieren las abatibles por su estética, aunque son menos resistentes.
+
+**Técnicas de Apertura:**
+El proceso para forzar un enrejado, buscando el menor daño posible, es el siguiente:
+1.  Retirar los tornillos de sujeción.
+2.  Cortar los anclajes con herramientas como sierra moto radial, corta-pedales, o cizalla manual o hidráulica.
+3.  Extraer los anclajes y arrancar la reja (usando herramientas hidráulicas o palancas).
+4.  Retirar los barrotes con sierra moto radial, corta-pedales, o cizalla manual o hidráulica.
+5.  Ampliar el hueco con separadores, cilindros o ram hidráulicos.
+
+##### 1.6. Cierres Metálicos
+
+*   **Cierre de Tijera:**
+    *   **Descripción:** Es el cierre extensible tradicional, utilizado habitualmente en comercios y viviendas para impedir el acceso. La pintura al horno ha mejorado su estética y reducido su sonoridad.
+    *   **Opciones:** Puede incluir hojas giratorias o una guía inferior abatible/desmontable.
+
+*   **Cierres Enrollables:**
+    *   **Tipos:**
+        *   **Ciegos:** El modelo más común en locales comerciales urbanos. Impide completamente el acceso y la visibilidad de lo que protege.
+        *   **Con visibilidad:** Frecuente en comercios con escaparates. Se fabrica con diversos materiales y diseños (troquelado, microperforado, varillas de acero).
+
+#### 2. Técnicas de Intervención para Aperturas Forzadas
+
+##### 2.1. Medidas de Seguridad
+
+Para un acceso forzado, es esencial el uso de equipos de protección individual (EPI): guantes protectores, ropa de manga larga anticorte, casco, calzado reforzado con punta de acero, y gafas o pantalla de protección ocular. Se requiere protección adicional si la entrada forzada implica riesgos como altura o incendio interno.
+
+##### 2.2. Técnicas de Apertura de Puertas (Cerradura)
+
+Se emplean diversas técnicas para forzar cerraduras:
+
+*   **Técnica del resbalón (mica):** Se utiliza para aperturas accidentales (llave olvidada o puerta cerrada sin echar la llave). Se introduce un plástico (radiografía, plástico de botella, tarjeta de crédito o lámina de mica) por la ranura a la altura del resbalón para desplazarlo. Simultáneamente, se agita la puerta con empujones enérgicos.
+
+*   **Extracción de bombín:** Busca forzar o descerrajar la cerradura para permitir el giro de apertura sin llave.
+    *   **Mordaza de presión o llave inglesa:** Se ajusta la herramienta en la parte más estrecha del bombín y se realizan movimientos laterales bruscos hasta partirlo. Luego, se extrae el bombín y la leva, y se acciona el mecanismo de la cerradura manualmente.
+    *   **Extractores:** Se introduce un tornillo de acero en el bocallaves (previa perforación con broca fina). Se sitúa el extractor y se acciona el husillo con una llave Allen. Una vez partido el bombín, se extrae la leva y el activador, y se usa un portalevas o destornillador para abrir la puerta.
+
+*   **Barra de uña:** Similar a la extracción con extractores, se introduce un tornillo autorroscante de cabeza hexagonal de buena calidad en el bocallaves. Se apoya la barra de uña y se ejerce fuerza hasta romper el cilindro. Se extrae el bombín, la leva y el activador, y se acciona la cerradura con un portalevas o destornillador plano.
+
+*   **Mordaza y destornillador (bombín redondo saliente):** Si el bombín redondo sobresale, se aprieta con una mordaza y se gira con fuerza en ambos sentidos hasta romper los tornillos internos y extraer el bombín. Se elimina el embrague con un destornillador y se acciona la cerradura. Si el bombín no sobresale, se introduce un destornillador plano golpeándolo con un martillo y se fuerza el giro con una llave inglesa o mordaza.
+
+*   **Retirar escudo protector:** Consiste en quitar los elementos del escudo para acceder y romper el bombín. Si el escudo es resistente, se corta con sierra radial o de sable, o taladro. Para escudos de alta seguridad, se corta con radial y luego se extrae o fresa el bombín (anti-extracción). Para escudos abiertos, se usa un cortafríos.
+
+*   **Taladro de bombín:** Se perfora un agujero debajo del tambor para vaciar los pernos. Con un destornillador, se gira el bombín y se acciona la leva. En bombines de seguridad antitaladro, se utiliza una amoladora para eliminar el tetón de acero.
+
+*   **Fresado de bombín:** Se lima o fresa el tambor hasta el embrague central, que luego se gira con un destornillador. Se usan fresas especiales para metal de grosor creciente.
+
+*   **Apertura destructiva con maza:** Antes de aplicar esta técnica, si la emergencia lo permite, se debe informar al propietario de los daños y la imposibilidad de cerrar la puerta.
+    *   **Golpeo directo:** Se golpea la puerta a la altura de la cerradura para romper o hacer saltar el cerradero. Eficaz en puertas convencionales y blindadas, menos en acorazadas.
+    *   **Tirar la puerta entera:** Si el golpeo directo falla, se golpea el cerco hasta localizar las garras de sujeción (por desgarros, desconchones o grietas) y se golpean con fuerza hasta derribar la puerta.
+
+*   **Otras técnicas (apalancamiento):**
+    *   **Separador hidráulico “abrepuertas”:** Se incrusta con un golpe de maza en la cerradura (si hay holgura) y se infunde presión con una bomba de pie o manual.
+    *   **Herramienta Halligan:** Se crea un hueco con la uña o pico plano (golpeando la puerta a 20 cm de la cerradura). Se introduce la horca de la halligan (parte curva hacia la puerta) y se golpea con hacha o maza. Luego se hace palanca para abrir.
+
+*   **Apertura forzada retirando bisagras:** En puertas con bisagras por dentro, esta técnica es difícil. Si las bisagras son accesibles (por fuera), se puede retirar el perno interior, cortarlas o desatornillarlas, abriendo la puerta en sentido contrario. Se debe asegurar que la puerta no caiga sobre el personal.
+
+*   **Método bumping:** Rápido, pero no siempre efectivo. Se introduce una llave modificada (con la posición más baja de los pistones) y se golpea suavemente con un martillo para hacer saltar los cilindros internos. Luego se gira la llave.
+
+*   **Ganzuado lock-picking:** Utiliza una ganzúa para explotar defectos mecánicos de la cerradura. Requiere sensibilidad para sentir el "aflojamiento" de la tensión de los pernos al pasar la línea de corte.
+
+*   **Técnicas de impresión (foil system):** Se inserta una lámina de aluminio precortada en la llave en una cerradura, los pernos moldean la lámina para replicar la llave original, abriendo la puerta sin daño.
+
+##### 2.3. Técnicas de Apertura de Ventanas
+
+El primer paso es siempre apartar las persianas si están bajadas, forzando su enrollado o desmontando lamas. La técnica depende del tipo de ventana y su estado.
+
+*   **Ventanas correderas:** Se apalanca la esquina inferior cerca del marco lateral para liberar el cierre. Simultáneamente, se apalanca en la zona de la cerradura y se desliza la hoja.
+
+*   **Ventanas abatibles:** Se apalanca la parte superior de la hoja con la maneta (hacia abajo y dentro) para evitar el tetón de cierre. Se repite en la parte inferior (hacia arriba y dentro). Dada la dificultad, a veces es preferible romper el cristal.
+
+*   **Ventanas oscilobatientes (posición inclinada):** Se utiliza un útil sencillo (tubo PVC, cuerda fina, dos palos). Se introduce la maneta en el tubo, se pasa la cuerda superior por encima de la ventana y se sujeta. Se tensan ambas cuerdas y se tira de la ventana hacia el marco para guiarla a la posición de cerrado. Finalmente, se tira de la cuerda más larga para poner la maneta horizontal y abrir la ventana.
+
+*   **Rotura de vidrios:** Si no es posible forzar la ventana, se rompe el cristal con precaución, identificando el tipo de vidrio. Se usa cinta adhesiva o plástico para retener fragmentos. En cristal laminado, se usa sierra de sable o manual corta-lunas. Siempre usar guantes anticorte, mascarilla y gafas de protección.
+
+##### 2.4. Técnicas de Apertura de Rejas
+
+La apertura de rejas depende de su posición, montaje y robustez, buscando causar el menor daño posible, salvo en emergencias. El proceso incluye:
+1.  Retirar tornillos de sujeción.
+2.  Cortar anclajes con sierra moto radial, corta-pedales o cizallas.
+3.  Sacar anclajes y arrancar la reja (con herramientas hidráulicas o palancas).
+4.  Retirar barrotes (sierra moto radial, corta-pedales, cizallas).
+5.  Ampliar el hueco (separador, cilindro ram).
+
+##### 2.5. Técnicas de Apertura de Cierres Metálicos
+
+Los cierres de seguridad en locales comerciales, a menudo motorizados, tienen una caja de registro accesible. Se fuerza la cerradura para accionar el embrague o pera de desbloqueo del motor y subir el cierre. En emergencia o si es muy complejo, se cortan las varillas del cierre con una cizalla o moto radial para crear una abertura a modo de puerta.
+
+##### 2.6. Butrones
+
+Un butrón es un agujero practicado en suelos, techos o paredes para acceder a un espacio. En bomberos, se utiliza en riesgo inminente tras descartar otros métodos.
+
+**Medidas de seguridad:** Uso de mascarilla buco-nasal con filtro de partículas por el polvo generado.
+
+**Ubicación:** Pueden abrirse en superficies verticales (fachadas, paredes y tabiquería) u horizontales (forjados de fábrica ligera, tejados).
+
+**Herramientas:** La elección depende del material (hormigón, madera, yeso, ladrillos, tejas, planchas metálicas). Se pueden emplear mazas, martillos, hachas, picos, cortafríos, sierras manuales o eléctricas (amoladoras, taladros, martillos de percusión, motosierras de rescate, moto radial), lanzas térmicas, autógenas o herramientas hidráulicas (separadores, cilindros y cizallas). El tiempo de ejecución varía según el material.

@@ -1,35 +1,171 @@
-# Técnicas de Conducción Especializada para Vehículos de Emergencia: 4x4 y Terrenos Difíciles
+## Temario: Vehículos de Bomberos - Técnicas de Conducción (Parte 2, Capítulo 8, Páginas 347-350)
 
-La capacidad de los bomberos para operar en condiciones adversas depende en gran medida de sus habilidades de conducción especializada y del conocimiento exhaustivo de las capacidades y limitaciones de sus vehículos. En entornos complejos, como terrenos irregulares, superficies de baja adherencia o pendientes pronunciadas, se aplican tácticas específicas para garantizar la seguridad y la eficacia de la intervención.
+### 4.1.4. Reductora
 
-## Conducción 4x4: Principios y Componentes
+La reductora tiene como función la desmultiplicación de las vueltas del motor, lo que permite conseguir desarrollos más lentos, mayor fuerza de empuje y una menor velocidad, lo que incrementa la seguridad. Su efecto es comparable al de cambiar un plato más pequeño en una bicicleta de montaña.
 
-La **conducción 4x4** requiere una aproximación prudente, que incluye el examen a pie de cualquier obstáculo significativo y una revisión pre-operacional del estado general del vehículo, prestando especial atención a elementos como las ruedas, frenos, dirección, suspensión, sistema eléctrico, refrigeración, niveles de líquidos y el filtro de aire.
+### 4.1.5. Palancas
 
-En este contexto, la **tracción permanente (4x4)** implica que las cuatro ruedas transmiten potencia de forma continua. Esta configuración ofrece ventajas significativas en seguridad al distribuir el par motor entre los ejes mediante un **diferencial central**. Si bien algunos vehículos permiten el bloqueo de este diferencial, lo que iguala el par entre los ejes y es idóneo para superficies de baja adherencia (hielo, nieve, barro), no se recomienda su uso en condiciones normales debido a las tensiones que genera. Es importante destacar que la mayoría de los SUVs no disponen de bloqueo de diferencial central ni de reductora, lo que limita su capacidad en situaciones extremas.
+Las posiciones de las palancas en un vehículo se configuran de manera distinta según el tipo de tracción del mismo:
 
-Por otro lado, la **tracción conectable (4x4)** inicia con el par motor transmitido únicamente al eje trasero (4x2), permitiendo al conductor activar la tracción 4x4 cuando sea necesario para obtener tracción total en ambos ejes.
+#### a) Vehículos con Tracción Conectable
 
-El **diferencial** es un mecanismo crucial que mejora la estabilidad y la adherencia del vehículo, compensando las diferencias de giro de las ruedas en curvas y distribuyendo la potencia motriz de manera proporcional a la adherencia disponible. Un problema común surge cuando una rueda pierde adherencia, ya que el diferencial le envía toda la potencia, deteniendo el vehículo. Para contrarrestar esto, se puede optar por aplicar tracción a la rueda que patina, utilizando, por ejemplo, planchas o piedras, o bien **bloquear el diferencial**, ya sea de forma manual o automática. Los **diferenciales autoblocantes** ofrecen entre un 25% y un 75% de bloqueo, previniendo el patinaje y mejorando la conducción en invierno. Los **diferenciales viscosos o Ferguson**, comunes en vehículos 4x4, compensan la pérdida de tracción delantera, aunque no son permanentes y pueden tener un retraso en la transferencia de par. Asimismo, los **diferenciales Torsen** distribuyen la fuerza del motor según la resistencia al giro de cada semieje, actuando en aceleración y retención, lo que mejora la direccionalidad y ofrece alto confort, si bien a un coste superior. Es fundamental que la conducción con el diferencial bloqueado se realice con destreza para evitar daños en la transmisión.
+En los vehículos con tracción conectable, la posición de la palanca se define de la siguiente forma:
 
-La **reductora** es un componente esencial que desmultiplica las vueltas del motor, logrando velocidades más lentas pero con una mayor fuerza de empuje, lo que incrementa la seguridad, comparable a cambiar a un plato pequeño en una bicicleta de montaña. Las **palancas** de selección de tracción varían según el tipo de vehículo. En vehículos con **tracción conectable**, se encuentran las posiciones 2H (carretera en buen estado), 4H (campo con poca adherencia), N (neutro, para toma de fuerza de accesorios) y 4L (campo con dificultad especial y reductora). En vehículos con **tracción permanente**, las posiciones incluyen H (campo con poca adherencia), N (neutro, toma de fuerza), L (campo con dificultad especial y reductora) y DIF LOCK (para situaciones de pérdida de adherencia, como cruce de ejes, barro o nieve).
+| Posición de la palanca | Descripción         | Uso                                      |
+| :--------------------- | :------------------ | :--------------------------------------- |
+| **2H**                 | Tracción en dos ruedas: trasera o delantera | Carretera y firme en buen estado         |
+| **4H**                 | Tracción en las cuatro ruedas larga (4x4) | Campo y firme con poca adherencia        |
+| **N**                  | Neutro, toma de fuerza | Uso de accesorios (cabestrante, bomba) |
+| **4L**                 | Tracción 4x4 con la reductora | Campo y especial dificultad              |
 
-La geometría del vehículo también es un factor crítico en la conducción 4x4. El **ángulo de ataque** es el ángulo entre el suelo y el punto más saliente delantero del neumático, crucial al abordar rampas y escalones. Similarmente, el **ángulo de salida** se define entre el suelo y el punto más saliente trasero del neumático. El **ángulo ventral** se forma por las líneas que conectan las bases de los neumáticos delantero y trasero con el punto más bajo de la carrocería del vehículo, permitiendo franquear crestas sin que el vehículo toque el suelo, evitando así que las ruedas queden en el aire o que se quede encallado. Finalmente, la **altura libre** es la distancia mínima entre la parte más baja de la carrocería y el suelo, generalmente determinada por los diferenciales, mientras que la **profundidad de vadeo** se refiere a la distancia entre la admisión de aire y el suelo, indicando la profundidad máxima segura para cruzar cursos de agua.
+#### b) Vehículos con Tracción Permanente
 
-## Conducción en Terrenos de Baja Adherencia: Arena, Barro, Hielo y Nieve
+Para los vehículos con tracción permanente, las posiciones de la palanca son:
 
-En **arena**, las condiciones varían significativamente; por la mañana, la arena suele estar más compacta debido a la humedad nocturna, mientras que por la tarde, el sol la calienta, volviéndola más blanda y peligrosa. Se recomienda conducir en arena durante las primeras horas del día. Si la arena es blanda, es aconsejable reducir la presión de los neumáticos a un mínimo de 1.5 bar y evitar las roderas de otros vehículos. La marcha a utilizar dependerá de la longitud del tramo: segunda con reductora para tramos cortos, o tercera o cuarta para tramos largos. Se debe entrar con velocidad y, si el vehículo se atasca, nunca acelerar bruscamente, ya que esto lo hundirá más; en su lugar, se debe quitar arena de las ruedas o colocar planchas debajo. Es vital extremar la precaución en las curvas, evitando acelerones y giros bruscos.
+| Posición de la palanca | Descripción                | Uso                                      |
+| :--------------------- | :------------------------- | :--------------------------------------- |
+| **H**                  | Tracción en las cuatro ruedas larga (4x4) | Campo y firme con poca adherencia        |
+| **N**                  | Neutro, toma de fuerza     | Uso de accesorios (cabestrante, bomba) |
+| **L**                  | Tracción 4x4 con la reductora | Campo y especial dificultad              |
+| **DIF LOCK**           | Bloqueo del diferencial    | Pérdida de adherencia (cruce de ejes, barro, nieve) |
 
-La **conducción en barro** exige un reconocimiento previo a pie para determinar la profundidad, los obstáculos y el tipo de barro, ya que no es lo mismo el barro resbaladizo (superficial y arcilloso) que el atrapador (profundo y viscoso). Para el barro resbaladizo, se debe usar la reductora, marchas largas, altas RPM y giros suaves del volante para facilitar el agarre lateral, siguiendo las roderas existentes si la altura del vehículo lo permite, o circulando por las crestas si el barro es profundo. En el barro atrapador, el uso de cadenas resulta muy eficaz. Como reglas generales, se aconseja desinflar los neumáticos a la mitad para mejorar la interacción con el barro, aumentar ligeramente la velocidad, evitar acelerones y frenazos bruscos, y nunca avanzar si el vehículo precedente está parado o bloqueado. Si el vehículo se atasca, se recomienda eliminar peso, limpiar el barro de las ruedas y colocar planchas, buscando asistencia para remolque si es necesario.
+### 4.1.6. Ángulo de Ataque
 
-La **conducción en nieve** se caracteriza por una baja adherencia, lo que demanda suavidad y precisión. No se debe sobreestimar la capacidad de conducción en nieve, y el uso de cadenas es fundamental para mejorar la tracción y la direccionalidad, además de ser consciente de los obstáculos ocultos como piedras o roderas. Las pautas clave incluyen mantenerse en la pista, evitar frenazos y acelerones bruscos, mantener un ritmo constante, minimizar los movimientos del volante y tomar las curvas a baja velocidad. El efecto de la nieve en los neumáticos es similar al del barro, requiriendo que la rueda penetre la capa blanda para alcanzar terreno firme. No se aconseja desinflar los neumáticos en nieve. En caso de poca nieve, se recomienda seguir las roderas, mientras que con mucha nieve, es preferible circular sobre nieve virgen para evitar acumulaciones bajo el vehículo. Para los ascensos en rampa nevada, se recomienda hacer "eses" y utilizar cadenas si es posible. Para los descensos, se debe mantener una línea recta, usar marchas cortas sin acelerar, dejando que el vehículo ruede, corrigiendo suavemente los deslizamientos laterales y circulando por zonas sin pisar. En nieve virgen, se utilizará una marcha larga con el motor poco revolucionado, y si el vehículo patina, se debe engranar rápidamente la marcha atrás con más gas, estando siempre alerta a la posible presencia de hielo.
+Este ángulo se forma entre la línea del suelo y la parte más sobresaliente en la zona delantera del vehículo, desde el punto de apoyo del neumático frontal. Es un factor a considerar al enfrentar rampas, escalones o desniveles.
 
-La **conducción en hielo** es extremadamente peligrosa y difícil de detectar, pudiendo sorprender en curvas, cambios de rasante o zonas sombrías. El uso de cadenas es altamente recomendable. Al pisar una placa de hielo, se debe reducir la velocidad y aumentar la distancia de seguridad con el vehículo precedente. La actuación debe ser rápida pero serena, sin frenar o girar el volante bruscamente, manteniendo una trayectoria suave y limpia, utilizando marchas largas (entre 1500 y 2500 RPM) y frenando con mucha suavidad. El sistema ABS es de gran ayuda, y si el pedal de freno vibra, se debe pisar con firmeza. En situaciones de **sobreviraje** (cuando la parte trasera del vehículo se desliza), se debe girar el volante en sentido contrario a la trayectoria del derrape y, una vez corregido, enderezar el volante y acelerar suavemente. Por otro lado, en caso de **subviraje** (cuando el vehículo tiende a seguir recto en una curva), se debe levantar el pie del acelerador y abrir la dirección suavemente para recuperar la adherencia, acelerando con suavidad una vez corregido el deslizamiento.
+### 4.1.7. Ángulo de Salida
 
-## Ascensos, Descensos y Pendientes Laterales
+Se define como el ángulo entre la línea del suelo y la parte trasera más sobresaliente del vehículo, desde la base del neumático. Es relevante al abordar rampas, escalones y desniveles.
 
-Abordar **pendientes ascendentes** requiere una evaluación previa a pie para identificar obstáculos y la topografía posterior de la rampa, verificando si las cotas del vehículo son adecuadas y si existe una vía alternativa menos difícil. Si la tracción es insuficiente, se puede intentar mover ligeramente el volante a derecha e izquierda y soltar un poco el acelerador para mejorar el agarre. Si el vehículo se atasca a mitad de la rampa por una marcha inadecuada o poca velocidad, se debe detener y calar el motor (sin usar embrague ni freno de mano). Para reanudar, se engrana la marcha atrás sin soltar el freno, se arranca con la llave (sin embrague), y se suelta el pedal del freno para descender en línea recta, permitiendo que el motor frene suavemente. Finalmente, se evalúa la situación al pie de la pendiente y, si se reintenta, se recomienda reducir el peso del vehículo y aumentar la aceleración.
+### 4.1.8. Ángulo Ventral
 
-Para los **descensos de pendientes**, es crucial evitar las inclinaciones laterales, ya que aumentan el riesgo de vuelco. La bajada debe afrontarse con decisión, en primera o segunda marcha con la reductora activada, sin acelerar y dejando que el vehículo ruede libremente, sin pisar el embrague y de forma frontal. Si se pierde el control, no se deben realizar acelerones o frenazos bruscos; si la velocidad es alta en una marcha larga, se frenará con extrema suavidad y dosificación, mientras que en marcha corta, se acelerará suavemente para recuperar el control.
+Este ángulo se forma por las líneas que parten de la base de los neumáticos delanteros y traseros, convergiendo en el centro de la parte inferior del vehículo. Permite al automóvil superar crestas sin que la zona central inferior impacte. Es crucial considerar este ángulo al enfrentar montículos y badenes para evitar que las ruedas queden suspendidas, que la parte inferior del vehículo choque con el suelo o que el vehículo quede encallado.
 
-En **inclinaciones laterales**, la operación conlleva un riesgo elevado de volcado, especialmente en superficies resbaladizas o con elementos sueltos. Aunque la mayoría de los todoterrenos soportan inclinaciones superiores a 40º, incluso ángulos menores pueden generar una sensación de inestabilidad. Se afrontará la pendiente con decisión, circulando por el lado más bajo y buscando mantener un equilibrio relativo. Se utilizará la primera marcha con reductora, sin acelerar ni pisar el embrague, a una velocidad lenta y regular, con una ligera punta de acelerador (casi al ralentí), manteniendo la trayectoria. Es fundamental evitar pendientes laterales muy pronunciadas y, si son inevitables, realizar un reconocimiento a pie. La distribución del peso debe ser un contrapeso, cargando el lado más alto del vehículo para evitar el vuelco. En caso de peligro inminente de vuelco o pérdida de control, se girarán las ruedas en el sentido de la pendiente y se dejará caer el vehículo, evitando el frenado. Si la parte trasera del vehículo se desliza, se girará hacia abajo, y si el morro se desliza, se girará suavemente hacia arriba, siempre ajustando la dirección hacia la pendiente sin contravolantear bruscamente. En un paso lateral corto, se pueden utilizar eslingas o cuerdas para asegurar el vehículo y prevenir desplazamientos laterales sin restringir la dirección.
+### 4.1.9. Altura Libre
+
+La altura libre es la distancia entre el punto más bajo de la carrocería del vehículo y el suelo, generalmente determinada por los diferenciales.
+
+### 4.1.10. Profundidad de Vadeo
+
+Indica la distancia máxima entre la admisión de aire y el suelo, estableciendo la profundidad límite para cruzar zonas acuáticas.
+
+### 4.2. Conducción en Arena, Barro, Hielo y Nieve
+
+#### 4.2.1. Conducción en Arena
+
+Los suelos arenosos varían sus propiedades a lo largo del día debido a los cambios térmicos: por la mañana, la arena suele estar más compacta y consistente debido a la humedad nocturna, mientras que, al avanzar el día y calentarse con el sol, se vuelve más blanda y peligrosa. Por ello, se recomienda afrontar la arena durante las primeras horas de la mañana.
+
+Si la arena está blanda, es aconsejable reducir la presión de los neumáticos (al menos 1,5 bar) y evitar las roderas de otros vehículos. La marcha a emplear debe elegirse en función de la longitud del tramo de arena: la segunda con reductora para tramos cortos, y la tercera o cuarta para tramos largos. Se debe entrar con velocidad. En caso de atasco, no se debe acelerar bruscamente, ya que esto solo provocará un mayor hundimiento. Para salir, se recomienda quitar la arena de debajo de las ruedas (utilizando una pala u otro elemento) o colocar planchas. Es importante tener precaución en las curvas, evitando acelerones y giros bruscos.
+
+#### 4.2.2. Conducción en Barro
+
+La aproximación a la conducción en barro varía según el tipo de barro. Es recomendable realizar un reconocimiento previo a pie para determinar la profundidad, los obstáculos presentes y el tipo de barro (resbaladizo o atrapador), ya que la técnica de conducción será diferente.
+
+*   **Barro Resbaladizo (más común):** Se debe afrontar con reductora, marchas largas y altas revoluciones, realizando giros suaves de las ruedas para facilitar el agarre lateral. Es recomendable seguir las roderas existentes si la altura del vehículo lo permite, ya que suelen ser más duras, pero si son profundas, es mejor circular por la cresta.
+*   **Barro Atrapador:** Se recomienda el uso de cadenas, que proporcionan un excelente resultado. Para optimizar el agarre de las ruedas, se debe afrontar el barro con reductora, marchas cortas y altas revoluciones, realizando giros suaves de dirección.
+
+**Reglas generales para cualquier tipo de barro:**
+
+*   Desinflar los neumáticos hasta la mitad para ayudar a expulsar el barro y aumentar la superficie de contacto.
+*   Aumentar ligeramente la velocidad.
+*   Evitar en todo momento los acelerones y los frenazos.
+*   No avanzar si el vehículo precedente está parado o bloqueado.
+*   Retroceder y buscar una vía alternativa si se tienen dudas sobre la viabilidad del recorrido.
+
+Si el vehículo se atasca en el barro, no se debe acelerar bruscamente, ya que esto solo causaría un mayor hundimiento. Para salir, se recomienda eliminar peso del vehículo, retirar el barro acumulado y colocar planchas debajo de las ruedas. Si estas acciones no son suficientes, será necesario buscar ayuda para remolcar el vehículo.
+
+### 4.2.3. Conducción en Nieve
+
+La nieve ofrece poca adherencia, por lo que exige una conducción suave y precisa. El conductor no debe confiarse al conducir sobre nieve, y es recomendable usar cadenas para mejorar la tracción y direccionalidad del vehículo. Es crucial extremar las precauciones debido a obstáculos ocultos como piedras, roderas, zanjas y barrizales.
+
+**Principios fundamentales en la nieve:**
+
+*   Mantenerse dentro de la pista establecida.
+*   Conducir sin frenazos ni acelerones abruptos.
+*   Mantener un ritmo constante y uniforme.
+*   Mover el volante lo menos posible, evitando movimientos bruscos.
+*   Circular con suavidad en todo momento.
+*   Entrar en las curvas a baja velocidad.
+
+El efecto de la nieve en los neumáticos es similar al del barro, ya que debe penetrar la capa blanda para alcanzar una superficie dura subyacente. Los neumáticos anchos reducen la superficie de contacto con el asfalto, disminuyendo la adherencia, por lo que no se recomienda desinflarlos en nieve.
+
+Con poca nieve, es aconsejable seguir las rodadas previas de otros vehículos. Si hay mucha nieve, es preferible evitar las rodadas y circular sobre la nieve sin pisar, prestando atención a que la nieve no se acumule en los bajos del vehículo para evitar daños graves.
+
+**Para el ascenso en una rampa nevada:**
+
+*   Realizarlo haciendo eses.
+*   Utilizar cadenas, si es posible.
+
+**Para el descenso en una rampa nevada:**
+
+*   Hacerlo en línea recta.
+*   Con marchas cortas.
+*   Corregir los deslizamientos laterales con suaves toques de volante y acelerador.
+*   Circular por zonas no pisadas.
+
+Al abrir camino en nieve virgen, se debe usar una marcha larga con el motor poco revolucionado. Si el vehículo patina o parece detenerse, se debe retroceder rápidamente y volver a intentar con más gas. Es importante estar alerta, ya que la nieve a menudo viene acompañada de hielo.
+
+### 4.2.4. Conducción en Hielo
+
+Las placas de hielo representan una de las situaciones más peligrosas y difíciles al volante, siendo complicadas de detectar. Pueden aparecer de forma inesperada a la salida de una curva o tras un cambio de rasante, especialmente en zonas sombrías. Las heladas suelen formarse a última hora de la noche y primera de la mañana. Se recomienda encarecidamente el uso de cadenas.
+
+**Acciones al pisar una placa de hielo:**
+
+*   Reducir la velocidad y aumentar la distancia de seguridad con el vehículo precedente.
+*   Evitar, en lo posible, el interior de las curvas, donde el hielo tiende a concentrarse y no hay rodadas previas o resguardo del sol.
+*   Actuar con rapidez, pero manteniendo la serenidad.
+*   No frenar bruscamente.
+*   No realizar movimientos violentos del volante.
+*   Marcar la trayectoria de forma suave y limpia.
+*   Mantener marchas largas (entre 1500 y 2500 rpm).
+*   Pisar el pedal del freno con mucha suavidad.
+
+El sistema ABS es una ayuda eficaz en hielo: si el pedal del freno tiembla al pisarlo, se debe apretar con firmeza, lo que indica su correcto funcionamiento.
+
+*   **Sobreviraje:** Si el coche sobrevira (la parte trasera se va hacia el exterior), se debe girar el volante en sentido contrario (ej., a la izquierda si el coche tiende a ir a la derecha) hasta que el vehículo se coloque correctamente. Una vez recuperada la trayectoria, se endereza el volante y se acelera levemente para recuperar el control.
+*   **Subviraje:** Si el vehículo subvira (el coche tiende a seguir recto en las curvas), la solución más sencilla es levantar el pie del acelerador y abrir un poco la dirección para facilitar la recuperación de adherencia. Tras corregir la situación, se puede volver a acelerar suavemente.
+
+### 4.3. Subida y Bajada de Pendientes
+
+#### 4.3.1. Subida de Pendientes
+
+El primer paso es reconocer la pendiente a pie para identificar posibles obstáculos y lo que hay al otro lado de la rampa. Luego, se debe verificar si las cotas del vehículo permiten afrontar la rampa o si existe una vía alternativa de menor dificultad.
+
+Si la tracción es insuficiente, se aconseja mover ligeramente el volante a derecha e izquierda y soltar un poco el acelerador para mejorar el agarre. Si el vehículo se detiene a mitad de la rampa (por una marcha demasiado larga o poca velocidad/fuerza, o porque las ruedas patinan), se debe calar el vehículo para evitar que caiga cuesta abajo sin control. El procedimiento es:
+
+*   Pisar el freno con fuerza hasta calar el vehículo (sin usar embrague ni freno de mano).
+*   Meter marcha atrás sin soltar el freno para sujetar el vehículo.
+*   Arrancar con la llave, sin pisar el embrague.
+*   Soltar el pedal del freno y dejarse caer cuesta abajo guiando el volante en línea recta, permitiendo que el motor frene suavemente durante el descenso.
+*   Una vez abajo, evaluar la situación.
+*   Si se desea intentar de nuevo, se deberá reducir el peso del vehículo y aumentar la aceleración.
+
+#### 4.3.2. Bajada de Pendientes
+
+Es crucial evitar las inclinaciones laterales del vehículo durante el descenso.
+
+**Para afrontar la bajada:**
+
+*   Con decisión.
+*   En primera o segunda marcha con reductora.
+*   Sin acelerar, dejando que el vehículo descienda por sí mismo.
+*   Sin pisar el embrague.
+*   Bajando de frente a la pendiente.
+
+En caso de pérdida de control, no se deben realizar acelerones ni frenazos bruscos. Si la marcha es demasiado larga y se alcanza mucha velocidad, se debe frenar con extrema suavidad, dosificando la presión según la velocidad. Si la marcha es demasiado corta, se deberá acelerar dosificadamente en función de la necesidad.
+
+### 4.4. Inclinación Lateral
+
+Afrontar una pendiente lateral es una de las situaciones de mayor riesgo por el peligro de volcado, especialmente si el terreno es deslizante o presenta piedras sueltas. Una pérdida de control resultará en un volcado. Aunque la mayoría de los todoterrenos tienen ángulos de inclinación lateral que superan los 40º, pendientes mucho menores pueden dar la sensación de que el vehículo está a punto de volcar.
+
+**La situación debe afrontarse:**
+
+*   Con decisión.
+*   Por la parte más baja.
+*   Intentando mantener un equilibrio relativo.
+*   En primera marcha con reductora.
+*   Sin acelerar ni pisar el embrague.
+*   Con una marcha lenta y regular.
+*   A punta de acelerador, casi al ralentí.
+*   Manteniendo la trayectoria.

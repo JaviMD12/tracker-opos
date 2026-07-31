@@ -1,35 +1,199 @@
-# Hidrodinámica y sus Principios Fundamentales
+## HIDRÁULICA
 
-La **hidrodinámica** es una disciplina clave dentro de la mecánica de fluidos que se dedica al estudio de los líquidos en movimiento. Para comprender su comportamiento en diversas aplicaciones, como las operaciones de extinción de incendios, se adoptan ciertas aproximaciones fundamentales. En primer lugar, se asume que el fluido es **incompresible**, lo que implica que su densidad no experimenta variaciones significativas ante cambios de presión, a diferencia de los gases. En segundo lugar, se considera que las pérdidas de energía debidas a la **viscosidad** son despreciables, lo que simplifica el modelo al tratar el líquido como ideal, con pérdidas energéticas mínimas en comparación con su inercia. Finalmente, se asume un **flujo estacionario o estable**, es decir, que la velocidad del líquido en cualquier punto dado permanece constante a lo largo del tiempo.
+### Capítulo 1. Caracterización (Continuación)
 
-## Regímenes de Flujo y Caudal
+#### 2.2. Ecuación Fundamental de la Hidrostática (Continuación)
 
-El movimiento de los líquidos dentro de las instalaciones hidráulicas puede manifestarse en dos regímenes principales: **laminar** y **turbulento**. El **flujo laminar** se produce cuando el líquido circula a baja velocidad y sus partículas se deslizan en trayectorias uniformes y paralelas, como láminas de fluido. Por el contrario, el **flujo turbulento** surge con velocidades más altas o en presencia de cambios bruscos de dirección, generando remolinos y trayectorias irregulares. La transición entre ambos regímenes está determinada por el **número de Reynolds**, que clasifica el flujo como laminar por debajo de 2000 y como turbulento por encima de 4000, con un régimen de transición entre estos valores. Es relevante destacar que la mayoría de los sistemas de distribución de agua utilizados por los bomberos operan en régimen turbulento.
+La ecuación fundamental de la hidrostática se sustenta en varias implicaciones cruciales:
 
-El **caudal** se define como la cantidad de líquido que atraviesa una sección transversal de un conducto en una unidad de tiempo, o alternativamente, como la velocidad a la que el líquido circula por dicha sección. Se expresa comúnmente en unidades como metros cúbicos por segundo (m³/s) o litros por minuto (l/min).
+*   **Aumento de presión:** La presión dentro de un fluido en reposo se incrementa directamente con la profundidad.
+*   **Presión uniforme en la misma profundidad:** Todos los puntos situados a idéntica profundidad en un fluido experimentan la misma presión, lo que se observa en la igualdad de nivel en vasos comunicantes.
+*   **Dependencia exclusiva de la profundidad:** La presión se relaciona únicamente con la profundidad, sin que la forma del recipiente influya en este valor.
+*   **Fuerza perpendicular a la superficie:** En un fluido en reposo, la presión ejerce una fuerza que es perpendicular a la superficie sobre la que actúa. Si la resultante de las fuerzas no se anulara, el fluido estaría en movimiento.
 
-## Principios Fundamentales de la Hidrodinámica
+#### 2.3. Principio de Pascal
 
-### Ecuación de Continuidad
+El Principio de Pascal establece que la presión ejercida sobre un fluido incompresible en equilibrio, contenido en un recipiente con paredes indeformables, se transmite de manera idéntica en todas las direcciones y en todos los puntos del fluido.
 
-Un principio esencial en hidrodinámica es la **ecuación de continuidad**, la cual establece que para un líquido incompresible que fluye a través de un conducto sin fuentes ni sumideros, la cantidad de líquido que pasa por dos puntos cualesquiera en una unidad de tiempo es constante. En términos prácticos, esto significa que el producto de la superficie de la sección del conducto y la velocidad del fluido es constante (S₁ ⋅ V₁ = S₂ ⋅ V₂). Como consecuencia, si la sección de un conducto disminuye, la velocidad del fluido debe aumentar, y viceversa.
+Este principio puede ser demostrado con una esfera hueca equipada con un émbolo y múltiples orificios. Al llenar la esfera con agua y aplicar presión mediante el émbolo, se observa que el agua sale por todos los orificios a la misma velocidad y presión.
 
-### Ecuación de Bernoulli
+**Aplicaciones del Principio de Pascal:**
 
-La **ecuación de Bernoulli** es una formulación del principio de conservación de la energía mecánica para fluidos ideales (incompresibles y sin viscosidad) en movimiento a lo largo de una línea de corriente. Establece que la suma de la energía potencial, la energía de presión y la energía cinética por unidad de volumen o masa se mantiene constante en todos los puntos de la trayectoria del fluido. Si la energía cinética se define como (½ × masa × velocidad²), la energía potencial como (peso × altura) y la energía de presión se relaciona con la presión ejercida sobre el fluido, cualquier cambio en una de estas formas de energía implicará un ajuste en las otras para mantener la constancia de la energía total. Por ejemplo, en una canalización horizontal, si la sección se reduce, la velocidad y la energía cinética aumentan, mientras que la presión disminuye para compensar.
+*   Prensas hidráulicas
+*   Elevadores hidráulicos
+*   Frenos hidráulicos
+*   Puentes hidráulicos
 
-### Teorema de Torricelli
+El Principio de Pascal es fundamental para entender el funcionamiento de la prensa hidráulica. Esta consta de dos cilindros de diferente sección, interconectados y llenos de un líquido (agua o aceite). Al aplicar una fuerza \( F_1 \) sobre el émbolo de menor sección \( S_1 \), la presión \( p_1 \) generada en el líquido se transmite instantáneamente a todo el fluido. Según el principio de Pascal, esta presión \( p_1 \) es igual a la presión \( p_2 \) ejercida por el fluido en la sección \( S_2 \). La relación se expresa como:
 
-El **Teorema de Torricelli** es una aplicación directa de la ecuación de Bernoulli y permite calcular la velocidad de salida de un líquido a través de un orificio situado a una profundidad específica en un depósito. Según este teorema, la velocidad de salida del líquido es equivalente a la velocidad que adquiriría un cuerpo al caer libremente desde la superficie libre del líquido hasta la altura del orificio. La fórmula para la velocidad de salida es v_salida = √(2⋅g⋅h), donde 'g' es la aceleración de la gravedad y 'h' es la profundidad del orificio. Al aplicar este teorema para determinar el caudal de salida de una lanza o surtidor, se considera un **factor K** (entre 0.9 y 0.98) para ajustar el caudal teórico al real, debido a las pérdidas de energía en el orificio. Así, el caudal real (Q_real) se calcula como K ⋅ S ⋅ √(2⋅g⋅h), donde S es el área del orificio. Las lanzas comerciales, por ejemplo, pueden tener caudales nominales que van desde 50-230 l/min para diámetros de boquilla de 5.5-12, hasta 300-750 l/min para diámetros de 13.75-21.75, bajo una presión de 70 m.c.a.
+$$
+\frac{F_1}{S_1} = \frac{F_2}{S_2}
+$$
 
-### Efecto Venturi
+Esta relación implica que una pequeña fuerza inicial puede generar una fuerza secundaria significativamente mayor en el émbolo grande, facilitando la realización de trabajos que requieren grandes esfuerzos. Esta es la base de funcionamiento de equipos como los de corte y separación utilizados en emergencias.
 
-El **efecto Venturi** describe cómo la presión de un fluido en movimiento disminuye a medida que su velocidad aumenta al pasar por una sección más estrecha de un conducto cerrado. Si en este punto de menor presión se introduce el extremo de otro conducto, se genera una succión que arrastra el fluido de este segundo conducto, mezclándolo con el primero. Este fenómeno se fundamenta en los principios de Bernoulli y continuidad de masa, y es la base de funcionamiento de dispositivos como pulverizadores y dosificadores.
+#### 2.4. Principio de Arquímedes
 
-### Golpe de Ariete
+El Principio de Arquímedes es un postulado físico que indica que un cuerpo total o parcialmente sumergido en un fluido en reposo experimenta un empuje vertical hacia arriba, cuya magnitud es igual al peso del volumen del fluido desalojado por el cuerpo. Esta fuerza se denomina empuje hidrostático o de Arquímedes y se mide en Newtons.
 
-El **golpe de ariete**, también conocido como pulso de Zhukowski, es un fenómeno de sobrepresión y depresión súbita que ocurre en una tubería cuando el caudal cambia bruscamente. Este efecto puede ser lo suficientemente intenso como para romper los conductos. Se produce cuando, por ejemplo, una válvula se cierra de golpe, deteniendo las partículas de fluido. Las partículas que vienen detrás empujan a las detenidas, generando una onda de sobrepresión que comprime ligeramente el fluido y dilata la tubería, viajando a la velocidad del sonido en el fluido. Cuando todo el fluido se detiene, cesa la compresión y la tubería tiende a expandirse, generando una onda de presión en sentido contrario. Para minimizar este peligro, se recomienda operar las válvulas lentamente.
+La fuerza de empuje no depende de la presión existente en el fluido, sino de la densidad del líquido y del volumen del cuerpo sumergido.
 
-### Reacción en Lanza
+### Capítulo 2. Técnicas (Páginas 70-72)
 
-La **reacción en lanza** es el empuje o retroceso que experimenta el portador de una manguera cuando proyecta agua a alta velocidad a través de una boquilla, como consecuencia del principio de acción y reacción. Este empuje aumenta con la presión y el diámetro de la boquilla. Si se emplea un chorro cónico, el empuje disminuye a medida que el ángulo del cono se amplía, llegando a anularse aproximadamente a 180 grados. Para reducir el empuje inicial, prevenir daños y aumentar la seguridad del bombero, se aconseja colocar la lanza en una posición de "cortina de protección" cuando se deja en espera. La fuerza de empuje (E) se calcula como el producto de la presión (P) y la superficie de salida (S). El alcance del chorro, un aspecto crítico en la intervención, está determinado por el diámetro de la lanza y la presión a la entrada, siendo mayor el alcance a mayor presión y mayor diámetro. Los valores típicos de alcance de las lanzas de bomberos varían según su diámetro y la presión, alcanzando, por ejemplo, entre 29 y 35 metros para una lanza de 25 mm a presiones de 5 a 12 kg/cm², y hasta 36 a 50 metros para una lanza de 70 mm en el mismo rango de presiones.
+#### 3. Hidrodinámica
+
+La hidrodinámica es la disciplina científica que se encarga del estudio del movimiento de los líquidos.
+
+Para analizar la hidrodinámica, se suelen emplear tres aproximaciones fundamentales:
+
+*   **Fluido incompresible:** Se asume que el líquido es incompresible, es decir, su densidad no varía con los cambios de presión, a diferencia de los gases.
+*   **Viscosidad despreciable:** Se considera que la pérdida de energía debida a la viscosidad es insignificante. Se asume que el líquido es ideal para el flujo, y las pérdidas son mucho menores en comparación con la inercia de su movimiento.
+*   **Régimen estable o estacionario:** El flujo de los líquidos se mantiene en un régimen estable, lo que significa que la velocidad del líquido en cualquier punto es constante e independiente del tiempo.
+
+#### 3.1. Régimen de Fluido: Laminar y Turbulento
+
+Dentro de las instalaciones, el movimiento de los líquidos puede presentarse de dos maneras distintas:
+
+*   **Régimen laminar:** Ocurre cuando el líquido fluye a baja velocidad y sus partículas se deslizan paralelamente, formando capas fluidas.
+*   **Régimen turbulento:** Se produce cuando la velocidad del líquido aumenta o cuando la instalación presenta cambios abruptos de dirección (como codos, estrechamientos o dobleces), generando remolinos.
+
+El tipo de movimiento también está influenciado por la viscosidad, la densidad del líquido, el diámetro del conducto y la configuración de la instalación.
+
+En el flujo laminar, las fuerzas de viscosidad predominan sobre las fuerzas de inercia a bajas velocidades. Por el contrario, en el flujo turbulento, las fuerzas de inercia predominan al aumentar la velocidad, lo que genera turbulencias y remolinos.
+
+Existe una **zona de transición** entre el flujo laminar (R < 2000) y el turbulento (R > 4000), donde el fluido presenta una mezcla de ambos regímenes. Los sistemas de distribución de agua utilizados por los bomberos suelen operar en régimen turbulento. El número de Reynolds (R) se utiliza para diferenciar entre el régimen laminar y el turbulento.
+
+La fórmula del número de Reynolds es:
+
+$$
+R = \frac{\rho \cdot D \cdot v}{\eta}
+$$
+
+Donde:
+*   \( \rho \): Densidad
+*   \( D \): Diámetro
+*   \( v \): Velocidad
+*   \( \eta \): Viscosidad
+
+#### 3.2. Caudal
+
+El **caudal (Q)** se define como la cantidad de líquido que atraviesa la sección transversal de un conducto en una unidad de tiempo.
+
+También puede entenderse como la velocidad a la que el líquido circula a través de la sección del conducto.
+
+La fórmula general para el caudal es:
+
+$$
+Q = \frac{\text{Volumen (V)}}{\text{Tiempo (t)}}
+$$
+
+Sus unidades suelen ser metros cúbicos por segundo (m³/s). Alternativamente, el caudal puede calcularse como el producto de la velocidad del fluido y el área de la sección:
+
+$$
+Q = \text{Velocidad (V)} \cdot \text{Sección (S)}
+$$
+
+Con unidades como m/s * m² = m³/s.
+
+#### 3.3. Ecuación de Continuidad
+
+Este principio se basa en la incompresibilidad de los líquidos. Establece que la cantidad de líquido que fluye por dos puntos cualesquiera de una canalización, sin fuentes ni sumideros intermedios, es constante en la unidad de tiempo.
+
+Matemáticamente se expresa como:
+
+$$
+Q = \text{cte.} = S_1 \cdot V_1 = S_2 \cdot V_2 = S_3 \cdot V_3
+$$
+
+Esto significa que, a lo largo de una tubería con secciones variables, las velocidades de circulación del fluido también variarán inversamente a la sección.
+
+#### 3.4. Ecuación de Bernoulli
+
+El principio de Bernoulli describe el comportamiento de un fluido en movimiento a lo largo de una corriente de agua. Indica que, para un fluido ideal (sin viscosidad ni rozamiento) en régimen de circulación por un conducto cerrado, la energía total del fluido se mantiene constante a lo largo de su trayectoria.
+
+Para un fluido ideal (incompresible y sin viscosidad), la suma de sus energías potencial, de presión y cinética permanece constante en cualquier punto de una canalización.
+
+La energía total se descompone en:
+
+*   **Energía cinética:** \( \frac{1}{2} \times \text{masa} \times \text{velocidad}^2 \)
+*   **Energía potencial:** \( \text{Peso} \times \text{altura} \)
+*   **Energía de presión:** \( \text{Fuerza} \times \text{espacio} = \text{Fuerza} \times \text{Superficie} \times \text{Longitud} \)
+
+En una canalización horizontal, la energía potencial es constante. Si la sección disminuye, la velocidad y la energía cinética aumentan, lo que implica una disminución de la presión para mantener la energía total constante. Por el contrario, si la sección se mantiene constante, un aumento de la altura del fluido resultará en una disminución de la presión.
+
+La ecuación de Bernoulli se expresa como:
+
+$$
+P_1 + \frac{1}{2} \rho v_1^2 + \rho g h_1 = P_2 + \frac{1}{2} \rho v_2^2 + \rho g h_2
+$$
+
+Si los puntos 1 y 2 están a la misma altura (\( h_1 = h_2 \)) y el fluido tiene la misma densidad, la ecuación se simplifica a:
+
+$$
+P_1 + \frac{1}{2} \rho v_1^2 = P_2 + \frac{1}{2} \rho v_2^2
+$$
+
+Esto significa que, entre dos puntos de un flujo, la suma de los términos de presión estática (P) y presión dinámica (\( \frac{1}{2} \rho v^2 \)) es constante. Cualquier diferencia de presión (ΔP) implicará una diferencia de velocidades (ΔV) y, por ende, el movimiento del flujo.
+
+#### 3.5. Teorema de Torricelli
+
+El Teorema de Torricelli es una aplicación de la Ecuación de Bernoulli que permite calcular la velocidad de salida de un líquido a través de un orificio situado a una profundidad determinada en un depósito. Establece que la velocidad de salida del líquido es igual a la velocidad que adquiriría un cuerpo al caer libremente desde la altura equivalente a la superficie libre del líquido hasta el nivel del orificio.
+
+**Variables en el contexto de Torricelli:**
+
+*   **Superficie del líquido:**
+    *   \( p = p_{\text{atmosférica}} \)
+    *   \( v \approx 0 \)
+    *   \( z = h \)
+*   **Orificio de salida:**
+    *   \( p = p_{\text{atmosférica}} \)
+    *   \( v' = v_{\text{salida}} \)
+    *   \( z = 0 \)
+
+Este teorema permite determinar el caudal de salida a través de una lanza o surtidor, el cual es función de la presión en su entrada. El caudal real se ve reducido con respecto al caudal teórico debido a las pérdidas de energía en el orificio de salida (contracción de la vena líquida).
+
+La fórmula para el caudal teórico es:
+$$
+Q_{\text{TEÓRICO}} = S \cdot \sqrt{2 \cdot g \cdot h}
+$$
+
+Y para el caudal real:
+$$
+Q_{\text{REAL}} = K \cdot S \cdot \sqrt{2 \cdot g \cdot h}
+$$
+
+Donde \( K \) es el factor del surtidor, con valores entre **0,9 y 0,98**.
+
+**Equivalencia de lanzas (Tabla 4):**
+
+| Tipo de lanza | Ǿboquilla según posición selector de caudal | Qnominal (l/min) |
+| :------------ | :---------------------------------------- | :-------------- |
+| 25            | 5,5-12                                    | 50-230          |
+| 45            | 9,75-17,75                                | 150-500         |
+| 70            | 13,75-21,75                               | 300-750         |
+
+Los valores de caudal nominal se basan en una altura de presión (\( h \)) de **70 m.c.a. (\(\approx\) 7 Kg/cm²)**, con un factor \( K=0,9 \).
+
+#### 3.6. Efecto Venturi
+
+El efecto Venturi describe cómo en un conducto cerrado, la presión de un fluido en movimiento disminuye a medida que su velocidad aumenta al pasar por una zona de menor sección. Si en este punto se introduce el extremo de otro conducto, se produce una aspiración del fluido de este último, mezclándose con el flujo principal.
+
+Este efecto es la base del funcionamiento de pulverizadores y dosificadores (premezcladores). Se explica por la aplicación de los principios de Bernoulli y de continuidad de masa: si el caudal de un fluido es constante y la sección disminuye, la velocidad debe aumentar. Por la conservación de la energía mecánica, si la energía cinética aumenta, la energía asociada a la presión debe disminuir.
+
+#### 3.7. Golpe de Ariete
+
+El golpe de ariete, también conocido como pulso de Zhukowski, es un fenómeno de sobrepresión y depresión que se genera bruscamente en una tubería cuando el caudal de fluido varía de forma rápida.
+
+Es un fenómeno de gran relevancia, ya que la sobrepresión resultante puede ser tan intensa que llegue a romper los conductos.
+
+**Mecanismo del golpe de ariete:**
+Cuando una válvula o grifo se cierra abruptamente en el extremo de una tubería de cierta longitud, las partículas de fluido que se detienen son empujadas por las que siguen en movimiento. Este empuje crea una sobrepresión que se propaga por la tubería a una velocidad que puede exceder la del sonido en el fluido. Sus efectos son:
+
+*   Comprime ligeramente el fluido, reduciendo su volumen.
+*   Dilata ligeramente la tubería.
+
+Cuando el fluido en circulación se detiene por completo, el impulso que comprimía la tubería cesa, lo que provoca que el fluido tienda a expandirse y la tubería a retomar su dimensión normal. Estos efectos generan una onda de presión en sentido contrario.
+
+Posteriormente, el fluido se mueve en dirección opuesta, pero al estar la válvula cerrada, se produce una depresión respecto a la presión normal de la tubería. La disminución de la presión puede hacer que el fluido se gasifique, formando burbujas mientras la tubería se contrae.
+
+Si esta onda no se disipa al alcanzar el otro extremo de la tubería (por ejemplo, un depósito a presión atmosférica), se reflejará y se mitigará progresivamente por la resistencia propia de la tubería a la compresión del fluido y a la dilatación.

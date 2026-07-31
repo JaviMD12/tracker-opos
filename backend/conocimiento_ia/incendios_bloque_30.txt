@@ -1,32 +1,65 @@
-## Ventilación por Presión Positiva (VPP) y Dinámica de Fluidos en Incendios
+### Capítulo 2: Técnicas de Intervención (Continuación)
 
-La **Ventilación por Presión Positiva (VPP)** es una técnica fundamental en la gestión de incendios que implica la introducción controlada de aire mediante ventiladores para influir en la dinámica de los gases y mejorar las condiciones del entorno. La efectividad de un ventilador de VPP se evalúa mediante diversos parámetros que caracterizan su capacidad y rendimiento.
+**2.3.5. Factores de Elección del Ventilador VPP (Continuación)**
 
-### Capacidades y Factores de un Ventilador VPP
+La selección de un ventilador de Presión Positiva (VPP) en los servicios de bomberos no debe basarse únicamente en su capacidad, ya que no existe un equipo universalmente superior, sino que la idoneidad varía según el contexto operativo. Es crucial considerar factores como el tipo de construcción, el tamaño y la geometría de las aberturas de entrada, la distancia al punto de entrada y la logística del personal y el suministro eléctrico.
 
-La capacidad de un ventilador se mide a través de varias magnitudes:
-*   El **caudal estricto (Qe)**, expresado en metros cúbicos por segundo o por hora (m³/s o m³/h), representa el volumen de aire que la hélice del ventilador impulsa directamente, sin considerar el aire succionado. Este parámetro es especialmente relevante para el empleo de VPP con mangas de prolongación.
-*   El **caudal libre (Ql)**, también en m³/s o m³/h, es el volumen total de aire en un espacio abierto, incluyendo tanto el caudal estricto como el aire arrastrado (Qa). Aunque de escasa utilidad en aplicaciones prácticas, proporciona una medida teórica.
-*   El **empuje (E)**, medido en Newtons (N), se relaciona con el caudal libre y se calcula aplicando el principio de conservación de la cantidad de movimiento, proporcionando una medida de la fuerza generada por el ventilador.
+**d) Colocación del Ventilador VPP**
 
-La selección de un ventilador no se basa en una superioridad intrínseca de un modelo sobre otro, sino en su idoneidad para las condiciones específicas del entorno operativo y la táctica a emplear. Esto incluye factores como el tipo de construcción, el tamaño y la geometría de las entradas, la distancia de colocación y el personal disponible.
+La "huella" de un ventilador, que describe el campo de vectores de velocidad de las partículas de aire, es variable según el diámetro y diseño de la hélice del equipo. Para maximizar el caudal efectivo, la distancia óptima de colocación depende tanto de la huella del ventilador como del tamaño de la entrada.
 
-La **capacidad del ventilador** es crucial, ya que recintos de gran volumen o con baja estanqueidad requieren equipos de mayor capacidad. Esta capacidad aumenta con la potencia del motor y, de forma más significativa, con el diámetro de la hélice. La **distancia de colocación** óptima, para ventiladores de 18 a 20 pulgadas en puertas estándar (2x0.9 m), oscila entre 1.8 y 5 metros, ya que una distancia excesiva o insuficiente puede mermar el rendimiento. En caso de duda, es preferible alejarlo ligeramente. Además, al considerar la entrada, debe tenerse en cuenta la dimensión mayor (altura o anchura) debido a la huella circular del flujo.
+El gráfico que representa la variación del caudal efectivo en función de la distancia del ventilador a la entrada, utilizando un modelo de ventilador específico, es el siguiente:
 
-El concepto de **huella del ventilador**, que describe el campo de vectores de velocidad de las partículas de aire, también varía según el diámetro y el diseño de la hélice. Si el ventilador se sitúa muy cerca de la entrada, el flujo de aire entrante puede ser menor, generando un "cortocircuito" donde parte del aire escapa sin penetrar eficazmente en la estructura. Por otro lado, una distancia excesiva reduce la velocidad media del flujo y, por ende, el diferencial de presión generado en el interior.
+**Variación del Caudal Efectivo del Ventilador VPP**
 
-El **sistema de alimentación** de los ventiladores puede ser eléctrico, a batería o hidráulico. Los eléctricos son silenciosos, no generan gases de combustión y pueden ser aislables ATEX, aunque dependen de un cableado y suelen tener menor potencia. Los de batería ofrecen autonomía limitada y son útiles como auxiliares. Los hidráulicos, alimentados por agua de la bomba, evitan problemas de gases y aislamiento, pero requieren mayor logística y personal para su despliegue. Un método menos común es la ventilación hidráulica por flujo de manguera, que utiliza un chorro de agua en cono para arrastrar gases, ofreciendo un rendimiento muy reducido y siendo una opción para ventilación final en estancias extinguidas.
+| Distancia del Ventilador a la Entrada (m) | Caudal Efectivo (m³/h) |
+| :----------------------------------------- | :--------------------- |
+| 1,50                                       | 16000                  |
+| 2,00                                       | 18000                  |
+| 2,50                                       | 19000                  |
+| 3,00                                       | 19500                  |
+| 3,50                                       | 19000                  |
+| 4,00                                       | 17000                  |
+| 4,50                                       | 14500                  |
+| 5,00                                       | 12000                  |
+| 5,50                                       | 9000                   |
+| 6,00                                       | 6000                   |
+| 6,50                                       | 3000                   |
 
-Otros factores a considerar incluyen el **peso** del equipo, ya que los modelos más pesados (más de 35 kg para ventiladores de 18-20 pulgadas) pueden requerir más personal para su transporte por escaleras. El **ruido** generado por el ventilador dificulta las comunicaciones, siendo el diseño de la hélice un factor clave para su reducción. Finalmente, el **diseño funcional**, como las patas que elevan el flujo del suelo (mejorando el rendimiento y reduciendo el arrastre de material suelto) o las ruedas para movilidad, también influye en la eficacia operativa.
+*Fuente: Tests de flujo en las instalaciones de Groupe Leader en Octiville-sur-Mer (Francia).*
 
-### Gestión de los Flujos de Gases y Eficiencia de la Ventilación
+Cuando el ventilador se posiciona muy cerca de la entrada, el flujo de aire que ingresa es menor, ya que no hay espacio suficiente para que el volumen de aire arrastrado penetre en la estructura; solo entra el flujo central o "dardo". Además, una parte considerable de la entrada no se presuriza, y aire del interior del recinto escapa por las zonas externas de la misma entrada. Este efecto de recirculación del aire o "cortocircuito" genera un flujo de gases "estéril" en el interior del recinto, lo que afecta negativamente la ventilación.
 
-La gestión de los flujos de gases es esencial en cualquier intervención. Para la **Ventilación por Presión Positiva (VPP)**, se busca establecer un flujo unidireccional con una entrada y una salida bien definidas. Múltiples aperturas en un mismo recinto pueden funcionar como una única salida, pero es crucial evitar la ramificación del flujo hacia diferentes recintos, lo que mermaría la eficacia.
+Por otro lado, si el ventilador se coloca a una distancia excesiva, la velocidad media del flujo se reduce, disminuyendo también el diferencial de presión que se puede crear en el interior del recinto.
 
-El **uso combinado de ventiladores** puede ser necesario en situaciones específicas. Cuando el hueco de entrada es excesivamente grande para un solo ventilador VPP, se pueden emplear **ventiladores en paralelo** para cubrir la apertura de manera efectiva, con una separación óptima igual al tamaño de la misma, aumentando el caudal efectivo. Por el contrario, los **ventiladores en serie** (uno principal en la entrada y otro auxiliar más adelante) se consideran una configuración ineficiente, ya que no están diseñados para acelerar aire en movimiento y solo ofrecen un aumento marginal del caudal efectivo (5-10%). La disposición de **ventiladores en forma de "V"**, con dos unidades en paralelo dirigiendo sus flujos al centro de la apertura, puede aumentar el caudal efectivo hasta un 35%.
+**e) Barómetro de Entrada**
 
-La **eficiencia de la ventilación** se ve afectada por las **pérdidas de flujo** y las **pérdidas por fricción**. Las pérdidas de flujo ocurren por falta de sellado o aperturas no deseadas (como persianas, rejillas, conductos o rendijas), lo que reduce el flujo y la presión. Las viviendas con buen aislamiento térmico suelen ser más estancas y, por lo tanto, más eficientes para la VPP. El volumen de la estructura, curiosamente, no es un factor determinante en la pérdida de flujo. Las pérdidas por fricción se producen por la longitud y sinuosidad del recorrido, así como por giros, estrechamientos y choques con elementos fijos, lo que causa aceleración y desaceleración de las partículas de aire, requiriendo más energía para mantener el flujo.
+La técnica del barómetro de entrada puede emplearse en operaciones de VPP ofensiva cuando el ventilador se sitúa en una puerta que da acceso a un recinto ya inundado de humo. Consiste en orientar el flujo del ventilador ligeramente por debajo del centro de la abertura de acceso (aproximadamente un 15% de la altura). Esto provoca que la parte superior de la abertura quede bajo menor presión del VPP, mientras que la parte inferior experimenta una mayor velocidad de flujo.
 
-En el despliegue operativo, es vital cerrar todos los huecos innecesarios para optimizar la VPP. En situaciones de viento en contra, es recomendable evitar configuraciones que obliguen a la VPP a vencer un diferencial de presión significativo, prefiriendo aquellas donde el viento actúe a favor del flujo deseado.
+Si al iniciar la ventilación se observa un flujo pequeño de gases saliendo por la parte superior que no disminuye, es un indicio claro de que la salida de gases está obstruida o hay alguna puerta intermedia cerrada, impidiendo un flujo unidireccional efectivo.
 
-Finalmente, el **barómetro de entrada** es una técnica útil para evaluar la ventilación ofensiva VPP. Al dirigir el flujo del ventilador ligeramente hacia abajo (aproximadamente el 15% de la altura de la apertura), se obtiene información sobre la presión y el flujo de gases. Sin embargo, esta técnica puede reducir ligeramente la efectividad de la ventilación y favorecer la turbulencia con gases calientes. Un flujo continuo o creciente de gases de salida por la parte superior de la apertura, a pesar de la VPP, indica que la salida principal está bloqueada o que hay puertas intermedias cerradas, impidiendo el establecimiento de un flujo unidireccional eficaz.
+El barómetro de entrada es una herramienta útil para que el personal en la entrada evalúe la eficacia de la ventilación, especialmente porque la visibilidad de la salida de gases suele ser nula. Proporciona información complementaria para el equipo que avanza en el interior.
+
+**Ventajas del Barómetro de Entrada:**
+
+*   Ofrece información sobre el rendimiento de la ventilación desde el punto de entrada.
+
+**Inconvenientes del Barómetro de Entrada:**
+
+*   Produce una ligera disminución de la efectividad de la ventilación.
+*   En presencia de gases extremadamente calientes, puede intensificar la turbulencia.
+*   Su aplicación se limita a situaciones donde el recinto inmediatamente detrás de la puerta del ventilador está inundado de humo.
+
+**2.3.5. Entrada de Gases**
+
+En las técnicas de VPP, tanto ofensivas como defensivas, se utiliza una única entrada para generar un flujo de gases unidireccional en la estructura. Aunque en ciertas ocasiones pueden emplearse múltiples entradas, es fundamental que cada una cuente con un ventilador de potencia y disposición adecuadas, de modo que la presión ejercida a nivel de entrada sea uniforme en todas ellas.
+
+Una de las principales ventajas de la VPP frente a otras técnicas de ventilación forzada es que el equipo se posiciona generalmente en la misma puerta de acceso a la operación. Esto permite que el personal en progresión interior avance con una corriente de aire fresco a su espalda desde el inicio.
+
+El tamaño de la abertura de entrada es un factor crucial que determina el tipo de ventilador VPP a emplear. Los ventiladores estándar, con diámetros de 18 a 20 pulgadas, están diseñados y optimizados para puertas de acceso a viviendas de dimensiones habituales (2x0.9m, es decir, 1.8m²). Si la entrada de ventilación supera la capacidad del ventilador, se debe utilizar un ventilador de mayor diámetro o varios ventiladores en paralelo. De esta forma, las huellas de aire generadas por cada ventilador se solapan ligeramente, cubriendo la totalidad de la entrada.
+
+**2.3.6. Salida de Gases**
+
+La creación de un flujo unidireccional eficaz requiere idealmente tanto una entrada como una salida. Si existen varias aberturas o ventanas dentro de un mismo recinto, se pueden considerar como una única salida.
+
+Es fundamental evitar la ramificación del flujo de gases hacia aberturas de salida diferentes a las del recinto que se pretende ventilar.

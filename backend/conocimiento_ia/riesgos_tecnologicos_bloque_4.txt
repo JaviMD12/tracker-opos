@@ -1,37 +1,106 @@
-# Materiales de Construcción en Edificaciones: Tipologías y Propiedades
+### 1. INTRODUCCIÓN A LA EDIFICACIÓN
 
-La edificación, concebida como una construcción fija elaborada con materiales resistentes para diversos usos, constituye un ámbito esencial en las operaciones de los cuerpos de bomberos. Para una intervención eficaz, resulta indispensable poseer un conocimiento fundamental sobre las características proyectadas y ejecutadas en las edificaciones, abarcando desde los sistemas constructivos hasta los materiales empleados.
+La arquitectura se define como el arte y la técnica de diseñar y proyectar edificaciones, estructuras y espacios. Por su parte, la construcción abarca el conjunto de procedimientos técnicos para levantar elementos constructivos que forman una edificación. Según la Real Academia Española (RAE), una edificación es una "construcción fija, hecha con materiales resistentes, para habitación humana o para otros usos".
 
-## Materiales Pétreos
+Dado que las edificaciones constituyen uno de los ámbitos principales de actuación de los cuerpos de bomberos, es fundamental conocer sus características esenciales. Esto incluye la normativa de afección y los sistemas constructivos y materiales empleados, ya que configuran los escenarios de las intervenciones de emergencia.
 
-Los **materiales pétreos** se clasifican, según su origen, en naturales y artificiales. Los **materiales pétreos naturales** se extraen directamente de la naturaleza y, aunque su estructura es resistente a los agentes medioambientales, presentan inconvenientes como el alto coste, la fragilidad y la escasa plasticidad, por lo que su uso estructural ha sido en gran medida reemplazado por alternativas artificiales. Actualmente, se emplean principalmente como materia prima o en acabados.
+### 2. CONCEPTOS DE FÍSICA APLICADOS A LA EDIFICACIÓN
 
-Dentro de las rocas naturales, se distinguen las **rocas sedimentarias**, formadas por la acumulación y posterior consolidación de sedimentos de rocas preexistentes. Estas pueden ser detríticas, originadas por la alteración física de otras rocas y clasificadas en sueltas (gravas, arenas, limos) o compactas (conglomerados, arenisca, lutita), o no detríticas, resultantes de procesos químicos como la precipitación de sustancias (arcilla, caliza, yeso). Las gravas y arenas, catalogadas como suelos gruesos (2.0-60.0 mm y 0.06-2.00 mm respectivamente), son fundamentales en la elaboración de morteros y hormigones. Por su parte, los limos y arcillas, considerados suelos finos (0.002-0.060 mm y <0.002 mm), son utilizados en la fabricación de ladrillos y elementos cerámicos, destacando la alta capacidad de almacenamiento de agua y plasticidad de las arcillas.
+#### 2.1. FUERZA
 
-Además, se encuentran las **rocas metamórficas**, resultado de la transformación de rocas ígneas o sedimentarias bajo elevadas presiones y temperaturas (entre 150-800ºC), lo que provoca cambios en su composición y estructura mineral. Factores como la presión litostática (por peso de capas), confinante (por fluidos) o dirigida (tectónica), así como las reacciones químicas, contribuyen a estos cambios. Sin embargo, su uso en construcción es limitado debido a su baja resistencia y tendencia a la exfoliación, empleándose principalmente para revestimientos. Ejemplos de esta serie pelítica incluyen la pizarra, el esquisto, la micacita, el gneis y la migmatita, cada una con mayor resistencia y compacidad a medida que avanza su metamorfismo.
+La fuerza es una magnitud vectorial utilizada en física para describir las interacciones entre cuerpos (acciones que un cuerpo sufre o ejerce sobre otro). Su cálculo se basa en el producto de la masa por la aceleración (F = m · a). Las fuerzas en edificación se caracterizan por su módulo (magnitud), dirección, sentido y punto de aplicación. La unidad de fuerza en el Sistema Internacional (SI) es el Newton (N), equivalente a Kg·m/s².
 
-### Materiales Pétreos Artificiales Específicos
+Las fuerzas se rigen por las tres leyes de Newton:
+*   **Primera Ley (Principio de Inercia):** Todo cuerpo mantiene su estado de reposo o movimiento rectilíneo uniforme a menos que una fuerza externa actúe sobre él.
+*   **Segunda Ley:** La suma de todas las fuerzas que actúan sobre un cuerpo es igual al producto de la masa del cuerpo por la aceleración que produce la fuerza, con desplazamiento en la dirección de la resultante de las fuerzas.
+*   **Tercera Ley (Principio de Acción y Reacción):** Si dos cuerpos interactúan, desarrollan siempre dos fuerzas que actúan en la misma dirección, con igual intensidad y sentidos opuestos.
 
-Los **materiales pétreos artificiales** son elaborados mediante procesos industriales o manufacturados, y se clasifican en materiales formáceos y elementos de fábrica.
+Una fuerza aplicada en un punto (acción) debe ser contrarrestada por otra fuerza igual y de sentido contrario (reacción) para mantener el equilibrio. Las fuerzas, al ser magnitudes vectoriales, pueden combinarse (sumarse, restarse, multiplicarse) para generar nuevas fuerzas.
 
-Entre los **materiales formáceos o conformados**, se incluyen:
-*   **Aglomerantes**: Aquellos materiales que unen fragmentos de sustancias mediante procesos físicos como la solidificación por secado, resultando en un aglomerado. Un ejemplo es el **tapial**, un aglomerado de arcilla empleado en muros verticales, construido por tongadas apisonadas en encofrados de madera. Este material presenta una densidad de 16-21 kN/m³, una resistencia muy baja (1.5 N/mm²), baja durabilidad frente a agentes atmosféricos, pero un excelente aislamiento térmico y transpiración. Su aplicación actual se restringe mayormente a obras de restauración.
-*   **Conglomerantes**: Materiales que ligan sustancias mediante transformaciones químicas, formando nuevos compuestos. Se utilizan para unir elementos constructivos y como revestimientos. Dependiendo de sus componentes, se pueden formar **pastas** (conglomerante + agua), **morteros** (conglomerante + árido fino + agua) u **hormigones** (conglomerante + árido fino + árido grueso + agua), siendo el conglomerante el elemento principal. Se distinguen los **conglomerantes aéreos**, que fraguan en contacto con el aire (como el yeso y la cal), y los **conglomerantes hidráulicos**, que endurecen tanto en aire como en agua (como el cemento y las cales hidráulicas).
+#### 2.2. MOMENTOS
 
-Dentro de los **aglomerantes aéreos**, el **yeso**, obtenido de la piedra de Aljez, es ampliamente usado en pastas para guarnecidos y enlucidos, caracterizado por una densidad de 15 kN/m³, baja resistencia (≥ 2 N/mm²), fraguado rápido con aumento de temperatura y volumen, y propiedades aislantes térmicas. Sus tipos incluyen yeso grueso (YG), yeso fino (YF), yeso de proyectados (YP) y escayola (E-30, E-35), con aplicaciones específicas. La **cal grasa o aérea** (óxido de calcio, CaO), obtenida por calcinación de piedra caliza, reacciona violentamente con agua (hasta 90°C) para formar hidróxido de calcio (cal apagada), que luego reacciona con CO2 para formar carbonato de calcio, un material poco resistente al agua. Se usa en mezclas plásticas y morteros.
+El resultado o la reacción de una fuerza dependen en gran medida de su punto de aplicación, lo que puede generar momentos. Un "par de fuerzas" se define como un sistema de dos fuerzas paralelas con la misma magnitud pero sentidos opuestos. Este par se caracteriza por su momento, una magnitud vectorial cuyo valor es el producto de la magnitud de una de las fuerzas por la distancia perpendicular entre ellas (brazo del par).
 
-Por su parte, los **conglomerantes hidráulicos** abarcan la **cal hidráulica**, una variante de la cal viva con más del 5% de arcilla, que ofrece propiedades hidráulicas con reacciones más rápidas y productos más resistentes, ideal para restauración de muros antiguos. El **cemento**, una mezcla de caliza y arcilla calcinada y molida (clinker), endurece al contacto con el agua y se utiliza como conglomerante en morteros y hormigones. Se clasifica en cementos naturales o artificiales, siendo estos últimos los más comunes en edificación. La nomenclatura UNE EN 197-1 establece su tipo (CEM), subdivisiones, adiciones y clase resistente (32.5, 42.5, 52.5 N/mm²), indicando si es de alta resistencia inicial (R) o normal (N). Los aditivos mejoran propiedades como resistencia, durabilidad y reducción del calor de fraguado.
+En la práctica, el momento de un par de fuerzas respecto a un punto indica la capacidad del sistema de fuerzas para cambiar el estado de rotación de un cuerpo alrededor de un eje. Para evitar esta rotación, debe generarse un esfuerzo o reacción de magnitud idéntica y sentido contrario, conocido como momento resistente o de empotramiento.
 
-Finalmente, los **conglomerantes hidrocarbonatados bituminosos** son compuestos ligantes que requieren calor para su aplicación y se consolidan al enfriar. Incluyen el **alquitrán** (producto bituminoso negro, viscoso, semisólido, usado como protección hidrófuga), el **betún** (mezcla de hidrocarburos viscosos/líquidos, con propiedades impermeabilizantes y adhesivas) y el **asfalto** (sustancia impermeable negra, usada para pavimentación). Estos materiales son idóneos para construcción de carreteras e impermeabilización debido a su insensibilidad al agua.
+La cuantificación de los momentos se realiza en Newtons por metro (N·m), equivalente a Kg·m²/s². Los momentos pueden ser positivos (giro horario) o negativos (giro antihorario) según el sentido de giro que produzcan las fuerzas respecto a un punto.
 
-## Áridos y Agua en la Construcción
+Una misma fuerza o par de fuerzas generará distintos momentos según su punto de aplicación; a mayor brazo del par, mayor será el momento y el esfuerzo requerido para equilibrarlo. El equilibrio de un par se logra cuando no hay una reacción que lo contrarreste, tendiendo el par a equilibrarse al reducir su brazo de palanca hasta que las fuerzas se alinean y el momento resultante es nulo.
 
-Los **áridos** son materiales granulares inorgánicos de tamaño variable, esenciales en la fabricación de morteros y hormigones. Se caracterizan por ser inertes, no reaccionando químicamente con el cemento ni con agentes externos, y por poseer una elevada resistencia mecánica. Se clasifican según su origen en naturales/rodados (mayor dureza, resistencia y limpieza), machacados/reciclados/triturados (mayor resistencia a tracción y adherencia) o artificiales (procedentes de transformaciones térmicas o subproductos industriales). Asimismo, se tipifican por el tamaño de sus partículas, distinguiendo suelos gruesos (gravas de 2.0-60.0 mm y arenas de 0.06-2.00 mm) y suelos finos (limos de 0.002-0.060 mm y arcillas de <0.002 mm).
+#### 2.3. EQUILIBRIO
 
-El **agua** es un componente crucial en las mezclas, ya que propicia la reacción química de los conglomerantes e inicia los procesos de compactación y adquisición de resistencia. Es fundamental que el agua utilizada sea aceptable, vigilando que no contenga ingredientes perjudiciales para el material o las armaduras. Los parámetros de calidad incluyen un pH ≥ 5, un contenido de sulfatos (SO4) ≤ 1 g/L, y de iones cloruro (CL-) ≤ 1 g/L para hormigón pretensado y ≤ 3 g/L para hormigón en masa o armado. El uso de agua de mar o salina está permitido únicamente para materiales formáceos sin armadura, y prohibido en hormigones armados o pretensados.
+La estática, una rama de la mecánica clásica, se dedica al análisis de cargas (fuerza, par/momento) y al equilibrio de fuerzas en sistemas físicos estáticos. El equilibrio estático se define como un estado de fuerzas en el que los elementos del sistema no experimentan movimientos relativos en el tiempo. Las cargas sobre una estructura generan empujes (fuerzas) y giros (momentos), los cuales deben ser contrarrestados por reacciones iguales y opuestas en los elementos estructurales. Según la primera ley de Newton, en equilibrio, la suma de fuerzas (∑F) y la suma de momentos (∑M) en cada cuerpo son iguales a cero.
 
-## Materiales Compuestos Avanzados: Pasta, Mortero y Hormigón
+La condición de equilibrio límite es:
+*   R = F1 + F2
+*   M1 = F1 · d1 = F2 · d2 = M²
 
-Los **materiales compuestos** resultan de la mezcla de materiales básicos. La **pasta** es una mezcla plástica de conglomerante y agua, que genera material de agarre y pequeños rellenos, destacando las funciones física (envuelve y adhiere partículas) y química (reacciona con agua para desarrollar resistencias) del conglomerante. Se clasifica en pasta de cal, yeso o cemento.
+Para entender el equilibrio, es fundamental el concepto de centro de gravedad. Este es el punto en un cuerpo donde se puede considerar concentrado todo su peso. Si el cuerpo se apoya en este punto, permanece en equilibrio en cualquier posición. El centro de gravedad es el punto de aplicación de una fuerza única (equivalente a la resultante de cargas) para lograr el equilibrio del cuerpo. No siempre coincide con un punto material del cuerpo (ej: el centro de gravedad de una esfera hueca está en su centro, fuera del material). Un objeto sobre una base plana estará en equilibrio estable si la proyección vertical de su centro de gravedad cae dentro de la base de apoyo. Si el cuerpo se desvía ligeramente, un momento restaurador lo devuelve al equilibrio inicial. Si la desviación es excesiva y el centro de gravedad cae fuera de la base de apoyo, no habrá momento restaurador y el cuerpo rotará a una nueva posición de equilibrio.
 
-El **mortero
+#### 2.4. ELASTICIDAD
+
+La teoría de la elasticidad es la base del estudio de la mecánica de sólidos. Define la capacidad de los materiales para deformarse reversiblemente bajo fuerzas externas y recuperar su forma original al cesar dichas fuerzas.
+
+Los materiales exhiben un comportamiento elástico inicial hasta alcanzar el "límite de elasticidad", tras el cual muestran comportamiento plástico. La diferencia entre ambos es:
+*   **Elasticidad:** Las variaciones dimensionales y de forma son temporales y recuperables.
+*   **Plasticidad:** Los efectos de las deformaciones son permanentes e irrecuperables, debido a la alteración de los enlaces moleculares por esfuerzos superiores al límite elástico. Esto suele ir acompañado de una pérdida de sección y resistencia.
+
+Para comprender la resistencia de un material, se aplica la Ley de Hooke: `σ = E · ε`, donde la tensión (σ) es directamente proporcional a la elasticidad (E) y a la deformación efectiva (ε). Por tanto, `ε = σ / E`. Una evaluación precisa del comportamiento de los materiales y estructuras requiere conocer el módulo de elasticidad longitudinal o Módulo de Young (E), que indica la deformación admisible.
+
+**Tabla 1. Deformación admisible para ciertos materiales según el módulo de elasticidad longitudinal**
+
+| Material                 | Módulo de Elasticidad (valor aproximado N/mm²) |
+| :----------------------- | :--------------------------------------------- |
+| Mampostería de ladrillo  | E = 3000 - 5000                                |
+| Maderas duras (frondosas) | E = 10000 – 22500                              |
+| Maderas blandas (coníferas) | E = 9000 - 11000                               |
+| Acero                    | E = 210000                                     |
+| Hierro de fundición      | E = 100000                                     |
+| Hormigón (Resistencia)   | E = 21500 - 39000                              |
+
+A igual deformación, un cuerpo experimenta menores tensiones cuanto mayor sea su elasticidad (mayor módulo "E"). Bajo la misma carga:
+*   La madera se deforma significativamente en la dirección de la fibra.
+*   El hierro fundido se deforma el doble que el acero.
+*   El hormigón puede deformarse hasta 10 veces más que el acero.
+
+#### 2.5. FACTORES ASOCIADOS AL COMPORTAMIENTO TÉRMICO
+
+En intervenciones de bomberos, donde suelen presentarse variaciones térmicas importantes debido a incendios, es crucial distinguir varios parámetros para su caracterización y cuantificación.
+
+##### 2.5.1. COEFICIENTE DE CONDUCTIVIDAD TÉRMICA (λ)
+
+Este valor numérico cuantifica la capacidad de un material para conducir el calor. Se expresa en W/m·ºC o W/m·K. Un valor más bajo indica una mayor capacidad aislante.
+
+**Tabla 2. Conductividad térmica de algunos materiales**
+
+| Material        | Conductividad térmica (W/m·K) |
+| :-------------- | :----------------------------- |
+| Acero           | 47-58                          |
+| Acero inoxidable | 14-16                          |
+| Hierro          | 80                             |
+| Aluminio        | 209                            |
+| Corcho          | 0,04-0,30                      |
+| Fibra de vidrio | 0,03-0,07                      |
+| Ladrillo        | 0,80                           |
+| Madera          | 0,13                           |
+| Poliuretano     | 0,018-0,025                    |
+
+El análisis de este parámetro muestra que:
+*   El hierro conduce el calor de forma considerablemente más eficiente que el acero.
+*   Materiales como el corcho, la fibra de vidrio o el poliuretano son excelentes aislantes.
+
+##### 2.5.2. COEFICIENTE DE DILATACIÓN TÉRMICA (α)
+
+La dilatación es el cambio en cualquier dimensión lineal (longitud, altura, anchura) de un sólido debido al aumento de temperatura (dilatación volumétrica). Generalmente, se observa dilatación lineal en barras o alambres delgados sometidos a cambios de temperatura, ya que las variaciones en otras dimensiones son despreciables. El coeficiente de dilatación lineal mide la dilatación por cada grado de aumento de temperatura y por cada metro lineal.
+
+**Tabla 3. Dilatación térmica en algunos materiales**
+
+| Material  | Coeficiente de dilatación térmica (x10⁻⁵) |
+| :-------- | :---------------------------------------- |
+| Hormigón  | 1,17                                      |
+| Acero     | 1,2                                       |
+| Hierro    | 1,1                                       |
+| Ladrillo  | 0,9                                       |
+| Madera    | 0,2-0,9                                   |
+
+Por ejemplo, el coeficiente de dilatación térmica del acero es de 0,000012 (1/ºC), valor similar al del hormigón. Una viga de hormigón armado de 10 metros, expuesta a un aumento de temperatura de 20ºC a 400ºC durante un incendio, sufriría una dilatación lineal de `0,000012 · 10 · (400-20) = 0,0576 m = 5,76 cm`. Este aumento de longitud puede generar empujes laterales que causen el colapso de la estructura.

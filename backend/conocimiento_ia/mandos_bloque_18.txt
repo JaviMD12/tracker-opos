@@ -1,83 +1,163 @@
-## Evaluación y Gestión de Riesgos Laborales en Servicios de Emergencias
+### PARTE 2: PREVENCIÓN DE RIESGOS LABORALES
 
-La gestión de la prevención de riesgos laborales en los servicios de emergencias se orienta fundamentalmente a la **reducción de la siniestralidad** y a la **mejora continua de los niveles de riesgo** existentes en el entorno de trabajo. Para cuantificar la siniestralidad, se emplea el **Índice de Incidencia**, que se calcula dividiendo el número de accidentes con baja por cada cien (o mil) trabajadores accidentados en un periodo determinado. El objetivo es situar este índice por debajo de los promedios del sector. Asimismo, es crucial establecer **objetivos cuantificables de mejora** para las condiciones y riesgos evaluados, analizando la eficacia de la gestión preventiva y planificando la ejecución temporal de las nuevas acciones.
+**Capítulo 2: Evaluación y factores de riesgo**
 
-### El Proceso de Evaluación de Riesgos
+**2.3. Diseño del sistema de prevención**
 
-La evaluación de riesgos se erige como la fase inicial y más importante de la acción preventiva, permitiendo identificar los riesgos no eliminados y determinar las medidas preventivas necesarias. Este proceso debe ser **dinámico**, revisándose ante disposiciones específicas, daños a la salud de los trabajadores o ineficacia de las medidas preventivas existentes, y **documentado**, registrando la información para la autoridad laboral.
+**2.3.1. Estructura organizativa del servicio. Funciones y responsabilidades**
 
-La evaluación se lleva a cabo considerando diversos aspectos del puesto de trabajo:
-*   **Instalaciones y dependencias:** Se valoran las características del entorno, el cumplimiento normativo y los controles periódicos de los riesgos inherentes, prestando especial atención a las condiciones de uso por parte de los trabajadores.
-*   **Equipos de trabajo:** Se analizan las herramientas utilizadas, su documentación, y el cumplimiento de la legislación aplicable. Para cada equipo, se debe especificar la medida preventiva propuesta, la prioridad de implantación, los controles periódicos y los criterios de referencia.
-*   **Secciones o lugares de trabajo:** Se evalúan las condiciones materiales y ambientales, identificando las condiciones analizadas, la evaluación específica, las medidas preventivas y su prioridad.
-*   **Puesto de trabajo:** Se determinan los riesgos existentes y se valoran, considerando las condiciones de trabajo actuales o previstas y la posible sensibilidad particular de cada trabajador.
+Para alcanzar los objetivos anuales del sistema de gestión de la prevención, es fundamental que se enfoque en la reducción de la siniestralidad y la mejora de los niveles de riesgo existentes, como se detalla en la Tabla 12.
 
-Una nueva evaluación se hace necesaria ante la incorporación de nuevos equipos o tecnologías, el cambio de sustancias químicas, la modificación de las condiciones de trabajo o la inclusión de trabajadores con características personales especiales que los hagan más sensibles a ciertos riesgos.
+**Índice de Incidencia:** Este indicador mide el número de accidentes con baja por cada cien trabajadores en la empresa. Se calcula mediante la fórmula: `(Número de accidentes x 100) / Número de trabajadores`. Alternativamente, puede expresarse por mil si se multiplica por 1000 en lugar de 100. El objetivo es reducir la siniestralidad por debajo de los promedios del sector.
 
-### Tipos de Evaluación de Riesgos
+Cada ejercicio debe fijar una mejora cuantificada para las condiciones y riesgos evaluados, conforme a la Tabla 13. Tras cada evaluación o revisión de riesgos, se valorará la eficacia de la gestión preventiva, analizando la conveniencia de implementar nuevas acciones y planificando su ejecución.
 
-La valoración de riesgos puede ser de distintos tipos. Por un lado, se encuentran las **evaluaciones impuestas por legislación específica**, como en la industria, donde el cumplimiento normativo asegura el control de riesgos asociados a instalaciones y equipos. Por otro lado, para riesgos sin legislación específica, se utilizan **normas y guías técnicas** de organismos reconocidos que establecen procedimientos de evaluación y niveles máximos de exposición recomendados. También existen las que requieren **métodos especializados de análisis** para riesgos de accidentes graves (CORAG), como incendios o explosiones industriales con graves consecuencias. Finalmente, cualquier riesgo no contemplado en los anteriores se evalúa mediante un **método general de evaluación**.
+A continuación, se describe la sistemática de actuación de la empresa:
 
-### Análisis y Estimación del Riesgo
+*   **Relación de personal:** Completar el modelo de relación de personal con funciones preventivas, de acuerdo con los niveles definidos en el Plan de Prevención de Riesgos Laborales.
+*   **Comunicación de funciones y responsabilidades:** Notificar formalmente (con acuse de recibo) las funciones y responsabilidades a todo el personal.
+*   **Marco regulatorio:** La organización y funcionamiento del servicio, así como el régimen del personal, se regirán por documentos como Estatutos, Reglamento de Régimen Interno o Relación de Puestos de Trabajo (RPT), aprobados por el órgano competente. Estos documentos deben identificar claramente las distintas figuras y su jerarquía.
+*   **Organigrama:** El organigrama de la empresa es una herramienta eficaz que indica el flujo de comunicación y, por lo tanto, es recomendable anexarlo al Plan de Prevención.
 
-El proceso de análisis de riesgos implica la **clasificación de las actividades de trabajo** de manera racional y manejable, aunque no existe un modelo universal. La **identificación de peligros** se centra en el puesto de trabajo como unidad básica, formulando preguntas clave: ¿existe una fuente de daño?, ¿quién o qué puede ser dañado?, ¿cómo puede ocurrir el daño?
+**Tabla 12. Objetivo de reducción de la siniestralidad**
 
-La **estimación del riesgo** implica determinar la **probabilidad** de que el daño ocurra (alta, media, baja, considerando medidas de control existentes y requisitos legales) y la **severidad del daño** (ligeramente dañino, dañino, extremadamente dañino, según las partes del cuerpo afectadas). Estos valores se combinan en una matriz para establecer un **nivel de riesgo** (trivial, tolerable, moderado, importante, intolerable) y determinar la acción y temporización necesarias para su control o reducción. Un **Plan de Control de Riesgos** finaliza este proceso, sirviendo como inventario de acciones para diseñar, mantener o mejorar los controles.
+| Índice incidencia actual | Objetivo 1º año | Índice incidencia 1º año | Objetivo 2º año | Índice incidencia 2º año | Objetivo 3º año | Índice incidencia 3º año |
+| :----------------------- | :-------------- | :---------------------- | :-------------- | :---------------------- | :-------------- | :---------------------- |
+| Empresa                  |                 |                         |                 |                         |                 |                         |
+| Centro 2                 |                 |                         |                 |                         |                 |                         |
+| Centro 3                 |                 |                         |                 |                         |                 |                         |
+| Centro 4                 |                 |                         |                 |                         |                 |                         |
+| Centro 5                 |                 |                         |                 |                         |                 |                         |
 
-### Factores de Riesgo y su Clasificación
+**Tabla 13. Objetivos de mejora de los niveles de riesgo: Año Nº 1**
 
-La Organización Mundial de la Salud (OMS) define los **factores de riesgo** como aquellas condiciones de trabajo capaces de provocar un daño a la seguridad y salud de los trabajadores. Tradicionalmente, se agrupan en distintas categorías:
-*   **Factores o condiciones de seguridad:** Relacionados con accidentes, incluyen el emplazamiento de la empresa, el proceso productivo, los materiales, equipos y maquinaria. Para los bomberos, los riesgos asociados a la instalación abarcan desde caídas a distinto o mismo nivel, golpes, cortes, proyecciones de fragmentos, atrapamientos, sobreesfuerzos, contactos eléctricos, explosiones, hasta atropellos y caídas de objetos.
-*   **Factores higiénicos:** Asociados a enfermedades laborales, comprenden contaminantes físicos (ruido, vibraciones, temperaturas extremas), químicos (exposición por vía inhalatoria y dérmica, humos de combustión, derrames) y biológicos (contacto con fluidos o animales). La higiene industrial previene estas enfermedades mediante el estudio, valoración y modificación del ambiente laboral.
-*   **Riesgos ergonómicos y psicosociológicos:** Derivados de la interacción entre trabajador, herramientas y ambiente. La **ergonomía ambiental** se enfoca en la fatiga y el confort (iluminación, temperatura, ruido, ventilación, limpieza), mientras que la **ergonomía geométrica** se relaciona con la fatiga física (dimensiones del puesto, esfuerzo, postura, movimientos repetitivos). Los **riesgos psicosociales** determinan la fatiga mental y el desequilibrio del bienestar social (estrés, insatisfacción, burnout, conflictos).
+| Ámbito | Nº de condiciones calificadas con MUY DEFICIENTE | Nº de condiciones calificadas con DEFICIENTE / IMPORTANTE |
+| :----- | :--------------------------------------------- | :------------------------------------------------------ |
+|        | Situación actual | Objetivo de mejora | Situación final | % de cumplimiento | Situación actual | Objetivo de mejora | Situación final | % de cumplimiento |
+| Empresa |                  |                    |                 |                   |                  |                    |                 |                   |
+| Centro 1 |                  |                    |                 |                   |                  |                    |                 |                   |
+| Centro 2 |                  |                    |                 |                   |                  |                    |                 |                   |
+| Centro 3 |                  |                    |                 |                   |                  |                    |                 |                   |
+| Centro 4 |                  |                    |                 |                   |                  |                    |                 |                   |
 
-En la actividad operativa de los servicios de prevención y extinción de incendios, los riesgos específicos pueden clasificarse en función de la actividad:
-*   **Energías utilizadas:** Riesgo eléctrico por contacto indirecto.
-*   **Extinción de incendios:** Incendio, caídas al mismo nivel, quemaduras.
-*   **Espacios confinados:** Derrumbes, atrapamientos, poca visibilidad.
-*   **Trabajos en altura:** Caídas al mismo o distinto nivel.
-*   **Exposición a agentes químicos:** Por inhalación o dérmica, humos y gases de combustión, derrames y fugas.
-*   **Condiciones climatológicas adversas (frío/calor):** Estrés térmico.
-*   **Intemperie:** Exposición a condiciones climáticas adversas.
-*   **Agentes biológicos:** Contacto con material biológico.
-*   **Radiaciones ópticas:** Infrarrojas, ultravioleta, visibles.
-*   **Ruido:** Exposición diaria superior a 80 dB(A).
-*   **Manipulación de cargas y aplicación de fuerzas:** Sobreesfuerzos, trastornos músculo-esqueléticos, alteración del equilibrio postural.
-*   **Vibraciones del cuerpo:** Trastornos músculo-esqueléticos, alteración del equilibrio postural, sobreesfuerzos.
-*   **Factores psicosociales:** Fatiga mental, estrés laboral, estrés postraumático, *burnout*.
-*   **Seguridad vial:** Accidente *in itinere*, accidente de tránsito en vía pública, accidente de tráfico en misión.
+**Modalidad preventiva**
 
-### Marco Normativo de la Prevención de Riesgos Laborales
+La empresa debe definir la modalidad preventiva (artículos 11 a 16 del Reglamento de los Servicios de Prevención - RSP) en cumplimiento de la normativa vigente, con el fin de integrar la prevención de riesgos laborales en su sistema general de gestión.
 
-La **Ley de Prevención de Riesgos Laborales (LPRL)**, Ley 31/1995, de 8 de noviembre, transpuso al derecho español la Directiva Marco 89/391/CEE, que establece los principios para la mejora de la seguridad y salud en el trabajo. La LPRL reconoce el derecho a la protección de la salud y el deber de los poderes públicos de velar por la seguridad e higiene en el trabajo. En su artículo 15, la LPRL subraya el derecho a la vida y la integridad física y moral. La legislación básica sobre prevención de riesgos laborales comprende la LPRL, sus disposiciones de desarrollo y complementarias, así como normas UNE, certificaciones AENOR, entre otras.
+**Tabla 15. Modalidad preventiva**
 
-La LPRL obliga al empresario a garantizar la seguridad y salud de los trabajadores en todos los aspectos laborales, mientras que el trabajador debe velar por su seguridad y la de terceros, utilizando adecuadamente medios y equipos y no anulando dispositivos de seguridad, informando de inmediato sobre cualquier riesgo y cooperando con el empresario. Los trabajadores tienen derechos fundamentales como la información, formación, consulta y participación en prevención, la interrupción de actividades con riesgo grave e inminente, y la vigilancia de su estado de salud.
+| TIPO DE SERVICIO         | Seguridad en el trabajo | Higiene industrial | Ergonomía y Psicosociología aplicada | Vigilancia de la salud |
+| :----------------------- | :---------------------- | :----------------- | :----------------------------------- | :--------------------- |
+| Asunción por parte del empresario |                         |                    |                                      |                        |
+| Designación de trabajadores |                         |                    |                                      |                        |
+| Servicio de prevención propio |                         |                    |                                      |                        |
+| Servicio de prevención ajeno |                         |                    |                                      |                        |
+| Servicio de prevención mancomunado |                         |                    |                                      |                        |
 
-El **Reglamento de los Servicios de Prevención (RSP)**, Real Decreto 39/1997, de 17 de enero, complementa la LPRL, integrando la prevención de riesgos laborales como una actividad fundamental en todos los niveles jerárquicos de la empresa, basada en la planificación, técnica, organización y condiciones de trabajo. Además de la normativa estatal, las Comunidades Autónomas desarrollan legislación complementaria en prevención de riesgos, incorporándose al marco jurídico.
+Según la forma de prestación del servicio, se puede incluir un documento firmado por la dirección que asuma la actividad preventiva, la carta de nombramiento del trabajador designado, el documento de constitución de un servicio de prevención propio, el contrato de actividades preventivas con un servicio externo, o una combinación de estas modalidades.
 
-Existen **excepciones a la aplicación de la LPRL** para ciertas actividades de la función pública, como las de policía, seguridad y servicios operativos de Protección Civil en casos de grave riesgo, catástrofe o calamidad pública, donde las particularidades impiden la aplicación estricta de la norma. Sin embargo, el Tribunal de Justicia de la Comunidad Europea (TJCCEE) ha interpretado que estas excepciones deben aplicarse restrictivamente y que los servicios de prevención y extinción de incendios están sujetos a la LPRL en su totalidad, incluso en actividades de intervención en condiciones habituales, con las obligaciones de evaluación de riesgos, investigación de accidentes y vigilancia de la salud.
+**Tabla 14. Relación de personal con funciones preventivas**
 
-### Estructura Organizativa de la Prevención
+| DIRECCIÓN / GERENCIA |                                |
+| :------------------- | :----------------------------- |
+| NOMBRE Y APELLIDOS   | DNI                            |
+|                      |                                |
+| RESPONABLES OPERATIVOS / TÉCNICOS |                                |
+| NOMBRE Y APELLIDOS   | DNI                            |
+|                      |                                |
+| MANDOS INTERMEDIOS   |                                |
+| NOMBRE Y APELLIDOS   | DNI                            |
+|                      |                                |
+|                      |                                |
+|                      |                                |
 
-La organización de los recursos preventivos puede adoptar diversas modalidades:
-*   **Trabajadores designados:** Uno o varios empleados públicos asumen voluntariamente la tarea preventiva, siempre que no sea obligatoria la constitución de un servicio de prevención propio y posean la capacidad y formación adecuadas. El número y tiempo dedicado deben ser suficientes para la actividad preventiva.
-*   **Servicio de prevención propio:** Obligatorio en entidades con más de 500 trabajadores, debe contar con instalaciones, medios humanos y materiales exclusivos, y con al menos dos especialidades o disciplinas preventivas de nivel superior (según el artículo 34 del RSP).
-*   **Servicios de prevención ajenos:** La Administración puede contratar uno o varios servicios externos cuando la designación de trabajadores sea insuficiente o no se haya optado por un servicio propio. Estos servicios deben estar acreditados por la Autoridad Laboral y cumplir requisitos mínimos.
-*   **Servicio de prevención mancomunado:** Modalidad de servicio de prevención propio limitada a las corporaciones participantes, con similitudes a un servicio ajeno en recursos y gestión.
+| Efectuado por: | Fecha: |
+| :------------- | :----- |
+| Cuadro de control |        |
+| Plan efectuado por |        |
+| Fecha de 1ª revisión: | Fecha de 2ª revisión: | Fecha de 3ª revisión: |
+| Fecha de 4ª revisión: | Fecha de 5ª revisión: | Fecha de 6ª revisión: |
 
-La **auditoría o evaluación externa** es un instrumento de gestión que evalúa sistemática, documentada y objetivamente la eficacia del sistema de prevención. Sus objetivos son comprobar la evaluación inicial de riesgos, analizar los resultados, verificar la adecuación de las actividades preventivas a la normativa, y analizar la coordinación y recursos. Es obligatoria para empresas sin servicio de prevención concertado o cuando la Autoridad Laboral lo requiera.
+**1. Consulta a los Trabajadores**
 
-### Participación de los Empleados Públicos en la Prevención
+De acuerdo con la Ley de Prevención de Riesgos Laborales (LPRL), la consulta a los trabajadores es un elemento clave y un derecho adquirido para la prevención de riesgos laborales. En servicios con representantes de trabajadores, estos actuarán como interlocutores.
 
-La participación de los empleados públicos en la prevención de riesgos laborales se articula a través de varios actores clave:
-*   **Los trabajadores:** Tienen derecho a ser informados y formados en riesgos específicos de su puesto, medidas preventivas, primeros auxilios, lucha contra incendios y planes de evacuación. Pueden ser consultados y hacer propuestas para mejorar la seguridad y salud, y tienen la facultad de interrumpir la actividad en caso de riesgo grave e inminente.
-*   **Los Delegados de Prevención:** Son representantes específicos de los trabajadores en materia de prevención, elegidos por y entre los representantes legales. Su número varía en función de la plantilla (por ejemplo, 1 delegado para 6-49 trabajadores, 2 para 50-100, hasta 8 para más de 4001). Sus competencias incluyen colaborar con la dirección, promover la cooperación, ser consultados por el empresario sobre decisiones preventivas, vigilar el cumplimiento normativo, y acompañar a técnicos e inspectores. Además, tienen derecho a ser informados sobre daños a la salud y a proponer la paralización de actividades con riesgo inminente, debiendo guardar sigilo profesional.
-*   **El Comité de Seguridad y Salud:** Órgano de participación interno, paritario y colegiado, obligatorio en empresas o centros con 50 o más trabajadores. Compuesto por delegados de prevención e igual número de representantes del empresario. Se reúne trimestralmente o a petición de una de las partes. Su función es consultiva, debatiendo planes y programas de prevención, proyectos de organización del trabajo y promoviendo mejoras.
-*   **El empresario:** Tiene el deber de proteger la seguridad y salud de sus trabajadores, aplicando medidas preventivas y acciones necesarias.
-*   **Los mandos intermedios:** Pueden delegar cometidos empresariales en prevención. Sus funciones fundamentales son ejecutar, controlar, informar a la dirección y velar por la seguridad de los trabajadores a su cargo. Esto incluye participar en la información, consulta y participación de los trabajadores, así como actuar en emergencias, tanto directa como indirectamente.
-*   **El Recurso Preventivo:** Es una figura crucial para vigilar el cumplimiento de las actividades preventivas en situaciones que lo requieran, con formación y capacidad adecuadas. Debe recibir instrucciones precisas sobre los puestos y operaciones a vigilar y las medidas preventivas a aplicar. Es fundamental que el empresario identifique claramente al Recurso Preventivo. Su presencia debe ser constante durante la situación que motiva su necesidad, aunque puede compatibilizarse con actividades productivas si no menoscaba su función de vigilancia. El Recurso Preventivo no asume responsabilidad administrativa.
+**2. Adquisición de Productos**
 
-La declaración de **medios económicos** para la prevención de riesgos, incluyendo el contrato del servicio de prevención ajeno, mantenimiento de sistemas de protección, instalaciones, equipos, formación y EPI, es un aspecto que debe incluirse en la planificación del sistema de prevención para garantizar la disponibilidad de recursos.
+La sistemática de adquisición de productos implica:
 
----
-*(Fin del contenido relevante del bloque)*
+*   Designar al responsable de la gestión de adquisición de productos.
+*   Definir los requisitos de compra de máquinas, equipos, productos químicos y equipos de protección individual.
+*   Verificar el cumplimiento de los requisitos al recibir los productos.
+*   Informar al servicio de prevención sobre situaciones que puedan requerir actualizar la Evaluación de Riesgos.
+
+Es recomendable anexar una relación de máquinas, sus manuales de instrucciones y fichas técnicas.
+
+**a) Requisitos de adquisición de equipos de trabajo**
+
+Asegurarse de que el equipo cumpla la legislación vigente al recibirlo.
+
+**b) Requisitos de adquisición de productos químicos**
+
+*   Designar al trabajador responsable de disponer de las fichas de seguridad (previo al uso) y de analizar la idoneidad del producto.
+*   Transmitir la información de las fichas de seguridad a los trabajadores que utilicen los productos.
+*   Facilitar las fichas de seguridad a los responsables de adquisición y de implantación de medidas preventivas y de protección.
+
+**3. Coordinación de actividades empresariales**
+
+Es fundamental desarrollar una sistemática de actuación que coordine la forma de proceder ante actividades realizadas por empresas o entidades relacionadas contractualmente (limpieza, mantenimiento, construcción, etc.).
+
+**4. Vigilancia de la salud de los trabajadores**
+
+En este ámbito, el servicio debe:
+
+*   Disponer de un plan anual de actividades de vigilancia de la salud.
+*   Comunicar al servicio de prevención los cambios de puesto de trabajo que afecten los riesgos de los trabajadores.
+*   Disponer de los informes de aptitud de los exámenes de salud y del seguimiento de las recomendaciones de Medicina del Trabajo.
+*   Archivar la documentación de Medicina del Trabajo.
+*   Comunicar las bajas por motivos de salud al servicio de prevención para valorar su posible relación con los riesgos.
+
+**5. Mantenimiento/revisión de equipos e instalaciones. Control periódico de las condiciones de trabajo**
+
+El objetivo es establecer los cauces para realizar controles periódicos conforme a la normativa de prevención de riesgos laborales y los criterios técnicos de actuación preventiva y de protección.
+
+**6. Incorporación de nuevos trabajadores, cambios de puesto de trabajo, cambios en las instalaciones**
+
+Los aspectos clave para la empresa son:
+
+*   Asegurarse de que los cambios de puesto/funciones y la incorporación de nuevos trabajadores estén precedidos por la comprobación de su idoneidad en formación, información, EPIs y exigencias de Vigilancia de la Salud.
+*   Cualquier modificación sustancial en el diseño de lugares de trabajo o instalaciones debe ser precedida por la preceptiva evaluación de riesgos.
+
+**7. Formación e información**
+
+La empresa debe:
+
+*   Disponer de un plan de formación e información en prevención de riesgos laborales.
+*   Designar a la persona encargada de la gestión del plan de formación.
+
+**8. Análisis de los daños a la salud**
+
+La sistemática para el análisis de daños a la salud incluye:
+
+*   Notificar los daños a la Autoridad competente mediante sistemas reglamentarios.
+*   Realizar seguimiento de las medidas correctoras o preventivas adoptadas tras la investigación de daños a la salud.
+
+**9. Prevención en el diseño**
+
+Este apartado se refiere a las acciones del servicio cuando se prevé la necesidad de cambios en instalaciones, materiales, herramientas, etc., asegurando el cumplimiento de todas las garantías de seguridad y salud de los trabajadores.
+
+**10. Recursos preventivos**
+
+Si se requieren recursos preventivos, estos deben tener capacidad, medios y número suficientes para vigilar el cumplimiento de las actividades preventivas y permanecer en el centro de trabajo mientras la situación lo determine.
+
+**11. Otros**
+
+Las funciones, obligaciones y responsabilidades adicionales para las personas designadas por la empresa para gestionar los aspectos mencionados deben incorporarse al apartado 2.2 del Plan de prevención.
+
+**2.3.3. Implantación y revisión/mejora del sistema de prevención**
+
+El servicio de prevención (SP) evaluará anualmente la efectividad de la integración de la prevención de riesgos laborales en el sistema general de gestión del servicio. Si la valoración indica la necesidad de modificar o implantar el Sistema, se adoptarán las medidas necesarias, considerándolas una acción más en la programación anual de actividades preventivas. El SP facilitará la información necesaria al empresario para que desarrolle adecuadamente las actividades preventivas.
+
+**2.3.4. Aprobación y asunción del compromiso de asunción del Plan de PRL**
+
+El Real Decreto 604/2006, en su artículo 2.1, establece que el Plan de Prevención de Riesgos Laborales debe ser aprobado por la dirección de la empresa, asumido por toda su estructura organizativa y conocido por todos los trabajadores.

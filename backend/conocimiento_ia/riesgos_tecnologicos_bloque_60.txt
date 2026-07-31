@@ -1,22 +1,100 @@
-# Comportamiento de Materiales Estructurales Frente al Fuego y Medidas de Protección
+## TEMA: LOCALIZACIÓN, BÚSQUEDA Y SEÑALIZACIÓN EN ESTRUCTURAS COLAPSADAS
 
-La integridad de una edificación ante un incendio es un factor crítico en la seguridad contra incendios, siendo evaluada mediante dos parámetros fundamentales: la resistencia al fuego y la reacción al fuego de sus materiales constitutivos. Ambos conceptos, aunque relacionados, abordan distintas facetas del comportamiento de los elementos de construcción.
+### 4. Sistemas de Localización y Búsqueda de Personas Atrapadas
 
-## Resistencia al Fuego: Evaluación y Clasificación
+#### 4.1. Posibilidades de Supervivencia
 
-La **resistencia al fuego** se define como la capacidad de un material o elemento constructivo para soportar el avance y la propagación del fuego y sus productos (humos y gases calientes), manteniendo su estanqueidad, estabilidad y aislamiento térmico durante un período de tiempo determinado.
+El tiempo es un factor determinante en las operaciones de búsqueda y rescate, ya que incide directamente en la probabilidad de supervivencia de las víctimas. Esta importancia se acentúa en casos de personas con mayor vulnerabilidad, como ancianos, menores o individuos bajo medicación. Es crucial, por tanto, que la asistencia sanitaria se brinde con la mayor celeridad posible.
 
-La normativa en España ha evolucionado desde la UNE 23.093, que clasificaba los materiales como Estable al Fuego (EF), Parallamas al Fuego (PF) y Resistente al Fuego (RF), hacia el sistema europeo establecido por el Real Decreto 842/2013, de 31 de octubre, que transpone la UNE-EN 13501-1. Esta nueva clasificación utiliza una nomenclatura jerarquizada basada en letras que representan prestaciones principales y secundarias:
+La expectativa de supervivencia es alta durante las primeras 24 horas posteriores a un colapso. No obstante, esta probabilidad disminuye de forma exponencial hasta las 96 horas, volviéndose extremadamente remota a partir de las 120 horas. La tasa de supervivencia también varía según el tipo de atrapamiento (estructural o no estructural) y la especialización de los equipos de rescate (espontáneos o altamente entrenados).
 
-*   **R (Resistencia/Capacidad portante):** Indica la aptitud de un elemento constructivo para mantener su función estructural bajo la acción del fuego en una o más de sus caras.
-*   **E (Integridad/Estanqueidad):** Se refiere a la capacidad de un elemento separador para evitar el paso de llamas o gases calientes que puedan inflamar la cara no expuesta o materiales adyacentes.
-*   **I (Aislamiento térmico):** Mide la capacidad de un elemento separador para limitar el aumento de temperatura en su cara no expuesta al fuego.
+#### 4.2. Sectorización
 
-Además de estas clases principales, existen **clases secundarias** que aportan información complementaria: M (acción mecánica), C (cierre automático), S (estanqueidad al paso de humos), P o HP (continuidad eléctrica o de señal), G (resistencia a la combustión de hollines), K (protección contra incendios), D (duración de la estabilidad a temperatura constante), DH (duración de la estabilidad según curva tiempo-temperatura normalizada), F (funcionalidad de extractores mecánicos de humo y calor) y B (funcionalidad de extractores pasivos de humo y calor).
-La valoración final se expresa mediante la combinación de estas siglas y un número que indica el tiempo en minutos (ej., 15, 30, 60, 120, 240, 360) durante el cual el elemento mantiene las propiedades para las que ha sido diseñado. Esta transición normativa, si bien implica un cambio de nomenclatura, conserva una lógica equivalencia con los principios de evaluación anteriores.
+La gestión de equipos en incidentes de estructuras colapsadas debe ser polivalente, multidisciplinar y enfocada en la eficiencia para optimizar los recursos disponibles. Para lograrlo, es indispensable establecer una zonificación o sectorización precisa de las áreas de trabajo.
 
-## Reacción al Fuego: Combustibilidad y Propagación
+La zonificación implica identificar y delimitar correctamente las distintas áreas basándose en la ubicación del incidente y el tipo de accidente.
 
-La **reacción al fuego** evalúa la contribución de un material al proceso de inicio y propagación de un incendio, es decir, su grado de combustibilidad. La anterior norma UNE 23.727 clasificaba los materiales de M0 (incombustible) a M4 (altamente inflamable).
+#### 4.3. Búsqueda y Localización de Víctimas
 
-Actualmente, la norma UNE EN 13501-1 clasifica los materiales en 51 clases, basándose en el análisis de tres parámetros clave: energía liberada, producción de humos y caída de gotas
+##### 4.3.1. Ubicación de las Víctimas
+
+**a) Víctimas en Superficie o Parcialmente Atrapadas**
+Se estima que aproximadamente el 50% del total de víctimas en un colapso se encuentran en superficie o con atrapamiento leve. Antes de cualquier ingreso al edificio a través de oquedades, es fundamental revisar con eficacia el área exterior del derrumbe para localizar posibles víctimas. El salvamento de estas víctimas, consideradas seguras, es prioritario y puede aportar información valiosa.
+
+**b) Posibles Huecos de Supervivencia**
+Si no se logra localizar a todas las víctimas tras la fase inicial, se deben emplear técnicas avanzadas de búsqueda en profundidad, que se estima afectarán a un 30% del total de víctimas. Para una localización precisa, es vital una evaluación exhaustiva y continua de la información disponible, incluyendo:
+*   La ampliación y actualización constante de los datos recopilados.
+*   El reconocimiento del derrumbe y sus áreas circundantes, con la ayuda de técnicos y vecinos, para identificar posibles huecos de vida.
+*   La penetración en huecos que sean accesibles.
+*   La realización de escuchas periódicas.
+
+##### 4.3.2. Métodos de Búsqueda
+
+**a) Búsqueda Física**
+Este método es más efectivo en los momentos iniciales post-colapso y se basa en el procedimiento de "Llamada-Escucha", así como en búsquedas visuales o táctiles. Requiere exclusivamente la capacidad humana y la percepción sensorial, siguiendo protocolos preestablecidos.
+
+**I. Procedimiento de "Llamada-Escucha" (Búsqueda Probabilística)**
+Este es un método de búsqueda elemental que consiste en realizar llamadas en voz alta o golpear las estructuras, intercalando períodos de silencio absoluto. Los mensajes deben ser uniformes, directos, claros y concisos. Los miembros del equipo de búsqueda deben identificar los puntos de donde provenga una respuesta. Ejemplos de comunicaciones incluyen "¡¡¡Silencio total!!!", "¡¡¡Somos del equipo de rescate!!!", "¡¡¡Si alguien puede oírme, grite o golpee!!!".
+
+**II. Procedimientos de Búsquedas Físicas (Búsqueda Sistemática)**
+Similar a otras búsquedas en grandes áreas, inicialmente se buscan víctimas mediante diversos sistemas. Es necesario desarrollar una búsqueda probabilística, identificando rutas de escape y escaleras, para luego organizar una búsqueda sistemática siguiendo patrones definidos.
+
+**Búsqueda Visual:**
+La búsqueda visual es la primera que se realiza tras el colapso, a menudo efectuada por vecinos, familiares o supervivientes. Debe realizarse desde diferentes ángulos y alturas del edificio, asomándose a huecos, ventanas y puertas para inspeccionar el interior. Los equipos de emergencia especializados (BREC) deben llevar a cabo una búsqueda visual sectorizada. Los patrones más eficaces incluyen la búsqueda circular externa (en cruz), el avance en línea y la búsqueda en habitaciones múltiples.
+
+**Patrón Circular Externo / en Cruz:**
+El procedimiento implica que el mando distribuye a cuatro miembros del equipo alrededor del área de búsqueda, mientras él se posiciona en un lugar cercano con visibilidad. Se emite una alerta sonora de atención, seguida de un silencio total. Las llamadas se inician en sentido horario por el líder, pidiendo a la víctima que grite o golpee. Se pueden golpear estructuras metálicas para llamar la atención. Si un miembro del equipo detecta una víctima, levantará un brazo en vertical y con el otro indicará la dirección, manteniendo la posición sin acercarse hasta recibir autorización del mando.
+
+**Patrón de Avance en Línea:**
+Este patrón se utiliza para búsquedas superficiales en estructuras colapsadas. El procedimiento es el siguiente:
+1.  Los miembros del equipo se posicionan en línea con una separación de 1,5 metros entre ellos.
+2.  El mando se sitúa detrás, manteniendo una visión clara del equipo.
+3.  La línea de rescatadores se numera de izquierda a derecha.
+4.  El mando emite una alerta sonora de silencio, diciendo en voz alta: "¡SILENCIO TOTAL!".
+5.  Cuando el mando lo indica, la línea avanza 2-3 metros, se agachan y escuchan cerca del suelo.
+6.  El rescatador número 1 exclama: "¡SOMOS DEL EQUIPO DE RESCATE! ¡SI ALGUIEN PUEDE OIRME, GRITE O GOLPEE!".
+7.  Se mantiene el silencio durante 20 segundos para escuchar.
+8.  Si no se escucha nada, el rescatador número 1 grita: "¡NADA SE ESCUCHA!".
+9.  Si los demás rescatadores no han percibido nada, confirman la misma afirmación hasta que todos hayan completado su turno.
+10. Los rescatadores avanzan otros 2 metros y el proceso se repite.
+11. Si algún rescatador percibe algo, levanta un brazo y el resto apunta en la dirección del sonido, manteniendo su posición hasta la indicación del mando.
+
+**Patrón de Búsqueda en Habitaciones Múltiples:**
+Este patrón se aplica en edificaciones que no han colapsado completamente pero presentan múltiples divisiones o locales, requiriendo un rastreo exhaustivo de todas las áreas.
+
+**Búsqueda Táctil:**
+Sus principios son similares a los de la búsqueda visual. Se emplea para localizar posibles víctimas en lugares inaccesibles o sin visibilidad directa y para confirmar sospechas identificadas durante la búsqueda visual.
+
+**Búsqueda Técnica:**
+Para localizar víctimas sepultadas en profundidad, se recurre a unidades especializadas como BREC, USAR o ONG internacionales, que utilizan equipos técnicos específicos como geófonos (dispositivos electrónicos para amplificar sonidos) y videocámaras. No todos los cuerpos de bomberos disponen de estos equipos, ya que no suelen estar enfocados en derrumbes.
+
+**Búsqueda Especializada:**
+**I. Búsqueda Canina**
+El desafío más significativo en el rescate de supervivientes en escombros, aludes o avalanchas es la localización rápida, ya que el desescombro indiscriminado reduce considerablemente la probabilidad de salvamento. La tecnología moderna ofrece herramientas complementarias como cámaras térmicas (para mapas de temperatura), cámaras de vídeo (para espacios inaccesibles), detectores geofónicos (para sonidos) y ratas con implantes cerebrales equipadas con cámaras de vídeo para exploración remota.
+
+A pesar de los avances tecnológicos, el sistema elemental de perros adiestrados para rescate, utilizado por los monjes del Hospicio de San Bernardo desde hace 200 años, sigue siendo insuperable. El uso de perros en rescate en escombros se remonta a la Primera Guerra Mundial, con los primeros centros de formación específicos para guías y perros establecidos en Suiza. La superioridad olfativa del perro lo convierte en una herramienta de localización insustituible.
+
+Para una eficacia óptima de los medios caninos, se requiere un adiestramiento y una comunicación continuados. El adiestramiento implica modificar progresivamente la conducta del perro, reforzando las acciones correctas con felicitaciones y caricias, y omitiéndolas para las incorrectas. El perro de rescate debe ser considerado una herramienta de trabajo esencial, un compañero y un medio de localización inestimable.
+
+### 5. Señalización de las Zonas Inspeccionadas
+
+#### 5.1. Triage: Evaluación Estructural del Área Afectada
+
+En un colapso estructural, es fundamental establecer un orden de actuación que priorice la posibilidad de rescatar víctimas vivas y garantizar la seguridad de los intervinientes. El triage debe ser realizado con métodos sencillos y rápidos, basándose en conocimientos básicos de colapso estructural (causas, patrones y métodos de evaluación).
+
+##### 5.1.1. Pautas para el Desarrollo del Triage
+
+El triage se realiza cuando más de tres edificios están bajo la responsabilidad del mismo equipo.
+
+#### 5.2. Señalización para los Equipos de Rescate
+
+En una catástrofe de magnitud, el caos y el desorden son comunes, por lo que es vital ordenar los recursos externos e internos mediante la señalización in situ de objetivos y marcadores. Esto incluye la identificación de personal y vehículos.
+
+##### 5.2.1. Sistemas Internacionales de Señalización
+
+Existen varios sistemas de señalización a nivel internacional:
+*   **FEMA (Federal Emergency Management Agency)**: Utilizado en EE. UU., combina un cuadrado con un aspa para informar sobre la estructura y los trabajos realizados.
+*   **Francés**: Un rectángulo con símbolos específicos, de uso menos común.
+*   **Equipos Orientales**: Poseen sus propios sistemas.
+*   **EMA (Emergency Management Australia)**: Sistema adoptado por algunos organismos.
+*   **INSARAG (International Search and Rescue Advisory Group)**: Considerado el método más versátil y aceptado internacionalmente, siendo el sistema de referencia de la ONU.

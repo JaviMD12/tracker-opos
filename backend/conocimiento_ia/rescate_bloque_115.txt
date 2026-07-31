@@ -1,42 +1,122 @@
-## Búsqueda y Rescate en Grandes Áreas: Caracterización y Fases de Intervención
+## Temario de Oposiciones: Rescate y Emergencias
 
-La gestión de operaciones de búsqueda y rescate en grandes áreas exige un enfoque sistemático y altamente coordinado, dado que la localización de personas desaparecidas se ve influenciada por una multitud de factores, desde la naturaleza del entorno hasta las características de la propia víctima. La eficacia de estas intervenciones depende fundamentalmente de la capacidad de recabar, procesar y compartir información de manera continua y rigurosa.
+### Parte 7: Rescate y Búsqueda en Grandes Áreas
 
-### Definición y Enfoques de Búsqueda
-Las operaciones se dividen en dos categorías principales: la búsqueda de **personas perdidas**, quienes, aunque desorientadas, mantienen contacto con los equipos de rescate; y la búsqueda de **personas desaparecidas**, cuya ubicación y estado son inciertos, lo que demanda un proceso de investigación más complejo. Para abordar estas situaciones, se emplean diversos métodos para delimitar el área de búsqueda, considerando que las búsquedas masivas y desorganizadas son inherentemente ineficaces.
+#### Capítulo 3: Valoración de Condiciones y Riesgos de la Búsqueda
 
-Entre los métodos de determinación del área de búsqueda, destacan el **método teórico**, que estima el avance de la persona en línea recta basándose en su edad y capacidades, trazando una circunferencia alrededor de la Última Localización Conocida (ULC); el **método estadístico**, que utiliza patrones de comportamiento de casos anteriores con perfiles similares, priorizando sectores con mayor probabilidad de hallazgo; y el **método subjetivo**, que permite al director de búsqueda establecer áreas y sectores según su experiencia y criterio, útil cuando la precisión de la ULC es incierta. Asimismo, el **método de Mattson** añade una variable de probabilidad a cada sector dentro del área de búsqueda. Finalmente, el **método combinado** integra varias de estas técnicas para optimizar la eficacia, como la delimitación estadística con perímetros D50, D75 y D99, que indican distancias a las que se han encontrado porcentajes específicos de desaparecidos.
+**1. Diagrama de Flujo de la Información**
 
-### Factores Ambientales en las Operaciones de Búsqueda
-El éxito de una búsqueda está intrínsecamente ligado a una comprensión profunda del entorno geográfico y las condiciones meteorológicas. La **topografía** del lugar de la intervención es un factor determinante. Por ejemplo, en **llanuras y estepas**, los rastreos sistemáticos son más efectivos, con mayores distancias de batida, lo que permite la participación de más personal sin requisitos físicos exigentes. Sin embargo, en **bosques abiertos**, la homogeneidad visual facilita la desorientación. Por otro lado, en **bosques cerrados**, la progresión es discontinua, la visibilidad limitada y la distancia de alejamiento de la víctima se reduce. Las **serranías**, con su orografía accidentada, valles y elevaciones, presentan sectores de búsqueda dispares en cuanto a transitabilidad y visibilidad, requiriendo un reconocimiento previo. En la **alta montaña**, la dificultad es máxima debido a la inaccesibilidad para vehículos, las distancias a pie, los caminos tortuosos y el clima cambiante, lo que exige personal altamente especializado. Las **galerías**, como cañones o vías de servicio, restringen las rutas, mientras que los **paisajes mixtos y humanizados**, cercanos a núcleos urbanos, presentan alta accesibilidad pero también una complejidad por la cantidad de infraestructuras y la superposición de huellas.
+La gestión y evaluación de la información son cruciales para el éxito de cualquier operación de búsqueda, ya que pueden determinar el resultado. Para una evaluación efectiva, la información debe ser veraz, clara y verificada, y debe compartirse entre el jefe de búsqueda (PMA) y el personal técnico y del entorno del desaparecido. Los errores en esta fase pueden conducir a tácticas erróneas y a situaciones complejas o irresolubles.
 
-La **meteorología y climatología** influyen directamente en la supervivencia del desaparecido y en las condiciones de trabajo de los equipos. Fenómenos como las **borrascas** (bajas presiones, vientos fuertes), los **anticiclones** (altas presiones, vientos flojos), el **efecto Foehn** (vientos de ladera con diferencias de temperatura) y las **inversiones térmicas** (aire frío en valles) pueden alterar drásticamente el escenario. Las **gotas frías**, caracterizadas por tormentas intensas y nubes cúmulo-nimbus, también representan un riesgo significativo.
+La toma de decisiones por parte del mando se fundamenta en:
+*   Conocimientos técnicos.
+*   Formación táctica.
+*   Experiencia.
+*   Conocimiento del entorno.
 
-### Herramientas y Técnicas de Cartografía y Navegación
-Para la **cartografía**, se utilizan mapas físicos y digitales (como Emercarto, Google Maps, BaseCamp) que proporcionan datos sobre distancia, profundidad, dificultades y orientación. La Tierra se representa mediante proyecciones planas o desarrollos tridimensionales, utilizando **escalas** (ej. 1:25.000) y **coordenadas geográficas** (latitud y longitud desde el ecuador y meridiano de Greenwich) o **coordenadas UTM** (proyección transversal del elipsoide en husos y bandas). El **datum** (punto de referencia cartográfica) es crucial para la precisión. La **brújula** es una herramienta esencial para la orientación, permitiendo determinar el **rumbo** (respecto al Norte Magnético) y el **azimute** (respecto al Norte Geográfico), con la **declinación magnética** corrigiendo la diferencia entre ambos. La **navegación** implica seguir una secuencia de rumbos para alcanzar un destino, aprovechando las herramientas de **GPS** para localización, orientación y guía precisa.
+Tras la implementación del plan de acción, el mando debe realizar una evaluación continua, identificando riesgos e implementando medidas de seguridad (zonificación, protección, plan de emergencia). El objetivo de esta evaluación es corregir el plan de acción si es necesario, comprobando la eficacia de las acciones y el alcance del siniestro.
 
-### Indicios y Métodos de Rastreo
-La persona extraviada o desaparecida deja **indicios** físicos, químicos o sociales. Los **indicios físicos** incluyen huellas de calzado, ramas rotas o hierba aplastada, cuya visibilidad varía según el terreno. Los **indicios químicos**, como rastros de olor corporal, son detectados por perros de búsqueda. Los **indicios sociales, antrópicos o tecnológicos** provienen de testimonios de testigos o de información digital (telefonía móvil, redes sociales, cámaras de seguridad). Para la localización de teléfonos móviles, se utilizan aplicaciones específicas que, con el paquete de datos y la cobertura adecuados, permiten triangular la posición del terminal en un mapa.
+Antes de iniciar una acción de rescate, es vital evaluar el riesgo que se está dispuesto a asumir. En la mayoría de los rescates subacuáticos, la probabilidad de encontrar personas con vida es muy baja, por lo que se deben evitar riesgos innecesarios, priorizando la seguridad de los intervinientes. El trabajo no debe obstaculizar las labores de otros servicios.
 
-La **búsqueda activa** implica la movilización de rescatadores basándose en hipótesis y un registro cartográfico. La **búsqueda probabilística** se realiza inmediatamente después del aviso, priorizando rutas con mayor probabilidad de hallazgo y empleando equipos rápidos, a menudo con apoyo canino. La **búsqueda sistemática** cubre toda el área designada, dividida en sectores cartográficos, manteniendo una distancia constante entre los miembros del equipo para asegurar una cobertura completa, siguiendo criterios como la prueba de Wartes. Por otro lado, la **búsqueda pasiva** se enfoca en guiar a la víctima hacia un lugar seguro mediante comunicación y referencias, utilizando balizas y cercos para delimitar áreas y puntos de vigilancia estática.
+Es fundamental que el mando de la intervención conozca las limitaciones de los buceadores, ya que no todos están capacitados para todo tipo de inmersiones. Se debe prever el relevo de buceadores, considerando el tiempo máximo de inmersión, el cansancio y el estrés. Las zonas de trabajo deben estar completamente señalizadas.
 
-### Recursos y Medios Disponibles
-La disponibilidad de recursos humanos y materiales es vital. El **baremo de Wartes** se utiliza para estimar las horas-hombre necesarias para un rastreo sistemático, considerando que un porcentaje de los equipos se dedicará a labores logísticas, médicas y de control de accesos. Los **recursos materiales** incluyen cartografía, ordenadores con software de mapeo (BaseCamp), GPS por equipo, emisoras, linternas, y equipos de vivaque. Adicionalmente, pueden requerirse cámaras térmicas, aeronaves (helicópteros, drones), vehículos todo terreno, y embarcaciones (rafts, zodiacs).
+**1.1. Información sobre la Víctima**
 
-Los **consumibles** abarcan desde combustible y baterías hasta agua y alimentos, incluso para perros de búsqueda. La **planificación de relevos** para el personal y el material es crucial en operaciones prolongadas.
+Para recabar información sobre la víctima, se debe contactar inicialmente con la familia, la cual es recomendable que designe a un portavoz. La comunicación del PMA con la familia debe estar centralizada en una única persona o con traspaso de información entre interlocutores. El portavoz familiar también recogerá y transmitirá información del círculo social de la víctima (amistades, compañeros de estudio o trabajo).
 
-### Riesgos y Amenazas
-Los riesgos inherentes a las operaciones de búsqueda y rescate afectan tanto a las víctimas como a los intervinientes. Para las **víctimas**, el entorno hostil (clima extremo, fauna salvaje) y las lesiones preexistentes son amenazas, tendiendo a buscar refugio, agua y alimento. Para los **intervinientes**, el exceso de celo puede llevar a operar en zonas de alto riesgo (simas, barrancos), la actuación independiente y la posible agresión de la víctima si padece trastornos psicológicos. El tiempo transcurrido desde la desaparición es un factor crítico, ya que las probabilidades de supervivencia disminuyen drásticamente después de 48 horas, especialmente en casos de niños, ancianos o personas con demencia. Un retraso en la búsqueda puede provocar la pérdida de indicios y la necesidad de una operación más sostenida.
+A medida que avanza la búsqueda, se puede considerar la posibilidad de realizar entrevistas individuales a diferentes contactos, ya que las personas sin vínculo emocional pueden ofrecer información más fidedigna.
 
-### Fases de Intervención en Búsqueda y Rescate
-Una intervención se desarrolla en fases estructuradas:
-1.  **Recepción del aviso:** Se recopila información inicial sobre el tipo de siniestro, localización, personas afectadas, bienes en peligro y otros riesgos. Es crucial identificar la Última Localización Conocida (ULC).
-2.  **Movilización:** Se organiza el equipo de salida, se prepara el material y se desplazan los medios al lugar del incidente.
-3.  **Valoración inicial:** Se realiza *in situ* una evaluación de la escena, el entorno y la víctima, identificando riesgos inminentes (vertidos, inestabilidad) y estableciendo un plan de acción.
-4.  **Control de riesgos inminentes:** Se actúa sobre vertidos, cierres de compuertas o esclusas y se asegura la estabilidad de las embarcaciones, entre otros.
-5.  **Intervención:** Se implementa el plan de acción, se localizan o elevan las víctimas, se proporciona atención sanitaria y se controla el tiempo de la operación.
-6.  **Restitución de la normalidad:** Una vez concluido el rescate, se recoge el equipo, se elabora un informe de la intervención y se realiza un *briefing* para analizar el desarrollo y mejorar futuras actuaciones.
-7.  **Reevaluación y movilización de recursos:** Si no hay resultados positivos tras la búsqueda inicial, se amplían los sectores, se movilizan recursos adicionales y se reorganizan los equipos.
-8.  **Desmovilización:** Se verifica el regreso de todo el personal y se archiva la información generada.
+Es comprensible que los familiares y amigos de la persona desaparecida muestren una actitud alterada, con rabia u hostilidad, a menudo volcando la culpa en los servicios de emergencia. El equipo de rescate debe afrontar esta actitud con calma y serenidad, reforzando la confianza en el trabajo realizado y reconduciendo la conversación hacia información relevante.
 
-La gestión de la información, el análisis de riesgos, la planificación y la coordinación son pilares fundamentales en cualquier operación de búsqueda y rescate, buscando siempre la solución más sencilla y segura posible para todos los implicados.
+La información inicial debe centrarse en:
+*   Último momento en que la persona fue vista o contactada.
+*   Aspecto físico (ropa, calzado).
+*   Comentarios y movimientos previos a la desaparición.
+*   Aficiones, inquietudes y personalidad.
+*   Antecedentes de desapariciones previas y sus circunstancias.
+*   Lugares cercanos con significado especial para la persona.
+
+Con toda la información recopilada, se evaluará el riesgo vital subjetivo de la víctima (estado de salud, enfermedades crónicas, necesidad de medicación, minusvalías o discapacidades).
+
+**1.2. Información sobre el Entorno**
+
+La información sobre el entorno de búsqueda se centra en dos aspectos:
+*   **Distribución y tipo de terreno:** para conocer las posibles rutas o escondites de la víctima y los aspectos hostiles.
+*   **Climatología y previsiones meteorológicas:** para determinar cómo pueden aumentar el riesgo al que se enfrenta la persona desaparecida.
+
+El entorno de los agentes (medio ambiente, senderistas, cazadores, etc.) puede ser una fuente valiosa de información. El análisis de este entorno aporta datos sobre riesgos objetivos como hipotermia, precipitaciones y ahogamientos.
+
+**2. Reconocimiento del Área de Búsqueda**
+
+Antes de iniciar la búsqueda, es crucial recopilar información para delimitar el área, incluyendo:
+*   **Cartografía disponible:** verificar mapas actualizados y a escala adecuada.
+*   **Última localización conocida (ULC):** contrastar testimonios y fijar la ULC en el mapa.
+*   **Zonas de significado para la víctima:** informar al portavoz familiar sobre la ULC y su relación con áreas conocidas por la víctima.
+*   **Carreteras, caminos, ríos, construcciones:** identificar vías de comunicación, accidentes e infraestructuras en el mapa. Para un diseño eficaz de sectores, estos deben coincidir con accidentes o infraestructuras visibles en la cartografía.
+*   **Estadísticas poblacionales:** utilizar estadísticas para determinar la probabilidad de hallazgo según el sector poblacional.
+*   **Riesgos en el mapa:** reflejar en el mapa zonas peligrosas (pedregosas, cenagosas, barrancos, acantilados).
+*   **Reconocimiento in situ:** un mando debe verificar que el área del mapa corresponde a la realidad, que los equipos se adecúan al terreno y que la extensión es abarcable.
+*   **Condiciones climáticas y visibilidad:** adaptar las técnicas de búsqueda a la visibilidad (nieve, lluvia, niebla, vegetación densa).
+
+**3. Datos Históricos de Desapariciones en la Zona**
+
+Si existen antecedentes de desapariciones en la zona, es importante consultarlos para identificar los lugares de hallazgo. Esta información ayuda a priorizar la búsqueda en sectores de mayor probabilidad. Con toda la información recopilada, se establecen los sectores de búsqueda probabilística o sistemática y se define un orden de prioridad.
+
+**4. Recursos Disponibles**
+
+Una vez definida la superficie y dificultad del área, se debe analizar la capacidad de actuación del equipo de rescate con los recursos disponibles.
+
+**4.1. Recursos Materiales**
+
+El equipo mínimo establecido por el CEIS incluye:
+*   Cartografía de la zona.
+*   PC portátil con aplicación BaseCamp, plantilla de ficha de desaparecidos, plantilla de filiación de equipos de búsqueda y plantilla de línea de tiempo de intervención.
+*   Cable para traspaso de datos de PC a GPS.
+*   Impresora.
+*   Generador o transformador con regleta para alimentación de PC e impresora.
+*   GPS por cada equipo interviniente.
+*   Emisora de mano por cada equipo y emisora base/mano para PMA.
+*   Linterna para cada miembro del equipo (para noche o lugares oscuros).
+*   El PMA puede ser un vehículo de mando o una carpa, con mesa y 2-3 sillas de camping.
+
+Otros materiales útiles incluyen cámaras térmicas, aeronaves o drones, prismáticos o telescopios terrestres, vehículos todoterreno 2x4 o 4x4, rafts o zodiacs para cursos de agua, y equipos de altura para zonas escarpadas.
+
+**4.2. Recursos Humanos (Baremo de Wartes)**
+
+El baremo de Wartes se utiliza para estimar el número de personas necesarias para un rastreo sistemático. Para una búsqueda probabilística, el número de sectores determina el personal, y se puede extrapolar el tiempo de operación.
+
+*   **Ejemplo:** Para cubrir 20 hectáreas (5 sectores de 4 hectáreas cada uno) con una separación de 6 metros entre buscadores (90% de probabilidad de detección), se requieren 740 horas. Con 40 buscadores efectivos, la operación tomaría 18,5 horas.
+
+Estos cálculos permiten estimar si el tiempo es suficiente para la víctima, o si existe riesgo vital. Si hay riesgo vital, se requiere una estrategia probabilística.
+
+Si se convocan más de 12 o 15 personas, la organización se vuelve compleja, y entre un 20-30% de los equipos de búsqueda se destinará a labores de organización (logística, apoyo sanitario, control de accesos).
+
+Para una búsqueda segura, es fundamental que todos los miembros del equipo estén localizados, equipados (GPS, cartografía) y coordinados, con suficientes jefes de sector.
+
+**4.3. Consumibles**
+
+Se deben prever suministros para la duración de la búsqueda, incluyendo:
+*   Combustible para vehículos y generadores.
+*   Baterías para GPS, linternas, emisoras y teléfonos móviles.
+*   Agua y alimento para todos los intervinientes (incluidos perros).
+
+**4.4. Recursos de Reposición**
+
+Una vez evaluado el personal y el tiempo, se debe anticipar el relevo para mantener el ritmo de trabajo. Se organizan turnos para profesionales y voluntarios, y se planifica en caso de necesidad de aumentar el personal o el tiempo de trabajo.
+
+**5. Riesgos y Amenazas para la Víctima e Intervinientes**
+
+*   **Para la víctima:** Enfrentarse a un entorno hostil (frío o calor excesivo, falta de hidratación, alimentos, medicación, fauna salvaje, lesiones por caídas, agotamiento físico) es un riesgo. La víctima buscará caminos favorables, agua, alimento y refugio.
+*   **Para los intervinientes:** El exceso de celo puede llevar a rastrear zonas de alto riesgo (simas, barrancos). Existe riesgo de que, sin estar integrados en el equipo, actúen por cuenta propia y se expongan a peligros similares a los de la víctima. Si la víctima tiene un trastorno psicológico que cause agresividad, se debe advertir a todos los buscadores.
+
+**6. Tiempo Transcurrido y Tiempo Estimado**
+
+Es crucial informar la hora de desaparición a las fuerzas de seguridad. Para casos vulnerables (niños pequeños, personas con demencia o Alzheimer), la probabilidad de supervivencia disminuye significativamente después de 48 horas. Estos datos determinan la estrategia de intervención.
+
+Los retrasos en la búsqueda suelen deberse a la desaparición o difuminación de indicios. Esto puede requerir ampliar el área de búsqueda (perímetro de 25 o 30 km) e implicar que los servicios de emergencia deban planificar la duración del operativo.
+
+*   **Ejemplos:**
+    *   Si han pasado 4-5 horas, se tienen 44 horas disponibles para completar el protocolo: búsqueda probabilística inicial, luego búsqueda sistemática de sectores programados.
+    *   Si han pasado 30-35 horas, se priorizan despliegues rápidos y la búsqueda sistemática se organiza para el día siguiente.
+
+*   **Si las condiciones son favorables**, se recomienda descansar durante el día y moverse por la noche para evitar la hipotermia.

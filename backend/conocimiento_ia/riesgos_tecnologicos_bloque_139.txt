@@ -1,164 +1,61 @@
-# Caracterización de Riesgos NRBQ y Conceptos Físico-Químicos Relevantes en Emergencias
+El presente temario aborda conceptos y terminología fundamentales en el ámbito de emergencias, enfocándose en la caracterización de elementos constructivos y sustancias peligrosas.
 
-El vertiginoso avance de la sociedad contemporánea, impulsado por el desarrollo industrial, tecnológico y social, ha conllevado un aumento en la utilización de sustancias químicas. Si bien muchas de estas sustancias mejoran la calidad de vida, intrínsecamente presentan riesgos potenciales que requieren una gestión especializada en situaciones de emergencia. La localización del incidente, ya sea en un entorno fabril, en una vía de transporte o en un ámbito doméstico, determinará la naturaleza y magnitud de sus efectos. Aquellas áreas que carecen de la instrumentación o las medidas adecuadas para responder a desastres naturales o tecnológicos se consideran zonas de alta vulnerabilidad.
+**A. Glosario de Términos (A-C)**
 
-En este contexto, la intervención en estructuras colapsadas (operaciones BREC o USAR), a menudo gestionada por ONGs de bomberos con vasta experiencia internacional, se enfoca en la búsqueda y rescate de personas. Sin embargo, es crucial adaptar las metodologías y materiales a las tipologías constructivas y los recursos disponibles localmente para maximizar la eficacia y reducir el efecto dominó de las catástrofes. La clave reside en una resolución integral y coordinada entre todas las administraciones (local, regional, estatal) y los cuerpos de seguridad y salud, así como las empresas privadas.
+*   **Acometida:** Se refiere al segmento de la instalación eléctrica que conecta la Red General de Distribución (RGD) con la Caja General de Protección (CGP).
+*   **ADN (Acuerdo Europeo sobre el Transporte de Mercancías Peligrosas por Vía Navegable):** Marco regulatorio para el transporte de mercancías peligrosas por vías navegables interiores.
+*   **ADR (Acuerdo Europeo sobre el Transporte de Mercancías Peligrosas por Carretera):** Norma que rige el transporte internacional de mercancías peligrosas por carretera.
+*   **BLEVE (Boiling Liquid Expanding Vapor Explosion):** Explosión por expansión de vapor de un líquido en ebullición. Es un tipo de accidente físico que resulta de un recalentamiento del contenido de un recipiente.
+*   **Blindaje:** Interposición de un material protector entre una fuente radiactiva y las personas, con el fin de atenuar o reducir el daño por radiación.
+*   **Botellones:** Recipientes con una capacidad entre 150 y 1000 litros, diseñados para su manejo mediante aros de rodadura o patines.
+*   **Brida ciega:** Elemento de forma redonda con perforaciones que permiten el paso de pernos. Su función es asegurar el cierre de orificios en tuberías, válvulas o recipientes, incluso bajo diversas presiones de trabajo.
+*   **Bulto radiactivo:** Consiste en el embalaje y el contenido radiactivo.
+*   **Caja General de Protección (CGP):** Caja diseñada para albergar los componentes de protección de la Línea General de Alimentación (LGA). Marca el punto de inicio de la instalación propiedad del cliente.
+*   **Capacidad máxima:** Volumen interno más grande que pueden albergar los recipientes, envases o embalajes. Se expresa en metros cúbicos o en litros.
+*   **Central eléctrica:** Conjunto de infraestructuras y equipos, incluyendo construcciones civiles y edificios, que se emplean para la producción directa o indirecta de energía eléctrica.
+*   **Central nuclear:** Central térmica donde la energía calorífica se origina a partir de la fisión nuclear en uno o más reactores nucleares.
+*   **Centro de transformación (CT):** Instalación equipada con uno o varios transformadores que reducen la tensión de Alta a Baja Tensión, junto con sus respectivos equipos y obras complementarias.
+*   **Centro de transformación prefabricado:** Instalación diseñada y fabricada en serie. Incluye transformador, aparamenta de alta tensión, interconexiones (cables, barras, etc.) y, en ocasiones, aparamenta de baja tensión y equipos auxiliares, todo ello contenido en una envolvente. Si esta envolvente es metálica y los componentes funcionan de forma independiente, se denomina "centro de transformación integrado".
+*   **Circuito:** Conjunto de componentes eléctricos (conductores, aparamenta, etc.) alimentados por la misma fuente de energía y dotados de protección contra sobreintensidades. No incluye los circuitos de aparatos de utilización o receptores.
+*   **Cisterna:** Este concepto abarca contenedores cisterna, cisternas portátiles, fijas y desmontables, o elementos de vehículo batería, con una capacidad superior a 1000 litros.
 
-El concepto de riesgo tecnológico, según la Escuela Nacional de Protección Civil, se define como la "posibilidad de consecuencias indeseables o inconvenientes derivados del acceso o uso de tecnología, cuya ocurrencia no puede determinarse a priori". Esto implica que el estudio y la regulación de cada sustancia peligrosa deben considerar su probabilidad de causar daño y los recursos necesarios para gestionarla. Los riesgos potenciales más significativos incluyen los nucleares, radiológicos, químicos y aquellos asociados al transporte de mercancías peligrosas. Los **riesgos nucleares**, aunque de baja probabilidad (con ocho reactores en España), implican una fuente considerable de radiación y contaminación. Los **riesgos radiológicos**, más frecuentes pero menos devastadores, se vinculan a los más de 1.300 centros en España autorizados para el uso de radionucleidos. Por su parte, los **riesgos químicos** derivan del almacenamiento y uso de sustancias peligrosas en instalaciones industriales, regulándose por el tipo y cantidad de producto. Finalmente, el **transporte de mercancías peligrosas** conlleva un riesgo inherente debido al desplazamiento constante por carretera, mar o aire, demandando la mayor cantidad de intervenciones de protección civil.
+**B. Glosario de Términos (C-I)**
 
-La legislación española, en consonancia con la normativa internacional, establece un marco regulatorio específico para cada uno de estos riesgos. La **Directiva 2013/59 EURATOM** fija las normas básicas de seguridad para la protección contra radiaciones ionizantes a nivel europeo. A nivel nacional, el **Real Decreto 1440/2010** aprueba el Estatuto del Consejo de Seguridad Nuclear, y el **Real Decreto 1439/2010** modifica el Reglamento sobre Protección Sanitaria contra Radiaciones Ionizantes. Estas normas se complementan con otras resoluciones que detallan la planificación y las medidas de protección necesarias en caso de emergencia radiológica, incluyendo planes específicos para centrales nucleares como las de José Cabrera, Trillo, Ascó y Vandellós, Santa María de Garoña, Cofrentes y Almaraz.
-
-En cuanto a los riesgos químicos, la **Decisión de la Comisión de 2 de diciembre de 2008** y la **Directiva 2012/18/UE (SEVESO III)** regulan el control de accidentes graves con sustancias peligrosas. En España, el **Real Decreto 1254/1999** y sus modificaciones (**Real Decreto 119/2005**, **Real Decreto 948/2005**, **Real Decreto 560/2010**) establecen medidas para el control de riesgos en accidentes graves, complementadas por la **Directriz Básica de Protección Civil** para estos eventos y la **Orden PRE/1206/2014**.
-
-Finalmente, el transporte de mercancías peligrosas se rige por el **Real Decreto 1070/2012**, que aprueba el Plan estatal de protección civil ante el riesgo químico, y la **Orden INT/3716/2004**, que publica las fichas de intervención para emergencias en carretera y ferrocarril, así como el **ADR (Acuerdo Europeo sobre el Transporte Internacional de Mercancías Peligrosas por Carretera)**, el **RID** para ferrocarril, el **ADN** para vía navegable, el **IATA-OACI** para aviación y el **IMO-IMDG** para transporte marítimo. Estos marcos normativos aseguran una respuesta coordinada y eficiente.
-
-## Conceptos Fundamentales de la Materia y sus Propiedades Físico-Químicas
-
-Para comprender la naturaleza y el comportamiento de las sustancias químicas en situaciones de emergencia, es esencial dominar los conceptos básicos de la materia. Todo lo que nos rodea, perceptible o no, está compuesto de materia, que posee masa y ocupa un volumen. La unidad fundamental de la materia es el **átomo**, la partícula más pequeña de un elemento químico que conserva sus propiedades. Cada átomo se compone de un **núcleo** central, que agrupa protones (partículas con carga eléctrica positiva y masa significativa) y neutrones (partículas sin carga eléctrica y masa comparable a la del protón). Alrededor de este núcleo orbitan los **electrones**, partículas con carga eléctrica negativa y una masa aproximadamente 2000 veces inferior a la de protones y neutrones.
-
-El **número atómico (Z)**, definido por la cantidad de protones en el núcleo, identifica un elemento químico, mientras que el **número másico (A)** representa la suma total de protones y neutrones. Los átomos de un mismo elemento con diferente número de neutrones se denominan **isótopos**, como el protio, deuterio y tritio en el hidrógeno. Aquellos átomos con un desequilibrio de neutrones poseen núcleos inestables que se desintegran espontáneamente, emitiendo **radiaciones**. Por otro lado, un átomo con un exceso o déficit de electrones se convierte en un **ion**, adquiriendo carga negativa o positiva, respectivamente.
-
-### Moléculas, Elementos y Compuestos Químicos
-
-Las **moléculas** son agrupaciones de átomos que exhiben propiedades físico-químicas específicas. Pueden estar constituidas por un solo tipo de átomo (como el oxígeno o el ozono) o por varios (como el agua, H₂O). Un **elemento químico** es una sustancia compuesta exclusivamente por un tipo de átomo (ej., oxígeno, hidrógeno), mientras que un **compuesto químico** se forma por la unión de átomos de diferentes elementos, representándose mediante fórmulas químicas (ej., H₂O, CO₂).
-
-### Estados de Agregación y Cambios de Estado
-
-La materia puede presentarse en tres estados fundamentales: **sólido, líquido y gaseoso**. Estos estados dependen de las condiciones externas de presión y temperatura. Por ejemplo, el agua es líquida a 20°C y 1 atm de presión, mientras que el oxígeno es gaseoso y la madera es sólida en estas condiciones. La temperatura es un factor crítico, ya que influye en la energía de las moléculas, la fuerza de cohesión y el movimiento de las partículas; un aporte suficiente de energía puede inducir un cambio de estado.
-
-Los **cambios progresivos** de estado, que ocurren con la absorción de energía, incluyen:
-*   La **fusión**, que transforma un sólido en líquido al alcanzar su punto de fusión. El volumen generalmente aumenta durante la fusión (excepto en el agua, hierro y bismuto), y la presión puede modificar el punto de fusión.
-*   La **vaporización** (o evaporación), que convierte un líquido en gas. Este proceso ocurre de manera progresiva, con la ebullición como una vaporización rápida y masiva que afecta a todo el volumen del líquido al alcanzar la temperatura de ebullición.
-*   La **sublimación**, que transforma directamente un sólido en gas sin pasar por el estado líquido, como sucede con el hielo seco (dióxido de carbono sólido).
-
-Por otro lado, los **cambios regresivos**, que se producen al liberar energía, incluyen:
-*   La **solidificación**, que transforma un líquido en sólido, ocurriendo a la misma temperatura que la fusión.
-*   La **condensación**, que convierte un gas en líquido. La **licuefacción** es un proceso similar que ocurre por aumento de presión.
-*   La **sublimación regresiva**, que transforma directamente un gas en sólido, como la formación de nieve carbónica al descargar un extintor de CO₂.
-
-### Propiedades Físicas de las Sustancias
-
-Las propiedades físicas, a diferencia de las químicas, pueden medirse y observarse sin alterar la composición de la sustancia. Son cruciales para prever el comportamiento de los materiales en una emergencia.
-
-#### Densidad y Densidad Relativa
-La **densidad (ρ)** es una magnitud escalar que cuantifica la masa de una sustancia por unidad de volumen (ej., kg/m³ o g/cm³). La **densidad relativa** es la relación entre la densidad de una sustancia y la de una sustancia de referencia (agua líquida a 4°C y 1 atm para líquidos y sólidos, aire a 0°C y 1 atm para gases). En los líquidos y gases, la densidad varía con la temperatura y la presión. Por ejemplo, la gasolina flota en el agua (densidad relativa < 1) pero sus vapores son más densos que el aire y se acumulan a ras de suelo.
-
-#### Presión de Vapor
-La **presión de vapor** es la presión a la cual las fases líquida y gaseosa de una sustancia están en equilibrio a una temperatura dada. Un aumento de temperatura incrementa la presión de vapor, lo que a su vez eleva la volatilidad y reduce el punto de ebullición de los líquidos. Esto es fundamental en incidentes con fugas de productos líquidos, ya que puede potenciar la formación de nubes de vapor.
-
-#### Solubilidad
-La **solubilidad** es la capacidad de una sustancia para disolverse en otra, influenciada por la temperatura, la presión y la naturaleza del soluto y el disolvente. Los sólidos generalmente aumentan su solubilidad con la temperatura, mientras que los gases la disminuyen. Las sustancias polares (hidrosolubles o hidrófilas) se disuelven bien en agua, a diferencia de las apolares (hidrófobas).
-
-#### Viscosidad
-La **viscosidad** es la resistencia de un gas o líquido a fluir (ej., Poise, Pa·s). Es inversamente proporcional a la temperatura. Una sustancia muy viscosa se propaga con dificultad, facilitando la contención de derrames, mientras que una poco viscosa se dispersa rápidamente.
-
-#### Conductividad Eléctrica
-La **conductividad eléctrica** es la capacidad de una sustancia para conducir corriente eléctrica, dependiente de su estructura atómica-molecular y la temperatura. Se clasifica en superconductores, conductores, semiconductores y dieléctricos (aislantes). La electricidad estática, generada por fricción o separación de materiales, puede acumular carga y provocar chispas capaces de iniciar igniciones en atmósferas explosivas.
-
-### Propiedades Químicas de las Sustancias
-
-Las **propiedades químicas** se manifiestan cuando una sustancia se transforma en otra a través de una reacción química, un proceso generalmente irreversible donde los átomos reconfiguran sus moléculas. La tabla periódica clasifica los elementos por su número atómico y valencia, ofreciendo información crucial sobre su reactividad, pH, oxidación, reducción y poder calorífico.
-
-#### Factor pH
-El **pH** mide la concentración de iones de hidrógeno en una escala de 0 a 14. El valor 7 indica neutralidad. Las sustancias con pH entre 0 y 7 son **ácidos** (ej., ácido clorhídrico), que corroen y queman la piel, conduciendo electricidad en disolución. Las **bases** (pH entre 7 y 14, ej., hidróxido de sodio) tienen propiedades opuestas a los ácidos. La fortaleza de un ácido o base depende de su grado de disociación en agua.
-
-#### Inflamabilidad
-La **inflamabilidad** se evalúa por el **rango de inflamabilidad** (concentración de vapor en aire para que ocurra ignición), el **punto de inflamación** (temperatura mínima a la que un líquido emite vapores inflamables) y la **energía mínima de ignición (EMI)** (energía necesaria para encender una mezcla inflamable). Una baja EMI y un amplio rango de inflamabilidad indican mayor peligrosidad.
-
-#### Toxicología
-La **toxicología** estudia los efectos nocivos de sustancias en seres vivos. El **riesgo para la salud** es una función de la exposición (tiempo y concentración) y la toxicidad intrínseca de la sustancia. La **dosis** es la cantidad de sustancia que afecta al organismo, pudiendo ser dosis de exposición o absorbida. La **dosis letal 50 (DL50)** es la dosis que causa la muerte al 50% de una población animal, mientras que la **dosis efectiva 50 (DE50)** produce un efecto específico en el 50% sin causar la muerte. El **NOEL (Nivel de Efecto No Observado)** es el nivel más alto sin efectos adversos. Los efectos pueden ser agudos (inmediatos) o crónicos (prolongados).
-
-#### Reactividad
-La **reactividad química** determina la capacidad de las sustancias para reaccionar entre sí. Los elementos con órbitas electrónicas incompletas son más reactivos. Las reacciones pueden manifestarse por cambios de color, formación de sólidos, burbujas, liberación o absorción de calor, o generación de llamas.
-
-#### Clasificación de Sustancias Peligrosas según ADR (clases 1 a 9)
-La legislación ADR clasifica las mercancías peligrosas en clases según sus propiedades intrínsecas:
-*   **Clase 1: Materias y objetos explosivos:** Riesgo principal de explosión por aumento de temperatura, chispas o impacto. Se subdividen según su grado de peligro (1.1 a 1.6).
-*   **Clase 2: Gases:** Su estado gaseoso les confiere comportamientos peligrosos. Se clasifican en asfixiantes, comburentes, inflamables, tóxicos, corrosivos, entre otros.
-*   **Clase 3: Líquidos inflamables:** Puntos de inflamación igual o inferior a 60°C.
-*   **Clase 4.1: Materias sólidas inflamables, autorreactivas y explosivas desensibilizadas:** Inflamables por contacto con una fuente de ignición.
-*   **Clase 4.2: Materias que pueden experimentar inflamación espontánea:** Se inflaman espontáneamente al contacto con el aire.
-*   **Clase 4.3: Materias que en contacto con el agua desprenden gases inflamables:** Producen gases inflamables y explosivos al reaccionar con agua.
-*   **Clase 5.1: Materias comburentes:** Provocan incendios o explosiones al favorecer la combustión de otras materias.
-*   **Clase 5.2: Peróxidos orgánicos:** Riesgo de ignición y explosión, con capacidad oxidante. Algunos requieren control de temperatura (**TDAA** y **MMST**).
-*   **Clase 6.1: Materias tóxicas:** Causan daño a personas por inhalación, ingestión o contacto cutáneo, clasificándose por nivel de peligrosidad (I a III).
-*   **Clase 6.2: Materias infecciosas:** Contienen agentes patógenos (virus, bacterias, hongos, parásitos) que causan enfermedades.
-*   **Clase 7: Materias radiactivas:** Emiten radiaciones ionizantes. Su manejo requiere blindaje, distancia y tiempo de exposición limitados.
-*   **Clase 8: Materias corrosivas:** Dañan tejidos vivos y materiales, especialmente metales.
-*   **Clase 9: Materias y objetos peligrosos diversos:** Incluyen amianto, pilas de litio, etc., con riesgos diversos pero generalmente menos severos que las clases anteriores.
-
-El ADR establece un orden de peligrosidad para las clases (radiactivos, explosivos, gases, etc.) para priorizar la protección en intervenciones.
-
-### Recipientes de Transporte y Almacenaje: Afección en Siniestros
-
-La tipología y características de los recipientes que transportan o almacenan mercancías peligrosas son cruciales para determinar los peligros asociados y las técnicas de intervención. El ADR regula estos envases según el tipo de mercancía, su estado (líquido, gas, sólido) y las condiciones de presión y temperatura.
-
-#### Tipos de Recipientes:
-*   **Bultos:** Las mercancías peligrosas se transportan envasadas en cajas, botellas, jerricanes o bidones.
-*   **Cisternas:** Son el propio vehículo o contenedor con un depósito diseñado para gases o líquidos.
-*   **A Granel:** El vehículo transporta sólidos sin envasar.
-
-#### Bidones, Jerricanes y Cajas:
-Estos recipientes, usados para transportar bultos, varían en material (metal, plástico, cartón) y capacidad. Los bidones cilíndricos no exceden los 400 kg. Los jerricanes rectangulares o poligonales tienen una capacidad de 60 o 120 kg. Las cajas, con lados compactos, no superan los 400 kg (60 kg si son de plástico expandido).
-
-#### Sacos, Embalajes Compuestos y Metálicos Ligeros:
-Los sacos, flexibles y de papel, plástico o textil, tienen una capacidad máxima de 50 kg. Los embalajes compuestos, formados por un recipiente interior (plástico, vidrio, porcelana) y uno exterior (metal, cartón, madera), forman un todo inseparable. Los metálicos ligeros, de chapa fina (menos de 0,5 mm), son de sección circular, elíptica o cónica.
-
-#### Grandes Recipientes para Granel (GRG/IBC):
-Son embalajes rígidos o flexibles, transportables, con capacidad superior a 450 litros para gases. Su capacidad máxima es de 3 m³ para sólidos y líquidos (grupos II y III), 1.5 m³ para sólidos (grupo I) en flexibles, y 3 m³ para sólidos (grupo I) en metálicos. Se diseñan para soportar esfuerzos de manipulación y transporte.
-
-#### Aerosoles:
-Son recipientes no recargables (metal, vidrio, plástico) con un gas comprimido, licuado o disuelto que expulsa el contenido. Su capacidad no supera los 1000 ml (metal) o 500 ml (sintético/vidrio).
-
-#### Recipientes a Presión (Gases):
-Específicamente para almacenar fluidos a presión. Se fabrican en metal (acero, inoxidable, cobre, aluminio) o vidrio (ampollas), generalmente cilíndricos. Incluyen:
-*   **Botellas:** Hasta 150 litros (ej., bombonas de butano o propano). Las válvulas Kosangas controlan la presión y evitan explosiones.
-*   **Bloques de botellas:** Conjuntos de botellas unidas por una tubería colectora y armazón metálico, para grandes cantidades de gas a alta presión.
-*   **Tubos:** Recipientes a presión sin soldaduras, de 150 a 3000 litros.
-*   **Recipientes criogénicos:** Presurizados y térmicamente aislados para gases licuados refrigerados (ej., oxígeno, nitrógeno, dióxido de carbono), hasta 1000 litros.
-*   **Bidones a presión:** Recipientes cilíndricos soldados de 150 a 1000 litros.
-
-#### Transporte en Cisternas:
-Definidas por el ADR como depósitos con sus equipos, incluyen contenedores cisterna, cisternas portátiles, desmontables y fijas. Su estructura, con mamparos, anillos de refuerzo y rompeolas, está diseñada para soportar cargas y esfuerzos, y su estanqueidad se verifica con pruebas de presión hidráulica. Los materiales varían (acero al carbono, inoxidable, aluminio, plásticos reforzados) según la mercancía transportada y la resistencia requerida.
-
-#### Elementos de Seguridad en Cisternas:
-Las cisternas disponen de equipos para asegurar su uso y responder a emergencias:
-*   **Boca de hombre:** Permite acceso para limpieza, inspección y carga por gravedad. Puede incluir válvulas de cinco efectos, recuperación de gases, orificios de medición y tapines.
-*   **Orificio de limpieza:** En la parte inferior, sobre el nivel del líquido.
-*   **Válvula de seguridad por depresión:** Protege contra el vacío, evitando el agrietamiento de la cisterna.
-*   **Disco de ruptura:** Alivia la presión máxima de servicio, estallando o venteando para evitar roturas.
-*   **Válvula de seguridad por presión:** Dispositivo automático que protege contra sobrepresiones.
-*   **Válvula de cinco efectos:** Incluye aireación (90-55 mbar), sobrepresión (220-275 mbar), depresión (10-15 mbar), antivuelco (cierra a 27º-37º) y apagallamas.
-
-La **ruptura de recipientes** es uno de los mayores peligros en intervenciones NRBQ. Las explosiones generan ondas de presión, proyectiles y, en caso de líquidos inflamables, bolas de fuego o nubes de vapor tóxicas. Las roturas pueden ser dúctiles (pocos fragmentos grandes) o frágiles (numerosos fragmentos pequeños).
-
-#### Contenedores:
-Elementos de transporte permanentes, robustos y diseñados para manipulación y estiba. Su volumen interior no es inferior a 1 m³. Pueden ser abiertos, cerrados o con toldos. Un nuevo modelo es el **flexitank**, una bolsa de plástico de hasta 24.000 litros para líquidos a granel no peligrosos.
-
-### Reconocimiento e Identificación de Mercancías Peligrosas
-
-La rápida identificación de sustancias y materiales peligrosos es crucial en cualquier intervención para evaluar el impacto potencial y aplicar las medidas de seguridad adecuadas.
-
-#### Panel Naranja y Número ONU:
-Los vehículos que transportan mercancías peligrosas deben llevar **paneles naranjas** retroreflectantes (40x30 cm), a menudo divididos en dos partes. La parte superior indica el **Número de Identificación de Peligro (NIP)**, un código de dos o tres dígitos que señala los principales peligros (ej., emanación de gases, inflamabilidad, toxicidad, corrosividad). La parte inferior muestra el **Número ONU**, un código de cuatro dígitos que identifica la sustancia. Los contenedores y cisternas también deben portar estos paneles.
-
-#### Placas y Etiquetas:
-Además de los paneles, los bultos y vehículos deben llevar **etiquetas de peligro** (10x10 cm, romboidales) y **placas-etiquetas** (25x25 cm) que identifican rápidamente la materia y sus riesgos. Los **colores** son característicos de cada peligro (ej., rojo para inflamable, amarillo para oxidante, verde para gas no inflamable). Los **logotipos corporativos** y el **tipo de transporte/forma del contenedor** también proporcionan indicios.
-
-#### Identificación de Tuberías y Botellas:
-Las tuberías en instalaciones industriales se identifican cromáticamente según la norma DIN 2403, con un **color básico** para la naturaleza del fluido y un **color complementario** para su estado (ej., verde oscuro o azul para agua potable). Las **botellas de gases** se identifican por el color de su ojiva (ej., blanco para oxígeno, rojo para hidrógeno).
-
-#### Uso de los Sentidos y Aparatos de Detección:
-Aunque la **vista** es el sentido más importante (83% de la información), el **oído** puede detectar fugas o explosiones. El **olfato** puede indicar olores característicos (picante, agrio, almendras amargas), pero siempre bajo protección respiratoria.
-
-Los **aparatos de detección y medida** son esenciales:
-*   **Explosímetros/Medidores de oxígeno:** Detectan y cuantifican vapores y gases inflamables. Requieren calibración y factores de corrección específicos.
-*   **Tubos colorimétricos:** Viales con preparación química que cambia de color al reaccionar con una sustancia, indicando su concentración (ppm o porcentaje).
-*   **Cámaras térmicas:** Detectan radiación infrarroja para mostrar la temperatura superficial de objetos, útiles para identificar niveles de líquidos en cisternas o zonas calientes en incendios.
-*   **Radiámetros/Dosímetros de radiación:** Miden la intensidad de la radiación ionizante (rayos X, gamma, alfa, beta) y la tasa de dosis (μSv/h, cps). Permiten establecer zonas de seguridad (caliente, templada, fría).
-*   **Medidores de pH:** Miden la concentración de iones de hidrógeno para clasificar sustancias como ácidas o básicas.
-
-#### Documentación:
-Las **cartas de porte** (ADR) son documentos obligatorios que certifican el transporte de mercancías peligrosas, detallando el número de envases, cantidad y tipo de mercancía. Las **fichas de datos de seguridad (FDS/MSDS)** y las **fichas de intervención (ERIC)** proporcionan información sobre peligros, composición, primeros auxilios, medidas de lucha contra incendios y manipulación. Para las intervenciones radiológicas, el Consejo de Seguridad Nuclear (CSN) proporciona directrices.
-
-En situaciones de emergencia, la información es dinámica y requiere una **valoración continua** para ajustar las tácticas.
+*   **Cisterna cerrada herméticamente:** Cisterna designada para el transporte de líquidos con una presión de cálculo mínima de 4 bar, o de materiales sólidos (pulverulentos o granulares) con cualquier presión de cálculo, cuyas aberturas pueden sellarse de forma hermética, y que:
+    *   No dispone de válvulas de seguridad, discos de ruptura, ni otros dispositivos de seguridad o depresión.
+    *   No tiene válvulas de seguridad, discos de ruptura o dispositivos similares, pero sí está equipada con válvulas de depresión.
+    *   Cuenta con válvulas de seguridad precedidas por un disco de ruptura, pero carece de válvulas de depresión.
+    *   Posee válvulas de seguridad precedidas por un disco de ruptura, y también válvulas de depresión.
+*   **Clases ADR:** Sistema de clasificación de mercancías peligrosas en 13 grupos, basado en sus características y riesgos inherentes.
+*   **Comburente:** Sustancia que facilita la combustión al aportar oxígeno, manteniéndola o intensificándola.
+*   **Combustible:** Sustancia con capacidad de reaccionar y generar calor o energía.
+*   **Combustible nuclear:** Material que ha sido modificado para su empleo en la generación de energía nuclear.
+*   **Condiciones normales:** Parámetros de presión (1 atm) y temperatura (21ºC) utilizados para definir las características de las sustancias.
+*   **Conexión equipotencial:** Enlace entre dos partes conductoras para prevenir una diferencia de potencial significativa que pudiera ser causada por una corriente.
+*   **Contador:** Equipo diseñado para medir la energía eléctrica. Se localiza en la centralización de contadores (en el portal de la finca, en un cuarto específico o no) o en la Caja General de Protección para viviendas unifamiliares.
+*   **Contaminación radiactiva:** Presencia de sustancias radiactivas en superficies, en cantidades que exceden 0.4 Bq/cm² para emisores beta, gamma y alfa de baja toxicidad.
+*   **CSN (Consejo de Seguridad Nuclear):** Institución pública española, independiente de la Administración General del Estado, encargada de velar por la seguridad nuclear y la protección radiológica de las personas y el medio ambiente.
+*   **Cuadro de mando y protección (CMP):** Cuadro eléctrico situado cerca de la entrada o en la parte superior de la cocina. Integra los dispositivos de protección de los circuitos de la vivienda, como el Interruptor de Control de Potencia (ICP), el Interruptor Diferencial (ID) y los Pequeños Interruptores Automáticos (PIA).
+*   **Cuerda semiestática:** Cuerda empleada para unir el árbol al tractel cuando la longitud del cable estándar (20 m) es insuficiente para mantener la distancia de seguridad.
+    *   **Características:** Tipo A.
+    *   **Dimensiones:** Grosor de 10 a 16 mm.
+    *   **Usos:** Principalmente en rescates y trabajos verticales.
+    *   **Resistencia:** Soporta una fuerza mínima de 1.500 kg durante tres minutos, según la Norma EN 1891 (que considera un nudo de ocho). Sin nudo, la resistencia es superior (2.200 kg).
+    *   **Precaución:** Se prefiere usar cuerda en lugar de cable cerca de instalaciones eléctricas para evitar posibles derivaciones al tractel y al bombero.
+*   **Cuñas:** Elementos de madera o material sintético utilizados para taponar envases o cisternas.
+*   **Defensiva:** Táctica orientada a controlar la progresión de un incidente minimizando riesgos.
+*   **Deflagración:** Reacción química de combustión con ondas de presión que se propagan a una velocidad entre 1 y 340 m/seg.
+*   **Densidad:** Relación entre la masa y el volumen de un cuerpo, expresada en gr/cm³.
+*   **Densidad relativa:** Comparación de la densidad de una sustancia con respecto a una densidad de referencia (agua o aire atmosférico). Es una magnitud adimensional.
+*   **Depósito:** Envoltura que contiene una materia, incluyendo los sistemas de apertura y obturación.
+*   **Derivación individual:** Segmento de la instalación que se extiende desde la Línea General de Alimentación (LGA) hasta la instalación del usuario.
+*   **Detectores de gases:** Aparatos que identifican la presencia de gas en el ambiente y emiten una señal óptica o acústica al alcanzar una concentración preestablecida.
+*   **Detonación:** Propagación de ondas de presión en una reacción de combustión. Si la velocidad supera los 340 m/seg, se denomina explosión.
+*   **Diamante de peligro:** Sistema de etiquetado para productos químicos peligrosos, conforme a la normativa NFPA.
+*   **Dilatación:** Aumento de la longitud, superficie o volumen de un cuerpo, causado por la separación molecular y resultando en una disminución de su densidad.
+*   **Efecto dominó:** Encadenamiento de sucesos que amplifican las consecuencias iniciales. Los peligros pueden afectar elementos vulnerables externos (recipientes, tuberías, equipos), provocando nuevas fugas o incendios.
+*   **Efracción:** Habilidad de un producto para resistir intentos de entrada forzada, usando fuerza física o herramientas predefinidas, en un espacio o sala protegida.
+*   **Elementos vulnerables:** Personas, el medio ambiente o bienes que pueden sufrir daños significativos como resultado de un accidente.
+*   **Embalaje:** Recipiente que incluye todos los elementos o materiales necesarios para cumplir su función de retención.
+*   **Embarrado:** Conjunto de barras metálicas que distribuyen la tensión a los diferentes módulos de un sistema eléctrico, situadas a la salida del seccionador o interruptor. Incluye fusibles de corte y protección para cada derivación de abonado (contador).
+*   **Espuma:** Agente extintor compuesto por un aglomerado estable de burbujas (espumógeno mezclado con agua y aire/gas). Se extiende sobre la superficie del combustible para impedir el contacto con el oxígeno y eliminar la emisión de vapores.

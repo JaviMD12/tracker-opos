@@ -1,55 +1,99 @@
-## Fuentes de Energía y Sistemas de Seguridad en Vehículos para Rescate
+## Temario de Oposiciones de Bomberos y Emergencias: Rescate y Salvamento
 
-La gestión de accidentes de tráfico requiere un conocimiento exhaustivo de las diversas fuentes de energía y sistemas de seguridad integrados en los vehículos modernos. Estos elementos son cruciales para garantizar la seguridad tanto de los ocupantes como del personal de rescate.
+### Parte 5: Rescate en Accidentes de Tráfico
 
-### Fuentes de Energía Motriz
+#### Capítulo 2: Técnicas de Intervención
 
-La evolución tecnológica ha introducido una amplia gama de combustibles y sistemas de propulsión, más allá de los tradicionales. Es fundamental comprender sus características y riesgos asociados.
+##### 2.4.5. Localización de la(s) batería(s)
 
-#### 1. Motores de Combustión Convencional (Gasolina y Gasoil)
-Los motores térmicos se clasifican en los de **explosión** (gasolina, gas, alcohol o hidrógeno) y los de **combustión interna o diésel** (gasoil, biodiésel). Aunque sus principios son similares, los diésel son preferidos para grandes potencias. Los depósitos de combustible suelen estar protegidos y equipados con válvulas inerciales para prevenir derrames en caso de vuelco. El principal riesgo es el incendio, por lo que es vital identificar el tipo de combustible para aplicar las tácticas de extinción adecuadas.
+**Consideraciones generales:**
 
-#### 2. Vehículos de Gas (GLP y GNC)
-El uso de gases como **Gas Licuado de Petróleo (GLP)** y **Gas Natural Comprimido (GNC)** ha aumentado por sus beneficios económicos y medioambientales. El GNC se compone mayoritariamente de metano y se almacena a alta presión (aproximadamente 200 bar), lo que requiere tanques robustos y pesados. En contraste, el GLP (mezcla de butano y propano) se almacena a presiones más bajas (6-7 bar) en tanques más ligeros.
-*   **Riesgos:** Ambos son inflamables. El GNC es más ligero que el aire y tiende a ascender, mientras que el GLP es más pesado y se acumula a ras de suelo, lo que lo hace más peligroso en espacios confinados.
-*   **Sistemas de seguridad:** Incluyen válvulas de cierre de seguridad (eléctricas o mecánicas), cortocircuitos fusibles (se activan a 110 °C), limitadores de caudal y caperuzas de goma que ventilan el gas de forma controlada. La identificación se realiza por etiquetas "CNG" o por la ubicación de los tanques (en el techo de autobuses).
+*   Las baterías auxiliares de 12V son un componente esencial para el funcionamiento de los sistemas eléctricos del vehículo y pueden activarlos o desactivarlos.
+*   Es crucial conocer la ubicación y funcionamiento de las baterías para una intervención segura.
+*   Los componentes de alto voltaje no deben manipularse bajo ninguna circunstancia debido a las tensiones elevadas que pueden contener.
+*   Estos elementos están claramente identificados con distintivos específicos.
 
-#### 3. Vehículos Eléctricos e Híbridos
-Estos vehículos emplean la electricidad como fuente de energía, ya sea de forma exclusiva o combinada con un motor de combustión. Son eficientes y silenciosos, pero presentan desafíos específicos para el rescate debido a sus **sistemas de alto voltaje** (hasta 650 V).
-*   **Componentes:** Suelen incluir un motor térmico (gasolina/diésel), un motor eléctrico, un generador y baterías (plomo-ácido de 12V, 42V, o alta tensión Ni-MH/ión-litio). Las baterías de alta tensión suelen estar en la parte trasera o en el techo, identificadas con **cables de color naranja y adhesivos de advertencia**.
-*   **Riesgos:** Principalmente eléctricos (arcos voltaicos, quemaduras graves) y de incendio.
-*   **Precauciones:** Nunca cortar cables de alto voltaje ni manipular conectores HV. Evitar el uso de herramientas de corte o compresión en zonas con cables o componentes de alto voltaje (por ejemplo, taloneras o pasos de rueda).
+**Riesgos asociados al desembornado de baterías:**
 
-#### 4. Vehículos de Hidrógeno
-Los vehículos propulsados por hidrógeno (FCHV) emiten solo vapor de agua, pero su almacenamiento a alta presión (300-700 bar a -230 °C) en tanques de fibra de carbono o su generación a partir de alcoholes o pilas de combustible, presentan riesgos específicos.
-*   **Riesgos:** El hidrógeno es altamente inflamable (rango 4-75% de inflamabilidad, energía de activación de 0.02) y su despresurización rápida puede causar calentamiento e ignición. Arde con llamas invisibles. Existe riesgo de explosión si se acumula gas.
-*   **Sistemas de seguridad:** Incluyen válvulas de cierre, dispositivos de vaciado, elementos fusibles, y protección contra altas temperaturas (válvulas que abren a 110 °C). Los componentes de alto voltaje están señalizados con color naranja.
-*   **Precauciones:** Desactivar el circuito de hidrógeno, mantener lejos fuentes de ignición y evitar espacios cerrados. No cortar ni deformar la carrocería en zonas con tuberías de hidrógeno.
+*   **Cortocircuitos:** No se deben colocar objetos metálicos sobre la batería, ya que un cortocircuito puede inflamar la mezcla de gases explosivos. En vehículos pesados, los cortocircuitos en las baterías implican riesgos de lesiones por descarga debido a la alta tensión e intensidad.
+*   **Cargas electrostáticas:** Evitar frotar la batería con paños, ya que la electricidad estática puede causar una chispa y una explosión. Para prevenir esto, se recomienda tocar la carrocería del vehículo antes de manipular la batería.
+*   **Acumulación de gas oxhídrico:** En compartimentos de baterías cerrados (como en autobuses), puede acumularse gas oxhídrico, lo que genera riesgo de explosión al desconectar la batería.
+*   **Ácido cáustico:** El ácido de las baterías es altamente corrosivo. Es fundamental usar guantes y protección ocular para evitar el contacto con piel, ojos o ropa. En caso de salpicaduras, lavar inmediatamente con agua limpia.
+*   **Inclinación:** Evitar inclinar las baterías durante el trabajo para prevenir el escape de ácido por las aberturas de desgasificación.
 
-### Gestión de Baterías y Desconexión del Sistema Eléctrico
+**2.4.7. Comprobación de la ausencia de tensión**
 
-La correcta gestión de la batería es fundamental en cualquier intervención, ya que desactiva los sistemas eléctricos y reduce el riesgo de incendio.
+*   Si, después de desconectar las baterías, las luces de advertencia intermitentes permanecen encendidas, esto indica la presencia de una batería adicional que debe ser localizada y desconectada.
+*   Si no es posible desconectar algunas baterías, se debe proceder con extrema precaución, considerando los riesgos inherentes a la aproximación y excarcelación.
 
-#### Ubicación de Baterías
-*   **Vehículos convencionales:** La batería de 12V (plomo-ácido) se ubica generalmente en el compartimento del motor, aunque en algunos modelos nuevos puede estar bajo el asiento trasero, en el maletero o en el guardabarros delantero.
-*   **Vehículos pesados (camiones y autobuses):** Suelen tener dos baterías de 12V en serie (24V) de gran capacidad. En camiones, pueden estar a los lados del bastidor o en los largueros. En autobuses, se sitúan en el compartimento de pasajeros o bajo el suelo del conductor, a menudo en carros extraíbles.
-*   **Vehículos híbridos/eléctricos:** Además de la batería de 12V, poseen baterías de alta tensión ubicadas en el suelo del maletero, bajo los asientos traseros o en el techo.
+**2.5. Técnicas específicas de aseguramiento de la zona cuando hay vehículos especiales implicados**
 
-#### Procedimiento de Desconexión de Baterías
-Antes de desconectar las baterías, es esencial asegurarse de que se han completado todas las operaciones que requieran energía eléctrica (ventanas, asientos, etc.), ya que estos sistemas dejarán de funcionar.
-1.  **Parar el motor:** En vehículos de arranque sin llave, poner la palanca selectora en "P" o "N" y pulsar el botón START/STOP. En vehículos pesados, puede haber un pulsador adicional en el compartimento del motor.
-2.  **Desconectar la batería de 12V:** Primero se debe soltar la conexión a **masa o terminal negativo**. Desconectar primero el polo positivo puede generar chispas. Es importante desconectar todas las baterías presentes, incluyendo las auxiliares.
-3.  **Gestionar cables:** Mantener unidos los cables positivo y negativo para descargar tensiones residuales de condensadores, evitando nuevas conexiones con cinta. No cortar los cables de la batería a menos que sea estrictamente necesario.
-4.  **Vehículos híbridos/eléctricos:** Si el vehículo es híbrido o eléctrico, además de la batería de 12V, se debe desconectar el **enchufe de alto voltaje (HV)** de la batería, que suele ser de color naranja. El proceso de desconexión completa el circuito de alta tensión en aproximadamente 5 segundos, aunque la descarga pasiva puede tardar hasta 6 minutos.
+*   Los vehículos híbridos presentan riesgos adicionales, lo que exige que los profesionales estén actualizados en equipos y técnicas de intervención.
 
-#### Riesgos Asociados a la Desconexión de Baterías
-*   **Cortocircuitos:** El contacto de objetos metálicos con los terminales de la batería puede provocar chispas y la ignición de la mezcla de gases interna, con riesgo de explosión, especialmente en baterías de vehículos pesados debido a la alta tensión y corriente.
-*   **Explosión por carga electrostática:** Frotar la batería con trapos puede generar chispas y riesgo de explosión. Para evitarlo, se recomienda tocar la carrocería del vehículo desde fuera.
-*   **Acumulación de gas oxhídrico:** En compartimentos de baterías cerrados (como en autobuses), este gas explosivo puede acumularse.
-*   **Ácido cáustico:** El electrolito de las baterías es corrosivo. Evitar el contacto con piel, ojos o ropa y enjuagar con abundante agua si ocurre. No inclinar las baterías.
+**2.5.1. Turismos eléctricos / híbridos**
 
-#### Verificación de Ausencia de Tensión
-Después de desconectar la batería, si las luces de advertencia o intermitentes persisten, indica la presencia de una batería adicional que debe ser localizada y desconectada. Si la desconexión es imposible, se debe proceder con extrema precaución, conscientes de los riesgos que persisten.
+*   **Identificación:** La identificación de un vehículo híbrido o eléctrico puede ser compleja. Se observan indicadores como la conexión de carga eléctrica, cables de alto voltaje de color naranja, adhesivos de advertencia en componentes eléctricos, el indicador de carga en el panel de instrumentos, identificaciones en el salpicadero y la ausencia de un sistema de escape.
+*   **Verificación del motor:** No se debe confiar únicamente en el ruido para determinar si el motor de un coche híbrido o eléctrico está funcionando, ya que pueden ser silenciosos. Se debe verificar el estado del motor en el cuadro de mandos o mediante el botón de arranque/parada.
 
-### Hoja de Rescate
-Para facilitar la actuación de los equipos de rescate, los fabricantes de vehículos elaboran **hojas de rescate**. Estos documentos, de tamaño A4 y a color, contienen información crucial sobre el vehículo, incluyendo la localización de componentes de seguridad (airbags, pretensores, baterías de alto voltaje) y puntos de corte seguros. Se recomienda imprimirlas y guardarlas en el parasol del asiento del conductor, o portar una pegatina identificativa en la luna del vehículo para una rápida identificación. Estas hojas son esenciales para un rescate rápido, prudente y efectivo de las personas atrapadas.
+**a) Actuación en caso de incendio**
+
+*   **Baterías de iones de litio (alto voltaje):** En caso de incendio, estas baterías producen una reacción térmica rápida, no una explosión. Es vital supervisar la batería con una cámara térmica.
+*   **Inflamabilidad:** El litio es altamente reactivo y sus componentes son muy inflamables. El daño mecánico puede causar cortocircuitos internos y la alta corriente puede deteriorar la caja, con el riesgo de que el incendio se inicie tiempo después del impacto.
+*   **Seguridad tecnológica:** La tecnología actual incorpora dispositivos de seguridad mecánicos que se abren por aumento de presión o temperatura en caso de incendio, permitiendo una desgasificación controlada y reduciendo la presión para evitar explosiones.
+*   **Extinción:** Atacar el fuego con gran cantidad de agua para enfriar la batería y prevenir reacciones. Si el fuego está en la zona de las baterías de alto voltaje (HV), usar CO2 o extinción defensiva. No romper ni retirar las cubiertas de las baterías HV, incluso en caso de incendio.
+*   **Derrames:** No confundir derrames de electrolito de batería de 12V (ácido sulfúrico líquido) con derrames de batería híbrida (hidróxido de potasio en gel).
+*   **Ruidos:** Los ruidos provenientes de la batería de alto voltaje durante la extinción son normales (válvulas de seguridad) y no implican riesgo.
+*   **Monitoreo:** Controlar continuamente la temperatura de la batería HV con una cámara térmica para detectar reacciones químicas o eléctricas.
+
+**b) Riesgo eléctrico**
+
+*   **Persistencia:** El peligro eléctrico se mantiene incluso después de un incendio.
+*   **Distancia de seguridad:** Es fundamental respetar distancias de seguridad (hasta 1000V) y señalizar líneas de alta tensión accesibles para evitar contacto con herramientas o estabilizadores, ya que suelen estar calientes.
+*   **Desconexión automática:** La desconexión de encendido suele desconectar automáticamente el motor de combustión y la batería HV cuando se activan los airbags o los pretensores del cinturón, o si el polo negativo de la batería de 12 voltios se separa.
+*   **Procedimiento de desconexión del encendido:**
+    1.  Girar la llave de encendido a la posición 0 (DESCON) y retirarla del bombín.
+    2.  Alejar la llave o tarjeta de arranque al menos cinco metros del vehículo.
+    3.  No accionar el telemando del sistema de cierre.
+    4.  Si es inaccesible, desconectar la(s) batería(s) de 12V o retirar el enchufe de bajo voltaje (LV) de la batería de alto voltaje (HV).
+*   **Procedimiento para batería de alto voltaje deformada:**
+    1.  Desconectar el enchufe de alto voltaje (HV) de la batería.
+    2.  No tocar la batería de alto voltaje.
+    3.  Soltar y separar el enchufe de alto voltaje de la batería utilizando guantes aislantes.
+    4.  Si no hay cables o componentes de alto voltaje expuestos a menos de 20 cm del enchufe de la batería, solo personal de rescate puede separarlos.
+    5.  Si la desconexión de la batería de 12V no es posible, desconectar la batería HV usando guantes de protección eléctrica.
+    6.  Muchos vehículos cuentan con un dispositivo adicional para el sistema de alto voltaje, que puede ser utilizado por personal de rescate. Incluye puntos de separación de 12V y un enchufe de bajo voltaje (LV).
+    7.  El conjunto de fusibles de color naranja y el enchufe HV pueden retirarse. Alternativamente, se puede cambiar el interruptor del módulo de la batería a la posición OFF.
+    8.  La línea de alta tensión se desconecta completamente tras cinco minutos.
+
+**c) Procedimiento a seguir en caso de vehículo sumergido o semisumergido**
+
+*   **Recomendaciones:** Los fabricantes no especifican detalles, pero recomiendan retirar el vehículo del agua, drenar el interior si es posible y seguir el proceso de emergencia.
+*   **Riesgo eléctrico:** No hay riesgo al tocar la carrocería, pero no manipular las partes eléctricas naranjas. Si hay un cortocircuito por daños eléctricos, la batería se descarga rápidamente. Bajo el agua, la batería se autodescarga y su voltaje inicial se reduce.
+*   **Seguridad:** No hay riesgo eléctrico al tocar el vehículo y atender a los ocupantes. El vehículo puede permanecer en READY, pero no se deben cortar ni manipular cables de alto voltaje hasta que la batería esté desconectada.
+
+**2.5.2. Camiones híbridos**
+
+*   Las intervenciones solo deben iniciarse con el motor de combustión interna apagado y la batería HV desactivada.
+
+**2.5.3. Autobús híbrido**
+
+*   **Desconexión del sistema de alta tensión (750 V):**
+    *   Girar la llave de contacto a la posición 0.
+    *   Accionar el interruptor de apagado de emergencia (situado a la izquierda del puesto del conductor).
+    *   Accionar el interruptor de apagado de emergencia en el compartimento de baterías (posición 1).
+    *   Accionar el interruptor de apagado de emergencia a la derecha, detrás de la tapa frontal del vehículo (posición 3, no disponible en todos los vehículos).
+*   **Descarga:** En las cuatro variantes, se produce una descarga rápida (aproximadamente 5 segundos) de la red de alta tensión. Si la descarga rápida falla, el sistema se descarga pasivamente, lo que puede tardar hasta seis minutos.
+*   **Seguridad:** Tras la descarga, el vehículo está de-energizado y es seguro, pero se debe mantener la cautela. Las baterías siguen conteniendo tensión.
+
+**2.5.4. Vehículos hidrogenados**
+
+*   **Batería auxiliar:** Estos vehículos suelen tener una batería de iones-litio como fuente de alimentación suplementaria.
+*   **Detección de fugas:** Algunos modelos incorporan sensores para detectar fugas de hidrógeno. Si se produce una fuga, el sistema de ventilación se activa y un sistema automático cierra las válvulas en el tanque o líneas de suministro.
+*   **Combustible (Methanol):** Si el hidrógeno se obtiene de alcoholes como el metanol, el metanol presenta peligros específicos:
+    *   Límite inferior de inflamabilidad: 7.8%.
+    *   Límite superior de inflamabilidad: 86%.
+    *   Punto de inflamación: 11°C.
+    *   Más pesado que el aire.
+    *   Arde con llamas no visibles.
+*   **Hidrógeno en autobuses:**
+    *   El sistema de célula de combustible y las botellas de gas a presión (hidrógeno comprimido a 350 bares) se ubican en el techo. Las baterías de alta tensión también se localizan en el techo.

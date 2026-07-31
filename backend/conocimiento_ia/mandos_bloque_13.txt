@@ -1,43 +1,190 @@
-La **prevención de riesgos laborales (PRL)** se integra como un pilar fundamental en el sistema general de gestión de cualquier entidad, implicando su planificación, aplicación y seguimiento constante. La piedra angular de este proceso es la **evaluación de riesgos**, la cual debe identificar el alcance de los peligros no eliminados para implementar las medidas preventivas necesarias.
+A continuación, se detalla un temario exhaustivo y original basado en el texto proporcionado:
 
-## Fundamentos y Características de la Evaluación de Riesgos
+**Prevención de Riesgos Laborales**
 
-La Ley de Prevención de Riesgos Laborales (LPRL) y su Reglamento de los Servicios de Prevención (RSP) establecen la obligatoriedad empresarial de iniciar la acción preventiva mediante una evaluación inicial de riesgos. Esta evaluación debe considerar los peligros asociados a la elección de equipos de trabajo, sustancias químicas y las condiciones del entorno laboral. Se realiza para todos los puestos de trabajo, teniendo en cuenta tanto las condiciones existentes como la posible sensibilidad de cada trabajador por sus características personales o estado biológico.
+**Capítulo 1: Trabajo y Salud**
 
-Una **nueva evaluación** es imperativa si se producen cambios en los equipos, sustancias químicas, tecnologías, condiciones de los lugares de trabajo o si se incorpora un trabajador sensible. Si la evaluación revela la necesidad de medidas preventivas, estas deben documentarse y estar a disposición de la Autoridad Laboral.
+**1. Conceptos Básicos**
 
-La evaluación de riesgos se caracteriza por ser **dinámica** y **documentada**. Su naturaleza dinámica exige revisiones si hay disposiciones específicas, se detectan daños a la salud de los trabajadores o las medidas preventivas son ineficaces. Estas revisiones deben considerar la investigación de incidentes, las acciones de control de riesgos y los análisis epidemiológicos, realizándose periódicamente con el acuerdo de los representantes de los trabajadores. La documentación implica conservar los registros a disposición de la autoridad laboral, incluyendo la identificación del puesto, los riesgos, los trabajadores afectados, el resultado de la evaluación, las medidas preventivas y los criterios o métodos de medición empleados.
+La prevención de riesgos laborales se integra en un sistema general de gestión, implementándose a través de un plan de prevención de riesgos laborales. La evaluación de riesgos constituye la fase inicial y más crucial de la prevención activa. Este proceso permite a los responsables identificar el alcance de los riesgos no eliminados y determinar las medidas preventivas o de otra índole necesarias.
 
-Existen diversos **tipos de evaluación de riesgos**. La valoración cuantitativa se efectúa mediante mediciones objetivas (como ruido, iluminación, temperatura o contaminantes) utilizando métodos estandarizados (UNE, guías del INSHT, normas internacionales, AENOR). Las tipologías específicas incluyen: evaluaciones **impuestas por legislación**, que cubren riesgos regulados por normativas específicas; evaluaciones para riesgos **sin legislación concreta**, donde se aplican guías de organismos oficiales; **métodos especializados de análisis** para riesgos de accidentes graves (ej. CORAG, incendios industriales); y una **evaluación general de riesgos** para cualquier peligro no clasificado previamente.
+Según la Ley de Prevención de Riesgos Laborales (LPRL) de 1995 y la normativa comunitaria, la materia se aborda de forma integral, abarcando la Seguridad y Salud Laboral con especialidades en:
+*   Seguridad en el Trabajo.
+*   Higiene Industrial.
+*   Ergonomía y Psicosociología aplicada.
+*   Medicina del Trabajo.
 
-## Fases del Proceso de Evaluación de Riesgos
+La Constitución Española (CE), en su artículo 43, garantiza el derecho a la protección de la salud de los ciudadanos, sean o no trabajadores. Además, el artículo 40.2 de la CE encarga a los poderes públicos la vigilancia de la seguridad e higiene en el trabajo. El artículo 15 de esta norma fundamental establece que "todos tienen derecho a la vida y a la integridad física y moral".
 
-El proceso de evaluación de riesgos se desglosa en fases. La primera es la **clasificación de las actividades de trabajo**, que implica agruparlas lógicamente recabando toda la información posible. Le sigue el **análisis de riesgos**, que determina su magnitud. Este análisis comienza con la **identificación de peligros** en el puesto de trabajo, formulando preguntas clave: ¿hay una fuente de daño?, ¿quién o qué puede ser dañado? y ¿cómo puede ocurrir el daño? Es útil categorizar los peligros por tipo de riesgo y elaborar listas de preguntas adaptadas a las actividades.
+*Definiciones Clave:*
+*   **Trabajo:** Actividad social organizada que persigue objetivos y satisface necesidades mediante la combinación de recursos humanos, materiales, energía, tecnología y organización.
+*   **Salud (según la OMS en 1946):** Estado de bienestar físico, mental y social completo, no meramente la ausencia de enfermedad o dolencia.
+*   **Prevención de Riesgos Laborales:**
+    *   **Prevención:** Conjunto de actividades o medidas planificadas en todas las fases de la actividad empresarial para evitar o reducir riesgos laborales.
+    *   **Riesgos laborales:** Posibilidad de que un trabajador sufra un daño derivado del trabajo.
+    *   **Daño derivado del trabajo:** Enfermedades, patologías o lesiones ocasionadas por el trabajo.
 
-La **estimación del riesgo** es crucial, calculando la probabilidad y las consecuencias. La **severidad del daño** se valora según las partes del cuerpo afectadas y la naturaleza del daño (ligero, dañino, extremadamente dañino). La **probabilidad** se gradúa en alta, media o baja, considerando medidas de control, requisitos legales, códigos de buena práctica, trabajadores sensibles, frecuencia de exposición y fallos en el servicio o equipos. Los niveles de riesgo se estiman mediante una matriz que combina probabilidad y consecuencias, resultando en categorías como trivial, tolerable, moderado, importante o intolerable.
+**2. Principios de la Acción Preventiva**
 
-La **valoración de riesgos** permite establecer la tolerabilidad de cada riesgo, determinando si se necesitan mejoras o nuevas medidas de control, y la urgencia de su implementación. Un riesgo **trivial** no demanda acciones; uno **tolerable** no requiere mejoras preventivas urgentes, pero sí soluciones eficientes y comprobaciones periódicas. Un riesgo **moderado** exige esfuerzos e inversiones para su reducción en un plazo determinado. Si el riesgo es **importante**, el trabajo no debe comenzar hasta su reducción. Un riesgo **intolerable** prohíbe el inicio o continuación de la actividad hasta su eliminación.
+El artículo 15 de la LPRL establece los principios que el empresario debe aplicar en la acción preventiva para salvaguardar el derecho a la salud de los trabajadores. Ante cualquier riesgo para la salud, la prioridad es:
+1.  Evitar los riesgos.
+2.  Evaluar los riesgos.
+3.  Combatir los riesgos en su origen.
+4.  Planificar la prevención.
+5.  Informar y formar a los trabajadores.
 
-El resultado de este proceso culmina en un **plan de control de riesgos**, que detalla las acciones para diseñar, mantener o mejorar los controles, siempre en conformidad con el artículo 8 del RSP, priorizando las intervenciones según la magnitud del riesgo.
+**3. Consecuencias de los Riesgos**
 
-## Factores de Riesgo y Disciplinas Preventivas Asociadas
+Las consecuencias de los riesgos laborales incluyen:
 
-Los **factores de riesgo**, definidos por la OMS como condiciones laborales que comprometen la seguridad y salud, son elementos clave a analizar para asegurar un entorno de trabajo adecuado. Tradicionalmente, se clasifican en grupos atendidos por disciplinas preventivas específicas.
+**3.1. Accidente Laboral**
+Desde una perspectiva técnico-preventiva, se define como "todo suceso anormal, no querido ni deseado, que se produce de forma brusca e inesperada, aunque normalmente es evitable, que rompe la normal continuidad del trabajo y puede causar lesiones a las personas". Esto abarca:
+*   Lesiones ocurridas en el centro de trabajo.
+*   Lesiones sufridas durante el trayecto habitual entre el centro de trabajo y el domicilio del trabajador (accidentes *in itinere*).
+La lucha contra los accidentes laborales es la primera etapa de la actividad preventiva.
 
-Los **factores o condiciones de seguridad** se asocian directamente con accidentes e incluyen el emplazamiento, instalaciones, proceso productivo, materiales, equipos de transporte, maquinaria y herramientas. En contraste, los **factores higiénicos** se relacionan con enfermedades profesionales, abarcando contaminantes físicos (ruido, vibraciones), químicos y biológicos. La Higiene Industrial es la disciplina que previene estas enfermedades mediante el estudio, valoración y modificación del ambiente de trabajo.
+**3.2. Enfermedad Profesional**
+La Organización Mundial de la Salud (OMS) utiliza el término "enfermedades relacionadas con el trabajo" para incluir tanto las enfermedades profesionales como aquellas condiciones en las que el ambiente laboral contribuye como un factor causal.
 
-Los **riesgos ergonómicos y psicosociológicos** surgen de la interacción entre el trabajador, sus herramientas y el ambiente de trabajo. La **ergonomía ambiental** considera factores como iluminación, temperatura, ruido, ventilación, volumen, limpieza y servicios que pueden causar fatiga o disconfort. La **ergonomía geométrica** se centra en la fatiga física, influenciada por las dimensiones del puesto, el esfuerzo, la postura y los movimientos repetitivos. Por su parte, los **factores psicosociales** abordan la fatiga mental y el desequilibrio del bienestar social, incluyendo la iniciativa, el estatus social, la comunicación, la cooperación, la identificación con el producto, la organización del trabajo, el apremio temporal, la atención, la minuciosidad, la complejidad y la rapidez. La Psicosociología Aplicada a la PRL estudia estos factores para adaptar el trabajo a la persona y fomentar su salud.
+**Tabla 3: Campo de actuación de las condiciones de trabajo para preservar la seguridad y salud**
 
-Las **técnicas preventivas** destinadas a mejorar las condiciones de trabajo se estructuran en varias especialidades:
-*   La **Medicina en el Trabajo** estudia las enfermedades y accidentes laborales con el objetivo de promover el bienestar físico, psíquico y social de los trabajadores, proponiendo medidas preventivas adecuadas. Los profesionales de esta área son médicos y enfermeros especialistas, y su evaluación se basa en exámenes de salud y análisis de riesgos.
-*   La **Seguridad en el Trabajo** analiza los riesgos de accidentes laborales, detecta sus causas y prescribe medidas preventivas. Sus técnicas incluyen el análisis de prevención (inspecciones, estudios de trabajo y estadísticas) y la operativa (acciones correctivas directas).
-*   La **Higiene Industrial** se enfoca en proteger la integridad física y mental del trabajador frente a contaminantes físicos, químicos y biológicos. Sus ramas abarcan el estudio teórico de contaminantes, el trabajo de campo (toma de muestras) y el análisis cuantitativo y cualitativo, culminando en la implementación de medidas operativas.
-*   La **Ergonomía y Psicosociología Aplicada** tiene como objetivo adaptar el puesto de trabajo al individuo, considerando las interacciones hombre-máquina-ambiente y las capacidades y limitaciones del trabajador para optimizar su bienestar y prevenir patologías como el estrés o el *burnout*.
+| CAMPO GENERAL DE LA PREVENCIÓN | ACCIDENTE DE TRABAJO | ENFERMEDAD PROFESIONAL | DISCONFORT |
+| :------------------------------- | :-------------------- | :------------------------ | :--------- |
+| AMBIENTE Y ENTORNO FÍSICO      | SEGURIDAD             | HIGIENE INDUSTRIAL      | ERGONOMÍA  |
+| HOMBRE / MUJER                 | CONDICIONES FÍSICAS   | MEDICINA DEL TRABAJO    |            |
+|                                | CONDICIONES PSÍQUICAS | PSICOSOCIOLOGÍA APLICADA, MOTIVACIÓN, FORMACIÓN, ADIESTRAMIENTO |            |
 
-Para el personal operativo de los servicios de prevención y extinción de incendios, los riesgos más relevantes se agrupan en:
-*   **Seguridad en el trabajo:** caídas a distinto o mismo nivel, caídas o pisadas sobre objetos, contactos eléctricos y explosiones.
-*   **Higiene Industrial:** exposición a sustancias químicas y productos de combustión, riesgos respiratorios, derrames, fugas, temperaturas extremas, accidentes causados por seres vivos y agentes biológicos.
-*   **Ergonomía:** sobreesfuerzos, trastornos musculoesqueléticos y alteraciones posturales.
-*   **Psicosociología:** *burnout*, trastornos por estrés laboral, estrés postraumático y fatiga.
+Los **factores que determinan la enfermedad profesional** son:
+*   Tiempo de exposición.
+*   Características personales del trabajador.
+*   Concentración o intensidad del contaminante.
+*   Presencia simultánea de varios contaminantes.
+La **Higiene Industrial** actúa en estos campos, previniendo enfermedades profesionales mediante el estudio, valoración y modificación del ambiente físico, químico o biológico del trabajo.
 
-Todas estas disciplinas y sus técnicas, aunque diferenciadas en su enfoque, actúan de manera coordinada bajo una sistemática establecida para garantizar el cumplimiento normativo y la mejora continua de las condiciones laborales, siendo desarrolladas por técnicos cualificados.
+Otras enfermedades profesionales son:
+*   **Enfermedades relacionadas con el trabajo:** Aquellas con conexión epidemiológica al trabajo, pero sin consideración legal de enfermedades profesionales.
+*   **Enfermedades del trabajo:** Patologías influidas por el trabajo, pero no determinadas por él (ej., trastornos psicosociales como fatiga mental, estrés laboral), donde influyen variables personales y condiciones de vida.
+Las disciplinas técnicas que actúan en estos casos son:
+*   **Ergonomía:** Técnicas para adecuar el trabajo a la persona.
+*   **Psicosociología aplicada a la PRL:** Estudio de factores psicosociales y organizativos que afectan la salud del trabajador.
+*   **Medicina en el trabajo:** Promoción de la salud, prevención de la pérdida de salud, curación de enfermedades y rehabilitación.
+
+**4. Marco Normativo de Referencia en PRL**
+
+**4.1. Derechos y Deberes Básicos**
+La Constitución Española (art. 40.2) encarga a los poderes públicos asegurar la seguridad e higiene en el trabajo, y el art. 43.1 reconoce el derecho a la protección de la salud. La LPRL establece derechos y deberes para empresarios y trabajadores:
+*   **Empresario:** Debe garantizar la seguridad y salud de los trabajadores en todos los aspectos laborales.
+*   **Trabajador:** Debe velar por su propia seguridad y salud, y la de terceros afectados por su actividad profesional, siguiendo la formación e instrucciones del empresario.
+    *   Debe usar adecuadamente máquinas, equipos, sustancias peligrosas y medios de transporte.
+    *   Debe utilizar correctamente los equipos de protección proporcionados.
+    *   No debe anular o usar incorrectamente dispositivos de seguridad.
+    *   Debe informar de inmediato a su superior jerárquico o al servicio de prevención sobre cualquier riesgo.
+    *   Debe contribuir al cumplimiento de las obligaciones de seguridad y salud.
+    *   Debe cooperar con el empresario para condiciones de trabajo seguras.
+El incumplimiento de estas obligaciones se considera incumplimiento laboral (art. 58.1 ET) o falta (art. 29.3 LPRL para AAPP).
+Además, los trabajadores tienen derecho a:
+*   Ser informados y formados en prevención.
+*   Ser consultados y participar en la prevención de riesgos.
+*   Interrumpir la actividad si existe riesgo grave e inminente.
+*   Recibir vigilancia de su estado de salud.
+
+**4.2. Las Directivas Comunitarias**
+La política social de la Unión Europea incluye la seguridad y salud en el trabajo, buscando niveles mínimos de protección uniformes. Sus objetivos son:
+*   Aumentar la protección de todos los trabajadores.
+*   Armonizar la seguridad y salud en el trabajo entre estados miembros.
+Las Directivas son el medio para adoptar "disposiciones mínimas" y unificar criterios. La Directiva Marco 89/391/CEE, sobre la aplicación de medidas para mejorar la seguridad y salud en el trabajo, fue transpuesta a la legislación española por la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales (LPRL), que se convirtió en la norma de referencia nacional.
+
+**4.3. Legislación Básica de Aplicación**
+
+**4.3.1. Ley de Prevención de Riesgos Laborales**
+La LPRL se desarrolla técnicamente a través de su propia norma, sus disposiciones de desarrollo o complementarias, y cualquier otra norma con prescripciones preventivas en seguridad y salud laboral.
+La LPRL permite que sus disposiciones laborales y reglamentarias sean mejoradas y desarrolladas en convenios colectivos (art. 2.2 LPRL).
+
+**4.3.2. El Reglamento de los Servicios de Prevención**
+El Real Decreto 39/1997, de 17 de enero, aprueba el Reglamento de los Servicios de Prevención (RSP), desarrollando el artículo 6.1 de la LPRL. Este reglamento establece que la prevención de riesgos laborales debe ser una actividad integrada en todas las actuaciones y niveles jerárquicos de la empresa, basada en una planificación que incluya la técnica, organización y condiciones de trabajo, bajo los principios de eficacia, coordinación y participación.
+
+**4.3.3. Normativa Emanada de las CCAA**
+Las Comunidades Autónomas, en el ámbito de sus competencias, han desarrollado legislación complementaria en prevención de riesgos laborales.
+
+**4.3.4. Otras Disposiciones**
+Existen otras disposiciones y documentos no normativos pero de obligado cumplimiento, como:
+*   Normas UNE.
+*   Certificaciones AENOR.
+*   Interpretaciones del INSHT.
+*   Convenios colectivos.
+*   Instrucciones técnicas del fabricante.
+
+El **Sistema de Gestión de la Seguridad y Salud en el Trabajo** se establece según la especificación técnica OHSAS 18001:1999, que define los requisitos para optimizar el rendimiento y controlar eficazmente los riesgos. Este sistema sirve para evaluar y certificar la gestión de seguridad y salud ocupacional, facilitando su integración con los requisitos de calidad.
+
+**5. La LPRL en los Servicios de Prevención y Extinción de Incendios**
+
+La LPRL es aplicable tanto a trabajadores de empresas como a funcionarios públicos. Sin embargo, existen excepciones para actividades con particularidades que impiden la aplicación estricta de la norma, considerándola "inspiradora" en lugar de "obligatoria". Estas excepciones incluyen:
+*   Policía, seguridad y resguardo aduanero.
+*   Servicios operativos de Protección Civil y peritaje forense en casos de grave riesgo, catástrofe y calamidad.
+Estas excepciones se basan en el artículo 2.2 de la Directiva 391/89/CEE, que permite no aplicar la Directiva si sus particularidades son concluyentemente opuestas. Los servicios de prevención y extinción de incendios se han considerado tradicionalmente bajo esta excepción, especialmente en actividades de intervención.
+
+El Tribunal de Justicia de las Comunidades Europeas (TJCCEE) ha interpretado la Directiva 391/89/CEE:
+*   Su ámbito de aplicación debe entenderse ampliamente.
+*   Las excepciones deben interpretarse restrictivamente.
+*   No excluye los servicios de Protección Civil como tales, sino "determinadas actividades específicas" de "excepcional gravedad y magnitud" (ej. catástrofes) que no permiten una planificación del tiempo de trabajo de los equipos de intervención y socorro.
+
+El Tribunal condenó a España por incumplir la Directiva al no adaptar su ordenamiento jurídico a los artículos 2 (apartados 1 y 2) y 4. La excepción del artículo 2.2 de la Directiva solo es aplicable a "acontecimientos excepcionales" donde la protección de la población en situaciones de grave riesgo colectivo exija prioridad absoluta a tales medidas.
+
+El **informe aclaratorio del Ministerio de Trabajo y Asuntos Sociales** de 30 de marzo de 2007, sobre la aplicación de la LPRL en la lucha contra incendios, determinó:
+*   La LPRL se aplica a todas las actividades de los bomberos, incluso en intervención y sin importar el objetivo (combatir incendios o socorrer), siempre que se realicen en condiciones habituales (Apartado 52 del Auto).
+*   El principio general de aplicación de la LPRL cede solo ante "situaciones de grave riesgo colectivo" (ej. catástrofes naturales, atentados, accidentes graves) donde la seguridad y salud de los trabajadores puedan comprometerse si se observan todas las normas.
+
+Como consecuencia de los pronunciamientos judiciales y el art. 3.2 de la LPRL, se promulgaron los Reales Decretos 179/2005 (de 18 de febrero) y 2/2006 (de 16 de enero) para la Guardia Civil y Policía Nacional, respectivamente. Estos decretos establecen que:
+*   Se excluyen las actividades sin características exclusivas de policía, seguridad y servicios operativos de Protección Civil, que se regirán por sus normas específicas.
+*   Las actividades que no presentan características exclusivas de policía, seguridad, resguardo aduanero y servicios operativos de Protección Civil (art. 2) se remiten a la normativa general de prevención de riesgos laborales. Esta adaptación se realizó conforme al Real Decreto 1488/1998, de 10 de julio.
+
+El Real Decreto 67/2010, de 29 de enero, establece en su art. 2.6, respecto a la exclusión del art. 3.2 de la LPRL, que:
+*   La exclusión para "servicios operativos de Protección Civil y peritaje forense en casos de grave riesgo, catástrofe y calamidad pública" se refiere a asegurar el buen funcionamiento de servicios esenciales en circunstancias de excepcional gravedad y magnitud, mientras que el resto de actividades se rigen por la normativa general de prevención.
+
+En resumen, la Directiva 391/89/CEE es aplicable a los servicios de prevención y extinción de incendios porque sus cometidos se realizan en "condiciones habituales", incluso si son imprevisibles o exponen a riesgos. La excepción del artículo 2.2 de la Directiva y el 3.2 de la LPRL solo aplica a acontecimientos excepcionales donde la prioridad absoluta sea proteger a la población.
+
+Así, la LPRL es de aplicación total a los servicios de prevención y extinción de incendios. Todas las obligaciones de la norma, incluyendo actividades de intervención, evaluaciones de riesgos, investigación de accidentes y vigilancia de la salud, son de cumplimiento obligatorio para estos servicios.
+
+**Tabla 4: Actuaciones de prevención**
+
+| Previas al accidente           | Posteriores al accidente      |
+| :----------------------------- | :----------------------------- |
+| Inspecciones de seguridad      | Notificación y registro de accidentes |
+| Análisis de trabajos           | Investigación de accidentes  |
+| Análisis estadístico           |                                |
+| Análisis de moral de trabajo   |                                |
+| Operativa o de protección a los trabajadores: Eliminan causas, corrigen el riesgo, aportan Seguridad. |                                |
+
+**6. Identificación de las Técnicas Preventivas Orientadas a la Mejora de las Condiciones de Trabajo**
+
+Para abordar y mitigar los problemas del ambiente laboral, se emplean diversas técnicas de prevención:
+a)  **Medicina en el trabajo:** Especialidad médica que estudia enfermedades y accidentes laborales con el fin de:
+    *   Promover el máximo bienestar físico, psíquico y social de los trabajadores, considerando su capacidad, riesgos laborales y el ambiente.
+    *   Proponer medidas preventivas para evitar enfermedades/accidentes o minimizar sus consecuencias.
+    Profesionales: médicos o enfermeros especialistas en medicina del trabajo. Sus funciones se describen en el RSP. La evaluación se realiza mediante exámenes de salud (historia clínica, laboral) y análisis de riesgos laborales.
+b)  **Seguridad en el trabajo:** Especialidad técnica que analiza riesgos de accidentes laborales, detecta causas y establece medidas de prevención para corregir factores y controlar consecuencias. Se desarrollan dos técnicas:
+    *   **Analítica o de prevención:** Actúa sobre las causas de los accidentes (inspecciones de seguridad, análisis de trabajos, estadístico, moral de trabajo). No aplica la seguridad directamente.
+    *   **Operativa o de protección a los trabajadores:** Busca eliminar causas y corregir el riesgo, aportando seguridad. Se aplica después de analizar las causas.
+c)  **Higiene industrial:** Especialidad técnica que protege la integridad física y mental del trabajador. Reconoce, analiza, evalúa y controla contaminantes físicos (ruido, vibraciones), químicos y biológicos provenientes del puesto de trabajo. Ramas:
+    *   **Teórica:** Estudio de contaminantes y sus efectos.
+    *   **Campo:** Encuesta higiénica y toma de muestras.
+    *   **Analítica:** Análisis cuantitativo y cualitativo de muestras.
+    *   **Operativa:** Recomienda y aplica medidas para minimizar riesgos.
+d)  **Ergonomía y psicosociología aplicada:** Especialidad técnica que adapta el puesto de trabajo al trabajador, analizando relaciones (hombre-máquina-ambiente), capacidades y limitaciones.
+    *   **Riesgos derivados de la ergonomía ambiental:** Consecuencias: fatiga y disconfort. Factores: iluminación, temperatura, ruido, ventilación, superficie, volumen, limpieza, servicios.
+    *   **Riesgos derivados de la ergonomía geométrica:** Consecuencias: fatiga física. Factores: dimensiones del puesto, esfuerzo físico, postura, movimientos repetitivos.
+    *   **Riesgos derivados de la ergonomía psicosocial:** Consecuencias: fatiga mental, desequilibrio del bienestar social. Factores: iniciativa, estatus social, comunicación, cooperación, identificación con el producto, organización del trabajo, horario, apremio de tiempo, atención, minuciosidad, rapidez.
+
+Estas técnicas operan de manera diferente en el análisis de riesgos, pero comparten una sistemática establecida que debe incluir aspectos normativos de obligado cumplimiento. Son desarrolladas por técnicos cualificados.
+
+**Tabla 8: Riesgos asociados al personal operativo de los servicios de prevención y extinción de incendios**
+
+| Seguridad en el trabajo     | Higiene Industrial        | Ergonomía              | Psicosociología        |
+| :-------------------------- | :------------------------ | :--------------------- | :--------------------- |
+| Caída al mismo nivel        | Exposición a contactos químicos | Sobreesfuerzos         | Burn out               |
+| Caída a distinto nivel      | Exposición a productos de la combustión | Trastornos músculo-esqueléticos | Trastornos por estrés laboral |
+| Caída de objetos por desplome | Otros riesgos respiratorios no asociados a la combustión | Alteración en el equilibrio postural | Estrés postraumático |
+| Pisadas sobre objetos       | Exposición a derrames y fugas |                        | Fatiga                 |
+| Exposición por contactos eléctricos | Exposición a temperaturas ambientales extremas |                        |                        |
+| Explosiones                 | Accidentes causados por seres vivos |                        |                        |
+|                             | Exposición a agentes biológicos |                        |                        |

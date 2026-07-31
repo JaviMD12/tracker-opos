@@ -1,59 +1,66 @@
-# Técnicas de Intervención en Accidentes Ferroviarios
+## Tema: Rescate en Accidentes Ferroviarios y Otras Emergencias
 
-La intervención en accidentes ferroviarios demanda un conocimiento exhaustivo de las particularidades de estos vehículos y sus infraestructuras, debido a la complejidad de los entornos y los altos voltajes asociados a las vías electrificadas. Es fundamental que los equipos de emergencia, especialmente los bomberos, estén preparados para abordar estas situaciones de manera segura y eficiente, garantizando la protección de las víctimas y del propio personal interviniente.
+### Parte 6: Rescate en Accidentes Ferroviarios
 
-## Acceso al Tren y Apertura de Huecos
+#### Capítulo 1: Caracterización
 
-Para acceder al interior de un tren tras un accidente, se priorizan los **huecos naturales** como puertas y ventanas, aunque la complejidad del incidente puede requerir la creación de accesos.
+##### 4.1. Pesos y Dimensiones
 
-### Apertura de Puertas
+La complejidad y el tamaño de los trenes en un rescate ferroviario determinan la necesidad de utilizar equipos específicos de excarcelación y estabilización, como grúas. En España, existen múltiples fabricantes y modelos de trenes operativos.
 
-Las puertas son la primera opción para el acceso. Si estas se encuentran deformadas o bloqueadas, se utilizarán **herramientas de excarcelación** para forzar su apertura desde el exterior, empleando, por ejemplo, una llave de cuadradillo.
+**1. Trenes Autopropulsados de Viajeros de Alta Velocidad:**
+*   **Ancho de vía:** 1435 mm (europeo), aunque pueden circular por vías convencionales de 1668 mm.
+*   **Longitud:** Hasta 200 m (tren).
+*   **Carga normal:** 421 toneladas (tren).
+*   **Coches:** Más de 20 m de largo; 17 toneladas por eje.
+*   **Altura:** Aproximadamente 4 m.
 
-### Acceso a Través de Ventanas
+**2. Trenes Automotores de Media y Larga Distancia de Pasajeros:**
+*   **Ancho de vía:** 1668 mm.
+*   **Longitud:** Hasta 78 m (tren); coches de hasta 26 m.
+*   **Peso total con carga máxima:** 168 toneladas.
+*   **Peso por coche:** 48 toneladas.
 
-Las ventanas de emergencia, así como las de las puertas exteriores, pueden servir como puntos de acceso. La técnica variará según el tipo de cristal:
-*   Si son **cristales con junta de goma**, estas se cortarán longitudinalmente con un cuchillo curvo para permitir la retirada del cristal.
-*   Si son **cristales pegados**, se realizará una abertura mediante un golpe en una zona alejada de los ocupantes, utilizando una sierra para vidrio y protegiendo a los pasajeros de los fragmentos.
+##### 4.2. Materiales de Fabricación
 
-### Acceso al Techo
+Los trenes se construyen con estructuras autoportantes, generalmente de aleación ligera de aluminio, utilizando perfiles extruidos de grandes dimensiones.
+*   **Locomotoras y coches técnicos (diésel):** Construidos con chapas de acero (plegadas o embutidas) y soldadas.
+*   **Coches de viajeros:** Fabricados con aluminio.
+*   **Perfiles laterales:** De aluminio soldado, con un grosor de aproximadamente 25 mm (aluminio extruido con dos láminas de 3 mm y un hueco interior).
+*   **Estructura:** Reforzada con cuadernas verticales entre las ventanas.
+*   **Revestimientos:** Capa de 30 mm de fibra de vidrio pegada al aluminio; capa de extrusión interior de 40-50 mm; paredes de 3 mm con hueco interior, fabricadas en fibra de vidrio con resina de poliéster.
+*   **Vagones:** La mayoría tienen una estructura con bogies a los que se acoplan los contenedores, y están fabricados en chapa.
 
-El acceso por el techo del tren es una opción viable, pero su viabilidad depende del tipo de tren y del material de construcción del techo. La condición **indispensable** para esta maniobra es asegurar que la **tensión de la catenaria ha sido completamente suprimida**, o que el tren se encuentre volcado. Esta vía permite verificar el estado de las funciones vitales de las víctimas y realizar una evaluación inicial del interior del tren.
+##### 4.3. Herramientas
 
-### Creación General de Huecos
+Para las operaciones de rescate se requieren herramientas específicas:
+*   **Corte de raíles:** Oxicorte, motorradial o plasma.
+*   **Apertura de puertas bloqueadas o deformadas:** Separador, pinza y cizalla hidráulica de alta presión, cojines neumáticos o plasma.
+*   **Desplazamiento de trenes descarrilados:** Grúas de gran tonelaje.
+*   **Acceso a alturas:** Plataformas de trabajo, escaleras o medios improvisados.
 
-Dada la compleja estructura de los trenes y las variaciones entre fabricantes, la **apertura de huecos improvisados** se realizará preferentemente por debajo o por encima de las ventanas si los huecos naturales resultan insuficientes.
+##### 4.4. Accesos
 
-## Tácticas Generales de Intervención
+La primera opción de acceso al tren es siempre a través de las aperturas naturales, principalmente las puertas. Si las puertas están deformadas, se emplearán herramientas de excarcelación.
 
-Una táctica genérica en intervenciones ferroviarias persigue varios objetivos clave: recopilar la máxima información posible, asegurar un acceso rápido y seguro, identificar los peligros existentes y establecer una estrategia de intervención eficaz. La seguridad de los intervinientes es prioritaria, balanceando siempre el riesgo y el beneficio de cada acción.
+###### 4.4.1. Apertura de Puertas
 
-La secuencia de intervención habitualmente incluye:
-1.  **Establecer comunicación** con el Centro de Gestión 24 horas (CGRH24) de Adif y el Centro de Control de Emergencias (CECON) de Renfe para obtener toda la información relevante.
-2.  **Determinar el punto de acceso** más seguro y rápido, recabar información sobre las víctimas, el tipo de tren, la vía (electrificada o no) y el sistema de fuerza motriz.
-3.  **Solicitar el corte de circulación y de tensión** (si la vía está electrificada) a la compañía.
-4.  **Verificar** que la catenaria está sin tensión y se ha realizado el corte de la misma.
-5.  **Acceder al convoy** y realizar una valoración inicial del incidente y los recursos necesarios.
+Los sistemas de emergencia localizados en la parte exterior del vehículo siguen funcionando tras desconectar los sistemas eléctricos. Para accionarlos, se retira el precinto, se abre la tapa y se gira la llave de emergencia de la posición de marcha (A) a la de emergencia (B). Al vaciarse el aire del sistema de puertas, estas pueden abrirse manualmente.
 
-### Medidas de Seguridad Eléctrica
+**1. Apertura con Pulsadores:**
+*   En autobuses urbanos, se utiliza el pulsador "Abrir puerta" en el exterior.
+*   En vehículos, este pulsador puede estar en la tapa del depósito.
+*   Estos sistemas necesitan tensión para funcionar.
+*   En autobuses de largo recorrido, el pulsador puede estar en la hoja de la puerta o bajo el limpiaparabrisas derecho.
 
-Cuando se opera en vías electrificadas con **catenarias de alta tensión** (25 kV en alterna o 3 kV en continua), es crucial que un técnico de la compañía realice el corte de la tensión. Posteriormente, se aplicarán **cinco normas de seguridad fundamentales**:
-1.  **Cortar las fuentes de alimentación** abriendo los seccionadores e interruptores.
-2.  **Evitar cualquier riesgo de realimentación** mediante el uso de candados y llaves de consigna.
-3.  **Comprobar el corte de tensión** utilizando pértigas aisladas.
-4.  **Derivar la instalación a tierra** mediante un cortocircuito.
-5.  **Señalizar adecuadamente** la zona de trabajo.
+**2. Llave de Emergencia Exterior:**
+*   Los autobuses fabricados después de 2005 incluyen una llave de emergencia exterior en cada puerta.
 
-Es **estrictamente prohibido** trabajar a menos de 100 cm de cualquier elemento de alta tensión. Un **shunt de vía** o barra de shuntado es un dispositivo esencial que protege a los equipos impidiendo la llegada de trenes y activando señales, al cortocircuitar los carriles y transmitir información sobre la presencia de una unidad.
+**3. Apertura Manual (en algunos autobuses):**
+*   Las puertas pueden empujarse venciendo la resistencia del sistema neumático.
+*   Es necesario calzar las puertas con cuñas o elementos similares para evitar que se cierren.
 
-## Técnicas de Evacuación
-
-La decisión entre confinar o evacuar a las víctimas en un accidente ferroviario dependerá directamente de la gravedad de la situación. El personal del tren (maquinista, interventor y tripulación) es una parte activa y esencial del plan de emergencia.
-
-### Confinamiento
-
-El **confinamiento** en el interior de los coches se considera una opción prioritaria si el incidente es leve, si el espacio exterior presenta riesgos o hasta que se defina y asegure una vía de escape.
-
-### Evacuación
-
-La **evacuación** es necesaria en situaciones de accidente grave, como en presencia de un peligro inminente dentro del tren o si el suceso ocurre en un túnel o puente, donde el maquinista debe buscar una zona accesible para facilitar la salida de los pasajeros.
+**4. Apertura con Separador Hidráulico:**
+*   Se coloca el separador hidráulico entre los perfiles de goma de la puerta.
+*   Se abre la puerta.
+*   Se debe asegurar que la puerta no vuelva a cerrarse.

@@ -1,37 +1,289 @@
-# Evaluación de Riesgos en Intervenciones por Inundaciones
+## Temario de Oposiciones: Rescate y Salvamento - Valoración (Inundaciones)
 
-La gestión de emergencias por inundaciones exige una **valoración** sistemática y continua de la situación para formular un plan de acción efectivo. Este proceso se divide en una evaluación inicial y un seguimiento constante, dada la dinámica cambiante de estos escenarios. La valoración del siniestro se basa en la consideración de diversos factores, incluyendo el **riesgo**, la **exposición** y la **vulnerabilidad**, cuya interacción define la magnitud del peligro.
+### Parte 3: Rescate en Ríos, Riadas e Inundaciones - Capítulo 3: Valoración
 
-## Evaluación del Riesgo de Inundación
+#### 1. Valoración Inicial y Continua
 
-La **peligrosidad** de una inundación se analiza mediante una evaluación multicriterio que considera su origen y los procesos geológicos asociados. Los tipos de inundaciones se clasifican según su causa principal:
-*   **Inundabilidad por desbordamiento fluvial:** Este factor depende de la valoración de caudales históricos. Un "periodo de retorno" de, por ejemplo, cincuenta años, indica que una avenida de magnitud considerable ocurre estadísticamente una vez cada medio siglo. Las **zonas inundables** se clasifican por el riesgo de daños graves a núcleos urbanos en categorías A-1 (avenida de 50 años), A-2 (avenida de 100 años) y A-3 (avenida de 500 años), mientras que las zonas B (avenida de 100 años) y C (avenida de 500 años) se refieren a impactos en viviendas aisladas. Además, se evalúa la **producción de caudal sólido**, que es la capacidad del río para arrastrar sedimentos; la **valoración geológica y geomorfológica** del terreno, incluyendo el tipo de materiales; la **diferencia de cota** entre la población y el río; la **distancia** al cauce fluvial más próximo; y el **tiempo de concentración de la avenida**, que es el lapso para que el agua de toda la cuenca fluya hasta un punto de desembocadura.
-*   **Inundabilidad por precipitación *in situ*:** Aquí se consideran la **morfología del terreno**, destacando que las concavidades son más propensas a la acumulación de agua. Asimismo, una pendiente baja (inferior al 2%) favorece la acumulación, y el **pronóstico de precipitaciones** para las próximas 24 horas es crucial para anticipar la cantidad de agua que recibirá la zona.
-*   **Rotura o mal funcionamiento de obras hidráulicas:** Este riesgo se valora por la **capacidad de embalse de la presa** (volumen máximo de agua almacenada), el **alcance de la avenida aguas abajo** que afectaría a la red de drenaje, y la **distancia núcleo-cauce** en relación con las zonas afectadas por la rotura de la presa.
+La valoración de un incidente es fundamental para establecer un plan de acción. Este proceso debe ser constante, ya que los escenarios son dinámicos y pueden cambiar rápidamente. La evaluación se aborda desde dos perspectivas complementarias:
 
-Adicionalmente, los **agravantes asociados a la actividad industrial** incrementan la peligrosidad si hay sustancias tóxicas que puedan incorporarse al agua o elementos móviles (como palés o contenedores) susceptibles de ser arrastrados. Los **movimientos de ladera** también pueden acelerarse o desencadenarse por precipitaciones intensas, aumentando la presión intersticial en sedimentos saturados de agua, lo que reduce la cohesión y provoca inestabilidad; los terrenos arenosos, de gravas, conglomerados, limos, arcillas y yesos son particularmente susceptibles. La **erosión superficial o subsuperficial** es otro riesgo, especialmente en capas limo-arenosas o en zonas cóncavas que acumulan material. Finalmente, las **inundaciones en Espacios Naturales Protegidos** o **campamentos turísticos** son factores específicos a considerar por su cercanía a cauces.
+*   **Valoración del riesgo:** Un análisis a priori detallado para identificar la probabilidad de materialización de riesgos y adoptar medidas preventivas.
+*   **Valoración del siniestro:** Un análisis rápido y preciso de los factores críticos que influyen en la activación del plan de acción o ataque, proporcionando la información necesaria para una toma de decisiones eficaz e inmediata.
 
-## Exposición y Vulnerabilidad de la Población
+Los factores identificados durante la valoración del riesgo son útiles para evaluaciones posteriores de siniestros ya ocurridos.
 
-La **exposición** al riesgo es directamente proporcional al tamaño de la población, ya que un mayor número de personas aumenta la probabilidad de que alguna se vea afectada y, en consecuencia, incrementa exponencialmente los recursos necesarios para la asistencia y evacuación.
+#### 2. Valoración del Riesgo de Inundación
 
-La **vulnerabilidad** se define como la susceptibilidad de la vida, propiedades y medio ambiente a sufrir daños en caso de catástrofe. En este sentido, se consideran factores como el **porcentaje de población desconocedora del idioma nativo**, lo cual dificulta la comprensión de las instrucciones de emergencia. La **segmentación de la población por edades** distingue la vulnerabilidad en baja (10-45 años), media (5-10 y 45-65 años) y alta (0-5 años y más de 65 años). Asimismo, se evalúa la presencia de **enfermos hospitalarios** o individuos con movilidad reducida/nula.
+El riesgo de inundación se puede evaluar mediante la fórmula fundamental: **Riesgo = Peligrosidad x Exposición x Vulnerabilidad**. Estos factores pueden analizarse de forma independiente o conjunta.
 
-En cuanto a la **tipología de edificios**, se analiza su **accesibilidad** (con o sin ascensor) y su **estado de conservación** (clasificado como Ruinoso, Malo, Deficiente o Bueno según su antigüedad). Un mayor número de plantas sobre rasante suele correlacionarse con una menor vulnerabilidad, mientras que las plantas bajo rasante aumentan la vulnerabilidad al concentrar grandes volúmenes de agua, creando un "efecto sumidero". Finalmente, la **localización de campamentos turísticos, centros hospitalarios, instituciones educativas, polígonos industriales y residencias de ancianos** son elementos que incrementan la exposición y permanencia temporal de la población en zonas de riesgo.
+##### 2.1. Peligrosidad
 
-## Valoración del Siniestro y Plan de Actuación
+El análisis de la peligrosidad por inundaciones se realiza mediante una evaluación multicriterio, considerando los peligros asociados a cada tipo de inundación. Se toman como referencia:
 
-La **valoración del siniestro** debe ser dinámica y continua, adaptándose a los cambios en el entorno, el vehículo, la víctima o los intervinientes. Se centra en parámetros como las causas del incidente, el entorno geográfico (orografía, corrientes, turbulencias, infraestructura, accesos, visibilidad, temperatura del agua, tipo de fondo y nocturnidad), la evolución prevista del siniestro, el número de víctimas potenciales o efectivas, y el nivel de emergencia declarado.
+*   **Inundabilidad por desbordamiento fluvial.**
+*   **Precipitación in situ.**
+*   **Rotura o mal funcionamiento de obra hidráulica.**
 
-La información sobre la **evolución** del siniestro se obtiene de sistemas de previsión hidrometeorológicos (AEMET, SAIH) y del estado de presas y embalses. Es posible influir en la evolución, por ejemplo, cerrando presas aguas arriba. La **identificación de víctimas** potenciales o efectivas, y su tipología, es clave para determinar las acciones.
+Complementariamente, se consideran procesos geológicos que pueden agravar los riesgos de inundación, tales como:
 
-El **plan de actuación** debe ser bien estructurado pero flexible, previendo un plan principal (A) y uno alternativo (B) para situaciones inesperadas. Se prioriza la **seguridad de los intervinientes** y el **rescate de víctimas y animales**. Las primeras acciones incluyen despejar vías de acceso, establecer medidas de seguridad, acotar el personal afectado mediante confinamiento o evacuación, y minimizar daños controlando suministros (energía, agua, gas) e infraestructuras.
+*   Agravantes relacionados con la actividad industrial (incorporación de sustancias tóxicas o movilización de elementos).
+*   Movimientos de ladera.
+*   Erosión superficial o subsuperficial.
+*   Otros factores relevantes.
 
-### Prioridades y Objetivos
-Una valoración adecuada permite priorizar los recursos disponibles. Las prioridades incluyen la seguridad del personal, el rescate de víctimas y, si es posible, de animales. Tras la fase de peligro, se busca **restablecer la normalidad** mediante la limpieza, achique de agua, balizamiento de zonas peligrosas, saneamiento y estabilización de edificios, y retirada de obstáculos.
+###### 2.1.1. Inundabilidad por Desbordamiento Fluvial
 
-La intervención en emergencias se organiza en fases que van desde la movilización inicial hasta la restitución a la normalidad, pasando por la **valoración in situ**, el **control de riesgos inminentes** (vertidos, compuertas, estabilidad de embarcaciones) y la **intervención** propiamente dicha. La **filiación de víctimas** es crucial para el recuento y la organización de la búsqueda, rescate o traslado.
+Para valorar este tipo de riesgo, se consideran seis factores, entre ellos:
 
-El **control de las aguas** se logra mediante la apertura de salidas, el achique con máquinas (electrobombas, turbobombas, motobombas flotantes, equipos de bombeo de agua y lodos) y la construcción de diques (sacos terreros, gaviones modulares o *Big Bags*). Cada técnica tiene sus particularidades y requisitos de seguridad.
+*   **Valoración de caudales para diferentes periodos de retorno:** El período de retorno define la frecuencia estadística con la que un caudal igual o superior a uno determinado ocurre. Por ejemplo, una "avenida de cincuenta años" se espera estadísticamente una vez cada 50 años.
 
-La **comunicación** en el medio acuático es fundamental, y ante la posible afectación de las infraestructuras fijas, se emplean **sistemas desplegables de telecomunicaciones** interoperables, con señales de mano y silbato específicas para facilitar la coordinación.
+    Las zonas inundables se clasifican en:
+    *   **Zona A-1 (riesgo alto frecuente):** Inundación de 50 años que causa daños graves en núcleos urbanos.
+    *   **Zona A-2 (riesgo alto ocasional):** Inundación de 100 años que causa daños graves en núcleos urbanos.
+    *   **Zona A-3 (riesgo alto excepcional):** Inundación de 500 años que causa daños graves en núcleos urbanos.
+    *   **Zona B (riesgo significativo):** Inundación de 100 años que impacta viviendas aisladas.
+    *   **Zona C (riesgo bajo):** Inundación de 500 años que impacta viviendas aisladas.
+
+*   **Valoración de producción de caudal sólido:** Capacidad de generar sedimentos que se incorporan al flujo de la avenida.
+*   **Valoración geológica y geomorfológica:** Características de la corteza terrestre y tipos de materiales.
+*   **Valoración de diferencia de cota:** Diferencia de altitud entre un núcleo de población y un río.
+*   **Valoración de distancia:** Distancia entre un núcleo de población y el cauce fluvial más cercano.
+*   **Valoración de tiempo de concentración de avenida:** Tiempo necesario para que toda el área de la cuenca de drenaje aporte agua al punto de desembocadura tras una precipitación uniforme.
+
+###### 2.1.2. Inundabilidad por Precipitación In Situ
+
+Para la valoración de la peligrosidad por inundaciones debidas a precipitación en el lugar, se consideran tres factores:
+
+*   **Valoración de la morfología del terreno: concavidad:** Las zonas con morfología cóncava son más propensas a la acumulación de aguas por precipitaciones intensas.
+*   **Valoración de la morfología del terreno: pendiente:** Un terreno con poca pendiente (inferior al 2%) favorece la acumulación de agua debido a un drenaje deficiente.
+*   **Valoración del pronóstico de precipitaciones en 24 horas:** Importancia de la previsión meteorológica para conocer la cantidad de agua esperada en la zona.
+
+###### 2.1.3. Inundabilidad por Rotura u Operación Incorrecta de Obras Hidráulicas
+
+Para evaluar la inundabilidad por rotura o mal funcionamiento de infraestructuras hidráulicas, se consideran tres factores:
+
+*   **Valoración de la capacidad de embalse de la presa:** Magnitud de la avenida por posible rotura de presa en función del volumen máximo de agua almacenada.
+*   **Valoración del alcance aguas abajo de la presa:** Representación de los sectores de la red de drenaje afectados por una avenida por rotura de presa en distintos intervalos temporales (obtenido de análisis de planes de emergencia de presas).
+*   **Valoración de la distancia núcleo-cauce:** Estimación de la distancia entre núcleos de población y los sectores activos de la red de drenaje ante la rotura de la presa.
+
+###### 2.1.4. Agravantes Asociados a la Actividad Industrial
+
+Este punto evalúa los efectos de actividades industriales cercanas a núcleos de población en la peligrosidad de una inundación, desde dos enfoques:
+
+*   **Incremento de peligrosidad por incorporación de sustancias tóxicas:** Riesgo de efectos alergénicos o intoxicaciones por contacto o ingestión.
+*   **Incremento de peligrosidad por elementos móviles almacenados:** Riesgo de que palés, contenedores, u otros elementos sean movilizados por la fuerza de la corriente.
+
+###### 2.1.5. Movimientos de Ladera
+
+Los movimientos de ladera pueden ser acelerados o desencadenados por precipitaciones intensas en inundaciones. Factores influyentes:
+
+*   La saturación de agua en los poros del sedimento aumenta la presión intersticial, superando las fuerzas cohesivas y provocando inestabilidad de la ladera.
+*   Efectos erosivos en la base de las laderas, condicionados por la configuración geométrica.
+*   La susceptibilidad del terreno a estos fenómenos depende de su composición litológica, orografía o modificaciones antrópicas. Las arenas, gravas, conglomerados, limos, arcillas y, en menor medida, yesos, son las litologías más favorables.
+
+###### 2.1.6. Riesgo Asociado a Procesos de Erosión Superficial o Subsuperficial
+
+Las zonas más propensas a la erosión son aquellas con capas limo-arenosas. La morfología del terreno también influye, acumulándose material arrastrado por la inundación en zonas planas o cóncavas.
+
+###### 2.1.7. Otros Factores
+
+Otros factores importantes para determinar la peligrosidad incluyen:
+
+*   Inundaciones en Espacios Naturales Protegidos, por su cercanía a cauces o presencia de cauces dentro del parque.
+*   Inundaciones en campamentos turísticos (campings), dada su ubicación cercana a cauces fluviales.
+
+##### 2.2. Exposición
+
+El grado de exposición es directamente proporcional al tamaño de la población. Cuantas más personas, mayor es la probabilidad de que alguna se vea afectada por la inundación. Los recursos necesarios para la asistencia y evacuación aumentan exponencialmente con el tamaño de la población.
+
+Se consideran ocho factores en la valoración de la exposición relacionados con la población.
+
+*   **Densidad de población:** Esta variable determina la distribución de la población en el territorio afectado por inundaciones (habitantes por kilómetro cuadrado), informando sobre el grado de ocupación del territorio y la localización de la población.
+*   **Valoración de la vulnerabilidad por densidad de población por vivienda:** Analiza la vulnerabilidad social según el grado de ocupación de las viviendas. Valores bajos indican baja ocupación del territorio y las viviendas.
+*   **Valoración de vulnerabilidad por interrupción de las vías de comunicación:** Determina el grado de afección de las infraestructuras de comunicación por inundaciones, incluyendo el aislamiento de la población y la dificultad para los medios de evacuación y asistencia.
+*   **Valoración de vulnerabilidad por existencia de áreas de evacuación:** Evalúa la disponibilidad de zonas adecuadas para la instalación de equipos e infraestructuras necesarias para la ayuda y evacuación. Estas áreas deben cumplir requisitos mínimos para su localización y asentamiento efectivo:
+    *   Pendiente del terreno.
+    *   Distancia a cauces de la zona.
+    *   Distancia a vías de comunicación.
+    *   Extensión real de la zona de uso.
+
+##### 2.3. Vulnerabilidad
+
+La vulnerabilidad se define como la susceptibilidad de la vida, propiedades y el medio ambiente a sufrir daños en caso de catástrofe. Se consideran diez factores de valoración:
+
+*   **Porcentaje de población desconocedora del idioma nativo:** Importancia del conocimiento del idioma para seguir las normas e indicaciones de emergencia.
+*   **Segmentación de la población por edades:** Porcentaje de población más propensa a sufrir daños por edad.
+    *   Vulnerabilidad baja: 10 a 45 años.
+    *   Vulnerabilidad media: 5 a 10 años y 45 a 65 años.
+    *   Vulnerabilidad alta: 0 a 5 años y más de 65 años.
+*   **Vulnerabilidad debido a los enfermos hospitalarios:** Número de camas que representa a individuos con movilidad reducida o nula por salud.
+*   **Tipología de edificios en función de su accesibilidad:** Relacionada con la discapacidad física de la población y la facilidad de evacuación.
+    *   Accesible y con ascensor.
+    *   Accesible y sin ascensor.
+    *   No accesible y con ascensor.
+    *   No accesible y sin ascensor.
+*   **Tipología de edificios en función de su estado de conservación:** Influencia del estado de conservación en la vulnerabilidad ante una inundación.
+    *   **Tabla 5: Estado de conservación de edificios**
+        | Período       | Ruinoso (R) | Malo (M) | Deficiente (D) | Bueno (B) |
+        | :------------ | :---------- | :------- | :------------- | :-------- |
+        | ANT. 1900     | R           | M        | D              | B         |
+        | 1900 - 1940   | R           | M        | D              | B         |
+        | 1940 - 1970   | R           | M        | D              | B         |
+        | 1970 - 2015   | R           | M        | D              | B         |
+*   **Valoración de tipología de edificios en función del número de plantas bajo rasante:** Refleja el efecto de las plantas subterráneas. Las inundaciones concentran grandes volúmenes de agua en estas plantas, aumentando directamente el daño.
+
+#### 3. Valoración del Siniestro
+
+Algunas consideraciones clave para la valoración de un siniestro incluyen:
+
+*   Determinar la magnitud de la emergencia específica.
+*   Establecer las acciones prioritarias y un plan de actuación acorde con el alcance del siniestro y los recursos disponibles.
+*   Debe ser dinámica y continua, permitiendo correcciones en el plan de trabajo inicial.
+*   La valoración final certifica la finalización de las tareas.
+
+Los parámetros principales a considerar en la valoración del siniestro son:
+
+*   Causas.
+*   Entorno.
+*   Evolución.
+*   Víctimas potenciales y/o efectivas.
+*   Nivel de emergencia declarado.
+
+##### 3.1. Causas
+
+El tipo de siniestro se puede deducir estudiando sus causas y las condiciones en que ocurrió, lo que permite seleccionar la técnica más eficaz.
+
+##### 3.2. Entorno
+
+Debe recopilarse información sobre el área de intervención, estudiando mapas actualizados y el entorno in situ para determinar, entre otros:
+
+*   Orografía y accidentes (márgenes, salientes, islas, etc.).
+*   Corrientes, turbulencias y otros elementos.
+*   Otros riesgos específicos asociados (ej. movimientos de ladera).
+*   Infraestructuras circundantes afectadas o utilizables para apoyo.
+*   Vías de acceso y puntos de entrada y salida.
+*   Altura desde el socorrista a la superficie del agua.
+*   Temperatura y color del agua.
+*   Profundidad de la zona de intervención.
+*   Fondo del medio: rocoso, arenoso, fango, con obstáculos naturales o artificiales sumergidos.
+*   Visibilidad en el agua.
+*   Nocturnidad (uso de iluminación artificial).
+*   Grados en la escala internacional de dificultad (si el río/cauce está categorizado).
+
+##### 3.3. Evolución
+
+Se obtiene información relevante de sistemas hidrometeorológicos de previsión y alerta, sobre lluvias, tormentas y niveles de cauces y embalses. Es posible actuar sobre parámetros que condicionan la evolución del siniestro, como cerrar presas aguas arriba para reducir el caudal.
+
+##### 3.4. Víctimas Potenciales o Efectivas
+
+Un estudio rápido de la vulnerabilidad (basado en parámetros de riesgo o datos de campo) determina el número y tipo de víctimas potenciales. Este dato influye en las acciones a realizar. También es crucial conocer el estado y ubicación de las víctimas efectivas, siendo el estado (consciente/inconsciente, tranquilo/nervioso, traumatismos) el factor principal para elegir el tipo de rescate.
+
+##### 3.5. Nivel de Emergencia Declarado
+
+En una intervención en curso, es fundamental conocer el nivel de emergencia declarado para integrarse en el plan de trabajo y coordinarse. Si se participa desde el inicio, es importante discernir las características para proponer o activar el nivel adecuado. Los procedimientos de activación son:
+
+*   **Activación de Alerta:** Se recibe la orden en el Servicio de Atención de Urgencias y se transmite a alcaldes y Protección Civil. Se crea un Plan Autonómico y se informa a la Delegación del Gobierno. Se emiten comunicados informativos a la población.
+*   **Activación de Emergencia Nivel 1:** La orden se recibe del Servicio de Coordinación de Emergencias y se transmite a alcaldes, Protección Civil, servicios de emergencia y grupos de acción. Se crea un Plan Autonómico en Emergencia y un Plan Municipal en Emergencia. Se contacta con la Delegación del Gobierno y se constituye el Puesto de Mando Avanzado. Se emiten comunicados informativos.
+*   **Activación de Emergencia Nivel 2:** Sigue el mismo procedimiento que la anterior, con comunicados periódicos y consejos de autoprotección.
+*   **Activación de Emergencia Nivel 3:** El Ministro del Interior declara el interés nacional. Se aplica la Ley Orgánica 4/1981, Artículo 116 de la Constitución, para coordinar competencias. Se realizan todas las actuaciones de niveles anteriores, más las que determine el Director de la Emergencia.
+*   **Fin de la Emergencia:** Se extiende hasta restablecer las condiciones mínimas para la normalidad. La desactivación puede ser progresiva a la fase de alerta por riesgo de repeticiones, tareas de recuperación complejas o necesidad de recursos extraordinarios.
+    *   **Pasos a seguir:**
+        *   Retirada de operativos.
+        *   Repliegue de recursos.
+        *   Implementación de medidas preventivas complementarias.
+        *   Evaluación final del siniestro.
+        *   Elaboración de informes y estadísticas.
+
+#### 4. Prioridades y Objetivos
+
+Una valoración adecuada permite priorizar correctamente los medios disponibles según las necesidades de la emergencia. Las prioridades son:
+
+*   Seguridad de los intervinientes.
+*   Rescate de víctimas.
+*   Rescate de animales.
+
+A continuación, el texto original de las páginas 195 a 198 se reescribe de forma exhaustiva, conservando toda la información y datos técnicos:
+
+### Parte 3: Rescate en Ríos, Riadas e Inundaciones
+
+#### Capítulo 3: Valoración
+
+##### 1. Valoración Inicial y Continua
+
+El proceso de valoración de una intervención de rescate técnico debe ser sistemático, comenzando con una valoración inicial y manteniéndose de forma continua. La valoración inicial proporciona una visión instantánea de la situación para establecer un plan de acción. Sin embargo, los escenarios cambian rápidamente, por lo que la evaluación debe ser constante hasta la conclusión de la intervención.
+
+Esta valoración se realiza desde dos perspectivas complementarias:
+
+*   **Valoración del riesgo:** Evalúa *a priori* y detalladamente la probabilidad de que un riesgo se materialice, lo que permite la adopción de medidas preventivas.
+*   **Valoración del siniestro:** Analiza de forma rápida y precisa los factores críticos que condicionan la activación de un plan de actuación, proporcionando la información necesaria para decisiones eficaces y seguras.
+
+Los factores identificados durante la valoración del riesgo son fundamentales para las evaluaciones posteriores, una vez que el siniestro ha ocurrido.
+
+##### 2. Valoración del Riesgo de Inundación
+
+El riesgo de inundación puede evaluarse de manera fundamental a partir de la siguiente fórmula:
+**Riesgo = Peligrosidad x Exposición x Vulnerabilidad**
+
+Estos factores pueden estudiarse de forma independiente o en conjunto.
+
+###### 2.1. Peligrosidad
+
+El análisis de la peligrosidad de las inundaciones se realiza mediante una evaluación multicriterio, que considera los peligros específicos asociados a cada tipo de inundación. Las referencias tomadas son:
+
+*   **Inundabilidad por desbordamiento fluvial.**
+*   **Precipitación *in situ*.**
+*   **Rotura o mal funcionamiento de obras hidráulicas.**
+
+Complementariamente, se consideran otros procesos geológicos que pueden agravar los riesgos de una inundación, como:
+
+*   Agravantes asociados a la actividad industrial, incluyendo la posible incorporación de sustancias tóxicas al flujo acuoso o la movilización de elementos almacenados (pales, contenedores, etc.) susceptibles de ser arrastrados.
+*   Movimientos de ladera.
+*   Riesgos vinculados a procesos de erosión superficial o subsuperficial.
+*   Otros factores.
+
+###### 2.1.1. Inundabilidad por Desbordamiento Fluvial
+
+Para evaluar este tipo de riesgo, se consideran seis factores:
+
+*   **Valoración de caudales para diferentes periodos de retorno:** El período de retorno se define como el tiempo estadísticamente esperado entre dos eventos de baja probabilidad con caudales iguales o superiores a uno determinado. Por ejemplo, una "avenida de cincuenta años" implica que una inundación de esa magnitud ocurre, en promedio, una vez cada 50 años.
+
+    La clasificación de las zonas inundables es:
+    *   **Zona A-1 (riesgo alto frecuente):** Áreas donde una avenida de cincuenta años podría causar daños graves en núcleos urbanos.
+    *   **Zona A-2 (riesgo alto ocasional):** Áreas donde una avenida de cien años podría causar daños graves en núcleos urbanos.
+    *   **Zona A-3 (riesgo alto excepcional):** Áreas donde una avenida de quinientos años podría causar daños graves en núcleos urbanos.
+    *   **Zona B (riesgo significativo):** Áreas donde una avenida de cien años podría afectar viviendas aisladas.
+    *   **Zona C (riesgo bajo):** Áreas donde una avenida de quinientos años podría afectar viviendas aisladas.
+
+*   **Valoración de producción de caudal sólido:** Se refiere a la capacidad de una zona para generar sedimentos que pueden ser arrastrados por el flujo de una avenida.
+*   **Valoración geológica y geomorfológica:** Describe las características de la corteza terrestre y los materiales que la componen.
+*   **Valoración de diferencia de cota:** Mide la diferencia de altitud entre un núcleo de población y un río.
+*   **Valoración de distancia:** Mide la distancia entre un núcleo de población y el cauce fluvial más cercano.
+*   **Valoración del tiempo de concentración de avenida:** Es el tiempo necesario para que toda el área de una cuenca de drenaje aporte agua al punto de desembocadura, asumiendo una precipitación uniforme en espacio y tiempo.
+
+###### 2.1.2. Inundabilidad por Precipitación *In Situ*
+
+Para valorar la peligrosidad de inundaciones causadas por precipitación *in situ*, se tienen en cuenta tres factores:
+
+*   **Morfología del terreno: concavidad:** Se presta especial atención a las zonas cóncavas, ya que son más propensas a la acumulación de agua por precipitaciones intensas.
+*   **Morfología del terreno: pendiente:** El análisis de pendientes bajas (inferiores al 2%) es crucial, ya que favorecen la acumulación de agua debido a un drenaje deficiente.
+*   **Pronóstico de precipitaciones en 24 horas:** Es esencial considerar el parte meteorológico para prever la cantidad de agua que recibirá la zona.
+
+###### 2.1.3. Inundabilidad por Rotura u Operación Incorrecta de Obras Hidráulicas
+
+Para evaluar la inundabilidad por rotura o funcionamiento incorrecto de obras hidráulicas, se consideran tres factores:
+
+*   **Capacidad de embalse de la presa:** Se refiere a la magnitud de la avenida asociada a la posible rotura de la presa, en función del volumen máximo de agua almacenada.
+*   **Alcance aguas abajo de la presa:** Se representan los sectores de la red de drenaje aguas abajo de la presa que serían afectados por la avenida generada por una rotura, en diferentes intervalos temporales (datos de análisis de planes de emergencia de presas).
+*   **Distancia núcleo-cauce:** Estima la distancia entre los núcleos de población y los sectores activos de la red de drenaje ante una rotura de presa.
+
+###### 2.1.4. Agravantes Asociados a la Actividad Industrial
+
+En este punto, se consideran los efectos que las actividades industriales cercanas a los núcleos de población pueden tener en la peligrosidad de una inundación, desde dos perspectivas:
+
+*   **Incorporación de sustancias tóxicas:** Incremento del riesgo de inundación por la posible incorporación de sustancias tóxicas al flujo acuoso, que podrían causar efectos alergénicos o intoxicaciones por contacto o ingestión.
+*   **Movilización de elementos almacenados:** Incremento del riesgo por elementos móviles almacenados (pales, contenedores, etc.) que puedan ser puestos en movimiento por la fuerza de la corriente.
+
+###### 2.1.5. Movimientos de Ladera
+
+Los movimientos de ladera pueden ser acelerados o incluso desencadenados por precipitaciones intensas que provocan inundaciones. Los factores que influyen son:
+
+*   **Saturación de agua en los poros del sedimento:** Prov

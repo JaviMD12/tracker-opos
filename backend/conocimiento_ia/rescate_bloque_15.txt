@@ -1,50 +1,112 @@
-# Rescate y Salvamento: Fundamentos y Tácticas Operativas
+## Temario de Rescates y Emergencias: Rescate y Salvamento
 
-La evolución del **urbanismo actual**, con su proliferación de estructuras verticales de grandes dimensiones, impone a los servicios de bomberos la necesidad de dominar técnicas especializadas de **rescate en altura**. Estas intervenciones, que a menudo implican acceso a zonas inaccesibles por medios convencionales como autoescalas o brazos articulados, requieren la aplicación de tácticas de socorro en montaña, espeleosocorro y trabajos verticales, garantizando seguridad, rapidez y eficacia.
+El presente documento aborda las técnicas y consideraciones esenciales para operaciones de rescate y salvamento, con un enfoque particular en escenarios de rescate en altura, simas, cuevas, barrancos, ríos, riadas, inundaciones, accidentes subacuáticos, accidentes de tráfico, accidentes ferroviarios y rescate en grandes áreas, así como el rescate apícola y de otras especies.
 
-## Marco Legal y Normativo
+### Parte 1: Rescate en Altura
 
-La **legislación española sobre trabajos en altura** establece el fundamento para operar de forma segura y seleccionar el material adecuado. Aunque la **Ley de Prevención de Riesgos Laborales (LPR 31/1995)** inicialmente excluía a ciertos colectivos operativos, aclaraciones posteriores la extienden a los servicios de bomberos, si bien se remite a normativa futura específica dadas las peculiaridades de su actividad.
+#### Capítulo 5: Casos Prácticos
 
-Complementariamente, diversas disposiciones regulan el equipamiento y los lugares de trabajo:
-*   El **RD 773/1997, de 30 de mayo**, establece las disposiciones mínimas sobre **equipos de protección individual (EPI)**, detallando su definición, obligaciones del empresario, criterios de uso, condiciones, selección y mantenimiento. Sus anexos son útiles para identificar tipos de EPI y evaluar riesgos.
-*   El **RD 1407/1992 de 20 de noviembre**, regula los requisitos mínimos y **certificaciones europeas (EN)** para la comercialización de EPI, sirviendo como guía para la revisión y cumplimiento de los estándares del material utilizado.
-*   El **RD 486/1997, de 14 de abril**, fija las disposiciones mínimas de seguridad y salud en los lugares de trabajo, especificando la obligatoriedad de protección en altura a partir de **2 metros de caída** o en trabajos con **escaleras de mano a más de 3,5 metros**.
-*   El **RD 1215/1997, de 18 de julio**, reitera la necesidad de equipos de protección contra caídas a partir de los **dos metros de altura** y detalla los requisitos para equipos de trabajo y EPI.
-*   El **RD 1627/1997, de 24 de octubre**, se enfoca en las obras de construcción, siendo relevante para intervenciones derivadas de siniestros en este sector y para conocer el EPI necesario.
-*   El **RD 2177/2004, de 12 de noviembre**, modifica el RD 1215/1997 e incorpora disposiciones específicas para la utilización de **escaleras de mano en trabajos temporales en altura**. Este real decreto exige que el ascenso, descenso y trabajo desde escaleras se realice de frente a estas, asegurando siempre un punto de apoyo y sujeción. Los trabajos a más de 3,5 metros que requieran movimientos peligrosos solo se efectuarán con un EPI anticaídas o medidas alternativas. No se permite el uso simultáneo de escaleras de mano por dos o más personas.
+**1. Trabajador Atrapado en el Buje de un Aerogenerador de 80 Metros de Altura**
 
-## Principios Fundamentales y Seguridad en Trabajos Verticales
+Este caso práctico detalla la intervención ante un trabajador atrapado en el buje de un aerogenerador de 80 metros de altura, requiriendo un rescate técnico especializado.
 
-El **trabajo en altura** se define como cualquier actividad o desplazamiento que exponga a un trabajador a riesgo de caída a distinto nivel con una diferencia de cota superior a 1,5 metros. Esto incluye también trabajos bajo el nivel 0, como en pozos o excavaciones profundas, que comparten características de **espacios confinados**. La seguridad en estas operaciones se basa en la aplicación de **reglas elementales**:
-*   La **ubicación e instalación de los puntos de anclaje** debe ser rigurosa y segura, priorizando la calidad y la distribución de esfuerzos. En rescates y tirolinas, es esencial duplicar o triplicar los anclajes.
-*   Es fundamental una **organización adecuada del lugar de trabajo**, con instalaciones simples, correctamente equipadas y verificadas sistemáticamente antes de su uso para asegurar una operación rápida y eficaz.
-*   La **instalación de un dispositivo de autoaseguramiento** debe asociarse a los sistemas de rescate, siempre que sea posible, para garantizar la seguridad de víctimas y socorristas, salvo en autoevacuaciones.
-*   Debe preverse un **plan de evacuación** que contemple tanto el autorrescate de los equipos como la evacuación en caso de accidente. Los EPI están diseñados para una persona, pero pueden usarse excepcionalmente para evacuar a dos en maniobras específicas.
-*   La normativa para técnicas de acceso y posicionamiento mediante cuerdas exige dos cuerdas con sujeción independiente: una de trabajo y otra de seguridad. La cuerda de trabajo debe contar con un mecanismo de ascenso/descenso seguro y bloqueo automático, mientras que la cuerda de seguridad debe tener un dispositivo móvil anticaídas. Herramientas y objetos deben estar sujetos al arnés o asiento. El trabajo debe planificarse y supervisarse, garantizando un socorro inmediato en caso de emergencia. Excepcionalmente, el uso de una sola cuerda puede admitirse si la evaluación de riesgos lo justifica y se implementan medidas de seguridad adecuadas.
+**a) Movilización**
 
-Existen varios sistemas de protección esenciales en trabajos en altura:
-*   Un **sistema de retención** delimita un área de trabajo, impidiendo el acceso a zonas con riesgo de caída, y no está diseñado para detener una caída.
-*   Un **sistema de sujeción** permite posicionar al usuario en apoyo o suspensión, pero tampoco está diseñado para detener caídas y debe complementarse con un sistema anticaídas.
-*   Un **sistema anticaídas** es un dispositivo de aseguramiento independiente del modo de progresión, conectado al punto "A" del arnés, cuya función es detener la caída libre limitando la fuerza de choque. Para su uso, es crucial prever una **altura libre de seguridad**, que es la distancia mínima requerida debajo del sistema para evitar que el usuario choque con obstáculos. Esta altura depende del tipo de sistema, el peso del usuario y su posición, y considera la distancia de parada, la longitud de desgarro del absorbedor de energía, la altura media del usuario, un margen de seguridad y el alargamiento de la cuerda.
+**I. Recepción del Aviso**
+El proceso se inicia con la recepción de un aviso que requiere:
+*   Confirmación del número y estado de las víctimas.
+*   Solicitud de la localización precisa del aerogenerador (incluyendo coordenadas y descripción).
+*   Petición de presencia de medios sanitarios en el lugar.
 
-La **cadena de seguridad** es el conjunto de elementos (arnés, nudo de encordamiento, cuerda, mosquetones, cintas, anclajes, asegurador, etc.) que absorben la energía generada en una caída para lograr una detención "amortiguada" y prevenir daños corporales. La dureza de la caída está determinada por la masa del usuario, el factor de caída y el tipo de cuerda/freno.
+**II. Movilización al Siniestro**
+La movilización del equipo sigue un protocolo específico:
+*   El jefe de dotación informa al jefe de guardia sobre el aviso y propone el tren de salida estándar (jefe de dotación + 3 bomberos).
+*   El jefe de guardia aprueba o modifica el tren de salida propuesto.
+*   El jefe de guardia, en comunicación con el 112 (centro de emergencias), actualiza y completa los datos del siniestro, se comunica con el alertante, confirma la movilización de medios sanitarios y solicita la centralización de todas las comunicaciones.
+*   Se establece comunicación y coordinación con el telemando de la compañía del aerogenerador (personal técnico con capacidad de operación remota).
+*   Se define un punto de encuentro entre la dotación de bomberos y el personal de mantenimiento.
+*   Se movilizan refuerzos internos y externos si es necesario, y se despliega al lugar del siniestro.
+*   La dotación se equipa con el material personal adecuado para el tipo de siniestro y la distancia.
+*   La dotación se dirige al lugar del siniestro.
 
-## La Cuerda en Rescate Vertical
+**b) Valoración**
 
-En rescates verticales, la **cuerda** es el elemento más importante de la cadena dinámica de seguridad. Se utiliza para el acceso (ascenso y descenso) y como protección contra caídas, manteniendo la conexión con la zona exterior en espacios confinados y siendo fundamental para el rescate de víctimas.
+**I. Llegada al Siniestro**
+Al llegar al lugar, se realizan las siguientes acciones:
+*   Emplazamiento del vehículo de intervención a barlovento (contra el viento).
+*   Preparación del material para el rescate:
+    *   Herramienta hidráulica y bomba manual.
+    *   Equipo completo de material de altura BRP (Bomba Rural Pesada).
+    *   Cuerda necesaria: H + 10 metros de cuerda semiestática en un solo tramo y H + 10 metros de cuerda dinámica en uno o varios tramos, donde H representa la altura de evacuación.
+    *   Preparación del material para la víctima (camilla, Fernoked, casco, botiquín).
 
-Las cuerdas se fabrican con fibras derivadas del petróleo (poliamidas, poliéster, polipropileno) y se distinguen por su bajo coste, facilidad de tejido, imputrescibilidad, alta elasticidad, resistencia a la tracción y al rozamiento. Se componen de dos partes:
-*   El **alma** (interior), formada por múltiples fibras, aporta el 75-80% de la resistencia y puede ser semiestática o dinámica.
-*   La **camisa o funda** (exterior), de hilos trenzados, proporciona el 20-25% restante de resistencia, protege contra la abrasión, el desgaste y agentes externos como rayos UV, polvo y ácidos.
+**II. Valoración Exterior e Interior**
+La valoración se complementa con la información detallada en una ficha de protocolo para intervenciones en aerogeneradores.
+*   El mando de intervención (MI) y el jefe de dotación (CJD) leen la situación y analizan los riesgos inminentes, considerando la altura del aerogenerador y las condiciones meteorológicas (velocidad del viento).
+*   Se elabora un plan de acción:
+    *   Los atrapamientos en el buje suelen ocurrir por falta de bloqueo del eje primario o por atrapamiento en los sistemas hidroneumáticos de variación del ángulo de ataque de las palas.
+    *   Se bloqueará el eje primario, se liberará a la víctima y se evacuará con el dispositivo Fernoked (única opción debido a la estrechez de la vía de salida) a través de la trampilla posterior de la nacelle.
+*   Se realiza la sectorización y zonificación del incidente: la zona caliente comprende todo el interior del aerogenerador, y se establece un perímetro exterior de al menos 20 metros de radio para la posible caída de materiales durante el rescate.
+*   **Acciones Inminentes:**
+    *   El MI o, en su ausencia, el CJD, coordina con el telemando de la compañía la detención, desenergización y desconexión remota del aerogenerador. Si no es posible de forma remota, lo realizará el personal de mantenimiento.
+    *   Para acceder a la nacelle, es imprescindible detener el aerogenerador, bloqueando el giro de palas y la orientación de la nacelle sobre la torre.
 
-Según sus propiedades mecánicas, existen dos tipos principales:
-*   Las **cuerdas dinámicas**, reguladas por la norma EN 892, se emplean en maniobras con riesgo de caída. Su alargamiento (6-10%) reduce la energía del impacto, actuando como un muelle. El número de terminales (simple, doble o gemela) define su uso.
-*   Las **cuerdas semiestáticas**, reguladas por la norma EN 1891, se usan para trabajos en suspensión y rescate de heridos. Su menor alargamiento (2-5%) evita el efecto "yo-yo". Se clasifican en:
-    *   **Tipo A:** Resistencia mínima de 22 kN, fuerza de choque máxima de factor 0,3 con 100 kg de masa.
-    *   **Tipo B:** Resistencia mínima de 18 kN, fuerza de choque máxima de factor 0,3 con 80 kg de masa.
-Ambos tipos requieren aseguramiento con cuerda dinámica si se supera el factor de caída de 0,3.
+**c) Control**
 
-El **diámetro de la cuerda** (entre 2 y 11 mm) es crucial para su resistencia; diámetros menores de 8 mm se denominan "cordinos". Las cuerdas pueden usarse en **simple** (un solo cabo, diámetros 9,4-11 mm), en **doble** (dos cabos alternados por los seguros, diámetros 8-9 mm, ventajoso en caso de corte) o en **gemela** (dos cabos juntos por los seguros, diámetros 8-9 mm, como si fuera una cuerda simple).
+**I. Acceso y Rescate**
+La progresión en el interior del aerogenerador se realiza mediante uno de los siguientes métodos de aseguramiento:
+*   Uso de una línea de vida ya instalada de cable de acero de 8 mm con bloqueador específico, si el personal de mantenimiento la proporciona.
+*   Instalación de una línea de vida al momento, utilizando un dispositivo ASAP sobre cuerda semiestática, anclada en la cabecera de la escalera con un Sistema de Anclajes de Seguridad (SAS) y fraccionamientos en cada plataforma.
+Para la instalación, se prefieren los siguientes sistemas en orden:
+*   Ascenso asegurado a la línea de vida de cable de acero con bloqueador específico.
+*   Ascenso asegurando la progresión con cuerda dinámica y anclajes en travesaños.
+*   Ascenso libre, solo si la urgencia lo requiere.
+No se debe utilizar el elevador bajo ninguna circunstancia.
+*   Acceder a la nacelle y activar el bloqueo del eje primario. Mediante la bomba hidráulica manual ubicada junto a la seta en el eje primario, se accionan 2 bulones para bloquear un disco perforado solidario al eje primario.
+*   Para acceder al buje, una vez accionado el sistema de bloqueo del eje primario, se debe esperar a que las palas estén en posición de bandera y el rotor en “Y”.
+*   Localizar a la víctima y realizar una valoración sanitaria.
 
-El **manten
+**d) Mitigación**
+
+**I. Realización del Rescate**
+*   Dos bomberos liberan a la víctima y la trasladan a la nacelle con el dispositivo Fernoked.
+*   Simultáneamente, otro bombero localiza y monta 2 SAS independientes (para la cuerda de evacuación y la de seguro) sobre el puente grúa encima de la trampilla.
+*   Se apareja a la víctima a la camilla.
+*   Se abre la trampilla.
+*   Se inicia el descenso de la víctima, acompañada por un rescatador.
+*   La evacuación se efectúa según las técnicas de descenso con camilla.
+*   El descenso comienza en posición vertical para facilitar la extracción de la camilla por la trampilla. Luego, mediante el método STEF (Sistema Técnico de Equilibrado Fácil), se coloca a la víctima en posición horizontal hasta el suelo.
+*   La víctima es transferida al personal sanitario.
+
+**II. Valoración Continua**
+*   El mando de intervención realiza una valoración continua del rescate, del estado de los recursos y del éxito de las acciones emprendidas.
+
+**III. Restitución**
+*   Se restablece la situación previa al rescate.
+*   Se informa y transfiere el incidente y las acciones tomadas en el aerogenerador al personal de mantenimiento.
+
+**e) Valoración Final y Vuelta a la Base**
+*   Verificación de la ausencia de peligros después del rescate: cierre de trampillas, recogida de material, etc.
+*   Consideraciones de seguridad para el beneficiario: se transmiten instrucciones de seguridad al personal de la compañía sobre el estado de las instalaciones tras el siniestro.
+*   Recuperación de la operatividad de la dotación.
+*   Análisis colectivo de la intervención por parte de toda la dotación.
+
+---
+
+### Conviene Recordar (Rescate en Altura)
+
+**Planificación y Definiciones:**
+*   La planificación urbanística actual, con numerosas estructuras verticales de gran altura, exige a los bomberos conocer y dominar técnicas de socorro en montaña, espeleosocorro y trabajos verticales para garantizar intervenciones seguras, rápidas y eficaces, cuando los medios convencionales (autoescalas, brazos articulados) no son viables.
+*   El trabajo en altura se define como cualquier actividad o desplazamiento donde un trabajador está expuesto a un riesgo de caída a distinto nivel con una diferencia de cota superior a 1,5 metros del plano horizontal más cercano. Esto incluye también trabajos bajo el nivel 0, como pozos o excavaciones de más de 1,5 metros de profundidad, que comparten características con espacios confinados.
+*   Un **sistema de retención** delimita un área de trabajo impidiendo la entrada a una zona de riesgo de caída, sin estar diseñado para detenerla.
+*   Un **sistema de sujeción** posiciona al usuario con precisión en apoyo o suspensión, pero no está diseñado para detener caídas y debe complementarse con un sistema anticaídas.
+*   Un **sistema anticaídas** es un dispositivo de aseguramiento independiente del método de progresión o sujeción, conectado al punto "A" del arnés. Su función es detener la caída libre, limitando la fuerza de choque sobre el usuario. Requiere prever siempre una **altura libre de seguridad**.
+*   La **cadena de seguridad** es el conjunto de elementos que absorben la energía de una caída para una detención amortiguada y sin daños. Inicia en el arnés del bombero y continúa a través del nudo de encordamiento, la cuerda, mosquetones, cintas en seguros intermedios, anclajes fijos y el dispositivo asegurador del otro bombero y su arnés.
+*   En rescates verticales, la **cuerda** es el elemento más vital de la cadena dinámica de seguridad. Permite el acceso y descenso, la seguridad ante caídas y la conexión a la zona exterior en espacios confinados. Se utiliza para el rescate de víctimas en altura, tanto interior como exterior.
+*   Los **nudos** son fundamentales para unir al bombero con la cuerda y a esta con los seguros, así como para fijar objetos. Su dominio es esencial para maniobras como encordarse, rapelar o unir cuerdas.
+*   Los **polipastos** combinan poleas fijas y móviles para reducir el esfuerzo necesario al mover una carga. La relación entre la fuerza aplicada (E) y el peso de la carga (R) se denomina Ventaja Mecánica (VM).
+*   Siempre que sea factible, se prioriza el **descenso de cargas** sobre el ascenso, ya que es más seguro, cómodo y requiere menos recursos y personal al aprovechar la gravedad.
+
+**Actuación en Rescates Técnicos:**
+*   En todo rescate técnico, es crucial una **valoración sistemática** previa a cualquier acción para asegurar la solución más sencilla y segura.
+*   Una **táctica de intervención** es un conjunto coordinado y planificado de herramientas y técnicas. En rescates en altura, las tácticas principales son los rescates por descenso, ascenso, bajo cota cero, en terraplenes/taludes y con tirolina.

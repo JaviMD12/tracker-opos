@@ -1,88 +1,75 @@
-## Caracterización de Elementos de Cierre en Edificaciones: Aspectos Legales, Tipológicos y Constructivos
+A continuación, se presenta un temario original y exhaustivo sobre riesgos tecnológicos y asistencias técnicas, centrado en electricidad, a partir de la información proporcionada.
 
-La intervención en escenarios de emergencias que requieren la apertura forzada de elementos de cierre en edificaciones, como puertas y ventanas, demanda un conocimiento exhaustivo de sus características constructivas, los riesgos asociados y el marco legal aplicable. La actuación de los servicios de emergencia, particularmente los bomberos, debe ser siempre proporcionada y justificada, primando la salvaguarda de vidas y la salud en situaciones de "estado de necesidad", aunque, en circunstancias normales, se requiere autorización judicial o de las Fuerzas y Cuerpos de Seguridad para evitar el delito de allanamiento de morada.
+### PARTE 6: RIESGO ELÉCTRICO
 
-### Marco Legal y Actuación Operativa en Aperturas Forzadas
+#### Capítulo 2: Valoración e intervención en incidentes con riesgo eléctrico
 
-La legislación establece límites claros para la entrada en propiedades privadas. El Código Penal español, por ejemplo, sanciona el allanamiento de morada con penas de prisión de seis meses a dos años. Sin embargo, en situaciones de emergencia donde vidas o la salud de personas están en peligro, o en cumplimiento del deber público, los bomberos están habilitados para actuar de forma proporcionada y justificada. Es fundamental que toda intervención se realice con autorización previa o la presencia de las autoridades pertinentes para legitimar la acción. En ausencia de indicios de emergencia, la intervención de los bomberos no es procedente, debiendo limitarse a métodos no destructivos en caso de que la ausencia de servicios de cerrajería 24 horas genere una situación de desamparo.
+**1. Valoración de la Intervención**
+La gestión de incidentes con riesgo eléctrico exige que el mando evalúe la situación y defina acciones pertinentes. Este proceso se inicia con la recepción del aviso, donde se recopila información para el transporte del equipo y las acciones iniciales. Una vez en el lugar, el mando activa el plan de acción, considerando los riesgos inminentes, la magnitud del evento, los recursos humanos y materiales disponibles. La evaluación es continua para adaptarse a imprevistos.
 
-### Tipologías y Características de las Puertas
+**2. Intervención en Incidentes con Alta y Baja Tensión**
+Para una intervención exitosa, es fundamental considerar las características específicas del incidente, como si se trata de alta o baja tensión, la presencia o ausencia de corriente, la ubicación (exterior, interior, subestación, subsuelo).
 
-La evolución de la seguridad en las viviendas ha impulsado la instalación de diversas tipologías de puertas, cada una con características específicas que los bomberos deben conocer:
+Para identificar la tensión, se pueden observar las instalaciones:
+*   Las líneas aéreas o subterráneas que conectan ciudades y pueblos suelen ser de alta tensión.
+*   Las líneas dentro de ciudades y pueblos, generalmente, transportan baja tensión.
+*   El tipo de torre y aisladores indica la tensión: aproximadamente 10 kV por aislador; torres más altas y grandes transportan mayor tensión; más aisladores implican mayor voltaje. La distancia entre conductores también es un indicador.
 
-#### Puertas de Seguridad
+**2.1. Incidentes con Alta Tensión**
 
-Las puertas se clasifican en función de su resistencia y componentes, desde las más sencillas hasta las más robustas:
+**2.1.1. Protocolo General de Actuación en Alta Tensión**
 
-1.  **Puertas Sencillas de Seguridad:** Comúnmente instaladas como acceso principal en viviendas, se refuerzan con perfiles internos de madera, metal o PVC. Ofrecen resistencia al fuego, humo y gases. Sus cerraduras suelen tener bombillos de seguridad, lo que dificulta su apertura con ganzúas, pero su nivel de seguridad es inferior al de las puertas blindadas o acorazadas. La presencia de madera en su estructura interna puede hacerlas vulnerables a la aplicación de palancas si no cuentan con refuerzos adecuados.
-2.  **Puertas Blindadas:** Utilizadas frecuentemente en empresas, oficinas y, cada vez más, en viviendas. Se distinguen por incorporar chapas de acero de aproximadamente dos milímetros de grosor en ambas caras, intercaladas entre capas de madera o aleaciones. Son altamente resistentes al fuego, humo, gases y calor. Sus cerraduras son más sofisticadas, con cilindros difíciles de extraer mediante ganzúas o taladros. El bloqueo se realiza en cuatro puntos (marco superior, inferior, bisagras y cerradura) a través de barras de acero internas, ofreciendo una resistencia de hasta 500 kilogramos.
-3.  **Puertas Acorazadas:** Representan el nivel más alto de seguridad, destinadas a proteger espacios con objetos de gran valor. Incorporan barras de acero y hormigón especial, junto con rigidizadores. La cerradura está incrustada en el marco, con pestillos de forma oblonga, redondeada o rectangular que garantizan un cierre en cuatro puntos (frontal, inferior, superior y lateral). Pueden incluir sistemas de combinación (discos o electrónicos) y bisagras reforzadas para impedir su manipulación.
+*   **a) Valoración del tipo de incidente:**
+    Es esencial determinar la tensión (alta o baja), el nivel de voltaje exacto y si el incidente ocurre en superficie o bajo tierra.
 
-#### Normativa de Puertas de Seguridad
+*   **b) Corte del suministro eléctrico:**
+    Una vez identificado el riesgo y su posible propagación, se solicita a la compañía eléctrica la interrupción del suministro. Es crucial proporcionar los datos precisos de localización (número de subestación, número de apoyo para CTs exteriores). Es indispensable verificar visualmente el corte de todas las líneas de entrada y salida, tanto de alta como de baja tensión. Si no es posible cortar la tensión en una subestación, se emplean métodos de trabajo a distancia, como monitores de agua o espuma.
 
-La resistencia de las puertas está regulada por normas específicas:
+*   **c) Distancias de seguridad:**
+    Se debe mantener una distancia de seguridad apropiada para cada situación.
 
-*   La **norma europea UNE EN 1627:2011** clasifica la resistencia a la efracción (ataques violentos, cargas estáticas y dinámicas, y ataques manuales básicos) en grados 3, 4 o 5. Esta norma presenta una exigencia manual relativamente baja.
-*   La **norma española UNE 85160:2013** es más completa y actualizada, incluyendo los ensayos de la norma europea y añadiendo pruebas con ataques manuales sofisticados, mayor duración y la acción simultánea de hasta dos atacantes.
+*   **d) Zonificación y balizamiento:**
+    Se delimita la zona con cintas de balizamiento, adaptando la extensión a la magnitud del incidente, para prevenir daños y controlar la intervención. Es crucial impedir el acceso de vehículos a zonas de baja tensión o con cables sueltos.
 
-### Tipologías y Elementos de las Cerraduras
+**2.2. Incidentes con Baja Tensión**
 
-Las cerraduras son el punto más vulnerable de una puerta, y su diseño influye directamente en las técnicas de apertura forzada:
+**2.2.1. Protocolo General de Actuación en Baja Tensión**
 
-1.  **Cerraduras Estándar (de Tambor de Pines o de Cámara de Pernos):** Emplean pines de distinta longitud para bloquear el cerrojo. La llave adecuada alinea estos pines permitiendo el giro. La *estría* (ranura del tambor) puede tener salientes que dificultan el forzado. El *tambor* contiene de cinco a seis agujeros con pines/pernos accionados por muelles. Algunas incluyen un "gira loco" para aumentar la seguridad y evitar el corte.
-    *   **Sistemas de seguridad del cilindro:** Para evitar el forzado, existen cilindros *antiganzúa* con pernos tensados por muelles, y cilindros *antitaladro* con pernos de acero templado. Los *escudos protectores* se instalan para resguardar el bombín, la parte más débil, frente a ataques destructivos como el taladrado o el bumping.
-2.  **Cerraduras de Embutir:** Se integran en el interior de la puerta, comunes en puertas interiores de viviendas. Su mecanismo de giro depende del resbalón.
-3.  **Cerraduras de Sobreponer:** Se instalan en la superficie exterior de la puerta, típicas en accesos a sótanos o bodegas. Su apertura se controla desde el interior, y el sentido de giro del pestillo (derecho o izquierdo) es crucial.
-4.  **Cerraduras de Seguridad (para puertas principales):**
-    *   **Simple (de Paleta Simple o "Francesa"):** Antiguo sistema con una paleta lateral, actualmente de uso limitado a muebles.
-    *   **Doble Paleta (Gorjas):** Utilizan llaves con muescas a distintas alturas. Son seguras, pero pueden ser manipuladas si no cuentan con protecciones adicionales como el "gira loco".
-    *   **De Cilindro Tipo Yale:** Permiten la sustitución del cilindro sin cambiar toda la cerradura.
-    *   **De Cilindro Europeo:** Las más extendidas en viviendas, con llaves de serreta o planas (estas últimas ofrecen mayor seguridad).
+*   **a) Corte del suministro eléctrico:**
+    El corte se realiza a través de la compañía eléctrica (si el incendio está fuera del centro de transformación y dentro del límite de propiedad de la compañía) o por el equipo de intervención (si el incendio es en el interior de la vivienda). Los métodos para el corte son:
+    *   **Líneas de distribución:** Localizar el panel de baja tensión, retirar fusibles, cortar el cable trenzado con herramienta aislante (los conductores uno a uno, el neutro al final). Luego, proceder a la extinción.
+    *   **Caja General de Protección (CGP):** Cortar el cable de acometida con cizalla dieléctrica. Las entradas suelen ser superiores y las salidas inferiores. Luego, proceder a la extinción.
+    *   **Centralización de contadores:** Retirar los fusibles de la CGP que alimentan los contadores. Si el incendio persiste tras retirar fusibles, proceder a la extinción. Es importante recordar que el interruptor general de maniobra desconecta ascensores y ventilación de garajes.
+    *   **Vivienda:** Localizar y retirar fusibles de la CGP. Si inaccesible, usar el interruptor general de maniobra del cuarto de contadores. Si tampoco es posible, operar sobre los elementos del cuadro de mando y protección de la vivienda (diferencial, interruptor general, PIAs). Luego, proceder a la extinción.
+    *   **Vivienda unifamiliar o industria:** Localizar el armario de protección y medida en la fachada principal. Abrir el interruptor general y retirar fusibles uno a uno rápidamente para evitar arcos. Verificar que no haya otras fuentes de corriente (generadores). Luego, proceder a la extinción.
 
-### Candados y Cerrojos
+*   **b) Distancia de seguridad:**
+    Se mantiene la distancia de seguridad recomendada para cada caso.
 
-Además de las cerraduras integradas, otros elementos de cierre incluyen:
+**2.2.2. Protocolo Específico para la Extinción de un Incendio**
 
-*   **Candados:** Dispositivos de seguridad móviles, útiles para asegurar puertas grandes o metálicas con cadenas. Se abren con llave o sistemas de contraseña personalizables.
-*   **Cerrojos (Pestillos):** Generalmente metálicos, aseguran puertas y ventanas. El *cerrojo de embutir* tiene una barra pasante que se desliza en el marco. Los *cerrojos de seguridad* y de *gancho* incorporan mecanismos que impiden el retroceso al cerrar, como un giro de 90º. También existen *láminas de hierro* que actúan como cerrojos.
+*   **a) Control de la propagación:**
+    Para prevenir la extensión del incendio o daños, se utilizan extintores de polvo químico, CO2 o polvo polivalente ABC. Si la instalación eléctrica no tiene corriente, se puede emplear agua pulverizada o espumas.
 
-### Tipologías y Elementos de las Ventanas
+*   **b) Extinción del incendio:**
+    Una vez cortado el suministro, se instala un mangaje de 45 mm con bifurcación de 45-25 mm y lanza de 25 mm para incendios pequeños exteriores. En incendios de gran envergadura, se puede mantener la instalación anterior. Se pueden usar mangajes de 45 mm y monitores de largo alcance. En casetas, locales o subterráneos, se emplean extintores de CO2 o polvo polivalente ABC, o sistemas de agua/espuma con ventilación. En líneas de distribución (cable trenzado), se usa extintor de polvo químico seco o polivalente. La extinción es más difícil con cortocircuitos activos. Se puede usar agua pulverizada para enfriar el aislamiento o agua a chorro discontinuo si no es posible acercarse. En CGP, polvo químico seco/polivalente; si hay cortocircuitos, cortar corriente y usar agua pulverizada. En centralización de contadores, CO2; si ineficaz, polvo polivalente ABC; si hay cortocircuitos, cortar corriente y usar agua pulverizada.
 
-Las ventanas son otro punto de acceso forzado frecuente, con diversas características en función de su material y sistema de apertura:
+*   **c) Vuelta a la normalidad:**
+    Tras extinguir el incendio, se realiza una nueva evaluación para verificar la normalidad. Si las protecciones están dañadas, el propietario debe encargarse de las reparaciones. Se emite un informe de la intervención.
 
-1.  **Materiales:** Las ventanas se fabrican comúnmente en aluminio (resistente a la corrosión), madera (menos resistente a los agentes atmosféricos), PVC y poliuretano (ambos con buenas propiedades de aislamiento térmico y resistencia a la temperatura).
-2.  **Sistemas de Apertura:**
-    *   **Batientes:** Clásicas, abren hacia los lados, proporcionan buena ventilación e iluminación, pero requieren espacio.
-    *   **Oscilantes de Eje Superior:** Basculan sobre su borde superior, ahorran espacio y permiten ventilación, aunque dificultan la limpieza exterior y pueden limitar la visión.
-    *   **Basculantes:** Oscilan sobre un eje central horizontal, con ventajas y desventajas similares a las oscilantes superiores.
-    *   **Pivotantes:** Giran sobre un eje central vertical. El cristal se mantiene vertical (menos suciedad), pero dividen el espacio.
-    *   **Oscilobatientes:** Combinan apertura batiente y oscilante. Fabricadas en aluminio o PVC, ofrecen buena accesibilidad para limpieza, pero sus mecanismos son complejos y susceptibles a averías.
-    *   **Correderas:** Con dos o más hojas que se deslizan horizontalmente sobre rieles. Ahorran espacio de apertura, pero parte del hueco permanece ocupado, reduciendo la ventilación y complicando la limpieza exterior.
-    *   **De Celosía:** Compuestas por lamas de cristal horizontales que giran simultáneamente. Son sencillas de limpiar y proporcionan buena ventilación y luz, si bien sus mecanismos pueden atascarse y su cierre no es hermético, afectando el aislamiento.
+**2.2.3. Protocolo Específico para el Rescate**
 
-### Tipos de Cerradura de Ventana
+*   **a) Valoración del tipo de material a utilizar:**
+    El equipo de protección incluye alfombra aislante, extractor de fusibles, cizalla y alicates aislados, destornilladores aislados (estrella y plano), guantes dieléctricos y de trabajo, pinza amperimétrica, comprobador de tensión o polímetro, y traje de protección. Para rescates en subestaciones, se usa EPI individual específico (banqueta, pértiga de salvamento, guantes aislantes). Es crucial evitar el contacto directo con partes bajo tensión o ropa mojada. En viviendas, no se requiere distancia de seguridad, pero sí el EPI adecuado al nivel de tensión.
 
-Las cerraduras de ventana son más simples que las de puerta, priorizando el cierre sobre la protección antirrobo. Los tipos más comunes incluyen mecanismos de manivela, basculantes planos, cierres de corredera, oscilobatientes y pasadores de fijación de hojas.
+*   **b) Rescate:**
+    Se deben aplicar inmediatamente los primeros auxilios necesarios a la situación.
 
-### Tipos de Vidrio
+*   **c) Extinción si procede:**
+    Se utilizan medios extintores adecuados al nivel de tensión existente, si no se ha podido realizar el corte.
 
-El tipo de vidrio de una ventana es crucial para la seguridad y el aislamiento:
+*   **d) Vuelta a la normalidad:**
+    Se notifica a la empresa eléctrica sobre el accidente para fines de estadísticas y mantenimiento. Se elabora un informe de la intervención.
 
-1.  **Termoendurecido:** Mayor resistencia a golpes, pero se rompe en fragmentos grandes.
-2.  **Templado:** Considerado de seguridad, se fractura en pequeños fragmentos inofensivos.
-3.  **Laminado:** Compuesto por dos o más placas de cristal unidas por láminas de polivinilo butiral (PVB). Los vidrios blindados son una variante con múltiples capas laminadas.
-4.  **Con Cámara:** Dos o más láminas de vidrio separadas por una cámara de aire o gas deshidratado, mejorando el aislamiento.
-
-Las normas europeas como la UNE-EN 12600 (seguridad de uso), UNE-EN 356 (anti-agresión), UNE-EN 1063 (anti-bala) y UNE-EN 13541 (anti-explosión) regulan las prestaciones de seguridad de los cristales.
-
-### Persianas, Rejas de Protección y Cierres Metálicos
-
-Otros elementos de cierre a considerar incluyen:
-
-*   **Persianas:** Retráctiles o enrollables, de interior o exterior, fabricadas en plástico (PVC) o aluminio. Su función es regular la luz, la temperatura, la intimidad y la seguridad. Los mecanismos de accionamiento pueden ser motorizados, de cinta o de manivela.
-*   **Rejas de Protección (Enrejados):** Se usan como cierre de ventanas y huecos, generalmente de barras metálicas. Pueden ser *fijas* (embutidas en la pared, ofreciendo mayor resistencia) o *desmontables* (plegables o abatibles, con perfiles más ligeros y, por tanto, menos resistentes).
-*   **Cierres Metálicos:** Comunes en locales comerciales.
-    *   **De Tijera:** Extensibles, tradicionales, con pintura al horno para reducir ruido. Pueden incorporar hojas giratorias o guías abatibles.
-    *   **Enrollables:** Pueden ser *ciegos* (impide totalmente el acceso y la visibilidad, muy implantados en zonas urbanas) o *con visibilidad* (con diseños troquelados, microperforados o de varillas de acero, comunes en escaparates).
-
-Este análisis detallado de los elementos de cierre es fundamental para que los profesionales de emergencias puedan tomar decisiones informadas y eficaces en sus intervenciones.
+**3. Valoración Dinámica de la Intervención**
+Las medidas iniciales no siempre son óptimas y pueden empeorar la situación (ej. uso de agua en un transformador incendiado con aceite). Si las acciones no logran el resultado esperado, es necesario reevaluar y modificar el plan de intervención.

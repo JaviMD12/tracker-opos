@@ -1,9 +1,89 @@
-## Caracterización y Medidas de Seguridad en el Riesgo Eléctrico para Operaciones de Emergencia
+### 1. Manejo Táctico de Incidentes con Sustancias Peligrosas: Riesgo Químico
 
-La electricidad, inherente a la tecnología moderna, es un factor de riesgo significativo en las intervenciones de bomberos, por lo que es esencial comprender sus conceptos básicos, las redes eléctricas y las medidas de seguridad asociadas.
+Para una intervención eficaz en incidentes que involucran sustancias peligrosas, es fundamental que el mando evalúe las variables y condiciones existentes para seleccionar el método de aplicación más adecuado. La estrategia define los planes de acción, mientras que la táctica, integrada en la estrategia, es el conjunto de medidas y métodos para su ejecución. Un método defensivo implica menos riesgos, pero un ofensivo puede ser preferible para minimizar el daño ambiental. La estimación del tiempo para cambiar de táctica en intervenciones interiores es compleja, ya que no puede valorarse el tiempo, sino las consecuencias y la probabilidad de éxito.
 
-### I. Fundamentos de la Electricidad
+El protocolo del CEIS Guadalajara para la **Fase 0: Movilización** en intervenciones con sustancias peligrosas, implica las siguientes acciones cronológicas:
 
-El **átomo**, la unidad fundamental de la materia, está compuesto por un núcleo que contiene **protones** (con carga positiva, que determinan el número atómico Z) y **neutrones** (sin carga eléctrica, que junto a los protones forman el número másico A). Alrededor del núcleo orbitan los **electrones** (con carga negativa). Los átomos con el mismo número attones pero diferente número de neutrones se denominan **isótopos**. La **carga eléctrica (Q)**, medida en culombios (C), es fundamental, y su interacción genera **fuerzas electromagnéticas**: cargas iguales se repelen y opuestas se atraen.
+| Fase         | Definición Fase          | Acciones                                            | Quién Realiza                                |
+| :----------- | :----------------------- | :-------------------------------------------------- | :------------------------------------------- |
+| 0 Movilización | Recepción de aviso. Toma de datos | Confirmar datos. Nivel de gravedad. Solicitar medios | Central                                      |
+|              |                          | Zonificación teórica.                               | Mando                                        |
+| 1 Valoración | Reconocimiento           | Valoración in situ.                                 | Varios                                       |
+|              |                          | Rescate rápido con nivel 1.                         | Mando                                        |
+|              |                          | Zonificación inicial.                               | Grupo de intervención                        |
+|              |                          | Ubicación y control medios.                         | Varios                                       |
+| 2 Control Daños | Método defensivo u ofensivo | Evacuación o confinamiento.                         | Mando                                        |
+|              |                          | Descontaminación intervinientes y víctimas.         | Grupo de intervención                        |
+| 3 Mitigación | Mitigar causa emergencia | Descontaminación.                                   | Grupo de apoyo                               |
+|              |                          | Vuelta a la normalidad.                             | Grupo de apoyo                               |
+|              |                          |                                                     | Todos                                        |
 
-Cuando la electricidad se genera por la separación o fricción de materiales, se habla de **electricidad electrostática**, que puede provocar descargas, calambres o incluso incendios. La **intensidad (I)** de la corriente eléctrica, medida en amperios (A), es la cantidad de carga que fluye por un conductor en una unidad de tiempo, y se rige por la **Ley de Ohm (I = V/R)**, donde V es la tensión y R la resistencia
+**Fase 0: Movilización**
+
+En incidentes NRBQ, la zonificación se refiere al área geográfica donde la sustancia peligrosa puede manifestar sus efectos con cierta probabilidad y virulencia. Es esencial realizar una zonificación teórica, que se basa en el cálculo de las dimensiones y forma de la zona caliente, asumiendo el escenario más pesimista. Esta zonificación no requiere un perímetro físico estricto, pero sí un control adecuado de accesos.
+
+### 2. Factores Determinantes en la Intervención NRBQ
+
+Para la toma de decisiones en una emergencia NRBQ, el mando debe considerar la información recopilada y la valoración inicial para decidir la estrategia, que incluye los siguientes pasos clave del método "DECIDE":
+
+*   **D: Detectar la presencia de materiales peligrosos:** Implica reconocer e identificar las sustancias, sus propiedades físico-químicas, los riesgos para las personas, el nivel de protección necesario y la delimitación de las zonas de intervención.
+*   **E: Estimar el daño previsible sin intervención:** Visualizar los posibles resultados de no intervenir, analizando el comportamiento de la sustancia peligrosa y los riesgos para los intervinientes. Se plantean preguntas como el tipo de fuga (gaseosa, líquida, sólida), estabilidad de la situación, dirección del vertido y evolución de la emergencia.
+*   **C: Constituir los objetivos para la respuesta:** Definir metas claras y específicas que deben ser comunicadas al personal, basándose en las prioridades detectadas.
+*   **I: Identificar las opciones para la acción:** Valorar todas las tácticas posibles (evacuación, taponamiento, relicuación) antes de actuar.
+*   **D: Desarrollar la mejor opción:** Seleccionar la opción más eficaz y con menor riesgo, asegurando que el objetivo sea alcanzable con los medios disponibles. Las opciones pueden ser:
+    *   **Defensivas:** Riesgo > Beneficios (contención, vigilancia, zonificación).
+    *   **Ofensivas:** Riesgo < Beneficios (taponamiento, quema, venteo).
+*   **E: Evaluar el progreso:** Realizar una valoración continua del incidente para ajustar las acciones y asegurar el cumplimiento de los objetivos.
+
+El acrónimo **MEA** (Materia - Estado - Alcance) resume las variables y factores más importantes a considerar:
+
+| MATERIA             | ESTADO                       | ALCANCE                                 |
+| :------------------ | :--------------------------- | :-------------------------------------- |
+| Propiedades físicas | Temperaturas de cambios de estado | Vidas comprometidas                     |
+| Propiedades químicas | Tipo de continente           | Entorno: urbano, rural, industrial      |
+| Cantidad de materia |                              | Medio ambiente                          |
+|                     |                              | Transporte o industria                  |
+
+**a) Materia:**
+La identificación de la sustancia peligrosa se coteja con fuentes como la ficha de intervención del Gobierno Vasco, el CERET (Centro Español de Respuesta ante Emergencias durante el transporte de mercancías peligrosas) o el CEREMP (Centro Español de Respuesta ante Emergencias durante el Transporte Marítimo de Mercancías Peligrosas).
+
+**I. Toxicidad:**
+En caso de fuga, es crucial determinar la toxicidad de la sustancia. Esto se evalúa comparando los datos con el IPVS (Concentración Inmediatamente Peligrosa para la Vida y la Salud) o los TLV (Valores Límite de Umbral).
+
+**II. Inflamabilidad:**
+Se considera la temperatura de inflamación, el rango de inflamabilidad y la temperatura de autoignición.
+
+*   **Temperatura de Inflamación:** La diferencia entre la temperatura ambiente y la de inflamación del material influye en la intervención. Es crucial considerar el estado del material (licuado, gasificado) y el riesgo de que la mezcla entre en rango de inflamabilidad.
+*   **Rango de Inflamabilidad:** Un límite inferior bajo significa que la sustancia entrará en rango de inflamabilidad más rápidamente. Un rango amplio (distancia entre el LII y el LSI) indica una mayor probabilidad de combustión.
+*   **Temperatura de Autoignición:** Es la temperatura mínima a la que una sustancia arde espontáneamente sin fuente de ignición. Para hidrocarburos en el aire, esta temperatura disminuye con el aumento del tamaño del recipiente. Por ejemplo, el tolueno en un recipiente de 0,05 litros se autoignifica a 580ºC, y en un recipiente de 15 litros, a 480ºC.
+
+| SUSTANCIA        | LII (%) | LSI (%) |
+| :--------------- | :------ | :------ |
+| Butano           | 1,8     | 8,4     |
+| Gasolina         | 1,4     | 7,6     |
+| Hidrógeno        | 4,1     | 75,6    |
+
+**III. Densidad:**
+La volatilidad de una sustancia se refiere a la facilidad con la que se evapora. Una sustancia es más volátil cuanto menor sea su temperatura de evaporación. Esto complica la contención en un recipiente y aumenta las distancias de las zonas de afección.
+
+**Tabla 43. Tasa mínima de aplicación para áreas de vertido sin diques ni elementos de contención (NFPA)**
+
+| LÍQUIDO        | Tipo de espuma                      | Tasa Mínima de Aplicación (l/min m²) | TIEMPO MÍNIMO DE DESCARGA (min) |
+| :------------- | :---------------------------------- | :----------------------------------- | :------------------------------ |
+| Hidrocarburos  | Proteínica y Fluoroproteínica      | 6,5                                  | 15                              |
+| Hidrocarburos  | AFFF, FFFP, y AFFF o FFFP resistentes al alcohol | 4,1                                  | 15                              |
+| Líquidos polares | Espumas resistentes al alcohol      | Depende datos fabricante             | Depende datos fabricante        |
+
+La aplicación de espuma a un líquido inflamable no incendiado debe ser lo más suave posible. Los métodos adecuados incluyen patrón de rocío o represar el chorro de espuma contra un respaldo.
+
+**Venteo:**
+Es una técnica para controlar y reducir la presión interna de un depósito o eliminar un producto de forma segura, permitiendo la salida controlada de gases al exterior. Puede usarse en líquidos o gases comprimidos menos densos que el aire si hay peligro de explosión o rotura mecánica.
+
+**Llamaradas:**
+Este proceso se utiliza para eliminar el producto de forma segura en fugas de líquidos con alta presión de vapor o gases comprimidos licuados. Es una combustión controlada del material para reducir la presión o eliminar el producto.
+
+**Venteo y Quemado:**
+Consiste en abrir una válvula del depósito para permitir la salida controlada de la sustancia y quemarla de forma controlada una vez reducida la probabilidad de explosión.
+
+**Supresión de Vapor:**
+Implica el uso de materiales activos sólidos para tratar sustancias peligrosas y eliminar el desgasificado del vapor. El resultado es la formación de un sólido más fácil de manejar, aunque podría ser peligroso y requerir eliminación adecuada.

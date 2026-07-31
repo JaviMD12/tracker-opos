@@ -1,34 +1,119 @@
-## Equipos de Protección Individual de las Vías Respiratorias: Características, Riesgos y Tipologías
+## Capítulo 3: Equipos de Protección Individual de Vías Respiratorias
 
-Los **equipos de protección individual (EPI) de las vías respiratorias** tienen como propósito fundamental reducir la concentración de contaminantes en el aire a niveles seguros para el usuario, actuando directamente en la zona de inhalación para prevenir la entrada de sustancias nocivas al organismo a través del sistema circulatorio.
+**Autoría:** CEIS Guadalajara
 
-### Riesgos Atmosféricos y Contaminantes
+### 1. Características Generales de los Equipos de Protección Respiratoria
 
-Los ambientes de trabajo pueden presentar diversos riesgos atmosféricos que hacen indispensable el uso de estos equipos, siendo los más comunes la **deficiencia de oxígeno**, la presencia de **gases tóxicos o inflamables**, la acumulación de **partículas o neblinas** que reducen la visibilidad, y la exposición a **sustancias corrosivas o biológicas**.
+#### 1.1. Definición
 
-En el contexto de los bomberos y emergencias, la **deficiencia de oxígeno** se produce cuando la concentración de oxígeno en el aire desciende por debajo del 19,5% en volumen (lo normal es 21%). Esta situación puede ser causada por el desplazamiento del oxígeno por otros gases, procesos de oxidación o por trabajos que consumen oxígeno, como el oxicorte. Los efectos de esta deficiencia en el cuerpo humano varían según la concentración: entre 19,5% y 16% no hay efectos visibles; de 16% a 12% se observa un incremento de la respiración, latidos acelerados y dificultades de atención y coordinación; entre 14% y 10% la coordinación muscular se dificulta, hay fatiga rápida y respiración intermitente; de 10% a 6% se presentan náuseas, vómitos, pérdida de movimiento, inconsciencia y posible muerte; y por debajo del 6%, la dificultad respiratoria y los movimientos convulsivos pueden llevar a la muerte en pocos minutos. Para contrarrestar esto, se requiere un aporte de oxígeno, ya sea mediante ventilación o con un equipo respirador autónomo que opere a demanda o con presión positiva.
+Los equipos de protección individual destinados a la protección respiratoria buscan reducir la concentración de contaminantes a niveles por debajo de los límites de exposición recomendados para el usuario. Su función principal es actuar directamente en la zona de inhalación del usuario, impidiendo la entrada de estos contaminantes al organismo a través del sistema circulatorio.
 
-Por otro lado, las **atmósferas con gases tóxicos** son fuente de numerosos accidentes, especialmente en espacios confinados. Pueden originarse por una ventilación o limpieza deficiente, cañerías mal conectadas o residuos. Entre los gases tóxicos más comunes se incluyen:
+Estos equipos se clasifican en dos categorías principales, según la provisión de aire:
+*   **Dependientes de la atmósfera (filtrantes):** Purifican el aire ambiente.
+*   **Independientes de la atmósfera (aislantes):** Suministran aire al usuario desde una fuente externa.
 
-*   El **monóxido de carbono (CO)**, conocido como el "asesino silencioso", es incoloro e inodoro y se genera por la combustión incompleta de combustibles o por fugas accidentales. La exposición a 200 ppm durante tres horas provoca dolor de cabeza; a 1000 ppm durante una hora o 500 ppm durante treinta minutos, causa esfuerzo cardíaco, malestar, náuseas y dificultad visual y auditiva; 1500 ppm durante una hora es peligroso para la vida; y 4000 ppm conduce al colapso, inconsciencia y muerte.
-*   El **ácido sulfhídrico (H2S)** es incoloro, inflamable y explosivo en altas concentraciones, con un olor a huevos podridos que puede dejar de percibirse rápidamente. Se encuentra en alcantarillas y tratamientos de aguas residuales. Una exposición repentina puede causar inconsciencia y paro respiratorio, mientras que una exposición menos aguda genera náuseas, vómitos, irritación ocular, tos y dolor de cabeza. Las concentraciones de 18 a 25 ppm irritan los ojos; de 75 a 150 ppm por varias horas, irritan las vías respiratorias y los ojos; de 170 a 300 ppm por una hora, causan irritación marcada; de 400 a 600 ppm por media hora, provocan inconsciencia y muerte; y 1000 ppm son fatales en minutos.
-*   El **dióxido de azufre (SO2)**, un gas irritante, se produce por la combustión de sulfuro. Exposiciones entre 1 y 10 ppm aumentan el pulso y la respiración, mientras que la exposición prolongada a concentraciones moderadas puede inducir asma. Concentraciones superiores a 100 ppm se consideran peligrosas para la vida.
-*   El **amoniaco (NH3)** es un irritante potente que puede provocar espasmos bronquiales y muerte. Es también explosivo si se descarga en una llama abierta. Una exposición corta de 300-500 ppm es la tolerancia máxima, mientras que 400 ppm causa irritación de garganta y vías respiratorias. Entre 2500-6000 ppm durante treinta minutos es peligro de muerte, y entre 5000-10000 ppm causa la muerte.
-*   El **cloro (Cl2)**, un gas irritante, se detecta por su olor picante a partir de 0,3-0,9 mg/m3 y puede provocar irritación de mucosas, ojos, nariz, garganta y pulmones a partir de 45 mg/m3. Las concentraciones de 150 mg/m3 o superiores son muy peligrosas. Las exposiciones agudas pueden causar inflamación pulmonar y edema pulmonar, y el contacto con la piel puede provocar quemaduras, además la exposición prolongada a bajas concentraciones puede derivar en cloracné.
+Dentro de estas categorías, se subdividen en:
+*   **Filtrantes:** Pueden ser contra partículas, contra gases y vapores, o mixtos. Incluyen adaptadores faciales como boquillas, mascarillas y autónomos (en un esquema que parece un error, ya que los autónomos son aislantes, no filtrantes, aunque su clasificación como 'filtrante' parece ser la inicial para luego ser re-clasificados).
+*   **Aislantes:** Se dividen en semiautónomos (línea de aire) y autónomos.
+    *   **Autónomos:** Pueden ser de circuito cerrado (regeneradores y autogeneradores) o de circuito abierto.
+    *   **Circuito Abierto:** Se clasifica en "a demanda" o "presión positiva".
 
-Los **riesgos de corrosión** en espacios confinados se deben a la acumulación de residuos que consumen oxígeno o a productos químicos de limpieza que generan gases corrosivos, afectando piel, mucosas y vías respiratorias. En estos casos, es obligatorio el uso de EPI y la consulta de sus fichas de seguridad. Los **riesgos biológicos**, como hongos, bacterias y virus, están presentes en trabajos de desinfección y suponen un riesgo para la salud humana.
+#### 1.2. Riesgos para el Uso de Equipos de Protección Respiratoria
 
-### Clasificación de Equipos de Protección Respiratoria
+Los equipos de protección respiratoria están diseñados para prevenir riesgos asociados al trabajo en ambientes contaminados, que incluyen:
 
-Los equipos de protección respiratoria se clasifican en dos grandes categorías, según su dependencia de la atmósfera circundante:
+##### 1.2.3. Riesgos Atmosféricos
 
-1.  **Equipos dependientes de la atmósfera (filtrantes)**: Estos equipos purifican el aire del ambiente, siendo adecuados para situaciones donde la concentración de oxígeno es superior al 18% y solo se busca proteger contra partículas o sustancias tóxicas. Se componen de un envase metálico o plástico con un sistema de fijación, que contiene material filtrante.
-    *   Los **filtros físicos** están diseñados para la retención de partículas como humos, nieblas, polvo y fibras. Operan mecánicamente, bloqueando estas partículas y purificando el aire. No ofrecen protección contra gases, vapores ni deficiencia de oxígeno. Se identifican con un código de color blanco y se clasifican por su eficacia: Clase P1 (menor protección, solo partículas sólidas), Clase P2 (protección media, para partículas sólidas P2S o sólidas y líquidas P2SL), y Clase P3 (mayor protección, para partículas sólidas P3S o sólidas y líquidas P3SL). Es crucial reemplazar el filtro antes de que se tapone y obstruya el flujo de aire.
-    *   Los **filtros químicos** se encargan de retener gases y vapores contaminantes mediante tres procesos: **adsorción** (moléculas se fijan a la superficie del carbón activado), **absorción** (moléculas reaccionan químicamente y quedan retenidas) y **oxidación** (moléculas se oxidan en presencia de un catalizador). Su eficacia disminuye con el aumento de la concentración del contaminante, y deben desecharse una vez saturados. Estos filtros se identifican con un código de colores específico para cada contaminante.
-    *   Los **filtros mixtos** combinan las funciones de los filtros físicos y químicos.
+Constituyen uno de los peligros más elevados, siendo la causa principal de accidentes por asfixia, intoxicación o explosión. Los riesgos atmosféricos más comunes son:
+*   **Deficiencia o enriquecimiento de oxígeno:** Concentraciones de oxígeno en la atmósfera inferiores al 19,5% o superiores al 23,5% en volumen.
+*   **Gases o vapores inflamables:** Excediendo el 10% de su límite inferior de inflamabilidad (LII).
+*   **Sustancias tóxicas o contaminantes:** Concentraciones que superan el límite permitido de exposición.
+*   **Residuos que afectan la visibilidad:** Polvos o neblinas que reducen la visibilidad a menos de 1,5 metros.
+*   **Sustancias nocivas para la salud:** Irritación, inflamación u otros efectos perjudiciales.
+*   **Concentraciones de polvos específicos:** Como los de cereales, por encima de los límites permisibles.
+*   **Productos derivados de la actividad productiva:** Desinfectantes, plaguicidas, etc.
 
-Estos filtros se conectan a un **adaptador facial**, que puede ser una **máscara o careta** (cubre vías respiratorias y ojos), una **mascarilla** (cubre nariz y boca) o una **boquilla** (cubre solo la vía bucal).
+Se identifican casos frecuentes y críticos en situaciones de emergencia:
 
-2.  **Equipos independientes de la atmósfera (aislantes)**: Estos suministran aire al usuario desde un sistema autónomo, lo que los hace adecuados para ambientes con deficiencia de oxígeno o concentraciones muy altas de contaminantes. Dentro de esta categoría se encuentran los equipos autónomos y semiautónomos.
+**a) Atmósferas Suboxigenadas (Deficiencia de Oxígeno)**
 
-Para garantizar la seguridad del personal, es imperativo que todo el equipo de protección respiratoria esté debidamente certificado y cumpla con la normativa vigente, siendo su mantenimiento, uso y almacenamiento adecuados factores clave para su operatividad y eficacia.
+En condiciones normales, el aire contiene un 21% de oxígeno en volumen. Una deficiencia de oxígeno ocurre cuando este porcentaje disminuye por debajo del 19,5%, como en espacios confinados. Esta situación requiere un aporte efectivo de oxígeno, ya sea mediante ventilación o con un equipo respirador autónomo que opere a demanda o con un sistema de presión positiva.
+
+Esta deficiencia puede ser causada por desplazamiento de oxígeno por otros gases, procesos químicos de oxidación (fermentación, corrosión) o actividades que consumen oxígeno (oxicorte, soldadura de acetileno). Se requieren controles periódicos o permanentes de la calidad del ambiente interno.
+
+Los efectos de la disminución de oxígeno en el cuerpo humano se detallan a continuación:
+
+| Concentración de O2 | Efectos en el Cuerpo Humano                                                                        |
+| :------------------ | :------------------------------------------------------------------------------------------------- |
+| 19,5% - 16%         | Sin efectos visibles.                                                                              |
+| 16% - 12%           | Aumento de la respiración. Latidos acelerados. Dificultad en atención, pensamiento y coordinación. |
+| 14% - 10%           | Dificultad en coordinación muscular. Fatiga rápida. Respiración intermitente.                      |
+| 10% - 6%            | Náuseas, vómitos. Incapacidad para realizar movimientos o pérdida de movimiento. Inconsciencia seguida de muerte. |
+| Inferior al 6%      | Dificultad para respirar. Movimientos convulsivos. Muerte en pocos minutos.                      |
+
+**b) Atmósferas con Gases Tóxicos**
+
+Estas atmósferas son una causa común de accidentes en espacios confinados, originados por ventilación o lavado deficientes, tuberías mal desvinculadas, residuos (barros), entrada desde fuentes externas o aplicación de productos como plaguicidas o desinfectantes.
+
+Los gases tóxicos más comunes en este tipo de atmósferas incluyen:
+
+*   **Monóxido de Carbono (CO):**
+    *   Gas incoloro e inodoro, conocido como el "asesino silencioso", generado por la combustión incompleta de combustibles o por liberaciones accidentales/mantenimiento deficiente (chimeneas, mecheros).
+    *   El envenenamiento por CO puede ser repentino.
+    *   Efectos sobre el cuerpo humano:
+
+| Concentración de CO | Tiempo de Exposición | Efectos en el Cuerpo Humano                                                                            |
+| :------------------ | :------------------- | :------------------------------------------------------------------------------------------------------- |
+| 200 ppm             | 3 horas              | Dolor de cabeza.                                                                                       |
+| 1000 ppm            | 1 hora               | Esfuerzo cardíaco, dolor de cabeza, malestar, fotopsia ocular (destellos), zumbido en los oídos, náuseas. |
+| 500 ppm             | 30 minutos           | Esfuerzo cardíaco, dolor de cabeza, malestar, fotopsia ocular (destellos), zumbido en los oídos, náuseas. |
+| 1500 ppm            | 1 hora               | Peligro para la vida.                                                                                    |
+| 4000 ppm            | Minutos              | Colapso, inconsciencia y muerte.                                                                        |
+
+*   **Ácido Sulfhídrico (H2S):**
+    *   Gas incoloro, inflamable y explosivo en altas concentraciones, con olor a huevos podridos (la sensibilidad al olor disminuye rápidamente).
+    *   Presente en alcantarillas y cerca de tratamientos de aguas o en operaciones petroquímicas.
+    *   El envenenamiento repentino puede causar inconsciencia y paro respiratorio.
+    *   Un envenenamiento menos agudo puede provocar náuseas, malestar estomacal, irritación ocular, tos, vómitos, dolor de cabeza y ampollas en los labios.
+    *   Efectos sobre el cuerpo humano:
+
+| Concentración de H2S | Tiempo de Exposición | Efectos en el Cuerpo Humano               |
+| :------------------- | :------------------- | :---------------------------------------- |
+| 18 - 25 ppm          |                      | Irritación ocular.                        |
+| 75 - 150 ppm         | Algunas horas        | Irritación respiratoria y ocular.         |
+| 170 - 300 ppm        | 1 hora               | Irritación marcada.                       |
+| 400 - 600 ppm        | Media hora           | Inconsciencia, muerte.                    |
+| 1000 ppm             | Minutos              | Fatal.                                    |
+
+*   **Dióxido de Azufre (SO2):**
+    *   Gas irritante resultante de la combustión de azufre o materiales que lo contienen.
+    *   Exposiciones suelen ocurrir en tanques con líneas dañadas o durante procesos de fumigación.
+    *   Efectos sobre el cuerpo humano:
+        *   **1-10 ppm:** Incremento del pulso y la respiración, con disminución de la intensidad respiratoria.
+        *   **Exposiciones prolongadas o repetidas a concentraciones moderadas:** Pueden causar asma.
+        *   **A partir de 100 ppm:** Considerado peligroso para la vida.
+
+*   **Amoniaco (NH3):**
+    *   Irritante potente que puede provocar la muerte por espasmo bronquial.
+    *   A bajas concentraciones, puede ser respirado y metabolizado.
+    *   Es explosivo si se descarga en una llama abierta desde un tanque o sistema de refrigeración.
+    *   Efectos sobre el cuerpo humano:
+
+| Concentración de NH3 | Tiempo de Exposición | Efectos en el Cuerpo Humano                                        |
+| :------------------- | :------------------- | :----------------------------------------------------------------- |
+| 300 - 500 ppm        | Exposición corta     | Tolerancia máxima.                                                 |
+| 400 ppm              |                      | Irritación de garganta, vías respiratorias y ojos.                 |
+| 2500 - 6000 ppm      | 30 minutos           | Peligro de muerte.                                                 |
+| 5000 - 10000 ppm     |                      | Muerte.                                                            |
+
+*   **Cloro (Cl2):**
+    *   Gas irritante, especialmente a partir de una concentración de 9,0 mg/m³.
+    *   Su presencia se detecta inicialmente por irritación en las mucosas oculares, nasales y de la garganta.
+    *   No es inflamable.
+    *   Las neblinas de cloro son de color amarillo verdoso y tienen un olor picante, detectable a partir de 0,3 - 0,9 mg/m³.
+    *   Efectos sobre el cuerpo humano:
+        *   **A partir de 45 mg/m³:** Irritación de las mucosas del ojo, nariz, garganta y pulmones.
+        *   **Iguales o superiores a 150 mg/m³:** Muy peligrosas, incluso para exposiciones cortas.
+        *   **Exposiciones agudas:** Pueden causar inflamación pulmonar con acumulación de líquidos (edema pulmonar), que se desarrolla más rápido si se realizan trabajos físicos intensos. También puede aparecer hiperactividad bronquial, con síntomas que pueden manifestarse hasta dos días después de la exposición.
+        *   **Contacto con la piel:** Provoca quemaduras.
+        *   **Exposiciones prolongadas a bajas concentraciones:** Pueden causar cloracné.

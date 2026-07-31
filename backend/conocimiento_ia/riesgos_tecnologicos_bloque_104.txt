@@ -1,71 +1,216 @@
-# Aperturas Forzadas y Técnicas de Intervención para Bomberos
+### Parte 6: Riesgo Eléctrico - Caracterización, Valoración e Intervención
 
-La intervención de los cuerpos de bomberos en situaciones que requieren aperturas forzadas de accesos, como puertas y ventanas, es una labor crítica que exige un profundo conocimiento técnico y táctico. Estas actuaciones son necesarias en contextos de urgencia o desamparo, abarcando desde viviendas hasta entornos industriales o comerciales. Es fundamental que toda acción se realice bajo el amparo de la legislación vigente y, si la emergencia lo permite, con la autorización de las Fuerzas y Cuerpos de Seguridad, siempre priorizando la seguridad de las personas y minimizando los daños materiales.
+#### 2. Valoración e Intervención en Incidentes con Riesgo Eléctrico
 
-## Medidas de Seguridad y Equipamiento Esencial
+**2.1. Establecimiento de Prioridades**
+El mando de intervención debe determinar el plan táctico a seguir evaluando las conclusiones de la valoración. Esta evaluación es un proceso continuo que permite ajustar las acciones según los resultados obtenidos. Las prioridades de actuación se establecen en función del tipo de siniestro y su estado, pudiendo optar por un enfoque defensivo, ofensivo o una combinación de ambos.
 
-Antes de cualquier entrada forzada, el personal interviniente debe estar provisto del Equipo de Protección Individual (EPI) adecuado. Esto incluye guantes protectores, ropa de manga larga anticorte, casco, calzado reforzado con puntera de acero y gafas o pantalla de protección ocular. En situaciones con riesgos adicionales, como trabajos en altura o la presencia de fuego, se requiere protección suplementaria, como arneses, equipos de respiración autónoma (ERA) y, si es necesario, vadeadores para entornos acuáticos.
+**2.1.1. Enfoque Defensivo: Control de la Propagación**
+Este enfoque se adopta cuando los recursos materiales o humanos son insuficientes para una intervención ofensiva con garantías de éxito. Su objetivo es evitar la expansión de la catástrofe, actuando sobre las zonas o edificaciones adyacentes afectadas por empujes, arrastres o desprendimientos de la estructura dañada. Es característico de la fase de "Control" de una intervención y conlleva un menor riesgo para el personal. Se mantiene este planteamiento hasta que se aseguren las condiciones para un enfoque ofensivo, si el balance riesgo-beneficio no es favorable o si los recursos son limitados.
 
-El equipamiento básico para estas intervenciones comprende herramientas como mazas, palancas, escaleras, así como un maletín de aperturas que contenga taladros, brocas de metal y Hilti, llaves mandril, mordazas de presión, fresas para cerrajero, destornilladores (estrella y plano), micas o radiografías. También pueden ser útiles equipos de descarcelación como abrepuertas hidráulicos. Es crucial que los bomberos dispongan de un listado actualizado de cerrajeros autorizados para casos en los que la intervención requiera conocimientos o herramientas especializados no disponibles.
+*   **Ejemplos de aplicación del enfoque defensivo:**
+    *   **Incendio forestal por caída de cable de alta tensión:** Con una dotación de cuatro bomberos, se mantienen las distancias de seguridad, se notifica a la compañía eléctrica para el corte de suministro (proporcionando la referencia de la torre), y se baliza la zona si el incendio es manejable. Si el incendio es de gran magnitud, se requiere apoyo adicional.
+    *   **Incendio en un centro de transformación de obra civil:** Se evacúa el edificio por seguridad estructural, y la dotación actual, de cuatro bomberos, necesita refuerzos propios y externos. Se elabora un plan de zonificación, control de propagación, solicitud de corte a la compañía, posible ventilación táctica, refrigeración y extinción.
 
-## Técnicas de Apertura de Puertas
+**2.1.2. Enfoque Ofensivo: Corte de Suministro y/o Rescate**
+Este enfoque se utiliza cuando se dispone de recursos adecuados para una intervención exitosa.
 
-La elección de la técnica para la apertura de puertas se basa en la evaluación de la situación, el tipo de cerradura y la puerta.
+*   **Ejemplos de aplicación del enfoque ofensivo:**
+    *   **Incendio en transformador pequeño de intemperie en un poste:** Se avisa de inmediato a la compañía eléctrica para el corte y reparación. Mientras tanto, se corta el suministro de baja tensión (si existe), se controla la propagación del incendio y se enfría/extingue con chorro discontinuo de agua o espuma, o con extintores de CO2/polvo (para tensiones de hasta 35 Kv).
+    *   **Incendio en vivienda (baja tensión) en CGP, LGA o centralización de contadores:** Estos siniestros suelen ser de fácil resolución si se interviene a tiempo. Si la intervención se retrasa, el fuego puede propagarse a otras zonas a través de cableados o pasajes no sellados.
 
-### Apertura de Cerraduras no Destructivas o de Baja Destrucción
+**Equipos de Protección Individual (EPI) para Riesgo Eléctrico**
+Para llevar a cabo las acciones con riesgo eléctrico, es fundamental el uso de EPI adecuados.
 
-1.  **Técnica del resbalón (con mica o tarjeta):** Se aplica cuando la puerta está cerrada accidentalmente, sin llave echada. Consiste en introducir una lámina flexible (plástico, radiografía o mica) por la ranura a la altura del resbalón y desplazarlo, mientras se agita la puerta para facilitar el movimiento. Esta técnica es rápida y poco dañina.
-2.  **Extracción de bombín:** Busca liberar el mecanismo de giro de la cerradura.
-    *   **Con mordaza de presión o llave inglesa:** Se sujeta el bombín por su parte más estrecha, se aprieta y se fuerza con movimientos laterales hasta fracturarlo. Una vez extraído el bombín y la leva, se acciona manualmente el mecanismo de la cerradura.
-    *   **Con extractores:** Se inserta un tornillo de acero en el bocallaves (previamente se puede usar una broca fina para guiar), se coloca el extractor y se acciona el husillo con una llave Allen. Al romperse el bombín, se extrae la leva y el activador, permitiendo la apertura con un portalevas o destornillador.
-    *   **Con barra de uña:** Similar al anterior, se introduce un tornillo autorroscante de cabeza hexagonal en el bocallaves, se apoya la barra de uña y se ejerce palanca para romper el cilindro. Tras extraer el bombín y la leva, se abre con un portalevas.
-    *   **Con mordaza y destornillador:** Si el bombín redondo sobresale, se sujeta con una mordaza y se gira hasta romper los tornillos internos. Si no sobresale, se introduce un destornillador plano en el bocallaves, se golpea con un martillo y se fuerza el giro con una llave inglesa o mordaza.
-3.  **Retirada de escudo protector:** Implica la remoción de los elementos que protegen el bombín para acceder a él. Si es muy resistente, puede requerir el uso de una sierra radial o de sable. En escudos abiertos, un cortafríos puede ser suficiente.
-4.  **Taladro de bombín:** Se perfora el bombín por debajo del tambor para vaciar los pernos internos. Posteriormente, se gira el bombín con una ganzúa o destornillador. En bombines antitaladro, es necesario previamente desgastar el tetón de acero con una amoladora.
-5.  **Fresado de bombín:** Consiste en limar el tambor del bombín con fresas especiales para metal hasta alcanzar el embrague central, que luego se gira con un destornillador. Se aumenta progresivamente el grosor de las fresas.
-6.  **Técnica del *bumping*:** Se introduce una llave especial (llave de *bumping*) y se golpea con suavidad para hacer saltar los cilindros internos, permitiendo girar la llave y abrir la puerta. Es un método rápido pero no siempre efectivo.
-7.  **Ganzuado (*lock-picking*):** Requiere habilidad para manipular individualmente los pernos de la cerradura con una ganzúa y una herramienta de tensión, buscando los defectos mecánicos para liberar el cilindro. Se recomienda lubricar el bocallave.
-8.  **Técnicas de impresión (*foil system*):** Utiliza una llave especial con una fina lámina de aluminio que, al insertarla y girarla levemente, moldea la lámina para replicar la forma de la llave original y abrir la cerradura. Es una técnica no destructiva y limpia.
+*   **Requisitos generales del EPI:**
+    *   Permitir movimientos cómodos.
+    *   Prevenir la deshidratación rápida.
+    *   Asegurar un grado mínimo de seguridad.
+    *   El uniforme de parque, con casco ligero y botas de intervención, es adecuado. Si es necesario, se añade arnés y material de altura.
+*   **Otros tipos de EPI necesarios:**
+    *   Cubrepantalón, chaquetón de intervención, casco integral, guantes y equipo de protección respiratoria (si hay incendios o rescates con riesgos asociados).
 
-### Apertura de Cerraduras Destructivas
+#### 3. Medidas de Seguridad con Riesgo Eléctrico
 
-1.  **Apertura destructiva con maza:** Se informa al afectado de los daños y la imposibilidad de cerrar la puerta posteriormente.
-    *   **Golpeo directo:** Se golpea la puerta a la altura de la cerradura para romperla o hacer saltar el cerradero. Efectivo en puertas convencionales o blindadas, pero con dificultad en acorazadas.
-    *   **Tirada de puerta:** Se golpea el cerco de la puerta para exponer las garras de sujeción, las cuales se golpean con fuerza para derribar la puerta por completo.
-2.  **Apertura con separador hidráulico "abrepuertas":** Se introduce en la holgura entre la puerta y el marco, o se crea un hueco previo con una maza, y se aplica presión hidráulica para forzar la apertura.
-3.  **Apertura forzada retirando las bisagras:** En puertas que abren hacia el exterior, se retira el perno, se cortan o se desatornillan las bisagras, siempre con precaución para evitar la caída de la puerta sobre el personal.
-4.  **Utilización de herramientas Halligan:** Esta herramienta permite crear un punto de apoyo (usando la uña o el pico plano) en la puerta (20 cm por encima o por debajo de la cerradura), introduciéndola a golpes de maza y basculándola para profundizar. Una vez pasada la horca, se hace palanca para abrir la puerta.
+La proliferación del uso de la electricidad en la industria y los hogares ha aumentado el riesgo de accidentes. Esto impulsa la creación y mejora de medidas de prevención a través de legislación, protocolos y procedimientos. Aunque las electrocuciones domésticas son menos frecuentes, la prevención es vital. Los accidentes por manipulación de cables energizados o por escalada de postes son cada vez menos comunes. Se ha registrado una tensión de 60V como la más baja que ha causado la muerte. La red eléctrica española suministra 220V CA en los enchufes domésticos y se han documentado descargas trifásicas de 120.000V.
 
-## Técnicas de Apertura de Ventanas
+**3.1. Contacto Eléctrico Directo**
+Se produce cuando una persona toca un conductor o cable bajo tensión (ej., bombilla, enchufe roto). La electricidad pasa directamente a tierra a través del cuerpo. La corriente se genera por una diferencia de potencial entre dos puntos, fluyendo desde el mayor al menor potencial.
 
-La intervención en ventanas siempre debe comenzar por la retirada de persianas, si las hubiera, forzando su enrollado o desmontando las lamas.
+*   **Medidas de protección:**
+    *   Evitar el paso de corriente a través del cuerpo.
+    *   Limitar la corriente a un valor no peligroso (menos de 1 mA).
+    *   **Técnicas:**
+        *   Separación de partes activas: retirarlas, elevarlas (2,5 m), enterrarlas (1 m) en zonas inaccesibles.
+        *   Interponer obstáculos o barreras.
+        *   Delimitar zonas de peligro y balizar.
+        *   Aislamiento de partes bajo tensión con material aislante.
+        *   **Conexiones equipotenciales:** Unir las partes metálicas a masa con conductores para mantenerlas al mismo potencial. Esto garantiza la seguridad personal y evita la corrosión de equipos. Es obligatorio en locales húmedos como baños, donde la bañera se conecta a tierra y todos los conductores comunes están enlazados.
 
-1.  **Ventanas correderas:** Se apalanca la ventana por la esquina inferior cercana al marco lateral y, simultáneamente, en la zona de la cerradura, para deslizar la hoja y abrirla.
-2.  **Ventanas abatibles:** Se apalanca la parte superior e inferior de la hoja con maneta para liberar los cierres. Puede ser necesario considerar la rotura del vidrio si el cierre es muy resistente.
-3.  **Ventanas oscilobatientes (en posición inclinada):** Se utiliza un sistema de tubo de PVC y cuerdas. Se introduce el tubo en la maneta, se pasa una cuerda por encima de la ventana para tomarla con una mano, y con la otra se sujeta la cuerda inferior. Se tensan ambas cuerdas, guiando la hoja hacia la posición de cerrado, y luego se gira la maneta a posición horizontal para abrir.
-4.  **Rotura de vidrios:** Como último recurso, se rompe el cristal con precaución, identificando el tipo de vidrio (termoendurecido, templado, laminado, con cámara). Es imprescindible usar guantes anticorte, mascarilla y gafas de protección. Para vidrios laminados, se recomienda una sierra de sable o cortalunas. Una vez roto, se retiran todos los fragmentos.
+**3.2. Contacto Eléctrico Indirecto**
+Ocurre cuando una persona toca un elemento que está, a su vez, en contacto con una fuente eléctrica, produciéndose una descarga. Por ejemplo, al tocar un electrodoméstico con un cable suelto o aislamiento defectuoso. Las medidas de protección se agrupan en dos categorías.
 
-## Técnicas de Apertura de Rejas y Cierres Metálicos
+**3.2.1. Medidas de Clase A**
+Estas medidas impiden que la corriente eléctrica atraviese el cuerpo.
 
-### Apertura de Rejas
+*   **Técnicas:**
+    *   Separación de circuitos: asegurar que el mecanismo a manipular no tenga tensión ni corriente.
+    *   Uso de pequeñas tensiones de seguridad: emplear máquinas con tensiones por debajo del "umbral de seguridad".
+    *   Aislamiento de partes activas y masas accesibles.
+    *   Uso de elementos que eviten la simultaneidad de contacto con conductores y masas (alfombras o guantes aislantes).
+    *   Recubrir las masas con elementos aislantes.
+    *   **Conexiones equipotenciales:** Unir todas las partes metálicas a masa, asegurando el mismo potencial. Esto es crucial para la seguridad personal y la prevención de corrosión, siendo obligatorio en lugares húmedos como baños.
 
-Las rejas, ya sean macizas, tubulares o con lamas, requieren técnicas de corte para su apertura. El objetivo es causar el menor daño posible, aunque en emergencias esto puede variar. El proceso incluye retirar tornillos de sujeción, cortar anclajes con sierra radial, cizalla manual o hidráulica, y, si es necesario, ampliar el hueco con herramientas hidráulicas (separadores, cilindros, cizallas).
+**3.2.2. Medidas de Clase B**
+Se basan en el corte automático de la corriente eléctrica en caso de un defecto que comprometa la seguridad personal.
 
-### Apertura de Cierres Metálicos
+*   **Técnicas:**
+    *   Puesta a tierra de todas las masas mediante picas.
+    *   Uso de dispositivos de corte por intensidad de fuga (interruptores diferenciales calibrados para un nivel de corte específico).
+    *   Puesta a tierra de masas y dispositivo de corte por intensidad de defecto.
+    *   Puesta a neutro de masas y dispositivo de corte por intensidad de defecto (cuando no hay red de tierras).
 
-En cierres motorizados de locales comerciales, se busca la caja de registro para forzar el mecanismo de desbloqueo del motor y subir el cierre. Si no es posible, se opta por cortar las lamas del cierre con motosierra de rescate, sierra de sable o cizalla/separador para crear un butrón.
+**3.3. Reglas Básicas de Actuación ante Riesgo Eléctrico**
+La normativa española, a través del Reglamento Electrotécnico de Baja Tensión (REBT), y la legislación laboral, establecen cinco "reglas de oro" o pautas de actuación.
 
-## Creación de Butrones
+| **PAUTAS DE ACTUACIÓN**                   | **PRESCRIPCIÓN**                 | **Alta tensión** | **Baja tensión**          |
+| :---------------------------------------- | :------------------------------- | :--------------- | :------------------------ |
+| 1. Abrir con corte visible todas las posibles fuentes de tensión | Obligatorio                      | Obligatorio      | Obligatorio               |
+| 2. Enclavar aparatos de corte abiertos anteriormente | Obligatorio (siempre que sea posible) | Obligatorio      | Siempre que sea posible    |
+| 3. Comprobar ausencia total de tensión en cada uno de los conductores tras el corte | Obligatorio                      | Obligatorio      | Obligatorio               |
+| 4. Poner en corto y a tierra todas las posibles fuentes de tensión | Obligatorio                      | Obligatorio      | Recomendable              |
+| 5. Acotar y señalizar la zona de trabajo   | Obligatorio                      | Obligatorio      | Recomendable              |
 
-Un **butrón** es un agujero practicado en suelos, techos o paredes para acceder a un espacio. Se utiliza como último recurso en situaciones de riesgo inminente para personas o bienes, después de descartar métodos menos agresivos. La elección de herramientas varía según el material (hormigón, madera, yeso, ladrillo, tejas, planchas metálicas) y puede incluir mazas, martillos, hachas, picos, cortafríos, sierras manuales o eléctricas, amoladoras, taladros de percusión, motosierras, lanzas térmicas o herramientas hidráulicas. Es fundamental usar mascarilla buconasal con filtro de partículas debido a la generación de polvo.
+Para aplicar estas medidas de seguridad, es indispensable usar equipos de protección individual específicos para trabajos bajo tensión, como botas, casco, guantes eléctricos, banqueta y alfombrilla aislante, pértigas de salvamento y/o maniobra, y herramientas aislantes.
 
-## Valoración Previa a la Entrada Forzada
+**3.3.1. Distancias de Seguridad**
+Todas las operaciones deben realizarse con equipo de protección completo (pantalón, camiseta, cubrepantalón, botas, chaquetón, guantes y casco de intervención) y material de riesgo eléctrico (banquetas, pértiga, alfombrilla).
 
-Antes de cualquier entrada forzada, se debe realizar una valoración exhaustiva que incluya:
-*   Comprobar si el acceso ya está abierto o si existe una vía más sencilla.
-*   Elegir el punto más débil o menos riesgoso para la entrada.
-*   Considerar medidas de seguridad adicionales instaladas por los propietarios.
-*   Aplicar el principio de proporcionalidad, no poniendo en riesgo excesivo al personal.
-*   Tener en cuenta la posible presencia de Fuerzas del Orden para garantizar la seguridad del recinto una vez abierto.
+*   **Distancias mínimas de seguridad:**
+    *   Tensión de la instalación superior a **66.000 V**: **5 metros**.
+    *   Tensión de la instalación inferior a **66.000 V**: **3 metros**.
+*   Si no se pueden mantener estas distancias, se debe contactar al responsable de la instalación para que la de-energice o construir obstáculos.
+*   **En instalaciones subterráneas:**
+    *   Con herramientas manuales: **0,5 metros**.
+    *   Con herramientas o útiles mecánicos: **1 metro**.
 
-La clave es que el acceso sea **rápido, seguro, efectivo** y con el **menor daño posible**, facilitando la posterior "vuelta a la normalidad".
+**3.3.2. Sistemas de Protección de las Diferentes Subestaciones**
+
+*   **Subestaciones de Intemperie:**
+    *   Protegidas con pórticos metálicos para entrada y salida, contra incendios en transformadores y líneas.
+    *   Fusibles y seccionadores cilíndricos de más de **1 metro** de altura, con aceite o hexafluoruro de tungsteno (SF6) para extinguir arcos voltaicos.
+    *   Los transformadores con aceite mineral se refrigeran por aceite y tienen sumideros y pozos contra incendios.
+    *   Sistemas automáticos de detección y extinción.
+    *   El riesgo de alta temperatura puede afectar la estabilidad estructural del edificio.
+*   **Subestaciones Urbanas:**
+    *   Alimentadas por líneas subterráneas.
+    *   Armarios metálicos que alojan interruptores, fusibles y seccionadores.
+    *   Material autoextinguible y SF6 para arcos voltaicos.
+    *   Sistemas automáticos de detección y extinción por agua pulverizada o gases inertes.
+*   **Subestaciones Prefabricadas y Subterráneas:**
+    *   Poseen sistemas de protección similares a los descritos anteriormente.
+
+**3.4. Frecuencia de Accidentes por Riesgo Eléctrico y su Clasificación**
+Las estadísticas muestran que la mayoría de los incendios en viviendas se deben a la electricidad, principalmente por cortocircuitos (aislamientos defectuosos, enchufes) o sobrecargas (conexión de múltiples consumidores).
+
+*   **Casuística de incendios por riesgo eléctrico:**
+    *   Líneas de distribución de baja tensión (desde CT a CGP).
+    *   Líneas aéreas (empalmes y conexiones).
+    *   Líneas subterráneas (acción de roedores y humedad).
+    *   Instalaciones de enlace o CGP.
+    *   Centralización de contadores.
+    *   Maquinaria de ascensores o plataformas de garajes.
+    *   Líneas repartidoras de viviendas.
+
+Los estudios estadísticos de accidentes eléctricos se clasifican en tres ámbitos:
+*   Accidentes laborales en la industria.
+*   Accidentes de profesionales eléctricos (producción, transporte, distribución).
+*   Accidentes domésticos.
+
+Un estudio del Instituto Nacional de Seguridad e Higiene en el Trabajo (INSHT) clasificó los accidentes por riesgo eléctrico:
+*   **35%** por contacto directo.
+*   **17%** por contacto indirecto.
+*   **48%** por arco eléctrico.
+
+#### 4. Efectos de la Electricidad en el Organismo
+
+Los accidentes eléctricos, aunque no son numerosos, presentan una alta gravedad para las personas, especialmente si la corriente afecta órganos vitales como el corazón o los pulmones. Las víctimas de electrocución requieren atención sanitaria inmediata. Incluso sin lesiones aparentes o pérdida de conocimiento, los daños pueden manifestarse horas o días después. El pronóstico de la víctima depende de la rapidez de la reanimación, que debe ser realizada por personal capacitado.
+
+Los accidentes eléctricos pueden acompañarse de fracturas o contusiones por contracciones musculares o por la proyección del accidentado. Las fracturas de cráneo, columna vertebral y extremidades son frecuentes. Tras la reanimación, es esencial explorar posibles fracturas y aplicar primeros auxilios. En general, si se salva la vida, no suelen quedar secuelas funcionales.
+
+La Norma UNE 20572-1:1997 y CEI 479-1 y 2-1994, basada en la normativa internacional, detallan los efectos de la corriente eléctrica en el cuerpo humano y animal.
+
+*   **Efectos inmediatos de una descarga eléctrica:**
+    *   Sacudida eléctrica sin pérdida de conocimiento.
+    *   Lesiones traumáticas asociadas.
+    *   Estado de muerte aparente.
+    *   Quemaduras y otras lesiones locales.
+    *   Parálisis y convulsiones.
+    *   Trastornos de los órganos de los sentidos.
+
+*   **Efectos no visibles inmediatamente:**
+    *   **Tetanización muscular:** Ocurre con corrientes de 10 mA (umbral de no soltar). Impide la separación del punto de contacto al anular la capacidad muscular.
+    *   **Paro respiratorio:** La corriente atraviesa la cabeza y el sistema nervioso respiratorio. Puede requerir respiración artificial durante horas.
+    *   **Asfixia:** La corriente atraviesa el tórax e impide la contracción del diafragma.
+    *   **Fibrilación ventricular:** La corriente descoordina las fibras del corazón, interrumpiendo la circulación sanguínea y provocando lesiones cerebrales irreversibles en minutos.
+    *   **Quemaduras:** Producidas por la energía calorífica (Julios). La gravedad depende del órgano o parte afectada. Un calentamiento excesivo de núcleos nerviosos vitales puede causar parálisis localizada.
+
+La relación entre intensidad y tiempo de exposición no es lineal, y depende del trayecto de la corriente, su frecuencia, tensión de contacto y humedad de la piel. Lamentablemente, estos accidentes a veces resultan mortales. Los signos de muerte son: enfriamiento corporal, rigidez y livideces cadavéricas, que se manifiestan un tiempo después. Los mecanismos de muerte más comunes son:
+*   **Parálisis de los centros nerviosos superiores:** Inhibición temporal de funciones vitales.
+*   **Fibrilación ventricular:** Contracción descoordinada de las fibras cardíacas.
+*   **Parálisis de los músculos respiratorios:** Tetanización muscular por la corriente.
+
+**4.1. Intensidad**
+El umbral de seguridad es la máxima intensidad de corriente que una persona puede soportar sin peligro (30 mA). "La intensidad es la que mata".
+
+*   **Corriente Alterna (CA) (Norma INSHT, UNE 20572-1:1997, CEI 479-1 y 2-1994):**
+    *   **Zona 1 (Hasta 0,5 mA):** Sin reacción.
+    *   **Zona 2 (0,5 mA a línea b):** Sin efecto peligroso.
+    *   **Zona 3 (línea b a curva c1):** Sin daño orgánico, contracciones musculares que dificultan la respiración, paradas cardíacas temporales sin fibrilación ventricular.
+    *   **Zona 4 (por encima de curva c1):** Riesgo de parada cardíaca por fibrilación ventricular, parada respiratoria y/o quemaduras graves.
+
+*   **Corriente Continua (CC) (Norma INSHT, UNE 20572-1:1997, CEI 479-1 y 2-1994):**
+    *   **Zona 1 (Hasta 2 mA):** Sin reacción, ligera picazón.
+    *   **Zona 2 (2 mA a línea b):** Sin efecto peligroso.
+    *   **Zona 3 (línea b a curva c1):** Sin daño orgánico, el aumento de corriente y tiempo puede causar perturbaciones reversibles en los impulsos cardíacos.
+    *   **Zona 4 (por encima de curva c1):** Efectos patofisiológicos peligrosos, como quemaduras profundas.
+
+**4.2. Resistencia del Cuerpo**
+La corriente que circula por el cuerpo humano a una tensión fija depende de su resistencia, la cual es muy variable. Depende de factores internos (fisiología de la piel, estado del organismo) y externos (tensión, presión, superficie de contacto, recorrido de la corriente, humedad).
+
+*   La piel es un aislante con una resistencia de 1.000 a 100.000 ohmios. Los tejidos internos son malos conductores.
+*   La resistencia de la piel es mayor con corriente continua que con alterna.
+*   Valores medios de resistencia corporal (50 Hz): 1.600 ohmios (seco), 800 ohmios (húmedo), 200 ohmios (sumergido).
+*   En bomberos, la resistencia corporal es menor a 1.000 ohmios debido a la sudoración por el EPI.
+*   El contacto puntiforme a baja tensión genera alta densidad de corriente, provocando quemaduras cutáneas y dejando la resistencia interna de los tejidos.
+*   Según la Ley de Ohm, con 220 V y una resistencia de 1.000 ohmios, la corriente es de 22 mA, superior al umbral de seguridad de 30 mA, indicando un alto riesgo de accidente mortal.
+
+**Tabla: Efectos en el organismo según resistencia y tensión (Iberdrola, 2007)**
+
+| Resistencia (R Cuerpo y R Contacto) | Tensión de la corriente |
+| :--------------------------------- | :---------------------- |
+|                                   | **100 V**               | **1.000 V**               | **10.000 V**              |
+| **500-1.000 ohmios**              | Muerte cierta, quemaduras ligeras | Muerte probable, quemaduras evidentes | Supervivencia posible, quemaduras serias |
+| **5.000 ohmios**                  | Shock molesto, no hay lesiones | Muerte segura, quemaduras ligeras | Muerte probable, quemaduras serias |
+| **50.000 ohmios**                 | Sensación apenas perceptible | Shock molesto, no hay lesiones | Muerte segura, quemaduras ligeras |
+
+La resistencia eléctrica varía entre personas, siendo menor en individuos enfermos, con lesiones cutáneas o debilidad constitucional, y en personas sanas bajo ciertas circunstancias (hambre, sueño, sed, fatiga, preocupaciones).
+
+**4.3. Tensión de Seguridad**
+La tensión de seguridad (UL) es la tensión máxima por debajo de la cual no existe peligro para las personas. La Norma UNE 20460 establece:
+*   Locales secos: **50 V**.
+*   Locales húmedos: **25 V**.
+*   Locales mojados (ej. exteriores en obras): **12 V**.
+
+Aplicando la Ley de Ohm (I=V/R) para un umbral de seguridad de 30 mA:
+*   En local seco (R=2500 ohmios): V = 2500 * 0.03 = **75 V**.
+*   En local húmedo (R=1000 ohmios): V = 1000 * 0.03 = **30 V**.
+Esto demuestra un amplio margen de seguridad con tensiones inferiores a 50 V (seco) y 25 V (húmedo).
+
+**4.4. Frecuencia y Forma de la Corriente**
+La Norma UNE 20572 partes 1 y 2 (basada en CEI 479 partes 1 y 2) aborda los efectos de la corriente a diferentes frecuencias.
+
+*   **Corriente alterna > 100 Hz:**
+    *   A mayor frecuencia, disminuye el riesgo de fibrilación ventricular, pero aumenta el de quemaduras.
+    *   Las condiciones de protección contra contactos indirectos son similares para 400 Hz y 50-60 Hz, ya que el umbral de disparo diferencial aumenta, pero el peligro de la corriente disminuye.
+    *   La norma define el factor de frecuencia como la relación entre la corriente a una frecuencia específica (f) y la corriente a 50/60 Hz.

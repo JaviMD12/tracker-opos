@@ -1,63 +1,84 @@
-# Gestión de Emergencias en el Ámbito Ferroviario: Marco Normativo, Roles y Tácticas de Intervención
+## Parte 6: Rescate en Accidentes Ferroviarios
 
-La intervención en accidentes ferroviarios exige una comprensión profunda del marco legal, la estructura operativa y las tácticas específicas para garantizar la seguridad de todos los implicados. Este manual detalla los aspectos clave para una actuación eficaz en este complejo entorno.
+### Resumen de Aspectos Clave
 
-## Marco Legislativo y Entidades Responsables
+En el ámbito de los accidentes ferroviarios, es crucial comprender la terminología y los procedimientos de intervención. La **infraestructura** se refiere al conjunto de obras civiles como la explanación y la plataforma, incluyendo elementos de defensa como muros de contención, sistemas de drenaje y saneamiento. La **superestructura** abarca las vías y todas las instalaciones necesarias para asegurar la operatividad y seguridad de los trenes.
 
-El sistema ferroviario español se rige por una serie de normativas fundamentales que regulan tanto la infraestructura como las operaciones, previendo situaciones de emergencia. La **Ley del Sector Ferroviario (Ley 39/2003, de 17 de noviembre)** establece el marco general, complementada por el **Convenio relativo a los transportes internacionales por ferrocarril (COTIF)** y el **Reglamento europeo sobre el transporte internacional de mercancías peligrosas por ferrocarril (RID 2013)**, este último esencial para incidentes con cargas especiales. Asimismo, las **Especificaciones Técnicas de Interoperatividad (ETI)** y las **Especificaciones Técnicas de Homologación (ETH)** definen los requisitos técnicos, mientras que la **Norma Europea de seguridad contra incendios en vehículos ferroviarios (UN45545)** y la **UNE 13272** (alumbrado eléctrico para material rodante) abordan la seguridad contra incendios y la iluminación.
+La **conducción de electricidad** en el sistema ferroviario puede ser subterránea (tercer carril electrificado) o aérea (línea de contacto o catenaria). El **pantógrafo**, un componente del motor que capta la corriente, es un elemento de alto riesgo que requiere familiarización. Las **subestaciones eléctricas** suministran potencia a los puestos de rectificación, con una cantidad que varía según los kilómetros de la ruta y la potencia de la locomotora (20 km para baja tensión convencional, 50 km para alta tensión).
 
-Dentro de la gestión ferroviaria en España, dos entidades principales comparten competencias:
-*   **Adif (Administrador de Infraestructuras Ferroviarias de España)**: Es una entidad pública empresarial dependiente del Ministerio de Fomento, responsable de la construcción y explotación de las líneas de ferrocarril. Administra aproximadamente 13.945 kilómetros de vías y 1.566 estaciones, siendo propietaria de la mayoría de la red. Su **Centro de Gestión y Coordinación 24h (CGRH24)** coordina todas las incidencias ferroviarias.
-*   **Renfe Operadora**: También una entidad pública empresarial adscrita al Ministerio de Fomento, encargada de la prestación de servicios de transporte de viajeros y mercancías, bajo principios de seguridad, calidad, eficiencia, rentabilidad e innovación. Su **Centro de Control de Emergencias (CECON)** se encarga de la gestión de incidencias en la operativa.
+Las **locomotoras** proporcionan la fuerza motriz, situándose generalmente en la parte delantera. Pueden ser diésel o eléctricas y están diseñadas para maniobrar cargas o realizar reparaciones en las vías. Los **automotores** son trenes autopropulsados, unidades indivisibles con motor integrado en los coches, disponibles en versiones diésel o eléctricas, para trenes convencionales o de alta velocidad, con propulsión distribuida entre todos los coches.
 
-Además, diversas comunidades autónomas como País Vasco, Comunidad Valenciana, Cataluña y Baleares, gestionan sus propias redes a través de entidades como ETS, Euskotren, GTP, FGV, IFERCAT, FGC y SFM, respectivamente.
+Los **coches** están diseñados para el transporte de viajeros, incluyendo variantes como coches litera, cafetería, restaurante, furgones generadores o coches laboratorio. Los **vagones** transportan mercancías y se presentan en tipos como tolvas, cisternas, cerrados y plataformas. Los **bogies** son dispositivos giratorios con dos o más ejes y ruedas, que soportan el vehículo ferroviario y permiten la toma de curvas. Existen bogies tractores y remolcados.
 
-## Componentes Ferroviarios Esenciales
+Para **desenganchar vagones**, se deben considerar elementos como la tubería de freno automático (TFA), la tubería de depósitos principales (TDP), semiacoplamientos, el grifo de aislamiento y el freno de estacionamiento. Los **grifos de aislamiento** deben estar cerrados para evitar que la presión de aire agite los semiacoplamientos y cause daños, y estos nunca deben dejarse colgando para evitar obstrucciones. Cada tren debe tener un **plan de autoprotección** propio para controlar y prevenir riesgos, coordinado con el sistema público de Protección Civil. Finalmente, una **comunicación** efectiva y directa con el puesto de mando es vital en las intervenciones de bomberos para el acceso al punto del incidente.
 
-La **infraestructura** ferroviaria abarca las obras de explanación y la plataforma, incluyendo construcciones como viaductos y túneles. La **superestructura** comprende las vías y todas las instalaciones necesarias para la circulación segura de trenes.
+### Capítulo 4: Tácticas de Intervención
 
-Los elementos principales de la vía son:
-*   **Carril**: Barra de acero laminado con una cabeza superior para el guiado, una base (patín) para sujetar las traviesas y un alma central. Los carriles se unen por soldadura, formando una barra continua, con juntas de dilatación para compensar los cambios térmicos.
-*   **Traviesas**: Barras de madera u hormigón armado, instaladas transversalmente para sostener los carriles y distribuir los esfuerzos sobre el balasto.
-*   **Balasto**: Elemento granular de sílice que protege la plataforma y evita el desplazamiento de las traviesas.
-*   **Tirafondos y placas de asiento**: Elementos que fijan el carril a la traviesa.
+#### 1. Táctica Genérica en Intervenciones de Ferrocarril
 
-El ancho de la vía varía, existiendo el ancho europeo (1.435 mm), el ibérico o español (1.668 mm) y el métrico (1.000 mm), utilizado en zonas de difícil acceso. Las vías pueden ser sencillas (un solo sentido) o dobles (un sentido por vía), y pueden estar electrificadas o no.
+Una táctica de intervención óptima en incidentes ferroviarios implica un reconocimiento exhaustivo de los escenarios y un dominio de las técnicas, considerando la electrificación de las vías y el funcionamiento interno de los trenes.
 
-Los **aparatos de vía** incluyen las **agujas**, que permiten el desdoblamiento de carriles mediante una pieza fija (corazón) y una móvil (espadín). Su accionamiento puede ser eléctrico, mecánico o manual. Las **señales ferroviarias** transmiten mensajes mediante sonidos, colores y formas, reguladas por el Reglamento General de Circulación. Se distinguen las **semafóricas** (mecánicas) y **luminosas** (eléctricas). Las **señales portátiles** y las **señales de los trenes** (cabeza y cola) también son relevantes, al igual que las **señales de limitación de velocidad** (fondo blanco para órdenes permanentes, amarillo para temporales).
+**Objetivos:**
+*   Recopilar la mayor cantidad de información disponible.
+*   Establecer un acceso rápido y seguro al lugar del incidente.
+*   Identificar y evaluar los peligros presentes.
+*   Desarrollar una estrategia de intervención adecuada para garantizar la seguridad.
 
-En la **electrificación**, la corriente eléctrica (25 kV en alterna para alta velocidad, 3 kV en continua para vías convencionales, 1.5 kV en continua para ancho métrico) se suministra a través de un **tercer carril** (por debajo) o mediante **catenaria** (línea aérea de contacto). El **pantógrafo** es el elemento que capta la corriente de la catenaria. Las **subestaciones eléctricas** transforman y rectifican la corriente, alimentando el tendido a través de un **feeder**.
+**Consideraciones:**
+La seguridad de los intervinientes es primordial, y se debe evaluar la relación riesgo/beneficio de cada acción.
 
-El **material rodante** se clasifica en:
-*   **Locomotoras**: Aportan la fuerza motriz. Pueden ser diésel-mecánicas, diésel-eléctricas o eléctricas.
-*   **Automotores**: Trenes autopropulsados con motor integrado en los coches, utilizados tanto en trenes convencionales como de alta velocidad.
-*   **Coches**: Destinados al transporte de viajeros (literas, cafetería, restaurante, etc.).
-*   **Vagones**: Para transporte de mercancías (tolvas, cisternas, cerrados, plataformas).
-*   **Bogies**: Dispositivos giratorios con dos o más ejes y ruedas, sobre los que se apoya el vehículo. Permiten tomar curvas cerradas.
+**Secuencia de la Intervención:**
+1.  **Comunicación inicial:** Establecer contacto con el Centro de Gestión de la Red Ferroviaria (CGRH24 de Adif) y el Centro de Control de Emergencias (CECON de Renfe) para ampliar la información.
+    *   **Datos a recabar:**
+        *   Punto de acceso más seguro y rápido a la vía.
+        *   Número y estado de las personas afectadas.
+        *   Tipo de tren implicado (pasajeros o mercancías).
+        *   Tipo de vía (sencilla/doble, electrificada/no electrificada).
+        *   Tipo de fuerza motriz del tren (eléctrica, gasoil, híbrida, etc.).
+        *   Solicitud del corte de circulación en vías únicas o dobles.
+        *   Verificación de la existencia de catenaria y solicitud de corte de tensión.
+        *   Comunicación con la tripulación para evaluar la accesibilidad y posibilidad de mover el tren.
+        *   Valoración del tipo de incidente (incendio, caída de catenaria, arrollamiento, atropello, descarrilamiento).
 
-Los **aparatos de unión entre vagones** pueden ser manuales (gancho de tracción, tensor, husillos, brida), semipermanentes (solo se desenganchan en taller) o automáticos. Los **dispositivos de frenos** incluyen la **tubería de freno automático (TFA)**, que recorre el tren con aire comprimido (5 kg/cm² en afloje, 3.5 kg/cm² en frenada), y la **tubería de depósitos principales (TDP)** (7-10 kg/cm²), que alimenta los dispositivos de freno. Los **semiacoplamientos (SA)** enlazan tuberías de aire comprimido. Los **grifos de aislamiento** permiten cortar las tuberías (azul para TFA, rojo para TDP). El **freno de estacionamiento** se usa en vagones mediante un volante que gira un tornillo.
+**Medidas de Seguridad:**
+*   **Verificación del corte de circulación:** Implementar un shuntado de vía para prevenir atropellos de los equipos de trabajo.
+*   **Catenarias electrificadas:**
+    *   Reconocer los tipos de catenarias: alta tensión (25000 V en corriente alterna) o baja tensión (3000 V en corriente continua).
+    *   Priorizar que un técnico de la compañía realice las maniobras de corte de tensión.
+    *   Si la vía está electrificada, aplicar las **cinco normas de seguridad**:
+        1.  Cortar las fuentes de alimentación (abrir seccionadores e interruptores).
+        2.  Prevenir cualquier riesgo de realimentación.
+        3.  Comprobar el corte de tensión con pértigas aisladas.
+        4.  Derivar la instalación a tierra mediante cortocircuito.
+        5.  Señalizar adecuadamente la zona de trabajo.
 
-## Gestión de Emergencias: Roles y Coordinación
+#### 2. Incendio
 
-La gestión de emergencias ferroviarias implica una coordinación estrecha entre diferentes actores. El **CGRH24** centraliza las incidencias, mientras que el **Puesto de Mando** regula el tráfico y la energía. El **Director del Plan de Actuación en Emergencias (DPAE)** supervisa la intervención.
+La intervención ante un incendio ferroviario sigue las tácticas genéricas, priorizando la salvaguarda de vidas y, posteriormente, la preservación de bienes materiales.
 
-Los roles del personal de la compañía son cruciales:
-*   **Maquinista**: Responsable de parar el tren, alertar al CECON/Puesto de Mando, proteger la vía, comunicar a los viajeros, evacuar el tren (con personal de cabina e interventor), intentar sacar el tren de túneles en caso de incendio, y desplegar la escalera de emergencia. No está autorizado para trabajar en catenaria.
-*   **Técnico de Adif**: Se persona en el lugar, verifica daños, restituye funcionamiento, confirma corte de tensión, comprueba puesta a tierra y realiza el **shuntado** (cortocircuito) de la vía para evitar la llegada de otros trenes.
+**a) Tren de Pasajeros:**
+*   **Acciones iniciales:** Establecer zonificación y localizar riesgos.
+*   **Víctimas atrapadas:** Proceder al rescate.
+*   **Estrategia:** Decidir entre evacuación o confinamiento de pasajeros basándose en la evaluación de riesgos.
+*   **Finalización:** Prevenir la propagación del incendio y proceder a su extinción.
 
-## Tácticas de Intervención: Seguridad y Acceso
+**b) Tren de Mercancías:**
+*   **Paso inicial:** Identificar el tipo de mercancía transportada mediante la carta de porte.
+*   **Mercancías peligrosas:** Si el contenido es peligroso, activar el plan y protocolo específico para mercancías peligrosas.
+*   **Plan de actuación:** Incluye la zonificación del área.
 
-En cualquier intervención ferroviaria, los objetivos primordiales son recopilar información, asegurar un acceso rápido y seguro, identificar peligros y aplicar una estrategia adecuada que priorice la seguridad de los intervinientes. La **seguridad de los intervinientes** y la **valoración del factor riesgo/beneficio** son fundamentales.
+**Medidas Adicionales (Incendio):**
+*   Localizar todos los riesgos específicos.
+*   Evitar la propagación del fuego al entorno circundante.
+*   Realizar la extinción del incendio utilizando los agentes extintores apropiados.
 
-La secuencia de intervención implica:
-1.  **Comunicación**: Establecer contacto con el CGRH24/CECON para obtener información detallada sobre el incidente (tipo, personas afectadas, tren, vía, fuerza motriz) y solicitar el **corte de circulación** y el **corte de tensión** de la catenaria si es electrificada.
-2.  **Verificación de seguridad**: Realizar un **shuntado de vía** y aplicar las **cinco normas de seguridad** para desconectar la electricidad: cortar fuentes de alimentación (seccionadores e interruptores), evitar riesgo de realimentación (candados, llaves), comprobar corte de tensión con pértigas aisladas, derivar a tierra la instalación en cortocircuito (grapas de carril, mordaza de cable de contacto), y señalizar la zona. Es crucial no trabajar a menos de 100 cm de elementos de alta tensión.
-3.  **Valoración del incidente**: Evaluar el tipo de incidente (incendio, caída de catenaria, arrollamiento, descarrilamiento) y los recursos disponibles.
+#### 3. Arrollamiento, Caída de Catenaria o Atropello
 
-### Tácticas Específicas
+Estas situaciones afectan principalmente al exterior del tren y requieren un rescate de las personas implicadas, conteniendo el incidente y garantizando la seguridad de los pasajeros.
 
-*   **Incendio**: Si es un tren de pasajeros, la prioridad es salvar vidas, luego bienes. Se zonifican los riesgos, se comprueban víctimas atrapadas y se decide entre evacuación o confinamiento. Finalmente, se previene la propagación y se extingue el fuego. En caso de tren de mercancías, se identifica la carga (protocolo de mercancías peligrosas).
-*   **Arrollamiento, Caída de Catenaria o Atropello**: El objetivo es el rescate de personas. Se zonifica y baliza el área, se localizan riesgos, y se rescatan y evacuan las víctimas. Si no hay víctimas atrapadas, se controla la zona y se evacua el tren.
-*   **Acceso**: La primera opción es siempre a través de los huecos naturales (puertas, ventanas). Las puertas pueden abrirse con llave de cuadradillo o herramientas de excarcelación si están deformadas. Para el acceso por ventanas, se utilizan métodos de tratamiento de cristales como corte o rotura controlada. El acceso por el techo solo se realiza si se ha verificado la ausencia de tensión en la catenaria o si el tren ha volcado. La apertura de huecos improvisados se realiza por debajo o por encima de las ventanas.
-
-Es fundamental que los bomberos estén capacitados en todas estas técnicas y procedimientos para responder de manera segura y eficiente ante cualquier emergencia ferroviaria.
+**Ejecución:**
+*   **Fase inicial:** Aplicar las operaciones genéricas de la táctica 1, incluyendo zonificación y balizamiento de la zona de intervención, y localización de riesgos tanto internos como externos al tren.
+*   **Exterior del tren:** Proceder al rescate y excarcelación de víctimas (como personas atropelladas) y su posterior evacuación.
+*   **Interior del tren:** Evaluar la existencia de riesgos inminentes para los pasajeros.
+*   **Riesgos no inminentes:** Si no hay peligros inmediatos, se opta por el confinamiento de los pasajeros.
+*   **Riesgos inminentes:** Si existen peligros inmediatos, se procede a la evacuación.

@@ -1,60 +1,152 @@
-En la intervención en edificaciones, la comprensión de los esfuerzos, las tensiones y las posibles patologías estructurales resulta fundamental, así como las técnicas adecuadas para su estabilización o demolición.
+## Módulo de Apeo y Poda de Arbolado: Caracterización y Propiedades de la Madera
 
-## Acciones en la Edificación y Comportamiento Estructural
+### 4.2. La Estática en los Árboles y Propiedades Mecánicas de la Madera Verde
 
-Las edificaciones están sometidas a diversas acciones que, según el Código Técnico de la Edificación (CTE DB SE AE), se clasifican en tres categorías principales: permanentes, variables y accidentales.
+Desde la perspectiva de la estática, que examina las cargas y el equilibrio de los sistemas físicos, un árbol se considera estáticamente seguro si mantiene un equilibrio entre las cargas que actúan sobre él, las propiedades intrínsecas de sus materiales (dureza y elasticidad) y la geometría de su estructura. Por ejemplo, un árbol expuesto a vientos intensos requiere una estructura y materiales suficientemente robustos para mantenerse estable.
 
-Las **acciones permanentes** son aquellas cargas que actúan de forma constante a lo largo de la vida útil del edificio. Dentro de esta categoría se incluyen el peso propio de los elementos constructivos y los materiales que componen la edificación, así como los esfuerzos derivados del pretensado en estructuras de hormigón armado y las acciones del terreno, tales como el peso, los empujes o los asientos.
+El comportamiento del árbol puede representarse mediante un triángulo estático, donde cada lado simboliza un factor: carga (viento), geometría (forma del árbol) y material (propiedades de la madera).
 
-Por otro lado, las **acciones variables** son cargas cuya presencia y magnitud pueden variar a lo largo del tiempo. Aquí se engloban las sobrecargas de uso, que dependen de la actividad destinada al edificio (comercial, residencial, pública), y las acciones ejercidas sobre elementos como barandillas y particiones interiores, para las cuales el CTE estipula resistencias mínimas que, en el contexto de una intervención, deben considerarse con una resistencia máxima de 0,5 kN/m. También se incluyen las acciones del viento, que generan presiones y succiones que dependen de la forma del edificio, su altura, la pendiente de la cubierta y la ubicación geográfica, con un valor simplificado de 0,5 kN/m² en cualquier punto de España. Las acciones térmicas, que provocan deformaciones y cambios geométricos debido a variaciones de temperatura, son cruciales para entender las tensiones en elementos constructivos vecinos. En edificios de hormigón o acero, estas acciones térmicas pueden obviarse si se dispone de juntas de dilatación cada 40 metros como máximo. Finalmente, la sobrecarga por acumulación de nieve en cubiertas se considera una acción variable, con un valor de 1,0 kN/m² para cubiertas planas en localidades por debajo de 1000 metros de altitud.
+#### 4.2.1. Cargas que Actúan sobre los Árboles
 
-Las **acciones accidentales** se refieren a cargas extraordinarias derivadas de riesgos naturales o antrópicos. Los sismos, definidos como sacudidas bruscas de la corteza terrestre por liberación de energía sísmica, son un riesgo natural cuya respuesta se regula por la normativa sismorresistente NCSR-02, considerando peligrosos aquellos con una aceleración superior a 0,04 veces la gravedad. Los incendios son otra acción accidental que exige a los edificios resistir el fuego durante un tiempo determinado, con parámetros mínimos establecidos por el CTE-DB SI en función del uso y tamaño. Por último, los impactos accidentales, como los de vehículos, son también acciones accidentales, excluyendo los premeditados, y sus valores de cálculo, según la normativa municipal, son de 50 kN en dirección paralela a la vía y 25 kN en dirección perpendicular para vehículos de hasta 30 kN de peso total, sin actuar simultáneamente.
+Diversas cargas afectan la estabilidad de los árboles:
 
-### Esfuerzos y Tensiones en los Materiales
+*   **Peso propio del árbol**: Se considera generalmente insignificante, ya que la resistencia a la compresión de la madera (aproximadamente 2,0 kN/cm²) es considerablemente superior.
+*   **Peso del hielo o nieve**: Representa un riesgo elevado de fractura, dado que la madera verde tiende a agrietarse bajo cargas constantes.
+*   **Viento fuerte (tormentas, vendavales)**: Constituye la carga más crítica para la estabilidad del árbol. Un viento constante no es peligroso; de hecho, el árbol se adapta generando "madera de reacción" para aumentar su resistencia estructural.
+    La fuerza del viento depende de varios factores:
+    *   **Situación geográfica**: Las velocidades y direcciones del viento varían en diferentes superficies terrestres.
+    *   **Situación topográfica**: La presencia de una ciudad o un campo abierto afecta significativamente la velocidad del viento.
+    *   **Estación del año**: A finales de verano y otoño, las tormentas son más frecuentes, y la presencia de hojas en los árboles aumenta la presión ejercida por el viento.
+    *   **Influencias meteorológicas**: Las bajas presiones atmosféricas incrementan la densidad del aire, lo que a su vez eleva la presión del viento.
+    *   **Altura**: A mayor altura, mayor velocidad del viento.
+    *   **Formas de crecimiento y efecto palanca**: Los árboles de gran tamaño necesitan un tronco más grueso para resistir la mayor velocidad del viento a mayor altura.
 
-Cuando una estructura se somete a estas acciones, experimenta un **esfuerzo**, que es el comportamiento mecánico resultante y se manifiesta como **tensiones internas**. La tensión se define como la fuerza por unidad de área que el material transmite hasta la cimentación. La unidad de medida en el Sistema Internacional (SI) es el Newton por milímetro cuadrado (N/mm²), equivalente a 1 kilogramo por centímetro cuadrado (kg/cm²) o 1 Megapascal (MPa).
+#### 4.2.2. Propiedades de los Materiales
 
-Las tensiones pueden clasificarse según dos criterios principales. En primer lugar, según los **coeficientes de seguridad** utilizados, se distingue entre la **tensión de rotura**, que es la máxima que un material puede soportar en condiciones de laboratorio sin coeficientes de seguridad, y la **tensión de trabajo**, que es el umbral máximo de tensión para garantizar un grado suficiente de seguridad en la estructura, representando generalmente entre el 70% y el 80% de su límite elástico.
+**a) Dureza de la madera**
+La dureza de la madera varía entre la madera verde y la madera seca. El Catálogo de Stuttgart, resultado de un estudio alemán de los años 80 sobre las propiedades de la madera en árboles vivos, documenta las resistencias a la compresión y al corte/cizallamiento en todas las direcciones anatómicas. Se estableció que la madera verde posee una resistencia a la compresión media de 2,0 kN/cm². Un tronco de 8 cm de diámetro puede soportar aproximadamente 10 toneladas. Esta resistencia varía, por ejemplo, de 1,4 kN/cm² para el Castaño de Indias a 2,8 kN/cm² para el Roble.
 
-En segundo lugar, según la **naturaleza del esfuerzo**, se diferencian los **esfuerzos simples** y los **esfuerzos compuestos**. Los esfuerzos simples incluyen la **compresión**, que provoca que las partículas del material se acerquen entre sí (como en pilares o muros), la **tracción**, que las separa (como en tirantes), y el **cortante**, **cortadura** o **cizalladura**, que causa el deslizamiento relativo de las partículas (frecuente en uniones viga-pilar). Los esfuerzos compuestos, por su parte, son combinaciones de los simples, tales como la **flexión** (cargas transversales que generan compresión y tracción, como en vigas), el **pandeo** (deformación de elementos esbeltos bajo compresión axial) y la **torsión** (fuerzas circulares).
+Para el cálculo del peso de la madera, se utilizan parámetros como el coeficiente aerodinámico de la copa (Cw) y el módulo de elasticidad longitudinal o de Young (E-mod), que describe el comportamiento elástico de la madera según la dirección de la fuerza aplicada.
 
-En el análisis de esfuerzos, la **fibra neutra** de una sección es la línea imaginaria donde las tensiones de flexión son nulas. Los **diagramas de cortantes** representan la variación de la fuerza cortante vertical a lo largo de un elemento estructural, mientras que los **diagramas de momentos flectores** ilustran la variación del momento flector, lo que ayuda a determinar las deformaciones. Los puntos donde el diagrama de cortantes cruza el eje de abscisas son los **puntos de momento nulo**, de especial importancia para la ubicación de apeos. Las cargas pueden ser puntuales (concentradas) o lineales (uniformemente repartidas), y su representación gráfica muestra diferencias en la distribución de esfuerzos. Las cargas puntuales producen fuerzas cortantes constantes entre ellas y momentos flectores lineales, mientras que las cargas lineales generan una variación lineal de los esfuerzos cortantes y parabólica de los momentos flectores.
+**Tabla 1. Catálogo Stuttgart de la dureza de la madera – propiedades materiales de la madera verde – (Brudi, 2001)**
 
-## Patologías en la Edificación
+| Especies                 | Fuerza de compresión en KN/cm² | E-mod en KN/cm² | Límite de elasticidad en % | Valor Cw propuesto |
+| :----------------------- | :----------------------------- | :-------------- | :------------------------- | :----------------- |
+| Aesculushippocast.       | 1,4                            | 525             | 0,27                       | 0,35               |
+| Abies alba               | 1,5                            | 950             | 0,16                       | 0,20               |
+| Cedrus deodara           | 1,5                            | 765             | 0,2                        | 0,20               |
+| Aianthus altísima        | 1,6                            | 640             | 0,25                       | 0,15               |
+| Carpinusbetulus          | 1,6                            | 880             | 0,18                       | 0,25               |
+| Picea omorika            | 1,6                            | 900             | 0,18                       | 0,20               |
+| Populusnigra `Italica`   | 1,6                            | 680             | 0,24                       | 0,30               |
+| Salís alba               | 1,6                            | 775             | 0,21                       | 0,20               |
+| Salís alba `Tristis`     | 1,6                            | 700             | 0,23                       | 0,20               |
+| Sorbus aria              | 1,6                            | 600             | 0,27                       | 0,25               |
+| Larix decidua            | 1,7                            | 535             | 0,32                       | 0,15               |
+| Liriodendrontulipifera   | 1,7                            | 500             | 0,34                       | 0,25               |
+| Pinussylvestris          | 1,7                            | 580             | 0,29                       | 0,15               |
+| Pyruscommunis            | 1,7                            | 580             | 0,29                       | 0,30               |
+| Tilia x hollandica       | 1,7                            | 450             | 0,38                       | 0,25               |
+| Tilia euchlora           | 1,75                           | 700             | 0,25                       | 0,25               |
+| Pinuspinaster            | 1,8                            | 850             | 0,21                       | 0,20               |
+| Sequoiadendrongig.       | 1,8                            | 455             | 0,4                        | 0,20               |
+| Hacer negundo            | 2                              | 560             | 0,36                       | 0,25               |
+| Hacer saccharinum        | 2                              | 600             | 0,33                       | 0,25               |
+| Hacer sacharum           | 2                              | 545             | 0,37                       | 0,25               |
+| Chamaecyparislaw.        | 2                              | 735             | 0,27                       | 0,20               |
+| Alnus glutinosa          | 2                              | 800             | 0,25                       | 0,25               |
+| Populus x canescens      | 2                              | 605             | 0,33                       | 0,20 – 0,25        |
+| Populusnigra             | 2                              | 652             | 0,31                       | 0,20               |
+| Populus alba             | 2                              | 640             | 0,31                       | 0,20               |
+| Pseudotsugamenziesii     | 2                              | 1000            | 0,2                        | 0,20               |
+| Quercus rubra            | 2                              | 720             | 0,28                       | 0,25               |
+| Robinia pseudoacacia     | 2                              | 705             | 0,28                       | 0,15               |
+| Robinia monophy.         | 2                              | 520             | 0,38                       | 0,15 – 0,20        |
+| Sophora japónicas        | 2                              | 645             | 0,31                       | 0,15               |
+| Tilia tomentosa          | 2                              | 835             | 0,24                       | 0,25 – 0,30        |
+| Tilia platiphyllos       | 2                              | 800             | 0,25                       | 0,25               |
+| Tilia cordata            | 2                              | 830             | 0,24                       | 0,25               |
+| Ulmusgalbra              | 2                              | 570             | 0,35                       | 0,25               |
+| Picea abies              | 2,1                            | 900             | 0,23                       | 0,20               |
+| Betulapendula            | 2,2                            | 705             | 0,31                       | 0,12               |
+| Fagussylvatica           | 2,25                           | 850             | 0,26                       | 0,25 – 0,30        |
+| Hacer pseudoplantanus    | 2,5                            | 850             | 0,29                       | 0,25               |
+| Castanea sativa          | 2,5                            | 600             | 0,42                       | 0,25               |
+| Hacer campestre          | 2,55                           | 600             | 0,43                       | 0,25               |
+| Fraxinusexcelsior        | 2,6                            | 625             | 0,42                       | 0,20               |
+| Platanus x hybr.         | 2,7                            | 625             | 0,43                       | 0,25               |
+| Quercusrobur             | 2,8                            | 690             | 0,41                       | 0,25               |
 
-Las patologías en la edificación pueden tener diversas causas, manifestándose en signos como grietas, fisuras, abombamientos y disgregación de materiales. La normativa actual española se rige principalmente por el Código Técnico de la Edificación (CTE), que establece requisitos de seguridad y habitabilidad.
+**b) Elasticidad**
+El límite de elasticidad define la tensión máxima que un material puede soportar antes de sufrir deformaciones permanentes. Según el Catálogo de Stuttgart, el valor elástico en cada árbol es constante. Si se supera este límite, las fibras de la madera comienzan a fisurarse (ruptura primaria), y una fuerza continua conduce a la rotura completa (ruptura secundaria). Este límite elástico se mantiene constante a distintas alturas del tronco.
 
-### Patologías por Causas Constructivas
+**c) Geometría del tronco**
+La seguridad de un tronco hueco depende de la carga que debe soportar y del grosor de su pared. Un tronco hueco no es inherentemente inseguro; por ejemplo, los mástiles modernos de los barcos son huecos sin ser inestables. La seguridad estructural de un árbol hueco, afectado por problemas como hongos o chancros, se determina midiendo el espesor de su pared residual.
 
-Estas patologías se originan por fallos en el diseño, ejecución o calidad de los materiales, o por un mantenimiento deficiente y el envejecimiento de la edificación. Entre los factores más relevantes se incluyen:
+#### 4.3. Cálculo del Peso de la Madera
 
-1.  **El agua**: La presencia de humedad, ya sea por lluvias, fugas de canalizaciones o corrientes subterráneas, es una causa primordial de patologías. Las humedades de origen natural pueden ser capilares (ascenso por muros en contacto con el terreno) o freáticas (elevación del nivel freático por lluvias). Las humedades de origen antrópico pueden deberse a fallos de obra (exceso de agua durante la construcción) o roturas accidentales de instalaciones. Los síntomas incluyen eflorescencias (manchas salinas), criptoeflorescencias (desprendimiento por expansión salina), generación de organismos (musgo, hongos, xilófagos), disgregación por heladicidad (aumento de volumen por congelación de agua), y oxidación/corrosión de metales.
-2.  **El terreno**: La capacidad variable del terreno para soportar cargas y su interacción con el agua son causas fundamentales. La evaluación geotécnica es crucial, distinguiendo tipos de terreno según su composición y resistencia (rocas, suelos no cohesivos como gravas y arenas, suelos cohesivos como limos y arcillas, y deficientes como fangos y rellenos). Los suelos expansivos o arcillosos son problemáticos debido a los cambios de volumen por variaciones de humedad, que causan retracciones e hinchamientos, generando grietas verticales e inclinadas. Los problemas en las raíces de los árboles, causados por obras, excavaciones, zanjas, pavimentación, hongos, sequías o inundaciones, también afectan la estabilidad del terreno y de la edificación, provocando empujes o deshidratación.
-3.  **La calidad de los elementos constructivos**: Las propiedades de los materiales, su geometría y rigidez, son esenciales. Las lesiones por **adaptación o encaje** ocurren por asentamientos relativos entre materiales o adaptación del plano de asiento tras la construcción. Las lesiones por **cedimiento o hundimiento** se deben a un descenso excesivo de la cimentación, mala elección del terreno, fallos de proyecto o ejecución, cambios imprevistos en el suelo (rotura de colectores, excavaciones cercanas), o aumento de cargas de servicio. Esto se manifiesta en flechas excesivas en elementos horizontales y grietas parabólicas en muros. El **aplastamiento** es la reducción de materiales a partículas pequeñas por rotura debido a un exceso de compresión en elementos verticales (pilares) u horizontales (forjados), causado por sobrecarga, hormigón o armadura deficiente, o pequeñas secciones. Se manifiesta con reducción de espesor, grietas y abombamientos. La **rotación** es la desviación de elementos constructivos de su plano vertical, interna o externa, causada por cedimientos del plano de asiento, empujes laterales (cubiertas, arcos, dilataciones térmicas, terreno, aguas subterráneas, excavaciones), o presión del viento. Los **movimientos del terreno**, como los de ladera (desplazamiento de estratos) o subsidencias y colapsos (hundimientos lentos o bruscos), también generan patologías, mostrando agrietamiento y cuarteado del terreno, y abombamientos en muros.
+Es fundamental conocer el peso aproximado de un árbol para planificar intervenciones, como mover un árbol caído sobre una edificación (necesidad de grúa y capacidad de carga) o arrastrar uno que bloquea una carretera (uso de tractel).
 
-### Patologías por Causas Accidentales
+Aunque existen herramientas especializadas (compás finlandés, medidor angular de diámetro de Bitterlich, teodolito) y cálculos matemáticos complejos (métodos de Hoehnadl, Smalian, Huber, Simony, Breyman) con un error aproximado del 15%, se puede utilizar una técnica simplificada para una estimación rápida: tratar el árbol como un cilindro y aplicar la fórmula:
+`Peso = volumen · densidad = (π · r² · h) · densidad`
 
-Entre las patologías accidentales, destacan el **incendio** y el **impacto**.
+Para asegurar la precisión, todas las medidas deben estar en la misma unidad.
 
-1.  **Incendio**: El comportamiento de los materiales ante el fuego es un factor crítico. El acero, incombustible, presenta una alta conductividad térmica y se dilata significativamente (una viga de 10 m puede expandirse 5,76 cm al pasar de 20 °C a 400 °C), perdiendo resistencia rápidamente a partir de los 300 °C, con colapso potencial a 538 °C (punto crítico). Esto lo convierte en un material peligroso para bomberos, a pesar de no arder. El hormigón, aunque tiene alta masa y baja conductividad térmica, pierde resistencia por procesos termohidromecánicos, cambiando de color según la temperatura alcanzada (rojizos entre 300-600 °C, amarillentos a más de 900 °C), con una dilatación menor que el acero. La madera, combustible, pierde sección por carbonización (aprox. 0,7 mm/min). Las fábricas (ladrillo, piedra) tienen alta inercia térmica y resistencia al fuego, pero pueden colapsar por falta de arriostramiento si fallan forjados superiores. La normativa actual (RD 842/2013, UNE-EN 13501) clasifica los productos por su reacción al fuego (contribución al incendio, humo, gotas) y resistencia al fuego (capacidad portante R, estanqueidad E, aislamiento I).
-2.  **Impacto**: Se refiere al choque violento de un cuerpo contra una edificación, excluyendo impactos premeditados. Los factores clave son la masa y velocidad del cuerpo impactante, así como la capacidad de deformación y amortiguación de ambos elementos. Los impactos de vehículos se valoran según la ordenanza municipal, con fuerzas equivalentes de 50 kN (paralelos a la vía) y 25 kN (perpendiculares). En entornos industriales, las carretillas elevadoras pueden generar fuerzas de impacto equivalentes a cinco veces su peso máximo autorizado. Los impactos de vehículos de bomberos sobre fachadas prefabricadas pueden ser demoledores, especialmente si los anclajes son débiles.
+##### 4.3.1. Cálculo de la Altura
 
-## Demolición de Estructuras
+*   **Árbol caído**: Se mide de punta a punta, desde el inicio del tronco hasta el final de la copa.
+*   **Árbol en pie o apoyado**: Para preservar la seguridad del personal, se realiza un cálculo aproximado. Para una medición más exacta:
+    1.  Colocarse a una distancia conocida (D) del árbol.
+    2.  Sujetar una regla o flexómetro (metro) a la altura de los ojos con el brazo extendido; esta distancia es 'd'. La regla debe tener la misma inclinación que el tronco si este está apoyado.
+    3.  Cerrar un ojo y medir cuántos centímetros del metro corresponden a la altura del árbol; esta medida es 'h'.
 
-Las técnicas de demolición se emplean como último recurso cuando la estabilización es inviable y existe riesgo de colapso. Se distinguen dos tipos principales:
+Con los datos obtenidos, la altura del árbol (H) se calcula por semejanza de triángulos:
+`H = (D · h) / d`
 
-1.  **Demolición elemento a elemento**: Este método es gradual, continuo y ordenado, empezando por la parte superior y descendiendo, aligerando la carga de forma simétrica. Se utiliza en derribos de pequeña envergadura o como preparación para una demolición total, siendo el método más común en edificaciones entre medianerías.
-2.  **Demolición por colapso mediante medios mecánicos**:
-    *   **Por empuje**: Uso de maquinaria pesada como bulldozers o retroexcavadoras, aplicando el empuje en la parte superior de los elementos verticales, por encima de su centro de gravedad. Es limitado a planta baja o primera y depende de la altura máxima de trabajo de la maquinaria.
-    *   **Por tracción**: Se debilitan las zonas más sensibles y se aplica tracción progresiva para evitar movimientos bruscos. Requiere herramientas capaces de generar tracción.
-    *   **Por corte y perforación**: Los bomberos utilizan medios mecánicos como motosierras, tronzadoras, equipos hidráulicos y sierras de sable para desmontar elementos constructivos pequeños o preparar derribos mayores.
+Por ejemplo, si D = 20 m (2000 cm), d = 70 cm y h = 50 cm, entonces H = (2000 · 50) / 70 = 1428,57 cm, es decir, 14,25 m. Este método, aunque menos exacto, es útil si no se dispone de otros medios.
 
-### Riesgos y Consideraciones en Intervenciones de Demolición
+##### 4.3.2. Cálculo del Radio mediante el Cálculo del Perímetro
 
-La planificación de la demolición requiere una evaluación exhaustiva de los síntomas de la lesión, los elementos constructivos implicados, la accesibilidad, las causas y los riesgos para terceros o la vía pública. Es crucial organizar los trabajos, delimitando las áreas de riesgo (intervención, socorro y apoyo), solicitando personal y equipos adecuados, protegiendo edificios colindantes, anulando instalaciones y considerando la posible ejecución de apeos.
+Medir el radio del tronco directamente es complicado si no hay un corte limpio o acceso al centro. Por ello, se obtiene el radio a partir del perímetro.
 
-En general, las intervenciones de demolición más frecuentes por parte de los cuerpos de bomberos están relacionadas con el desprendimiento de materiales de acabado de fachadas, así como grietas, fisuras y desprendimientos en cubiertas, petos, aleros y hastiales, debido a la continua exposición a los agentes meteorológicos.
+1.  Medir el perímetro del tronco, preferiblemente a media altura o a la altura del pecho.
+2.  Dividir el perímetro entre Pi (π ≈ 3,14).
 
-Los **Equipos de Protección Individual (EPI)** son esenciales para cualquier interviniente. Deben cumplir con la normativa (EN397 para casco, EN345-2 para botas, EN388 para guantes) y adaptarse a los riesgos específicos de la intervención, incluyendo refuerzos en codos, hombros y espalda para chaquetillas y pantalones. Las botas deben tener puntera y plantilla antideformación y caña alta. Los guantes deben ofrecer protección mínima en abrasión (nivel 4), corte de cuchilla (nivel 5), desgarro (nivel 4) y perforación (nivel 1). Para riesgos adicionales como agua o socavones, se requieren protecciones complementarias como vadeadores.
+##### 4.3.3. Cálculo del Volumen
 
-Es fundamental realizar un análisis constante y dinámico de la situación, reevaluando el plan de acción según la evolución de la patología y la disponibilidad de recursos, para optimizar las soluciones y minimizar riesgos.
+La fórmula para calcular el volumen de un cilindro es: `Volumen = π · r² · h`.
+Un ejemplo: para un árbol con un radio de 28 cm y una altura de 14,25 m (1425 cm), el volumen sería `3,14 · 28² · 1425 = 3.508.008 cm³`, lo que equivale a 3,5 m³.
+
+**Tabla 2. Equivalencia entre Metros, Decímetros y Centímetros Cúbicos**
+
+| Unidad | Equivalencia |
+| :----- | :----------- |
+| 1 m³   | 1.000 dm³    |
+| 1 dm³  | 1.000 cm³    |
+| 1 m³   | 1.000.000 cm³ |
+
+#### 4.3.4. Cálculo de la Densidad de la Madera Verde y Seca
+
+Para determinar el peso de la madera, es necesario conocer su densidad. La investigación científica establece que la densidad real (maciza) de la madera es de 1,56, sin considerar diferencias entre especies. Sin embargo, la densidad aparente (que incluye huecos) varía según la especie, la humedad ambiental y la ubicación del árbol.
+
+La madera "secada al aire" alcanza un equilibrio hídrico cuando el agua libre se evapora, manteniendo el agua de constitución y saturación. El contenido de humedad de la madera secada al aire oscila entre 10% y 15% del peso, siendo 15% el valor medio utilizado en la industria.
+
+En la naturaleza, los árboles no alcanzan estos bajos porcentajes de humedad; un árbol completo requiere al menos dos años para secarse hasta el 15%. Si un árbol está caído, su nivel de humedad disminuye más lentamente y puede incluso aumentar con las lluvias. Para árboles en pie o recién caídos, se utilizan valores de densidad aparente.
+
+La gráfica "Humedad-Tiempo" muestra la evolución de la humedad en la madera, indicando un nivel de humedad del 50-60% para madera verde recién cortada, con un promedio del 55%. Para calcular la densidad de la madera verde, se suma un 40% (55% - 15%) a la densidad de la madera seca.
+
+Una densidad aparente alta indica una mayor superficie de elementos resistentes y menos poros. La madera se clasifica en pesadas, ligeras y muy ligeras según su densidad aparente.
+
+**Tabla 4. Tipo de Madera en Función de su Peso**
+
+| Tipo de Madera | Densidad Aparente |
+| :------------- | :---------------- |
+| Pesadas        | > 0,8 kg/dm³      |
+| Ligeras        | 0,5 - 0,7 kg/dm³  |
+| Muy Ligeras    | < 0,5 kg/dm³      |
+
+Con base en esta tabulación, se puede simplificar el cálculo de la densidad aparente. Por ejemplo, una densidad de 0,6 kg/dm³ para madera seca equivale a 0,8 kg/dm³ para madera verde, un valor útil para especies comunes como pino, olmo y chopo. Para encina o roble, se utiliza 0,8 kg/dm³ (seca) y 1 kg/dm³ (verde). Las maderas verdes pesadas, con densidades aparentes superiores a 1 kg/dm³, se hundirían en el agua.
+
+**Ejemplo de cálculo de peso de pino verde:**
+Para un pino verde con un volumen de 3,5 m³ y una densidad de 0,8 kg/dm³ (equivalente a 800 kg/m³):
+`Peso = 800 kg/m³ x 3 m³ = 2800 kg`.

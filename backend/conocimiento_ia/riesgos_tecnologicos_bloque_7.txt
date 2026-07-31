@@ -1,9 +1,127 @@
-Las edificaciones, componentes esenciales de nuestro entorno construido, son estructuras fijas erigidas con materiales resistentes para albergar actividades humanas y otros usos, tal como las define la Real Academia Española. Para el bombero, comprender las características de su diseño, la normativa aplicable y los sistemas constructivos y materiales empleados, resulta vital en cualquier intervención de emergencia.
+## Materiales de Construcción: Tipologías y Características en Edificación
 
-## Fundamentos Físicos y Materiales de Construcción en Edificación
+### Elementos de Fábrica (Bloques de Hormigón)
 
-El estudio de los materiales de construcción se divide en dos categorías principales: materiales pétreos y materiales metálicos. Cada uno exhibe propiedades físicas y mecánicas distintivas que influencian su comportamiento bajo diversas cargas y condiciones ambientales, incluidas las térmicas y sísmicas.
+Continuando con la descripción de los elementos de fábrica, los bloques de hormigón prefabricados presentan las siguientes características:
 
-### Materiales Pétreos Naturales y Artificiales
+*   **Material:** Son piezas prismáticas y huecas, fabricadas a partir de un hormigón más ligero que el utilizado en estructuras.
+*   **Dimensiones:** Poseen un formato normalizado, sin exceder los 60 cm. Las medidas comerciales más comunes son 40x20x20 cm.
+*   **Resistencia:** Ofrecen una resistencia aceptable a la compresión. No obstante, en muros de bloque de hormigón, es necesario armarlos para compensar posibles esfuerzos de tracción y pandeo, utilizando armaduras tipo "murfor" o cerchas planas.
+*   **Aislamiento Acústico:** Presentan un aislamiento acústico elevado.
+*   **Acabados:** Se fabrican tanto para ser revestidos como para ser utilizados a cara vista. Generalmente, sus acabados son más toscos que los de otros elementos constructivos.
 
-Los **materiales pétreos naturales** son aquellos extraídos directamente de la naturaleza. Se clasifican según su origen en rocas ígneas, metamórficas y sedimentarias. Las **rocas ígneas**, formadas por la solidificación del magma, pueden ser intrusivas (como el granito, densas y resistentes, usadas en cimentaciones y muros de carga) o extrusivas (como el basalto, menos densas y resistentes). Las **rocas sedimentarias**, producto de la acumulación de sedimentos, se subdividen en detríticas (gravas, arenas, conglomerados, areniscas) y no detríticas (arcillas, calizas, yesos), siendo fundamentales en la fabricación de otros materiales. Por último, las **rocas metamórficas**
+**Tipologías de Bloques de Hormigón Comunes:**
+
+*   **Bloque de gafa:** Es el modelo más habitual, que posteriormente suele recibir un revestimiento superficial.
+*   **Bloque multicámara:** Incorpora múltiples huecos compartimentados, lo que aumenta su capacidad de aislamiento térmico, de forma similar a los bloques de termoarcilla.
+*   **Bloque de carga:** Son bloques más macizos, utilizados en muros con funciones estructurales, es decir, que soportan forjados superiores.
+*   **Bloques armados:** Diseñados como encofrado perdido para muros macizos de hormigón. Presentan rebajes internos para el apoyo de las armaduras de acero durante su construcción.
+*   **Bloque cara vista:** Al menos una de sus caras está especialmente preparada para no requerir revestimiento.
+*   **Piezas especiales:** Incluyen, por ejemplo, bloques en forma de U, utilizados como zunchos para cubrir cantos de forjado o para crear dinteles.
+
+### Materiales Metálicos
+
+#### Materiales No Ferrosos
+
+Estos materiales se emplean en la edificación para fines no estructurales. Los más comunes son: plomo, cinc, cobre, latón, bronce, estaño y aluminio.
+
+#### Materiales Ferrosos
+
+Son aleaciones de hierro con otros elementos, distinguiéndose por su porcentaje de carbono en peso. El contenido de carbono es un factor fundamental que influye en las propiedades del acero:
+
+*   **Mayor cantidad de carbono:** Incrementa la dureza y resistencia, pero también la fragilidad, y disminuye la ductilidad.
+*   **Menor contenido de carbono:** Mejora la soldabilidad.
+
+**I. Hierro Dulce o Forjado**
+
+*   **Definición:** Material con alta pureza de hierro y un porcentaje mínimo de carbono (inferior al 0,03%).
+*   **Propiedades:** Es muy dúctil y maleable, lo que permite su forja. Sin embargo, es muy poroso y se oxida con facilidad. A menudo presenta grietas internas, lo que lo hace poco adecuado para otras aplicaciones industriales.
+*   **Productos:** Su principal uso es en trabajos de cerrajería.
+
+**II. Fundición (Carbono > 2,00%)**
+
+*   **Definición:** Proceso de fabricación de piezas mediante la fusión de un material hasta su punto plástico, para luego introducirlo en un molde hasta su solidificación.
+*   **Propiedades:**
+    *   Una vez fundido, el material presenta un aspecto plástico que permite rellenar moldes y fabricar piezas de diversas complejidades y tamaños.
+    *   Son más fáciles de mecanizar que los aceros.
+    *   Ofrecen resistencia al choque térmico, a la corrosión y buena resistencia al desgaste.
+*   **Productos:** Son materiales quebradizos, utilizados en la fabricación de tuberías y tapas de registro.
+
+### Acero
+
+**III. Acero**
+
+*   **Definición:** Aleación de hierro y carbono, donde el porcentaje de carbono oscila entre el 0,03% y el 2% (legalmente hasta 1,075% en peso), siendo los valores más comunes entre 0,2% y 0,3%.
+*   **Marco Legal:** Regulado por el Código Técnico de la Edificación (CTE) en el Documento Básico de Seguridad Estructural, Acero (DB SE-A).
+*   **Características Físicas:**
+    *   **Fabricación:** A diferencia de la fundición, donde la aleación se moldea, el acero se forja (por presión o impacto), resultando en productos de muy alta resistencia.
+    *   **Densidad:** A pesar de su alta densidad (7850 kg/m³, frente a los 2700 kg/m³ del aluminio), el acero se emplea en todos los sectores industriales debido a sus ventajas estructurales.
+    *   **Coeficiente de dilatación:** Posee un coeficiente de dilatación de 1,2 x 10⁻⁵ ºC⁻¹, muy similar al del hormigón (1,17 x 10⁻⁵ ºC⁻¹). Por esta razón, se utiliza para complementar las deficiencias del hormigón a tracción, dando lugar al hormigón armado.
+    *   **Conductividad eléctrica y térmica:** Alta.
+    *   **Propiedades físicas:** Es un material relativamente dúctil (forma alambres), maleable (forma productos laminados) y soldable (permite la composición de estructuras de dimensiones y complejidad significativas).
+    *   **Propiedades mecánicas:** Presenta alta resistencia a compresiones y tracciones. Se utiliza en todo tipo de elementos constructivos, ya sean individualizados o mixtos, para suplir las carencias de otros materiales (como el hormigón armado).
+    *   **Corrosión:** Constituye su principal problema. Existen diversos sistemas de protección superficial (cincado, galvanizado, cromado, niquelado, pavonado, etc.), además de productos específicos que, por su composición (por ejemplo, acero inoxidable, una aleación de acero y cromo, o acero Corten, una aleación de acero, cobre, cromo y níquel), buscan mitigar este problema.
+*   **Tipologías:** Dada la combinación de sus propiedades mecánicas, su normalización dimensional y la calidad del producto final, el acero se utiliza ampliamente en la mayoría de los procesos constructivos. Para este manual, las variedades más relevantes son:
+    *   Acero estructural.
+    *   Acero de armar.
+    *   Acero para pretensados.
+
+**III.1. Acero Estructural**
+
+*   **Definición:** Acero laminado en caliente, utilizado para conformar perfiles, barras y chapas, que se emplean en la fabricación de elementos constructivos, ya sean simples o compuestos.
+*   **Nomenclatura:** Según la norma UNE EN 10027-1, las modalidades de acero se clasifican con la letra "S" (Steel), seguida de una numeración que indica el valor mínimo del límite elástico en MPa (N/mm²), y símbolos adicionales para especificar otras características.
+    *   **Símbolo S:** Indica que es acero.
+    *   **Valor mínimo garantizado del límite elástico:** Expresado en MPa.
+    *   **Clase resistente (límite elástico):** Incluye valores como 235, S 275, S 355 y S 450 MPa (N/mm²).
+    *   **Símbolos adicionales:** Destacan los distintos grados:
+        *   **Grado JR:** Para aplicaciones en construcción ordinaria.
+        *   **Grado J0:** Para aplicaciones con altas exigencias de soldabilidad.
+        *   **Grado J2:** Para aplicaciones con exigencias especiales de resistencia, resiliencia y soldabilidad.
+*   **Tipologías de aceros estructurales (según Euronormas):**
+    *   **III.1.1. Productos de acero laminados en caliente.**
+    *   **III.1.2. Productos huecos para la construcción:**
+        *   a) Acabados en caliente.
+        *   b) Conformados en frío.
+    *   **III.1.3. Perfiles de sección abierta para la construcción laminados en frío y perfilados.**
+
+**III.1.4. Productos planos de acero recubiertos en continuo de materias orgánicas (prelacados).**
+**III.1.5. Otros productos.**
+**III.1.6. Acero laminado en caliente (chapas y perfiles):** Estos se fabrican a partir de acero de las clases resistentes mencionadas anteriormente y están disponibles en una amplia gama de perfiles y chapas.
+
+*   **Perfiles:**
+    *   IPN
+    *   IPE
+    *   HEB (base)
+    *   HEA (ligero)
+    *   HEM (pesado)
+    *   UPN (U normal)
+    *   UPE (U europeo)
+    *   U (U comercial)
+    *   L (Lados iguales)
+    *   LD (Lados desiguales)
+    *   T
+    *   Redondo
+    *   Cuadrado
+    *   Rectangular
+    *   Hexagonal
+*   **Chapas:**
+    *   Medias: Espesor entre 3 mm y 4,75 mm (3mm < e < 4,75mm).
+    *   Gruesas: Espesor superior a 4,75 mm (e > 4,75mm).
+
+**Perfiles Más Comunes:**
+
+*   **Perfiles “I” (IPN e IPE):** Su geometría, con un canto mayor que el ala, les confiere una resistencia especial a los esfuerzos de flexión, siendo los modelos más utilizados en vigas. La diferencia principal entre IPE e IPN radica en el espesor del ala; en los perfiles IPN, el espesor del ala disminuye a medida que se aleja del alma, mientras que en los IPE, este espesor se mantiene constante. Esto ha llevado a que el perfil IPN esté en desuso, ya que, para obtener la misma sección resistente, requiere mayor cantidad de material. El perfil IPN también es conocido como "Doble T".
+*   **Perfiles “H” (HEA/HEB/HEM):** Su diseño, con el mismo canto que el ala, implica que para lograr la misma resistencia a flexión que un perfil “I”, se necesita mayor cantidad de material y, por ende, es más costoso. No obstante, a diferencia de los perfiles en “I”, los perfiles en “H” poseen una excelente resistencia tanto en sentido longitudinal como transversal, lo que los hace más recomendables para su uso en pilares. El perfil HEB es el más común entre ellos.
+*   **Perfiles “U” (UPE e UPN):** Se emplean en vigas de menor entidad o para la fabricación de otros elementos constructivos metálicos, como vigas o pilares. La diferencia entre UPE y UPN es análoga a la de IPE-IPN.
+*   **Otros perfiles:** Existe una amplia gama comercial de perfilería auxiliar, destacando los modelos en L, LD y T.
+
+**III.1.7. Productos Huecos para la Construcción**
+
+Estos productos se clasifican en acabados en caliente y conformados en frío:
+
+*   **a) Acabados en caliente:** Incluyen perfiles huecos estructurales de sección transversal constante, con un espesor igual o superior a 2 mm, conformados en caliente (con o sin tratamiento térmico posterior). Se emplean en la construcción de estructuras. Están disponibles en secciones circular, cuadrada, rectangular o elíptica.
+*   **b) Conformados en frío:** Incluyen perfiles huecos estructurales soldados conformados en frío (sin tratamiento térmico posterior), con un espesor igual o superior a 2 mm y sección transversal constante. También se utilizan en la construcción de estructuras. Están disponibles en secciones circular, cuadrada o rectangular.
+
+**III.1.8. Perfiles de Sección Abierta Conformados en Frío y Perfilados**
+
+Se trata de perfiles con sección constante y formas diversas, obtenidos mediante el conformado en frío de chapas planas laminadas en caliente o en frío. Se utilizan en la construcción de estructuras. Las tipologías más frecuentes incluyen las secciones en L, U, C, Z y Omega.

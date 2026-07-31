@@ -1,45 +1,76 @@
-## Comportamiento Estructural y Patologías en Edificaciones
+## Patologías Accidentales en Edificación
 
-La comprensión del comportamiento estructural de las edificaciones es fundamental en el ámbito de las emergencias, especialmente ante fenómenos sísmicos o impactos. Un análisis riguroso de la estabilidad de una estructura permite a los profesionales evaluar riesgos y aplicar tácticas de intervención adecuadas.
+### Patologías por Causas Accidentales: Sismos
 
-### Comportamiento Estructural de Edificaciones ante Sismos
+El proceso de licuefacción del terreno es una característica de los suelos blandos, saturados de agua, y de los suelos granulares sueltos, que tienen la capacidad de reducir su volumen. Este fenómeno resulta en un comportamiento del terreno similar al de un material líquido.
 
-La respuesta de una edificación a un sismo está intrínsecamente ligada a su configuración, rigidez y los materiales empleados. Es crucial evaluar estos factores para prever posibles daños.
+Para una comprensión más profunda de este proceso, se realiza un análisis a doble escala:
 
-En primer lugar, la **geometría del conjunto de la estructura** es un factor determinante. La distribución de las masas del edificio, junto con las discontinuidades en su rigidez y resistencia, influyen directamente. Un diseño simétrico y regular en planta y altura es esencial, ya que los edificios no simétricos o con variaciones significativas de masa en sus direcciones principales tienden a sufrir deformaciones diferenciales. Los retranqueos de fachada, por ejemplo, deben evitarse o gestionarse adecuadamente para mantener la simetría y regularidad en toda la altura de la construcción. Para una estabilidad óptima, la proyección vertical del centro de gravedad debe caer siempre dentro de la base de apoyo.
+*   **Análisis Microscópico:** La licuefacción del terreno se vincula a suelos saturados donde el agua ejerce presión sobre las partículas del suelo. Inicialmente, esta presión es baja, pero las sacudidas sísmicas pueden incrementarla hasta el punto de inducir el distanciamiento y el desplazamiento libre entre las partículas, transformando el terreno en un suelo no cohesivo (similar a las arenas). Con el movimiento libre de las partículas, los materiales más densos se asientan (granos), mientras que los más ligeros (lodos y agua) ascienden.
+*   **Análisis Macroscópico:** Un edificio en reposo que experimenta un sismo pasará por tres procesos consecutivos:
+    1.  Las vibraciones sísmicas provocan la expulsión de agua y fango a la superficie.
+    2.  Se produce una compactación de los granos de arena, lo que reduce su volumen.
+    3.  Se generan asentamientos, deslizamientos o vuelcos, con la consiguiente pérdida de resistencia de los estratos.
 
-Además, la **rigidez de los elementos estructurales** juega un papel vital. Las variaciones de rigidez pueden generar puntos de fallo crítico. Existen fenómenos específicos como el *efecto pilar corto*, donde la deformación coartada de un pilar, a menudo por elementos superficiales como muros, concentra tensiones adicionales no previstas en el cálculo. Este efecto es común en plantas bajas con grandes ventanales o en semisótanos con pilares parcialmente embutidos, y puede mitigarse con la implementación de cruces de San Andrés. Otro fenómeno relevante es el *efecto piso blando*, que se produce en edificios con una distribución de particiones interiores muy similar en todas las plantas, excepto en una de ellas (típicamente la planta baja), haciéndola menos rígida. Esto provoca que los pilares, originalmente empotrados, actúen como doblemente articulados, lo que se soluciona con refuerzos como las cruces de San Andrés. Finalmente, el *fenómeno aplauso* ocurre en edificaciones adosadas de diferentes alturas, donde el sismo impide el desplazamiento del edificio menor, transmitiendo fuerzas cortantes y cizallamiento a los pilares del edificio más alto y causando fallos en los pisos intermedios de este último.
+#### Efectos del Sismo en Edificaciones
 
-Los **materiales de construcción** también influyen significativamente, como se ha discutido en apartados previos sobre sus propiedades físicas y mecánicas.
+Para estudiar los efectos sísmicos en las edificaciones, se consideran los siguientes factores:
 
-En cuanto al **análisis de la estabilidad estructural**, las estructuras se clasifican en isostáticas, hiperestáticas e hipostáticas (o mecanismos).
-Una estructura se considera **isostática** si presenta un equilibrio limitado, pero suficiente para ser estable, y puede analizarse mediante las leyes de la estática (sumatoria de fuerzas y momentos igual a cero). Una estructura **hiperestática** posee un equilibrio robusto y mayor seguridad, ya que cuenta con más elementos estructurales de los necesarios para la estabilidad básica, permitiendo la redistribución de esfuerzos ante el fallo de alguno de ellos. Por otro lado, una estructura es **hipostática** (o mecanismo) si es inestable y se desplaza ante la acción de una fuerza, al carecer de un equilibrio suficiente. La estabilidad se determina comparando los grados de libertad (movimientos posibles) con las coacciones (limitaciones de movimiento) en el sistema. Específicamente, una estructura es hiperestática si los grados de libertad son menores que las coacciones (GL < C), isostática si son iguales (GL = C), e hipostática si los grados de libertad son mayores que las coacciones (GL > C). Los grados de libertad externos (GLE) de un cuerpo en un sistema plano son tres (desplazamiento vertical, horizontal y giro), mientras que los internos (GLI) se calculan como tres veces el número de barras menos uno (3(N-1)). Las coacciones externas (CE) se valoran según el tipo de nudo (apoyo: 1 coacción; articulación: 2 coacciones; empotramiento: 3 coacciones), y las coacciones internas (CI) varían según el tipo de unión entre barras (apoyadas: N-1; articuladas: 2(N-1); empotradas: 3(N-1)).
+*   **Geometría del Conjunto Estructural:**
+    *   **Centro de Masas:** Se refiere a la distribución de las masas de la edificación, prestando especial atención a las discontinuidades en la rigidez y resistencia de la estructura principal.
+    *   **Simetría y Regularidad:** En edificaciones asimétricas o con variaciones significativas de masa en sus direcciones principales, el centro de masas y el de torsión no coincidirán. Esto genera una deformación diferencial entre las distintas partes del conjunto. Para evitar este fenómeno, el diseño debe priorizar las cajas de escalera.
+    *   **Retranqueos:** La simetría y regularidad en planta deben extenderse a toda la altura del edificio, evitando retranqueos en fachada.
+*   **Rigidez del Elemento Constructivo/Edificio:** Las variaciones en la distribución de masas y la rigidez pueden causar puntos de fallo. Los fenómenos estandarizados incluyen:
+    *   **Efecto Pilar Corto:** Se produce cuando un elemento superficial (muro) restringe la deformación de un pilar en parte de su longitud, generando concentraciones de tensiones adicionales no previstas en el cálculo. Dos casos comunes son:
+        *   Plantas bajas con grandes ventanas.
+        *   Semisótanos con pilares parcialmente embebidos en los muros, a excepción de su parte superior (donde hay ventanas para iluminación y ventilación).
+    *   **Efecto Piso Blando:** Ocurre en edificios con distribuciones de particiones interiores similares en todas las plantas, excepto en una que es diáfana. Las particiones interiores pueden asumir cargas durante un terremoto, aportando resistencia a la estructura sin haber sido calculadas. El caso más crítico se da cuando la planta diáfana es la planta baja. En estas situaciones, los pilares de la planta baja, que antes estaban empotrados en su base y coronación, actúan como doblemente articulados. Esto puede corregirse directamente con cruces de San Andrés.
+    *   **Fenómeno Aplauso:** Se manifiesta en edificaciones adosadas de distintas alturas. Durante un sismo, el edificio de menor tamaño ve impedido su desplazamiento, lo que genera fuertes cortantes y cizallamientos en los pilares del edificio más alto, pudiendo causar el fallo de la estructura en los pisos intermedios (zona de contacto entre ambas edificaciones).
+*   **Materiales de Construcción:** Acero, hormigón, fábrica y madera, así como la combinación de varios materiales.
+*   **Resonancia o Sincronismo:** Los efectos sísmicos pueden amplificarse por resonancia. Un movimiento sísmico de baja intensidad y larga duración (con mayor probabilidad de entrar en resonancia) es más peligroso que uno de alta intensidad y corta duración.
+    *   El edificio oscilará según sus frecuencias propias; si estas coinciden con la frecuencia del movimiento sísmico, se produce un aumento de la aceleración, lo que puede llevar a la destrucción total o parcial del edificio, o a la disipación de energía mediante el rozamiento interno de los materiales.
+    *   La resonancia es directamente proporcional a la altura de las edificaciones: a mayor altura, mayores efectos.
+    *   Las características vibratorias pueden modificarse con cambios en los elementos del edificio, como la pérdida de rigidez y la frecuencia de resonancia.
+*   **Otros Factores:** En caso de sismo, la rigidez de una edificación puede verse afectada por:
+    *   **Dirección de la Sacudida:** Los comportamientos son diferentes según la dirección del esfuerzo sísmico. Se distingue una dirección "fuerte" (el plano del elemento constructivo paralelo al sismo) y una dirección "débil" (perpendicular al sismo).
+    *   **Espesor:** Directamente proporcional a la resistencia en la dirección débil. A mayor sección, mayor resistencia. Por lo tanto, a igual altura, menor resistencia si la sección es menor.
+    *   **Esfuerzos:** Predominan los esfuerzos de cortante (en dirección fuerte) y de flexión (en dirección débil).
 
-### Patologías por Causas Accidentales: Impacto
+### Comportamiento de Materiales ante el Fuego (continuación de la página 134)
 
-El **riesgo de impacto** se define como el choque violento y accidental de un cuerpo contra una edificación, excluyendo los impactos premeditados. El Código Técnico de la Edificación (CTE DB SE AE) es el marco legal que regula la cuantificación y consideración de estos impactos accidentales.
+#### II.3. Materiales de Construcción
 
-Los **factores que influyen en un impacto** son la masa y la velocidad del cuerpo impactante, así como la capacidad de deformación y amortiguación tanto del cuerpo que impacta como del elemento impactado. Los impactos de vehículos se consideran de dos tipos: *exteriores*, si ocurren desde el exterior del edificio y se rigen por ordenanzas municipales, e *interiores*, si suceden en zonas de circulación de vehículos dentro del edificio (como almacenes o garajes). Los valores de cálculo estático equivalentes para vehículos de hasta 30 kN de peso total son 50 kN en dirección paralela a la vía y 25 kN en dirección perpendicular, sin actuar simultáneamente. Para carretillas elevadoras, el valor de cálculo es cinco veces su peso máximo autorizado.
+*   **II.3.1. Adobe:**
+    *   Material muy pesado y con baja trabazón entre muros.
+    *   Las juntas de mortero de barro (aproximadamente 2 cm) entre las piezas generan una unión muy frágil frente a los sismos.
+*   **II.3.2. Tapial:**
+    *   Relleno de un encofrado con capas de tierra de 10-15 cm de espesor y compactación posterior.
+    *   La ventaja del tapial es su construcción monolítica (mayor estabilidad).
+    *   Las sacudidas horizontales perpendiculares al muro pueden provocar su colapso.
+    *   Solo los muros de gran espesor resisten cargas laterales sin elementos de estabilización adicionales.
+    *   Las esquinas achaflanadas son más adecuadas frente a los esfuerzos sísmicos.
+    *   Es muy vulnerable a los esfuerzos de cortante y flexión, debido a que está compuesto por elementos constructivos de carácter plano con dos dimensiones principales frente a un espesor despreciable.
+*   **II.3.3. Estructuras de Fábrica:**
+    *   Si bien se podría pensar en un problema de trabazón entre las piezas de fábrica y el mortero (similar al adobe), el problema real radica en una cuestión geométrica.
+    *   Una solución constructiva eficaz para ambos esfuerzos es la fábrica confinada (por ejemplo, fachadas en estructuras entramadas).
 
-En el contexto de las **intervenciones de bomberos**, el riesgo de impacto es significativo debido a su potencial para causar un colapso inmediato. La evolución de los sistemas constructivos, como los paneles prefabricados en naves industriales, ha mostrado una vulnerabilidad creciente. Inicialmente, estos sistemas se anclaban rígidamente, lo que anulaba el pandeo y ofrecía buena resistencia al fuego. Sin embargo, los sistemas actuales, basados en grapas y tacos sin anclaje soldado o químico, carecen de resistencia al fuego y a la corrosión, lo que puede provocar un colapso rápido y el desprendimiento de fachadas en caso de incendio o impacto. Por lo tanto, es vital que los sistemas de fijación y anclaje estén diseñados y homologados para resistir impactos, y que el uso de grapas y tacos sea limitado, especialmente si los anclajes son externos y susceptibles a la corrosión.
+#### II.3.4. Hormigón Armado
 
-### Estado de Ruina en Edificaciones
+Dado que el hormigón armado es un material compuesto, su comportamiento ante el sismo depende de:
 
-La **evaluación de la seguridad en la edificación** es un proceso crítico para determinar si un edificio puede soportar de manera estable las cargas a las que está sometido. Según el CTE DB SE, la vida útil de servicio de un edificio se establece en 50 años. Mientras que los edificios construidos bajo normativa vigente se presumen seguros, las edificaciones antiguas o sin normativa específica a menudo carecen de referencias de diseño y pueden presentar deficiencias estructurales.
+*   **Dosificaciones del Hormigón:**
+*   **Cuantía de Acero y Disposición del Mismo:**
+*   **Tipología del Elemento Constructivo:** Según este parámetro, se distinguen:
+    *   **Forjados HA:**
+        *   **Aspectos Positivos:**
+            *   Los forjados de hormigón *in situ* crean diafragmas rígidos que transfieren efectos sísmicos a muros resistentes en cada dirección. Esto resulta en un mejor comportamiento frente a fuerzas laterales sísmicas y ante hundimientos diferenciales en suelos compresibles.
+            *   Los forjados prefabricados (viguetas) con capa de compresión de acero reforzada contribuyen a la formación del diafragma.
+            *   La alta densidad de muros continuos en toda la altura suele proporcionar suficiente rigidez para movimientos horizontales.
+        *   **Aspectos Negativos:**
+            *   Desmoronamiento inclinado de las vigas cercanas a los extremos, causado por la tensión diagonal.
+    *   **Pilares HA:**
+        *   Los pilares en planta baja son los más afectados por un sismo (especialmente los de esquina, seguidos por los de fachada), ya que soportan el peso total del edificio y resisten su desplazamiento.
+        *   La zona superior de los pilares es la más afectada debido a la menor resistencia del hormigón en esa área. Durante el vibrado, se acumula árido fino y agua de amasado, un efecto más pronunciado cuanto más alto sea el pilar.
+        *   La inversión repetida de los esfuerzos sísmicos provoca el desprendimiento del hormigón y el pandeo de las barras de armado, lo que conduce al colapso del elemento constructivo.
 
-La clasificación de la estabilidad de un edificio para la intervención incluye tres estados:
-*   **Estado de confianza:** no se observan situaciones de riesgo.
-*   **Estado de precariedad:** existen deficiencias de seguridad, pero no representan un peligro inmediato para el uso.
-*   **Estado de peligro / ruina:** la estructura no es capaz de soportar las cargas permanentes o variables, lo que implica un riesgo inminente de colapso o derrumbe.
-
-El concepto de **ruina** está regulado por normativas como la Ley 38/1999 de Ordenación de la Edificación (Artículos 3 y 17) y el Código Civil (Artículo 1591), y ha sido ampliamente interpretado por la jurisprudencia del Tribunal Supremo. En el manual, la ruina se define como el estado de inseguridad de una edificación debido a patologías graves (generales o localizadas) que la hacen inútil, inservible o inhabitable.
-
-Existen varias **tipologías de ruina**:
-*   **Ruina funcional:** el edificio es inservible para su destino, aunque su estabilidad no esté comprometida.
-*   **Ruina constructiva:** se subdivide en *ruina potencial o incipiente*, que se refiere a los primeros vicios constructivos con potencial de evolución a defectos graves si no se corrigen, sin afectar de inmediato la estabilidad; *vicios graves o ruina propiamente dicha*, que impiden el uso y habitabilidad normal del edificio, implicando altos costos de reparación y precauciones especiales; y *ruina física o inminente*, que supone un colapso o derrumbe inminente, con reparación antieconómica o imposible, requiriendo desalojo y demolición, y pudiendo ser súbita por factores externos.
-*   **Ruina económica:** el coste de reparación supera el 50% del valor actual del edificio (sin considerar el suelo).
-*   **Ruina técnica:** la consolidación de la estructura es inviable, requiriendo la reconstrucción de más de un tercio de sus elementos fundamentales.
-
-Los **síntomas de la ruina** se manifiestan como:
-*   **Síntomas primarios:** grietas y fisuras, cuya importancia se evalúa por su forma, posición, amplitud y evolución.
-*   **Síntomas secundarios:** incluyen deformaciones como pandeos, deflexiones, abombamientos o desplomes; disgregación de morteros y descascarillado de materiales; empujes; separación de elementos estructurales; y descuadre de huecos en puertas y ventanas.
+Un caso específico en las estructuras de fábrica son los arcos y bóvedas. Si bien los arcos son estructuras lineales y las bóvedas son centrales, su comportamiento es mejor frente a un sismo en el caso de las cúpulas que en el de las bóvedas, independientemente de la dirección de los esfuerzos sísmicos.

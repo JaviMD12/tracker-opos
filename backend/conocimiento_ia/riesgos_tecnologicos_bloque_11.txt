@@ -1,95 +1,65 @@
-## Fundamentos de la Estabilidad Estructural y Patologías en Edificación
+## Rigidez Estructural y Comportamiento de Elementos
 
-La comprensión de la estabilidad de las estructuras en edificación es crucial para las operaciones de bomberos, ya que permite evaluar riesgos y planificar intervenciones. Esta estabilidad se analiza mediante conceptos fundamentales de la mecánica, las propiedades de los materiales constructivos y el comportamiento del terreno.
+La **rigidez** en un elemento estructural se define como su capacidad para soportar esfuerzos sin experimentar deformaciones o desplazamientos excesivos. Para una comprensión exhaustiva de este concepto, es fundamental analizar los siguientes aspectos:
 
-### Conceptos Clave de Estabilidad Estructural
+### Grados de Libertad (GL) y Coacciones
 
-La **rigidez** de un elemento estructural se define como su capacidad para soportar esfuerzos sin experimentar deformaciones o desplazamientos excesivos. Para una evaluación exhaustiva de la estabilidad, se consideran los siguientes conceptos:
+Los **grados de libertad (GL)** representan el conjunto de movimientos posibles o no impedidos de un cuerpo en un sistema plano. Se distinguen entre la facilidad de desplazamiento en el espacio (Grados de Libertad Externos - GLE) y los movimientos de sus partículas internas (Grados de Libertad Internos - GLI). En un sistema plano, cualquier cuerpo o elemento estructural posee tres grados de libertad potenciales:
 
-*   **Grados de Libertad (GL):** Representan los movimientos posibles o no restringidos de un cuerpo en un sistema. En un sistema plano, cada elemento posee tres grados de libertad potenciales: desplazamiento vertical, desplazamiento horizontal y giro.
-*   **Coacciones:** Son las limitaciones impuestas a estos grados de libertad. Un mayor número de coacciones reduce la cantidad de grados de libertad.
-*   **Nudo Estructural:** Es la conexión o vínculo entre dos o más elementos portantes. Su comportamiento frente a los movimientos se clasifica en tres tipologías principales:
-    *   **Apoyo:** Restringe el movimiento vertical, pero permite movimientos horizontales y giros (una coacción, dos grados de libertad).
-    *   **Articulación:** Limita los desplazamientos verticales y horizontales, pero permite el giro (dos coacciones, un grado de libertad).
-    *   **Empotramiento:** Impide cualquier tipo de movimiento, ya sea vertical, horizontal o de giro (tres coacciones, cero grados de libertad).
+*   Desplazamiento vertical.
+*   Desplazamiento horizontal.
+*   Giro.
 
-La **estaticidad** de un conjunto estructural se determina mediante la relación entre sus grados de libertad totales (GL) y el número total de coacciones (C).
-*   Una estructura es **hiperestática** (o indeterminada) si el número de grados de libertad es menor que el número de coacciones (GL < C). Este tipo de estructura se considera robusta y estable, ya que posee un alto grado de seguridad. En caso de fallo de un elemento, las cargas pueden redistribuirse entre los demás componentes. Ofrecen mayor rigidez y menor deformabilidad, con un comportamiento dinámico superior, aunque su construcción suele ser más compleja y costosa.
-*   Una estructura es **isostática** (o predeterminada) si el número de grados de libertad es igual al número de coacciones (GL = C). Presenta un equilibrio limitado pero suficiente para mantener la estabilidad y puede analizarse mediante las leyes de Newton. Su principal ventaja es que las deformaciones térmicas no generan tensiones adicionales al permitir la libre dilatación. Sin embargo, el fallo de un componente puede provocar un colapso.
-*   Una estructura es **hipostática** (o mecanismo) si el número de grados de libertad es mayor que el número de coacciones (GL > C). Estos sistemas son inherentemente inestables y se desplazan bajo la acción de fuerzas, no logrando el equilibrio.
+Las **coacciones** son las limitaciones impuestas a estos grados de libertad. Un mayor número de coacciones se traduce en una menor cantidad de grados de libertad y viceversa. Las coacciones se clasifican como Externas (CE) o Internas (CI).
 
-### Problemas de Estabilidad Estructural: Patologías y Soluciones
+### Nudos Estructurales
 
-El estudio de la patología estructural sigue un proceso secuencial:
-1.  **Fase 0 (Equilibrio Pre-patología):** Se analiza el estado de estabilidad inicial de la estructura.
-2.  **Fase 1 (Equilibrio Post-patología):** Se evalúa el nuevo estado de equilibrio de la estructura tras el daño.
-3.  **Fase 2 (Soluciones):** Se proponen y justifican las soluciones más adecuadas, priorizando aquellas que entrañen menor riesgo para el personal interviniente. Por ejemplo, en un caso de viga Pratt con un posible derrumbe, la solución más sencilla podría ser un apeo inferior con elementos verticales cerca de los nudos sin movimiento.
+Un **nudo** es una conexión o vínculo estructural que une dos o más elementos portantes. Su tipología se determina por las limitaciones de movimiento (coacciones externas e internas) que presenta:
 
-### Elementos Estructurales Comunes en la Edificación
+*   **Apoyo**: Un nudo de apoyo restringe los movimientos verticales (1 coacción) pero permite los movimientos horizontales y giros (2 grados de libertad).
+*   **Articulación**: Un nudo articulado limita los desplazamientos verticales y horizontales (2 coacciones) pero permite el giro (1 grado de libertad).
+*   **Empotramiento**: Un nudo empotrado restringe todos los tipos de movimientos (verticales, horizontales y giros), lo que implica 3 coacciones y 0 grados de libertad.
 
-Los elementos constructivos se clasifican en estructurales, complementarios y auxiliares. Los **elementos estructurales** son aquellos diseñados para soportar y transmitir cargas al terreno sin deformaciones excesivas, garantizando la **capacidad portante** (estabilidad y resistencia durante su vida útil, típicamente 50 años según el CTE DB SE) y la **aptitud de servicio** (limitar deformaciones y anomalías). La normativa clave en España es el Código Técnico de la Edificación (CTE), que se complementa con instrucciones como la EHE (hormigón estructural) y la NCSE (sismorresistente).
+Es importante destacar que la seguridad de un nudo no se basa únicamente en el número de coacciones o grados de libertad; cada tipo de nudo está diseñado para una función específica. Un conjunto estructural puede integrar diferentes tipos de nudos para optimizar su funcionamiento.
 
-Estos elementos estructurales se dividen en dos categorías principales:
+### Identificación de Estructuras por Estabilidad
 
-#### 1. Estructuras Enterradas o Cimentaciones
+Para los cuerpos de bomberos, la identificación rápida de la estabilidad de un conjunto estructural (tanto externa como interna) es crucial en una intervención. Se utiliza un sistema de análisis simplificado para estructuras planas, basado en la suma de grados de libertad y coacciones:
 
-Son los elementos que están en contacto directo con el terreno y cuya función primordial es transmitir las cargas del edificio a un estrato del suelo con suficiente capacidad portante, a la vez que resisten los empujes horizontales del terreno. Un fallo en la cimentación puede acarrear problemas graves de estabilidad. Los parámetros básicos a considerar incluyen la **geometría** (determinada por la profundidad del estrato resistente), el **material** (generalmente hormigón armado, por su formabilidad y rigidez) y la **rigidez** (según EHE08, pueden ser rígidas como zapatas macizas o pozos, o flexibles como zapatas de vuelo o losas).
+*   **Estructura hiperestática**: Cuando el total de grados de libertad (GL) es menor que el total de coacciones (C) (`GL < C`). Este sistema es claramente estable.
+*   **Estructura isostática**: Cuando el total de grados de libertad (GL) es igual al total de coacciones (C) (`GL = C`). Este sistema tiene un equilibrio limitado pero suficiente para ser estable.
+*   **Estructura hipostática o mecanismo**: Cuando el total de grados de libertad (GL) es mayor que el total de coacciones (C) (`GL > C`). Este sistema es inestable y se comporta como un mecanismo, desplazándose ante cualquier fuerza.
 
-**Tipos de Terreno de Cimentación:**
-El Código Técnico de la Edificación (CTE DB SE-C) clasifica los terrenos según su composición, resistencia y comportamiento:
-*   **Rocas:** Agregados naturales de minerales, estables y con alta resistencia a compresión (1-10 MPa). No suelen presentar problemas de asiento.
-*   **Terrenos sin cohesión o granulares:** Contienen más del 65% de arenas y gravas, son altamente permeables y carecen de cohesión. Su presión admisible es de 0.1-0.6 MPa.
-*   **Terrenos cohesivos o arcillosos:** Contienen más del 35% de finos plásticos (arcillas y barros), pueden incluir áridos y son impermeables. Presentan asentamientos lentos y su resistencia oscila entre 0.075-0.6 MPa (1-4 Kg/cm²). La evaluación de su origen y contenido de agua es crucial para cimentaciones.
-*   **Terrenos deficientes:** Aquellos con muy baja presión admisible, requiriendo un estudio oficial para cimentar. Incluyen fangos inorgánicos, suelos orgánicos y rellenos.
+El cálculo se realiza sumando los grados de libertad externos (GLE, considerados siempre 3: desplazamiento vertical, horizontal y giro) y los grados de libertad internos (GLI, calculados como 3(N-1) donde N es el número total de barras internas), para obtener el Sumatorio GL. De forma similar, se suman las coacciones externas (CE, según la tipología de nudos: 1 para apoyo, 2 para articulación, 3 para empotramiento) y las coacciones internas (CI), para obtener el Sumatorio C.
 
-Además, el CTE DB SE-C clasifica los terrenos en función de su homogeneidad y continuidad:
-*   **T-1 Terrenos favorables:** Poca variabilidad, aptos para cimentación directa con elementos aislados.
-*   **T-2 Terrenos intermedios:** Presentan variabilidad y pueden requerir soluciones de cimentación diversas, con posibles rellenos antrópicos de hasta 3 metros.
-*   **T-3 Terrenos desfavorables:** Incluyen suelos expansivos, colapsables, blandos o sueltos, kársticos, rellenos antrópicos mayores de 3 metros, zonas propensas a deslizamientos o con desniveles superiores a 15º, y suelos residuales o marismas.
+**Ejemplo de Cálculo de Estaticidad:**
+Para un sistema con N=7 barras, se calcula:
+*   GLE = 3
+*   CE = 6 (compuesto por 3 unidades de empotramiento, 1 unidad de apoyo y 2 unidades de articulación)
+*   GLI = 3(7-1) = 18
+*   Sumatorio GL = 3 + 18 = 21
+*   Sumatorio C = 22
+Dado que GL (21) < C (22), la estructura se clasifica como hiperestática, indicando que es estable.
 
-**Taludes y Empujes del Terreno:**
-Un **talud** es una superficie inclinada que marca una transición entre dos cotas del terreno, ya sea natural o creada por una obra de ingeniería. Su estabilidad se rige por el **ángulo de rozamiento o reposo**, el cual indica la máxima pendiente que el terreno puede mantener estable. Este ángulo es fundamental en suelos granulares, relacionándose con la capacidad portante y la resistencia al deslizamiento.
-*   **Taludes naturales (laderas):** Su ángulo de rozamiento interno varía según el tipo de suelo. En suelos granulares, se forman rápidamente (30-45°), mientras que en suelos cohesivos (limos y arcillas), la formación es lenta (16-28°) y su estabilidad depende de la altura y resistencia a compresión simple. Factores externos como la erosión o la temperatura pueden modificar estos valores.
-*   **Taludes artificiales (cortes y terraplenes):** Se crean para generar un plano de apoyo en obras. Los **desmontes o vaciados** implican excavar para rebajar la cota del terreno, mientras que los **terraplenes/rellenos** consisten en añadir tierra para elevar el nivel. Para estos taludes, no se adoptan los valores de terrenos naturales. El CTE establece valores medios de 25º para tierra vegetal, 30º para terraplén y 40º para pedraplén.
+### Aplicación en Ejemplos Prácticos
 
-**Métodos de Evaluación del Terreno:**
-Para caracterizar el terreno de cimentación, se requiere un **estudio geotécnico** que incluye un informe técnico con la identificación del terreno, las presiones admisibles y la evaluación de cimentaciones. Esto se basa en:
-*   **Información previa:** Recopilación de datos sobre el emplazamiento, inestabilidad, estructuras existentes y sismicidad.
-*   **Técnicas de prospección:**
-    *   **Calicatas:** Excavaciones superficiales (<4m) para observación directa, toma de muestras y ensayos in situ.
-    *   **Sondeos mecánicos:** Perforaciones para identificar unidades geotécnicas y extraer muestras. Existen sondeos a rotación (para rocas), a percusión (para suelos granulares) y a presión (para suelos blandos).
-    *   **Sondeos mediante métodos destructivos:** Utilizan trépanos o martillos para capas duras donde no interesa obtener propiedades geotécnicas.
-    *   **Pruebas continuas de penetración:** Miden indirectamente la resistencia o deformabilidad del terreno.
-    *   **Geofísica:** Técnicas como la sísmica de refracción o georradares para edificaciones grandes.
+**Análisis de Estabilidad del Cuerpo Humano (Pino):**
+El cuerpo humano, con sus extremidades (brazos y piernas) y articulaciones (columna vertebral), puede adaptarse para funcionar como un mecanismo, una estructura isostática o hiperestática mediante la combinación de articulaciones y empotramientos.
 
-**Tipologías de Cimentaciones Directas:**
-*   **Zapatas aisladas:** Utilizadas para pilares, ensanchando la base para reducir las tensiones. Son adecuadas para terrenos firmes y compactos con profundidades menores a 1 metro. Pueden ser **rígidas** (cantiliver menor o igual al doble de la altura, trabajando a compresión) o **flexibles** (cantiliver mayor al doble de la altura, trabajando a flexión y requiriendo armado). Los elementos auxiliares para rigidizar incluyen **vigas de atado/soleras** (para arriostramiento lateral, especialmente en zonas sísmicas) y **vigas centradoras** (para absorber momentos de vuelco de zapatas excéntricas).
-*   **Zapatas combinadas y corridas:** Recogen cargas de varios pilares o de muros. Las **combinadas** unen dos o más pilares próximos, mientras que las **corridas** unen tres o más pilares alineados o muros. Se recomiendan para cargas elevadas, suelos de baja capacidad portante o pilares muy próximos. Pueden ser rígidas o flexibles y son eficaces para evitar asientos diferenciales.
+*   **Equilibrio "A dos manos"**: Apoyos en palmas (articulaciones) y pies contra la pared (apoyo), con codos, hombros, caderas y rodillas bloqueados (empotramientos).
+*   **Equilibrio "A dos manos y cabeza"**: Apoyos en palmas y cabeza (articulaciones y apoyo), pies contra la pared (apoyo), con hombros, caderas y rodillas bloqueados (empotramientos) y codos sin bloquear (articulación).
 
-**Pozos de Cimentación:**
-Son una solución intermedia de bajo coste para cimentaciones en estratos resistentes a 4-6 metros de profundidad. Su geometría es prismática, con una longitud mucho mayor que su dimensión transversal media, trabajando a compresión. Son generalmente rígidos, aunque pueden requerir **arriostramiento** con vigas centradoras si el apoyo lateral del terreno no es suficiente. Existen pozos tradicionales (rellenos de piedra y arcos de ladrillo) y sistemas actuales (con hormigón pobre o plintos rígidos).
+Ambas configuraciones, bajo un análisis estructural, se considerarían isostáticas en la dirección planteada si las articulaciones pueden bloquearse. Sin embargo, en un pino a tres apoyos (manos y cabeza), aunque el sistema es isostático, resulta ser la situación más inestable, mientras que las posiciones a dos manos, aunque físicamente más exigentes, ofrecen mayor estabilidad estructural. La adición de un arriostramiento, como sujetarse el pantalón, puede transformar un sistema en hiperestático, aumentando su seguridad.
 
-**Emparrillados:**
-Son soluciones para terrenos de baja capacidad de carga, alta deformabilidad o heterogeneidad con previsión de asientos elevados. Consisten en zapatas corridas que forman una malla ortogonal, recogiendo todos los pilares y distribuyendo las cargas de manera más uniforme. Ofrecen mayor rigidez y limitan los asientos diferenciales.
+### Problema Genérico de Estabilidad Estructural
 
-**Losas:**
-Representan un modelo de cimentación superficial muy efectivo para suelos heterogéneos, de baja capacidad portante, o cuando la superficie cubierta por cimentaciones aisladas/emparrillados es muy grande, o el nivel de cimentación está por debajo del freático. Cubren toda el área de cimentación, distribuyendo las cargas con una mínima presión unitaria sobre el terreno, y son siempre consideradas flexibles según la EHE.
+El estudio integral de la estabilidad de un esquema estructural requiere seguir una evolución de la patología:
 
-#### 2. Estructuras Aéreas
+*   **Fase 0**: Análisis del equilibrio previo a la patología.
+*   **Fase 1**: Estudio del nuevo equilibrio de la estructura dañada.
+*   **Fase 2**: Propuesta y justificación de soluciones pertinentes, con cálculos breves. Se priorizarán las soluciones que entrañen menor peligro para los intervinientes.
 
-Son el conjunto de elementos portantes situados por encima de la rasante del edificio, diseñados para recibir las acciones permanentes, variables y accidentales, garantizando la resistencia y estabilidad del edificio.
+Este método se aplica, por ejemplo, al colapso potencial de una viga Pratt (base de cubierta, puente, marquesina):
 
-**Sistemas Estructurales:**
-*   **Sistemas Adintelados (Muros y Forjados):** Formados por forjados que transmiten cargas verticales a muros de carga. Común en construcciones antiguas y edificaciones de poca altura. Generalmente isostáticos, donde cada vano trabaja de forma independiente. Los elementos resistentes verticales son muros de carga (ladrillo cerámico o bloque de hormigón) y los horizontales son viguetas, vigas, forjados y losas.
-*   **Sistemas Entramados (Pilares, Forjados y Pórticos):** Formados por elementos resistentes lineales (pilares, vigas, jácenas) separados entre sí por una distancia, capaces de soportar grandes cargas. Suelen ser hiperestáticos, con mayor seguridad ante el colapso gracias a la redistribución de esfuerzos. Los pilares trabajan a compresión y las vigas a flexión. Las uniones rígidas (pórticos o marcos) aumentan la resistencia y rigidez, limitando desplazamientos. Los materiales más comunes son hormigón armado y pretensado, o acero.
-*   **Sistemas Triangulados (Vigas, Cerchas y Pórticos Triangulados):** Estructuras reticulares a base de barras rectas interconectadas en nudos formando triángulos. Se utilizan para cubrir grandes espacios diáfanos sin columnas intermedias, comunes en edificaciones industriales o pabellones deportivos. Trabajan a compresión y tracción, con flexiones despreciables si las cargas se aplican en los nudos. Sus elementos incluyen cordones (superior a compresión, inferior a tracción), montantes (verticales) y diagonales (inclinadas). Materiales comunes son madera, acero y hormigón armado.
-*   **Sistemas Abovedados (Arcos y Bóvedas):** Estructuras compuestas por dovelas, diseñadas para recoger cargas verticales y transmitirlas a los apoyos mediante esfuerzos de compresión. Tienen luces limitadas y se usan en edificaciones singulares. Son isostáticos y sensibles a esfuerzos no previstos. Los puntos débiles son las impostas, donde se concentran las tracciones. Se estabilizan con tirantes, contrafuertes o arbotantes. Pueden ser arcos aligerantes (para aligerar muros o abrir huecos) o estructurales (para soporte). Su geometría puede ser de uno, dos o más centros (medio punto, rebajado, peraltado, apuntado, túmido, carpanel, tudor, gola, conopial, mixtilíneo, lobulado).
-
-En el caso de los elementos horizontales, se distinguen:
-*   **Elementos simples (viguetas y vigas):** Sustentados en pilares o muros, trabajan a flexión. Las **viguetas** son elementos de menor entidad que recogen cargas de cada piso y las transmiten a las vigas, mientras que las **vigas** son de mayor entidad y reciben cargas de los pisos a través de las viguetas, transmitiéndolas a los elementos verticales.
-*   **Elementos compuestos (forjados y losas):** Los **forjados** son elementos horizontales (o inclinados) que, trabajando a flexión, transmiten las cargas a vigas, pilares o muros, creando un espacio horizontal practicable. Se clasifican por sistema de ejecución (in situ, semiprefabricados o prefabricados), tipo de armadura (armados o pretensados) y geometría (unidireccionales o bidireccionales).
-    *   Los **forjados unidireccionales de hormigón armado** transfieren cargas en una dirección, con armadura pasiva (positivos abajo, negativos arriba) para tracción y compresión. Sus elementos incluyen la **capa de compresión** (reparto de cargas y arriostramiento) y los **elementos de entrevigado** (bovedillas cerámicas, hormigón aligerado o porexpán para aligerar peso).
-    *   Los **forjados bidireccionales** reparten esfuerzos en dos direcciones perpendiculares, como las **losas macizas** (hormigón armado, sin entrevigado, con gran armado para soportar peso y luces) y los **forjados reticulares** o **losas aligeradas** (placas bidireccionales que apoyan sobre pilares, aligeradas con bloques huecos o casetones, salvando grandes luces sin pilares intermedios, con ábacos alrededor de los pilares).
-    *   Los **forjados mixtos** combinan materiales, como la chapa colaborante de acero con hormigón y mallazo, interconectados para absorber esfuerzos rasantes y evitar fisuraciones.
-
-Finalmente, las **estructuras inclinadas** se refieren principalmente a las **cubiertas**, que limitan superiormente la edificación. Su doble función es resistente (soportar peso propio, sobrec
+*   **Fase 0: Estabilidad Previa a la Patología**: El esquema estructural de la viga Pratt original, antes de cualquier patología, se configura como un conjunto hiperestático, lo que le confiere un alto grado de estabilidad.
+*   **Fase 1: Equilibrio de la Estructura Dañada**: Tras una patología, la situación estructural se convierte en un mecanismo claro, lo que significa que la viga ya no cumple su función de diseño y construcción.

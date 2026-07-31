@@ -1,41 +1,105 @@
-# Gestión Funcional en los Servicios de Bomberos y Emergencias
+Las áreas funcionales implementadas en un Servicio de Bomberos con madurez operacional son:
+*   Formación.
+*   Prevención y preparación.
+*   Operativa.
+*   Compras e inversiones.
+*   Mantenimiento y almacén.
+*   Prevención de riesgos laborales.
 
-Los servicios de bomberos y emergencias, en su búsqueda de una operatividad eficiente y de alta calidad, estructuran sus actividades en diversas áreas funcionales clave. Estas áreas, que abarcan desde la formación del personal hasta la gestión de los recursos y la prevención de riesgos, garantizan una respuesta integral y coordinada ante cualquier situación de emergencia.
+**5.5.1. Formación**
+Esta área gestiona un plan de formación anual que debe ser desarrollado, ejecutado, supervisado y evaluado por el responsable asignado. La formación continua del personal es esencial y obligatoria, dada la complejidad y el alcance de las funciones de los bomberos. Se busca mejorar las aptitudes profesionales a través de diversos ámbitos y formatos.
 
-## I. Formación Continua y Desarrollo Profesional
+Tipos de formación:
+*   **Formación de acceso:** Imparte los conocimientos básicos para la incorporación a un nuevo puesto.
+*   **Formación corporativa:** Realizada en jornada laboral, diseñada para unificar criterios de actuación y adquirir conocimientos sobre nuevos equipos, evitando interferencias con las disponibilidades operativas.
+*   **Formación permanente:** Se lleva a cabo mediante las maniobras programadas diariamente durante la guardia.
+*   **Formación de reciclaje:** Consiste en cursos para actualizar y refrescar conocimientos de nivel básico-medio en las funciones habituales.
+*   **Formación avanzada o de especialización:** Se organiza mediante jornadas dedicadas a temáticas complejas.
 
-El área de **Formación** constituye un pilar fundamental en un servicio de bomberos maduro, siendo responsable de la planificación, ejecución, supervisión y evaluación de programas de capacitación anuales. Su relevancia radica en la complejidad y el alcance de las labores desempeñadas por el personal, por lo que la formación continua es considerada tanto un derecho como una obligación.
+Las tareas específicas de esta área incluyen:
+*   Programación y ejecución del Plan de Formación interno del Servicio, coordinando los cursos e integrándolos con los procedimientos operativos.
+*   Coordinación de la comisión de formación para la participación del personal en decisiones clave como la demanda de cursos, encuestas de valoración y planificación.
+*   Regulación y coordinación de la habilitación de formadores, evaluando méritos y cualificaciones para la impartición de cursos internos.
+*   Recopilación de documentos de formación generados por los cursos y mantenimiento actualizado de la documentación y actas del área.
+*   Gestión del almacén de material de formación.
+*   Dirección, regulación y planificación de la formación permanente a través de maniobras diarias, incluyendo la elaboración de documentación de referencia como fichas de maniobra, fichas de material, videomanióbras y el archivo digital de manuales.
+*   Organización y control de maniobras voluntarias fuera de jornada si el personal lo solicita y se dispone de material.
 
-Dicha formación se clasifica en varias modalidades para cubrir las diversas necesidades del personal. La **formación de acceso** dota a los nuevos integrantes de los conocimientos básicos para su puesto. La **formación corporativa**, realizada en horario laboral, busca homogeneizar los criterios de actuación y la familiarización con nuevos equipos. La **formación permanente** se materializa en maniobras diarias durante las guardias, mientras que la **formación de reciclaje** se enfoca en actualizar conocimientos básicos. Finalmente, la **formación avanzada o de especialización** aborda temáticas más complejas y específicas.
+**5.5.2. Prevención y Preparación**
+La prevención se divide en dos enfoques:
+1.  **Prevención estructural o arquitectónica:** Basada en la supervisión del cumplimiento normativo y el asesoramiento especializado.
+2.  **Prevención para la ciudadanía:** Dirigida a fortalecer la capacidad de autoprotección y respuesta ante emergencias mediante actividades formativas y divulgativas.
 
-Para llevar a cabo estas labores, el área de formación desempeña tareas específicas como la programación y ejecución del plan de formación interno, la coordinación de la comisión de formación con participación del personal, la regulación de la habilitación de formadores basándose en méritos y cualificación, y la recopilación y actualización de la documentación formativa. Asimismo, se encarga de dirigir y planificar la formación permanente a través de maniobras diarias y la documentación asociada, lo que incluye fichas de maniobra, manuales y vídeos, y supervisa las maniobras voluntarias realizadas con material del servicio.
+Complementariamente, este área incluye actividades de preparación, también conocidas como prevención operativa, para anticiparse a riesgos significativos como los asociados a edificios complejos, industrias de alto riesgo, residencias de ancianos, así como riesgos activos (retenes preventivos) y siniestros recurrentes.
 
-## II. Prevención y Preparación ante Emergencias
+En su sentido más amplio, la prevención es la segunda función principal del Servicio de Extinción, buscando prever situaciones de riesgo, localizar áreas vulnerables, implementar medidas para evitar siniestros o, si no es posible, limitar al máximo sus daños y consecuencias.
 
-El área de **Prevención y Preparación** se encimenta en un doble enfoque. Por un lado, aborda la prevención sobre elementos estructurales y arquitectónicos, garantizando el cumplimiento normativo y ofreciendo asesoramiento especializado. Por otro lado, se centra en la ciudadanía, buscando fortalecer su capacidad de autoprotección y respuesta ante posibles emergencias mediante actividades formativas y divulgativas. En un sentido amplio, el objetivo principal de la prevención es anticipar y mitigar los riesgos, minimizando los daños y consecuencias de los siniestros.
+Las tareas y ámbitos específicos de esta área son:
+*   **Inspección y asesoramiento:** Se realizan visitas (no urgentes, pues las urgentes son por personal técnico y operativo de guardia) que culminan en un informe técnico. Este informe evalúa el cumplimiento normativo (CTE, RSCIEI, IPCI, etc.) y propone recomendaciones para asegurar la seguridad de la instalación o área.
+*   **Divulgación:** Busca mejorar el conocimiento ciudadano sobre prevención de siniestros, autoprotección, activación de medios externos y limitación de daños. Se manifiesta en:
+    *   Campañas de prevención y otros eventos.
+    *   Charlas y sesiones formativas para ciudadanos.
+    *   Atención y visitas a colegios.
+*   **Preparación o prevención operativa:** Incluye:
+    *   Recopilación y estudio de Planes y normativas aplicables para mantener al personal actualizado sobre novedades y cambios del Servicio.
+    *   Diseño y elaboración de Protocolos externos para coordinarse con entidades de alta complejidad o riesgos intrínsecos.
+    *   Elaboración y mantenimiento de las Fichas de Prevención Operativa (FPO) para consolidar la documentación operativa relevante y maximizar su utilidad en emergencias.
+    *   Revisión y elaboración de Planes de Emergencia y Autoprotección para empresas, industrias, urbanizaciones, residencias de ancianos y otros lugares que lo requieran.
+    *   Gestión y seguimiento de los servicios especiales de retén preventivo para prevenir riesgos excepcionales (eventos deportivos, fuegos artificiales, exhibiciones).
+    *   Diseño e implementación de cursos (en colaboración con el Área de Formación), simulacros y otros eventos de preparación para personal externo.
+    *   Acopio y custodia de datos operativos relevantes (planos, rutas, hidrantes, puntos de captación de agua, estrechamientos, zonas inaccesibles para autobombas, maquinaria pesada, cuevas, simas) en un catálogo propio.
+    *   La actividad preventiva, en ocasiones, requiere una Comisión para organizar los trabajos con la participación de todos los estamentos.
 
-Las tareas específicas de esta área incluyen la **inspección y asesoramiento** no urgente, donde se realizan visitas para verificar la normativa (como el Código Técnico de la Edificación, Reglamento de Seguridad contra Incendios en Establecimientos Industriales, o Instrucciones Técnicas Complementarias) y se elaboran informes con recomendaciones de seguridad. La **divulgación** se orienta a mejorar el conocimiento ciudadano sobre cómo evitar siniestros y protegerse, empleando campañas, charlas y visitas a colegios. La **preparación o prevención operativa** implica la recopilación y estudio de planes y normativas, el diseño de protocolos externos para coordinarse con otras entidades en situaciones complejas, y la elaboración y mantenimiento de Fichas de Prevención Operativa (FPO) con información útil para emergencias. Además, se revisan y elaboran Planes de Emergencia y Autoprotección para diversas instalaciones, se gestionan los servicios especiales de retén preventivo para eventos específicos, se diseñan e implementan cursos y simulacros para personal externo, y se acopian datos operativos de interés (hidrantes, rutas, puntos de agua) en un sistema de información geográfica (SIG) para consulta rápida. En ocasiones, estas actividades se organizan a través de una comisión de prevención que integra a diversos estamentos.
+**5.5.3. Operativa**
+El área operativa se enfoca en el estudio y organización de la mejor forma de actuar coordinadamente ante cada tipo de situación y siniestro. Este estudio culmina en la elaboración de un protocolo operativo que debe ser conocido y puesto a prueba por el personal.
 
-## III. Gestión Operativa y Control de Intervenciones
+El protocolo operativo es un documento que establece un procedimiento de trabajo, pero permite y exige su adaptación a las situaciones específicas de cada intervención.
+Se puede establecer un protocolo "cero" para la elaboración de otros protocolos, cuyas fases son:
+1.  **Conformación de un grupo de trabajo:** Integrado por técnicos y especialistas en la materia a protocolizar. Puede incluir una jornada formativa previa para revisar documentación y elaborar el primer borrador.
+2.  **Exposición pública del primer borrador:** Para que esté disponible para sugerencias del personal, que el grupo de trabajo reestudiará para elaborar el segundo borrador.
+3.  **Prueba en terreno del segundo borrador:** Mediante maniobras que revelen posibles problemas operativos, extrayendo conclusiones para la siguiente fase.
+4.  **Preparación del tercer borrador:** Basado en las conclusiones de las maniobras, buscando eliminar ineficiencias y ajustar el contenido textual a la realidad práctica.
+5.  **Exposición pública del tercer borrador:** Para que todo el personal pueda hacer sugerencias y exponer dudas, lo que culmina en la elaboración del documento definitivo.
+6.  **Aprobación formal del primer texto definitivo:** Por el órgano competente, lo que le confiere oficialidad. De esta aprobación se derivan las siguientes tareas:
+    *   Revisión de la adecuación de herramientas necesarias y corrección de deficiencias.
+    *   Incorporación al plan de formación interna y, si es posible, externa, así como al programa de maniobras.
+    *   Reevaluación mediante el análisis de siniestros en los que se active el protocolo, considerándolo un documento vivo y sujeto a modificaciones si se detectan deficiencias relevantes.
+7.  **Revisión periódica:** Cada tres años, por ejemplo, para asegurar su actualización y cumplimiento de su función original.
 
-El área **Operativa** se dedica al estudio y organización de la respuesta coordinada ante cada tipo de situación y siniestro, culminando en la elaboración de un protocolo operativo. Este protocolo, que establece procedimientos de trabajo, es flexible y permite adaptaciones a las particularidades de cada intervención. El "protocolo cero" sienta las bases para la creación de los demás.
+Es una buena práctica solicitar la participación de personal externo con experiencia y conocimientos específicos (sanitarios, Consejo de Seguridad Nuclear, empresas de diseño y construcción de aerogeneradores, compañías eléctricas, empresas de ascensores) para validar ciertos protocolos de actuación.
 
-La elaboración de un protocolo sigue un proceso definido: primero, un grupo de trabajo con especialistas elabora un borrador inicial. Luego, este se expone públicamente para recibir sugerencias y se elabora un segundo borrador. Posteriormente, se prueba en el terreno mediante maniobras para identificar problemas operativos, extrayendo conclusiones para un tercer borrador. Tras una nueva exposición pública para recabar sugerencias y dudas, se redacta el documento definitivo, que finalmente debe ser aprobado formalmente por el órgano competente para adquirir oficialidad. Este proceso deriva en tareas como la revisión de herramientas, la integración en planes de formación y maniobras, y la reevaluación continua del protocolo basada en el análisis de siniestros, considerándolo un documento vivo. Se recomienda una revisión periódica, por ejemplo, cada tres años, para garantizar su actualización. La colaboración con personal ajeno al servicio, como sanitarios, fuerzas del orden o expertos nucleares, es crucial para validar protocolos específicos. Tras un siniestro, el área operativa también realiza la evaluación a posteriori y la investigación de incendios, para valorar técnicamente su origen, causas y resultados, extrayendo lecciones aprendidas para actualizar los protocolos.
+Esta área funcional también debe incluir la evaluación *a posteriori* de siniestros y la investigación de incendios. Aunque son tareas complejas y requieren personal especializado, es crucial valorar técnicamente el origen y las causas de los siniestros y los resultados de las actuaciones, para aprender y mantener los protocolos actualizados, útiles, eficaces y eficientes.
 
-## IV. Compras e Inversión de Recursos
+**5.5.4. Compras e Inversión**
+La compra de material es un ámbito crítico, ya que cada adquisición puede requerir formación específica e impactar tanto la operativa como la estrategia del Servicio (por ejemplo, el tipo de vehículos y su dotación de personal). Es un área transversal que requiere la contribución de todas las partes para garantizar el éxito de las compras y la adecuación del material a las expectativas de uso. La prueba previa del material a adquirir es fundamental.
 
-La gestión de **Compras e Inversión** es un ámbito de gran importancia y complejidad, ya que la adquisición de cada elemento material puede requerir formación especializada e impactar directamente en la operatividad y estrategia del Servicio, definiendo, por ejemplo, los tipos de vehículos y las dotaciones necesarias. Esta área posee un carácter transversal, demandando la participación de diversas partes para asegurar la idoneidad del material adquirido, siendo la prueba previa del mismo una práctica esencial.
+Algunas de las tareas más relevantes de este ámbito funcional son:
+a)  **Establecer un Plan de Inversiones** (ordinarias y extraordinarias): Este plan debe cuantificar las necesidades económicas del Servicio, los plazos de amortización de cada material y un listado de precios. Esto permite planificar la actividad inversora con antelación y responder ágilmente a imprevistos.
 
-Las tareas más relevantes incluyen el **establecimiento de un Plan de Inversiones**, tanto ordinarias como extraordinarias, donde se cuantifican las necesidades económicas, los plazos de amortización y los precios, permitiendo planificar la actividad inversora y hacer frente a imprevistos. En la **ejecución de las compras**, ya sean vehículos, material de reposición o necesidades anuales, se asegura la continuidad del servicio con equipamiento adecuado, siguiendo un procedimiento documentado y conocido. Las compras de menor entidad pueden ser gestionadas directamente por los técnicos para agilizar procesos. Las **compras de vestuario y equipos de intervención** presentan una complejidad particular, dado que son consumibles directamente relacionados con la seguridad del personal. Las funciones en este subapartado comprenden la elaboración de listados de material mínimo, la diferenciación entre material individual y colectivo, el estudio de homologaciones y certificaciones, la valoración y prueba de opciones comerciales, el análisis de costes y servicios de postventa, y la creación de procedimientos de entrega, reposición y recogida. Finalmente, el área también se encarga de la **proyección y control de obras nuevas de infraestructura**, como nuevos parques o campos de maniobras.
+b)  **Organización y ejecución de compras:** Para garantizar la continuidad del servicio con un equipamiento material adecuado a las labores encomendadas, se deben organizar y ejecutar las compras de vehículos, material de reposición y necesidades anuales. El proceso de ejecución del plan debe estar procedimentado y conocido por todos los técnicos. Las compras de menor entidad pueden quedar a cargo de los técnicos para darles autonomía y evitar la saturación del área de inversión.
 
-## V. Mantenimiento y Almacén de Equipos
+c)  **Compras de vestuario y equipos de intervención:** Merecen una mención especial debido a su complejidad, ya que son consumibles y afectan directamente la seguridad del personal. Dentro de esta gestión se incluyen, al menos, las siguientes funciones:
+    *   Elaboración del listado de material mínimo por efectivo.
+    *   Análisis del material individual y colectivo.
+    *   Estudio de homologaciones, certificaciones y normativa de los equipos, así como las opciones de mercado.
+    *   Valoración y prueba de las distintas opciones comerciales (tallajes, prestaciones).
+    *   Estudio de costes, plazos y empresas de postventa para la revisión o certificación del vestuario.
+    *   Elaboración del procedimiento de entrega, reposición y recogida de vestuario.
 
-El área de **Mantenimiento y Almacén** tiene como objetivo primordial asegurar que todos los equipos y vehículos estén siempre operativos, garantizando así la capacidad de respuesta del Servicio. Se distinguen dos tipos de mantenimiento: el **preventivo** y el **correctivo**.
+d)  **Proyección y control de la ejecución de obra nueva de infraestructura:** También corresponde al área de inversión (nuevos parques, campos de maniobras, etc.).
 
-El **mantenimiento preventivo** busca prolongar la vida útil de los equipos y mantenerlos en óptimas condiciones de funcionamiento, actuando antes de que se produzcan fallos para evitar reparaciones más costosas. Este tipo de mantenimiento puede requerir la contratación de servicios técnicos externos y se apoya en la información del fabricante sobre revisiones y la disponibilidad de un buen servicio postventa. Por otro lado, el **mantenimiento correctivo** se ocupa de la reparación de equipos que ya han sufrido un mal funcionamiento o requieren calibración y reconfiguración, pudiendo ser contratado junto al preventivo o de forma independiente según sea necesario.
+**5.5.5. Mantenimiento y Almacén**
+Esta área garantiza que todos los equipos y vehículos estén operativos en todo momento, asegurando la capacidad de respuesta del Servicio. Conviene que el área funcional de mantenimiento aglutine los siguientes aspectos:
 
-Adicionalmente, el **inventario** es un documento esencial que especifica la ubicación de cada material, y se verifica periódicamente para asegurar la correspondencia entre lo previsto y lo real, registrando cualquier discrepancia y tomando acciones de reposición o adecuación. El **almacén**, con pequeños puntos en cada parque y un almacén central de abastecimiento, debe prever la cantidad y tipología de equipos para garantizar el funcionamiento continuo del Servicio, incluso ante situaciones críticas de desabastecimiento. La gestión del almacén está intrínsecamente ligada al inventario. Además, esta área funcional también abarca el **mantenimiento y reparación de la infraestructura** de los parques y otras instalaciones, incluyendo revisiones de calderas, humedades, climatización, repintado, limpiezas industriales, desratización y desinsectación.
+a)  **Mantenimiento preventivo:** Su objetivo es alargar la vida útil de los equipos y mantenerlos en condiciones de funcionamiento óptimo, actuando antes de que ocurran fallos y evitando reparaciones más costosas. Puede requerir la contratación de servicios técnicos externos. Es importante considerar factores como las revisiones predeterminadas por el fabricante, la posibilidad de realizarlas internamente o externamente, la emisión de certificados de aptitud y la época del año. Es aconsejable tener datos sobre las revisiones y ofertas de servicios postventa antes de la compra, ya que pueden condicionar la elección de equipos.
 
-## VI. Prevención de Riesgos Laborales (PRL)
+b)  **Mantenimiento correctivo:** Su propósito es reparar equipos que han sufrido un mal funcionamiento, necesitan calibración o reconfiguración. Puede contratarse junto al mantenimiento preventivo o derivarse según el fallo.
 
-Finalmente, el área de **Prevención de Riesgos Laborales** se encarga de implementar una política adecuada que garantice la seguridad y salud del personal en el ejercicio de sus funciones. Esta área, de gran envergadura y complejidad, coordina todas las acciones de gestión necesarias, intercalando constantemente ámbitos administrativos y operativos, y se aborda de forma específica y detallada debido a su trascendencia en la protección de los bomberos.
+c)  **Inventario:** Documento que define la ubicación del material. Las revisiones de inventario comprueban la correspondencia entre lo planificado y lo existente, registran discrepancias e inician acciones para la reposición o adecuación del material.
+
+d)  **Almacén:** Se recomienda definir y mantener un pequeño almacén en cada parque y un almacén central para abastecerlos. El almacén central debe prever y guardar el número y tipo de equipos necesarios para asegurar el funcionamiento del Servicio, incluso en situaciones críticas de desabastecimiento o retrasos en el suministro. La gestión del almacén debe integrarse con la gestión del inventario.
+
+En ocasiones, esta área también incluye el mantenimiento y reparación de infraestructuras (calderas, humedades, climatización, repintado, limpiezas industriales, desratización, desinsectación, etc.).
+
+**5.5.6. Prevención de Riesgos Laborales**
+Este área funcional coordina todas las acciones de gestión necesarias para implementar una política adecuada de Prevención de Riesgos Laborales, con el fin de garantizar, en la medida de lo posible, la seguridad y salud del personal del Servicio en el ejercicio de sus funciones. Debido a su envergadura y complejidad, este tema requiere un tratamiento específico y se abordará en una parte posterior de este manual.

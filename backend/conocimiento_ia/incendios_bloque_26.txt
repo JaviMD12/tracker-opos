@@ -1,28 +1,64 @@
-## Técnicas de Intervención con Agua en Incendios de Interior
+## Manual de Incendios: Técnicas de Intervención (Páginas 121-124)
 
-La intervención en incendios de interior exige un conjunto coordinado de acciones y procedimientos orientados a **disminuir la inflamabilidad de los gases**, **reducir la tasa de pirólisis de los combustibles**, **bajar la temperatura del recinto**, **mejorar la visibilidad y la calidad del aire** en el interior, y **facilitar la búsqueda y el rescate de víctimas**. La elección de la técnica adecuada se basa en una valoración exhaustiva del incendio, incluyendo sus condiciones, geometría del recinto, y recursos disponibles.
+### 1. Aplicación de Agua
 
-La aplicación de agua es una estrategia fundamental que modifica la dinámica del incendio mediante dos efectos principales: el **enfriamiento** y la **dilución**. El enfriamiento se logra por la absorción de calor al calentar y evaporar el agua, mientras que la dilución ocurre cuando el vapor de agua generado expande su volumen, desplazando los gases combustibles y el oxígeno, lo que los aleja de su rango de inflamabilidad.
+#### 1.1. Ataque Directo
 
-La efectividad de la aplicación de agua se relaciona directamente con la capacidad de evaporación del agua en el aire antes de que entre en contacto con las superficies. Un porcentaje de evaporación entre el 50% y el 70% en el colchón de gases se considera óptimo para el enfriamiento. El **tamaño de las gotas** es crucial: gotas muy finas permanecen más tiempo en suspensión y absorben más energía, pero tienen menor alcance, mientras que las gotas grandes tienen mayor alcance pero menor eficacia en el intercambio de calor. Se estima que el tamaño de gota óptimo para la lucha contra incendios se sitúa entre 0,3 y 0,7 mm, equilibrando el alcance y la capacidad de absorción de energía. La **escorrentía**, es decir, el agua que no se evapora, reduce la eficacia de la intervención.
+**Cálculo de la energía absorbida por el agua:**
+En un recinto confinado de 5x5 metros de planta y 2,5 metros de altura, con un friso de madera inflamable a 500ºC, la cantidad de agua a 18ºC requerida para reducir la temperatura del friso a 200ºC en los 5 mm superficiales se calcula de la siguiente manera:
+*   Masa de agua (`mH2O`) = 1 kg
+*   Calor específico del agua (`Ce H2O`) = 4,183 kJ/kgºC
+*   Energía absorbida para calentar 1 kg de agua de 18ºC a 100ºC: `Eab` = `mH2O` x `Ce H2O` x `ΔT` = 1 kg x 4,183 kJ/kgºC x (100 - 18)ºC = 343 kJ.
+*   Energía absorbida para evaporar 1 kg de agua a 100ºC: `Eab` = `mH2O` x `Cv H2O` = 1 kg x 2.257 kJ/kg = 2.257 kJ.
+*   Energía total absorbida por 1 kg de agua para convertirse en vapor: 343 kJ + 2.257 kJ = 2.600 kJ.
+Para absorber 4312,5 kJ de energía (requeridos para reducir la temperatura del colchón de gases a 200ºC), se necesitan: `mH2O` = 4312,5 kJ / 2.600 kJ/kg = 1,658 kg de agua.
+*   **Respuesta:** 1,433 litros de agua son suficientes para refrigerar los 5 mm superficiales del combustible del contorno del recinto de 500ºC hasta 200ºC, asumiendo una efectividad de enfriamiento del 100% (sin escorrentía ni película húmeda).
 
-Es importante recordar que, si bien la aplicación de agua ayuda a enfriar y diluir, en condiciones extremas de alta temperatura (por encima de 3222,2 ºC), el agua puede descomponerse en hidrógeno y oxígeno, lo que podría generar explosiones.
+**Cálculo del volumen final de gases incluyendo el vapor de agua aportado:**
+*   Volumen de combustible (`V1`) = 5 x 5 x 1.25 = 31.25 m³
+*   Temperatura inicial (`T1`) = 500 °C = 773 °K
+*   Temperatura final (`T2`) = 200 °C = 473 °K
+*   Relación de volumen y temperatura: `V1/T1` = `V2/T2`
+*   Volumen de gases a 200ºC: `V2` = `V1` x (`T2`/`T1`) = 31.25 m³ x (473/773) = 19.12 m³.
+*   Volumen de vapor de agua introducido:
+    *   Coeficiente de expansión a 200ºC (`Cesp exp 200°C`) = 2.060.
+    *   Volumen de agua vaporizada (`VH2O`) = `Vliquid H2O` x `Cesp 200°C` = 1.433 L x 2.060 = 2.952 L (o 2.952 m³).
+*   Volumen final (`Vfinal`) = `VH2O` + `V2` = 2.952 m³ + 19.12 m³ = 22.07 m³.
+*   **Respuesta:** Durante el enfriamiento, el colchón de gases de 31,25 m³ (1,25 m de espesor) se ha contraído a 22,07 m³ (0,88 m de espesor).
 
-### Técnicas de Ataque con Agua
+**Tabla 10: Características del Ataque Directo**
 
-Existen diversas técnicas de ataque con agua, cada una con objetivos y características específicas:
+| Objetivo | Ejecución |
+| :------- | :-------- |
+| Extinción. Enfriamiento de superficies incendiadas e interrupción de la pirólisis. | **Posición:** Interior o exterior. |
+| | **Caudal:** Medio (100 lpm a 250 lpm). |
+| | **Cono:** 0º a 15º. |
+| | **Patrón de pulsaciones:** <ul><li>Aplicaciones de larga duración (>20”) que pueden llegar a ser continuas.</li><li>Periodos de pausa relativamente largos (entre 15” y 45”) que permitan la distribución del vapor de agua.</li></ul> |
+| | **Movimiento de lanza:** La lanza se moverá a velocidad constante. |
+| | **Consideraciones de seguridad:** <ul><li>Valorar la aplicación de Ataque Indirecto con presencia de víctimas en el interior: si bien el vapor de agua puede contribuir a empeorar las condiciones de supervivencia por su efecto de conducción de calor, se deberá valorar si las condiciones del incendio sin Ataque Indirecto no serán aún peores para la víctima.</li><li>Ausencia de personal de intervención en el interior del recinto a inundar de vapor de agua.</li><li>Controlar el desplazamiento de gases de incendio a otras estancias donde, en contacto con el aire, pueda entrar en rango de inflamabilidad e inflamarse o, simplemente, llenar de humo estancias limpias.</li></ul> |
 
-1.  **Ataque Indirecto:**
-    Esta técnica busca la **extinción por saturación del recinto con vapor de agua** desde una posición exterior segura, sin que el chorro de agua alcance directamente el foco del incendio. Se aplica un caudal medio a alto (entre 100 y 500 litros por minuto) con un cono de agua entre 15º y 30º, utilizando pulsaciones de duración media a larga (más de 20 segundos) y periodos de pausa prolongados (entre 15 y 45 segundos) para permitir la distribución uniforme del vapor. La lanza se mueve a velocidad constante. El patrón de aplicación puede ser en "T" (para recintos con fuerte gradiente térmico o primeras pulsaciones, abarcando las zonas horizontales superiores y la vertical central) o en "O" (para aplicaciones sucesivas o grandes volúmenes, con un movimiento circular del chorro). Una ventaja clave es la seguridad para el personal, que opera desde el exterior, pero conlleva la pérdida completa de visibilidad y el riesgo de quemaduras para posibles víctimas debido al vapor excesivo, además de la posibilidad de desplazar gases calientes a otras estancias.
+#### 1.3. Enfriamiento de Gases
 
-2.  **Ataque Directo:**
-    El objetivo primordial de este método es la **extinción del incendio mediante el enfriamiento directo de las superficies incendiadas** y la interrupción de la pirólisis. Se aplica un caudal medio (entre 100 y 250 litros por minuto) con un cono de agua estrecho (0º a 15º), incluso chorro sólido, mediante pulsaciones largas o aplicación continua, moviendo la lanza directamente sobre el combustible. Esta técnica es muy rápida en su efecto extintor, pero puede romper el equilibrio térmico del recinto y generar un exceso de vapor que empeore la visibilidad y cause quemaduras, además de desplazar gases a otras áreas. Se emplea cuando el foco es visible y accesible, asegurando que el chorro impacte directamente sobre el material en combustión.
+El enfriamiento de gases como técnica de ataque a incendios tiene como objetivo principal reducir la inflamabilidad del colchón de gases. Esto busca proporcionar un entorno más seguro para el equipo de bomberos que avanza en el interior, mitigando los fenómenos de rápido desarrollo del fuego.
 
-3.  **Enfriamiento de Gases:**
-    Esta técnica tiene como fin principal **reducir la inflamabilidad del colchón de gases** para garantizar una progresión segura del equipo de bomberos. Se busca el enfriamiento y la dilución de la capa de gases mediante la aplicación de un caudal bajo a medio (entre 50 y 250 litros por minuto) con un cono de 30º, utilizando pulsaciones muy cortas en grupos o en barridos. Aunque mejora la supervivencia y la visibilidad, y puede mantener la estratificación térmica, no es una técnica de extinción en sí misma. Una aplicación excesiva puede retrasar el acceso al foco y su efectividad es difícil de evaluar debido a la complejidad de la inflamabilidad de los gases.
+**Descripción del proceso:**
+El bombero encargado de la lanza ejecuta pulsaciones de agua de corta duración y bajo caudal. Esto introduce una niebla de agua en el colchón de gases del incendio, y al evaporarse, produce el enfriamiento deseado. Esta técnica no busca la extinción del incendio, sino generar condiciones más seguras para la progresión. El equipo de ataque, una vez garantizadas estas condiciones, podrá localizar el foco del incendio para aplicar técnicas de ataque directo o indirecto.
 
-4.  **Ataque Defensivo contra la Propagación:**
-    Tiene como objetivo **limitar la propagación del incendio** a zonas no afectadas, enfriando las superficies combustibles y deteniendo la pirólisis. Se utiliza un caudal bajo (entre 50 y 100 litros por minuto) con un cono de 0º a 15º, mediante pulsaciones de larga duración o aplicación continua, con la lanza en movimiento para "pintar" las superficies. Es particularmente útil cuando los recursos son limitados, en grandes estructuras con riesgo de propagación, o con escasez de agua. No obstante, no es un método de extinción total, sino de contención.
+La capacidad de enfriamiento del agua se debe a su calor específico, cuatro veces superior al de los gases de incendio (4,090 kJ/kgºC para el agua frente a 1,0 kJ/kgºC para los gases), sumado a la energía absorbida durante su evaporación. La correcta aplicación de estas técnicas contrae el volumen de gases en mayor medida de lo que el vapor de agua expande el volumen, lo que ayuda a mantener la estratificación del recinto y un estrato limpio y visible en la zona baja.
 
-5.  **Ataque Exterior Ofensivo o "Ablandado":**
-    Este ataque busca **reducir la potencia y la temperatura del incendio** desde una posición exterior, mejorando las condiciones interiores para la supervivencia y facilitando un posterior ataque interior. Se aplica un caudal medio (entre 100 y 250 litros por minuto) con un chorro sólido dirigido contra el techo a través de una ventana, utilizando pulsaciones de duración media a larga (5 a 30 segundos) y con la lanza estática. Esta técnica combina efectos de enfriamiento del colchón de gases y de las superficies por las gotas deflactadas, junto con una dilución temporal. Es muy eficaz en la fase inicial del ataque cuando el incendio ha roto por fachada, pero exige coordinación con las operaciones interiores y precaución para no desplazar gases tóxicos o vapor excesivo a zonas no deseadas o con víctimas.
+**Tabla 11: Características del Enfriamiento de Gases**
+
+| VENTAJAS | INCONVENIENTES |
+| :------- | :-------------- |
+| Permite una progresión más segura frente a fenómenos de rápido desarrollo (flashover y backdraft). | No es una técnica de extinción. |
+| Permite mantener el equilibrio térmico en el recinto y conservar la capa inferior visible y fresca e, incluso, elevar el plano neutro. | Una excesiva aplicación de enfriamiento de gases puede retrasar el acceso hasta el foco del incendio. |
+| | No es posible evaluar el efecto de enfriamiento. |
+
+**Proceso y Consideraciones:**
+Tradicionalmente, se utilizaban pulsaciones muy cortas (menores a 1 segundo) con conos relativamente anchos (45º) y ángulos pronunciados (75º) con respecto a la horizontal. Esto refrigeraba la zona de gases inmediata a los bomberos, pero no las condiciones más internas. Las investigaciones actuales y tendencias sugieren:
+*   Alargar las pulsaciones (de 1 a 5 segundos).
+*   Realizar un movimiento de barrido ligero (de 1 a 5 metros).
+*   Reducir el ángulo de cono (30º).
+*   Reducir el ángulo con respecto a la horizontal (30º), dirigiendo el chorro hacia la esquina superior del fondo del recinto para una mayor profundidad. Esto se puede lograr con varias pulsaciones cortas o una pulsación más larga con barrido.
+*   La refrigeración en zonas más profundas previene que el exceso de vapor de agua afecte a la dotación, al aumentar la distancia entre el bombero y la zona de evaporación/expansión.
+*   La técnica debe adaptarse a las condiciones y geometría

@@ -1,58 +1,132 @@
-# Nociones Fundamentales de Cartografía, Factores Humanos y Psicosociales en la Búsqueda y Rescate de Personas
+## Manual de Rescate y Salvamento: Caracterización y Técnicas de Intervención
 
-La capacidad de los servicios de emergencia para realizar búsquedas y rescates efectivos de personas desaparecidas o perdidas se fundamenta en el dominio de la **cartografía** y la comprensión de diversos **factores antrópicos y psicosociales** que influyen en estas situaciones. Estos conocimientos permiten optimizar los recursos y las estrategias de intervención, garantizando la seguridad del personal y la eficacia de la operación.
+### Capítulo 1: Caracterización
 
-## Principios de Cartografía y Posicionamiento
+#### 5. Nociones de Cartografía Básica
 
-La cartografía se erige como una herramienta esencial al proporcionar una **representación gráfica** detallada de una gran superficie. Su utilidad abarca desde la localización precisa de un punto de interés o un accidente, la fijación de la orientación geográfica, hasta el cálculo de distancias y superficies. En el contexto de una búsqueda, la cartografía facilita la organización de los equipos, el registro de las áreas rastreadas y la planificación del retorno seguro de la víctima a su hogar.
+La cartografía es una herramienta esencial para la representación gráfica de grandes superficies, la localización y relación de puntos de interés, la determinación de orientaciones geográficas y la capacidad de calcular distancias y superficies. El conocimiento y uso de la cartografía son fundamentales en una búsqueda para organizar equipos, registrar áreas rastreadas, orientarse y guiar el retorno.
 
-### Lectura e Interpretación de Mapas
+##### 5.1. Lectura de Mapas
 
-La representación de la superficie terrestre en un mapa implica simplificaciones, dada la forma geoide del planeta (elipsoide con irregularidades). Los mapas utilizan **proyecciones** bidimensionales o tridimensionales (cilíndricas, cónicas) para trasladar la información. Un aspecto clave es la **escala**, que define la relación entre las distancias en el mapa y en la realidad; por ejemplo, una escala 1:25.000 indica que un centímetro en el mapa equivale a 250 metros en el terreno.
+La representación de la Tierra en un plano bidimensional implica considerar su forma achatada, con ejes vertical y horizontal de distinta medida, conocida como elipsoide. Los accidentes geográficos generan irregularidades geométricas en la superficie.
 
-### Sistemas de Coordenadas Geográficas
+Existen dos tipos principales de proyecciones cartográficas:
+*   **Proyecciones planas:** Se definen sobre un plano bidimensional.
+*   **Desarrollos:** Se realizan sobre figuras tridimensionales como conos o cilindros.
 
-La localización en un mapa se realiza mediante **coordenadas geográficas**, que dividen la Tierra en paralelos (latitud) y meridianos (longitud). El sistema más extendido, definido en 1884 en la Conferencia Internacional de Washington, utiliza el Ecuador como referencia para la latitud (0º) y el Meridiano de Greenwich para la longitud (0º). La latitud se mide 90º al norte y 90º al sur del Ecuador, mientras que la longitud se mide 180º al este y 180º al oeste del Meridiano de Greenwich. Estas medidas se subdividen en grados, minutos y segundos, donde un grado de latitud en el Ecuador equivale aproximadamente a 110 kilómetros, un minuto a 1.850 metros (una milla náutica) y un segundo a 31 metros.
+La relación de proporción entre la superficie proyectada y el tamaño del plano se denomina escala. Se representa con dos cifras separadas por un signo de división ":" e indica la correspondencia en centímetros entre el mapa y la realidad. Por ejemplo, una escala 1:25.000 significa que 1 centímetro en el mapa equivale a 25.000 centímetros (250 metros) en la realidad. Los geógrafos aplican correcciones matemáticas y geométricas para maximizar la precisión en la localización de puntos.
 
-Por otro lado, el sistema de **Coordenadas Universal Transverse Mercator (UTM)** proyecta el elipsoide terrestre sobre un cilindro transversal. Este sistema excluye las zonas polares (entre 80º S y 80º N) debido a la distorsión. La Tierra se divide en 60 husos (6º de ancho, de este a oeste) y 20 bandas (8º de ancho, de norte a sur), formando una cuadrícula de abscisas (X) y ordenadas (Y). La precisión del posicionamiento cartográfico se asegura mediante el uso de un **datum**, un punto de referencia de encaje (como WGS84, NAD27 o ED50), que se materializa físicamente en **vértices geodésicos** (mojones con protección legal).
+**Métodos de Posicionamiento y Localización:**
+*   **Coordenadas geográficas:** La esfera terrestre se divide en paralelos horizontales y meridianos verticales. En 1884, la Conferencia Internacional de Washington definió el ecuador como paralelo central y el meridiano 0 (Greenwich) para establecer el sistema de coordenadas geográficas. La "altitud" se mide en grados de circunferencia (90° desde el ecuador al polo norte y 90° al polo sur), y la "latitud" se mide en grados de 180° de circunferencia (desde el meridiano de Greenwich hacia el este y oeste). Los grados se subdividen en 60 minutos, y los minutos en 60 segundos. Un grado equivale aproximadamente a 110 km en el ecuador, un minuto a 1.850 m (una milla náutica) y un segundo a 31 m.
+*   **Coordenadas UTM (Proyección Universal Transversa de Mercator):** Este sistema utiliza una proyección transversal del elipsoide sobre un cilindro. Para su cálculo:
+    1.  Se excluyen los polos (80° sur a 80° norte) debido a la distorsión de las mediciones.
+    2.  La imagen bidimensional se subdivide en ejes de abscisas (X) y ordenadas (Y). La Tierra se divide en 60 husos de 6° (de este a oeste) y 20 Bandas de 8° (de norte a sur).
+    3.  Cada cuadrado de 1000 x 1000 metros dentro de husos y bandas define las coordenadas, con un punto de referencia llamado datum.
+    Por ejemplo, las coordenadas X 543.831 Y 4.496.168 significan un punto a 543 km y 831 m al oeste de la escala horizontal y 4.496 km y 168 m al norte de la escala vertical. El datum utilizado es relevante; si el mapa usa coordenadas UTM, hará referencia al datum correspondiente (ej. S30 significa banda S, huso 30).
+    Una vez consensuada la proyección, se aplica al terreno fijando un vértice geodésico y un mojón para su protección legal. El primer vértice se estableció en Kansas (Nord American datum 1927, NAD27). Posteriormente se desarrolló una red de vértices equidistantes que se corrigieron y extendieron, existiendo varias zonas como el European datum de 1950 (ED50) o WGS84.
 
-### Determinación de la Posición y Orientación
+Los cursos de agua, carreteras principales y secundarias, caminos, ciudades y pueblos, así como las infraestructuras, se representan con símbolos identificados en una leyenda. Los mapas actuales pueden incluir ortofotos o fotografías aéreas proyectadas a escala. La lectura de mapas es valiosa para determinar la posición.
 
-La localización de la posición de un individuo, ya sea el rescatador o la víctima, es crucial. Si se dispone de **GPS**, la tarea es directa. En ausencia de este, se recurre a la **triangulación** a partir de al menos tres puntos de referencia geográficos o paisajísticos identificables. La **orientación** implica identificar el este, guiándose por el sol durante el día o por la Estrella Polar y las zonas de solana/umbría durante la noche. La **brújula** es una herramienta fundamental que señala el norte magnético, cuya diferencia con el norte geográfico (ángulo de declinación) debe compensarse. El **rumbo** se refiere a la dirección a seguir, mientras que el **azimut** es su representación en el mapa. Los dispositivos GPS modernos integran estas funciones, facilitando la **navegación** al trazar rutas que consideren caminos sinuosos u obstáculos, no siempre en línea recta.
+##### 5.2. Determinación de Posición
 
-### Herramientas Tecnológicas
+Consiste en establecer la ubicación exacta de la persona o a rescatar. Conocer las coordenadas facilita el uso de un GPS. Sin GPS, se triangula la posición usando elementos paisajísticos como referencia, requiriendo precisión en la orientación.
 
-El avance tecnológico ha dotado a los equipos de rescate de herramientas sofisticadas. Los **GPS de marcas como Garmin** (modelos E-TREX20 o NUVI) son ampliamente utilizados, ofreciendo funciones como la gestión de **tracks** (rutas grabadas), **waypoints** (puntos de interés) y la configuración de datos geográficos. Las **aplicaciones móviles** en smartphones, como WhatsApp, también permiten compartir la ubicación. La creación de sectores de búsqueda en programas como BaseCamp facilita la planificación y el registro de la información.
+##### 5.3. Orientación
 
-## Factores Antrópicos y Psicosociales en Búsquedas
+La orientación implica identificar el oriente. De día, la posición del sol (según estación y hora) es sencilla. De noche, la estrella polar o zonas de solana y umbría permiten determinar los puntos cardinales. La brújula es la herramienta básica, indicando el norte magnético con una divergencia angular respecto al geográfico.
 
-En las operaciones de búsqueda y rescate, la intervención está fuertemente influenciada por **factores antrópicos** (relacionados con el ser humano) y **psicosociales**. Estos elementos pueden condicionar la estrategia, el ritmo de trabajo y la gestión de la información.
+Para determinar el azimut (rumbo en el mapa), se suman los grados de divergencia magnética al rumbo de la brújula. Proyectar varios azimuts sobre el plano permite que sus intersecciones se aproximen a la posición del observador. Los GPS de navegación, al combinar posicionamiento y cartografía, facilitan la determinación de rumbos y recorridos.
 
-### Tipología de Personas Desaparecidas
+##### 5.4. Navegación
 
-Es fundamental distinguir entre **personas perdidas**, que, aunque desconozcan su posición, mantienen contacto con el rescatador, y **personas desaparecidas**, de quienes no se tienen noticias y su paradero es desconocido, lo que requiere una investigación más compleja. La actuación difiere significativamente en cada caso. Ante una desaparición, se activa un **protocolo de búsqueda sistemática** si la vida o integridad del sujeto está en riesgo, apoyándose en la colaboración interinstitucional de fuerzas de orden, protección civil y sanitarios.
+En el desplazamiento, no siempre es posible avanzar en línea recta debido a la sinuosidad de los caminos o a obstáculos. La navegación abarca el conjunto de rumbos para llegar a un destino, incluyendo puntos cardinales, caminos o sendas, y referencias topográficas. Los GPS son útiles para localización, orientación y navegación precisa.
 
-### Condicionantes por Edad
+##### 5.5. Herramientas
 
-La edad de la persona desaparecida influye notablemente en su comportamiento y en las distancias que puede recorrer desde la Última Localización Conocida (ULC). Las **estadísticas de hallazgo** (D50, D75, D99) son cruciales para definir el radio de búsqueda probabilística:
-*   **Niños de 1 a 3 años (periodo sensoriomotor):** Presentan movilidad reducida, falta de conciencia espacial y alta dependencia de sus cuidadores. Tienden a esconderse. La distancia D99 (donde se encuentra el 99% de los casos) es de 3.2 km.
-*   **Niños de 4 a 6 años (periodo preoperacional):** Poseen mayor movilidad y conciencia de estar perdidos, buscando caminos para regresar. La distancia D99 es de 2.7 km.
-*   **Niños de 7 a 12 años (periodo de operaciones concretas):** Desarrollan una mayor capacidad de orientación, aunque pueden tomar atajos y usar mapas mentales. La distancia D99 es de 8 km.
-*   **Adultos (a partir de 18 años):** Con pleno desarrollo cognitivo, pueden perderse por errores en la elección de rutas o falta de referencias. La sobreconfianza puede llevarlos a alejarse más. Buscan caminos, sendas o líneas eléctricas como referencia. La distancia D99 puede llegar a 24 km.
+El avance tecnológico ofrece herramientas útiles para grandes áreas, como la telefonía móvil y sus aplicaciones polivalentes.
 
-### Condicionantes Psicológicos
+**Herramientas y Funciones en Búsqueda:**
 
-Los **trastornos psicológicos** previos pueden afectar el comportamiento de la persona perdida o desaparecida:
-*   **Trastornos neuróticos (ansiedad, fobias, obsesivo-compulsivos), afectivos (depresión, manía) y de personalidad (paranoide, antisocial):** Pueden llevar a comportamientos de ocultamiento, falta de respuesta a llamadas, o a la tendencia a deambular sin rumbo.
-*   **Enfermedad de Alzheimer o demencias:** Suelen tener un historial de desapariciones, no responden a llamadas y buscan lugares familiares, sin relacionarlos conscientemente con el entorno.
-*   **Discapacidades del desarrollo:** Incluyen trastornos cognitivos de origen traumático o patológico, que también resultan en desorientación y movimientos erráticos.
+##### 5.5.1. Brújula
 
-El **estado emocional** del buscador y de la víctima es un factor crítico. Es normal experimentar ansiedad o pánico en entornos hostiles. Se distinguen personalidades **reflexivas** (buscan refugio, piden ayuda) de **proactivas** (intentan resolver solos, siguiendo caminos). El agotamiento físico y mental, la desmotivación o la falta de un ritmo de trabajo adecuado pueden mermar la eficacia de la búsqueda.
+La brújula es una esfera con una cruz y un aspa concéntrica (Rosa de los Vientos) que indica los puntos cardinales. Está dividida en 360 grados y su aguja magnética, a veces sumergida en aceite, gira para evitar oscilaciones. Los servicios de bomberos utilizan brújulas con tapa abatible, hilo y lente para determinar rumbos en mapas 1:25000 (la base escalada coincide con cuadrículas 1000X1000 de coordenadas UTM).
 
-### Grado de Destreza y Equipamiento
+**Uso de la Brújula:**
+1.  Levantar la tapa del hilo y observar.
+2.  Hacer coincidir el hilo y la muesca con el punto de rumbo deseado.
+3.  Observar los grados en la esfera de la brújula.
+4.  Descontar la declinación magnética.
+5.  Obtener el azimut.
 
-El nivel de habilidad del individuo y el equipo disponible son factores que interactúan con el entorno, el clima y la hora del día. La adecuada valoración de estos elementos es esencial para determinar el radio de búsqueda y las estrategias a emplear.
+También posee una base escalada para medir distancias en la cuadrícula UTM.
 
-### Factores Psicosociales y Ambientales
+##### 5.5.2. GPS
 
-Durante una intervención, la **alarma social** generada por casos mediáticos puede influir en la presión sobre los rescatadores, generando expectativas poco realistas y la aparición de falsas pistas. La **relación con la familia** debe manejarse con empatía y honestidad, evitando dar falsas esperanzas y designando un portavoz para una comunicación fluida. La **interacción con los medios de comunicación** requiere cautela para no interferir en la operación y para controlar la información divulgada. Finalmente, el **cansancio** del personal es un factor que afecta las aptitudes físicas y mentales, la motivación y el ritmo de trabajo, siendo crucial gestionarlo mediante relevos y pausas adecuadas.
+El GPS tiene dos funciones principales:
+*   **Localización:** Mediante cartografía digital o coordenadas. Es crucial conocer el tipo de coordenadas (geográficas o UTM) y el datum o punto de referencia geodésico para la compatibilidad.
+*   **Navegación:** Guía hacia un destino preestablecido, mostrando una línea de rumbo directo o una ruta detallada paso a paso mediante mensajes de texto o voz.
+
+En el Anexo del manual se detalla el manejo y funciones de los GPS Garmin.
+
+#### 6. Factores Antrópicos
+
+Los factores antrópicos son circunstancias relacionadas con la persona desaparecida que influyen en la búsqueda, principalmente la edad y el estado psicológico y emocional, además de la presión del entorno social (factores psicosociales).
+
+##### 6.1. Condicionantes de la Edad
+
+La capacidad de un ser humano para el ejercicio físico y su aspecto cognitivo (cómo interpreta la realidad y reacciona) influyen en su búsqueda. Se diferencian 4 grupos de edad: 1 a 6 años, 7 a 12 años, adolescentes (13 a 17 años) y adultos en general. Se utiliza la clasificación de Piaget y estadísticas de hallazgos para determinar el alejamiento.
+
+##### 6.1.1. Niños de 1 a 6 años
+
+Este grupo se subdivide en dos subgrupos según su comportamiento:
+*   **De 1 a 3 años (Periodo sensoriomotor):** La conducta se basa en respuestas motoras a estímulos, sin cadena "percepción-reflexión-actuación".
+
+    **Comportamiento del niño perdido:**
+    *   Movilidad reducida.
+    *   Inconsciencia de estar perdido y falta de capacidad de orientación.
+    *   No responde a llamadas.
+    *   Se desplaza en búsqueda sin sentido, tendiendo a buscar refugio y esconderse.
+    *   Fuerte apego a sus progenitores.
+
+    **Actuación:** Tienden a buscar refugios o escondites (a menudo inverosímiles), por lo que se requiere un rastreo sistemático con equipos caninos si es posible. Si son menores, la respuesta debe ser inmediata.
+
+    **Estadística de Alejamiento (distancias desde ULC):**
+    *   **D50:** 0,3 Km
+    *   **D75:** 1,6 Km
+    *   **D99:** 32 Km
+
+*   **De 4 a 6 años (Periodo preoperatorio):** Utiliza el lenguaje y piensa en objetos no visibles, comprende cambios y relaciones causa-efecto, pero su pensamiento es focalizado y egocentrista.
+
+    **Comportamiento del niño perdido:**
+    *   Mayor competencia motora.
+    *   Conciencia de estar perdido.
+    *   Intención de volver a casa.
+    *   Se mueve por caminos o sendas.
+    *   Responde a llamadas.
+    *   Puede ser presa del pánico y desorientarse más.
+
+    **Actuación:** Se utiliza la búsqueda probabilística para comprobar todas las hipótesis posibles. Los equipos caninos de rastreo son aconsejables. Si son menores, la respuesta debe ser inmediata.
+
+    **Estadística de Alejamiento (distancias desde ULC):**
+    *   **D50:** 0,6 Km
+    *   **D75:** 1,2 Km
+    *   **D99:** 6 Km
+
+##### 6.1.2. Niños de 7 a 12 años
+
+Este es el período de las operaciones concretas. Se caracteriza por haber superado el egocentrismo, poder ponerse en el lugar de otros y analizar varios aspectos de una situación, y haber adquirido los conceptos de reversibilidad y conservación. Cuando se pierde, busca atajos, confiando en su orientación y mapa mental, por lo que se moverá por caminos o sendas y lugares conocidos.
+
+**Actuación:** Se utilizará la búsqueda probabilística hasta comprobar todas las hipótesis posibles. Los equipos caninos de rastreo también son aconsejables. Si se trata de menores, la respuesta debe ser inmediata.
+
+**Estadística de Alejamiento (distancias desde ULC):**
+*   **D50:** 2 Km
+*   **D75:** 3,5 Km
+*   **D99:** 8 Km
+
+##### 6.1.3. Adolescentes 13 a 17 años
+
+Este es el período de las operaciones formales. Se caracteriza por:
+*   Aparición de la capacidad de pensamiento abstracto y resolución de problemas complejos.
+*   Sentimiento de pertenencia a grupo, pudiendo generar pánico si se encuentran solos.
+*   Generalmente buscan el retorno a lugares conocidos, zonas altas o habitadas, y se mueven por caminos o sendas, respondiendo a las llamadas.
+*   Se alejan menos que los adultos.

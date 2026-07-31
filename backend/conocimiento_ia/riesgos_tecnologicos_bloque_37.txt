@@ -1,56 +1,104 @@
-En la ingeniería civil, la **edificación** se concibe como una construcción fija, elaborada con materiales resistentes para albergar usos humanos u otros fines específicos. Su correcta comprensión requiere un conocimiento fundamental de las propiedades de los materiales y de los sistemas constructivos que configuran su estructura.
+### PARTE 1. Edificaciones: Técnicas de estabilización de sistemas constructivos y terrenos
 
-## Materiales de Construcción en Edificación
+#### 3. Herramientas y Elementos Auxiliares (Continuación)
 
-Los **materiales de construcción** son materias primas, de cualquier naturaleza, composición o forma, que, mediante técnicas constructivas adecuadas, dan lugar a elementos constructivos y edificaciones. La alta demanda en el sector exige que la mayoría se elaboren a partir de materias primas ampliamente disponibles, como áridos o arcilla.
+**3.4. Ejecución de piezas**
 
-Desde el punto de vista mecánico, estos materiales se clasifican según su comportamiento estructural ante los esfuerzos. Se distinguen los **materiales tenaces**, que absorben gran energía antes de fracturarse debido a su ductilidad (ejemplos claros son la madera o el acero), y los **materiales frágiles**, que presentan un buen comportamiento a compresión, pero deficiente a tracción, y no soportan bien las flexiones (como la piedra o el ladrillo).
+Al ensamblar apeos de madera, todas las piezas deben sujetarse con clavos para asegurar las uniones. Esto previene movimientos causados por la humedad y las variaciones térmicas que podrían desplazar las piezas.
 
-### Materiales Pétreos
+**3.5. Arriostramiento**
 
-Los **materiales pétreos** se dividen en naturales y artificiales. Los **pétreos naturales** son extraídos directamente de la naturaleza y, aunque muy apreciados por su resistencia y durabilidad, rara vez se usan hoy día como elementos estructurales primarios debido a su alto coste, baja plasticidad y fragilidad. Se clasifican según su origen:
+Los apeos deben arriostrarse mediante triangulaciones de pies derechos o tornapuntas con riostras. Estas piezas, de sección alargada y reducida, trabajan a tracción. Se utilizan cruces de San Andrés para fijar las piezas principales, evitando desplazamientos y garantizando un trabajo conjunto y estable.
 
-*   Las **rocas ígneas** provienen de la solidificación del magma y pueden ser:
-    *   **Intrusivas, plutónicas o magmáticas:** Solidificadas en el interior de la corteza terrestre, son densas y resistentes (ej. granito, utilizado en cimentaciones y muros de carga).
-    *   **Extrusivas, volcánicas o eruptivas:** Solidificadas en la superficie, menos densas y resistentes (ej. basalto).
-*   Las **rocas sedimentarias** resultan de procesos sedimentarios sobre rocas preexistentes y se clasifican en:
-    *   **Dentríticas:** Originadas por alteración física de otras rocas, pueden ser sueltas (gravas, arenas, limos) o compactas (conglomerados, areniscas, lutitas). Las gravas (20-60 mm gruesas, 6-20 mm medias, 2-6 mm finas) se usan en mampostería y hormigones. Las arenas (0.6-2 mm gruesas, 0.2-0.6 mm medias, 0.06-0.2 mm finas) son esenciales en morteros y hormigones. Los limos (0.02-0.06 mm gruesos, 0.006-0.02 mm medios, 0.002-0.006 mm finos) y las arcillas (<0.002 mm), con alta plasticidad, se emplean en ladrillos y elementos cerámicos.
-    *   **No dentríticas:** De origen químico, por precipitación y consolidación (ej. arcilla, caliza, yeso).
-*   Las **rocas metamórficas** se forman por transformación de rocas ígneas o sedimentarias debido a incrementos de presión y temperatura, generando cambios en su composición y estructura. Los factores que causan el metamorfismo incluyen altas temperaturas (150-800°C), presión (litostática, confinante, dirigida o tectónica) y reacciones químicas. Su uso es limitado debido a su baja resistencia y foliabilidad, aunque la "serie pelítica" (arcilla > pizarra > esquisto > micacita > gneis > migmatita) muestra una resistencia y compacidad crecientes.
+### ANEXOS
 
-Los **pétreos artificiales** se obtienen por procesos industriales y se dividen en:
+#### 2. Apeos estandarizados del CEIS Guadalajara (Continuación)
 
-*   **Materiales formáceos:** Mezcla fluida en estado plástico que adquiere forma al verterse en un molde y endurecerse. El **tapial**, un aglomerado de arcilla, se usa en muros verticales, apisonado en tongadas en encofrados de madera. Presenta una densidad de 16-21 kN/m³, baja resistencia (1.5 N/mm²), baja durabilidad frente a agentes atmosféricos, excelente aislamiento térmico y eficaz transpiración de vapor. Se requiere un 15-20% de arcilla y se vierte en tongadas de unos 20 cm.
-*   **Elementos de fábrica:** Conjuntos de pequeños elementos prefabricados sólidos (piedra o ladrillo) unidos con aglomerantes.
+**APEOS EN MUROS h<3m**
 
-### Materiales Básicos y Compuestos
+**Notas Generales:**
 
-Dentro de los materiales de construcción se distinguen los materiales básicos y los compuestos.
+*   **Conjunto Elemental**: Cada apeo se compone de varios conjuntos elementales.
+*   **Acotaciones y Dimensiones Genéricas**: El mando de intervención debe ajustar la capacidad mecánica del apeo a la solicitación prevista.
+*   **Geometrías y Calidades de Material**: Se pueden emplear materiales y geometrías distintas a las indicadas en los planos, considerando la variación en la capacidad mecánica.
+*   **Capacidad Mecánica del Conjunto Elemental**: Un conjunto elemental tiene una capacidad mecánica de 20 kN (carga puntual horizontal a 2 m de altura).
+*   **Número de Conjuntos Elementales**: Se instalarán tantos como sean necesarios para cubrir la zona afectada o la carga prevista, considerando las siguientes acciones:
+    *   **Muros expuestos al viento**: 1,5 kN/m².
+    *   **Fachadas desplomadas de fábrica**:
+        *   **20 cm**:
+            *   10º de inclinación: 0,9 kN/m².
+            *   20º de inclinación: 1,8 kN/m².
+            *   30º de inclinación: 2,9 kN/m².
+        *   **50 cm**:
+            *   10º de inclinación: 2,2 kN/m².
+            *   20º de inclinación: 4,5 kN/m².
+            *   30º de inclinación: 7,2 kN/m².
+    *   **Depósitos de agua**:
+        *   1 m de profundidad: 5 kN/m².
+        *   2 m de profundidad: 10 kN/m².
+        *   3 m de profundidad: 15 kN/m².
+    *   **Contención de tierras**:
+        *   **Arcilla**:
+            *   1 m de profundidad: 4,9 kN/m².
+            *   2 m de profundidad: 9,8 kN/m².
+            *   3 m de profundidad: 14,7 kN/m².
+        *   **Grava/Arena**:
+            *   1 m de profundidad: 3,3 kN/m².
+            *   2 m de profundidad: 6,7 kN/m².
+            *   3 m de profundidad: 10 kN/m².
+*   **Distancia entre Conjuntos (d)**: d = capacidad del apeo / (carga x altura) = 20 kN / (carga x h). La distancia entre conjuntos no excederá los 4 m.
 
-Los **materiales básicos** incluyen:
+**APEOS EN MUROS h<6m**
 
-*   **Aglomerantes:** Materiales que unen fragmentos por efectos físicos (solidificación por secado), como el barro o la cola, dando lugar a un aglomerado.
-    *   El **yeso**, un conglomerante aéreo, se obtiene de la piedra de Aljez por molido y deshidratación/calcinación. Tiene una densidad de 15 kN/m³, muy baja resistencia (≥2 N/mm²), fragua rápido con aumento de temperatura y volumen, es mal conductor de calor y buen aislante térmico. Existen tipos como Yeso Grueso (YG) para capas base, Yeso Fino (YF) para enlucidos interiores, Yeso Proyectado (YP) para aplicación mecánica, y Escayola (E-30, E-35) para elementos prefabricados y decoración.
-    *   La **cal grasa/aérea**, u óxido de calcio (CaO), se obtiene por calcinación de piedra caliza pura (hasta 5% arcilla). Reacciona violentamente con agua, alcanzando 90°C y formando hidróxido de calcio (Ca(OH)2, cal apagada/muerta). Esta, a su vez, reacciona con el CO2 del aire para formar carbonato de calcio (cal), endureciéndose pero siendo poco resistente al agua. Su densidad es de 13 kN/m³ y se usa en mezclas plásticas y morteros.
-*   **Conglomerantes:** Materiales que unen fragmentos por transformaciones químicas, formando nuevos compuestos.
-    *   La **cal hidráulica**, una variante de la cal viva con más del 5% de arcilla, adquiere propiedades hidráulicas, fraguando y endureciendo tanto al aire como bajo el agua, con reacciones más rápidas y productos más resistentes y estables. Se recomienda para restauración de muros y fachadas.
-    *   El **cemento** es una mezcla de caliza y arcilla calcinada hasta el clinker y luego molida finamente. Endurece al contacto con el agua y se usa como conglomerante en morteros y hormigones. Se clasifica en cementos naturales (rápido, lento) y artificiales (los más comunes en edificación). La normativa UNE EN 197-1 establece su nomenclatura: CEM (cemento común), seguido de un número romano (I a V para tipo de cemento principal), una letra (A, B, C para subtipos) y un guión con la letra del aditivo (S: escoria, O: humo de sílice, P: puzolana natural, Q: puzolana calcinada, V: ceniza volante de sílices, W: ceniza volante calcárea, T: esquistos calcinados, L/LL: caliza). La clase resistente (resistencia a compresión en N/mm² a 28 días) se indica con 32.5 (media), 42.5 (alta) o 52.5 (muy alta), y una R (alta resistencia inicial) o N (normal). Los aditivos (naturales o artificiales) mejoran resistencia, durabilidad y reducen el calor de fraguado.
-    *   Los **conglomerantes hidrocarbonatados bituminosos** son compuestos ligantes que requieren calentamiento para su extensión y se consolidan al perder viscosidad (ej. alquitrán, betún, asfalto). Son insensibles al agua, ideales para carreteras e impermeabilización.
-*   **Áridos:** Materiales granulares inorgánicos de tamaño variable, esenciales en la fabricación de morteros y hormigones.
-*   **Agua:** Elemento crucial para las reacciones químicas de los conglomerantes y el inicio del proceso de compactación y resistencia. Debe tener un pH ≥ 5, sulfatos ≤ 1 g/L, y cloruros ≤ 1 g/L para hormigón pretensado o ≤ 3 g/L para hormigón en masa/armado. El uso de agua de mar está prohibido para hormigones armados o pretensados. Físicamente, reduce el rozamiento y facilita la plasticidad.
+**Notas Generales:**
 
-Los **materiales compuestos** son mezclas de los básicos:
+*   **Conjunto Elemental**: Un apeo se compone de varios conjuntos elementales.
+*   **Acotaciones y Dimensiones Genéricas**: El mando de intervención debe ajustar la capacidad mecánica del apeo a la solicitación previsible.
+*   **Geometrías y Calidades de Material**: Se pueden emplear materiales y geometrías distintas a las indicadas en los planos, considerando la variación en la capacidad mecánica.
+*   **Capacidad Mecánica del Conjunto Elemental**: Un conjunto elemental tiene una capacidad mecánica de 20 kN (carga puntual horizontal a 2 m de altura) + 15 kN (carga puntual horizontal a 4,5 m de altura).
+*   **Número de Conjuntos Elementales**: Se instalarán tantos como sean necesarios para cubrir la zona afectada o la carga previsible.
+*   **Distancia entre Conjuntos**: La distancia entre conjuntos no excederá los 4 m.
 
-*   La **pasta** es una mezcla plástica de conglomerante y agua, que al reaccionar químicamente, genera material de agarre. Físicamente, envuelve y adhiere partículas, mientras químicamente se combina con el agua para desarrollar resistencia.
-*   El **mortero** es una mezcla de conglomerante, árido fino y agua, menos plástico que la pasta, utilizado como revestimiento de paramentos. Los áridos absorben y transmiten cargas, reduciendo retracciones. Se denomina según el conglomerante (yeso, cemento, cal) o como "morteros mixtos" (con dos conglomerantes) o "mortero bastardo" (cemento y cal). La norma UNE-EN 998-2 los clasifica por resistencia a compresión (M-1 a M-20 N/mm²).
-*   El **hormigón** se define como un elemento conformado por conglomerante, agua y árido grueso, a veces con aditivos, que se vierte en estado plástico en un encofrado.
-    *   **Características:** Amplio uso desde el siglo XX por disponibilidad y bajo coste. Posee buena resistencia a compresión, pero baja a tracción y cortante, lo que lo hace complementarse con acero ("hormigón armado").
-    *   **Tipologías:**
-        *   **Hormigón en masa:** Masa pétrea artificial sin armadura, soporta solo compresión.
-        *   **Hormigón armado:** Incorpora armadura de acero calculada y posicionada para resistir tracciones y compresiones. La armadura actúa una vez desencofrado.
-        *   **Hormigones pretensados:** Contienen tendones de acero que se tensan *antes* de que el hormigón fragüe (armadura pretesa) o *después* del fraguado (armadura postesa), para introducir compresiones previas que contrarresten las tracciones de flexión. Esto se traduce en estructuras más rígidas, duraderas y con mejor comportamiento al fuego.
-    *   **Proceso de pretensado:** Los tendones se colocan sin tensar dentro de vainas, se hormigona la pieza, se anclan los tendones en un extremo y se tensan con un gato en el otro, y finalmente se anclan ambos extremos. Las vainas pueden rellenarse con lechada (adherente) o dejarse vacías (no adherente).
-    *   **Nomenclatura (EHE-08):** Sigue el formato "T-R/C/TM/A", donde T indica la tipología (HM, HA, HP), R la resistencia característica a compresión en N/mm² (ej. HM ≥ 20, HA ≥ 25, HP ≥ 25), C la consistencia (S-seca, P-plástica, B-blanda, F-fluida, L-líquida), TM el tamaño máximo del árido y A el ambiente de exposición.
-    *   **Calificación del hormigón:** Se evalúa mediante el cono de Abrams para su consistencia (seca: 0-2 cm, plástica: 3-5 cm, blanda: 6-9 cm, fluida: 10-15 cm, líquida: 16-20 cm), el tamaño máximo del árido para la penetración del armado, y el ambiente de exposición (clases generales I-IV y específicas Qa-Qc, H, F, E).
-    *   **Ejecución y curado:** La puesta en obra depende del estado plástico inicial, con fases de encofrado, vibrado para homogeneizar y expulsar aire, y curado para la hidratación y endurecimiento. El fraguado ocurre en 2-8 horas, y el endurecimiento hasta la resistencia total dura 28 días, con hitos como el 50% de resistencia en 24-48 horas y 3/4 en 1 semana. El tiempo mínimo de puesta en carga es de 2 semanas.
-    *   **Aditivos:** Sustancias añadidas (menos del 5% del peso del cemento) para modificar propiedades. Los reductores de agua o plastificantes disminuyen el agua para igualar la trabajabilidad o la aumentan. Los superplastificantes logran efectos más significativos.
+**FORJADOS h<3m FALLO EN APOYO**
+
+**Notas Generales:**
+
+*   **Conjunto Elemental**: Un apeo se compone de tantos conjuntos elementales como sean necesarios.
+*   **Acotaciones y Dimensiones Genéricas**: El mando de intervención debe ajustar la capacidad mecánica del apeo a la solicitación previsible.
+*   **Geometrías y Calidades de Material**: Se pueden emplear materiales y geometrías distintas a las indicadas en los planos, considerando la variación en la capacidad mecánica.
+*   **Capacidad Mecánica del Conjunto Elemental**: El conjunto elemental tiene una capacidad mecánica de 50 kN (carga uniformemente distribuida entre los 2 puntales).
+*   **Número de Conjuntos Elementales**: Se instalarán tantos como sean necesarios para cubrir la zona afectada o la carga previsible, considerando las siguientes acciones:
+    *   **Peso propio (vivienda)**: 3 kN/m².
+    *   **Peso propio (garaje)**: 5 kN/m².
+    *   **Sobrecarga (cubierta)**: 2 kN/m².
+    *   **Sobrecarga (vivienda)**: 3 kN/m².
+    *   **Sobrecarga (dotacional)**: 4 kN/m².
+    *   **Sobrecarga (garaje)**: 10 kN/m².
+*   **Número de Puntales (n), Distancia entre Puntales (d) y Conjuntos (d*)**: Responderá a las fórmulas:
+    *   n = superficie x carga / capacidad por puntal = A x c / 25 (mínimo 4).
+    *   d = d\* = (superficie / nº puntales) ^ 2 = (A / n) ^ 2.
+*   **Esquema General en Planta**: Ilustración de la disposición de los puntales C30 y durmientes de tablón 20x7.
+*   **Fallo estructural por flexión en zona central vano**.
+*   **Continuidad del apeo**: hasta forjado rasante calle o 3 forjados por debajo.
+
+**ENTIBACIONES h<3m**
+
+**Notas Generales:**
+
+*   **Conjunto Elemental**: Un apeo se compone de tantos conjuntos elementales como sean necesarios.
+*   **Acotaciones y Dimensiones Genéricas**: El mando de intervención debe ajustar la capacidad mecánica del apeo a la solicitación previsible.
+*   **Geometrías y Calidades de Material**: Se pueden emplear materiales y geometrías distintas a las indicadas en los planos, considerando la variación en la capacidad mecánica.
+*   **Capacidad Mecánica del Conjunto Elemental**: El conjunto elemental tiene una capacidad mecánica de 50 kN (carga uniformemente repartida a lo largo de los durmientes en contacto con el terreno).
+*   **Número de Conjuntos Elementales**: Se instalarán tantos como sean necesarios para cubrir la zona afectada o la carga previsible, considerando las siguientes acciones:
+    *   **Profundidad (m)** | **Arcilla (kN/m²)** | **Grava/Arena (kN/m²)**
+        *   1 m | 4,9 | 3,3
+        *   2 m | 9,8 | 6,7
+        *   3 m | 14,7 | 10
+*   **Distancia Máxima entre Conjuntos (d)**: d = capacidad del apeo / (carga media x altura) = 50 kN / (cm x h).
+*   **Distancias Máximas Recomendadas para 3 m de profundidad**:
+    *   Arcillas: 1,50 m.
+    *   Gravas: 2,00 m.
+*   **Distancia entre Conjuntos**: La distancia entre conjuntos no excederá los 2 m.
+*   **Elementos principales**: Durmiente longitudinal (tablón 300x20x7cm C18 UNE 56.544) y Puntal telescópico (C30 EN1065 lmax 3,00m Ry,k=34,0kN).
+*   **Fijación**: Tresbolillo uniforme (9 clavos de 4" (100x5)) y varilla pasante.
+*   **Anclaje**: En caso de no ser accesible el trasdós del muro, se puede aplicar la solución de anclaje con 5 varillas de Ø10 y 500 mm de longitud como la dispuesta en el suelo.

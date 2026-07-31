@@ -1,63 +1,160 @@
-## Comportamiento Estructural de Edificaciones ante Incendios e Impactos y Evaluación de la Ruina
+El temario de oposiciones de bomberos y emergencias se presenta a continuación, estructurado de forma rigurosa y técnica, sin omisiones de datos esenciales.
 
-La estabilidad de una edificación, crucial para la seguridad de sus ocupantes y la efectividad de las intervenciones de los cuerpos de bomberos, se analiza a través del comportamiento de sus materiales constitutivos frente a diversas solicitaciones, así como por la evaluación del estado general de la estructura.
+---
 
-### Comportamiento de los Materiales de Construcción ante el Fuego
+### **II.3. Estructuras de Fábrica ante el Fuego**
 
-Los diferentes materiales empleados en la construcción presentan características variadas frente a la acción del fuego, lo que influye directamente en su resistencia y la respuesta estructural del edificio.
+El comportamiento de los elementos constructivos fabricados con materiales de fábrica frente al fuego es generalmente favorable. A diferencia de otras estructuras, no suelen colapsar por la acción directa del fuego, aunque una diferencia significativa de temperatura entre sus caras puede generar el pandeo del muro y la aparición de cargas excéntricas.
 
-En el caso del **acero**, este material se caracteriza por su alta conductividad térmica y elevado coeficiente de dilatación (aproximadamente 0,000012 ºC⁻¹). A pesar de ser incombustible y no contribuir a la propagación del incendio, el acero es considerado estructuralmente peligroso en un siniestro. Su resistencia comienza a disminuir a partir de los 300 ºC y pierde dos tercios de su capacidad entre 500 y 600 ºC, alcanzando un tercio entre 600 y 700 ºC. El "punto crítico" de 538 ºC marca el colapso inminente al perder más del 50% de su resistencia de diseño. Por ejemplo, una viga de acero de 10 metros expuesta a un incendio que eleve su temperatura de 20 ºC a 300 ºC experimentará una dilatación lineal de 3,36 cm, generando empujes laterales que pueden colapsar la estructura. Los tiempos de colapso son rápidos; un perfil HEB-300 puede ceder en 11 minutos si está expuesto por 4 caras, y en 31 minutos si lo está por una sola. La dilación y contracción del acero durante el enfriamiento pueden causar el derrumbe de elementos colindantes.
+**Sobrecargas por Desplome de Fachadas de Fábrica**
+Las sobrecargas resultantes del desplome de fachadas de fábrica se cuantifican de la siguiente manera:
 
-Por su parte, el **hormigón armado** presenta una alta masa y densidad, lo que le confiere una elevada inercia térmica y una baja conductividad, limitando la zona afectada por el calor. Su coeficiente de dilatación es bajo, similar al del acero, pero las dilataciones son más lentas, lo que permite una redistribución gradual de los esfuerzos. Es un material incombustible (clasificado como M0 o A1) y no contribuye al inicio ni a la propagación del incendio. Sin embargo, su resistencia disminuye significativamente a partir de los 380 ºC. La grava en su composición puede disgregarse a los 1000 ºC, y a partir de los 600 ºC, el hormigón se vuelve frágil. Los daños se manifiestan con cambios de coloración: se mantiene gris original hasta los 300 ºC, adquiere tonos rojizos entre 300 y 600 ºC, y a partir de 900 ºC, se vuelve blanco o amarillo pálido, indicando una pérdida casi total de resistencia. El colapso del hormigón armado se atribuye a procesos termomecánicos (dilataciones diferenciales entre hormigón y acero) y termohidráulicos (generación de vapor de agua en los poros, causando *spalling* o desprendimiento explosivo de capas).
+| Inclinación | Ancho 20 cm (kN/m²) | Ancho 50 cm (kN/m²) |
+| :--------- | :----------------- | :----------------- |
+| 10º        | 0,9                | 2,2                |
+| 20º        | 1,8                | 4,5                |
+| 30º        | 2,9                | 7,2                |
 
-En contraste, el **hormigón pretensado y postensado** muestra un comportamiento significativamente inferior al del hormigón armado frente al fuego. Al utilizar alambres de acero de menor diámetro en lugar de barras, el colapso es más rápido. La pérdida de resistencia es más pronunciada, especialmente en elementos sometidos a tracción y flexión. A altas temperaturas, las armaduras pretensadas se deforman rápidamente, liberando la tensión aplicada y reduciendo la capacidad estructural sin posibilidad de recuperación tras el enfriamiento. Cuando el hormigón pierde el 35% de su resistencia, el acero de pretensado ya ha perdido entre el 60% y el 70% de su capacidad. La situación es aún más crítica en el postensado, donde la protección de las armaduras en vainas es mínima.
+### **IV. Madera ante el Fuego**
 
-La **fábrica** (mampostería o ladrillo) se caracteriza por su gran masa e inercia térmica, baja conductividad y bajo coeficiente de dilatación, siendo un material incombustible que no propaga el incendio. Ofrece una alta resistencia al fuego en muros de piedra o ladrillo macizo, y media o baja en hormigón o ladrillo con altos índices de huecos. Aunque no suelen desplomarse por acción directa del fuego, las diferencias de temperatura entre sus caras pueden causar combamiento y la necesidad de refuerzos. La pérdida de arriostramiento debido a la caída de forjados superiores puede provocar el desplome de muros de fábrica. La exposición prolongada a altas temperaturas puede generar roturas y deformaciones en materiales pétreos o cerámicos.
+El principal desafío para la estabilidad de las estructuras de madera en un incendio es la pérdida de sección del material. Para abordar esto, se establecen umbrales de seguridad y normas de actuación:
 
-Finalmente, la **madera** se distingue por su baja masa y densidad, que permiten un rápido incremento de temperatura, aunque su humedad inicial puede retrasar este proceso. Posee baja conductividad y dilatación térmica. Sin embargo, su reacción al fuego es alta, siendo un material combustible que contribuye a la carga térmica y a la propagación del incendio. Curiosamente, la madera no pierde sus propiedades resistentes al ser atacada por el fuego; de hecho, puede “ganar” resistencia al principio del incendio debido a la disminución de humedad. La reducción de su resistencia se debe a la carbonización progresiva de su sección, estimada en 1 cm cada 15 minutos. Las estructuras de madera suelen ser isostáticas y de poca altura, facilitando su control. No obstante, presenta vulnerabilidades como la presencia de vicios ocultos (carcoma, pudriciones) y uniones metálicas.
+*   **Intervención permitida:** Una estructura de madera permite la intervención si conserva al menos el 60% de su resistencia. Dado que este cálculo no es siempre factible in situ, se puede aplicar la siguiente regla:
+    *   **Pérdida de sección ≤ 20%:** El elemento se considera estable y no requiere refuerzo.
+    *   **Pérdida de sección 20-40%:** El elemento constructivo necesita refuerzo con elementos auxiliares para incrementar su estabilidad. Otra opción es la demolición parcial.
+    *   **Pérdida de sección > 40%:** La estructura es altamente inestable y se debe establecer una distancia de seguridad.
+*   **Determinación de la superficie afectada:** Para calcular el grado de superficie afectada, se debe verificar el espesor carbonizado:
+    *   Comparar la sección total calcinada con la de piezas cercanas no quemadas.
+    *   Identificar la pérdida de sección original mediante un elemento punzante, saneado parcial o un corte transversal completo.
+*   **Velocidad de carbonización:** Para evaluar la evolución del proceso, se debe verificar la velocidad de carbonización, que varía según el tipo de madera, con un valor promedio de 0,7 mm/min o 1 cm/15 min.
 
-### Sistemas de Protección contra el Fuego en Edificaciones
+### **V. Sismos**
 
-Para proteger las estructuras del fuego y evitar su colapso, así como la propagación del incendio, se emplean diversos sistemas:
+Las consecuencias de los sismos pueden afectar principalmente dos áreas: el terreno donde se asienta la edificación y la estructura del edificio. Para las intervenciones de bomberos, y sin considerar las grietas evidentes en el terreno, las manifestaciones del seísmo sobre el terreno son el desplazamiento y la licuefacción.
 
-En el ámbito de la **protección estructural**, se utilizan:
-*   **Paneles ignífugos**, como los de cartón yeso, que se instalan alrededor de elementos de acero. Su espesor se calcula en función de la resistencia al fuego requerida.
-*   **Pinturas intumescentes**, que, al alcanzar temperaturas superiores a 200 ºC, reaccionan creando una capa esponjosa que puede multiplicar su espesor hasta 50 veces, proporcionando aislamiento térmico durante 60 a 120 minutos.
-*   **Protección sólida**, que consiste en recubrir los elementos estructurales con hormigón en masa, aumentando su resistencia al fuego.
-*   **Morteros** con aditivos como perlita o vermiculita, aplicados sobre perfiles para mejorar su resistencia.
-*   **Filmes o mantas** de fibra cerámica o lana de roca, usadas para proteger perfiles metálicos.
-*   **Estructuras externas**, que, al situarse fuera del edificio, reducen los requisitos de protección pasiva.
-*   **Recubrimientos de albañilería**, utilizando ladrillo o bloques de hormigón para proteger entramados de madera o estructuras de acero.
-*   **Pantallas**, como tabiquerías interiores, perimetrales o falsos techos, que contribuyen a la integridad, aislamiento y estabilidad del conjunto.
-*   El **relleno de perfiles tubulares huecos** con hormigón, hormigón celular o agua, que actúa como masa térmica para absorber calor.
+*   **Deslizamiento del terreno:** Implica el corrimiento de un estrato superficial de tierra sobre otro inferior, con un alto grado de humedad y una pendiente pronunciada. Este desplazamiento genera asientos diferenciales y grietas. Las grietas más serias se forman en las uniones rígidas entre vigas y forjados, y son más notorias en las zonas de hormigón armado sometidas a tracción.
+    *   En el pilar que desciende, las grietas aparecen en la parte inferior de la unión viga-pilar.
+    *   En los pilares adyacentes que no descienden, las grietas se localizan en la parte superior del encuentro viga-pilar.
 
-Para la **protección contra la propagación de incendios en instalaciones**, se aplican:
-*   **Cortafuegos lineales** en bandejas de cables, mediante revestimientos resistentes al fuego cada cierto número de metros.
-*   **Almohadillas intumescentes** para sellar pasos de bandejas de cables o penetraciones, que se dilatan con el calor.
-*   **Conductos resistentes al fuego**, construidos con paneles, para crear sectores de incendio independientes en instalaciones.
-*   **Collarines intumescentes** para tuberías inflamables de plástico, que se expanden para sellar la abertura y evitar el paso de calor y humos.
-*   **Conductos de ventilación** con materiales incombustibles, rejillas intumescentes y compuertas cortafuegos, para evitar la propagación a través de ellos.
+### **VI. Licuefacción del Terreno**
 
-### Patologías por Causas Accidentales: Impacto
+La licuefacción es un proceso donde los suelos granulares no cohesivos, saturados de agua, se comportan como líquidos pesados. Los síntomas más comunes son:
 
-El riesgo de impacto se define como el choque violento de un cuerpo contra una edificación, excluyendo los impactos premeditados. El **Código Técnico de la Edificación (CTE DB SE AE)** establece el marco normativo para la protección de elementos resistentes.
+*   **Desplazamiento y vuelco:** La desaparición del plano de asiento inicial (total o parcial) provoca desplazamientos y vuelcos de toda la edificación. Pueden surgir grietas, pero el síntoma más claro es la pérdida de verticalidad del edificio, con la sección separada entre la estructura aérea y la subterránea.
+*   **Afloramiento de lodo:** Una gran cantidad de fango y lodo aflora a la superficie alrededor del edificio, formando pequeños "volcanes de lodo y arena".
 
-Los **factores** que influyen en la magnitud y características de las acciones por impacto son la masa y velocidad del cuerpo impactante, así como su capacidad de deformación y amortiguación y la del elemento impactado. En el caso de vehículos, los valores de cálculo para impactos de hasta 30 kN de peso total son 50 kN en dirección paralela a la vía y 25 kN en dirección perpendicular. Para carretillas elevadoras, se considera un impacto equivalente a cinco veces su peso máximo autorizado.
+El proceso se comprende mejor a doble escala:
 
-En las **intervenciones de bomberos**, el riesgo de impacto es de alta magnitud y puede causar el colapso inmediato. Los cerramientos prefabricados de naves industriales, que históricamente se encastraban en perfiles metálicos y ofrecían buen comportamiento al fuego, ahora a menudo se fijan con grapas y tacos, careciendo de resistencia al fuego y colapsando rápidamente en caso de incendio o impacto vehicular. Es fundamental que los sistemas de fijación y anclaje estén homologados, ya que el uso de grapas y tacos puede generar inestabilidad. Los anclajes externos, además, son vulnerables a la corrosión.
+*   **Microscópica:** La licuefacción se relaciona con suelos saturados donde el agua ejerce presión sobre las partículas del suelo. Previamente al terremoto, esta presión es baja, pero la sacudida sísmica puede aumentarla, provocando el distanciamiento y el desplazamiento libre de las partículas (el terreno se convierte en arenas no cohesivas). Con el movimiento libre de las partículas, los materiales más densos se decantan al fondo (granos), mientras que los más ligeros (lodos y agua) ascienden.
+*   **Macroscópica:** Un edificio en reposo, al sufrir un sismo, experimentará tres procesos consecutivos:
+    1.  Las vibraciones sísmicas causan la salida de agua y fango a la superficie.
+    2.  Se produce una compactación de los granos de arena, reduciendo su volumen.
+    3.  Se generan asentamientos, deslizamientos o vuelcos, con pérdida de la resistencia de los estratos.
 
-### Evaluación de la Seguridad y el Estado de Ruina de Edificaciones
+### **VII. Efectos del Sismo en Edificaciones**
 
-La **seguridad de un edificio** se entiende como su capacidad para soportar de forma estable las cargas durante su vida útil (50 años según el CTE DB SE). Las edificaciones construidas conforme a la normativa actual se consideran seguras, aunque con valores probabilísticos. Sin embargo, las construcciones antiguas o sin normativa pueden carecer de referencias de diseño, lo que no implica necesariamente inseguridad, pero sí requiere una evaluación más exhaustiva.
+Para analizar los efectos del sismo en las edificaciones, se consideran los siguientes factores:
 
-Los **escalafones para catalogar la estabilidad** de una edificación, especialmente en una intervención de emergencia, son:
-*   **Estado de confianza:** No se aprecian situaciones de riesgo en la estructura.
-*   **Estado de precariedad:** Existen deficiencias que disminuyen las garantías de seguridad, pero no representan un peligro inmediato.
-*   **Estado de peligro/ruina:** La estructura no puede soportar las acciones permanentes o variables bajo un uso normal, y este estado degenerativo puede llevar al colapso.
+*   **a) Geometría de la estructura:** Es el factor de mayor incidencia en el comportamiento estructural. Determina la magnitud y dirección de esfuerzos y tensiones soportados.
+    *   **Centro de masas:** Distribución de las masas de la edificación, prestando atención a las discontinuidades de rigidez y resistencia en la estructura principal.
+    *   **Simetría y regularidad:** En edificaciones no simétricas o con gran variación de masas en sus direcciones principales, el centro de masas y el de torsión no coincidirán, generando deformación diferencial. Para evitarlo, se debe prestar atención al diseño de las cajas de escalera.
+    *   **Retranqueos:** La simetría y regularidad en planta deben extenderse a toda la altura, evitando retranqueos de fachada.
+*   **b) Rigidez del elemento constructivo/edificio:** Las variaciones de rigidez pueden conducir a puntos de fallo.
+    *   **Efecto pilar corto:** Se produce cuando un elemento superficial (muro) restringe la deformación del pilar en parte de su longitud, generando concentración de tensiones adicionales no previstas.
+        *   **Casos típicos:** Plantas bajas con ventanas corridas, semisótanos con pilares parcialmente empotrados en muros de sótano (con ventanas para iluminación y ventilación).
+        *   **Solución:** Cruces de San Andrés.
+    *   **Efecto piso blando:** Se genera en edificios con distribución uniforme de particiones interiores en todas las plantas, excepto en una que es diáfana.
+        *   Las particiones interiores pueden asumir cargas durante el terremoto, contribuyendo a la resistencia. El caso más sensible es cuando la planta diáfana es la baja.
+        *   Los pilares de planta baja pasan de empotrados a doblemente articulados.
+        *   **Solución:** Cruces de San Andrés.
+    *   **Fenómeno aplauso:** Ocurre en edificaciones adosadas de diferentes alturas. Un sismo puede impedir el desplazamiento del edificio más pequeño, generando fuertes cortantes y cizallamiento en los pilares del edificio alto, lo que puede provocar el fallo de la estructura en pisos intermedios (zona de contacto).
+*   **c) Materiales de construcción:** El comportamiento frente al sismo varía según el material: acero, hormigón, fábrica o madera.
+    *   **Resonancia o sincronismo:** Un sismo de baja intensidad y larga duración es más peligroso que uno de alta intensidad y corta duración, ya que el edificio puede entrar en resonancia con la frecuencia del movimiento sísmico, incrementando la aceleración y pudiendo causar destrucción total o parcial o disipación de energía por rozamiento interno. La resonancia es directamente proporcional a la altura de la edificación. Las características vibratorias pueden cambiar por la pérdida de rigidez y frecuencia de resonancia del edificio.
+    *   **Otros factores:** La dirección de la sacudida influye en el comportamiento (dirección fuerte, paralela al sismo; dirección débil, perpendicular). El espesor es directamente proporcional a la resistencia en la dirección débil; a menor sección, menor resistencia a igual altura. Se generarán esfuerzos de cortante (dirección fuerte) y flexión (dirección débil).
 
-El concepto de **ruina** se refiere a un estado de seguridad comprometido por patologías graves que amenazan la estabilidad o hacen el edificio inservible para su uso previsto. Su marco legal incluye la Ley 38/1999 de Ordenación de la Edificación (Art. 3 sobre requisitos básicos y Art. 17 sobre responsabilidad de los agentes), el Código Civil (Art. 1591) y la jurisprudencia del Tribunal Supremo.
+### **II.3. Materiales de Construcción ante el Sismo**
 
-Existen dos tipos principales de ruina:
-*   **Ruina funcional:** Se declara cuando el edificio se vuelve inútil o inservible para su destino, sin que su estabilidad se vea necesariamente afectada.
-*   **Ruina constructiva:** Se subdivide en:
-    *   **Ruina potencial o incipiente:** Se manifiesta por vicios constructivos iniciales que, si no se corrigen, podrían evolucionar a problemas graves, aunque aún no comprometen la estabilidad.
+#### **II.3.1. Adobe**
+
+Material muy pesado con escasa trabazón entre muros. Las juntas de mortero de barro sin cocer (aproximadamente 2 cm) crean una unión muy frágil ante el sismo.
+
+#### **II.3.2. Tapial**
+
+Consiste en capas de tierra compactada de 10-15 cm dentro de un encofrado. Ofrece mayor estabilidad que el adobe al ser monolítica. Sin embargo, las sacudidas horizontales perpendiculares al muro pueden provocar su colapso. Solo los muros de gran espesor resisten cargas laterales sin estabilización adicional. Las esquinas chaflanadas son más adecuadas.
+
+#### **II.3.3. Estructuras de Fábrica**
+
+El problema real de las estructuras de fábrica ante el sismo es geométrico: elementos constructivos planos con dos dimensiones principales frente a un espesor insignificante, lo que las hace muy sensibles a los esfuerzos de cortante y flexión. Una solución constructiva eficaz es la mampostería confinada (ej., fachadas en estructuras entramadas).
+
+#### **II.3.4. Hormigón Armado**
+
+El hormigón armado, material con buena resistencia a compresión pero despreciable a tracción, tiene nula resistencia a las vibraciones de las ondas S. Por ello, en zonas sísmicas, se utiliza en elementos estructurales con mayor cantidad de acero que en situaciones ordinarias.
+
+El comportamiento del hormigón armado frente al sismo depende de:
+
+*   **Dosificaciones del hormigón.**
+*   **Cuantía de acero y su disposición.**
+*   **Tipología del elemento constructivo** (según HA).
+
+**Forjados de Hormigón Armado (HA)**
+
+*   **Aspectos positivos:**
+    *   Los forjados de HA in situ forman diafragmas rígidos que transmiten efectos sísmicos a muros resistentes en cada dirección, mejorando el comportamiento ante fuerzas laterales sísmicas y asientos diferenciales en terrenos compresibles.
+    *   Los forjados prefabricados (viguetas) con capa de compresión de acero colaboran en la formación del diafragma.
+    *   Una gran densidad de muros continuos en toda la altura aporta suficiente rigidez para movimientos horizontales.
+*   **Aspectos negativos:**
+    *   Desmoronamiento inclinado de las vigas próximas a los extremos, debido a la tensión diagonal.
+
+**Pilares de Hormigón Armado (HA)**
+
+*   **Los pilares de planta baja** son los más afectados en un sismo (primero los de esquina, luego los de fachada), ya que soportan todo el peso de la edificación y resisten su desplazamiento.
+*   **La parte superior de los pilares** es la más afectada debido a la menor resistencia del hormigón en esa área (acumulación de árido fino y agua de amasado durante el vibrado). Este efecto es más pronunciado en pilares más altos.
+*   La inversión repetida de esfuerzos por el sismo provoca el desprendimiento del hormigón y, subsiguientemente, el pandeo de las barras de armado, lo que lleva al colapso del elemento constructivo.
+
+#### **II.3.5. Acero**
+
+El acero, al ser más elástico que el hormigón armado, presenta mayor deformación potencial en sismos. El parámetro principal que condiciona su comportamiento es su rigidez y las uniones.
+
+*   **Estructuras soldadas:**
+    *   **Estructuras rígidas:** Resistentes a momentos. La falla suele ser una fractura en la unión rígida columna-viga.
+    *   **Estructuras entramadas:**
+        *   **Pórticos arriostrados (triangulación incompleta):** Fallo en la soldadura de riostras a vigas/columnas.
+        *   **Pórticos en celosía (triangulación completa):** Fallo por pandeo de los elementos diagonales.
+    *   El resultado último de los fallos en pórticos arriostrados y en celosía es el pandeo de los pilares.
+*   **Estructuras atornilladas:** Los fallos se producen por fallo de los tornillos (cortante) o de las placas de conexión (desgarramiento o sección insuficiente).
+
+#### **II.3.6. Madera**
+
+Las estructuras de madera se caracterizan por su bajo peso y alta flexibilidad, lo que se traduce en daños menos peligrosos. Sin embargo, su popularidad en sismos se ve afectada por:
+
+*   **Resistencia inadecuada de muros** en pisos bajos, debido a la presencia de garajes amplios, espacios diáfanos o grandes aberturas (escaparates, portales).
+*   **Conexión precaria** entre cimentación y soleras o entrepisos, que provoca deslizamiento.
+*   **Otros fallos:** Anclajes inadecuados de postizos o ampliaciones, presencia de insectos xilófagos (termitas), reducción de la sección útil por flejes y pudriciones, y humedad.
+
+### **10.2.4. Patologías por Causas Accidentales – Impacto**
+
+**Definición:** El riesgo de impacto se refiere al choque violento de un cuerpo contra una edificación, provocado por la aplicación súbita de una fuerza.
+
+**a) Marco legal:** La cuantificación se rige por el CTE DB SE AE, que establece dimensiones para los elementos resistentes afectados. Solo se consideran impactos accidentales (ej., vehículos, contrapeso de ascensor), excluyendo los premeditados.
+
+**b) Factores:** La magnitud y características de las acciones por impacto dependen de:
+*   **Masa** del cuerpo impactante.
+*   **Velocidad** del cuerpo impactante.
+*   **Capacidad de deformación y amortiguación**, tanto del cuerpo impactante como del elemento impactado.
+
+El riesgo de impacto de vehículos es el más probable en edificaciones. Se deben considerar las siguientes prescripciones:
+*   **Impacto exterior:** La acción de impactos de vehículos desde el exterior se considera según la ordenanza municipal.
+*   **Impacto interior:** El impacto desde el interior se considera en todas las zonas con circulación de vehículos.
+*   **Valores de cálculo:** Las fuerzas estáticas equivalentes por impacto de vehículos de hasta 30 kN de peso total son de 50 kN en dirección paralela a la vía y 25 kN en dirección perpendicular (no actúan simultáneamente).
+*   **Carretillas elevadoras:** En zonas con circulación de carretillas, el valor de la fuerza estática equivalente es cinco veces el peso máximo autorizado de la carretilla.
+*   **Otros vehículos:** Si las instrucciones de uso y mantenimiento del edificio mencionan otro tipo de vehículos (ej., helicópteros), se debe definir en el proyecto el valor característico y el modelo de acción.
+
+**c) Riesgo de impacto asociado a intervenciones de los cuerpos de bomberos:**
+Aunque el impacto no es el riesgo más frecuente para bomberos, su magnitud puede causar el colapso inmediato de la edificación, dependiendo de las características del cuerpo impactante y los elementos afectados.
+
+**Estudio de José Damián Soriano y José Jacinto de Castro:** Este estudio pionero sobre cerramientos prefabricados en naves industriales sirve de referencia.
+*   Inicialmente, los sistemas de cerramiento se empotraban en perfiles metálicos, anulando el pandeo y mejorando el comportamiento al fuego (minimizando la superficie expuesta al incendio).
+*   Actualmente, la construcción tiende a usar grapas de acero y tacos de sujeción sin anclaje soldado ni fijación química, y sin resistencia al fuego ni a la corrosión.
+*   **En emergencias, el comportamiento es demoledor:**
+    *   **Incendio:** La inestabilidad del acero con grapas y tacos, expuesto al fuego, provoca colapso rápido y desplome de la fachada.
+    *   **Impacto:** Un vehículo que impacta contra la fachada de la nave puede causar su derrumbe inmediato.

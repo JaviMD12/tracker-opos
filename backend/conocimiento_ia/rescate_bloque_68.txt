@@ -1,61 +1,189 @@
-# Elementos de Seguridad y Tipos de Vehículos en Operaciones de Rescate
+## Manual de Rescate y Salvamento: Caracterización de Vehículos en Accidentes de Tráfico
 
-Las operaciones de rescate en accidentes de tráfico exigen un conocimiento exhaustivo de la estructura y los sistemas de seguridad de los vehículos implicados, especialmente en el contexto de vehículos pesados y aquellos que utilizan fuentes de energía alternativas. Esta comprensión es crucial para garantizar la seguridad de los intervinientes y la eficacia del rescate.
+### 2.3. Vehículos Pesados: Camiones
 
-## Tipología y Características de los Vehículos
+#### 2.3.1. Definición y Partes de los Camiones
 
-Los vehículos se clasifican según su tipo y uso, presentando particularidades relevantes para las labores de emergencia.
+Los camiones se definen como vehículos pesados cuya función principal es el transporte de carga, y su peso máximo autorizado debe exceder los 3500 kg. Su diseño se basa en una configuración de chasis-cabina, con una carrocería que se instala posteriormente, adaptándose al uso específico (volquetes, cubas hormigoneras, frigoríficos, transporte de ganado, etc.). Una excepción son los tractocamiones o cabezas tractoras, que no llevan carrocería y se dedican exclusivamente a arrastrar vehículos no motrices, como los semirremolques. La estructura de un camión se divide en dos componentes principales: el bastidor y la carrocería.
 
-### Camiones y Vehículos Pesados
+#### 2.3.2. El Bastidor y el Motor
 
-Los camiones, definidos como vehículos pesados destinados al transporte de carga con un peso máximo autorizado superior a 3500 kg, se diseñan con una configuración de chasis-cabina. Posteriormente, se les añade una carrocería específica para su uso, como volquetes, hormigoneras, frigoríficos o transportes de ganado. Los tractocamiones, por su parte, arrastran un semirremolque no motriz.
+El bastidor, al igual que en los autobuses y autocares, es una estructura compuesta por dos robustas vigas longitudinales, conocidas como largueros, que están unidas por travesaños perpendiculares. Este conjunto se fabrica con un material muy resistente, ya que su propósito es soportar todos los componentes del camión.
 
-La estructura de un camión se compone de dos partes fundamentales: el **bastidor** y la **carrocería**. El bastidor, que aloja el motor, los órganos de transmisión, la suspensión, la dirección y los frenos, está construido con vigas longitudinales y travesaños muy resistentes, diseñados para soportar grandes pesos. La carrocería, que incluye la cabina y la caja, está amortiguada sobre el bastidor en cuatro puntos de apoyo y puede inclinarse hacia delante para facilitar el mantenimiento del motor. En cuanto a la cabina del conductor, está diseñada como una estructura autoportante de acero, funcionando como una **célula de seguridad** rígida. Sin embargo, su comportamiento en impactos frontales no es comparable al de los turismos. La parte inferior de la cabina suele incluir dos largueros de chapa, las paredes laterales y el túnel del motor, elementos que, junto con el techo (generalmente de fibra y a veces con literas o maleteros), forman la estructura principal. La altura de las cabinas puede alcanzar hasta 3,70 metros, lo que aumenta la complejidad en las operaciones de rescate.
+El motor es un componente que, si bien es esencial para el movimiento del vehículo (actualmente, su potencia ronda los 500 CV, pudiendo alcanzar los 660 CV en algunos casos), su influencia en las intervenciones de rescate es menor. Generalmente, el motor se ubica en la parte delantera, entre los largueros, bajo el suelo del conductor. Sin embargo, algunos modelos más avanzados pueden tener el motor en una posición más adelantada, incluso con un morro, lo que aporta un grado de seguridad pasiva en caso de accidente; esta configuración es poco común en la Unión Europea.
 
-Los **autocares y autobuses**, también clasificados como vehículos pesados, comparten similitudes mecánicas con los camiones, pero difieren en su construcción y carrocería. Los autocares, diseñados para trayectos medios y largos, priorizan la comodidad y seguridad de los pasajeros, incorporando bodegas en la parte inferior para equipaje. Por otro lado, los autobuses, para trayectos urbanos o interurbanos cortos, están pensados para maximizar la capacidad de pasajeros y facilitar el acceso. Ambos deben cumplir normativas sobre habitabilidad, seguridad y resistencia de su superestructura, como los Reglamentos ECE n° 36 y 66 en España.
+#### 2.3.3. Cabina
 
-Existen dos tipos principales de carrocerías para vehículos de transporte de pasajeros:
-*   La **carrocería autoportante** o autobastidor, que consiste en una estructura multitubular que soporta todos los elementos del autobús, con refuerzos resistentes a equipos hidráulicos de rescate. Se busca robustez con el menor peso posible, con características como construcción semi-integral y montantes de acero de gran volumen.
-*   La **carrocería con bastidor independiente**, donde el chasis y la carrocería son montados por diferentes fabricantes. Su concepción es similar a la de los camiones, con dos largueros unidos por traviesas. Se clasifican en bastidor alto (con bodega de equipaje) y bastidor bajo (con un solo escalón de acceso).
+La cabina de los camiones se diseña como una estructura autoportante de acero, funcionando como una célula de seguridad intrínseca. Se monta sobre el chasis del camión mediante elementos de suspensión. Aunque su estructura se deforma de manera similar a la de los turismos en impactos frontales, su comportamiento en términos de seguridad no es comparable.
 
-Los autocares de largo recorrido pueden incluir **espacios especiales** como cabinas de aseo, cocinas de a bordo, maleteros y cabinas de descanso para el conductor. Estos compartimentos requieren una revisión por parte del personal de rescate para asegurar que no haya personas atrapadas.
+La parte inferior de la mayoría de las cabinas consta de dos largueros de chapa, tres piezas del suelo del camión, paredes laterales y un túnel del motor. Estos elementos se complementan con el frente de la cabina, los costados laterales y el testero trasero, que junto con el techo (generalmente de fibra y en ocasiones con literas o maletero) forman el conjunto principal.
 
-### Furgonetas y Vehículos Blindados y Tuneados
+### 2.3.4. Caja de Transporte de Mercancías
 
-Las **furgonetas** son vehículos industriales con un peso máximo de 3500 kg, diseñadas con una cabina delantera para dos o tres personas y un furgón trasero cerrado para carga. Sus configuraciones pueden variar, incluyendo versiones "furgón" (sin ventanas ni asientos, mayor capacidad), "combi" (con segunda fila de asientos y ventanillas laterales), "minibús" (hasta nueve plazas, paneles acristalados) o "chasis-cabina" (cabina delantera con largueros para una carrocería a medida). Su estructura puede ser autoportante (con zonas fusibles deformables, como en la Ford Transit) o con chasis independiente (rígida, sin deformación programada). La diversidad de configuraciones y la mayor altura y longitud de algunas furgonetas pueden requerir técnicas de rescate distintas a las de los turismos.
+La caja es el área del camión destinada al transporte de la carga, y su forma varía según el tipo de mercancía.
 
-Los **vehículos blindados**, diseñados para resistir atentados, presentan desafíos adicionales. Pueden ser fabricados directamente blindados o ser turismos modificados con placas de acero en techo, suelo y laterales, creando una estructura tipo "caja". Estos vehículos poseen una alta resistencia a las herramientas de rescate habituales.
+*   **Camión Rígido:** La caja está unida de forma sólida al vehículo mediante tornillos, no soldaduras, y se ancla al bastidor. En un incidente, la intervención debe considerar el tratamiento separado de la mercancía y la cabina.
+*   **Camión Rígido con Remolque:** En este tipo, la carga se distribuye en dos partes: una en el camión y otra en un remolque independiente. Si se dispone de los medios y datos adecuados, el rescate puede abordarse por separado para cada parte.
+*   **Tractora con Semirremolque:** Conocido popularmente como tráiler, el semirremolque se une a la tractora mediante un eje denominado “quinta rueda”. Es importante conocer su funcionamiento, ya que en ciertas ocasiones puede ser necesario separar la cabeza tractora del semirremolque con rapidez.
+*   **Remolques y Semirremolques:** Ambos son vehículos no motrices y están destinados al transporte de carga. La diferencia principal es que un remolque se puede unir a un camión rígido, mientras que un semirremolque solo puede ser arrastrado por un tractocamión. Su estructura es similar a la de los camiones, con dos largueros unidos por traviesas que forman el bastidor, sobre el cual se monta la carrocería específica para cada uso. Estos vehículos requieren un sistema de acople entre el vehículo de tracción y el remolque o semirremolque. Los acoplamientos varían según sean de remolques, semirremolques o la quinta rueda. Es esencial entender el funcionamiento de la quinta rueda, que conecta la tractora con la caja, para una separación rápida si es necesario.
 
-Los **vehículos tuneados** incluyen modificaciones mecánicas (ej. óxido nitroso para mayor rendimiento) o estéticas (ej. alerones, faldones de fibra de carbono). Los elementos añadidos, como la fibra de carbono, pueden dificultar las operaciones de corte y excarcelación.
+### 2.4. Vehículos Especiales
 
-### Tractores y Maquinaria Agrícola
+#### 2.4.1. Furgonetas
 
-Los **tractores** son vehículos de trabajo diseñados para arrastrar, accionar y empujar aperos agrícolas. Los accidentes mortales más frecuentes con tractores se deben al aplastamiento por vuelco (especialmente sin estructura de protección o cinturón de seguridad), atropellos de trabajadores o atrapamientos por los ejes de transmisión, tomas de fuerza, poleas o correas. Muchos tractores modernos incorporan estructuras antivuelco, como cabinas o bastidores de 4 o 6 postes, o arcos delanteros/traseros, para crear un espacio de supervivencia en caso de vuelco. Disponen de uno o varios sistemas de accionamiento para aperos, como el sistema de tres brazos en la parte posterior.
+Las furgonetas se clasifican como vehículos industriales con un peso máximo autorizado de 3500 kg, aunque existen excepciones. Su configuración más común es una cabina delantera con capacidad para dos o tres personas, unida a un furgón trasero cerrado destinado a la carga. Existen variantes con asientos en el compartimento de carga y diversas carrocerías adaptadas al uso.
 
-## Fuentes de Energía Motriz
+Los tipos de furgonetas incluyen:
 
-El conocimiento del tipo de combustible y los sistemas de energía alternativos es vital para la seguridad en las operaciones de rescate.
+*   **Furgón:** Con espacio de carga cerrado, sin ventanas ni asientos, ofreciendo mayor capacidad de carga y un espacio trasero diáfano.
+*   **Combi:** Incorpora una segunda fila de asientos (generalmente corrida de tres plazas) en la zona central, con ventanillas laterales en los costados.
+*   **Minibús:** Con tres plazas adicionales como máximo respecto al combi, sumando hasta nueve plazas, y superficies acristaladas en los paneles laterales.
+*   **Chasis-cabina:** Consiste en una cabina delantera y largueros preparados para que un carrocero especialista monte la carrocería adecuada.
 
-### Combustibles Fósiles (Gasolina y Gasoil)
+La estructura resistente de una furgoneta puede ser:
 
-Los motores térmicos de combustión interna pueden funcionar con **gasolina** (motores de explosión, también con gas o alcohol) o **gasoil/diésel** (motores de combustión interna). Para grandes potencias, los motores diésel o de combustión interna son los más utilizados. El gasoil es el combustible más común en vehículos de transporte de viajeros y presenta menos problemas de seguridad frente a incendios. Los depósitos de combustible suelen estar integrados en los compartimentos de equipaje o bajo los asientos, lo que requiere precauciones especiales durante el rescate.
+*   **Autoportante:** La carrocería forma un conjunto con el vehículo, similar a la de los turismos (ej., Ford Transit).
 
-### Gas Licuado de Petróleo (GLP) y Gas Natural Comprimido (GNC)
+#### 2.4.2. Blindados
 
-El uso de GLP y GNC está en aumento debido a su menor impacto ambiental y ahorro económico (40-45% frente a la gasolina).
-*   El **GNC** se compone principalmente de metano (90%) y se almacena en estado gaseoso a altas presiones (unos 200 bares/2.900 psi), lo que requiere tanques más robustos. En caso de fuga, el metano es más liviano que el aire y tiende a subir, pero una explosión puede ser peligrosa debido a la alta presión.
-*   El **GLP**, una mezcla de butano y propano, se almacena en estado líquido a presiones más bajas (6-7 bares), permitiendo tanques más ligeros y económicos. Al ser más pesado que el aire, el GLP tiende a caer al suelo en caso de fuga, lo que lo hace más seguro en ciertos escenarios.
-Ambos sistemas se instalan en talleres autorizados, con depósitos y canalizaciones resistentes a impactos. Las bocas de llenado suelen estar en la tapa del depósito.
-Los vehículos de GNC suelen identificarse con "CNG" en la tapa del motor, y en autobuses, con una cubierta de techo grande. En vehículos de transporte de viajeros, los tanques de GNC, hechos de plástico integrado y reforzado con fibra de carbono, se ubican en el techo y tienen ranuras de ventilación.
-Para garantizar la seguridad, estos vehículos incorporan **válvulas de cierre de seguridad de gas** (que interrumpen el circuito eléctrico del gas en caso de emergencia), **válvulas de cierre mecánicas** (para cierre manual), **cortocircuitos fusibles** (que se activan por temperatura) y **limitadores de caudal** (que reducen el flujo de gas ante una bajada de presión). Las caperuzas de goma en válvulas dirigen el gas al aire libre en caso de escape.
+En situaciones que requieren prevenir atentados, se utilizan vehículos especialmente reforzados con blindaje. Los fabricantes pueden producir vehículos blindados directamente (ej., Mercedes) o modificar coches existentes. El proceso de blindaje implica desmontar las partes exteriores, añadir placas de acero internamente y volver a montar las partes exteriores. El acabado de estas estructuras ofrece una resistencia excepcional a las herramientas de rescate convencionales. Las planchas blindadas se instalan en el techo, el suelo y los laterales, formando una caja protectora.
 
-### Vehículos Eléctricos e Híbridos
+#### 2.4.3. Vehículos Tuneados
 
-Los **vehículos eléctricos** puros son muy eficientes y silenciosos, no emiten gases y ofrecen una respuesta ágil del motor, pero su autonomía es limitada, son más caros y requieren puntos de recarga. Los **vehículos híbridos**, más extendidos, combinan motores eléctricos y de combustión. En una configuración **híbrida paralela**, el motor eléctrico funciona hasta cierta velocidad (ej. 60 km/h), tras la cual se activa el motor de combustión, que también puede recargar las baterías (a menudo con frenos regenerativos).
-La identificación de estos vehículos se realiza mediante distintivos como "Hybrid" o la letra "h" en el modelo (ej. Lexus CT200h).
-Las arquitecturas híbridas paralelas pueden tener un **generador independiente** (más componentes, mayor peso, coste, pero generador eficiente) o utilizar el **motor eléctrico como generador** (menos componentes, posible menor rendimiento). Estos vehículos operan con **alto voltaje** (hasta 650 V), y sus componentes de alta tensión (grupos auxiliares y baterías) se encuentran en el techo en vehículos de transporte de pasajeros, o en la parte trasera en turismos, identificándose con símbolos de peligro de tensión. Los motores térmicos en híbridos suelen ser de gasolina o diésel, mientras que los eléctricos (a menudo "in-wheel") ofrecen par en bajas revoluciones.
+Los vehículos tuneados son aquellos que han sido modificados tanto mecánicamente (para mejorar el rendimiento, como con óxido nitroso) como en su carrocería (para personalización estética, incluyendo alerones, faldones, estribos y pasos de rueda). Los añadidos estéticos suelen ser de fibra de carbono.
 
-### Vehículos de Hidrógeno (FHCV - Fuel Cell Hybrid Vehicle)
+#### 2.4.4. Tractores
 
-Estos vehículos, con alta eficacia y cero emisiones (solo vapor de agua), almacenan hidrógeno bajo presión (300-700 bares a -230°C) o lo generan a partir de alcoholes como el metanol. El sistema de pilas de combustible produce electricidad a partir de hidrógeno y oxígeno.
-Las precauciones son fundamentales, ya que el hidrógeno es inflamable (límites 4-75%), se activa con muy poca energía (0.02) y su llama no es visible. Ante una despresurización rápida (< -40°C), puede calentarse e inflamarse. Los vehículos incluyen **sensores de fuga**, sistemas de ventilación automáticos y **válvulas de sobrepresión** que liberan hidrógeno a través de tuberías de expulsión a 16 bares. La protección contra altas temperaturas activa válvulas de cierre en los depósitos a 110°C. En caso de emergencia, es imperativo desactivar el circuito de hidrógeno, mantener lejos cualquier fuente de ignición y evitar espacios cerrados.
+Los tractores son vehículos de trabajo diseñados para arrastrar, accionar y empujar aperos agrícolas. En accidentes, las causas más comunes de lesiones mortales son el aplastamiento del conductor (por vuelco sin protección o no uso del cinturón), el atropello de trabajadores o pasajeros adicionales, y el atrapamiento por ejes de transmisión, tomas de fuerza, poleas, correas o engranajes.
+
+Los tractores modernos suelen incluir estructuras de protección antivuelco, como cabinas, bastidores de cuatro o seis postes, o arcos delanteros/traseros de dos postes, diseñados para crear un espacio de supervivencia en caso de vuelco. Disponen de uno o varios sistemas de accionamiento para sus aperos. La parte trasera suele estar equipada con un sistema de tres brazos para elevar o bajar las herramientas acopladas.
+
+### 3. Fuentes de Energía Motriz
+
+Actualmente, el mercado cuenta con numerosos vehículos que utilizan energías alternativas. Sus limitaciones son cada vez menores y sus prestaciones se equiparan a las de los vehículos de combustibles fósiles. Se ha observado un incremento en el uso de gasóleo, así como la incorporación de vehículos híbridos, eléctricos y de hidrógeno. En España, de un parque de 30 millones de vehículos, aproximadamente 40.000 emplean sistemas de propulsión alternativos (incluyendo los alimentados por gas), una tendencia creciente por razones medioambientales y económicas. En vehículos pesados, que tradicionalmente usan gasoil, también se observa una tendencia hacia combustibles renovables.
+
+#### 3.1. Alimentación por Gasolina y Gasoil
+
+Los motores térmicos de combustión interna se dividen en dos tipos según el combustible: de explosión (gasolina, gas, alcohol) o diésel (gasoil). Aunque sus mecanismos fundamentales son similares y pueden realizar las mismas funciones, los motores de combustión interna o diésel se usan exclusivamente para grandes potencias (como en locomotoras, barcos o generadores).
+
+*   **Motores de explosión:** Pueden usar gasolina, gas natural comprimido, gas licuado de petróleo, etanol o hidrógeno.
+*   **Motores diésel:** Pueden funcionar con petrodiésel o biodiésel (aunque este último puede no ser fiable en algunos motores).
+
+En el transporte de viajeros, la propulsión con gasolina o diésel es la más extendida, siendo el gasoil la fuente de energía predominante. Este combustible genera menos dudas en términos de seguridad contra incendios. Los depósitos de combustible suelen estar integrados en los compartimentos de equipajes o debajo de los asientos delanteros, lo que exige especial atención y precaución con el uso de equipos de emergencia.
+
+#### 3.2. Alimentación por Gas Licuado de Petróleo (GLP) y Gas Natural Comprimido (GNC)
+
+El consumo de estos combustibles ha experimentado un crecimiento sostenido en España en los últimos años, ofreciendo un ahorro de entre 40-45% en comparación con la gasolina y reduciendo las emisiones contaminantes. Se estima que en España el parque de vehículos propulsados por gas es de 20.000 unidades, incluyendo taxis, autobuses urbanos, camiones de basura y flotas de empresas, con una creciente adopción en vehículos particulares.
+
+Las diferencias entre GNC y GLP son:
+
+*   **Composición:** El GNC se compone de un 90% de metano, mientras que el GLP (autogas) es una mezcla de butano y propano.
+*   **Disponibilidad en España:** La red de estaciones de servicio con GLP ha crecido (casi 200 estaciones de Repsol en 2013), siendo el GLP más frecuente en vehículos particulares.
+*   **Estado del combustible:** El GNC se encuentra en estado gaseoso, y el GLP en estado líquido.
+*   **Poder calorífico:** El GNC tiene un poder calorífico similar al de la gasolina, mientras que el GLP posee un poder calorífico mayor.
+*   **Presión de almacenamiento:** El GNC se almacena a altas presiones (aproximadamente 200 bar o 2900 psi), lo que lo hace menos eficiente energéticamente. El GLP se almacena a bajas presiones (entre 6 y 7 bares), permitiendo el uso de tanques más delgados, manejables, ligeros y económicos.
+*   **Escape de gas:** En caso de fuga, el GNC es más liviano que el aire y tiende a subir, lo que plantea un riesgo de explosión por la alta presión. El GLP, al ser más pesado, tiende a caer al suelo, lo que lo hace más seguro.
+
+Las instalaciones de gas en vehículos son similares, y suelen ser realizadas por talleres autorizados. Los depósitos, canalizaciones y uniones roscadas son muy resistentes a colisiones, incendios o caídas. En caso de fuga (aunque improbable), el gas no penetraría en el habitáculo. El llenado del depósito se realiza a través de un empalme situado detrás de la tapa de la boca del depósito, que proporciona información sobre el tipo de combustible para una primera evaluación.
+
+#### Accesorios y Funciones de Seguridad en Vehículos GNC:
+
+*   **Válvula de cierre de seguridad de gas:** Se abre cuando se selecciona la opción "Gas". Si el motor está parado, el servicio de gasolina activado y se detecta una emergencia (sensor de choque), el circuito eléctrico de la válvula electromagnética se interrumpe y la válvula se cierra automáticamente.
+*   **Válvula de cierre mecánica:** Presente en los depósitos de gas, puede cerrarse con una herramienta adecuada (girando en sentido horario) para mantenimiento o ante fallos de hermeticidad.
+*   **Cortocircuito fusible:** Se activa a temperaturas superiores a 110 °C, abriendo el depósito de gas, lo que permite un escape controlado a través del limitador de caudal.
+*   **Limitador de caudal:** Reduce el flujo de gas a través de un diafragma pequeño en caso de reducción de presión (ej., por choque con separación de válvula/accesorios o rotura de tubería).
+*   **Caperuzas de goma:** Las válvulas y accesorios de seguridad están equipados con caperuzas de goma herméticas. En caso de fuga (fusible fundido o válvulas), el gas se acumula en las caperuzas y se dirige al aire libre a través de un tubo flexible ondulado instalado en el suelo del vehículo.
+
+#### Criterios para identificar vehículos GNC o GLP:
+
+*   **GNC:** Suele tener la identificación "CNG" en la tapa del motor y las bocas de llenado en la tapa del motor. Los autobuses con GNC pueden identificarse por una cubierta de techo grande.
+*   **GLP (autogas):** No suelen ser identificables a simple vista.
+
+#### Instalación de GNC en Vehículos de Transporte de Viajeros:
+
+*   **Tanques de gas:** Ubicados en el techo del vehículo para mayor seguridad. Están hechos de plástico integrado (polietileno reforzado con fibra de carbono) con una cubierta de fibra de vidrio. Se fijan al techo de la estructura con un cerco de acero muy resistente, siendo la cubierta un indicador útil del tipo de vehículo.
+*   **Ranura:** Una ranura en la parte más alta de la cubierta de los tanques permite ventilar el gas en caso de escape.
+
+#### 3.3. Vehículos Eléctricos e Híbridos
+
+Estos vehículos, que utilizan la electricidad como fuente de energía, pueden ser exclusivamente eléctricos (menos comunes) o híbridos (más extendidos). Los coches eléctricos son más eficientes, silenciosos y cómodos, con una respuesta de motor ágil y un bajo coste de repostaje. Sin embargo, son más caros, tienen menor autonomía, no son versátiles para todos los usos y requieren un punto de recarga en el garaje, siendo adecuados para ciudad pero no para viajes largos.
+
+Los vehículos híbridos pueden configurarse en paralelo (lo más común) o en serie, con diferentes prestaciones según el uso urbano o en carretera.
+
+*   **Híbridos en paralelo:** Tanto el motor eléctrico como el térmico pueden hacer girar las ruedas.
+*   **Híbridos en serie:** El motor térmico solo se usa para generar electricidad.
+
+En un funcionamiento típico de motor híbrido en paralelo, el motor eléctrico se activa hasta aproximadamente los 60 km/h, momento en el que se activa el motor de combustión interna. A diferencia de los eléctricos puros, los híbridos tienen la ventaja de no necesitar enchufarse a fuentes externas, ya que incorporan un generador que recarga las baterías. Algunos modelos también incluyen "frenos regenerativos" para recargar las baterías.
+
+Los fabricantes de vehículos híbridos y eléctricos incorporan elementos de identificación exterior, como la palabra "Hybrid" o una "h" en el modelo.
+
+**Ejemplos de identificación:**
+
+*   Nissan: `HYBRID`
+*   Lexus: `CT200h`
+
+Dentro de los vehículos híbridos paralelos, se distinguen dos arquitecturas:
+
+*   **Con generador independiente:** Tienen más componentes (generador, conversor CA/CC, transmisión entre motor térmico y generador), lo que los hace más pesados y caros. Su ventaja es que el generador, al estar diseñado para funcionar solo como generador, es más eficiente.
+*   **Usando el motor eléctrico como generador:** Reduce el número de componentes, pero puede disminuir el rendimiento.
+
+El vehículo híbrido paralelo con generador independiente también se clasifica como vehículo híbrido "paralelo-serie", combinando las ventajas de ambos sistemas y siendo el más usado por fabricantes como Toyota en su modelo Prius.
+
+Estos vehículos cuentan con componentes de alto voltaje que requieren una potencia eléctrica elevada, trabajando con tensiones que pueden alcanzar hasta los 650 V.
+
+A. Ahumador
+Aparato productor de humo, utilizado para alejar a las abejas mientras el apicultor trabaja en la colmena.
+
+B. Alzheimer
+Trastorno degenerativo del sistema nervioso que implica una pérdida progresiva de competencias cognitivas, de memoria y de funciones de control fisiológico, pudiendo llevar al colapso general y la muerte. Los síntomas varían según la etapa de la enfermedad.
+
+C. Anafilaxia
+Reacción sistémica grave de hipersensibilidad del organismo ante un alérgeno, que requiere atención médica inmediata para evitar situaciones irreversibles o la muerte.
+
+D. Ansiedad
+Respuesta psicosomática aguda de estrés que se produce involuntariamente ante estímulos intensos, impidiendo al afectado volver a un estado de relajación normal.
+
+E. Antihistamínico
+Medicamento que inhibe la producción de histamina en el organismo y contrarresta sus efectos.
+
+F. Antisocial
+Trastorno de personalidad que aparece en la adolescencia, manifestado por conductas narcisistas (fantasías de éxito ilimitado), histriónicas (conducta excesivamente dramática) o límites (inestabilidad en diversas áreas), a menudo asociado con comportamiento antisocial.
+
+G. Apicultura
+Ciencia y arte de la cría de abejas.
+
+H. Arriostrar
+Acción de rigidizar o estabilizar una estructura mediante elementos que impidan su desplazamiento o deformación.
+
+I. Autóctona y alóctona (especie)
+En biología, las especies autóctonas son propias de un ecosistema, mientras que las alóctonas son ajenas.
+
+J. Azimut o acimut
+Ángulo medido en sentido horario desde el Norte. Su valor oscila entre 0 y 400 grados centesimales. Se denomina Rumbo si se mide respecto al Norte Magnético y Azimut Geográfico si se mide respecto al Norte Geográfico.
+
+K. Baga de anclaje
+Elementos utilizados para el aseguramiento en reuniones, que han evolucionado en tipo de nudos, longitudes y material. Deben cumplir las reglas básicas de seguridad en montaña.
+
+L. Banderas de señalización
+Banderas utilizadas en la navegación marítima según el Código Internacional de Señales de la OMI para transmitir mensajes entre barcos o entre barco y tierra.
+
+M. Binomio
+En protocolos de actuación, se refiere a las parejas de trabajo inseparables que trabajan en equipo y velan por la seguridad mutua. En esta Parte, se aplica a la pareja de perro de rescate y adiestrador.
+
+N. Biocida
+Producto en cuya presencia no es posible la vida.
+
+O. Buceo sin saturación
+Inmersiones a poca profundidad (generalmente menos de 50 metros) que usan aire o mezclas de gases para respirar. A diferencia del buceo de saturación, que permite a los buzos realizar inmersiones prolongadas a gran profundidad y cuyo proceso de descompresión puede durar días, estas inmersiones no implican saturación de los tejidos de gas inerte. En las inmersiones sin saturación, los buceadores se mantienen a la presión de saturación durante semanas sin salir a la superficie hasta finalizar las operaciones.
+
+P. Buje
+En un aerogenerador, es el elemento que contiene las palas o aspas, donde se apoya el rotor y es el único elemento externo que gira.
+
+Q. Búsqueda probabilística
+Operación que busca refutar o confirmar hipótesis de búsqueda dentro de un área, priorizando itinerarios con alta probabilidad de hallazgo y rastreando de forma rápida.
+
+R. Búsqueda sistemática
+Operación que registra completamente la superficie de un área de búsqueda o sectores determinados.
+
+S. Cabo de recuperación
+Cabo atado a una carga o persona para poder ser atra

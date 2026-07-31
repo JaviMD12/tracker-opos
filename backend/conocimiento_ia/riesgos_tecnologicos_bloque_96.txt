@@ -1,89 +1,61 @@
-## Gestión Táctica en Incidentes con Estructuras Colapsadas y Aperturas Forzadas
+El siguiente temario aborda los conceptos fundamentales de la electricidad, la caracterización de redes eléctricas y transformadores, las medidas de seguridad ante riesgos eléctricos y sus efectos en el organismo, así como la normativa aplicable en el ámbito de las emergencias.
 
-La gestión de incidentes que involucran estructuras colapsadas o la necesidad de aperturas forzadas en edificaciones y vehículos requiere una planificación y evaluación táctica rigurosa por parte de los servicios de emergencia, particularmente los cuerpos de bomberos. Esta intervención se estructura en diversas fases y considera múltiples factores para garantizar la seguridad de los intervinientes y la máxima eficacia en el rescate y la mitigación de riesgos.
+### Parte 6: Riesgo Eléctrico - Caracterización
 
-### Planificación y Coordinación de la Intervención
+**1. Conceptos Básicos sobre Electricidad**
 
-La intervención se inicia con un **planteamiento táctico** que debe ser exhaustivo y adaptable, ya que las decisiones tomadas suelen ser irreversibles. El mando debe considerar la experiencia profesional, el conocimiento técnico-científico, el abanico de técnicas aplicables y una valoración detallada del suceso. Las fases de una intervención tipo, aunque su orden puede variar según el incidente, incluyen:
+El **átomo** representa la unidad elemental de la materia, considerada indivisible y compuesta por partículas subatómicas. Su estructura incluye un **núcleo** formado por protones (con carga positiva) y neutrones (sin carga), y una envoltura de electrones (con carga negativa) que orbitan el núcleo. La masa de un átomo reside principalmente en sus protones y neutrones.
 
-1.  **Movilización:** Recepción y análisis del aviso, confirmación de movilización de otros servicios (sanitarios, fuerzas de seguridad), determinación del tren de salida y activación de medios adicionales, así como el desplazamiento al siniestro y el emplazamiento de vehículos, con la preparación del material de primera intervención y el acopio de recursos.
-2.  **Valoración y Tareas Previas:** Lectura de la patología edificatoria, análisis de riesgos inminentes, elaboración de un Plan de Acción, sectorización y zonificación del incidente, y ejecución de acciones inmediatas para mitigar riesgos (confinamiento, evacuación, corte de servicios, estabilidad estructural básica, rescates inminentes y control de propagación).
-3.  **Control:** Búsqueda y rescate de víctimas, control de la propagación de la patología y valoración continua del estado de la estructura, los recursos y el éxito de las acciones.
-4.  **Mitigación y Estabilización:** Ejecución de apeos estandarizados o específicos, y desescombro y estabilización para retornar a la situación previa a la patología.
-5.  **Restitución:** Valoración final de la estabilidad estructural, ausencia de nuevos síntomas, consideraciones de seguridad para el beneficiario, recuperación de la operatividad y análisis colectivo de la intervención.
+La **carga eléctrica**, identificada por el símbolo "Q" y medida en Coulombs (C), es una propiedad fundamental de las partículas. Los electrones y protones poseen cargas de igual magnitud, pero de polaridad opuesta. La interacción entre estas cargas genera la **fuerza electromagnética**, donde las partículas con polaridad idéntica se repelen, y las de polaridad diferente se atraen.
 
-La **sectorización del incidente** divide el área en zonas de trabajo limitadas para optimizar los recursos y gestionar los riesgos. Se distinguen tres zonas principales:
-*   **Zona Caliente (ZC):** Área de riesgo inminente donde la población está en peligro y requiere máxima protección personal para los equipos de intervención (bomberos, NRBQ). Es el área de trabajo directo para el personal especializado y debe estar preparada para una evacuación inmediata a la zona templada.
-*   **Zona Templada (ZT):** Área funcional para las tareas de intervención donde el riesgo es mínimo o nulo. Incluye equipos SOS, mando de intervención, vehículos de bomberos y otros servicios. También debe estar preparada para una evacuación a la zona fría.
-*   **Zona Fría:** Área externa a la ZT y ZC, destinada a descanso, reposición, ubicación de vehículos de apoyo, mando y servicios sanitarios.
+La **electricidad electrostática** surge de la separación de cargas entre dos materiales en contacto, ya sea por atracción de electrones o por fricción. Este fenómeno puede generar una diferencia de potencial que ocasione descargas, resultando en calambres o, en situaciones extremas, incendios. Un ejemplo común es la descarga de hidrocarburos o al deslizarse por una superficie plástica.
 
-La **asignación de funciones** es crucial para el correcto desarrollo de la intervención, estableciendo roles claros para cada grupo (intervención, seguridad y orden, sanitario, apoyo técnico y logístico). El mando de intervención debe delegar tareas para evitar la sobrecarga y asegurar una visión global.
+**1.1. Intensidad de la Corriente Eléctrica**
 
-### Evaluación y Búsqueda de Víctimas
+La **intensidad de la corriente eléctrica** se define como la cantidad de carga eléctrica que fluye a través de un conductor por unidad de tiempo, y se mide en Amperios (A). La **Ley de Ohm** establece que la intensidad de corriente es directamente proporcional a la diferencia de potencial (tensión) e inversamente proporcional a la resistencia: $I = V/R$.
 
-La **evaluación continua** es fundamental y se realiza en diferentes momentos. Antes de la llegada, se recopila información sobre la materia, estado, cantidad, contenedor, tipo de siniestro y entorno. *In situ*, se valora la situación para identificar riesgos, determinar la necesidad de intervención y establecer un planteamiento preliminar, incluyendo un precálculo rápido de cargas y materiales.
+Cuando se conectan cuerpos con diferentes cargas mediante un conductor, los electrones fluyen desde el polo negativo al positivo hasta que se alcanza el equilibrio. Un generador eléctrico mantiene esta diferencia de potencial, asegurando un flujo continuo de corriente.
 
-La **búsqueda y localización de víctimas** es una prioridad. La **probabilidad de supervivencia** disminuye exponencialmente con el tiempo: es elevada durante las primeras 24 horas, pero remota después de 120 horas. Esto subraya la necesidad de rapidez. Se utilizan diversos **sistemas de localización**:
-*   **Búsqueda física:** Incluye llamadas y rastreos, o búsquedas visuales y táctiles.
-*   **Búsqueda técnica:** Emplea equipos especializados como geófonos (para amplificar sonidos hasta 10 metros), cámaras térmicas (detectan radiación infrarroja, cubriendo un espectro entre 0.2 y 20 micras), microcámaras de visión normal/nocturna y fonendoscopios.
-*   **Búsqueda especializada (canina):** Perros adiestrados para el rescate en escombros, valorando autonomía, motivación y concentración. Las pautas de comportamiento con perros de rescate incluyen no darles comida, no sentarse en los escombros, evitar que personal no autorizado interfiera, respetar los silencios y ayudar en los traslados.
+Es crucial considerar dos efectos relacionados con la corriente:
+*   El **efecto Joule**, donde el paso de corriente a través de una resistencia genera un aumento de temperatura debido a la colisión de electrones con las moléculas del conductor. Este efecto puede ser deseado (en calefactores) o indeseado (en ordenadores).
+*   El **arco voltaico**, una descarga de energía significativa que se produce al desconectar un circuito cargado, disipándose en el aire y pudiendo causar daños.
 
-La **señalización** es vital para ordenar el escenario. El sistema INSARAG establece el marcaje individual de cada estructura en color naranja, indicando si es seguro entrar (G, *Go*) o no (N, *No Go*), el nombre del equipo y las fechas de inicio y fin de los trabajos. También se registra información de peligros (arriba), número de desaparecidos (abajo), víctimas rescatadas vivas (izquierda) y cadáveres recuperados (derecha).
+La medida de la corriente se realiza con un **amperímetro**. Para mediciones en **corriente continua (CC)**, el circuito debe abrirse para insertar el amperímetro en serie, respetando la polaridad (+/-). Para **corriente alterna (CA)**, el amperímetro también se conecta en serie, asegurando que se utilizan los símbolos correctos de fase y neutro, y seleccionando un rango de medida adecuado (empezando por el máximo y reduciendo si es necesario).
 
-### Riesgos y Peligros en Intervenciones
+**1.2. Potencial Eléctrico**
 
-Se deben identificar y mitigar los **riesgos para víctimas e intervinientes**. Los riesgos más comunes incluyen:
-*   **Derrumbes secundarios:** Causados por la inestabilidad de los restos, acumulación de personal o mal apeo.
-*   **Riesgo NBQ:** Requiere conocer la sustancia, su nivel de radiactividad y el uso adecuado de EPI.
-*   **Riesgo eléctrico:** Contactos directos o indirectos. Las reglas básicas de actuación incluyen abrir con corte visible, enclavar aparatos de corte, comprobar ausencia de tensión, poner en corto y a tierra, y acotar/señalizar la zona.
-*   **Gases:** Cierre de válvulas, uso de material antideflagrante, explosímetros y EPI adecuado.
-*   **Incendio:** Extinción inmediata, excepto si hay gas, y control de propagación.
-*   **Artefactos explosivos:** Requiere personal especializado y medidas de protección.
+El **potencial eléctrico** o **tensión** se refiere a la energía que posee una carga eléctrica para desplazarse entre dos puntos con distinta carga. Se genera cuando hay un exceso de electrones en un cuerpo, que se ceden a una zona con menor carga negativa hasta alcanzar el equilibrio. La tensión se mide en **Volts (V)**.
 
-### Técnicas de Rescate y Aperturas Forzadas
+Para medir la tensión se utiliza un **voltímetro**, que se conecta en paralelo al circuito, sin interrumpirlo, entre los dos extremos del componente cuya tensión se desea medir. En **corriente continua (CC)**, se debe considerar la polaridad para obtener valores de tensión positivos o negativos. En **corriente alterna (CA)**, la conexión en paralelo es indistinta.
 
-Las **técnicas de rescate** se adaptan a la tipología del colapso:
-*   **Perforación de elementos verticales:** Para acceder a víctimas o crear vías de evacuación en derrumbes oblicuos, de plano inclinado, cono de escombros o impacto local. Requiere evaluar la estabilidad de elementos portantes y aplicar apuntalamiento previo. Los cortes más sencillos son triangulares, cuadrados o circulares, con un área mínima de 0.5 m² y lado mínimo de 70 cm para el triángulo.
-*   **Perforación de elementos horizontales:** En forjados colapsados, se perforan bovedillas o casetones, evitando nervios y capiteles, preferiblemente en puntos de momento nulo. Requiere apeo previo y, a menudo, posterior.
-*   **Rescate mediante galerías:** Utilizado en sótanos/semisótanos tras colapsos de forjados superiores. Es una técnica compleja y lenta, considerada un último recurso.
+**1.3. Resistencia Eléctrica**
 
-Para las **aperturas forzadas**, la elección de la técnica dependerá del elemento (puerta, ventana, reja, cierre metálico) y el nivel de emergencia. Es esencial el uso de **Equipos de Protección Individual (EPI)**, que para aperturas forzadas incluyen guantes protectores, ropa de manga larga anticorte, casco, calzado reforzado con punta de acero y gafas/pantalla ocular.
+La **resistencia eléctrica** es la oposición que un conductor presenta al flujo de corriente, siendo la magnitud inversa de la conductancia eléctrica. Su valor depende directamente de la resistividad del material y de su longitud, e inversamente de su sección.
 
-En **puertas**, las técnicas varían según la cerradura y el tipo de puerta:
-*   **Técnica del resbalón (mica):** Para cierres accidentales sin llave echada. Se usa plástico o mica para desplazar el resbalón mientras se agita la puerta.
-*   **Extracción de bombín:** Con mordaza de presión, llave inglesa o extractores para romper el bombín. Se pueden usar taladros para debilitarlo, especialmente si es antibumping.
-*   **Retirada de escudo protector:** Con radial o cortafríos para acceder al bombín.
-*   **Taladro de bombín:** Perforar el cañón del bombín para vaciar los pernos y girar el mecanismo.
-*   **Fresado de bombín:** Limar el tambor del bombín para alcanzar el embrague.
-*   **Apertura destructiva con maza:** Golpeando la cerradura o el cerco para derribar la puerta.
-*   **Otras técnicas:** Separador hidráulico ("abrepuertas") o herramienta Halligan, que permiten apalancar la puerta. La retirada de bisagras es otra opción.
-*   **Técnicas avanzadas:** *Bumping* (golpear una llave modificada para hacer saltar los cilindros) y *ganzuado lock-picking* (manipular pernos con ganzúas, requiriendo habilidad y lubricantes).
-*   **Técnicas de impresión:** Moldear una lámina de aluminio en una llave para replicar la original.
+*   La **resistividad (ρ)** se mide en Ohmios·metro (Ω·m) o Ohmios·mm²/m.
+*   La **conductividad (σ)** se mide en Siemens por metro (S·m⁻¹).
 
-En **ventanas**, el proceso se adapta al tipo:
-*   **Ventanas correderas:** Apalancar la esquina inferior y la zona de la cerradura.
-*   **Ventanas abatibles:** Apalancar la parte superior e inferior de la hoja de la maneta.
-*   **Ventanas oscilobatientes:** Con un útil de tubo PVC y cuerda para guiar la hoja hacia el cerrado.
-*   **Rotura de vidrios:** Como último recurso, identificando el tipo de vidrio (termoendurecido, templado, laminado o con cámara) y usando protección adecuada (guantes anticorte, mascarilla, gafas). Los laminados requieren sierra de sable.
+Un material con alta resistencia eléctrica (como guantes o botas aislantes) se utiliza para prevenir el paso de corriente a través de una persona. Un **cortocircuito** ocurre cuando dos conductores de resistencia nula o despreciable se unen a diferente potencial, provocando un flujo máximo de corriente.
 
-Las **rejas de protección** pueden requerir retirar tornillos, cortar anclajes con sierra radial o cizalla, o arrancar la reja con herramientas hidráulicas o palancas. Los **cierres metálicos** motorizados se abren forzando la cerradura de su caja de registro o, destructivamente, cortando las lamas con motosierra o cizalla. Los **butrones** se practican como última opción en paredes o forjados, utilizando diversas herramientas según el material.
+Los materiales se clasifican por su conductividad en:
+*   **Superconductores**: Conducen corriente sin resistencia ni pérdida de energía en condiciones específicas (ej., temperaturas muy bajas). Ejemplos incluyen el estaño, el aluminio y semiconductores dopados.
+*   **Conductores**: Transmiten electricidad al contacto con cuerpos cargados. Los metales y sus aleaciones son los mejores conductores (ej., cobre para cables, aluminio para líneas de alta tensión por ser más ligero). El oro se utiliza en aplicaciones especiales como equipos de sonido.
+*   **Semiconductores**: Materiales cuya conductividad puede modularse (de conductor a aislante). Se emplean en electrónica, como en la fabricación de placas de silicio y otros componentes.
 
-### Rescate en Ascensores
+**1.4. Tipos de Circuito**
 
-El rescate en ascensores requiere un conocimiento básico de su funcionamiento y normativa (UNE EN 81-28:2003, RAEM), así como la aplicación de medidas de seguridad específicas:
-*   **Medidas de seguridad generales:** Cortar el suministro eléctrico siempre, bloquear el interruptor, comprobar la situación de la cabina y el cierre de puertas, y mantener comunicación con los atrapados.
-*   **Tipos de ascensores:** Eléctricos (de adherencia, con o sin engranajes) o hidráulicos.
-*   **Partes comunes:** Cuarto de máquinas (motor-reductor, polea motriz, volante, freno, limitador de velocidad, cuadro de maniobras, cuadros de distribución), recinto o hueco (cabina, puertas de acceso), y foso (amortiguadores).
-*   **Elementos relacionados con la emergencia:** Instrucciones de rescate en cuarto de máquinas, pulsador de bomberos, caja de llaves de emergencia, faldones de cabina, alumbrado de emergencia y tele-alarma.
-*   **Técnicas de rescate:**
-    *   **Funcionamiento normal del ascensor:** Es la técnica más segura. Asegurar el cierre de puertas, rearmar interruptor y accionar pulsador de planta.
-    *   **Rescate sin movimiento de cabina (corte eléctrico):** Si la cabina está a menos de 30 cm (hacia abajo) o 80 cm (hacia arriba) del piso, cortar suministro, desenclavar puerta y permitir la salida.
-    *   **Moviendo la cabina con sistema eléctrico de emergencia:** Solo para ascensores electromecánicos con este sistema. Asegurar puertas, localizar cuadro, leer instrucciones y mover la cabina al punto de rescate.
-    *   **Moviendo la cabina sin corriente eléctrica en electromecánicos (manual):** Solo si técnicas anteriores no son viables. Cortar suministro, desconectar interruptor principal, asegurar puertas, localizar maquinaria, elegir sentido de giro del volante, accionar palanca de freno con suavidad, mover volante hasta nivel de planta, soltar freno, recolocar y desenclavar puerta.
-    *   **Moviendo la cabina sin corriente eléctrica en hidráulicos (manual):** Si no hay acceso a cuarto de máquinas. Cortar suministro en centralización de contadores, usar cojines neumáticos para desplazar la cabina hacia el fondo del hueco si el brazo está atrapado, o utilizar la palanca de accionamiento hidráulico si es necesario subir la cabina para desacuñarla.
-    *   **Desenclave de puertas de piso:** En todo rescate, para permitir la salida de los ocupantes, tras cortar el suministro eléctrico.
+**1.4.1. Circuitos en Serie**
 
-En todos estos casos, la **comunicación con la persona atrapada** es primordial, identificándose, tranquilizando y dando instrucciones claras sobre los movimientos de la cabina, y la seguridad (no tocar botones, alejarse de puertas). La **valoración de la situación** implica determinar el tipo de ascensor, la ubicación de la cabina y el tipo de rescate más adecuado, siempre identificando posibles riesgos como electrocución, caídas o atrapamientos.
+En un **circuito en serie**, los receptores se conectan uno tras otro en la línea eléctrica. La corriente es idéntica en todos los elementos, mientras que la tensión de la fuente se distribuye entre las resistencias conectadas. Funcionan como divisores de tensión. Si un elemento se interrumpe, el circuito completo se abre. Por ejemplo, en una cadena de luces navideñas antiguas, si una bombilla se funde, todas las demás se apagan.
 
----
-*(Sin contenido relevante adicional en este bloque)*
+En el caso de baterías en serie, como dos baterías de 12V que suman 24V, se mantiene la misma capacidad (Ah).
+
+**1.4.2. Circuitos en Paralelo**
+
+En un **circuito en paralelo**, cada receptor se conecta de forma independiente a la fuente de alimentación, teniendo cada uno su propia línea (aunque pueda haber tramos comunes). Funcionan como divisores de intensidad. Si un elemento se interrumpe, el circuito principal no se abre, pero la intensidad de corriente en los demás elementos aumenta. Por ejemplo, en baterías conectadas en paralelo, se mantiene la tensión nominal y se suman las intensidades.
+
+Para circuitos de corriente continua (CC), los cálculos pueden ser complejos debido a los elementos pasivos de la red. En circuitos de corriente alterna (CA), la señal es periódica y dependiente del tiempo, requiriendo el uso de fasores para su análisis.
+
+**1.5. Corriente Continua y Alterna**
+
+La **corriente continua (CC)** se caracteriza por un flujo ininterrumpido de carga eléctrica en una única dirección, sin cambios de sentido con el tiempo, entre dos puntos de potencial distinto.

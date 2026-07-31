@@ -2,13 +2,13 @@
 
 Descarga los canales RSS de "Oposiciones y concursos" de ambos boletines,
 filtra por palabras clave de emergencias/bomberos, y por cada entrada nueva
-pide a gpt-4o-mini que extraiga los datos estructurados de la convocatoria.
+pide a Gemini que extraiga los datos estructurados de la convocatoria.
 Los resultados se guardan en la tabla `convocatorias`.
 
 Pensado para ejecutarse como tarea periodica (ver el cron de APScheduler en
 app/main.py), no como parte de una peticion HTTP: los errores se registran
 por consola y se salta a la siguiente entrada, nunca se relanzan, para que un
-fallo puntual (un feed caido, una respuesta rara de OpenAI) no tumbe el resto
+fallo puntual (un feed caido, una respuesta rara de Gemini) no tumbe el resto
 del lote ni el proceso del servidor.
 """
 
@@ -17,9 +17,9 @@ from datetime import datetime, timedelta, timezone
 
 import requests
 from bs4 import BeautifulSoup
+from google.genai.errors import APIError
 from langchain_core.messages import HumanMessage, SystemMessage
-from langchain_openai import ChatOpenAI
-from openai import OpenAIError
+from langchain_google_genai import ChatGoogleGenerativeAI
 
 import feedparser
 
@@ -51,7 +51,7 @@ PALABRAS_CLAVE = [
 # reciba una plaza que en realidad no es de emergencias.
 PALABRAS_PROHIBIDAS = ["policia", "policía", "guardia civil"]
 
-MODELO_EXTRACCION = "gpt-4o-mini"
+MODELO_EXTRACCION = "gemini-2.5-flash"
 CARACTERES_MAXIMOS_TEXTO_COMPLETO = 15_000
 TIMEOUT_DESCARGA_SEGUNDOS = 15
 CABECERAS_DESCARGA = {"User-Agent": "Mozilla/5.0 (compatible; TrackerOposicionesBot/1.0)"}
@@ -122,14 +122,14 @@ def _obtener_texto_completo(url: str) -> str | None:
 
 
 def _extraer_datos_convocatoria(texto: str) -> dict | None:
-    """Llama a gpt-4o-mini para estructurar el texto de una entrada.
+    """Llama a Gemini para estructurar el texto de una entrada.
 
     Devuelve None si el modelo determina que no es una convocatoria real.
     """
-    llm = ChatOpenAI(
+    llm = ChatGoogleGenerativeAI(
         model=MODELO_EXTRACCION,
         temperature=0,
-        model_kwargs={"response_format": {"type": "json_object"}},
+        response_mime_type="application/json",
     )
     respuesta = llm.invoke(
         [SystemMessage(content=SYSTEM_PROMPT), HumanMessage(content=texto)]
@@ -204,7 +204,7 @@ def ejecutar_scraping_boletines() -> None:
 
             try:
                 datos = _extraer_datos_convocatoria(texto)
-            except (OpenAIError, json.JSONDecodeError) as exc:
+            except (APIError, json.JSONDecodeError) as exc:
                 print(f"[scraper_boletines] Fallo al procesar '{url_origen}': {exc}")
                 continue
 

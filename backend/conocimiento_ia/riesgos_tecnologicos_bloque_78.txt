@@ -1,155 +1,154 @@
-## Estabilidad y Comportamiento de Estructuras frente a Agresiones Externas
+### Parte 4: Rescate en Ascensores
 
-La seguridad de una edificación, un elemento crucial en las operaciones de bomberos, se determina por su capacidad para soportar cargas y mantenerse estable frente a diversas acciones. Estas acciones pueden ser permanentes, variables o accidentales, y su estudio se realiza mediante la mecánica clásica, específicamente la estática, que analiza el equilibrio de fuerzas en sistemas físicos estáticos.
+**Capítulo 1: Caracterización**
 
-### Conceptos Fundamentales de la Física de la Edificación
+**1.1. Tipos de Ascensores**
 
-La **fuerza**, definida como la interacción entre cuerpos que provoca un cambio en su estado de movimiento, se cuantifica en Newtons (N). Sus atributos incluyen el módulo o magnitud, dirección, sentido y punto de aplicación. Las tres leyes de Newton son la base de la mecánica:
-1.  **Primera Ley (Principio de inercia):** Un cuerpo permanece en reposo o movimiento rectilíneo uniforme a menos que una fuerza externa actúe sobre él.
-2.  **Segunda Ley:** La fuerza neta aplicada a un cuerpo es directamente proporcional a la aceleración que produce, en la dirección de dicha fuerza (F = m · a).
-3.  **Tercera Ley (Principio de acción y reacción):** Toda acción genera una reacción de igual magnitud y sentido opuesto.
+**1.1.1. Ascensores Hidráulicos**
+Estos ascensores operan mediante una bomba que impulsa un fluido a presión hacia un pistón, el cual transfiere el movimiento a la cabina para su desplazamiento vertical. Su uso es común en lugares donde el control de ruido o las limitaciones de espacio son importantes. La velocidad de la cabina es moderada, oscilando entre **0,1 y 1,75 m/s**.
 
-El **equilibrio** en una estructura se logra cuando la suma de todas las fuerzas y momentos es cero, impidiendo movimientos relativos. El **momento** (o par de fuerzas) es una magnitud vectorial que mide la capacidad de un sistema de fuerzas para causar rotación alrededor de un punto, calculándose como el producto de la magnitud de una de las fuerzas por la distancia perpendicular entre ellas (brazo del par). Los momentos pueden ser positivos (giro horario) o negativos (giro antihorario). Un par de fuerzas en equilibrio no genera rotación, alineándose para anular su brazo de palanca. La **composición de fuerzas** permite sumar, restar o multiplicar vectores para obtener una fuerza resultante.
+Se clasifican en los siguientes tipos:
+*   **Impulsión directa o tracción directa 1:1:** La cabina se desplaza **1 centímetro** por cada **1 centímetro** de recorrido del pistón. Requieren un foso profundo para la instalación del pistón.
+*   **Impulsión directa lateral:** El pistón se conecta a la parte superior de la cabina, y el cilindro se ubica en el fondo del foso. Se utilizan para cargas moderadas y recorridos cortos.
+*   **Impulsión diferencial o tracción indirecta 2:1:** La cabina se desplaza **2 centímetros** por cada **1 centímetro** de recorrido del pistón. Incorpora una polea y un sistema de cables que duplican el recorrido de la cabina. No requiere foso profundo, ya que el pistón se instala lateralmente en el hueco.
+*   **Sistema de doble impulsión directa e indirecta lateral:** Utilizados en montacargas para transporte de grandes cargas en recorridos cortos.
 
-La **elasticidad** es la capacidad de un material para deformarse reversiblemente bajo la acción de fuerzas externas y recuperar su forma original al cesar estas. Si las fuerzas superan el "límite de elasticidad", el material entra en un estado de **plasticidad**, donde las deformaciones son permanentes y pueden conllevar pérdida de sección y resistencia. La **Ley de Hooke** establece que la tensión (σ) es directamente proporcional al módulo de elasticidad (E) y a la deformación (ε), es decir, σ = E · ε. Esto implica que, para una misma deformación, un material con mayor módulo de elasticidad experimenta menores tensiones. El módulo de elasticidad varía significativamente entre materiales, por ejemplo:
-*   Mampostería de ladrillo: E = 3000 - 5000 N/mm²
-*   Maderas duras: E = 10000 - 22500 N/mm²
-*   Acero: E = 210000 N/mm²
-*   Hormigón: E = 21500 - 39000 N/mm²
+**1.2. Por su Uso**
 
-El **centro de gravedad** de un cuerpo es el punto donde se puede considerar concentrado todo su peso. Un cuerpo apoyado estará en equilibrio estable si la vertical que pasa por su centro de gravedad se proyecta dentro de su base de apoyo.
+**a) Ascensor de Emergencia o Uso Exclusivo de Bomberos**
+Estos ascensores son obligatorios en edificios con una altura de evacuación superior a **28 metros**, o **15 metros** en el caso de uso hospitalario y tratamientos intensivos. Deben cumplir las siguientes características normativas:
+*   Capacidad de carga mínima de **630 kg**.
+*   Superficie mínima de cabina de **1,40 m²**.
+*   Ancho mínimo de paso de **0,80 m**.
+*   Disponen de llamada prioritaria para el uso del cuerpo de bomberos.
+*   Cuentan con dos fuentes de alimentación eléctrica independientes; la segunda debe asegurar una autonomía de al menos **una hora** de funcionamiento a plena carga.
+*   Deben poder accionarse desde el interior de la cabina.
+*   El recinto del camarín debe ser independiente del sector de incendio, excepto el recinto de maquinaria del ascensor. También se permite el acceso al recinto de maquinaria a través de una escalera en un sector de incendio independiente.
+*   No deben llevar señalización de "No utilizar en caso de incendio" si se proyectan como vías de evacuación.
+*   La velocidad de estos ascensores debe ser suficiente para completar el recorrido en un tiempo máximo de **un minuto**.
+*   El conjunto de ascensores de bomberos debe permitir el acceso a todos los niveles y volúmenes compartimentados.
 
-### Acciones y Esfuerzos en la Edificación
+**b) Ascensor Panorámico**
+Su funcionamiento es similar al de los ascensores convencionales, pero su instalación exige que el hueco del ascensor no esté sectorizado frente a incendios.
 
-Las fuerzas y cargas que soporta un edificio se clasifican en:
-*   **Acciones permanentes:** Aquellas que actúan de forma constante durante la vida útil del edificio, como el peso propio de los elementos constructivos (cal, yeso, cemento, mortero, hormigón, acero, adobe, ladrillo cerámico, bloque de hormigón, piedra natural y madera, con pesos específicos que varían desde 3,5-5,0 kN/m³ para madera hasta 77-78,5 kN/m³ para acero), las acciones de pretensado en hormigón armado, y las acciones del terreno (empujes, hundimientos).
-*   **Acciones variables:** Cargas que pueden cambiar en magnitud y tiempo, como la sobrecarga de uso (uniformes o concentradas, ej. 2 kN/m² para viviendas, 5 kN/m² para uso comercial), las acciones sobre barandillas y elementos divisorios (resistencia máxima de 0,5 kN/m), el viento (0,5 kN/m² como valor simplificado), las acciones térmicas y la nieve (1,0 kN/m² en cubiertas planas a menos de 1000 m de altitud).
-*   **Acciones accidentales:** Cargas debidas a riesgos naturales (sismos, incendios) o antrópicos (impactos, ej. 50 kN para vehículos paralelos a la vía, 25 kN perpendiculares).
+**c) Doble Cabina**
+Sistema compuesto por dos cabinas superpuestas, donde la inferior se usa para pisos impares y la superior para pisos pares. Se instalan en grandes edificios y minas, optimizando el espacio. En las minas, son frecuentes ascensores de hasta **tres pisos**.
 
-Los **esfuerzos** generados por estas acciones se manifiestan como **tensiones internas**, que son la fuerza por unidad de área. La unidad de referencia es N/mm² (1 N/mm² = 1 kg/cm² = 1 MPa). Los tipos de tensiones incluyen:
-*   **Tensión de rotura:** Máxima que soporta el material en laboratorio.
-*   **Tensión de trabajo:** Umbral máximo para que la estructura funcione con seguridad (70-80% del límite elástico).
+**d) Ascensor Inclinado**
+Diseñados para facilitar el acceso a lugares de difícil comunicación. Su funcionamiento es similar al de los ascensores convencionales, pero se diferencia por su inclinación respecto a la vertical.
 
-Según la naturaleza del esfuerzo, se distinguen:
-*   **Esfuerzos simples:**
-    *   **Compresión:** Partículas tienden a reducir su distancia (ej. pilares, muros, puntales).
-    *   **Tracción:** Partículas tienden a separarse (ej. tirantes).
-    *   **Cortante/Cortadura/Cizalladura:** Partículas se deslizan con movimiento relativo (ej. encuentros viga-pilar).
-*   **Esfuerzos compuestos:**
-    *   **Flexión:** Carga transversal en elementos longitudinales, generando tracciones en una parte y compresiones en otra (ej. vigas).
-    *   **Pandeo:** Deformación en elementos esbeltos por compresión en dirección de su directriz (ej. tirante comprimido).
-    *   **Torsión:** Fuerza circular sobre una pieza (ej. voladizos).
+**e) Ascensor para Unifamiliares**
+Instalados en viviendas privadas, no presentan diferencias con un ascensor convencional.
 
-La **fibra neutra** de una sección sometida a flexión es la línea imaginaria donde no hay esfuerzos de flexión, solo cortante.
+**f) Ascensor para Minusválidos**
+Diseñados específicamente para personas con discapacidad. Incluyen características especiales en cuanto a luz, dimensiones, parada a nivel y el sistema de control.
 
-### Materiales de Construcción y su Comportamiento
+**g) Ascensor Industrial y Montacargas**
+Utilizados en actividad industrial para soportar grandes cargas durante un número elevado de horas.
 
-Los **materiales de construcción** son materias primas utilizadas para crear elementos constructivos. Su **disponibilidad** (áridos, arcilla) y **comportamiento mecánico** (tenacidad, fragilidad) son clave. Los **materiales tenaces** (madera, acero) absorben energía por ductilidad y funcionan bien a compresión y tracción. Los **materiales frágiles** (piedra, ladrillo) soportan bien la compresión, pero mal la tracción y la flexión.
+**2. Partes Comunes de un Ascensor**
+Un ascensor se compone de tres partes principales: el cuarto de máquinas, el recinto o hueco, y el foso.
 
-#### Materiales Pétreos
-*   **Naturales:** Extraídos directamente de la naturaleza, resistentes y duraderos, pero costosos y poco plásticos. Se clasifican por origen en:
-    *   **Ígneas (magmáticas):** Solidificación de magma. Densa y resistente. Ej: granito (intrusiva/plutónica) para cimentaciones y muros de carga; basalto (extrusiva/volcánica) de menor resistencia y más oscura.
-    *   **Sedimentarias:** Formadas por sedimentación de rocas preexistentes. Pueden ser:
-        *   **Detríticas:** Alteración física (gravas, arenas, limos, arcillas). Gravas (2-60 mm) para mampostería, pavimentos, hormigones; Arenas (0.06-2 mm) para morteros y hormigones; Limos (0.002-0.06 mm) y Arcillas (<0.002 mm) plásticas, usadas en ladrillos y cerámicos.
-        *   **No detríticas:** Origen químico (precipitación, cristalización). Ej: caliza, yeso.
-    *   **Metamórficas:** Transformación de rocas ígneas o sedimentarias por presión y temperatura (150-800°C). Ej: arcilla -> pizarra -> esquisto -> micacita -> gneis -> migmatita. Baja resistencia, uso limitado a revestimientos.
-*   **Artificiales:** Obtenidos por procesos industriales.
-    *   **Formáceos:** Mezcla fluida en estado plástico que endurece en molde. Ej: mortero.
-    *   **Elementos de fábrica:** Pequeños elementos prefabricados unidos por aglomerantes. Ej: ladrillo.
+**2.1. Cuarto de Máquinas**
+Es el lugar donde se encuentra el mecanismo de tracción (grupo tractor, grupo hidráulico o tambor de arrollamiento). Su ubicación varía según el tipo de ascensor.
 
-**Aglomerantes y Conglomerantes:**
-*   **Aglomerantes:** Unen fragmentos por efectos físicos (solidificación, secado). Ej: barro, cola, yeso.
-    *   **Tapial:** Arcilla apisonada en muros, densidad 16-21 kN/m³, baja resistencia 1,5 N/mm². Buena inercia térmica, transpiración. Requiere moldes y se vierte en tongadas de 20 cm.
-*   **Conglomerantes:** Unen fragmentos por transformaciones químicas. Ej: cemento, cal.
-    *   **Aéreos:** Fraguan en contacto con el aire (yeso, cal grasa/aérea).
-        *   **Yeso:** Densidad 15 kN/m³, resistencia ≥ 2 N/mm². Fraguado rápido, aislante térmico. Tipos: grueso (YG) para capas base, fino (YF) para enlucidos, proyectado (YP) para aplicación mecánica, escayola (E-30, E-35) para elementos prefabricados y decoración.
-        *   **Cal (CaO):** Óxido de calcio, reacciona violentamente con agua (hasta 90°C) formando hidróxido de calcio (Ca(OH)₂), que luego reacciona con CO₂ del aire formando carbonato de calcio (CaCO₃). Densidad 13 kN/m³. Producto poco resistente al agua.
-    *   **Hidráulicos:** Fraguan en aire y agua (cemento, cal hidráulica).
-        *   **Cal hidráulica:** Cal viva con >5% arcilla. Fraguado rápido, productos resistentes y estables. Para restauración y soportes antiguos.
-        *   **Cemento:** Caliza y arcilla calcinadas, molidas. Endurece con agua. Tipos: naturales (rápido/lento) y artificiales (más comunes en edificación). Nomenclatura UNE EN 197-1 (CEM I, II, III, IV, V) indica tipo, subtipo y resistencia (32.5, 42.5, 52.5 N/mm²). Los aditivos (naturales o artificiales) mejoran resistencia, durabilidad y reducen el calor de fraguado.
-    *   **Hidrocarbonatados bituminosos:** Ligantes que requieren calentamiento para extenderse y se consolidan al perder viscosidad. Usados en carreteras e impermeabilización. Ej: alquitrán (protección hierro/madera, hidrófugo), betún (impermeabilidad, adhesividad), asfalto (pavimentos).
-*   **Áridos:** Granulares inorgánicos de tamaño variable (arena, grava) para morteros y hormigones. Inertes, alta resistencia. Tipos:
-    *   **Naturales/Rodados:** Mayor dureza y resistencia, menor necesidad de agua, origen natural por desgaste o lavado.
-    *   **Machaques/Reciclados/Triturados:** Mayor resistencia a tracción y adherencia, mayor dificultad de puesta en obra, de rocas trituradas.
-    *   **Artificiales:** De transformaciones térmicas o subproductos industriales.
-    *   Según tamaño (CTE DB SE C): gravas (2-60 mm), arenas (0.06-2 mm), limos (0.002-0.06 mm), arcillas (<0.002 mm).
-*   **Agua:** Propicia la reacción química de conglomerantes. Debe ser apta para consumo humano, sin ingredientes perjudiciales (pH ≥5, sulfatos ≤ 1 g/L, cloruros ≤ 1 g/L para hormigón pretensado, ≤ 3 g/L para masa o armado). No usar agua de mar en hormigón armado/pretensado.
+En modelos con cuarto de máquinas físico:
+*   **Parte superior del recinto:** Más cómoda para el operario (ascensores con máquina tractora por adherencia).
+*   **Parte inferior del recinto:** Supone una carga para la estructura superior del edificio.
 
-**Materiales Compuestos:**
-*   **Pasta:** Conglomerante y agua. Reacción química, material de agarre o rellenos. Función física (envolver áridos) y química (combinarse con agua). Ej: pasta de cal, yeso, cemento.
-*   **Mortero:** Conglomerante, árido fino y agua. Menor plasticidad que la pasta. Revestimiento de paramentos. Áridos absorben y transmiten cargas, reducen retracciones. Tipos: de yeso, cemento, cal o mixtos. Nomenclatura UNE-EN 998-2 (M-1 a M-20, resistencia a compresión N/mm²).
-*   **Hormigón:** Conglomerante, agua, árido grueso y aditivos. Se vierte encofrado en estado plástico.
-    *   **Características:** Uso generalizado desde el siglo XX por disponibilidad y bajo coste. Aceptable resistencia a compresión, despreciable a tracción, baja a cortante.
-    *   **Hormigón armado:** Con armadura de acero, resiste tracción y compresión.
-    *   **Hormigón pretensado:** Tendones de acero tensados antes (pretesa) o después (postesa) de hormigonar para minimizar tracciones por flexión. No fisura, más rígido, durable, estanco. Mejor comportamiento al fuego. Reducción de cantos y peso propio.
-        *   **Proceso:** 1. Colocación tendones. 2. Hormigonado. 3. Tensado. 4. Anclaje. 5. Relleno vainas.
-    *   **Nomenclatura (EHE-08):** T-R/C/TM/A. T: Tipología (HM masa, HA armado, HP pretensado). R: Resistencia característica a compresión en 28 días (20-100 N/mm²). C: Consistencia (S seca, P plástica, B blanda, F fluida, L líquida). TM: Tamaño máximo árido (mm). A: Ambiente exposición (I, IIa, IIb, IIIa, IIIb, IIIc, IV para corrosión por cloruros; Qa, Qb, Qc química; H hielo; F fundentes; E abrasión).
-    *   **Aditivos (≤5% peso cemento):** Reductores de agua/plastificantes (disminuyen agua o aumentan trabajabilidad); Superplastificantes (disminuyen significativamente agua o aumentan trabajabilidad); Modificadores de fraguado/aceleradores/retardantes; Inclusores de aire (burbujas para heladas); Multifuncionales.
-    *   **Elementos auxiliares:** Separadores (plástico/hormigón) elevan armado; Distanciadores (plástico) recubrimiento total; Pasamuros evita adherencia de espadín; Conectores unión forjado mixto; Berenjenos matan vivos de esquinas; Setas tapan armaduras; Pasatubos facilitan instalaciones; Cartuchos fijación balaustradas.
-    *   **Resistencia comparativa:** Cemento (32.5-52.5 N/mm²); Mortero (1.0-25.0 N/mm², pérdida de resistencia por árido); Hormigón (20.0-50.0 N/mm², recupera resistencia con árido grueso, hasta 100 N/mm²).
+En modelos sin cuarto de máquinas, el mecanismo tractor se ubica:
+*   **Parte superior del hueco:** Maquinaria y sistema de maniobra en la última planta del edificio, lateral a la última puerta de planta (ascensores eléctricos).
+*   **Parte inferior del hueco:** Maquinaria y sistemas de maniobra en el foso (ascensores hidráulicos).
 
-#### Materiales Metálicos
-*   **No ferrosos:** Plomo, cinc, cobre, latón, bronce, estaño, aluminio. Uso no estructural.
-*   **Ferrosos:** Aleaciones de hierro y carbono (0.03-2%). Mayor carbono = mayor dureza y resistencia, pero más fragilidad y menor ductilidad. Menor carbono = mayor soldabilidad.
-    *   **Hierro dulce o forjado:** <0.03% C. Dúctil, maleable, poroso, se oxida fácil. Cerrajería.
-    *   **Fundición:** >2.00% C. Fundido en moldes, piezas complejas. Fácil de mecanizar. Resistente a choque térmico, corrosión, desgaste. Quebradizo. Tuberías, tapas.
-    *   **Acero:** 0.03-2% C (comúnmente 0.2-0.3%). Forjado por presión/impacto. Alta resistencia, homogeneidad, soldabilidad. Densidad 7850 kg/m³. Coeficiente de dilatación 1.2 x 10⁻⁵ °C⁻¹ (similar al hormigón). Alta conductividad eléctrica y térmica. Material dúctil, maleable. Corrosión es problema (cincado, galvanizado, cromado, niquelado, pavonado). Tipos:
-        *   **Acero estructural:** Laminado en caliente, perfiles, barras, chapas. Nomenclatura UNE EN 10027-1 (S + valor límite elástico MPa). Grados: JR (ordinaria), J0 (alta soldabilidad), J2 (resistencia, resiliencia, soldabilidad). Tipos: laminados en caliente, huecos (caliente/frío), perfiles abiertos en frío, recubiertos orgánicamente.
-            *   **Perfiles:** IPN, IPE (más usados en vigas, sección más eficiente), HEB, HEA, HEM (más usados en pilares, buena resistencia longitudinal/transversal), UPN, UPE (vigas pequeñas), L, LD, T (auxiliares), redondo, cuadrado, hexagonal.
-        *   **Acero de armar:** Fabricado en caliente para armaduras pasivas. Barras rectas/rollos corrugados. Diámetros 6-40 mm. Nomenclatura B 400/500 S/SD (B: barra, 400/500: límite elástico MPa, S: soldable, D: dúctil). Identificación por corrugas.
-            *   **Armaduras longitudinales:** Principales o a secas (dirección eje principal, recogen esfuerzos); Piel (suplementarias, pequeño diámetro, distribuyen tensiones oblicuas).
-            *   **Armaduras transversales:** Estribos (U o cerco cerrado, atan barras, resisten tensión diagonal); Zunchos (hélice, evitan pandeo).
-        *   **Acero para pretensados:** Armaduras activas (Y1570, Y1670, Y1770, Y1860 MPa carga rotura). Coeficientes de seguridad: 70% carga rotura para estática, 40% para dinámica. Productos: alambre, cordón (varios alambres enrollados), cable (varios cordones helicoidales sobre alma). Nomenclatura C x A + N (C: nº cordones, A: nº alambres por cordón, N: nº almas textiles).
+Los elementos que componen el cuarto de máquinas son:
 
-#### Materiales Orgánicos: Madera
-*   Materia leñosa entre médula y corteza. Coníferas (gimnospermas, poros cerrados) y frondosas (dicotiledóneas, poros microscópicos).
-*   **Características:** Densidad variable (350-500 kg/m³). Humedad (equilibrio higroscópico 7-20%). Anisotropía (comportamiento mecánico diferente según dirección fibras). Higroscopicidad (absorbe/pierde agua). Baja conductividad térmica (buen aislante).
-*   **Comportamiento mecánico:** Buena a flexión, razonable a compresión/tracción. Resistencia de madera C14: compresión doble que tracción; C50: tracción mayor que compresión. Problema: nudos (uniones).
-*   **Tipologías (CTE DB SE M):**
-    *   **Madera aserrada/estructural:** Pieza maciza escuadrada del árbol.
-        *   **Coníferas (blandas):** Cedro, abeto, pino. Nomenclatura C + número (resistencia a flexión N/mm²).
-        *   **Frondosas (duras):** Cerezo, roble, fresno. Nomenclatura D + número (resistencia a flexión fm,k N/mm²).
-    *   **Madera laminada encolada:** Láminas de madera encoladas.
-        *   **Combinada:** Distinta clase resistente.
-        *   **Homogénea:** Misma clase resistente.
-        *   Nomenclatura GL + número (resistencia a flexión N/mm²) + h/c (homogénea/combinada). Mayor resistencia axial a compresión que a tracción (30%). Permite mayores dimensiones.
-    *   **Madera microlaminada (LVL):** Chapas de 3-5 mm encoladas con misma dirección de fibra.
-    *   **Tablero:** Madera con longitud/anchura > espesor.
-        *   **Madera maciza:** Tablas unidas.
-        *   **Contrachapado:** Capas de chapa encoladas (fibras a 90°).
-        *   **Fibras:** Fibras lignocelulósicas con aglomerante sintético (DM, duro, semiduro).
-        *   **Partículas/aglomerado:** Partículas de madera aglomeradas.
-        *   **Virutas (OSB):** Virutas mayores. Capas externas orientadas longitudinalmente.
-        *   **Comportamiento mecánico:** Varía según modelo y dirección del esfuerzo. Inversamente proporcional a espesor y humedad.
+**a) Motor-Reductor:**
+Los grupos tractores se componen de un motor acoplado a un reductor de velocidad. Los motores más comunes son de corriente alterna, de una o dos velocidades, y actualmente incorporan variadores de frecuencia.
 
-### Sistemas Constructivos Básicos
+**b) Polea Motriz:**
+Asegura la adherencia con los cables de acero. Mueve los cables sin deslizamiento, independientemente de la carga de la cabina.
 
-Una edificación es la combinación de elementos estructurales, complementarios y auxiliares.
-*   **Elementos estructurales:** Soportan cargas (forjados, pilares, cimentaciones).
-*   **Elementos complementarios:** Conforman el espacio interior, confort (cerramientos, divisiones, instalaciones, acabados).
-*   **Elementos auxiliares:** Durante construcción/reparación (andamios, cimbras, encofrados, apeos).
+**c) Volante:**
+Esencial para la operación normal de ascenso y descenso del ascensor. Utilizado para subir y bajar la cabina en maniobras de rescate sin corriente eléctrica.
 
-#### Estructuras Enterradas (Cimentaciones)
-Transfieren cargas de la edificación al terreno.
-*   **Tipos de terreno:**
-    *   **Por composición/resistencia:** rocas (1-10 MPa), terrenos no cohesivos/granulares (arenas, gravas, 0.1-0.6 MPa, permeables, no cohesivos), terrenos cohesivos/arcillosos (>35% finos plásticos, impermeables, asientos lentos, 0.075-0.6 MPa), deficientes (baja presión admisible, fangos, suelos orgánicos, rellenos).
-    *   **Grupos (CTE DB SE-C):** T-1 (favorables, poca variabilidad), T-2 (intermedios, variabilidad, rellenos <3m), T-3 (desfavorables, expansivos, colapsables, blandos/sueltos, kársticos, rellenos >3m, desnivel >15º).
-*   **Taludes (empujes del terreno):** Cortes de transición entre cotas. **Ángulo de rozamiento/reposo** es la pendiente máxima estable. Taludes naturales (laderas) o artificiales (desmontes, terraplenes). Valores medios CTE para rellenos: tierra vegetal 25º, terraplén 30º, pedraplén 40º.
-*   **Evaluación del terreno:** Estudio geotécnico, informe técnico.
-    *   **Información previa:** Peculiaridades del emplazamiento, inestabilidad, sismicidad, cimentaciones limítrofes.
-    *   **Técnicas de prospección:**
-        *   **Calicatas:** Excavaciones directas (<4m, sobre nivel freático).
-        *   **Sondeos mecánicos:** Perforaciones para reconocer naturaleza y extraer muestras. Rotación (rocas, alternancia capas, barrena helicoidal/corona), Percusión (suelos granulares, penetración), Presión (punta abierta/hueca/maciza para suelos blandos).
-        *   **Sondeos destructivos:** Trépano, martillo, tricono. Cuando no interesa obtener propiedades geotécnicas específicas.
-        *   **Pruebas de penetración:** Medida indirecta de resistencia/deformabilidad (estáticas/dinámicas).
-        *   **Geofísica:** Sísmica de refracción, resistividad eléctrica, georadares para grandes superficies.
+**d) Freno:**
+Situado en el eje motor, frena el ascensor durante el ascenso y descenso. En reposo, las zapatas del freno están bloqueadas, impidiendo el movimiento. Se desbloquean con un electroimán cuando el ascensor está en movimiento. En operaciones de rescate sin corriente eléctrica, se bloquean manualmente.
 
-**Cimentaciones:** Elementos que transmiten cargas al terreno.
-*   **Parámetros:** Geometría (profundidad, forma), Material (hormigón armado, rígido), Rigidez (rígidas ej. zapatas macizas, pozos; flexibles ej. zapatas de vuelo, losas).
-*   **Tipologías (CTE DB SE-C):**
-    *   **Directa, superficial o somera:** Reparte cargas en plano horizontal. Para pilares, muros de carga, forjados. Poca profundidad.
-        *   **Zapatas aisladas:** Cargas puntuales (pilares). Profundidad <1m. Terrenos firmes/compactos, presiones medias-altas, asientos pequeños. Cuadradas (interiores), rectangulares/cuadradas (medianería/esquina). Rígidas (v≤2h, compresión pura), flexibles (v>2h, flexión, requieren armado).
-        *   **Elementos auxiliares para rigidez:** Vigas de atado/soleras (arriostramiento, limitan desplazamiento lateral); Vigas centradoras (absorben giros de zapatas excéntricas).
-        *   **Zapatas combinadas y corridas:** Recogen cargas de varios pilares. Combinadas (2+ pilares próximos), corridas (3+ pilares alineados). Recomendables para cargas elevadas, terrenos pequeños/moderados, pilares próximos o solapados. Más rígidas, evitan asientos diferenciales.
-    *   **Pozos de cimentación:** Intermedia, bajo coste. Estratos resistentes a 4-6m. Tradicional (pozo+piedra natural+arcos de ladrillo). Actual (hormigón pobre, plinto). Rígidas, trabajan a compresión.
-    *   **Emparrillados:** Terrenos baja capacidad/elevada deformabilidad/heterogéneos. Recogen
+**e) Limitador de Velocidad:**
+Instalado en ascensores eléctricos e hidráulicos. Detiene la cabina mediante un paracaídas o sistema de acuñamiento si la velocidad excede un valor determinado. Incluye un contacto eléctrico que detiene el motor del ascensor. Consiste en dos poleas, una en el cuarto de máquinas y otra alineada verticalmente en el fondo del hueco (foso). Un cable de acero pasa por ambas poleas; un extremo se conecta a la parte superior de la cabina y el otro a un sistema de cuñas en la parte inferior de la cabina (paracaídas). Este cable acompaña la cabina de forma continua y es independiente de los cables de tracción.
+
+**f) Cuadro de Maniobras:**
+Aloja los componentes eléctricos y electrónicos (relés, contadores, cableado, etc.) que permiten el funcionamiento del sistema. Contiene tensiones de entre **230 V y 400 V**, por lo que es crucial evitar el contacto directo con su interior sin el aislamiento adecuado.
+
+**g) Cuadros de Distribución de Corriente:**
+Contienen elementos de protección contra cortocircuitos y derivaciones. Es importante conocer su ubicación para cortar el suministro eléctrico.
+
+**2.2. Recinto o Hueco**
+Es el espacio por el que se desplazan el ascensor y el contrapeso. Incluye los siguientes elementos:
+
+**a) Cabina:**
+Recinto destinado al transporte de pasajeros.
+
+**b) Puertas de Acceso:**
+Se dividen en puertas de planta y puertas de cabina. Sus tipologías son:
+1.  **Batientes en piso y cabina:** Disponen de un seguro que las bloquea si la cabina no está a nivel. Cuentan con un enclavamiento eléctrico y mecánico.
+2.  **Batientes en piso y librillo en cabina.**
+3.  **Batiente en pisos y telescópica automática en cabina.**
+4.  **Telescópicas automáticas en pisos y cabina.**
+5.  **Apertura central automática en pisos y cabina.**
+6.  **Apertura central telescópica automática en pisos y cabina.**
+
+**2.3. Foso**
+Se refiere a la parte inferior del recinto del ascensor, debajo del nivel de la última parada. El suelo debe ser liso y nivelado. Es común que la parte inferior del foso esté por debajo del nivel de la calle, requiriendo impermeabilización para evitar filtraciones de agua. La profundidad debe ser suficiente para garantizar un espacio libre de al menos **medio metro** de altura cuando la cabina comprime totalmente los amortiguadores, asegurando que una persona pueda estar a salvo bajo la cabina.
+
+**2.3.1. Amortiguadores**
+Estos dispositivos frenan el descenso de la cabina en caso de fallo de los mecanismos de parada automática o al final de carrera, reduciendo el impacto de una caída libre.
+
+**2.4. Elementos Relacionados con la Emergencia**
+
+**2.4.1. Instrucciones de Rescate en el Cuarto de Máquinas**
+Es obligatorio que estas instrucciones estén presentes en el cuarto de máquinas o en el cuadro de maniobras para realizar rescates de forma segura.
+
+**2.4.2. Pulsador de Bomberos**
+Se encuentra normalmente en ascensores de emergencia. Funciona de la siguiente manera:
+*   Al romper el cristal, se acciona un microrruptor que cierra un contacto eléctrico y envía una señal al cuadro de maniobras.
+*   Si el ascensor está subiendo, se detiene en el piso siguiente, no abre las puertas y anula las llamadas externas e internas.
+*   Si está bajando, continúa hasta la planta principal.
+*   Al llegar a la planta principal (donde se ubica el pulsador), las puertas se abren y solo atiende llamadas interiores (una a una), anulando las externas.
+
+**2.4.3. Caja de Llaves de Emergencia**
+Contiene las llaves de la sala de máquinas y de las puertas de planta. En algunos casos, no es apropiado colocar la caja roja de llaves en la entrada del cuarto de máquinas, para evitar la manipulación del cerrojo de puertas y el riesgo de caída por el hueco del ascensor.
+
+**2.4.4. Mecanismos de Seguridad**
+Son dispositivos que interrumpen el funcionamiento del ascensor. Incluyen el interruptor de corte de emergencia, situado en el foso o en la parte superior de la cabina. Estos mecanismos están conectados en serie; si uno se interrumpe, el ascensor se detiene, pero la tensión eléctrica se mantiene en el cuadro de maniobras. Un ejemplo es la desconexión de la fuerza al abrir cualquier puerta de planta, lo que detiene el ascensor y elimina la corriente del circuito de maniobra. Si no se puede acceder al cuarto de máquinas para interrumpir el funcionamiento, se pueden desconectar los fusibles del contador en el cuarto de contadores del edificio.
+
+**2.4.5. Faldones de Cabina**
+Son chapas bajo la puerta de cabina que cubren el hueco del foso cuando el ascensor se detiene entre pisos. Existen dos tipos: fijos y telescópicos. Ambos deben tener una longitud total de **750 milímetros**. El faldón telescópico debe incluir una parte fija de al menos **200 milímetros** de longitud y una parte móvil. Además, la parte fija debe llevar un cartel con el texto: "Precaución faldón con dimensiones reducidas. Asegúrese de que el faldón esté completamente extendido antes de sacar a los pasajeros de cabina."
+
+**2.4.6. Alumbrado de Emergencia**
+Su instalación es obligatoria en la cabina y entra en funcionamiento cuando hay un problema en el ascensor. Por normativa, el diferencial y el magnetotérmico de fuerza deben ser independientes del alumbrado. Si hay un problema con el automático o diferencial del alumbrado, el alumbrado de emergencia de cabina se activará.
+
+**2.4.7. Tele-alarma / Servicio 24 Horas**
+Desde **1999**, es obligatorio en España que los ascensores cuenten con comunicación en cabina con el exterior, a través de un servicio de asistencia **24 horas**. Los afectados pueden contactar con los servicios de mantenimiento y, si es necesario, con los bomberos.
+
+**3. Normativa Aplicable**
+
+**3.1. Reglamentación General**
+La mayoría de las características de los ascensores están reguladas por el **Real Decreto 2291/1985, de 8 de noviembre**, que aprueba el Reglamento de Aparatos de Elevación y Manutención (RAEM). Esta norma regula la inspección técnica de edificios, estableciendo que:
+*   El mantenimiento de ascensores con velocidad no superior a **0,15 m/s** es obligatorio según su tipología y uso.
+*   La inspección periódica, realizada por un Organismo de Control Autorizado, es compatible con cualquier otra inspección solicitada por el titular.
+*   Cualquier defecto grave detectado debe corregirse en un plazo máximo de **6 meses**; de no ser así, el aparato quedará fuera de servicio.
+*   Las modificaciones significativas en ascensores deben evaluarse según los procedimientos regulados por la normativa vigente.
+
+El RAEM ha sido modificado por:
+*   **REAL DECRETO 1314/1997, de 1 de agosto**, que modifica el Reglamento de Aparatos de Elevación y Manutención.
+*   **RESOLUCIÓN de 10 de septiembre de 1998**, que desarrolla el Reglamento de Aparatos de Elevación y Manutención.
+*   **REAL DECRETO 57/2005, de 21 de enero**, que establece prescripciones para el incremento de la seguridad del parque de ascensores.
+*   **REAL DECRETO 560/2010, de 7 de mayo**, que modifica diversas normas reglamentarias de seguridad industrial para adaptarlas a la **Ley 17/2009, de 23 de noviembre**, y a la **Ley 25/2009, de 22 de diciembre**.
+*   **Corrección de errores del Real Decreto 560/2010, de 7 de mayo**.
+
+**3.2. Aparatos Elevadores de Propulsión Hidráulica**
+La **Orden de 30 de julio de 1974** determina las condiciones para estos aparatos y las normas para la aprobación de sus equipos impulsores.
+Otras normas aplicables son:
+*   **CTE (Código Técnico de Edificación)**.
+*   **Norma EN 81-28:2003** (Reglas de seguridad para la construcción e instalación de ascensores. Alarmas a distancia en ascensores de pasajeros y cargas).

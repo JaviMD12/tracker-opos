@@ -1,78 +1,179 @@
-Las cubiertas de una edificación, elementos esenciales situados en la parte superior exterior, cumplen una doble función crítica: en primer lugar, actúan como estructura resistente, diseñada para soportar no solo el peso de sus propios componentes, sino también sobrecargas derivadas de fenómenos meteorológicos como el uso, la nieve, el viento y las acciones térmicas, así como cargas sísmicas. En segundo lugar, ejercen una función de soporte al albergar los diversos elementos que conforman la cobertura exterior, incluyendo aislamientos, impermeabilizaciones y barreras de vapor, además de instalaciones específicas como antenas, pararrayos, chimeneas, elementos de ventilación y sistemas de climatización o colectores solares.
+## TEMARIO DE OPOSICIONES DE BOMBEROS Y EMERGENCIAS: RIESGOS TECNOLÓGICOS Y ASISTENCIAS TÉCNICAS
 
-La geometría de las cubiertas se determina por la inclinación de sus planos, lo que da lugar a dos categorías principales: **cubiertas inclinadas** y **cubiertas planas**.
+### PARTE 1: EDIFICACIONES
+#### Capítulo 9. Elementos Complementarios de la Edificación
 
-### Cubiertas Inclinadas (Tejados)
+##### 9.1. Cubiertas
 
-Las cubiertas inclinadas, comúnmente conocidas como tejados, se caracterizan por sus planos inclinados o faldones. Su principal función hidráulica es la rápida expulsión del agua de lluvia hacia el exterior, ya sea directamente por el alero o canalizándola mediante canalones perimetrales (visibles u ocultos) que la dirigen a bajantes o gárgolas. Según el Código Técnico de la Edificación (CTE DB HS1), estas cubiertas deben tener una pendiente mínima del 5%.
+**Definición y Funciones**
+Las cubiertas constituyen un conjunto de elementos constructivos, ya sean inclinados u horizontales, que limitan superiormente la edificación. Su propósito primordial es proteger el interior del edificio de agentes externos como temperaturas extremas, viento y ruido, garantizando condiciones de confort adecuadas al uso previsto.
 
-Existen diversas tipologías de cubiertas inclinadas, clasificadas según la configuración de sus vertientes:
-*   Las **cubiertas a una sola agua** presentan un único faldón sin cumbrera y requieren un canalón en un extremo.
-*   Las **cubiertas a dos aguas** se componen de dos faldones, generalmente opuestos, que convergen en una línea de cumbrera. Dentro de esta categoría, se encuentran variantes como las **cubiertas de mariposa**, donde la cumbrera se transforma en una limahoya, o las **cubiertas quebradas**, que poseen un faldón inferior más inclinado que el superior.
-*   Las **cubiertas a cuatro o más aguas**, también llamadas **cubiertas poliédricas**, están formadas por cuatro o más faldones, a menudo perpendiculares entre sí, siendo la **cubierta piramidal** un ejemplo clásico.
-*   Un diseño particular es la **cubierta en dientes de sierra** o **SHED**, caracterizada por cerchas asimétricas con faldones de inclinación desigual. El faldón más largo y menos inclinado suele llevar el material de cobertura, mientras que el más empinado (a menudo vertical) se acristala para proporcionar iluminación natural uniforme y se orienta al Norte para evitar la radiación solar directa. Este tipo de cubierta, popularizado en España en los años 60 con los "Huesos de Miguel Fisac", se construía en hormigón armado con espesores de 5 cm y profundidades de 1 metro, logrando cubrir vanos de hasta 20 metros.
+Las funciones esenciales de una cubierta incluyen:
+*   **Estanqueidad:** Debe ser impermeable al agua de lluvia y nieve, e incorporar un sistema de evacuación.
+*   **Barrera contra la humedad:** Impedir el paso de vapor de agua.
+*   **Aislamiento térmico:** Proteger contra el frío y el calor.
+*   **Aislamiento acústico.**
+*   **Resistencia al fuego:** Prevenir la ignición y propagación de incendios.
 
-Para asegurar una correcta evacuación del agua sin una capa impermeabilizante, el CTE DB HS1 establece pendientes mínimas según el material del tejado:
-*   Para **teja** (con una longitud de faldón inferior a 6,5 metros, exposición normal y clima desfavorable):
-    *   Teja curva: 32%
-    *   Teja mixta y plana monocanal: 30%
-    *   Teja plana marsellesa o alicantina: 40%
-    *   Teja plana con encaje: 50%
-*   Para **pizarra**: 60%.
-*   Para **placas y perfiles metálicos**:
-    *   Zinc: 10%
-    *   Fibrocemento (placas simétricas de onda grande o placas asimétricas de nervadura grande): 10%
-    *   Fibrocemento (placas asimétricas de nervadura media): 25%
-    *   Sintéticos (perfiles de ondulado grande): 10%
-    *   Sintéticos (perfiles de ondulado pequeño): 15%
-    *   Sintéticos (perfiles de grecado grande): 5%
-    *   Sintéticos (perfiles de grecado medio): 8%
-    *   Sintéticos (perfiles nervados): 10%
-    *   Galvanizados (perfiles de ondulado pequeño): 15%
-    *   Galvanizados (perfiles de grecado o nervado grande): 5%
-    *   Galvanizados (perfiles de grecado o nervado medio): 8%
-    *   Galvanizados (perfiles de nervado pequeño): 10%
-*   Para **paneles**: 5%
-*   Para **aleaciones ligeras** (perfiles de ondulado pequeño o perfiles de nervado medio): 15% y 5% respectivamente.
+Adicionalmente, las cubiertas cumplen funciones de **soporte de instalaciones**, tales como pararrayos y antenas.
 
-### Cubiertas Planas (Terrazas o Azoteas)
+**Elementos de Cobertura (CTE DB HS)**
+*   **Sistema de formación de pendientes:** Elemento cuya única misión es dotar a la cubierta de la inclinación necesaria para la evacuación de agua. Si la estructura de la cubierta no provee esta inclinación (como en cubiertas de cercha), debe construirse. Para pequeñas pendientes, se suele usar hormigón aligerado; para pendientes pronunciadas, se utilizan tableros de rasilla o estructuras de madera, metal o cerámica.
 
-Las cubiertas planas, también denominadas terrazas o azoteas, son superficies sensiblemente horizontales diseñadas para recoger el agua de lluvia y canalizarla hacia sumideros, de forma similar a las cubiertas inclinadas, a través de bajantes y gárgolas. Aunque su pendiente es generalmente inferior al 5%, el CTE DB HS1 permite inclinaciones mayores en ciertos casos. A diferencia de las inclinadas, estas cubiertas facilitan el desarrollo de actividades en su superficie, como el tránsito de personas o vehículos, o la instalación de jardineras y vegetación.
+*   **Aislante térmico:** Capa destinada a mantener el confort térmico en la edificación. Si el aislante se sitúa sobre la impermeabilización y está expuesto al agua, debe ser no degradable por la humedad.
+    *   **Materiales comunes:** lana de roca, fibra de vidrio, poliestireno expandido (porexpan), espuma elastomérica (coquillas), poliuretano extruido.
+    *   **Conductividad térmica:** Los valores más comunes de conductividad térmica en W/m·K para algunos materiales son:
+        *   Corcho: 0,04-0,30
+        *   Fibra de vidrio: 0,03-0,07
+        *   Poliuretano: 0,018-0,025
+        *   Aceros y hierros (en contraste): 14-80 (ej. Hierro 80, Acero inoxidable 14-16, Acero 47-58)
+        *   Aluminio: 209
+        *   Ladrillo: 0,80
+        *   Madera: 0,13
 
-Las pendientes mínimas para cubiertas planas, según su uso y el elemento de protección superior, son las siguientes:
-*   **Transitables** para peatones: solado fijo o flotante, con pendientes del 1-5%.
-*   **Transitables** para vehículos: capa de rodadura, con pendientes del 1-5%.
-*   **No transitables**: gravas, con pendientes del 1-5%, o láminas autoprotegidas, con pendientes del 1-15%.
-*   **Ajardinadas**: tierra vegetal, con pendientes del 1-5%.
+*   **Capa de impermeabilización:** Lámina que evita la entrada de agua externa al interior de la edificación.
+    *   **Modelos según CTE DB HS:** Materiales bituminosos, policloruro de vinilo (PVC), etileno propileno, poliolefinas y sistemas de placa.
 
-Los elementos característicos de las cubiertas planas incluyen:
-*   El **antepecho**: una parte maciza inferior que se eleva desde el piso para proteger contra caídas, coronada por una pieza vierteaguas.
-*   El **lucernario**: un elemento de iluminación y ventilación interior, que en cubiertas planas puede ser un punto de generación de humedades.
-*   El **sumidero**: punto más bajo donde se dirige y recoge el agua de uno o varios paneles.
-*   El **cuartel o paño**: equivalente a los faldones de las cubiertas inclinadas.
-*   Las **canaletas**: sumideros lineales para la recogida de agua.
-*   Las **juntas de dilatación**: discontinuidades estructurales para evitar deformaciones térmicas.
-*   La **albardilla**: piezas que coronan un muro para desviar el agua de lluvia y evitar infiltraciones.
-*   Las **chimeneas e instalaciones**: elementos del edificio que atraviesan o se apoyan en la cubierta.
+*   **Capa de protección:** El material se selecciona según el uso de la cubierta:
+    *   **Cubierta no transitable:** Grava, solado fijo o flotante, mortero o tejas.
+    *   **Cubierta transitable para peatones:** Solado fijo o flotante.
+    *   **Cubierta transitable para vehículos:** Capa de rodadura.
 
-En cuanto a la disposición del aislamiento, las cubiertas se clasifican en:
-*   **Tradicionales**: el impermeabilizante se coloca sobre el aislante.
-*   **Invertidas**: el aislante se coloca sobre el impermeabilizante para protegerlo, y sobre ambos se añade una capa de acabado. Solo pueden emplearse aislantes no degradables en contacto con la humedad.
+*   **Barrera de vapor (BV):** Lámina para impermeabilización al vapor de agua, previniendo la condensación interna. Si es necesaria, se coloca en la cara caliente del cerramiento, asegurando su correcta ejecución para evitar roturas.
 
-Atendiendo al comportamiento higrotérmico, se distinguen:
-*   **Cubiertas frías**: presentan una cámara de aire entre el aislante y el impermeabilizante. Un ejemplo son las "cubiertas a la catalana", que propician la ventilación para atenuar temperaturas.
-*   **Cubiertas calientes**: el aislante y el impermeabilizante están en contacto directo, sin cámara de aire. Un ejemplo son las "cubiertas Deck".
+*   **Cámara de aire ventilada:** Cumple una doble función: eliminar la humedad y proporcionar aislamiento térmico. Debe situarse en el lado exterior del aislante térmico y ventilarse. La relación entre el área efectiva de ventilación (Ss en cm²) y la superficie de la cubierta (Ac en m²) debe cumplir `30 > Ss/Ac > 3`.
 
-Los **elementos singulares** de las cubiertas, como barandillas, sumideros, juntas de dilatación y antenas, representan zonas críticas por donde puede ingresar agua, requiriendo un tratamiento y cuidado específicos para asegurar la estanqueidad.
+**Tipos de Cubiertas**
+Se clasifican según:
+*   **Inclinación:** Inclinadas o planas.
+*   **Disposición del aislante:** Tradicionales o invertidas.
+*   **Comportamiento higrométrico:** Frías o calientes.
 
-### Cerramientos Exteriores (Fachadas)
+###### 9.1.1. Tipos de Cubiertas según su Inclinación
 
-Los cerramientos exteriores o fachadas definen la piel externa del edificio, protegiendo el interior de agentes externos como el frío, el calor, el agua (en sus tres estados) y el viento. Su diseño y características constructivas están condicionados por su uso y orientación.
+La climatología es el factor principal en la elección del tipo de cubierta, influenciando la inclinación de los faldones.
+*   **Climas soleados y poco lluviosos:** Predominan las cubiertas planas u horizontales.
+*   **Zonas lluviosas y de montaña con nieve:** Se prefieren cubiertas con pendientes muy pronunciadas.
 
-Las características generales de los cerramientos exteriores incluyen:
-*   **Aislamiento térmico**: fundamental para el confort interior, influido por la transmisión térmica (capacidad de un material para conducir calor), la inercia térmica (capacidad para mantener la temperatura, relacionada con la densidad) y la condensación superficial interna (formación de humedad cuando la temperatura de la superficie interior cae por debajo del punto de rocío).
-*   **Estanqueidad**: impermeabilización total frente al agua de lluvia o nieve.
+Según la disposición y ejecución de los faldones o su sistema de drenaje, las cubiertas se clasifican en inclinadas o planas.
 
-Se distinguen dos tipologías básicas de cerramientos exteriores:
-*   **Cerramientos pesados**: con un peso medio superior a 100 kg/m², pueden ser de una sola hoja, trasdosados con cámara y tabique, o tabique pluvial. Estos últimos son sistemas para impermeabilizar medianerías expuestas por la demolición de un edificio colindante, creando una segunda hoja paralela con una cámara de aire.
-*   **Cerramientos ligeros**: conocidos como fachadas ligeras, con bajo peso (menos de 100 kg/m²) y poco espesor (10-15 cm), incluyen los **muros cortina** y las **fachadas panel**. Los muros cortina son fachadas ligeras suspendidas de los forjados, con estructura auxiliar continua y elementos de aluminio, acristalamientos o paneles. Las fachadas panel, por su parte, se apoyan en los forjados en cada nivel, interrumpiendo su continuidad. Una variante son las **fachadas ventiladas o trasventiladas**, similares a los muros cortina pero con cerramientos pesados (placas de piedra o cerámica) anclados a muros de fábrica, dejando una cámara de aire para ventilar el aislamiento.
+**a) Cubiertas Inclinadas (Tejados)**
+Se componen de planos inclinados o faldones. Su función hidráulica es expulsar el agua rápidamente hacia el exterior, ya sea por caída libre (alero) o recogiéndola en canalones perimetrales (visibles u ocultos) que la dirigen a bajantes o gárgolas.
+*   **Definición (CTE DB HS1):** Cubiertas con pendientes mínimas del 5%.
+*   **Uso:** Dada su fuerte inclinación, no están diseñadas para estancias, sino para la evacuación de agua y nieve.
+*   **Funcionamiento:** Los faldones canalizan el agua al alero directamente o a través de limahoyas, donde es recogida por canalones.
+
+**Elementos de las Cubiertas Inclinadas:**
+*   **Alero:** Parte inferior del tejado que sobresale de la pared.
+*   **Caballete, cumbrera o gallur:** Arista o coronación superior de un tejado.
+*   **Faldón:** Superficie triangular o trapecial del tejado, delimitada por el caballete y dos limatesas.
+*   **Hastial, piñón o gablete:** Parte superior triangular de la fachada donde apoyan las dos vertientes del tejado; muro piñón.
+*   **Limas (genérico):** Aristas oblicuas en la intersección de dos faldones.
+    *   **Limahoya:** Ángulo entrante que recoge el agua de lluvia.
+    *   **Limatesa:** Ángulo saliente que expulsa el agua de lluvia.
+*   **Lucernario:** Elemento en la cubierta para iluminación y ventilación interior. En cubiertas inclinadas tradicionales, se conocen como beata, buharda, buhardilla, lucero, lumbrera, claraboya o monterala.
+*   **Linterna:** Lucernario elevado sobre la cubierta que permite iluminación y ventilación perimetral del espacio inferior, siendo opaco en su parte superior.
+*   **Peto:** Faldón triangular menor, situado entre dos limas, o una tercera sección en una armadura de dos vertientes.
+
+**b) Cubiertas Planas (Terrazas o Azoteas)**
+Constituidas por planos sensiblemente horizontales, diseñadas para recoger y conducir el agua a sumideros, y de ahí a bajantes y gárgolas, de manera similar a las cubiertas inclinadas.
+*   **Definición (CTE DB HS1):** Cubiertas con pendientes generalmente inferiores al 5%, aunque la normativa puede reconocer pendientes superiores en ciertos casos.
+*   **Uso:** A diferencia de las cubiertas inclinadas, las planas permiten el desarrollo de actividades en su superficie, como permanencia y tránsito de personas, ubicación de vehículos o creación de cubiertas vegetales.
+*   **Pendientes específicas:** Se debe mantener una pendiente mínima hacia los sumideros, según la tipología y elemento de protección:
+    *   **Transitable:** El revestimiento superior permite el tránsito de personas (solado fijo o flotante) o vehículos (capa de rodadura).
+    *   **No transitable:** El revestimiento no está diseñado para tránsito habitual. Puede tener una capa de protección pesada (grava) o una lámina ligera (PVC, etc.).
+    *   **Ajardinadas:** La capa de protección actúa como cubeta con tierra y agua, con un peto perimetral. Los espesores mínimos son de 10 cm, y las pendientes no suelen superar el 3%.
+
+**Tabla 21. Cubiertas Inclinadas - Pendiente Mínima en %**
+
+| Tejado (1) (2)             | Pendiente mínima en % |
+| :------------------------- | :-------------------- |
+| **Teja (3)**               |                       |
+| Teja curva                 | 32                    |
+| Teja mixta y plana monocanal | 30                    |
+| Teja plana marsellesa o alicantina | 40                    |
+| Teja plana con encaje      | 50                    |
+| **Pizarra**                | 60                    |
+| **Placas y perfiles**      |                       |
+| Cinc                       | 10                    |
+| Fibrocemento               |                       |
+| Placas simétricas de onda grande | 10                    |
+| Placas asimétricas de nervadura grande | 10                    |
+| Placas asimétricas de nervadura media | 25                    |
+| Sintéticos                 |                       |
+| Perfiles de ondulado grande | 10                    |
+| Perfiles de ondulado pequeño | 15                    |
+| Perfiles de grecado grande | 5                     |
+| Perfiles de grecado medio  | 8                     |
+| Perfiles nervados          | 10                    |
+| Galvanizados               |                       |
+| Perfiles de ondulado pequeño | 15                    |
+| Perfiles de grecado o nervado grande | 5                     |
+| Perfiles de grecado o nervado medio | 8                     |
+| Perfiles de nervado pequeño | 10                    |
+| Paneles                    | 5                     |
+| **Aleaciones ligeras**     |                       |
+| Perfiles de ondulado pequeño | 15                    |
+| Perfiles de nervado medio  | 5                     |
+
+**Notas de la Tabla 21:**
+(1) En cubiertas con múltiples sistemas de protección superpuestos, la pendiente mínima es la menor de todas.
+(2) Para sistemas y piezas de formato especial, las pendientes deben establecerse según sus especificaciones de aplicación.
+(3) Estas pendientes aplican a faldones de menos de 6,5 m, en exposición normal y condiciones climáticas desfavorables. Para otras condiciones, consultar la norma UNE 127.100.
+
+###### 9.1.2. Tipos de Cubiertas según la Disposición del Aislante
+
+*   **a) Tradicional:** El material impermeabilizante se coloca por encima de la capa de aislamiento.
+*   **b) Invertida:** La capa de aislamiento se coloca sobre la capa impermeabilizante para protegerla. Posteriormente, se añade la capa de acabado/cubrición/protección (ej. baldosa en transitables, gravilla en no transitables). En esta tipología, solo se pueden usar aislantes no degradables, ya que están en contacto directo con agua y humedad.
+
+###### 9.1.3. Tipos de Cubiertas según su Comportamiento Higrométrico
+
+*   **a) Cubiertas Frías:** Disponen de una cámara de aire entre el aislamiento y la impermeabilización.
+    *   Un ejemplo son las "Cubiertas a la catalana", que, al igual que los tejados inclinados con tabiques palomeros, permiten una ventilación de la cubierta plana, atenuando las temperaturas en su parte superior.
+*   **b) Cubiertas Calientes:** No tienen cámara de aire entre el aislamiento y la impermeabilización, manteniéndose ambos en contacto.
+    *   Un ejemplo son las "Cubiertas a Deck".
+
+**Elementos Singulares**
+Se consideran elementos singulares de las cubiertas a todos aquellos componentes situados en encuentros, resaltes o penetraciones, como barandillas, sumideros, juntas de dilatación y antenas. Estos puntos son críticos para la entrada de agua, por lo que requieren un tratamiento adecuado para asegurar la estanqueidad.
+
+##### 9.2. Cerramientos Exteriores
+
+**Definición**
+Los cerramientos exteriores son los elementos que conforman la envolvente externa de la edificación. Su principal función es proteger el interior del edificio de agentes externos como temperaturas (frío o calor), agua (en todos sus estados: sólido, líquido, gaseoso), viento y ruidos. Las fachadas constituyen la mayor parte de los cerramientos exteriores (considerando la cubierta como la quinta fachada, aunque se trata de forma independiente debido a sus particularidades constructivas).
+
+**Parámetros Básicos**
+El diseño y las características constructivas de cada cerramiento están condicionados por su **uso** y **orientación**.
+
+**Características Generales**
+*   **Aislamiento térmico:** Es la función principal de cualquier fachada, buscando generar confort interior. Depende de:
+    *   **Transmisión térmica:** Capacidad para transferir calor.
+    *   **Inercia térmica:** Capacidad para mantener el calor, con o sin aislamiento. Mayor densidad implica mayor inercia.
+    *   **Condensación superficial interna:** Condensación que ocurre en la superficie interior de la pared cuando su temperatura es igual o inferior al punto de rocío del aire.
+*   **Estanqueidad:** Impermeabilización total contra agua de lluvia o nieve.
+
+**Tipologías de Cerramientos Exteriores**
+Se distinguen dos tipologías principales:
+*   **Cerramientos pesados:** Aquellos con un peso medio aparente superior a 100 kg/m², que pueden ser macizos o huecos.
+    *   Cerramiento pesado de una hoja.
+    *   Cerramiento trasdosado con cámara y tabique.
+    *   Tabique pluvial.
+*   **Cerramientos ligeros:** Fachadas denominadas ligeras, con un peso aparente inferior a 100 kg/m² y un espesor reducido (10-15 cm).
+    *   Muros cortina.
+    *   Fachada panel.
+
+###### a) Muro Cortina
+*   **Definición:** Fachada ligera con una estructura auxiliar suspendida de los forjados, simulando una "cortina".
+*   **Características:** Se ancla al canto de los forjados, extendiéndose de forma continua por delante de ellos de arriba abajo.
+*   **Elementos:** Combinación de elementos de aluminio, acristalamientos transparentes y zonas opacas. Los elementos de relleno pueden ser de madera, paneles composite, vidrio o plástico.
+
+###### b) Fachada Panel
+*   **Definición:** Fachada ligera con una estructura auxiliar apoyada en cada forjado individual.
+*   **Características:** Este modelo se interrumpe en cada forjado donde se apoya, creando paneles o zonas independientes. Las fachadas de chapa son un ejemplo claro.
+*   **Elementos:** Similares a los muros cortina, pero con dimensiones generalmente mayores.
+
+##### 9.2.3. Otras Tipologías de Cerramientos Exteriores
+
+###### a) Fachadas Ventiladas o Trasventiladas
+*   **Características:** Similares a los muros cortina, pero los montantes se anclan a muros de fábrica, y las piezas de cerramiento son pesadas (normalmente losas de piedra o cerámica).
+*   **Particularidad:** Debido a la existencia de una hoja interior pesada (generalmente ladrillo), las piezas de cerramiento no necesitan ser estancas. Se separan unos milímetros, permitiendo que el aislamiento térmico se ventile por estas rendijas.
+*   **Uso:** Frecuentes en edificios institucionales, debido a su alta calidad de acabado.

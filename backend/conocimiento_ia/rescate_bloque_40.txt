@@ -1,81 +1,52 @@
-# Técnicas de Control de Aguas y Construcción de Diques en Emergencias
+**Temario de Rescates y Emergencias: Técnicas de Intervención para Bomberos**
 
-En situaciones de emergencia, particularmente en escenarios de inundaciones, los bomberos emplean diversas técnicas para controlar el agua y prevenir daños, incluyendo la apertura de salidas de agua, el achique y la construcción de diques. Estas tácticas son cruciales para mitigar riesgos y proteger a la población.
+**4.3. Técnicas de traslado de la población**
+La técnica de traslado de la población tiene como objetivo reubicar a individuos que, estando aislados, incomunicados por los niveles de agua o confinados en áreas seguras sin acceso a necesidades básicas durante una emergencia, deben ser llevados a albergues o zonas designadas. Esto permite alejarlos de la inundación para recibir atención con mayores recursos y elimina la necesidad de asistencia en sus ubicaciones iniciales. Para su implementación, es fundamental el uso de una embarcación o helicóptero y contar con personal especializado. La negativa de los afectados a abandonar sus viviendas puede complicar la operación.
 
-## Apertura de Salidas de Agua
+**4.4. Filiación de víctimas**
+En una emergencia, es crucial realizar un registro de la población y recopilar y verificar datos como la identidad, ubicación y estado de cada persona afectada, para confirmar quién está desaparecido y organizar las labores de búsqueda, rescate o traslado. La información inicial se recaba desde el aviso de emergencia y se confirma y amplía en la zona de intervención, utilizando fuentes como fuerzas de orden, personal sanitario, protección civil, alertantes y la población.
 
-La técnica de **apertura de salidas de agua** busca facilitar la evacuación del exceso de agua de un área confinada cuando esta supera los niveles de seguridad establecidos. Su principal ventaja radica en que, en muchos casos, puede evitar la necesidad de un achique prolongado. Sin embargo, puede implicar la ruptura de elementos de contención, lo que requiere una evaluación cuidadosa.
+**5. Técnicas de control de las aguas**
+Las principales técnicas para controlar las aguas incluyen la apertura de salidas de agua, los achiques y la construcción de diques.
 
-El procedimiento general implica una evaluación detallada de la situación, comenzando por la apertura de las salidas de agua existentes, como tapas de alcantarillas, rejillas de sumideros o compuertas.
+**5.1. Apertura de salidas de agua**
+Esta técnica facilita el acceso o el flujo del agua cuando desborda un continente o supera sus niveles de seguridad, creando una vía de escape. Su principal ventaja es que a menudo evita los achiques, aunque puede implicar la rotura de la estructura contenedora. El procedimiento exige una evaluación detallada de la situación para no agravar el problema, comenzando por la apertura de salidas existentes como tapas de alcantarillas, rejillas de sumideros o compuertas. Las medidas de seguridad incluyen el uso de EPI adecuado, evaluar la vía de escape, balizar la zona de operación, valorar los riesgos de la apertura de compuertas y analizar la calidad del muro y la posibilidad de derrumbe al hacer boquetes.
 
-Para garantizar la seguridad durante esta operación, es fundamental que el personal utilice el equipo de protección individual (EPI) adecuado, se evalúe la vía de escape del agua para no agravar la situación, se delimite la zona de trabajo para evitar accidentes, y se valoren los riesgos inherentes a la manipulación de compuertas o la realización de boquetes en muros, considerando su calidad y el riesgo de derrumbe.
+**5.2. Achiques**
+El achique consiste en la extracción de agua de un área confinada mediante maquinaria. Las máquinas comúnmente utilizadas son electrobombas, turbobombas, motobombas, motobombas flotantes y equipos de bombeo de agua y lodos.
 
-## Achique de Agua
+| Máquina                   | Movimiento     | Emisión de gases tóxicos | Requiere alimentación exterior |
+| :------------------------ | :------------- | :----------------------- | :----------------------------- |
+| Electrobomba              | Electricidad   | No                       | Sí                             |
+| Turbobomba                | Fuerza del agua | No                       | Sí                             |
+| Motobomba                 | Motor de explosión | Sí                       | No                             |
+| Motobomba flotante        | Motor de explosión | Sí                       | Sí                             |
+| Equipo de bombeo de agua y lodos | Motor de combustión (diésel) | Sí                       | No                             |
+*Nota*: El equipo de bombeo de agua y lodos requiere personal cualificado.
 
-El **achique de agua** consiste en la extracción de líquido de un espacio contenido mediante el uso de maquinaria especializada. Existen varios tipos de bombas, cada una con características y aplicaciones específicas:
+**5.2.1. Achique de agua con electrobomba**
+La electrobomba emplea un rotor accionado por electricidad para aspirar e impulsar agua. Su principal ventaja es que puede usarse en espacios cerrados al no emitir gases tóxicos; sin embargo, requiere alimentación eléctrica externa (equipo electrógeno o instalación fija). El procedimiento implica medir el nivel del agua, instalar mangueras de expulsión, sumergir la bomba verticalmente con una cuerda (sin usar los cables eléctricos como soporte), conectar a la corriente, desconectar automáticamente al alcanzar el nivel máximo de aspiración, y finalmente, desmontar, limpiar y recoger el equipo. Las medidas de seguridad prohíben aspirar en espacios cerrados con gases explosivos o presencia eléctrica, operar en vacío, o usar con líquidos corrosivos/inflamables o agua salada, y la temperatura del agua no debe exceder los 40 °C.
 
-### Tipos de Bombas de Achique
+**5.2.2. Achique de agua con turbobomba**
+La turbobomba extrae agua mediante un rotor accionado por la fuerza del agua, que la impulsa al exterior. Es apta para espacios cerrados y puede aspirar a alturas superiores a 8 metros, pero necesita un camión bomba para su impulsión. El proceso incluye medir el nivel del agua, instalar mangueras de impulsión y expulsión, sumergir la bomba verticalmente, impulsarla con el camión bomba, desacelerar y desconectar la toma de fuerza al alcanzar el nivel máximo de trabajo, cerrar válvulas de paso, y accionar la válvula de aliviadero para evacuar agua y reducir presión. Tras la operación, se desmonta, limpia y recoge. Las precauciones de seguridad son similares a las de la electrobomba, enfatizando no aspirar en zonas con gases explosivos o presencia eléctrica, no trabajar en vacío, ni con líquidos corrosivos/inflamables, agua salada o aceites. En espacios cerrados, el motor debe estar al aire libre, y se deben evitar quemaduras por escape o silencioso, así como incendios por contacto con objetos inflamables.
 
-1.  **Electrobombas:**
-    *   **Funcionamiento:** Impulsadas por electricidad, emplean un rotor interno para aspirar e impulsar el agua.
-    *   **Ventajas:** Ideales para espacios cerrados, ya que no emiten gases tóxicos. Pueden aspirar desde alturas superiores a 8 metros.
-    *   **Inconvenientes:** Requieren una fuente de alimentación eléctrica externa, como un grupo electrógeno o una instalación fija.
-    *   **Procedimiento:** Incluye medir el nivel del agua, instalar mangueras de expulsión, sumergir la bomba verticalmente (nunca sujetándola por los cables eléctricos), conectarla a la corriente, desconectarla al alcanzar el nivel máximo de trabajo y, finalmente, desmontar, limpiar y almacenar el equipo.
-    *   **Consideraciones de seguridad:** La zona debe estar asegurada, y no se debe aspirar en atmósferas explosivas, con presencia eléctrica, en seco, o con líquidos corrosivos, inflamables, salados o con temperaturas superiores a 40°C.
+**5.2.3. Achique de agua con motobomba**
+La motobomba es una máquina autónoma con motor de explosión que acciona un rotor para aspirar e impulsar agua y lodos. Su principal ventaja es su independencia de fuentes externas y capacidad para aspirar agua salada, pero no puede usarse en espacios cerrados por emitir gases tóxicos (CO2). El procedimiento comienza midiendo el nivel del agua, posicionando la motobomba en una superficie firme y nivelada, asegurando buena ventilación (mínimo 1 metro de distancia a fachadas), revisando niveles de aceite y gasolina, instalando mangotes de aspiración y mangueras de salida, cebando con agua, arrancando, acelerando y aspirando. Al finalizar, se desmonta, limpia y recoge. Las consideraciones de seguridad incluyen asegurar la zona, evitar sitios con presencia eléctrica, no trabajar con líquidos corrosivos/inflamables, no bombear aceites, y en bombeos cerrados, ubicar el motor al aire libre, además de prevenir quemaduras por el silencioso/escape e incendios por contacto con materiales inflamables.
 
-2.  **Turbobombas:**
-    *   **Funcionamiento:** Impulsadas por la fuerza del agua proveniente de una bomba de camión, aspiran y expulsan agua.
-    *   **Ventajas:** Aptas para espacios cerrados al no generar gases tóxicos y pueden aspirar desde alturas superiores a 8 metros.
-    *   **Inconvenientes:** Dependen del camión de bomberos para su funcionamiento.
-    *   **Procedimiento:** Similar a las electrobombas, pero la impulsión de agua inicial se realiza desde el camión. Una vez finalizado el achique, se desacelera la bomba del camión, se desconecta la toma de fuerza y se cierra la llave de paso de la manguera de impulsión y retorno. Se acciona la válvula de aliviadero para evacuar el agua de la instalación y facilitar el desmontaje.
-    *   **Consideraciones de seguridad:** Análogas a las electrobombas, prohibiendo la aspiración en atmósferas explosivas, con presencia eléctrica, en seco, o con líquidos corrosivos, inflamables, salados o con temperaturas superiores a 40°C.
+**5.2.4. Achique de agua con motobomba flotante**
+La motobomba flotante es un equipo con motor de explosión que impulsa un rotor para la aspiración y expulsión directa de agua, sin mangotes de aspiración, gracias a un flotador que la mantiene en superficie. Ofrece la ventaja de ser independiente de otras máquinas y de poder aspirar agua salada, pero no es apta para espacios cerrados por la emisión de gases tóxicos (CO2). Su uso implica medir el nivel del agua, revisar niveles de aceite y gasolina, instalar mangueras de salida, amarrar la motobomba para evitar que se desplace, arrancarla, acelerar la aspiración y, al finalizar, desmontar, limpiar y recoger el material. Las medidas de seguridad son: asegurar la zona, no aspirar en presencia eléctrica, evitar líquidos corrosivos/inflamables y no bombear aceites.
 
-3.  **Motobombas:**
-    *   **Funcionamiento:** Operan con un motor de explosión, siendo máquinas autónomas.
-    *   **Ventajas:** No requieren otra máquina para funcionar, lo que les confiere independencia.
-    *   **Inconvenientes:** Generan gases tóxicos (CO2), impidiendo su uso en espacios cerrados.
-    *   **Procedimiento:** Se mide el nivel del agua, se coloca la motobomba en una superficie estable y nivelada, se asegura una buena ventilación (mínimo 1 metro de distancia de edificios), se revisan niveles de aceite y gasolina, se instalan mangueras de aspiración y salida, se ceba la bomba con agua y se arranca.
-    *   **Consideraciones de seguridad:** Es crucial asegurar la zona, evitar aspirar en presencia eléctrica o con líquidos corrosivos/inflamables/aceites. Se debe ser consciente de los riesgos de quemaduras por el escape caliente y el potencial de incendio si entra en contacto con materiales inflamables.
+**5.2.5. Achique de agua con equipo de bombeo de agua y lodos**
+Este sistema extrae agua y lodos de un área confinada mediante un motor diésel que acciona un rotor, aspirando e impulsando la mezcla al exterior con cebado automático y componentes lubricados en aceite, lo que permite su uso en condiciones extremas. Su ventaja principal es la alta capacidad de aspiración de agua y lodos. Como inconvenientes, no puede usarse en espacios cerrados (generación de gases tóxicos, CO2) y requiere una logística y personal especializados.
 
-4.  **Motobombas Flotantes:**
-    *   **Funcionamiento:** Son motobombas equipadas con un flotador que les permite mantenerse en la superficie del agua y aspirar directamente sin necesidad de mangueras de aspiración.
-    *   **Ventajas:** Independientes de otras máquinas, pueden aspirar agua salada y son de fácil manejo.
-    *   **Inconvenientes:** Producen gases tóxicos (CO2), por lo que no pueden usarse en espacios cerrados.
-    *   **Procedimiento:** Similar a las motobombas, se mide el nivel de agua, se revisan niveles de aceite y gasolina, se instalan mangueras de salida, se amarra la motobomba con una cuerda, se arranca y se acelera. Finalmente, se desmonta, limpia y almacena.
-    *   **Consideraciones de seguridad:** Requiere asegurar la zona, evitar presencia eléctrica o el bombeo de líquidos corrosivos, inflamables o aceites.
+**5.3. Construcción de diques**
+Los diques son muros artificiales erigidos para contener el agua y prevenir inundaciones en edificaciones. Su construcción requiere una superficie de apoyo estable y extrema precaución con maquinaria pesada para evitar atropellos. Si se necesita aumentar su altura, se diseñarán de forma piramidal o escalonada con relleno. Se pueden clasificar en tres tipos: de sacos terreros, de gaviones modulares y de sacos de escombro.
 
-5.  **Equipo de Bombeo de Agua y Lodos (diésel):**
-    *   **Funcionamiento:** Máquinas robustas con motor diésel, capaces de aspirar agua y lodos. Cuentan con cebado automático y sus componentes están bañados en aceite para trabajos extremos.
-    *   **Ventajas:** Alta capacidad para agua y lodos, gran rendimiento.
-    *   **Inconvenientes:** Producen gases tóxicos (CO2), no aptas para espacios cerrados, requieren logística y personal cualificado.
-    *   **Procedimiento:** Se verifican niveles de aceite y gasoil, se instalan mangueras de aspiración e impulsión (con bifurcación y mangueras adicionales), se comprueba la conexión, se arranca y se inicia la aspiración. Al finalizar, se desmonta, limpia y guarda.
-    *   **Consideraciones de seguridad:** Es imperativo asegurar la zona, prohibir el manejo por personal no cualificado, verificar el correcto funcionamiento antes de usar, no arrancar con averías, evitar presencia eléctrica, no trabajar con líquidos corrosivos/inflamables/aceites/agua salada.
+**5.3.1. Construcción de diques con sacos terreros**
+Los sacos se rellenan de tierra o arena y se organizan para formar un muro, lo que exige logística adicional. Los pasos previos incluyen preparar una superficie de asiento estable, acopiar materiales (tierra, sacos) y llenar los sacos, preferiblemente con arena fina por su mayor absorción. La disposición de los sacos puede ser "a soga", con el lado longitudinal dominante, para barreras piramidales, o "a tizón", con el lado transversal dominante, para muros simples. Para la construcción de un muro de diez metros lineales, se estima la necesidad de 500 sacos para una altura de 0,5 metros, y 900 sacos para la misma altura. También se puede optar por una colocación mixta de ambos modelos.
 
-## Construcción de Diques
+**5.3.2. Construcción de diques con gaviones modulares (Hesco bastión)**
+Consiste en edificar un muro artificial usando módulos de celdas de varillas metálicas inoxidables, recubiertas internamente con tela geotextil. El procedimiento incluye preparar la superficie de asiento, desplegar y dar forma a los módulos, rellenarlos con arena o tierra (usando una excavadora mixta) y protegerlos con rollos de plástico para asegurar la impermeabilidad. Estos diques son robustos, eficientes y rápidos de instalar con el equipo adecuado, aunque demandan una logística considerable y la colaboración de unidades externas como la UME.
 
-La **construcción de diques** implica la edificación de muros artificiales para contener el agua y proteger áreas específicas. Para su edificación, es crucial asegurar una superficie de apoyo estable, utilizar maquinaria pesada con precaución para evitar accidentes, y considerar la construcción piramidal o escalonada si se requiere mayor altura.
-
-Se distinguen tres métodos principales de construcción de diques:
-
-1.  **Diques de Sacos Terreros:**
-    *   **Material:** Sacos rellenos de tierra o arena fina, preferiblemente por su mayor capacidad de absorción.
-    *   **Métodos de colocación:**
-        *   **A soga:** Los sacos se disponen con su lado longitudinal predominante, formando una barrera piramidal.
-        *   **A tizón:** Los sacos se colocan con su lado transversal predominante, creando un muro simple.
-        *   **Mixto:** Combina ambas técnicas para optimizar la contención.
-    *   **Estimación de sacos:** Para un muro lineal de 10 metros, se requieren aproximadamente 500 sacos para una altura de 0.5m (a soga) o 900 sacos (a tizón).
-    *   **Procedimiento:** Preparar la superficie de asiento, acopiar el material y llenar los sacos (manual o con tolva), y disponerlos según el método elegido.
-
-2.  **Diques de Gaviones Modulares (Hesco Bastión):**
-    *   **Material:** Módulos de celdas de varillas metálicas inoxidables, revestidos con tela geotextil y rellenos de tierra o arena.
-    *   **Ventajas:** Gran solidez, alto rendimiento y rapidez de montaje. Impiden eficazmente el paso del agua.
-    *   **Inconvenientes:** Requieren una logística considerable y la colaboración de unidades especializadas como la UME.
-    *   **Procedimiento:** Preparar la superficie de asiento, desplegar y dar forma a los módulos, rellenarlos con arena o tierra (mediante excavadora), y protegerlos con rollos de plástico para asegurar la impermeabilidad.
-
-3.  **Diques de Big Bags o Sacos de Escombro:**
-    *   **Material:** Bolsas de gran tamaño para el transporte de escombros, rellenadas con tierra.
-    *   **Ventajas:** Ofrecen buen rendimiento y suelen ser accesibles a través de empresas de suministro de materiales de construcción.
-    *   **Inconvenientes:** Demandan una gran logística y la colaboración con otras unidades, ya que no son equipos estándar en parques de bomberos.
-    *   **Procedimiento:** Abrir la Big Bag, rellenarla con arena (con excavadora o manualmente), colocarla de forma piramidal o escalonada, y cubrir con plásticos para mejorar la impermeabilidad. Es fundamental verificar la estabilidad de la superficie de apoyo y operar con maquinaria pesada prestando atención a la seguridad para evitar atropellos o aplastamientos.
-
-En todas estas técnicas, la valoración previa de la situación, la planificación de la operación, el balizamiento de la zona de trabajo y la coordinación efectiva entre el personal interviniente y los medios disponibles son pilares fundamentales para garantizar la seguridad y la eficacia en la gestión de emergencias acuáticas y la contención de inundaciones.
+**5.3.3. Construcción de diques con Big Bags o sacos de escombro**
+Esta técnica implica la creación de un muro artificial con grandes bolsas (Big Bags) de transporte de escombros, llenas de tierra y dispuestas para contener el agua. La principal ventaja es la disponibilidad de estas bolsas en empresas de materiales de construcción y su buen rendimiento. Sin embargo, requieren una logística considerable y la colaboración de otras unidades, ya que los parques de bomberos no suelen disponer de ellas. El procedimiento incluye abrir la Big Bag, rellenarla de arena (con excavadora mixta o manualmente, lo que es más lento), usar una grúa o máquina con uñas para colocarlas, y disponerlas en forma piramidal o escalonada con relleno. Es fundamental colocar plásticos para impermeabilizar el muro y verificar la estabilidad de la superficie de apoyo. Al operar maquinaria pesada, se deben extremar las precauciones para evitar atropellos y aplastamientos.

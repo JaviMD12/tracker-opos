@@ -1,94 +1,129 @@
-# Fundamentos y Medidas de Seguridad en Riesgo Eléctrico
+## Temario de Oposiciones de Bomberos y Emergencias: Riesgos Tecnológicos y Asistencias Técnicas
 
-El estudio del riesgo eléctrico y las intervenciones asociadas en entornos de emergencias requieren una comprensión profunda de los principios fundamentales de la electricidad, la interacción con el cuerpo humano y la normativa aplicable, así como las tácticas de seguridad esenciales.
+### Parte 7: NRBQ - Técnicas de Intervención
 
-## Conceptos Fundamentales de la Electricidad
+#### 3. Descontaminación
 
-La electricidad se basa en la **materia**, definida como todo aquello que posee masa y ocupa un volumen. La unidad básica de la materia es el **átomo**, compuesto por un **núcleo** central que contiene **protones** (partículas con carga positiva y masa) y **neutrones** (partículas sin carga eléctrica y masa), rodeado por **electrones** (partículas con carga negativa y masa insignificante en comparación). El número de protones define el **número atómico (Z)** del elemento, y la suma de protones y neutrones determina el **número másico (A)**. Los átomos de un mismo elemento con diferente número de neutrones se denominan **isótopos**.
+La descontaminación, según la definición de la NFPA (Asociación Nacional de Protección contra Incendios), es un proceso físico o químico cuyo objetivo es reducir o impedir la propagación de contaminantes en personas y equipos. Es crucial minimizar el tiempo de contacto directo o indirecto con el contaminante para reducir la probabilidad de exposición, especialmente si se superan los tiempos de resistencia del traje protector.
 
-La **carga eléctrica (Q)**, medida en culombios (C), es una propiedad fundamental de las partículas. La presencia de carga genera una **fuerza electromagnética**, haciendo que cargas opuestas se atraigan y cargas iguales se repelan. La **electricidad electrostática** o estática surge de la separación de cargas por contacto o fricción entre materiales, creando una diferencia de potencial que puede provocar descargas.
+A continuación, se detallan los tipos de descontaminación y sus características:
 
-El **flujo de carga** se manifiesta como **corriente eléctrica (I)**, que es la cantidad de carga (Q) que circula por un conductor en un tiempo (t), medida en amperios (A). La **Ley de Ohm** establece que la intensidad de la corriente es directamente proporcional a la **diferencia de potencial (V)**, o tensión, e inversamente proporcional a la **resistencia eléctrica (R)**, que se define como la oposición de un material al paso de la corriente. La tensión se mide en voltios (V) y la resistencia en ohmios (Ω).
+| Tipo de Contaminación | Peligrosidad | Ejemplo                          | Descontaminación |
+| :-------------------- | :----------- | :------------------------------- | :--------------- |
+| Directa               | + Severa     | Contacto directo con ácido       | + Tiempo         |
+| Indirecta             | - Concentración | Camilla de rescate contaminada | - Tiempo         |
 
-Cuando una corriente atraviesa un material con resistencia, se produce el **efecto Joule**, que disipa energía en forma de calor. Si se interrumpe un circuito bajo carga, puede generarse un **arco voltaico** debido a la disipación rápida de energía en el aire. La corriente se mide con un **amperímetro** (en serie en el circuito) y la tensión con un **voltímetro** (en paralelo).
+En incidentes con mercancías peligrosas, la minuciosidad en el lavado es primordial para controlar la fuente de contaminación y el perímetro afectado. Sin embargo, si un gran número de personas está involucrado, la descontaminación masiva prioriza la rapidez sobre la minuciosidad, con el objetivo de reducir zonas o estaciones de descontaminación. Es fundamental no retrasar el traslado de víctimas graves por la aplicación de procedimientos de descontaminación; se debe optimizar el equilibrio entre velocidad y seguridad.
 
-### Clasificación de Materiales Eléctricos
+Los objetivos fundamentales de la descontaminación incluyen:
+*   Prevenir que las personas contaminadas actúen como fuentes secundarias de contaminación.
+*   Evitar la dispersión del contaminante desde la zona caliente (de mayor riesgo y exposición) hacia la zona templada (de apoyo) y la zona fría (de descanso).
+*   Asegurar que el personal interviniente no se contamine al retirar el traje de protección química.
+*   Reducir o eliminar la contaminación de las víctimas para permitir su asistencia médica.
+*   Garantizar que los equipos de protección individual (EPI) y las herramientas no contaminadas puedan reutilizarse o, si no es posible, desecharlos adecuadamente.
 
-Los materiales se clasifican según su conductividad eléctrica:
-*   **Superconductores**: Conducen electricidad sin resistencia en condiciones específicas, como bajas temperaturas.
-*   **Conductores**: Transmiten fácilmente la electricidad. Los metales como el cobre (para cables) y el aluminio (para líneas de alta tensión, con un 60% de la conductividad del cobre, pero más ligero) son ejemplos comunes. El oro se utiliza en aplicaciones especiales.
-*   **Semiconductores**: Su conductividad puede controlarse, siendo la base de la electrónica (ej. silicio).
-*   **Dieléctricos (Aislantes)**: No conducen electricidad. Se utilizan para prevenir cortocircuitos y aislar (ej. vidrio, cerámica, madera seca). El aire y el agua pura son aislantes, pero pueden convertirse en conductores bajo ciertas condiciones (ej. agua salina, alta frecuencia o potencial para el aire).
+Las prioridades en el cumplimiento de estos objetivos son:
+1.  Personas rescatadas o evacuadas potencialmente contaminadas.
+2.  Personal que interviene en la zona caliente.
+3.  Personal encargado de las labores de descontaminación.
+4.  Posible contaminación de los equipos utilizados.
 
-### Tipos de Corriente y Circuitos
+La eficacia de la descontaminación depende del método aplicado, los equipos disponibles, la minuciosidad del proceso y la correcta ejecución de los procedimientos. La forma más efectiva de prevenir la contaminación es mediante el uso de EPIs adecuados, un manejo correcto de herramientas y buenas prácticas operativas, como agacharse en lugar de arrodillarse, planificar los movimientos y minimizar el tiempo de exposición en focos de fuga.
 
-Existen dos tipos principales de corriente:
-*   **Corriente Continua (CC)**: Flujo de carga en una dirección constante. Utilizada en electrónica.
-*   **Corriente Alterna (CA)**: Flujo de carga cuya magnitud y dirección varían cíclicamente, generalmente de forma sinusoidal para una transmisión eficiente. En España, la red utiliza CA trifásica a 50 Hz, con tensiones de 220/230V (fase-neutro) y 380/400V (fase-fase). La CA es más fácil de generar y transformar (subir o bajar la tensión) que la CC.
+##### 3.1. Equipos y materiales de descontaminación
 
-Los circuitos pueden ser:
-*   **Circuitos en Serie**: Los receptores se conectan secuencialmente, compartiendo la misma corriente, mientras que la tensión se divide entre ellos. La rotura de un elemento interrumpe todo el circuito.
-*   **Circuitos en Paralelo**: Los receptores se conectan de forma independiente, recibiendo la misma tensión, mientras que la corriente se divide. Si un elemento falla, el resto del circuito puede seguir funcionando, aunque la corriente en los elementos restantes puede aumentar.
+Los procedimientos y técnicas de descontaminación varían en función del tipo de contaminante, el grado de penetración y la forma de contaminación (por ejemplo, contacto con gases tóxicos, rociado de líquidos corrosivos, o tiempo de exposición a sustancias derramadas). En muchos casos, es más importante contar con equipos y materiales improvisados o "de fortuna" que con equipos altamente sofisticados.
 
-## Redes Eléctricas y Sus Componentes
+A continuación, se presenta una tabla con equipos y materiales de descontaminación comunes:
 
-Las instalaciones eléctricas se dividen en **alta tensión (AT)**, con tensiones nominales superiores a 1000V en CA o 1500V en CC, y **baja tensión (BT)**, con valores inferiores.
+| Herramienta              | Finalidad                                                                                                                                                                                                                                                         |
+| :----------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Cepillos de mango largo  | Cepillado y retirada de contaminantes.                                                                                                                                                                                                                    |
+| Pulverizador de jardín   | Aplicación de líquidos descontaminantes sobre trajes o equipos.                                                                                                                                                                                           |
+| Bolsas de basura grandes | Almacenamiento de ropa y equipos contaminados que no pueden reutilizarse "in situ".                                                                                                                                                                       |
+| Jabón                    | Limpieza general.                                                                                                                                                                                                                                           |
+| Gamuzas o paños absorbentes | Absorción de líquidos derales en trajes o equipos.                                                                                                                                                                                                          |
+| Bidones                  | Contención de mercancías peligrosas y material de absorción o descontaminación contaminado.                                                                                                                                                                   |
+| Ventilador               | Descontaminación seca de productos volátiles si la ventilación natural no es viable.                                                                                                                                                                        |
+| Bancos o sillas          | Proporcionar asientos al personal interviniente entre las estaciones de descontaminación.                                                                                                                                                                   |
+| Cubos                    | Para introducir guantes y botas que se descontaminarán en mejores condiciones.                                                                                                                                                                              |
+| Guantes y trajes         | Protección del equipo de descontaminación.                                                                                                                                                                                                                  |
+| Ducha                    | Permite la descontaminación húmeda. Pueden ser específicas o con mangueras y lanzas.                                                                                                                                                                        |
+| Lona de plástico         | Delimitación de zonas de descontaminación, prevención de caída de contaminantes al suelo y facilitación de su retirada.                                                                                                                                     |
+| Piscinas hinchables      | Contención del agua utilizada en la descontaminación.                                                                                                                                                                                                       |
+| Soluciones o aplicaciones | Descontaminación química o biológica de trajes y equipos.                                                                                                                                                                                                   |
+| Señalización y balizas   | Mantener las zonas delimitadas correctamente y los riesgos perfectamente identificados.                                                                                                                                                                       |
 
-### Plantas de Generación y Líneas de Transmisión
+##### 3.2. Métodos de descontaminación
 
-Las **plantas de generación** transforman diversas fuentes de energía (renovables o no) en electricidad, produciendo CA trifásica a unos 20kV. Mediante **subestaciones elevadoras**, esta tensión se aumenta (ej. de 66kV a 380kV) para su transmisión eficiente a largas distancias a través de **líneas de alta tensión**. Estas líneas utilizan torres con múltiples conductores y aisladores. Las líneas de AT pueden tener **reenganches automáticos**, intentando restablecer el suministro varias veces en un corto periodo tras una interrupción.
+En función de la sustancia contaminante y el tiempo disponible para la descontaminación, se distinguen varios métodos:
 
-### Centros de Transformación (CT)
+###### 3.2.1. Métodos físicos
 
-Los **Centros de Transformación** reducen la tensión de AT a BT (ej. de 11/20kV a 380V/220V), distribuyéndola a los consumidores. Se clasifican por:
-*   **Ubicación Física**: **Intemperie** (postes), **prefabricados de hormigón** (polígonos), **subterráneos** (urbanizaciones) o en **edificios de obra civil** (locales comerciales).
-*   **Ubicación en la Red**: **De punta** (al final de una línea), **de paso** (en medio de una línea) o **en anillo** (alimentados por ambos extremos, común en ciudades para mayor fiabilidad).
-*   **Propiedad**: **De cliente o abonado** (grandes consumidores) o **de compañía o distribución** (suministran a varios clientes).
-*   **Ferroviarios**: Adaptados a trenes, tranvías o metros, con tensiones de 3kV (CC) o 20-25kV (CA para alta velocidad), alimentados por **catenaria** (cables suspendidos sobre las vías).
+Si la eliminación del contaminante se realiza con métodos físicos, este conservará sus propiedades y riesgos originales.
 
-### Instalaciones de Enlace y Grado de Electrificación
+*   **a) Cepillado:** Consiste en eliminar el producto cepillando el traje del personal interviniente. Es importante prestar atención a zonas de difícil acceso como axilas o entrepierna. Esta técnica se complementa con una línea de agua para facilitar la limpieza.
+*   **b) Absorción:** Se utiliza para eliminar productos adheridos a los trajes o como complemento en otros procesos.
+*   **c) Lavado:** El agua es un disolvente eficaz y está ampliamente disponible en los vehículos de bomberos, lo que lo convierte en el método más común para descontaminación. Es muy efectivo, excepto con materiales que reaccionan con el agua.
+*   **d) Venteo:** Este método implica exponer el contaminante al aire libre o a una ligera corriente de aire para eliminar los productos contaminantes. Es adecuado para sustancias poco solubles en agua, muy volátiles (debido a su presión de vapor) o de baja densidad en relación con el aire.
+*   **e) Aspiración:** Busca el mismo efecto que la absorción (recoger y controlar el contaminante). Se aplica a contaminantes sólidos y facilita su posterior tratamiento.
 
-Las **instalaciones de enlace** conectan la red de distribución con las instalaciones interiores del usuario, incluyendo:
-*   **Acometida**: Tramo desde la red de distribución hasta la **Caja General de Protección (CGP)**. Es responsabilidad de la compañía eléctrica.
-*   **CGP**: Aloja los elementos de protección (fusibles) de la línea repartidora. Marca el inicio de la propiedad del usuario.
-*   **Línea General de Alimentación (LGA)**: Enlaza la CGP con la centralización de contadores.
-*   **Centralización de Contadores (CC)**: Agrupa los contadores de varias viviendas, con un interruptor de corte general.
-*   **Derivación Individual (DI)**: Va desde la centralización de contadores hasta el **Cuadro de Mando y Protección (CMP)** de cada vivienda o local.
-*   **CMP**: Incluye el **Interruptor de Control de Potencia (ICP)** (limita el consumo), el **Interruptor General Automático (IGA)** (protege contra sobrecargas y cortocircuitos), el **Interruptor Diferencial (ID)** (protege contra derivaciones a tierra) y los **Pequeños Interruptores Automáticos (PIAs)** (protegen circuitos específicos).
-*   **Red de Tierra**: Esencial para el funcionamiento de las protecciones diferenciales, conectando el edificio al terreno mediante picas o mallas.
+###### 3.2.2. Métodos químicos
 
-El **grado de electrificación** de una vivienda se refiere a la potencia eléctrica que debe soportar su instalación. Se calcula sumando la potencia de los receptores con una reducción del 40%. Se distingue entre:
-*   **Electrificación Básica**: ≥ 5750W a 230V, con 5 circuitos independientes mínimos (iluminación, tomas generales, horno/cocina, lavadora/lavavajillas/termo, baño/cocina auxiliares).
-*   **Electrificación Elevada**: ≥ 9200W a 230V, con más circuitos (C6-C12 para calefacción, aire acondicionado, secadora, domótica, etc.).
-*   El **telurómetro** es el aparato para medir la resistividad del terreno.
+La descontaminación mediante métodos químicos utiliza productos que neutralizan o eliminan los contaminantes biológicos o químicos, con el objetivo de reducir su toxicidad o corrosividad.
 
-## Medidas de Seguridad y Efectos de la Electricidad
+*   **a) Desinfección:** Proceso químico que, mediante desinfectantes (como compuestos fenólicos, cloro u ozono), reduce los agentes patógenos (bacterias o virus) a un nivel seguro para la salud.
 
-La seguridad eléctrica es primordial, especialmente para bomberos. Las medidas se dividen en:
-*   **Protección contra Contacto Eléctrico Directo**: Evitar el contacto directo con partes bajo tensión. Implica separar (elevar, enterrar) o aislar (barreras, materiales dieléctricos) las partes activas.
-*   **Protección contra Contacto Eléctrico Indirecto**: Evitar el contacto con elementos que accidentalmente se energizan. Se usan **medidas de Clase A** (que impiden el paso de corriente por el cuerpo, como baja tensión de seguridad, aislamiento de masas, equipotencialidad) y **medidas de Clase B** (que desconectan automáticamente el suministro en caso de defecto, como puesta a tierra con diferenciales).
+##### 3.3. Procedimientos de descontaminación
 
-Los **efectos de la electricidad en el organismo** dependen de la intensidad, tiempo de exposición, trayectoria, frecuencia, tensión, humedad de la piel y estado fisiológico.
-*   **Intensidad**: El **umbral de seguridad** se establece en 30mA para corriente alterna.
-*   **Tensión de Seguridad (UL)**: 50V AC en locales secos, 25V AC en húmedos, 12V AC en mojados (exteriores).
-*   **Frecuencia y Forma de Onda**: La CA de 50/60 Hz es más peligrosa que la CC. Las corrientes impulsivas pueden generar fibrilación ventricular.
-*   **Trayectoria**: Corrientes que atraviesan órganos vitales (corazón, cerebro, pulmones) son extremadamente peligrosas (ej. mano a mano, cabeza a pies).
+La descontaminación debe ser efectiva para cumplir los objetivos establecidos. Su eficacia depende del método, los equipos, la minuciosidad de la aplicación y la exhaustividad del procedimiento. Requiere personal capacitado, pero las condiciones ideales no siempre están disponibles.
 
-Las lesiones por electricidad incluyen:
-*   **Sacudida eléctrica**: Sin pérdida de conocimiento.
-*   **Tetanización muscular**: Contracción muscular involuntaria que impide soltar el conductor (a partir de 10mA en CA).
-*   **Paro respiratorio/Asfixia**: Por afectación del sistema nervioso o diafragma.
-*   **Fibrilación ventricular**: Alteración del ritmo cardíaco, mortal si no se revierte rápidamente.
-*   **Quemaduras**: Por energía calorífica (efecto Joule).
-*   **Lesiones traumáticas**: Fracturas, contusiones por contracciones musculares o proyección.
-*   **Muerte Aparente**: Estado con signos vitales ausentes pero reversibles con reanimación.
+###### 3.3.1. Descontaminación masiva
 
-La **normativa** principal en España es el **Reglamento Electrotécnico de Baja Tensión (REBT)** y el **Código Técnico de la Edificación (CTE)**, que regulan las instalaciones eléctricas y sus requisitos de seguridad, inspección y mantenimiento, así como las distancias de seguridad. A nivel internacional, normas como la **UNE-EN 13501-1** y **UNE-EN 13501-2** clasifican los productos de construcción según su reacción y resistencia al fuego. Las **reglas de oro** para trabajos eléctricos son: abrir con corte visible, enclavar aparatos abiertos, comprobar ausencia de tensión, poner en corto y a tierra, y acotar y señalizar la zona de trabajo.
+Cuando un gran número de personas o víctimas ha estado en contacto con nubes tóxicas o productos contaminantes, la rapidez en el lavado tiene preferencia sobre la minuciosidad.
 
-Los **materiales de protección personal** como pértigas aislantes, detectores de tensión, guantes dieléctricos y alfombrillas aislantes son cruciales en intervenciones con riesgo eléctrico.
+Para que la descontaminación masiva sea eficaz y elimine la mayor cantidad de sustancia peligrosa rápidamente, se considera que la retirada de la ropa elimina el 80% del contaminante.
 
-## Valoración e Intervención en Incidentes Eléctricos
+Existen sistemas comerciales integrados para la descontaminación masiva de personas (contenedores con múltiples duchas). Si no se dispone de estos medios, se puede realizar aplicando agua pulverizada desde la parte superior de dos camiones o bombas enfrentadas, arrastrando el contaminante hacia el suelo.
 
-En una intervención con riesgo eléctrico, el mando debe realizar una valoración continua, que incluye la **valoración del incidente** (tipo de tensión, ubicación), el **corte del suministro eléctrico** (solicitando a la compañía o actuando directamente si es posible, retirando fusibles o accionando interruptores), el **establecimiento de distancias de seguridad** (hasta 5m para AT >66kV, 3m para AT <66kV, 0.5m para BT con herramientas manuales, 1m para BT con herramientas mecánicas) y la **zonificación/balizamiento**.
+Además, deben tenerse en cuenta las siguientes consideraciones:
+*   Priorizar la descontaminación de personas, equipos y el medio ambiente.
+*   Utilizar diques de contención para el agua de lavado.
+*   Proteger al equipo de descontaminación para evitar su propia contaminación.
 
-En un **incendio en AT**, se controla la propagación con extintores de polvo, CO2 o agua pulverizada (a distancia), y se extingue una vez cortado el suministro. En un **incendio en BT**, se corta el suministro (CGP, contadores), se ventila y se extingue. Para **rescates en máquinas en contacto con AT**, se asegura la calma del conductor, se solicita el corte de suministro y se indica al conductor que se aleje saltando. En **rescates en líneas subterráneas de AT**, se corta la tensión y se espera confirmación antes de proceder. La **valoración dinámica** de la intervención es esencial para adaptar el plan de acción a la evolución del siniestro, reevaluando continuamente los recursos y las soluciones aplicadas para asegurar la eficacia y la seguridad.
+###### 3.3.2. Descontaminación general
+
+Es esencial aislar la zona del accidente desde el inicio de la emergencia. Para ello, se establece una zonificación en tres áreas: caliente, templada y fría, todas ellas claramente señalizadas.
+
+Cuando se prevé la contaminación de intervinientes o víctimas, es necesario activar un corredor de descontaminación, ubicado en la zona templada. Este corredor confina las actividades de descontaminación en estaciones sucesivas y debe estar disponible para su uso tan pronto como el primer grupo de intervención entre en contacto con la sustancia peligrosa. Es fundamental que la entrada al corredor esté controlada para supervisar el estado y nivel de protección del personal.
+
+El mando encargado de la planificación de la descontaminación debe considerar:
+*   **Ubicación:** Determinar el lugar óptimo para la instalación del corredor.
+*   **Métodos de descontaminación:** Seleccionar las soluciones, equipos humanos y materiales adecuados.
+*   **Control de las aguas contaminadas:** Gestión de efluentes.
+*   **Asistencia médica:** Previsión de personal sanitario.
+*   **Entrega y reposición:** Suministro de ropa y equipo contaminado.
+
+Es importante analizar el pH del agua utilizada para la descontaminación. Si el pH no se encuentra en un rango de 5 a 9, se debe informar al organismo competente para su tratamiento.
+
+##### 3.4. Etapas o dimensión de la descontaminación
+
+Para determinar la dimensión del corredor de descontaminación, se evalúa el contaminante y los medios materiales y humanos disponibles.
+
+Como mínimo, la descontaminación se realizará en una estación de lavado que incluya una ducha y una piscina hinchable. Si los medios son insuficientes, se puede improvisar un cubículo con mangotes (mangueras de gran diámetro de camiones de bomberos) y una lona para contener el agua, utilizando una lanza como ducha.
+
+###### 3.4.1. Primera estación: Ducha extensa
+
+Antes de ingresar a la primera balsa, las botas y guantes deben introducirse en cubetos para desprender la mayor parte del contaminante. Una vez hecho esto, se puede acceder a la "piscina".
+
+En esta estación, se proporciona una ducha con abundante agua, aplicada desde la cabeza hacia abajo para arrastrar el contaminante de la superficie del equipo de protección y evitar salpicaduras. Si el contaminante es corrosivo, la dilución es particularmente efectiva.
+
+El responsable de la descontaminación debe establecer las pautas de movimiento del "contaminado" para maximizar la efectividad del proceso. Una vez que la ducha ha cumplido su función, la persona que se está descontaminando levanta un pie hacia atrás para cepillar la bota antes de pasar a la siguiente estación, repitiendo el proceso con el otro pie.
+
+###### 3.4.2. Segunda estación: Descontaminación con soluciones
+
+En esta fase, el cepillado es especialmente relevante. Se utiliza una solución descontaminante; si no se dispone de una específica, se puede emplear detergente con agua, prestando atención a posibles reacciones adversas. En casos de contaminación por contacto (como el Síndrome de Diógenes o por causas bacteriológicas), se puede utilizar un desinfectante tipo Zorkil, disponible en los parques de bomberos.
+
+###### 3.4.3. Tercera estación: Aclarado
+
+Se debe realizar un aclarado exhaustivo para eliminar la solución limpiadora y cualquier resto de contaminante. Para verificar la ausencia de producto perjudicial, se utiliza un dosímetro u otro equipo de detección para medir la contaminación radiactiva, el pH u otros parámetros, según el tipo de intervención.

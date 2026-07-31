@@ -1,92 +1,154 @@
-# Componentes y Sistemas de Seguridad de los Vehículos en Accidentes de Tráfico
+## Módulo: Rescate y Salvamento – Temario de Oposiciones de Bomberos y Emergencias
 
-El rescate en accidentes de tráfico requiere un conocimiento exhaustivo de la estructura y los sistemas de seguridad de los vehículos modernos. Estos conocimientos son fundamentales para que los bomberos puedan realizar intervenciones rápidas, seguras y eficientes, minimizando los riesgos tanto para las víctimas como para el personal de rescate. La evolución constante de la tecnología automotriz exige una adaptación continua de las técnicas y materiales de intervención.
+### Parte 5: Rescate en Accidentes de Tráfico
 
-## Diseño Estructural de la Carrocería
+#### Capítulo 1: Caracterización
 
-Las carrocerías de los vehículos actuales se clasifican principalmente en **autoportantes** o **monocasco**, diferenciándose significativamente de los antiguos chasis independientes.
+##### 2. Tipos de Vehículos (Continuación)
 
-La **carrocería autoportante** se caracteriza por que sus propiedades y dimensiones están influenciadas por la gama del vehículo, su habitabilidad, la resistencia a la deformación, la rigidez torsional y los sistemas de unión. Este diseño está concebido para soportar tanto esfuerzos estáticos, derivados del peso de los ocupantes, los componentes mecánicos y la carga del vehículo, como esfuerzos dinámicos, que surgen durante la marcha (curvas, aceleraciones y frenazos). Una de sus principales ventajas es la facilidad de reparación de las piezas más expuestas a golpes. Se compone de elementos estructurales, ubicados internamente para soportar fuerzas y cargas, y piezas cosméticas o exteriores, cuya función es dar forma y aerodinámica al vehículo. Comparada con la carrocería de chasis independiente, la autoportante ofrece mayor rigidez con el mismo peso, menor peso para idénticas prestaciones, mayor habitabilidad y seguridad en caso de accidente, menores costes de fabricación y mejores propiedades dinámicas. No obstante, presenta el inconveniente de un mayor ruido de transmisión y un deterioro más temprano por corrosión.
+###### 2.1.1. Tipos de Carrocerías (Continuación)
 
-Un caso particular es la **carrocería monocasco**, que es esencialmente una variante de la autoportante donde la mayoría de los elementos (a excepción de puertas y capó) están íntimamente unidos. Esta configuración proporciona una estructura muy rígida y se asocia predominantemente a vehículos deportivos o de competición. En la práctica, los términos "monocasco" y "autoportante" a menudo se usan indistintamente para referirse a estructuras donde chasis y carrocería forman una única unidad.
+**b) Carrocería Autoportante**
 
-La **célula de seguridad o habitáculo indeformable** es una zona crucial de la carrocería autoportante, diseñada con criterios de rigidez y estabilidad para proteger la vida de los ocupantes, manteniendo un espacio de supervivencia relativamente estable incluso bajo elevadas tensiones. Sus componentes clave incluyen:
-*   La **chapa del salpicadero**, que separa el compartimento del motor del habitáculo y, en caso de colisión frontal, impide la entrada de elementos mecánicos. Contiene numerosos orificios para cableado, ventilación y pedales, y se une al suelo, al túnel central y a los pilares delanteros, aumentando la rigidez torsional en impactos laterales.
-*   El **túnel central**, cuya longitud varía según el tipo de transmisión del vehículo, actúa como la espina dorsal del habitáculo, reforzado transversalmente para aumentar la rigidez y resistencia, especialmente en los anclajes de los cinturones de seguridad y los asientos.
-*   El **suelo del habitáculo**, el elemento más rígido de la carrocería, soporta importantes esfuerzos de flexión. Se divide por el túnel central y se complementa con los anclajes de los asientos y una traviesa central entre los pilares.
-*   Los **estribos bajo las puertas** se extienden longitudinalmente a ambos lados del suelo, fabricados con piezas de diferentes espesores y, en ocasiones, con aceros especiales para alta resistencia. Se anclan a los pilares delanteros y a las aletas traseras, siendo vitales para la protección en colisiones laterales.
-*   Las **puertas**, debido a su amplitud, son las zonas más frágiles, pero están diseñadas para ajustarse perfectamente con los pilares, estribos y montantes de techo, reduciendo los daños. Sus bisagras, resbalones y cerraduras están reforzadas, y pueden incluir barras de protección laterales internas.
-*   El **techo**, generalmente plano y de gran superficie, incorpora elementos vidriados (techos solares) y se refuerza con traviesas y cerchas centrales, compensando su inherente debilidad estructural.
+La carrocería autoportante, predominante en los automóviles actuales, se compone de un elevado número de piezas unidas mediante soldadura eléctrica por puntos y al arco. Algunos vehículos pueden presentar aletas delanteras, frentes o aletas traseras atornilladas.
 
-## Absorción de Energía en la Parte Frontal
+*   **Características y dimensiones:** Se definen por la gama del vehículo, su habitabilidad, resistencia al esfuerzo, rigidez y capacidad de deformación, así como los sistemas de unión.
+*   **Resistencia a esfuerzos:**
+    *   **Estáticos:** Resiste el peso de los ocupantes, los componentes mecánicos, la carga del vehículo y la propia carrocería.
+    *   **Dinámicos:** Soporta las torsiones y deformaciones que ocurren durante la marcha (curvas, aceleraciones, frenadas).
+*   **Facilidad de reparación:** Este diseño busca facilitar la reparación, permitiendo el desmontaje de piezas con mayor incidencia de golpes, como aletas delanteras y zonas frontales/traseras.
+*   **Composición:** La carrocería se divide en dos grandes grupos de piezas según su función:
+    *   **Piezas estructurales:** Ubicadas generalmente en el interior, soportan los esfuerzos y cargas.
+    *   **Piezas cosméticas o exteriores:** Conforman la carrocería, influyendo en la estética y aerodinámica.
+*   **Ventajas frente a la carrocería con chasis independiente:**
+    *   Mayor rigidez con el mismo peso.
+    *   Menor peso para prestaciones equivalentes.
+    *   Mayor habitabilidad.
+    *   Mayor seguridad en caso de accidente.
+    *   Menores costes de fabricación.
+    *   Mejores propiedades dinámicas.
+*   **Inconvenientes frente a la carrocería con chasis independiente:**
+    *   Incremento del ruido de la transmisión.
+    *   Deterioro por corrosión más temprano.
 
-La **parte frontal** del vehículo es la principal zona de disipación de energía en una colisión, canalizando las deformaciones hasta 50-60 cm para proteger el habitáculo. Para lograrlo, los fabricantes aumentan la extensión de los elementos frontales (largueros más largos, mayor hueco motor), varían la geometría y utilizan chapas más resistentes.
+**c) Carrocería Monocasco**
 
-Componentes específicos de esta zona incluyen:
-*   **Largueros delanteros**: piezas cruciales para disipar la energía en impactos frontales, a menudo con forma de "U" o "C" y secciones huecas que se deforman controladamente.
-*   **Subchasis o traviesa delantera**: sujeta los conjuntos mecánicos, o se ancla directamente a los largueros, reforzando la sección frontal y aumentando la rigidez.
-*   **Pases de rueda**: compuestos por varias chapas con elementos fusibles que absorben esfuerzos directos y acogen las torretas de suspensión, lo que les confiere robustez.
-*   **Aletas delanteras**: fabricadas en acero, aluminio o plásticos, contribuyen a reducir la deformación y los daños indirectos.
+Es, en esencia, una carrocería autoportante con un número mínimo de elementos desmontables (básicamente puertas y capó). Su estructura es muy rígida debido a la unión íntima de todos sus componentes. Este tipo de carrocería se utiliza casi exclusivamente en vehículos deportivos o de competición.
 
-Un desarrollo notable es el **sistema Procon-ten**, basado en la deformación programada de los largueros. Este sistema actúa de tres maneras simultáneas en pocas centésimas de segundo durante un choque frontal: el motor se desplaza hacia atrás y abajo para alejarse del habitáculo, la columna de dirección se empotra en el salpicadero alejándose del conductor, y los cinturones de seguridad se tensan automáticamente para retener a los ocupantes.
+**2.1.2. Partes de la Carrocería Autoportante**
 
-## Materiales de Fabricación y Ensamblaje
+En vehículos con carrocería autoportante, se distinguen tres zonas con cometido y comportamiento diferenciado ante un impacto:
 
-La constante búsqueda de ligereza y resistencia en la fabricación de vehículos ha llevado a la incorporación de **nuevos materiales** como aceros especiales (boro, martensita, Dual Phase, TRIP) que son más ligeros y resistentes. Se emplea una gran variedad de materiales, incluyendo aceros blandos, de alta resistencia, ultrarresistentes (Usibor), aluminio, plásticos y fundición de magnesio; los vehículos de alta gama incluso combinan estos materiales con fibra de carbono. La chapa, principal materia prima, es tratada con procesos anticorrosión y antisonoros (parafinas, breas, ceras, masillas), siendo estos materiales altamente combustibles. Los grosores varían de 0,4-0,8 mm en zonas normales a 0,8-1,5 mm en zonas reforzadas, lo cual no representa una resistencia significativa para los equipos de corte habituales de los bomberos.
+*   **La célula de seguridad o habitáculo indeformable:**
+    *   **Función:** Protege la vida de los ocupantes, manteniendo un espacio de supervivencia relativamente estable bajo esfuerzos elevados.
+    *   **Componentes principales:** Chapa del salpicadero, túnel central, suelo del habitáculo, estribos bajo puertas, puertas, pilares y techo.
+    *   **Anillos transversales:** La estructura de seguridad del habitáculo se compone de anillos de refuerzo y sujeción al suelo y techo. Son tres: "A" (delantero), "B" (medio) y "C" (posterior), a veces con un "D" adicional.
+    *   **Pilares:** Soportan cargas longitudinales y transversales, con refuerzos soldados.
+    *   **Anillos longitudinales:** Son dos, formados por los pilares "A", "C" y los largueros inferior y superior de cada lateral.
+*   **Las dos secciones extremas (frontal y posterior):** Diseñadas como estructuras deformables programadas para absorber la mayor parte de la energía de un impacto y distribuirla por toda la superficie del vehículo.
 
-Las **técnicas de ensamblaje** han evolucionado desde el remachado y la soldadura tradicional hasta la soldadura por puntos de resistencia, el arco continuo bajo gas protector, la soldadura amarilla (dura) y, más recientemente, la soldadura láser y láser híbrida (combinando láser y MIG), e incluso el láser-Brazing. Estas técnicas refuerzan las uniones y la elasticidad de los elementos, mientras que las piezas fijas (puertas, capós, aletas, frentes) suelen unirse con atornillados.
+###### 2.1.3. Carrocería con Chasis Independiente
 
-## Sistemas de Seguridad Activa
+En este tipo de carrocerías, la célula de seguridad y las zonas deformables se diseñan considerando la prolongación del chasis a lo largo de todo el vehículo.
 
-Los **sistemas de seguridad activa** buscan prevenir el accidente. Aunque generalmente se desactivan tras el impacto, algunos pueden representar riesgos adicionales durante la intervención.
+###### 2.2. Vehículos Pesados Destinados al Transporte de Pasajeros
 
-En relación con los **neumáticos**, su diseño determina la adherencia y fricción con el pavimento. Se clasifican en `tubetype` (con cámara, para todoterrenos, agrícolas, camiones) y `tubeless` (sin cámara, más comunes), además de `semi-neumáticos` (solo goma, para vehículos pequeños). Para mejorar la adherencia o reducir el centro de gravedad, los neumáticos agrícolas pueden lastrarse con líquido.
+**2.2.1. Clases de Vehículos Pesados y Normativa**
 
-La **suspensión** es el conjunto de elementos que unen las ruedas al bastidor, suavizando las irregularidades del terreno y mejorando la estabilidad. Han evolucionado desde ballestas hasta sistemas hidractivos (esferas de gas y líquido a alta presión) y neumáticos (aire comprimido en cámaras), muy comunes en vehículos pesados y todoterrenos.
+Los camiones y vehículos de pasajeros son vehículos pesados con similitudes mecánicas pero diferencias en fabricación y carrocería. El diseño de su carrocería depende del radio de acción de sus trayectos.
 
-Los **frenos** son esenciales para detener el vehículo manteniendo la dirección. Han evolucionado desde tambores a discos y autoventilados, e incorporan sistemas como el ABS (antibloqueo) y ASR (antipatinaje), así como el control de trazado en curvas ESP. Es crucial conocer su funcionamiento, especialmente en vehículos pesados con frenos neumáticos, ya que la pérdida de aire puede bloquearlos.
+*   **Autocares:** Vehículos pesados de largo y medio recorrido para pasajeros. Priorizan la comodidad y seguridad, con bodegas en la parte inferior de la carrocería para equipajes.
+*   **Autobuses:** Vehículos para trayectos urbanos o interurbanos cortos. Facilitan el acceso y salida de pasajeros y están diseñados para una alta capacidad de personas.
 
-Las **innovaciones en seguridad activa** también incluyen:
-*   **Faros inteligentes**: utilizan xenón (aprox. 1000V) para iluminar la vía de forma adaptativa.
-*   **Ordenador de a bordo**: proporciona información al conductor, pero no presenta riesgos para el rescate.
-*   **Paro y arranque automático**: común en vehículos urbanos para ahorrar combustible, parando el motor en detenciones y reiniciándolo al acelerar.
-*   **Otras innovaciones**: cámaras en retrovisores, detectores de distancia, proyectores de información en parabrisas, ayuda al aparcamiento, sensor de luminosidad y sensor de lluvia.
+*   **Normativa aplicable en España:**
+    *   Reglamentos ECE n° 36 y 66: regulan la habitabilidad, seguridad del vehículo y resistencia mecánica de la superestructura en caso de vuelco.
 
-## Sistemas de Seguridad Pasiva
+**a) Carrocería Autoportante de Vehículos Pesados**
 
-Los **sistemas de seguridad pasiva** se activan automáticamente tras la pérdida de control del vehículo para reducir los efectos del accidente en los ocupantes.
+El armazón de la carrocería autoportante o autobastidor es una estructura multitubular reforzada que soporta los elementos del autobús y es resistente a los equipos hidráulicos de rescate.
 
-Los **cinturones de seguridad** se han perfeccionado con **pretensores**, que ajustan el cinturón al cuerpo del ocupante en milisegundos para eliminar holguras, activándose por sensores de deceleración y un impulso eléctrico que retrae el enganche del cinturón. Existen pretensores mecánicos (con resorte helicoidal, activados por choque) y pirotécnicos (con carga pirotécnica o activación eléctrica), pudiendo ser de tipo tubular o de bolas.
+*   **Objetivo:** Proporcionar robustez con el menor peso posible.
+*   **Características:**
+    *   Construcción semi-integral con cuadernas longitudinales y perfiles de borde de techo y faldón continuos.
+    *   Montantes, cerchas y tirantes fabricados con tubos cuadrados de acero de gran volumen.
+    *   Paredes laterales de autobuses urbanos con refuerzo longitudinal para protección contra impactos laterales y anclaje de asientos.
 
-Los **airbags** son bolsas que se inflan instantáneamente para amortiguar el impacto de los ocupantes contra el volante, parabrisas o salpicadero, complementando al cinturón. Se activan por sensores de deceleración, generan gas (nitrógeno) por combustión en menos de 30 milisegundos y se desinflan por orificios tras el impacto. Existen diversos tipos:
-*   **Airbags frontales**: los primeros en implementarse, se instalan en el volante y el salpicadero.
-*   **Airbags laterales**: se despliegan entre la puerta y el cuerpo en impactos laterales, activados por sensores de presión en la puerta. Pueden ser solo para tórax o para tórax y cabeza.
-*   **Cortina hinchable**: se despliega desde el techo para proteger la cabeza y el cuello, evitando golpes contra ventanillas y montantes, manteniendo su volumen de gas durante varios segundos, incluso en vuelcos.
-*   **Airbelts**: cinturones con airbags incorporados que reducen la presión sobre la caja torácica.
-*   **Airbags de rodilla**: ubicados bajo la columna de dirección o en el salpicadero.
-*   **Airbags en la banqueta**: instalados en los asientos delanteros para optimizar la posición de los ocupantes y evitar el "efecto submarino".
-*   **Airbags para peatones**: se despliegan bajo el capó y el parabrisas para reducir lesiones en caso de atropello.
-*   **Airbags inteligentes o de doble fase**: detectan la severidad del impacto para inflarse en dos etapas, reduciendo riesgos.
-*   **Airbags para motoristas**: sistemas específicos en cascos y chaquetas.
+**b) Bastidor y Carrocería de Vehículos Pesados**
 
-Se han incorporado **refuerzos adicionales** en el techo (barras antivuelco), bordes y productos anticorrosivos (chapas galvanizadas, cincadas, antioxidantes) para proteger la estructura del vehículo y a sus ocupantes. Los descapotables modernos cuentan con **arcos de seguridad automáticos (ROPS)** que se activan en caso de vuelco. Los **bordes cortantes** internos se han eliminado o redondeado para prevenir lesiones.
+Existen vehículos de pasajeros con bastidor y carrocería montada por un instalador distinto al fabricante del motor. Su construcción es similar a la de los camiones, con un bastidor de largueros y traviesas que soportan la carrocería.
 
-## Sistemas de Seguridad Terciaria
+*   **Sistemas de unión:** Tradicionalmente remachado y soldado; actualmente, se utiliza más el pegado con adhesivos estructurales elásticos (para techos, suelos, paneles exteriores, cristales laterales, lunas, faldones y recubrimientos internos).
+*   **Clasificación:**
+    *   **Bastidor bajo:** Un solo escalón hasta el suelo. Permite carrozados para vehículos urbanos o de doble piso.
+    *   **Bastidor alto:** Presente en autocares con bodega inferior para equipaje. El bastidor forma el suelo de los pasajeros, y el suelo de la bodega es parte de la carrocería.
 
-Los **sistemas de seguridad terciaria** tienen como objetivo facilitar el rescate de los ocupantes tras un accidente.
+**2.2.3. Espacios Especiales en Autocares**
 
-Entre ellos, destacan:
-*   **Desbloqueo automático del cierre centralizado**: algunos vehículos abren automáticamente las puertas tras un impacto significativo, permitiendo un acceso más rápido a las víctimas.
-*   **Luces intermitentes de advertencia**: se activan automáticamente en caso de choque para alertar a otros conductores sobre el accidente.
-*   **eCall**: un sistema activo en la Unión Europea que, en caso de accidente grave, realiza una llamada automática de emergencia vía satélite, transmitiendo la localización precisa del vehículo y permitiendo la comunicación con los ocupantes.
-*   **Hojas de rescate**: documentos proporcionados por los fabricantes que contienen información detallada sobre el vehículo, incluyendo las zonas de corte más adecuadas para la excarcelación, y que deben guardarse en el parasol del conductor.
+Los autocares de largo recorrido pueden tener espacios especiales como cabinas de aseo, cocinas de abordo, maleteros y cabinas de descanso para conductores. En caso de accidente, estos espacios pueden encerrar personas y suponer un peligro para el rescate.
 
-## Fuentes de Energía Motriz Alternativas
+**a) Cabina de Aseo:** En la mayoría de vehículos, se sitúa delante de la puerta 2; ocasionalmente, en la parte trasera.
 
-Además de los combustibles convencionales (gasolina y gasoil), la industria automotriz ha desarrollado vehículos con **energías motrices alternativas**, que requieren consideraciones específicas para el rescate.
+**b) Cocina de Abordo:** Al igual que la cabina de aseo, se localiza en la zona de acceso de la puerta 2 o en la parte trasera.
 
-Los vehículos alimentados por **Gas Licuado de Petróleo (GLP)** o **Gas Natural Comprimido (GNC)**, cada vez más comunes por su ahorro y menor contaminación, presentan diferencias en su composición (GNC: metano 90%; GLP: butano/propano), estado (GNC: gaseoso; GLP: líquido), poder calorífico y presión de almacenamiento (GNC: 200 bar; GLP: 6-7 bar). Los depósitos son resistentes a colisiones e incendios y el gas no penetra en el habitáculo en caso de fuga. Elementos de seguridad incluyen válvulas de cierre de seguridad (eléctricas o mecánicas), cortocircuitos fusibles y caperuzas de goma en las válvulas.
+**c) Maletero:** Los portones laterales del maletero se aseguran con cerraduras de llave cuadrada, cilindros de cierre o cierre centralizado, este último accionado desde el salpicadero con el contacto encendido, o a veces con mando a distancia sin encendido.
 
-Los **vehículos eléctricos e híbridos** (combinación de motor eléctrico y de combustión) son más eficientes y silenciosos. Los vehículos híbridos pueden ser de configuración paralela o en serie. Los **paralelos** pueden usar ambos motores para propulsión y algunos generan electricidad para recargar las baterías. Los **en serie** usan el motor térmico solo para generar electricidad. Estos vehículos suelen tener elementos de identificación exterior. Los **componentes de alto voltaje** (baterías, motores eléctricos, generadores) están situados en el techo (autobuses) o en la parte trasera (turismos) y pueden manejar tensiones de hasta 650 V, siendo crucial identificarlos por su color naranja y adhesivos de advertencia.
+**d) Cabina de Descanso del Conductor:** Puede estar detrás de la puerta 1 o 2. Se identifica con un pictograma exterior y una persiana interior en los accesos. El acceso es por tapas derecha/izquierda desde el exterior, o por persianas desde el interior.
 
-Finalmente, los vehículos de **hidrógeno** (FHCV) almacenan este gas a alta presión (300-700 bares) y baja temperatura (253 °C bajo cero), o lo generan a partir de alcoholes o pilas de combustible. Disponen de sistemas de seguridad como válvulas de cierre, protección contra sobrepresión (válvulas a 16 bares), protección contra altas temperaturas (se abren a 110 °C) y sensores de fuga que activan la ventilación y cierran válvulas. El hidrógeno es inflamable, arde sin llamas visibles y puede ser asfixiante.
+###### 2.3. Vehículos Pesados: Camiones
+
+**2.3.1. Definición y Partes de los Camiones**
+
+Los camiones son vehículos pesados destinados al transporte de carga, con un peso máximo autorizado superior a 3500 kg. Se diseñan con configuración chasis-cabina y se carrozan según su uso (volquetes, cubas hormigoneras, frigoríficos, transporte de ganado, etc.). Los tractocamiones o cabezas tractoras son una excepción, ya que no se carrozan, y su función es arrastrar un semirremolque no motriz.
+
+*   **Partes diferenciadas:** Bastidor y carrocería.
+*   **Bastidor:** Contiene el motor, órganos de transmisión, suspensión, dirección y frenos.
+*   **Carrocería:** Compuesta por la cabina y la caja.
+
+**2.3.2. El Bastidor y el Motor del Camión**
+
+*   **Bastidor:** Formado por dos robustas vigas longitudinales ("largueros") unidas por traviesas perpendiculares, hechas de acero resistente. Este material es muy resistente y no debe cortarse con aparatos hidráulicos de rescate; se recomienda usar radial o equipo de plasma.
+*   **Motor:** Encargado de mover el vehículo. Los motores actuales suelen rondar los 500 CV, con algunos modelos llegando a 660 CV. Se sitúa entre los largueros delanteros, frecuentemente bajo el suelo del conductor. Algunos modelos con morro ofrecen seguridad pasiva adicional en caso de accidente, aunque son menos comunes en la Unión Europea.
+
+**2.3.3. Cabina del Camión**
+
+*   **Diseño:** La cabina es una estructura autoportante de acero, concebida como célula de seguridad.
+*   **Montaje:** Se monta sobre el chasis con elementos de suspensión, ofreciendo deformaciones similares a las de los turismos en impactos frontales, aunque no comparable en seguridad.
+*   **Componentes:** La parte inferior de la cabina se forma por dos largueros de chapa, el suelo del camión, las paredes laterales y el túnel del motor. Estos se complementan con el frente, los costados, el testero trasero y el techo (que puede ser de fibra y ocasionalmente incluir literas o maletero).
+*   **Zonas:** Se designan como en turismos (pilares "A", "B", "C").
+
+**2.3.4. Cabina Cosechadora de la Marca Renault**
+
+Este modelo de cabina se caracteriza por tener el suelo a un solo nivel o continuo, lo que representa un elemento de seguridad pasiva importante, ya que evita el atrapamiento del conductor por las flexiones del suelo en un choque.
+
+**2.3.5. Caja de Transporte de Mercancías del Camión**
+
+Esta zona está destinada a la carga y su forma depende del tipo de mercancía y del camión.
+
+**a) Camión Rígido:** La caja se une rígidamente al vehículo mediante tornillos (no soldada). En caso de siniestro, la mercancía y la cabina deben tratarse por separado.
+
+**b) Camión Rígido más Remolque:** La carga se divide en dos partes: una en el camión rígido y otra en un remolque independiente. Pueden abordarse por separado si se dispone de medios y datos adecuados.
+
+**c) Tractora más Semirremolque (Tráiler):** La caja se une a la tractora mediante un eje central, conocido como "quinta rueda", y conexiones rápidas.
+
+**d) Remolques y Semirremolques:** Ambos son vehículos no motrices para transporte de carga. Los remolques pueden unirse a un camión rígido, mientras que los semirremolques solo son arrastrados por tractocamiones.
+
+*   **Estructura:** Similar a la de los camiones, con dos largueros y traviesas que forman el bastidor sobre el que se monta la carrocería.
+*   **Acoplamiento:** Requieren un sistema de acople entre el vehículo tractor y el remolque/semirremolque (de remolques, semirremolques o quinta rueda).
+*   **Quinta rueda:** Une la tractora con la caja. Es fundamental conocer su funcionamiento para poder separar la tractora del semirremolque rápidamente si es necesario.
+
+###### 2.4. Vehículos Especiales
+
+**2.4.1. Furgonetas**
+
+Las furgonetas son vehículos industriales con un peso máximo de 3500 kg (con excepciones). La configuración más común es una cabina delantera para dos o tres personas unida a un furgón trasero cerrado para carga.
+
+*   **Variaciones:** Pueden incluir asientos en el compartimento de carga o diferentes carrocerías según su uso.
+*   **Configuraciones:**
+    *   **Furgón:** Espacio de carga cerrado, sin ventanas ni asientos, mayor capacidad de carga.
+    *   **Combi:** Incorpora una segunda fila de asientos (corrida de tres plazas) en la zona central, con ventanillas laterales para esta fila.
+    *   **Minibús:** Hasta nueve plazas (máximo), con la parte superior de los paneles laterales acristalada.
+    *   **Chasis-cabina:** Se comercializa con cabina delantera y largueros preparados para una carrocería especializada.
+
+*   **Estructura resistente:** Pueden ser de dos tipos:
+    *   **Autoportante:** La carrocería del vehículo actúa como estructura (ej. Ford Transit).
+    *   **Chasis independiente:** La carrocería y elementos mecánicos se montan sobre un chasis.

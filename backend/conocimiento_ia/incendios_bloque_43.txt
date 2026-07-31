@@ -1,37 +1,90 @@
-# Caracterización de Incendios de Interior y Fenómenos Asociados
+## Temario de Oposiciones: Manual de Incendios y Emergencias
 
-Los incendios que se desarrollan en el interior de recintos cerrados se definen como fuegos que se propagan de manera incontrolada en un espacio físico limitado, lo que restringe la transferencia libre de calor y el intercambio de fluidos con el exterior. Cuando un incendio ocurre en un entorno completamente **confinado**, con puertas y ventanas cerradas e intactas, la transferencia de gases con el exterior es nula, lo que incide directamente en su evolución.
+### Parte 4: Incendios en Túneles
 
-El desarrollo de un incendio de interior se segmenta clásicamente en tres **fases**: inicio, pleno desarrollo y decaimiento.
-*   Durante la **fase de crecimiento** inicial, el incendio comienza en un foco de ignición, transmitiendo calor por radiación a los combustibles circundantes y formando una columna de convección que eleva el calor a las zonas superiores. Inicialmente, la potencia del incendio es limitada y su crecimiento lento, pero la pirólisis de los compuestos orgánicos se acelera, resultando en un aumento exponencial de la temperatura. En esta etapa, los gases de incendio, de menor densidad debido a la alta temperatura, comienzan a acumularse en los estratos superiores del recinto, generando presiones superiores a las del exterior. Por debajo de estos gases calientes, se forma un estrato inferior de aire frío y denso, con presiones inferiores a las externas. El límite horizontal donde estas presiones se igualan se denomina **plano neutro**. El colchón de gases acumulado puede alcanzar su punto de inflamabilidad, provocando fenómenos localizados de "rollover" o una inflamación generalizada conocida como "flashover". La potencia de radiación emitida por el colchón de gases se rige por la Ley de Stefan-Boltzmann, siendo su impacto poco relevante a bajas temperaturas, pero aumentando drásticamente (64 veces más a 500ºC) a medida que la temperatura se eleva. La inflamabilidad de esta fracción de combustible depende críticamente de la temperatura y la concentración de oxígeno.
-*   La **fase de pleno desarrollo** se caracteriza por una concentración decreciente de oxígeno en el interior debido al consumo generalizado por la combustión. La temperatura alcanza un límite y se mantiene estable, y la potencia del incendio queda determinada por la escasez de oxígeno. En incendios con cierta ventilación, los estratos de gases calientes y aire fresco permanecen diferenciados, con el aire fresco dirigiéndose a las zonas bajas. Sin embargo, en **incendios confinados**, el plano neutro desciende hasta el suelo, resultando en una visibilidad nula y la desaparición del estrato inferior de aire fresco.
-*   Finalmente, en la **fase de decaimiento**, el recinto pierde temperatura y el incendio se extingue, bien por el consumo total del combustible o por la insuficiencia de potencia calorífica para compensar las pérdidas de calor ante la falta de ventilación.
+#### Capítulo 2: Técnicas de Intervención
 
-## Fenómenos de Rápido Desarrollo en Incendios de Interior
+**1. Despliegue de Tendidos para Extinción**
 
-Existen situaciones críticas que implican fenómenos de rápido desarrollo, altamente peligrosos para los intervinientes:
-*   **Flashover:** Representa una transición abrupta en el desarrollo de un incendio de interior, donde las superficies expuestas a la radiación térmica alcanzan simultáneamente su temperatura de inflamación, provocando una rápida extensión del fuego por todo el recinto. Para que ocurra, es esencial una carga de combustible suficiente para generar un colchón de gases radiante y una proporción adecuada de oxígeno que sitúe la mezcla en su ventana de inflamabilidad. Los indicadores que sugieren un flashover inminente incluyen: un incendio próximo a finalizar su fase de crecimiento, un colchón de gases denso y oscuro, altas temperaturas en el recinto con superficies en pirólisis, un recinto ventilado con aporte de oxígeno, un plano neutro descendente, y la presencia de lenguas de gases inflamados ("rollover"). Este fenómeno implica un pico de potencia del incendio, una ligera sobrepresión y una radiación térmica intensa, lo que representa un riesgo elevado para los bomberos. Para mitigar este riesgo, las tácticas se orientan a limitar el aporte de aire, reducir la temperatura del colchón de gases, diluir los gases con vapor de agua y realizar un barrido con ventilación forzada.
-*   **Flashover inducido por la ventilación:** Se produce en un incendio previamente **infraventilado** (limitado por la ventilación, sin haber sufrido un flashover) cuando la apertura de un hueco de ventilación introduce oxígeno, llevando la mezcla de combustible y gases a su rango de inflamabilidad. Esto eleva la temperatura y provoca un flashover. Experimentos han demostrado que este fenómeno puede ocurrir en aproximadamente dos minutos tras la apertura de ventilación. Se caracteriza por un aumento progresivo de los flujos de entrada y salida de gases, que se vuelven más turbulentos.
-*   **Backdraft:** Se trata de una deflagración repentina que ocurre cuando un incendio infraventilado, rico en productos de combustión incompleta y con una alta fracción de combustible (superior al 15%), recibe un aporte súbito de aire fresco. A diferencia del flashover inducido, el backdraft es una consecuencia directa de esta deflagración, con un aumento muy rápido de la potencia del incendio. Es crucial destacar que no se asocia a las concentraciones de monóxido de carbono, ya que estas raramente superan el 5%, mientras que su límite inferior de inflamabilidad es del 12%. Los indicadores de backdraft incluyen un incendio infraventilado en un recinto confinado, pulsaciones de gases ("respiración" del incendio), y la aparición de gases densos de tonos anaranjados o amarillentos en el exterior. Las tácticas preventivas implican abrir una ventilación en cubierta (para evitar corrientes de gravedad), limitar el aporte de aire, reducir la temperatura con ataque indirecto y asegurar que el personal se encuentre fuera del recinto.
-*   **Explosión de humo:** Consiste en una deflagración que ocurre cuando una mezcla de gases de incendio y aire, desplazada hacia espacios ocultos y ya dentro de su rango de inflamabilidad, entra en contacto con una fuente de ignición. A diferencia del backdraft, este fenómeno no requiere un aporte súbito de ventilación, sino una fuente de ignición externa. Los indicadores de una explosión de humo son la presencia de humo caliente no excesivamente denso y una mezcla homogénea de gases de incendio y aire. La intervención se centra en evitar fuentes de ignición, reducir la temperatura mediante ataque indirecto y ventilar para expulsar la mezcla de gases.
+En los incendios que se originan en túneles, causados por eventos como averías de vehículos, colisiones o cortocircuitos, es habitual que sea necesario extender líneas de mangueras. Estas mangueras deben tener un diámetro de 45 mm y un caudal de agua adecuado para las características específicas del incendio, incluyendo la superficie y la potencia generada. Es crucial determinar el caudal requerido para un combate eficaz del fuego.
 
-## Factores de Influencia en Incendios de Interior
+Dentro de un túnel, las líneas de tendido pueden desplegarse utilizando las siguientes configuraciones:
+*   **Plegado en doble:** Se realiza el despliegue de la manguera fuera del túnel.
+*   **Plegado en abanico más plegado de ataque en Cleveland.**
+*   **Tendidos con carros portamangueras de 45 mm.**
 
-### Influencia del Combustible
+Se aconseja incorporar una reducción de 45 mm con una bifurcación 70-45 mm en la manguera previa a la de ataque. Esto permite establecer una segunda línea de ataque, facilitar la progresión si el tendido principal no se calculó correctamente y disponer de una línea de auxilio hasta que se configure una específica.
 
-El **combustible** es un factor determinante en el desarrollo y comportamiento del incendio, especialmente en los **incendios limitados por el combustible (ILC)**, donde las características del material y su distribución son cruciales.
-*   El **poder calorífico (Hc)**, la energía química liberada por unidad de masa [kJ/kg], es directamente proporcional a la potencia del incendio. Algunos valores de referencia son: madera (16 kJ/kg), poliuretano (23 kJ/kg), carbón (29 kJ/kg), neumáticos (32 kJ/kg) y gasolina (45 kJ/kg).
-*   La **carga de combustible (Cc)**, definida como la energía por unidad de superficie [kJ/m²], influye en la duración del incendio. Se ha observado que cargas de combustible de 200 MJ/m² son suficientes para que un incendio alcance el estado de **incendio limitado por la ventilación (ILV)**. Una mayor carga de combustible tiende a prolongar la fase de pleno desarrollo.
-*   Otros factores relevantes incluyen la **tasa de pirólisis (tp)**, que mide la masa de combustible que se gasifica por unidad de tiempo y superficie, reflejando la volatilidad del material, y la **tasa de combustión (mc)**, que es la velocidad a la que se consume el combustible [kg/s]. Tanto la facilidad para emitir gases inflamables como la velocidad de consumo afectan la velocidad de desarrollo del incendio; aquellos combustibles que requieren una gran energía de activación tienden a un desarrollo más lento.
+Para lograr una extinción eficaz y dimensionada en un incendio dentro de un túnel, es fundamental considerar diversos factores y variables, tales como la efectividad de la aplicación de agua, la distancia óptima de ataque y el uso de equipos de respiración autónoma.
 
-En la actualidad, los **combustibles modernos**, como los materiales sintéticos, presentan un poder calorífico superior y un desarrollo más rápido en comparación con los combustibles tradicionales. Este cambio, junto con el aumento de mobiliario, la prevalencia de plantas abiertas y un mayor aislamiento térmico en las construcciones, conduce a dinámicas de incendio más violentas, haciendo que el estado de ILV se alcance con mayor rapidez.
+**1.1. Efectividad de la Aplicación de Agua**
 
-### Riesgos Intrínsecos para el Personal de Intervención
+Para sofocar un incendio en un túnel, las técnicas basadas en el enfriamiento del colchón de gases son las más utilizadas. La efectividad de estas técnicas depende crucialmente del porcentaje de evaporación del agua. El agua que no se evapora puede absorber energía equivalente al aumento de temperatura en el lugar del incendio. Sin embargo, el agua que se transforma en vapor y alcanza la temperatura de equilibrio del recinto puede absorber hasta siete veces más energía.
 
-La intervención en incendios de interior conlleva riesgos significativos:
-*   **Calor:** Las altas temperaturas son un peligro físico. Una exposición superior a 140ºC en el aire respirado solo puede tolerarse por un breve período y nunca con humedad, dado que puede causar colapso circulatorio y edema pulmonar. Valores de radiación de 10-20 kW/m² son críticos para equipos de protección personal y pueden causar daños personales.
-*   **Toxicidad:** Los gases de incendio son una mezcla compleja de irritantes y tóxicos (como monóxido de carbono, cianuro de hidrógeno, dióxido de azufre, formaldehído y amoniaco) que pueden actuar sinérgicamente, provocando desde incapacidad física hasta la muerte.
-*   **Visibilidad:** La concentración de partículas en suspensión reduce drásticamente la visibilidad, especialmente en la transición de ILC a ILV, lo que dificulta la orientación, la localización del foco y la búsqueda de víctimas, aumentando los riesgos operacionales. Los estratos de gases, con sus diferentes densidades y presiones, marcan un plano neutro que, en incendios confinados, puede caer hasta el suelo, eliminando el aire fresco y la visibilidad en la zona baja.
-*   **Rango de supervivencia de víctimas:** Las condiciones de supervivencia son complejas, determinadas por parámetros respiratorios (agentes tóxicos, falta de oxígeno, partículas) y térmicos (quemaduras, bloqueo función respiratoria). Estudios indican rangos de 6-12 minutos desde el inicio en estancias con puerta abierta, reduciéndose en situaciones de ILV con mobiliario moderno.
+Para que las técnicas de enfriamiento del colchón de gases sean efectivas, las gotas de agua deben interactuar directamente con los gases, evitando el contacto con las superficies del recinto. La evaporación del agua debe producirse en el aire para lograr este objetivo, con un porcentaje de efectividad recomendado que oscila entre el 50% y el 70%.
 
-Las técnicas de intervención en incendios de interior buscan mitigar estos riesgos mediante la reducción de la inflamabilidad de los gases, la disminución de la tasa de pirólisis y la temperatura, y la mejora de la visibilidad y la calidad del aire para facilitar la progresión y el rescate de víctimas.
+El tamaño de la gota es un factor de gran importancia para sofocar el incendio. La siguiente tabla resume las características de las gotas en función de su tamaño:
+
+| Tamaño de Gota  | Ventajas                                                                 | Inconvenientes                                                 |
+| :-------------- | :----------------------------------------------------------------------- | :------------------------------------------------------------- |
+| Reducido        | Mayor tiempo en suspensión y mejor absorción de energía.                 | Alcance menor.                                                 |
+| Grande          | Mayor alcance.                                                           | Caen más rápidamente; intercambio de calor menos efectivo.     |
+| Óptimo (0,3-0,7 mm) | Equilibrio ideal entre alcance y capacidad de absorción de energía. |                                                                |
+
+Dado que la distribución de la temperatura en el túnel no suele ser uniforme, especialmente si hay ventilación o se ha iniciado la aplicación de agua, el bombero debe ajustar el selector de caudal, el ángulo del cono y el ángulo de aplicación respecto al suelo. La cantidad de agua se aplicará específicamente en las zonas más calientes.
+
+**1.2. Distancia Óptima de Ataque**
+
+Para una extinción efectiva, la distancia de las líneas de manguera es fundamental. En túneles con ventilación longitudinal, la distancia máxima recomendada es de 10 metros para vehículos pesados y 5 metros para coches.
+
+**1.3. Equipos de Respiración Autónoma (ERA) y Control del Aire**
+
+En los incendios en túneles, la incertidumbre sobre el tiempo de intervención es común, superando a menudo los 40 minutos. Esta incertidumbre se debe a:
+*   Falta de información preliminar sobre el incendio y las estrategias.
+*   Posible desorientación en ambientes con humo.
+*   Situaciones imprevistas durante la búsqueda y rescate de víctimas.
+
+Estas condiciones pueden generar riesgo si la reserva de aire es insuficiente para la salida del escenario. Por ello, se deben seleccionar ERA adecuados para estancias prolongadas en atmósferas irrespirables.
+
+A continuación, se presenta la clasificación de los equipos ERA según sus características:
+
+| Tipo de Circuito y Funcionamiento | Tipo de Equipo  | Duraciones Calculadas (consumo nominal 40 l/min) | Cuándo Utilizarlo                                                                                                                              |
+| :------------------------------ | :-------------- | :----------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------- |
+| Circuito abierto                | Monobotella     | 45 minutos (teóricos); 15-20 minutos (reales)    | Operaciones que no impliquen estancias prolongadas en el interior (p. ej., bocas de acceso, trabajos de 20-30 minutos).               |
+| Circuito abierto                | Bibotella       | 90 minutos (teóricos); 30-40 minutos (reales)    | Estancias en el interior de túneles no mayores a 60 minutos (túneles unidireccionales y bidireccionales < 500 m, bitubo > 500 m con acceso seguro). |
+| Circuito cerrado                | Oxígeno enriquecido | 4 horas (teóricas); 3 horas (reales, a 60-70 l/min)  | Intervenciones de larga duración en túneles de gran longitud (> 4 km) o túneles > 1 km sin acceso seguro por galerías o infraestructuras de emergencia. |
+
+Los tiempos de autonomía y consumo varían según el trabajo, el estrés y las condiciones fisiológicas del usuario. Se recomienda usar ERA en todo trabajo realizado cerca de las bocas de túneles debido a la toxicidad de los humos. Para accesos a través de galerías o túneles no afectados, se usará ERA si no hay certeza de que la atmósfera sea respirable.
+
+**2. Rescate y Evacuación de Víctimas**
+
+En un incendio en túnel, la primera medida es evacuar a las personas atrapadas, ya que las condiciones ambientales representan un riesgo para la vida. El personal de los equipos de evacuación debe actuar de forma automática, rápida y decidida, neutralizando las actitudes de bloqueo comunes en estas situaciones. Los usuarios del túnel a menudo no están acostumbrados a evacuaciones a pie, enfrentan visibilidad reducida y desconocen los planes de emergencia o salidas.
+
+La evacuación es principalmente una autoevacuación de los usuarios. Un sistema eficaz debe incluir buena señalización, iluminación de emergencia y galerías ventiladas. El umbral para el rescate de una persona se sitúa entre 2 y 2,5 kW/m² para una exposición de varios minutos. Los equipos de rescate con trajes de protección y ERA pueden soportar hasta 5 kW/m² durante menos de 30 minutos.
+
+Los parámetros más relevantes para una evacuación eficaz son la visibilidad y la radiación.
+
+**2.1. Visibilidad**
+
+La visibilidad en un túnel es crucial para la evacuación y la intervención de bomberos, ya que afecta la velocidad de desplazamiento y la capacidad de identificar elementos como salidas o tomas de agua. Existe una relación directa entre la visibilidad y la toxicidad: a menor visibilidad, mayor toxicidad.
+
+Los factores que influyen en la visibilidad incluyen el sistema de ventilación y el volumen de humo generado, que aumenta con el tamaño del incendio. Por lo tanto, a mayor tamaño del incendio, menor visibilidad en las zonas afectadas por el humo.
+
+**2.2. Radiación**
+
+La capa de humo influye directamente en la evacuación. Una radiación intensa, especialmente cerca del foco, afectará a las personas y dificultará la extinción, impactando también a los equipos de emergencia.
+
+**3. Control de la Ventilación**
+
+El flujo de aire tiene diversos efectos en la evolución del incendio, siendo el más importante el aporte de oxígeno al foco, cuya cantidad depende del sistema de ventilación y su regulación. Según la cantidad de oxígeno, el incendio puede desarrollarse de diferentes maneras:
+*   Con un gran aporte de oxígeno, el incendio se ve condicionado por la cantidad de combustible, quemándose violentamente hasta su consumo total.
+*   Con un escaso aporte de oxígeno, se producen muchos productos no quemados, con un efecto muy negativo en las condiciones aguas abajo.
+
+La ventilación del túnel también influye en el comportamiento del humo. Entender la dinámica del fuego en túneles es esencial para prever problemas y conocer las condiciones para una intervención de emergencia.
+
+El control de la ventilación es indispensable en un incendio en túnel para controlar, extinguir y rescatar a las víctimas. Algunos sistemas de ventilación pueden dirigir el humo hacia una de las bocas del túnel, proporcionando un entorno más seguro para los ocupantes y más favorable para la intervención de los bomberos.
+
+
+
+---
+**Nota:** Las páginas 189 y 193 del documento original no contienen texto pertinente para la extracción y redacción, siendo la primera una portada y la segunda una continuación del índice de imágenes que no añade información sustantiva al temario. La información de la página 193 se utilizó únicamente para asegurar que no se omitiera ninguna idea incompleta de la página 192.

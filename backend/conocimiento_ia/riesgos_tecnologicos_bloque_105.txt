@@ -1,73 +1,78 @@
-# Técnicas de Apertura Forzada en Intervenciones de Bomberos y Emergencias
+## Tema: Intervenciones ante Riesgos Eléctricos y Materiales NRBQ
 
-Las intervenciones de bomberos y emergencias a menudo requieren la apertura forzada de puertas, ventanas, rejas o cierres metálicos para acceder a edificaciones, con el fin de resolver situaciones de urgencia, como incendios o rescates de personas. Este proceso exige un conocimiento técnico detallado de los sistemas de cierre y las herramientas adecuadas, siempre bajo estrictas medidas de seguridad y siguiendo un protocolo táctico bien definido.
+### I. Corte de Tensión en Edificaciones con Escape de Gas
 
-## Medidas Generales de Seguridad y Evaluación Previa
+La actuación en situaciones que combinan un corte de suministro eléctrico en un bloque de viviendas con un escape de gas requiere una metodología específica.
 
-Antes de cualquier apertura forzada, es imperativo equiparse con el Equipo de Protección Individual (EPI) adecuado, que incluye guantes protectores, ropa de manga larga anticorte, casco, calzado reforzado con puntera de acero y gafas o pantalla de protección ocular, además de mascarilla buconasal con filtro para partículas. En situaciones de riesgo adicional, como trabajos en altura o presencia de incendio, se requerirá protección suplementaria, incluyendo equipos de rescate en altura o equipos de respiración autónoma (ERA).
+**A. Consideraciones Iniciales y Seguridad**
+La posibilidad de una deflagración es un riesgo latente, lo que exige un manejo extremadamente cuidadoso de los equipos. Es crucial que la conexión y desconexión de cualquier aparato eléctrico se realice con precaución, ya que puede generar pequeños arcos capaces de provocar una explosión.
 
-La valoración previa a la entrada forzada es crucial y debe iniciarse comprobando si existe una vía de acceso fácil o ya abierta. En caso contrario, se procederá a seleccionar el punto de entrada más vulnerable o menos arriesgado, considerando la proporcionalidad entre el riesgo asumido por los efectivos y el daño potencial a la propiedad. Factores como la presencia de rejas, el estado de las persianas, el tipo de ventana, la existencia de puertas secundarias o el acceso a través de garajes deben ser evaluados. Asimismo, es importante tener en cuenta medidas de seguridad adicionales implementadas por los propietarios, como cerrojos interiores o cerraduras camufladas, que podrían dificultar el acceso. La coordinación con las Fuerzas del Orden es esencial, especialmente si la situación lo requiere, para garantizar la seguridad del recinto tras la intervención.
+**B. Procedimientos de Intervención**
+Las acciones a seguir en estas circunstancias incluyen:
+*   **No intervención sobre interruptores:** Abstenerse de manipular cualquier interruptor o desconectar la tensión dentro de la zona afectada por el escape de gas.
+*   **Evacuación:** Las fuerzas del orden deben proceder a la evacuación de la vivienda o edificio implicado.
+*   **Corte de suministro externo:** El suministro eléctrico se debe cortar desde el exterior. Esto implica:
+    *   Retirar rápidamente los fusibles en la Caja General de Protección (CGP) para evitar la formación de arcos eléctricos.
+    *   Si la fuga de gas lo permite, realizar el corte desde el cuarto de contadores, activando el interruptor general de corte.
+*   **Ventilación:** Ventilar los locales abriendo todas las aberturas posibles (ventanas, claraboyas) y utilizando un ventilador colocado en la puerta de acceso para dispersar el gas.
 
-## Técnicas de Apertura de Puertas
+### II. Rescate de Maquinaria en Contacto con Líneas de Alta Tensión (AT)
 
-Las técnicas de apertura de puertas varían desde métodos menos destructivos hasta otros que implican daños significativos, dependiendo del tipo de cerradura y la urgencia de la situación.
+La intervención en casos donde una máquina queda atrapada en una línea de alta tensión exige una respuesta coordinada y el cumplimiento de protocolos de seguridad estrictos.
 
-### Métodos de Apertura no Destructivos o de Daño Mínimo
+**A. Planteamiento**
+Se refiere a la situación de una máquina enganchada a una línea de AT.
 
-Para puertas con el resbalón sin la llave echada, la **técnica del resbalón** o de la mica es la primera opción. Consiste en introducir un plástico o lámina de mica en la ranura a la altura del resbalón y desplazarlo, mientras se agita la puerta para facilitar la liberación.
+**B. Desarrollo de la Intervención**
+Los pasos para la intervención son:
+1.  **Comunicación con el operador:** Instar al conductor de la máquina a mantener la calma y permanecer dentro de la cabina.
+2.  **Solicitud de corte de suministro:** Contactar con la compañía eléctrica para solicitar el corte de energía, proporcionando la ubicación exacta y las características de la instalación (postes, torres, número de identificación).
+3.  **Mantenimiento de distancias de seguridad:** Establecer y mantener estrictas distancias de seguridad.
+4.  **Acciones del conductor (si aplica):**
+    *   Si es posible y seguro, indicar al conductor que intente mover la máquina para alejarla de la zona eléctrica.
+    *   Aconsejar al conductor que no descienda de la cabina hasta que se garantice una distancia segura, para evitar riesgos de electrocución.
+    *   En caso de ser necesario, indicar al conductor que salte de la cabina lo más lejos posible de la máquina sin tocarla ni caerse, y que se aleje con pasos cortos o saltitos.
+**C. Notas Adicionales**
+*   En situaciones de corte de cableado subterráneo de AT debido a retroalimentación, el procedimiento es idéntico si se trata de un solo cable. Si dos fases están cortadas, no se recomienda manipular la máquina debido al riesgo de cortocircuito.
 
-En el caso de cerraduras con bombín, la **extracción del bombín** busca forzar o descerrajar la cerradura para permitir el giro libre del mecanismo de apertura. Esto se puede lograr con una mordaza de presión o llave inglesa, sujetando y girando el bombín con fuerza hasta partir los tornillos internos. Si el bombín no sobresale, se inserta un destornillador plano golpeándolo con un martillo y se fuerza el giro.
+**D. Finalización de la Intervención**
+Una vez resuelta la emergencia:
+*   En entornos rurales, si el árbol no obstaculiza caminos, puede dejarse tal cual.
+*   Informar a la compañía eléctrica sobre el fin de la intervención para que revisen el tendido, los postes afectados y restablezcan el suministro cuando sea seguro.
 
-También se puede utilizar un **taladro de bombín** para hacer un agujero debajo del tambor, vaciando los pernos que lo traban y permitiendo girar el tambor con una ganzúa. Si el bombín es antitaladro, será necesario fresar el tetón de acero que impide el acceso. El **fresado de bombín** implica limar el tambor con fresas especiales hasta alcanzar el embrague central, que luego se gira con un destornillador.
+### III. Rescate de Personas en Líneas Subterráneas de Alta Tensión (AT)
 
-### Métodos de Apertura Destructivos
+La distribución eléctrica desde las plantas generadoras, subestaciones (ST) y centros de transformación (CT) se realiza mediante líneas de alta tensión. La conexión desde las líneas aéreas a un CT puede efectuarse tanto de forma aérea como subterránea.
 
-Cuando los métodos anteriores no son viables o la urgencia lo requiere, se recurre a la **apertura destructiva con maza**. Antes de aplicarla, se debe informar al propietario sobre los daños inevitables y la imposibilidad de cerrar la puerta posteriormente, así como la no responsabilidad de los bomberos por las reparaciones. Esta técnica puede consistir en golpear directamente la puerta a la altura de la cerradura para romper el cerradero (eficaz en puertas convencionales y blindadas, menos en acorazadas), o tirar la puerta completa golpeando el cerco hasta hacer saltar las garras de sujeción.
+**A. Características de las Líneas Subterráneas**
+*   **Cables:** Las líneas subterráneas utilizan cables coaxiales con múltiples capas de aislantes y una malla de tierra, que anula el efecto condensador.
+*   **Identificación:** En torres metálicas, estos cables suelen ser rojos y se extienden desde la parte superior hasta el subsuelo.
+*   **Conexión en celdas:** Las líneas subterráneas entran en las celdas por la parte inferior y se conectan a embarrados subterráneos que operan al mismo nivel de tensión.
 
-Otras técnicas destructivas incluyen el uso de un **separador hidráulico "abrepuertas"**, que se introduce y se presuriza para forzar la apertura, o la **herramienta Halligan**. Esta última se usa creando un hueco con la uña o el pico plano de la herramienta, introduciéndola y golpeándola con una maza, para luego hacer palanca.
+**B. Procedimiento de Intervención**
+El rescate de una persona atrapada en un embarrado dentro de un entorno industrial, subestación (ST) o centro de transformación (CT) subterráneo implica:
+1.  **Solicitud de corte de tensión:** Pedir a la compañía eléctrica el corte de tensión, aportando la localización precisa y otras características relevantes.
+2.  **Confirmación de descarga:** Esperar la confirmación de la compañía de que la instalación está completamente descargada antes de iniciar cualquier acción de rescate.
+3.  **Rescate en contacto (si aplica):** Si la persona accidentada está en contacto con elementos bajo tensión, el rescate debe realizarse utilizando equipos adecuados para el nivel de tensión (banqueta aislante, pértiga de salvamento, guantes aislantes).
+4.  **Retirada a zona segura:** Si la persona no está en contacto con elementos bajo tensión, retirarla a una zona de seguridad. La ubicación de esta zona debe ser evaluada por el mando de intervención según el tipo de rescate, manteniendo siempre una distancia prudencial.
 
-La **retirada de las bisagras** es otra opción, aunque menos común en puertas modernas. Implica retirar el perno interior, cortar las bisagras o desatornillarlas si los tornillos están visibles, siempre con precaución para evitar la caída incontrolada de la puerta.
+### IV. Anexo: Materiales y Equipos para Riesgo Eléctrico
 
-## Técnicas de Apertura de Ventanas
+Los materiales y equipos empleados en intervenciones con riesgo eléctrico son fundamentales para la seguridad del personal.
 
-La apertura de ventanas requiere una evaluación del tipo de ventana y el posible uso de persianas o rejas.
+**A. Equipos para Alta Tensión (AT) - hasta 45 Kv**
+*   **Pértiga aislante:** Con capacidad de aislamiento de 36 kilovoltios (Kv).
+*   **Detectores de tensión:** Dispositivos para pértiga, que pueden ser luminosos o acústico-luminosos, con o sin pilas.
+*   **Pértiga de rescate:** Equipada con un gancho de rescate.
+*   **Banqueta aislante:** Con capacidad de aislamiento de 30 Kv.
+*   **Guantes:** De clase III.
 
-### Principios Generales para Ventanas
-
-En primer lugar, si hay persianas bajadas, se intentará forzar su enrollado o desmontar las lamas para crear un hueco. La técnica específica dependerá del tipo de ventana y su estado.
-
-### Tipos Específicos de Ventanas
-
-Para **ventanas correderas**, se apalanca la ventana por su esquina inferior, cerca del marco lateral, y simultáneamente a la altura de la cerradura, para deslizar la hoja una vez liberada.
-
-En **ventanas abatibles**, se apalanca la hoja con destornilladores o palancas para liberar los cierres superior e inferior, aprovechando las holguras de fabricación. Dada la dificultad de forzar cierres de presión, la rotura controlada del vidrio puede ser una alternativa.
-
-Las **ventanas oscilobatientes** en posición inclinada se pueden abrir rápidamente usando un útil sencillo (tubo de PVC, cuerda fina y dos palos). La técnica consiste en introducir el mango de la ventana en el tubo, pasar una cuerda anudada por encima de la ventana, tensar ambas cuerdas para guiar la hoja a la posición de cerrado, y luego girar el mango a la posición horizontal para abrir la ventana. Una cuerda más alta facilitará el movimiento con menos fuerza.
-
-La **rotura de vidrios** se realiza con precaución, identificando primero el tipo de vidrio. Se golpea el cristal con una postura adecuada, aplicando cinta adhesiva o plástico para retener los fragmentos. Para vidrios laminados, se utiliza una sierra de sable o una sierra manual corta-lunas, retirando completamente los fragmentos antes de acceder. Es indispensable el uso de guantes anticorte, mascarilla y gafas de protección.
-
-## Apertura de Rejas de Protección y Cierres Metálicos
-
-Las **rejas de protección**, compuestas de barras metálicas de diversas formas, se fuerzan retirando tornillos de sujeción, cortando anclajes con sierra radial, cizalla manual o hidráulica, o arrancando la reja con herramientas hidráulicas o palancas. El objetivo es causar el menor daño posible, pero priorizando la urgencia.
-
-Los **cierres metálicos**, comunes en locales comerciales y a menudo motorizados, pueden abrirse forzando su cerradura para activar el embrague o palanca de desbloqueo del motor. En emergencias o si la apertura del motor es compleja, se cortan las lamas del cierre con motosierra de rescate, sierra de sable o cizalla/separador para crear una abertura.
-
-## Creación de Butrones
-
-Un **butrón** es un agujero practicado en suelos, techos o paredes para acceder a un espacio. Se utiliza como último recurso en casos de riesgo inminente para personas o bienes, tras haber descartado métodos menos agresivos. Pueden realizarse en superficies verticales (fachadas, paredes, tabiquería) u horizontales (forjados ligeros, tejados). La elección de herramientas (mazas, martillos, hachas, picos, cortafríos, sierras, amoladoras, taladros, martillos de percusión, motosierras, lanzas térmicas, herramientas hidráulicas) dependerá del material de la construcción. Es fundamental el uso de mascarilla buconasal con filtro para partículas debido a la generación de polvo.
-
-## Proceso Táctico de Intervención en Aperturas Forzadas
-
-El proceso táctico sigue un flujo de decisiones según la evaluación inicial de la situación de riesgo:
-
-Si existe un **riesgo inminente** que no permite demora, se valoran directamente técnicas como la apertura destructiva con maza, el acceso en altura (mediante autoescalas o desde edificaciones anexas) o la creación de un butrón.
-
-Si el riesgo admite cierta demora, se priorizan métodos de apertura progresivos, comenzando por la técnica del resbalón, seguida de la rotura del bombín, y finalmente el fresado o taladro. Si estas opciones no resultan exitosas, se evaluarán las técnicas de mayor agresividad.
-
-Cuando no hay un riesgo inminente, pero se necesita acceso por desamparo (falta de servicios de cerrajería 24 horas), se aplica el mismo orden de técnicas progresivas. En todos los casos, si la apertura forzada no se logra o implica riesgos adicionales significativos, se debe suspender la intervención y ofrecer al beneficiario un listado de cerrajeros de seguridad autorizados.
-
-La intervención debe considerar la comunicación constante con la persona atrapada, valorando su estado físico y psicológico, y proporcionando instrucciones claras y tranquilizadoras. Es crucial determinar el tipo de ascensor y la posición de la cabina, e identificar riesgos como electrocución o caídas. La seguridad del equipo de bomberos y de las víctimas es primordial, lo que implica mantener las puertas cerradas, no tocar botones innecesariamente y conocer la posición de la cabina en todo momento.
-
-En el caso de puertas, si la llave está echada por el interior, se buscarán otras entradas o se procederá a la apertura destructiva o el descerrajado de la cerradura. Para cerraduras normales, se opta por la rotura o taladro del bombín; para cerraduras de seguridad, la rotura o fresado. Las puertas de seguridad o blindadas pueden requerir maza, mientras que las acorazadas pueden necesitar separadores o abrepuertas hidráulicos.
-
-En el caso de ventanas, si pueden forzarse, se aplicará la técnica correspondiente al tipo de ventana. Si no es posible, se buscará accesibilidad o se romperá el vidrio, siempre considerando si es laminado, templado o con cámara para tomar las precauciones adecuadas. Para rejas, se intentará extraerlas o cortar los barrotes. Si hay persianas bajadas, se forzará su subida para acceder a la ventana. Las claraboyas, si son practicables y de fácil acceso, se forzarán; de lo contrario, se buscará una alternativa. Finalmente, la creación de un butrón se considerará en tabiquería, forjados o tejados que den acceso al interior.
+**B. Equipos para Baja Tensión (BT)**
+*   **Alfombra aislante:** Con capacidad de aislamiento de 1.000 voltios (V).
+*   **Cizalla dieléctrica.**
+*   **Destornilladores aislados.**
+*   **Alicates aislados.**
+*   **Maneta extractora de fusibles.**
+*   **Polímetros o pinzas amperimétricas.**
+*   **Guantes:** De clase 0.
+*   **Guantes de trabajo.**

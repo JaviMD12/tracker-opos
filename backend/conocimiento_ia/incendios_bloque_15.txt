@@ -1,59 +1,135 @@
-# Hidrodinámica e Instalaciones Hidráulicas en Operaciones de Extinción
+### TEMA 1: FUNDAMENTOS Y TÉCNICAS DE EXTINCIÓN DE INCENDIOS
 
-La **hidráulica** es una disciplina fundamental en el estudio de las propiedades mecánicas de los fluidos, tanto en condiciones estáticas (hidrostática) como dinámicas (hidrodinámica), analizando las fuerzas y las condiciones a las que pueden estar sometidos. En el contexto de las operaciones de bomberos, una comprensión profunda de estos principios es esencial para la gestión eficiente del agua y otros agentes extintores.
+#### PARTE 2: HIDRÁULICA
 
-## Fundamentos de las Instalaciones Hidráulicas
+**CAPÍTULO 2: TÉCNICAS**
 
-El propósito principal de cualquier **instalación hidráulica** de extinción es transportar un agente extintor, como agua o espuma, desde su fuente de suministro hasta el punto donde se desarrolla el incendio. Una configuración básica de este sistema consta de una bomba, una manguera y una lanza, cuyo objetivo es proyectar un caudal y una velocidad de fluido adecuados para alcanzar y extinguir el fuego desde una distancia segura.
+**1. Bombas centrífugas**
 
-La relación entre las presiones en un sistema hidráulico puede describirse mediante la **ecuación de línea**:
-$PB = PL + HG + PC$
-Donde:
-*   **PB** es la presión a la salida de la bomba, expresada en bar (o su equivalente en metros de columna de agua, m.c.a., dividiendo por 10).
-*   **PL** es la presión en la punta de la lanza, también en bar.
-*   **HG** representa la altura geométrica, es decir, el desnivel entre la bomba y la lanza, con valor positivo si se gana altura y negativo si se pierde.
-*   **PC** son las pérdidas de carga en la instalación, medidas en m.c.a.
+Las bombas centrífugas convierten la energía mecánica del motor en energía hidráulica. Inicialmente, aumentan la velocidad del fluido mediante paletas giratorias y luego, en pasajes abiertos (difusor), transforman esa alta velocidad en un aumento de presión.
 
-### Pérdidas de Carga en Instalaciones
+El resultado es un incremento en la energía del fluido entre la entrada (boca de aspiración) y la salida (boca de impulsión), lo que permite obtener un chorro de caudal (Q) y una velocidad de salida (V) que definen el alcance. Este aumento de energía se conoce como altura manométrica (Hm). La potencia útil (Wútil) es la energía transferida al fluido. El rendimiento energético (η) de la bomba se calcula como la relación entre la potencia útil y la potencia consumida por el motor.
 
-Las **pérdidas de carga** son la energía que un fluido en movimiento disipa debido a la resistencia que encuentra a su paso. Estas pérdidas se originan por diversos fenómenos, como la fricción entre las partículas del fluido y las paredes de la tubería, así como por las turbulencias.
+**1.1. Curva característica de una bomba**
 
-Se distinguen dos tipos principales de pérdidas de carga:
-1.  **Pérdidas continuas o lineales**: ocurren a lo largo de conductos uniformes y regulares, siendo el resultado directo de la fricción.
-2.  **Pérdidas locales o singulares**: se producen en puntos específicos de la instalación donde hay cambios bruscos, como estrechamientos, cambios de dirección o la presencia de válvulas. Generalmente, estas pérdidas son de menor magnitud que las continuas.
+Las curvas características describen el comportamiento de una bomba centrífuga, mostrando su campo de trabajo y particularidades principales. Las variables utilizadas son:
+*   **Caudal:** Variable independiente, representada en el eje de abscisas.
+*   **Altura manométrica (Hm), potencia consumida o rendimiento (η):** Variables dependientes, representadas en cada curva.
 
-Las pérdidas de carga aumentan con diversos factores:
-*   El incremento de la longitud de la conducción.
-*   El aumento de la velocidad del fluido o su caudal (proporcional a la segunda potencia).
-*   La reducción del diámetro de la instalación (proporcional a la quinta potencia inversa).
-*   El incremento de la rugosidad del conducto o de la viscosidad del fluido.
+Estas curvas ilustran cómo la altura manométrica evoluciona con el caudal, siendo máxima con caudal nulo (válvulas cerradas) y disminuyendo al aumentar el caudal. Permiten identificar el punto óptimo de funcionamiento, donde el rendimiento energético es máximo, y definir los valores nominales (caudal y presión). Los fabricantes obtienen estas curvas experimentalmente ajustando una válvula para regular el caudal y registrando los valores de caudal, presión y potencia.
 
-### Curva Característica de una Instalación y Punto de Funcionamiento
+Una característica importante de las bombas centrífugas de bomberos es su mando de aceleración, que permite ajustar las revoluciones del motor y, por ende, del rodete, regulando el punto de funcionamiento (P y Q) de forma amplia. A diferencia de las bombas convencionales de revoluciones fijas, las bombas de bomberos no tienen un límite superior de 5000 r.p.m. fijo y, en lugar de tres curvas, presentan tres familias de curvas, donde cada curva se desplaza verticalmente según las r.p.m. del eje de giro.
 
-La **curva característica de una instalación** es una representación gráfica que muestra la relación entre las pérdidas de carga totales (continuas y locales, incluyendo el efecto de la altura geométrica) y el caudal que circula por ella.
+**1.2. Aspiración en bombas**
 
-El **punto de funcionamiento** del sistema se establece en la intersección de la curva característica de la bomba (que relaciona la presión generada con el caudal) y la curva característica de la instalación. En este punto, la presión que la bomba suministra es igual a las pérdidas de carga que la instalación requiere para un determinado caudal. En las bombas centrífugas de bomberos, este punto puede ajustarse variando las revoluciones del motor.
+Al aspirar, el líquido asciende por la conducción, pero esta altura tiene un límite. La columna no asciende por la aspiración en sí, sino por el empuje de la presión atmosférica exterior. Esta presión externa determina la altura máxima alcanzable.
 
-## Alcance de la Proyección de Agua
+La altura teórica máxima de aspiración es de 10,33 metros, pero en la práctica no se alcanza este valor debido a varios factores:
+*   Menor presión atmosférica (por condiciones climatológicas o altitud).
+*   Presión de vapor del agua: A mayor temperatura del agua, mayor presión de vapor y, por tanto, menor altura de aspiración.
+*   Vacío imperfecto en los manguerotes.
+*   Pérdidas de carga en los manguerotes y la alcachofa.
 
-La **aplicación práctica del Teorema de Torricelli** permite calcular el caudal de salida a través de una lanza o surtidor, en función de la presión disponible en su entrada. El caudal real siempre es menor que el teórico debido a las pérdidas de energía en el orificio de salida (fenómeno conocido como contracción de la vena líquida).
+Estos factores reducen la altura de aspiración efectiva a valores entre siete y ocho metros.
 
-La fórmula para el caudal real es:
-$Q_{REAL} = K \cdot S \cdot \sqrt{2 \cdot g \cdot h}$
-Donde $K$ es el factor del surtidor (generalmente entre 0.9 y 0.98), $S$ es la superficie del orificio, $g$ la aceleración de la gravedad y $h$ la altura de columna de agua equivalente a la presión.
+**Tabla 5. Presión atmosférica**
 
-El **alcance máximo** de una instalación depende principalmente del diámetro de la lanza y de la presión de entrada. Una mayor presión se traduce en una mayor velocidad de salida y, por ende, un mayor alcance. De igual manera, un mayor diámetro de lanza permite un mayor alcance para una misma presión. El alcance máximo se consigue generalmente con un chorro sólido y la máxima apertura de caudal. Por ejemplo, con una presión de 5 kg/cm², una lanza de 25 mm puede alcanzar unos 29 metros, mientras que una de 70 mm puede llegar a 36 metros.
+| Altitud sobre el nivel del mar | Presión atmosférica en m.c.a. |
+| :----------------------------- | :---------------------------- |
+| 0                              | 10,33                         |
+| 200                            | 10,08                         |
+| 400                            | 9,83                          |
+| 600                            | 9,58                          |
+| 800                            | 9,34                          |
+| 1.000                          | 9,11                          |
+| 1.200                          | 8,89                          |
+| 1.400                          | 8,67                          |
+| 1.600                          | 8,45                          |
+| 1.800                          | 8,24                          |
+| 2.000                          | 8,04                          |
+| 2.500                          | 7,56                          |
 
-## Reacción en Lanza
+**Tabla 6. Pérdida de aspiración**
 
-El **principio de acción y reacción** se manifiesta en las lanzas de extinción como un empuje o retroceso sobre el portador, debido a la fuerza ejercida por el agua al salir a una velocidad determinada. Este empuje puede calcularse con la fórmula:
-$E = P \cdot S$
-Donde $E$ es el empuje (fuerza), $P$ es la presión y $S$ es la superficie de salida.
+| Temperatura en ºC | Pérdida de aspiración en m.c.a. |
+| :---------------- | :----------------------------- |
+| 10                | 0,125                          |
+| 15                | 0,173                          |
+| 20                | 0,236                          |
+| 25                | 0,32                           |
+| 30                | 0,43                           |
+| 35                | 0,57                           |
+| 40                | 0,745                          |
 
-El empuje aumenta con la presión y el diámetro del chorro. Para un mismo diámetro, a mayor presión, mayor empuje; y para una misma presión, a mayor diámetro, mayor empuje. En el caso de chorros cónicos, el empuje disminuye a medida que el ángulo del cono se amplía, llegando a anularse aproximadamente a los 180º.
-Para las mangueras que quedan en espera en un tendido, es crucial colocarlas en posición de cortina de protección para reducir el empuje inicial, minimizar daños y proporcionar mayor seguridad al personal.
+**1.3. Cebado de bomba**
 
-## Minimización del Golpe de Ariete
+Una bomba centrífuga genera una presión considerable en la tubería de impulsión, pero su capacidad de succión en la tubería de aspiración es mínima. Por ello, es esencial que el líquido a bombear llegue a la entrada de la bomba y la inunde antes de su funcionamiento. Esta operación se denomina cebado.
 
-El **golpe de ariete** (también conocido como pulso de Zhukowski) es un fenómeno peligroso que se produce en una tubería debido a cambios abruptos en el caudal de un fluido, generando sobrepresiones y depresiones significativas que pueden llegar a romper los conductos.
-Para mitigar este riesgo, se recomienda que las operaciones de apertura y cierre de las válvulas se realicen de manera lenta y controlada, permitiendo que la instalación absorba progresivamente las variaciones de caudal y presión, evitando así los efectos súbitos y potencialmente destructivos.
+El cebado es fundamental (salvo cuando el nivel del agua a aspirar está por encima de la bomba), ya que sin él, la bomba no solo no funciona, sino que puede sufrir averías por girar en vacío (falta de lubricación y refrigeración del rodete).
+
+Existen varios dispositivos de cebado:
+*   **Cebado por eyector de gases:** Utiliza el efecto Venturi de los gases de escape del motor del vehículo que acciona la bomba.
+*   **Cebado por depresor de vacío:** Emplea una bomba de vacío específica, generalmente eléctrica.
+*   **Cebado de bombas por anillo de agua:** Usa una bomba volumétrica.
+*   **Bombas autocebantes:** Disponen de un depósito de agua propio para llenar el cuerpo de bomba y la tubería de aspiración.
+*   **Cebado por bomba de pistones.**
+
+Una vez que el agua y el rodete entran en contacto, el cebado se considera completado. Posteriormente, el rodete de la bomba crea el vacío necesario en la entrada y atrae más agua, momento en el que el sistema de cebado debe desconectarse.
+
+**1.4. Cavitación**
+
+La cavitación se define como la formación de vapor de agua debido a un descenso local de la presión por debajo de la presión de saturación del líquido a su temperatura, seguido de una brusca condensación. Implica la ebullición del líquido a temperatura ambiente por presiones muy bajas.
+
+Las partículas de agua reducen su presión al acercarse a la bomba, y esta presión disminuye aún más en el rodete. Si la presión en algún punto cae por debajo de la presión de vapor, se forman burbujas de vapor. Estas burbujas son arrastradas por el flujo hacia zonas de mayor presión, donde se condensan súbitamente (implosión). La vaporización del agua aumenta su volumen unas 1700 veces, y la condensación lo reduce en la misma proporción, lo que provoca que el agua golpee las superficies internas (álabes) de la bomba. Este fenómeno, también conocido como aspiración en vacío, genera presiones locales que pueden alcanzar los 1000 kg/cm², causando deterioro rápido (picaduras, corrosión mecánica) y vibraciones. La altura geométrica máxima de aspiración, entre 8 y 8,5 metros, se determina para evitar este fenómeno.
+
+Menos comúnmente, la cavitación puede ocurrir por una demanda excesiva de caudal, incluso con alimentación del cuerpo de bomba desde el depósito del vehículo. En estos casos, la pérdida de carga en la tubería de aspiración aumenta, reduciendo la presión del agua en contacto con el rodete por debajo de la presión de vapor, debido a una gran aceleración del fluido en instalaciones con baja pérdida de carga.
+
+En la práctica, la cavitación se manifiesta con grandes alturas de aspiración y/o caudales. Se forman vacíos puntuales en los extremos de los rodetes donde el agua adquiere alta velocidad y su presión disminuye. Esto desequilibra el rodete y degrada los rodamientos. Las corrosiones en el rodete facilitan la recurrencia de la cavitación.
+
+Para evitar la cavitación, se recomienda:
+*   Reducir las alturas de aspiración.
+*   Reducir los caudales de trabajo de la bomba.
+*   Disminuir las pérdidas de carga aumentando la sección de los mangotes de aspiración.
+
+**1.5. Acoplamiento de bombas**
+
+Las bombas pueden acoplarse de dos maneras:
+*   **En paralelo:** Dos o más bombas se conectan con sus entradas y salidas unidas. Se mantiene la misma altura manométrica que una sola bomba, pero el caudal de agua aportado aumenta considerablemente.
+
+    Matemáticamente:
+    *   Hm = Hm1 = Hm2 = Hm3 = Hm4 = …….+ Hmn
+    *   Q = Q1 + Q2 + Q3 + Q4 + ………= Qn
+
+*   **En serie:** Dos o más bombas se conectan de forma que la salida de una es la entrada de la siguiente. Se obtiene el mismo caudal que con una sola bomba, pero el incremento de presión es significativamente mayor, adecuado para impulsiones a gran altura.
+
+    Matemáticamente:
+    *   Hm = Hm1 + Hm2 + Hm3 + Hm4 +…….+ Hmn
+    *   Q = Q1 = Q2 = Q3 = Q4 =……………= Qn
+
+**2. Instalación hidráulica**
+
+El propósito de una instalación hidráulica de extinción es transportar un agente extintor (agua o espumante) desde su fuente de suministro hasta el foco del incendio. Una instalación básica incluye una bomba, una manguera y una lanza. El objetivo es lograr un caudal y velocidad de fluido adecuados en la lanza para combatir la carga de fuego desde una distancia segura.
+
+La ecuación de línea es: PB = PL + HG + PC.
+*   **PB:** Altura de presión a la salida de la bomba.
+*   **PL:** Altura de presión en punta de lanza.
+*   **HG:** Altura geométrica (desnivel entre bomba y lanza, positiva si se gana altura, negativa si se pierde).
+*   **PC:** Pérdidas de carga en mca (metros de columna de agua).
+
+**2.1. Pérdidas de carga en una instalación**
+
+Las pérdidas de carga son pérdidas energéticas que ocurren en un fluido en movimiento debido a resistencias como rozamientos y turbulencias. En una instalación, el fluido pierde presión por la fricción entre sus partículas y contra las paredes de la tubería. Estas pérdidas pueden ser:
+*   **Continuas (lineales):** A lo largo de conductos regulares.
+*   **Locales (singulares):** Por circunstancias específicas como estrechamientos, cambios de dirección o válvulas.
+
+Las pérdidas de carga continuas resultan de la fricción entre las líneas de corriente del fluido y las paredes del conducto. Su observación es intuitiva, ya que la presión de un líquido en movimiento disminuye a lo largo de un conducto.
+
+
+
+*Continuación de la página 80, columna derecha:*
+
+Para un mismo diámetro de lanza, el empuje aumenta con la presión, y para una misma presión, el empuje es mayor con un diámetro mayor. Si se utiliza un chorro cónico en lugar de sólido, el empuje disminuye a medida que el cono se ensancha, llegando a anularse a aproximadamente 180º. Al desplegar una línea y dejarla en espera, se debe usar la posición de cortina de protección para reducir el empuje inicial, minimizar daños y aumentar la seguridad durante la operación.
+
+**2.6. Minimización del golpe de ariete**
+
+Desde la perspectiva de los bomberos, el golpe de ariete representa un peligro, ya que un aumento súbito de presión provoca una reacción brusca en la instalación. Para minimizar este riesgo, se recomienda realizar las operaciones de apertura y cierre de las válvulas lentamente y de forma controlada, permitiendo que la instalación absorba el esfuerzo de manera progresiva.

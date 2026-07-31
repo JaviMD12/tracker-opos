@@ -1,104 +1,88 @@
-Aquí tienes el temario original de oposiciones de bomberos y emergencias, elaborado a partir del texto proporcionado:
+## Temario de Oposiciones de Bomberos y Emergencias: Técnicas de Estabilización
 
-# Elementos Complementarios de la Edificación: Cubiertas y Cerramientos Exteriores
+### Apeos en Muros de hasta 3 metros de altura (h<3m)
 
-La edificación, en su concepción integral, se compone de una serie de elementos fundamentales que, si bien no siempre son estructurales en el sentido de soportar cargas primarias del edificio, son cruciales para su funcionalidad, habitabilidad y protección frente a los agentes externos. Dentro de estos, se distinguen los **elementos complementarios**, que incluyen las cubiertas y los cerramientos exteriores, cada uno con funciones y características específicas.
+**Notas Generales:**
+*   **Composición del apeo**: En los esquemas se ilustra un único conjunto elemental; un apeo completo estará constituido por la cantidad necesaria de estos conjuntos elementales.
+*   **Dimensiones y acotaciones**: Son genéricas. El mando de intervención debe adaptar la capacidad mecánica del apeo a la carga previsible.
+*   **Materiales**: Es posible emplear geometrías y calidades de material diferentes a las especificadas en los planos, siempre que se considere el correspondiente cambio en la capacidad mecánica.
+*   **Capacidad mecánica elemental**: El conjunto elemental representado posee una capacidad mecánica de 20 kN, aplicada como carga puntual horizontal a 2 metros de altura.
+*   **Número de conjuntos**: Se dispondrán tantos conjuntos elementales como sean necesarios para cubrir la zona afectada o la carga previsible. Para su determinación, se tendrán en cuenta las siguientes acciones:
+    *   **Muros expuestos a viento**: 1.5 kN/m².
+    *   **Fachadas desplomadas de fábrica**:
+        *   Con 20 cm de espesor: para 10º de inclinación: 0.9 kN/m²; para 20º: 1.8 kN/m²; para 30º: 2.9 kN/m².
+        *   Con 50 cm de espesor: para 10º de inclinación: 2.2 kN/m²; para 20º: 4.5 kN/m²; para 30º: 7.2 kN/m².
+    *   **Depósitos de agua (carga)**:
+        *   1 metro de profundidad: 5 kN/m².
+        *   2 metros de profundidad: 10 kN/m².
+        *   3 metros de profundidad: 15 kN/m².
+    *   **Contención de tierras**:
+        *   Para 1 metro de profundidad: arcilla 4.9 kN/m², grava/arena 3.3 kN/m².
+        *   Para 2 metros de profundidad: arcilla 9.8 kN/m², grava/arena 6.7 kN/m².
+        *   Para 3 metros de profundidad: arcilla 14.7 kN/m², grava/arena 10 kN/m².
+*   **Distancia entre conjuntos (d)**: Se calcula mediante la fórmula `d = capacidad apeo / (carga x altura) = 20KN / (c x h)`.
+*   La distancia entre conjuntos no debe exceder los 4 metros.
+*   **Anclaje en trasdós inaccesible**: Si el trasdós del muro no es accesible, se puede aplicar una solución de anclaje utilizando 5 varillas de Ø10 mm, similar a la disposición en el suelo.
 
-## Cubiertas: Estructura y Protección Superior
+### Apeos en Muros de hasta 6 metros de altura (h<6m)
 
-Una **cubierta** es el conjunto de elementos constructivos, ya sean inclinados u horizontales, que delimitan superiormente una edificación. Su propósito primordial es resguardar el interior de la vivienda de los elementos meteorológicos, garantizando a su vez unas condiciones de **confort** adecuadas para el uso previsto del espacio.
+**Notas Generales:**
+*   **Composición del apeo**: Los planos muestran un único conjunto elemental. Un apeo completo estará formado por la cantidad necesaria de estos conjuntos elementales.
+*   **Dimensiones y acotaciones**: Son genéricas. El mando de intervención debe ajustar la capacidad mecánica del apeo a la carga previsible.
+*   **Materiales**: Es posible emplear geometrías y calidades de material distintas a las especificadas en los planos, considerando el correspondiente cambio en la capacidad mecánica.
+*   **Capacidad mecánica elemental**: El conjunto elemental representado en el plano posee una capacidad mecánica de 20 kN (carga puntual horizontal a 2 m de altura) más 15 kN (carga puntual horizontal a 4.5 m de altura).
+*   **Número de conjuntos**: Se dispondrán tantos conjuntos elementales como sean necesarios para cubrir la zona afectada o la carga previsible. Para su determinación, se tendrán en cuenta las siguientes acciones:
+    *   **Muros expuestos a viento**: 1.5 kN/m².
+    *   **Fachadas desplomadas de fábrica**:
+        *   Con 20 cm de espesor: para 10º de inclinación: 0.9 kN/m²; para 20º: 1.8 kN/m²; para 30º: 2.9 kN/m².
+        *   Con 50 cm de espesor: para 10º de inclinación: 2.2 kN/m²; para 20º: 4.5 kN/m²; para 30º: 7.2 kN/m².
+    *   **Depósitos de agua (carga)**:
+        *   1 metro de profundidad: 5 kN/m².
+        *   2 metros de profundidad: 10 kN/m².
+        *   3 metros de profundidad: 15 kN/m².
+    *   **Contención de tierras**:
+        *   Para 1 metro de profundidad: arcilla 4.9 kN/m², grava/arena 3.3 kN/m².
+        *   Para 2 metros de profundidad: arcilla 9.8 kN/m², grava/arena 6.7 kN/m².
+        *   Para 3 metros de profundidad: arcilla 14.7 kN/m², grava/arena 10 kN/m².
+*   **Distancia entre conjuntos**: No debe exceder los 4 metros.
+*   **Anclaje en trasdós inaccesible**: Si el trasdós del muro no es accesible, la solución de anclaje con 5 varillas de Ø10 mm, dispuestas como en el suelo, puede ser aplicada.
 
-La cubierta desempeña una doble función esencial:
-1.  **Función resistente**: Debe soportar las cargas estructurales inherentes, como el peso de sus propios componentes y las sobrecargas generadas por fenómenos meteorológicos (nieve, viento, variaciones térmicas) o acciones sísmicas.
-2.  **Función de soporte**: Actúa como base para los elementos de la cobertura, que incluyen el **aislamiento** (térmico, acústico, barrera de vapor), la **impermeabilización**, y diversas **instalaciones** como antenas, pararrayos, chimeneas, elementos de ventilación, accesos para mantenimiento, equipos de aire acondicionado y colectores solares.
+### Apuntalamientos de Forjados de hasta 3 metros de altura (h<3m) con Fallo en Apoyo
 
-La **geometría** y **dimensiones** de los elementos sustentantes de la cubierta varían significativamente según la inclinación de sus planos, dando lugar a lo que se conoce como **entramado inclinado**.
+**Notas Generales:**
+*   **Conjunto elemental**: Los planos muestran una única unidad elemental. El apeo completo se compondrá de tantos conjuntos elementales como sean necesarios.
+*   **Acotaciones y dimensiones**: Son genéricas. El Mando de Intervención debe ajustar la capacidad mecánica del apeo a la solicitación previsible.
+*   **Materiales**: Pueden emplearse geometrías y calidades de material distintas a las especificadas, considerando el cambio de capacidad mecánica.
+*   **Capacidad mecánica elemental**: El conjunto elemental esquematizado posee una capacidad mecánica de 50 kN/puntal (carga uniformemente distribuida entre dos puntales).
+*   **Conjuntos elementales requeridos**: Se dispondrán tantos conjuntos elementales como sean necesarios para cubrir la zona afectada o la carga prevista. Para ello, se considerarán las siguientes acciones:
+    *   **Peso propio (vivienda)**: 3 kN/m².
+    *   **Peso propio (garaje)**: 5 kN/m².
+    *   **Sobrecarga (cubierta)**: 2 kN/m².
+    *   **Sobrecarga (vivienda)**: 3 kN/m².
+    *   **Sobrecarga (dotacional)**: 4 kN/m².
+    *   **Sobrecarga (garaje)**: 10 kN/m².
+*   **Cálculo del número de puntales (n) y distancias (d, d*)**:
+    *   `n = superficie x carga / capacidad por puntal = A x c / 50` (mínimo 4).
+    *   `d = d* = (superficie / nº puntales) ^ 2 = (A / n) ^ 2`.
+*   **Restricción de distancia entre conjuntos**: La distancia entre conjuntos no debe superar la distancia entre viguetas.
+*   **Continuidad del apeo**: El apeo representado debe extenderse desde el elemento dañado hasta el forjado a nivel de calle o, como mínimo, tres forjados por debajo, para asegurar su continuidad.
 
-### Tipologías de Cubiertas por Inclinación
+### Apuntalamientos de Forjados de hasta 3 metros de altura (h<3m) con Fallo por Flexión
 
-Las cubiertas se clasifican, según su **inclinación** y el **sistema de drenaje**, en inclinadas o planas. La climatología del lugar de construcción es un factor determinante en la elección del tipo de cubierta.
-
-#### Cubiertas Inclinadas (Tejados)
-
-Los **tejados** se caracterizan por planos inclinados o **faldones** que expulsan el agua hacia el exterior, bien directamente por el **alero** (parte inferior sobresaliente de la cubierta) o recogiéndola en **canalones perimetrales** para conducirla a bajantes o gárgolas. Según el Código Técnico de la Edificación (CTE DB HS1), se consideran tejados aquellas cubiertas con una **pendiente mínima del 5%**.
-
-Los elementos característicos de las cubiertas inclinadas incluyen:
-*   **Caballete, cumbrera o gallur**: La arista superior del tejado.
-*   **Faldón**: Un plano triangular o trapezoidal de la cubierta, delimitado por el caballete y, por lo general, dos **limatesas**.
-*   **Hastial o piñón**: La parte superior triangular de una fachada, sobre la que descansan las dos vertientes del tejado.
-*   **Limas**: Aristas oblicuas formadas por el encuentro de dos faldones. Se distinguen las **limahoyas** (ángulo reentrante que recoge el agua de lluvia) y las **limatesas** (ángulo saliente que expulsa el agua).
-*   **Lucernarios**: Elementos integrados en la cubierta para la iluminación y ventilación interior. Pueden recibir denominaciones tradicionales como **beata**, **buharda**, **claraboya** o **linterna** (esta última es un lucernario elevado y opaco en la parte superior).
-*   **Peto**: Un faldón triangular de menor tamaño, delimitado por dos limas.
-
-Según el número de **faldones** y su disposición, los tejados pueden ser:
-*   **A una agua**: Un solo faldón sin cumbrera, requiriendo un único canalón.
-*   **A dos aguas**: Dos faldones opuestos con una línea de cumbrera. Pueden presentar variantes como la **cubierta de mariposa** (con la cumbrera convertida en limahoya) o la **quebrantada** (con el faldón inferior más inclinado que el superior).
-*   **A cuatro o más aguas (múltiple)**: Cuatro o más faldones orientados perpendicularmente, incluyendo la **cubierta de pabellón** (forma piramidal).
-*   **Poliédricas**: Con más de cuatro vertientes, menos comunes.
-*   **En dientes de sierra (SHED)**: Compuestas por cerchas asimétricas con faldones de diferente inclinación (uno más largo y menos inclinado para la cobertura, y otro más inclinado, a menudo acristalado, orientado al Norte para iluminación uniforme). Un ejemplo notable son los "Huesos de Miguel Fisac", estructuras de hormigón armado con cantos de 1 m y espesores de 5 cm, capaces de cubrir luces de hasta 20 m.
-
-Las **pendientes mínimas** requeridas para cubiertas inclinadas sin capa de impermeabilización, según el CTE DB HS1, varían considerablemente en función del material:
-*   **Tejas**: Curva (32%), Mixta y plana monocanal (30%), Plana marsellesa o alicantina (40%), Plana con encaje (50%).
-*   **Pizarra**: 60%.
-*   **Placas y perfiles metálicos**: Zinc (10%), Fibrocemento (onda grande 10%, nervadura grande 10%, nervadura media 25%), Perfiles ondulados (grandes 10%, pequeños 15%), Perfiles grecados (grandes 5%, medios 8%, nervados 10%).
-*   **Galvanizados**: Perfiles ondulados pequeños (15%), Perfiles grecados o nervados (grandes 5%, medios 8%, pequeños 10%).
-*   **Paneles**: 5%.
-*   **Aleaciones ligeras**: Perfiles ondulados pequeños (15%), Perfiles nervados medios (5%).
-
-#### Cubiertas Planas (Terrazas o Azoteas)
-
-Las **cubiertas planas**, también conocidas como **terrazas** o **azoteas**, son superficies fundamentalmente horizontales que recogen el agua de lluvia y la conducen a sumideros mediante bajantes y gárgolas. Aunque suelen tener una **pendiente generalmente inferior al 5%**, el CTE DB HS1 permite inclinaciones mayores en ciertos casos. A diferencia de las cubiertas inclinadas, las planas posibilitan el **desarrollo de actividades** sobre ellas, como tránsito de personas o vehículos, o la instalación de jardines.
-
-Las **pendientes mínimas** hacia los sumideros varían según el uso:
-*   **Transitables**:
-    *   Para **peatones**: Solado fijo o flotante (1-5%).
-    *   Para **vehículos**: Capa de rodadura (1-5%).
-*   **No transitables**:
-    *   **Grava**: 1-5%.
-    *   **Lámina autoprotegida**: 1-15%.
-*   **Ajardinadas**: Tierra vegetal (1-5%).
-    *   En el caso de **rampas**, no se aplica la limitación de pendiente máxima.
-
-Los **elementos** de las cubiertas planas incluyen:
-*   **Antepecho**: Parte inferior maciza que se eleva desde el nivel del suelo para proteger contra caídas, rematada superiormente con una pieza vierteaguas.
-*   **Lucernario**: Similar al de cubiertas inclinadas, pero en cubiertas planas puede generar **humedades**.
-*   **Sumidero**: Punto más bajo de cada sección de la cubierta para recoger el agua.
-*   **Cuartel o paño**: Equivalente a los faldones de las cubiertas inclinadas.
-*   **Canaletas**: Sumideros lineales para la recogida de agua.
-*   **Junta de dilatación**: Discontinuidad estructural para prevenir deformaciones térmicas.
-*   **Albardilla**: Piezas que coronan un muro, diseñadas para evacuar el agua de lluvia y prevenir filtraciones.
-*   **Chimeneas e instalaciones**: Elementos constructivos del edificio que atraviesan o se apoyan en la cubierta.
-
-### Tipologías de Cubiertas por Disposición del Aislante
-
-La forma en que se coloca el aislamiento térmico define diferentes tipos de cubiertas:
-*   **Tradicional**: La capa de **impermeabilización** se instala sobre el aislamiento.
-*   **Invertida**: El **aislamiento** se coloca sobre la capa de impermeabilización para protegerla. La capa superior es el acabado. Para esta tipología, solo se pueden usar **aislamientos no degradables** al contacto con el agua.
-*   **Frías**: Presentan una **cámara de aire** ventilada entre el aislamiento y el impermeabilizante. Un ejemplo es la "Cubierta a la catalana", que propicia una ventilación natural para atenuar las altas temperaturas en su parte superior.
-*   **Calientes**: El aislamiento y el impermeabilizante están en **contacto directo**, sin cámara de aire. Un ejemplo son las "Cubiertas a Deck".
-
-Los **elementos singulares** de las cubiertas (como barandillas, sumideros, juntas de dilatación y antenas) son puntos críticos por donde pueden producirse filtraciones de agua y, por lo tanto, deben tratarse con especial atención para garantizar la **estanqueidad**.
-
-## Cerramientos Exteriores: La Envolvente del Edificio
-
-Los **cerramientos exteriores** son el conjunto de elementos que conforman la envolvente externa de la edificación, cuya función principal es proteger el interior de los agentes externos como la temperatura, el agua (en sus diversos estados: sólido, líquido, gaseoso) y el viento, además de mitigar los ruidos. Estos cerramientos, que constituyen la "piel" del edificio (siendo la cubierta considerada la quinta fachada), se diseñan y caracterizan según su **uso** y **orientación**.
-
-Las **características generales** de los cerramientos exteriores abarcan:
-*   **Aislamiento térmico**: Fundamental para el confort interior, influido por la **transmitancia térmica** (capacidad de transmisión de calor) y la **inercia térmica** (capacidad de retener calor, mayor en materiales de alta densidad).
-*   **Condensación superficial interna**: Evitar que la temperatura de la superficie interior del cerramiento descienda por debajo del **punto de rocío** del aire.
-*   **Estanqueidad**: Impermeabilización total contra la penetración de agua de lluvia o nieve.
-
-### Tipologías de Cerramientos Exteriores
-
-Se distinguen dos tipologías básicas de cerramientos exteriores:
-1.  **Cerramientos pesados**: Aquellos con un peso medio, macizo y hueco, **superior a 100 kg/m²**. Incluyen:
-    *   **Cerramientos de una hoja**: Fachadas tradicionales de gran espesor, construidas con piedra (mampostería, sillería), arcilla (tapia) o cerámica, o una mezcla de ellas. Suelen tener mínima impermeabilidad y alta condensación superficial, pero gran inercia térmica.
-    *   **Cerramientos trasdosados**: Compuestos por dos hojas (un muro exterior, aislamiento y tabique interior), generalmente sin función estructural. Mejoran significativamente el aislamiento térmico y se basan en la superposición de capas de distintas características. El aislamiento puede ser de **corcho, fibra de vidrio o poliuretano**, con espesores medios de 7-10 cm. Se pueden dar dos situaciones respecto a las **condensaciones**: **aislamiento degradable** (requiere barrera de vapor en el lado caliente) y **aislamiento no degradable** (se puede aplicar indistintamente). La ventilación de las cámaras de aire puede ser **estanca** (climas fríos y secos) o **ventilada** (climas cálidos y húmedos).
-    *   **Tabiques pluviales**: Sistemas constructivos para impermeabilizar y aislar paredes medianeras expuestas, construyendo una segunda hoja paralela con una cámara de aire ventilada para evitar humedades y condensaciones.
-
-2.  **Cerramientos ligeros**: Fachadas con elementos de bajo peso, **inferior a 100 kg/m²**, y pequeño espesor (10-15 cm). Comprenden:
-    *   **Muros cortina**: Fachadas ligeras cuya estructura auxiliar está suspendida de los forjados. Se anclan al canto de los forjados y presentan continuidad vertical, compuestas por aluminio, acristalamientos transparentes y zonas opacas.
-    *   **Fachadas panel**: Su estructura auxiliar se apoya en cada forjado, dividiendo la fachada en paneles o zonas independientes. Son de idéntica naturaleza a los muros cortina pero con mayores dimensiones.
-    *   **Fachadas ventiladas o trasventiladas**: Similares a los muros cortina, pero con montantes anclados a muros de fábrica y piezas de cerramiento pesadas (placas de piedra o cerámica). Permiten la ventilación del aislamiento térmico a través de rendijas entre los paneles.
-
-En resumen, la correcta identificación y comprensión de las propiedades y el comportamiento de las cubiertas y cerramientos exteriores son fundamentales para una intervención eficaz en situaciones de emergencia, permitiendo a los equipos de bomberos anticipar riesgos y aplicar las técnicas más adecuadas.
+**Notas Generales:**
+*   **Conjunto elemental**: En los planos se muestra un único conjunto elemental. El apeo completo estará constituido por la cantidad necesaria de estos conjuntos.
+*   **Acotaciones y dimensiones**: Son genéricas. El Mando de Intervención deberá adaptar la capacidad mecánica del apeo a la solicitación previsible.
+*   **Materiales**: Es posible emplear geometrías y calidades de material diferentes a las especificadas en los planos, considerando el correspondiente cambio en la capacidad mecánica.
+*   **Capacidad mecánica elemental**: El conjunto elemental ilustrado posee una capacidad mecánica de 25 kN/puntal (carga uniformemente distribuida sobre durmientes).
+*   **Conjuntos elementales requeridos**: Se dispondrán tantos conjuntos elementales como sean necesarios para cubrir la zona afectada o la carga previsible. Para su determinación, se tendrán en cuenta las siguientes acciones:
+    *   **Peso propio (vivienda)**: 3 kN/m².
+    *   **Peso propio (garaje)**: 5 kN/m².
+    *   **Sobrecarga (cubierta)**: 2 kN/m².
+    *   **Sobrecarga (vivienda)**: 3 kN/m².
+    *   **Sobrecarga (dotacional)**: 4 kN/m².
+    *   **Sobrecarga (garaje)**: 10 kN/m².
+*   **Cálculo del número de puntales (n) y distancias (d, d*)**:
+    *   `n = superficie x carga / capacidad por puntal = A x c / 25` (mínimo 4).
+    *   `d = d* = (superficie / nº puntales) ^ 2 = (A / n) ^ 2`.
+*   **Esquema general en planta**.
+*   **Continuidad del apeo**: El apeo representado debe extenderse hasta el forjado a nivel de calle o al menos tres forjados por debajo del elemento afectado para asegurar su continuidad.

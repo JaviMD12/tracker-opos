@@ -1,131 +1,94 @@
-Los sismos o terremotos, definidos como sacudidas bruscas y pasajeras de la corteza terrestre resultantes de la liberación de energía acumulada en forma de ondas sísmicas, son fenómenos naturales de gran impacto en las estructuras edificadas y en el terreno. El punto de origen de un terremoto en el interior de la Tierra se denomina **hipocentro**, mientras que el punto de la superficie directamente sobre él se conoce como **epicentro**.
+## Temario de Oposiciones de Bomberos y Emergencias: Riesgos Tecnológicos y Asistencias Técnicas - Edificaciones (Continuación)
 
-### Causas y efectos de los sismos
+### 10. Patología en la Edificación
 
-La causa más común de los terremotos es la **ruptura de fallas geológicas**. No obstante, también pueden originarse por la fricción en los bordes de las placas tectónicas, la actividad volcánica o incluso por actividades humanas como detonaciones nucleares subterráneas, que generan los llamados "terremotos inducidos". Las consecuencias de un sismo pueden ser diversas, incluyendo desplazamientos de la corteza terrestre, corrimientos de tierras, tsunamis y actividad volcánica. Si el foco sísmico se localiza bajo el mar, puede generar **tsunamis**, caracterizados por un rápido movimiento vertical del agua, un gran desplazamiento de masa de agua y olas de grandes dimensiones.
+#### 10.2.3. Patologías por Causas Accidentales – Sismo
 
-La energía sísmica se transmite a través de ondas elásticas, similares al sonido, que se propagan tanto por el interior de la Tierra como por su superficie. Se distinguen varios tipos de ondas sísmicas:
+La corteza terrestre se concibe como un complejo mosaico de siete placas tectónicas, las cuales experimentan un movimiento continuo que oscila entre 2 y 20 centímetros por año. En las zonas de contacto entre estas placas, este movimiento puede manifestarse como:
 
-1.  **Ondas Interiores**:
-    *   **Ondas Longitudinales o Primarias (P)**: Vibran en la misma dirección que su propagación, a través de compresión y refracción. Viajan a velocidades de 8 a 12 km/s y pueden atravesar tanto líquidos como sólidos. Son las primeras en ser registradas por los sismógrafos.
-    *   **Ondas Transversales o Secundarias (S)**: Vibran perpendicularmente a su propagación, mediante cizalladura. Sus velocidades oscilan entre 4 y 8 km/s y solo pueden propagarse a través de sólidos. Se registran en segundo lugar.
-2.  **Ondas Superficiales**: Resultan de la interacción de las ondas P y S. Son más lentas (entre 2.7 y 3 km/s), pero presentan mayor amplitud y duración, lo que las hace más destructivas. Se clasifican en:
-    *   **Ondas Rayleigh**: Con trayectoria elíptica retrógrada.
-    *   **Ondas Love**: Similares a las ondas S, pero se propagan en la superficie terrestre y perpendicularmente a la dirección de propagación.
+*   Acumulación de tensión con posterior liberación de energía mediante un terremoto, acompañado de un desplazamiento abrupto (en placas con movimiento divergente o de deslizamiento).
+*   Afloramiento de material magmático (en placas con movimiento convergente).
 
-### Medición y valoración de sismos
+Un terremoto, o sismo, se define como una sacudida brusca y transitoria de la corteza terrestre, resultante de la liberación de energía acumulada en forma de ondas sísmicas. El punto de origen del sismo en el interior de la Tierra se conoce como **hipocentro**, mientras que el punto en la superficie terrestre directamente sobre este se denomina **epicentro**.
 
-Para cuantificar un terremoto se emplean principalmente dos escalas:
+**a) Causas de los sismos**
 
-*   La **escala de Richter**, que mide la energía liberada y se expresa en números decimales, aumentando exponencialmente (por ejemplo, una magnitud 4 es cien veces mayor que una magnitud 2). Es efectiva para profundidades de hasta 400 km y requiere datos sismográficos, tardando varios días en su cálculo.
-*   La **escala MSK**, que valora la intensidad macrosísmica basándose en los efectos destructivos sobre las construcciones humanas, los cambios en el terreno y el impacto en la población. Se expresa en números romanos (I-XII) y es proporcional, sirviendo de base para la Escala Macroseísmica Europea (EMS).
+Los terremotos son principalmente causados por la ruptura de fallas geológicas. No obstante, pueden tener otras causas secundarias, tales como:
 
-### Factores que influyen en el comportamiento sísmico de edificios
+*   Fricción en los límites de las placas tectónicas.
+*   Procesos volcánicos.
+*   Actividades humanas, como detonaciones nucleares subterráneas (conocidos como terremotos inducidos).
 
-Diversos factores inciden en la dinámica y los efectos de un sismo en las edificaciones:
+Las consecuencias de un terremoto varían según su intensidad y origen, pudiendo provocar desplazamientos de la corteza terrestre, corrimientos de tierra, tsunamis o actividad volcánica. La energía liberada se mide con diversas escalas, siendo la escala Richter (de magnitud) y la MSK (de intensidad) las más conocidas. Si el foco sísmico se localiza bajo el mar, puede generar un tsunami o maremoto, caracterizado por un rápido movimiento vertical, el desplazamiento de grandes masas de agua y la formación de grandes olas.
 
-*   **Factores Primarios**:
-    *   La **magnitud** y la **profundidad del hipocentro**.
-    *   El **tipo de suelo**, que modifica las características de las sacudidas, dependiendo de su dureza, espesor y presencia de agua.
-    *   La **tipología constructiva** de las edificaciones, ya que muchas no están diseñadas para resistir movimientos laterales.
-*   **Factores Secundarios**:
-    *   La **adecuación de las cimentaciones** al tipo y pendiente del terreno.
-    *   La **separación entre edificios**, cuya ausencia puede provocar el "fenómeno aplauso" por impactos mutuos.
-    *   La ocurrencia de **incendios**, causados por la rotura de conducciones de gas o cortocircuitos eléctricos.
+**d) Escalas de Medición de Sismos**
 
-### Efectos del sismo en el terreno
+Las escalas de medición más relevantes son:
 
-Los efectos más notables de un sismo en el terreno se observan en suelos poco firmes, saturados de agua, blandos o con zonas deslizantes. Entre ellos destacan:
+*   **I. Escala Richter:**
+    *   Mide la energía liberada por el terremoto, basándose en registros sismográficos.
+    *   Se expresa en números decimales.
+    *   Su crecimiento es exponencial: un aumento de un punto en la magnitud puede significar una energía diez veces mayor (ej., una magnitud 4 es 100 veces mayor que una magnitud 2).
+    *   Es efectiva para terremotos con epicentro hasta 400 km de profundidad.
+    *   La cuantificación de la energía liberada requiere combinar los registros de sismógrafos ubicados en diferentes puntos, un proceso que puede durar varios días.
+*   **II. Escala MSK:**
+    *   Mide la intensidad macrosísmica basándose en los efectos destructivos sobre edificaciones humanas, cambios en el terreno y el grado de afectación a la población.
+    *   Se expresa en números romanos (I-XII) para evitar el uso de decimales.
+    *   Es proporcional (ej., el grado IV tiene el doble de intensidad que el grado II).
+    *   Sirvió como base para la Escala Macrosísmica Europea (EMS).
+    *   *Nota: Los terremotos con una magnitud Richter inferior a 3,5 generalmente no son sentidos.*
 
-*   **Desplazamiento de tierras**: Se produce cuando un estrato de tierra se desliza sobre otro inferior, facilitado por la saturación de agua y la pendiente.
-*   **Licuefacción del terreno**: Un fenómeno en el cual los suelos granulares no cohesivos saturados de agua se comportan como un líquido pesado. A nivel microscópico, la presión del agua separa las partículas del suelo, los granos más densos se decantan y el lodo o agua más ligera asciende. Macroscópicamente, se observan expulsiones de agua y fango, compactación de granos de arena con disminución de volumen, asentamientos o deslizamientos y pérdida de resistencia de los estratos.
+La siguiente tabla resume los efectos sísmicos según la escala MSK:
 
-### Efectos del sismo en las edificaciones
+| Magnitud* | Número de Terremotos | Probable Máx. MSK | Radio Afectado (Km) | Área Afectada (Km²) | Efectos del Terremoto                                  |
+| :-------- | :------------------- | :---------------- | :------------------ | :------------------ | :------------------------------------------------------ |
+| 3-6       | 50.000               | IV – VII          | 100                 | 38.000              | A menudo se siente. Daños leves o ligeros en edificios. |
+| 6-7       | 100                  | VII – VIII        | 200                 | 125.000             | Daños severos en áreas pobladas.                      |
+| 7-7,7     | 15                   | IX – X            | 400                 | 500.000             | Terremoto mayor. Graves daños.                         |
+| >7,7      | 2                    | XI - XII          | 800                 | 2.000.000           | Gran terremoto. Destrucción total de comunidades cercanas. |
 
-El comportamiento de las edificaciones ante un sismo se analiza considerando su geometría y rigidez:
+**e) Mecanismos de Propagación**
 
-*   **Geometría de la estructura**:
-    *   El **centro de masas** y su distribución. Las edificaciones no simétricas o con variaciones significativas de masa pueden sufrir deformaciones diferenciales.
-    *   La **simetría y regularidad** en planta, buscando evitar retranqueos en fachada.
-*   **Rigidez de la estructura**: Las variaciones de rigidez pueden generar puntos de fallo.
-    *   **Efecto pilar corto**: Un elemento superficial (muro) restringe la deformación de un pilar, concentrando tensiones adicionales no previstas. Se manifiesta en plantas bajas con ventanas corridas o en semisótanos con pilares parcialmente embutidos. Las cruces de San Andrés son una solución efectiva.
-    *   **Efecto piso blando**: Se produce en edificios con distribución uniforme de particiones interiores, excepto en una planta (usualmente la baja) que es diáfana. Las particiones internas contribuyen a la rigidez, y su ausencia en un piso lo convierte en un punto débil. Las cruces de San Andrés pueden mitigar este efecto.
-    *   **Fenómeno aplauso**: Ocurre en edificaciones adosadas de diferentes alturas, donde el edificio más bajo impide el desplazamiento del más alto, provocando cizallamiento y punzonamiento en los pilares intermedios de la estructura superior.
-    *   **Fenómeno de rotación o vuelco**: Se refiere a la desviación de los elementos constructivos de su plano vertical. Una rotación hacia el interior es una "rotación interna", mientras que hacia el exterior es "rotación externa". Esto puede deberse al cedimiento del plano de asiento o a empujes laterales, generando grietas verticales o parabólicas.
+El sismo genera movimientos y aceleraciones que se diferencian en dos tipos:
 
-### Patologías por causas constructivas
+*   **I. Movimientos Verticales:**
+    *   Generalmente no son muy problemáticos.
+    *   Un edificio diseñado para soportar cargas verticales simplemente experimenta una sobrecarga adicional por la acción del sismo.
+    *   Una edificación con alta rigidez en desplazamiento vertical no entrará en resonancia vertical.
+*   **II. Movimientos Horizontales:**
+    *   Son considerados graves o muy graves.
+    *   Los elementos diseñados para soportar esfuerzos verticales se ven sometidos a fuerzas oblicuas (peso vertical + oscilación horizontal), lo que provoca una deformación lateral del edificio.
+    *   La estructura tiende a recuperar su forma debido a la elasticidad de sus materiales, oscilando alrededor de su posición de equilibrio.
+    *   Si se supera el límite elástico del material, este puede entrar en régimen plástico (deformación irreversible) o sufrir una rotura frágil.
+    *   Los materiales de construcción más seguros frente a sismos son los más elásticos, como la madera.
 
-Además de las patologías accidentales, las edificaciones pueden sufrir lesiones por causas constructivas, como las relacionadas con el **agua**, el **terreno** y la **calidad de los elementos constructivos**.
+**f) Efectos del Sismo**
 
-*   **Humedades**: La presencia no deseada de agua en los materiales afecta la durabilidad de la edificación y puede ser un origen patológico.
-    *   **Humedades de origen natural**:
-        *   **Capilar**: Asciende desde el terreno por los capilares de muros y tabiques, afectando sótanos y plantas bajas, siendo más común en edificaciones antiguas con materiales porosos.
-        *   **Freática**: Asociada a cambios hidráulicos del terreno (lluvias intensas), elevando el nivel freático y afectando cerramientos bajo rasante si la impermeabilización es inadecuada.
-        *   **Ambiental**:
-            *   **Filtración**: Por agua de lluvia o nieve que penetra por cerramientos exteriores (cubiertas, fachadas, terrazas), descendiendo por gravedad. Se manifiesta como manchas de humedad en techos y partes altas de muros.
-            *   **Condensación**: Por el cambio de estado del vapor de agua en el aire al entrar en contacto con superficies frías interiores o intersticiales. Se produce cuando la temperatura superficial desciende por debajo del punto de rocío.
-    *   **Humedades de origen antrópico**:
-        *   **De obra**: Exceso de agua utilizada en la construcción que debe evaporarse hasta alcanzar el equilibrio hídrico.
-        *   **Accidentales**: Rotura de conducciones de agua (calefacción, saneamiento, sanitario) embutidas en muros o tabiques, causando fugas y desperfectos.
+**I. Sobre el Terreno**
 
-*   **Patologías por asentamientos o cedimientos del terreno**: Pueden manifestarse como **flechas excesivas** en elementos horizontales (vigas, forjados), **hundimiento o deformación excesiva del terreno** debido a una mala elección del terreno, fallos de proyecto o ejecución, o cambios imprevistos en el suelo.
-    *   **Suelos expansivos o arcillas expansivas**: Experimentan cambios de volumen con variaciones de humedad, causando hundimientos, hinchazones y empujes horizontales. Se manifiestan como grietas verticales e inclinadas en ambos sentidos, y nudos estructurales rígidos son especialmente vulnerables al asentamiento diferencial.
-    *   **Corrimientos del terreno**: Similares a cedimientos y rotaciones, pero con características específicas como terreno cuarteado, plano de corrimiento visible, grietas rectilíneas perpendiculares a la pendiente y abombamiento de muros. Incluyen desprendimientos (roca, ángulo >76°), vuelcos (suelo/roca, eje bajo centro de gravedad, ángulo 45-76°), deslizamientos o rodaduras (masa sobre superficie de ruptura, ángulo <45°), expansiones laterales y flujos (líquido viscoso en pendientes con agua).
-    *   **Subsidencias y colapsos**: **Subsidencia** es un hundimiento lento y progresivo por variación de humedad en estratos blandos superficiales. **Colapso** es un hundimiento brusco y rápido por pérdida de compactación en un estrato inferior.
+Los mayores efectos de un sismo se observan en terrenos:
 
-*   **Patologías por aplastamiento**: Reducción de materiales a partículas mínimas con pérdida de cohesión y propiedades mecánicas, debido a un exceso de carga o mala calidad.
-    *   **En elementos verticales (pilares)**:
-        *   **Aplastamiento del hormigón**: Grietas finas en caras opuestas/esquinas, pandeo de barras. Causas: exceso de carga, hormigón deficiente, armadura insuficiente (estribos abiertos/caídos).
-        *   **Desagregación del hormigón**: Pierde resistencia y se desmorona. Causa: ataque químico.
-        *   **Tracción**: Grieta horizontal en soporte. Causas: asiento del cimiento, excavación cercana, elongación del pilar por falta de vigas centradoras.
-        *   **Cortante**: Fisuras en dos caras a 60°, en las otras dos horizontal. Causas: hormigón deficiente, empuje horizontal inesperado, armadura transversal insuficiente, momentos flectores en pilares rígidos, deslizamiento de cimentación.
-        *   **Flexión**: Fisura fina horizontal en cabeza o pie del pilar. Causas: hormigón deficiente, armadura insuficiente, aumento de momento por asiento, anclaje incorrecto de pilar superior.
-        *   **Pandeo**: Grietas horizontales en una cara, recubrimiento salta. Causas: sección/armadura insuficiente, exceso de carga en pilares esbeltos.
-    *   **En elementos horizontales (forjados)**: Aplastamiento en forjados de hormigón armado, con fisuras grandes y rotura brusca. La compresión máxima puede ocurrir en el centro o en la unión con el pilar según el tipo de viga.
-    *   **Aplastamiento local o diferencial**: Debido a cargas verticales puntuales excéntricas, generando esfuerzos horizontales en la coronación del muro.
+*   Poco firmes.
+*   Saturados de agua.
+*   Blandos.
+*   Con zonas deslizantes.
 
-*   **Patologías por causas accidentales – Incendio**:
-    *   **Acero**: Material incombustible pero pierde resistencia rápidamente con el calor.
-        *   **Conductividad térmica alta**: Disipa y propaga el calor rápidamente.
-        *   **Coeficiente de dilatación alto**: Causa importantes empujes y deformaciones estructurales, pudiendo colapsar.
-        *   **Pérdida de resistencia**: A partir de 300°C (inicio), 500-600°C (50% de resistencia), 600-700°C (1/3 de resistencia), y colapso instantáneo desde 538°C ("punto crítico").
-        *   **Tiempos de colapso**: Teóricamente 5 minutos en laboratorio a 500°C, en incendio real 10-20 minutos.
-        *   **Geometría**: Superficie expuesta alta (perfiles esbeltos) facilita calentamiento. Perfiles cerrados absorben calor más lentamente que los abiertos.
-    *   **Hormigón**: Alta masa y baja conductividad térmica, lo que ralentiza el calentamiento.
-        *   **Coeficiente de dilatación bajo**: Similar al acero, pero su dilatación es más lenta.
-        *   **Pérdida de resistencia**: A partir de 300°C (inicio), 500°C (50% de resistencia), 600°C (se vuelve frágil por expansión de áridos), 1000°C (grava se disgrega, cemento se deshidrata).
-        *   **Cambio de color**: Gris original (hasta 300°C), rojizo (300-600°C), segundo gris con partículas rojas (600-900°C), ante o amarillo pálido (más de 900°C).
-        *   **Fallo termomecánico**: Pérdida de adherencia entre acero y hormigón por dilataciones térmicas diferenciales, exponiendo la armadura.
-        *   **Fallo termohidráulico (Spalling)**: Desprendimiento explosivo de capas de hormigón por aumento de presión interna del vapor de agua retenida, exponiendo la armadura.
-        *   **Geometría**: Secciones rectangulares, menor exposición al fuego que el acero.
-    *   **Fábrica (ladrillo, piedra)**: Alta masa y baja conductividad térmica, buena inercia.
-        *   **Dilatación baja**: No hay esfuerzos adicionales por dilatación.
-        *   **Resistencia al fuego**: Alta para muros masivos sin huecos, media/baja para hormigón/ladrillo con huecos.
-        *   **Fallo**: Por carbonización de la sección resistente, cuantificable.
-        *   **Colapso**: Por falta de arriostramiento de forjados superiores, puede ocurrir por hundimiento.
-    *   **Madera**: Baja masa y baja conductividad térmica.
-        *   **Pérdida de sección**: Por carbonización (1 cm cada 15 minutos).
-        *   **Resistencia**: Permite intervención si mantiene 60% de resistencia. Estable si pérdida ≤20%. Precisa refuerzo si pérdida 20-40%. Inestable si pérdida >40%.
-        *   **Carbonización**: Se valora comparando la sección calcinada con secciones no quemadas.
+Los fenómenos asociados son:
 
-### Patologías por causas accidentales – Impacto
+*   **Desplazamiento de las tierras:** Un estrato de tierra se desliza sobre otro inferior, favorecido por factores como la saturación de agua y la pendiente.
+*   **Licuefacción del terreno:** Fenómeno por el cual el terreno granular no cohesivo se comporta y fluye como un líquido pesado. Este proceso incluye:
+    1.  Las vibraciones sísmicas provocan la expulsión de agua y fango a la superficie.
+    2.  Se produce una compactación de los granos de arena, disminuyendo su volumen.
+    3.  Se generan asentamientos o deslizamientos, con la consiguiente pérdida de resistencia de los estratos.
 
-El riesgo de impacto en una edificación, resultado de la aplicación brusca de una fuerza externa, depende de la **masa** y **velocidad del cuerpo impactante**, así como de la **capacidad de deformación y amortiguación** del cuerpo y del elemento impactado.
+**II. Sobre las Edificaciones**
 
-*   **Valores de cálculo de impacto de vehículos**: 50 kN en dirección paralela a la vía y 25 kN en dirección perpendicular para vehículos de hasta 30 kN de peso total.
-*   **Carretillas elevadoras**: La fuerza estática equivalente de su impacto es cinco veces su peso máximo autorizado.
-*   **Impacto exterior**: Considerado cuando lo establezca la ordenanza municipal.
-*   **Impacto interior**: En zonas con circulación de vehículos.
-*   **Comportamiento de cerramientos prefabricados en naves industriales**: Inicialmente, se montaban encastrados en perfiles metálicos, anulando el pandeo y con buena resistencia al fuego. Actualmente, se usan grapas de acero y tacos, sin anclaje soldado ni fijación química, lo que resulta en menor resistencia al fuego y a la corrosión.
-    *   En caso de incendio, los cerramientos con grapas y tacos sufren un **rápido colapso y desplome de la fachada**.
-    *   En caso de impacto, un vehículo puede causar el **derrumbe inmediato de la fachada**.
+Para comprender los efectos del sismo en las edificaciones, se consideran los siguientes factores:
 
-### Evaluación de la seguridad en la edificación y tipos de ruina
+**a) Geometría**
 
-La seguridad de un edificio se determina por su capacidad para soportar cargas de forma estable durante su vida útil (50 años según CTE DB SE). La normativa vigente en España, incluyendo la Ley de Ordenación de la Edificación (LOE) y el Código Técnico de la Edificación (CTE), establece requisitos de seguridad y habitabilidad.
+Al caracterizar el comportamiento de la geometría de una edificación frente a un sismo, es fundamental atender a:
 
-Para evaluar la seguridad, se clasifican los estados de una edificación:
-
-*   **Estado de confianza**: No presenta situaciones de riesgo aparente.
-*   **Estado de precariedad**: Presenta deficiencias que reducen las garantías de seguridad, pero sin peligro inminente para su uso.
-*   **Estado de peligro / ruina**: La estructura no puede soportar las acciones permanentes o variables, con
+*   **Centro de masas:** Distribución de las masas en la edificación, prestando especial atención a las discontinuidades de rigidez y resistencia en la estructura principal.
+*   **Simetría y regularidad:** En edificaciones no simétricas o en aquellas simétricas con gran variación de masas en sus direcciones principales, los centros de masas y de torsión no coincidirán, generando una deformación diferencial entre las partes del conjunto. Es crucial prestar especial atención a las cajas de escalera.
+*   **Retranqueos:** La simetría y regularidad en planta deben extenderse a toda la altura del edificio, por lo que deben evitarse los retranqueos de fachada.

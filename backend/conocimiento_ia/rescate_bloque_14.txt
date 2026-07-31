@@ -1,42 +1,80 @@
-# Rescate con Tirolinas y Operaciones en Aerogeneradores
+### **Rescate y Salvamento: Técnicas de Intervención**
 
-Las maniobras de rescate en entornos complejos, como la evacuación de víctimas mediante tirolinas o las intervenciones en aerogeneradores, exigen una planificación meticulosa y la aplicación de técnicas especializadas para garantizar la seguridad tanto de los rescatadores como de las personas afectadas.
+**6. Rescate con Tirola**
 
-## Rescate mediante Tirolinas
+**6.1. Evacuación con Tirola Usando Camilla (con o sin Acompañamiento)**
 
-Las **tirolinas** o **teleféricos** son sistemas de cuerdas anclados entre dos puntos con el objetivo principal de descender, elevar o transportar cargas, personas o personal interviniente en un siniestro. Se emplean habitualmente para superar obstáculos como depresiones, lagos o para conectar edificios.
+**a) Objetivo**
+El propósito es el rescate y la evacuación de una víctima mediante el uso de un sistema de tirolina.
 
-### Configuración del Sistema de Tirolina
-La preparación de un sistema de tirolina implica el establecimiento de **Sistemas de Anclaje de Seguridad (SAS)** robustos. Es fundamental que estos SAS sean independientes y presenten una elevada resistencia, requiriendo su **sobredimensionamiento** para soportar las cargas elevadas, a menudo triplicando los puntos de fijación para una mejor distribución de las tensiones.
+**b) Técnicas de Referencia**
+Las técnicas y elementos clave para esta operación incluyen el montaje y manejo de tirolinas, la correcta localización de los anclajes, la distribución de los esfuerzos en los puntos de anclaje del Sistema de Anclaje de Seguridad (SAS) en función del ángulo, y el uso de reenvíos y desviadores.
 
-En cuanto a las **cuerdas**, se utilizará una **cuerda de soporte semiestática** para aguantar las tensiones y una **cuerda de seguridad dinámica** para absorber la energía de posibles caídas, distinguiéndose fácilmente por su color. Las **poleas** se distribuyen estratégicamente: las **poleas fixe/rescue** se colocan en la cuerda de seguridad (ancladas en la cabecera y los pies de la camilla o en su punto central), mientras que las **poleas tándem** se sitúan en la cuerda de soporte, conectadas a las primeras mediante mosquetones o cintas. Si la tirolina presenta una pendiente significativa y es necesario remontar la carga (por ejemplo, al evacuar un herido de un barranco), se debe instalar un **polipasto** en la cuerda de tracción. Por el contrario, si la pendiente es descendente, se integrará un **sistema de frenado** (como un ID o GRIGRI) en la cuerda de retención.
+**c) Indicaciones**
+Las tirolinas se emplean para superar obstáculos como depresiones o agujeros, y para trasladar personas o cargas entre puntos, por ejemplo, de un edificio a otro.
 
-### Procedimiento de Montaje y Operación
-El montaje se inicia con el establecimiento de dos SAS por parte del equipo de bomberos en un extremo, fijando las cuerdas de soporte y seguridad. Simultáneamente, otro bombero instalará otros dos SAS en el extremo opuesto para el **tensionado de la tirolina**, que se realizará según el método preestablecido.
+**d) Ejecución**
+La operación se lleva a cabo siguiendo estos pasos:
+1.  El Bombero (BB2) y el mando identifican y establecen dos Sistemas de Anclaje de Seguridad (SAS), uno para la cuerda semiestática de soporte y otro para la cuerda dinámica de seguridad, asegurando los extremos de ambas cuerdas a estos SAS.
+2.  Otro bombero identifica y establece otros dos SAS en el extremo opuesto de la tirolina, lugar donde se realizará el tensado.
+3.  Los SAS deben ser sobredimensionados para soportar la sobrecarga anticipada durante el rescate.
+4.  La tirolina se tensa utilizando el método seleccionado para tal fin.
+5.  Las poleas se instalan de la siguiente manera:
+    *   Poleas fixe/rescue sobre la cuerda de seguro, ancladas a la cabecera y a los pies de la camilla.
+    *   Poleas tándem sobre la cuerda de soporte, ancladas con un mosquetón o cinta a las poleas fixe/rescue si la cuerda de seguro y la de soporte están algo separadas.
+6.  El Bombero (BB1) prepara al herido en la camilla. Si la víctima va a ser acompañada, el BB1 se ancla a la placa de reparto de la camilla de forma similar a la evacuación por descenso, utilizando una cuerda de longitud suficiente (al menos 5 metros) y un dispositivo GRIGRI para mayor autonomía.
+7.  El mando se posiciona en un lugar que le permita tener visión tanto del rescatador que acompaña a la víctima (si lo hubiera) como del personal que acciona las cuerdas de tracción y retención, con el fin de coordinar la maniobra.
+8.  Si es necesario remontar la carga por una tirolina con pendiente ascendente (por ejemplo, para sacar un herido de un barranco), se debe instalar un polipasto en la cuerda de tracción.
+9.  Si la tirolina presenta una pendiente descendente pronunciada, se debe instalar un sistema de frenado (como ID o GRIGRI) para controlar la cuerda de retención.
+10. Una vez que el sistema está montado y se ha recibido la confirmación ("OK") para iniciar la maniobra, el mando ordena el accionamiento de la tracción o retención (según sea necesario) y supervisa el desarrollo de la operación.
+11. Al finalizar el trayecto, para que el usuario descienda de la tirolina, se añade un mosquetón de frenado al punto de anclaje del dispositivo ID. Se acciona la empuñadura en modo "descenso" y se sujeta el cabo de frenado para controlar la velocidad, depositando a la víctima suavemente en el suelo.
+12. En caso de que sea necesario izar la carga hasta las poleas para superar obstáculos como balcones o ventanas, se utilizará un polifreno.
 
-Una vez configurado el sistema, y tras una verificación exhaustiva y la confirmación de "OK", el mando de la intervención ordenará el accionamiento de la tracción o retención, supervisando el desarrollo de la operación. Al finalizar el trayecto, para liberar al usuario o la carga de la tirolina, se añadirá un mosquetón de frenado al punto de anclaje del sistema, accionando el descensor en modo "descenso" y controlando la velocidad mediante el cabo de frenado para un aterrizaje suave. En situaciones donde sea necesario elevar la carga para superar obstáculos como balcones o ventanas, se empleará un polifreno.
+**e) Medidas de Seguridad**
+Para garantizar la seguridad en las operaciones de tirolina, se deben aplicar las siguientes medidas:
+*   Evitar cualquier roce en las cuerdas utilizando elementos de protección como desviadores o trenes de rodillos.
+*   Los Sistemas de Anclaje de Seguridad (SAS) de seguro y soporte deben ser independientes y tener una alta resistencia. Los mosquetones empleados deben ser de acero sobredimensionado.
+*   La fiabilidad de las cuerdas, tanto la de soporte como la de seguro, debe ser absoluta.
+*   Al cargar la tirolina con personas (bomberos, rescatadores o víctimas), una vez tensada, es crucial verificar que no haya roces con ningún obstáculo. Si se detecta alguno, se debe solucionar, incluso reubicando la tirolina si es necesario.
+*   Las acciones de tracción y retención deben realizarse directamente sobre la carga, evitando aplicarlas desde las poleas para prevenir la repercusión de la inercia en la carga en caso de un frenado brusco.
 
-### Medidas de Seguridad
-La seguridad es primordial. Los SAS de soporte y seguridad deben ser **independientes** y poseer una **resistencia elevada**. Los mosquetones utilizados deben ser de acero sobredimensionado para asegurar su fiabilidad. Es crucial garantizar la **fiabilidad absoluta** de todas las cuerdas. Si durante la operación la tirolina, cargada con personas, roza con algún obstáculo, se debe resolver el problema reubicando la tirolina. La **tracción y retención** siempre deben aplicarse **directamente desde la carga**, evitando hacerlo desde las poleas para prevenir la repercusión de la inercia en caso de frenado brusco.
+---
 
-## Rescate en Aerogeneradores de 80 Metros de Altura
+### **Capítulo 5. Casos Prácticos**
 
-El rescate de un trabajador atrapado en el buje de un aerogenerador de 80 metros de altura es una intervención compleja que requiere una estrategia bien definida, desde la movilización inicial hasta la restitución post-operación.
+**1. Trabajador Atrapado en el Buje de un Aerogenerador de 80 metros de Altura**
 
-### Fase de Movilización y Valoración Inicial
-Al recibir la alerta, es fundamental **confirmar el número y estado de las víctimas**, solicitar la **localización exacta del aerogenerador** (incluyendo coordenadas y una descripción detallada de los accesos), y **solicitar recursos sanitarios**. El jefe de dotación informará al jefe de guardia, quien confirmará o modificará el tren de salida (compuesto por un jefe de dotación y tres bomberos). El jefe de guardia, en comunicación con el 112, actualizará los datos del siniestro, contactará al alertante, confirmará la movilización de recursos sanitarios y solicitará la centralización de todas las comunicaciones. Se coordinará con el telemando de la compañía del aerogenerador para establecer un punto de encuentro y se movilizarán refuerzos internos y externos si fuese necesario. El personal se equipará adecuadamente para el tipo de siniestro y la altura de evacuación, calculando una **longitud de cuerda de H + 10 metros de cuerda semi-estática para tracción y H + 10 metros de cuerda dinámica para seguridad**. Se preparará material específico para la víctima, incluyendo camilla, Fernoked, casco y botiquín.
+**a) Movilización**
 
-Una vez en el lugar, se realizará una **valoración *in situ***, emplazando el vehículo a barlovento. Se realizará una evaluación externa e interna del aerogenerador, identificando la altura, la velocidad del viento, el estado del bloqueo del eje primario, los sistemas hidroneumáticos de variación del ángulo de las palas y las trampillas de acceso. La **zonificación del área** es crucial: la **zona caliente** abarcará el interior del aerogenerador, y un perímetro exterior de al menos 20 metros de radio se establecerá para proteger de la posible caída de materiales.
+**I. Recepción del Aviso**
+*   Se confirma el número y el estado de la(s) víctima(s).
+*   Se solicita la localización y el acceso al aerogenerador, incluyendo sus coordenadas y una descripción.
+*   Se solicita la presencia de medios sanitarios.
 
-Las **acciones inminentes** incluyen la detención, desenergización y desconexión del aerogenerador (prioritariamente de forma remota por el personal de mantenimiento, si es posible). Para acceder a la nacelle, se bloqueará el eje primario y se esperará a que las palas estén en posición de bandera y el rotor en "Y".
+**II. Movilización al Siniestro**
+*   El jefe de dotación informa al jefe de guardia sobre el aviso y propone el tren de salida estándar (jefe de dotación + 3 bomberos).
+*   El jefe de guardia confirma o modifica el tren de salida propuesto.
+*   El jefe de guardia se comunica con el 112 para:
+    *   Actualizar y completar los datos del siniestro.
+    *   Comunicarse con el alertante.
+    *   Confirmar la movilización de los medios sanitarios.
+    *   Solicitar que todas las comunicaciones sean centralizadas.
+*   El jefe de guardia se comunica y coordina con el telemando de la compañía (un técnico que puede realizar tareas remotas en los aerogeneradores).
+*   Se establece un punto de encuentro entre la dotación y el personal de mantenimiento.
+*   Se movilizan refuerzos internos y externos si es necesario.
+*   La dotación se equipa con el equipo personal adecuado según el tipo de siniestro y la distancia.
+*   La dotación se dirige al lugar del siniestro.
 
-### Técnicas de Intervención (Acceso y Rescate)
-El acceso y rescate dentro del aerogenerador utilizarán **sistemas de aseguramiento en progresión**. Se priorizará el uso de líneas de vida de cable de acero de 8 mm con bloqueadores específicos, si están disponibles y son proporcionados por el personal de mantenimiento. Como alternativa, se puede instalar una línea de vida de cuerda semi-estática con un ASAP anclada a la cabecera de la escalera mediante un SAS, empleando fraccionamientos en cada plataforma. La progresión se asegurará con cuerda dinámica y anclajes a travesaños. El **ascenso libre** solo se permitirá en casos de extrema urgencia, y el uso del elevador del aerogenerador está **prohibido**.
+**b) Valoración**
 
-Para la ejecución del rescate, dos bomberos liberarán a la víctima y la trasladarán a la nacelle utilizando un Fernoked. Simultáneamente, otro bombero instalará dos SAS independientes (para la cuerda de evacuación y la de seguridad) en el puente grúa sobre la trampilla. La víctima se sujetará a la camilla, se abrirá la trampilla y se iniciará el descenso, acompañado por un rescatador. El descenso se realizará inicialmente en posición vertical para facilitar el paso por la trampilla, y luego se ajustará a una posición horizontal utilizando el método STEF al llegar al suelo. Finalmente, la víctima será transferida al personal sanitario.
+**I. Llegada al Siniestro**
+*   Se emplaza el vehículo a barlovento (en el lado de donde sopla el viento).
+*   Se prepara el material para el rescate, que incluye:
+    *   Herramienta hidráulica y bomba manual.
+    *   Toda la dotación de material de altura BRP (Bomba Rural Pesada).
+    *   Cuerda semiestática: se requiere una longitud de H (altura de evacuación) + 10 metros, en un solo tramo.
+    *   Cuerda dinámica: se requiere una longitud de H (altura de evacuación) + 10 metros, en uno o varios tramos.
+*   Se prepara el material para la víctima, incluyendo camilla, Ferno-Ked, casco y botiquín.
 
-### Medidas de Seguridad Específicas
-Durante toda la intervención, se deben evitar roces en las cuerdas utilizando desviadores o trenes de rodillos. Es obligatorio instalar siempre **al menos dos puntos en los Sistemas de Anclaje de Seguridad**. El descensor empleado debe tener capacidad suficiente para frenar el peso de dos personas. Se verificará la instalación de todos los sistemas antes de su uso y se colocará un casco a la víctima.
-
-### Valoración Continua y Finalización
-El mando de la intervención realizará una **evaluación continua** del rescate, del estado de los recursos y del éxito de las acciones. Al finalizar, se procederá a la **restitución del lugar**, cerrando trampillas, recogiendo material e informando al personal de mantenimiento del aerogenerador sobre el estado de las instalaciones. Finalmente, se realizará una **valoración final** de la intervención, incluyendo la verificación de la ausencia de peligros, la entrega de instrucciones de seguridad al beneficiario y la recuperación de la operatividad de la dotación, seguida de un análisis colectivo de la intervención.
+**II. Valoración Exterior y Valoración Interior**
+Se utiliza como ejemplo la ficha de protocolo del CEIS de Guadalajara para intervenciones en aerogeneradores.

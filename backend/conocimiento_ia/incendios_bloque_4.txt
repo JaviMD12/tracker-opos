@@ -1,77 +1,207 @@
-# Fundamentos del Fuego: Composición, Reacciones y Elementos Esenciales
+A continuación, se presenta un temario técnico y exhaustivo sobre la teoría del fuego, las combustiones y los agentes extintores, basado en la información proporcionada.
 
-Para comprender a fondo la naturaleza de los incendios, es imperativo dominar los conceptos fundamentales relacionados con la composición de la materia y los tipos de reacciones que originan el fuego. La atmósfera, un componente crítico en cualquier proceso de combustión, es una mezcla gaseosa compuesta principalmente por **nitrógeno** (aproximadamente 79%) y **oxígeno** (alrededor del 21%), junto con pequeñas proporciones de otros gases (0,02%) como el dióxido de carbono, neón, criptón y xenón. Los gases inertes, como el nitrógeno y los gases nobles, no reaccionan bajo condiciones estándar debido a su configuración eléctrica estable.
+**1. Gases Generados en Incendios**
 
-## Estructura Atómica y Molecular
+El desarrollo de incendios genera diversos gases de combustión y subproductos de pirólisis. Estos gases pueden ser tóxicos, asfixiantes, inflamables y explosivos, representando riesgos significativos para la vida y los equipos de intervención.
 
-La materia se organiza en **moléculas**, que a su vez están formadas por **átomos**. Estos átomos se componen de **protones** (partículas con carga positiva que definen el número atómico y la masa nuclear), **neutrones** (partículas sin carga eléctrica, también en el núcleo atómico) y **electrones** (partículas subatómicas con carga negativa que orbitan el núcleo). Una **sustancia** se define como una variedad de materia con características y composición química invariables, pudiendo ser simple (elementos químicos) o compuesta (combinación de dos o más tipos de átomos). Por ejemplo, la molécula de agua (H₂O) contiene dos átomos de hidrógeno y uno de oxígeno, mientras que el butano (C₄H₁₀) se compone de cuatro átomos de carbono y diez de hidrógeno.
+**1.1. Dióxido de Azufre (SO2)**
 
-## Tipos de Reacciones y su Relevancia en el Fuego
+*   **Descripción:** Gas incoloro con olor asfixiante. Es una sustancia reductora que se transforma en trióxido de azufre con el tiempo, en contacto con aire y humedad. Al disolverse en agua, forma una disolución ácida. La velocidad de reacción es baja en condiciones normales.
+*   **Vías de ingreso y Patología:**
+    *   **Inhalación:** Causa irritación inmediata en ojos y sistema respiratorio, con síntomas como asfixia, tos, dificultad respiratoria, dolor de garganta, estornudos, rinorrea, disnea, cianosis, dolor de pecho, traqueítis, bronquitis, náuseas, fatiga, vómitos, broncoconstricción y neumonitis. Puede generar edema pulmonar y acidosis sistémica, llevando incluso a paro respiratorio o muerte. Los síntomas de edema pulmonar pueden manifestarse horas después y agravarse con el esfuerzo físico.
+    *   **Contacto con la piel:** Irritante corrosivo. En estado líquido, puede causar lesiones o quemaduras por congelación.
+    *   **Contacto con los ojos:** Irritante corrosivo, aunque las lesiones gaseosas son menos comunes. Puede causar escozor, lagrimeo, irritación conjuntival, enrojecimiento, dolor, quemaduras profundas, opacidad corneal, erosión, necrosis y ceguera.
 
-Una **reacción** es una transformación que experimenta un elemento o compuesto, como ocurre con los combustibles. Estas pueden ser de tres tipos principales:
+**1.2. Cloruro de Carboncillo o Fosgeno (COCl2)**
 
-1.  **Reacciones Físicas:** Implican un cambio en el estado de la materia sin alterar su composición química. Las moléculas de los reactivos son idénticas a las de los productos, como la evaporación del agua (hielo a vapor de agua).
-2.  **Reacciones Químicas:** Conllevan un cambio en la composición química del elemento, modificando profundamente sus propiedades y transformándolo en una nueva sustancia. Un ejemplo es la oxidación del hierro por el oxígeno, que produce óxido de hierro. Durante estas reacciones, los elementos se conservan, pero se reordenan para formar nuevas moléculas, requiriendo o liberando energía.
-    *   Las reacciones que **absorben energía** y aumentan la energía interna del sistema se denominan **endotérmicas**. Un ejemplo es la disolución de sal en agua.
-    *   Las reacciones que **desprenden energía** y disminuyen la energía interna del sistema se conocen como **exotérmicas**. Son más frecuentes las reacciones exotérmicas espontáneas, como la combustión de compuestos de carbono para producir CO₂ y H₂O.
-3.  **Reacciones Nucleares:** Procesos de combinación y transformación de partículas y núcleos atómicos, que pueden ser endotérmicas o exotérmicas. Se caracterizan por la desintegración de átomos radiactivos que generan nuevas partículas subatómicas (alfa, beta, gamma). A diferencia de las reacciones químicas, implican cambios en la constitución del núcleo atómico y liberan enormes cantidades de energía que no suelen verse afectadas por temperatura, presión o catalizadores. Se distinguen dos tipos:
-    *   **Fisión nuclear:** Un núcleo pesado se divide en dos núcleos más pequeños al ser bombardeado con neutrones, liberando gran energía y emitiendo más neutrones, lo que puede generar una reacción en cadena. La energía liberada es millones de veces mayor que en una reacción química.
-    *   **Fusión nuclear:** Dos núcleos de átomos ligeros se unen para formar uno más pesado, liberando o absorbiendo gran cantidad de energía en forma de rayos gamma y energía cinética.
+*   **Descripción:** Compuesto químico altamente volátil y muy tóxico, de fórmula H2C=O. Se produce por oxidación catalítica del alcohol metílico. A temperatura ambiente (21 °C) es un gas venenoso. Puede comprimirse a estado líquido para transporte y almacenamiento. Al liberarse en estado líquido, se transforma rápidamente en gas, permaneciendo cerca del suelo y propagándose con celeridad. Se le conoce militarmente como CG.
+*   **Origen:** Se forma por el contacto de las llamas con productos clorados (como PVC), aislamientos de cables eléctricos, y refrigerantes (como el freón).
+*   **Características:**
+    *   Gas incoloro a temperatura normal, con olor penetrante, muy soluble en agua y ésteres.
+    *   Las disoluciones acuosas al 40% se denominan formol (líquido incoloro de olor penetrante y sofocante).
+    *   Puede contener alcohol metílico como estabilizante.
+    *   Punto de ebullición: -21 °C.
+*   **Apariencia:** Puede ser incoloro o presentarse como una nube de tonalidad blanca a amarillo pálido.
+*   **Olor:** En bajas concentraciones, tiene un olor agradable (similar a heno recién cortado o maíz verde), pero no siempre es percibido. En altas concentraciones, el olor es fuerte y desagradable.
+*   **Inflamabilidad:** No es inflamable, pero es un comburente, capaz de provocar la ignición de sustancias inflamables cercanas.
+*   **Vías de ingreso y Patología:**
+    *   **Inhalación:** El principal efecto ocurre en los pulmones. Al inhalarse, en los alvéolos pulmonares se convierte en cloruro de hidrógeno, y posteriormente en ácido clorhídrico y monóxido de carbono. Produce sensación de quemazón, opresión torácica, dolor de garganta, tos, dificultad respiratoria y jadeo.
+    *   **Contacto con la piel:** En estado líquido, provoca lesiones y quemaduras por congelación.
+    *   **Contacto con los ojos:** Causa enrojecimiento, dolor y visión borrosa.
+*   **Datos Importantes:**
+    *   Punto de ebullición: 8 ºC.
+    *   Punto de fusión: -118 ºC.
 
-## La Combustión y el Fuego
+**1.3. Aldehído Acrílico o Acroleína**
 
-La **combustión** es una reacción química de oxidación rápida y exotérmica entre un **combustible** (elemento que arde) y un **comburente** (elemento que produce la combustión, generalmente oxígeno), que se manifiesta visualmente con emisión de calor y luz, a menudo en forma de llamas. Es, en esencia, una reacción redox (óxido-reducción) fuertemente exotérmica, donde una sustancia cede electrones (se oxida, actúa como reductor o combustible) y otra capta electrones (se reduce, actúa como oxidante o comburente). Estos procesos están intrínsecamente ligados.
+*   **Descripción:** Líquido incoloro o amarillo con olor desagradable. Se disuelve fácilmente en agua y se evapora rápidamente al calentarse. Se inflama con facilidad. Puede formarse en pequeñas cantidades y dispersarse por el aire.
+*   **Vías de ingreso y Patología:**
+    *   **Inhalación:** La exposición ocurre principalmente al respirar. Se encuentra en el humo del cigarrillo y en los gases de escape de automóviles. La inhalación de grandes cantidades puede dañar los pulmones y causar la muerte. Cantidades menores pueden provocar lagrimeo, ardor de nariz y garganta, y reducción del ritmo respiratorio.
+    *   **Contacto con los ojos:** Provoca enrojecimiento, dolor y lagrimeo.
+*   **Datos Importantes:**
+    *   Punto de ebullición: 52,5º C.
+    *   Punto de fusión: - 87,7º C.
 
-Las principales características de la combustión son:
-*   Es un proceso químico de oxidación-reducción, transformando reactivos en productos.
-*   Presenta una cinética generalmente rápida.
-*   Es fuertemente exotérmica.
-*   Su velocidad de reacción determina la cantidad de calor liberado.
-*   Puede ser autoalimentada mediante una **reacción en cadena**.
-*   Sus reactivos fundamentales son el combustible y el comburente.
+**2. Conceptos de Fuego e Incendio**
 
-Cuando la combustión es controlada en tiempo y espacio, se denomina **fuego**. Por el contrario, un **incendio** es una combustión que se propaga de manera incontrolada en el tiempo y el espacio, considerándose una combustión de aportación incontrolada.
+**2.1. Definiciones de Fuego e Incendio**
 
-### Tipos de Combustiones
+*   **Fuego (según DRAE):** Calor y luz generados por la combustión.
+*   **Incendio (según DRAE):** Fuego de gran magnitud que consume lo que no debería arder.
+*   **Fuego (según UNE 23026):** Combustión caracterizada por la emisión de calor, humo y llamas.
+*   **Fuego (según ISO 13943:2001):** Combustión autosoportada, iniciada deliberadamente para aprovechar sus efectos y controlada en duración y extensión espacial.
+*   **Incendio (según ISO 13943:2001):** Combustión que se propaga incontroladamente en el tiempo y en el espacio, una combustión de aportación incontrolada.
 
-Las combustiones pueden clasificarse según su manifestación y velocidad:
+**2.2. Triángulo y Tetraedro del Fuego**
 
-1.  **Combustiones de Aportación:** La masa reactiva se incorpora al frente de reacción.
-    *   **Con llama:** Se desarrolla en fase gaseosa, produciendo calor, luz y gases. Representada por el tetraedro del fuego.
-    *   **Latente:** Oxidación lenta y exotérmica sin luz visible, revelada por aumento de temperatura o humo. Genera calor y se propaga en combustibles porosos. La norma ISO 13943 la define como combustión sin llama o luz visible, típica de carbón, celulosa, madera, algodón, tabaco, turba, humus, jabones sintéticos, polímeros carbonizados y ciertos polvos.
-    *   **Incandescente:** Combustión sin llama, con emisión de luz visible (ascuas) y producción de calor. ISO 13943 la describe como combustión de material sólido sin llama pero con luz visible.
-    *   **Espontánea:** Se inicia sin aporte de calor externo.
-2.  **Combustiones de Propagación (o Premezcla):**
-    *   **Lenta y muy lenta (Oxidación):** Desprende poca energía que se disipa en el ambiente sin aumento de temperatura local. No hay emisión de luz o calor. Ejemplos: amarilleo del papel por calor, oxidación del hierro.
-    *   **Viva o Normal (Simple o Rápida):** Oxidaciones moderadamente rápidas, con velocidad del frente de reacción inferior a 1 m/s. Se desprende calor, luz y llamas, con energía suficiente para mantener la reacción en cadena. Los incendios normales siguen este patrón.
-    *   **Instantánea o muy rápida (Explosión):** Genera ondas de presión (sobrepresiones). La velocidad de propagación es superior a 1 m/s. Se subdividen en:
-        *   **Deflagración:** Onda de combustión con frente que avanza a velocidad subsónica (<340 m/s), generando sobrepresiones (5-10 veces la inicial) y efectos sonoros. Es común en explosiones que rompen cristales o tabiques, permitiendo la liberación natural de presión (ej. vapores de líquidos inflamables, mechas lentas).
-        *   **Detonación:** Onda de combustión con frente que avanza a velocidad sónica o supersónica (>340 m/s), acompañada de onda de choque. Genera sobrepresiones (20-100 veces la inicial) y efectos destructivos muy superiores. Típica de explosivos industriales detonantes o mezclas aéreas de gases/vapores en circunstancias especiales.
+Los incendios se producen cuando coexisten tres elementos:
+1.  **Combustible:** Producto inflamable.
+2.  **Comburente:** Producto que favorece la combustión (comúnmente oxígeno).
+3.  **Energía de Activación:** Fuente de calor (calor, chispa, llama).
 
-### Productos de la Combustión y sus Riesgos
+La conjunción de estos tres factores en las proporciones adecuadas provoca la combustión. La eliminación de cualquiera de estos tres impide que el incendio se produzca o se extinga.
 
-Los principales productos de la combustión son calor, humo, gases y radiación luminosa. En una combustión completa, todos los elementos del combustible se oxidan, formando dióxido de carbono (CO₂), agua (H₂O), dióxido de azufre (SO₂, si el combustible contiene azufre) y, a veces, óxidos de nitrógeno (NOₓ). En combustiones incompletas, por falta de comburente o presencia de partículas incombustibles, se produce monóxido de carbono (CO) y carbón.
+El "triángulo del fuego" representó durante mucho tiempo estos tres factores. Sin embargo, una observación más precisa del fenómeno del fuego llevó a la inclusión de un cuarto factor, la **reacción en cadena**, dando lugar al **tetraedro del fuego**. Las acciones que inhiben la reacción en cadena son efectivas para limitar la propagación del incendio y facilitar su extinción.
 
-#### El Humo
-El **humo** está compuesto por partículas físicas (sólidas y líquidas) en suspensión, principalmente vapor de agua, de tamaño y color variables, y es inflamable/explosivo bajo ciertas condiciones. Es el principal factor de riesgo en un incendio, causando irritación de mucosas, lagrimeo y dificultad de visión.
-*   **Hollín:** Partículas de carbono (0.005-0.01 micras) de combustiones incompletas, especialmente derivados del petróleo.
-*   **Cenizas:** Residuos inorgánicos en polvo de combustión completa.
-*   **Escorias:** Aglomerado sólido de residuos de combustión parcial o completa.
+**2.3. Combustible**
 
-El **color del humo** ofrece información valiosa:
-*   **Blanco:** Combustión libre con alta presencia de O₂, compuesto principalmente por vapor de agua (vegetales, forrajes, fósforos).
-*   **Negro:** Fuego de alta carga térmica con poco O₂, generado por fibras sintéticas, polímeros, cauchos o derivados del petróleo (fibras artificiales, gasóleo, gasolina, plásticos).
-*   **Amarillo:** Sustancias químicas con azufre (formación de ácidos clorhídricos).
-*   **Amarillo verdoso:** Sustancias químicas con cloro.
-*   **Violeta:** Sustancias químicas con yodo.
-*   **Azul:** Asociado a hidrocarburos.
+Se define como combustible toda sustancia capaz de arder en presencia de una energía de activación, combinándose con un comburente en una reacción rápida y exotérmica.
 
-#### Gases de Combustión Tóxicos y Peligrosos
-Además del CO y CO₂, los incendios pueden generar otros gases tóxicos:
-*   **Monóxido de carbono (CO):** Gas incoloro, más ligero que el aire, arde con llama azul. Inflamable y explosivo en mezclas con aire del 12.5% al 74.2%. Se forma en combustión incompleta de materiales carbonáceos. Penetra por vía respiratoria, se une a la hemoglobina (260 veces más afinidad que el O₂) formando carboxihemoglobina (COHb), causando hipoxia o anoxia. Niveles de COHb en sangre expresan la saturación sanguínea.
-*   **Dióxido de carbono (CO₂):** Gas no inflamable, soluble en agua, incoloro, inodoro con leve molestia picante, más pesado que el aire y oxidante. No es tóxico, pero sí asfixiante en altas concentraciones. La ingestión puede causar irritación gastrointestinal; la inhalación, asfixia e hiperventilación; el contacto directo con piel/ojos, congelación. Puntos de fusión y ebullición de -78 ºC y -57 ºC respectivamente. Densidad relativa (aire=1) de 1.52.
-*   **Cianuro de hidrógeno (HCN) y cianuros (CN):** El HCN (ácido prúsico o hidrociánico) es un gas incoloro, más pesado que el aire; en estado líquido, es un líquido blanco azulado con olor a almendras amargas. Explosivo en mezclas de 5% a 40% con el aire. Los cianuros de sodio, potasio y calcio (usados en la industria) producen HCN al reaccionar con agua y ácidos. Vías de ingreso: respiratoria (principal para HCN), digestiva (ocasional), cutánea (importante para sales). Patología: irritación local de mucosas y piel, úlceras. La acción más importante del HCN es general: se une a iones metálicos (como el Fe de la citocromooxidasa), inhibiendo la respiración celular y causando anoxia química.
-*   **Sulfuro de hidrógeno (H₂S):** Gas inflamable (4.5%-45% en aire), incoloro, tóxico, soluble en agua, más pesado que el aire. Olor a huevos podridos (perceptible a <30 ppm, paralizante a >100 ppm). También llamado hidruro de azufre. Ingreso: inhalación (asfixia en espacios cerrados/bajos), contacto con piel mojada (irritación), contacto con ojos (enrojecimiento, dolor, quemaduras graves). Extremadamente nocivo, puede causar asfixia y muerte a 20-50 ppm. Punto de ebullición -60 ºC, fusión -86 ºC.
-*   **Amoniaco (NH₃):** Compuesto químico (N + 3H). Gas inflamable (16%-25% en aire), incoloro, olor penetrante/nauseabundo. Se produce por descomposición orgánica e industrial. Muy soluble en agua, se evapora rápido, vendido como líquido.
-*   **Formaldehído o metanal (H₂C=O):** Aldehído simple, volátil, muy inflamable. Gas incoloro de olor penetrante a temperatura normal, muy soluble en agua/ésteres. Sus soluciones al 40% (formol) son líquidos incoloros, penetrantes, sofocantes, a veces con alcohol metílico como estabilizante. Puede comprimirse a líquido. Punto de ebullición -21 °C.
-*   **Cloro (Cl₂):** Elemento químico (At=17). Gas tóxico, no inflamable, amarillo-verdoso, 2.5 veces más pesado que el aire, olor desagradable/picante. Abundante en naturaleza, esencial para vida. Forma mezclas inflamables/explosivas con H₂ y compuestos orgánicos. Patología: irrita mucosas, espasmos laríngeos, edema, tos, dolor, náuseas, fatiga. Contacto con piel causa acné (cloracné) y daños dentales; líquido, congelación/quemaduras. Ebullición -34.7 ºC, fusión -101.0 
+El grado de inflamabilidad de un combustible determina la fuente de inflamación necesaria para su ignición. Sustancias muy inflamables pueden arder a temperatura ambiente sin una fuente de ignición o tras un breve contacto.
+
+Aunque los combustibles pueden ser sólidos, líquidos o gaseosos, la combustión siempre ocurre en estado gaseoso (pirólisis o pirogenación). Los combustibles sólidos o líquidos requieren un aporte de energía previo para pasar al estado gaseoso.
+
+La ignición de un combustible y su peligrosidad dependen de factores que se detallan mediante constantes físicas propias de cada material.
+
+**2.3.1. Temperaturas Mínimas de Emisión de Vapores Inflamables**
+
+*   **Punto de Inflamación (Flash Point):** Es la temperatura mínima a la cual un combustible emite vapores en cantidad suficiente para inflamarse si entra en contacto con una fuente de ignición. Sin una fuente de ignición, no se produce la combustión. Se define también como la temperatura mínima en ºC, a 760 mm de Hg, a la que una sustancia combustible en contacto con el aire libera suficiente vapor para que la mezcla vapor-aire sea susceptible de inflamarse por el aporte de energía de activación externa.
+*   **Punto de Ignición o de Incendio (Ignition Point):** Es la temperatura mínima a la cual un combustible emite vapores suficientes para que, tras el contacto con una fuente de ignición, la inflamación se mantenga (siga ardiendo incluso si se retira la fuente). Suele estar unos pocos grados por encima del punto de inflamación.
+*   **Punto de Autoinflamación:** Es la temperatura mínima a la cual los vapores emitidos por un combustible comienzan a arder sin necesidad de una fuente de ignición externa, en condiciones normales. Se define también como la temperatura mínima en ºC, a 760 mm de Hg, a la que una sustancia sólida, líquida o gaseosa arde espontáneamente en contacto con el aire, sin aporte energético externo a la mezcla.
+*   **Punto de Autoignición (Autoignition Point):** Es la temperatura mínima a la que un combustible debe calentarse en presencia de oxígeno para que se produzca su inflamación y la combustión se mantenga sin el aporte de una energía de activación o foco de ignición externos.
+
+**2.3.2. Concentración de Vapores Combustible/Comburente**
+
+No todas las mezclas de combustible y comburente son capaces de entrar en combustión. Existen límites de inflamabilidad:
+
+*   **Límite Superior de Inflamabilidad (LSI):** Concentración máxima de vapores combustibles en el aire que permite la combustión. Por encima del LSI, no hay combustión por falta de comburente (oxígeno).
+*   **Límite Inferior de Inflamabilidad (LII):** Concentración mínima de vapores combustibles en el aire que permite la combustión. Por debajo del LII, no hay combustión por falta de combustible.
+
+El intervalo entre el LII y el LSI se denomina **rango de inflamabilidad**. Dentro de este rango, son de gran importancia dos puntos:
+
+*   **Punto Ideal de Combustión (PIC):** Donde la combustión se produce en las condiciones más óptimas.
+*   **Punto Estequiométrico (PE):** Donde la velocidad de reacción es máxima, lo que puede generar una explosión.
+
+A continuación, se presentan tablas con rangos y temperaturas de inflamabilidad/autoinflamación:
+
+**Tabla 3. Rangos de Inflamabilidad**
+
+| SUSTANCIA           | L.I.I. | L.S.I. |
+| :------------------ | :----- | :----- |
+| AMONIACO            | 16     | 25     |
+| MONÓXIDO DE CARBONO | 15,5   | 74     |
+| METANO              | 5      | 15     |
+| ALCOHOL ETÍLICO     | 4,3    | 7,1    |
+| CLORURO DE VINILO   | 3,6    | 33     |
+| ETANO               | 3      | 14,4   |
+| ACETILENO           | 2,5    | 81     |
+| ACETONA             | 2,5    | 19,3   |
+| PROPILENO           | 2,4    | 11     |
+| PROPANO             | 2,2    | 9,5    |
+| BUTANO              | 1,8    | 8,4    |
+| PENTANO             | 1,5    | 7,8    |
+| GASOLINA            | 1,5    | 7,6    |
+| BENCENO             | 1,4    | 7,1    |
+| AGUARRÁS            | 1,1    | 6      |
+| GASOIL              | 0,6    | 6,5    |
+
+**Tabla 4. Temperaturas de Inflamación y Autoinflamación**
+
+| COMBUSTIBLE       | TEMPERATURA INFLAMACIÓN | TEMPERATURA AUTOINFLAMACIÓN |
+| :---------------- | :------------------------ | :-------------------------- |
+| Poliamida         | 420 ºC                    | 425 ºC                      |
+| Polietileno       | 345 ºC                    | 490 ºC                      |
+| Aceite            | 232 ºC                    | 343 ºC                      |
+| Madera            | 225 ºC                    | 280 ºC                      |
+| Glicerina         | 160 ºC                    | 370 ºC                      |
+| Gasoil            | 60 ºC                     | 330 ºC                      |
+| Alcohol etílico   | 18 ºC                     | 425 ºC                      |
+| Acetona           | -18 ºC                    | 540 ºC                      |
+| Gasolina          | -39 ºC                    | 285 ºC                      |
+| Butano            | -60 ºC                    | 287 ºC                      |
+| Propano           | -104 ºC                   | 450 ºC                      |
+| Gas natural       | -180 ºC                   | 482 ºC                      |
+| Metano            | -188 ºC                   | 537 ºC                      |
+| Hidrógeno         | -259 ºC                   | 580 ºC                      |
+
+**2.4. Comburente**
+
+Un comburente es cualquier agente oxidante capaz de oxidar un combustible en una reacción rápida y exotérmica. Este término se aplica comúnmente a mezclas de gases con suficiente oxígeno para iniciar y desarrollar la combustión, siendo el oxígeno molecular (O2) el agente oxidante más habitual.
+
+*   **Composición del aire:** El oxígeno constituye aproximadamente el 21% en volumen (23% en peso) del aire, siendo el comburente más común en incendios.
+*   **Compuestos con oxidante y reductor:** Algunos compuestos, como la nitrocelulosa, contienen ambos agentes (oxidante y reductor) en su composición y pueden sufrir combustión sin más aporte externo que la energía de activación.
+*   **Concentración mínima de oxígeno:** Para que la combustión se desarrolle, generalmente se requiere una proporción mínima de oxígeno en el ambiente (por debajo del 15% el fuego se extingue). Esta proporción se determina mediante el ensayo del índice crítico de oxígeno.
+*   **Ácidos oxidantes:** Ciertos ácidos fuertes oxidantes, como el sulfúrico o el nítrico, pueden causar combustiones e incendios en contacto con materias orgánicas sin necesidad de una fuente de ignición adicional.
+*   **Materia comburente en contacto con el fuego:** Si la materia comburente es directamente afectada por el fuego, libera oxígeno, lo que puede resultar en una combustión autosostenida incluso en atmósferas sin oxígeno.
+*   **Peligrosidad:** La presencia de un comburente no es intrínsecamente peligrosa, pero en un incendio aumenta el riesgo y la virulencia.
+
+**Tabla 5. Composición del Aire (Comburente)**
+
+| Componente | % en volumen (Real) | % en volumen (Uso) | % en peso (Real) | % en peso (Uso) |
+| :--------- | :------------------ | :----------------- | :--------------- | :-------------- |
+| Nitrógeno  | 78,03               | 79                 | 75,45            | 76,8            |
+| Oxígeno    | 20,99               | 21                 | 23,2             | 23,2            |
+| Argón      | 0,94                | 0                  | 1,3              | 0               |
+| CO2        | 0,03                | 0                  | 0,05             | 0               |
+| Otros      | 0,01                | 0                  | despreciable     | 0               |
+| Peso molecular (kg/kmol) | 28,967              | 29                 |                  |                 |
+
+**2.5. Energía de Activación: Calor**
+
+Para que un fuego se inicie, es indispensable que los reactivos (combustible y comburente) se encuentren en condiciones adecuadas para que la reacción se produzca.
+
+*   **Energía de Activación:** Es la energía mínima necesaria para que la reacción se inicie, y la proporcionan las fuentes de ignición. Estas pueden ser llamas abiertas, superficies calientes, chispas eléctricas, o brasas (cigarrillos), entre otras.
+*   **Foco de ignición:** Un foco puede provocar la ignición si la magnitud e intensidad de su energía son suficientes para elevar la temperatura del combustible por encima de su punto de ignición.
+*   **Formas de aporte energético:**
+    *   **Llamas:** Son una fuente de ignición segura para mezclas de vapor inflamable y aire dentro de su rango de inflamabilidad. Las llamas deben ser capaces de calentar el vapor hasta su temperatura de ignición. En líquidos y sólidos, la llama debe persistir el tiempo suficiente para volatilizar el material y encender los vapores. El calor irradiado por los vapores perpetúa la combustión.
+    *   **Chispas eléctricas, estáticas y de fricción:** Deben poseer suficiente energía para ignitar la mezcla de vapor inflamable y aire. Las chispas de instalaciones eléctricas comerciales suelen tener una temperatura superior a la de las llamas y son capaces de provocar la ignición de mezclas inflamables.
+    *   **Superficies calientes:** Pueden ser fuentes de ignición si su dimensión y temperatura son adecuadas.
+    *   **Brasas:** Al apagarse las llamas, como en la combustión de madera, las brasas producen calor por radiación.
+*   **Orígenes de la energía de activación:**
+    *   **Químico:** Cualquier reacción exotérmica que genere calor y pueda iniciar un incendio.
+    *   **Mecánico:** Choques o roces entre metales que generen calor y chispas suficientes para iniciar un incendio.
+    *   **Eléctrico:** El paso de corriente eléctrica que genere calor, causando numerosos incendios.
+    *   **Térmico o Directo:** Aporte directo de calor.
+    *   **Biológico:** Calor liberado por procesos como la fermentación.
+    *   **Natural o Atmosférico:** Fenómenos como los rayos.
+
+**2.6. Reacciones en Cadena (REC)**
+
+Los procesos de progresión de la combustión en la mezcla comburente/combustible suelen transcurrir mediante reacciones en cadena. Estas reacciones químicas complejas solo se manifiestan cuando hay combustión con llama. La reacción en cadena se considera garantizada e inherente a la mayoría de los combustibles si el aporte energético es suficiente y existe una mezcla adecuada de combustible y comburente.
+
+*   **Definición:** La reacción en cadena implica la auto-mantenimiento de la combustión a través de la eliminación de radicales libres (hidroxilos). Una vez iniciada, progresa por sí misma, liberando más energía que la inicial y provocando un número creciente de rupturas de enlaces de carbono (C) y oxígeno (O2).
+*   **Condiciones para la reacción:** Una mezcla de productos reactivos a menudo no reacciona si no se aporta energía de activación o si no se induce una disminución de la energía necesaria para la reacción.
+*   **Nivel molecular:** La reacción en cadena se asegura a nivel molecular cuando la energía liberada por la reacción de un número de moléculas es suficiente para activar un número igual o mayor de ellas.
+*   **Estadio de auto-mantenimiento:** Cuando el proceso es capaz de auto-proporcionar la energía suficiente para mantener una emisión constante de gases (radicales libres), se considera automantenido, lo que se conoce como **tetraedro del fuego**.
+*   **Velocidad de reacción:** La velocidad de reacción en cadena se duplica con un aumento de 10 ºC y puede multiplicarse por un millón o más con un aumento de 200 ºC. Esto requiere grandes cantidades de combustible y oxígeno.
+
+**2.7. Agentes Pasivos**
+
+Los agentes pasivos son factores que, aunque presentes en el proceso de combustión, no participan en la reacción química, pero sí afectan al comportamiento del fuego al absorber o "robar" energía (calor). Ejemplos incluyen:
+
+*   **Gases no inflamables:** Dióxido de carbono y vapor de agua.
+*   **Hollín:** Partículas de carbón.
+*   **Agua:** Contribuye a la reducción de temperatura y humedad.
+*   **Nitrógeno:** Representa aproximadamente el 79% en volumen del aire y permanece inerte durante la combustión.
+
+**2.8. Sustancias Combustibles e Inflamables**
+
+Para comprender la diferencia, es crucial conocer el proceso de pirólisis.
+
+*   **Pirólisis:** Descomposición de una sustancia por el calor. Todas las sustancias, al ser calentadas, se descomponen de su estado sólido o líquido al estado de vapor. Este proceso se debe a que el calor absorbido por las moléculas les hace perder estabilidad, descomponiéndose a través de diferentes estados de la materia. La cantidad de calor o energía necesaria para la pirólisis depende de las características físico-químicas de la sustancia y las condiciones del entorno.
+*   **Temperatura de ignición o encendido:** Temperatura mínima a partir de la cual una sustancia emite vapores suficientes para encenderse.
+*   **Sustancia combustible:** Aquella con un punto de ignición bajo y que puede mantener el fuego.
+*   **Sustancia inflamable:** Aquella sustancia combustible que emite gases fácilmente inflamables. Esto depende de:
+    *   El flujo de calor que recibe el material.
+    *   La constitución del material (facilidad de liberación de gases).
+    *   El punto de inflamación del material.

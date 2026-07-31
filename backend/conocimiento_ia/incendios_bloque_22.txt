@@ -1,51 +1,95 @@
-## Dinámica del Flujo de Gases en Incendios de Interior y Mecanismos de Transferencia de Calor
+El temario técnico de oposiciones de bomberos y emergencias aborda las siguientes secciones sobre incendios y su control:
 
-El estudio del comportamiento del fuego en espacios confinados, como en los incendios de interior, es fundamental para comprender la dinámica de los gases y la transferencia de calor, así como para aplicar técnicas de extinción y ventilación de manera efectiva. Los bomberos deben dominar estos conceptos para operar con seguridad y eficiencia.
+### 5.4. Tamaño de la gota en la aplicación de agua
 
-### I. El Calor y su Transferencia en los Incendios
+La minimización de la escorrentía del agua es crucial para optimizar la eficiencia de su uso en la extinción de incendios. Diversos factores influyen en la escorrentía:
+*   **Tamaño de gota:** Las gotas de agua de gran tamaño absorben menos calor en proporción a su superficie exterior. Por el contrario, las gotas finas tienen una mayor relación superficie/masa, lo que les permite absorber más energía y evaporarse más rápidamente antes de impactar con el entorno.
+*   **Distancia de aplicación:** Una distancia excesivamente corta entre el punto de aplicación y el entorno no permite que las gotas tengan tiempo suficiente para absorber la energía necesaria y evaporarse.
+*   **Impacto con el entorno u objetos:** Cuando una gota de agua choca con una superficie, reduce significativamente su temperatura. Si la superficie está por encima de los 100 ºC y hay suficiente transferencia de calor, la gota se evaporará. De lo contrario, se extenderá o permanecerá sobre la superficie. La refrigeración de una superficie por las primeras gotas es muy rápida en su capa más externa, lo que reduce la temperatura por debajo de 100 ºC, impidiendo la evaporación de gotas subsiguientes.
 
-La **transferencia de calor** es el proceso por el cual la energía calorífica se desplaza de una región de mayor temperatura a una de menor temperatura, buscando un equilibrio térmico. Este fenómeno es crucial en la ignición, el desarrollo y la extinción de la mayoría de los incendios, ya que la magnitud de la transferencia térmica determina la cantidad de calor por unidad de tiempo. Existen tres mecanismos principales de transferencia de calor: **conducción**, **convección** y **radiación**.
+La escorrentía es un factor determinante en la ineficacia de la aplicación de agua en un incendio. Para lograr una mayor eficiencia en la dilución de los gases, es esencial que el agua se transforme en vapor al máximo posible. La efectividad de la aplicación de agua se cuantifica por el porcentaje de agua que se evapora en la masa de gases o al contacto con la superficie.
 
-La **conducción** se refiere a la transferencia de calor por contacto molecular directo entre cuerpos, predominante en sólidos, pero presente también en líquidos y gases. Por ejemplo, el calor de una tubería de vapor puede transmitirse directamente a una pieza de madera en contacto. Este proceso implica que las moléculas calientes aumentan su vibración y la transmiten a las vecinas, sin que las moléculas cambien de posición. La velocidad de la conducción depende de la conductividad térmica del material, la superficie de contacto entre los cuerpos a diferente temperatura, la diferencia de temperaturas, y el espesor del material. Una mayor superficie de contacto y una mayor diferencia de temperatura aumentan el flujo de calor, mientras que un mayor espesor lo reduce. La conductividad térmica es una propiedad física que mide la capacidad de un material para conducir calor, variando según la sustancia y la temperatura. El calor se transmite mejor en sólidos que en líquidos, y en estos últimos mejor que en gases. Los aislantes térmicos suelen contener pequeñas partículas o fibras sólidas con intersticios de aire.
+Las técnicas de enfriamiento de la masa de gases requieren que el agua se evapore en el aire antes de que las gotas entren en contacto con cualquier superficie. El objetivo es que la gota de agua enfríe la masa de gases, provocando su contracción y minimizando el vapor de agua necesario para mantener el equilibrio térmico. La escorrentía y el agua que impacta en las superficies no se consideran agua efectiva o pueden ser incluso perjudiciales. Diferentes expertos sitúan la efectividad del enfriamiento de la masa de gases con lanzas combinadas entre el 50% y el 70%, dependiendo del entorno de aplicación y la preparación del personal.
 
-La **convección** es la transferencia de calor en un medio fluido circulante (gases o líquidos). Se produce cuando las masas de aire o líquido calientes ascienden debido a su menor densidad, mientras que las masas frías y más densas descienden. Este proceso de circulación transfiere calor a puntos distantes. El aire caliente, al ascender, deja un vacío que es ocupado por aire fresco, realimentando el foco calorífico con oxígeno. Además, el aire caliente puede arrastrar partículas en ignición, como pavesas o ascuas, contribuyendo a la propagación del fuego. La efectividad de la convección depende de la variación de la densidad del fluido con la temperatura y la pendiente del terreno. Una pendiente ascendente acelera la desecación y el calentamiento de los combustibles, favoreciendo la propagación del fuego cuesta arriba; en contraste, cuesta abajo, la convección es menos efectiva, y la propagación es más lenta, dominada por la radiación. La compacidad de la capa de combustibles también influye, ya que en capas muy compactas la convección se ve limitada por la poca presencia de aire.
+**5.4.1. Consideraciones sobre el tamaño de gota**
+La distribución de la temperatura en el compartimento incendiado no es uniforme, especialmente si hay ventilación o se ha comenzado a aplicar agua. El bombero en punta de lanza debe aplicar la cantidad adecuada de agua en las zonas más calientes, ajustando el selector de caudal, el ángulo del cono y el ángulo de aplicación respecto al suelo.
 
-La **radiación** es una forma de energía que se desplaza a través del espacio o de los materiales en forma de ondas electromagnéticas (como luz, ondas de radio o rayos X). Se propaga en línea recta a la velocidad de la luz y, al encontrar un cuerpo, puede ser absorbida, reflejada o transmitida. El calor radiado es absorbido por cuerpos opacos. Las emisiones de un proceso de combustión se sitúan principalmente en la región del infrarrojo. La radiación de las llamas de una vela, por ejemplo, calienta el aire circundante, lo que provoca corrientes de convección. Este calor radiante es la energía que una persona percibe al acercar la mano a una llama.
+El tamaño de gota es un factor fundamental.
+*   **Gotas reducidas:** Permanecen más tiempo en suspensión y absorben mejor la energía debido a su gran relación superficie/masa. Sin embargo, su alcance es menor porque tienen poca inercia y su velocidad horizontal disminuye rápidamente.
+*   **Gotas grandes:** Logran un mayor alcance, pero caen al suelo más rápido y el intercambio de calor es menos efectivo.
 
-### II. Influencia de la Aplicación de Agua en Incendios de Interior
+Un tamaño de gota excesivamente pequeño causa que el agua se evapore cerca del bombero, exponiéndolo al vapor. Un chorro sólido penetra mínimamente, evaporándose hasta impactar con el entorno. Para los entornos de lucha contra incendios, el tamaño de gota óptimo se estima entre 0,3 mm y 0,7 mm, lo que equilibra el alcance y la capacidad de absorción de energía.
 
-La aplicación de agua en un incendio de interior modifica su dinámica principalmente a través de dos efectos: **enfriamiento** y **dilución**. El calentamiento del agua aplicada y su cambio de fase de líquido a gas absorben energía, enfriando los gases del incendio, el combustible y la estructura. Además, el vapor de agua generado diluye las concentraciones de comburente y combustible.
+### 6. Influencia de la ventilación
 
-El efecto de **enfriamiento** se produce en tres fases: calentamiento del agua, cambio de fase líquido-gas (evaporación) y calentamiento del vapor de agua. El agua, con un alto calor latente de vaporización (540 cal/g a 100°C) y un calor específico de 1 cal/°C, es un agente extintor excepcional. No hierve inmediatamente al alcanzar los 100°C, sino que requiere energía adicional para convertirse en vapor. La cantidad de energía absorbida para evaporar 1 kg de agua a 18°C y elevarla a 200°C es de 2.600 kJ. Para enfriar un colchón de gases de incendio a 500°C hasta 200°C, se requieren aproximadamente 1.433 litros de agua si se considera una efectividad del 100%.
+El control de la ventilación es esencial durante las operaciones de rescate y extinción de incendios. Una ventilación adecuada puede:
+*   Aumentar la visibilidad.
+*   Reducir la temperatura en áreas específicas.
+*   Controlar la potencia del incendio.
+*   Dirigir el flujo de gases según la táctica más conveniente.
 
-La efectividad del enfriamiento depende del lugar de aplicación. Sobre los combustibles, enfría las superficies y detiene la pirólisis. En el colchón de gases, enfría y diluye el combustible y comburente, alejándolos del punto de inflamabilidad, y contrae los gases, manteniendo el equilibrio térmico y la estratificación. En las superficies del recinto, reduce la temperatura de las paredes.
+Esta operación implica controlar tanto el volumen como la dirección del flujo de gases dentro de la estructura. Una salida de gases al exterior permite establecer un flujo de gases desde zonas de mayor presión (encima del plano neutro) hacia el exterior de menor presión, liberando gases tóxicos y combustibles a alta temperatura. Por otro lado, la entrada de aire fresco desde el exterior a zonas de menor presión (debajo del plano neutro) mejora la visibilidad. En incendios limitados por la ventilación (ILV), esto también puede aumentar la potencia del incendio.
 
-La efectividad global de la aplicación de agua para enfriar el colchón de gases se estima entre un 50% y un 70% con lanzas combinadas, dependiendo del entorno y el entrenamiento. Las técnicas de enfriamiento del colchón de gases requieren que el agua se evapore en el aire antes de tocar las superficies para ser eficaces. La escorrentía o el agua no evaporada en las superficies no son efectivas e incluso pueden ser perjudiciales.
+**6.1. Principio de Conservación de la Masa**
+Este principio establece que la masa total de un sistema aislado permanece constante; no se crea ni se destruye, solo cambia su disposición. Aplicado a un compartimento en llamas, la masa de gases que abandona el recinto es igual a la masa de gases que entra más la cantidad de combustible que se convierte en gas.
 
-El **tamaño de la gota** es crucial:
-*   Las **gotas reducidas** (0.3-0.7 mm se consideran óptimas) permanecen más tiempo en suspensión y absorben mejor la energía, pero tienen menor alcance.
-*   Las **gotas gruesas** tienen mayor alcance, pero caen más rápido y son menos eficientes en el intercambio de calor. Un tamaño de gota excesivamente pequeño puede evaporarse cerca del bombero, exponiéndolo al vapor. Un chorro sólido penetra con mínima evaporación hasta impactar el entorno.
+La fórmula es:
+msaliente = mentrante + m→gas
+Donde:
+*   msaliente = masa de gases que sale por todas las aperturas de ventilación [kg]
+*   mentrante = masa de gases que entra por todas las aperturas de ventilación [kg]
+*   m→gas = masa combustible en el interior que se convierte en gas [kg]
 
-El efecto de **dilución** se produce cuando el vapor de agua generado se incorpora a la mezcla de gases del incendio, desplazando los gases combustibles y comburentes y alejándolos del rango de inflamabilidad. Un litro de agua a 100°C genera aproximadamente 1.600 litros de vapor, una expansión que aumenta con la temperatura.
+La masa de combustible gasificado (m→gas) rara vez supera el 10% de la masa total, lo que a menudo permite aproximar que la masa de gases que sale es igual a la que entra. Aunque esta aproximación es válida para la masa, no lo es para el volumen, ya que los gases calientes de incendio tienen menor densidad y mayor volumen que el aire frío entrante, lo que exige una mayor superficie para la salida.
 
-### III. Influencia y Control de la Ventilación en Incendios de Interior
+En incendios con una única apertura exterior, donde se observa un flujo bidireccional (entrada y salida de gases), la salida de gases es más evidente que la entrada, pero la masa total que entra y sale es casi idéntica.
 
-El **control de la ventilación** es una fase vital en las operaciones de rescate y extinción de incendios, ya que permite modificar la dinámica del incendio. Un control adecuado contribuye a aumentar la visibilidad, reducir la temperatura, controlar la potencia del incendio y dirigir el flujo de gases de manera estratégica.
+**6.2. Ecuación de Bernoulli**
+La ecuación de Bernoulli, formulada en la sección de Hidráulica, describe la conservación de la energía en conducciones de fluidos ideales (no turbulentos e incompresibles). Se considera una aproximación razonable para el movimiento de gases en un incendio.
 
-El **Principio de Conservación de la Masa** establece que la masa total de un sistema aislado permanece constante. Aplicado a un recinto incendiado, la masa de gases que sale es igual a la masa de gases que entra más la masa de combustible gasificada. Aunque la masa de combustible gasificada rara vez excede el 10%, el volumen de los gases calientes que salen es significativamente mayor que el de los gases fríos que entran debido a su menor densidad.
+Establece que entre dos puntos de un fluido en movimiento:
+P + ½ρv² + ρgh = constante
+Donde:
+*   P = presión estática [Pa] [N/m²]
+*   ρ = densidad del fluido [kg/m³]
+*   g = aceleración de la gravedad = 9,81 m/s²
+*   h = altura sobre un plano de referencia [m]
+*   v = velocidad del fluido [m/s]
 
-En incendios con una sola apertura, se observa un **flujo bidireccional**, donde el plano neutro se sitúa muy bajo, y la salida de gases es más notoria que la entrada, aunque la masa de gases entrante y saliente es casi idéntica.
+Esta ecuación permite comprender cómo las diferencias de presión generan el movimiento de los fluidos en un incendio. Entre dos puntos (1 y 2), la suma de la presión estática (P), la energía cinética (½ρv²) y la energía potencial (ρgh) es constante:
+P1 + ½ρ1v1² + ρgh1 = P2 + ½ρ2v2² + ρgh2.
 
-La **Ecuación de Bernoulli** es una herramienta fundamental para entender el movimiento de fluidos en incendios, aunque se aplique como una aproximación en conducciones de fluidos ideales. Establece que la suma de las energías potencial, de presión y cinética de un fluido en movimiento se mantiene constante. En una canalización horizontal, una disminución de la sección aumenta la velocidad y la energía cinética, reduciendo la presión. Cuando la sección es constante, una elevación aumenta la energía potencial y disminuye la presión. En el contexto de la ventilación de incendios, esta ecuación ayuda a comprender cómo las diferencias de presión generan el movimiento del flujo de gases. Por ejemplo, en un recinto presurizado a 25 Pa con una ventana de 1.1 m², la velocidad de salida de los gases puede alcanzar 6.45 m/s, lo que representa un caudal de 25.562 m³/h.
+Si los puntos 1 y 2 están a la misma altura (h1 = h2) y la densidad del fluido es constante (ρ1 = ρ2), la ecuación se simplifica a:
+P1 + ½ρv1² = P2 + ½ρv2².
+Esto implica que, si la suma de los términos de presión estática y dinámica es constante, una diferencia de presión (P1-P2) conllevará una diferencia de velocidades (v2-v1) y, por ende, movimiento del flujo.
 
-Las principales **causas de la movilidad de los gases de incendio** son la flotabilidad y las diferencias de presión. La **flotabilidad** ocurre porque los gases calientes del incendio son menos densos que el aire circundante, lo que hace que asciendan. Este efecto se debe principalmente a las diferencias de temperatura, ya que la composición del aire, con el nitrógeno como componente principal, permanece similar en los gases de incendio. Las **diferencias de presión** entre las distintas estancias del edificio y con el exterior también impulsan el movimiento de los gases. La salida de gases del recinto provoca cambios en la presión interior. Los ventiladores o extractores de presión positiva crean diferenciales de presión, desplazando los fluidos de zonas de mayor a menor presión por el camino más corto. Sin embargo, el efecto de flotación de los gases calientes puede contrarrestar este movimiento, impidiendo que las capas superiores de gases a mayor presión se desplacen a zonas bajas.
+**Ejemplo de cálculo:** Para un recinto con una sobrepresión de 25 Pa y una ventana de 1,1 m², sin efectos del incendio, la velocidad de salida de gases sería de 6,45 m/s, resultando un caudal de 25.562 m³/h. En un movimiento de flujo frío, la presión se distribuye uniformemente y no hay gradientes de presión debido a diferencias de temperatura.
 
-### IV. Identificación de los Flujos de Gases en Incendios Forestales
+### 6.3. Causas de la movilidad de gases de incendio: flotabilidad y diferencias de presión
 
-En un incendio no confinado, se produce un **flujo de gases** que incluye la alimentación de aire al incendio y los gases de combustión producidos. Es posible identificar dos rutas principales:
-*   La **ruta fría**, que va desde la entrada de ventilación hasta el foco del incendio, se caracteriza por buena visibilidad, baja temperatura, alta concentración de oxígeno y buenas condiciones de supervivencia.
-*   La **ruta caliente**, formada por los gases de incendio que buscan la salida, presenta baja visibilidad, alta temperatura, alta concentración de gases tóxicos, gases potencialmente inflamables y condiciones de supervivencia críticas.
+Los gases de incendio, el aire fresco y el vapor de agua (generado por la extinción) se comportan como fluidos cuya dinámica está determinada por dos causas principales:
+*   **Efecto de flotabilidad:** Una masa de fluido menos densa que el medio circundante experimenta una presión mayor en su cara inferior, lo que la hace ascender.
+    *   Las diferencias de densidad pueden deberse a:
+        *   **Composición química:** Como en el caso de los dirigibles de helio (0,18 kg/m³) flotando en aire (1,2 kg/m³).
+        *   **Temperatura:** Como en los globos aerostáticos de aire caliente.
+    *   En un compartimento incendiado, la flotabilidad se atribuye principalmente a la diferencia de temperatura, ya que el nitrógeno, componente principal del aire, se mantiene en proporciones similares en los gases de incendio.
+    *   **Ejemplo de cálculo de densidad:** La densidad del aire a 20°C es 1,2 kg/m³. A 500°C, la densidad de los gases de incendio sería de 0,46 kg/m³, calculada como ρm2 = ρm1 * T1 / T2, donde T1 es la temperatura ambiente (293 K) y T2 la temperatura de los gases de incendio (773 K).
+*   **Diferencias de presión:** En un recinto incendiado, las diferencias de presión se generan entre las distintas estancias del edificio y con el exterior debido a las diferencias de temperatura de los gases de incendio. La salida de gases también modifica la presión interna. El uso de ventiladores de presión positiva o extractores de gases creará diferenciales de presión que desplazarán los fluidos desde zonas de mayor a menor presión, siguiendo el gradiente máximo.
 
-La masa de aire en movimiento en ambas rutas es similar, pero el volumen de gases es mayor en la ruta caliente debido a las altas temperaturas. En incendios confinados, la ausencia de aperturas impide el flujo de gases hacia el exterior, limitando el movimiento interno a la columna de convección del foco. La **Ventilación en Presión Positiva (VPP)** puede generar flujos unidireccionales, incluso en aperturas que naturalmente no los tendrían, lo que facilita las operaciones de los bomberos al crear un flujo limpio y predecible.
+En un incendio, el movimiento de los fluidos hacia zonas de menor presión también está condicionado por el efecto de flotabilidad de los gases calientes y de baja densidad. Esto explica por qué las capas superiores de gases (a mayor presión) no se desplazan hacia las zonas bajas (menores presiones) por debajo del plano neutro, contrariamente a lo que ocurriría si solo actuaran los diferenciales de presión.
 
-Los **flujos unidireccionales** se establecen cuando hay al menos dos aperturas diferenciadas para la entrada y salida de gases. Si la apertura se encuentra por debajo del plano neutro, se produce una entrada de aire fresco; si está por encima, una salida de gases calientes. Estos flujos son comunes en incendios naturalmente ventilados con diferencias de altura y presión. Los **flujos bidireccionales** se forman en aperturas que abarcan zonas tanto por encima como por debajo del plano neutro, resultando en una salida de gases en la parte superior y una entrada de aire en la inferior.
+### 6.4. Identificación de flujos de gases
+
+En cualquier incendio no confinado (que tiene aperturas de ventilación hacia el exterior), se produce un movimiento de gases que engloba la entrada de aire al incendio y los gases generados por este. Este volumen se conoce como flujo de gases, y en él se pueden identificar claramente dos rutas:
+
+*   **Ruta fría:**
+    *   Buena visibilidad.
+    *   Baja temperatura.
+    *   Alta concentración de oxígeno (lo que aumenta la potencia del incendio en casos ILV).
+    *   Buenas condiciones de supervivencia.
+*   **Ruta caliente:**
+    *   Baja visibilidad.
+    *   Alta temperatura.
+    *   Alta concentración de gases tóxicos.
+    *   Gases potencialmente inflamables.
+    *   Condiciones de supervivencia críticas.

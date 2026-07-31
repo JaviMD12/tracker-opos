@@ -1,57 +1,116 @@
-## Equipos de Medición Eléctrica y Otros Dispositivos de Intervención
+A continuación, se detalla el contenido extraído y reescrito de las páginas 211 a 214 del manual.
 
-Para garantizar la seguridad y eficacia en las operaciones de bomberos y emergencias, resulta imprescindible el uso de equipos de medición eléctrica y otros elementos auxiliares específicos. Estos dispositivos permiten diagnosticar situaciones de riesgo, asegurar un correcto funcionamiento de la maquinaria y manipular entornos con presencia de electricidad o productos peligrosos.
+### 2.8.3. Uso y seguridad (continuación de Pinza Amperimétrica)
 
-### Pinza Amperimétrica
+#### d) Precauciones y medidas de seguridad (continuación)
+*   No se debe abrir el compartimento de las baterías mientras se realizan mediciones.
+*   Antes de abrir el compartimento de la batería para su sustitución, es crucial asegurarse de que el interruptor de rango esté en la posición "OFF" y que las puntas de prueba se hayan retirado del instrumento.
 
-La **pinza amperimétrica** es un instrumento fundamental para la medición de corriente eléctrica. Su principal característica radica en que permite medir la intensidad de corriente de forma indirecta, sin necesidad de abrir el circuito eléctrico. Este método, basado en la captación del campo magnético generado por la circulación de corriente, resulta intrínsecamente seguro para el operador, incluso al medir en cables aislados sin necesidad de retirar su recubrimiento.
+### 2.8.4. Mantenimiento (Pinza Amperimétrica)
+Es fundamental verificar la correcta carga de la batería y la adecuada capacidad de comunicación entre emisoras. El personal debe asegurar que las pinzas amperimétricas estén siempre disponibles en el parque y se mantengan libres de polvo. En caso de que la rejilla del altavoz se moje, debe secarse con un secador de aire frío antes de encenderlo.
 
-Este equipo debe cumplir con la **normativa EN61010-1**, que establece los requisitos generales de seguridad para equipos eléctricos de medida, control y uso en laboratorio.
+### 2.9. Polímetro
+El polímetro es un instrumento esencial para verificar el correcto funcionamiento de circuitos eléctricos, permitiendo medir magnitudes como tensiones (alternas y continuas), corrientes y resistencias.
 
-#### Funcionamiento y Uso
+#### 2.9.1. Especificaciones
+Existen dos categorías de polímetros: digitales y analógicos. Los digitales se caracterizan por su alta precisión al mostrar la medición exacta en la pantalla, mientras que los analógicos indican el dato mediante una aguja en un modulador.
 
-Para una medición precisa con la pinza amperimétrica, es crucial pasar un **único conductor** a través de la sonda. Si se intentan medir varios conductores simultáneamente, el resultado será la suma vectorial de las corrientes, lo que puede llevar a lecturas erróneas si las fases son opuestas (por ejemplo, en un cable paralelo de dos conductores con corrientes idénticas y fases contrarias, la lectura sería cero).
+Las principales partes de un polímetro son:
+1.  Pantalla de cristal líquido.
+2.  Interruptor de conexión/desconexión.
+3.  Escala de medida de resistencia.
+4.  Posición de prueba de diodos y continuidad.
+5.  Escala de medida de intensidad continua.
+6.  Escala de medida de intensidad alterna.
+7.  Escalas de medida de capacidad.
+8.  Zócalo de medición de condensadores.
+9.  Borne para medida de intensidades inferiores a 200 mA.
+10. Borne para medida de intensidades superiores a 200 mA.
+11. Zócalo de prueba de transistores.
+12. Escala de medida de tensión continua.
+13. Selector de funciones y escalas.
+14. Escalas de medida de tensión alterna.
+15. Escalas de medida de frecuencia.
+16. Borne común.
+17. Borne para medida de tensión, resistencia y frecuencia.
 
-El proceso para **medir corriente alterna (AC)** implica seleccionar el rango adecuado (200A o 600A), presionar el gatillo para abrir las garras, atrapar el conductor asegurándose de que esté centrado para optimizar la precisión, y registrar la lectura en pantalla. Para la **medición de voltaje AC**, se selecciona el rango (200V o 600V), se conectan las puntas de prueba (roja en "V/Ω" y negra en "COM"), y se tocan los puntos del circuito a medir, registrando el valor en pantalla. Es importante mantener las garras de la pinza completamente cerradas durante la medición del voltaje para evitar imprecisiones; asimismo, es normal que las garras zumben con corrientes elevadas sin que esto afecte la precisión.
+Además del dispositivo principal, el polímetro incluye puntas de prueba que establecen la conexión con el componente o circuito a medir. Estas puntas se conectan a los bornes inferiores del polímetro: la punta negra siempre se une al borne común (COM), mientras que la roja se conecta a uno de los tres bornes rojos, según la magnitud a medir.
 
-#### Seguridad y Mantenimiento
+#### 2.9.2. Normativa
+Los polímetros se rigen por las normas EN CAT III 1000 V y CAT IV 600 V- IEC/EN61010-1, que establecen los requisitos de seguridad para equipos eléctricos de medida, control y uso en laboratorio (Parte 1: Requisitos generales).
 
-Es vital observar estrictas **medidas de seguridad** al usar la pinza amperimétrica. No debe utilizarse en circuitos con tensiones superiores a 600V AC para evitar descargas y daños por calentamiento del equipo. Las garras transformadoras son de acero y no están aisladas, por lo que se debe extremar la precaución para evitar cortocircuitos. Antes de cualquier medición de corriente, deben retirarse las puntas de prueba. Asimismo, está prohibido abrir el compartimento de las baterías mientras se realizan mediciones y, para su reemplazo, el interruptor de rango debe estar en la posición OFF y las puntas deben estar desconectadas del instrumento.
+#### 2.9.3. Uso y seguridad
+Para asegurar el correcto funcionamiento del polímetro, se deben considerar los siguientes puntos:
+*   Si el aislamiento de las puntas de prueba está dañado, no deben utilizarse.
+*   Para prevenir descargas eléctricas, el instrumento no debe usarse si presenta daños visibles o resultados erróneos en sus funciones.
+*   No debe emplearse la pinza si las puntas de prueba o las manos del usuario están húmedas.
+*   Evitar el uso de la pinza en entornos con riesgo de explosión, como la presencia de gases inflamables o vapor.
+*   Nunca se deben exceder los límites máximos de entrada permitidos para cada función.
+*   Siempre se debe dejar el interruptor de rango en la posición "OFF" después de cada uso.
+*   Si el instrumento no se va a utilizar durante un periodo prolongado, las baterías deben retirarse.
 
-El **mantenimiento** de la pinza amperimétrica incluye el reemplazo de fusibles cuando sea necesario, notificar cualquier anomalía al servicio técnico y asegurar que las tapas y tornillos estén bien sujetos. La limpieza debe realizarse con un paño húmedo y un detergente acuoso, evitando disolventes o abrasivos. Para su transporte, debe guardarse en un maletín de riesgo eléctrico.
+### 2.9.4. Mantenimiento (Polímetro)
+Para un mantenimiento adecuado, se deben seguir estas pautas:
+*   Reemplazar los fusibles cuando sea necesario.
+*   Ante cualquier anomalía en la pinza digital, es preferible contactar al servicio técnico.
+*   Verificar que las tapas estén correctamente cerradas y los tornillos bien sujetos.
+*   Limpiar el instrumento con un paño húmedo y detergente acuoso, evitando disolventes o abrasivos.
+Para su transporte, el polímetro se guardará en un maletín de riesgo eléctrico, dentro de su funda correspondiente.
 
-### Polímetro
+### 2.9.3. Uso y seguridad (continuación de Polímetro)
 
-El **polímetro**, también conocido como multímetro u óhmetro en el caso de mediciones de resistencia, es un instrumento versátil que permite verificar el correcto funcionamiento de un circuito eléctrico, midiendo tensiones (alternas y continuas), corrientes y resistencias. Existen dos tipos principales: los **digitales**, que ofrecen lecturas exactas en pantalla y son más precisos, y los **analógicos**, donde una aguja marca el valor medido.
+#### a) Medición de resistencias
+Cuando el polímetro opera como óhmetro, los pasos a seguir son:
+1.  Si la resistencia está montada en un circuito, se debe desconectar al menos uno de sus terminales y asegurar que el circuito esté sin alimentación eléctrica. El aislamiento completo del resto del circuito es la mejor práctica para evitar lecturas erróneas.
+2.  Conectar la punta de prueba negra al borne COM y la punta roja al borne V Ω Hz.
+3.  Seleccionar la función de escalas de medida de resistencias y elegir la escala apropiada. La pantalla del polímetro mostrará un "1" a la izquierda. Al tocar ambas puntas de prueba entre sí, la lectura debería ser "0", lo que indica su correcto funcionamiento.
+4.  Realizar la medición tocando los dos terminales de la resistencia. El polímetro se conecta en paralelo con el elemento a medir.
 
-Entre sus **componentes** se encuentran la pantalla de cristal líquido, el interruptor de conexión/desconexión, diversas escalas para medir resistencias, intensidades y tensiones, zócalos para mediciones específicas, bornes de conexión (COM y otros según la magnitud a medir) y un selector de funciones y escalas. Las puntas de prueba se conectan en los bornes inferiores, con la punta negra siempre en el borne común (COM) y la roja en el borne correspondiente a la magnitud que se desea medir (generalmente VΩHz para tensión y resistencia, y un borne específico para corriente).
+**Ejemplo:** Para medir una resistencia de 12 kΩ, la posición correcta del selector de funciones se mostrará en la figura correspondiente.
 
-La **normativa** que regula estos dispositivos es la EN CAT III 1000 V y CAT IV 600 V, junto con la IEC/EN61010-1, que establecen los requisitos de seguridad para equipos eléctricos de medida y control.
+#### b) Medición de tensiones
+Cuando el polímetro opera como voltímetro, se pueden medir tensiones continuas o alternas, con escalas específicas para cada una. Los pasos para medir la tensión son:
+1.  Asegurarse de que el circuito esté conectado a la alimentación y cerrado.
+2.  Conectar la punta de prueba negra al borne COM y la roja al borne VΩHz.
+3.  Posicionar el selector de funciones en la zona de escalas de tensión continua o alterna, eligiendo una escala superior al valor máximo previsto. La pantalla mostrará "0.00".
+4.  Tocar con las puntas de prueba los puntos del circuito donde se desea medir la tensión. El polímetro se conecta en paralelo con el circuito. Si la lectura muestra un signo negativo, significa que las puntas de prueba están invertidas. Al corregirlas, el valor será el mismo y el signo negativo desaparecerá.
 
-#### Medición y Comprobación
+**Ejemplo:** Para medir tensiones en un circuito alimentado por una batería de 4,5 V, la posición correcta del selector de funciones se mostrará en la figura. Para una tensión alterna de 220 V en un enchufe, el selector se situaría en la marca "700" de la zona de escalas de tensión alterna (V~).
 
-Para **medir resistencias**, el primer paso es desconectar los terminales del circuito y aislar la resistencia de la alimentación eléctrica. Luego, se conectan las puntas de prueba (negra en COM, roja en VΩHz) y se sitúa el selector en el rango adecuado de resistencia. La pantalla mostrará "1" si no hay conexión y "0" si las puntas se tocan, indicando continuidad.
+#### c) Medición de intensidades de corriente
+Para la medición de intensidades de corriente con el polímetro, que funciona como amperímetro, se pueden medir corrientes continuas o alternas, disponiendo de una zona de escalas para cada una. Los pasos a seguir son:
+1.  Conectar la punta de prueba negra al borne COM y la roja al borne marcado con 10 A.
+2.  Colocar el selector de funciones en la zona de escalas de intensidades continuas, seleccionando la escala 10 A. La pantalla mostrará "0.00".
+3.  Abrir el circuito en el ramal donde se desea medir la intensidad, dejando accesibles los dos extremos resultantes.
+4.  Conectar las puntas de prueba a los dos extremos libres, de modo que toda la corriente circule por el polímetro, que se conecta en serie.
+5.  Conectar el circuito a la alimentación y realizar la lectura. Una lectura con signo negativo indica que la corriente entra por la punta negra y sale por la roja. Si se invierten las puntas, el valor será positivo.
 
-Para **medir tensiones**, se verifica que el circuito esté conectado y cerrado. Las puntas de prueba se conectan de manera similar (negra en COM, roja en VΩHz) y el selector se ajusta a la escala de tensión continua o alterna que sea superior al valor máximo esperado. La pantalla mostrará "0.00", y el valor se leerá al tocar los puntos del circuito. Un signo negativo indica que las puntas están invertidas.
+Si la lectura es inferior a 0.2 A (200 mA):
+1.  Retirar las puntas de prueba y conectar la punta roja al borne marcado con mA.
+2.  Colocar el selector de funciones en la escala de 200 mA en la zona de escalas de corrientes continuas. La pantalla mostrará "0.0".
+3.  Repetir el paso 4 de la medición anterior. Si la lectura es menor que una escala inferior (por ejemplo, 20 mA), se debe cambiar la escala sucesivamente.
 
-En la **medición de intensidades de corriente**, se conectan las puntas (negra en COM, roja en el borne de 10 A), se selecciona la escala de intensidad adecuada y se abre el circuito a medir para insertar el polímetro en serie, tocando los extremos libres con las puntas. Si la lectura es inferior a 0.2A, las puntas se trasladan al borne de mA y se ajusta la escala en la zona de medida de corrientes continuas. Es fundamental empezar siempre en la escala de 10 A si no se conoce la magnitud de la corriente para evitar daños en el fusible de protección.
+Es importante destacar que si no se está seguro de que la corriente es inferior a 200 mA, la medición siempre debe iniciarse en la escala de 10 A para evitar fundir el fusible de protección. Si el polímetro marca "0" al medir intensidades, es probable que el fusible de protección esté fundido.
 
-La **comprobación de continuidad** se realiza desconectando el circuito y su alimentación, conectando las puntas en COM y VΩHz, y colocando el selector en el símbolo de nota musical y diodo. Al tocar los extremos del circuito, un pitido confirmará continuidad si la resistencia es inferior a 50Ω.
+Para medir la intensidad de corriente en una instalación eléctrica o aparato conectado a la red, que funciona con corriente alterna, se debe situar el selector de funciones en la marca 10 A de la zona de escalas de corriente alterna (A~).
 
-#### Precauciones y Mantenimiento del Polímetro
+#### d) Comprobación de continuidad
+Existe continuidad eléctrica en una parte de un circuito si la corriente puede pasar a través de ella con una resistencia muy baja o cero (resistencia mínima de conductores y contactos).
+La verificación de continuidad eléctrica es muy útil para detectar averías como uniones o soldaduras defectuosas, falsos contactos, cables o pistas de circuitos impresos cortados, cortocircuitos, componentes defectuosos, o cables cortados internamente con funda aislante intacta.
 
-Las **precauciones de seguridad** en el uso del polímetro incluyen inspeccionar la carcasa y los cables de prueba en busca de daños o aislamiento defectuoso antes de cada uso. No se debe utilizar el medidor si presenta anomalías o en ambientes con gases inflamables o explosivos, ni exceder los límites de tensión o corriente marcados. Es importante seleccionar siempre el rango de medición apropiado y retirar las baterías si el equipo no se usará por un tiempo prolongado.
+Los pasos para comprobar la continuidad son:
+1.  Si el circuito o componente está montado, desconectar al menos uno de los extremos y asegurar que no haya alimentación eléctrica para evitar indicaciones erróneas.
+2.  Conectar la punta de prueba negra al borne COM y la roja al borne VΩHz.
+3.  Colocar el selector de funciones en la posición indicada con los símbolos de una nota musical y un diodo.
+4.  Tocar con las puntas de prueba los dos extremos del circuito o componente. Si la resistencia entre ellos es inferior a 50Ω, se emitirá un pitido.
 
-Para el **mantenimiento**, se deben reemplazar los fusibles y las baterías cuando sea necesario. Ante cualquier anomalía, es fundamental contactar al servicio técnico. El equipo debe limpiarse con un paño húmedo y detergente acuoso, sin disolventes ni abrasivos, y transportarse y almacenarse en su maletín de riesgo eléctrico, lejos de temperaturas extremas o campos magnéticos.
+#### e) Precauciones y medidas de seguridad
+Al utilizar el polímetro, es vital seguir estas precauciones:
+*   Inspeccionar la carcasa antes de usar el medidor y no utilizarlo si está dañada o presenta roturas/ausencia de plástico.
+*   Prestar especial atención al aislamiento alrededor de los conectores.
+*   Inspeccionar los cables de prueba en busca de daños en el aislante o partes metálicas expuestas, y verificar su continuidad.
+*   Reemplazar los cables dañados por otros de idéntico modelo o especificaciones eléctricas antes de usar el medidor.
 
-### Otros Elementos de Intervención Eléctrica
-
-Además de los equipos anteriores, existen otros elementos esenciales para la intervención con riesgo eléctrico:
-
-*   La **cinta aislante**, fabricada con materiales termoplásticos como PVC o polietileno, es un material aislante y adherente utilizado para recubrir conductores eléctricos y aislar empalmes. Debe cumplir con normativas como IEC 60454-3 y NTC, y se encuentra disponible en negro para exteriores y en varios colores para interiores.
-
-*   El **juego de clemas** son conectores eléctricos diseñados para aprisionar cables con tornillos. Son de uso común en el cableado eléctrico para conectar enchufes, interruptores y aparatos.
-
-*   Las **empuñaduras para quitar fusibles** están fabricadas en baquelita o materiales similares y están diseñadas para soportar tensiones de hasta 5000 V, aunque su uso se limita a 1000 V. Su función principal es retirar fusibles tipo cuchilla, especialmente en cajas generales de protección, protegiendo al usuario de quemaduras por arcos voltaicos.
-
-*   La **llave de cruz aislada** es una herramienta con cuatro vasos aislados, útil para apretar tuercas en conectores aislados de perforación que presenten falsos contactos.
+### 2.9.4. Mantenimiento (Polímetro)
+El polímetro debe almacenarse y transportarse en un maletín de riesgo eléctrico. No debe guardarse en ambientes de alta temperatura, humedad, explosivos, inflamables o con fuertes campos magnéticos.
+La superficie del medidor debe limpiarse con una bayeta y un detergente suave, evitando disolventes o abrasivos para prevenir corrosión o daños.

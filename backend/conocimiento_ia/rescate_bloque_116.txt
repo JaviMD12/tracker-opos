@@ -1,51 +1,129 @@
-## Valoración de Condiciones y Riesgos en Búsquedas y Rescates en Grandes Áreas
+## Temario: Rescate y Salvamento – Búsqueda en Grandes Áreas
 
-La intervención en operaciones de búsqueda y rescate en grandes áreas exige una meticulosa valoración de las condiciones y riesgos, tanto para la víctima como para el personal interviniente. Esta evaluación es crucial para definir la estrategia, optimizar los recursos y garantizar la seguridad de la operación.
+### **7. Hipótesis de Localización Prioritarias**
 
-### Riesgos y Amenazas para Víctimas e Intervinientes
+En una búsqueda organizada, se aplica un método hipotético-deductivo para corroborar hechos. Los pasos incluyen:
 
-El entorno hostil presenta riesgos inherentes para la **víctima**, como la exposición a temperaturas extremas (frío o calor), la deshidratación o el hambre, la interacción con fauna salvaje, caídas o agotamiento físico severo. Generalmente, las personas extraviadas tenderán a buscar rutas más transitables o fuentes de agua y alimentos, así como refugio ante las inclemencias meteorológicas.
+1.  **Observación y Recopilación de Información:** Consiste en reunir todos los datos relacionados con el evento o individuo de interés, abarcando la persona desaparecida y sus últimos movimientos.
+2.  **Análisis y Formulación de Hipótesis:** A partir de la información recopilada, se analiza para extraer una posible explicación, formulando una hipótesis o teoría que prediga el comportamiento y los movimientos de la persona desaparecida.
+3.  **Contraste y Validación:** La hipótesis se contrasta con la realidad en el sector de búsqueda. Si los resultados no coinciden, se modifica la hipótesis o se define una nueva.
 
-Por su parte, los **intervinientes** también se enfrentan a peligros significativos. El excesivo celo puede llevar a los equipos a operar en zonas de alto riesgo, como simas o barrancos. Adicionalmente, el actuar de manera individualizada o la confrontación con una víctima agresiva puede comprometer la seguridad del rescatador.
+En búsquedas extensas, se recibe una gran cantidad de información, a menudo contradictoria. Es común trabajar con varias hipótesis simultáneamente, y la información inicial puede ser incompleta, llegando a medida que avanza la evaluación. El puesto de mando (PMA) lleva a cabo un proceso de priorización y coordinación de hipótesis, asignando sectores de búsqueda con base en la calidad de los datos, la coherencia con otros indicios y la fiabilidad de la fuente. Es crucial reconocer que la certeza total en las hipótesis rara vez se logra con información limitada, y aunque los lugares posibles pueden ser infinitos, el área de búsqueda debe ser reducida y gestionable.
 
-### Importancia del Tiempo Transcurrido
+### **5. Nociones de Cartografía Básica**
 
-El **tiempo transcurrido** desde la desaparición es un factor determinante en las operaciones de búsqueda y rescate, especialmente para **víctimas vulnerables** como niños pequeños, personas con demencia o Alzheimer, donde la probabilidad de supervivencia se reduce drásticamente pasadas las 48 horas. Este dato influye directamente en la urgencia y el tipo de despliegue necesario. Cuando una búsqueda se prolonga, resulta indispensable estimar tanto la extensión del área a rastrear como la duración que la operación puede sostenerse. Por ejemplo, si han transcurrido pocas horas, se puede iniciar una búsqueda probabilística, mientras que, si el tiempo es considerable, se deberá priorizar el despliegue rápido y luego la búsqueda sistemática, prestando siempre atención a los pronósticos meteorológicos adversos.
+La cartografía es una herramienta esencial que permite: representar gráficamente grandes superficies, localizar puntos y accidentes geográficos, establecer la orientación, determinar rumbos, y calcular distancias y áreas. En una búsqueda, el uso de la cartografía ayuda a: organizar equipos, registrar áreas rastreadas, y facilitar la orientación y el movimiento para localizar y rescatar a la víctima y devolverla a su hogar.
 
-### Formulación de Hipótesis de Localización
+#### **5.1. Lectura de Mapas**
 
-Para organizar una búsqueda de manera eficaz, se emplea el **método hipotético-deductivo**. Este proceso implica:
-1.  **Recopilación y Observación**: Reunir toda la información disponible sobre la persona desaparecida y sus últimos movimientos.
-2.  **Análisis y Formulación**: Analizar los datos para construir hipótesis sobre el comportamiento y la posible ubicación del individuo.
-3.  **Contraste y Ajuste**: Verificar la validez de estas hipótesis en el terreno; si no se confirman, se deben ajustar o reformular con nueva información.
+La representación de la superficie esférica terrestre en un plano presenta desafíos, agravados por la forma geoide de la Tierra, donde el eje vertical es más corto que el horizontal, generando irregularidades geométricas. Existen dos tipos de proyecciones fundamentales:
 
-Es habitual que en grandes búsquedas se maneje información contradictoria o se trabajen múltiples hipótesis de forma simultánea. El **Puesto de Mando Avanzado (PMA)** juega un rol central al priorizar y coordinar estas hipótesis basándose en la calidad de los datos, la coherencia con otros indicios y la fiabilidad de las fuentes. Es crucial asumir que la información inicial siempre es limitada y la seguridad absoluta nunca está garantizada.
+*   **Proyecciones Planas:** Para representaciones bidimensionales.
+*   **Desarrollos:** Para figuras tridimensionales como conos o cilindros.
 
-### Intervención en Caso de Personas Perdidas
+La escala de un mapa indica la proporción entre la superficie proyectada y el tamaño del plano. Por ejemplo, una escala 1:25.000 significa que 1 centímetro en el mapa equivale a 25.000 centímetros (250 metros) en la realidad. Se aplican correcciones matemáticas y geométricas para maximizar la precisión en la localización de puntos.
 
-Las **personas perdidas** son aquellas que, aunque mantienen contacto con los equipos de rescate, desconocen su ubicación exacta. El objetivo principal en estos casos es su **localización** y posterior **guiado** a un lugar seguro.
+#### **5.2. Determinación de Posición**
 
-La localización inicial se realiza recopilando información telefónica del alertante. Se pueden emplear **aplicaciones de localización móvil** (como WhatsApp, que permite compartir la ubicación GPS), siempre y cuando el dispositivo del extraviado tenga paquete de datos y se cuente con su autorización. Si no se dispone de tecnología, se recurre a la **localización por referencias geográficas** (accidentes del terreno, infraestructuras, posición del sol). Una vez fijada la posición, se determinan las coordenadas exactas y se guía al individuo hacia una zona segura y confortable.
+El objetivo es establecer la ubicación exacta, ya sea de los rescatadores o de las personas desaparecidas. Con coordenadas GPS, esta tarea es sencilla. Si se dispone de coordenadas, se localizan en el mapa. En ausencia de GPS, la posición se triangula utilizando accidentes geográficos o elementos paisajísticos. Esto requiere una orientación precisa respecto a dichos puntos de referencia.
 
-### Localización de Víctimas Desaparecidas
+#### **5.3. Orientación**
 
-La justificación de un operativo de búsqueda para **víctimas desaparecidas** no siempre es automática, especialmente si se trata de un adulto que voluntariamente se ha ausentado. Sin embargo, la intervención se justifica en tres escenarios principales:
-*   **Víctima dependiente**: Persona que no puede sobrevivir más de 24 horas fuera de un entorno humanizado sin riesgo vital. Esto incluye a individuos con necesidades médicas específicas (riesgo vital concreto) o aquellos con dificultades de movilidad, sensoriales o intelectuales, como niños menores de seis años (riesgo vital indefinido).
-*   **Víctima autónoma con riesgo vital objetivo**: Individuos con plenas capacidades físicas y mentales pero expuestos a peligros externos inminentes, como inundaciones, avalanchas o golpes de calor.
-*   **Alarma social**: Cuando la desaparición de una persona conocida o popular genera una gran atención mediática, y las búsquedas no controladas por voluntarios podrían generar riesgos adicionales. En estos casos, se activa un protocolo de búsqueda sistemática y organizada.
+La orientación implica identificar el punto cardinal Este (salida del sol).
 
-### Gestión y Estructura Operativa de una Búsqueda
+*   **Durante el día:** Es un método sencillo e intuitivo, que se basa en la trayectoria solar según la estación y la hora.
+*   **Durante la noche:** La Estrella Polar y las zonas de solana/umbría son útiles para determinar los puntos cardinales.
+*   **Instrumento principal:** La brújula, que señala el Norte magnético. La leyenda del mapa indica el ángulo de divergencia entre el Norte geográfico y el magnético. El ángulo de convergencia del meridiano hacia los polos es generalmente insignificante (menos de 1 grado).
+*   **Acimut (Azimut):** Línea en el mapa que representa el rumbo. Se calcula sumando los grados de divergencia magnética (positivos o negativos) a los grados del rumbo de la brújula.
+*   **Determinación de la posición del observador:** Proyectando varios acimuts desde puntos singulares del paisaje en un mapa, su intersección aproxima la ubicación del observador.
+*   **Navegación GPS:** Combina posicionamiento y capas cartográficas para localizar puntos fijos, determinar rumbos y seguir rutas transitables.
 
-La gestión de una búsqueda se fundamenta en la **recopilación exhaustiva de información**, la **movilización eficiente de recursos** y la **formulación de hipótesis claras**. La estructura organizativa de una intervención compleja de búsqueda y rescate en grandes áreas se articula en varios grupos, todos coordinados desde un **Puesto de Mando Avanzado (PMA)**.
+#### **5.4. Navegación**
 
-*   **Puesto de Mando Avanzado (PMA)**: Liderado por el oficial de mayor rango, coordina todos los recursos humanos y materiales. Su ubicación estratégica es vital para la visibilidad, el acceso y la comunicación. Sus funciones incluyen la recopilación y gestión de información, la definición del área de búsqueda, la asignación de sectores y equipos, y la supervisión general de la operación.
-*   **Grupo de Orden**: Conformado por las fuerzas de seguridad (Guardia Civil, Policía Nacional, Policía Local), su misión es controlar el tráfico, señalizar la zona, acordonar el área, investigar pistas y apoyar a los equipos de búsqueda.
-*   **Grupo Sanitario**: Integrado por personal médico, técnico sanitario y voluntarios de Cruz Roja, se encarga de la atención prehospitalaria, la estabilización y el traslado de las víctimas, colaborando también en las búsquedas sistemáticas.
-*   **Grupo Logístico**: Compuesto por Protección Civil, Cruz Roja y otros voluntarios, se dedica al abastecimiento de materiales (combustible, baterías, alimentos, agua), iluminación, comunicaciones y apoyo psicosocial a víctimas y familiares.
-*   **Área de Información**: Situada cerca del PMA, gestiona la comunicación con los familiares (a través de un portavoz) y los medios de comunicación, garantizando información precisa y evitando la difusión de rumores.
-*   **Grupo de Intervención**: Constituido por bomberos y personal especializado, ejecuta el plan de acción, organiza los esfuerzos de búsqueda y gestiona la escena del accidente.
-*   **Equipos de Búsqueda**: Liderados por un jefe de sector, estos equipos multidisciplinares ejecutan los patrones de búsqueda, utilizando herramientas como GPS para registrar el recorrido, manteniendo la disciplina y la seguridad.
-*   **Equipos de Rescate**: Se activan cuando se localiza una víctima o cuando una situación requiere una intervención especializada (ej. rescate en altura o espeleológico), preparando el material y accediendo al lugar del incidente.
-*   **Reserva y Colaboradores**: Personal prealertado que puede ser movilizado en fases posteriores o para tareas de apoyo secundarias.
+Al desplazarse por un espacio, no siempre es posible avanzar en línea recta debido a caminos sinuosos u obstáculos. La navegación incluye puntos cardinales, caminos, sendas y referencias topográficas. Los dispositivos electrónicos GPS, con tecnología satelital, están programados para localización, orientación y navegación con alta precisión.
 
-El **desarrollo secuencial de una búsqueda** inicia con la **recepción del primer aviso**, que puede provenir de fuerzas de seguridad o directamente al cuerpo de bomberos. Una **recogida de información** detallada sobre la víctima (edad, estado físico y mental, equipamiento, última ubicación conocida -ULC-) y el entorno (terreno, meteorología) es fundamental. A partir de estos datos, se realiza una **planificación rápida** para establecer las hipótesis iniciales y el área de búsqueda, seguida de la **movilización de recursos** al ULC y una evaluación *in situ*. La **delimitación inicial de la búsqueda probabilística** se enfoca en rutas y zonas con mayor probabilidad de hallazgo, con equipos dedicados a cubrir estos sectores. La eficacia y rapidez de la intervención son directamente proporcionales al tiempo transcurrido desde la desaparición, destacando la importancia de una respuesta inmediata y bien coordinada.
+#### **5.5. Herramientas**
+
+El avance tecnológico ofrece diversas herramientas para el trabajo en grandes áreas, incluyendo la telefonía móvil y sus aplicaciones.
+
+### **6. Factores Antrópicos**
+
+La distancia recorrida y las condiciones de una persona desaparecida son influenciadas por variables geográficas, meteorológicas y personales. Los servicios de emergencia pueden estimar el radio de búsqueda desde el Último Lugar Conocido (ULC). Los valores estadísticos D50, D75 y D99 indican las distancias dentro de las cuales se suelen encontrar a las personas desaparecidas, variando estos valores según factores específicos.
+
+#### **6.1. Condicionantes de la Edad**
+
+La capacidad física y mental de un individuo varía según su constitución, sexo y estilo de vida. La interpretación de la realidad (aspecto cognitivo) también es crucial. Se utiliza la clasificación de Piaget para determinar los aspectos cognitivos de cada etapa y las estadísticas de hallazgos para estimar la distancia de alejamiento.
+
+##### **6.1.1. Niños de 1 a 6 años**
+
+Este grupo se subdivide según su comportamiento:
+
+*   **De 1 a 3 años (Periodo sensoriomotor):**
+    *   **Movilidad:** Reducida.
+    *   **Conciencia de estar perdido:** Nula, sin capacidad de orientación.
+    *   **Respuesta a llamadas:** No responde.
+    *   **Comportamiento:** Se desplaza sin un sentido concreto, tiende a buscar refugio y esconderse.
+    *   **Relación con cuidadores:** Fuerte apego a los progenitores.
+
+*   **De 4 a 6 años (Periodo preoperatorio):** Utilizan el lenguaje, piensan en objetos no visibles y comprenden causa-efecto, pero su pensamiento es focalizado y egocéntrico.
+    *   **Competencia motora:** Mayor.
+    *   **Conciencia de estar perdido:** Sí la tiene.
+    *   **Intención:** De volver a casa.
+    *   **Movimiento:** Se mueve por caminos o sendas.
+    *   **Respuesta a llamadas:** Responde.
+    *   **Estado emocional:** Puede ser presa del pánico y desorientarse.
+*   **Intervención:** En ambos subgrupos, suelen buscar refugios o escondites, a menudo inverosímiles, por lo que se requiere un rastreo sistemático, si es posible con equipos caninos. La respuesta debe ser inmediata, especialmente si se trata de menores.
+
+##### **6.1.2. Niños de 7 a 12 años (Periodo de las operaciones concretas)**
+
+Han superado el egocentrismo, pueden adoptar la perspectiva de otros y analizar múltiples aspectos de una situación, adquiriendo conceptos de reversibilidad y conservación. Cuando se pierden, lo hacen buscando atajos, confían en su orientación, usan un mapa mental y se mueven por caminos, sendas o lugares familiares.
+
+*   **Intervención:** Se aplicará la búsqueda probabilística hasta verificar todas las hipótesis. Los equipos caninos son aconsejables. La respuesta debe ser inmediata para menores.
+
+##### **6.1.3. Adolescentes de 13 a 17 años (Periodo de las operaciones formales)**
+
+Desarrollan la capacidad de pensamiento abstracto y de resolver problemas complejos mediante representaciones intelectuales. El sentimiento de pertenencia a un grupo es común, y vivir la experiencia de estar perdido puede generar pánico si se está solo. Generalmente buscan regresar a lugares conocidos, zonas elevadas o habitadas, utilizando caminos o sendas, y responden a las llamadas. Se alejan menos que los adultos.
+
+### **6.2. Condicionantes Psicológicos**
+
+Los trastornos psicológicos de base pueden influir en el comportamiento del desaparecido o ser la causa de su desorientación. Se dividen en cuatro categorías: neuróticos (ansiedad, fobias, obsesivo-compulsivos, somatoformes, disociativos), afectivos (depresión, manía), de personalidad (paranoide, antisocial, pasivo-agresivo) y degenerativos del sistema nervioso (Alzheimer, demencias). Se adopta un enfoque práctico con base en conductas generales y distancias típicas de hallazgo.
+
+#### **6.2.1. Individuos Depresivos**
+
+Se caracterizan por:
+
+*   **Voluntariedad:** Puede haber desaparecido voluntariamente.
+*   **Respuesta a llamadas:** No responde, tiende a esconderse.
+*   **Avisos:** A veces han avisado de su ubicación.
+*   **Tendencias:** Suicidas.
+*   **Distancia:** No suelen recorrer grandes distancias, pero pueden vagar sin sentido, recorriendo distancias superiores al adulto normal en algunos casos.
+*   **Consumo:** Pueden haber consumido alcohol, drogas o medicamentos.
+
+#### **6.2.2. Alzheimer y Demencia**
+
+*   **Historial:** Suelen presentar historial de desapariciones.
+*   **Respuesta a llamadas:** No responde.
+*   **Conciencia:** No tienen conciencia de estar perdidos, pueden hablar con transeúntes sin aparentar desorientación.
+*   **Habilidades:** Pueden presentar dificultades físicas.
+*   **Búsqueda:** Buscan lugares familiares sin relacionarlos con su entorno habitual.
+
+#### **6.2.3. Enfermedad Mental**
+
+*   **Coincidencia:** Responde a otros trastornos descritos (paranoides, esquizoides, antisociales, etc.).
+*   **Comportamiento:** Huidizos, no responden a llamadas.
+*   **Crisis:** Una desaparición puede coincidir con una crisis por desajustes en la medicación.
+*   **Estado emocional:** Temerosos o agresivos, comportamiento impredecible, aunque pueden buscar refugio o sentirse atraídos por lugares singulares.
+
+#### **6.2.4. Deficiencia Mental**
+
+Son trastornos cognitivos derivados de traumatismos o enfermedades (ictus, hidrocefalias, parálisis cerebral, etc.). No tienen conciencia de estar perdidos, no responden a llamadas, se esconden o huyen, y pueden vagar sin destino fijo si su movilidad es reducida.
+
+### **6.3. Estado Emocional**
+
+En situaciones de emergencia, la ansiedad, angustia, fobias o ataques de pánico son respuestas normales a un entorno desconocido y hostil. La información de conocidos es clave para entender estas reacciones. Existen dos tipos de personalidades frente a los problemas:
+
+*   **Reflexivos:** Tienen un concepto limitado de sí mismos, buscando refugio o ayuda.
+*   **Proactivos:** Tienen un alto concepto de sus capacidades, intentando resolver problemas por sí mismos, siguiendo caminos o cursos de agua.
+    *   La pérdida de control emocional es más probable en proactivos si sus métodos fallan, lo que puede llevar al pánico.
+
+El enfoque ideal es plantear la búsqueda con optimismo realista, empleando las mejores técnicas y manteniendo el esfuerzo requerido.

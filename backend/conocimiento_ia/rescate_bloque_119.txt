@@ -1,37 +1,98 @@
-## Gestión de Búsquedas y Rescates en Grandes Áreas: Procesos y Documentación
+A continuación, se presenta un temario técnico y exhaustivo sobre operaciones de rescate y salvamento, elaborado a partir de información especializada, con un enfoque en la rigurosidad y la completitud de los datos.
 
-La planificación y ejecución de operaciones de búsqueda y rescate en grandes áreas exige una metodología estructurada que abarca desde la reevaluación de recursos hasta la fase de normalización y la documentación exhaustiva. Este enfoque garantiza la máxima eficacia y seguridad en intervenciones complejas.
+### 2.4.11. Resectorización y Filiación de Recursos Adicionales
 
-### Reevaluación y Movilización de Recursos
+Si la búsqueda no ha localizado a la víctima y aún existen sectores pendientes, el Oficial Jefe de Servicio (OJS) puede autorizar el avance a la Fase 3. Durante esta fase, los nuevos sectores para la búsqueda sistemática se cargan en los dispositivos GPS mediante la aplicación BaseCamp. La coordinación de los nuevos recursos, que se incorporan al Área de Recepción de Medios (ARM) y completan su ficha de adscripción, recae en los bomberos de turno y los de refuerzo, lo que incrementa la capacidad operativa.
 
-Cuando una búsqueda probabilística inicial no arroja resultados positivos en un plazo de 24 horas, es imprescindible realizar una **reevaluación exhaustiva** y considerar nuevas hipótesis. Este proceso implica analizar la información ya recopilada, así como cualquier nuevo indicio, para ajustar el plan de búsqueda. Como resultado, puede ser necesario ampliar el personal, movilizando recursos adicionales para una fase de búsqueda sistemática más extensa. En situaciones críticas, si tras 72 horas no se obtiene éxito, la búsqueda puede prolongarse, convirtiéndose en una operación a gran escala que requiere la participación voluntaria de todo el personal disponible.
+### 2.4.12. Búsqueda Sistemática Ampliada
 
-### Finalización de la Búsqueda y Desmovilización
+En la Fase 3, la organización establecida debe estar más o menos desarrollada. La búsqueda sistemática en todos los sectores puede continuar mientras queden zonas por cubrir.
+Después de transcurridas 72 horas desde el inicio de la búsqueda, el mando operativo final del servicio tiene las siguientes opciones:
+*   Extender la Fase 3 por un tiempo determinado o hasta que todos los sectores estén completamente revisados.
+*   Avanzar a la Fase 4.
+*   Declarar la intervención finalizada.
 
-La operación de búsqueda concluye en diversas circunstancias: cuando el Oficial-Jefe de Servicio (OJS) lo declara, una vez agotadas todas las hipótesis de búsqueda, o, idealmente, al localizar y confirmar a la víctima. Si la víctima es hallada con vida y sin lesiones graves, se traslada al Puesto de Mando Avanzado (PMA) para evaluación médica y posterior derivación hospitalaria. En caso de lesiones, se despliega un equipo de rescate especializado para su extracción, adaptando el transporte (ambulancia o helicóptero) a la gravedad del herido y las características del terreno. Si la víctima parece fallecida, el equipo principal mantiene una distancia de seguridad, mientras el OJS, la policía y el personal médico certifican la defunción y coordinan las acciones subsiguientes. En situaciones donde haya menores o personas con patologías específicas, se puede incorporar a un familiar o persona de confianza al equipo de rescate para facilitar la identificación y proporcionar apoyo emocional.
+En la Fase 4, todo el personal disponible participa de forma voluntaria y desinteresada en colaboración con otros equipos. Cada voluntario opera bajo su propia organización, y el OJS debe autorizar el inicio de esta fase, la cual no tiene una duración predefinida.
 
-Una vez finalizada la intervención y trasladada la víctima, se procede a la **desmovilización de los medios**. Los jefes de equipo confirman el regreso de todo el personal y lo reportan al jefe de búsqueda, quien a su vez informa al PMA sobre la conclusión de la operación. Es crucial asegurarse de retirar todos los avisos públicos de búsqueda distribuidos localmente.
+### 2.4.13. Localización de Víctima o Declaración de Fin de Búsqueda
 
-### Trabajos Post-Intervención y Documentación
+La búsqueda concluye cuando se da alguna de las siguientes circunstancias:
+*   El Oficial Jefe de Servicio declara el fin de la búsqueda (válido para las Fases 3 y 4).
+*   Se agotan todas las hipótesis de búsqueda y se verifica el registro de todos los sectores.
+*   La víctima es localizada y su aparición se confirma con certeza.
 
-La **vuelta a la normalidad** implica el desmontaje de todas las estructuras utilizadas y la recopilación de toda la información generada durante la búsqueda. Esta información se archiva para elaborar estadísticas y revisar las distancias cubiertas, permitiendo ajustes futuros en los protocolos.
+Al localizarse a la víctima, el jefe de equipo informa al Puesto de Mando Avanzado (PMA) la ubicación exacta (sector y coordenadas), así como el estado físico de la víctima y las condiciones de accesibilidad. Si la víctima parece fallecida (sin signos de consciencia o actividad), el grueso del equipo de búsqueda mantiene una distancia de aproximadamente diez metros, acercándose solo el jefe de búsqueda, las fuerzas policiales y el personal sanitario. Una vez confirmado el fallecimiento, el jefe de las Fuerzas del Orden decide las acciones a seguir. Si la víctima está viva, se valora su situación para decidir el método de transporte. Si no presenta lesiones y hay medios de transporte, el equipo la lleva al PMA para evaluación médica y posible traslado hospitalario. Si está herida o tiene patologías, se despliega un equipo de rescate, cuyo líder decide su composición y recursos. Se puede usar un vehículo todoterreno medicalizado o, si hay traumas y la zona es de difícil acceso, un helicóptero. En casos de menores o patologías, puede ser útil incorporar un familiar o una persona de confianza para identificación o tranquilidad.
 
-Entre los documentos esenciales generados durante una búsqueda, se incluyen:
+### 2.4.15. Desmovilización de Medios
 
-*   La **ficha de búsqueda**, que contiene datos detallados del desaparecido como fotografía, medidas antropométricas, vestimenta y rasgos de personalidad. Se entrega una copia a los equipos iniciales y se actualiza con nueva información.
-*   La **hoja de adscripción de buscadores**, donde cada participante registra sus datos operativos, de contacto y habilidades, y firma la aceptación de las condiciones de la búsqueda.
-*   **Cartografías físicas y digitales**, utilizando mapas en papel y aplicaciones como Emercarto, Google Maps, Earth o BaseCamp. Se proporcionan mapas A4 y ortofotos a los equipos, adaptadas a los sectores de búsqueda.
-*   Una **línea de tiempo general** (Time Line General) que detalla cronológicamente los hitos, indicios y datos principales de la operación.
-*   **Líneas de tiempo por sector** (Time Line de Sector) que registran las actividades específicas realizadas en cada área de búsqueda.
-*   **Listados de intervinientes y equipos**, que especifican los roles de cada participante y el seguimiento de la ubicación de cada equipo en su sector asignado.
-*   **Tracks de sector y actuales**, que son registros GPS de los caminos recorridos, permitiendo verificar la cobertura del área.
-*   Un **registro de indicios**, que documenta hallazgos como fotografías y coordenadas, integrándose en la línea de tiempo o en un registro separado si son numerosos.
-*   **Reportes periódicos** del estado de la búsqueda, documentos informativos para la familia y los medios de comunicación, aprobados por el PMA y el representante familiar.
+Una vez confirmada la identidad de la víctima (o declarado el fin de la búsqueda por el PMA), se notifica a todos los jefes de equipo. Cada jefe regresa al área de descanso, verifica el retorno de su personal y entrega la lista de intervinientes al jefe de búsqueda. Si falta alguien, se verifica su ubicación; si no hay novedades, el jefe de búsqueda es informado del fin de la operación. El jefe de búsqueda informa al PMA sobre la situación de todos los participantes, y la operación se cierra. Los jefes de grupo notifican a sus equipos, que pueden desmovilizarse individualmente, previa notificación a su mando y al PMA. Pueden reunirse en el área de recepción de medios y salir juntos. Es fundamental que el PMA tenga conocimiento de la opción elegida.
 
-### Casos Prácticos: Rescate en Altura
+### III. Trabajos Post-Intervención
 
-Los casos prácticos de rescate y salvamento ilustran la aplicación de estas técnicas en escenarios reales, ordenados por nivel de riesgo. La movilización y valoración son fases iniciales cruciales.
+El J0 (Jefe de Guardia de la jornada) redacta el parte de intervención, detallando la distancia entre el Último Lugar Conocido (ULC) y el punto de localización (932 metros), un valor superior a los 800 metros fijados para trastornos degenerativos como Alzheimer o demencia. Los *tracks* se guardan en el archivo digital de búsquedas, y la documentación física se archiva. Se consulta con la familia si se debe informar a la prensa; en este caso, se considera conveniente, dada la actividad de rastreo social que podría generar llamadas continuas si la noticia no se difundiera.
 
-Como ejemplo, en la situación de un **trabajador atrapado en el buje de un aerogenerador de 80 metros de altura**, la **movilización** comienza con la recepción del aviso, la confirmación del estado de la víctima, la solicitud de localización precisa mediante coordenadas y la petición de medios sanitarios. El Jefe de Dotación (JD) comunica el incidente al Jefe de Guardia, quien establece el tren de salida (JD + 3 bomberos) y coordina con el 112 y la empresa de mantenimiento para desenergizar el aerogenerador. El equipo se desplaza al lugar con su equipamiento personal adecuado.
+### 2.4.16. Vuelta a la Normalidad
 
-La **valoración inicial** al llegar al siniestro implica posicionar el vehículo de intervención a barlovento y preparar el material de rescate. Este material incluye herramientas hidráulicas, una bomba manual, equipo completo para rescate en altura (BRP) con cuerdas semiestáticas y dinámicas (longitud mínima de H + 10 metros, donde H es la altura de evacuación), y equipo para la víctima (camilla, Ferno-Ked, casco, botiquín). Finalmente, se realiza una valoración externa e interna del aerogenerador para planificar la intervención.
+Después de desmantelar todas las estructuras de los grupos de acción, el jefe de búsqueda y el jefe de campo se integran en el PMA. Toda la información generada durante la búsqueda se recopila y archiva.
+Los datos a registrar son:
+*   **Posición ULC:** Con coordenadas y una breve descripción.
+*   **Ubicación de la víctima:** Con coordenadas y una breve descripción en un mapa.
+*   **Fecha y hora:** Del primer aviso, inicio de la búsqueda y localización.
+*   **Cronología o línea de tiempo:** De todas las fases de la búsqueda.
+*   **Desglose:** De los servicios personales y materiales involucrados.
+*   **Incidencias:** O accidentes registrados.
+*   **Superficie:** Rastreada.
+*   **Circunstancias:** Del rescate.
+*   **Estado:** De la víctima.
+
+Finalmente, todos los jefes de equipo que participaron en el operativo intercambian impresiones para evaluar las fortalezas y debilidades de la operación. El OJS disuelve el Puesto de Mando y notifica al Teléfono de Emergencias. En el parque, se completa el parte de intervención y se archiva toda la información para elaborar estadísticas de búsqueda, lo que permite revisar y ajustar las distancias desde el ULC con mayor precisión al entorno.
+
+### 3. Documentos Generados en una Búsqueda
+
+Los principales documentos generados durante una búsqueda son:
+
+**a) Ficha de Búsqueda:**
+*   Plantilla que recopila datos de la persona desaparecida (fotografía, antropometría, vestimenta, rasgos de personalidad, etc.).
+*   Una copia se entrega a cada equipo inicial de búsqueda.
+*   El jefe de búsqueda incorpora toda la información recopilada en esta ficha.
+
+**b) Hoja de Adscripción de Buscadores:**
+*   Ficha rellenada por cada participante, dividida en tres secciones:
+    *   **Primero:** Datos operativos.
+    *   **Segundo:** Datos de contacto y aptitudes (nombre, teléfono para urgencias o fin de operaciones).
+    *   **Tercero:** Espacio para la firma de todos los participantes externos a organismos oficiales, donde aceptan las condiciones de la búsqueda y la responsabilidad de sus actos.
+
+**c) Cartografías Físicas y Digitales:**
+*   En el puesto de mando se utilizan mapas de todo tipo (papel y digitales) como "Emercarto", Google Maps, Earth o BaseCamp.
+*   Los equipos de búsqueda reciben mapas de la zona en formato A4, adaptados para mostrar la distribución de sectores, identificando claramente el sector asignado y la ruta de acceso desde el PMA.
+*   Se pueden incluir ortofotos si facilitan la identificación de objetivos.
+
+**d) Línea de Tiempo General (Time Line General):**
+*   Desglose de los principales hitos, indicios y datos de la operación a lo largo del tiempo.
+
+**e) Línea de Tiempo de Sector (Time Line de Sector):**
+*   Desglose de las actividades realizadas por el operativo en una sección específica a lo largo del tiempo.
+
+**f) Listado de Intervinientes:**
+*   Detalla el rol y el equipo al que pertenece cada participante.
+
+**g) Listado de Equipos:**
+*   Indica el seguimiento de la ubicación de cada equipo y del sector en que trabaja.
+
+**h) Tracks de Sector:**
+*   Diseñados en la aplicación BaseCamp del PC y guardados en el disco duro con su copia de seguridad.
+*   Se introducen temporalmente en el dispositivo GPS para facilitar el trabajo de los equipos de búsqueda.
+*   Pueden editarse (ej., renombrando el track con el nombre del sector o del equipo de búsqueda).
+
+**i) Tracks Actuales:**
+*   Registros de la trayectoria recorrida por el dispositivo GPS.
+*   La función "Guardar track" debe estar activa. El nombre por defecto "Track actual" puede ser renombrado.
+
+**j) Registro de Indicios (fotografías, coordenadas, etc.):**
+*   Normalmente se integran en la línea de tiempo.
+*   Si hay muchos rastros, puede ser útil crear un registro independiente para cotejarlos.
+
+**k) Reportes Periódicos del Estado de la Búsqueda:**
+*   Generados para informar a la familia y a los medios.
+*   Son documentos informativos, no técnicos.
+*   Elaborados por el gabinete de comunicación y hechos públicos con la aprobación del PMA y del representante de la familia.

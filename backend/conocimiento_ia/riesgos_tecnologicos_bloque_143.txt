@@ -1,60 +1,22 @@
-# Caracterización de Riesgos Nucleares, Radiológicos, Biológicos y Químicos (NRBQ)
+Para abordar eficazmente las intervenciones en escenarios NRBQ (Nuclear, Radiológico, Bacteriológico y Químico), es fundamental contar con medidas de seguridad adecuadas y una comprensión exhaustiva de las herramientas.
 
-La gestión de emergencias que involucran riesgos NRBQ es de creciente relevancia social debido a la capacidad de estas sustancias para generar daños devastadores en personas, bienes y el medio ambiente. Una intervención eficaz requiere un enfoque integral y coordinado entre diversas administraciones y servicios, incluyendo bomberos, policía y sanitarios, además de una planificación previa y el uso de recursos humanos y materiales adecuados.
+Los aspectos clave a considerar incluyen:
 
-## 1. Tipología de Riesgos Tecnológicos
-
-Los riesgos tecnológicos se clasifican en función de su naturaleza, abarcando desde eventos de baja probabilidad pero alto impacto hasta situaciones más frecuentes con consecuencias significativas.
-
-### 1.1. Riesgos Nucleares y Radiológicos
-
-El **riesgo nuclear** se asocia a la probabilidad de accidentes en centrales nucleares u otras instalaciones que utilicen energía nuclear, con potencial de emisión radiactiva y contaminación a gran escala. Aunque de baja probabilidad, sus consecuencias son extremadamente graves.
-
-Por su parte, el **riesgo radiológico**, más frecuente, implica la exposición a radiaciones ionizantes provenientes de fuentes radiactivas, como las empleadas en hospitales o la industria. En España, existen más de 1300 centros autorizados para el uso de radionúclidos. Los factores clave para mitigar este riesgo son el tiempo de exposición, el blindaje (uso de materiales protectores como plomo o hormigón) y la distancia a la fuente de radiación.
-
-### 1.2. Riesgos Químicos
-
-Los **riesgos químicos** surgen en la fabricación, almacenamiento, transporte o uso de sustancias que pueden generar situaciones peligrosas debido a sus propiedades explosivas, inflamables, tóxicas, infecciosas, radiactivas, corrosivas o irritantes. La complejidad de estos incidentes varía en función de la sustancia implicada y su localización (fábrica, carretera, ámbito doméstico).
-
-### 1.3. Riesgos en el Transporte de Mercancías Peligrosas
-
-El transporte de mercancías peligrosas (MMPP) conlleva un riesgo inherente significativo. Para su gestión, se emplean diversos acuerdos y reglamentos internacionales como el ADR (carretera), RID (ferrocarril), ADN (navegación interior), IATA-OACI (aviación) e IMO-IMDG (marítimo), los cuales establecen requisitos estrictos para la identificación, embalaje y condiciones de transporte. En España, el Real Decreto 97/2014, de 14 de febrero, regula estas operaciones por carretera.
-
-## 2. Identificación y Clasificación de Sustancias Peligrosas
-
-El reconocimiento e identificación de las sustancias implicadas es crucial en la fase inicial de una emergencia para una evaluación rápida de su impacto y la adopción de medidas de seguridad.
-
-### 2.1. Fuentes de Información y Medios de Identificación
-
-La información sobre mercancías peligrosas se obtiene a través de diversas fuentes y medios de identificación visual y documental:
-
-*   **Documentación:**
-    *   **Cartas de porte:** Documentos obligatorios que certifican un contrato de transporte e incluyen datos como el número ONU, la cantidad de envases y las disposiciones específicas. Deben estar redactadas en la lengua oficial del país y, si esta no es inglés, francés o alemán, en uno de estos tres idiomas.
-    *   **Fichas de Datos de Seguridad (FDS o MSDS):** Herramientas esenciales para productos químicos, que detallan riesgos, primeros auxilios, gestión de residuos y propiedades físico-químicas.
-    *   **Fichas de Intervención (ERICards, Gobierno Vasco, Ministerio del Interior):** Proporcionan pautas de actuación homogéneas para servicios operativos en emergencias de transporte de MMPP.
-*   **Identificación Visual:**
-    *   **Panel Naranja (Código Kemler):** Placas retroreflectantes rectangulares (40x30 cm con un borde negro de 1.5 cm) situadas en la parte delantera y trasera de los vehículos, y en los laterales de los contenedores. Incluyen el **Número de Identificación de Peligro (NIP)** (dos o tres dígitos indicando los peligros principales, con repetición de cifra para intensificar el riesgo, y la letra 'X' si reacciona con agua) y el **Número ONU** (cuatro dígitos que identifican la sustancia). Para materiales radiactivos de uso exclusivo, solo se requiere el número ONU.
-    *   **Placas y Etiquetas:** Elementos cuadrados (mínimo 10x10 cm) apoyados sobre uno de sus vértices, que se colocan en los bultos y contenedores para señalar los peligros asociados. Las **etiquetas de cantidad limitada** se utilizan para pequeñas cantidades de MMPP.
-    *   **Logo Corporativo:** La marca de la empresa transportista o fabricante puede ofrecer pistas sobre la sustancia.
-    *   **Señales y Colores:** Los pictogramas y colores son un método rápido e intuitivo para identificar peligros. Por ejemplo, el rojo indica inflamabilidad, el amarillo oxidante, el verde gases no inflamables, el naranja explosivos y el azul reactivos con agua.
-    *   **Tipo de Transporte y Forma del Contenedor:** La geometría del contenedor (elíptica, circular, esférica) y su compartimentación (2-7 compartimentos para líquidos, 1 para gases) pueden indicar el tipo de producto y su presión de almacenamiento.
-    *   **Equipamiento y Etiquetado de Botellas:** Los colores de las ojivas (parte superior) de las botellas de gas identifican el riesgo principal, con colores específicos para gases medicinales. Las etiquetas brindan información detallada del producto.
-    *   **Identificación de Tuberías (Norma DIN 2403):** Utilizan un color básico para la naturaleza del fluido y un color complementario para su estado, a menudo con flechas indicando el sentido de circulación.
-    *   **Percepción Sensorial:** La vista es fundamental (83% de la percepción), y el oído puede alertar sobre fugas o explosiones. Sin embargo, el olfato y el gusto deben evitarse debido al riesgo de exposición directa a sustancias peligrosas.
-
-### 2.2. Propiedades Físico-Químicas y Toxicología
-
-El conocimiento de las propiedades de las sustancias es fundamental para la intervención:
-
-*   **Reacciones:**
-    *   **Reacción al Fuego (Combustibilidad):** Determina la capacidad de un material para iniciar y propagar un incendio. La normativa UNE-EN 13501-1 clasifica los materiales en clases (A1, A2, B, C, D, E, F) según su potencial energético, producción de humo (s1, s2, s3) y caída de gotas o partículas inflamadas (d0, d1, d2).
-    *   **Resistencia al Fuego:** Mide la capacidad de un elemento constructivo para mantener su estabilidad, integridad y aislamiento térmico bajo exposición al fuego durante un tiempo determinado (expresado en minutos: R, E, I, EI o REI). La normativa UNE-EN 13501-2 es la referencia.
-*   **Estados de Agregación y Cambios de Estado:**
-    *   La materia se presenta en estados sólido, líquido y gaseoso, que varían según la presión y temperatura. Los **diagramas de fases** ilustran estas transiciones, incluyendo la **fusión** (sólido a líquido), **vaporización** (líquido a gas, por evaporación o ebullición), **solidificación** (líquido a sólido), **condensación** (gas a líquido) y **sublimación** (sólido a gas).
-    *   El **punto triple** es donde coexisten las tres fases; el **punto crítico** es la temperatura máxima donde pueden coexistir líquido y gas.
-*   **Densidad y Densidad Relativa:**
-    *   La **densidad** (masa por unidad de volumen, kg/m³ o g/cm³) y la **densidad relativa** (densidad de una sustancia respecto a una de referencia, como agua o aire) son cruciales. La densidad de líquidos y gases varía con la temperatura y presión.
-*   **Solubilidad:**
-    *   La capacidad de una sustancia para disolverse en otra. La solubilidad de sólidos aumenta con la temperatura, mientras que la de gases disminuye con ella y es proporcional a la presión. Las sustancias **polares** son hidrosolubles.
-*   **Viscosidad:**
-    
+*   **Propiedades y Comportamiento de los Materiales**: Es crucial entender las propiedades intrínsecas de las sustancias implicadas en incidentes NRBQ, así como su comportamiento ante diferentes situaciones y las formas en que pueden presentarse.
+*   **Estados Físicos de la Materia**: Las sustancias pueden encontrarse en estado sólido, líquido o gaseoso. Cada estado, en caso de fuga, debe ser tratado con los recursos materiales disponibles para la emergencia, aplicando las técnicas de mitigación y descontaminación más adecuadas para una restauración segura de la normalidad, buscando siempre minimizar los daños.
+*   **Identificación de Sustancias**: Es vital identificar las sustancias implicadas. Los recipientes y vehículos ofrecen pistas fiables sobre su contenido, basándose en su forma, estructura, accesorios, material o tipo de aislamiento. Los vehículos que transportan mercancías peligrosas deben mostrar elementos de identificación como placas y otros sistemas informativos con pictogramas, números y códigos de colores, para una rápida identificación de los productos y sus riesgos asociados. Además, existen listados institucionales y fichas informativas con datos esenciales.
+*   **Valoración Inicial del Siniestro**: El comando de intervención debe realizar una valoración inicial rigurosa del siniestro. Una valoración incorrecta, tardía o no actualizada compromete la solidez de las decisiones tácticas y la eficacia de la solución. Para una valoración óptima, es esencial disponer de la mayor cantidad de información posible, preferentemente transmitida por personal con conocimiento de los hechos y materiales involucrados.
+*   **Valoración Continua**: Durante la intervención, la información debe actualizarse constantemente. Esto permite ajustar las tácticas según la evolución del escenario y las condiciones de los intervinientes. Las fases incluyen:
+    *   Recopilación de información.
+    *   Preplanificación.
+    *   Valoración inicial.
+    *   Valoración continua.
+    *   Valoración final.
+*   **Zonificación**: Un componente esencial de la valoración es la zonificación del incidente, donde el mando debe establecer zonas (caliente, templada y fría) en función del nivel de peligrosidad, los materiales implicados y la estabilidad atmosférica.
+*   **Proceso de Descontaminación**: Tras una exposición a NRBQ, es imperativo someterse a un proceso de descontaminación para eliminar los residuos de partículas de los equipos especiales o del personal. Este proceso debe ser exhaustivo y metódico, empleando métodos como cepillado, absorción, venteo, aspiración, desinfección y neutralización.
+*   **Prioridades en Emergencias Nucleares**: En incidentes nucleares, las autoridades competentes deben implicarse debido a la alta peligrosidad. Las prioridades son claras:
+    1.  Garantizar la seguridad del personal interviniente.
+    2.  Salvar vidas y rescatar víctimas.
+    3.  Proteger el medio ambiente.
+    4.  Minimizar los daños materiales.
+    5.  Facilitar el retorno a la normalidad una vez resuelta la emergencia.

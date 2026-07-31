@@ -1,101 +1,124 @@
-## Elementos Estructurales Horizontales y Arcos en la Edificación
+## Parte 1: Edificaciones
 
-La comprensión de los elementos estructurales es fundamental para la seguridad en intervenciones de emergencia, especialmente en estructuras colapsadas o dañadas. Los edificios se componen de elementos estructurales, complementarios y auxiliares, cada uno con una función específica en la transmisión de cargas y el aseguramiento de la estabilidad.
+### Capítulo 1: Caracterización
 
-### Arcos: Características, Elementos y Comportamiento Estructural
+#### 4.2. Esfuerzos Compuestos
 
-Los **arcos** son elementos estructurales lineales, dispuestos en planos verticales, cuya función principal es recoger las cargas verticales que actúan sobre ellos y transmitirlas a los elementos de apoyo subyacentes, liberando vanos, cavidades o pasos. Aunque históricamente tuvieron un uso muy extendido, actualmente se emplean en edificaciones singulares debido a sus luces limitadas en comparación con otros sistemas.
+Los estados tensionales complejos son el resultado de la combinación de los tres estados de tensión previamente descritos.
 
-Un arco se compone de varias partes distintivas. El **centro** es el punto de referencia geométrica, pudiendo ser múltiple o situarse por encima o por debajo del arranque. El **vértice** o **ápice** es el punto más alto del arco, mientras que los **arranques** son sus extremos inferiores, donde el arco se asienta sobre la **imposta**, una hilada que puede ser voladiza. Las piezas que componen el arco son las **dovelas**, de forma acuñada y generalmente sin vértice, cuya parte interior conforma el **intradós**. El número de dovelas suele ser impar, con la **clave** o **llave** en la posición central, flanqueada por las **contraclaves**. La primera dovela junto al arranque se denomina **salmer** o **almohada**. Los **estribos** son los macizos de fábrica que soportan el arco. Las **riñones** son las zonas intermedias entre el salmer y la clave, y el **tímpano** o **recalzo** es el relleno decorativo sobre los riñones, sin función estructural.
+##### 4.2.1. Flexión (o Flexión Pura)
 
-En cuanto a sus **dimensiones**, la **luz** es la distancia horizontal entre arranques. La **flecha**, **montea** o **sagita** es la altura del arco desde la línea de arranque. El **peralte** es el exceso de flecha sobre la semiluz. La **profundidad** o **ancho** es la dimensión normal al plano del arco, usualmente coincidente con el ancho del muro. El **espesor** o **canto** es la distancia entre el intradós y el **extradós** (superficie superior). La **esbeltez** se define como la relación entre la flecha y la luz. La **línea de presiones** es una curva que une los puntos donde actúan las resultantes de las presiones parciales en las secciones del arco, mientras que la **línea de arranque** une los puntos de origen del arco. Las **superficies** del arco incluyen el **frente** o **plano** frontal, el **intradós** (superficie interior con el espinazo o línea de vértices), y el **extradós** (superficie superior). La **mocheta** o **telar** es el plano normal al frente que limita el estribo.
+La flexión pura es el esfuerzo que se produce al someter una pieza, predominantemente longitudinal, a una carga transversal. Habitualmente, la parte inferior de la pieza experimenta esfuerzos de tracción, mientras que la parte superior sufre esfuerzos de compresión. Un ejemplo claro de esto se observa en vigas biapoyadas. Sin embargo, en elementos horizontales en voladizo, la flexión se invierte, generando tracciones en las fibras superiores y compresiones en las inferiores. Este tipo de esfuerzo es característico de elementos horizontales como carreras, jácenas, vigas o sopandas.
 
-Desde el punto de vista geométrico, los arcos son estructuras verticales formadas por la yuxtaposición de dovelas, que transmiten principalmente esfuerzos de compresión. La clave para su funcionamiento es el acoplamiento preciso de estas piezas. Idealmente, la generatriz del arco debe adaptarse a la forma del antifunicular de las cargas, lo cual es desafiante en la práctica debido a la variabilidad de las cargas. Las cargas verticales se recogen y concentran en la base del arco, transmitiéndose a los estribos como fuerzas inclinadas que combinan componentes verticales y horizontales. Es importante destacar que los arcos rebajados (más planos) generan mayores esfuerzos internos y reacciones en la base para una misma carga vertical, lo que los hace potencialmente menos estables.
+##### 4.2.2. Pandeo (o Flexión Compuesta)
 
-La **rigidez** del arco es crucial para su estabilidad. Si la línea de presiones sale del tercio central de una dovela, se producirán grietas por tracción. Si sale completamente de la dovela, esta se caerá y el arco colapsará. Por lo tanto, un trazado adecuado de la línea de presiones es esencial, controlando los esfuerzos horizontales en la base del arco, donde alcanzan su mayor magnitud. Para estabilizar estos esfuerzos horizontales, se emplean diversos sistemas constructivos como los **tirantes**, elementos horizontales delgados que trabajan a tracción, siendo más efectivos en los arranques del arco. Los **contrafuertes** son masas sólidas que corrigen la resultante de las acciones hacia una mayor verticalidad, redirigiendo los esfuerzos horizontales. Una evolución tecnológica son los **arbotantes**, estructuras más esbeltas y separadas de los muros, que permiten absorber grandes esfuerzos horizontales y construir edificaciones de mayor altura con amplias ventanas. Finalmente, un **conjunto de arcos** en crujías paralelas puede compensar mutuamente sus esfuerzos horizontales, mejorando la estabilidad del sistema.
+El pandeo es una deformación que se presenta en elementos de gran longitud y sección reducida (piezas muy delgadas y alargadas), causada por fuerzas de compresión aplicadas en la dirección de su directriz. Un tirante sometido a compresión es un ejemplo de elemento afectado por pandeo.
 
-### Elementos Estructurales Horizontales: Viguetas, Vigas y Forjados
+##### 4.2.3. Torsión
 
-Los **elementos estructurales horizontales** son componentes lineales que reciben y transmiten las cargas verticales de la edificación a los elementos de soporte verticales. Se clasifican en dos grandes grupos: elementos simples (viguetas y vigas) y elementos compuestos (forjados y losas).
+La torsión es el esfuerzo que surge al someter una pieza a una fuerza de tipo circular. Un ejemplo de elementos sometidos a torsión son los voladizos.
 
-#### Viguetas y Vigas: Componentes Esenciales
+En una estructura, los esfuerzos varían según la posición de las cargas y las características de cada elemento. Para ilustrar esto, se puede analizar el ejemplo de un columpio.
 
-Las **viguetas** son elementos estructurales horizontales simples de menor entidad, fundamentales en los forjados estándar. Recogen las cargas de cada piso y las transmiten a las vigas, trabajando principalmente a flexión. Su diseño y dimensiones están condicionados por su geometría horizontal y la necesidad de apoyarse en muros o vigas, con luces que generalmente no superan los 6 metros en sistemas económicos como las Viviendas de Protección Oficial (VPO). Su separación suele oscilar entre 0,60 y 0,90 metros, pudiendo ampliarse hasta 1,20 metros, para albergar los elementos de entrevigado.
+Para familiarizarse con la identificación y el manejo elemental de los esfuerzos en la edificación, es fundamental conocer los códigos de representación gráfica básicos para compresión, tracción, cortante y flexión.
 
-Existen diversas **tipologías de viguetas** según su morfología:
-*   Las **viguetas in situ** son nervios resistentes construidos completamente en obra con barras de acero corrugado (B400/500 S/SD) y hormigón, requiriendo un encofrado continuo.
-*   Las **semiviguetas** son elementos longitudinales de hormigón pretensado, parcialmente prefabricados. Se consideran "semirresistentes" ya que su armadura negativa queda expuesta y requiere hormigonado en obra para alcanzar su resistencia total.
-*   Las **viguetas autoportantes** son de hormigón pretensado y prefabricadas, lo que les confiere resistencia desde el inicio y elimina la necesidad de sopandas intermedias durante la construcción. Se arman con alambres de acero grafilado Y1570/1670/1770/1860.
-*   La **losa alveolar pretensada** es un elemento plano de hormigón pretensado y prefabricado, aligerado con alveolos longitudinales, funcionando como un conjunto de viguetas paralelas unidas. Permite cubrir luces mayores con una profundidad similar a la de las viguetas pretensadas.
+*   **Compresiones y Tracciones**: La representación de estas tensiones se realiza mediante líneas isostáticas (puntos con igual valor de tensión), cuya ubicación está condicionada por los nudos estructurales de cada elemento constructivo, tal como se detallará más adelante. Para ejemplificar, se muestran líneas isostáticas de dos vigas con carga, geometría y material idénticos, pero con nudos en los extremos que varían las líneas de compresión o tracción.
 
-La **rigidez de las viguetas** depende de su apoyo y de sus deformaciones potenciales. Los **zoquetes** son elementos auxiliares de arriostramiento para los forjados de madera, colocados a medios o tercios para asegurar la estabilidad. Para evitar la reducción de rigidez del muro por cajeados continuos al apoyar las viguetas, se recomienda que estas se apoyen sobre **carreras** o **durmientes** impermeabilizados. Si no hay carrera, la vigueta se aloja en un mechinal sobre tacos de madera, una solución efectiva y económica. La **adherencia** entre los revoltones y la madera se mejora con el uso de **tomizas** (cuerdas de esparto) para un trabajo conjunto.
+#### 4. Cortantes y Flexiones
 
-Las **vigas** son elementos estructurales horizontales de mayor entidad que las viguetas, encargadas de recibir las cargas de los pisos (a través de las viguetas) y transmitirlas a los elementos verticales. Se nombran según el material del que estén fabricadas: **dintel** (madera, fábrica), **carrera** (madera), **jácena** (acero, hormigón). Su geometría y dimensiones son mayores, soportando mayores cargas, y trabajan principalmente a flexión y cortante. La sección óptima busca la máxima dimensión vertical para aumentar el momento de inercia y la resistencia. En madera, son rectangulares; en metal, perfiles en I o doble T.
+Al analizar el material a nivel microscópico, su comportamiento se considera continuo. En las fibras extremas de una viga, predominan las tensiones normales, que son equivalentes a las compresiones o tracciones resultantes de la flexión. En la fibra neutra de la sección, solo se producen tensiones debidas al cortante. Para un elemento intermedio sometido a fuerzas normales y cortantes, las tensiones principales tienen una inclinación específica determinada por sus magnitudes relativas.
 
-Se distinguen **vigas con cuelgue**, que sobresalen por debajo del forjado y ofrecen mayor inercia, y **vigas planas** o **rata**, embebidas en el canto del forjado, que facilitan la distribución interior y reducen costes de acabado, aunque pueden causar flechas excesivas en luces mayores a 6 metros.
+Se define la **fibra neutra** como la línea imaginaria que atraviesa el centro de gravedad de la sección transversal de una pieza sometida a flexión y que no experimenta esfuerzos de flexión.
 
-Según el material, las vigas pueden ser:
-*   **Vigas de madera** (carreras): sobre ellas se apoyan las viguetas, y a menudo se les añaden sobrecarreras para arriostramiento.
-*   **Vigas de hormigón**: requieren armaduras longitudinales de acero para resistir tracciones (en los vanos para momentos positivos y en los nudos para momentos negativos) y armaduras transversales (cercos) para cortante.
-*   **Vigas de acero**: utilizan perfiles en I (IPN, IPE) o en H (HEB, HEA, HEM), perfiles compuestos en U (UPN) o perfiles en Z (correas de cubiertas).
-*   **Vigas trianguladas** (cerchas): estructuras reticulares horizontales que transfieren cargas a los pilares, ideales para grandes luces en pabellones o recintos públicos.
+Para un análisis básico adecuado de los elementos que trabajan a flexión, es necesario evaluar tanto el **cortante** (tensión en la fibra neutra) como el **momento flector** (compresiones/tracciones en las fibras externas).
 
-La **rigidez de las vigas** se define por su esbeltez y por la tipología de los nudos en sus extremos:
-*   **Vigas apoyadas**: nudos articulados en hormigón (rígidos) o madera (articulados).
-*   **Vigas empotradas**: anclajes rígidos en los extremos, comunes en hormigón armado.
-*   **Vigas en voladizo**: requieren un anclaje adecuado para equilibrar el momento de vuelco.
-*   **Vigas continuas**: apoyadas sobre varios tramos, reducen el canto y el coste.
+*   **Cortante. Tipologías**:
+    *   **Esfuerzo cortante vertical**: Se desarrolla a lo largo de una sección transversal de una viga para resistir el cizallamiento transversal. Alcanza su valor máximo en la fibra neutra y disminuye de forma no lineal hacia las caras exteriores, estando íntimamente relacionado con la flexión.
+    *   **Esfuerzo cortante horizontal (o longitudinal)**: Se desarrolla para prevenir el deslizamiento a lo largo de planos horizontales de una viga sometida a carga transversal, siendo igual al esfuerzo cortante vertical en cada punto.
+Los diagramas de cortantes son representaciones gráficas de la variación de la magnitud de la fuerza cortante (vertical) a lo largo del eje de un miembro estructural (fibra neutra), para un conjunto dado de cargas transversales y condiciones de apoyo.
 
-#### Forjados: Transmisión de Cargas y Estabilidad
+*   **Flexión**: Es la acción que induce la rotación de una parte de una estructura bajo fuerzas externas. Como se mencionó anteriormente, la flexión es un esfuerzo compuesto de compresiones y tracciones, cuya intensidad y características son definidas por los momentos flectores.
+Los diagramas de momentos flectores representan gráficamente la variación de la magnitud del momento flector a lo largo de un elemento estructural para un conjunto determinado de cargas transversales y condiciones de apoyo. Frecuentemente, la forma del diagrama de momento flector permite determinar la deformación de la estructura sometida a flexión.
 
-Los **forjados** son elementos estructurales generalmente horizontales que, trabajando a flexión, transmiten las cargas de uso y su propio peso a las vigas, pilares o muros. Cumplen una doble función: **portante** (reciben y transmiten cargas, limitan deformaciones y vibraciones, incrementan la resistencia a flexión y torsión con uniones monolíticas) y de **arriostramiento** (solidarizan los entramados horizontalmente en cada planta y reducen la longitud de pandeo de los pilares). El Código Técnico de la Edificación (CTE DB SE) establece una vida útil por defecto de 50 años.
+Dado que el cortante (vertical) y la flexión están estrechamente relacionados, su representación gráfica suele presentarse de forma conjunta.
 
-La **clasificación de los forjados** se realiza según varios criterios:
-*   **Según su sistema de ejecución**:
-    *   **Forjados in situ**: sus elementos resistentes se construyen completamente en obra, siendo todos ellos forjados armados o losas armadas.
-    *   **Forjados semiprefabricados**: emplean viguetas resistentes o semirresistentes prefabricadas, piezas de entrevigado y hormigón colocado en obra con sus armaduras correspondientes.
-    *   **Forjados prefabricados**: paneles completos del forjado (elementos resistentes y entrevigado) se fabrican en talleres y se montan en obra, minimizando las tareas en el sitio.
-*   **Según el tipo de armadura**:
-    *   **Forjados armados**: utilizan armadura pasiva, que no actúa hasta el hormigonado y desapeo.
-    *   **Forjados pretensados**: emplean armadura activa que actúa antes del hormigonado y desapeo, como en viguetas o losas alveolares pretensadas.
-    *   **Forjados postesados**: la armadura activa se carga después del hormigonado y antes del desapeo, mediante tendones en vainas.
-*   **Según su geometría**:
-    *   **Forjados unidireccionales**: transmiten cargas en una única dirección, apoyándose en vigas, jácenas o muros dispuestos en esa misma dirección. Incluyen elementos resistentes (madera, metal o hormigón), elementos de entrevigado (bovedillas cerámicas, hormigón aligerado, porexpan) para aligerar el peso y una capa de compresión para transmitir las cargas a las viguetas.
-    *   **Forjados bidireccionales**: transmiten esfuerzos en dos direcciones ortogonales. Se apoyan en vigas bidireccionales (losas) o directamente en pilares (losas o forjados reticulares).
-        *   **Losa maciza**: elementos horizontales macizos de hormigón armado de sección variable, sin elementos de entrevigado. Tienen una gran cantidad de armado y cubren importantes luces.
-        *   **Forjado reticular** o **losas aligeradas**: placas bidireccionales sobre pilares, aligeradas con bloques huecos (arcilla expandida, cerámica, poliestireno) o moldes recuperables (casetones de plástico) para reducir peso. Salvan grandes luces sin pilares intermedios y se apoyan en los capiteles de los pilares, dejando un ábaco sin aligerar para evitar el punzonamiento.
+*   **Carga puntual (concentrada)**: Las cargas concentradas generan fuerzas cortantes de valor constante entre las cargas.
+*   **Carga lineal (uniformemente repartida)**: Las cargas uniformemente repartidas generan una variación lineal de los esfuerzos cortantes.
 
-*   **Según el material**:
-    *   **Forjados de madera**: resueltos con viguetas de madera espaciadas uniformemente. Los elementos de entrevigado pueden ser revoltones (yeso y cascotes) sin función portante. La capa de compresión se realiza con tableros simples o dobles de madera. Las luces son limitadas (hasta 4 m). Las aberturas se hacen con brochales y viguetas cojas. Para el apoyo, se recomienda usar carreras o durmientes.
-    *   **Forjados metálicos**: resueltos con perfiles normalizados de acero (I o doble T). El entrevigado puede ser de elementos cerámicos, apoyados sobre el ala inferior del perfil (rasilla) o embebidos en los elementos resistentes (bovedillas). La capa de compresión es de acero con barras o mallazo. Permiten luces mayores (hasta 6 m) y facilitan las aberturas.
-    *   **Forjados de hormigón armado**:
-        *   **Unidireccionales**: elementos resistentes de hormigón y acero que trabajan a flexión (compresión + tracción). El acero se coloca para absorber tracciones (armados de positivos en la parte inferior del nervio, armados de negativos en la parte superior). El entrevigado son bovedillas cerámicas, de hormigón o poliestireno, sin función estructural pero capaces de soportar 100 kg. La capa de compresión o losa superior de hormigón, con armaduras, reparte cargas y arriostra. Las luces estandarizadas son de 6 m. Las aberturas pequeñas se prevén con pasatubos; las grandes, con brochales y viguetas cojas.
-        *   **Bidireccionales**: (losas macizas o reticulares) distribuyen esfuerzos en dos direcciones perpendiculares.
-    *   **Forjados mixtos**: elementos resistentes de distintos materiales, siendo el más común el de chapa colaborante. Consiste en un perfil de chapa grecada de acero sobre el que se vierte hormigón y mallazo para evitar fisuración. El perfil colaborante soporta el hormigón, la armadura y las cargas de ejecución. Los esfuerzos rasantes se absorben por las **embuticiones** del perfil, que actúan como interconexiones. Se clasifican como forjados unidireccionales, donde los nervios del perfil se someten a flexión en la dirección de cálculo.
+En los diagramas, las cargas concentradas producen momentos flectores que varían linealmente entre las cargas. Las cargas uniformemente distribuidas producen una variación parabólica de los esfuerzos flectores.
 
-### Elementos Estructurales Inclinados y de Enlace
+Los diagramas de momentos, a diferencia de los de cortante, suelen representar los momentos negativos en la parte superior, lo cual tiende a asemejarse a la deformación real de la estructura. Los puntos donde la gráfica de cortantes cruza el eje de abscisas corresponden a los puntos de momento nulo, un aspecto de especial relevancia para los cuerpos de bomberos al identificar puntos de apeo.
 
-Dentro de las estructuras inclinadas, se distinguen las **estructuras de cubierta** y los **elementos de enlace** como escaleras y rampas.
+Para familiarizarse con estas representaciones, se presentan diagramas de cortantes y flectores para los casos de vigas más comunes. Comparando tres vigas (articulada-apoyada, articulada-empotrada y empotrada-empotrada), se observa que el cortante es idéntico al no variar las cargas verticales. Sin embargo, los momentos son diferentes en función de los nudos o conexiones en los extremos de las vigas.
 
-Las **cubiertas** son el conjunto de elementos inclinados u horizontales que limitan superiormente la edificación, protegiendo el interior de los agentes meteorológicos y asegurando el confort. Sus funciones estructurales incluyen soportar el peso propio y sobrecargas (nieve, viento, térmicas, sísmicas), además de servir de soporte para elementos de cobertura como aislamiento, impermeabilizante y barrera de vapor, y para diversas instalaciones (antenas, pararrayos, chimeneas, ventilación, aire acondicionado, colectores solares).
+#### 5. Materiales de Construcción
 
-La **geometría de las cubiertas** y las dimensiones de sus elementos sustentantes dependen de la inclinación de los faldones. Los **entramados inclinados** forman la estructura para los faldones.
+Se definen como materiales de construcción el conjunto de materias primas, de cualquier naturaleza, composición o forma, que, al ser empleadas en obra mediante técnicas constructivas adecuadas, dan lugar a un elemento constructivo particular o a una edificación en general.
 
-Las **tipologías de entramados inclinados** varían según la naturaleza del edificio y las luces a cubrir:
-*   **Estructuras trianguladas (cerchas)**: para grandes luces y cubiertas complejas.
-*   **Estructuras entramadas (forjados inclinados)**: para edificaciones con luces pequeñas y cubiertas sencillas.
+*   **Disponibilidad**: Dada la relevancia económica y social del sector de la construcción, se requieren grandes volúmenes de materiales. La mayoría de ellos se obtienen de materias primas muy abundantes, como áridos (arena, grava) o arcilla.
 
-### Cubiertas Inclinadas (Tejados)
+*   **Comportamiento Mecánico**: Para una primera aproximación al estudio de los materiales de construcción, se utiliza como parámetro básico su comportamiento estructural frente a los esfuerzos, diferenciando:
+    *   **Materiales tenaces**: Absorben energía antes de fracturarse debido a su alta ductilidad (deformabilidad). Resisten bien a compresión y tracción, siendo muy flexibles. Ejemplos: madera o acero.
+    *   **Materiales frágiles**: Presentan un comportamiento opuesto a la tenacidad. Soportan bien la compresión, pero mal la tracción y, por ende, la flexión. Son materiales de "carácter másico", como la piedra y el ladrillo.
 
-Las **cubiertas inclinadas** o **tejados** se forman por planos inclinados o faldones que evacuan rápidamente el agua de lluvia hacia el exterior, ya sea por el **alero** (parte inferior sobresaliente), o a través de **canalones perimetrales** y **bajantes**. Según el CTE DB HS1, una cubierta inclinada debe tener una pendiente mínima del 5%. No están diseñadas para uso habitable, sino para la evacuación de agua y nieve.
+Para un análisis completo de las características de los materiales en edificaciones, se considera una visión más amplia que va más allá del criterio anterior, incluyendo su origen, naturaleza, proceso de fabricación o ejecución.
 
-Entre los **elementos de las cubiertas inclinadas**, destacan:
-*   **Caballete**, **cumbrera** o **gallur**: la arista o coronación superior del tejado.
-*   **Faldón**: la vertiente triangular o trapecial limitada por el caballete y dos limatesas.
-*   **Hastial**, **piñón** o **gablete**: la parte triangular superior de la fachada donde apoyan las vertientes del tejado.
-*   **Limas**: aristas oblicuas que forman el encuentro de dos faldones. Pueden ser **limahoyas** (ángulo entrante que recoge el agua) o **limatesas** (ángulo saliente que expulsa el agua).
-*   **Lucernario**: elemento en la cubierta para iluminar y ventilar, con nombres como beata, buharda, lucero o claraboya.
-*   **Linterna**: lucernario elevado que ilumina y ventila el espacio inferior.
-*   **Peto**: faldón triangular menor, entre dos limas.
+##### 5.1. Materiales Pétreos
 
-Las **tipologías
+Los materiales pétreos se clasifican en:
+
+*   **Pétreos Naturales**: Rocas ígneas, rocas sedimentarias y rocas metamórficas.
+*   **Pétreos Artificiales**:
+    *   **Materiales conformados**:
+        *   **Materiales básicos**:
+            *   **Aglomerantes**: Arcilla → Tapial.
+            *   **Conglomerantes**:
+                *   Aéreos → Yeso, Cal aérea.
+                *   Hidráulicos → Cal hidráulica, Cemento.
+                *   Bituminosos → Alquitrán, Betún, Asfalto.
+        *   **Áridos**.
+        *   **Agua**.
+        *   **Materiales compuestos**: Pasta, Mortero, Hormigón.
+    *   **Elementos de fábrica**:
+        *   **Piedra**: Sillar, Sillarejo, Mampuesto.
+        *   **Arcilla**: Adobe, Ladrillo cerámico, Arcilla Aligerada o Termoarcilla.
+        *   **Hormigón**: Bloque hormigón.
+
+#### 5.1.1. Materiales Pétreos Naturales
+
+**Definición**: Son materiales extraídos directamente de la naturaleza. Su estructura no sufre modificaciones significativas en presencia de agua en periodos menores a la vida útil de un edificio.
+
+**Uso**: Son muy valorados en la construcción por su resistencia y durabilidad ante agentes medioambientales. No obstante, sus inconvenientes (alto coste, poca plasticidad, fragilidad) han provocado su reemplazo gradual por materiales artificiales o manufacturados. Actualmente, rara vez se usan como elementos estructurales, sino principalmente como materia prima para otros materiales (ej. cementos) o como elementos de acabado (paredes, suelos).
+
+**Tipos de Rocas**: Según su origen, se clasifican en ígneas, metamórficas o sedimentarias.
+
+**a) Rocas Ígneas**
+**Definición**: Rocas formadas por la solidificación del magma en el interior del planeta.
+**Tipologías**:
+*   **Intrusivas, plutónicas o magmáticas**: Se forman por la solidificación del magma en el interior de la corteza terrestre. Son materiales muy densos y resistentes. Ejemplo: granito, usado en cimentaciones, muros de carga y pavimentación.
+*   **Extrusivas, volcánicas o eruptivas**: Se forman por la solidificación y enfriamiento del magma en la superficie terrestre. Son menos densas y resistentes que las rocas intrusivas, y suelen ser más oscuras. Ejemplo: basalto, con usos similares al granito.
+
+**b) Rocas Sedimentarias**
+**Definición**: Materiales resultantes del proceso sedimentario sobre rocas preexistentes. Los sedimentos se acumulan en capas paralelas que, mediante procesos físicos y químicos (diagénesis), generan materiales más o menos consolidados de cierta consistencia.
+
+**Tipologías (Rocas Sedimentarias)**:
+Según su origen, se distinguen:
+*   **b.1. Detríticas**: Originadas por la alteración física de otras rocas preexistentes. Se clasifican a su vez en sueltas y compactas.
+*   **b.2. No detríticas**: De origen químico, formadas por precipitación (cristalización) de sustancias disueltas y posterior consolidación.
+
+**Tabla 9. Rocas según su origen**
+
+| DENDRÍTICAS | NO DENDRÍTICAS |
+| :---------- | :------------- |
+| **Sueltas** | • Arcilla        |
+| Gravas → Conglomerados | • Caliza         |
+| Arenas → Arenisca      | • Yeso          |
+| Limos → Lutita         |                |
+
+**DENDRÍTICAS**
+
+(Imágenes de gravas, conglomerados, arenas, areniscas, limos, lutitas)
+
+**NO DENDRÍTICAS**
+
+(Imágenes de arcilla, calizas, yesos)

@@ -1,84 +1,249 @@
-## Equipos de Comunicación y Orientación en Operaciones de Emergencia
+## Equipos de Comunicación y Orientación: Emisoras Portátiles, Intercraneales y Brújulas
 
-La eficiencia en las operaciones de emergencia y bomberos depende críticamente de la **comunicación** y la **orientación**. Estos dos pilares permiten una respuesta coordinada, una gestión eficaz de los incidentes y la garantía de seguridad para el personal interviniente.
+### 2.3. Emisoras Portátiles
 
-### Emisoras Portátiles (Walkie-Talkies)
+Las emisoras portátiles, comúnmente denominadas walkie-talkies, operan con un canal semidúplex, lo que permite la transmisión de una sola radio con la recepción simultánea por múltiples unidades. La comunicación se inicia al presionar el botón PTT (Push To Talk). Facilitan tanto llamadas individuales (uno a uno) como grupales (uno a varios).
 
-Las **emisoras portátiles**, comúnmente denominadas walkie-talkies, son dispositivos de comunicación semi-dúplex que permiten a una unidad transmitir mientras múltiples unidades reciben. La activación de la comunicación se realiza mediante un botón PTT (Push To Talk), facilitando tanto las llamadas individuales como las de grupo. Son especialmente útiles en entornos ruidosos, donde el altavoz integrado garantiza la audibilidad para el usuario y su entorno inmediato.
+Su altavoz externo mejora la audibilidad en entornos ruidosos donde un auricular telefónico podría ser ineficaz. Disponen de más de 100 canales con distintas frecuencias, un peso aproximado de 300 gramos, y operan a 7.2V en un rango de temperatura de -20ºC a +55ºC.
 
-Estos equipos, que suelen ofrecer más de 100 canales con diversas frecuencias, operan generalmente a 7.2V, pesan alrededor de 300 gramos y están diseñados para funcionar en un rango de temperatura de -20ºC a +55ºC. Sus componentes esenciales incluyen un conector de antena, un selector de funciones, controles de encendido y volumen, un indicador de transmisión, recepción y llamadas, diversas teclas programables, un bloqueo de seguridad, un botón PTT y un conector universal, entre otros.
+#### 2.3.1. Especificaciones
+Las partes de una emisora portátil incluyen:
+1. Conector de antena
+2. Selector
+3. Encendido y control de volumen
+4. Indicador de transmisión/ocupado/llamada
+5. Tecla auxiliar
+6. Cierre de seguridad
+7. Picaporte de liberación
+8. Tecla lateral de función programable
+9. Conmutador PTT
+10. Tecla lateral de función programable
+11. Teclas de funciones programables
+12. Teclado DTMF
+13. Conector Universal
 
-**Marco Normativo:**
-La regulación de las emisoras portátiles en España se rige por el Real Decreto 1890/2000, que transpone la Directiva 99/05/CE. Además, estos equipos deben cumplir con estándares internacionales como la **IEC529 (1989)**, que garantiza su sumergibilidad hasta 1 metro de profundidad durante 30 minutos, y la **ATEX94/9/EC**, que certifica su aptitud para uso en atmósferas explosivas con gases, líquidos o polvos inflamables. También deben satisfacer las normas **IP54/55** de protección contra polvo y agua, y las **MIL STD 810C/D/E/F** en cuanto a su tolerancia a la humedad, vibraciones, caídas y temperaturas extremas.
+#### 2.3.2. Normativa
+La regulación en España para estas emisoras se rige por el Real Decreto 1890/2000, del 20 de noviembre, que transpone la Directiva 99/05/CE del Parlamento Europeo y del Consejo, del 9 de marzo de 1999. Adicionalmente, deben cumplir con:
+*   **Normativa internacional IEC529 (1989):** Establece la capacidad de sumersión hasta 1 metro de profundidad durante 30 minutos.
+*   **Normativa ATEX94/9/EC:** Permite el uso en atmósferas con gases inflamables, líquidos y combustibles pulverulentos.
+*   **Normas IP:** Protección contra polvo y agua IP54/55.
+*   **Normas MIL STD 810C/D/E/F:** Tolerancia a la humedad, vibración, caídas y temperaturas extremas.
 
-**Uso y Medidas de Seguridad:**
-Las emisoras portátiles operan en modo símplex, empleando dos frecuencias (una para transmisión y otra para recepción), y pueden configurarse para uso directo o mediante un repetidor. Es imperativo adoptar precauciones estrictas: evitar el contacto con la antena o partes metálicas expuestas del equipo durante la transmisión para prevenir quemaduras; abstenerse de cargar las baterías si están mojadas o de tocar componentes calientes. Al utilizar un micrófono auricular, se recomienda reducir el volumen del aparato para evitar enredos del cable. Bajo ninguna circunstancia se debe sumergir el equipo en agua, y es obligatorio apagarlo en entornos potencialmente explosivos, como gasolineras o centros médicos. Dado que las baterías contienen materiales inflamables (disolventes orgánicos), existe riesgo de rotura, incendio o sobrecalentamiento extremo, por lo que deben cargarse siempre con el dispositivo apagado. La observancia rigurosa de las instrucciones del fabricante es fundamental.
+#### 2.3.3. Uso y seguridad
+Las emisoras portátiles operan en modo símplex, tanto en directo como con repetidor.
 
-**Mantenimiento:**
-El mantenimiento rutinario incluye la verificación diaria de la carga de la batería y la correcta comunicación entre emisoras. Deben conservarse disponibles en los parques de bomberos, libres de polvo, y si la rejilla del altavoz se moja, debe secarse con aire frío (ej. secador de pelo) antes de encenderlo.
+**Precauciones:**
+*   Evitar la transmisión si se toca la antena o una pieza metálica sobresaliente de la cubierta para prevenir quemaduras.
+*   Evitar el roce de la antena con los ojos.
+*   Evitar cargar las baterías si están mojadas o tocar partes calientes (radiador, chasis) al cambiarlas.
+*   Reducir el volumen del aparato si se conecta un micrófono auricular.
+*   Evitar que el cable del micrófono se enrede alrededor del cuello en proximidad de maquinaria.
+*   Nunca sumergir el aparato en agua.
+*   Apagar en ambientes explosivos (gasolineras, cerca de explosivos, aviones, centros médicos).
+*   Las baterías contienen materiales inflamables (disolvente orgánico). Existe el riesgo de rotura, incendio o generación de calor extremo por uso inadecuado. Deben cargarse antes de usarse y retirarse si no se utilizan por un tiempo prolongado. Apagar durante la carga.
+*   Siempre seguir las indicaciones del manual.
 
-### Intercraneal
+#### 2.3.4. Mantenimiento
+Se debe verificar diariamente la carga de la batería y la comunicación adecuada entre emisoras. El personal debe asegurarse de que estén siempre disponibles en los parques. Se mantendrán libres de polvo, y si la rejilla del altavoz se moja, se secará con aire frío antes de encenderlo.
 
-El **intercraneal** es un sistema de intercomunicación diseñado para emisoras portátiles, que integra un auricular y un micrófono craneal. Este micrófono capta la voz directamente desde la bóveda del cráneo, optimizando la claridad de la transmisión. El dispositivo incluye un botón PTT de pecho, que, gracias a su gran superficie y resistencia, puede ser accionado incluso con guantes o bajo la ropa. Un conector de seguridad CT permite la liberación del equipo con una fuerza de separación de aproximadamente 45 kg. El intercraneal está fabricado en plástico de alta resistencia a la llama y está diseñado para operar en un rango de temperatura de -20ºC a +75ºC y con una humedad relativa de hasta el 93%.
+### 2.4. Intercraneal
 
-**Marco Normativo:**
-Este equipo debe cumplir con la normativa **IP 67/66**, que establece su nivel de protección contra la intrusión de objetos sólidos, polvo, contactos accidentales y agua.
+#### 2.4.1. Especificaciones
+El equipo intercraneal es un sistema de intercomunicación para emisoras portátiles que incluye un micrófono craneal, el cual capta la voz directamente de la bóveda del cráneo para transmitirla.
 
-**Uso y Medidas de Seguridad:**
-Para su utilización, una vez encendida la emisora, se debe presionar el botón PTT para establecer la comunicación por voz. Es un elemento indispensable en todas las intervenciones que requieran el uso de casco. Se debe verificar continuamente la correcta comunicación con el resto de la dotación y el parque. Es crucial no desconectar el conector CT con la emisora encendida para evitar daños en el sistema de conexión. Asimismo, la antena debe estar conectada a la radio antes de cualquier transmisión para asegurar la adecuada disipación de la potencia de salida.
+**Sus componentes son:**
+*   El micrófono y el auricular están diseñados para una transmisión de voz clara y un contacto óptimo con la cabeza.
+*   El botón PTT de pecho debe tener una superficie grande para facilitar su uso con guantes y ropa gruesa. Se fija a la ropa con una pinza y ofrece máxima resistencia a roturas.
+*   El conector de seguridad CT se suelta con una fuerza de separación de aproximadamente 45 kg.
+*   El dispositivo está fabricado con plástico de alta resistencia a la llama, operando entre -20ºC y +75ºC, con una humedad de hasta 93%.
 
-**Mantenimiento:**
-Se requiere una revisión diaria del funcionamiento del intercraneal, comprobando las conexiones de sus componentes, la operatividad del PTT y la audición del micro-altavoz. Este dispositivo forma parte del sistema de comunicaciones personal del bombero, ubicándose en su casco de intervención, y debe mantenerse libre de grasas, polvo y otros elementos que puedan comprometer su funcionamiento.
+#### 2.4.2. Normativa
+Este dispositivo debe cumplir con la normativa IP 67/66, que especifica el nivel de protección contra la intrusión de objetos sólidos o polvo, contactos accidentales y agua.
 
-### Brújula
+#### 2.4.3. Uso y seguridad
+Una vez encendida la emisora, se presiona el botón "PTT" para iniciar la comunicación de voz y se suelta para recibir respuesta. Se utiliza en todas las intervenciones que requieren el uso de casco. Es crucial verificar la comunicación con los otros miembros del equipo y con el parque. El conector CT debe desconectarse con la emisora apagada para evitar daños en el sistema. La antena debe estar conectada a la radio antes de transmitir para asegurar una disipación adecuada de la potencia de salida.
 
-La **brújula** es un instrumento fundamental para la orientación, caracterizado por una aguja imantada que señala el norte magnético dentro de una caja circular, cuya base suele incorporar una representación de los puntos cardinales o una rosa de los vientos. Para su correcto uso, la aguja debe alinearse con la línea que marca el Norte para determinar una dirección específica. Sin embargo, su funcionalidad se ve comprometida en las regiones polares debido a la convergencia de las líneas de fuerza del campo magnético terrestre.
+#### 2.4.4. Mantenimiento
+Se debe revisar diariamente su funcionamiento, la conexión de los componentes, el PTT y la escucha del microaltavoz. Cada bombero debe llevarlo en su casco de intervención como parte del sistema de comunicación personal. Se mantendrá limpio de grasas, polvo y otros elementos que puedan afectar su rendimiento.
 
-Los componentes principales de una brújula incluyen: una base transparente con escalas de medición, un limbo giratorio graduado en 360º (con escala azimutal y lectura directa del rumbo), una aguja magnética, una flecha de orientación, un punto de lectura en blanco sobre las divisiones del limbo, y una flecha de dirección de viaje que atraviesa la base.
+### 3. Equipos de Orientación
 
-**Tipos de Brújulas:**
-Existen varios tipos, desde las **sencillas** con aguja imantada o suspendida en líquido (empleadas en senderismo y montañismo), hasta las **digitales** y las **especializadas** para cartografía, náutica, uso militar, forestal, topografía o geología (como la Brújula Brunton o Freiberger).
+#### 3.1. Brújula
 
-**Marco Normativo:**
-Todas las brújulas deben cumplir con el **marcado CE**, que certifica su conformidad con las normas de calidad europeas.
+#### 3.1.1. Especificaciones
+La brújula es un instrumento de orientación con una aguja imantada que, al colocarse sobre un eje, siempre señala el norte magnético. Está alojada en una caja circular con una base que representa los puntos cardinales o la rosa de los vientos. Para determinar una dirección, la aguja debe coincidir con la línea que marca el Norte en la rosa. No es útil en las zonas polares (norte y sur) debido a la convergencia de las líneas de fuerza del campo magnético terrestre.
 
-**Uso y Medidas de Seguridad:**
-Las brújulas son utilizadas en operaciones de búsqueda y rescate, y como complemento del GPS.
-*   **Para usar la brújula con un mapa:** se alinea la base a lo largo de la trayectoria deseada en el mapa y se rota el limbo hasta que la 'N' coincida con el norte magnético del mapa; la flecha de dirección indicará el rumbo.
-*   **Para seguir un rumbo conocido en el terreno:** con el limbo fijo según la dirección obtenida del mapa, se rota toda la brújula hasta que la aguja magnética se superponga con la flecha de orientación, y se sigue el rumbo.
-*   **Para orientar un mapa al norte geográfico:** se gira el limbo hasta cero, se coloca la brújula sobre el meridiano geográfico con sus marcas paralelas, y se rota el mapa y la brújula hasta que la aguja magnética señale el ángulo de declinación.
-*   **Para medir un rumbo (ej. punto P):** se sostiene la brújula a la altura de los ojos, se gira el cuerpo hasta alinear el punto P con la mira, y se rota el limbo hasta que la flecha de orientación coincida con la aguja magnética, leyendo el valor en el índice.
-*   **Para determinar un rumbo conocido:** se rota el limbo al valor deseado, luego se gira el cuerpo hasta alinear la aguja con la flecha de orientación.
-*   **Para encontrar un rumbo en un mapa:** se marcan el punto de partida A y el destino B, se coloca la brújula sobre el mapa alineando un lateral con A-B y la tapa en dirección a B, y se rota el limbo hasta que sus marcas sean paralelas a los meridianos de la cuadrícula del mapa, apuntando la flecha de orientación hacia el norte.
-Las precauciones incluyen evitar caídas y almacenar el dispositivo en su funda para protegerlo del polvo y arañazos.
+**Partes de la brújula:**
+*   **Base:** Cuerpo transparente con una a tres escalas de medición, donde se anclan las demás piezas.
+*   **Anillo giratorio graduado (limbo):** Dividido en 360º sexagesimales, en sentido horario. Las escalas son normalmente azimutales (0º a 360º o 0 g a 400 g), orientadas en sentido antihorario (E/W cambiados), lo que permite una lectura directa azimutal del valor final de la aguja.
+*   **Aguja magnética:** Ubicada dentro del cilindro.
+*   **Flecha orientadora:** Dentro del cilindro, debajo de la aguja magnética.
+*   **Punto de lectura:** De color blanco, en la parte superior del cilindro, encima de las divisiones numéricas, donde se realizan las lecturas.
+*   **Flecha de dirección de viaje:** Línea que atraviesa la mayor parte de la base y termina con una flecha.
 
-**Mantenimiento:**
-Es fundamental revisar periódicamente el estado de la esfera y el limbo de la brújula. Para su transporte, debe guardarse plegada en su funda, en un lugar libre de polvo, siendo apta para llevar en vehículos todoterreno.
+**Tipos de brújulas:**
+*   **Sencillas:** Aguja imantada sobre un círculo graduado o suspendida en líquido (usadas para senderismo y montañismo).
+*   **Digitales.**
+*   **Especializadas:** Para actividades profesionales como cartografía náutica, militar, forestal, topografía geológica (ej. Brújula Brunton o Freiberger).
 
-### Prismáticos (Binoculares)
+#### 3.1.2. Normativa
+Debe cumplir con el marcado de calidad CE establecido por la normativa europea.
 
-Los **prismáticos**, también conocidos como binoculares, son instrumentos ópticos que magnifican objetos distantes y permiten una visión tridimensional. Se componen de dos tubos, cada uno con un sistema de lentes y prismas que corrigen la orientación de la imagen. La separación entre los ejes ópticos de los tubos, que es mayor que la distancia interpupilar humana, contribuye a la percepción estereoscópica. Los componentes clave incluyen los tubos, las lentes objetivo, un mando de enfoque central y, a menudo, un anillo de corrección dióptrica en el ocular derecho.
+#### 3.1.3. Uso y seguridad
+Se utiliza en tareas de búsqueda y rescate, y como apoyo al GPS.
 
-**Características Ópticas:**
-Se describen con dos números separados por una "x", donde el primer valor indica la magnificación y el segundo el diámetro de la lente objetivo en milímetros (por ejemplo, 8x40 significa 8 aumentos y 40 mm de diámetro). El diámetro de la pupila de salida (resultado de dividir el diámetro del objetivo por la magnificación) es crucial para la observación en condiciones de poca luz. El "eye relief" o relieve ocular es la distancia óptima desde el ocular al ojo para una visión cómoda, especialmente importante para usuarios de gafas. El "foco cercano" es la distancia mínima a la que un objeto puede enfocarse con nitidez.
+**Para usar la brújula en un mapa:**
+1.  Colocar la brújula sobre el mapa, haciendo que el lateral de su base siga el rumbo deseado.
+2.  Girar el limbo graduado hasta que la "N" coincida con el norte magnético del mapa.
+3.  La flecha de dirección indicará el rumbo a seguir.
 
-**Tipos de Prismáticos:**
-Se distinguen varios tipos:
-*   Los de **prisma de techo (Roof)** son más ligeros y compactos, con un camino óptico recto donde los objetivos, prismas y oculares están alineados.
-*   Los de **prisma de Porro** presentan objetivos más separados que los oculares, con un camino óptico desplazado.
-*   Los de tipo **Galileano** son los más sencillos, con lentes objetivo convergentes y oculares divergentes, que ofrecen una magnificación limitada y un campo de visión estrecho, siendo utilizados comúnmente para espectáculos.
+**Para usarla en el terreno (sin mapa):**
+1.  Mantener el limbo en la dirección obtenida del mapa.
+2.  Girar la brújula entera (no solo el limbo) hasta que la flecha del Norte coincida con la aguja imantada.
+3.  Seguir el rumbo hasta el destino, repitiendo el proceso si es necesario.
 
-**Recubrimientos Anti-Reflejos:**
-Existen diferentes niveles de recubrimientos para optimizar la transmisión de luz:
-*   **Fully Coated**: una única capa anti-reflejos en todas las superficies ópticas.
-*   **Multi-Coated**: al menos una superficie tiene múltiples capas.
-*   **Fully Multi-Coated**: múltiples capas en todas las superficies de aire a vidrio, logrando una transmisión de luz superior al 90%.
+**Para orientar el plano respecto al Norte geográfico:**
+1.  Girar el limbo hasta que marque cero.
+2.  Colocar la brújula sobre el meridiano geográfico y alinear las líneas de la carcasa giratoria paralelamente.
+3.  Girar el plano, junto con la brújula, hasta que la aguja magnética señale el ángulo de declinación, leído en el limbo móvil.
 
-**Marco Normativo:**
-Los prismáticos deben llevar el **marcado CE**, certificando su conformidad con los estándares de calidad europeos para la montura y las lentes.
+**Para medir un rumbo (punto P):**
+1.  Colocar la brújula frente a los ojos, girar el cuerpo hasta que el punto P se alinee con la mira M.
+2.  Sin moverse, girar el limbo graduado hasta que la flecha de orientación se alinee con la aguja magnética y los colores.
+3.  El valor del rumbo se lee en el índice de la brújula.
 
-**Uso y Medidas de Seguridad:**
-Son herramientas inestimables en labores de búsqueda y rescate, así como en la vigilancia de incendios forestales para localizar focos y controlar equipos. Los servicios de bomberos suelen emplear modelos de tipo Roof, que son impermeables, con características como 8x42 de magnificación y un campo de visión de 6º (equivalente a 105 metros a 1000 metros).
+**Para determinar un rumbo conocido:**
+1.  Girar el limbo de la brújula hasta que el índice muestre el valor del rumbo.
+2.  Girar el cuerpo hasta que la aguja se superponga con la flecha de orientación y los colores coincidan.
 
-**Mantenimiento:**
-Para su mantenimiento, se debe limpiar el polvo con un soplador y frotar las lentes suavemente con un paño limpio y un limpiador específico para lentes, evitando el uso de disolventes o benceno. Deben guardarse en un lugar bien ventilado y seco, lejos de altas temperaturas, y se deben evitar golpes, caídas o forzar el plegado. Aunque algunos modelos son resistentes al agua, no son sumergibles.
+**Para hallar un rumbo sobre un mapa:**
+1.  Dibujar en el mapa la posición de partida A y el destino B.
+2.  Colocar la brújula sobre el mapa, alineando uno de sus lados con la recta A-B.
+3.  Girar el limbo graduado hasta que las líneas de la carcasa giratoria queden paralelas a los meridianos de la cuadrícula del plano, con la flecha de orientación señalando al norte.
+4.  La orientación del destino se lee en el índice y se realizan las transformaciones necesarias para obtener el rumbo. Con este rumbo, se procede como en la determinación sobre el terreno de un rumbo conocido.
+
+**Para determinar la posición en un mapa:**
+1.  Si la posición es desconocida pero se identifican dos o más objetos visibles (vértices geodésicos, edificaciones, etc.) y se localizan en el mapa, se puede hallar la posición mediante:
+    *   Medición del rumbo del vértice.
+    *   Realización de las correcciones oportunas para transformarlo en un ángulo de orientación.
+    *   Colocación de la brújula sobre el mapa, con la tapa extendida hacia el vértice, alineando el borde largo.
+    *   Girar la brújula sobre el pico hasta que las líneas marcadas en el limbo móvil queden paralelas a los meridianos UTM.
+    *   Trazar una línea desde el vértice siguiendo el borde de la brújula.
+    *   Repetir para el otro vértice; el punto de intersección de las dos direcciones obtenidas indica la ubicación.
+
+**Para usar la brújula sin mapa:**
+1.  Buscar una superficie plana para que la aguja se mueva libremente y encuentre el norte.
+2.  Una vez detenida la aguja, girar lentamente el limbo graduado hasta que el norte (del limbo) se sitúe sobre la punta imantada de la aguja. La aguja y el limbo deben estar orientados hacia el norte.
+3.  El ángulo del limbo, sea cual sea, quedará alineado con la dirección norte-sur de la brújula, sirviendo para orientar el rumbo.
+
+#### 3.1.4. Mantenimiento
+Es importante comprobar que la esfera y el limbo no presenten roturas. Las brújulas se almacenan en todoterrenos ligeros (por su movilidad y agilidad de uso), plegadas en su funda para evitar polvo y arañazos.
+
+### 3.2. Prismáticos
+
+#### 3.2.1. Especificaciones
+Los prismáticos, también conocidos como binoculares, son instrumentos ópticos que amplían las imágenes de objetos distantes, permitiendo una percepción tridimensional. Cuentan con dos tubos, cada uno con lentes y prismas que corrigen la imagen. Los ejes longitudinales de los tubos están más separados que los ojos del usuario, lo que aumenta la sensación estereoscópica.
+
+Los oculares de cada tubo no están alineados con los objetivos, y los prismas reflejan la luz en forma de "S" hacia el ocular.
+
+**Partes fundamentales:**
+*   **Tubos:** Ajustables para la distancia interpupilar.
+*   **Rueda de enfoque:** Para ajustar la nitidez de la imagen.
+*   **Ocular derecho:** Con anillo de corrección dióptrica para mejorar el enfoque.
+
+**Características ópticas (indicadas como "aumento x diámetro"):**
+*   **Primera cifra:** Aumento o potencia visual.
+*   **Segunda cifra:** Diámetro (en mm) de las lentes frontales.
+    *   Ejemplo: 8x40 significa 8 aumentos y un diámetro de lentes frontales de 40 mm.
+
+**Uso habitual según características ópticas:**
+| Características | Uso                                                              |
+| :-------------- | :--------------------------------------------------------------- |
+| 3 x 10          | Visualización de espectáculos                                    |
+| 7 x 50 - 10 x 50 | Observación no profesional de la naturaleza y exteriores, uso manual o con trípode |
+| 12 x 50 - 20 x 140 | Grandes distancias y observación profesional, uso obligatorio con trípode (algunos modelos con estabilizador de movimiento) |
+| 8 a 24 x 50     | Usos múltiples, magnificación variable, configuración interna de lentes móviles |
+
+**Revestimientos químicos antirreflexivos:**
+*   **Revestimiento completo (Full Coating):** Todas las superficies ópticas tratadas con una capa de compuesto químico (fluoruro de magnesio). Transmisión de luz >80%.
+*   **Revestimiento múltiple (Multi-coating):** Al menos una superficie tratada con varias capas de compuestos antirreflexivos.
+*   **Revestimiento múltiple completo (Fully Multi-coating):** Todas las superficies separadas tratadas con múltiples capas antirreflexivas. Transmisión de luz >90%.
+
+**Otros conceptos importantes:**
+*   **Campo visual:** Tamaño angular del panorama observado. A mayor aumento, menor campo visual (ej. 7º equivale a 112 metros a 1 km).
+*   **Diámetro de los objetivos:** Segunda cifra en la medida (ej. 50 mm en 10x50). Determina la luminosidad (más grande, más luz).
+*   **Pupila de salida:** Diámetro en mm del haz de luz que sale del ocular (ej. 5 mm en 10x50). Mayor pupila significa más luz para observación nocturna. Se calcula dividiendo el diámetro del objetivo por los aumentos del binocular (50 mm / 10 = 5 mm).
+*   **Relieve del ojo (Eye Relief):** Distancia en mm desde el ocular para observar cómodamente (grande para usuarios con gafas).
+*   **Foco cercano:** Distancia mínima para enfocar correctamente un objeto.
+
+**Tipos de prismáticos más extendidos:**
+*   **Roof:** Ligeros y compactos. Prismas en forma de tejado (ángulo de 90º). Ejes ópticos alineados.
+*   **Porro:** Eje óptico del objetivo desplazado respecto al ocular. Objetivos más separados que los oculares.
+*   **Galileano:** Más sencillo. Lentes objetivo convergentes (convexas) y oculares divergentes (cóncavas). Magnificación y campo visual limitados. No requiere elementos ópticos intermedios para imagen correcta. Usados para espectáculos.
+
+#### 3.2.2. Normativa
+Deben cumplir con el marcado de calidad CE, tanto para la montura como para las lentes.
+
+#### 3.2.3. Uso y seguridad
+Utilizados en búsquedas y rescates, y en incendios forestales para localizar focos y controlar equipos de trabajo visualmente. Los prismáticos Roof del CEIS Guadalajara son impermeables, 8x42, con un campo de 6º (105 m/1000 m).
+
+#### 3.2.4. Mantenimiento
+Se deben limpiar el polvo con un soplador y frotar suavemente con un paño limpio y limpiador de lentes, evitando disolventes o bencina orgánica. Se almacenan en un lugar ventilado, seco y sin altas temperaturas, evitando golpes o caídas. Es crucial verificar el nivel de batería. Se ubican en los vehículos de intervención. Aunque son estancos al agua, no deben sumergirse.
+
+
+
+### 3.3. GPS
+
+#### 3.3.1. Características generales
+El Sistema de Posicionamiento Global (GPS) es una red de 24 satélites en 6 planos orbitales que permite determinar la posición de un objeto en cualquier parte del mundo con gran precisión.
+
+Cada satélite emite una señal electromagnética con la hora de emisión, la identificación del satélite y su posición orbital. Un receptor GPS (navegador) capta estas señales, reconoce el satélite y calcula el tiempo de viaje de la señal. Recibiendo señales de al menos 4 satélites simultáneamente, puede calcularse la posición exacta mediante triangulación.
+
+Un mayor número de satélites mejora la precisión, aunque siempre existe un margen de error (entre 5 y 30 metros). Estos errores pueden corregirse usando un receptor de referencia en un punto de coordenadas geográficas conocidas, comparando la posición real con los datos obtenidos por satélite para determinar el error. Este sistema se utiliza en trabajos topográficos o geodésicos.
+
+El GPS permite conocer las coordenadas geográficas o UTM del lugar. Para calcular valores UTM, es necesario establecer un datum, ya que un mismo punto puede tener diferentes coordenadas según el datum. Los receptores GPS operan internamente con el datum WGS84, pero pueden configurarse para transformar los valores UTM a otros datums (ej. ED50 europeo 1950 de la cartografía española), manteniendo WGS84 internamente. Para identificar la posición leída en un mapa, el receptor debe estar configurado para el datum correcto.
+
+Los receptores GPS portátiles actuales incorporan cartografía digital visible en pantalla, con un cursor que indica la posición actual y muestra coordenadas geográficas o UTM.
+
+En el mapa digital se pueden establecer "waypoints" (puntos de coordenadas conocidas) o "track logs" (sucesión encadenada de segmentos que enlazan waypoints), que representan el camino recorrido.
+
+Al marcar una ruta en la cartografía digital, el GPS calcula el rumbo inicial (ángulo horizontal con respecto al norte magnético). Si el terreno es irregular y se sigue un track, el receptor marca continuamente la desviación de la ruta y la posición actual, así como el rumbo y la velocidad. El GPS calcula la distancia y la dirección necesaria para alcanzar el destino.
+
+Dos modelos de GPS habituales en servicios de bomberos son GARMIN ETREX Legend HCx y GARMIN NÜVI.
+
+#### 3.3.2. Garmin eTrex® Legend HCx
+
+#### c) Especificaciones
+Es un GPS portátil de posicionamiento y orientación con una precisión de 1 metro y una autonomía de 12 horas. Ofrece alta sensibilidad, funcionando incluso bajo arbolado, en cauces angostos o con cielos muy cubiertos, e incluye cartografía completa. Se utiliza en intervenciones que requieren ubicación por satélite, como búsquedas, rescates o incendios forestales, a menudo en conjunto con brújula, prismáticos y cartografía analógica.
+
+**Partes del Garmin eTrex Legend HCx:** (Se asume que la descripción textual se refiere a las partes del dispositivo)
+*   Botones para ajustar retroiluminación.
+*   Desplazamiento por el mapa.
+*   Zoom (acercar/alejar).
+*   Búsqueda en el menú y visualización de información.
+*   Desplazamiento por listas.
+*   Resalte de campos.
+*   Introducción de datos.
+*   Salida de página.
+*   Comprobación de la batería.
+
+Permite consultar cartografía, conocer coordenadas, crear y buscar waypoints y emplazamientos, crear senderos electrónicos o "track logs" (con información de los puntos a lo largo de la ruta), y navegar por rutas. Para aprovechar al máximo sus funciones, se recomienda seguir el manual de usuario.
+
+#### d) Normativa
+La Directiva 1999/5/CE del Parlamento Europeo y del Consejo, del 9 de marzo, regula este equipo en relación con equipos radioeléctricos, terminales de telecomunicación y reconocimiento mutuo de conformidad.
+
+#### e) Uso y seguridad
+Las pantallas principales que se visualizan incluyen:
+*   **Menú:** Contiene configuraciones y funciones de software.
+*   **Mapa:** Muestra un mapa detallado de la zona actual, con ciudades, carreteras nacionales, autopistas regionales, información de salidas y contornos de lagos y ríos.
+*   **Compás:** Visualiza un compás gráfico y un punto de ruta o rumbo. La esfera rotatoria del compás indica la dirección actual, y los punteros de ruta y rumbo muestran la dirección al destino. La precisión del compás puede verse afectada por objetos que generen campos magnéticos (coches, edificios, etc.). Es necesario calibrarlo después de cambiar baterías, recorrer más de 160 km, o sufrir un cambio de temperatura de más de 20º.
+*   **Altímetro (o perfil de alturas de una ruta determinada):** Muestra un perfil de cambios de altura en relación con la distancia o el tiempo, o un perfil de cambios de presión en el tiempo.
+*   **Procesador de trayecto:** Muestra diversos datos de navegación.
+
+#### f) Mantenimiento
+Es esencial evitar caídas y la exposición directa a la luz solar al almacenarlo, manteniéndolo limpio y guardado en su funda. Como en todo GPS, se debe verificar el nivel de batería y disponer de recambios en el vehículo. Se ubican en los vehículos de intervención para su rápida utilización.
+
+### 3.3.3. Garmin nüvi®
+
+#### a) Especificaciones
+Es un navegador en ruta con cartografía vial, que ofrece una precisión de 10 metros y una autonomía de batería de 40 minutos. Su baja sensibilidad requiere una señal potente.

@@ -1,71 +1,174 @@
-# Tácticas de Intervención en Incendios de Interior
+A continuación, se detalla un temario sobre tácticas de intervención en incendios, incluyendo la organización, modos operativos y consideraciones de seguridad.
 
-El planteamiento táctico en la extinción de incendios representa una decisión crucial que debe basarse en la experiencia profesional, el conocimiento técnico-científico, la disponibilidad de técnicas y una valoración exhaustiva del incidente. La intervención se estructura en diversas fases, cuya cronología puede no ser estrictamente lineal, ya que muchas tareas pueden realizarse de forma simultánea, y las acciones para mitigar riesgos inminentes pueden priorizarse en cualquier momento.
+### PARTE 3: INCENDIOS DE INTERIOR. VENTILACIÓN DE INCENDIOS
+#### Capítulo 4. Tácticas de intervención
 
-## Fases de una Intervención
+**1. Planteamiento Táctico**
 
-La intervención se divide en varias fases clave, comenzando con la **Fase 0: Movilización**. Esta etapa incluye la **recepción del aviso**, que implica la recopilación de datos, la confirmación de la movilización de otros servicios (sanitarios, fuerzas del orden) y la determinación del equipo de salida inicial, además de la activación de medios adicionales y el comando de intervención. La **movilización a siniestro** abarca el desplazamiento de los equipos y del mando, mientras que la **llegada a siniestro** incluye el emplazamiento de vehículos, la preparación del material de primera intervención y la conexión a hidrantes.
+Una táctica de intervención se define como un conjunto coordinado y planificado de herramientas y técnicas, con el propósito de abordar una situación de emergencia. Representa una de las decisiones más críticas en la labor de los bomberos, ya que implica la asunción de riesgos y posibles pérdidas, y puede tener consecuencias irreversibles.
 
-Continuando, la **Fase 1: Valoración y Tareas Previas** es fundamental. Aquí se realiza una **valoración exterior e interior** que comprende la lectura del incendio mediante el método B-SAHF (Building, Smoke, Airtrack, Heat, Flame), el análisis de riesgos inminentes, el desarrollo de un plan de acción, la sectorización y la zonificación del incidente. Dentro de las **acciones inminentes**, se prioriza el confinamiento o la evacuación, el corte de servicios (gas, luz, agua), la evaluación de la estabilidad estructural, el rescate de víctimas inminentes y el control de la propagación.
+Para formular un planteamiento táctico, el mando de intervención debe considerar cuatro elementos fundamentales:
+*   Experiencia profesional.
+*   Conocimiento técnico-científico.
+*   Abanico de técnicas disponibles.
+*   Valoración del incidente.
 
-La **Fase 2: Control** se enfoca en la **búsqueda y rescate** de víctimas, utilizando técnicas de rastreo interior o ventilación defensiva. Asimismo, se lleva a cabo el **control de la propagación** del incendio, limitando su avance tanto en el interior como en el exterior. Una **valoración continua** por parte del mando de intervención es esencial en esta fase, revisando la lectura del incendio, el estado de los recursos y la efectividad de las acciones.
+**1.1. Fases de una Intervención**
 
-Finalmente, la **Fase 3: Mitigación** se centra en la **extinción** del incendio, mientras que la **Fase 4: Restitución** comprende el **desescombro y la estabilización** del área, buscando restaurar la situación previa al incendio, asegurando la estabilidad estructural y la ausencia de puntos calientes, con consideraciones de seguridad para los afectados. Esta fase concluye con una **valoración final** que incluye la recuperación de la operatividad, un análisis colectivo de la intervención y la elaboración del informe final.
+La secuencia cronológica de una intervención en incendios se estructura en fases, donde las tareas pueden no seguir un orden estricto de ejecución y muchas pueden realizarse simultáneamente. Las acciones para mitigar riesgos inminentes pueden priorizarse en cualquier momento.
 
-## Sectorización del Incidente
+| FASE                | Tarea                                  | Observaciones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| :------------------ | :------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **FASE 0: MOVILIZACIÓN** | **1. Recepción del Aviso**             | Recopilación de datos sobre el aviso. Confirmación de la movilización de otros servicios (sanitarios, FF.OO.). Determinación del tren de salida ordinario. Información al mando superior y activación de medios adicionales.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|                     | **2. Movilización a Siniestro**        | Desplazamiento del tren de primera salida. Desplazamiento de dotaciones adicionales. Desplazamiento del mando de intervención.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                     | **3. Llegada a Siniestro**             | Emplazamiento de vehículos. Preparación del material de primera intervención. Toma de hidrante.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **FASE 1: VALORACIÓN TAREAS PREVIAS** | **4. Valoración exterior e interior**  | Lectura del incendio (método B-SAHF). Análisis de riesgos inminentes. Elaboración de un plan de acción. Sectorización del incidente. Zonificación del incidente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|                     | **5. Acciones Inminentes**             | Acciones para mitigar riesgos inminentes: Confinamiento / evacuación. Corte de servicios. Estabilidad estructural. Rescates inminentes. Control de propagación.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **FASE 2: CONTROL** | **6. Búsqueda y rescate**              | Búsqueda y rastreo de víctimas con técnicas de rastreo interior, VEIS o ventilación defensiva.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|                     | **7. Control de la propagación**       | Control del incendio limitando la propagación interior y exterior.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                     | **8. Valoración continua**             | Valoración continua por parte del mando de intervención de la lectura del incendio, estado de recursos y éxito de las acciones emprendidas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **FASE 3: MITIGACIÓN** | **9. Extinción**                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|                     | **8. Valoración continua**             | Valoración continua por parte del mando de intervención de la lectura del incendio, estado de recursos y éxito de las acciones emprendidas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **FASE 4: RESTITUCIÓN** | **10. Desescombro y estabilización**   | Restitución de la situación previa al incendio en la medida de lo posible. Estabilidad estructural. Ausencia de puntos calientes. Consideraciones de seguridad para el beneficiario.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                     | **11. Valoración final**               | Estabilidad estructural. Ausencia de puntos calientes. Consideraciones de seguridad para el beneficiario.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                     | **12. Vuelta a base**                  | Recuperación de la operatividad. Análisis colectivo de la intervención. Parte de intervención.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
-La **sectorización del incidente** es la división de la zona afectada en partes más pequeñas, ya sea por ubicación o por la naturaleza de las tareas a realizar, aplicando el principio de "divide y vencerás". Esta estrategia permite abordar cada sector con un planteamiento táctico distinto, objetivos diferenciados y recursos específicos. El mando de intervención debe realizar una evaluación continua de estos sectores para movilizar los recursos de manera eficiente. Por ejemplo, en un edificio en altura con dos viviendas incendiadas, se podrían establecer sectores para la propagación exterior, la progresión interior a cada vivienda, la limpieza y presurización de la caja de escaleras, y el rescate interior.
+**1.2. Sectorización**
 
-## Modos Tácticos: Ofensivo y Defensivo
+La sectorización de un incidente implica su división, especialmente en intervenciones pequeñas, basándose en la ubicación o en tareas específicas. Esta aproximación, conocida como "divide y vencerás", busca asignar a cada sector un planteamiento táctico distinto, con objetivos y recursos adaptados. El mando de intervención debe realizar una evaluación continua de estos sectores y movilizar recursos según sea necesario.
 
-El modo táctico a emplear en cada sector de la intervención puede ser **ofensivo** o **defensivo**. El **planteamiento ofensivo** implica un ataque directo al incendio con el objetivo de su extinción, siendo propio de la fase de mitigación. Este modo conlleva mayores riesgos personales, por lo que requiere una ponderación cuidadosa del binomio riesgo-beneficio y garantías de éxito. Incluye tácticas como el control exterior de propagación, el ataque en presión positiva para rescate, contra la propagación o para la progresión, y el ataque combinado. En contraste, el **planteamiento defensivo** no realiza acciones directas sobre el foco del incendio, sino que se centra en proteger las zonas donde el incendio podría causar daños por propagación o acumulación de humo. Este modo, característico de la fase de control, presenta un nivel de riesgo inferior para el personal y se adopta cuando no existen garantías de éxito para un ataque ofensivo, si el equilibrio riesgo-beneficio es desfavorable o si los recursos son insuficientes.
+Como ejemplo, en un incidente complejo en un edificio de varias alturas con incendio que afecta a dos viviendas, la sectorización podría incluir:
+*   Sector 1: Propagación exterior por fachada.
+*   Sector 2: Progresión interior hacia la vivienda incendiada 1.
+*   Sector 3: Progresión interior hacia la vivienda incendiada 2.
+*   Sector 4: Limpieza y presurización de la caja de escalera.
+*   Sector 5: Rescate interior.
 
-## Técnicas de Control Exterior de Propagación
+**1.3. Modo Táctico: Ofensivo o Defensivo**
 
-El **control exterior de propagación** tiene como objetivo primordial contener el avance del incendio desde una posición segura externa, limitando los daños y humidificando las zonas expuestas al fuego. Esta técnica se puede aplicar desde el inicio de la intervención, combinándose eficazmente con un ataque exterior ofensivo para reducir el potencial del incendio, siempre coordinando con las operaciones de progresión interior.
+En cada sector de intervención, se debe establecer un modo táctico que defina las acciones a realizar sobre el incendio.
 
-## Ataque Exterior Ofensivo
+*   **Planteamientos Ofensivos:**
+    *   Implican un ataque directo al incendio con el fin de extinguirlo.
+    *   Son característicos de la Fase 3, "Mitigación", de una intervención.
+    *   Conllevan mayores riesgos personales, requiriendo una evaluación rigurosa de riesgo-beneficio.
+    *   Exigen garantías de éxito antes de su ejecución.
+    *   Ejemplos incluyen: Control Exterior de Propagación, Ataque en Presión Positiva para el Rescate, Ataque en Presión Positiva contra la Propagación, Ataque en Presión Positiva para la Progresión.
 
-El **ataque exterior ofensivo**, también conocido como "ablandado" o "resetear el incendio", busca reducir la potencia y temperatura del incendio desde una posición segura exterior, mejorando las condiciones interiores para la supervivencia de las víctimas y facilitando el ataque interior posterior. Esta técnica es particularmente útil en incendios que han roto por fachada y en aquellos confinados que requieren la apertura de huecos para su aplicación. Se puede complementar con la ventilación por presión positiva para maximizar sus ventajas.
+*   **Planteamientos Defensivos:**
+    *   No implican una acción directa sobre el incendio, sino sobre las zonas donde este está causando daños por propagación o acumulación de humo.
+    *   Son propios de la Fase 2, "Control", de una intervención.
+    *   Representan un nivel de riesgo inferior para el personal.
+    *   Se deben adoptar si no existen garantías de éxito para un planteamiento ofensivo, si el equilibrio riesgo-beneficio no es favorable o si los recursos son insuficientes.
+    *   Ejemplos incluyen: Ataque Exterior Ofensivo, Ataque Interior con Antiventilación, Ataque Interior con Ventilación Natural, Ataque en Presión Positiva para la Extinción, y Ataque Combinado (Ataque Exterior Ofensivo + Ataque Indirecto + APP).
 
-La ejecución implica seleccionar la apertura exterior con mayor actividad del incendio y, si está confinado, abrir una ventana en la zona más activa, priorizando las ubicaciones superiores o con mayores temperaturas. Se realiza una aplicación de chorro de agua prolongada para "ablandar" el incendio, seguida de una espera de seguridad que permite evaluar la mejora de las condiciones interiores antes de la entrada del equipo de ataque. Es crucial no bloquear las salidas de gases con chorros en cono o en movimiento para evitar el desplazamiento de gases tóxicos hacia el interior de la estructura y coordinar esta acción con las operaciones interiores.
+**2. Control Exterior de Propagación**
 
-## Ataque Interior con Antiventilación
+Este enfoque busca controlar la propagación del incendio desde una posición externa, limitar los daños y humedecer las zonas expuestas.
 
-El **ataque interior con antiventilación** tiene como objetivos principales el rescate de víctimas, el control de la propagación interior y la extinción del incendio, así como la identificación de una salida de gases para futuras tácticas de ventilación. Esta técnica se enfoca en incendios confinados o infraventilados donde el plano neutro es bajo y la visibilidad es nula, o en situaciones donde la ventilación forzada o natural no es factible. Durante la progresión interna, se enfrian e inertizan los gases de incendio para un avance seguro, apoyándose en técnicas de orientación en espacios sin visibilidad.
+*   **Objetivo:**
+    *   Controlar la propagación desde una posición exterior.
+    *   Limitar el alcance de los daños del incendio.
+    *   Humidificar las zonas de exposición al incendio.
+*   **Técnicas de Referencia:**
+    *   Ataque defensivo contra la propagación.
+    *   Ataque exterior ofensivo o "ablandado".
+*   **Indicaciones:**
+    *   Puede realizarse simultáneamente con otras operaciones interiores o exteriores.
+    *   Es aplicable desde el inicio de la intervención para controlar el riesgo inminente de propagación.
+    *   Puede combinarse con un ataque ofensivo exterior "ablandado" para reducir el potencial del incendio.
+    *   Si se emplean técnicas de ataque exterior ofensivo "ablandado", es fundamental coordinarlas con las operaciones de progresión interior.
+*   **Ejecución:**
+    *   En un ataque defensivo contra la propagación, las acciones se dirigen a las fachadas más expuestas, ya sea desde el nivel del suelo, una cesta de escala o una posición elevada.
 
-La ejecución inicia con el confinamiento del incendio, cerrando puertas y ventanas. El equipo de ataque accede al interior utilizando técnicas de acceso a través de puertas. Mientras el equipo de apoyo exterior controla la puerta de acceso para mantener el confinamiento, el equipo de ataque enfría e inertiza los gases. La progresión se realiza con técnicas de orientación en espacios sin visibilidad, y si no hay víctimas confirmadas, se realiza una búsqueda y rescate simultánea. Sobre superficies calientes, se aplica un ataque directo de baja intensidad para detener la pirólisis. Al llegar al foco, se puede optar por un ataque indirecto o directo, según la visibilidad.
+**3. Ataque Exterior Ofensivo**
 
-Las consideraciones de seguridad incluyen evitar el empleo en situaciones de *backdraft* inminente, no bloquear el flujo de gases con personal, asegurar la inertización efectiva de los gases, y realizar un rastreo exhaustivo de víctimas una vez extinguido el incendio.
+Esta técnica tiene como objetivo reducir la potencia del incendio desde una posición exterior segura mediante la aplicación de agua, sin alterar el flujo existente de gases del incendio. Se le denomina "ablandado" o "resetear el incendio" porque no busca la extinción completa, sino atenuar las condiciones para una posterior progresión interior segura.
 
-## Ataque Interior con Ventilación Natural
+*   **Objetivo:**
+    *   Aumentar las posibilidades de supervivencia de las víctimas en el interior.
+    *   Reducir la temperatura interna de la estructura.
+    *   Reducir la potencia del incendio para facilitar el ataque interior.
+*   **Técnicas de Referencia:**
+    *   Ataque exterior ofensivo "ablandado".
+*   **Indicaciones:**
+    *   Es particularmente útil en incendios que han roto por fachada, donde una aplicación temprana puede ser muy efectiva.
+    *   Si el incendio está confinado sin aperturas al exterior y se considera el uso de esta táctica, se debe evaluar la modificación del patrón de ventilación y cualquier alteración del flujo de gases que pueda afectar al personal o a zonas no afectadas.
+    *   Se puede realizar simultáneamente con operaciones interiores, ajustando el caudal y la frecuencia de las aplicaciones para evitar un exceso de vapor o la modificación del flujo de gases.
+    *   La combinación con técnicas de ventilación por presión positiva (VPP) ofrece ventajas adicionales.
+*   **Ejecución:**
+    *   1. Seleccionar la apertura exterior del incendio que muestre mayor actividad.
+    *   2. Si el incendio está confinado sin aperturas al exterior y se decide aplicar esta táctica, abrir la ventana con mayores signos de actividad. Las ventanas superiores o con temperaturas más altas suelen ofrecer mejores resultados.
+    *   3. Aplicar técnicas de ataque exterior ofensivo "ablandado".
+*   **Consideraciones de Seguridad:**
+    *   No bloquear las salidas de gases con patrones de cono o chorro en movimiento, ya que los gases y el vapor de agua podrían desplazarse hacia el interior de la estructura.
+    *   Coordinar con las operaciones interiores.
 
-El **ataque interior con ventilación natural** busca el rescate de víctimas, el control de la propagación y la extinción del incendio, optimizando las condiciones interiores mediante un flujo unidireccional de gases. Esta técnica es idónea para incendios interiores ya ventilados o bien estratificados, especialmente cuando se requiere una rápida progresión para rescate.
+**4. Ataque Interior con Antiventilación**
 
-La ejecución comienza estableciendo una entrada y salida de gases a distintos niveles (ventilación vertical) para que el equipo de ataque avance por la ruta fría, o bien utilizando la ventilación horizontal cuando la vertical no es posible. El equipo de ataque accede a los recintos cerrados mientras el equipo de apoyo exterior mantiene el control de la puerta. Durante la progresión, se enfrían e inertizan los gases para un avance seguro, intentando preservar la estratificación térmica. La progresión se apoya en técnicas de orientación en espacios sin visibilidad, y se realiza una búsqueda y rescate simultánea o posterior. Se aplica ataque directo de baja intensidad sobre superficies pirolizando y, finalmente, un ataque indirecto o directo al foco.
+Esta táctica se enfoca en el control del incendio desde el interior de un espacio confinado, priorizando la seguridad y minimizando el riesgo de propagación descontrolada.
 
-Las precauciones de seguridad son similares a otras técnicas, enfatizando la vigilancia del crecimiento del incendio, la aplicación inmediata de agua, el control de la puerta de acceso y la inertización efectiva de gases durante la progresión.
+*   **Objetivo:**
+    *   Rescate de víctimas.
+    *   Controlar la propagación interior.
+    *   Extinguir el incendio.
+    *   Localizar una salida de gases para iniciar una táctica de ventilación.
+*   **Técnicas de Referencia:**
+    *   Ataque indirecto.
+    *   Ataque directo.
+    *   Enfriamiento de gases.
+    *   Acceso a través de puerta.
+    *   Antiventilación o confinamiento de incendio.
+    *   Control de puerta de acceso.
+    *   Orientación en espacios con visibilidad limitada.
+*   **Indicaciones:**
+    *   Es apropiado para incendios confinados sin aperturas.
+    *   Se utiliza en incendios infraventilados (aquellos que no han alcanzado la fase de *flashover*), caracterizados por un plano neutro cercano al suelo y visibilidad nula.
+    *   También es relevante en incendios confinados donde la configuración del edificio no permite el uso de ventilación forzada o natural (flujo de gases imprevisible, tamaño de entrada o salida insuficiente).
+*   **Ejecución:**
+    *   1. Realizar el confinamiento del incendio.
+    *   2. El equipo de ataque accede al interior utilizando técnicas de acceso a través de puertas en cada recinto cerrado que conduce a las zonas afectadas.
+    *   3. El equipo de apoyo exterior realiza un control de puerta de acceso para mantener la antiventilación y facilitar el paso de la manguera.
+    *   4. Durante la progresión interna, el equipo de ataque enfría e inertiza los gases de incendio (mediante enfriamiento de gases) donde sea necesario para avanzar con seguridad y evitar fenómenos de desarrollo rápido.
+    *   5. La progresión interior se basa en técnicas de orientación en espacios de visibilidad limitada.
+    *   6. En paralelo a la progresión, si no se confirma la ausencia de víctimas, se realiza una búsqueda y rescate. Esto puede ser ejecutado por el mismo equipo de ataque (rastreo y búsqueda interior) o por un equipo de rescate interior independiente.
+    *   7. En superficies calientes que están pirolizando o cerca de esta situación, el equipo de ataque realiza un ataque directo de poca intensidad para frenar la pirólisis y evitar una potencial evacuación (posible propagación que impida o dificulte la evacuación).
+    *   8. Al llegar al recinto del incendio, el equipo de ataque puede optar por un ataque indirecto desde la puerta de acceso si el incendio no es directamente visible y está confinado. Si el incendio es visible y accesible con un chorro de agua, se puede optar por un ataque directo.
+    *   9. El objetivo de la operación puede ser la extinción, el rescate o la localización de una salida de gases para iniciar una operación basada en ventilación. El equipo de ataque debe controlar el incendio previamente para poder aproximarse y abrir una salida de gases. Luego, debe retroceder inmediatamente fuera de la zona de incendio para asegurar que el flujo de gases establecido no los sitúe en la ruta caliente.
+*   **Consideraciones de Seguridad:**
+    *   No se debe emplear en situaciones de *backdraft* inminente.
+    *   Es una operación lenta debido a la dificultad de progresión en un entorno sin visibilidad.
+    *   La atmósfera interior permanece irrespirable (calor y toxicidad) durante toda la intervención, lo que reduce la supervivencia de las víctimas y añade riesgo a los bomberos en caso de dificultad.
+    *   Si hay posibles víctimas, se debe priorizar el uso de tácticas que impliquen la ventilación para mejorar las condiciones y aumentar la supervivencia.
+    *   Vigilar la rotura de ventanas, que puede provocar un aumento repentino de la potencia del incendio, un *flashover* inducido por la ventilación o la creación de un flujo de gases que atrape a los bomberos.
+    *   Realizar un control activo de la puerta de acceso para asegurar las condiciones de antiventilación.
+    *   Asegurar la inertización efectiva de los gases durante la progresión.
+    *   Una vez extinguido el incendio, realizar un rastreo exhaustivo en busca de víctimas no localizadas en la fase inicial.
 
-## Ataque en Presión Positiva para la Extinción (APP Extinción)
+**5. Ataque Interior con Ventilación Natural**
 
-El **ataque en presión positiva para la extinción** tiene como objetivo el rescate de víctimas, el control de la propagación interior y la extinción del incendio, mediante el uso de ventiladores de presión positiva ofensiva y ataque directo. Se indica para incendios interiores ya ventilados, recintos con flujo unidireccional previsible, o situaciones con víctimas donde se requiere un ataque rápido y mejora de las condiciones de supervivencia.
+Esta técnica busca aprovechar las diferencias de presión naturales para evacuar gases y mejorar las condiciones internas del recinto.
 
-El proceso implica localizar una entrada y una salida de gases adecuadas para establecer un flujo unidireccional. El ventilador VPP se prepara a mínima potencia y se orienta a 90º respecto a la puerta. Se inicia la ventilación ofensiva abriendo la salida de gases (externa o interna tras antiventilación). Una vez confirmada la salida, se acelera el ventilador al máximo, se coloca contra la puerta aún cerrada para presurizar el frontal y se abre la puerta para que el flujo de aire fresco penetre. El equipo de ataque, con manguera cargada, espera fuera hasta que las condiciones interiores mejoren. Tras la confirmación de la mejora, se realiza una progresión interior rápida y agresiva, sin rebasar la cuña de avance de aire fresco. Al localizar el foco, se procede a un ataque directo agresivo, aprovechando el flujo del ventilador para evitar el retroceso de vapores. Sobre superficies pirolizando, se aplica un ataque directo de baja intensidad.
-
-## Ataque en Presión Positiva para el Rescate (APP Rescate)
-
-El **ataque en presión positiva para el rescate** se orienta exclusivamente al rescate de víctimas. Sus técnicas de referencia incluyen la antiventilación o confinamiento, el enfriamiento de gases, la ventilación defensiva en presión positiva y la ventilación secuencial. Está indicado en incendios con posibles víctimas, en estructuras complejas o con dotaciones reducidas, y cuando el incendio puede ser confinado o aislado eficazmente. La ejecución es idéntica a la descrita para la APP extinción, pero el enfoque principal es la limpieza de las zonas de acceso para el rescate.
-
-## Ataque en Presión Positiva para la Progresión (APP Progresión)
-
-El **ataque en presión positiva para la progresión** tiene como finalidad limpiar de humo pasillos, escaleras y otras vías de acceso para llegar al incendio, siempre y cuando la salida de gases sea distinta de la entrada de aire fresco y el incendio esté confinado y aislado. Las indicaciones relevantes son edificios donde un ventilador puede establecer un flujo unidireccional definido y previsible con el incendio aislado.
-
-La ejecución comienza con el confinamiento del incendio mediante antiventilación. Posteriormente, se localizan las aperturas de entrada y salida de gases para establecer un flujo que limpie la zona afectada. Se inicia la ventilación defensiva por presión positiva, abriendo la salida de gases, preferentemente desde el exterior o, si es necesario, desde el interior tras un ataque previo. Una vez confirmada la apertura de la salida de gases, se acelera el ventilador al máximo, se presuriza la entrada con la puerta cerrada y luego se abre. Confirmado el buen funcionamiento y la mejora de condiciones, el equipo de ataque realiza una rápida búsqueda de víctimas. La compartimentación de la estructura requiere una ventilación secuencial, limpiando los recintos uno a uno, desde el más cercano al ventilador hasta el más lejano.
-
-Las consideraciones de seguridad prohíben su uso si no hay un flujo unidireccional claro, si el recinto del incendio no está localizado, si hay combustibles volátiles o pulverulentos, en situaciones de *backdraft* inminente, o si los gases pueden desplazarse a zonas ocultas o viviendas anexas. Es vital vigilar el viento dominante, asegurar la inertización de los gases externos y monitorear continuamente la ventilación para evitar obstrucciones.
-
-## Ataque Combinado (Exterior Ofensivo + Enfriamiento de Gases + APP)
-
-El **ataque combinado** integra el ataque exterior ofensivo, el enfriamiento de gases y la ventilación por presión positiva (APP) para el rescate de víctimas, el control de la propagación y la extinción. Es aplicable en incendios interiores ventilados, recintos con flujo unidireccional previsible, situaciones con víctimas que exigen una intervención rápida y mejora de las condiciones de supervivencia, o cuando la respuesta a la ventilación puede ser violenta.
-
-La ejecución implica localizar las aberturas de entrada y salida de gases para establecer un flujo unidireccional. Se abre la salida de gases, idealmente desde el exterior, o desde el interior si se ha realizado un ataque previo con antiventilación. Acto seguido, se inicia un ataque exterior ofensivo "ablandado" en la apertura de salida de gases. Simultáneamente, se prepara el ventilador VPP y las líneas de manguera cargadas. Se realiza un enfriamiento enérgico de gases desde la puerta de entrada para reducir las condiciones del incendio antes de la ventilación. Luego, se inicia la ventilación ofensiva por presión positiva, acelerando el ventilador al máximo, colocándolo contra la puerta cerrada para presurizar el frontal, y abriéndola para permitir el flujo de aire. El equipo de ataque espera fuera hasta que las condiciones interiores mejoren, y una vez confirmada la mejora y el buen funcionamiento de la ventilación, procede a una progresión interior rápida y agresiva sin rebasar la cuña de aire fresco. Finalmente, se realiza un ataque directo agresivo al foco del incendio y un ataque directo de baja intensidad sobre superficies pirolizando.
+*   **Objetivo:**
+    *   Rescate de víctimas.
+    *   Controlar la propagación interior.
+    *   Extinguir el incendio.
+*   **Técnicas de Referencia:**
+    *   Ataque indirecto.
+    *   Ataque directo.
+    *   Enfriamiento de gases.
+    *   Acceso a través de puerta.
+    *   Ventilación vertical.
+    *   Ventilación horizontal.
+    *   Control de puerta de acceso.
+    *   Orientación en espacios con visibilidad limitada.
+    *   Rastreo y búsqueda por el equipo de ataque interior al incendio.
+    *   Rastreo y búsqueda por el equipo independiente al de ataque interior al incendio.
+*   **Indicaciones:**
+    *   Incendios interiores ya ventilados (con fachadas rotas o aperturas exteriores que presentan un flujo de gases definido).
+    *   Incendios interiores bien estratificados, con una clara distinción entre el colchón de gases y la corriente de aire fresco en la parte inferior.
+    *   Incendios interiores con posible presencia de víctimas, donde se busca crear un flujo de gases en la parte inferior para mejorar las condiciones de supervivencia y una rápida progresión interior.
+*   **Ejecución:**
+    *   1. Establecer una entrada y una salida de gases para crear un flujo unidireccional de ventilación natural. Esto solo es posible con técnicas de ventilación vertical, donde la salida y entrada de gases están a diferentes niveles. El equipo de ataque seguirá el recorrido del aire fresco, fuera del alcance de los gases de incendio. Si la ventilación vertical no es posible, se recurrirá a la ventilación horizontal, que genera flujos bidireccionales en las aperturas, implicando que el acceso del equipo de ataque se realice con gases calientes en la parte superior.
+    *   2. El equipo de ataque accede al interior utilizando técnicas de acceso a través de puertas en cada recinto cerrado que conduce a las zonas afectadas.
+    *   3

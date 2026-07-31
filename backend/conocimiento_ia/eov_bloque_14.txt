@@ -1,84 +1,195 @@
-# Equipos y Herramientas para Extinción y Ventilación
+## Temario de Oposiciones: Equipos Operativos y Herramientas de Intervención (Continuación)
 
-Los servicios de emergencia disponen de una vasta gama de equipos y herramientas diseñados específicamente para el control y extinción de incendios, así como para la gestión de situaciones que requieren ventilación. Estos dispositivos, que emplean principalmente agua y agentes espumantes, son cruciales para la eficacia de las operaciones.
+### Capítulo 4: Equipos y Herramientas de Extinción (Continuación)
 
-## Agentes Espumógenos y sus Dispositivos de Aplicación
+**2.10. Generador y Lanzas de Espuma**
 
-Los **espumógenos** son aditivos que, al mezclarse con agua, alteran su tensión superficial, facilitando la formación de burbujas en contacto con el aire. Este fenómeno reduce la densidad del fluido resultante, permitiendo que flote sobre combustibles y actuando como barrera.
+**2.10.1. Especificaciones**
 
-Existen dos tipos principales de espumas según su mecanismo de acción:
-*   Las espumas **oleofóbicas** impiden que los líquidos apolares, como los combustibles derivados del petróleo, disuelvan la espuma, siendo ideales para fuegos de hidrocarburos de Clase B. Al mejorar su comportamiento con aditivos fluorados, se crean espumógenos fluoroproteínicos, que forman una película acuosa extendida rápidamente y son compatibles con polvo químico seco. Los espumógenos fluoroproteínicos antialcohol (FFFP-AR) incorporan polímeros que evitan que líquidos polares como el alcohol destruyan la espuma, creando una capa física adicional.
-*   Las espumas **oleofílicas** muestran afinidad por los productos de descomposición pirolítica de sustancias orgánicas, permitiendo que el agua con espuma penetre por capilaridad y se adhiera a superficies enfriadas, actuando como barrera térmica y previniendo la pirólisis. Son adecuados para fuegos de Clase A y se utilizan para inundar zonas de riesgo por emanación de gases combustibles o para crear una barrera con la atmósfera.
+Estos dispositivos, utilizados en conjunto, tienen la función de emulsionar la mezcla de agua y líquido espumante, aportando la cantidad de aire necesaria y lanzándola al exterior en forma de espuma compacta. Se produce una cierta pérdida de presión en la salida. Para que una lanza genere una espuma adecuada, su caudal nominal debe coincidir con el del proporcionador que la alimenta y debe operar a la presión recomendada. Cuanto mayor sea la entrada de aire en la lanza, mayor será su coeficiente de expansión.
 
-La concentración de estos espumógenos en la mezcla de agua suele ser del 1%, 3% o 6%. Se clasifican y regulan por normativas como UNE-EN 1568 (partes 1 a 4) y NFPA 403 y 850.
+Los generadores de alta expansión son ventiladores que se accionan por el agua a presión suministrada por la manguera de alimentación. Producen espuma inyectando aire a través de una estructura reticular metálica o de nylon, sobre la cual se pulveriza la solución de agua y producto espumante mediante boquillas difusoras. El suministro de aire para las burbujas y el impulso de la espuma se logra mediante un ventilador activado por la presión del agua, una turbina hidráulica o un motor de explosión. Para lanzar espuma a lugares de difícil acceso, estos generadores disponen de un conducto de lona o polietileno que se conecta a la estructura reticular para dirigir la espuma hasta el foco del incendio.
 
-La **aplicación** de espumógenos se realiza mediante un proporcionador que los mezcla con agua en la proporción adecuada. Esta mezcla, al ser impulsada a través de una lanza, se combina con aire para generar la espuma. Es fundamental proyectar la espuma cuidadosamente, evitando dirigirla hacia personas para no obstruir sus vías respiratorias, y calcular siempre la cantidad necesaria para asegurar una extinción efectiva. El **mantenimiento** de los recipientes implica verificar la ausencia de fugas y caducidad del material, además de transportarlos en compartimentos seguros en el camión.
+**Partes de un generador de alta expansión:**
 
-### Generadores y Lanzas de Espuma
+1.  Admisión de agua (racor de diámetro 45).
+2.  Manómetro indicador de presión de admisión.
+3.  Turbina hidráulica del ventilador.
+4.  Llaves de las toberas de descarga.
+5.  Llave de derivación.
+6.  Descarga de agua (derivación racor diámetro 45).
+7.  Manguereta fija del proporcionador.
+8.  Red de nylon.
+9.  Espigas para sujeción de perfiles en "U".
+10. Perfiles en "U" para sujeción de alargos de canalización.
+11. Palomillas para sujeción de la red.
 
-Estos dispositivos trabajan en conjunto para emulsionar la mezcla de agua y espumógeno con aire, expulsándola como espuma compacta. La eficacia de una lanza depende de que su caudal nominal sea el mismo que el proporcionador y que opere a la presión recomendada. A mayor entrada de aire en la lanza, mayor es su coeficiente de expansión. Los generadores de alta expansión emplean ventiladores impulsados por la propia presión del agua (turbina hidráulica) o por un motor de explosión. Estos inyectan aire a través de una estructura reticular, pulverizando la solución espumante. Para acceder a zonas difíciles, algunos modelos incorporan conductos de lona o polietileno.
+Las lanzas suelen entregar un caudal de 200 a 800 litros por minuto (lpm) a una presión de unos 7 bares, con un alcance variable que oscila entre 2 y 20 metros. Existen dos tipos principales:
 
-Las lanzas de espuma suelen operar con caudales de 200 a 800 litros por minuto (lpm) a una presión de aproximadamente 7 bares, con alcances que varían entre 2 y 20 metros. Se distinguen varios tipos:
-*   Las **lanzas de baja expansión** ofrecen un mayor alcance y producen burbujas de espuma de tamaño reducido. Sus componentes incluyen una entrada de agua y líquido emulsor, toberas de disgregación, un sistema de aspiración de aire, una cámara de emulsión, una estructura reticular, un sistema de expansión de aire en la mezcla y una tobera de salida.
-*   Las **lanzas de media expansión** tienen un alcance menor pero generan un mayor volumen de espuma. Incorporan un manómetro para indicar la presión óptima de formación de espuma.
-*   También existen **lanzas a chorro lleno**, con un diámetro de 6 mm, que proporcionan máximo alcance y penetración, pero con una expansión limitada.
-*   Las **lanzas de penetración** se utilizan en lugares de difícil acceso, como balas de mercancías, pajares o tabiques, aunque su aplicación es más restringida.
+*   **Lanzas de baja expansión:** Poseen el mayor alcance y producen las burbujas de espuma más pequeñas. Sus componentes incluyen:
+    1.  Entrada de agua a presión con líquido emulsor.
+    2.  Toberas de disgregación del chorro.
+    3.  Aspiración de aire.
+    4.  Cámara de emulsión.
+    5.  Estructura reticular.
+    6.  Expansión de aire en mezcla.
+    7.  Tobera de salida de espuma.
 
-El **uso y seguridad** de estos equipos requieren que el espacio a cubrir con espuma esté suficientemente ventilado y que la abertura de ventilación sea más elevada que el nivel previsto de espuma. Es crucial planificar el suministro de espumógeno necesario con antelación. Durante el **mantenimiento**, es importante limpiar los restos de espuma y suciedad, permitiendo que solo circule agua por el interior para su auto-limpieza. Se transportan en el armario del camión, generalmente en el techo.
+*   **Lanzas de media expansión:** Tienen menor alcance y generan un mayor volumen de espuma. Incluyen un manómetro que indica la zona de presión óptima para la formación de espuma. Sus partes son:
+    1.  Entrada de agua con líquido emulsor a chorro.
+    2.  Tobera de disgregación del chorro.
+    3.  Manómetro.
+    4.  Entrada de aire.
+    5.  Cámara de expansión.
+    6.  Estructura reticular.
+    7.  Boca de salida de espuma.
 
-### Proporcionador con Tubo de Succión
+**2.10.2. Uso y seguridad**
 
-El **proporcionador con tubo de succión** es un hidromezclador diseñado para incendios, que aspira espumógenos y humectantes desde un bidón mediante el efecto Venturi. Permite dosificaciones entre 0% y 6%, aunque genera una significativa pérdida de carga, por lo que su caudal debe regularse según la lanza utilizada. Cada extremo dispone de un racor para conectar mangueras, y en la parte superior central se sitúa el racor de conexión para el tubo de succión (tipo Storz), preparado para soportar presión negativa. Una válvula lateral regula la dosificación.
+El fluido que sale de la boca de la lanza se expande al absorber aire y generar espuma. El generador opera gracias a la velocidad del agua a presión, parte de la cual se proyecta sobre una rueda Pelton actuando como motor. La manguera de alimentación debe conectarse a un proporcionador (típicamente Z2 o Z4) portátil que añade el líquido emulsor en la proporción adecuada, o bien, debe ser suministrada directamente por el vehículo bomba.
 
-Su **uso** es exclusivo para la producción de espumas, intercalándose en la última manguera de ataque. Es vital asegurar que la válvula reguladora funcione correctamente, que haya una aspiración adecuada del líquido y que no queden burbujas de aire. La presión máxima admisible en la entrada es de 10 bares; si se supera, una bola interna evita la salida de agua. El **mantenimiento** implica revisar los racores y el mecanismo de bola, transportándolo en el armario de herramientas y limpiándolo después de cada uso.
+Como medida preventiva, el espacio a llenar con espuma debe estar suficientemente ventilado, asegurándose de que la abertura de ventilación esté más elevada que el nivel previsto de la espuma. La aparición de espumas de menor expansión y mayor fluidez puede deberse a la reducción de la presión del agua o del caudal de derivación. Es crucial anticipar el suministro necesario de espumógeno para no obstaculizar la intervención.
 
-### Sistema Portátil Propak
+**2.10.3. Mantenimiento**
 
-El **Propak** es un sistema portátil para la generación de espuma, versátil para fuegos forestales y urbanos. Puede usarse con concentraciones del 0.1% al 1% para fuegos de Clase A (madera, papel, tejidos, caucho) y del 1%, 3% o 6% para fuegos de Clase B (hidrocarburos, líquidos polares). Tiene una capacidad de depósito de 10 litros, un caudal de 45 l/min a 7 bares y un peso aproximado de 5.2 kg vacío y 16 kg lleno. Sus dimensiones son 34.5 x 27.5 x 43 cm, con una presión máxima de utilización de 40 bares. El alcance de sus lanzas varía: unos 15 metros para chorro lleno, 11 metros para baja expansión y 3 metros para media expansión, todas a 7 bares.
+Es importante limpiar los residuos de espuma o suciedad después de cada uso. Los dispositivos se transportan en el armario del camión destinado a las instalaciones de mangueras, excepto el generador, que suele transportarse en el techo del camión. Para su limpieza interna, se debe permitir que solo salga agua para una limpieza completa.
 
-Para su **uso**, se debe rellenar el depósito con espumógeno (preferiblemente con un filtro para evitar impurezas), ajustar el porcentaje de concentración y conectar la lanza adecuada. La calidad de la espuma depende de la velocidad de salida de la mezcla, por lo que es necesario ajustar la maneta de reglaje del caudal para obtener un chorro continuo y homogéneo. Es crucial utilizar el tipo de espumógeno y porcentaje reglamentario, verificar las conexiones y mantener la maneta de caudal cerrada antes de conectar el suministro de agua. No deben mezclarse diferentes tipos de espumógenos, y se debe considerar la viscosidad del espumógeno, ya que a bajas temperaturas es más viscoso y puede afectar la concentración final.
+**2.11. Proporcionador con Tubo de Succión**
 
-El **mantenimiento** del Propak incluye la verificación periódica del buen estado de la manguera y las lanzas, así como la inspección del fondo del depósito en busca de impurezas. Después de cada uso, el equipo debe enjuagarse con agua para limpiar los restos de espumógeno del bloque de comando y la moleta de reglaje, y el exterior puede lavarse con una manguera y una lanza de chorro lleno en posición "OFF". Para una limpieza interna más profunda, se retira el bloque de comando y el tapón del depósito, y se abre ligeramente la maneta de reglaje del caudal.
+**2.11.1. Especificaciones**
 
-## Equipos y Herramientas de Conexión Hidráulica y Extinción
+El proporcionador está específicamente diseñado para la extinción de incendios. Actúa como un hidromezclador de espumógenos y humectantes que funciona por aspiración, basado en el efecto Venturi, extrayendo el líquido de un bidón.
 
-### Columna de Hidrante
+La dosificación de espumógeno se puede regular entre el 0% y el 6%. Estos aparatos causan una pérdida de carga significativa, y el caudal debe ajustarse en función de la lanza utilizada.
 
-La **columna de hidrante** es un dispositivo utilizado para cargar vehículos y para intervenciones directas desde los hidrantes. Consiste en un tubo metálico de aproximadamente 1 metro de longitud con una entrada roscada de más de 80 mm de diámetro en un extremo, y una bifurcación con dos llaves de volante en el otro. Un maneral en forma de cruz facilita su acoplamiento.
+Disponen de un racor en cada extremo para conectar las mangueras. En la parte superior central se ubica el racor de conexión para el tubo de succión del espumógeno (normalmente tipo Storz), diseñado para soportar una presión negativa sin deformaciones, permitiendo el paso del espumógeno al proporcionador. En el lateral de la zona central hay una válvula que regula la dosificación en porcentajes.
 
-Para **utilizarla**, se coloca la columna sobre la rosca del hidrante, se gira para apretarla, se asegura con una llave, se conectan las mangueras y se abre la llave, primero completamente y luego se cierra un cuarto de vuelta. El **mantenimiento** implica evitar golpes que puedan deformarla, limpiarla después de cada uso y revisar periódicamente sus juntas para asegurar la hermeticidad.
+**Partes de un proporcionador con tubo de succión:**
 
-### Codo Boca de Riego
+1.  Cámara de mezcla.
+2.  Línea de succión (racor tipo Storz).
+3.  Boquilla.
+4.  Válvula de compensación.
+5.  Cámara de presión.
+6.  Mando de porcentaje de emulsor.
+7.  Orificio de regulación.
 
-El **codo boca de riego** permite captar agua de la red pública para alimentar vehículos o para intervenciones directas. Es una pieza de aluminio hueca y alargada, con una curvatura superior que permite un giro de 360 grados, un racor Barcelona de 45 mm en la parte superior y una rosca inferior para conectarse a la boca de riego. Dispone de dos manerales para facilitar su agarre. Su **mantenimiento** consiste en revisar diariamente su estado de conservación.
+Existen diferentes tipos de proporcionadores según su capacidad de suministrar litros por minuto. Los dos más comunes son los de 200 l/min (Z2) y 400 l/min (Z4).
 
-### Llaves para Tomas de Hidrante y Bocas de Riego
+**2.11.2. Uso y seguridad**
 
-Las **llaves** se utilizan para abrir hidrantes y tomas de agua, así como sus tapas. Es esencial disponer de llaves compatibles con racores Barcelona para roscas macho y hembra, garantizando así la capacidad de manipulación en diversas situaciones.
+Su aplicación es exclusiva para la producción de espumas. El proporcionador se intercala en la última manguera de ataque, conectando la manguera de entrada de agua, la manguera de salida y la manguerota de absorción de espumógeno. Una vez instalado, se debe ajustar la válvula reguladora al porcentaje de dosificación adecuado según el producto y verificar que se produce aspiración del líquido emulsor sin burbujas de aire en la manguera.
 
-## Extintor de Mochila
+Al pasar el agua por el interior del premezclador en la zona central superior, se crea una depresión que aspira el espumógeno, conocido como efecto Venturi. La presión máxima admisible en la entrada es de 10 bares. Si la presión fuera superior, no se produciría el efecto de absorción y el agua intentaría salir al exterior. Para evitar esto, dispone de una bola interna que se eleva e interrumpe el paso del agua.
 
-El **extintor de mochila** es una herramienta fundamental para pequeños incendios, conatos, control de focos secundarios y labores de remate, especialmente en incendios forestales. Se compone de un depósito de 15 a 20 litros, que puede ser rígido (plástico) o elástico (lona reforzada), y se transporta en la espalda. Incluye una lanza con bomba manual retráctil conectada por un latiguillo. La bomba es de doble efecto, impulsando agua tanto en el movimiento de avance como en el de retroceso, y su boquilla es regulable para emitir chorro (con un alcance de unos 8 metros) o pulverizado. También permite la adición de espumógenos o retardantes.
+El porcentaje de dosificación del producto se ajusta según la recomendación del fabricante, y el caudal del premezclador debe coincidir con el caudal de la lanza.
 
-El **uso** de este equipo requiere llenar el depósito, cerrarlo con su tapón y colocar y ajustar los atalajes de la mochila. Para operar la lanza, se sujeta por el mango y se realiza un movimiento de vaivén, regulando la boquilla según el tipo de chorro deseado. Es crucial mantener la lanza por encima del depósito para evitar pérdidas por gravedad, asegurar que la mochila esté bien sujeta y, si se utilizan retardantes, usar máscara para proteger la piel de irritaciones. Durante el **transporte** en vehículos, debe posicionarse para evitar derrames y mantener la lanza elevada.
+**2.11.3. Mantenimiento**
 
-El **mantenimiento** se centra en engrasar el émbolo de la bomba y asegurar que los atalajes no estén enredados. Se debe realizar una revisión visual para detectar fugas o daños en el regulador de chorro. En depósitos rígidos, es común que el tapón tenga un agujero para evitar la depresión; para el transporte, se recomienda usar una bolsa de plástico para evitar derrames, la cual debe retirarse antes de su uso. Además, se deben evitar perforaciones o rasgaduras en el depósito y la entrada de residuos que puedan bloquear los mecanismos.
+Se debe verificar que no haya racores en mal estado y que el mecanismo de bola funcione correctamente. Como es portátil, se puede transportar en el armario de herramientas de las instalaciones de mangueras. Su limpieza se realizará después de cada uso.
 
-## Antorcha de Goteo
+**2.12. Propak**
 
-La **antorcha de goteo** se emplea en incendios forestales para crear contrafuegos y en quemas controladas de vegetación seca o semiseca. Se constituye por un contenedor de metal ligero, resistente a altas temperaturas y golpes, con un mango y un tubo que incluye un bucle para evitar el retroceso del fuego. Una mecha interna se extiende desde el depósito hasta la boquilla. Generalmente, se utiliza una mezcla de queroseno y gasóleo (30-70%) como combustible, pudiendo añadir aceites para prolongar la combustión, aumentar el calor o mejorar la adherencia a la vegetación. Su capacidad varía entre 0.65 y 5 litros, y su peso depende del modelo y la capacidad.
+**2.12.1. Especificaciones**
 
-La **normativa** aplicable para su transporte de combustible es UN# 3B1/Y/150/03, además de cumplir con las normas NSN 4210-01-558-9951 y NFES 0241.
+Es un sistema portátil para la generación de espuma. Puede utilizarse con espumógenos en concentraciones del 0,1% al 1% para fuegos forestales o urbanos de clase A (madera, papel, tejidos, caucho, etc.), y en concentraciones del 1%, 3% o 6% para fuegos de hidrocarburos o líquidos polares (clase B).
 
-Antes de **usarla**, es necesario agitarla para mezclar el combustible y colocarla en el suelo en el área de trabajo. Se debe desatornillar el anillo de cerradura y el de flujo de combustible, mover e invertir el tubo conductor para verificar el nivel de combustible, y luego fijar el tubo con el mechero, atornillando el anillo y abriendo la espera de aire. Para el **encendido**, se empapa el quemador, se enciende con una cerilla o encendedor, se regula la válvula de aire y, preferentemente, se hace una pequeña pila de hojarasca para mojar el mechero y encenderla progresivamente. Es fundamental que la antorcha disponga de válvulas de seguridad para prevenir el retorno del combustible encendido y evitar derrames. Es importante destacar que la quema controlada es una técnica de alto riesgo y debe ser realizada exclusivamente por personal experto.
+En el servicio del CEIS de Guadalajara se utiliza el Propak, cuyas partes y especificaciones técnicas se detallan a continuación.
 
-El **mantenimiento** requiere especial atención a la camisa, que debe reemplazarse cuando se deteriora. Para el almacenamiento, la antorcha debe enfriarse completamente, desatornillar el anillo de cerradura, llenar el depósito, insertar el tubo, cerrar el anillo, sustituir el tornillo de flujo de combustible y cerrar la espita de aire. Es crucial limpiar cualquier derrame y guardar el tubo y el mechero dentro del depósito para evitar accidentes.
+**Tabla 4. Especificaciones técnicas del Propak**
 
-## Ventiladores Operativos
+| Característica                        | Valor                                                                                                |
+| :------------------------------------ | :--------------------------------------------------------------------------------------------------- |
+| Capacidad del depósito (fondo a borde del tapón) | 10 litros                                                                                           |
+| Caudal (salida de la lanza)           | 45 l/min a 7 bar                                                                                     |
+| Peso (vacío)                          | 5,2 kg                                                                                               |
+| Peso (lleno)                          | Aprox. 16 kg                                                                                         |
+| Dimensiones (largo x profundo x alto) | 34,5 x 27,5 x 43 cm                                                                                  |
+| Presión de utilización máxima         | 40 bar                                                                                               |
+| Alcance con lanza de chorro lleno     | Aprox. 15 metros a 7 bar                                                                           |
+| Alcance con lanza de baja expansión   | Aprox. 11 metros a 7 bar                                                                           |
+| Alcance con lanza de media expansión  | Aprox. 3 metros a 7 bar                                                                            |
 
-Los **ventiladores** son herramientas diseñadas para movilizar el aire y generar corrientes que permiten ventilar recintos cerrados, evacuar gases y humos, o refrescar objetos y maquinaria. En intervenciones de emergencia, incrementan la visibilidad de los bomberos, facilitan la localización del foco del incendio, y reducen la acumulación de gases y la temperatura ambiente, minimizando así las probabilidades de **flashover** y **backdraft**. Permiten seleccionar el caudal de aire adecuado para cada situación, y su alta velocidad de salida arrastra el aire eficazmente. Además, generan una junta de estanqueidad de aire alrededor de la abertura de entrada, evitando que el humo o los gases del inmueble sean aspirados y reintroducidos.
+**2.12.2. Uso y seguridad**
 
-Existen diversos **tipos de ventiladores**:
-*   Los **motoventiladores**, o turboventiladores, funcionan con un motor de explosión que acciona una turbina, generando un flujo de aire concentrado y de alta velocidad.
-*   Los **hidroventiladores** utilizan la presión del agua de una motobomba para impulsar su turbina, produciendo ventilación por presión positiva y, si es necesario, pulverizando agua en la corriente de aire.
-*   Los **electroventiladores** emplean energía eléctrica para generar movimiento y pueden utilizarse con mangotes para aspiración e impulsión.
+Para iniciar su uso, primero se debe rellenar el depósito con espumógeno (preferentemente utilizando un filtro tamiz para evitar impurezas) y ajustar la maneta de reglaje del porcentaje de concentración según el espumógeno. La lanza adecuada se conecta directamente al racor rápido del aparato o al extremo de una manguera flexible ya conectada.
+
+Se pueden seleccionar diversos tipos de lanza:
+
+*   **Lanza a chorro lleno:** Cono de diámetro 6 mm, para máximo alcance y penetración, pero con expansión muy débil.
+*   **Lanza baja expansión:** Alcance ligeramente inferior a la lanza de chorro lleno, útil para extinción o templado con solución humectante o espumante.
+*   **Lanza media expansión:** Mayor expansión, útil para extinción, supresión de vapores (inertización o rellenado), o tratamientos de linderos en fuegos forestales.
+*   **Lanza de penetración:** Para sitios inaccesibles por medios convencionales, o fuegos en balas de mercancías, paja, depósitos de cereales, tabiques, etc. Su aplicación es más restringida.
+
+Ciertas condiciones climáticas, como el viento o la lluvia, pueden desplazar la espuma o alterar la tasa de expansión, lo que debe considerarse al seleccionar la lanza más adecuada para cada uso. Para controlar el caudal, se gira la maneta de reglaje hasta que el agua circule por el Propak. La calidad de la espuma depende de la velocidad de salida de la mezcla; si el Propak se alimenta a alta presión, es necesario cerrar parcialmente la llegada de agua a la maneta de reglaje para obtener una espuma de mejor calidad. Si la salida de la espuma con la lanza de media expansión no es continua ni homogénea, se debe cerrar ligeramente la maneta de reglaje del caudal hasta lograr un chorro eficaz. Es fundamental asegurar que el espumógeno y el porcentaje regulado sean los correctos, aunque algunos productos son polivalentes. También es importante verificar que todas las conexiones sean correctas y que la maneta del caudal esté cerrada antes de conectar la alimentación de agua. No se deben mezclar diferentes tipos de espumógenos. Para seleccionar el espumógeno, se debe tener en cuenta su viscosidad. Un espumógeno frío (5°C) es más viscoso que uno a temperatura elevada (30°C). Mayor viscosidad requiere más energía para ser tratado. El Propak ha sido probado a 7 bares con una viscosidad de 20 centipoises (cpo). Si el espumógeno tiene una viscosidad superior a 20 cpo, la concentración de la pre-mezcla será inferior a la indicada en la moleta.
+
+**2.12.3. Mantenimiento**
+
+Se debe verificar periódicamente el buen estado, asegurándose de que la manguera y las lanzas estén siempre en su sitio. También se debe inspeccionar el fondo del depósito para detectar impurezas. Para evitar que el espumógeno se seque en el interior del bloque de comando y de la moleta de reglaje del porcentaje, el Propak debe enjuagarse con agua después de su uso. El exterior puede lavarse con la manguera y la lanza de chorro lleno con la maneta de reglaje en la posición “OFF”. Para limpiarlo por dentro, se debe retirar el bloque de comando del depósito, colocar el tapón y abrir ligeramente la maneta de reglaje del caudal.
+
+**2.13. Columna de Hidrante, Codo de Riego y Llaves**
+
+**2.13.1. Columna de Hidrante**
+
+Se utiliza para cargar vehículos desde los hidrantes o para intervenir directamente desde estos. Consiste en un tubo metálico de 1 metro, con una entrada de diámetro superior a 80-100 mm en un extremo, y una bifurcación con dos llaves de volante para abrir o cerrar el paso del agua en el otro. En la parte media-superior cuenta con un maneral en forma de cruz para facilitar su acoplamiento al hidrante.
+
+Para usarla, se coloca la columna sobre la rosca del hidrante y se gira por los manerales hasta apretarla firmemente con la llave correspondiente. Posteriormente, se conectan las mangueras y se abre la llave (primero completamente, luego se cierra un cuarto de vuelta). Para su mantenimiento, se deben evitar golpes en los racores y llaves de cierre, se debe limpiar después de cada uso y se deben revisar periódicamente sus juntas y la hermeticidad de las llaves.
+
+**2.13.2. Codo de Riego**
+
+Este elemento se utiliza para captar agua de la red pública para abastecer vehículos o para intervención directa. Es una pieza hueca de aluminio, alargada, con una curvatura superior que permite un giro de 360º. Termina en un racor tipo Barcelona de 45 mm de diámetro y se conecta a la boca de riego mediante una rosca inferior. Dispone de dos manerales centrales para facilitar su apriete.
+
+Para su mantenimiento, se debe verificar diariamente su buen estado y limpiarlo después de cada uso.
+
+**2.13.3. Llaves de Toma de Hidrante y Boca de Riego**
+
+Existen diversos tipos de llaves para abrir hidrantes y tomas de agua, así como sus tapas. Es necesario disponer de llaves con roscas macho o hembra (racor Barcelona) para asegurar su manipulación.
+
+**2.14. Extintor de Mochila**
+
+**2.14.1. Especificaciones**
+
+Este extintor se emplea para aplicar agua en pequeños incendios o fuegos incipientes, como combustibles ligeros, pastos, control de focos secundarios y labores de remate. Se compone de:
+
+*   Un depósito de agua, que puede ser rígido (plástico) o elástico (lona reforzada), con una capacidad de 15-20 litros, transportado a la espalda.
+*   Una lanza que funciona como una bomba manual y es retráctil, unida a la mochila mediante un latiguillo de conexión.
+
+La bomba es de doble efecto, impulsando agua tanto en su movimiento hacia delante como hacia atrás, y permite un movimiento de vaivén que impulsa el agua a través de una boquilla regulable. Puede proyectar agua en chorro (con un alcance de unos 8 metros) o pulverizada. Se le pueden añadir espumógenos o retardantes al agua.
+
+**2.14.2. Uso y seguridad**
+
+Para usarlo, se llena el depósito de agua y se cierra con el tapón. Luego se coloca la mochila, se ajustan los atalajes y se sujeta la lanza por su mango, realizando un movimiento de vaivén para extraer el agua. El regulador de boquilla permite seleccionar el tipo de chorro. La lanza debe estar siempre por encima del depósito para evitar la pérdida de agua por gravedad. Es importante que la mochila esté bien sujeta y equilibrada. Si se utilizan retardantes, se debe usar máscara para evitar irritaciones cutáneas. Durante el transporte en vehículos, las mochilas deben posicionarse de forma que no se derrame el líquido y la lanza debe estar elevada.
+
+**2.14.3. Mantenimiento**
+
+El mantenimiento principal consiste en engrasar el émbolo para asegurar un deslizamiento suave dentro del cilindro y mantener los atalajes sin nudos ni retorcidos. Se debe comprobar visualmente la ausencia de fugas (llenándolo de agua), el correcto ajuste de los atalajes y el funcionamiento del regulador de chorro. En mochilas con depósitos rígidos, el tapón tiene un orificio para evitar la depresión interna; para el transporte, se recomienda colocar una bolsa de plástico entre la rosca y el tapón, retirándola para el uso. Se debe evitar dejar las mochilas en lugares o contra objetos que puedan perforarlas o rajarlas, y prevenir la entrada de restos o piedras que puedan bloquear los instrumentos.
+
+**2.15. Antorcha de Goteo**
+
+**2.15.1. Especificaciones**
+
+La antorcha de goteo se emplea en incendios forestales para realizar contrafuegos y quemas controladas de vegetación seca o semiseca.
+
+Consiste en un contenedor metálico ligero, resistente a altas temperaturas y golpes, con un mango en un lado. Del contenedor sale un tubo con válvula para evitar el retroceso del fuego al interior. En el interior hay una mecha que va desde el depósito hasta la boquilla. Como combustible, se utiliza una mezcla de queroseno y gasóleo en proporción del 30% al 70%. Se pueden añadir aceites para aumentar el tiempo de combustión, el calor o la adherencia a la vegetación.
+
+Existen diversos modelos de antorcha con capacidades de carga que varían entre 0,65 y 5 litros, y el peso depende del modelo y la capacidad de carga.
+
+**2.15.2. Normativa**
+
+Deben cumplir con la norma UN# 3B1/Y/150/03 para el transporte de combustible, así como con las normas NSN 4210-01-558-9951 y NFES 0241.
+
+**2.15.3. Uso y seguridad**
+
+**I. Antes de usarla**
+
+Se debe agitar para mezclar el combustible y colocarla en el suelo, dentro del área de uso. Luego, se desenrosca y retira el anillo de cierre del tanque, seguido por el anillo de flujo de combustible. Se invierte el tubo conductor para comprobar el nivel de combustible. Se fija el tubo verticalmente con el mechero, se atornilla el anillo de cierre y se abre la espita de aire (tipo anillo). Es importante tener cuidado de no abrirla demasiado para evitar que salga más combustible del deseado, y si se abre poco, no saldrá suficiente.
+
+**II. Encendido**
+
+Se debe empapar el quemador y encenderlo con una cerilla o encendedor, regulando la válvula de aire. Como precaución, se debe evitar salpicar combustible. Se recomienda hacer una pequeña pila de hojarasca e inclinar la antorcha sobre ella para mojar tanto el mechero como la pila. Luego, se enciende primero la pila y después se aproxima el mechero de la antorcha para encenderlo.
+
+**III. Precauciones**
+
+La antorcha debe disponer de válvulas de seguridad que impidan el retorno del combustible encendido. Es fundamental evitar derramar el combustible, ya que existe riesgo de quemaduras.
+
+Cabe destacar que la quema controlada es una técnica de extinción con muchos riesgos y solo debe ser realizada por expertos formados específicamente en ella.

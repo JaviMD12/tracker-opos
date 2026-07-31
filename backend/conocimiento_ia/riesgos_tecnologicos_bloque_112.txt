@@ -1,91 +1,221 @@
-# Rescate en Ascensores: Caracterización y Tácticas de Intervención
+### Recipientes y Almacenamiento de Sustancias Peligrosas: Características y Afecciones en Siniestros
 
-La intervención en ascensores es una de las competencias fundamentales de los servicios de emergencia, especialmente en cuerpos de bomberos, donde la capacidad de respuesta rápida y segura es crucial. Un ascensor, o elevador, se define como un sistema de movilidad vertical diseñado para el transporte de personas o bienes entre diferentes niveles de altura. Su funcionamiento se basa en un conjunto integrado de componentes mecánicos, eléctricos y electrónicos.
+La contención de sustancias peligrosas se efectúa mediante una variedad de recipientes y vehículos de transporte, cuyas propiedades y comportamiento en caso de incidente son cruciales para una intervención segura. La normativa ADR, RID, IMDG, IATA-OACI e IMO regulan estos aspectos.
 
-## I. Tipos de Ascensores y Componentes
+**Clasificación de Sustancias Radiactivas y Tasa de Dosis**
 
-Los ascensores se clasifican principalmente según su sistema de funcionamiento en eléctricos (o de adherencia) e hidráulicos. Cada tipo presenta particularidades que influyen en las tácticas de rescate.
+La peligrosidad de las sustancias radiactivas se determina según su tasa de dosis en superficie y el índice de transporte. A continuación, se detallan los valores máximos de tasa de dosis permitidos y las categorías de peligrosidad según el CSN.
 
-### 1. Ascensores Eléctricos (de Adherencia)
+**Tabla 1. Tasa de Dosis Máxima Permitida y Tiempo de Exposición**
 
-Estos ascensores utilizan la corriente eléctrica como fuente de energía para sus motores y sistemas de regulación de paradas. El movimiento se logra mediante la adherencia de cables de acero (o cintas planas) a una polea motriz.
+| Tasa de Dosis (mSv/h) | Tiempo Máximo (h) |
+|:----------------------|:--------------------|
+| Si está en μSv/h      | > 50                |
+| 0 < 1                 | 50                  |
+| 1 < 10                | 5                   |
+| 10 < 20               | 2,5                 |
+| 20 < 30               | 1,65                |
+| 30 < 40               | 1,25                |
+| 40 < 50               | 1                   |
+| > 50                  | 0,5                 |
 
-**Componentes clave en el cuarto de máquinas (si existe):**
-*   **Motor-reductor:** Grupo tractor que convierte la energía eléctrica en movimiento, acoplado a un reductor de velocidad. Los motores suelen ser de corriente alterna (una o dos velocidades) y pueden incorporar variadores de frecuencia.
-*   **Polea motriz:** Elemento donde los cables de acero se adhieren y se mueven sin deslizamiento, independientemente de la carga de la cabina.
-*   **Volante:** Parte manual del sistema que permite el ascenso y descenso de la cabina durante las maniobras de rescate sin corriente eléctrica.
-*   **Freno:** Ubicado en el eje del motor, bloquea el ascensor en subida o bajada. Sus zapatas permanecen bloqueadas en reposo y se desbloquean mediante un electroimán durante el funcionamiento normal, requiriendo activación manual en rescates sin corriente.
-*   **Limitador de velocidad:** Dispositivo que detiene la cabina, si supera una velocidad predeterminada, mediante un paracaídas o sistema de acuñamiento. Incorpora un contacto eléctrico que desconecta el motor. Consta de dos poleas (una en máquinas y otra en foso) conectadas por un cable de acero que une la cabina a las cuñas de acuñamiento, siendo independiente de los cables de tracción.
-*   **Cuadro de maniobras:** Aloja los componentes eléctricos y electrónicos (relés, contadores, cableado, etc.) que controlan el funcionamiento del ascensor. En su interior pueden existir tensiones de 230 V a 400 V, por lo que se debe evitar el contacto sin aislamiento.
-*   **Cuadros de distribución de corriente:** Contienen elementos de protección contra cortocircuitos y derivaciones. Su ubicación es vital para el corte de energía.
+**Tabla 2. Clasificación de Sustancias Radiactivas según Peligrosidad (CSN)**
 
-En los modelos más modernos que **carecen de cuarto de máquinas**, la maquinaria se ubica en la parte superior o inferior del hueco del foso.
+| CATEGORÍA     | ETIQUETA                    | ÍNDICE DE TRANSPORTE (IT) | Nivel de radiación máximo en la superficie externa (1mSv/h = 1000µSv/h) | PELIGROSIDAD |
+|:--------------|:----------------------------|:--------------------------|:----------------------------------------------------------------------|:-------------|
+| I Blanca      | (Imagen: Radiactivo 1)        | < 0,05                    | Hasta 0,005 mSv/h                                                     | ↓            |
+| II Amarilla   | (Imagen: Radiactivo 2)        | 0 < IT < 1                | 0,005 mSv/h < 0,5 mSv/h                                               | ↓↓           |
+| III Amarilla  | (Imagen: Radiactivo 3)        | 1 < IT < 10               | 0,5 mSv/h < 2 mSv/h                                                   | ↓↓↓          |
+| Uso Exclusivo | (Imagen: Etiqueta general uso exclusivo) | > 10                      | 2 mSv/h < 10 mSv/h                                                    | ↓↓↓↓         |
 
-### 2. Ascensores Hidráulicos
+*Nota: El término "glosario" hace referencia a una sección que define términos técnicos.
 
-Estos ascensores funcionan impulsando un fluido a presión hacia un pistón que, a su vez, mueve la cabina. Son comunes en lugares donde el control del ruido o el espacio son factores importantes, y operan a velocidades bajas (entre 0,1 y 1,75 m/s).
+Los valores típicos para accidentes de tráfico están contemplados en la Tabla 1. La clasificación de los embalajes se basa en la tasa de dosis en superficie y el índice de transporte.
 
-**Tipologías de impulsión:**
-*   **Impulsión directa o tracción directa 1:1:** El pistón se desplaza la misma distancia que la cabina, requiriendo un foso profundo.
-*   **Impulsión directa lateral:** El pistón se conecta a la parte superior de la cabina, y el cilindro se sitúa en el fondo del foso. Adecuados para cargas moderadas y recorridos cortos.
-*   **Impulsión diferencial o tracción indirecta 2:1:** Por cada centímetro de recorrido del pistón, la cabina se desplaza dos centímetros, gracias a un sistema de poleas y cables que duplican el recorrido. No requiere foso profundo, ya que el pistón se instala lateralmente.
-*   **Sistema de doble impulsión directa e indirecta lateral:** Utilizado en montacargas para grandes cargas y recorridos cortos.
+---
 
-### 3. Partes Comunes y Elementos de Emergencia
+### Recipientes de Transporte y Almacenamiento: Tipologías y Elementos
 
-Todos los ascensores comparten ciertos elementos estructurales y de seguridad:
-*   **Recinto o hueco:** Espacio vertical por donde se desplazan la cabina y el contrapeso. Incluye las guías de cabina (perfiles laminados en T).
-*   **Foso:** Parte inferior del recinto, bajo el nivel de la última parada. Debe ser liso, nivelado e impermeabilizado, con profundidad suficiente para albergar los amortiguadores y permitir el espacio libre bajo la cabina (mínimo 0,5 m).
-*   **Cabina:** Recinto cerrado para el transporte.
-*   **Puertas de acceso:** Incluyen las puertas de planta y las de cabina, con diversas tipologías (batientes, telescópicas, de apertura central, con librillo). El cierre de las puertas de planta debe estar enclavado eléctrica y mecánicamente para permitir la apertura solo cuando la cabina está a nivel.
-*   **Contrapeso:** Presente en ascensores eléctricos e hidráulicos, reduce la potencia requerida del motor. Su peso se calcula como el de la cabina más un 45% adicional. Es fundamental conocer el número de personas en cabina, ya que afecta la tensión de los cables y el equilibrio.
-*   **Cables de tracción:** Unen la cabina con el contrapeso a través de la polea. La falta de tensión en estos cables indica un posible acuñamiento.
-*   **Cordones de maniobras:** Cables eléctricos o de señalización para controlar las funciones del ascensor.
+Los contenedores de sustancias peligrosas varían en diseño y material, influyendo directamente en su manejo durante un siniestro. El ADR (Acuerdo Europeo sobre el Transporte Internacional de Mercancías Peligrosas por Carretera) y otras normativas regulan las características que deben cumplir para prevenir reacciones o vertidos.
 
-**Elementos de emergencia:**
-*   **Instrucciones de rescate:** Obligatorias en el cuarto de máquinas o cuadro de maniobras para asegurar un rescate seguro.
-*   **Pulsador de bomberos:** En ascensores de emergencia, un microrruptor activa una señal al cuadro de maniobras. Si el ascensor sube, se detiene en el siguiente piso; si baja, continúa hasta la planta principal. Atiende llamadas interiores y anula las exteriores.
-*   **Caja de llaves de emergencia:** Contiene las llaves de la sala de máquinas o de la puerta de planta. La normativa prohíbe las cajas rojas con llaves de hueco por el riesgo de caída al vacío.
-*   **Faldones de cabina:** Chapas bajo la puerta de cabina que cubren el hueco entre pisos, con longitud total de 750 mm (la parte fija al menos 200 mm). Deben tener un cartel de precaución sobre su extensión.
-*   **Alumbrado de emergencia:** Obligatorio en cabina, funciona de forma independiente al automático principal en caso de fallo eléctrico.
-*   **Tele-alarma / Servicio 24 horas:** Obligatorio en España desde 1999, permite la comunicación cabina-exterior.
+**1. Tipos de Recipientes**
 
-## II. Causas Principales de Intervención en Ascensores
+Se distinguen tres modalidades principales para el transporte de mercancías peligrosas:
 
-Las principales causas que motivan la intervención de los bomberos en ascensores incluyen:
+*   **Bultos:** Las mercancías se transportan envasadas en diversos recipientes como cajas, botellas, jerricanes o bidones.
+*   **Cisternas:** El propio vehículo actúa como envase para gases o líquidos (cisternas fijas, desmontables, contenedores cisterna, vehículos batería o CGEM).
+*   **A Granel:** Implica el transporte de sólidos sin envasar, donde el vehículo también funciona como contenedor.
 
-1.  **Paradas de cabina fuera de nivel:** El ascensor funciona, pero se detiene entre plantas. Si la cabina está a nivel o muy cerca, se usa el desenclave de puertas. Si está muy lejos del nivel, es necesario mover la cabina.
-2.  **Personas o mercancías atrapadas:** Ocurre cuando alguien queda atrapado entre las puertas de la cabina y la planta, o entre el piso de la cabina y la pared del hueco. A menudo, requiere mover la cabina con cojines neumáticos.
-3.  **Personas o mercancías precipitadas por el hueco:** Generalmente debido a fallos en el faldón de la cabina (ausencia, no despliegue completo, fallos en anclajes). El rescate se realiza con máximas medidas de seguridad.
-4.  **Inundaciones en el foso:** Requiere cortar la corriente eléctrica de inmediato y usar bombas para desalojar el agua. Es fundamental tener precaución con los elementos eléctricos del foso que puedan seguir bajo tensión.
-5.  **Ascensor acuñado:** El limitador de velocidad detiene la cabina fuera de nivel. Si la cabina está a nivel, se utiliza el desenclave de puertas. Si no, se requiere liberar el acuñamiento, a menudo moviendo la cabina con el volante (en ascensores electromecánicos) o subiendo el pistón (en hidráulicos).
+El ADR establece requisitos de documentación, señalización de bultos y vehículos, y condiciones de transporte. En función de estas características, se definen diferentes tipos de envases y embalajes.
 
-## III. Tácticas de Intervención
+**Tabla 3. Modelo de Carta de Porte para Transporte en Envases**
 
-La intervención en ascensores debe seguir un protocolo estructurado, priorizando la seguridad y la eficacia.
+| MERCANCÍAS PELIGROSAS    | ENVASES             | CANTIDAD TOTAL CARGADA |
+|:-------------------------|:--------------------|:-----------------------|
+| UN 1263 pinturas, 3, III, E | 1 G.R.G.            | 1.200 litros           |
+| UN 1950 aerosoles inflamables, 2.1 B/D | 4 cajas de 12 sprays de 1 litro | 30 kilogramos          |
 
-### 1. Procedimiento General de Actuación
+**1.1. Transporte en Bultos**
 
-Antes de cualquier acción, es indispensable establecer una comunicación clara con la persona atrapada para conocer su estado físico y psicológico. Se debe transmitir calma y explicar las maniobras a realizar (movimientos a saltos, posibles cortes de luz), indicando a los atrapados que mantengan las puertas de cabina cerradas, se alejen de ellas y no toquen botones. Simultáneamente, se valora el tipo de ascensor (eléctrico o hidráulico, con o sin cuarto de máquinas), la posición de la cabina (verificando la tensión de los cables), y los riesgos (electrocución, caídas, atrapamientos). Esta evaluación debe ser continua.
+Además de las cisternas, otros envases utilizados son:
 
-El protocolo general de actuación se articula en un flujo de decisiones:
-*   **Si es posible y segura la puesta en marcha normal del ascensor:** Se pone en marcha y se rescata a las víctimas.
-*   **Si no es posible la puesta en marcha normal, pero el rescate es posible sin mover la cabina:** Se corta el suministro eléctrico, se verifica la ausencia de tensión y se rescata a las víctimas.
-*   **Si no es posible lo anterior, y el ascensor no tiene cuarto de máquinas, pero es posible mover la cabina con el sistema eléctrico de emergencia:** Se mueve la cabina con dicho sistema y se rescata a las víctimas.
-*   **Si tampoco es posible lo anterior, y es posible mover la cabina sin corriente eléctrica** (por acuñamiento, fuera de guías o mecanismo dañado): Se corta la corriente, se verifica su ausencia, se mueve la cabina manualmente y se rescata.
-*   **Si ninguna de las opciones anteriores es viable:** Se procede con un rescate no ordinario, que puede implicar liberar la cabina y moverla, o si no es posible manualmente, esperar a la empresa de mantenimiento.
+*   **Bidón:** Recipiente cilíndrico (o con fondo combado/plano) de metal, cartón o plástico. La capacidad máxima no supera los **400 kg**.
+*   **Jerricán (Cuñete):** Envase rectangular o poligonal con uno o varios orificios, de metal o plástico. Capacidad máxima de **60 litros o 120 kg**.
+*   **Caja:** Envase con lados compactos rectangulares o poligonales, de metal, madera, cartón o plástico. Capacidad máxima de **400 kg**, excepto para plástico expandido que se limita a **60 kg**.
 
-### 2. Uso del Ascensor como Medio de Evacuación en Incendios
+**2. Contenedores**
 
-Aunque la norma general prohíbe el uso de ascensores en caso de incendio, se recomienda una valoración específica para determinar su conveniencia como vía de evacuación.
-*   **Indicaciones favorables:** Incendio localizado lejos de la zona del ascensor, necesidad de aliviar la evacuación de personas con movilidad reducida o de avanzada edad para evitar pánico o embotellamientos en escaleras.
-*   **Indicaciones desfavorables:** Temperaturas elevadas (400°C en cuarto de máquinas o 700°C en cara exterior de puertas de piso), o presencia de agua en el ascensor.
+Un contenedor es un elemento permanente, diseñado para el transporte de mercancías sin operaciones intermedias de carga y descarga. Sus características incluyen:
 
-## IV. Casos Prácticos de Rescate
+*   **Resistencia:** Debe ser lo suficientemente robusto para un uso reiterado.
+*   **Diseño:** Específicamente creado para el transporte de mercancías, sin cambios de asiento.
+*   **Equipamiento:** Dispone de dispositivos para estiba y manipulación, facilitando el trasbordo.
+*   **Llenado/Vaciado:** Diseñado para una carga y descarga sencilla.
+*   **Volumen:** No inferior a **1 m³**, salvo para materiales radiactivos.
 
-### 1. Ascensor Electromecánico Detenido con Personas Atrapadas (con cuarto de máquinas, sin sistema de emergencia)
+Los contenedores pueden carecer de techo, o tenerlo rígido, con paredes laterales y externas rígidas, o provistos de toldos.
 
-**Situación:** Grupo de personas atrapadas en un ascensor electromecánico con cuarto de máquinas. La cabina tiende a descender.
-**Procedimiento de rescate (movimiento manual sin corriente):**
-1.  **Corte de suministro:** Se corta la corriente eléctrica en el cuarto de máquinas y se verifica su ausencia.
-2.  **Comunicación
+**3. Cisternas**
+
+El ADR define cisterna como un depósito, incluyendo su equipamiento, que puede ser fijo, portátil, desmontable o parte de un vehículo batería o CGEM.
+
+**3.1. Estructura y Sección**
+
+La estructura de una cisterna debe garantizar la rigidez y resistencia necesarias para las cargas para las que fue diseñada. Los elementos estructurales básicos incluyen mamparos, anillos de refuerzo y rompeolas.
+
+*   **Mamparos:** Tabiques interiores que dividen el volumen del depósito en compartimentos para diferentes productos. También asumen parte de la carga. Las cisternas de gases suelen carecer de mamparos.
+*   **Rompeolas:** Tabiques diseñados para uniformizar la masa de la mercancía, evitando el "efecto ola" durante frenadas que comprometan la estabilidad del vehículo. Ocupan un mínimo del **70%** de la sección recta del depósito y tienen una profundidad mínima de **10 cm**.
+*   **Anillos de Refuerzo:** Anillos de soldadura internos que soportan esfuerzos y refuerzan la estructura, especialmente en áreas de cálculo.
+
+Para evitar daños durante el transporte, las cisternas circulares y elípticas deben tener una separación entre refuerzos adyacentes de hasta **1,75 m**, con un espesor mínimo igual al del depósito. Los depósitos para líquidos o gases licuados refrigerados, si no están divididos en secciones de más de **7500 litros**, deben circular casi llenos (más del **80%**) o casi vacíos (menos del **20%**) para evitar el "efecto ola".
+
+---
+
+### Materiales de las Cisternas y sus Características
+
+Las exigencias mínimas para el espesor del depósito varían según el material y el diámetro del mismo, con el acero inoxidable destacando por su mayor resistencia.
+
+**Tabla 4. Exigencias ADR de Espesor del Depósito según Material de Construcción**
+
+| Diámetro del depósito     | ≤ 1,80 m | > 1,80 m |
+|:--------------------------|:---------|:---------|
+| Aceros inoxidables austeníticos | 2,5 mm   | 3 mm     |
+| Aceros inoxidables austeno-ferríticos | 3 mm     | 4 mm     |
+| Otros aceros              | 3 mm     | 4 mm     |
+| Aleaciones de aluminio    | 4 mm     | 5 mm     |
+| Aluminio de pureza 99,80% | 6 mm     | 8 mm     |
+
+**1. Tipos de Secciones de Cisternas (ADR)**
+
+La forma de la cisterna está diseñada para soportar las cargas de las materias transportadas.
+
+*   **Policéntrica:**
+    *   Baja presión interior.
+    *   Carga máxima con menor longitud (uso urbano).
+    *   Lateral poco resistente, con refuerzos sustituidos por ovaladas.
+*   **Ovalada:**
+    *   Baja presión interior.
+    *   Más metros lineales para igual capacidad.
+    *   Costados más resistentes.
+    *   Poca presión interior.
+*   **Circular con Fondo Semiesférico:**
+    *   Transporta MMPP muy peligrosas.
+    *   Mejor comportamiento en accidentes.
+    *   Costados más resistentes y más segura.
+    *   Fácil de construir.
+*   **Circular con Fondo Esférico:**
+    *   Presión interior alta.
+    *   Mejor comportamiento en accidentes.
+    *   Costados más resistentes y más segura.
+    *   Fácil de construir.
+*   **Especial:**
+    *   Mayor volumen de carga.
+    *   Muy común en granulados.
+    *   Algunos tienen cuello cisne.
+    *   Secciones y formas distintas a lo largo de la cuba.
+
+**2. Equipamiento de Seguridad y Servicio**
+
+Las cisternas están dotadas de elementos que garantizan su uso seguro y facilitan la respuesta en emergencias.
+
+*   **Boca de Hombre:** Generalmente en la parte superior, permite acceso para limpieza, inspección y carga por gravedad. En cisternas de gasolina, el tapín es la boca de inspección y actúa como válvula de sobrellenado de líquido a **250-280 mbar**, con un diámetro superior a **250 mm**.
+*   **Orificio de Limpieza:** Ubicado en la parte inferior, por encima del nivel del líquido.
+*   **Válvula de Seguridad (Presión):** Dispositivo con resorte para proteger la cisterna de sobrepresiones internas inadmisibles, funcionando automáticamente.
+*   **Válvula de Seguridad (Depresión):** Protege la cisterna del vacío interior.
+*   **Disco de Ruptura:** Dispositivo de alivio de presión fiable que se activa por estallido o venteo ante presiones excesivas, generalmente precediendo a la válvula de seguridad.
+*   **Válvula de Cinco Efectos:** Se instala en cisternas atmosféricas (no presurizadas). Cumple cinco funciones: aireación (**90-55 mbar**), sobrepresión (**220-275 mbar**), depresión (**10-15 mbar**), antivuelco (**27º-37º**) y apagallamas.
+
+**3. Elementos de Carga y Descarga**
+
+El ADR establece los puntos de carga y descarga:
+
+*   **Aberturas inferiores (código "A"):** Equipadas con dos cierres en serie e independientes, incluyendo un obturador externo con tubo deformable y un dispositivo de cierre estanco (tapón roscado, brida ciega).
+*   **Aberturas inferiores (código "B"):** Equipadas con tres cierres en serie e independientes, incluyendo un obturador interno o brida soldada y un obturador externo.
+
+**4. Válvula de Recuperación de Vapores:** Debe permanecer cerrada durante la circulación y abierta cuando la válvula de fondo está abierta. Es estanca a la presión de prueba de la cisterna o compartimento.
+
+---
+
+### Equipamiento y Accesorios Adicionales de las Cisternas
+
+Además de los componentes estructurales y de seguridad básicos, las cisternas incorporan diversos accesorios y equipos para su correcto funcionamiento y para la respuesta en emergencias.
+
+**1. Elementos de Carga y Descarga (Continuación)**
+
+*   **Válvula de Fondo (Obturador Interno):** Puede abrirse manual, hidráulica o neumáticamente. En caso de accidente, se puede forzar con llave fija o destornillador en su parte inferior para separar la válvula del depósito, permitiendo el paso del producto hasta la válvula terminal de carga.
+*   **Válvula de Exceso de Flujo:** Permite el paso normal de líquido o gas licuado, pero se cierra si el flujo supera un límite establecido. Permanece cerrada hasta que las presiones en ambas caras del disco de cierre se igualan, reabriéndose a través de un pequeño orificio.
+
+**2. Accesorios de Carga y Descarga**
+
+*   **Tubo Buzo:** Permite la carga o descarga de líquidos en fase líquida, alcanzando la parte inferior del depósito. En el esquema, la salida de gas se indica en amarillo y la conexión del tubo buzo a la válvula de descarga en rojo.
+*   **Parasol:** Protección calorífuga para mantener una temperatura constante en depósitos de GLP, evitando sobrepresión por radiación solar. Consiste en una plancha curvada a **4 cm** del depósito, cubriendo un tercio del diámetro para permitir la circulación de aire.
+*   **Tubos de Descarga en Laterales:** Indican la presencia de líquidos o sólidos.
+*   **Compresor de Aire:** Indica la presencia de material no presurizado que requiere presión para su descarga.
+
+**3. Indicadores**
+
+*   **Manómetros:** Miden la presión interna del depósito en bar o kg/cm².
+*   **Vacuómetros:** Indican depresión o vacío en bar, por debajo de la presión atmosférica, desde **-0,2 bares hasta -1**.
+*   **Indicadores de Nivel:** Permiten conocer el grado de llenado del líquido. Incluyen flotadores, varillas calibradas o galgas rotativas (para GLP o amoniaco). La galga rotativa, instalada lateral o trasera, muestra el porcentaje de producto almacenado; se gira una maneta exterior hasta que sale líquido para leer el nivel.
+
+**4. Elementos de Estructura Externa**
+
+*   **Anclajes:** Elementos de izado, amarre o estiba, instalados en cisternas intermodales (carretera, barco, ferrocarril).
+*   **Refuerzos Exteriores:** Similares a los anillos internos, pero por fuera, para reforzar la estructura en caso de impacto o evitar abombamientos. No confundir con las soldaduras de virolas o los "marcos" de las chapas aislantes.
+*   **Elementos Protectores:** Protegen válvulas, tuberías o bridas en caso de vuelco o impacto. Suelen ser aros de refuerzo o capotas.
+*   **Parachoques Traseros:** Obligatorios, con el mismo ancho del vehículo y separados **100 mm**. En contenedores-cisterna, la estructura del contenedor cumple esta función.
+
+**5. Identificación**
+
+*   **Panel Naranja:** Retroreflectante, rectangular (**40 cm de base x 30 cm de altura**), bordeado por ribete negro de **1,5 cm**. Puede dividirse en dos. Se fija en la parte delantera y trasera del vehículo, perpendicular al eje longitudinal. En contenedores, CGEM y cisternas portátiles, sustituye la placa. Aguantan **15 minutos** si la materia es inflamable. Puede reducirse a **30 cm de base x 12 cm de altura** para el panel y **1 cm** para el reborde negro. En radiactivos de uso exclusivo, solo se requiere el número ONU.
+*   **Número de Identificación de Peligro (NIP):** Dos o tres dígitos en la parte superior del panel naranja, identifica los principales peligros (código Kemler).
+    *   **Duplicación de cifra:** Intensifica el peligro.
+    *   **Una sola cifra:** Se completa con cero.
+    *   **Prefijo "X":** Reacciona peligrosamente al contacto con el agua.
+    *   **Clase 1:** El código de clasificación (división y grupo de compatibilidad) se usa como NIP.
+    *   **Significados especiales:** Números como 22, 323, 333, 362, 382, 423, 44, 446, 462, 482, 539, 606, 623, 642, 823, 842, 90 y 99 tienen un significado específico.
+
+**Tabla 5. Significado de Números de Identificación de Peligro "Particulares" (ADR)**
+
+| NIP   | SIGNIFICADO                                                                 |
+|:------|:----------------------------------------------------------------------------|
+| 22    | Gas licuado refrigerado, asfixiante                                         |
+| 323   | Materia líquida inflamable que reacciona con el agua desprendiendo gases inflamables |
+| 333   | Materia líquida pirofórica                                                  |
+| 362   | Materia líquida inflamable, tóxica, que reacciona con el agua emitiendo gases inflamables |
+| 382   | Materia líquida inflamable, corrosiva, que reacciona con el agua desprendiendo gases inflamables |
+| 423   | Materia sólida que reacciona con el agua desprendiendo gases inflamables, o sólido inflamable que reacciona con el agua, emitiendo gases inflamables, o sólidos que experimentan calentamiento espontáneo y que reacciona con el agua, emitiendo gases inflamables |
+| 44    | Materia sólida inflamable que, a una temperatura elevada, se encuentra en estado fundido |
+| 446   | Materia sólida inflamable y tóxica que, a una temperatura elevada, se encuentra en estado fundido |
+| 462   | Materia sólida tóxica, que reacciona con el agua desprendiendo gases inflamables |
+| 482   | Materia sólida corrosiva, que reacciona con el agua desprendiendo gases inflamables |
+| 539   | Peróxido orgánico inflamable                                                |
+| 606   | Materia infecciosa                                                          |
+| 623   | Materia tóxica líquida, que reacciona con el agua desprendiendo gases inflamables |
+| 642   | Materia tóxica sólida, que reacciona con el agua desprendiendo gases inflamables |
+| 823   | Materia corrosiva líquida, que reacciona con el agua desprendiendo gases inflamables |
+| 842   | Materia corrosiva sólida, que reacciona con el agua desprendiendo gases inflamables |
+| 90    | Materia peligrosa desde el punto de vista medioambiental, materias peligrosas diversas |
+| 99    | Materias peligrosas diversas transportadas en caliente                    |
+
+Con la información del Protocolo del CEIS, se puede conocer el estado de la materia, la presión de cálculo y la localización de las aberturas y orificios de la cisterna, además de si posee válvula de seguridad o alivio, o si está herméticamente cerrada.

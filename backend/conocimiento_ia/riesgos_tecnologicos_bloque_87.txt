@@ -1,54 +1,115 @@
-# Apuntalamientos y Entibaciones en Intervenciones de Emergencia: Fundamentos y Tipologías
+## Temario de Oposiciones de Bomberos y Emergencias: Riesgos Tecnológicos y Asistencias Técnicas
 
-En el ámbito de las operaciones de emergencia, especialmente aquellas que implican riesgos tecnológicos y asistencias técnicas, la estabilización de estructuras y terrenos es una tarea fundamental para garantizar la seguridad de los intervinientes y de las posibles víctimas. Estas técnicas, como los apuntalamientos y las entibaciones, se aplican cuando una estructura o un terreno presentan un equilibrio precario o un riesgo inminente de colapso, requiriendo la adopción de medidas auxiliares para prevenir daños mayores.
+### PARTE 5: Apeo y Poda de Arbolado
 
-## Apuntalamientos en Muros y su Capacidad Mecánica
+#### Capítulo 2: Técnicas de Intervención
 
-Los apeos en muros son estructuras auxiliares provisionales diseñadas para detener movimientos descontrolados en edificios, transmitir esfuerzos al suelo o a otros elementos estructurales y contener lesiones. La planificación de un apeo implica considerar la capacidad mecánica de sus componentes y la distribución de las cargas. Un conjunto elemental de apeo en muros con una altura inferior a tres metros, por ejemplo, está diseñado para soportar una capacidad mecánica de 20 kN con una carga puntual horizontal aplicada a dos metros de altura.
+**3. Técnicas de Apeo de Arbolado (Continuación)**
 
-Para determinar el número de conjuntos elementales necesarios, se debe evaluar la carga previsible sobre la estructura afectada y la distancia óptima entre los conjuntos, la cual no debe exceder los cuatro metros. Las cargas a considerar en estas situaciones incluyen las generadas por el viento sobre muros expuestos, estimadas en 1,5 kN/m², así como el peso de fachadas desplomadas o de tanques de agua, con valores que varían según el grosor del muro o la profundidad del agua. Por ejemplo, una fachada de 20 cm de espesor y 10º de inclinación podría ejercer 0,9 kN/m², mientras que un tanque de agua a 3 m de profundidad podría generar 15 kN/m². Los empujes del terreno, diferenciados por tipo de suelo (arcilla o grava/arena) y profundidad, también son cruciales, con valores que van desde 3,3 kN/m² a 10 kN/m² para una profundidad de 3 metros, según se trate de grava/arena o arcilla, respectivamente.
+**3.4.5. Modificación de la Caída Natural con Tractel**
 
-Por otro lado, para muros con alturas superiores a seis metros, el conjunto elemental de apeo tiene una capacidad mecánica de 20 kN para una carga puntual horizontal a 2 metros de altura, y 15 kN para una carga a 4,5 metros de altura. Al igual que en el caso anterior, la distancia máxima entre conjuntos no debe superar los cuatro metros, y las cargas previsiblemente aplicables siguen los mismos criterios, incluyendo el peso propio de viviendas (3 kN/m²), garajes (5 kN/m²), sobrecargas de cubierta (2 kN/m²), y sobrecargas de uso (vivienda 3 kN/m², dotacional 4 kN/m², garaje 10 kN/m²). Es esencial adaptar la capacidad mecánica del apeo a la solicitación previsible y considerar que pueden emplearse geometrías y calidades de material diversas.
+Esta técnica se aplica cuando se busca alterar la trayectoria de caída natural de un árbol o asegurar un punto de impacto específico, especialmente en entornos urbanos con elementos vulnerables como viviendas o vehículos. Para ello, es indispensable el uso del tractel.
 
-## Entibaciones en Excavaciones: Estabilidad del Terreno
+Los pasos para su aplicación son:
 
-Las entibaciones son sistemas de estabilización aplicados por debajo del nivel del terreno para asegurar la estabilidad volumétrica de las tierras en excavaciones, zanjas o pozos, protegiendo a las personas de posibles sepultamientos. La normativa establece que cualquier excavación en terrenos corrientes con una profundidad igual o superior a 0,80 m, o en terrenos consistentes a partir de 1,30 m, se considera peligrosa, ya que podría oprimir el tórax de una persona. No obstante, en situaciones de emergencia, se recomienda entibar a partir de 1,50 m de profundidad, o cuando una persona pueda quedar completamente cubierta.
+1.  **Anclaje en el árbol**: Se establece un punto de anclaje alto en el árbol para el tractel, con el fin de orientar su caída, manteniendo una distancia segura para evitar ser alcanzado.
+2.  **Anclaje del tractel**: Se busca un punto de anclaje para el tractel, como otro árbol grande o un camión. La distancia entre el árbol a talar y el anclaje del tractel debe ser más del doble de la altura del árbol si se tira directamente. En caso de no poder mantener esta distancia de seguridad, se puede redirigir la cuerda mediante un reenvío utilizando una cuerda semiestática.
+3.  **Perímetro de seguridad**: Se crea un perímetro de seguridad que abarque más del doble de la altura del árbol. Dentro de este perímetro solo se permite el personal que opera la motosierra y, si es estrictamente necesario, la persona que coordina el tractel.
+4.  **Coordinación de tensión y corte**: El apeo se inicia aplicando la técnica más adecuada al ejemplar, coordinando la tensión del tractel con el corte del árbol. Al realizar el corte de derribo, la persona a cargo del tractel debe tensar gradualmente el cable a medida que se corta. Si el operario del tractel actúa demasiado rápido, el tronco podría romperse; si el motoserrista se adelanta, el corte podría cerrarse por el peso del árbol, impidiendo continuar. Si el árbol no cae tras llegar a la bisagra, el operador del tractel debe continuar accionándolo hasta que el árbol caiga.
 
-La técnica de entibación básica, conocida como **entibación cuajada**, se utiliza en terrenos de baja cohesión o con presencia frecuente de agua, cubriendo el 100% de la superficie del terreno con cabeceros, largueros y codales. Por su parte, la **entibación semicuajada** se aplica en terrenos con mayor cohesión y cubre aproximadamente el 50% de la superficie. Finalmente, la **entibación ligera** se emplea en terrenos de alta cohesión y ángulo de rozamiento elevado, utilizando solo largueros y codales sin cabeceros. Los **métodos de ejecución** para entibaciones incluyen el "Método Pronto", que consiste en montar marcos (velas y cabeceros) en superficie y luego introducirlos en la zanja, y el "Método Quillery", que implica introducir las piezas una a una en la zanja.
+**3.4.6. Apeo de Árbol Podrido o Hueco**
 
-Las entibaciones en pozos, similares a las de zanjas pero adaptadas a dimensiones reducidas, requieren codales contrapeados para asegurar la rigidez y evitar pandeos, que son improbables debido al menor tamaño. Para su ejecución, se utilizan generalmente tablones de madera y/o puntales metálicos, a menudo combinando un tablón de 20x7 cm con puntales telescópicos.
+En presencia de árboles con señales de podredumbre o debilidad interna en sus fibras, no se recomienda usar técnicas de apeo convencionales debido al riesgo de comportamientos impredecibles durante la caída. Para estos casos, se aconseja la técnica del "corte de corazón" o "corte de mortaja". Esta técnica busca eliminar las fibras resistentes del núcleo central del tronco, reduciendo así la posibilidad de que el árbol se raje al caer. Como consideración adicional, se recomienda aumentar el grosor de la bisagra o charnela, y realizar el corte de derribo ligeramente más alto que en un apeo normal.
 
-## Estructuras Colapsadas: Caracterización General
+**3.4.7. Apeo por Derribo**
 
-Un **derrumbe** se define como el colapso, total o parcial, de una construcción, acompañado del desprendimiento de sus elementos. Estos eventos pueden ser causados por factores **naturales** o **antrópicos**.
+El apeo por derribo se realiza cuando es necesario derribar un árbol sin utilizar cortes de motosierra. Esto es adecuado en situaciones donde el árbol presenta una gran grieta vertical causada por el viento o una inclinación excesiva debido a fallos radiculares.
 
-### Derrumbes por Causas Naturales
+**4. Técnicas a Aplicar Sobre el Árbol Caído**
 
-Los **desastres naturales**, como terremotos, huracanes o inundaciones, superan los umbrales de normalidad establecidos por escalas como la Richter o Saphir-Simpson.
+Existen diversas situaciones que requieren la intervención en un árbol caído, ya sea por causas fortuitas (tormentas, accidentes de tráfico) o por errores durante un apeo, lo que provoca que el árbol quede enganchado en otros elementos. La forma de proceder dependerá de la estabilidad (estable o inestable) del árbol caído y de la causa subyacente.
 
-#### Terremotos
-Un **terremoto**, también conocido como seísmo o sismo, es una sacudida brusca y transitoria de la corteza terrestre, resultante de la liberación de energía en forma de ondas sísmicas. La causa más común es la ruptura de fallas geológicas, aunque también pueden influir la fricción entre placas tectónicas, procesos volcánicos o incluso actividades humanas, generando **terremotos inducidos** (por ejemplo, por grandes embalses, *fracking* o explosiones nucleares). La energía liberada se mide con la escala de Richter, mientras que la intensidad se valora con la escala MSK.
+**4.1. Árbol Apoyado Sobre Otro Árbol**
 
-El **hipocentro** es el punto de origen del terremoto en el interior de la Tierra, y el **epicentro** es su proyección directa en la superficie. Las ondas sísmicas se propagan a través de la Tierra de tres maneras:
-1.  **Ondas Longitudinales (P):** Ondas primarias que se propagan en la misma dirección que la vibración de las partículas, mediante compresiones y refracciones, a velocidades de 8 a 12 km/s. Atraviesan líquidos y sólidos y son las primeras registradas por los sismógrafos.
-2.  **Ondas Transversales (S):** Ondas secundarias que se propagan perpendicularmente a la vibración de las partículas, mediante cizalladura, a velocidades de 4 a 8 km/s. Solo atraviesan sólidos y se registran después de las ondas P.
-3.  **Ondas Superficiales:** Resultan de la interacción de las ondas P y S, con menor velocidad (entre 2,7 y 3 km/s) pero mayor amplitud y duración, lo que las hace más destructivas. Se distinguen dos modelos: **Ondas Rayleigh** (trayectoria elíptica retrógrada) y **Ondas Love** (similares a las S, pero en la superficie y perpendiculares a la dirección de propagación).
+Si un árbol, después de ser apeado, interrumpe su caída y queda apoyado en otro árbol cercano, deben tomarse las siguientes medidas de seguridad:
 
-#### Corrimientos de Tierra y Aludes
-Un **corrimiento de tierra**, o deslave/derrumbe, se relaciona con avalanchas de tierra, rocas y árboles, a menudo provocadas por terremotos, erupciones volcánicas o inestabilidad del terreno. Los **deslaves especiales** de barro o lodo son causados por la penetración de agua debido a fuertes lluvias. Las tipologías de corrimientos incluyen:
-1.  **Deslizamientos:** Movimiento de una gran masa de terreno inestable sobre una zona estable, a través de una superficie o franja delgada de tierra.
-2.  **Flujos de Arcilla:** En regiones lluviosas, los suelos arcillosos, al saturarse de agua, se comportan como líquidos, moviéndose más lentamente que los deslizamientos. Son comunes en pendientes suaves.
-3.  **Licuefacción:** Fenómeno en el cual el terreno granular no cohesivo se comporta como un líquido pesado.
-4.  **Reptación:** Movimiento extremadamente lento de las capas superiores de laderas arcillosas, generalmente de unos 50 cm de espesor, relacionado con variaciones estacionales de humedad.
+*   **Evitar derribos adicionales**: Nunca se debe derribar un segundo árbol sobre uno ya enganchado.
+*   **Evitar trabajo bajo el árbol**: Nunca se debe trabajar bajo un árbol enganchado o apoyado en un elemento inestable.
 
-#### Riesgos Cósmicos y Volcánicos
-Los **riesgos cósmicos** incluyen asteroides (cuerpos rocosos o metálicos que orbitan el Sol) y meteoritos (fragmentos que se desintegran al entrar en la atmósfera terrestre, produciendo luz). El riesgo principal asociado es el impacto sobre la superficie terrestre.
+En estos casos, la técnica más común es el "corte de buzón".
 
-Los **riesgos volcánicos** provienen de estructuras geológicas que emiten magma, ceniza y gases. Las erupciones pueden variar desde corrientes de lava suaves hasta explosiones destructivas. Las tipologías incluyen:
-1.  **Avalanchas de origen volcánico:** Flujos de barro y cenizas que pueden causar un gran número de víctimas.
-2.  **Erupciones fisurales:** Dislocaciones de la corteza terrestre que liberan lava muy fluida, formando extensas mesetas.
+**4.1.1. Técnica del Corte de Buzón**
 
-### Derrumbes por Causas Antrópicas
-Las causas antrópicas, originadas por la actividad humana, no solo provocan catástrofes, sino que incrementan la magnitud de las emergencias. Entre estas, destacan la falta de mantenimiento, reformas deficientes, explosiones de gas, atentados terroristas e incendios. La **mala construcción** y la **falta de revisiones** son causas comunes en derrumbes de edificios antiguos. La **mala planificación o ejecución de reformas**, ya sea en el inmueble afectado o en los colindantes, puede causar daños estructurales. Las **explosiones de gas** suelen manifestarse en los puntos más débiles de las fachadas, y si son por bombonas, afectan cocinas y habitáculos. Los **atentados terroristas** son los más destructivos y peligrosos para los equipos de rescate debido a la posible presencia de artefactos sin detonar. Finalmente, los **incendios** en edificaciones no construidas con hormigón armado, como las de madera o metálicas, pueden causar el colapso por el efecto del fuego.
+Pasos a seguir:
 
-(sin contenido relevante en este bloque para las páginas 240 y 241)
+1.  **Respetar la charnela o bisagra**: Es fundamental mantener la charnela o bisagra; si no es posible, se recurrirá a métodos de tracción mecánica.
+2.  **Evaluar el punto de apoyo**: Determinar el punto donde el árbol apoyado soporta su peso.
+3.  **Realizar el corte**: Cortar la charnela o bisagra con especial precaución desde el lado donde el árbol apoya su peso, observando su comportamiento para anticipar cualquier riesgo.
+4.  **Posicionamiento seguro**: Apartarse a una posición segura en cuanto el árbol comience a girar.
+5.  **Repetir la operación**: Repetir el corte hasta que el árbol caiga. Si no ha caído, usar una palanca (compuesta por un puntal metálico o una rama con una eslinga) para inducir el giro sobre el eje de la charnela no cortada.
+
+**4.1.2. Técnica del Corte Escalonado**
+
+Esta técnica, llamada así por la forma escalonada de sus cortes y fracturas, se utiliza para retirar un árbol que está enredado o tiene su extremo inferior anclado en el suelo (tocón). Para una caída natural facilitada, el tronco debe tener una superficie de deslizamiento adecuada.
+
+Los pasos para aplicar esta técnica son:
+
+1.  **Crear superficie deslizante**: Disponer una superficie deslizante utilizando ramas y troncos.
+2.  **Primer corte posterior**: Realizar un primer corte en la parte posterior del árbol, con una profundidad aproximada de la mitad del diámetro del tronco.
+3.  **Igualar el corte opuesto**: En el lado opuesto, igualar el corte. Si la longitud de la espada es menor que el diámetro del árbol, se puede emplear un chaflán en la parte frontal del tronco.
+4.  **Evitar atascos**: Insertar una cuña para evitar que la motosierra se atasque en el corte.
+5.  **Segundo corte frontal**: Realizar un segundo corte hasta la mitad del diámetro, desde la parte frontal del árbol, de forma paralela y entre 3 y 5 cm por debajo del primer corte (creando la bisagra).
+6.  **Insertar cuña**: Introducir y golpear una cuña en la ranura hasta que las fibras de la madera se rompan y el tronco se deslice del tocón.
+7.  **Usar palanca**: Utilizar una palanca (como una rama o vara de 2 a 3 metros de longitud) en la dirección del desplazamiento hasta que el árbol caiga.
+8.  **Repetir si es necesario**: Si el árbol no se suelta, repetir el procedimiento.
+
+**4.1.3. Desenganche con Tractel o Cabestrante**
+
+Si el árbol no puede desengancharse con la técnica del corte escalonado, se procederá con un tractel, utilizando un método similar al descrito para modificar la dirección de caída natural.
+
+Los pasos son:
+
+1.  **Colocar eslinga**: Colocar una eslinga en la parte baja del tronco, siempre fuera de la zona de caída y, si es posible, haciendo una muesca en la parte inferior del tronco para un mejor asiento.
+2.  **Tirar del tronco**: Utilizar el tractel para tirar del tronco en la dirección más probable de caída.
+
+**4.2. Apoyado Sobre Elemento Inestable o Peligroso**
+
+Esta situación, donde un árbol se apoya en casas, vehículos o farolas, requiere una evaluación cuidadosa del riesgo y una secuencia de acciones para determinar la estabilidad del conjunto, el riesgo para bienes o personas, las fuerzas de tensión y compresión implicadas, y el peso del árbol. Las acciones pertinentes incluyen apuntalar, fijar o descolgar el árbol. El Capítulo 5 ("Casos prácticos") ofrece ejemplos.
+
+**4.3. Desarraigado o Derribado por el Viento**
+
+En estas circunstancias, se deben aplicar múltiples técnicas de apeo y/o combinaciones de cortes.
+
+Pasos a seguir:
+
+1.  **Evaluar la madera del tronco**: Determinar el comportamiento del tronco al ser cortado (presión, compresión de fibras).
+2.  **Separar tronco de raíz**: Realizar cortes lo más cerca posible de la zona superficial de la raíz. Si es necesario, anclar la raíz con cables o estacas. Se puede desramar el tronco para liberar peso y eliminar tensiones.
+3.  **Tronzar el resto del tronco**: Aplicar técnicas de tronzado por tensión o compresión.
+
+Es fundamental contar con amplia experiencia y habilidad en el manejo de la motosierra, junto con una observación continua del comportamiento de la madera, para anticipar peligros.
+
+**4.4. Arrastre del Árbol Caído**
+
+Cuando un árbol ha sido apeado y es necesario moverlo unos pocos metros, el arrastre con tractel es una opción eficiente si no se requiere tronzar o desramar. Por ejemplo, para despejar una carretera. Con un tractel, se puede arrastrar un árbol con el doble de su peso nominal de elevación (ej. un tractel T-13 con 1500 kg de elevación puede arrastrar 3000 kg sobre hormigón). La forma cilíndrica del árbol reduce el rozamiento, y las carreteras mojadas aumentan la capacidad de arrastre. Colocar la polea del tractel en la carga también duplica la capacidad de arrastre.
+
+La dificultad principal es encontrar un punto de anclaje lo suficientemente fuerte (otro árbol grande, un camión) y en una ubicación que permita la maniobra.
+
+**4.5. Desramado**
+
+El desramado se realiza cuando es necesario retirar un árbol caído o apeado que afecta la vía pública o una carretera.
+
+Los principales riesgos durante el desramado son:
+
+*   **Obstáculos**: Las ramas pueden obstaculizar los movimientos y la visibilidad del suelo.
+*   **Reacciones inesperadas**: Las ramas pueden reaccionar como ballestas o ganchos.
+*   **Proximidad de la espada**: Las posturas de trabajo acercan la espada de corte al cuerpo.
+*   **Rebotes**: Aumenta el riesgo de rebotes por contacto de la punta de la espada con ramas u obstáculos.
+
+Se recomienda utilizar motosierras medianas o pequeñas con espadas cortas.
+
+Precauciones a adoptar:
+
+*   **Posición segura**: Colocarse siempre en el lado más seguro del tronco para evitar movimientos inesperados.
+*   **Avance del tronco**: Avanzar siempre con el tronco del árbol a la derecha del operador.
+*   **Un solo operario**: No trabajar más de un operario en el desramado de un mismo árbol.
+*   **Corte en fases**: Cortar las ramas gruesas en varias fases para reducir el riesgo de desgajes y evitar que la motosierra quede atrapada.

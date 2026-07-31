@@ -1,72 +1,100 @@
-## Técnicas de Descompresión y Valoración en Rescate Subacuático
+El presente temario técnico profundiza en las normativas y procedimientos esenciales para el rescate y salvamento en diversas condiciones. Se abordan las técnicas de comunicación subacuática, los objetivos de la descompresión en buceo, las recomendaciones de seguridad asociadas y las tablas de descompresión reglamentarias, así como los términos específicos utilizados en la planificación de inmersiones.
 
-El rescate subacuático implica una serie de consideraciones técnicas y de valoración fundamentales para garantizar la seguridad de los intervinientes y el éxito de la operación. Es imperativo comprender las técnicas de descompresión y realizar una valoración exhaustiva del entorno y de los recursos disponibles.
+### **Comunicación Subacuática**
 
-### I. Técnicas de Descompresión
+Las señales luminosas empleadas por los buceadores deben ser utilizadas con prudencia para evitar situaciones no deseadas.
 
-La descompresión se centra en la eliminación gradual del nitrógeno disuelto en los tejidos del organismo durante una inmersión, con el fin de prevenir la enfermedad descompresiva (ED). Este proceso se lleva a cabo mediante un ascenso controlado, que puede incluir paradas de descompresión programadas.
+#### **Señales para Buceo con Visibilidad Limitada**
 
-#### 1. Objetivos y Herramientas
+En entornos con visibilidad limitada debido a partículas en suspensión o sedimentos en el fondo, se emplean señales específicas:
+*   **"Cortar, la línea debe cortarse"**: Se repite varias veces.
+*   **"Alto, detenerse"**: Se repite varias veces.
+*   **"Enrollar, recoger la línea"**: Se repite varias veces.
+*   **"Atorado"**: Se repite varias veces.
+*   **"Hacer amarre"**: Se repite varias veces.
 
-El objetivo primordial es mitigar el nitrógeno absorbido y evitar la ED. Para ello, los buceadores emplean principalmente dos herramientas:
+#### **Señales para Buceo con Visibilidad Nula**
 
-*   **Ordenadores de buceo:** Estos dispositivos electrónicos ofrecen una planificación y monitorización de la inmersión en tiempo real, ajustándose a las condiciones específicas del buceador y del entorno. Permiten maximizar el tiempo de fondo y ofrecen un plan de ascenso dinámico, a diferencia de las tablas estáticas. No obstante, la confianza excesiva en ellos puede llevar a sobrepasar los límites de seguridad.
-*   **Tablas de descompresión:** Son un método manual que, a pesar de no depender de la electrónica, requiere una comprensión profunda del comportamiento fisiológico del organismo bajo presión. En España, las tablas oficiales son las publicadas por la Dirección General de la Marina Mercante.
+Cuando la visibilidad es nula y la linterna no puede utilizarse, la comunicación entre buceadores o con la superficie se realiza mediante señales táctiles, como tirones en la línea. La siguiente tabla detalla estas señales:
 
-#### 2. Recomendaciones de Seguridad para la Descompresión
+| Señal                               | Tirones |
+| :---------------------------------- | :------ |
+| Atención / ¿Están bien? / Estoy bien | 1 tirón   |
+| Arriar                              | 2 tirones |
+| Izar                                | 3 tirones |
+| Salida                              | 4 tirones |
+| Envía un cabo                       | 5 tirones |
+| Peligro de enredo / Estoy enredado  | 6 tirones |
+| Auxilio                             | 7 tirones |
+| Avanzar                             | 1 repique y 1 tirón |
+| Girar a la derecha                  | 1 repique y 2 tirones |
+| Giro de 180º                        | 1 repique y 3 tirones |
+| Girar a la izquierda                | 1 repique y 4 tirones |
+| Cobrar o seguir del cabo            | 1 repique |
+| Abocar o acercar el cabo guía       | 4 repiques |
 
-Para una descompresión segura, se deben seguir directrices estrictas:
+Es imperativo que toda señal sea repetida por el buceador que la recibe para confirmar su comprensión. Si una señal no se entiende, se debe responder con un único tirón para solicitar su repetición. Al recibir la señal de "salida", el compañero no la repetirá, sino que procederá a recuperar al buceador de forma expedita (iniciará la orden o reenviará la señal al siguiente buceador).
 
-*   **Planificación previa:** Toda inmersión debe planificarse meticulosamente, especialmente las multinivel, comenzando desde la máxima profundidad.
-*   **Velocidades de ascenso y descenso:** La velocidad máxima de descenso no debe superar los 24 metros por minuto. El ascenso, desde el fondo hasta la primera parada, entre paradas, y de la última parada a la superficie, debe realizarse a 9 metros por minuto, aunque se aceptan variaciones de 3 metros por minuto.
-*   **Paradas de descompresión:** El tiempo en cada parada se contabiliza desde la llegada hasta el abandono de la misma. El tiempo de tránsito entre paradas es de un minuto. En paradas con oxígeno, el tiempo comienza cuando todos los buceadores confirman que respiran oxígeno.
-*   **Observación post-inmersión:** Tras la inmersión, el buceador debe ser observado durante 30 minutos en superficie para detectar síntomas de ED, que pueden manifestarse hasta seis horas después.
-*   **Evitar cambios de presión post-inmersión:** Se deben evitar actividades que impliquen una disminución de la presión ambiental, como ascensos a montañas o viajes en avión, tras una inmersión.
-*   **Equipamiento de emergencia:** Es fundamental disponer de un equipo de oxigenación completo y un botiquín de primeros auxilios a bordo.
-*   **Cámara hiperbárica:** Debe haber una cámara hiperbárica disponible a menos de dos horas del lugar de la inmersión, con personal cualificado (camarista y médico hiperbárico) y con activación previa coordinada.
+### **Técnicas de Descompresión**
 
-#### 3. Uso de las Tablas de Descompresión (Marina Mercante)
+#### **Objetivos**
 
-Las tablas especifican los tiempos límite sin descompresión y los grupos de inmersión sucesiva con aire.
+Al realizar una inmersión con aire, los tejidos del organismo absorben nitrógeno en una cantidad determinada, influenciada por la profundidad alcanzada y el tiempo en el fondo. El nitrógeno disuelto debe ser eliminado de forma gradual durante el ascenso, incluyendo paradas de descompresión cada 3 metros, para evitar superar los valores críticos de sobresaturación en cada profundidad. La superación de estos valores conlleva el riesgo de enfermedad descompresiva. Para minimizar este riesgo, se emplean herramientas como el ordenador de buceo y las tablas de descompresión, con el apoyo de un cronómetro y un profundímetro.
 
-*   **Tabla I (Límites sin descompresión):** Permite determinar el tiempo máximo de fondo a una profundidad dada para ascender sin paradas. También asigna un grupo de inmersión sucesiva. Si se excede el tiempo de esta tabla, se debe recurrir a la Tabla III.
-*   **Tabla III (Descompresión normal con aire):** Calcula las paradas de descompresión necesarias con aire. Se introducen los datos de profundidad máxima y tiempo de fondo para obtener las paradas requeridas (última parada a 6 mca). Si no se requieren paradas, el ascenso puede ser a 9 mca/minuto, y el grupo de inmersión sucesiva se determina por la Tabla I.
-*   **Tabla III (Descompresión con aire y oxígeno):** Permite la descompresión parcial con aire y parcial con oxígeno al 100%. Las paradas se realizan hasta 9 mca (o 6 mca si no hay parada a 9 mca), momento en el que se cambia a oxígeno. Los tiempos con oxígeno se indican en negrita.
-*   **Descompresión en superficie con oxígeno (DSO2):** Consiste en completar la descompresión, total o parcialmente, en una cámara hiperbárica. En el ámbito civil y profesional en España, esta técnica no está permitida para transiciones directas del agua a la cámara. Se sigue un protocolo específico de descompresión con aire en el agua hasta 12 mca, y luego se continúa en la cámara, con tiempos y periodos específicos para la administración de oxígeno.
+En la actualidad, la planificación de la descompresión se efectúa mediante sistemas electrónicos (ordenadores). Estos permiten un ajuste más preciso a las condiciones particulares del buceador y del entorno, pero pueden generar una sensación de seguridad que puede llevar a exceder los límites conservadores de las tablas. Los ordenadores de buceo monitorizan la inmersión en tiempo real, generando un plan de buceo instantáneo y, por ende, aumentando el tiempo de fondo en comparación con el perfil rectangular de las tablas.
 
-### II. Valoración en Rescate Subacuático
+#### **Recomendaciones de Seguridad para la Descompresión**
 
-La valoración en un rescate subacuático es un proceso dinámico y continuo, esencial para el éxito de la operación.
+La planificación previa es fundamental para toda inmersión. En inmersiones multinivel, la planificación debe hacerse desde la profundidad máxima hasta la menor. Las siguientes recomendaciones son clave:
+*   **Evitar aproximaciones o salidas a superficie:** Esto es para recibir instrucciones o herramientas, lo que podría aumentar el riesgo de enfermedad descompresiva.
+*   **Condiciones psicofísicas del buceador:** La inmersión no debe realizarse si estas condiciones son inadecuadas.
+*   **Dificultad del trabajo:** En trabajos difíciles (estrés, gran esfuerzo físico, aguas frías), la posibilidad de enfermedad descompresiva aumenta. Como precaución, el tiempo en el fondo debe incrementarse al inmediato superior.
+*   **Cabo de descenso:** Si se requieren paradas de descompresión, debe utilizarse un cabo de descenso con suministro de aire.
+*   **Velocidad de descenso:** No debe superar los 24 metros por minuto.
+*   **Velocidad de ascenso:** Desde el fondo hasta la primera parada, entre paradas, y desde la última parada hasta la superficie, debe ser de 9 metros por minuto. Se aceptan variaciones de 3 metros por minuto.
+*   **Tiempos de parada de descompresión:** Se cuentan desde el momento de llegada a la parada hasta su abandono. El tiempo transcurrido entre paradas o hasta la superficie es de un minuto. Esta regla también aplica a la descompresión con aire/oxígeno, excepto para la primera parada de oxígeno.
+*   **Observación post-inmersión:** El buceador debe ser observado durante los treinta minutos posteriores a la superficie. Los síntomas de la enfermedad descompresiva pueden aparecer hasta seis horas después.
+*   **Actividades post-inmersión:** Evitar situaciones que impliquen disminución de la presión ambiental (subir una montaña, viajar en avión).
+*   **Asistencia en accidente:** En caso de accidente, la seguridad del buceador depende de las acciones de los compañeros y del personal del centro de buceo.
+*   **Equipo de oxigenación:** Siempre debe disponerse de un equipo de oxigenación completo (tanque con oxígeno, mascarilla de oxígeno, regulador de demanda, bolsa reservorio) y un botiquín de emergencia básico.
+*   **Cámara hiperbárica:** Concertar una cámara hiperbárica a menos de dos horas del lugar de inmersión. Requiere activación previa y personal médico especializado.
 
-#### 1. Recepción de Datos y Valoración Dinámica
+#### **Tablas de Descompresión**
 
-La gestión de la información es crucial. Debe ser veraz, clara y contrastada, y se utiliza para establecer las prioridades de acción. Las decisiones del mando se basan en:
+Las tablas de descompresión reglamentarias en España son las editadas por la Dirección General de la Marina Mercante. La utilización de otras tablas requiere autorización. Estas tablas se actualizan periódicamente, y en caso de numeración diferente, prevalece el nombre de la tabla.
 
-*   **Conocimientos:** Técnicos, tácticos y del medio.
-*   **Evaluación continua:** La valoración inicial debe actualizarse constantemente, ya que las condiciones pueden cambiar rápidamente, afectando la zonificación, los niveles de protección y el plan de emergencia.
-*   **Análisis de riesgos:** Antes de cualquier acción, se debe evaluar el riesgo. En rescates subacuáticos, la probabilidad de encontrar víctimas con vida es baja, por lo que se deben evitar riesgos innecesarios para los intervinientes.
-*   **Capacidad del buceador:** El mando debe conocer las limitaciones y habilidades de cada buceador, considerando el tiempo de inmersión, el cansancio y el estrés.
-*   **Señalización:** Las zonas de trabajo deben estar claramente señalizadas para evitar interferencias y garantizar la seguridad.
+Se incluye un listado de tipos de tablas:
+*   **Tabla I:** Tiempos límite sin descompresión y grupos de inmersión sucesiva para inmersiones sin descompresión con aire.
+*   **Tabla II:** Tiempos de nitrógeno residual (TNR) para inmersiones sucesivas con aire.
+*   **Tabla III:** Descompresión normal con aire.
+*   **Tabla IV:** Profundidad teórica para inmersiones en altitud y profundidad real de las paradas de descompresión para inmersiones en altitud.
+*   **Tabla V:** Grupos de inmersión sucesiva correspondientes al ascenso inicial a altitud.
+*   **Tabla VI:** Intervalo en Superficie exigido antes de ascender a altitud después de bucear.
+*   **Tabla VII:** Tiempos límite sin descompresión y grupos de inmersión sucesiva para inmersiones con aire en aguas poco profundas.
 
-#### 2. Plan de Acción
+**Importante**: La formación para la obtención de títulos de buceo debe incluir el manejo de estas tablas. Son válidas para buceadores certificados, pero no se garantiza la exactitud de todos los datos ni se recomienda su uso exclusivo para planificación de buceo real. Para detalles adicionales sobre los criterios de uso y las tablas, consultar el Anexo del Manual del Centro de Buceo de la Armada Española.
 
-El plan de acción está determinado por múltiples factores:
+### **Términos Utilizados en las Tablas de Descompresión**
 
-*   **Tipo de fondo:** El tipo de fondo influye en los movimientos del buceador, la elección de técnicas y equipos, y la prevención de daños.
-    *   **Roca:** Ofrece buena visibilidad pero requiere precaución ante posibles enganches o desprendimientos.
-    *   **Coral:** Similar a la roca, requiere cuidado con los elementos puntiagagudos.
-    *   **Gravilla:** Proporciona buena visibilidad y movilidad, pero la base granular puede ser inestable para caminar.
-    *   **Conchas y arena/barro:** La visibilidad puede reducirse por el barro. Ofrece buena estabilidad en el fondo, pero la movilidad puede ser limitada si hay mucho barro.
-    *   **Arena:** Generalmente buena visibilidad y movilidad.
-    *   **Barro y Cieno:** Visibilidad muy reducida o nula. Es preferible trabajar a favor de la corriente para alejar el cieno y evitar perturbar el fondo, lo que puede causar fatiga y retener al buceador.
-*   **Temperatura del agua:** Las aguas frías (inferiores a 21°C) causan tensión, dolor e hipotermia. Es fundamental usar trajes adecuados (húmedos o secos) y, en aguas muy frías, limitar el tiempo de buceo. Los trajes secos, con sistemas de inflado desde la botella, permiten un mejor control de la flotabilidad y son adecuados para aguas contaminadas.
-    *   **Equipamiento personal:** Incluye cinturón de lastre (para flotabilidad neutra), máscara de buceo (de vidrio templado, de volumen reducido para maniobra de Valsalva), chaleco hidrostático (para flotabilidad y rescate de inconscientes), botellas (de acero o aluminio, con grifería INT o DIN), reguladores (principal y auxiliar u "octopus"), manómetro, profundímetro, brújula y ordenador de buceo. Las tablas de descompresión son un elemento esencial de seguridad complementario.
-*   **Profundidad:** Afecta directamente a los recursos y al tiempo de trabajo. Las inmersiones más profundas limitan el tiempo disponible en el fondo.
-*   **Distancia a la orilla:** Influye en la necesidad de usar embarcaciones y en la elección de los patrones de búsqueda. Las operaciones cercanas a la orilla suelen ser menos profundas.
-*   **Corrientes:** Dificultan el buceo y pueden hacer la inmersión impracticable. Es crucial evaluar su peligrosidad, especialmente cerca de esclusas o canales. En general, se evitan inmersiones con corrientes superiores a un nudo. Un buceador bien lastrado puede trabajar con corrientes de hasta 1,5 nudos; con lastre adicional, hasta 2,5 nudos. El movimiento con la corriente sobre un cabo es controlado.
-*   **Tiempo bajo el agua de accidentados:** El tiempo crítico de supervivencia de una víctima bajo el agua es limitado por el oxígeno y el dióxido de carbono que puede tolerar el cuerpo, influenciado por la tasa metabólica.
-*   **Condiciones meteorológicas:** El viento, las olas y la temperatura afectan la visibilidad en superficie, el posicionamiento de la embarcación de apoyo y la seguridad de los buceadores.
-*   **Aguas contaminadas:** La presencia de químicos, agentes biológicos o sustancias radiactivas en el agua representa un riesgo para la salud del buceador y para el equipo. Es esencial utilizar equipos de protección adecuados, como trajes secos estancos y cascos de buceo con válvulas de exhaustación.
-*   **Visibilidad en superficie y tráfico marítimo:** En puertos o canales, es vital controlar la presencia de otras embarcaciones y señalizar adecuadamente la zona de buceo. La visibilidad reducida puede obligar a suspender las operaciones.
+Para una correcta interpretación de las tablas de descompresión, es fundamental conocer los siguientes términos:
 
-La correcta planificación y una valoración continua de estos factores permiten a los equipos de rescate subacuático adaptarse a la complejidad de cada situación, garantizando la seguridad de todos los implicados y optimizando las posibilidades de éxito de la intervención.
+*   **Tiempo de nitrógeno residual (TNR)**: Se refiere al tiempo, expresado en minutos, que debe sumarse al tiempo de fondo de una inmersión sucesiva para compensar el nitrógeno disuelto aún presente en los tejidos del buceador tras una inmersión previa.
+*   **Inmersión sencilla equivalente**: Es el proceso de convertir una inmersión sucesiva en una inmersión simple equivalente antes de aplicar las tablas de descompresión. La profundidad de la inmersión sencilla equivalente es igual a la profundidad de la inmersión sucesiva. El tiempo de fondo de la inmersión sencilla equivalente se calcula sumando el TNR y el tiempo de fondo de la inmersión sucesiva, expresándose en minutos.
+*   **Descompresión en superficie (DS)**: Técnica que implica la omisión parcial o total de las paradas de descompresión en el agua, realizándose estas en una cámara hiperbárica en superficie mediante recompresión del buceador.
+*   **Inmersiones excepcionales**: Son aquellas donde los riesgos de enfermedad descompresiva (ED), toxicidad al oxígeno o exposición a condiciones ambientales son sustancialmente mayores que en una inmersión de trabajo normal.
+*   **Velocidad de descenso**: No es un factor crítico en inmersiones con aire, pero no debe exceder los 24 metros por minuto.
+*   **Velocidad de ascenso**: Se establece en 9 metros por minuto desde el fondo hasta la primera parada, entre paradas, y desde la última parada hasta la superficie (equivalente a 20 segundos por cada 3 metros de columna de agua). Se aceptan variaciones entre 6 m/min y 12 m/min.
+*   **Tiempo de parada de descompresión**: Para las paradas de descompresión en el agua con aire, el tiempo se cuenta desde la llegada del buceador a la parada hasta que la abandona. Para paradas subsiguientes, el tiempo de ascenso entre paradas se incluye en el tiempo de la siguiente parada. Esta norma aplica igualmente para la descompresión en el agua con aire/oxígeno, excepto para la primera parada de oxígeno.
+*   **Última parada en el agua**: Todas las descompresiones finalizan a una profundidad de 6 metros de columna de agua (mca).
+*   **Requisito para iniciar la descompresión en superficie**: Un buceador cumple los requisitos si ha completado la parada de 12 mca en el agua. Si no se requiere parada a 12 mca, el buceador puede ascender directamente a la superficie sin paradas y comenzar la descompresión en superficie.
+
+#### **Tabla I: Tiempos Límite sin Descompresión y Grupos de Inmersión Sucesiva para Inmersiones con Aire**
+
+La Tabla I establece el tiempo máximo que un buceador puede permanecer en el fondo a una profundidad determinada para ascender directamente a la superficie sin necesidad de paradas de descompresión. Al finalizar una inmersión sin descompresión, el buceador aún retiene una cantidad de nitrógeno residual en sus tejidos en superficie, dato que se considera para la planificación de inmersiones subsiguientes.
+
+Si el tiempo de fondo excede lo tabulado en la Tabla I, es obligatorio calcular las paradas de descompresión utilizando la Tabla III.
+
+Para determinar el grupo de inmersión sucesiva en una inmersión sin descompresión:
+1.  Localizar la profundidad máxima exacta o inmediatamente superior en la tabla.
+2.  Desplazarse horizontalmente hacia la derecha hasta encontrar el tiempo en el fondo igual o inmediatamente superior al tiempo de fondo real de la inmersión.
+3.  Ascender verticalmente por la columna para obtener el grupo de inmersión sucesiva.

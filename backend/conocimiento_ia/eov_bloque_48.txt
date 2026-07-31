@@ -1,47 +1,225 @@
-## Equipos de Protección Individual y Herramientas para Intervenciones con Riesgo Eléctrico
+## Equipos de Protección Individual para Trabajos con Tensión Eléctrica
 
-En las operaciones de emergencia donde existe riesgo eléctrico, la protección individual es un pilar fundamental para la seguridad del personal. Los equipos y herramientas diseñados para estas intervenciones deben cumplir con estrictas normativas y características específicas, garantizando la seguridad ante descargas eléctricas, impactos y otros peligros inherentes al entorno.
+### 2.5. Alfombrilla Aislante
 
-### Cizallas Aislantes
+#### 2.5.1. Especificaciones
 
-Las **cizallas aislantes** son herramientas de corte manuales, diseñadas con dos brazos aislados, cuya parte superior integra cuchillas de acero. Su función principal es el corte de cables con diámetros de hasta 25 mm y mangos de tubo de poliéster reforzado con fibra de vidrio de hasta 50 mm de longitud y 32 mm de diámetro. Estas cizallas ofrecen una tensión de aislamiento de 25 kV.
+Este equipo, diseñado para proporcionar aislamiento eléctrico, consiste en una alfombrilla de material aislante con una superficie antideslizante, fabricada generalmente de caucho o goma sintética. Su propósito principal es evitar que la corriente eléctrica atraviese el cuerpo del usuario hacia el suelo, siendo esencial en trabajos sobre instalaciones eléctricas o en operaciones de rescate con riesgo eléctrico.
 
-Para garantizar su seguridad y uso adecuado, es imperativo que las cizallas aislantes cuenten con un adhesivo permanente y visible que indique su tensión máxima de utilización, las condiciones de uso (interior/exterior), el modelo o referencia, y el nombre o marca del fabricante, junto con el año de fabricación. La **normativa** que las regula es la UNE EN 60900, específica para trabajos en tensión hasta 1000 V en corriente alterna y 1500 V en corriente continua.
+Las dimensiones, el espesor y la capacidad de resistencia a la perforación de estas alfombrillas (modelo Sofamel® Mod. SP) varían según las siguientes características:
 
-En su **uso**, estas cizallas se emplean para seccionar conductores eléctricos y siempre en combinación con otros equipos aislantes, como banquetas o guantes. Es fundamental no cortar dos cables simultáneamente ni materiales que no sean eléctricos, como hierros o cadenas, para evitar dañar la herramienta. Además, se debe considerar la rigidez dieléctrica de la herramienta y la tensión de la instalación para un corte seguro. El **mantenimiento** exige verificar que cuchillas, empuñaduras y mangos estén en perfecto estado, manteniéndolas limpias, secas y almacenadas en un lugar seguro del camión para evitar golpes.
+| Dimensiones (m) | Espesor (mm) | Tensión de perforación |
+| :-------------- | :----------- | :-------------------- |
+| 0,6 x 0,6       | 3            | 30 kV                 |
+| 0,6 x 1         | 3            | 30 kV                 |
+| 0,6 x 5         | 3            | 30 kV                 |
+| 0,6 x 10        | 3            | 30 kV                 |
+| 1 x 1           | 3            | 30 kV                 |
+| 1 x 5           | 3            | 30 kV                 |
+| 1 x 10          | 3            | 30 kV                 |
+| 0,6 x 0,6       | 4,5          | 50 kV                 |
+| 0,6 x 1         | 4,5          | 50 kV                 |
+| 0,6 x 5         | 4,5          | 50 kV                 |
+| 0,6 x 10        | 4,5          | 50 kV                 |
+| 1 x 1           | 4,5          | 50 kV                 |
+| 1 x 5           | 4,5          | 50 kV                 |
+| 1 x 10          | 4,5          | 50 kV                 |
 
-### Banquetas Aislantes
+#### 2.5.2. Normativa
 
-Las **banquetas aislantes** proporcionan aislamiento respecto a tierra, aumentando la resistencia al paso de la corriente. Se construyen con polipropileno copolímero de alto impacto, y su superficie es rugosa y antideslizante. Las patas incorporan conteras de goma para mayor adherencia y protección contra el desgaste. Se componen de una plataforma y patas que mantienen una altura específica sobre el suelo. Se clasifican en tipos A (interior) y B (exterior), y su capacidad aislante varía, pudiendo soportar hasta 20 kV, 30 kV, 45 kV o 66 kV, valores que deben estar impresos en el equipo.
+Las alfombrillas aislantes se rigen por las siguientes normas:
+*   **UNE-EN 61111: 2010**: Aborda los requisitos para alfombras eléctricas aislantes en trabajos con tensión.
+*   **IEC 60243-1**: Detalla la rigidez dieléctrica de los materiales aislantes y los métodos de ensayo, Parte 1: Ensayos a frecuencias industriales.
 
-Estas banquetas están reguladas por la **norma** UNE 204001 para trabajos eléctricos. Se **usan** en maniobras con tensión y en el rescate de personas electrocutadas. Es vital evitar la exposición prolongada al sol, ya que puede deteriorarlas, y protegerlas de grasas o aceites que podrían comprometer su capacidad conductora. Antes de cada uso, se deben inspeccionar para detectar poros, fisuras o elementos incrustados. El **mantenimiento** implica su limpieza periódica con un paño húmedo y secado, asegurando la rigidez estructural y el buen estado de sus superficies. Se almacenan en estuches o fundas para protegerlas de golpes y ralladuras.
+#### 2.5.3. Uso y Seguridad
 
-### Alfombrillas Aislantes
+El empleo de estas alfombrillas busca asegurar el aislamiento eléctrico en intervenciones con riesgo eléctrico. En situaciones de alta tensión, deben complementarse con otros elementos de protección.
 
-Una **alfombrilla aislante** es un material de caucho o goma sintética con una superficie antideslizante, destinada a proporcionar aislamiento eléctrico en el suelo. Se utiliza para trabajos en instalaciones eléctricas o rescates con riesgo eléctrico, evitando el paso de corriente a través del cuerpo del operario. Las alfombrillas se ofrecen en diversas dimensiones y tensiones de perforación, como 30 kV o 50 kV, con espesores de 3 mm o 4,5 mm.
+Se deben considerar las siguientes precauciones durante su uso:
+*   La exposición prolongada y excesiva al sol puede deteriorarlas.
+*   El contacto con grasa y aceites puede hacerlas conductoras de electricidad.
+*   Antes de utilizarlas bajo tensión, es crucial revisar visualmente su estado, comprobando la ausencia de poros, fisuras o elementos incrustados.
 
-La **normativa** que rige las alfombrillas aislantes incluye la UNE-EN61111:2010 para trabajos en tensión y la IEC 60243-1 para la rigidez dieléctrica. En su **utilización**, es crucial evitar la exposición solar excesiva, así como el contacto con grasas y aceites, ya que estos pueden reducir su capacidad aislante. Antes de usarlas, deben revisarse visualmente para detectar poros, fisuras o incrustaciones. El **mantenimiento** consiste en revisiones habituales para asegurar su buen estado, limpieza con un paño húmedo sin disolventes y almacenamiento en lugares secos y protegidos para conservar su integridad.
+#### 2.5.4. Mantenimiento
 
-### Alicates Dieléctricos
+Para mantener estas alfombrillas en óptimas condiciones, se debe realizar una revisión habitual de su estado, prestando atención a la limpieza, la rigidez estructural y el buen estado de las superficies, siguiendo las indicaciones del fabricante.
 
-Los **alicates dieléctricos** son herramientas manuales aisladas con material termoplástico, diseñadas para trabajos en baja tensión (hasta 1000 V). Permiten sujetar, doblar o cortar, y se componen de un caucho exterior aislante, un caucho interior aislante, una primera imprimación adhesiva y un protector homogéneo con caucho aislante. Se clasifican en diversos tipos según su forma y aplicación, como alicates planos (boca cuadrada y estriada para sujetar y doblar), redondos (puntas cónicas para electricidad y bisutería), de corte (cuchillas de acero templado para cortar materiales diversos), universales (combinan pinza robusta y cortador de cable), y de punta acodada (para acceso a zonas difíciles).
+En cuanto al almacenamiento y transporte, deben guardarse en lugares secos, preferiblemente en estuches o fundas que garanticen su protección. Tras cada uso, se deben limpiar con un paño húmedo y secar completamente.
 
-Su **normativa** principal es la EN 60900 para trabajos en tensión. En su **uso**, se emplean en baja tensión, estando prohibido utilizarlos para aflojar o apretar tuercas/tornillos, cortar chapa metálica o golpear objetos, ya que esto podría mellarlos o romperlos. Los principales **riesgos** asociados incluyen lesiones por manipulación inadecuada o por la deficiente calidad del aislamiento. Para el **mantenimiento**, es fundamental verificar el estado de la funda protectora y las quijadas, lubricar el pasador de la articulación periódicamente y mantenerlos limpios y secos en su maletín de riesgo eléctrico.
+### 2.6. Alicates
 
-### Destornilladores Dieléctricos
+#### 2.6.1. Especificaciones
 
-Los **destornilladores dieléctricos** son herramientas manuales aisladas con material termoplástico, diseñadas para trabajos en baja tensión (hasta 1000 V). Sirven para apretar y aflojar tornillos y otros elementos que requieren poca fuerza. Se componen de una punta, un vástago y un mango. Los tipos más comunes son de punta plana (ranura) y de estrella (cruz). Los utilizados en trabajos eléctricos están recubiertos con una capa aislante que cubre gran parte del metal, no solo el mango.
+Los alicates son herramientas manuales diseñadas para tareas en baja tensión (hasta 1000 V), utilizadas para sujetar, doblar o cortar materiales. Están provistos de fundas aislantes de material termoplástico que ofrecen protección contra el contacto eléctrico.
 
-La **normativa** que los regula es la EN 60900 para trabajos en tensión. Para un **uso** correcto, la punta debe coincidir con la ranura del tornillo, y no deben utilizarse como palanca ni ser golpeados. Las **precauciones** incluyen no sujetar la pieza con la mano al atornillar y evitar llevarlos en el bolsillo para prevenir lesiones. El **mantenimiento** requiere verificar el estado de la funda protectora, desecharlos si está rota, y mantenerlos limpios y secos en su maletín de riesgo eléctrico.
+Sus componentes incluyen:
+*   Una capa exterior de caucho aislante.
+*   Una capa interior de caucho aislante.
+*   Una primera imprimación adhesiva.
+*   Un protector homogéneo de caucho aislante.
 
-### Pinza Amperimétrica
+Existen diferentes tipos de alicates, clasificados por su forma y aplicaciones:
+*   **Alicates planos**: Caracterizados por una boca cuadrada con interior estriado y brazos ligeramente curvados. Se emplean para sujetar piezas, doblar alambre y chapa.
+*   **Alicates redondos**: Similares a los planos, pero con extremos cónicos. Su uso se centra en electricidad y bisutería, como la creación de anillos de alambre.
+*   **Alicates de corte**: Poseen puntas en forma de cuchillas de acero templado, permitiendo cortar diversos materiales como alambre, piezas metálicas, tubos de plomo y alambre de acero.
+*   **Alicates combinados**: Presentan puntas con secciones diferenciadas para múltiples usos, como cortar, apretar, prensar o tornear cables.
+*   **Alicate universal**: Un alicate combinado con tres partes funcionales, incluyendo una pinza robusta con mandíbulas estriadas y una sección de corte. Es una herramienta multiusos para tornear, desenroscar, apretar, aflojar, cortar y pelar cables, entre otras tareas.
+*   **Alicate de punta acodada**: Sus puntas están dobladas, facilitando el acceso a zonas difíciles para el modelado de componentes y la preparación de terminales para soldar cables.
 
-La **pinza amperimétrica** es un instrumento que permite medir la intensidad de corriente de forma indirecta, sin necesidad de abrir el circuito. Consta de un sensor en forma de pinza que se abre para abrazar el cable a medir. Mide corrientes, tensiones, resistencias y frecuencias en sistemas eléctricos. Está regulada por la **norma** EN61010-1 sobre requisitos de seguridad para equipos eléctricos de medida.
+#### 2.6.2. Normativa
 
-Para su **uso**, en la medición de corriente alterna (AC), se selecciona el rango adecuado (200A o 600A), se abre el gatillo para atrapar el conductor y se toma la lectura, asegurando que el conductor esté centrado. Para medir el voltaje AC, se seleccionan los terminales "V/Ω" y "COM", se ajusta el selector de rango y se tocan los puntos a medir. Las **precauciones** incluyen no usarla en circuitos superiores a 600 V AC, evitar el contacto con partes metálicas expuestas y no abrir el compartimento de baterías durante la medición. El **mantenimiento** implica reemplazar fusibles cuando sea necesario, notificar anomalías al servicio técnico, mantener tapas cerradas, limpiar con un paño húmedo sin disolventes y almacenarla en su maletín de riesgo eléctrico.
+Los alicates se rigen por la norma **EN 60900**, que especifica los requisitos para herramientas manuales utilizadas en trabajos con tensión hasta 1000 V en corriente alterna y 1500 V en corriente continua.
 
-### Polímetro (Multímetro)
+#### 2.6.3. Uso y Seguridad
 
-El **polímetro**, también conocido como multímetro, es un instrumento versátil para verificar el funcionamiento de circuitos eléctricos, midiendo tensiones (alternas y continuas), corrientes y resistencias. Existen modelos digitales, que ofrecen lecturas exactas en pantalla, y analógicos, que indican la medida con una aguja. Se compone de una pantalla, selector de funciones y escalas, bornes para conexión y puntas de prueba (negra para COM, roja para VΩHz o mA/10A).
+Los alicates planos se utilizan en trabajos de baja tensión, aprovechando la fuerza manual para sujetar y doblar alambres.
 
-La **normativa** que lo rige es la EN CAT III 1000 V y CAT IV 600 V - IEC/EN61010-1. Para la medición de **resistencias**, se desconecta el circuito, se conectan las puntas de prueba a los terminales adecuados y se selecciona la escala. Para **tensiones**, se asegura la conexión del circuito, se conectan las puntas y se selecciona la escala. Para **intensidades**, se conecta la punta negra a COM y la roja a 10 A, se abre el circuito en serie con el polímetro y se selecciona la escala. La **comprobación de continuidad** implica desconectar el circuito, conectar las puntas y verificar si hay un pitido para resistencias inferiores a 50Ω. Las **precauciones generales** incluyen inspeccionar la carcasa y los cables de prueba antes de usarlo, evitar mediciones en ambientes explosivos o húmedos, no exceder los rangos máximos y retirar las baterías si no se usa por un tiempo prolongado. El **mantenimiento** consiste en reemplazar fusibles y baterías si es necesario, notificar anomalías al servicio técnico, mantener tapas cerradas y limpiar con un paño húmedo sin disolventes, almacenándolo en su maletín de riesgo eléctrico.
+Se desaconseja su uso para las siguientes operaciones:
+*   Aflojar o apretar tuercas o tornillos.
+*   Cortar chapa (limitar su uso a cables, hilos y alambres).
+*   Golpear otros objetos con ellos, ya que puede provocar roturas o accidentes.
+*   Cortar materiales extremadamente duros, lo que podría mellarlos.
+
+La manipulación inadecuada de alicates puede causar lesiones como heridas y contusiones. Una de las principales causas de accidentes es la calidad deficiente, manifestada por el juego en el mango o los brazos. Es fundamental que los mangos estén aislados.
+
+#### 2.6.4. Mantenimiento
+
+Las pautas de mantenimiento incluyen:
+*   Verificar el estado de la funda protectora y desecharla si está rota.
+*   Mantener las quijadas y el mango en buen estado.
+*   Engrasar frecuentemente el pasador de la articulación, eliminando el exceso de aceite.
+
+Los alicates deben almacenarse limpios y secos en el maletín de riesgo eléctrico.
+
+### 2.7. Destornilladores
+
+#### 2.7.1. Especificaciones
+
+El destornillador es una herramienta manual aislada, fabricada con material termoplástico, destinada a trabajos en baja tensión (hasta 1000 V). Se utiliza para apretar y aflojar tornillos y otros elementos que requieren poca fuerza y son generalmente de diámetro pequeño.
+
+Consta de las siguientes partes:
+*   Punta.
+*   Vástago.
+*   Mango.
+
+Existen varios tipos de destornilladores, siendo los más comunes:
+*   **Punta plana**: Indicados para introducir, apretar, extraer y aflojar tornillos con ranura en la cabeza.
+*   **Punta estrella**: De uso frecuente, con forma de cruz, y una utilidad similar a los de punta plana.
+
+Para trabajos eléctricos, algunos destornilladores están recubiertos con una capa de material plástico aislante, no solo en el mango, sino también en la mayor parte del cuello metálico, para evitar electrocuciones.
+
+#### 2.7.2. Normativa
+
+Los destornilladores se rigen por la norma **EN 60900**, que establece los requisitos para herramientas manuales utilizadas en trabajos con tensión hasta 1000 V en corriente alterna y 1500 V en corriente continua.
+
+#### 2.7.3. Uso y Seguridad
+
+Para un uso correcto de los destornilladores, se deben considerar las siguientes indicaciones:
+*   La punta del destornillador debe coincidir siempre con la ranura de la cabeza del tornillo.
+*   No debe utilizarse como palanca, ya que podría romperse o deteriorar la punta.
+*   No debe golpearse el mango con un martillo para realizar cortes.
+*   Es fundamental utilizar el destornillador adecuado para cada tipo de tornillo.
+*   Para enroscar tornillos, se gira el destornillador en el sentido de las agujas del reloj; para desenroscar, en sentido contrario.
+
+Las precauciones y medidas de seguridad incluyen:
+*   No sujetar la pieza con la mano al atornillar para evitar que el destornillador se escape y cause heridas.
+*   No llevar el destornillador en el bolsillo para prevenir lesiones por clavado.
+*   En trabajos con elementos eléctricos, es preferible utilizar destornilladores con mango aislado.
+
+#### 2.7.4. Mantenimiento
+
+Es necesario verificar el estado de la funda protectora y desecharla en caso de rotura. Los destornilladores deben guardarse limpios y secos en el maletín de riesgo eléctrico.
+
+### 2.8. Pinza Amperimétrica
+
+#### 2.8.1. Especificaciones
+
+La pinza amperimétrica es un tipo especial de amperímetro que permite medir la corriente sin necesidad de abrir el circuito. Su diseño de pinza permite abrazar el cable a medir. Se utiliza para medir corrientes, tensiones, resistencias y frecuencias en sistemas eléctricos, y es útil en montaje, mantenimiento, detección de fallos y control de estos sistemas.
+
+#### 2.8.2. Normativa
+
+Las pinzas amperimétricas se rigen por la norma **EN61010-1**, que establece los requisitos de seguridad para equipos eléctricos de medida, control y y uso en laboratorio, Parte 1: Requisitos generales.
+
+#### 2.8.3. Uso y Seguridad
+
+**a) Funcionamiento**
+Su principio de funcionamiento se basa en la medición indirecta de la corriente a partir del campo magnético generado por ella alrededor del conductor. Es un instrumento seguro ya que no requiere contacto eléctrico directo con el circuito bajo medida, y no es necesario levantar el aislante en cables aislados.
+
+Consideraciones para su uso:
+*   Para la medición, solo debe pasar un conductor a través de la sonda. Si pasan varios, la lectura será la suma vectorial de las corrientes.
+*   Si la pinza se cierra alrededor de un cable paralelo de dos conductores con corrientes en sentidos opuestos, la lectura será "cero".
+
+**b) Medición de corriente AC**
+Para medir la corriente alterna (AC), siga estos pasos:
+1.  Posicione el selector en el rango de 200A o 600A.
+2.  Presione el gatillo de apertura para abrir las garras transformadoras y atrape el conductor, asegurándose de que esté lo más centrado posible.
+3.  Anote la medida mostrada en la pantalla.
+
+**c) Medición del voltaje AC**
+Para medir el voltaje alterno (AC), siga estos pasos:
+1.  Coloque el selector en el rango de 200 V o 600 V.
+2.  Inserte la punta de prueba roja en el terminal "V/Ω" y la negra en el terminal "COM".
+3.  Toque el circuito a medir con las puntas de prueba.
+4.  Anote la medida mostrada en la pantalla.
+5.  Asegúrese de que las garras estén completamente cerradas para mayor precisión (el tamaño máximo del conductor debe ser de aproximadamente 33 mm).
+6.  Es normal que las garras transformadoras zumben al medir corrientes elevadas, sin que esto afecte la precisión.
+
+**d) Precauciones y medidas de seguridad**
+Durante la utilización del polímetro, se deben observar las siguientes precauciones:
+*   Antes de usar, inspeccionar la carcasa para detectar roturas o faltas de plástico que puedan dañarla.
+*   Prestar atención al aislamiento alrededor de los conectores.
+*   Inspeccionar los cables de prueba en busca de daños en el aislante o partes metálicas expuestas y verificar su continuidad.
+*   Reemplazar los cables dañados por otros con idéntico número de modelo o especificaciones eléctricas antes de usar el medidor.
+
+### 2.9. Polímetro
+
+#### 2.9.1. Especificaciones
+
+El polímetro es un instrumento que permite verificar el correcto funcionamiento de un circuito eléctrico, midiendo tensiones (alternas y continuas), corrientes y resistencias, entre otras magnitudes.
+
+Existen dos tipos principales:
+*   **Digitales**: Ofrecen mayor precisión, mostrando la medición exacta en la pantalla.
+*   **Analógicos**: La medición se indica mediante una aguja en un modulador.
+
+El polímetro se compone de las siguientes partes:
+1.  Pantalla de cristal líquido.
+2.  Interruptor de conexión/desconexión.
+3.  Escala de medida de resistencia.
+4.  Posición de prueba de diodos y continuidad.
+5.  Escala de medida de intensidad continua.
+6.  Escala de medida de intensidad alterna.
+7.  Escalas de medida de capacidad.
+8.  Zócalo de medición de condensadores.
+9.  Borne para medida de intensidades inferiores a 200 mA.
+10. Borne para medida de intensidades superiores a 200 mA.
+11. Zócalo de prueba de transistores.
+12. Escala de medida de tensión continua.
+13. Selector de funciones y escalas.
+14. Escalas de medida de tensión alterna.
+15. Escalas de medida de frecuencia.
+16. Borne común.
+17. Borne para medida de tensión, resistencia y frecuencia.
+
+Además del propio aparato, el polímetro incluye puntas de prueba que se conectan a los bornes inferiores del polímetro para medir el componente o circuito. La punta negra se conecta al borne común (COM), mientras que la roja se conecta a uno de los tres bornes rojos, dependiendo de la magnitud a medir.
+
+#### 2.9.2. Normativa
+
+Los polímetros están regulados por las normas **EN CAT III 1000 V** y **CAT IV 600 V- IEC/EN61010-1**, que establecen los requisitos de seguridad para equipos eléctricos de medida, control y uso en laboratorio, Parte 1: Requisitos generales.
+
+#### 2.9.3. Uso y Seguridad
+
+**a) Medición de resistencias**
+En este modo, el polímetro funciona como óhmetro. Los pasos a seguir son:
+1.  Si la resistencia está en un circuito, desconectar al menos uno de sus terminales y asegurar que no haya alimentación eléctrica para evitar lecturas erróneas. Es preferible aislar completamente la resistencia.
+2.  Conectar la punta de prueba negra al borne COM y la punta roja al borne VΩHz.
+3.  Situar el selector de funciones en la zona de escalas de resistencia y elegir la escala adecuada. La pantalla mostrará "1". Al tocar ambas puntas, debería marcar "0".
+4.  Tocar los dos terminales de la resistencia con las puntas de prueba. El polímetro se conecta en paralelo con el elemento a medir.
+    *   *Ejemplo:* Para medir una resistencia de 12 kΩ, se ajusta el selector de funciones a la posición correcta.
+
+**b) Medición de tensiones**
+En este modo, el polímetro funciona como voltímetro, capaz de medir tensiones continuas o alternas. Los pasos para medir la tensión son:
+1.  Asegurarse de que el circuito esté conectado a la alimentación y cerrado.
+2.  Conectar la punta de prueba negra al borne COM y la roja al borne VΩHz.
+3.  Colocar el selector de funciones en la zona de escalas de tensión continua o alterna, eligiendo una escala superior al valor máximo esperado. La pantalla mostrará "0.00".
+4.  Tocar los puntos del circuito donde se desea medir la tensión. El polímetro se conecta en paralelo. Si la lectura muestra un signo negativo, se intercambian las puntas.
+    *   *Ejemplo:* Para medir tensiones en un circuito alimentado por una batería de 4,5 V, se selecciona la posición adecuada. Para un enchufe de 220 V CA, el selector se sitúa en "700" dentro de la zona de escalas de tensión alterna (V~).

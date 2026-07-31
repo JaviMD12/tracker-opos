@@ -1,107 +1,92 @@
-# Patología por Calor y Frío e Inmovilización Pediátrica
+## Urgencias Médicas: Patología por Calor y Frío
 
-## 1. Hipotermia: Etiología, Clasificación y Manejo Prehospitalario
+### 5. Congelaciones
 
-La **hipotermia** se define como una disminución de la temperatura corporal central por debajo de los 35 ºC, medida preferentemente por vía rectal. Esta condición, de alto riesgo vital, se ve influenciada por factores como la exposición a bajas temperaturas (exacerbada por viento y humedad ambiental), la hipoglucemia y el consumo de alcohol. Los colectivos más vulnerables son los ancianos, los niños y las personas desnutridas, quienes presentan una mayor mortalidad. Cabe destacar que la pérdida de calor es significativamente más rápida, hasta cinco veces superior, si la piel está húmeda o si se produce una inmersión prolongada en agua a temperaturas inferiores a 24 ºC. A modo de referencia, la supervivencia en agua fría oscila aproximadamente entre 10 minutos a 0 ºC, 30 minutos a 5 ºC, 90 minutos a 10 ºC y 6 horas a 15 ºC.
+Las congelaciones son lesiones causadas por temperaturas inferiores a 0 ºC, afectando generalmente a extremidades como los pies y manos, así como a la cara (nariz y orejas). Diversos factores incrementan la predisposición a sufrir congelaciones, incluyendo fatiga, deshidratación, humedad, consumo de tabaco o alcohol, diabetes mellitus, heridas infectadas, restricciones circulatorias (como calzado ajustado, calcetines o anillos), o haber sufrido congelaciones previamente.
 
-### 1.1. Clasificación de la Hipotermia según la Temperatura Central
+#### 5.1. Valoración de las Congelaciones
 
-La hipotermia se clasifica en tres grados principales:
+En una evaluación inicial, muchas lesiones por congelación pueden simularse como tumefacción, torpeza o pérdida de sensibilidad. Sin embargo, tras el recalentamiento, se clasifican en cuatro grados distintos, con las siguientes características y pronósticos de curación:
 
-1.  **Hipotermia Leve (35-32 ºC):** En esta fase, el organismo aún es capaz de generar y retener calor. Los síntomas incluyen vasoconstricción periférica (manos y pies fríos), escalofríos intensos que pueden cesar voluntariamente, movimientos lentos y torpes, confusión y, en ocasiones, conductas irracionales como intentar quitarse la ropa.
-2.  **Hipotermia Moderada (32-28 ºC):** En este punto, los escalofríos y el temblor cesan, lo que indica la pérdida de la capacidad del cuerpo para producir calor. La piel puede adquirir un tono azulado, y el paciente muestra apatía, confusión, delirio y comportamientos irracionales. El pulso radial puede no ser palpable, la marcha es imposible y el paciente tiende a adoptar una posición fetal para conservar calor. Fisiológicamente, se observa una disminución de la frecuencia cardíaca (bradicardia) con alto riesgo de arritmias ventriculares graves, bradipnea (disminución de la frecuencia respiratoria), y un nivel de conciencia que varía desde el estupor hasta el coma, con pupilas dilatadas que reaccionan a la luz.
-3.  **Hipotermia Grave (<28 ºC):** Esta es la fase más crítica, caracterizada por coma, frecuencia cardíaca y respiratoria irregulares, pupilas dilatadas que no reaccionan a la luz, y la posible ausencia de pulso carotídeo. A nivel de monitorización, el electroencefalograma (EEG) y el electrocardiograma (ECG) pueden mostrar un trazado plano (asistolia). La mortalidad en casos moderados es del 21%, mientras que en la hipotermia grave supera el 50%.
+| Grado de Congelación | Características | Pronóstico y Tiempo de Recuperación |
+| :------------------- | :-------------- | :---------------------------------- |
+| **SUPERFICIALES** |                 |                                     |
+| **Primer Grado**     | Piel enrojecida e hinchada. Sin ampollas. Sensación de pinchazos o quemazón. | Curación sin secuelas en 3-4 días. |
+| **Segundo Grado**    | Piel enrojecida e hinchada. Ampollas con líquido claro o lechoso aparecen en las primeras 24 horas (nunca sangrantes u oscuras). Disminución de la sensibilidad y de la sensación de frío y molestias. | Curación sin secuelas en 10-15 días. |
+| **PROFUNDAS**    |                 |                                     |
+| **Tercer Grado**     | Piel azulada (cianótica). Ampollas hemorrágicas que se transforman en escaras en 2 semanas. | Cicatrización con secuelas en 3 semanas. Puede requerir amputación. |
+| **Cuarto Grado**     | Tejido frío y muerto (necrosis). Ausencia de ampollas. | Requiere amputación en 2-3 semanas. |
 
-### 1.2. Actuación y Consideraciones Terapéuticas en Hipotermia
+#### 5.2. Actuación ante Congelaciones
 
-El manejo de un paciente con hipotermia requiere una intervención cuidadosa y gradual para evitar complicaciones graves:
+El procedimiento de actuación ante congelaciones incluye los siguientes pasos:
 
-1.  **Retirada de la Exposición y Ambiente Cálido:** Traslade al paciente a un lugar resguardado del frío, preferiblemente un habitáculo a unos 27 ºC o una ambulancia calefactada.
-2.  **Movilización Cautelosa:** Realice cualquier movimiento con extrema suavidad, preferiblemente manteniendo al paciente en posición horizontal, para minimizar el riesgo de desencadenar arritmias ventriculares fatales.
-3.  **Retirada de Ropa Húmeda y Secado:** Retire toda la ropa mojada, incluso cortándola si es necesario para evitar manipulaciones bruscas, y seque la piel del paciente. Evite el recalentamiento periférico inicial, ya que podría aumentar la demanda de oxígeno, sobrecargar el corazón hipoactivo e inducir la recirculación de sangre fría hacia los órganos vitales, lo que eleva el riesgo de arritmias y paro cardíaco.
-4.  **Aislamiento Térmico:** Cubra al paciente con ropa seca y mantas calientes, prestando especial atención al cuello y la cabeza, zonas de alta pérdida calórica. Las mantas térmicas solo conservan el calor, no lo generan, por lo que deben colocarse con la cara plateada en contacto con el cuerpo del paciente previamente calentado.
-5.  **Evaluación Primaria (ABC):** Realice una valoración inicial del estado del paciente siguiendo el esquema ABC (vía aérea, respiración, circulación).
-6.  **Recalentamiento Gradual:** Inicie un recalentamiento gradual, con el objetivo de aumentar la temperatura corporal a un ritmo de 1 ºC por hora, sin superar los 4 ºC por hora, para evitar shock, arritmias o asistolia. En casos graves, se puede aplicar calor solo en el torso con bolsas de agua caliente (evitando el contacto directo con la piel) o fuentes de calor externas, manteniendo un control estricto de la temperatura.
-7.  **Reanimación Cardiopulmonar (RCP) en Paro Cardíaco:** Si el paciente está en paro cardíaco, las maniobras de RCP deben prolongarse, dado que el músculo cardíaco puede mantener una contractilidad reducida por un tiempo considerable, incluso hasta dos horas después del accidente. Es fundamental la monitorización temprana con un Desfibrilador Externo Automático (DEA) para detectar y tratar arritmias. Cabe señalar que las arritmias a menudo ceden con el recalentamiento, y la desfibrilación puede ser ineficaz con temperaturas corporales inferiores a 30 ºC. La hipotermia protege el cerebro y otros órganos vitales de la hipoxia, permitiendo la supervivencia con buen pronóstico neurológico tras paros cardíacos prolongados. La RCP debe mantenerse hasta que la temperatura central alcance los 35 ºC, momento a partir del cual se aplicarán los criterios habituales para su interrupción.
-8.  **Traumatismos:** Si se sospecha traumatismo, aplique las medidas de inmovilización estándar.
-9.  **Paciente Inconsciente sin PCR:** Colóquelo en posición lateral de seguridad y administre oxígeno.
-10. **Paciente Consciente:** Permita la ingesta de líquidos calientes y azucarados en pequeños sorbos. El azúcar es crucial para la función muscular y la producción de calor mediante el temblor.
-11. **Áreas Congeladas:** No inicie el recalentamiento de áreas congeladas hasta que la temperatura corporal central se aproxime a los 36 ºC.
-12. **Traslado Hospitalario:** Los pacientes con hipotermia moderada o grave requieren traslado urgente a una unidad de cuidados intensivos, manteniendo las medidas de apoyo durante el transporte.
+1.  **Traslado a un lugar seguro:** Mover al paciente a un ambiente protegido del frío.
+2.  **Valoración inicial:** Realizar una evaluación ABC. Descartar la presencia de hipotermia; si se confirma, tratarla prioritariamente. Descartar cualquier otra lesión asociada.
+3.  **Retirada de ropa:** Remover cuidadosamente la ropa húmeda o cualquier prenda que pueda dificultar la circulación, cortándola si es necesario.
+4.  **Evitar traumatismos:** Prevenir cualquier daño mecánico adicional en las zonas afectadas.
+5.  **Reposo:** Asegurar que el paciente repose y evitar cualquier carga sobre las áreas lesionadas.
+6.  **Protección:** Colocar gasas estériles en los espacios interdigitales para prevenir la maceración.
+7.  **Elevación:** Elevar el miembro congelado para reducir el edema.
+8.  **Traslado:** Trasladar al hospital sin demoras.
+9.  **No recalentamiento activo in situ:** Evitar iniciar el recalentamiento activo hasta llegar al hospital, especialmente si no se puede asegurar que la zona no se volverá a congelar, ya que esto podría agravar la lesión.
 
-Se debe **evitar** realizar manipulaciones bruscas del paciente (riesgo de arritmias ventriculares), administrar alcohol (aumenta la vasodilatación y pérdida de calor), dar bebidas diuréticas como té o café (contribuyen a la deshidratación), realizar baños o duchas calientes (riesgo de shock, arritmias o asistolia por recalentamiento rápido) y suspender la RCP antes de alcanzar una temperatura central de 35,5 ºC.
+**Acciones NO recomendadas en caso de congelación:**
+*   Calentar las zonas congeladas de manera abrupta con calor seco o fuego.
+*   Realizar masajes en una zona congelada.
+*   Cortar las ampollas.
 
-## 2. Congelaciones: Definición, Factores y Grados de Lesión
+### 2.1.2. Valorar la extensión de quemaduras
 
-Las **congelaciones** son lesiones tisulares resultantes de la exposición a temperaturas inferiores a 0 ºC, afectando comúnmente extremidades como pies, manos, nariz y orejas. Varios factores predisponen a su aparición, incluyendo la fatiga, la deshidratación, la humedad ambiental, el tabaquismo, el consumo de alcohol, la diabetes mellitus, la presencia de heridas infectadas, la restricción circulatoria (por calzado o ropa ajustada, anillos) o episodios previos de congelación.
+La extensión de las quemaduras se evalúa utilizando la regla de los nueves de Wallace, que distribuye el porcentaje de superficie corporal en adultos y niños de la siguiente manera:
 
-### 2.1. Valoración de las Congelaciones
+| Región Corporal  | Adultos | Niños   |
+| :--------------- | :------ | :------ |
+| Cabeza           | 9%      | 18%     |
+| Tronco (anterior)| 18%     | 18%     |
+| Tronco (posterior)| 18%     | 18%     |
+| Cada extremidad superior | 9%      | 9%      |
+| Cada extremidad inferior | 18%     | 14%     |
+| Genitales        | 1%      | 1%      |
 
-La evaluación inicial de las congelaciones puede ser ambigua, ya que los síntomas (tumefacción, torpeza, pérdida de sensibilidad) pueden simular otras lesiones. Sin embargo, una vez iniciado el recalentamiento, se pueden clasificar en cuatro grados:
+#### 2.2. Actuación ante Quemaduras
 
-1.  **Primer Grado (Superficial):** Se caracteriza por piel enrojecida e hinchada, sin ampollas, acompañada de sensación de pinchazos o quemazón. La curación suele ocurrir en 3-4 días sin dejar secuelas.
-2.  **Segundo Grado (Superficial a Dermis Superficial):** La piel presenta enrojecimiento e hinchazón, con aparición de ampollas de líquido claro o lechoso en las primeras 24 horas (nunca sanguinolentas u oscuras). La sensibilidad al frío y las molestias disminuyen. La curación se produce en 10-15 días sin secuelas.
-3.  **Tercer Grado (Epidermis, Dermis e Hipodermis):** La piel adquiere un tono azulado (cianótico). Se forman ampollas hemorrágicas que evolucionan a escaras en aproximadamente dos semanas. Este grado de congelación provoca cicatrización con secuelas en unas tres semanas y puede requerir amputación.
-4.  **Cuarto Grado (Piel, Tejido Subdérmico, Músculos y Huesos):** Se manifiesta como tejido frío y necrótico, sin formación de ampollas. Invariablemente, conduce a la amputación en 2-3 semanas.
+##### 2.2.1. En caso de quemaduras térmicas
 
-### 2.2. Actuación ante Congelaciones
+Las quemaduras producidas por llama directa, líquidos calientes, contacto con sólidos calientes o calor radiante (por cercanía a fuentes de calor como fundiciones o calderas) requieren la siguiente actuación:
 
-La intervención prehospitalaria en casos de congelación debe seguir los siguientes pasos:
+1.  **Retirar del agente causal:** Alejar al paciente de la fuente de quemadura para prevenir mayor daño tisular. El rescatador debe operar en condiciones seguras y con equipo adecuado para evitar daños.
+    *   Alejar al paciente del foco.
+    *   Retirar con sumo cuidado toda la ropa alrededor de la quemadura, evitando tirar de tejidos adheridos.
+    *   Quitar joyas, especialmente anillos, ya que pueden retener calor o dificultar la circulación si se produce hinchazón por edema o desplazamiento de líquidos.
 
-1.  **Traslado a un Entorno Protegido:** Mueva al paciente a un lugar cálido y resguardado del frío.
-2.  **Evaluación Primaria (ABC):** Realice una valoración inicial de la vía aérea, respiración y circulación. Descarte hipotermia; si está presente, trátela prioritariamente. Descarte también otras lesiones asociadas.
-3.  **Retirada de Ropa:** Quite la ropa húmeda y cualquier vestimenta que restrinja la circulación, cortándola cuidadosamente si es necesario para evitar traumatismos adicionales.
-4.  **Evitar Traumatismos Mecánicos:** Proteja las zonas afectadas de cualquier golpe o presión.
-5.  **Reposo y Elevación del Miembro:** Indique reposo al paciente, evitando que apoye peso sobre las áreas congeladas. Eleve el miembro afectado para reducir el edema.
-6.  **Protección Interdigital:** Coloque gasas estériles entre los dedos para prevenir la maceración.
-7.  **Traslado Hospitalario Urgente:** Traslade al paciente a un hospital sin demora.
-8.  **No Recalentar Pre-hospitalariamente:** Evite el recalentamiento activo antes de llegar al hospital si existe riesgo de que la zona pueda volver a congelarse, ya que esto agravaría la lesión.
+2.  **Valoración ABC y vía aérea:** Prestar especial atención a la afectación de la vía aérea. Se debe sospechar compromiso presente o potencial de la vía aérea (quemadura inhalatoria) si se observan:
+    *   Quemaduras faciales y cervicales con afectación de labios o pelos de la cara.
+    *   Presencia de hollín en fosas nasales o mucosa bucal.
+    *   Ronquera, estridor o tos con esputos carbonáceos.
+    *   Paciente quemado inconsciente.
+    *   Quemaduras en lugares cerrados.
+    Ante la sospecha de afectación de la vía aérea, el traslado hospitalario debe ser urgente y sin demora. Durante el transporte, el paciente se colocará con la cabeza elevada (posición de Fowler o semifowler) para minimizar el edema y reducir el riesgo de obstrucción o dificultad en la intubación orotraqueal. Si bien inicialmente no aparentan gravedad, estos pacientes con riesgo de obstrucción de vía aérea deben ser vigilados estrechamente, y el personal debe estar preparado para iniciar la reanimación cardiopulmonar (RCP).
 
-Se debe **evitar** recalentar bruscamente con calor seco o fuego, masajear la zona congelada y cortar las ampollas, ya que estas acciones pueden causar más daño tisular y complicaciones.
+3.  **Administración de oxígeno:** Suministrar oxígeno al 100% incluso con saturaciones de O2 normales para prevenir el síndrome de inhalación de monóxido de carbono, ya que la pulsioximetría no detecta esta intoxicación.
 
-## 3. Urgencias Pediátricas: Consideraciones Especiales en Traumatismos y Movilización
+4.  **Enfriamiento de lesiones:** Irrigar las quemaduras con suero fisiológico o agua. Este proceso puede reducir la profundidad de la lesión y aliviar el dolor. Se debe realizar con precaución para evitar una disminución excesiva de la temperatura corporal.
 
-La atención a pacientes pediátricos en emergencias comparte la base de la valoración y manejo del adulto, pero requiere consideraciones específicas debido a sus particularidades anatómicas y fisiológicas.
+5.  **Cobertura de lesiones:** Cubrir las quemaduras con gasas estériles empapadas en suero fisiológico, asegurando que el paciente no desarrolle hipotermia.
 
-### 3.1. Valoración del Paciente Pediátrico
+6.  **Traslado urgente:** Trasladar al paciente al hospital sin demora.
 
-1.  **Primera Impresión:** En niños, la primera impresión es fundamental. Evalúe su estado mental, nivel de alerta, postura, tono muscular, aspecto e interacción con sus padres. Una respuesta lenta o la falta de reconocimiento de los padres son signos de gravedad. La aproximación al niño debe ser lenta y con un lenguaje tranquilizador. Siempre que sea posible, se debe permitir la presencia de un familiar o cuidador para brindar confianza y obtener información.
-2.  **Vía Aérea:** En niños pequeños (hasta 3-4 años), la prominencia del occipital puede causar flexión del cuello en decúbito supino, obstruyendo la vía aérea. Para mantenerla permeable, la cabeza debe posicionarse en línea neutra, utilizando una almohadilla o toalla doblada desde los hombros hasta la pelvis. La hiperextensión del cuello debe evitarse, ya que puede colapsar los anillos traqueales flexibles.
-3.  **Respiración:** La frecuencia respiratoria en niños es fisiológicamente más elevada que en adultos. Los signos de dificultad respiratoria pueden llevar a un rápido agotamiento y pausas de apnea. El estado mental es un indicador sensible de la función respiratoria. Los lactantes con dificultad respiratoria pueden rechazar las tomas.
-    *   **Signos de Esfuerzo Respiratorio:** Aleteo nasal (especialmente en lactantes), cabeceo (elevación de la cabeza en inspiración y caída en espiración), tiraje (depresión de la piel en áreas supraesternal, supraclavicular, intercostal o subcostal). En lactantes, los movimientos abdominales son más relevantes.
-    *   **Ruidos Respiratorios Anormales (sin fonendoscopio):** Quejido (sonido gutural espiratorio), estridor (sonido inspiratorio agudo por obstrucción alta), sibilancias (silbido espiratorio por broncoespasmo), roncus (sonido líquido por mucosidad en vías grandes), borboteo (sonido burbujeante por líquido en la vía aérea).
-    *   **Cianosis:** Coloración azulada de labios y lengua.
-    *   **Posición de Trípode:** Niño sentado, con el cuerpo y cuello extendidos hacia adelante, mandíbula protruida y brazos apoyados. Es típica de inflamación severa de la vía aérea alta (epiglotitis) y una emergencia médica que requiere traslado urgente con oxígeno en posición de Fowler.
-    *   **Evite:** Demorar el traslado, insertar objetos en la boca (depresores, cánulas orofaríngeas) si se sospecha inflamación severa de vía aérea alta, o cualquier acción que provoque el llanto del niño.
-4.  **Circulación:** Los niños compensan el shock mejor que los adultos inicialmente, pero su deterioro puede ser brusco y difícil de revertir. La valoración de los pulsos centrales (braquial o femoral en niños <1 año) es más importante que el carotídeo debido al cuello grueso. La discrepancia entre pulsos centrales y periféricos puede indicar shock compensado.
-    *   **Frecuencia Cardíaca (FC):** Varía con la edad. FC=150-(5 x edad del niño) es una estimación. Las FC < 60 lpm en lactantes y niños pequeños indican PCR.
-    *   **Tensión Arterial (TA):** No es prioritaria en la valoración pediátrica inicial, ya que el procedimiento puede agitar al niño y falsear los resultados.
-    *   **Color de la Piel:** Pálida, azulada o moteada indica gravedad. En piel oscura, observe labios, lengua y palmas/plantas.
-    *   **Relleno Capilar:** >2 segundos indica gravedad. En niños pequeños, evalúe en la planta del pie o talón.
+**Acciones NO recomendadas en caso de quemaduras térmicas:**
+*   Demorar el traslado ante la sospecha de afectación de la vía aérea, incluso si el paciente no parece grave.
+*   Aplicar pomadas de ningún tipo sobre las lesiones.
+*   Cortar las ampollas, ya que actúan como mecanismo de protección.
 
-### 3.2. Consideraciones Específicas en Trauma Pediátrico
+##### 2.2.2. En caso de quemaduras químicas (causticación)
 
-Los traumatismos son la principal causa de paro cardiorrespiratorio en niños, siendo los **traumatismos craneoencefálicos** y **abdominales** los más frecuentes en traumas cerrados. Es crucial no subestimar la gravedad de las lesiones, ya que los niños pueden parecer normales al inicio.
+Ante quemaduras producidas por ácidos o bases con pH extremos (como productos de limpieza, disolventes o cementos), se debe actuar de la siguiente manera:
 
-1.  **Traumatismos Abdominales:** Las vísceras abdominales en niños ocupan un espacio proporcionalmente mayor y los músculos abdominales son más delgados, haciéndolos más vulnerables a lesiones y hemorragias internas. Aunque los niños compensan bien las fases iniciales del shock, los hematomas abdominales pueden aparecer tardíamente. Por tanto, ante cualquier sospecha de traumatismo abdominal, el traslado hospitalario nunca debe demorarse. En lactantes, una lesión abdominal puede comprometer la respiración diafragmática y requerir ventilación mecánica.
-2.  **Lesiones Óseas y Medulares:** Los huesos infantiles son más flexibles, lo que puede resultar en deformaciones o fracturas incompletas (fisuras) en lugar de fracturas completas, incluso con impactos de alta energía. Esto implica que lesiones internas torácicas significativas pueden existir sin fracturas costales aparentes. Las lesiones medulares pueden estar enmascaradas por la mayor proporción de la cabeza y la elasticidad de la columna, lo que permite el desplazamiento vertebral sin fractura ósea. Por ello, la inmovilización cervical es siempre imprescindible en traumatismos de riesgo, incluso sin síntomas neurológicos aparentes.
-3.  **Hipertensión Intracraneal:** Las fontanelas abiertas en lactantes pueden retrasar la aparición de signos de hipertensión intracraneal, ya que permiten la liberación de presión. Es fundamental palpar las fontanelas para detectar abombamiento y tensión, indicativos de gravedad.
-4.  **Mecanismos Lesionales de Alto Riesgo:** Se deben considerar como emergencia los siguientes:
-    *   Niños sin sujeción en vehículos.
-    *   Niños sujetos solo con el cinturón pélvico (riesgo de lesiones abdominales y espinales).
-    *   Niños en asiento delantero con activación de airbag (riesgo de lesiones en cabeza/cuello y quemaduras faciales/oculares).
-    *   Atropellos (más graves en niños por su menor estatura, con impacto inicial en abdomen/pelvis/fémur, seguido de impacto en tórax/cabeza y arrastre).
-    *   Caídas desde una altura superior al doble de la estatura del niño (una caída de 1 metro en un lactante puede causar traumatismo craneoencefálico grave).
-    *   Caídas de bicicleta con impacto del manillar en el abdomen o traumatismo craneoencefálico sin casco.
-
-### 3.3. Inmovilización del Paciente Pediátrico
-
-Para la inmovilización de pacientes pediátricos, especialmente en caso de no disponer de sistemas pediátricos específicos, se puede utilizar el chaleco de extricación de Kendrick (KED) siguiendo los siguientes pasos:
-
-1.  **Colocación del Collarín Cervical:** Primero, se inmoviliza la columna cervical con un collarín pediátrico adecuado.
-2.  **Posicionamiento en KED:** Se coloca al niño sobre el KED, realizando movimientos en bloque. En niños pequeños, se añade un almohadillado de 2-3 cm desde los hombros hasta la pelvis para mantener la vía aérea abierta.
-3.  **Ajuste de Solapas Toraco-abdominales:** Se pliegan las solapas toraco-abdominales hacia adentro, asegurando que el tórax y abdomen del niño queden visibles y accesibles para evitar comprometer la respiración.
-4.  **Fijación con Cinchas:** Se ajustan las cinchas de colores. Si el niño es muy pequeño, se pueden usar esparadrapos para fijar las cinchas que, de otro modo, quedarían inutilizadas.
-5.  **Extensión de Solapas Cefálicas:** Si es necesario, se extienden las solapas de la cabeza hacia adentro, asegurándose de que no cubran la cara del niño.
-6.  **Fijación de la Cabeza:** Se aseguran las cinchas de la cabeza, colocando una por la frente y otra por el apoyo mentoniano del collarín.
-7.  **Traslado:** Finalmente, el niño inmovilizado se traslada a la camilla de la ambulancia.
+1.  **Seguridad del rescatador:** El rescatador debe operar siempre con equipo de protección adecuado (bata, guantes, gafas) para evitar daños. Es importante considerar que guantes comunes (nitrilo, látex) podrían no ofrecer protección suficiente contra ciertas sustancias químicas.
+2.  **Retirar del agente causal:** Alejar al paciente de la sustancia química que está causando la quemadura, ya que el agente seguirá dañando el tejido mientras esté en contacto.
+3.  **Valoración:** Realizar una evaluación ABC y de las lesiones.
+4.  **Desvestir al paciente:** Quitar completamente la ropa al paciente, incluyendo zapatos y calcetines, para evitar que la sustancia química impregnada en la ropa o el agua de lavado cause más lesiones.
+5.  **Lavado abundante:** Lavar al paciente con abundante agua hasta su recepción en el hospital para diluir la sustancia. Si la sustancia es un polvo, primero se debe cepillar para eliminar la mayor cantidad posible antes del lavado. El lavado siempre se realizará con agua. No se deben usar neutralizantes químicos, ya que pueden causar reacciones exotérmicas (producción de calor) que agravarían la lesión. El lavado debe iniciarse lo más pronto posible, y el rescatador debe evitar mojarse o salpicarse para no convertirse en víctima.

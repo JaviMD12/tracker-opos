@@ -1,55 +1,124 @@
-## Efectos y Normativa del Riesgo Eléctrico en Intervenciones de Emergencia
+**Parte 7: NRBQ - Técnicas de Intervención**
 
-La intervención ante incidentes con riesgo eléctrico requiere un profundo conocimiento de los efectos de la electricidad en el organismo humano y del marco normativo que regula las instalaciones eléctricas. Este saber es crucial para garantizar la seguridad de los intervinientes y optimizar las tácticas de rescate.
+**3. Descontaminación**
 
-### Efectos de la Electricidad en el Organismo Humano
+La descontaminación se define como un proceso químico o físico que busca reducir o prevenir la propagación de contaminantes en personas y equipos. La efectividad de la descontaminación se relaciona con el tipo de contaminante y las condiciones de exposición, siendo crucial minimizar el tiempo de contacto directo o indirecto.
 
-La gravedad de una lesión eléctrica en el cuerpo humano depende de múltiples factores, entre los que destacan las **condiciones fisiológicas de la piel**, como su espesor y dureza, la **tensión** y **presión** del contacto, la **superficie** de aplicación, el **recorrido de la corriente** a través del cuerpo y el **estado fisiológico** general de la persona.
+La siguiente tabla resume los tipos de descontaminación según su peligrosidad y si es directa o indirecta:
 
-La **piel** actúa como un aislante natural, presentando una resistencia que varía típicamente entre 1.000 y 100.000 ohmios. Esta resistencia es generalmente mayor a la corriente continua (CC) que a la corriente alterna (CA). Sin embargo, en un contexto de emergencia, como el que enfrentan los bomberos, la resistencia corporal puede disminuir significativamente. Por ejemplo, los equipos de protección individual (EPI) pueden inducir sudoración, reduciendo la resistencia a valores inferiores a 1.000 ohmios. Además, un contacto puntiforme con presión elevada puede causar quemaduras cutáneas y afectar los tejidos internos. Los valores medios de resistencia para el cuerpo humano a 50 Hz son de 1.600 ohmios en ambiente seco, 800 ohmios en húmedo y 200 ohmios si la persona está sumergida. La Ley de Ohm (I = V/R) ilustra esta relación: una tensión de 220V aplicada a una resistencia de 1.000 ohmios resulta en una corriente de 22 mA, un valor considerablemente superior al umbral de seguridad de 30 mA.
+| Tipo de Contaminación | Peligrosidad | Ejemplo                          | Descontaminación |
+| :-------------------- | :----------- | :------------------------------- | :--------------- |
+| Directa               | + Severa     | Contacto directo con ácido       | + Tiempo         |
+| Indirecta             | - Concentración | Camilla de rescate de víctima contaminada | - Tiempo         |
 
-Los **efectos de la corriente alterna (CA)** a frecuencias de 50/60 Hz, que son las más críticas, se clasifican en cuatro zonas:
-*   **Zona 1 (hasta 0,5 mA):** Generalmente no produce ninguna reacción perceptible.
-*   **Zona 2 (de 0,5 mA a la línea b):** No genera efectos fisiológicos peligrosos.
-*   **Zona 3 (de la línea b a la curva c1):** No provoca daño orgánico, pero sí contracciones musculares que pueden dificultar la respiración y causar paradas cardíacas temporales sin fibrilación ventricular.
-*   **Zona 4 (por encima de la curva c1):** Representa un alto riesgo de parada cardíaca, fibrilación ventricular, parada respiratoria y quemaduras graves.
+En incidentes con mercancías peligrosas, la prioridad es controlar la fuente de contaminación y delimitar el área contaminada. En casos de gran número de personas afectadas, la rapidez del lavado es prioritaria sobre la minuciosidad, lo que se denomina descontaminación masiva.
 
-Por su parte, la **corriente continua (CC)** se considera menos peligrosa que la alterna, ya que facilita que la persona pueda soltar objetos en contacto y presenta un umbral de fibrilación ventricular más elevado. Sus efectos también se dividen en cuatro zonas:
-*   **Zona 1 (hasta 2 mA):** No hay reacción, solo una ligera sensación de picazón.
-*   **Zona 2 (de 2 mA a la línea b):** No se producen efectos peligrosos.
-*   **Zona 3 (de la línea b a la curva c1):** Sin daño orgánico, pero puede causar perturbaciones reversibles en el funcionamiento cardíaco.
-*   **Zona 4 (por encima de la curva c1):** Induce efectos patofisiológicos peligrosos, incluyendo quemaduras profundas que se suman a otros efectos.
+Los objetivos fundamentales de la descontaminación son:
+*   Evitar que las personas contaminadas actúen como agentes contaminantes.
+*   Prevenir la propagación del contaminante desde la zona de mayor riesgo (zona caliente) hacia áreas de apoyo (zona templada) y descanso (zona fría).
+*   Asegurar que el personal interviniente no se contamine al retirar el traje de protección química.
+*   Reducir (y, si es posible, eliminar) la contaminación de las víctimas rescatadas para que puedan recibir asistencia médica.
+*   Garantizar que los Equipos de Protección Individual (EPI) y herramientas no se contaminen, o retirarlos si no pueden ser descontaminados para su reutilización.
 
-Las **corrientes impulsionales**, originadas por descargas de condensadores, son peligrosas. En este caso, el riesgo principal de fibrilación ventricular se relaciona con la cantidad de electricidad (It) o la energía (I²t) para duraciones inferiores a 10 milisegundos. El umbral de dolor se sitúa entre 50 y 100x10⁻⁶ A²s. A frecuencias superiores a 1.000 Hz, los umbrales de acción de la corriente aumentan, y los efectos se limitan principalmente a un calentamiento térmico, sin provocar dolor.
+Los objetivos de descontaminación establecen las siguientes prioridades:
+1.  Personas rescatadas o evacuadas potencialmente contaminadas.
+2.  Personal interviniente en la zona caliente.
+3.  Personal interviniente encargado de la descontaminación.
+4.  Posible contaminación de los equipos utilizados.
 
-El **tiempo de contacto** es un factor crítico. La corriente alterna a 50 Hz es aproximadamente cuatro veces más peligrosa que la continua para un mismo nivel de tensión y corriente. Para que se produzca una fibrilación ventricular, se estima que el tiempo de contacto debe ser de al menos un segundo.
+La descontaminación es una acción esencial en emergencias NRBQ. La prevención de la contaminación es el método más efectivo y se logra mediante:
+*   Uso de EPI adecuados.
+*   Manejo correcto de equipos y herramientas.
+*   Buenas prácticas para evitar riesgos (ej. posturas correctas, planificación de movimientos, tiempo mínimo en áreas de fuga).
 
-La **trayectoria interna** que sigue la corriente en el cuerpo humano es la de menor resistencia, lo que hace que los órganos vitales como el corazón, los pulmones y el cerebro sean puntos de alto riesgo. Las trayectorias más peligrosas incluyen el paso de la corriente de una mano a la otra, o de la cabeza a las manos o los pies. En situaciones de rescate, para evitar el contacto directo con elementos bajo tensión, se recomienda palpar con el dorso de la mano.
+**3.1. Equipos y materiales de descontaminación**
 
-Los **síntomas** de un accidente eléctrico pueden ser inmediatos o diferidos. Los inmediatos incluyen sacudida eléctrica (con o sin pérdida de conocimiento), lesiones traumáticas asociadas, estado de muerte aparente, quemaduras y parálisis o convulsiones. Los síntomas diferidos pueden aparecer horas o días después e incluyen tetanización muscular (anulación de la capacidad para soltar el punto de contacto con corrientes de 10 mA, o 90 mA en CC y 80 mA a 5 kHz), paro respiratorio (por afectación del sistema nervioso), asfixia (por contracción del diafragma) y fibrilación ventricular (interrupción irreversible de la circulación sanguínea que lleva a lesiones cerebrales irreversibles en minutos). Las quemaduras se deben a la energía calorífica liberada, y su gravedad varía según la parte del cuerpo afectada. La muerte por electrocución se produce principalmente por parálisis de los centros nerviosos superiores, fibrilación ventricular o parálisis de los músculos respiratorios.
+El proceso y las técnicas de descontaminación varían según el contaminante, el grado de penetración y la forma de contaminación (contacto con gases tóxicos, rociado de líquidos corrosivos, tiempo de permanencia sobre charcos de productos). En muchas ocasiones, la elección de equipos o materiales "de fortuna" es más decisiva que el agente descontaminante específico.
 
-### Marco Normativo y Componentes de las Instalaciones Eléctricas
+A continuación, se presentan equipos y materiales de uso habitual para descontaminación:
 
-En España, el **Reglamento Electrotécnico de Baja Tensión (REBT)**, aprobado por el Real Decreto 842/2002 de 2 de agosto, es la normativa fundamental que establece las condiciones técnicas y de seguridad para las instalaciones eléctricas conectadas a una fuente de suministro de baja tensión. Sus objetivos principales son garantizar la seguridad de las personas y los bienes, asegurar el funcionamiento normal de las instalaciones y contribuir a su fiabilidad y eficiencia económica. Este reglamento se aplica a nuevas instalaciones, a sus modificaciones y ampliaciones importantes, así como a las instalaciones existentes que presenten riesgos graves o perturbaciones. Sin embargo, no aplica a instalaciones específicas como las de minas, tracción, automóviles, aeronaves, sistemas de comunicación o uso militar, ni a instalaciones de muy baja tensión (inferior a 50V en CA o 75V en CC) con fuente de energía autónoma.
+| Herramienta           | Finalidad                                                                        |
+| :-------------------- | :------------------------------------------------------------------------------- |
+| Cepillos de mango largo | Cepillado y retirada de contaminante                                             |
+| Pulverizador de jardín | Aplicación de líquidos descontaminantes sobre trajes o equipos                   |
+| Bolsas de basura grandes | Almacenamiento de ropa y equipos contaminados no aptos para servicio "in situ" |
+| Jabón                 | Limpieza general                                                                 |
+| Gamuzas o paños absorbentes | Absorción de líquidos derramados en trajes o equipos                             |
+| Bidones               | Contención de mercancías peligrosas y material de absorción o descontaminación contaminado |
+| Ventilador            | Descontaminación seca de productos volátiles cuando el tiempo no permite la descontaminación al aire libre |
+| Bancos o sillas       | Proporcionar asientos al personal interviniente entre estaciones de descontaminación |
+| Cubos                 | Introducción de guantes y botas para descontaminación en mejores condiciones     |
+| Guantes y trajes      | Protección para el equipo que descontamina                                       |
+| Ducha                 | Permiten la descontaminación húmeda (específicas o con mangueras y lanzas)       |
+| Lona de plástico      | Delimitar zonas de descontaminación, evitar caída de contaminantes al suelo y facilitar su retirada |
+| Piscinas hinchables   | Contener el agua utilizada en la descontaminación                               |
+| Soluciones o aplicaciones | Descontaminación química o biológica de trajes y equipos                         |
+| Señalización y balizas | Mantener las zonas correctamente delimitadas y los riesgos identificados           |
 
-El REBT clasifica las **tensiones eléctricas** en tres categorías:
-*   **Muy baja tensión:** Hasta 50V en CA y hasta 75V en CC.
-*   **Tensión usual:** Entre 50V y 500V en CA, y entre 75V y 750V en CC.
-*   **Tensión especial:** Entre 500V y 1.000V en CA, y entre 750V y 1.500V en CC.
-Las tensiones nominales más comunes en distribución de corriente alterna son 230V entre fases, 230V entre fase y neutro, y 400V entre fases. La tensión se define, según el Artículo 8 del REBT, entre fase y tierra o entre dos conductores de fase.
+**3.2. Métodos de descontaminación**
 
-En cuanto a las **instalaciones de alumbrado exterior**, el Artículo 9 del REBT establece condiciones específicas basadas en la situación de intemperie y la facilidad de acceso. Los **tipos de suministro** (Artículo 10) se dividen en:
-*   **Suministros normales:** Un único punto de entrega y la potencia contratada.
-*   **Suministros complementarios o de seguridad:** Destinados a garantizar la continuidad del servicio, pueden ser de socorro (15% de la potencia contratada), de reserva (25% de la potencia contratada) o duplicado (más del 50% de la potencia contratada).
+Los métodos se distinguen según la sustancia contaminante y el tiempo disponible.
 
-La **estructura de las instalaciones de enlace**, que conectan la red de distribución con las instalaciones interiores o receptoras del usuario, se compone de:
-*   La **acometida** (Artículo 15), responsabilidad de la compañía eléctrica, que une la Red General de Distribución (RGD) con la Caja General de Protección (CGP).
-*   La **Caja General de Protección (CGP)**, que aloja elementos de protección de las líneas generales de alimentación y marca el inicio de la propiedad del usuario.
-*   La **Línea General de Alimentación (LGA)**, que conecta la CGP con la centralización de contadores.
-*   Los **elementos para la ubicación de contadores**.
-*   La **derivación individual**, que parte de la LGA y concluye en el Cuadro de Mando y Protección (CMP).
-*   El **Cuadro de Mando y Protección (CMP)**, obligatorio en viviendas y locales según el REBT, que contiene los dispositivos de protección y control internos, como el Interruptor de Control de Potencia (ICP), el Interruptor General Automático (IGA), el Interruptor Diferencial y los Pequeños Interruptores Automáticos (PIAs).
+**3.2.1. Métodos físicos**
+El contaminante, al ser retirado por métodos físicos, conserva sus propiedades y riesgos.
 
-El **grado de electrificación de una vivienda**, que puede ser básico (potencia no inferior a 5.750 W a 230 V, con cinco circuitos independientes) o elevado (potencia no inferior a 9.200 W a 230 V, con más de cinco circuitos), se calcula sumando las potencias de los receptores con una reducción del 40% por no uso simultáneo. Las compañías suministradoras facilitan los valores máximos previsibles de potencias y corrientes de cortocircuito para que el proyectista los considere en sus cálculos.
+*   **Cepillado:** Se retira el producto cepillando el traje del interviniente. Es importante no olvidar zonas de difícil acceso como axilas o entrepierna. Se complementa con una línea de agua para facilitar la retirada.
+*   **Absorción:** Se usa para eliminar productos adheridos a los trajes o como complemento de otros procesos.
+*   **Lavado:** El agua es un buen disolvente y está disponible en grandes cantidades en los vehículos, por lo que es el método más común. Es muy eficaz, salvo con materias que puedan reaccionar con agua.
 
-Además del REBT, existen **otras fuentes regulatorias relevantes**, como el Reglamento de Líneas Aéreas de Alta Tensión (que especifica características para líneas trifásicas de CA a 50 Hz con tensiones superiores a 1.000V), el Reglamento de Centrales, Subestaciones y Centros de Transformación (que establece condiciones de seguridad para estas instalaciones) y las recomendaciones de UNESA (Asociación Española de la Industria Eléctrica), que colabora en la estandarización y fiabilidad de las instalaciones eléctricas. Las **fichas de instrucciones técnicas complementarias (ITC-BT)**, detalladas en el Reglamento, cubren aspectos como la terminología, las normas de referencia, los instaladores autorizados, la documentación, las verificaciones e inspecciones, y las redes de distribución de baja y alta tensión, entre otros muchos.
+*   **Venteo:** Permite la descontaminación al aire libre o con ligera corriente de aire, eliminando productos contaminantes. Es adecuado para sustancias poco solubles en agua (el cepillado y lavado no las disolverían) o muy volátiles (se dispersan rápidamente por su presión de vapor y densidad).
+*   **Aspiración:** Tiene el mismo efecto que la absorción. Se utiliza para recoger contaminantes sólidos y mantenerlos controlados, facilitando su tratamiento posterior.
+
+**3.2.2. Métodos químicos**
+Se utilizan productos químicos que eliminan o neutralizan contaminantes biológicos o químicos, buscando reducir su toxicidad o corrosividad.
+
+*   **Desinfección:** Se aplican desinfectantes (fenólicos, cloro, ozono) para reducir agentes patógenos (bacterias, virus) a un nivel no perjudicial para la salud.
+*   **Neutralización:** Reduce la efectividad de sustancias corrosivas mediante la reacción de un ácido con una base para formar una sal neutra. Esta reacción suele liberar calor, por lo que existen formulaciones especiales que evitan reacciones violentas y calor localizado. Si se usan sólidos para neutralizar, el resultado suele ser el confinamiento del material; en grandes cantidades, es preferible la absorción.
+*   **Polimerización:** Un material peligroso reacciona con un catalizador (calor, luz o material) para formar un sistema polimérico (macromolécula). La polimerización por adición no produce residuos, mientras que la de condensación sí genera pequeñas moléculas como residuo.
+*   **Solidificación:** Un líquido peligroso se trata químicamente para obtener un sólido no peligroso. Los adsorbentes son un ejemplo de este proceso. Es ventajoso para pequeños derrames, permitiendo un confinamiento y tratamiento rápido.
+
+**3.3. Procedimientos de descontaminación**
+
+La descontaminación debe ser efectiva para cumplir los objetivos, lo que depende del método, los equipos, la minuciosidad y el procedimiento completo. Requiere personal implicado, aunque no siempre se tienen las condiciones idóneas.
+
+**3.3.1. Descontaminación masiva**
+Cuando un gran número de personas o víctimas ha estado en contacto con nubes tóxicas o productos contaminantes, la rapidez es prioritaria sobre la minuciosidad. Para que sea efectiva, el procedimiento implica retirar la ropa, lo que elimina el 80% del contaminante.
+
+Existen sistemas comerciales integrados para descontaminación masiva de personas, con contenedores o duchas con múltiples líneas simultáneas. Si no se dispone de ellos, se puede improvisar una estación de descontaminación aplicando agua pulverizada desde camiones o bombas, desde la cabeza hacia abajo, y cepillando. Se advierte que el agua contaminada salpique al personal descontaminador.
+
+**3.3.2. Descontaminación general**
+Es fundamental aislar el lugar del accidente desde el inicio, zonificando en tres áreas: caliente, templada y fría, todas ellas señalizadas. El corredor de descontaminación se activa cuando se prevé la contaminación de intervinientes o víctimas, ubicándose en la zona templada y confinando las actividades de descontaminación en estaciones sucesivas. Debe asegurar el acceso y control del personal afectado al entrar en contacto con la sustancia peligrosa, prestando atención a la presión de la botella, el estado de confort del interviniente y la idoneidad del EPI.
+
+El mando debe planificar la descontaminación considerando:
+*   Ubicación.
+*   Métodos de descontaminación (solución, equipo humano, material disponible).
+*   Control de aguas contaminadas.
+*   Asistencia médica.
+*   Entrega y reposición de ropa y equipo contaminado.
+
+Es crucial analizar el pH del agua de descontaminación (contenida en piscinas o zonas con diques). Si el pH no está entre 5 y 9, se debe informar al organismo competente para tratar el agua.
+
+**3.4. Etapas o dimensión de la descontaminación**
+
+Para prever la dimensión del corredor de descontaminación, se debe valorar el contaminante y los medios materiales y humanos disponibles. Como mínimo, debe haber una estación de lavado con ducha y piscina hinchable para el cepillado del personal. Si los medios son insuficientes, se puede usar un cubículo con mangueras de gran diámetro de carga de agua y una lona para contenerla, colocando una lanza sobre escaleras a modo de ducha.
+
+**3.4.1. Primera estación: Ducha extensa**
+Antes de entrar en la primera balsa, se deben introducir botas y guantes en cubetos para desprender la mayor parte del contaminante. Luego se entra en la “piscina” (balsa). La ducha debe aplicarse de la cabeza hacia abajo para arrastrar el contaminante de la superficie del equipo de protección y evitar que el agua contaminada salpique. Si el contaminante es corrosivo, la dilución es más efectiva.
+
+El responsable de la descontaminación determina los movimientos del “contaminado”. Una vez que la ducha ha cumplido su función, el personal levanta un pie hacia atrás para cepillar la bota antes de pasar a la siguiente estación. Lo mismo se hace con el otro pie.
+
+**3.4.2. Segunda estación: Descontaminación con soluciones**
+En esta estación es fundamental el cepillado junto con la solución descontaminante. Si no hay solución específica, se usa detergente con agua, prestando atención a posibles reacciones adversas. Si la contaminación es por contacto con víctimas de Síndrome de Diógenes o por causas bacteriológicas, se puede usar desinfectante tipo Zorkil.
+
+**3.4.3. Tercera estación: Aclarado**
+Un buen aclarado es crucial para eliminar la solución limpiadora y los restos de contaminantes. Se debe asegurar la ausencia de producto perjudicial con dosímetro u otro equipo de detección (radiación, pH, etc.).
+
+**3.4.4. Cuarta estación - Retirada de trajes y monitoreo**
+Después de las tres primeras estaciones, se pasa a la cuarta para retirar el traje. Su correcta colocación y retirada son importantes para evitar el contacto con restos nocivos y la contaminación. Se realiza un monitoreo del personal para medir corrosividad y material radiactivo antes de pasar a la zona fría. Si hay servicios médicos, se tratará a los afectados para evitar la transferencia de contaminación y asegurar que están en condiciones de apoyar a otros grupos.
+
+Tras la intervención, los equipos y herramientas se almacenan en bolsas herméticas para su posterior revisión, tratamiento o retirada. Se pueden dar los siguientes casos:
+*   Se limpian in situ o en el parque y se reintegran al servicio.
+*   Los equipos desechables (trajes antisalpicaduras, guantes de látex, mascarillas) se tratan y eliminan.
+*   Los equipos de Nivel III se revisan por personal especializado. Si se detecta permeación, el interviniente debe ser informado y tratado en un hospital o centro médico.
+
+Es conveniente reponer los equipos lo antes posible para futuras intervenciones.

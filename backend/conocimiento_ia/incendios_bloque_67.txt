@@ -1,52 +1,64 @@
-# Casos Prácticos en Intervenciones de Incendios de Vegetación
+## TEMA: Casos Prácticos en Intervenciones de Bomberos y Emergencias
 
-La correcta gestión de un incidente con incendios de vegetación exige una planificación táctica fundamentada en la valoración exhaustiva del escenario, los recursos disponibles y los objetivos prioritarios. A continuación, se detallan ejemplos de intervención para escenarios comunes, ilustrando la aplicación de principios operativos fundamentales.
+### 1. Incendio en Vivienda Unifamiliar
 
-## Incendio de Pasto Bajo en Zona sin Desnivel Pronunciado
+Este apartado presenta un caso práctico de incendio en una vivienda unifamiliar, con la siguiente configuración:
+*   **Planteamiento:** Se reporta un incendio de contenido en una vivienda unifamiliar exenta de dos plantas. La puerta principal está abierta y la estructura está inundada de humo, con una víctima confirmada en el interior.
+*   **Dotación:**
+    *   1 Mando de Intervención (MI).
+    *   1 Jefe de Dotación (CJD).
+    *   5 Bomberos (BB).
+    *   1 Bomba pesada.
+    *   1 Vehículo de altura.
+    *   El personal se organiza en equipos: 1 MI, 1 Equipo de Ataque 1 (CJD + BB1), 1 Equipo de Apoyo (BB2 + BC) y 1 Equipo de Ataque 2 (BB3 + BB4).
+*   **Valoración:** Al llegar, el mando informa a sus superiores sobre el estado del incendio y evalúa si los recursos disponibles son suficientes. Se realiza un reconocimiento del terreno, identificando rutas de escape seguras y la dirección/velocidad del fuego.
+*   **Intervención:** El mando establece las siguientes acciones:
+    1.  Un primer equipo de intervención, utilizando un vehículo todoterreno tipo *pickup* con bomba de agua y lanza de alta presión, se encargará de barrer el frente de llamas desde el flanco extremo, a una velocidad que permita a los bomberos que acompañan al vehículo extinguir el fuego.
+    2.  El resto de los bomberos finalizará el trabajo del *TT pickup* con mochilas extintoras o batefuegos. El mando supervisará continuamente la evolución de la operación.
+    3.  El conductor de la BRP, estacionado en una zona segura con ruta de salida rápida, vigilará un posible cambio en la dirección de propagación del incendio hacia la bomba.
+    4.  Una vez asegurada la extinción del incendio, se recogerá todo el material, y se informará a los mandos superiores del regreso al parque de bomberos.
+    5.  En el parque, se procederá a la revisión y limpieza del material utilizado, y se recargarán los depósitos de agua y combustible.
 
-**Planteamiento del escenario:**
-Se presenta un incendio de pasto bajo en una zona llana, sin grandes desniveles. Existe una víctima confirmada en el interior de la zona afectada, la estructura principal se encuentra inundada por humo y la puerta de acceso principal está abierta.
+### 2. Protección de Núcleo Urbano en Incendio de Interfaz
 
-**Dotación y valoración inicial:**
-La dotación asignada incluye un vehículo todoterreno tipo *pickup* (TT *pickup*) con dos bomberos, una Bomba Rural Pesada (BRP) con cuatro bomberos y un mando. A la llegada, el mando de intervención evalúa el estado del incendio, las vías de escape seguras y la dirección y velocidad del fuego para determinar la viabilidad de la operación con los medios disponibles.
+*   **Planteamiento:** Se asigna a esta dotación la protección de un conjunto de viviendas defendibles dentro de un Gran Incendio Forestal (GIF) en la ladera sur de un cerro. El incendio se desarrolla en la cara norte. El cerro posee un cortafuegos en su cresta. El combustible principal es matorral arbóreo denso con pinos aislados.
+*   **Dotación:**
+    *   1 BRP con cuatro bomberos.
+    *   1 BR con dos bomberos.
+    *   1 *TT pickup* con dos bomberos.
+*   **Valoración:** La zona urbana ha sido evacuada. Las prioridades son la defensa de las estructuras, el establecimiento de rutas de escape y una zona segura. Se elige una táctica defensiva de contención completa, utilizando una técnica de ataque indirecto mediante quema de ensanche.
+*   **Intervención:**
+    1.  La dotación posicionará la BRP y el *TT pickup* en el camino superior, cubriendo la totalidad de las estructuras a proteger.
+    2.  La BRL permanecerá en las zonas inferiores como apoyo o para actuar en las inmediaciones de las viviendas si fuera necesario.
+    3.  La quema de ensanche se ejecutará con antorcha de goteo, progresando por zonas desde la izquierda.
+    4.  Cada vehículo controlará una de las zonas de la quema mediante tendidos de mangueras.
+    5.  Una vez quemada toda la anchura entre el camino y la cresta, se esperará en el camino a que el frente alcance la cima, evitando su propagación con tendidos de mangueras si es necesario.
+    6.  Una vez controlado el frente de llamas, se liquidará el perímetro refrescando los puntos calientes.
 
-**Intervención táctica:**
-Un primer equipo de intervención, compuesto por el TT *pickup* y dos bomberos equipados con bomba de agua y lanza de alta presión, procederá a barrer el frente de llamas desde el flanco del incendio, manteniendo una velocidad que permita la extinción efectiva. Es crucial que este equipo circule por una zona segura y permanezca atento a la propagación del incendio y la altura de las llamas. Paralelamente, el resto de los bomberos rematará la extinción utilizando mochilas extintoras o batefuegos. El mando de intervención supervisará constantemente la evolución de la operación. El conductor de la BRP permanecerá estacionado en un lugar seguro con una ruta de salida rápida, vigilando cualquier cambio en la dirección de propagación del incendio que pudiera afectar a la bomba. Una vez asegurada la extinción, se recogerá todo el material y se comunicará el fin de la intervención a los mandos superiores. De regreso al parque, se realizará la revisión y limpieza del material utilizado y la recarga de los depósitos de agua y combustible.
+### 3. Protección de Enclave Aislado
 
-## Protección de Núcleo Urbano en Incendio de Interfaz
+*   **Planteamiento:** El combustible es matorral ligero, pasto y árboles aislados. El incendio se desarrolla en una ladera de difícil acceso para vehículos, tanto por la pendiente como por la vegetación. No hay viento. El fuego se dirige hacia el lado derecho de la pendiente a una velocidad asumible por la dotación.
+*   **Dotación:**
+    *   1 BRP con seis bomberos.
+    *   1 BRL con dos bomberos.
+*   **Valoración:** Al llegar, el mando comunica el estado del incendio a sus superiores y decide si los recursos son suficientes. Se reconoce el terreno, evaluando las vías de escape seguras y la dirección/velocidad del fuego.
+*   **Intervención:**
+    1.  La BRP se posiciona en el camino cerca del flanco derecho, y la BRL cerca del flanco izquierdo.
+    2.  Se montan dos tendidos desde ambas bombas, ascendiendo desde el camino inferior.
+    3.  El tendido de la BRP progresará por el flanco derecho con dos líneas. Una primera línea, con tres bomberos, avanzará más rápido para reducir las calorías del incendio y cortar la propagación. Una segunda línea, con dos bomberos, ascenderá con más calma, rematando el flanco.
+    4.  Para el despliegue de las mangueras, inicialmente se empalmarán cinco tramos desde la bomba y se ascenderá con ellas. Cuando el mangaje montado esté totalmente extendido a lo largo del flanco y se necesiten más mangueras, se subirán en rollos y se añadirán en el último tramo, en el racor de la lanza, aplicando cizallamiento para conectar sin cortar la presión.
+    5.  Desde la BRL, se desplegará otro tendido con dos líneas. La primera, con un bombero, rematará los rescoldos cercanos a los vehículos y vigilará posibles reinicios o actuará como tendido de rescate. La segunda línea, con dos bomberos, ascenderá por el flanco izquierdo, rematando el perímetro.
+    6.  Una vez extinguido el incendio y rematado el perímetro, se vaciarán las mangueras y se plegarán en forma de ocho, por ser el método más efectivo y cómodo para su transporte en el terreno con vegetación.
+    7.  Se comunicará a los mandos superiores el regreso al parque de bomberos.
+    8.  En el parque, se revisará y limpiará el material, y se recargarán los depósitos de agua y combustible.
 
-**Planteamiento del escenario:**
-Se trata de un Gran Incendio Forestal (GIF) en el que se debe proteger un núcleo de viviendas defendibles ubicado en la cara sur de un cerro. El incendio se desarrolla en la cara norte del cerro, el cual cuenta con un cortafuegos en la cresta. El combustible predominante es matorral arbóreo denso con algunos pinos aislados.
+### 4. Incendio de Subsuelo Causado por un Rayo
 
-**Dotación y valoración inicial:**
-La dotación incluye una BRP con cuatro bomberos, una Bomba Rural Ligera (BRL) con dos bomberos y un TT *pickup* con dos bomberos. Tras la valoración inicial, se confirma que la zona ha sido evacuada. Las prioridades tácticas son la defensa de las estructuras, el establecimiento de rutas de escape y la seguridad de la zona. Se opta por una táctica defensiva de contención completa, empleando el ataque indirecto mediante quema de ensanche.
-
-**Intervención táctica:**
-La dotación de la BRP y el TT *pickup* se posicionará en el camino superior para cubrir la totalidad de las estructuras a proteger. La BRL, por su parte, se mantendrá en las zonas inferiores, preparada para actuar en las inmediaciones de las viviendas o como apoyo al resto de la dotación si fuera necesario. La quema de ensanche se ejecutará mediante antorcha de goteo, progresando por zonas y comenzando desde el lado izquierdo. Cada vehículo controlará una sección de la quema mediante tendidos de mangueras. Una vez que la franja entre el camino y la cresta haya sido quemada, se esperará a que el frente llegue a la cima, evitando su propagación con tendidos si es preciso. Una vez controlado el frente de llamas, se procederá a liquidar el perímetro, refrescando los puntos calientes.
-
-## Incendio de Subsuelo por Rayo
-
-**Planteamiento del escenario:**
-Se detecta un incendio en el subsuelo causado por el impacto de un rayo en un árbol. El fuego está sectorizado alrededor del árbol y no presenta peligro inminente de propagación a la maleza circundante.
-
-**Dotación y valoración inicial:**
-La dotación consiste en una BRP con cuatro bomberos. Al llegar a la zona, el mando constata que el incendio está sectorizado alrededor del árbol afectado por el rayo y que no hay riesgo de propagación a la vegetación cercana.
-
-**Intervención táctica:**
-El mando utilizará una cámara térmica para identificar las zonas con mayor temperatura en el árbol y en el suelo que estén humeando o no. Posteriormente, se procederá a excavar manualmente las zonas de mayor calor con herramientas como el palín, McLeod, azada o pulaski. Estas áreas serán humedecidas hasta que la temperatura se elimine por completo. También se cortarán las raíces más gruesas afectadas por combustión latente y se apartarán para su refrescado. Simultáneamente, se limpiará la zona de combustible fino y medio para prevenir una posible reignición. Una vez asegurada la extinción, se recogerá el material y se comunicará el fin de la intervención. En el parque, se revisará y limpiará el equipo, recargando los depósitos de agua y combustible.
-
-## Incendio en Media Ladera
-
-**Planteamiento del escenario:**
-Se reporta un incendio en una ladera de difícil acceso para vehículos debido a la pendiente y la vegetación. No se registra viento, y el fuego se propaga hacia el lado derecho con una velocidad considerada asumible por la dotación. El combustible es un robledal joven, no muy denso, mezclado con distintos arbustos.
-
-**Dotación y valoración inicial:**
-La dotación se compone de una BRP con seis bomberos y una BRL con dos bomberos. Se confirma la inaccesibilidad de la ladera para vehículos y la propagación del fuego con velocidad asumible hacia la derecha, en ausencia de viento.
-
-**Intervención táctica:**
-La BRP se posicionará en el camino cercano al flanco derecho, mientras que la BRL se ubicará cerca del flanco izquierdo. Se montarán dos tendidos de mangueras desde ambas bombas, progresando de abajo hacia arriba. La primera línea, compuesta por tres bomberos de la BRP, avanzará rápidamente por el flanco derecho ascendente con dos líneas de ataque, con el objetivo de reducir la carga calórica del incendio y cortar su propagación. La segunda línea, integrada por los dos bomberos de la BRL, ascenderá con más calma, rematando el flanco.
-
-**Procedimiento de tendido y recogida de mangueras:**
-Para la instalación de las mangueras, se empalmarán inicialmente cinco tramos desde la bomba, ascendiendo con ellos. Una vez extendido el mangaje a lo largo del flanco y si se requieren más mangueras, se subirán en rollos, añadiéndolas en el último tramo en el racor de la lanza. La presión se cortará con un cizallamiento manual cerca del racor a empalmar. Desde la BRL, se desplegará otro tendido con dos líneas. La primera, con un bombero, rematará los rescoldos cercanos a los vehículos y vigilará posibles reigniciones, sirviendo también como tendido de rescate. La segunda línea, con dos bomberos, ascenderá por el flanco izquierdo rematando el perímetro.
-
-Una vez extinguido el incendio y rematado el perímetro, se vaciarán las mangueras y se plegarán en forma de ocho. Este método se considera efectivo y cómodo para el transporte en terrenos irregulares y con vegetación densa. Finalmente, se comunicará la vuelta a parque y se procederá a revisar, limpiar y recargar todo el material y los depósitos.
+*   **Planteamiento:** Se detecta un incendio en un túnel causado por el impacto de un rayo en un árbol. El incendio está sectorizado alrededor del árbol.
+*   **Dotación:** 1 BRP con cuatro bomberos.
+*   **Valoración:** La dotación llega a la zona y confirma que el incendio está sectorizado alrededor del árbol afectado. No hay peligro de propagación a la vegetación circundante.
+*   **Intervención:**
+    1.  El mando utiliza la cámara térmica para identificar las zonas con mayor temperatura en el árbol y en el suelo, tanto las que humean como las que no.
+    2.  Se procede a excavar con herramientas manuales (palín, McLeod, azada, pulaski) las zonas con mayor concentración de calor, y se humedecen hasta eliminar la temperatura. Las raíces más gruesas afectadas por combustión latente se cortan y retiran para su enfriamiento.
+    3.  Se limpia la zona de combustible fino y medio para prevenir una posible reignición.
+    4.  Una vez asegurada la extinción, se recoge el material, se informa a los mandos superiores del regreso al parque, y en este se revisa y limpia el material, y se recargan los depósitos de agua y combustible.

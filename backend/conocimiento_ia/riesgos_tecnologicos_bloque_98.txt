@@ -1,13 +1,140 @@
-## I. Intervención en Estructuras Colapsadas: Principios y Tácticas
+## Módulo 6: Riesgo Eléctrico
 
-Las intervenciones de Búsqueda y Rescate en Estructuras Colapsadas (BREC) exigen una actuación coordinada, multidisciplinar y bien planificada por parte de los servicios de emergencia. Dada la naturaleza crítica de estos eventos, la eficacia y la seguridad son primordiales, buscando minimizar el riesgo de un efecto dominó que agrave la situación.
+### Capítulo 1: Caracterización
 
-### 1. Fases Generales de Intervención
+#### 2. Redes eléctricas
 
-La gestión de una intervención BREC se estructura en varias fases esenciales para asegurar una respuesta óptima:
+Las instalaciones eléctricas se clasifican en dos grandes grupos según la tensión de servicio:
+*   **Instalaciones de alta tensión (AT):** Comprenden todos los equipos y circuitos para la producción, transformación, transmisión, distribución y utilización de energía eléctrica, con tensiones nominales superiores a 1.000 V en corriente alterna (CA) y 1.500 V en corriente continua (CC). Las tensiones de CA más habituales en alta tensión varían entre 11 kV y 380 kV.
+*   **Instalaciones de baja tensión (BT):** Con tensiones nominales inferiores a 1.000 V en CA y 1.500 V en CC. Las tensiones de BT más comunes son 380 V (trifásica), 220 V y 125 V.
 
-*   **Fase de Preparación:** Implica la formación y el entrenamiento continuo de todo el personal participante, dotándolos de las habilidades y conocimientos necesarios.
-*   **Fase de Activación, Registro y Asignación:** Requiere una movilización considerable de personal y recursos. La complejidad de estas operaciones demanda una planificación detallada de turnos y relevos para evitar tiempos muertos, así como la disposición de una amplia variedad de herramientas. La coordinación y compenetración entre todos los intervinientes son fundamentales.
-*   **Fase de Intervención (Búsqueda y Rescate):** Se lleva a cabo en varias etapas clave:
-    *   **Asegurar la Escena:** Paso inicial donde se realiza un análisis estructural para identificar puntos de inestabilidad y se establecen estabilizaciones preventivas. Si la inspección in situ es necesaria, debe realizarse desde zonas seguras.
-    *   **Evalu
+La energía eléctrica se genera en centrales a partir de fuentes renovables (solar, hidráulica, térmica) o no renovables (nuclear). Estas centrales utilizan alternadores que producen energía eléctrica trifásica en CA, a una tensión de 20 kV entre fases. Disponen de una estación de transformación con un transformador elevador que aumenta la tensión de producción entre 66 kV y 380 kV.
+
+##### 2.1. Plantas de generación de electricidad
+
+###### 2.1.1. Líneas de transporte y distribución en alta tensión
+
+Las líneas de alta tensión transportan la energía a grandes distancias desde las centrales hasta las subestaciones, con tensiones entre 66 kV y 380 kV. Según el Reglamento, se distinguen tres categorías:
+
+**a) Líneas de tensión nominal superior a 66 kV:**
+*   **Recorrido:** Transcurren desde las centrales hasta las grandes subestaciones.
+*   **Conductores:** Pueden ser dobles, triples o cuádruples (2 a 4 hilos por fase).
+*   **Altura:** Son las líneas más elevadas.
+*   **Distribución:** Se sustentan en apoyos tipo celosía, con tres conductores o un múltiplo de tres. Pueden incluir uno o dos conductores de menor sección en la parte superior, que actúan como pararrayos o hilos de guarda.
+*   **Aisladores:** Emplean aisladores de vidrio, generalmente más de seis, con capacidad para unos 10.000 V por aislador.
+
+**b) Líneas de tensión nominal comprendida entre 30 kV y 66 kV:**
+*   **Recorrido:** Conectan grandes subestaciones con subestaciones medianas y pequeñas.
+*   **Tipo:** Pueden ser aéreas o subterráneas (en áreas urbanas).
+*   **Conductores (aéreas):** Uno o dos conductores por fase.
+*   **Cables (subterráneas):** Se identifican por su color rojo o marrón (para líneas antiguas de aceite).
+*   **Aisladores:** Suelen llevar entre cuatro y seis aisladores de vidrio.
+
+**c) Líneas de tensión nominal superior a 1 kV y hasta 30 kV:**
+*   **Recorrido:** Desde pequeñas y medianas subestaciones hasta centros de transformación industriales o urbanos.
+*   **Hilo de guarda:** No disponen.
+*   **Ubicación:** Pueden ser subterráneas en ciudades y aéreas en zonas interurbanas.
+*   **Postes:** De baja altura.
+*   **Aisladores:** Menos de tres aisladores de vidrio.
+*   **Reenganches automáticos:** Estas líneas pueden tener cierres automáticos predeterminados en la secuencia de maniobra.
+    *   **Con 70% o más de red subterránea:** Un reenganche.
+    *   **Entre 30% y 70% de red subterránea:** Dos reenganches.
+    *   **Menos del 30% de red subterránea:** Tres reenganches.
+    *   **Duración:** Los reenganches se producen en un máximo de tres minutos, tras los cuales la compañía realiza pruebas específicas.
+
+###### 2.1.2. Subestación transformadora
+
+Dentro de cada subestación, se encuentran varias líneas de entrada y salida con interruptores y protecciones para los transformadores y líneas de salida. Las subestaciones se estructuran en tres secciones principales: medición, cuchillas de paso e interruptor, además de otras secciones derivadas. Se clasifican por tamaño y función.
+
+**a) Clases de subestaciones por su tamaño:**
+*   **Grandes subestaciones:**
+    *   **Función:** Elevar o disminuir tensiones entre líneas de primera y segunda categoría.
+    *   **Operación:** Se controlan desde una central mediante software (telemando).
+    *   **Tensiones:** Reciben tensiones entre 66 kV y 380 kV (alta tensión, AT).
+    *   **Propósito:** Transformar la energía eléctrica de AT a media tensión (MT), entre 10 kV y 45 kV.
+    *   **Equipos:** Emplean transformadores, conocidos como "trafos".
+    *   **Acceso:** Restringido al personal autorizado.
+*   **Pequeñas o medianas subestaciones:**
+    *   **Función:** Elevar o disminuir tensiones entre líneas de segunda y tercera categoría.
+    *   **Vigilancia:** No están vigiladas permanentemente.
+    *   **Acceso:** No son accesibles al público en general.
+    *   **Control:** Se gestionan desde las grandes subestaciones de la zona (telemando).
+
+##### 2.2. Líneas de distribución en media tensión
+
+Estas líneas distribuyen electricidad con potencias de 11 o 20 kV. Su recorrido se inicia en las subestaciones y llega a centros de reparto a través de varias líneas, o directamente a clientes industriales de alta tensión.
+
+**Partes fundamentales:**
+1.  **Celdas de entrada de MT:** Componentes que gestionan la entrada de energía.
+2.  **Celdas de salida de MT:** Componentes que gestionan la salida de energía.
+3.  **Embarrado de MT:** Barras colectoras que distribuyen la corriente.
+
+**a) Celdas de entrada y salida**
+Consisten en dos celdas de entrada y salida, junto con un seccionador de entrada o salida.
+*   **Celda del interruptor de línea:** Contiene un interruptor de aceite o hexafluoruro de azufre para cortar el anillo de la línea de MT.
+*   **Celda de derivación:** Incluye la derivación de línea y un seccionador.
+*   **Celda de medida en MT:** Aloja pequeños transformadores para la medición.
+*   **Celda del interruptor del centro:** Contiene un interruptor de MT ubicado antes de la entrada al primario del transformador, que puede ser de aceite o un seccionador en carga.
+*   **Celda de transformador:** Aloja el transformador que reduce la tensión a la de consumo. Este incluye seis bobinas: tres para alta tensión y tres para baja tensión. El transformador cuenta con un núcleo de hierro dulce donde se enrollan dos bobinas (primaria y secundaria), aisladas entre sí. Los campos magnéticos generados por la corriente se concatenan por inducción electromagnética. La bobina primaria se conecta a la red de alta tensión, generando un campo magnético variable que induce en la secundaria una tensión de acuerdo con las leyes de Faraday. La relación de transformación teórica se calcula como el cociente entre el número de espiras del devanado primario y el número de espiras del devanado secundario.
+
+##### 2.3. Centros de transformación
+
+Los centros de transformación (CT) reducen la tensión de MT (11 o 20 kV) a BT, ya sea trifásica (380 V entre fases) o monofásica (220 V entre fase y neutro). Se encuentran en barrios urbanos, locales, industrias y centros públicos. Las redes de distribución de MT suelen tenderse en anillo, con líneas que entran y salen de los CT, que también funcionan como centros de seccionamiento. Estos centros experimentan un mayor calentamiento debido al consumo eléctrico, y su acceso está restringido a personal autorizado. Son puntos donde los bomberos intervienen con mayor frecuencia.
+
+###### 2.3.1. Tipos de Centros de Transformación
+
+**a) Por su ubicación física:**
+*   **Intemperie:** Situados lejos de núcleos urbanos (zonas rurales, agrícolas o polígonos industriales). Son de baja potencia y se montan sobre postes de hormigón o acero.
+*   **Prefabricados de hormigón:** Se encuentran en polígonos industriales, zonas rurales o agrícolas. Su interior puede contener varios transformadores. Son visibles rejillas de ventilación, etiquetas de riesgo eléctrico y placas identificativas. Los cables suelen ser rojos y estar enterrados.
+*   **Subterráneo:** Típicos en nuevas urbanizaciones, áreas de alta concentración comercial, monumentos históricos o edificios públicos.
+*   **Edificios de obra civil:** Ubicados en bajos de edificios y locales comerciales, o en espacios de uso público.
+
+**b) Por su ubicación en la red eléctrica:**
+*   **De punta:** Localizados al final de una línea o como único punto en ella. Tienen una sola entrada de línea y dos celdas de entrada para futuras ampliaciones.
+*   **De paso:** Situados en un punto intermedio de una línea. Reciben una línea de una subestación o de otro CT y continúan hacia el siguiente. Incluyen una celda de entrada y otra de salida de línea.
+*   **De anillo:** Tipo especial de centro de paso, alimentado desde dos extremos. Es la configuración más común en ciudades y polígonos industriales, ofreciendo alta fiabilidad en el suministro.
+
+**c) En función de su propiedad:**
+*   **De cliente o abonado:** Suministran energía a un único cliente, que es un gran consumidor y compra energía en AT para transformarla en sus propias instalaciones.
+*   **De compañía o distribución:** Suministran energía a varios clientes a través de una red de baja tensión.
+
+###### 2.3.2. Componentes
+
+Los centros de transformación incluyen varias líneas de entrada y salida con protecciones e interruptores de maniobra. Las líneas de salida de BT están equipadas con fusibles de protección en el cuadro de baja tensión.
+
+**b) Transformador:**
+*   **De aceite:** Algunos modelos usan piraleno, que al arder produce humos tóxicos y cancerígenos. Por legislación española, su retirada es obligatoria.
+*   **Seco:** Sus bobinas están cubiertas de resina epoxi, material auto-extinguible en caso de incendio.
+
+**c) Cuadro de baja tensión:** Incluye:
+*   Un interruptor conectado a la salida del secundario del transformador.
+*   Los aparatos de medida de baja tensión.
+*   Los interruptores de salida en la línea de baja tensión.
+
+##### 2.3.3. Centros de transformación en plantas industriales
+
+Las plantas industriales, como fábricas u hospitales, suelen tener sus propios centros de transformación debido a su alta demanda de energía, que requiere tensiones superiores a las nominales de servicio.
+*   **Acometida:** En grandes consumos, la acometida es trifásica. Puede ser monofásica o bifásica. Generalmente es única y llega a una caseta receptora donde se ramifica para alimentar los transformadores de alumbrado y fuerza. Incluye un cuadro de control y medida en el lado de alta tensión.
+*   **Instalación interior:** Las líneas de alumbrado se distribuyen equitativamente entre las fases de entrada para equilibrar el sistema.
+
+##### 2.3.4. Centros de transformación de vías férreas
+
+Los sistemas de transporte ferroviario (tren, tranvía, metro) utilizan electricidad para el movimiento de motores. Las tensiones comunes son 3 kV en convencional y 20-25 kV en alta velocidad, siempre en corriente alterna a 50 Hz.
+*   **Catenaria:** Conjunto de cables alimentadores, apoyos y elementos de tracción y suspensión que transmiten la energía eléctrica al tren a través del pantógrafo. El polo positivo se encuentra en la catenaria y el negativo en los raíles.
+*   **Líneas aéreas de trolebuses:** No utilizan raíles para el retorno de corriente, sino un segundo cable paralelo al primero.
+*   **Protecciones:** Las líneas aéreas de contacto cuentan con protecciones para cortocircuitos, derivaciones, sobretensiones y vandalismo, que varían según el tipo de corriente y tensión.
+*   **En corriente continua, las protecciones habituales incluyen:**
+    *   Cable de tierra (cable guarda).
+    *   Descargadores de sobretensiones.
+    *   Tomas de tierra.
+    *   Conexiones equipotenciales.
+    *   Viseras, pantallas y barreras mecánicas.
+    *   Frenos y bloqueos para evitar la caída de la línea o los contrapesos.
+*   **En corriente alterna, las protecciones habituales incluyen:**
+    *   Cable de tierra (en paralelo con el retorno de tracción).
+    *   Tomas de tierra.
+    *   Conexiones equipotenciales.
+    *   Descargadores de sobretensiones.
+    *   Viseras, pantallas y barreras mecánicas.
+    *   Frenos y bloqueos de caída de la línea.
+*   **Alta velocidad:** Opera a 25 kV en CA, y la catenaria se encuentra más tensa que en sistemas convencionales.

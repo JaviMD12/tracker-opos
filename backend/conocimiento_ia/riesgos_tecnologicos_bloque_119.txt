@@ -1,60 +1,44 @@
-La gestión de árboles caídos o peligrosos y las técnicas de apeo y poda son esenciales para los servicios de emergencia, especialmente en entornos urbanos o ante catástrofes naturales. Para una intervención eficaz y segura, es fundamental comprender las diferentes metodologías y las herramientas adecuadas, así como las consideraciones de seguridad asociadas.
+El presente documento aborda la caracterización de los contenedores para sustancias peligrosas, los sistemas de identificación utilizados, y las técnicas de intervención y valoración para incidentes NRBQ (Nuclear, Radiológico, Biológico y Químico).
 
-### Técnicas de Apeo de Arbolado
+### 4. Recipientes de Transporte y Almacenaje. Afección en Siniestros
 
-El apeo o derribo de árboles se clasifica en varias técnicas, según la situación y el objetivo:
+La reglamentación de los recipientes de transporte de mercancías peligrosas (MP) es diversa, incluyendo normativas como ADR y RID. Las características de estos envases y embalajes, como su tamaño, material y resistencia, varían según el tipo de mercancía, su estado, y las condiciones de presión y temperatura. Los materiales de fabricación incluyen madera, cartón, plástico, aluminio, acero al carbono y papel.
 
-#### 1. Modificación de la Caída Natural con Tractel
+#### 4.1. Tipos de Recipientes
 
-Esta técnica se aplica cuando es necesario alterar la dirección natural de caída de un árbol o asegurar una trayectoria precisa, especialmente en entornos urbanos con elementos vulnerables (edificios, vehículos, tendidos eléctricos). Para ejecutarla, se fija un anclaje lo más alto posible en el árbol a derribar, utilizando una eslinga o cuerda. A continuación, se busca un punto de anclaje para el tractel (un vehículo robusto o un árbol cercano) a una distancia superior al doble de la altura del árbol a intervenir. Si esta distancia no es posible, se puede emplear una cuerda semiestática como reenvío.
+Se distinguen tres modalidades para el transporte de mercancías peligrosas:
 
-Una vez tensada la cuerda del tractel, el corte de derribo con la motosierra debe coordinarse con la tensión del tractel, aplicando una tensión progresiva. Si el árbol no cae tras el corte, el operador del tractel debe seguir tensando hasta provocar la caída. Es crucial establecer un perímetro de seguridad que duplique la altura del árbol, manteniendo únicamente al operador de motosierra y al del tractel dentro de esta zona. Se desaconsejan los cortes muy altos en el tronco debido al riesgo de desgarro, y se prohíbe trabajar bajo el tronco o en la dirección de caída.
+*   **Transporte en bultos:** Las MP se transportan envasadas en recipientes como cajas, botellas, jerricanes o bidones.
+*   **Transporte en cisternas:** El vehículo funciona como envase para gases o líquidos (cisternas fijas, desmontables, vehículos batería o contenedores cisterna).
+*   **Transporte a granel:** El vehículo actúa como envase para sólidos no envasados.
 
-#### 2. Apeo de Árboles Podridos o Huecos
+El ADR establece obligaciones sobre documentación, señalización y condiciones de transporte. La información relevante sobre clasificación de MP se presenta en el ADR (Tabla A por número ONU, Tabla B por orden alfabético).
 
-Cuando se trata de árboles con podredumbre o huecos internos, las técnicas de apeo convencionales no son seguras debido a la imprevisibilidad de su caída. En estos casos, se recomienda la técnica del **corte de corazón** o **corte de mortaja**. El objetivo es eliminar las fibras resistentes del núcleo central del tronco para controlar la separación y evitar un rajado incontrolado. Se debe realizar un corte de dirección (cuña) con un ángulo de inclinación mayor en la cara superior, seguido de un corte de punta horizontal hasta la mitad del diámetro del árbol. Finalmente, se procede con la técnica del compás para el corte de derribo. Para esta operación, la bisagra o charnela debe ser más gruesa y el corte de derribo se efectúa ligeramente más alto de lo habitual.
+##### 4.1.1. Transporte en bultos
 
-#### 3. Apeo por Derribo
+Además de cisternas y otros recipientes de gran tamaño, se utilizan envases específicos para MP en vehículos con panel naranja:
 
-Este método se utiliza cuando un árbol es inherentemente inestable (con grandes grietas verticales, fallos radiculares o inclinación excesiva) y se busca derribarlo completamente sin realizar cortes con motosierra. La técnica consiste en tirar del árbol con un tractel. El perímetro de seguridad y las consideraciones son similares a las del apeo de caída natural.
+*   **Bidón:** Envase cilíndrico (o combado) de metal, cartón, plástico, contrachapado o madera, con capacidad máxima de 400 kg. También incluye formas de balde o con caperuza cónica.
+*   **Jerricán (o Cuñete):** Envase rectangular o poligonal con uno o varios orificios, fabricado en metal (acero o aluminio) o plástico, con capacidad máxima de 60 o 120 kg.
+*   **Caja:** Envase con lados compactos rectangulares o poligonales, de metal, madera, contrachapado, aglomerado, cartón o plástico. Capacidad máxima de 400 kg, excepto 60 kg para plástico expandido. Pequeños orificios pueden facilitar la manipulación.
 
-### Técnicas sobre Árboles Caídos
+### 3. Sección
 
-Cuando un árbol ya ha caído, pero está apoyado en otro elemento o atrapado, se requieren técnicas específicas. Como regla general, nunca se debe derribar un segundo árbol sobre uno ya enganchado, ni trabajar directamente bajo un árbol o elemento inestable.
+El ADR estipula que la forma de la cisterna debe optimizar la resistencia a las cargas, según la materia transportada, su estado y la presión interna.
 
-#### 1. Árbol Apoyado sobre Otro Árbol (Técnica del Corte de Buzón)
+**Tabla: Características y Ejemplos de Tipos de Sección de Cisternas (ADR)**
 
-Esta técnica se emplea para liberar un árbol que ha caído y está apoyado sobre otro. Es fundamental preservar la bisagra (punto de unión inicial) si existe, o recurrir a tracción mecánica. Se evalúa cuidadosamente el punto de apoyo del árbol caído sobre el que lo soporta y se procede a realizar un corte de bisagra o charnela desde el lado donde el árbol apoya su peso. Es vital observar el comportamiento del árbol durante el corte y retirarse a una posición segura en cuanto se detecte movimiento. Si el árbol no cae, se puede utilizar una palanca para ayudar a su giro.
+| Tipo          | Características                                                                                                                                                                                                                          | Sección / Fondo               |
+| :------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------- |
+| **Policéntrica** | Baja presión interior, carga máxima con menor longitud (uso urbano). Lateralmente poco resistente, refuerzos sustituidos por formas ovaladas.                                                                                         |                             |
+| **Ovalada**   | Baja presión interior, más metros lineales para igual capacidad, costados más resistentes, baja presión interior.                                                                                                                        |                             |
+| **Circular con Fondo Semiesférico** | Para MP muy peligrosas. Mejor comportamiento en accidentes, costados más resistentes, más segura, más fácil de construir.                                                                                              |                             |
+| **Circular con Fondo Esférico** | Alta presión interior. Mejor comportamiento en accidentes, costados más resistentes, más segura, más fácil de construir.                                                                                                  |                             |
+| **Especial**  | Mayor volumen de carga. Común en granulados, algunos con cuello cisne. Secciones y formas variadas a lo largo de la cuba.                                                                                                                 | Secciones y formas distintas a lo largo de la cuba |
 
-#### 2. Técnica del Corte Escalonado
+**Tabla: Materiales y Usos de Cisternas**
 
-Esta técnica es adecuada para liberar árboles cuyo extremo inferior está clavado en el suelo o enredado. El proceso busca crear una superficie de deslizamiento para facilitar una caída controlada:
-1.  Se crea una superficie deslizante bajo el tronco utilizando ramas o troncos más pequeños.
-2.  Se realiza un primer corte en la parte posterior del tronco, de aproximadamente la mitad de su diámetro.
-3.  Se efectúa un corte similar en el lado opuesto, con un chaflán frontal si el diámetro del árbol es significativamente mayor que la longitud de la espada de la motosierra.
-4.  Se introduce una cuña en el corte para evitar que la motosierra se atasque.
-5.  Se realiza un segundo corte, de 3 a 5 cm por debajo del primero, desde la parte frontal para asegurar que las fibras se partan.
-6.  Finalmente, se golpea la cuña hasta que las fibras de la madera se rompan y el tronco resbale. Si es necesario, se utiliza una palanca para ayudar al movimiento.
-
-#### 3. Desenganche con Tractel o Cabrestante
-
-Si la técnica del corte escalonado no logra desenganchar el árbol, se recurre al tractel. Se coloca una eslinga en la parte baja del tronco (evitando posicionarse bajo el árbol y, si es posible, haciendo una muesca para un mejor asiento) y se tira con el tractel en la dirección más probable de caída. Las precauciones incluyen evitar cortes excesivamente altos y no situarse en la dirección de desplazamiento del tronco.
-
-### Arrastre del Árbol Caído
-
-Para retirar rápidamente un árbol caído que obstruye una vía pública, se puede utilizar un tractel. Este equipo es capaz de arrastrar hasta el doble de su capacidad nominal de elevación gracias a la forma cilíndrica del tronco, que reduce el rozamiento. Es importante identificar un punto de anclaje fuerte para el tractel (como otro árbol o un camión) y, si el árbol es muy grande, se puede trocear para facilitar el arrastre. Las condiciones del terreno (mojado vs. seco) afectarán la capacidad de arrastre.
-
-### Desrame (Delimbing)
-
-El desrame es el proceso de cortar ramas peligrosas de un árbol caído o apeado. Implica riesgos como la obstrucción por ramas, el efecto "ballesta" de las ramas al cortarlas y el riesgo de retroceso de la motosierra. Se recomienda el uso de motosierras de tamaño mediano o pequeño con espadas cortas. Las precauciones incluyen trabajar siempre desde el lado más seguro del tronco, mantener el tronco a la derecha del operador, asegurar que solo una persona realice el desrame en un mismo árbol y cortar las ramas gruesas en varias fases para evitar desgarros y el atasco de la motosierra.
-
-### Tronzado (Bucking)
-
-El tronzado es el corte del fuste del árbol en secciones. Se debe evaluar la situación del tronco, ya que puede estar sometido a fuerzas de tensión o compresión que causen reacciones inesperadas. Es fundamental tener un control preciso de la motosierra, dada la proximidad al suelo y los posibles obstáculos. Se aconseja utilizar la parte inferior de la espada, mantener un agarre firme con la mano izquierda y realizar siempre un corte de descarga en la zona de compresión antes de completar el corte desde el lado de tensión.
-
-Según el estado del tronco:
-*   **Tronco bajo tensión:** El corte tiende a abrirse. El operador debe posicionarse en el lado de la tensión.
-*   **Tronco bajo compresión:** El corte tiende a cerrarse, atrapando la espada de la motosierra. Requiere precaución extrema.
-*   **Tronco apoyado en ambos extremos:** La parte superior está en compresión y la inferior en tensión. Para evitar que la motosierra se atasque, se realiza primero un pequeño corte superior para prevenir desgarros, seguido de un corte inferior ascendente que se encuentre con el primero.
-
-En todos estos trabajos, la observación continua, la evaluación de la madera y sus posibles reacciones son vitales para la seguridad del operador.
+| Material            | Usos                                        |
+| :------------------ | :------------------------------------------ |
+| **Acero al Carbono** | Poco frecuente, en desuso.                 |
+| **Acero Inoxidable** | Químicos en general,

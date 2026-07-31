@@ -1,50 +1,127 @@
-## Patologías Estructurales en Edificaciones: Identificación y Comportamiento ante Incidentes
+### PARTE 4: RESCATE EN ASCENSORES
 
-La comprensión de las patologías estructurales en edificaciones es fundamental para los servicios de emergencia, especialmente en el contexto de intervenciones de bomberos. Estas patologías pueden clasificarse en diversos tipos, como empujes, rotaciones, dilataciones, aplastamientos y movimientos del terreno, cada una con sus propias causas, síntomas y comportamientos específicos. Además, es crucial entender cómo los diferentes materiales de construcción responden a eventos accidentales como incendios o impactos.
+**CAPÍTULO 1. CARACTERIZACIÓN**
 
-### Tipos de Patologías Estructurales y sus Manifestaciones
+**1. Tipos de Ascensores**
 
-Los **empujes** se definen como las lesiones resultantes de solicitaciones que actúan sobre un muro vertical. Sus causas pueden ser variadas, incluyendo fuerzas transmitidas por forjados, cubiertas, bóvedas, empujes del terreno, presión del viento, rotaciones en vigas o forjados sobrecargados, y dilataciones térmicas. Exteriormente, los empujes se manifiestan como grietas verticales. Si el empuje proviene de la cubierta, estas grietas serán más anchas en la parte superior; si es de un forjado, el eje de rotación se sitúa bajo el elemento que gira. Si toda la fachada rota, la grieta se extiende hasta el suelo. Internamente, en forjados, se observan grietas horizontales de espesor uniforme que aumentan con la cota. En muros, especialmente si son pesados o rígidamente unidos, aparecen grietas parabólicas invertidas, con su punto más alto en la zona de mayor rotación. En tabiques ligeros o débilmente ligados, se manifiestan grietas verticales.
+La clasificación de los ascensores se realiza según su sistema de funcionamiento y su uso específico.
 
-Las **rotaciones** se refieren a la desviación de los elementos constructivos respecto a su plano vertical original. Pueden ser internas (hacia el interior de la edificación) o externas (hacia el exterior). Las causas principales incluyen el cedimiento del plano de asiento, que puede desarticular un muro de sus uniones y provocar su caída por gravedad, generando grietas en paramentos perpendiculares de trazado opuesto. También pueden deberse a empujes laterales causados por la rotura o ausencia de arriostramientos en elementos horizontales o inclinados (como cerchas no atirantadas o dilatación de elementos estructurales). Un muro sometido a la presión del viento puede girar si su resistencia es insuficiente, lo que se traduce en fisuras verticales por la separación de los tabiques perpendiculares. Un forjado sobrecargado puede rotar internamente, transmitiendo deformación a un muro contiguo, lo que puede causar doble rotación (la parte superior del muro gira hacia el interior y la inferior hacia el exterior) si el muro no es lo suficientemente rígido.
+**1.1. Por su Sistema de Funcionamiento**
 
-Las **dilataciones** se producen comúnmente en muros con forjados de vigas metálicas expuestas a la radiación solar, generando empujes y arrastres. Si los muros son muy rígidos, la dilatación del forjado puede provocar pandeo o punzonamiento. Como resultado de estos fenómenos, pueden ocurrir desprendimientos y desplazamientos en los muros a la altura de la cubierta, o punzonamientos inversos.
+Los ascensores pueden ser eléctricos (de adherencia) o hidráulicos.
 
-El **aplastamiento** se define como la patología que conduce al colapso de la edificación por un exceso de carga o por la baja calidad de los materiales. Afecta tanto a elementos verticales como horizontales. En pilares, se manifiesta como una reducción local del espesor del hormigón, grietas finas y sinuosas en las caras comprimidas, aumento del grosor de las juntas verticales, sonido hueco al percutir y combado de los muros. Sus causas son el exceso de carga, hormigón deficiente, armadura insuficiente (estribos abiertos o caídos), ataque químico del hormigón y movimientos del cimiento o de excavaciones cercanas. En elementos horizontales, como forjados de hormigón armado con poca sección y alta armadura, el aplastamiento se manifiesta con fisuras grandes que, al agotarse el hormigón, provocan una rotura brusca.
+**1.1.1. Ascensores Eléctricos o de Adherencia**
 
-Los **movimientos del terreno**, como las subsidencias y colapsos, también generan patologías. La subsidencia es un hundimiento lento y progresivo, mientras que el colapso es brusco y rápido. Los síntomas incluyen cuarteamiento y agrietamiento del terreno, un plano de corrimiento que divide los estratos, grietas rectilíneas en los muros (perpendiculares a la pendiente y más anchas en la parte inferior), y el abombamiento de muros de carga o contención perpendiculares a la dirección de la pendiente.
+Este tipo de ascensores se alimentan de corriente eléctrica para sus motores y para la regulación de sus paradas, controlados por sistemas electrónicos de complejidad variable.
 
-### Comportamiento de los Materiales Estructurales ante Incendios y Impactos
+El sistema de tracción se basa en la adherencia, lograda mediante cables de acero (o cintas planas) que se anclan en la parte superior de la cabina, pasan por la polea motriz del motor y se fijan en la parte superior del contrapeso. Tanto la cabina como el contrapeso se desplazan a lo largo de guías instaladas en el hueco. La adherencia se produce porque el peso de la cabina y el contrapeso hace que los cables se ciñan a la garganta de la polea motriz, moviendo la cabina sin deslizamiento.
 
-El comportamiento de los materiales ante el fuego varía significativamente.
-El **acero**, aunque incombustible, es considerado peligroso en incendios debido a su alta conductividad térmica y coeficiente de dilatación. Pierde resistencia rápidamente (a partir de 300°C) y puede colapsar por la formación de rótulas plásticas mucho antes de alcanzar su temperatura de fusión (1300-1400°C). Las dilataciones causan fuertes empujes que pueden desplomar apoyos. Su exposición a un incendio puede llevar a grandes deformaciones, lo que alerta sobre su inestabilidad inminente.
+Dentro de los ascensores eléctricos, se distinguen:
 
-El **hormigón**, por su alta masividad y baja conductividad térmica, requiere gran cantidad de calor para aumentar su temperatura y el calor se propaga lentamente. Su coeficiente de dilatación es bajo, similar al del acero, pero sus dilataciones son más lentas. Es incombustible y no contribuye a la propagación del incendio. Sin embargo, pierde resistencia a la compresión a partir de 380°C, y sufre una pérdida del 50% entre 500-600°C, volviéndose frágil a los 600°C. A partir de 900°C, su resistencia es prácticamente nula. El hormigón armado falla por procesos termomecánicos (pérdida de adherencia entre acero y hormigón debido a diferentes dilataciones) y termohidráulicos (spalling o desprendimiento explosivo de capas de hormigón debido a la presión del vapor de agua interna). El hormigón pretensado y postensado presenta un comportamiento peor que el armado debido al menor diámetro de los alambres de acero y la alta sensibilidad a la tracción y flexión, lo que provoca deformaciones rápidas y pérdida de la tensión.
+*   **a) Ascensores con Engranajes (con grupo reductor):**
+    *   Incorporan un motor eléctrico de baja potencia que acciona un engranaje reductor de tornillo sin fin y una rueda dentada, la cual a su vez impulsa una polea.
+    *   Su velocidad de cabina es reducida, oscilando entre 0.1 y 1.75 metros por segundo.
+    *   Se utilizan comúnmente como montacargas industriales, para la elevación de vehículos o el transporte de pasajeros.
+*   **b) Ascensores sin Engranajes (sin grupo reductor):**
+    *   Cuentan con un motor que se conecta directamente al eje de una polea ranurada de gran diámetro.
+    *   La velocidad de cabina es mayor, entre 2 y 10 metros por segundo.
+    *   Se emplean en edificios de gran altura para el transporte de pasajeros.
 
-La **fábrica** (muros de ladrillo, piedra) posee alta masividad y baja conductividad térmica, lo que le confiere una buena resistencia al fuego inicial, pero el calor se concentra en la zona afectada. Su bajo coeficiente de dilatación evita grandes tensiones internas. Las estructuras de fábrica se carbonizan superficialmente, perdiendo sección resistente. No contribuyen a la propagación del fuego. Los muros macizos tienen alta resistencia, mientras que los de hormigón o ladrillos huecos presentan una resistencia media a baja. Un gran incendio puede causar una dilatación diferencial entre las caras del muro, provocando su desplome. La pérdida de arriostramiento de forjados también puede llevar al colapso de muros.
+**1.1.2. Ascensores Hidráulicos**
 
-La **madera** tiene baja masividad y baja conductividad térmica, por lo que el calor se propaga lentamente. Su bajo coeficiente de dilatación evita grandes tensiones. Sin embargo, es un material combustible que contribuye a la carga térmica y a la propagación del fuego. Su resistencia se ve afectada por la carbonización, con una tasa de 0,7 mm/min (1 cm cada 15 minutos). La pérdida de sección resistente por carbonización es el principal mecanismo de fallo. La humedad de la madera puede retrasar el aumento de temperatura inicial, pero su combustibilidad y los vicios ocultos (carcoma, uniones metálicas) son desventajas importantes.
+Estos ascensores operan mediante la acción de una bomba que impulsa fluido a presión hacia un pistón. El movimiento del pistón se transfiere a la cabina, permitiendo su desplazamiento ascendente y descendente.
 
-La **protección contra incendios** busca evitar el desplome estructural y la propagación del fuego. Se emplean diversas técnicas como recubrimientos con paneles ignífugos, pinturas intumescentes (que se expanden con el calor para aislar), protecciones sólidas (hormigón), filmes o mantas (fibra cerámica, lana de roca), y el relleno de perfiles tubulares huecos con materiales de masa térmica. Para evitar la propagación del fuego en instalaciones, se utilizan cortafuegos lineales en bandejas de cables, almohadillas intumescentes, conductos resistentes al fuego y collarines intumescentes para tuberías combustibles.
+*   **Contexto de Uso:** Se emplean en lugares donde el control del ruido o las limitaciones de espacio son importantes.
+*   **Velocidad:** La velocidad de la cabina es baja, entre 0.1 y 1.75 metros por segundo.
+*   **Tipos de Ascensores Hidráulicos:**
+    *   **a) Impulsión Directa o Tracción Directa 1:1:**
+        *   Por cada centímetro que se desplaza el pistón, la cabina se mueve un centímetro.
+        *   Requieren un foso profundo para alojar el pistón.
+    *   **b) Impulsión Directa Lateral:**
+        *   El pistón se conecta a la parte superior de la cabina y el cilindro se sitúa en la parte inferior del foso.
+        *   Indicados para cargas moderadas y recorridos cortos.
+    *   **c) Impulsión Diferencial o Tracción Indirecta 2:1:**
+        *   Por cada centímetro de recorrido del pistón, la cabina se mueve dos centímetros.
+        *   Un sistema de poleas y cables duplica el recorrido de la cabina.
+        *   No requiere un foso profundo, ya que el pistón se instala lateralmente en el hueco.
+    *   **d) Sistema de Doble Impulsión Directa e Indirecta Lateral:**
+        *   Son los montacargas, permitiendo transportar grandes cargas en recorridos breves.
 
-En cuanto a los **impactos accidentales**, como los de vehículos, los factores clave son la masa y velocidad del cuerpo impactante y la capacidad de deformación de la estructura. El Código Técnico de la Edificación (CTE DB SE AE) establece valores de cálculo para fuerzas estáticas equivalentes (50 kN paralelo, 25 kN perpendicular para vehículos de hasta 30 kN, y 5 veces el peso máximo autorizado para carretillas elevadoras). En edificaciones industriales, los sistemas de cerramiento prefabricados anclados con grapas de acero y tacos son vulnerables, pudiendo colapsar una fachada de forma inmediata ante un impacto o un incendio debido a su baja resistencia al fuego y a la corrosión.
+**1.2. Por su Uso**
 
-### Evaluación de la Seguridad y Estados de Ruina
+Los ascensores se clasifican también según su finalidad:
 
-La seguridad de una edificación se refiere a su capacidad para soportar cargas de forma estable durante su vida útil (50 años según CTE DB SE). Las edificaciones se clasifican en función de su seguridad en:
-*   **Estado de confianza:** Sin riesgos aparentes.
-*   **Estado de precariedad:** Con deficiencias que reducen la seguridad, pero sin peligro inmediato.
-*   **Estado de peligro/ruina:** La estructura no soporta las cargas y existe riesgo de colapso.
+*   **a) Ascensor de Emergencia o Uso Exclusivo de Bomberos:**
+    *   Son obligatorios en edificios con una altura de evacuación superior a 28 metros (o 15 metros en uso hospitalario y de tratamiento intensivo).
+    *   Deben cumplir los siguientes requisitos normativos mínimos:
+        *   Capacidad de carga mínima: 630 kilogramos.
+        *   Superficie mínima de cabina: 1.40 metros cuadrados.
+        *   Ancho de paso mínimo: 0.80 metros.
+        *   Disponen de llamada prioritaria para uso del cuerpo de bomberos.
+        *   Poseen dos fuentes independientes de alimentación eléctrica.
+        *   La segunda fuente debe asegurar una autonomía mínima de una hora de funcionamiento a plena carga.
+        *   Deben poder accionarse desde el interior de la cabina.
+        *   El recinto del camarín debe ser un sector de incendio independiente, a menos que el acceso desde el recinto se realice a través de una escalera independiente, también en un sector de incendio.
+        *   Los ascensores no aptos para evacuación deben señalizarse con el aviso "No utilizar en caso de incendio".
+        *   La velocidad de estos ascensores debe ser suficiente para completar el recorrido en un minuto o menos.
+        *   Deben permitir el acceso a todos los niveles y volúmenes compartimentados.
+*   **b) Ascensor Panorámico:**
+    *   Funciona como los ascensores convencionales.
+    *   Su instalación requiere que el hueco no participe en la protección contra incendios.
+*   **c) Doble Cabina:**
+    *   Consiste en dos cabinas superpuestas: la inferior para pisos impares y la superior para pisos pares.
+    *   Se instalan en edificios grandes y minas, optimizando el espacio.
+    *   En minas, son frecuentes los ascensores de hasta tres pisos.
+*   **d) Ascensor Inclinado:**
+    *   Diseñado para facilitar el acceso a lugares de difícil comunicación.
+    *   Su funcionamiento es similar a los ascensores convencionales, con la diferencia de su inclinación respecto a la vertical.
+*   **e) Ascensor para Unifamiliares:**
+    *   Instalados en viviendas privadas, no presentan diferencias con un ascensor convencional.
+*   **f) Ascensor para Minusválidos:**
+    *   Diseñados específicamente para personas con discapacidad.
+    *   Requieren características especiales en cuanto a luz, dimensiones, parada a nivel y ubicación del sistema de control.
+*   **g) Ascensor Industrial y Montacargas:**
+    *   Utilizados en la actividad industrial.
+    *   Capaces de soportar grandes cargas durante un elevado número de horas.
 
-El concepto de **ruina** se aplica a edificaciones con patologías graves que comprometen su estabilidad o funcionalidad. Se distinguen varios tipos:
-*   **Ruina funcional:** El edificio es inservible para su destino, aunque estructuralmente estable.
-*   **Ruina potencial o incipiente:** Vicios constructivos iniciales que podrían agravarse si no se corrigen.
-*   **Ruina propiamente dicha (vicios graves) o ruina física inminente:** Deficiencias que impiden el uso normal y pueden llevar al colapso o derrumbe inmediato, requiriendo desalojo y demolición. Puede ser súbita (por demolición colindante o socavón).
-*   **Ruina económica:** El coste de reparación supera el 50% del valor actual del edificio (sin suelo).
-*   **Ruina técnica:** La consolidación es imposible, necesitando reconstruir más de un tercio de sus elementos fundamentales.
+**2. Partes Comunes de un Ascensor**
 
-Los **síntomas** de ruina se manifiestan como grietas y fisuras (indicadores primarios), y deformaciones (pandeos, abombamientos, desplomes), disgregación de materiales, empujes, separación de elementos y descuadre de huecos (síntomas secundarios). Las grietas vivas, con bordes limpios y color fresco, indican progresión, mientras que las muertas, con bordes oscurecidos, sugieren estabilidad.
+Un ascensor está compuesto por el cuarto de máquinas, el recinto o hueco, y el foso.
 
-### Consideraciones Finales para Bomberos
+**2.1. Cuarto de Máquinas**
 
-Para los bomberos, la valoración inicial de cualquier incidente estructural debe ser rápida y rigurosa, centrándose en la seguridad del personal y las víctimas, la delimitación de zonas de riesgo y el corte de suministros (agua, gas, electricidad). La intervención debe ser proporcional al riesgo, considerando siempre la estabilidad estructural y la posibilidad de colapsos secundarios. La elección de técnicas de estabilización, apeo o demolición debe basarse en un análisis exhaustivo del tipo de patología, los materiales involucrados y la disponibilidad de recursos, priorizando siempre la seguridad y la eficacia.
+Es el lugar donde se encuentra el mecanismo de tracción (grupo tractor, grupo hidráulico o tambor de arrollamiento). La ubicación específica del cuarto de máquinas varía según el tipo de ascensor.
+
+*   **En modelos con cuarto de máquinas físico:**
+    *   **a) Parte superior del recinto:** Es la ubicación más cómoda para el operario en ascensores con máquina tractora por adherencia.
+    *   **b) Parte inferior del recinto:** Esta ubicación impone una carga adicional a la estructura superior del edificio.
+    *   **c) Recinto contiguo al recinto:** Se da en ascensores hidráulicos con un cuarto de máquinas adyacente.
+*   **En modelos actuales sin cuarto de máquinas:**
+    *   **a) Parte superior del hueco del foso:** Aquí se sitúan la maquinaria y el sistema de maniobra. Generalmente en la última planta del edificio, en un lateral de la última puerta de planta (ascensores eléctricos).
+    *   **b) Parte inferior del hueco del foso:** La maquinaria y los sistemas de maniobra se encuentran en esta posición (ascensores hidráulicos).
+
+**2.1.1. Partes del Cuarto de Máquinas**
+
+El cuarto de máquinas incluye los siguientes elementos:
+
+*   **a) Motor-reductor:** Los grupos tractores de los ascensores están formados por un motor acoplado a un reductor de velocidad. Los motores más comunes son de corriente alterna, de una o dos velocidades, y actualmente incorporan variadores de frecuencia.
+*   **b) Polea Motriz:** Es responsable de la adherencia con los cables de acero. Asegura que los cables se ciñan a la garganta de la polea y la muevan sin deslizamiento, con independencia de la carga de la cabina.
+*   **c) Volante:** Elemento clave para el funcionamiento normal del ascensor, tanto en ascenso como en descenso. Se emplea para subir y bajar la cabina durante las maniobras de rescate en ausencia de energía eléctrica.
+*   **d) Freno:** Situado en el eje motor, el freno detiene el ascensor durante el ascenso y descenso. Las zapatas del freno permanecen bloqueadas en reposo y se desbloquean mediante un electroimán cuando el ascensor está en movimiento. En operaciones de rescate sin corriente eléctrica, se bloquean manualmente.
+*   **e) Limitador de Velocidad:** Se instala en ascensores eléctricos e hidráulicos. Su función es detener la cabina activando un paracaídas o sistema de acuñamiento si la velocidad de la cabina excede un valor predeterminado. Incluye un contacto eléctrico que detiene el motor del ascensor. Está compuesto por dos poleas: una en el cuarto de máquinas y otra alineada verticalmente en el fondo del hueco (foso). Un cable de acero pasa por ambas poleas; un extremo se une a la parte superior de la cabina, y el otro a un sistema de cuñas en la parte inferior de la cabina (paracaídas). Este cable acompaña a la cabina en todo momento y es independiente de los cables de tracción.
+*   **f) Cuadro de Maniobras:** Aloja los componentes eléctricos y electrónicos (relés, contactores, cableado, etc.) que permiten el funcionamiento del sistema. En su interior hay tensiones de entre 230 V y 400 V, por lo que es crucial evitar el contacto sin el aislamiento adecuado.
+*   **g) Cuadros de Distribución de Corriente:** Contienen los elementos de protección de la instalación contra cortocircuitos y derivaciones. Su ubicación es importante para cortar la corriente.
+
+**2.2. Recinto o Hueco**
+
+Este es el espacio por el que se desplaza la cabina del ascensor y el contrapeso.
+Está compuesto por los siguientes elementos:
+
+*   **a) Cabina:** El recinto diseñado para transportar pasajeros.
+*   **b) Puertas de Acceso:** Se dividen en puertas de planta y puertas de cabina. Sus tipologías incluyen:
+    1.  **Batientes en piso y cabina:** Estas puertas disponen de un seguro que las bloquea, impidiendo su apertura a menos que la cabina esté en el nivel correcto. Es un enclavamiento electromecánico.
+    2.  **Batientes en piso y librillo en cabina.**
+    3.  **Batiente en pisos y telescópica automática en cabina.**
+    4.  **Telescópicas automáticas en pisos y cabina.**
+    5.  **Apertura central automática en pisos y cabina.**
+    6.  **Apertura central telescópica automática en pisos y cabina.**

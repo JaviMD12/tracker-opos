@@ -1,85 +1,198 @@
-## Caracterización de Patologías Estructurales en Edificaciones y Terrenos
+## TEMA X: APERTURAS FORZADAS Y RESCATE EN ASCENSORES
 
-La intervención en situaciones de emergencia que involucran estructuras de edificaciones y terrenos exige un conocimiento profundo de las patologías que pueden afectar a estos elementos. La capacidad de identificar, evaluar y priorizar las acciones es crucial para garantizar la seguridad de los intervinientes y de la población.
+### CAPÍTULO 1: VALORACIÓN Y TÁCTICAS DE INTERVENCIÓN
 
-### I. Equipamiento de Protección Individual (EPI) para Intervenciones en Emergencias Estructurales
+#### 1. PROCEDIMIENTO TÁCTICO PARA INTERVENCIONES EN ASCENSORES
 
-La seguridad del personal es primordial en toda intervención. El equipo de protección individual (EPI) debe ser seleccionado meticulosamente según la tarea y el equipo a utilizar. Como mínimo, los bomberos deben llevar guantes protectores, ropa de manga larga anticorte, casco, calzado reforzado con puntera de acero y gafas o pantalla de protección ocular. En situaciones donde haya riesgo de daños por agua, socavones o incendio, se complementará con protecciones adicionales, como vadeadores.
+Una vez completadas las fases de comunicación, evaluación y determinación de riesgos, se debe aplicar un protocolo de actuación específico para el rescate en ascensores.
 
-Específicamente, las **botas de intervención** deben cumplir la norma EN345-2, caracterizándose por su caña alta, puntera antideformación de acero y plantilla antiperforación. Los **guantes de trabajo**, bajo la norma EN388, deben ofrecer una protección mínima de nivel 4 para abrasión, 5 para corte, 4 para desgarro y 1 para perforación. El **casco**, conforme a EN397, debe integrar un sistema de sujeción completo con carraca y barbuquejo de tres puntos, junto con gafas de protección ocular incorporadas. En cuanto a la **chaquetilla y el pantalón**, el equipo multirriesgo habitual es adecuado para derrumbes, aunque se aconsejan refuerzos en codos, hombros y espalda. Para un detalle más exhaustivo sobre las características del EPI, se debe consultar el "Manual de equipos operativos y herramientas de intervención".
+**Protocolo de Actuación:**
 
-### II. Proceso de Valoración y Reconocimiento de Edificaciones
+1.  **¿Es posible y segura la puesta en marcha normal del ascensor?**
+    *   **Sí:** Iniciar el ascensor y desplazarlo a una posición que permita el rescate de las personas.
+    *   **No:** Pasar a la siguiente evaluación.
+2.  **¿Es posible rescatar a las víctimas sin mover la cabina?**
+    *   **Sí:** Interrumpir el suministro eléctrico, verificar la ausencia de tensión y proceder al rescate.
+    *   **No:** Pasar a la siguiente evaluación.
+3.  **Para ascensores sin cuarto de máquinas, ¿es posible mover la cabina con el sistema eléctrico de emergencia?**
+    *   **Sí:** Utilizar el sistema eléctrico de emergencia para desplazar la cabina hasta un punto que posibilite el rescate.
+    *   **No:** Pasar a la siguiente evaluación.
+4.  **¿Es posible mover la cabina sin corriente eléctrica?**
+    *   **Sí:** Interrumpir el suministro eléctrico, verificar la ausencia de tensión y mover la cabina manualmente hasta una posición de rescate.
+    *   **No:** Se considera un procedimiento de rescate no ordinario.
 
-La valoración inicial de una emergencia es un paso crítico que integra la inspección y la evaluación para definir las técnicas de estabilización adecuadas.
+**Procedimiento de rescate no ordinario:**
+*   Se debe cortar el suministro eléctrico y verificar su ausencia. El rescate de las víctimas se realizará si la dirección de acceso no está limitada por el espacio entre la planta y la cabina.
+*   **Si la situación no permite el rescate directo por el espacio limitado:**
+    *   Liberar la cabina y moverla hasta una posición que facilite el rescate.
+    *   Si el movimiento manual de la cabina es imposible, se debe esperar a la llegada del personal de la empresa de mantenimiento para que realice el rescate con sus medios especializados.
 
-**A. Reconocimiento Rápido:**
-En una primera fase, se buscan indicios de colapso inminente, como signos de ruina inminente que requieren desalojo inmediato. Asimismo, se evalúa el riesgo de desprendimiento de elementos estructurales hacia la vía pública, lo que obliga a señalizar y acordonar el perímetro de seguridad. También se identifican las instalaciones de servicios (agua, gas, electricidad) afectadas y se determina el número y estado físico de los ocupantes para planificar su posible evacuación.
+**Posibles causas de bloqueo de la cabina:**
+*   Acuñamiento (activación del dispositivo de seguridad).
+*   Cabina desalineada de sus guías.
+*   Mecanismo de elevación averiado.
 
-**B. Análisis Sistemático:**
-Una vez asegurada la estabilidad mínima, se procede a una recopilación más detallada de información sobre el edificio. Esta incluye las características geométricas de la patología, así como la ubicación, cuantificación y estudio de los síntomas. Las grietas, por ejemplo, son indicativas de esfuerzos de tracción y suelen ser perpendiculares a la dirección de dichos esfuerzos. Las grietas horizontales en muros de carga son particularmente peligrosas, ya que anuncian un inminente desplome. En contraste, las grietas verticales pueden señalar problemas de asiento en pilares o empujes en forjados. Las fisuras, de menor entidad, solo indican movimientos leves, mientras que las grietas significativas afectan a elementos estructurales. Los abombamientos, por su parte, revelan compresión en elementos estructurales.
+### CAPÍTULO 2: VALORACIÓN PREVIA A LA ENTRADA FORZADA
 
-**C. Riesgos Comunes en Estructuras Inestables:**
-La intervención en estructuras inestables conlleva riesgos inherentes, tales como la presencia de riesgos eléctricos, fugas de gas o problemas relacionados con el agua. Además, existe la posibilidad de derrumbes secundarios o la afectación de edificios colindantes y de la vía pública, lo que subraya la complejidad de estas operaciones.
+#### 1. VALORACIÓN GENERAL Y SELECCIÓN DE PUNTO DE ACCESO
 
-### III. Diagnóstico de Patologías por Causas Materiales
+Antes de cualquier intervención de apertura forzada, es imprescindible realizar una evaluación exhaustiva:
+*   Confirmar que el acceso deseado no está ya abierto o que no existe una vía de entrada más sencilla.
+*   Si todas las entradas obvias están cerradas, seleccionar el punto de acceso principal a forzar antes de decidir la técnica específica.
+*   En caso de fallo de una técnica, se debe buscar una vía alternativa.
+*   Es fundamental identificar el punto más débil, accesible o con menor riesgo.
 
-La diagnosis implica el análisis de los síntomas para deducir las causas de la patología y determinar la viabilidad de reparación o la declaración de ruina. La evolución de las grietas se monitorea con testigos de yeso o láminas de vidrio reticuladas.
+**Consideraciones específicas para la evaluación de puntos de acceso:**
+*   **Ventanas:**
+    *   Presencia de rejas.
+    *   Bloqueo de persianas.
+    *   Tipo de ventana (batiente, corredera, oscilobatiente).
+*   **Puertas secundarias:** Tipo (corredera, con cerradura o cancela).
+*   **Garaje:** Posibilidad de acceso directo a la vivienda.
+*   **Herramientas:** Necesidad de cortapernos.
 
-**A. Patologías Vinculadas a la Acción del Agua (Humedades):**
-La presencia de humedad no deseada en los materiales de construcción, superando su equilibrio hídrico natural, es un factor clave en la aparición de patologías. Estas humedades comprometen la durabilidad de los elementos, provocando fenómenos como la corrosión, disgregación y pudrición.
+**Medidas de seguridad adicionales (iniciativas del propietario):**
+*   Cerraduras interiores, bloqueadores de ventanas o sistemas caseros (ej. elementos atornillados, cerraduras camufladas).
+*   Estas pueden dificultar el acceso y requerir planes alternativos.
 
-1.  **Origen de las Humedades:**
-    *   **Naturales:**
-        *   **Humedad por capilaridad:** El agua del terreno asciende por los capilares de muros y soleras, afectando sótanos y plantas bajas. Es común en construcciones antiguas y está influenciada por la porosidad del material y la presión atmosférica.
-        *   **Humedad freática:** Se produce por la elevación del nivel freático debido a lluvias intensas, causando humedades significativas en interiores no impermeabilizados adecuadamente.
-        *   **Ambientales (Filtración y Condensación):**
-            *   **Humedad por filtración:** Procede de fenómenos meteorológicos (lluvia, nieve) sobre cubiertas y fachadas. Se manifiesta como manchas de humedad en techos y partes altas de muros, descendiendo por gravedad.
-            *   **Humedad por condensación:** Ocurre cuando el vapor de agua en el aire cambia a estado líquido sobre superficies interiores frías (condensación superficial) o dentro de los materiales (condensación intersticial), afectando ventanas, juntas y cámaras de aire.
-    *   **Antrópicas:**
-        *   **Humedad de obra:** Se refiere al agua utilizada durante la construcción, que debe evaporarse hasta alcanzar el equilibrio hídrico ambiental.
-        *   **Humedad accidental:** Causada por roturas de instalaciones (calefacción, saneamiento) embebidas en muros o forjados.
+**Consideraciones post-intervención:**
+*   La fase de "vuelta a la normalidad" es crucial tras cada actuación.
+*   **Principio de proporcionalidad:** Evitar exponer al personal a riesgos excesivos; por ejemplo, no justificar un descenso de 25 metros por una fachada para abrir una ventana o cerradura simple.
+*   **Coordinación con Fuerzas del Orden:** Si el aviso lo permite, esperar su presencia antes de la apertura forzada para verificar la identificación, la ausencia de delitos y órdenes de alejamiento, y garantizar la seguridad del recinto una vez abierto.
 
-2.  **Síntomas de Humedades:**
-    *   **Eflorescencias y criptoeflorescencias:** Se observan como manchas blanquecinas de sales en superficie o expansiones de sal que provocan el desprendimiento de revestimientos, respectivamente.
-    *   **Crecimiento de organismos:** La humedad excesiva favorece la proliferación de musgo, moho y organismos xilófagos en la madera, que producen ácidos corrosivos.
-    *   **Disgregación por heladicidad:** El aumento de volumen del agua al congelarse en los poros de los materiales pétreos o cerámicos causa desprendimientos o colapsos.
-    *   **Oxidación y corrosión:** La presencia de agua acelera la oxidación y corrosión de metales. La oxidación puede formar una capa protectora, pero la corrosión reduce la sección útil y la capacidad estructural.
-    *   **Síntomas específicos en cubiertas:**
-        *   En **cubiertas inclinadas** pueden aparecer agrietamientos, desprendimientos de tejas por sellado defectuoso y solapes insuficientes.
-        *   En **cubiertas planas**, la acumulación de agua favorece la aparición de bacterias y hongos.
-    *   **Síntomas por rotura de instalaciones:** El deterioro de la impermeabilización (por rayos UV, ozono, impactos o envejecimiento) provoca cuarteamiento, fisuras, ampollas y arrugas, que pueden derivar en daños estructurales.
+### CAPÍTULO 3: TÁCTICAS DE INTERVENCIÓN
 
-### IV. Patologías Vinculadas al Terreno y Calidad Constructiva
+#### 1. ESQUEMA TÁCTICO DE INTERVENCIÓN
 
-La combinación de factores edafológicos y constructivos es la causa más frecuente de patologías importantes.
+El CEIS Guadalajara emplea un esquema táctico estandarizado para las aperturas forzadas, que considera:
 
-**A. Adaptación o Encaje:**
-Estas lesiones surgen durante la construcción o rehabilitación por el acoplamiento de materiales o el asentamiento inicial del terreno. Las grietas suelen aparecer en los puntos más débiles de los cerramientos, como esquinas de huecos o enjarjes, y se estabilizan en unos tres meses, no constituyendo una emergencia urgente.
+**Equipamiento necesario:**
+*   Maza y palancas.
+*   Escalera.
+*   Maletín de aperturas, que incluye:
+    *   Taladro (1 unidad).
+    *   Mandril Hilti para broca convencional (1 unidad).
+    *   Llave mandril (1 unidad).
+    *   Juego de brocas para metal de 5, 6, 8, 10 mm (1 juego).
+    *   Broca Hilti de 12 mm (mínimo 1 unidad).
+    *   Mordaza de presión (1 unidad).
+    *   Fresa de cerrajero de 8 mm (mínimo 1 unidad).
+    *   Destornillador de estrella de 6 mm (1 unidad).
+    *   Destornillador plano de 8 mm (1 unidad).
+    *   Micas o radiografías (mínimo 3 unidades).
+*   Una caja de herramientas estándar con destornilladores y otros útiles (abrepuertas y equipos de descarcelación).
+*   Un listado actualizado de cerrajeros de seguridad autorizados por el Ministerio del Interior para ofrecer como alternativa.
 
-**B. Cedimiento o Hundimiento:**
-Implica el descenso de la cimentación por causas diversas, como una elección inadecuada del terreno, fallos de proyecto o ejecución, o cambios imprevistos en las características del suelo (rotura de colectores, excavaciones cercanas).
+**Premisas inquebrantables para aperturas forzadas:**
+*   No intervenir si no hay indicios de emergencia o desamparo.
+*   Notificar a las Fuerzas del Orden para las comprobaciones pertinentes (identificación, ausencia de delito, órdenes de alejamiento).
+*   Si la emergencia lo permite, esperar la conformidad de las Fuerzas del Orden antes de intervenir, ya que los bomberos carecen de potestad para retener al beneficiario fuera de la propiedad.
+*   Solicitar al beneficiario que permanezca en una ubicación donde no pueda observar el proceso de apertura ni el interior de la vivienda.
+*   En aperturas sin riesgo, los métodos no destructivos deben ser realizados por empresas de cerrajería de seguridad.
 
-1.  **En estructuras adinteladas (muros de carga con cimentaciones corridas):** Las grietas son parabólicas, con el vértice en el punto de mayor hundimiento. Si hay huecos, las grietas son concéntricas a la zona de asiento.
-2.  **En estructuras reticuladas (pilares sobre zapatas aisladas):** Las grietas son rectilíneas, sinuosas y verticales, más anchas en la parte superior, y se originan a cierta altura sobre el nivel del suelo. En huecos, las grietas se concentran en las esquinas.
-    *   El **arrufo** se refiere al cedimiento en la parte central de la cimentación, mientras que el **quebranto** ocurre en las zonas laterales.
-3.  **Arcillas expansivas:** Estos suelos, ricos en montmorillonita y vermiculita, experimentan grandes cambios de volumen con las variaciones de humedad, generando hinchamientos, retracciones y empujes horizontales. Se manifiestan con grietas verticales e inclinadas en ambos sentidos, y los nudos estructurales rígidos son especialmente sensibles a estos asientos diferenciales.
-4.  **Problemas de raíces:** Las raíces pueden causar empujes por su crecimiento continuo, lo que provoca grietas longitudinales en muros. La deshidratación del suelo por falta de humedad produce efectos contrarios, resultando en cedimientos y quebrantos parciales. La condición de la copa del árbol puede ser un indicador del estado radicular.
+**Esquema táctico de intervención del CEIS Guadalajara:**
 
-**C. Aplastamiento:**
-Es la reducción de los materiales a partículas mínimas, perdiendo cohesión y resistencia mecánica, generalmente por exceso de compresión en elementos estructurales verticales.
+| INDICIOS DE EMERGENCIA | ¿HAY RIESGO? | DECISIÓN | TÉCNICAS DE APERTURA (Orden habitual) |
+| :--------------------- | :------------ | :------- | :---------------------------------- |
+| **PUERTAS** | | | |
+| ¿Llave echada por el interior? | Sí | **No** (Solo se actuará si hay desamparo por ausencia de cerrajería 24h) | - Mica. <br> - En situaciones excepcionales: Rotura de bombín, Taladro, Fresado. <br> - Valorar apertura destructiva con maza. |
+| | No | **Sí** | - Mica. |
+| **Tipo de cerradura:** | | | |
+| Normal | | | - Rotura de bombín. <br> - Taladro. |
+| Seguridad | | | - Rotura de bombín. <br> - Fresado. |
+| **Tipo de puerta:** | | | |
+| Seguridad/blindada | | | - Maza. |
+| Acorazada | | | - Separador. <br> - Abrepuertas hidráulico. |
+| **VENTANAS** | | | |
+| ¿Se puede forzar? | Sí | **Sí** | Entrar aplicando la técnica correspondiente al tipo de ventana. |
+| | No | **No** | - Conseguir accesibilidad. <br> - Rotura de vidrio. |
+| ¿Es laminado/templado/con cámara? | Sí | | - Rotura. |
+| | No | | - Blindados (buscar otra entrada). |
+| **Tiene REJAS** | | | - Intentar Extraer. <br> - Cortar barrotes. |
+| **Tiene PERSIANAS bajadas** | | | - Forzar su subida hasta el tirador y levantar con la cinta. <br> - Forzar su subida hasta crear un hueco suficiente para forzar la ventana. |
+| **CLARABOYAS** | | | |
+| ¿Fácil acceso? | Sí | | |
+| ¿Practicables? | Sí | **Sí** | - Forzar su apertura. |
+| | No | **No** | - Buscar otra alternativa. |
+| | No | **No** | - Buscar otra alternativa. |
+| **BUTRÓN** | | | |
+| Tabiquería/forjado/tejado: ¿Dan al interior? | Sí | **Sí** | - Aplicar técnica (según resistencia del material). |
 
-1.  **Causas:** Sobrecarga, hormigón defectuoso, armadura insuficiente, disgregación de morteros, uso de materiales de derribo, envejecimiento o factores climáticos.
-2.  **Manifestaciones en elementos verticales:** Grietas finas y sinuosas en las caras comprimidas, aumento del grosor de las juntas, sonido a hueco, combamiento de muros. El aplastamiento local o diferencial puede deberse a cargas puntuales excéntricas, generando esfuerzos horizontales en la coronación del muro.
-3.  **Manifestaciones en elementos horizontales (forjados de hormigón armado):** Fisuras grandes y agotamiento del hormigón pueden llevar a la rotura brusca. Las zonas de mayor compresión (centro de luz en vigas apoyadas, unión pilar en vigas empotradas) son las más afectadas.
+**Consideraciones adicionales para el esquema táctico:**
+*   Si la apertura forzada no se logra o implica riesgos adicionales significativos (ej. trabajos en altura), se desestimará la intervención y se proporcionará al beneficiario el listado de cerrajeros autorizados.
 
-**D. Movimiento del Terreno:**
-Se refiere a los esfuerzos generados por los estratos del terreno, con dos causas principales:
-1.  **Movimientos de ladera:** Desplazamiento de un estrato superior seco sobre uno fluido, generando una superficie de rotura. Se clasifican en desprendimientos (ángulo >76º), vuelcos (45-76º), deslizamientos/rodaduras (<45º) y flujos (comportamiento como fluido viscoso). Los síntomas incluyen terreno cuarteado, plano de corrimiento visible y grietas rectilíneas en muros.
-2.  **Subsidencias y colapsos:**
-    *   **Subsidencia:** Hundimiento lento y progresivo del terreno, asociado a variaciones lentas del contenido de agua.
-    *   **Colapso:** Hundimiento brusco y rápido del terreno por desaparición o compactación repentina de un estrato inferior.
+### CAPÍTULO 4: CASOS PRÁCTICOS
 
-### V. Patologías por Causas Accidentales: Sismos e Incendios
+#### 1. VIVIENDA (SOSPECHA DE SUICIDIO)
 
-**A. Sismos (Terremotos):**
-Son sacudidas bruscas de la corteza terrestre por liberación de energía sísmica. El **hipocentro** es el punto de origen en el interior de la Tierra, y el **epicentro** es el punto en la superficie directamente superior. Las causas son principalmente
+**a) Planteamiento:**
+*   **Situación:** Vivienda en un octavo piso, letra B, con puerta blindada y bombín de seguridad. Se sospecha de un suicidio.
+*   **Movilización inicial:** Se recibe el aviso. Se solicita la presencia de una UVI móvil y fuerzas de seguridad para la atención de la posible víctima y control de una eventual situación agresiva.
+
+**b) Valoración:**
+*   **Comunicación:** Se llama intensamente a la puerta y se grita el nombre de la persona para verificar su estado de consciencia.
+*   **Información de terceros:** Vecinos y familiares informan que la víctima fue vista entrando el día anterior por la tarde y no ha salido para trabajar. Se menciona que la persona está deprimida debido a problemas de pareja.
+*   **Entradas alternativas:** No se encuentran ventanas accesibles desde pasillos interiores ni terrazas exteriores. Las ventanas existentes están a una altura inaccesible para el autobrazo.
+*   **Riesgos:** No especificados directamente, pero implícitos en la naturaleza de la intervención (riesgo para la vida de la víctima).
+
+**c) Intervención:**
+*   **Selección de técnica:** Se decide acceder por la puerta utilizando la técnica de rotura de bombín por extracción con barra de uña.
+*   **Pasos de ejecución:**
+    1.  Introducir un tornillo autorroscante de cabeza hexagonal y buena calidad con un taladro (la broca fina puede usarse para marcar el punto).
+    2.  Apoyar firmemente la barra de uña.
+    3.  Romper el cilindro del bombín.
+    4.  Una vez partido el bombín, extraer la leva y el activador.
+    5.  Introducir un portalevas o un destornillador plano y accionar el mecanismo de la cerradura para abrir la puerta.
+*   **Coordinación post-apertura:** Se permite el acceso a las fuerzas de seguridad. Una vez confirmada la seguridad, entra el personal sanitario.
+*   **Atención a la víctima:** La víctima es hallada inconsciente en el salón por sobredosis de medicamentos.
+*   **Cierre de zona:** Se baliza la escalera de la planta 8 para impedir el acceso de curiosos.
+*   **Cierre definitivo:** Se informa a los familiares para que contacten con un cerrajero.
+*   **Finalización:** Recogida de material y retorno a base.
+
+#### 2. BLOQUE DE VIVIENDAS (INUNDADO DE HUMO, POSIBLES VÍCTIMAS EN EL INTERIOR DE LAS VIVIENDAS)
+
+**a) Planteamiento:**
+*   **Situación:** Bloque de viviendas con humo, posibles víctimas en el interior.
+*   **Movilización inicial:** Se recibe el aviso. Se solicita la presencia de personal sanitario para posibles intoxicaciones por humo y quemaduras, y fuerzas de seguridad para control del orden y apoyo en la evacuación.
+
+**b) Valoración:**
+*   **Exterior:** Edificio de 3 plantas, humo visible en el exterior, sin fuego en fachada.
+*   **Información de terceros:** Vecinos y familiares indican 2 pisos por planta, 3 pisos deshabitados. Los ocupantes del resto de pisos están fuera, pero los del 2ºA permanecen dentro.
+*   **Riesgos:** Intoxicación por humo, visibilidad reducida, baja carga térmica.
+
+**c) Intervención:**
+*   **Acceso a llaves:** Las fuerzas de seguridad solicitan las llaves a los propietarios presentes.
+*   **Ventilación:** Se ventila la escalera.
+*   **Selección de técnica (2ºA):** Se decide la técnica de la maza para romper o hacer saltar el cerradero de la cerradura o derribar la puerta completamente.
+*   **Rescate y ventilación:** Una vez extinguido el fuego, se accede a la vivienda, se localiza y rescata a las tres víctimas, que son entregadas al personal sanitario. Se ventila la vivienda y los demás pisos afectados con las llaves proporcionadas.
+*   **Finalización:** Recogida de material, verificación de niveles de gases con explosímetro, registro de datos y retorno a base.
+
+### CAPÍTULO 5: CASOS PRÁCTICOS
+
+#### 3. LOCAL COMERCIAL CON CIERRE METÁLICO (INCENDIO INTERIOR)
+
+**a) Planteamiento:**
+*   **Situación:** Local comercial con una única entrada, cierre metálico enrollable de varillas, escaparate y puerta interior de aluminio. Incendio en el interior.
+*   **Movilización inicial:** Se recibe el aviso.
+
+**b) Valoración:**
+*   **Exterior:** Fachada principal con única entrada, cierre bajado, incendio visible en el interior.
+*   **Entrada y técnica:**
+    *   Cortar las varillas del cierre con cizalla o moto radial (disco de metal) para crear una abertura suficiente.
+    *   Para la puerta interior de aluminio (apertura hacia el interior), golpear el cerradero con una maza para romper la cerradura.
+
+**c) Intervención:**
+*   **Extinción y ventilación:** Aplicar técnica de extinción de incendios adecuada. Sofocar el fuego y ventilar el local.
+*   **Búsqueda de víctimas:** No se encuentran ocupantes.
+*   **Finalización:** Recogida de material, registro de datos y retorno a base.
+
+**CONVIENE RECORDAR**
+
+*   Las intervenciones de apertura forzada por los Cuerpos de Bomberos son acciones necesarias en diversas emergencias (incendios, vidas en peligro, escapes de gas, inundaciones, cierres inesperados).
+*   Es crucial adherirse a la legislación vigente, que restringe el acceso no autorizado, salvo en situaciones de emergencia. La presencia de las Fuerzas y Cuerpos de Seguridad es fundamental para validar la identidad, descartar actividades delictivas y asegurar la inexistencia de órdenes de alejamiento.
+*   La evaluación de los puntos de acceso (puertas, ventanas, rejas, cierres metálicos) debe ser exhaustiva para determinar la vía más rápida, segura y con menor daño, siempre considerando la fase posterior de "retorno a la normalidad".
+*   El uso de Equipos de Protección Individual (EPI) es obligatorio, incluyendo guantes y ropa de manga larga anticorte, casco, calzado de seguridad con puntera de acero y protección ocular/facial con mascarilla antipartículas.
+*   En situaciones de alto riesgo (como trabajos en altura o incendios), se requiere EPI suplementario (equipo de rescate en altura, protección contra fuego, equipos de respiración autónoma).
+*   Aunque la puerta principal suele ser el acceso más común, es imperativo explorar soluciones alternativas.
+*   La elección de herramientas (desde radiografías o plásticos para resbalones hasta mazas, palancas, destornilladores, taladros, sierras y extractores) debe ser adaptada a la técnica y al tipo de material.
+*   El objetivo primordial es lograr un acceso rápido, seguro y proporcionado, priorizando la vida humana y minimizando los daños materiales.

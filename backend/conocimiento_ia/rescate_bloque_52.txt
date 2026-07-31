@@ -1,125 +1,79 @@
-## Rescate Subacuático: Aspectos Operativos y de Seguridad
+El presente manual técnico, "Rescate y Salvamento", detalla procedimientos y consideraciones esenciales para la actuación de bomberos y equipos de emergencia en diversas situaciones de rescate, desde trabajos en altura hasta intervenciones subacuáticas y en grandes áreas.
 
-El rescate subacuático es una especialidad que exige un conocimiento profundo tanto del medio acuático como de sus implicaciones en el cuerpo humano. Esta disciplina, regulada por normativas específicas, requiere una preparación rigurosa, equipamiento especializado y una planificación meticulosa para garantizar la seguridad de los intervinientes y el éxito de la operación.
+## PARTE 4: RESCATE SUBACUÁTICO
 
-### Consideraciones sobre Accidentes y Fisiología del Buceo
+### Capítulo 2. Técnicas de intervención
 
-Los accidentes en el medio subacuático pueden presentarse de diversas formas, cada una con sus propias particularidades y protocolos de actuación.
+#### 1. Preparación de la inmersión
 
-#### Ahogamientos e Hipotermia
-Existen dos tipos principales de ahogamientos: el **ahogado blanco**, caracterizado por una súbita pérdida de conocimiento debido a un impacto de agua fría, infarto o desvanecimiento, donde la víctima suele encontrarse en superficie sin agua en los pulmones. La intervención en estos casos debe ser extremadamente rápida, priorizando la apertura de las vías aéreas durante el remolque a la orilla. Por otro lado, el **ahogado azul** implica una fase inicial de lucha seguida de disnea, convulsiones, pérdida de conciencia y, eventualmente, la muerte. La búsqueda de estas víctimas puede requerir exploraciones en medias aguas o el fondo, dependiendo del tiempo transcurrido desde el incidente.
+La fase de preparación previa a cualquier inmersión es crucial y debe asegurar una señalización óptima para garantizar la seguridad y eficiencia del trabajo.
 
-La **hipotermia**, común en aguas frías o tras una exposición prolongada, se manifiesta con escalofríos, contracciones musculares, disminución de la frecuencia cardíaca y respiratoria, y puede llevar a la inconsciencia. Es fundamental reconocer estos síntomas para actuar de manera eficaz.
+**1.1. Zonificación**
 
-#### Accidentes Descompresivos
-Un accidente descompresivo, provocado por una ascensión demasiado rápida que forma burbujas de nitrógeno en los tejidos, requiere un protocolo de actuación estricto. Los **primeros auxilios** incluyen retirar al buceador del agua, quitarle el traje y cualquier elemento que comprima las vías respiratorias, cubrirlo con material térmico y colocarlo en posición horizontal (cabeza erguida si está consciente, de lado si está inconsciente). La reanimación cardiopulmonar (RCP) debe iniciarse de inmediato si es necesario y si hay personal capacitado. La administración de oxígeno normobárico al 100% por mascarilla y líquidos (si la víctima está consciente) es crucial. El traslado a la **cámara hiperbárica** más cercana es indispensable, utilizando el medio más rápido disponible (embarcación, vehículo, helicóptero o ambulancia), manteniendo la oxigenoterapia y el acompañamiento. Se desaconseja el uso de cámaras monoplazas para la evacuación. Los centros hiperbáricos deben estar dirigidos por especialistas y contar con personal médico cualificado para el buceo.
+Es fundamental establecer zonas de trabajo definidas para la operación:
 
-#### Leyes Físicas del Buceo
-El buceo y el cuerpo humano interactúan con las leyes físicas del aire y el agua. El **aire**, compuesto mayoritariamente por nitrógeno (78,13%) y oxígeno (20,90%), es 800 veces menos denso que el **agua** (dulce o salada). La **presión atmosférica** es la fuerza que ejerce el aire a nivel del mar (1,033 kg/cm², 1 atmósfera o 760 mmHg). La **presión hidrostática** es la fuerza que ejerce el agua, aumentando 1 atmósfera cada 10,33 metros de profundidad. La **presión absoluta** es la suma de la presión atmosférica y la hidrostática.
+*   **Zona Fría:** Área sin peligro, donde se ubican los servicios sanitarios, las Fuerzas y Cuerpos de Seguridad, y el Puesto de Mando Avanzado (PMA) si es necesario. En esta zona se controla el material.
+*   **Zona Templada:** Área de posible riesgo, utilizada exclusivamente por el personal de apoyo. Debe estar balizada y ser segura para los buceadores, controlando el tráfico de embarcaciones.
+*   **Zona Caliente:** Área de máximo peligro, accesible solo para equipos de rescate debidamente equipados. Se evita la navegación y se controla constantemente la posición de los buceadores.
 
-La **Ley de Boyle-Mariotte** establece que, a temperatura constante, el volumen de un gas es inversamente proporcional a la presión absoluta, y su densidad es directamente proporcional a ella. Esto implica que la masa del buceador influye en la energía de la caída, las burbujas aumentan de tamaño al ascender, el consumo de aire aumenta con la profundidad, y se pierde flotabilidad al descender. Es fundamental una respiración normal durante el ascenso para evitar lesiones por sobreexpansión pulmonar. La **Ley de Charles-Gay Loussac** indica que, a volumen constante, la presión de un gas es directamente proporcional a su temperatura absoluta, lo que advierte sobre los riesgos de calentar tanques cargados. La **Ley de Dalton** señala que la presión total de una mezcla de gases es la suma de sus presiones parciales, un concepto clave para entender la toxicidad de los gases en profundidad, como la narcosis nitrogenada. La **Ley de Henry** explica que la cantidad de gas disuelto en un líquido es proporcional a su presión parcial, lo que se aplica a la disolución de gases en la sangre del buceador y a la formación de burbujas en ascensos rápidos, causando la enfermedad descompresiva.
+El patrón de búsqueda adoptado influye en la planificación de la zona de trabajo. Esta debe ser conocida por los buceadores de fondo y, si es posible, se marcarán los cabos con luces químicas para facilitar la orientación y el trabajo.
 
-#### Efectos Fisiológicos del Buceo
-Los cambios de presión afectan al cuerpo. Durante el **descenso**, la compresión de gases puede provocar **barotraumas** (daños por desequilibrio de presión) en oídos (squeeze), senos nasales, pulmones, dientes y visor. La **compensación** (exhalar aire con boca y nariz cerradas) es esencial. Durante el **ascenso**, la disminución de presión causa la expansión de gases, lo que puede producir lesiones por **sobreexpansión**, como la embolia de aire (aire en torrente circulatorio), neumotórax (aire entre pulmón y cavidad torácica), enfisema mediastínico (aire en el mediastino) o enfisema subcutáneo (aire bajo la piel). La **narcosis nitrogenada**, que aparece a partir de 30 metros de profundidad, causa euforia y desorientación, resolviéndose al ascender. Es vital planificar las inmersiones, respetar los límites de profundidad y tiempo sin descompresión, y utilizar tablas de descompresión o un ordenador de buceo.
+**1.2. Señalización**
 
-### Planificación y Técnicas de Intervención
+**1.2.1. Señalización superficial**
 
-La preparación y ejecución de una intervención subacuática se rigen por fases claras y técnicas específicas.
+En la superficie, se emplea una boya con bandera de buceo (bandera alfa) para indicar la zona de inmersión. Es aconsejable usar una segunda bandera para marcar la posición de los buceadores. La zona de inmersión debe mantenerse libre de tráfico marítimo y bañistas. La cuerda de fondeo de las boyas puede utilizarse como línea de ascenso y descenso, o para las paradas de seguridad.
 
-#### Preparación de la Inmersión: Zonificación y Señalización
-Antes de la inmersión, es crucial establecer un entorno de trabajo seguro. La **zonificación** define tres áreas: la **Zona Fría**, sin peligro, para equipos sanitarios, fuerzas del orden y puesto de mando; la **Zona Templada**, con riesgo potencial, solo para personal de apoyo, balizada y con tráfico de embarcaciones controlado; y la **Zona Caliente**, la más peligrosa, exclusiva para equipos de rescate equipados, donde la navegación está restringida. La zona de trabajo debe ser planificada en superficie y conocida por los buceadores, y los cabos de guía deben marcarse con luces químicas para facilitar la orientación, especialmente en condiciones de baja visibilidad.
+La Organización Marítima Internacional (OMI) establece los códigos de señalización.
 
-La **señalización superficial** incluye el uso de boyas con la bandera Alfa para indicar la zona de buceo, y otra bandera para la posición de los buceadores. La zona debe estar libre de tráfico y bañistas. Los **"muertos"** (objetos pesados) se emplean para fondear elementos y deben lanzarse lentamente, asegurándolos para evitar movimientos. En buceos nocturnos o de baja visibilidad, las boyas deben iluminarse con cartuchos de luz química.
+**1.2.2. Fondeo**
 
-#### Técnicas de Inmersión y Ascenso
-La **entrada al agua** es un momento crítico que requiere conocer las corrientes. Debe realizarse con la máxima seguridad del socorrista, priorizando la **entrada de pie en posición abierta y sin hundirse** (brazos y piernas abiertas, ligera inclinación, brazada potente, cabeza fuera del agua) para evitar hundimientos y mantener el contacto visual con la víctima. Si se utiliza **material de salvamento**, este no debe representar peligro ni retraso. Otras técnicas incluyen la **voltereta hacia atrás** (para embarcaciones pequeñas) y el **paso adelante** (para embarcaciones altas o embarcaderos), además de la entrada caminando desde la orilla. Tras la entrada, se verifica la flotabilidad, el equipo y la estanquidad de las gafas, confirmando con la señal de "ok".
+Los objetos pesados utilizados para fijar elementos al fondo (boyas, líneas de vida, marcaje) se denominan "muertos". Su peso, material y forma dependen del tipo de trabajo. Para lanzar un "muerto" al fondo, se debe hacer lentamente y con cuidado para evitar la pérdida de visibilidad al remover el fondo, asegurándose de que quede bien fijado para evitar desplazamientos. En buceos nocturnos o con baja visibilidad, se recomienda iluminar la boya con un cartucho de luz química para facilitar su localización.
 
-El **descenso** debe ser cómodo y controlado, evitando superar los 24 metros por minuto. Se puede emplear una flexión por la cintura con aleteo (posición invertida). Es esencial liberar aire del chaleco antes de descender y añadirlo al llegar a la profundidad deseada para mantener la flotabilidad neutra. El nado debe ser lento y constante (patada de crol). En caso de agotamiento de aire, se entrena el compartimiento de un solo regulador, exhalando durante el ascenso para prevenir embolias. La inundación de gafas se soluciona vaciándolas bajo el agua con la cabeza inclinada y el aire exhalado.
+#### 2. Inmersión
 
-El **ascenso** se realiza en pareja a una velocidad de 9 metros por minuto, liberando aire del chaleco para controlar la flotabilidad. Es obligatorio realizar una **parada de seguridad** de 3 a 5 minutos a 5 metros de profundidad en inmersiones de más de 9 metros. Tras salir a superficie, se infla el chaleco y se da la señal de "ok". En un **ascenso de emergencia** por falta de aire sin ayuda de compañero, se realiza un escape libre: soltar el lastre, y espirar continuamente durante la ascensión, sin quitar la botella, ya que el aire restante aumenta su flujo con la disminución de la presión.
+**2.1. Entrada al agua**
 
-#### Búsqueda y Rastreo Subacuático
-Las **técnicas de búsqueda y rastreo** requieren al menos dos buceadores de fondo y un equipo de apoyo en superficie, priorizando la delimitación del área de rastreo. El **Punto de Última Localización Conocida (ULC)** es el punto de referencia clave para iniciar la búsqueda y debe señalizarse con una boya adecuada y sus coordenadas deben registrarse.
+Para una entrada al agua segura y sencilla, se deben considerar las circunstancias y variables presentes:
 
-Los **patrones de búsqueda** se adaptan a las condiciones del entorno:
-*   La **búsqueda por barrido** se realiza desde la orilla o un embarcadero, cubriendo hasta 60 metros y manteniendo el cabo guía tenso. Es adecuada para zonas amplias sin obstáculos.
-*   La **búsqueda en paralelo** se utiliza en zonas amplias y libres de obstáculos, con el buceador y el encargado del cabo moviéndose paralelamente, marcando la franja a recorrer y prestando atención al cambio de sentido.
-*   La **búsqueda circular** es ideal para zonas pequeñas, sin grandes desniveles ni corrientes fuertes, girando concéntricamente desde el ULC. Los círculos se abren progresivamente hasta 30 metros de diámetro.
-*   La **búsqueda por filieres** implica tender cabos en paralelo lastrados y separados en el fondo, con buceadores avanzando en pareja sobre ellos. Es útil en fango, baja visibilidad o búsqueda de objetos enterrados.
-*   La **búsqueda con planeador** se usa para rastrear grandes áreas mediante observación visual, arrastrando un planeador submarino desde una embarcación a velocidades de 2 a 4 nudos, con un buceador guiándolo para evitar obstáculos.
+*   Verificar que la zona de entrada esté libre de obstáculos.
+*   Revisar el equipo junto a los compañeros.
+*   Inflar ligeramente el chaleco para flotar al entrar.
 
-#### Buceo en Condiciones Especiales
-Ciertas condiciones ambientales requieren adaptaciones específicas en el buceo:
-*   El **buceo en altitud** (más de 300 metros sobre el nivel del mar) implica una menor presión atmosférica y, a menudo, aguas más frías y menos densas. Se debe reducir el lastre, planificar las inmersiones de forma conservadora, y usar tablas de buceo en altitud.
-*   El **buceo en cuevas o cavernas** (espeleobuceo) es una especialidad que se practica en ambientes confinados, con poca luz, visibilidad limitada por sedimentos y corrientes. Requiere entrenamiento especializado, un principio de redundancia en el equipo (doble regulador, tanques, lámparas), y el uso de una línea de vida para guiar el camino de entrada y salida.
-*   El **buceo nocturno o en aguas sin visibilidad** aumenta la dificultad y el estrés. Requiere un dominio de las técnicas básicas, señales luminosas (luces de referencia, marcadoras estroboscópicas) y navegación subacuática con brújula y líneas de vida, priorizando el contacto físico entre buceadores en visibilidad nula.
-*   El **buceo en aguas contaminadas** (química, biológica, radiactiva) exige un equipo de protección adecuado (traje seco estanco, máscara con capucha, guantes), una sobrepresión interna en el traje y la máscara, y protocolos de descontaminación y reconocimiento médico posterior.
+Los métodos de entrada más adecuados son:
 
-### Equipamiento y Herramientas
+*   **Voltereta hacia atrás:** Ideal para embarcaciones pequeñas, sujetando gafas y regulador.
+*   **Paso adelante:** Apropiado para embarcaciones altas o embarcaderos.
+*   **Desde la orilla:** Caminando hacia atrás.
 
-El equipamiento es fundamental para la seguridad y eficacia en las operaciones subacuáticas.
+Al emerger tras la entrada, se comprueba la flotabilidad, el funcionamiento del equipo y la estanquidad de las gafas, y se da la señal de "ok".
 
-#### Equipo Básico y su Mantenimiento
-El **material individual obligatorio** incluye gafas o facial ligero, dos reguladores independientes (principal y auxiliar), un sistema de control de presión de aire, guantes de trabajo, cuchillo, aletas, cinturón de lastre, escarpines de neopreno, botella, manómetro, máscara con tubo, chaleco hidrostático, chaleco de calor, reloj, profundímetro u ordenador, brújula, tablas de descompresión plastificadas y válvulas o griferías. Todo el equipo debe ser revisado, probado, controlado y reparado según la legislación vigente, registrando las operaciones en un "Libro de Registro/Control de Equipos". Las botellas deben someterse a inspección visual anual y verificación completa cada cinco años. Es crucial evitar la sobrecarga y el calentamiento de las botellas durante la carga.
+**2.2. El descenso**
 
-#### Elementos Específicos del Equipo
-Los **trajes de buceo** (húmedos, secos de volumen variable o constante, semisecos, vulcanizados) ofrecen protección térmica y contra roces, variando según la temperatura del agua y el tipo de inmersión. El **cinturón de lastre** compensa la flotabilidad y debe poder soltarse en emergencias. Las **máscaras de buceo** pueden ser de volumen reducido (para compensación de oídos y senos) o de gran volumen (para mayor campo de visión). El **chaleco hidrostático** actúa como salvavidas y ajusta la flotabilidad, inflándose oralmente o con aire de la botella, y disponiendo de válvulas de purga. Las **botellas** de acero o aluminio (10-18 litros) almacenan aire. Los **reguladores** (principal y auxiliar/octopus) suministran aire a presión ambiente. El **manómetro** indica el aire disponible. El **profundímetro** o **ordenador de buceo** informan sobre la profundidad. La **brújula** facilita la navegación subacuática. Las **tablas de descompresión** y los **ordenadores de buceo** son herramientas esenciales para la planificación segura de las inmersiones. Los **guantes de neopreno** y las **aletas** mejoran la protección y movilidad.
+Antes de descender, el buceador debe sentirse cómodo con su equipo. Una técnica adecuada para iniciar el descenso es la flexión de cintura acompañada de un aleteo ligero, que lo posiciona invertido. Es necesario purgar el aire del chaleco mediante la válvula de deshinchado. Siempre que sea posible, el descenso (y ascenso) se realizará siguiendo un cabo guía.
 
-#### Técnicas de Elevación de Cargas y Comunicaciones
-Para la **elevación de cargas** subacuáticas, se utilizan globos de elevación (abiertos o cerrados), grúas flotantes o terrestres, o arrastre. La planificación debe considerar el tiempo en el fondo, la profundidad, el tipo de fondo y la temperatura, así como la capacidad de los globos. Es fundamental un ascenso controlado del objeto.
+La velocidad de descenso no debe exceder los 24 metros por minuto. En caso de dificultad, el buceador debe detenerse, ascender unos metros y compensar la presión. Al alcanzar la profundidad deseada, se añade aire al chaleco para lograr flotabilidad neutra, verificando el equipo y las condiciones del fondo. Para nadar, se recomienda la patada de crol, lenta y constante.
 
-Las **comunicaciones** son vitales en el medio subacuático. Las **señales de mano y silbato** son comunes, con gestos específicos para "necesidad de asistencia", "estoy bien", "mover derecha/izquierda", "botiquín", "alto/atención", "hacia arriba/abajo", "emergencia/peligro". En buceo nocturno o con visibilidad limitada, se usan **linternas de emergencia** y **luces marcadoras** para la orientación. El silbato también es útil para localizar a un buceador en superficie. Es fundamental que todos los buceadores conozcan estas señales y que se planifiquen de forma conservadora las inmersiones en baja visibilidad.
+Durante el buceo, pueden surgir emergencias que deben manejarse con calma, como el agotamiento del aire. Si la reserva falla, la reducción de presión en el ascenso sirve como aviso. Los buceadores deben estar entrenados en la técnica de compartir un solo regulador (colocándose uno frente al otro, respirando dos veces cada uno). Durante el ascenso, deben exhalar para prevenir embolias gaseosas. En caso de inundación de gafas, es crucial saber desenvolverse sin ellas y vaciarlas inclinando la cabeza hacia atrás, presionando las gafas contra la frente y expulsando aire por la nariz.
 
-En el **rescate en ríos, riadas e inundaciones**, la comunicación es esencial debido a la posible afectación de infraestructuras. Los sistemas desplegables deben ser adaptables e interoperables. El **control de accesos** se realiza con motosierras, tronzadoras, tracteles y cabrestantes para despejar vías. El **control de la población** implica confinamiento, evacuación o traslado, priorizando la seguridad. El **control de las aguas** se efectúa abriendo salidas, achicando agua con electrobombas, turbobombas o motobombas flotantes, y construyendo diques con sacos terreros o gaviones modulares. El **control de infraestructuras** busca evitar derrumbes mediante apuntalamiento y balizamiento. El **corte de suministros** (gas, electricidad, agua) es crucial.
+**2.3. El ascenso**
 
-### Intervención en Accidentes de Tráfico
+El ascenso se realiza en pareja, señalizando y ascendiendo a 9 metros por minuto. El organismo elimina el nitrógeno adicional durante un ascenso lento. A medida que se asciende, la presión disminuye y el chaleco aumenta la flotabilidad, lo que requiere controlar la liberación de aire. Es importante vigilar la superficie para asegurar que el camino esté despejado y evitar golpes. La parada de seguridad es obligatoria durante 3 a 5 minutos a 5 metros de profundidad en inmersiones de más de 9 metros.
 
-En los **accidentes de tráfico**, la intervención se centra en la liberación de víctimas atrapadas, requiriendo una respuesta coordinada y planificada.
+**2.4. El ascenso de emergencia**
 
-#### Valoración y Gestión
-La **valoración inicial y continua** del siniestro es fundamental. Incluye inspeccionar la escena, determinar necesidades de primeros auxilios (solicitando sanitarios si es necesario), analizar riesgos (físicos, químicos, atmosféricos, como falta/exceso de oxígeno, gases tóxicos/combustibles) y elaborar un plan de actuación que asigne roles (mando, equipo de rescate, SOS, seguro). Las **zonas de actuación** se demarcan como caliente, templada y fría, y se instala un sistema de rescate, idealmente sobredimensionando los Sistemas de Anclaje de Seguridad (SAS) y utilizando redundancia de instalaciones. Es vital revisar y comprobar el sistema de rescate, simplificar técnicas y prestar atención a los detalles.
+Las salidas del agua deben ser seguras y cómodas, manteniendo el equipo puesto hasta estar fuera del agua. Si un buceador se queda sin aire repentinamente y no recibe ayuda de un compañero, debe realizar un escape libre:
 
-La **táctica de intervención** se basa en la experiencia profesional, el conocimiento técnico-científico, el abanico de técnicas disponibles y la valoración del incidente. Las tácticas más habituales incluyen rescates por descenso, ascenso, bajo cota cero, en terraplenes y taludes, y por tirolina. El plan de actuación debe ser flexible para adaptarse a circunstancias sobrevenidas.
+1.  Zafarse del lastre.
+2.  No quitarse la botella a menos que sea imprescindible, ya que aún puede proporcionar aire extra al disminuir la presión.
+3.  Expirar continuamente durante el ascenso, verificando las burbujas generadas por la exhalación.
 
-#### Estabilización del Vehículo y Extracción de Víctimas
-La **estabilización del vehículo** es primordial para evitar movimientos no intencionados que agraven las lesiones de las víctimas. Puede ser urgente manual (inicial), primaria (para acceso sanitario) o secundaria (para excarcelación). Se utilizan cuñas, calzos y puntales.
+La experiencia es clave para realizar un escape libre exitoso.
 
-Para la **extracción de víctimas**, la rapidez y seguridad son cruciales, inmovilizando al herido con collarín ortopédico y tabla espinal. La **maniobra de Rautek** se aplica en casos de peligro inminente, liberando piernas, pasando brazos del rescatador por debajo de las axilas, sujetando mandíbula y extrayendo a la víctima. La **creación de espacios** en el vehículo implica el tratamiento de vidrios (rompiendo los cristales más alejados de las víctimas y cubriéndolos con protección), la apertura o retirada de puertas (por cerradura, bisagras, o creando una tercera puerta) y el abatimiento o retirada del techo, asegurando siempre la zona y protegiendo a la víctima y a los intervinientes. En vehículos pesados, las técnicas son similares pero adaptadas a su mayor tamaño y peso, a menudo requiriendo grúas o plataformas.
+#### 3. Técnicas de búsqueda y rastreo
 
-#### Elementos de Seguridad del Vehículo
-Los vehículos modernos incorporan sistemas de **seguridad activa** (previenen el accidente, como frenos ABS, control de estabilidad), **pasiva** (reducen los daños durante el accidente, como airbags, cinturones) y **terciaria** (facilitan el rescate, como el sistema eCall).
+Para la búsqueda, se requieren al menos dos buceadores de fondo y un equipo de apoyo en superficie. El primer paso es delimitar la zona de rastreo. Es vital recopilar toda la información posible de los testigos, ya que de su testimonio depende el éxito de la operación.
 
-Los **airbags** (frontales, laterales, de cortina, de rodilla, para peatones) se activan por deceleración y se desinflan para amortiguar impactos. Los **pretensores** tensan el cinturón al inicio del impacto. Es fundamental conocer su ubicación y desactivación para evitar riesgos. Las **baterías** (12V, 42V, alta tensión HV) deben ser desconectadas de forma segura (primero polo negativo) para evitar cortocircuitos o riesgos eléctricos, especialmente en vehículos híbridos y eléctricos. El **depósito de combustible** está diseñado para prevenir derrames en caso de vuelco. Las **tuberías de combustible** pueden requerir corte. Los **vehículos híbridos y eléctricos** tienen componentes de alto voltaje (cables naranja, adhesivos de advertencia) y requieren desactivar el sistema de alto voltaje antes de intervenir. Los **vehículos alimentados por GNC/GLP** presentan depósitos a alta presión y son inflamables. El **óxido nitroso** (NITROX) en vehículos tuneados es comburente y explosivo. Las **ruedas** y **neumáticos** (tubetype, tubeless) y la **suspensión** (McPherson, neumática) influyen en la estabilidad. Los **frenos** (tambor, disco, ABS, ASR) detienen el vehículo.
+**3.1. Selección del punto ULC**
 
-### Rescate Apícola y de Otras Especies
-
-La intervención con animales, especialmente abejas y avispas, presenta desafíos particulares.
-
-#### Especies y Riesgos
-En la península ibérica, las **especies potencialmente peligrosas** incluyen lobos, jabalíes, cérvidos (machos en celo), roedores, mustélidos, grandes aves de presa (buitres, garzas, cigüeñas), víboras (hocicuda, áspid, de Seoane), lagartos ocelados y diversos insectos y arácnidos (alacrán, arañas reclusa/lobo, escolopendras). Las **abejas melíferas** son insectos sociales que viven en colonias (hasta 50.000 individuos), construyen panales de cera y se reproducen por enjambrazón. Segregan feromonas para la organización y comunicación de la colonia. Los **véspidos** (avispas) incluyen avispón, avispa de papel y avispa asiática (invasora), construyen nidos de papel y pican repetidamente.
-
-La **picadura de abeja** deja el aguijón y el saco de veneno en la piel, inoculando veneno durante 30 segundos y liberando feromona de alarma. Puede causar reacciones locales, extensas o sistémicas (urticaria, angioedema, disnea, broncoespasmo, shock anafiláctico), siendo este último mortal. El tratamiento requiere retirar el aguijón sin presionar el saco, lavar la herida y aplicar frío. En reacciones sistémicas, se administran antihistamínicos y corticoides, y en anafilaxia, adrenalina intramuscular (0,01 ml/kg, máximo 0,3-0,5 ml).
-
-#### Intervención con Enjambres y Nidos
-La **enjambrazón** es la reproducción natural de las colonias. Los **enjambres desnudos** (primarios, secundarios, terciarios) están posados temporalmente. Los **enjambres establecidos** (colonias) han construido panales y la reina pone huevos.
-Para la **captura de enjambres accesibles no establecidos**, se introduce el enjambre en núcleos de cartón (langstroth) al anochecer, pulverizando jarabe de agua con azúcar. Se pueden usar feromonas (swarmcatch en la entrada, beebost/QMP dentro) para atraerlos. El **aspirado de abejas** se usa para enjambres posados en superficies. El **cepillado** retira las abejas de los panales con suave presión. La **aplicación de humo** (denso y frío) moviliza a las abejas al hacerles creer que hay fuego.
-Para la **retirada de colonias establecidas**, si son accesibles, se evalúan los daños potenciales a los bienes. Se prioriza la recuperación de la colonia, no los panales. Se ahúman y aspiran las abejas, se retiran los panales a una bolsa, se desodoriza la zona con repelente y se recuperan las abejas en vuelo con un núcleo feromonado. El núcleo debe mantenerse cerrado y a la sombra, y el enjambre debe ser recogido por un apicultor antes de 72 horas. Si el enjambre es **no accesible**, se pueden usar embudos de tela mosquitera para que las abejas se trasladen a una enjambrera cercana, o recurrir a la fumigación.
-
-Para la **retirada de colonias de véspidos**, las autóctonas solo se retiran si hay riesgo real, mientras que las invasoras (Vespa Velutina Nigrithorax) siempre. Se interviene al anochecer, se usan biocidas (si es necesario) en la entrada del nido, se envuelve el nido en una bolsa de plástico y se corta su sujeción, incinerándolo posteriormente para evitar intoxicaciones.
-
-#### Material y Técnicas para la Captura de Animales
-Para la **captura de mamíferos medianos y pequeños**, se utilizan cajas trampa (comerciales o improvisadas con transportines). Para animales salvajes, se confina al animal y se le atrae a la trampa con comida. Para **grandes mamíferos** atrapados en lodo, se usan pletinas curvas para rodearlos, lonas y tubos perforados para diluir el lodo, y cabrestantes para el arrastre. Para **reptiles**, se usan ganchos y pinzas de captura, y se les conduce a cajas trampa. Para **aves**, se emplean mantas ligeras o sábanas opacas para cubrirlas y caperuzas. La comunicación con la policía local o el SEPRONA es crucial para la gestión y custodia de animales rescatados.
-
-### Gestión de Emergencias en Ferrocarriles
-
-En los accidentes ferroviarios, una intervención eficaz requiere conocimiento de la infraestructura, del material rodante y de los protocolos de seguridad.
-
-#### Conceptos Ferroviarios y Legislación
-La **infraestructura** comprende las obras (explanación, puentes, túneles) y la **superestructura** incluye las vías (carril, traviesas, balasto, tirafondos, placas de asiento) y las instalaciones (electrificación, señales). Los **enclaves ferroviarios** (estaciones, apartaderos, apeaderos, cargaderos, terminales de mercancías) son esenciales para la regulación del tráfico. Los **dispositivos de frenos** (Tubería de Freno Automático TFA, Tubería de Depósitos Principales TDP, semiacoplamientos SA, grifo de aislamiento, freno de estacionamiento) son cruciales para la seguridad.
-
-La **legislación aplicable** incluye la Ley del Sector Ferroviario, convenios internacionales (COTIF, RID), Especificaciones Técnicas de Interoperabilidad (ETI) y Homologación (ETH), y normas de seguridad específicas (UNE 13272). La **gestión de emergencias** implica la coordinación entre Adif (Administrador de Infraestructuras Ferroviarias) y Renfe Operadora. Adif gestiona la infraestructura y Renfe el transporte. El CGRH24 (Centro de Autoprotección y Seguridad H24) coordina las incidencias.
-
-#### Electrificación y Señalización
-Las vías electrificadas (25 kV alterna en alta velocidad, 3 kV continua en convencional, 1.5 kV continua en ancho métrico) presentan un riesgo de electrocución. Es necesario solicitar el **corte de tensión** mediante telefonemas al CTC, verificar su ausencia con pértigas aisladas, **derivar a tierra** la catenaria en cortocircuito y **señalizar la zona** de trabajo. Las cinco normas de seguridad para desconectar la electricidad son: cortar fuentes de alimentación, evitar realimentación, comprobar corte de tensión, derivar a tierra y señalizar. El **shunt de vía** (barra de shuntado) protege a los equipos de trabajo impidiendo la circulación de trenes.
-
-Las **señales ferroviarias** pueden ser luminosas (
+El punto ULC (Última Localización Conocida) es el lugar donde se vio por última vez a la persona. Se debe señalizar con una boya de peso adecuado a las condiciones de fondo y clima, registrando sus coordenadas. Este cabo de la ULC no debe usarse como anclaje para la embarcación, pero sí como cabo de descenso para los buceadores y como punto de partida para un patrón de búsqueda circular.

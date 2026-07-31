@@ -1,125 +1,31 @@
-# Tácticas Avanzadas en Intervenciones de Incendio para Bomberos
+**CAPÍTULO 5. CASOS PRÁCTICOS**
 
-Las operaciones de bomberos en incendios de interior, túneles e industriales requieren la aplicación coordinada de diversas técnicas y tácticas, fundamentadas en el conocimiento de la dinámica del fuego y las propiedades de los agentes extintores. El objetivo principal es asegurar la vida de las víctimas y del personal de intervención, así como controlar la propagación y extinguir el incendio de forma eficiente.
+Este apartado presenta una serie de soluciones a situaciones reales de emergencia, con el fin de integrar los conocimientos previos. Se asume la siguiente dotación de bomberos y vehículos, aunque se reconoce que pueden existir otras soluciones:
+*   Un Mando de Intervención (MI).
+*   Un Jefe de Dotación (CJD).
+*   Cinco Bomberos (BB).
+*   Una Bomba Pesada.
+*   Un Vehículo de Altura.
 
-## 1. Aplicación Estratégica del Agua como Agente Extintor
+El personal, a excepción del MI, se organiza en binomios, resultando en los siguientes equipos:
+*   Un Mando de Intervención (MI).
+*   Un Equipo de Ataque 1 (CJD + BB1).
+*   Un Equipo de Apoyo (BB2 + BC).
+*   Un Equipo de Ataque 2 (BB3 + BB4).
 
-La intervención con agua en incendios se basa en modificar la dinámica del fuego mediante dos efectos fundamentales: el enfriamiento y la dilución de gases inflamables con vapor de agua. La eficacia de esta aplicación depende de múltiples factores, como el caudal, el tamaño de gota y la técnica empleada.
+Se enfatiza que las soluciones presentadas son solo una de las múltiples opciones posibles.
 
-### 1.1. Técnicas de Aplicación de Agua
+**1. Incendio en Vivienda Unifamiliar**
 
-Existen varias técnicas principales para la aplicación de agua en incendios:
+**a) Escenario:**
+Se reporta un incendio en una vivienda unifamiliar aislada de dos plantas, con una víctima confirmada en el interior. El humo ha inundado toda la estructura, y la puerta principal está abierta. El incendio se clasifica como de contenido.
 
-*   **Ataque Indirecto:** Esta técnica busca la extinción mediante la inundación de un recinto con vapor de agua. Se realiza desde un punto exterior seguro (como una puerta o ventana) con una aplicación prolongada de agua en chorro de cono cerrado o neblina dirigido al techo. El objetivo es maximizar la generación de vapor para sofocar y enfriar los gases del incendio y los combustibles, llevando a la extinción sin un ataque directo al foco. Sin embargo, puede causar una pérdida completa de visibilidad y quemaduras por exceso de vapor si hay víctimas. Además, existe el riesgo de desplazar gases tóxicos a otras estancias. Tras cada aplicación, se debe permitir un tiempo de reposo para la redistribución del vapor y el equilibrio térmico, lo que facilita la evaluación de la efectividad.
-*   **Ataque Directo:** Consiste en la aplicación de una película de agua directamente sobre los combustibles incendiados. Es efectiva cuando el foco es visible y accesible, interrumpiendo la pirólisis y enfriando las superficies. Se recomienda usar patrones de cono cerrado, incluso chorro sólido, con aplicaciones continuas y de larga duración para humedecer y enfriar. Las ventajas incluyen una rápida extinción, pero puede generar vapor en exceso, empeorando la visibilidad y el riesgo para las víctimas, además de desplazar gases.
-*   **Enfriamiento de Gases:** Su objetivo es reducir la inflamabilidad del colchón de gases para permitir una progresión segura del equipo de bomberos, mitigando fenómenos de desarrollo rápido como el *flashover* y *backdraft*. Se realiza con pulsaciones cortas de agua en forma de niebla o cono ancho, dirigidas a las esquinas superiores del fondo del recinto o con un movimiento de barrido ligero. El agua se evapora en el colchón de gases, enfriándolos y diluyéndolos, lo que reduce su volumen y preserva la estratificación térmica. No es una técnica de extinción por sí misma, sino un medio para mejorar las condiciones de seguridad y visibilidad.
-*   **Ataque Defensivo contra la Propagación:** Esta técnica busca limitar la extensión del incendio a zonas no afectadas. Se logra enfriando las superficies combustibles y dificultando la pirólisis, mediante la aplicación de una fina película de agua sobre ellas. Se usa desde el exterior o en la progresión interior, aplicando chorros de cono cerrado o sólido, con intervalos de larga duración y caudal bajo. Es útil en incendios de grandes estructuras o cuando los recursos son limitados, priorizando el control sobre la extinción total.
-*   **Ataque Exterior Ofensivo ("Ablandado"):** Persigue reducir la potencia y temperatura del incendio desde una posición exterior segura, mejorando las condiciones internas y facilitando un ataque interior posterior. Implica pulsaciones de media-larga duración (5 a 30 segundos) con chorro sólido dirigido al techo, sin bloquear la salida de gases. Combina enfriamiento de gases y superficies, y dilución temporal de gases. Los estudios demuestran que esta técnica reduce la temperatura en el recinto incendiado y zonas adyacentes, incrementando la supervivencia de víctimas.
-
-### 1.2. Caudales de Agua
-
-La selección del caudal de agua es crucial. Se distinguen varios términos:
-
-*   **Gasto de agua:** Volumen total de agua empleada en una intervención.
-*   **Caudal medio:** Gasto de agua dividido por el tiempo de intervención.
-*   **Caudal disponible:** Máximo caudal obtenible en punta de lanza en un momento dado.
-*   **Caudal crítico:** Mínimo caudal necesario para extinguir un incendio.
-*   **Caudal óptimo:** Caudal que permite extinguir un incendio con el mínimo gasto de agua posible.
-
-La normativa NFPA 1410 establece un mínimo de 378 LPM para progresiones interiores en América, mientras que Francia exige 500 LPM por ley. Los estudios sugieren valores de 24 LPM/MW para viviendas residenciales y 5 LPM/m² para superficies amplias en incendios industriales.
-
-## 2. Técnicas de Control de la Ventilación
-
-El control de la ventilación es fundamental para modificar la dinámica del incendio y mejorar las condiciones para la intervención. Esto incluye desde el confinamiento total hasta la ventilación mecánica forzada.
-
-### 2.1. Antiventilación o Confinamiento del Incendio
-
-Esta técnica busca privar al incendio de oxígeno para limitar su crecimiento, siendo especialmente útil en incendios limitados por la ventilación. Se logra cerrando puertas y ventanas, o usando cortinas de bloqueo de humo. Reduce la potencia del incendio y evita la propagación de gases a otras estancias. Sin embargo, en incendios infraventilados con plano neutro bajo, puede llevar a una visibilidad nula y empeorar las condiciones de supervivencia.
-
-### 2.2. Ventilación Natural
-
-Aprovecha las diferencias de presión y temperatura generadas por el propio incendio para evacuar gases. Existen dos tipos:
-
-*   **Vertical:** Idealmente, establece un flujo unidireccional con entrada y salida de gases a distinto nivel. La salida se realiza en el punto más cercano al foco, donde las presiones son máximas, y la entrada de aire fresco ocurre por debajo del plano neutro. Aunque eficaz para crear una "ruta fría" para los bomberos, su uso en Europa es limitado debido a la construcción de cubiertas.
-*   **Horizontal:** Se produce en aperturas (ventanas, puertas) al mismo nivel, generando flujos bidireccionales. Es menos efectiva que la vertical y no genera un acceso libre de gases de incendio hasta el foco, exponiendo al equipo de ataque a gases calientes en la parte superior.
-
-### 2.3. Ventilación Forzada (Ventilación por Presión Positiva - VPP)
-
-Emplea ventiladores mecánicos para expulsar gases y establecer flujos unidireccionales.
-
-*   **VPP Defensiva:** Busca expulsar gases de incendio acumulados en la estructura sin que el flujo atraviese el foco. Mejora la supervivencia de víctimas en zonas no afectadas y la visibilidad, facilitando la búsqueda y rescate. Requiere el confinamiento previo del incendio y la apertura de una salida de gases.
-*   **VPP Ofensiva:** Crea un flujo de gases que atraviesa el foco del incendio, produciendo un avance rápido de los efectivos al mejorar la visibilidad, reducir la temperatura y disminuir la cantidad de combustibles gaseosos. Es crucial la rapidez en la ejecución para evitar la mezcla de gases y un posible aumento de la potencia del incendio.
-
-Los **ventiladores** pueden ser térmicos, eléctricos (a red o batería) o hidráulicos. El **diseño de la hélice**, el **régimen de giro**, la **rejilla frontal** y la **carcasa exterior** influyen en la "huella" del ventilador, que se compone de un dardo a alta velocidad y un bulbo de aire succionado. La distancia óptima de colocación (entre 1.8 y 5 metros para puertas estándar) es crucial para maximizar el caudal efectivo y evitar el "cortocircuito" (recirculación de aire).
-
-La **presurización de recintos** con VPP protege zonas adyacentes al incendio al crear un diferencial de presión que impide la entrada de gases calientes. Las **pérdidas de flujo** (por aperturas no selladas) y la **fricción** (por longitud y sinuosidad del recorrido) afectan la eficiencia de la ventilación. En operaciones complejas, puede ser necesario el **uso combinado de ventiladores** (en paralelo para grandes aperturas o en serie para aumentar la presión) o la **ventilación secuencial**, donde se limpian las estancias una a una, comenzando por la más cercana a la entrada.
-
-La **influencia del viento** en la VPP es significativa. Los vientos a favor pueden potenciar la ventilación, mientras que los vientos en contra pueden dificultarla, siendo desaconsejable la VPP con vientos contrarios superiores a 4 m/s.
-
-### 2.4. Control de Puerta de Acceso
-
-El control de la puerta de acceso es vital para regular el flujo de aire. Técnicas como entornar la puerta o usar cortinas de bloqueo de humo minimizan la entrada incontrolada de aire y la dispersión de gases. La **apertura debe ser metódica** y permitir la evaluación de las condiciones interiores (temperatura, visibilidad, color del humo) antes de una progresión segura.
-
-## 3. Trabajo en Espacios sin Visibilidad
-
-En entornos con visibilidad nula, la orientación y búsqueda de víctimas son prioritarias.
-
-*   **Rastreo y Búsqueda por el Equipo de Ataque Interior:** El equipo recorre la ruta de escape de posibles víctimas en sentido inverso, usando una pared como referencia principal.
-*   **Rastreo con Cuerda Guía:** Utilizado en espacios amplios o con baja temperatura para asegurar el retorno y realizar barridos. La "Línea Ariadna" en túneles sirve como guía fija.
-*   **Orientación con Cámara Térmica:** Herramienta fundamental para mejorar la visión, localizar focos y víctimas, y determinar puntos calientes y de ventilación. No obstante, su efectividad puede verse limitada por humo muy denso, altas temperaturas o fallos de batería, siendo un complemento a otras técnicas.
-*   **Combinación de Técnicas:** En situaciones cambiantes, la combinación de la cámara térmica con el tendido de manguera (dos bomberos en progresión, uno con cámara térmica) mejora la seguridad y eficiencia.
-
-## 4. Tácticas de Intervención en Incendios en Túneles
-
-Los incendios en túneles presentan desafíos únicos debido al confinamiento. Las **instalaciones de seguridad** (señalización, vías de evacuación, suministro energético, iluminación, comunicación y sistemas de detección/extinción) son esenciales.
-
-*   **Vías de Evacuación:** Pueden ser **no protegidas** (directamente por el túnel) o **protegidas** (galerías separadas). El RD 635/2006 exige señalización fotoluminiscente cada 25 m y vías protegidas en túneles de más de 400 m, con accesos cada 150-400 m según el tipo de tráfico.
-*   **Sistemas de Ventilación:** La ventilación longitudinal (aire en un sentido, aprovechando el efecto pistón) es común en túneles unidireccionales. La ventilación semitransversal y transversal (extracción de humo e inyección de aire fresco) ofrecen mejores condiciones ambientales y son más seguras para túneles largos o bidireccionales con congestión.
-
-## 5. Tácticas de Intervención en Incendios Industriales
-
-Los incendios industriales se clasifican por su ubicación (en edificios tipo A, B, C o espacios abiertos tipo D, E) y su nivel de riesgo intrínseco (alto, medio, bajo).
-
-### 5.1. Protección contra la Propagación y Extinción
-
-*   **Presurización de Espacios:** Se evita que el humo penetre en zonas adyacentes, manteniendo la operatividad.
-*   **Refrigeración de Superficies:** Retrasa la afección por calor radiante o por convección, usando caudales másicos de agua (1-2 kg/s para dardos/chorros y 2 kg/s para charcos de 50 m²).
-*   **Ataque Directo:** Aplicación de chorro pleno a la base del fuego.
-*   **Ataque Indirecto:** Extinción por saturación en vapor de espacios confinados.
-*   **Ventilación Industrial:** Puede ser horizontal natural, vertical natural o por Presión Positiva (VPP), considerando la carga de fuego y el control de la línea de agua.
-
-### 5.2. Uso de Espumas
-
-Las espumas son cruciales para líquidos inflamables, sofocando y enfriando. Su efectividad depende de la mezcla (agua, aire, espumógeno), la estabilidad y la resistencia al calor/contaminantes.
-
-*   **Generación:** Se puede usar premezcla (extintores, camiones) o proporcionadores/hidromezcladores en línea.
-*   **Tipos de Espuma por Expansión:**
-    *   **Baja Expansión (<20:1):** Densas, alto contenido de agua. Para fuegos clase A y B.
-    *   **Media Expansión (20:1 a 200:1):** Suprimen vaporización de químicos peligrosos. Para zonas confinadas (sótanos, minas).
-    *   **Alta Expansión (>200:1):** Muy ligeras, llenan grandes espacios. Para garajes, hangares.
-*   **Técnicas de Aplicación:**
-    *   **Cubrición Simple:** Chorro sobre el suelo, arrastrando espuma hacia el fuego.
-    *   **Cubrición por Rebote:** Chorro contra un obstáculo (pared) para que la espuma escurra suavemente.
-    *   **Inundación:** Con espumas de alta expansión, requiere ventilación en el extremo opuesto a la aplicación.
-
-### 5.3. Agentes Extintores Sólidos (Polvos Químicos Secos)
-
-Compuestos por sales inorgánicas finamente pulverizadas, actúan por **inhibición** (ruptura de la reacción en cadena) y **sofocación**.
-
-*   **Convencionales (BC):** Bicarbonato sódico/potásico, cloruro potásico, carbonato potásico. Para líquidos inflamables y gases (clase B y C), eléctricos (hasta 1000V). Incompatibles con espuma.
-*   **Polivalentes (ABC):** Fosfatos, sulfatos y sales amónicas. Además de los usos del BC, son antibrasa, efectivos en fuegos clase A (superficiales y profundos). Crean una capa pegajosa que aísla el oxígeno.
-*   **Especiales (Clase D):** Grafito pulverizado y carbón mineral. Diseñados para metales combustibles (aluminio, magnesio, sodio, potasio). No se usa agua ni halones.
-
-### 5.4. Agentes Extintores Gaseosos
-
-Almacenados como líquidos a presión, pasan a gas al ser liberados. Penetran fácilmente pero su uso en exteriores es limitado.
-
-*   **Nitrógeno (N2):** Gas incoloro, inodoro, insípido, estable a altas temperaturas. Actúa por **sofocación** (desplaza oxígeno).
-*   **Dióxido de Carbono (CO2):** Gas incoloro, inodoro, licuable. Pesa 1.5 veces más que el aire, dieléctrico, no corrosivo, no deja residuos. Actúa por **sofocación** (desplaza oxígeno) y **enfriamiento** (se convierte en nieve a -79°C). Útil en fuegos superficiales clase A, B y C.
-*   **Hidrocarburos Halogenados (Halones, Ej. 1211, 1301):** Líquidos que se comportan como gases. Actúan por **inhibición** (rompen la reacción en cadena) y sofocación. Muy limpios, no dañan equipos delicados. Su fabricación está prohibida por normativa europea debido al daño a la capa de ozono.
-
-## 6. Integración Táctica: Ataques Combinados
-
-Las situaciones reales a menudo requieren la combinación de técnicas. Un **ataque combinado** puede implicar el ataque exterior ofensivo, el enfriamiento de gases y la ventilación por presión positiva (VPP). El objetivo es maximizar la visibilidad, reducir riesgos y acelerar la extinción. Para ello, se establece un flujo unidireccional de gases mediante la VPP, se ablanda el incendio desde el exterior, se enfrían los gases internos y, una vez mejoradas las condiciones, se realiza una progresión interior rápida para un ataque directo al foco.
-
-Las **consideraciones de seguridad** son primordiales: evitar backdraft inminente, no bloquear el flujo de gases, asegurar la inertización, vigilar el crecimiento del incendio y la rotura de ventanas, y garantizar la comunicación efectiva. La coordinación y el entrenamiento continuo son esenciales para la toma de decisiones ágil y segura.
+**b) Estrategia de Intervención:**
+*   La confirmación de la presencia de víctimas requiere una respuesta rápida. Dado que se trata de una vivienda aislada a nivel del suelo con un incendio de contenido, las estrategias basadas en ventilación forzada son particularmente efectivas. Sin embargo, solo hay una única abertura de entrada principal.
+*   Se inicia un ataque interior bajo un enfoque de antiventilación, con tres objetivos primordiales:
+    1.  El rescate de la víctima.
+    2.  El control del incendio.
+    3.  La identificación de una salida de gases para la futura aplicación de técnicas de ventilación forzada.
+*   Como resultado del confinamiento inicial, la potencia del incendio disminuye. Aunque el plano neutro se encontraba inicialmente bajo, el confinamiento provoca que descienda completamente hasta el suelo, lo que dificulta la progresión interior. Un bombero se mantiene en la puerta de acceso para controlar su apertura.
+*   **Evaluación y Búsqueda de Ventilación:** Una vez en el área del incendio, se lleva a cabo un control del mismo. Sin embargo, la visibilidad es nula, lo que impide un rastreo eficiente en un tiempo aceptable. Por ello, se prioriza la búsqueda de una ventana o abertura que permita iniciar una técnica de ventilación por presión positiva (VPP).
+*   **Ataque en Presión Positiva para Extinción:** Tras abrir una ventana en el mismo recinto del incendio (o en cualquier otra abertura disponible), se procede a ejecutar un ataque con presión positiva para la extinción. Dado que el incendio ya estaba previamente controlado, la reacción a la ventilación es esperablemente moderada. En este punto, el equipo retrocede y avanza junto a la cuña de aire fresco para localizar a la víctima, aprovechando las condiciones de visibilidad mejoradas. Aunque el flujo de aire fresco puede intensificar temporalmente el incendio, la progresión hasta el foco es lo suficientemente rápida para extinguirlo antes, gracias a la visibilidad y el control. Una vez extraída la víctima, su localización se simplifica.

@@ -1,48 +1,156 @@
-# El Riesgo Eléctrico en Intervenciones de Emergencia: Caracterización, Seguridad y Efectos Fisiológicos
+## Parte 7: NRBQ - Caracterización y Técnicas de Intervención
 
-El riesgo eléctrico constituye un factor crítico en las operaciones de bomberos y emergencias, exigiendo un profundo conocimiento de sus propiedades, sus efectos en el organismo y las normativas asociadas para garantizar la seguridad del personal y de la población. Para una comprensión exhaustiva, es fundamental analizar los conceptos básicos de la electricidad, los tipos de redes, las medidas de seguridad y el impacto fisiológico de la corriente.
+### 1. Manejo Táctico del Incidente de Riesgo Químico
 
-## Conceptos Fundamentales de la Electricidad
+Las intervenciones en situaciones con riesgo químico requieren una valoración exhaustiva para determinar el método de aplicación más adecuado, considerando factores como el riesgo asumido y las posibles consecuencias, que a menudo son irreversibles.
 
-La electricidad se fundamenta en la estructura del **átomo**, la unidad más pequeña de la materia. Este se compone de un **núcleo** central, que contiene **protones** (con carga positiva) y **neutrones** (sin carga), y una **corteza** exterior, donde **electrones** (con carga negativa) orbitan. La **carga eléctrica (Q)**, medida en culombios (C), representa la cantidad de electricidad, siendo la de un electrón igual y opuesta a la de un protón. Las interacciones entre cargas, que dan lugar a la **fuerza electromagnética**, rigen el comportamiento eléctrico: cargas de igual polaridad se repelen, mientras que las opuestas se atraen.
+El mando de intervención debe considerar cuatro aspectos clave:
+*   Experiencia profesional.
+*   Conocimiento técnico y científico.
+*   Gama de técnicas aplicables.
+*   Evaluación del incidente.
 
-Cuando existe un desequilibrio de cargas, los electrones se desplazan desde puntos de mayor carga negativa hacia donde hay menor carga, buscando el **equilibrio**. Este desplazamiento genera una **intensidad de corriente (I)**, definida como la cantidad de electricidad que circula por un conductor en una unidad de tiempo, medida en amperios (A). La **Ley de Ohm (I = V/R)** establece que la intensidad es directamente proporcional a la **diferencia de potencial (V)** o **tensión** (medida en voltios, V) aplicada, e inversamente proporcional a la **resistencia eléctrica (R)** (medida en ohmios, Ω).
+#### 1.1. Fases de una Intervención
 
-La **resistencia eléctrica** es la dificultad que un material opone al paso de la corriente, siendo inversamente proporcional a su conductancia. Depende de la resistividad (propiedad intrínseca del material), su longitud y su sección transversal. Los materiales se clasifican por su conductividad en **superconductores** (resistencia nula en condiciones específicas), **conductores** (como metales y aleaciones, o soluciones salinas), **semiconductores** (conductividad controlable) y **dieléctricos** o **aislantes** (no conducen electricidad, como vidrio o goma). En intervenciones, es crucial considerar que ciertos materiales como el aire o el agua, normalmente aislantes, pueden volverse conductores bajo condiciones específicas de frecuencia o potencial.
+Las intervenciones se estructuran en fases:
 
-La **potencia eléctrica (P)**, medida en vatios (W) o kilovatios-hora (Kwh), es la capacidad de un dispositivo eléctrico para realizar un trabajo. En corriente continua (CC), se calcula como el producto de tensión por intensidad (P=V·I). Sin embargo, en corriente alterna (CA), se añade el **factor de potencia (cos(f))**, resultando P=V·I·cos(f). Se distinguen tres tipos de potencia: **activa (P)**, que realiza trabajo; **reactiva (Q)**, asociada a bobinas y condensadores; y **aparente (S)**, que es la combinación vectorial de ambas. Las empresas suministradoras penalizan bajos factores de potencia, lo que impulsa la instalación de baterías de condensadores para mejorar la eficiencia.
+**Fase 0: Movilización**
+*   **Recepción del aviso:** Implica la recopilación de información preliminar, la confirmación de la movilización de otros servicios (sanitarios, fuerzas de seguridad), la determinación de la ruta de salida, y la activación de medios adicionales con notificación al mando superior.
+*   **Movilización a siniestro:** Cubre el desplazamiento del equipo de primera intervención y de dotaciones adicionales, así como del Mando de Intervención.
+*   **Llegada a siniestro:** Incluye el emplazamiento de vehículos, la preparación del material de primera intervención y el acopio de materiales.
 
-Finalmente, es importante diferenciar los tipos de corriente. La **corriente continua (CC)** fluye en un solo sentido con un potencial constante, como en las baterías. En contraste, la **corriente alterna (CA)**, utilizada en las redes de distribución, invierte su sentido y magnitud cíclicamente, generalmente en forma sinusoidal a 50 Hz en España. Este tipo de corriente puede generarse y transformarse a tensiones elevadas más fácilmente, lo que la hace idónea para el transporte de energía a largas distancias.
+**Fase 1: Valoración Tareas Previas**
+*   **Valoración exterior e interior:** Implica la lectura de la patología de la edificación, el análisis de riesgos inminentes, la elaboración de un Plan de Acción, la sectorización y la zonificación del incidente.
+*   **Acciones inminentes:** Abarca medidas para mitigar riesgos inmediatos como confinamiento o evacuación, corte de servicios, estabilización estructural básica y rescates prioritarios, además del control de la propagación.
 
-## Redes y Subestaciones Eléctricas
+**Fase 2: Control**
+*   **Búsqueda y rescate:** Incluye el rastreo de víctimas superficiales y sepultadas, utilizando técnicas específicas para derrumbes.
+*   **Control de la propagación:** Consiste en limitar la expansión de la patología a otros elementos constructivos, tanto internos como externos.
+*   **Valoración continua:** Proceso constante de evaluación por parte del mando de intervención para analizar la patología, los recursos disponibles y la efectividad de las acciones.
 
-Las **instalaciones eléctricas** se clasifican según su tensión de servicio. Las **instalaciones de alta tensión (AT)** operan con tensiones superiores a 1.000 V en CA o 1.500 V en CC, y abarcan desde la generación hasta la distribución. Por otro lado, las **instalaciones de baja tensión (BT)** manejan tensiones inferiores a 1.000 V en CA o 1.500 V en CC, siendo las más comunes 380 V (trifásica) y 220/125 V (monofásica).
+**Fase 3: Mitigación/Estabilización**
+*   **Apeo:** Ejecución de apeos estandarizados o específicos, incluyendo su cálculo.
 
-Las **plantas de generación de electricidad** emplean alternadores para producir energía trifásica a 20 kV, que luego se eleva a tensiones de entre 66 kV y 380 kV mediante transformadores para su transporte eficiente a través de **líneas de alta tensión**. Estas líneas, que pueden ser aéreas o subterráneas, transportan la energía a las **subestaciones transformadoras**, donde se reduce la tensión para su distribución. Las subestaciones se clasifican por su tamaño (grandes, medianas o pequeñas) y su función (elevadoras o reductoras), y se dividen en secciones de medición, cuchillas de paso e interruptor.
+**Fase 4: Restitución**
+*   **Desescombro y estabilización:** Restitución de la zona a su estado previo a la patología, en la medida de lo posible.
+*   **Valoración final:** Verificación de la estabilidad estructural del conjunto, ausencia de nuevos síntomas y consideraciones de seguridad para el beneficiario.
+*   **Vuelta a base:** Recuperación de la operatividad y análisis colectivo de la intervención como parte del informe final.
 
-Los **centros de transformación (CT)**, ubicados en barrios, industrias o edificios públicos, reducen la tensión de media a baja tensión. Pueden ser de **intemperie** (postes de hormigón/acero), **prefabricados de hormigón** (polígonos industriales), **subterráneos** (nuevas urbanizaciones) o en **edificios de obra civil** (locales comerciales). Además, existen **centros de transformación para vías férreas**, que suministran electricidad a trenes y tranvías, utilizando catenarias para la corriente continua o alterna.
+### 2. Particularidades en Intervenciones NRBQ
 
-Las **instalaciones de enlace** conectan la red de distribución con las instalaciones interiores de los usuarios. Incluyen la **acometida** (desde la red hasta la Caja General de Protección), la **Caja General de Protección (CGP)**, la **Línea General de Alimentación (LGA)** (de la CGP a la centralización de contadores), los **contadores centralizados** o individuales, y la **derivación individual** (del contador al Cuadro de Mando y Protección de la vivienda).
+La **zonificación** es fundamental en incidentes NRBQ, delimitando áreas según la probabilidad y virulencia de los efectos de la sustancia peligrosa. A diferencia de otras intervenciones, la zonificación teórica inicial es necesaria, aunque su dimensión pueda ajustarse *in situ*. Debe asegurar un control de accesos adecuado.
 
-## Medidas de Seguridad y Normativa
+Las **magnitudes principales** que influyen en la zonificación son la toxicidad, los efectos de sobrepresión y la radiación térmica.
 
-La seguridad eléctrica se rige por el **Reglamento Electrotécnico de Baja Tensión (REBT)** y otras normativas específicas, como las **UNE-EN**. Para la seguridad, se establecen **cinco reglas de oro**:
-1.  Abrir con corte visible todas las posibles fuentes de tensión.
-2.  Enclavar o bloquear los aparatos de corte abiertos.
-3.  Comprobar la ausencia total de tensión en cada conductor.
-4.  Poner en corto y a tierra todas las posibles fuentes de tensión.
-5.  Acotar y señalizar la zona de trabajo.
+**Tabla 52. Zonas o sectores en una intervención con sustancias peligrosas**
 
-El **Equipo de Protección Individual (EPI)** es fundamental, incluyendo guantes, botas de seguridad, casco, chaquetón y pantalón ignífugos, y equipos de respiración autónoma (ERA) si hay riesgo de humos tóxicos. Las **distancias de seguridad** varían según la tensión (ej., 5 metros para AT > 66 kV, 3 metros para AT < 66 kV, 0,5 m para BT manual, 1 m para BT mecánico) y si la instalación es aérea o subterránea. Si no es posible mantener estas distancias, se debe cortar el suministro o instalar barreras.
+| Zona | Condiciones |
+| :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Caliente (ZC)** | Área con riesgo inminente para la población sin protección propia. Requiere máxima protección personal. Zona de trabajo para equipos de intervención de Bomberos y otros medios externos con capacidades y protección NRBQ. Preparada para evacuación inmediata a zona templada. El personal no interviniente debe evacuar en dirección perpendicular al viento lo antes posible. |
+| **Templada (ZT)** | Zona funcional para el desarrollo de tareas de intervención; el riesgo de materialización es mínimo o nulo. Zona de trabajo para equipos SOS, mando de intervención, vehículos de apoyo de Bomberos y otros servicios. Preparada para evacuación a Zona Fría. El personal no interviniente debe evacuar en dirección perpendicular al viento lo antes posible. |
+| **Fría (Riesgo Bajo / Nulo)** | Área fuera de las cotas de ZT y ZC. Zona de descanso, reposición, ubicación de vehículos de apoyo, mandos, sanitarios, etc. |
+| **Descontaminación** | Área acotada que garantiza el aislamiento del riesgo en cada una de las zonas de intervención (ZT y ZC). Delimita los únicos puntos de entrada y salida a la zona caliente. A la salida se encuentra la ZT. |
 
-## Efectos de la Electricidad en el Organismo
+La zonificación inicial debe basarse en:
+*   Valoración de las consecuencias.
+*   Cálculo de distancias de afectación.
+*   Estimación de los efectivos necesarios.
+*   Establecimiento de las Zonas de Intervención y Alerta, indicando la ubicación más adecuada para el Puesto de Mando Avanzado (PMA).
 
-Los accidentes eléctricos, aunque no muy frecuentes, son extremadamente graves debido a la interacción de la corriente con los órganos vitales. Los **efectos visibles** pueden incluir sacudidas, traumatismos, quemaduras, parálisis o trastornos sensoriales. Sin embargo, los **efectos no visibles** requieren mayor atención y pueden manifestarse horas o días después.
+### 2.1. Intervenciones Radiológicas
 
-La gravedad depende de la **intensidad (I)** y el **tiempo de exposición**. El **umbral de seguridad** se establece en 30 mA para corriente alterna. En corriente alterna, la **zona 1** (hasta 0.5 mA) no produce reacción; la **zona 2** (0.5 mA a línea b) no causa efectos peligrosos; la **zona 3** (línea b a curva c1) puede provocar contracciones musculares y dificultad respiratoria; y la **zona 4** (por encima de c1) conlleva riesgo de parada cardiaca, fibrilación ventricular y quemaduras graves. Para corriente continua, las intensidades y efectos son ligeramente diferentes, con umbrales más altos para los mismos efectos. La **frecuencia** de la corriente también influye: a 50/60 Hz se produce el máximo daño, mientras que a >1000 Hz disminuye el riesgo de fibrilación, pero aumenta el de quemaduras.
+Las particularidades de las intervenciones con riesgo radiológico incluyen:
+*   **Fuentes industriales y médicas peligrosas** (radiografías).
+*   **Fuentes no controladas o con pérdidas.**
+*   **Fuentes transportadas** para uso médico o industrial.
+*   **Bombas sucias.**
 
-La **resistencia del cuerpo humano** es muy variable, influenciada por la fisiología de la piel, la tensión, la presión, la superficie de contacto, la trayectoria de la corriente y el estado general del individuo. La piel seca ofrece alta resistencia (1.000-100.000 ohmios), pero esta disminuye drásticamente si está húmeda (800 ohmios) o sumergida (200 ohmios), e incluso se anula por quemaduras. El **coeficiente de seguridad (UL)** es la tensión máxima segura: 50 V en seco, 25 V en húmedo y 12 V en ambientes mojados.
+#### 2.1.1. Consideraciones generales
 
-La **trayectoria de la corriente** a través del cuerpo es un factor crítico; las vías que atraviesan el corazón, pulmones o cerebro son las más peligrosas (ej., mano derecha a izquierda, o cabeza a pies). Es vital evitar el contacto directo con la palma de la mano, ya que la tetanización muscular puede impedir soltar el conductor.
+La **irradiación** es la emisión puntual de radiación desde una fuente externa en todas las direcciones. El radiámetro mide el campo de radiación para asegurar la ausencia de riesgo en la zona fría.
+La **mejor protección** se basa en:
+*   **Disminuir el tiempo de exposición.**
+*   **Aumentar la distancia** a la fuente (la radiación recibida es inversamente proporcional al cuadrado de la distancia; a 2 metros se recibe 4 veces menos radiación que a 1 metro).
+*   **Blindarse** con materiales protectores.
 
-Los **accidentes por electricidad** se clasifican estadísticamente: el 35% por contacto directo, el 17% por contacto indirecto y el 48% por arco eléctrico. Las causas más comunes de incendios en viviendas son cortocircuitos, aislamientos rotos y sobrecargas. Los bomberos deben conocer estas estadísticas para anticipar riesgos y aplicar las medidas de seguridad adecuadas, priorizando siempre el corte visible de la tensión y la comprobación de su ausencia para asegurar la escena antes de cualquier intervención.
+#### 2.1.2. Intervenciones nucleares
+
+Los accidentes nucleares se clasifican por su gravedad según la Escala Internacional de Accidentes Nucleares (INES). Las intervenciones en centrales nucleares requieren la participación de organismos nacionales.
+La gestión de residuos nucleares es un problema clave, clasificándose estos por actividad:
+*   **Alta actividad:** De elementos combustibles nucleares.
+*   **Media actividad:** De radionucleidos generados en la fisión nuclear.
+*   **Baja actividad:** De herramientas, ropa y material de mantenimiento.
+
+La empresa nacional ENRESA se encarga del tratamiento y gestión de estos residuos.
+El Plan Básico de Emergencia Nuclear (PLABEN) establece las directrices para la elaboración, implantación y mantenimiento de los planes de protección civil ante emergencias nucleares.
+Los **objetivos generales del PLABEN** son:
+*   Controlar el accidente y mitigar sus consecuencias en el origen.
+*   Evitar o reducir los efectos nocivos de las radiaciones ionizantes en la población, el entorno y los bienes.
+
+La planificación se divide en dos niveles:
+1.  **Actuaciones internas:** En la central nuclear, regidas por el Plan de Emergencia Interior (PEI) y el Reglamento de Instalaciones Nucleares y Radiactivas. Responsabilidad del titular de la central.
+2.  **Actuaciones externas:** Fuera de la central, reguladas por los Planes de Emergencia Nuclear Exteriores (PEN). Coordinadas por la Delegación o Subdelegación del Gobierno e implican a diversos grupos operativos.
+
+Los PEN pueden asignar diferentes denominaciones a los grupos operativos.
+Los **niveles de dosis de emergencia** son indicadores para iniciar la protección radiológica y controlar al personal interviniente. El control dosimétrico y la vigilancia sanitaria especial se inician al comenzar la intervención.
+El personal se clasifica en grupos:
+*   **Grupo 1:** Para acciones urgentes de salvamento, evitación de lesiones o agravamiento de consecuencias por el accidente, con riesgo de dosis superiores a los límites. Deben ser voluntarios y no mujeres embarazadas.
+*   **Grupo 2:** Para medidas de protección urgentes y otras actuaciones de emergencia.
+*   **Grupo 3:** Para operaciones de recuperación una vez controlada la situación y restablecidos los servicios básicos.
+
+**Zonificación del PLABEN:**
+*   **Zona 0:** Área bajo control del explotador, que comprende la central nuclear y terrenos de su titularidad.
+*   **Zona 1:** Área de medidas de protección urgentes, un círculo de 10 km de radio centrado en la central, incluyendo la Zona 0.
+*   **Zona 2:** Área de medidas de protección de larga duración, un anillo circular entre 10 km y 30 km de radio concéntrico con la central. Los riesgos aquí se asocian a material radiactivo depositado en el suelo, inhalación de partículas suspendidas e ingestión de alimentos y agua contaminados.
+
+Existe un **factor de flexibilidad** para extender las medidas de protección más allá de las zonas previstas.
+
+**Medidas de protección:**
+*   **Confinamiento:** La población cercana permanece en sus domicilios o edificios próximos para evitar la exposición externa a la nube radiactiva y material depositado en el suelo, así como la exposición interna por inhalación de sustancias.
+
+### 2.2. Intervenciones Biológicas
+
+El **riesgo biológico** se refiere a la exposición a agentes biológicos. En el ámbito de bomberos, se trata de intervenciones donde no hay manipulación intencionada de agentes biológicos, pero puede haber exposición debido a la naturaleza del trabajo (ej., Síndrome de Diógenes, atención a pacientes con enfermedades biológicas).
+
+#### 2.2.1. Sustancias generadoras de riesgos biológicos
+
+*   **Sustancias infecciosas:** Contienen agentes patógenos (microorganismos como bacterias, virus, parásitos, hongos) que pueden causar enfermedades en animales o humanos.
+*   **Cultivos:** Resultado de la reproducción de agentes patógenos.
+*   **Muestras de pacientes:** Sustancias (excreciones, secreciones, sangre, tejidos) obtenidas directamente de animales o humanos para estudio, diagnóstico o tratamiento.
+*   **Productos biológicos:** Obtenidos de organismos vivos y distribuidos según la normativa nacional.
+*   **Microorganismos y organismos modificados genéticamente:** Se adscriben a la Clase 9 (sustancias peligrosas varias).
+*   **Desechos médicos o clínicos:** Derivados del tratamiento médico o investigación.
+
+Las vías de penetración de agentes biológicos son respiratoria, digestiva, dérmica y conjuntival. La probabilidad de contagio depende del número de microorganismos, su virulencia y la resistencia del individuo.
+
+El riesgo de contagio por pinchazo o corte en un accidente biológico se estima en un **30% para VHB, 3% para VHC y 0,3% para VIH**. Por contacto con mucosas o piel herida, el riesgo para VIH es del 0,04%.
+
+Se adoptan tres tipos de medidas para el riesgo biológico:
+*   **Físicas:** Impiden el contacto con agentes nocivos (cabinas de seguridad biológica, guantes, pantallas faciales, gafas, máscaras con filtro) y se utilizan para desinfección y esterilización (calor, radiaciones ultravioletas e ionizantes).
+*   **Químicas:** Uso de desinfectantes y esterilizantes. En caso de fluidos corporales, lavado con agua y jabón, irrigación con suero salino estéril y desinfección con solución antiséptica.
+*   **Biológicas:** Uso de vacunas o inmunización activa.
+
+#### 2.2.2. Actuación en accidentes con riesgo biológico
+
+Los accidentes químicos son más frecuentes, pero las intervenciones biológicas pueden generar daños y enfermedades para los intervinientes.
+
+**a) Bioterrorismo:**
+Se refiere al uso de microorganismos y sus productos con fines bélicos, clasificándose los agentes en categorías según su capacidad de transmisión y mortalidad:
+*   **Categoría A:** Alto riesgo para seguridad nacional y pública. Se diseminan fácilmente, causan altas tasas de mortalidad, pánico y requieren medidas de salud pública especiales (ej., ántrax, botulismo, peste, viruela).
+*   **Categoría B:** Segunda prioridad. Se propagan fácilmente, causan tasas moderadas de enfermedad y bajas tasas de mortalidad (ej., fiebre Q, brucelosis).
+*   **Categoría C:** Patógenos emergentes que podrían ser manipulados para propagación masiva futura. Se consiguen y propagan fácilmente, pueden producir altas tasas de morbilidad y gran impacto en la salud pública (ej., fiebre amarilla, tuberculosis multirresistente).
+
+La valoración en estos siniestros considera:
+*   **Naturaleza y magnitud del siniestro:** Para la zonificación y descontaminación.
+*   **Riesgos para la población:** Para las medidas de protección.
+*   **Riesgos para los intervinientes:** Para los antídotos y protección.
+
+En estos casos, la **seguridad de los intervinientes** es prioritaria, con un nivel de protección mínimo de Nivel II, siendo aconsejable el Nivel III.
+El **personal autorizado** para zonas contaminadas incluye bomberos, unidades NRBQ y fuerzas de seguridad con trajes de protección.
+
+**b) Síndrome de Diógenes:**
+Caracterizado por personas mayores que acumulan objetos inservibles y basura, a menudo asociado a deterioro personal, demencia o alcoholismo.
+No debe confundirse con el trastorno por acumulación.
+
+**c) Otras intervenciones:**
+Los bomberos pueden estar expuestos a riesgos biológicos en zonas ganaderas, vertederos o accidentes de tráfico con personas enfermas. Uno de los peligros es el daño biológico en accidentes o zonas de tratamiento/análisis de virus o patógenos.

@@ -1,86 +1,90 @@
-## Gestión de Riesgos Eléctricos y NRBQ: Marco Normativo y de Intervención para Bomberos
+### Guía de Intervención en Incidentes NRBQ: Puntos Clave
 
-La gestión de riesgos tecnológicos y las asistencias técnicas constituyen una parte fundamental en la preparación del personal de bomberos. Estos manuales, diseñados para la formación de opositores, se alinean con la Ley del Sistema Nacional de Protección Civil, que subraya la importancia de una capacitación integral para la respuesta ante emergencias y catástrofes. La intervención en escenarios complejos, como los derivados de riesgos eléctricos o nucleares, radiológicos, biológicos y químicos (NRBQ), exige un conocimiento profundo de las características de las edificaciones, los materiales, la normativa aplicable y las tácticas operativas, permitiendo una actuación eficiente y segura.
+Para una gestión efectiva de incidentes de naturaleza nuclear, radiológica, biológica o química (NRBQ), es imperativo que los intervinientes dominen las propiedades de las sustancias involucradas, incluyendo su comportamiento, reacciones y estados de presentación. La identificación precisa de estas materias y sus riesgos es fundamental.
 
-### Riesgo Eléctrico: Conceptos Fundamentales y Medidas de Seguridad
+Las sustancias pueden presentarse en estado sólido, líquido o gaseoso, y cada estado requiere estrategias de mitigación y descontaminación específicas, empleando los recursos materiales disponibles para minimizar daños y restaurar la normalidad. La correcta identificación de las sustancias es vital, y los recipientes y vehículos de transporte ofrecen indicios cruciales sobre su contenido, forma, estructura, accesorios, materiales y aislamiento.
 
-El riesgo eléctrico se define por la posibilidad de accidentes causados por el uso de la electricidad, cuya prevención se aborda mediante legislación y protocolos específicos. Las instalaciones eléctricas se categorizan principalmente por su nivel de tensión:
-*   **Alta y Media Tensión (AT/MT):** Superiores a 1.000 V en corriente alterna (CA) y 1.500 V en corriente continua (CC), incluyendo sistemas de producción, transformación, transmisión y distribución.
-*   **Baja Tensión (BT):** Inferiores a 1.000 V en CA y 1.500 V en CC, con voltajes habituales de 380 V (trifásica) y 220 V (monofásica) para consumo.
+Los vehículos que transportan mercancías peligrosas deben mostrar elementos de identificación visibles, como placas y sistemas informativos, para facilitar el reconocimiento rápido de productos y riesgos. Listados institucionales y fichas informativas detallan los datos esenciales, y el uso de pictogramas, números y códigos de colores contribuye a una rápida comprensión.
 
-En cualquier intervención que involucre riesgo eléctrico, el personal de bomberos debe seguir estrictas **reglas de oro** para garantizar la seguridad:
+El proceso de intervención en un suceso NRBQ comienza con una valoración exhaustiva por parte del mando. Esta evaluación es la base de toda la actuación; una valoración incorrecta, tardía o no actualizada puede comprometer la eficacia y la solución de la emergencia. Es crucial disponer de la mayor cantidad de información, preferiblemente transmitida por alguien con conocimiento de los hechos y las sustancias involucradas.
 
-**Para Alta Tensión (Medidas Obligatorias):**
-1.  Realizar una apertura visible de todas las fuentes de tensión.
-2.  Bloquear los dispositivos de corte previamente abiertos.
-3.  Verificar la ausencia total de tensión en cada conductor después del corte.
-4.  Poner en cortocircuito y a tierra todas las fuentes de tensión.
-5.  Acotar y señalizar la zona de trabajo.
+La valoración continua es esencial e incluye las fases de recogida de información, pre-planificación, valoración inicial, continua y final. Una parte significativa de esta valoración es la zonificación del área del incidente, donde el mando debe establecer zonas diferenciadas según el grado de peligrosidad, los materiales y la estabilidad atmosférica.
 
-**Para Baja Tensión:**
-*   **Medidas Obligatorias:** Abrir visiblemente todas las fuentes de tensión y comprobar la ausencia total de tensión en cada conductor tras el corte.
-*   **Medidas Posibles:** Enclavar los aparatos de corte que se hayan abierto.
-*   **Medidas Recomendables:** Poner en cortocircuito y a tierra todas las fuentes de tensión, y acotar y señalizar la zona de trabajo.
+En cualquier incidente de estas características, la descontaminación es un aspecto fundamental. Tras un escape, es necesario un proceso de descontaminación para eliminar residuos de partículas de los trajes especiales o del personal. La descontaminación debe ser exhaustiva y metódica, respetando la zonificación y los tiempos de permanencia. Los métodos incluyen cepillado, absorción, venteo, aspiración, desinfección y neutralización.
 
-El **Equipo de Protección Individual (EPI)** es crucial en estas intervenciones. Se exige un equipo de protección U2 completo, que incluye pantalón, camiseta, cubrepantalón, botas, chaquetón, guantes y casco de intervención. Además, se requiere material específico para riesgos eléctricos, como banquetas aislantes, pértigas, alfombrillas y guantes dieléctricos, así como herramientas aislantes. Es fundamental observar las distancias de seguridad según la tensión de la instalación y el tipo de intervención (por ejemplo, en instalaciones subterráneas).
+Las emergencias NRBQ pueden ser altamente peligrosas y devastadoras. En escapes nucleares, las autoridades competentes deben intervenir. Las prioridades de intervención son claras:
+1.  **Seguridad de los intervinientes.**
+2.  **Salvamento y rescate de víctimas.**
+3.  **Protección del medio ambiente.**
+4.  **Minimización de daños materiales.**
+5.  **Restablecimiento de la normalidad.**
 
-La **accidentología** por riesgo eléctrico muestra que la mayoría de los incendios en viviendas son causados por la electricidad, principalmente por cortocircuitos debido a aislamientos defectuosos o sobrecargas por el uso de múltiples aparatos en una misma línea. Aunque los accidentes eléctricos no son los más numerosos, su gravedad es elevada, especialmente si la corriente atraviesa órganos vitales como el corazón o los pulmones. La atención inmediata, incluyendo maniobras de reanimación cardiopulmonar, es vital para el pronóstico de la víctima. Después de una electrocución, pueden presentarse fracturas o contusiones debido a contracciones musculares o proyecciones. Afortunadamente, si la vida se salva, es común que no queden secuelas permanentes.
+### Equipamiento y Capacidades de Recipientes Criogénicos
 
-Las **prioridades tácticas** en incidentes eléctricos pueden ser defensivas (controlar la propagación), ofensivas (corte efectivo de suministro y rescate) o una combinación de ambas, adaptándose a las características específicas del siniestro.
+La siguiente tabla presenta datos sobre las presiones y capacidades de recipientes criogénicos, modelo Ranger, de Air Liquide:
 
-### Riesgos NRBQ: Caracterización y Marco Regulatorio
+| Modelo | Capacidad Argón (m³) | Capacidad Nitrógeno (m³) | Presión Máxima (bar) (Argón y Nitrógeno) | Tasa de Evaporación Diaria (%) (Nitrógeno Líquido) | Peso Argón (kg) | Peso Nitrógeno (kg) |
+| :----- | :------------------ | :---------------------- | :------------------------------------- | :--------------------------------------------- | :------------- | :--------------- |
+| 180    | 107                 | 130                     | 1,7 a 25                               | 1,5                                            | 330            | 420              |
+| 450    | 275                 | 330                     | 3,9 a 15                               | 1,3                                            | 950            | 1200             |
+| 630    | 393                 | 480                     | 3,9 a 25                               | 1,2                                            | 1340           | 1690             |
 
-El **riesgo tecnológico** se define como la posibilidad de consecuencias indeseables o inconvenientes derivados del uso o acceso a la tecnología, cuya aparición no es predecible. La complejidad y el impacto devastador de estos riesgos exigen un marco normativo y operativo superior y más específico.
+### Transporte en Cisternas y su Estructura
 
-Dentro de los riesgos tecnológicos, se distinguen varias categorías:
-*   **Riesgos Nucleares:** Asociados a accidentes en centrales nucleares o instalaciones con material nuclear. En España, con 8 reactores en funcionamiento, el riesgo es bajo pero de alto impacto potencial, implicando radiación y contaminación.
-*   **Riesgos Radiológicos:** Más probables que los nucleares, derivados del uso de radionucleidos en unos 1300 centros autorizados en España (hospitales, laboratorios). Implican un riesgo constante de traslados de material.
-*   **Riesgos Químicos:** Vinculados a establecimientos industriales que producen, almacenan o utilizan sustancias peligrosas. La normativa se adapta al tipo y cantidad de sustancia implicada.
-*   **Transporte de Mercancías Peligrosas:** Considerado el riesgo tecnológico que genera más intervenciones de protección civil, debido al continuo movimiento de sustancias por carretera, mar o aire.
+El ADR define **cisterna** como un depósito que incluye su equipamiento de servicio y estructura. Este término abarca contenedores cisterna, cisternas portátiles, desmontables y fijas, así como los elementos de vehículos a batería o de contenedores de gas de elementos múltiples (CGEM).
 
-El **marco normativo** para la gestión de riesgos NRBQ es extenso y específico, dadas las graves consecuencias que pueden generar.
+**Estructura y Sección de Cisternas**
+La estructura de una cisterna se compone de elementos que asumen, refuerzan y soportan las cargas para las que fue diseñada. El ADR establece pruebas de presión hidráulica y estanqueidad, y los resultados determinan los elementos estructurales básicos o los refuerzos necesarios.
 
-**Reglamentación Nuclear y Radiológica:**
-A nivel internacional, la **Directiva 2013/59 EURATOM del Consejo (5 de diciembre de 2013)** establece las normas básicas de seguridad para proteger contra los peligros de la exposición a radiaciones ionizantes.
+Las partes esenciales de la estructura interna son los **mamparos**, **anillos de refuerzo** y **rompeolas**.
+*   **Mamparos:** Tabiques interiores que dividen el volumen del depósito en compartimentos, permitiendo almacenar productos distintos. También cumplen una función estructural, asumiendo parte de la carga según su material y grosor. Las cisternas de gases no suelen tener mamparos, pero sí rompeolas.
+*   **Rompeolas:** Similares a los mamparos, pero no dividen el depósito en compartimentos independientes. Su función es distribuir la masa de la mercancía de manera uniforme durante los frenados para evitar el "efecto ola" que compromete la estabilidad del vehículo. Ocupan al menos el 70% de la superficie de la sección recta del depósito en su punto de instalación.
+    *   Las cisternas circulares y elípticas requieren una separación de refuerzos adyacentes de hasta 1,75 metros, con un espesor mínimo igual al del depósito.
+    *   Los depósitos para líquidos, gases licuados o refrigerados no divididos en secciones de más de 7500 litros (cisternas antiguas) deben circular casi llenos (más del 80%) o casi vacíos (menos del 20%) para evitar el "efecto ola" a media carga.
+    *   Los rompeolas y mamparos tienen forma cóncava en dirección normal de marcha y una profundidad mínima de 10 cm.
+*   **Anillos de refuerzo:** Anillos de soldadura internos que soportan esfuerzos y refuerzan la estructura en puntos calculados.
 
-En España, la normativa incluye:
-*   **Reales Decretos:**
-    *   **Real Decreto 1440/2010 (5 de noviembre):** Aprueba el Estatuto del Consejo de Seguridad Nuclear (CSN).
-    *   **Real Decreto 1439/2010 (5 de noviembre):** Modifica el Reglamento sobre Protección Sanitaria contra Radiaciones Ionizantes.
-    *   **Real Decreto 102/2014 (21 de febrero):** Regula la gestión responsable y segura del combustible nuclear gastado y los residuos radiactivos.
-    *   **Real Decreto 1564/2010 (19 de noviembre):** Aprueba la Directriz Básica de planificación de Protección Civil ante el riesgo radiológico.
-    *   **Real Decreto 1836/1999 (3 de diciembre):** Aprueba el Reglamento sobre Instalaciones Nucleares y Radiactivas.
-    *   **Real Decreto 35/2008 (18 de enero):** Modifica el Reglamento sobre Instalaciones Nucleares y Radiactivas.
-    *   **Real Decreto 783/2001 (6 de julio):** Aprueba el Reglamento sobre Protección Sanitaria contra Radiaciones Ionizantes.
-    *   **Real Decreto 1546/2004 (25 de junio):** Aprueba el Plan Básico de Emergencia Nuclear (PLABEN), con correcciones publicadas el 2 de noviembre de 2004 y modificaciones en el Real Decreto 1428/2009 (11 de septiembre).
-*   **Leyes:**
-    *   **Ley 25/1964 (29 de abril):** Ley de Energía Nuclear.
-    *   **Ley 15/1980 (22 de abril):** Crea el Consejo de Seguridad Nuclear.
-    *   **Ley 33/2007 (7 de noviembre):** Reforma la Ley 15/1980.
-*   **Resoluciones y Órdenes:**
-    *   **Resolución de 20 de octubre de 1999 (Subsecretaría):** Publica el acuerdo sobre información al público en caso de emergencia radiológica.
-    *   **Orden INT/1695/2005 (27 de mayo):** Aprueba el Plan de Emergencia Nuclear del Nivel Central de Respuesta y Apoyo.
-    *   **Resoluciones de 20 de octubre de 2009 (Subsecretaría):** Publica acuerdos sobre los Planes Directores de los Planes de Emergencia Nuclear Exteriores.
+La estructura externa se refiere a los elementos soldados o unidos al depósito, o adyacentes a otros equipos de servicio.
+*   **Anclajes:** Elementos de izado, amarre o estiba, instalados en cisternas intermodales (para transporte por carretera y ferrocarril).
+*   **Refuerzos exteriores:** Similares a los anillos interiores, pero externos. Proporcionan rigidez y resistencia contra impactos o abombamientos. No deben confundirse con las soldaduras de las virolas o los "marcos" que rodean las chapas aislantes.
+*   **Elementos protectores:** Protegen válvulas, tuberías y bridas en caso de vuelco o impacto para evitar daños y pérdida de producto. La protección superior suele consistir en aros de refuerzo o capotas.
+*   **Parachoques traseros:** Obligatorios, deben tener el mismo ancho que el vehículo y estar separados al menos 100 mm. En contenedores-cisterna, la estructura del contenedor cumple esta función.
 
-Asimismo, se han desarrollado **Planes Directores específicos para Emergencias Nucleares Externas (PEN)** para cada central nuclear:
-*   **PENGUA:** para José Cabrera y Trillo (Guadalajara).
-*   **PENTA:** para Ascó y Vandellós (Tarragona).
-*   **PENBU:** para Santa María de Garoña (Burgos).
-*   **PENVA:** para Cofrentes (Valencia).
-*   **PENCA:** para Almaraz (Cáceres).
+### Sección de Cisternas Según ADR
 
-**Reglamentación de Riesgo Químico:**
-A nivel europeo, la **Decisión de la Comisión de 2 de diciembre de 2008** y la **Directiva 2012/18/UE del Parlamento Europeo y del Consejo (4 de julio de 2012)**, conocida como SEVESO III, establecen medidas para el control de riesgos inherentes a accidentes graves con sustancias peligrosas.
+El ADR establece la forma de la sección de las cisternas según los materiales transportados, su estado y la presión interna, con el objetivo de optimizar la resistencia a las cargas. La siguiente tabla detalla las características y ejemplos de cada tipo de sección:
 
-La normativa española para riesgo químico incluye:
-*   **Real Decretos:**
-    *   **Real Decreto 1254/1999 (16 de julio):** Aprueba medidas de control de riesgos inherentes a accidentes graves con sustancias peligrosas, modificado por los **Reales Decretos 119/2005 (4 de febrero)** y **948/2005 (29 de julio)**.
-    *   **Real Decreto 1196/2003 (19 de septiembre):** Aprueba la Directriz Básica de protección civil para el control y planificación ante el riesgo de accidentes graves con sustancias peligrosas.
-    *   **Real Decreto 1070/2012 (13 de julio):** Aprueba el Plan Estatal de Protección Civil ante el Riesgo Químico.
-*   **Orden INT/3716/2004 (28 de octubre):** Publica las fichas de intervención para servicios operativos en accidentes de transporte de mercancías peligrosas por carretera y ferrocarril.
-*   **Real Decreto 387/1996 (1 de marzo):** Aprueba la Directriz Básica de Planificación de Protección Civil ante el riesgo de accidentes en el transporte de mercancías peligrosas.
-*   **Real Decreto 97/2014 (14 de febrero):** Regula las operaciones de transporte de mercancías peligrosas por carretera (ADR).
+**Tabla 24. Características y ejemplos de cada tipo de sección (ADR)**
 
-La **Asociación Española de la Industria Eléctrica (UNESA)** también juega un rol crucial, colaborando con las administraciones en la elaboración de estudios y propuestas normativas para estandarizar requisitos de instalaciones y equipos eléctricos, garantizando fiabilidad y seguridad.
+| TIPO              | CARACTERÍSTICAS                                                                                                                                                                                                                                                                                                      | SECCIÓN / FONDO                                                                                                                                                                                                                                                                                                                                                                                                           |
+| :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **POLICÉNTRICA**  | Poca presión interior. Máxima carga con menos longitud (urbano). Lateral poco resistente; los refuerzos se sustituyen por ovaladas.                                                                                                                                                                                      | ![Imagen 91. Sección policéntrica](image_url_91_policentrica)                                                                                                                                                                                                                                                                                                                                                            |
+| **OVALADA**       | Poca presión interior. Más metros lineales para igual capacidad. Costados más resistentes. Poca presión interior.                                                                                                                                                                                                      | ![Imagen 92. Sección ovalada](image_url_92_ovalada)                                                                                                                                                                                                                                                                                                                                                                       |
+| **CIRCULAR CON FONDO SEMIESFÉRICO** | Mercancías peligrosas (MM.PP.) muy peligrosas. Mejor comportamiento en accidentes. Costados más resistentes, más segura. Más fácil de construir.                                                                                                                                                            | ![Imagen 93. Sección circular con fondo semiesférico](image_url_93_circular_semiesferico)                                                                                                                                                                                                                                                                                                                              |
+| **CIRCULAR CON FONDO ESFÉRICO**     | Presión interior alta. Mejor comportamiento en accidentes. Costados más resistentes, más segura. Más fácil de construir.                                                                                                                                                                               | ![Imagen 94. Sección circular con fondo esférico](image_url_94_circular_esferico)                                                                                                                                                                                                                                                                                                                                        |
+| **ESPECIAL**      | Mayor volumen de carga. Muy común en granulados. Algunos tienen cuello cisne. Secciones y formas distintas a lo largo de la cuba.                                                                                                                                                                                     | ![Imagen 95. Sección circular con fondo especial](image_url_95_circular_especial)                                                                                                                                                                                                                                                                                                                                         |
 
-En resumen, la preparación ante riesgos eléctricos y NRBQ implica una compleja interacción de conocimientos técnicos, protocolos de actuación y un sólido marco regulatorio, vital para proteger vidas y bienes en situaciones de emergencia.
+**Notas:**
+*   La 1ª letra del código indica el estado de la materia.
+*   La 2ª letra del código indica la presión de cálculo de la cisterna.
+*   La 3ª letra indica la localización de las aberturas y orificios.
+*   La 4ª letra especifica si posee una válvula de seguridad o de alivio, o si está cerrada herméticamente y no posee válvula de seguridad.
+
+### Glosario Técnico
+
+*   **Acometida:** Tramo de la instalación de conductores que conecta la Red General de Distribución (RGD) con la Caja General de Protección (CGP).
+*   **ADN:** Acuerdo Europeo para el Transporte de mercancías peligrosas por vía navegable.
+*   **ADR:** Acuerdo Europeo para el Transporte de Mercancías peligrosas por carretera.
+*   **BLEVE:** Explosión por Expansión de Vapor de Líquido en Ebullición (Boiling Liquid Expanding Vapor Explosion).
+*   **Blindaje:** Material protector interpuesto entre una fuente radiactiva y las personas para atenuar el daño.
+*   **Botellones:** Recipientes con capacidad entre 150 y 1000 litros, manejados con aros de rodadura o patines.
+*   **Brida ciega:** Elemento redondo con agujeros para pernos, que asegura el cierre de orificios de tuberías, válvulas o aberturas de recipientes, incluso bajo presión.
+*   **Bulto radiactivo:** Bulto compuesto por el embalaje y el contenido radiactivo.
+*   **Caja General de Protección (CGP):** Caja que aloja los elementos de protección de la Línea General de Alimentación (LGA), siendo el inicio de la instalación propiedad del cliente.
+*   **Capacidad máxima:** Volumen interior máximo de recipientes, envases o embalajes, expresado en metros cúbicos o litros.
+*   **Central eléctrica:** Conjunto de instalaciones y construcciones utilizadas para la producción de energía eléctrica.
+*   **Central nuclear:** Central térmica cuya fuente de calor son uno o más reactores nucleares.
+*   **Centro de transformación:** Instalación con uno o varios transformadores reductores de Alta a Baja Tensión, junto con su aparamenta y obra complementaria.
+*   **Centro de transformación prefabricado:** Instalación diseñada y construida en fábrica en serie, que incluye transformador, aparamenta de alta y baja tensión, interconexiones y equipo auxiliar en una envolvente, para suministrar energía a baja tensión desde un sistema de alta tensión. Si la envolvente es metálica y los componentes son funcionalmente independientes, se denomina «centro de transformación integrado».
+*   **Circuito:** Conjunto de materiales eléctricos (conductores, aparamenta) alimentados por la misma fuente de energía y protegidos contra sobreintensidades por sus dispositivos de protección. No incluye los circuitos que forman parte de los aparatos de utilización o receptores.
+*   **Cisterna:** Concepto que abarca contenedores cisterna, cisternas portátiles, fijas y desmontables, o elementos de vehículo batería con una capacidad superior a 1000 litros.

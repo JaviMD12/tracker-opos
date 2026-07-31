@@ -1,35 +1,116 @@
-## Gestión Operativa en Servicios de Emergencias: Relevo, Delegación y Control
+El temario técnico original y exhaustivo sobre operaciones de bomberos y emergencias, basado en el contenido proporcionado, es el siguiente:
 
-La gestión efectiva en los servicios de emergencias se fundamenta en un conjunto de procesos estructurados que abarcan desde el relevo de mando hasta el control post-intervención. Estos procesos buscan garantizar la continuidad, eficacia y seguridad de las operaciones, así como optimizar el uso de recursos humanos y materiales.
+**1. Gestión de la Intervención y Delegación de Responsabilidades**
 
-### Relevo y Delegación de Mando en Siniestros
+**1.1. Procedimiento de Relevo y Traspaso de Mando**
+El relevo o traspaso de mando es un proceso crítico que requiere la verificación de información detallada para asegurar la continuidad operativa. Incluye la constatación de los siguientes elementos:
+*   **Informe de Situación Táctica (SITAC)**: Documento que describe la situación actual del incidente.
+*   **Plan o Planes de Acción**: Esquemas definidos para abordar la emergencia.
+*   **Informe de Riesgos y Vulnerabilidades**: Detalle de peligros y elementos sensibles, incluyendo víctimas.
+*   **Medios Desplegados y Solicitados**: Información sobre recursos humanos y materiales, su ubicación y objetivos.
+*   **Informe de Evolución del Siniestro**: Estado actualizado del incidente hasta el momento del relevo.
 
-El **relevo de mando** constituye un mecanismo esencial para asegurar la continuidad de las operaciones en un servicio de emergencias. Durante este traspaso, es fundamental intercambiar información crítica sobre la Situación Táctica (SITAC), los planes de acción establecidos, los riesgos y vulnerabilidades identificados (incluyendo víctimas), los medios desplegados y sus objetivos, y la evolución general del siniestro. El mando entrante, una vez asimilada esta información, asume plenamente la responsabilidad de la intervención, comunicándolo al personal y al centro de comunicaciones 112, presentándose ante otros servicios intervinientes, y validando o ajustando el plan de acción y los recursos existentes. Además, el mando saliente puede delegar ciertas funciones operativas si se mantiene activo en la escena, facilitando una transición progresiva y manteniendo el flujo de información.
+El mando entrante, tras conocer y evaluar la situación, debe:
+*   Asumir la responsabilidad de la intervención, notificando al personal y al Centro de Comunicaciones (112) la efectividad del relevo.
+*   Presentarse a otros servicios intervinientes, si es factible, para mantener la coordinación.
+*   Validar o, si es necesario, modificar el plan de acción y los medios desplegados.
+*   Hacerse cargo de las comunicaciones con el Centro de Control.
+*   Considerar la delegación de ciertas funciones al mando saliente, especialmente en fases iniciales, para aprovechar una fuente de información y contraste valiosa y promover un relevo progresivo.
 
-Por su parte, la **delegación en siniestros** es una capacidad directiva clave para la gestión eficaz de las emergencias. No se trata simplemente de traspasar tareas no deseadas o para las que no se está capacitado, sino de otorgar la potestad de ejecutar funciones específicas, lo que implica una corresponsabilidad en la ejecución. Para que esta delegación sea efectiva, deben considerarse varios parámetros: la capacidad del delegado (conocimientos, actitudes y aptitudes), los medios disponibles (personal, comunicaciones, ubicación, material), y la existencia de un sistema de comunicación directo y diferenciado. La constancia escrita de la delegación y la información transmitida es vital. La base de una delegación eficiente reside en una adecuada gestión de la información del siniestro. La delegación puede materializarse por funciones, abarcando desde el control de accesos y la seguridad en intervención hasta la logística o la asistencia a víctimas, siendo particularmente útil en siniestros donde el mando tiene una visión global o en zonas de intervención acotadas.
+**1.2. Principios y Métodos de Delegación en Siniestros**
+La delegación es una habilidad esencial para optimizar el uso de las capacidades operativas. No consiste en traspasar tareas indeseadas o para las que no se está capacitado, sino en otorgar a otros la potestad de realizar una tarea específica, asumiendo una parte de la responsabilidad en su ejecución para no sobrecargar al mando delegante.
 
-Una forma específica de delegación es la **delegación por sectores**, empleada en siniestros de grandes extensiones como incendios forestales, búsquedas a gran escala o inundaciones. Esta estrategia permite segmentar el área de intervención, acotando los elementos que cada mando debe supervisar y controlar, y siguiendo una estructura jerárquica descendente que se origina en las necesidades operativas de la base.
+Los parámetros fundamentales para una delegación efectiva en siniestros son:
+*   **Potencialidad del Delegado**: Evaluar los conocimientos, actitudes y aptitudes del personal para la tarea encomendada.
+*   **Recursos Disponibles**: Considerar el personal (staff), los medios de comunicación, la ubicación y los recursos materiales necesarios para la tarea.
+*   **Sistema de Comunicación Directa**: Establecer un canal de comunicación exclusivo con el delegado, preferentemente independiente de las comunicaciones generales de la intervención.
+*   **Constancia Escrita**: Dejar registro de la delegación y de la información transmitida.
 
-### Fases Post-Intervención y Control del Siniestro
+Una delegación eficaz se sustenta en la adecuada gestión de la información del siniestro, lo que garantiza un flujo constante de datos y el funcionamiento ininterrumpido del sistema de mando y control.
 
-Tras la fase de intervención activa, el proceso continúa con las **tareas post-intervención**, que incluyen el remate y restablecimiento de la normalidad, la valoración final y la toma de datos. La fase de **remate y restablecimiento de la normalidad** busca mitigar el siniestro, eliminar sus causas y devolver la situación a un estado pre-emergencia. Aunque a menudo es posterior al control del siniestro, puede ser simultánea y requiere extremar las precauciones debido a riesgos como estructuras inestables o el cansancio del personal.
+La delegación puede adoptar dos modalidades principales:
 
-Cuando el riesgo está acotado y controlado, y los objetivos de la intervención se han logrado, el siniestro se considera **controlado**. En este punto, el mando debe comunicarlo al centro de coordinación de emergencias y otras entidades pertinentes. Para situaciones donde la mitigación se demore, se pueden establecer **retenes preventivos**. Estos retenes tienen como propósito vigilar la zona, realizar labores de remate y garantizar una transición segura hacia la mitigación completa del siniestro. Se caracterizan por dotaciones reducidas, una duración temporal y la operación en una zona balizada, pudiendo ser presenciales o diferidos. El siniestro se declara **mitigado o terminado** cuando todas sus causas y consecuencias han sido completamente neutralizadas y las tareas de remate y retenes han concluido. En circunstancias normales, el abandono del lugar del siniestro ocurre cuando no se anticipa ningún riesgo descontrolado, aunque trabajos posteriores como demoliciones o rehabilitaciones pueden ser realizados por otros servicios.
+**a) Delegación por Funciones**
+Aplicable en siniestros donde el mando tiene una visión global del evento o en demarcaciones/zonas acotadas que permiten cubrir todas las circunstancias de la intervención.
+Ejemplos comunes de delegación por funciones:
+*   Control de accesos.
+*   Seguridad en la intervención.
+*   Estación de descontaminación.
+*   Abastecimiento de agua.
+*   Logística.
+*   Recepción de medios en el Centro de Recepción de Medios (CRM).
+*   Asistencia a víctimas.
+*   Albergue y evacuación.
 
-### Documentación, Toma de Datos y Evaluación Post-Intervención
+**b) Delegación por Sectores**
+Utilizada en siniestros de gran extensión (ej., incendios forestales, búsquedas en grandes áreas, inundaciones) o en situaciones donde la magnitud y evolución del incidente lo exigen. Permite acotar el número de elementos que cada mando supervisa y controla. Este sistema se estructura de forma jerárquica descendente, pero su necesidad surge de las demandas operativas ascendentes.
 
-La **valoración final** del siniestro es responsabilidad del Jefe de Guardia o mando a cargo. Esta incluye informar a los afectados, autoridades y otros servicios sobre la situación y las precauciones a tomar. Es crucial documentar esta fase mediante un informe de situación que contenga recomendaciones y medidas cautelares para todas las partes implicadas. Además, se debe asegurar que el servicio competente reciba la información y asuma la responsabilidad de la situación. La comunicación de estas medidas debe realizarse con constancia, por ejemplo, mediante actas o grabaciones de llamadas.
+**2. Trabajos Post-intervención**
 
-Durante toda la intervención, la **toma de datos** es un proceso continuo. El mando debe recopilar y anotar datos relevantes sobre las decisiones tomadas y los acontecimientos del siniestro, apoyándose en formularios específicos de seguimiento. Antes de abandonar el lugar, se deben tomar fotografías para el registro y recopilar datos esenciales de los afectados y de los medios movilizados. La precisión y diligencia en la recogida de estos datos son fundamentales para evitar problemas legales y de seguros.
+**2.1. Fases del Trabajo Post-intervención**
+Las labores posteriores a una intervención se dividen en:
+*   Remate y restablecimiento de la normalidad.
+*   Valoración final.
+*   Toma de datos.
 
-El **regreso al parque** debe realizarse con celeridad, pero sin utilizar la prioridad de circulación si no hay novedades urgentes. Durante el trayecto, los vehículos deben ser repostados, asegurando que los depósitos de agua y combustible estén al máximo. Al llegar al parque, se comunica la llegada al centro de coordinación y al Jefe de Guardia, se restablecen los niveles de los equipos y se comprueba su correcto funcionamiento. Cualquier extravío o baja de material se comunica al responsable.
+**2.2. Remate y Restablecimiento de la Normalidad**
+Esta fase constituye el tercer plan de acción ("plan de acción para la mitigación del siniestro"), orientado a eliminar las causas del incidente para retornar a la normalidad. Se ejecuta habitualmente después del control del siniestro, aunque puede solaparse temporalmente. Es crucial extremar las precauciones, ya que las estructuras incendiadas pueden estar enfriándose y con riesgo de colapso, y el personal puede estar fatigado, lo que incrementa la probabilidad de errores.
 
-Posteriormente, se lleva a cabo un **juicio crítico post-intervención** o *briefing*, liderado por el mando, para analizar los aspectos positivos y negativos de la intervención, comparándolos con los modelos operativos previstos. Este análisis busca extraer lecciones aprendidas y proponer modificaciones a la documentación y procedimientos. Incluye la exposición de la situación por parte del mando, la participación del personal para compartir sus experiencias y el análisis de errores. El Servicio, basándose en estas conclusiones, debe implementar mecanismos para evitar la repetición de problemas.
+Los estadios por los que el siniestro transita durante los trabajos de remate son:
 
-El **parte de intervención**, elaborado por el mando de mayor graduación con el apoyo necesario, es un documento crucial que detalla todos los pormenores de la emergencia. Debe incluir datos de la alerta recibida (tipo de siniestro, ubicación, hora), la situación inicial, los servicios y personal actuantes, la descripción de las medidas y la resolución, los datos de los afectados, y cualquier documento gráfico o información relevante.
+**a) Siniestro Controlado**
+El siniestro se considera controlado cuando el riesgo persiste pero está delimitado y bajo control, habiéndose alcanzado los objetivos del plan de acción. El mando pertinente debe comunicar este estado al centro de coordinación (112, CECOP, PMA, etc.) según el nivel operacional activado.
 
-### El Sistema de Mando en Incidentes (ICS)
+**b) Retenes Preventivos**
+En siniestros con un control prolongado y mitigación demorada, se pueden establecer retenes preventivos para vigilancia o tareas de remate. Su fin es asegurar la seguridad y la progresión del siniestro hacia la mitigación. Estos retenes suelen ser dotaciones reducidas, operando de forma presencial y continua, o bien con visitas periódicas (cada 2-3 horas) a la zona, que debe estar balizada.
 
-La complejidad inherente a la gestión de grandes emergencias ha impulsado el desarrollo de sistemas estructurados como el **Incident Command System (ICS)**. Este sistema de mando y control busca unificar, ordenar y racionalizar la dirección operativa, permitiendo que las órdenes y acciones del Director de la Emergencia se transmitan y ejecuten eficazmente, y que los resultados sean reevaluados. El ICS surgió en la década de 1970 en Estados Unidos, principalmente para gestionar incendios forestales, y se diseñó para resolver problemas como la falta de terminología unificada entre cuerpos, la ausencia de una estructura organizativa adaptable, la descoordinación en las comunicaciones, la carencia de planes de acción consolidados y la insuficiencia de instalaciones auxiliares.
+**c) Siniestro Mitigado o Terminado**
+El siniestro se declara terminado cuando sus causas, consecuencias y evolución han sido completamente mitigadas, y los trabajos de remate y retenes preventivos han concluido.
+Aunque la presencia y control del Servicio de Bomberos son generalmente convenientes, puede haber excepciones si otros servicios se encargan de tareas posteriores para restaurar la normalidad (ej., demolición de estructuras, rehabilitación de viviendas, limpieza de calzadas, trasvase de productos).
+En condiciones normales, el siniestro debe abandonarse cuando no exista un riesgo perceptible de materialización descontrolada. Para ello, es necesario establecer un perímetro de seguridad, considerando:
+*   **Baliza Protectora**: Medida provisional, estable y suficiente, proporcional al riesgo, capaz de proteger a personas vulnerables (niños, ciegos, impedidos, analfabetos).
+*   **Cinta de Plástico**: Jurídicamente, no es una baliza protectora, sino un delimitador de zona. Si el riesgo es relevante, se deben buscar otras medidas de seguridad.
+*   **Delegación de Baliza**: La ejecución puede delegarse en las Fuerzas del Orden o similares, registrando la encomienda en el 112.
 
-El objetivo del ICS es proporcionar una estructura organizativa común que integre a todos los agentes que participan en la resolución de la emergencia. Sus principales fortalezas radican en su organización única e integrada, el mando único y unificado, el plan de acción único y coordinado, y el sistema unificado de movilización de recursos. El ICS se estructura en seis funciones principales: Dirección, Staff de mando, Staff general, Operaciones, Planificación, Logística y Económica y Administración, subdividiéndose el Staff de Mando en Información, Seguridad y Enlace. La versatilidad del ICS permite activar solo los elementos necesarios para cada intervención, adaptándose a la magnitud y tipo de la emergencia. Aunque España ha adaptado este modelo, persisten retos, especialmente en la interoperabilidad de comunicaciones entre los distintos actores.
+**d) Valoración Final**
+El Jefe de Guardia o mando a cargo del siniestro realizará una valoración final, informando a afectados, autoridades y otros servicios sobre la situación y las precauciones necesarias. Se recomienda documentar esta fase con un informe de situación que incluya recomendaciones y medidas cautelares. En esta etapa, es crucial asegurar que la entidad competente esté informada y asuma la situación. Si es necesario, el mando contactará al Oficial – Jefe de Servicio para que emita el informe de traspaso.
+Es fundamental comunicar todas las medidas cautelares a los afectados, dejando constancia para evitar responsabilidades civiles y penales. Este registro se puede realizar mediante una hoja autocopiativa del informe o un "acta de manifestaciones" al 112 o centro coordinador, con grabación.
+
+**e) Toma de Datos**
+Durante la intervención, el mando recopilará y anotará datos relevantes sobre las decisiones y los acontecimientos, utilizando el formulario de seguimiento y control de incidentes mayores.
+Antes de abandonar el lugar del siniestro, el mando deberá:
+*   Tomar fotografías útiles para el registro de datos.
+*   Recopilar datos relevantes de los afectados (nombre, apellidos, dirección, matrícula, datos del seguro, identificación de otros medios movilizados).
+La exactitud y diligencia en la recopilación de estos datos son cruciales para evitar problemas con seguros o dificultades en la facturación del servicio.
+
+**3. Retirada del Siniestro y Desmovilización de Recursos**
+La retirada del operativo debe ser ordenada, autorizada previamente y comunicada al mando superior, informando sobre el transcurso de las operaciones y la situación resuelta del siniestro.
+
+Los medios desmovilizados se comunicarán al 112 para mantener el conocimiento de la situación y cobertura de la zona.
+
+En caso de siniestro controlado, se puede realizar una desmovilización parcial de medios adicionales o de refuerzo (personal de otros parques, fuera de servicio, etc.).
+
+El procedimiento de desmovilización general es:
+*   Desmovilizar primero al personal externo (fuera de servicio).
+*   Desmovilizar los medios más alejados de su zona operativa.
+*   Revisar la zona de intervención para recuperar herramientas extraviadas.
+*   Revisar el material y vehículos movilizados para asegurar su orden y evitar obstáculos en la salida.
+
+Una vez terminado el siniestro, se procede a la desmovilización de los medios que permanezcan en el lugar, siguiendo estas premisas.
+
+**4. Regreso al Parque y Elaboración del Parte de Intervención**
+El regreso al parque, si no hay novedades, se efectuará con la máxima brevedad, pero sin uso de prioridad de circulación (señales acústicas o luminosas). Durante el trayecto de regreso, se debe:
+*   Repostar combustible en la estación de servicio más cercana para asegurar depósitos de agua y combustible llenos.
+
+Al llegar a las instalaciones del Parque de Bomberos:
+*   El mando comunicará la llegada al Centro de Coordinación 112 y al Jefe de Guardia, si es necesario.
+*   Se restablecerán los niveles de los equipos (gasolina de motosierras, generadores, etc.).
+*   El material utilizado se limpiará y se verificará su correcto funcionamiento tras el uso, antes de guardarlo.
+*   Cualquier material extraviado o dado de baja se comunicará al responsable con la mayor celeridad.
+
+El mando liderará un ejercicio de juicio crítico post-intervención (briefing), si las circunstancias de la intervención lo aconsejan. Este briefing tiene como objetivo analizar los aspectos positivos y negativos de la intervención, comparándolos con los modelos previstos (protocolos y procedimientos) para extraer lecciones aprendidas y posibles modificaciones documentales. Para un desarrollo adecuado, se deben considerar los siguientes conceptos:
+*   El mando debe empezar exponiendo la situación desde su perspectiva.
+*   Cada integrante del equipo o grupo interviniente puede ofrecer su visión.
+*   Se abordarán los elementos previstos en el plan de acción y su ejecución en el siniestro, según las expectativas.
+*   Se expondrán los fallos o errores en la aplicación del proceso de gestión de la emergencia y en las acciones de los equipos.
+*   Se analizarán los errores y se intentará averiguar el origen de estos (problemas relacionados con los medios, problemas de comunicación, estrategias, lectura del siniestro, adiestramiento de dotaciones, etc.).

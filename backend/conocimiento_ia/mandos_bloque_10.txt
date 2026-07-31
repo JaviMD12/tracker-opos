@@ -1,119 +1,84 @@
-# El Sistema de Protección Civil y los Servicios de Bomberos: Marco General y Prevención de Riesgos Laborales
+El Servicio de Bomberos documenta sus operaciones internas con notas para la dirección, registros de actividades y documentación de formación.
 
-## Introducción a la Protección Civil y el Ciclo de la Emergencia
+El personal de los Servicios de Bomberos se clasifica en dos categorías principales:
+*   **Personal de administración**: Realiza tareas de gestión y burocráticas de soporte a la escala técnica.
+*   **Personal operativo**: Incluye las escalas técnica y operativa con categorías establecidas por el Real Decreto 861/1986, de 25 de abril, sobre el régimen de retribuciones de los funcionarios de Administración Local, en su disposición adicional segunda para Policías y Bomberos.
 
-El marco legal que rige la Protección Civil en España se fundamenta en la **Ley de Protección Civil de 1985**, la cual establece un sistema competencial para la gestión de emergencias y catástrofes. Esta ley define la **Protección Civil** como la salvaguarda de la integridad física de las personas y de los bienes ante situaciones de grave riesgo colectivo, calamidad pública o catástrofe extraordinaria, donde la vida y la seguridad pueden verse comprometidas masivamente. La Protección Civil se inscribe en una política de seguridad más amplia, que coordina a diversas Administraciones Públicas para garantizar el derecho a la vida y la integridad física, considerados derechos fundamentales según el artículo 15 de la Constitución Española.
+Las categorías jerárquicas son:
 
-La gestión de una emergencia se articula a través de un **ciclo de vida** que comprende seis fases interconectadas:
-1.  **Previsión:** Implica el análisis de los posibles riesgos, sus causas y efectos, así como las zonas potencialmente afectadas, conformando un inventario de riesgos. También abarca la implementación de mecanismos predictivos, como la previsión meteorológica.
-2.  **Prevención:** Consiste en la adopción de medidas destinadas a evitar, reducir o minimizar el impacto de un riesgo una vez que este se materialice. Esto se basa en un estudio detallado de los riesgos, su probabilidad de ocurrencia y el grado de afectación potencial.
-3.  **Planificación:** Se refiere a la elaboración de planes y líneas de actuación para afrontar las emergencias.
-4.  **Alerta:** Es la notificación formal de un riesgo inminente que se ha materializado y que requiere una intervención específica, utilizando los mecanismos de alerta establecidos.
-5.  **Intervención:** Comprende las actividades y acciones de respuesta ejecutadas inmediatamente después de un desastre, como el control, la mitigación de daños y el salvamento.
-6.  **Rehabilitación:** Busca el restablecimiento de los servicios públicos esenciales y de las condiciones socioeconómicas y ambientales necesarias para normalizar la vida de las zonas afectadas.
+| Grupo | Nivel           |
+| :---- | :-------------- |
+| A     | Inspector       |
+|       | Subinspector    |
+|       | Oficial         |
+| B     | Suboficial      |
+|       | Sargento        |
+| C     | Cabo            |
+|       | Guardia o Bombero |
 
-En este ciclo intervienen principalmente tres **agentes**: el **alertante** (ciudadano que notifica la situación), el **Servicio de Atención de Llamadas de Urgencia 112** (punto único de contacto para canalizar demandas de emergencia en Europa, gratuito y con capacidad para coordinar recursos), y los **Servicios de Emergencia** (entidades que brindan respuesta directa). Adicionalmente, otros agentes como Escuelas de Protección Civil, asociaciones profesionales, servicios de vías y obras, empresas privadas y ONG de asistencia en catástrofes apoyan el funcionamiento general. Un sistema ideal de Protección Civil requiere que todos los agentes estén interrelacionados para una estrategia nacional única, basada en un enfoque integral de la seguridad, la coordinación entre administraciones y empresas privadas, la eficiencia en el uso de recursos, la anticipación y prevención, y la capacidad de resistencia y recuperación.
+La nomenclatura de estos puestos varía considerablemente entre servicios debido a la descentralización. Por ejemplo, en el Consorcio de Bomberos de Guadalajara, la estructura es:
+*   **Escala Técnica o de Mando**:
+    *   Oficial – Jefe de Servicio
+    *   Oficial de Área
+    *   Oficial Técnico
+*   **Escala Operativa**:
+    *   Suboficial
+    *   Sargento – Jefe de Parque
+    *   Cabo – Jefe de Dotación
+    *   Bombero – Conductor – Mecánico
 
-## Tipología y Objeto de los Servicios de Bomberos en España
+El personal operativo de guardia se organiza en dotaciones, cada una compuesta por un grupo de efectivos y un mando, formando una unidad o equipo operativo. Algunos servicios utilizan dotaciones reducidas, ordinarias y ampliadas, o definen "mínimos de guardia" para establecer un criterio de seguridad y calidad del servicio para cada parque, con una perspectiva global.
 
-La organización de los Servicios de Bomberos en España es heterogénea debido a la descentralización del Estado y la falta de una ley nacional que garantice una cobertura uniforme. A pesar de la ausencia de una regulación general, existen diversas **titularidades y formas de prestación** del servicio:
+El Servicio debe organizar sus recursos, tanto humanos como materiales, de forma redundante para evitar errores, ineficacias y fallos imprevistos.
 
-*   **Servicios Estatales:** Dependen de Ministerios o la Administración del Estado. Incluyen los bomberos de Aeropuertos Españoles y Navegación Aérea (AENA), que se centran en emergencias aeroportuarias (actualmente 48 servicios), y los de las Bases Militares Aéreas y de la Armada del Ministerio de Defensa (actualmente 10 servicios). La Unidad Militar de Emergencias (UME), compuesta por soldados, apoya en catástrofes y riesgos graves, pero no responde a emergencias diarias. El número de parques de bomberos estatales ha aumentado de 40 en 1993 a 63 en 2010.
-*   **Servicios Autonómicos:** Las Comunidades Autónomas asumen competencias en Protección Civil y gestión de emergencias, aunque con distinto grado de desarrollo en sus normativas. La responsabilidad puede recaer en el Consejo de Gobierno, una Consejería/Departamento específico o estar diluida en un Centro Directivo genérico. Algunos han creado organismos públicos específicos (Agencias). Las competencias para la gestión de espacios forestales y naturales recaen en las CCAA, que despliegan elementos de prevención y extinción de incendios, con planes forestales y de emergencia (INFO) que incluyen análisis de riesgo, zonificación y protocolos.
-*   **Servicios Provinciales/Comarcales:** Generalmente gestionados por Diputaciones Provinciales o Consorcios. Las Diputaciones pueden ofrecer servicios profesionales o mediante convenios con municipios y otras entidades. El modelo de Consorcio ha ganado auge, pasando de 13 en 1993 a 28 en 2014, y se considera la forma más recomendable por su operatividad y la participación de las Diputaciones y municipios. Los Consorcios son entidades locales con personalidad jurídica propia, gestionando el servicio de forma directa con personal funcionario e instalaciones propias, cubriendo un amplio número de municipios y habitantes.
-*   **Servicios Municipales:** El modelo más extendido, derivado de la obligatoriedad para municipios de más de 20.000 habitantes (Ley 7/1985, art. 26.1). Algunos han ampliado su ámbito territorial mediante convenios. La Ley 27/2013 de Racionalización y Sostenibilidad de la Administración Local mantiene la competencia municipal para municipios de más de 20.000 habitantes y asigna competencia subsidiaria a las Diputaciones Provinciales para municipios de menos de 20.000 habitantes. La crisis económica, la imposibilidad de nuevas contrataciones y la falta de concienciación política han frenado la reducción de estos servicios.
-*   **Bomberos de Empresa:** Servicios privados para la protección de grandes riesgos industriales (centrales nucleares, refinerías, automovilísticas, aeropuertos privados, químicas). Funcionan bajo un modelo de gestión indirecta o externalización, con 68 empresas y más de 1.200 bomberos en servicio actualmente.
-*   **Bomberos Voluntarios:** Menos desarrollados en España que en otros países europeos (ratio de 1 voluntario por 9.500 habitantes frente a 1 por 62 en Alemania) y sin regulación específica de sus funciones.
+La jerarquía es un pilar en la estructura piramidal del Servicio de Bomberos. Las operaciones internas esenciales incluyen:
+*   **Relevo diario**: Mecanismo para asegurar la continuidad de los trabajos entre turnos de guardia.
+*   **Revisión de vehículos, material y equipos**: Su objetivo es comprobar el estado y funcionamiento de los recursos materiales del Servicio.
+*   **Orden y limpieza general**: Tareas relacionadas con vehículos, maquinaria e instalaciones.
+*   **Maniobra**: Ejercicios teóricos y prácticos diarios para que el personal de guardia adquiera y homogeneice conocimientos, técnicas y habilidades.
+*   **Inventario de material**: Recuento, control y verificación semanal del estado y ubicación del equipamiento operativo.
 
-El **objeto y las competencias de los Servicios de Bomberos** se fundamentan en el Real Decreto 1547/1980 sobre reestructuración de la Protección Civil, que delega competencias en Seguridad Pública y Privada. El Real Decreto 1378/1985 asigna la dirección y coordinación de la Protección Civil en emergencias a Alcaldes (ámbito municipal), Gobernadores/Delegados del Gobierno (CCAA uniprovinciales) o Delegados del Gobierno/Ministro del Interior. En general, los servicios de bomberos tienen como misiones y actividades básicas el **ataque del siniestro**, el **rescate** y el **salvamento de víctimas**, sin perjuicio de otras tareas encomendadas por autoridades competentes.
+Los Departamentos o Áreas Funcionales Técnicas se encargan de:
+*   Formación
+*   Prevención y preparación
+*   Operativa
+*   Compras e inversión
+*   Mantenimiento y almacén
+*   Prevención de riesgos laborales
 
-El proyecto europeo FIRECOMP define las responsabilidades y tareas jerárquicas de los bomberos, de las cuales se derivan las siguientes competencias esenciales:
-*   Lucha contra el fuego.
-*   Salvamento y rescate.
-*   Intervenciones técnicas (control y reducción de riesgos en incidentes con sustancias peligrosas, intervención en desastres, apoyo técnico a la comunidad u otros servicios públicos).
-*   Prevención de incendios y participación en campañas de divulgación.
-*   Análisis e investigación de incidentes y acciones operativas.
+El **análisis de riesgos** es un método sistemático para recopilar, evaluar, registrar y difundir información, permitiendo formular recomendaciones para adoptar medidas frente a un peligro específico. Es fundamental para definir el alcance y cobertura de un Servicio de Bomberos en un territorio. El diseño del servicio es, por tanto, un plan de gestión de riesgos, buscando identificar y aplicar la mejor opción para reducir o eliminar la probabilidad de daño.
 
-Estas competencias reales emanan de la ley y se traducen en una **responsabilidad jurídica** que habilita al servicio para intervenir. Las normativas internas de cada servicio, como el Reglamento del Consorcio de Bomberos de Guadalajara, atribuyen competencias específicas como: prevenir riesgos de incendios/accidentes, prestar asesoramiento y asistencia técnica en seguridad/prevención, elaborar planes de emergencia, formar y divulgar a ciudadanos, intervenir en Protección Civil y coordinar programas/recursos.
+Para definir un servicio territorial, se deben establecer los niveles de calidad (tiempo máximo de respuesta), el tipo de servicio, la ubicación de los parques, los recursos necesarios y el diseño del servicio.
 
-La **Carta de Servicios** es un documento oficial que informa a los ciudadanos sobre los servicios, derechos y compromisos de calidad, buscando mejorar la prestación del servicio público. Incluye derechos y responsabilidades ciudadanas, canales de participación y un plan de calidad con compromisos de respuesta y tramitación de sugerencias. Además, todo Servicio de Bomberos debe regirse por **valores organizacionales** como compromiso, eficacia, eficiencia, efectividad, respeto, colaboración y sigilo, que orientan su identidad y procedimientos internos.
+En España, la Ley de Prevención de Riesgos Laborales (LPRL) (Ley 31/1995, de 8 de noviembre, y Ley 54/2003, de 12 de diciembre) y la normativa comunitaria han establecido un enfoque integral de la "Seguridad y Salud Laboral". Esta abarca especialidades como:
+*   Seguridad en el Trabajo
+*   Higiene Industrial
+*   Ergonomía y Psicosociología aplicada
+*   Medicina del Trabajo
 
-## La Comunicación en los Servicios de Emergencia
+Estas especialidades se centran en las condiciones de trabajo para proteger la seguridad y salud de las personas. La Constitución Española (Art. 43 y Art. 40.2) reconoce el derecho a la protección de la salud y encomienda a los poderes públicos velar por la seguridad e higiene en el trabajo. El Art. 15 de la Constitución establece el derecho a la vida e integridad física y moral.
 
-La **comunicación** es una herramienta fundamental para el funcionamiento de cualquier organización, definida como el trato o correspondencia entre dos o más personas mediante un lenguaje común. En los servicios de emergencia, sus elementos clave son el **emisor**, el **receptor**, el **mensaje/información** y el **canal/vía**.
+**Conceptos Básicos en Prevención de Riesgos Laborales:**
+*   **Trabajo**: Toda actividad social organizada que, mediante la combinación de recursos diversos (humanos, materiales, energía, tecnología, organización), permite alcanzar objetivos y satisfacer necesidades.
+*   **Salud (OMS 1946)**: Estado de bienestar físico, mental y social completo, no meramente la ausencia de enfermedad o dolencia.
+*   **Prevención**: Conjunto de actividades o medidas planificadas en todas las fases de la actividad de la empresa para evitar o reducir los riesgos laborales.
+*   **Riesgos laborales**: La probabilidad de que un trabajador sufra daños derivados del trabajo.
+*   **Daño derivado del trabajo**: Enfermedades, patologías o lesiones sufridas a causa o con ocasión del trabajo.
 
-La clasificación entre **comunicación interna** (dirigida al personal del servicio) y **externa** (dirigida a terceros como ciudadanos o medios de comunicación) depende de la pertenencia del receptor a la organización. La **información**, que son los conocimientos comunicados o adquiridos, es crucial para el control y la calidad del servicio. La organización debe asegurar su correcta transmisión sin retardo, bidireccionalidad, retroalimentación, integración de contenidos y que provenga de una fuente fidedigna y reconocida. Esto permite automatizar procesos, apoyar la toma de decisiones del mando y mejorar el rendimiento.
+**Principios de la Acción Preventiva (Art. 15 LPRL):**
+La prevención de riesgos laborales es un deber del empresario. Ante cualquier peligro para la salud en el trabajo, la prioridad es:
+1.  Evitar, evaluar y combatir los riesgos.
+2.  Planificar la prevención.
+3.  Informar y formar a los trabajadores.
 
-Existen dos tipos de **canales de comunicación**:
-*   El **canal formal** se utiliza para transmitir información a través de la escala jerárquica, controlando su acceso y basándose habitualmente en formato escrito y duradero. Incluye mensajes prefijados o esquemas de lenguaje preestablecido (SITAC) en puestos de mando.
-*   El **canal informal** transmite información oficiosa y es vital para la organización, siempre que se aproveche positivamente. Gestiona relaciones interpersonales y facilita la empatía y colaboración.
+**Campo de actuación de las condiciones de trabajo para preservar la seguridad y salud:**
 
-La comunicación también se clasifica según su dirección:
-*   **Vertical:** Ascendente o descendente a través de los diferentes niveles organizacionales.
-*   **Horizontal:** Entre áreas o niveles de la misma entidad jerárquica.
+| Campo General de la Prevención | Accidente de Trabajo | Enfermedad Profesional | Disconfort |
+| :------------------------------ | :------------------- | :---------------------- | :-------- |
+| Ambiente y Entorno Físico     | Seguridad            | Higiene Industrial      | Ergonomía |
+| Hombre / Mujer                  | Condiciones Físicas  | Medicina del Trabajo    |           |
+|                                 | Condiciones Psíquicas | Psicosociología Aplicada, Motivación, Formación, Adiestramiento |           |
 
-Es crucial que la información, según su contenido, circule por el canal adecuado y que no se use el formal para información oficiosa ni el informal para procedimientos. La coexistencia y retroalimentación de ambos sistemas es vital para el flujo y almacenamiento correcto de la información.
-
-## Normativa Interna y Documentación
-
-La **documentación interna** articula el canal de comunicación formal y duradero, regulando y garantizando el funcionamiento del servicio. Sus finalidades son la **documentación orgánica y procedimental** (que describe actividades para la realización de funciones) y la **documentación de registro** (que almacena información para auditorías, evaluaciones y control interno).
-
-La normativa interna puede tipificarse de la siguiente manera:
-1.  **Normativa Fundamental Reguladora:** Constituye la base administrativa del servicio. Las principales normas son los **Estatutos del Consorcio** y el **Reglamento del cuerpo**. También incluye otras normativas relevantes, como los precios públicos por servicios o la tasa por prestación de servicios.
-2.  **Procedimientos Organizativos:** Establecidos para regular el trabajo en distintos ámbitos, aportan coherencia y unicidad de criterios y están supeditados a la normativa fundamental. Se dividen en:
-    *   **Ámbito Administrativo:** Para gestionar licencias, bajas o solicitudes de ayuda.
-    *   **Ámbito Operativo:** Para regular sustituciones de personal o cambios de guardia.
-    *   **Prevención de Riesgos Laborales (PRL):** Para establecer procedimientos ante situaciones de riesgo implícito.
-3.  **Directrices o Instrucciones Técnicas:** Son procedimientos genéricos para el ámbito operativo, regulando aspectos comunes como guardias, comunicaciones por emisora y vestuario de protección.
-4.  **Protocolos y Fichas Protocolo:** Los protocolos establecen la forma de actuación ante cada tipo de intervención, y las fichas protocolo ofrecen un formato esquemático y visual para organizar las dotaciones. Buscan mejorar la calidad y traslado de la información, simplificar la toma de decisiones, acelerar y regular la gestión de recursos, mejorar la eficiencia, aportar conocimiento previo y posibilitar la mejora continua. Se basan en convenios con industrias para actuaciones específicas.
-5.  **Fichas Técnicas de Material y Archivo Digital de Manuales:** Recopilan digitalmente información sobre certificados, garantías, manuales de uso y mantenimiento de equipos y vehículos. Incluyen fichas específicas para información no clara en manuales de fabricante.
-6.  **Fichas de Prevención Operativa (FPO):** Contienen datos de edificios, industrias, residencias, etc., que representan riesgo, para consulta rápida antes de una intervención. También incluyen información sobre medios y recursos que pueden afectar la operativa (hidrantes, accesos, gasoductos), georreferenciada en un Sistema de Información Geográfica (SIG).
-7.  **Planes de Autoprotección:** Se elaboran y acopian para zonas que los requieren, ya sea por imperativo legal o por seguridad, siguiendo un formato de ficha para facilitar la intervención.
-8.  **Notas Internas:** Canal de comunicación vertical y formal para información temporal de la dirección al personal (ej. convocatorias de cursos).
-9.  **Documentación de Formación:** Almacena presentaciones y otros documentos de cursos impartidos.
-10. **Registros de Actividades:** Monitorizan y registran intervenciones, incidencias de material, horas trabajadas y accidentes laborales para obtener estadísticas y datos útiles para la gestión y control del servicio.
-
-## Organización Administrativa y Gestión de Personal
-
-La **organización administrativa del Servicio** se centra en estructurar funciones para el correcto desempeño del personal. El personal se divide en dos ámbitos profesionales:
-*   **Personal de Administración:** Realiza tareas de gestión y burocráticas de apoyo a la escala técnica.
-*   **Personal Operativo:** Incluye escalas técnica y operativa con categorías como Inspector, Subinspector, Oficial, Suboficial, Sargento, Cabo, Guardia o Bombero, según el Real Decreto 861/1986. La nomenclatura es diversa entre servicios, que adaptan las categorías a sus necesidades. Por ejemplo, en el Consorcio de Bomberos de Guadalajara, la escala técnica o de mando incluye Oficial (Jefe de Servicio, de Área, Técnico), y la escala operativa incluye Suboficial, Sargento (Jefe de Parque), Cabo (Jefe de Dotación) y Bombero (Conductor-Mecánico).
-
-El personal operativo se organiza en **dotaciones**, que son unidades o equipos operativos compuestos por efectivos y un mando. Algunos servicios operan con dotaciones reducidas, ordinarias y ampliadas, definiendo **mínimos de guardia** para garantizar la seguridad del personal y la calidad del servicio, aplicados a cada parque con una perspectiva global.
-
-El **acceso a un puesto de mando intermedio** en bomberos se rige por la Ley 7/2007 del Estatuto Básico del Empleado Público (EBEP), con procesos de selección que pueden incluir promoción interna, oposición o concurso-oposición, y excepcionalmente provisión provisional. Los requisitos suelen ser antigüedad en el servicio, título académico, aptitud médica (examen específico) y capacidad para conducir vehículos pesados.
-
-Respecto a la **aptitud médica**, en 1992 la Asociación de Bomberos (ASBE) elaboró cuadros de aptitud para ingreso y permanencia, revisados 20 años después. Para ser bombero, se requiere estar exento de enfermedades orgánicas, secuelas, deficiencias psíquicas o físicas que dificulten la práctica profesional.
-
-Aunque la **carrera profesional** para bomberos no está universalmente establecida, el Instituto Nacional de las Cualificaciones Profesionales (INCUAL) incluyó la Cualificación Profesional de Extinción de Incendios y Salvamento en 2005, con cuatro módulos formativos: Operaciones de Salvamento, Control y Extinción de Incendios, Fenómenos Naturales y Antrópicos, y Operaciones de Ayudas Técnicas. En 2011, se definió la cualificación de "Gestión y coordinación en Protección Civil y emergencias" para el mando intermedio, con cinco módulos formativos: Planificación de Protección Civil, Riesgos en Protección Civil y emergencias, Prevención de riesgos en Protección Civil, Intervención operativa en emergencias y Rehabilitación de servicios básicos en catástrofes.
-
-La pertenencia al Servicio de Bomberos implica **derechos y deberes** para el personal, alineados con los valores organizacionales, que se dividen en técnico-administrativos y operativos. Entre los **derechos** se incluyen la formación profesional continuada (teórica, práctica y física), la promoción profesional, el vestuario y equipo adecuado, la cobertura de riesgos personales y asistencia jurídica, y una remuneración justa. Los **deberes** abarcan no incurrir en incompatibilidad, cumplir órdenes (si no son delito), mantener uniformidad y material, participar en la formación continua, cumplir el horario y guardar sigilo profesional.
-
-Las **áreas funcionales** en los Servicios de Bomberos, que agrupan tareas de gestión técnico-operativa, suelen ser: Formación, Prevención y Preparación, Operativa, Compras e Inversiones, Mantenimiento y Almacén, y Prevención de Riesgos Laborales. Estas áreas buscan eficiencia y eficacia, fusionando o fragmentando tareas según las necesidades del servicio.
-
-## Prevención de Riesgos Laborales: Conceptos Fundamentales
-
-La **Ley 31/1995 de Prevención de Riesgos Laborales (LPRL)** y la normativa comunitaria establecen un enfoque integral de la **Seguridad y Salud Laboral**, que abarca especialidades como Seguridad en el Trabajo, Higiene Industrial, Ergonomía y Psicosociología Aplicada, y Medicina del Trabajo. Históricamente, el concepto ha evolucionado de "Salud Laboral" (1955) a "Seguridad e Higiene" (tras la LPRL) y finalmente a "Seguridad y Salud".
-
-La **Constitución Española** (Art. 43) reconoce el derecho a la protección de la salud de los ciudadanos, y el Art. 40.2 encomienda a los poderes públicos velar por la seguridad e higiene en el trabajo. Además, el Art. 15 garantiza el derecho a la vida y la integridad física y moral.
-
-Conceptos básicos en PRL:
-*   **Trabajo:** Toda actividad social organizada que, mediante la combinación de recursos humanos, materiales, energéticos, tecnológicos y organizativos, busca alcanzar objetivos y satisfacer necesidades.
-*   **Salud (según la OMS, 1946):** Un estado de bienestar físico, mental y social completo, no meramente la ausencia de enfermedad o dolencia.
-*   **Seguridad (laboral):** La protección de la integridad física de las personas ante los riesgos presentes en el lugar de trabajo.
-*   **Prevención (en PRL):** El conjunto de actividades y medidas adoptadas en todas las fases de la actividad de la empresa con el fin de evitar o disminuir los riesgos derivados del trabajo.
-*   **Riesgos laborales:** La posibilidad de que un trabajador sufra un daño específico derivado del trabajo.
-*   **Daño derivado del trabajo:** Las enfermedades, patologías o lesiones sufridas a causa o con motivo del trabajo.
-
-Los **principios de la acción preventiva**, según el artículo 15 de la LPRL, que el empresario debe aplicar son: evitar, evaluar y combatir los riesgos, planificar la prevención, e informar y formar a los trabajadores.
-
-Las **consecuencias de los riesgos** laborales se manifiestan principalmente como:
-*   **Accidente laboral:** Un suceso anormal, brusco e inesperado, generalmente evitable, que interrumpe la continuidad normal del trabajo y puede causar lesiones a las personas. Incluye lesiones sufridas en el centro de trabajo y los accidentes *in itinere* (en el trayecto habitual al domicilio). La lucha contra estos accidentes es prioritaria en la actividad preventiva.
-*   **Enfermedad profesional:** La OMS utiliza el término "enfermedades relacionadas con el trabajo" para referirse tanto a las enfermedades profesionales como a aquellas en las que las condiciones de trabajo contribuyen como factor causal.
-
-Los **factores que determinan la enfermedad profesional** son el tiempo de exposición, las características personales del trabajador, la concentración o intensidad del contaminante y la presencia simultánea de varios contaminantes. La **Higiene Industrial** se encarga de prevenir estas enfermedades estudiando, valorando y modificando el ambiente físico, químico o biológico del trabajo. Además de las enfermedades profesionales legalmente reconocidas, existen las **enfermedades relacionadas con el trabajo** (epidemiológicamente vinculadas) y las **enfermedades del trabajo** (patologías influidas pero no determinadas por el trabajo, como estrés o fatiga mental).
-
-Las **disciplinas técnicas** que actúan en estos casos son:
-*   **Ergonomía:** Adapta el trabajo a la persona.
-*   **Psicosociología aplicada a la PRL:** Estudia factores psicosociales y organizativos que repercuten en la salud del trabajador.
-*   **Medicina en el trabajo:** Promueve la salud, previene y cura enfermedades laborales y facilita la rehabilitación.
+**Consecuencias de los Riesgos:**
+*   **Accidente laboral**: Suceso anormal, no deseado, brusco e inesperado, generalmente evitable, que interrumpe la continuidad normal del trabajo y puede causar lesiones. Incluye lesiones en el centro de trabajo y accidentes *in itinere* (trayecto habitual entre trabajo y domicilio). Combatir estos accidentes es el primer paso de la actividad preventiva.
+*   **Enfermedad profesional**: La OMS utiliza el término "enfermedades relacionadas con el trabajo" para referirse tanto a las profesionales como a aquellas en las que las condiciones laborales son un factor causal.

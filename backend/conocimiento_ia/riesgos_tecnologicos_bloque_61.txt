@@ -1,43 +1,124 @@
-## Comportamiento y Protección de Materiales y Estructuras frente al Fuego en Intervenciones de Emergencia
+Aquí tienes el temario solicitado, redactado de forma original y rigurosa, conservando toda la información y siguiendo las normas de formato:
 
-La comprensión del comportamiento de los materiales y sistemas constructivos ante la acción del fuego es una piedra angular en la formación de los profesionales de emergencias. Los incendios pueden comprometer la integridad estructural de las edificaciones y poner en riesgo la seguridad de las personas, por lo que una intervención efectiva se basa en un conocimiento profundo de las reacciones térmicas y mecánicas de los distintos elementos, así como de las tácticas de protección y los equipos adecuados.
+### PARTE 2: ESTRUCTURAS COLAPSADAS
+#### CAPÍTULO 2: TÉCNICAS DE INTERVENCIÓN
 
-### I. Reacción de Materiales Estructurales al Fuego
+**1. Equipos Materiales**
+Los Equipos de Protección Individual (EPI) y la maquinaria para operaciones de rescate en estructuras colapsadas se seleccionan en función del tipo de tarea y de la maquinaria a emplear.
 
-Cada material constructivo responde de forma particular a las altas temperaturas, influenciando la estabilidad general de la estructura durante un incendio.
+**1.1. Equipos de Protección Individual (EPI)**
+El personal involucrado en trabajos de estabilización de edificaciones debe usar EPI adecuados, que incluyen botas de seguridad, pantalones, camisa, chaqueta, casco, guantes, arnés de seguridad, mascarilla, Equipo de Respiración Autónoma (ERA), traje antisalpicaduras y guantes de látex. El nivel mínimo de protección es el mismo que el requerido para la estabilización de estructuras.
 
-#### A. Hormigón y sus Derivados
+**1.2. Maquinaria y Equipos**
+Los equipos de rescate en estructuras colapsadas (BREC) utilizan técnicas y procedimientos adaptados a las particularidades logísticas de grandes catástrofes internacionales, que a menudo implican desplazamientos por vía aérea o terrestre. Para las operaciones in situ, se prioriza el uso de material esencial y la movilidad a pie, si es necesario. Las técnicas y herramientas se basan en equipos estándar de bomberos, materiales básicos y recursos improvisados, siendo fundamental tener un conocimiento general de estos equipos.
 
-El **hormigón armado (HA)** se caracteriza por una considerable masa y densidad, lo que le confiere una alta inercia térmica, requiriendo un aporte significativo de calor para que su temperatura interna aumente. Su baja conductividad térmica tiende a concentrar el calor en las superficies expuestas, limitando la propagación interna. Aunque su coeficiente de dilatación es bajo, similar al del acero, un incendio prolongado puede desencadenar fenómenos termohidromecánicos. Estos incluyen las dilataciones diferenciales entre el hormigón y la armadura, así como el aumento de la presión interna del vapor de agua en los poros del material, lo que puede provocar el *spalling* o desprendimiento explosivo de capas, dejando al descubierto la armadura. En cuanto a la resistencia, el hormigón armado reduce su capacidad portante a partir de los 380ºC si se mantiene la exposición. Su reacción al fuego se clasifica como M0 o A1, indicando que es incombustible y no contribuye a la ignición ni a la propagación del fuego. Visualmente, el hormigón experimenta cambios de coloración que sirven como indicadores de la temperatura alcanzada, pasando de gris original (hasta 300ºC) a rojizos (300-600ºC), luego a un segundo gris con partículas rojas (600-900ºC), y finalmente a un color ante o amarillo pálido (más de 900ºC), momento en el que pierde casi toda su resistencia.
+**1.2.1. Material Habitalmente Disponible en Cuerpos de Bomberos**
+El material más utilizado en situaciones de derrumbe incluye:
 
-Las variantes del hormigón, como el **pretensado** y el **postensado**, presentan un comportamiento ante el fuego más desfavorable que el hormigón armado tradicional. En el **pretensado**, donde se utilizan alambres de acero de menor diámetro en elementos prefabricados, la afección térmica causa una pérdida de resistencia más acusada, especialmente en elementos sometidos a tracción y flexión. Las armaduras pretensadas se deforman rápidamente con altas temperaturas, liberando la tensión de pretensado de forma irreversible y reduciendo drásticamente la capacidad estructural. Se estima que, si el hormigón pierde el 35% de su resistencia, el acero de pretensado ya ha perdido entre el 60% y el 70% de su capacidad. Por su parte, el **hormigón postensado**, cuyas armaduras se tensan después del fraguado, puede ser aún más vulnerable, especialmente si las vainas de las armaduras no adherentes carecen de protección específica contra el fuego, convirtiéndose en puntos críticos de colapso.
+*   **Equipos de tracción y arrastre:**
+    *   **Tractel:** Compuesto por un mecanismo manual y un cable de acero.
+    *   **Cabrestante:** Integrado por un mecanismo eléctrico y un cable de acero o plasma.
+*   **Equipos de elevación:**
+    *   Cojines neumáticos.
+    *   Cilindros.
+    *   Palancas.
+    *   Eslingas.
+    *   Cuerdas.
+*   **Equipos de corte mecánico:**
+    *   Equipos hidráulicos.
+    *   Sierras circulares.
+    *   Equipos de corte con disco de diamante o cadena.
+    *   Oxicorte.
+*   **Equipos de perforación:**
+    *   Martillo rotativo.
 
-#### B. Estructuras de Fábrica y Madera
+**1.2.2. Medios Técnicos Específicos Utilizados por ONG en Grandes Catástrofes Internacionales**
+Entre los equipos especializados se destacan:
 
-Las **estructuras de fábrica**, construidas con materiales como ladrillos o piedra, poseen una elevada masa y una alta inercia térmica, lo que les permite mantener su capacidad portante durante periodos prolongados en un incendio. Su baja conductividad térmica confina el calor a la zona expuesta, y su reducido coeficiente de dilatación minimiza los esfuerzos por expansión. Estos materiales son incombustibles (clase M0 o A1) y no contribuyen a la propagación del fuego. La resistencia al fuego es alta en fábricas de materiales pétreos o ladrillos macizos, pero puede ser menor en muros de hormigón o ladrillos con alto porcentaje de huecos. Sin embargo, si múltiples forjados colapsan, los muros de fábrica pueden desplomarse por falta de arriostramiento. Además, una exposición prolongada a altas temperaturas puede generar dilataciones diferenciales que provoquen el desplome del muro hacia su cara fría, y los elementos pétreos naturales pueden sufrir roturas de aristas y deformaciones.
+*   **Geófonos (dispositivos electrónicos de escucha):**
+    *   Amplifican sonidos, con capacidad para identificar la dirección de los mismos en un radio de aproximadamente diez metros.
+    *   Compuestos por un equipo electrónico alimentado por baterías, un sensor que transmite señales eléctricas a un convertidor, y una pantalla para su visualización.
+    *   Disponen de auriculares y micrófono para facilitar la comunicación con las personas sepultadas.
+    *   **Tipologías de sensores:**
+        *   **Electromagnéticos:** Detectan desplazamientos de un imán dentro de una bobina generados por vibraciones.
+        *   **De reluctancia:** Formados por un par de imanes con cargas opuestas alineados y separados por una cámara de aire; el movimiento de los imanes modifica el flujo de corriente eléctrica.
+        *   **Piezométricos:** Constituidos por placas metálicas y material piezométrico (cristales polarizados), sensibles a la presión; el movimiento del terreno genera una variación de voltaje eléctrico.
+*   **Cámaras térmicas:**
+    *   Captan la radiación infrarroja natural emitida por los cuerpos, generando una imagen térmica.
+    *   El ojo humano detecta entre 0,5 y 0,75 micras, mientras que las cámaras térmicas detectan un espectro más amplio (0,2 - 20 micras).
+    *   Convierten la energía infrarroja en tensión eléctrica, que es amplificada y mostrada como una imagen térmica.
+    *   No permiten ver el interior de objetos ni el contenido de recipientes; miden la temperatura superficial e indican si la superficie está en contacto con otro material.
+    *   La precisión de las mediciones varía según la radiación solar y las condiciones ambientales.
+*   **Otros medios técnicos:**
+    *   **Cámaras de vídeo:**
+        *   Se montan en el extremo de un mando telescópico para introducirse en escombros y transmitir imágenes al exterior.
+        *   Su efectividad depende de la capacidad de penetración en los escombros.
+        *   Se utilizan frecuentemente después de la extracción de víctimas para verificar la presencia de otras.
+    *   **Microcámaras de visión normal y/o nocturna:**
+        *   Herramientas de inspección visual de aproximadamente 5 pulgadas.
+        *   Integran una unidad de control y función LEM para obtener imágenes claras en condiciones de baja luminosidad.
+    *   **Fonendoscopio:**
+        *   Material utilizado principalmente por personal sanitario en derrumbes.
+        *   Amplifica sonidos, pero su radio de acción es limitado.
+    *   **Medios de fortuna (ej. Bidón de agua):**
+        *   Rudimentarios, se usan cuando no hay otros recursos disponibles.
+        *   Un bidón lleno de agua con un embudo puede amplificar sonidos, pero su margen de error es elevado.
 
-En contraste, la **madera** es un material combustible y medianamente inflamable, contribuyendo activamente a la carga térmica y a la propagación del incendio. Posee una baja masa y densidad, por lo que su temperatura aumenta con menor carga térmica, aunque la humedad interna puede retrasar este proceso. Su baja conductividad térmica y reducido coeficiente de dilatación evitan la transmisión de calor y la generación de grandes tensiones por expansión. La resistencia al fuego de la madera es paradójicamente alta, ya que no pierde propiedades resistentes intrínsecamente, sino que su sección útil se reduce por carbonización, un proceso que avanza a aproximadamente 1 cm cada 15 minutos desde el exterior hacia el interior. Esta capacidad resistente depende fundamentalmente de la dirección de sus fibras y su contenido de humedad. Las estructuras de madera son comúnmente isostáticas, de baja altura y menor complejidad, lo que facilita su evaluación en emergencias. Como desventajas, además de su combustibilidad, se suman la posible presencia de vicios ocultos como carcoma o pudriciones y la debilidad de las uniones metálicas.
+**2. Técnicas de Rescate**
+**2.1. Apertura de Huecos en Elementos Constructivos**
+Al realizar perforaciones en estructuras, es fundamental considerar varios parámetros:
 
-### II. Sistemas de Protección contra el Fuego
+*   **Esquema estructural (geometría):** Evaluar las repercusiones de la apertura en la estabilidad de la estructura.
+*   **Disposición (rigidez):** Determinar si el elemento es vertical u horizontal y su contribución a la rigidez estructural.
+*   **Material:** Las herramientas se seleccionarán según las características físicas del material a perforar:
+    *   **Madera:** Motosierra.
+    *   **Metal:** Motosierra radial (tronzadora) con disco metálico.
+    *   **Fábrica:** Motosierra radial con disco de diamante.
+    *   Estos factores también determinan la profundidad de corte (muros de medio pie, pie completo, bloques de hormigón) y la herramienta a emplear.
 
-La protección de las edificaciones contra incendios se articula en torno a dos ejes principales: la prevención del colapso estructural y la contención de la propagación del fuego.
+**Tipos de Perforaciones Según el Elemento Constructivo:**
 
-#### A. Protección Estructural Pasiva
+**a) Aperturas en Elementos Verticales**
 
-Para proteger los elementos estructurales, se implementan diversas soluciones:
-*   Los **recubrimientos con paneles ignífugos** consisten en la instalación de placas de cartón yeso que envuelven los elementos de acero, creando un efecto de cajón protector cuyo espesor se ajusta a las características del panel y la resistencia al fuego requerida.
-*   Las **pinturas intumescentes** son materiales que, al alcanzar temperaturas superiores a los 200ºC, reaccionan químicamente para formar una capa espumosa que se expande hasta 50 veces su volumen inicial, proporcionando un aislamiento térmico eficaz que puede prolongar la resistencia al fuego hasta 120 minutos.
-*   La **protección sólida** mediante el macizado de hormigón en masa alrededor de los elementos estructurales aumenta su resistencia al fuego, con un espesor adaptado a los requisitos específicos de cada caso.
-*   Los **morteros protectores**, ya sean tradicionales o enriquecidos con aditivos como perlita o vermiculita, se aplican sobre los perfiles para mejorar su comportamiento frente al fuego. Estos pueden fijarse con mallas o anclajes mecánicos y aplicarse por proyección, lo que permite controlar con precisión el espesor.
-*   El uso de **filmes o mantas** de fibra cerámica o lana de roca se destina a la protección de perfiles metálicos, y en perfiles con alma superior a 150 mm, se complementa con una malla auxiliar para garantizar la estabilidad y evitar deformaciones.
+*   **Ubicación:** Se utiliza para acceder a estancias o evacuar víctimas (especialmente si es necesario el desplazamiento de camillas) cuando el acceso por puertas o ventanas es inviable.
+*   **Análisis de estabilidad:** Antes de perforar un elemento vertical, debe evaluarse su estabilidad y la del conjunto estructural, especialmente si es portante.
+*   **Apeo:** Si el análisis estático lo recomienda, el elemento debe estabilizarse con técnicas de apeo estandarizadas.
+*   **Características del corte:**
+    *   **Geometría:** Los cortes más sencillos para los bomberos son triangulares, cuadrados o circulares. El corte triangular es el más fácil de realizar y no requiere apuntalamiento adicional, a diferencia del cuadrado.
+    *   **Superficie:** No debe ser inferior a medio metro cuadrado para permitir la extracción de una víctima. En cortes triangulares, cada lado debe medir al menos 70 cm.
+    *   **Altura:** El butrón se abre a 40-50 cm del suelo.
+    *   **Agujero de inspección:** Se realiza un pequeño hueco para verificar la situación de la víctima y la ausencia de riesgos (como cables eléctricos).
+    *   **Ejecución:** Se procede al corte sobre la marca preestablecida, utilizando motosierra, tronzadora o martillo percutor.
+    *   **Materiales:** Para bloques de hormigón, se actúa en las zonas huecas (menos resistentes). Para ladrillo, se rompen primero las juntas. Para hormigón armado, se corta en ángulo de 45º para evitar la caída de la placa inferior.
+*   **Marcado:** Antes de la perforación, se debe marcar la geometría del corte con pintura o spray.
 
-Además, en el diseño pasivo de edificaciones, se pueden encontrar **estructuras externas** donde la parte portante del edificio se ubica al exterior, reduciendo la necesidad de protección pasiva interna. Históricamente, los **recubrimientos con albañilerías** fueron comunes en entramados de madera o acero. Las **pantallas**, como tabiquerías y cielos falsos, contribuyen a la protección al asegurar la integridad, aislamiento y estabilidad del conjunto. Finalmente, el **relleno de perfiles tubulares huecos** con materiales termodisipadores, como hormigón o agua, ayuda a gestionar la carga térmica durante un incendio.
+**b) Aperturas en Elementos Horizontales**
 
-#### B. Protección contra la Propagación en Instalaciones
+*   **Ubicación:** Adecuado en forjados colapsados donde no exista riesgo de caída sobre otros elementos.
+*   **Análisis de estabilidad:** Identificar la tipología estructural:
+    *   **Forjados unidireccionales:** Perforar bovedillas, evitando nervios. Si no está colapsado, perforar en los puntos de momento nulo para minimizar el debilitamiento.
+    *   **Forjados bidireccionales:** Perforar casetones, evitando nervios y capiteles.
+*   **Apeo previo:** Antes de perforar, preparar una estructura de trabajo con tablones colocados perpendicularmente a los elementos a seccionar para soportar las cargas.
+*   **Agujero de inspección y ejecución:** Similar al de estructuras verticales.
+*   **Apeo posterior:** Tras la apertura, si el análisis estático lo recomienda, realizar apeo desde el interior, ponderando la relación éxito/riesgo.
 
-Para contener la propagación del fuego en instalaciones, se emplean:
-*   **Cortafuegos lineales** aplicados en bandejas de cables a intervalos regulares, impidiendo la expansión del incendio.
-*   **Almohadillas intumescentes** utilizadas para sellar los pasos de bandejas de cables, donde se prevén movimientos o cambios, optimizando el tiempo y coste de reposición.
-*   **Sistemas de placas para conductos resistentes al fuego** que crean compartimentos independientes en los que se alojan las bandejas de cables.
-*   **Collarines intumescentes** para sellar tuberías de plástico inflamables, que se expanden al calor para estrangular el conducto y bloquear el paso de fuego, humos y gases.
-*   **Conductos de ventilación con sistemas de
+**2.1.2. Galerías**
+
+*   **Ejecución:** Similar a las entibaciones, con dinteles en la parte superior, utilizando paneles para liberar el túnel.
+*   **Material:** Depende de la disponibilidad de madera.
+*   **Estabilización complementaria:** Siempre es necesaria.
+*   **Limitaciones:** Es el último recurso en estructuras colapsadas debido al tiempo y dificultad de ejecución.
+
+**2.1.3. Contención de Deslizamientos de Tierra y Escombros**
+
+*   **Objetivo:** Contener tierras que puedan afectar a víctimas atrapadas y garantizar la seguridad de los rescatadores.
+*   **Variable clave:** El ángulo de rozamiento del terreno.
+*   **Terrenos granulares:** Requieren contención continua.
+*   **Seguridad:** En terrenos granulares, se puede trabajar con seguridad sin empeorar el escenario para las víctimas.
+*   **Barreras físicas o diques:** Se usan para impedir el avance del vertido o canalizarlo. Pueden ser de tierra, cemento o materiales sintéticos, a menudo con propiedades absorbentes. La retención de GLP puede combinarse con dispersión de vapor.
+*   **Ángulo de rozamiento:** Es una variable importante, ya que indica la capacidad portante y resistencia al deslizamiento del material.
+
+**2.2. Movilización de Cargas**
+
+**2.2.1. Materiales**
+En intervenciones de búsqueda, rescate y desescombro por colapso, la movilización de cargas es vital. Los materiales de construcción son pesados y a menudo deben ser retirados de forma segura para crear accesos y liberar a las víctimas.

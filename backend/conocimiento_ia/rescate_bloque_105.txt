@@ -1,53 +1,124 @@
-## Caracterización de Emergencias en Rescates Ferroviarios y Gestión de Riesgos
+## Temario de Oposiciones de Bomberos y Emergencias: Rescate y Salvamento
 
-La gestión de emergencias en el ámbito ferroviario exige una comprensión profunda de los riesgos inherentes, la tipología de las infraestructuras y los materiales involucrados, así como un conocimiento detallado de la legislación aplicable y las funciones del personal de la compañía. Las **tácticas de intervención** deben basarse en una evaluación exhaustiva y continua de la situación.
+### Parte 6: Rescate en Accidentes Ferroviarios
 
-### Riesgos Críticos en Intervenciones Ferroviarias
+#### Capítulo 1: Caracterización
 
-Los servicios de bomberos que actúan en incidentes ferroviarios se enfrentan a riesgos graves, específicos y prioritarios, entre los que destacan el **arrollamiento** y la **electrocución**. La naturaleza de estos peligros varía considerablemente en función del tipo de vía y del tren implicado. Por ejemplo, en vías sencillas, donde el tráfico puede circular en ambos sentidos, el riesgo de arrollamiento es una preocupación constante, lo que requiere la aplicación de parámetros de seguridad rigurosos. En contraste, las vías dobles, con un sentido único de circulación por cada vía, presentan sus propios desafíos en la gestión del tráfico y la seguridad.
+**7. Red de Ferrocarriles en España**
 
-### Tipología de Vías y Sistemas de Electrificación
+**7.1. Características Generales**
 
-La red ferroviaria española se caracteriza por su diversidad de anchos de vía, incluyendo el ancho ibérico (1.668 mm), el internacional (1.435 mm) y el métrico o de vía estrecha (1.000 mm). Asimismo, las vías pueden ser simples o dobles, y electrificadas o no electrificadas. La **electrificación** es un factor crucial de riesgo.
+La red ferroviaria española se compone principalmente de vías de ancho ibérico (1.668 mm), internacional (1.435 mm) y métrico o vía estrecha (1.000 mm). Existen cuatro tipos de vías: simple no electrificada, simple electrificada, doble no electrificada y doble electrificada.
 
-En este sentido, los sistemas de electrificación se dividen en:
+La extensión total de la red es de 15.461 kilómetros, de los cuales más de 8.000 kilómetros están electrificados con distintos sistemas. Las líneas electrificadas incluyen:
+*   3.000 voltios en continua (para la red convencional).
+*   25.000 voltios en alterna a 50 Hertzios (para la red de alta velocidad).
+*   1.500 voltios en continua (para la red de ancho métrico).
 
-*   **Alta velocidad:** Opera con 25 kV en corriente alterna, utilizando un ancho de vía europeo de 1435 mm. Estos trenes pueden superar los 300 km/h y circulan por vías protegidas con vallas y aisladores de alta tensión visibles. Trenes como el Alvia, por ejemplo, pueden alternar entre vías de alta velocidad y ancho convencional.
-*   **Línea convencional:** Emplea 3000 V en corriente continua, con un ancho de vía ibérico de 1668 mm. La velocidad de los trenes en estas líneas varía entre 160 y 220 km/h para pasajeros y hasta 140 km/h para mercancías. A diferencia de las de alta velocidad, estas vías no suelen estar valladas y pueden incluir pasos a nivel o cruces. Es imperativo interrumpir la tensión antes de realizar cualquier tarea.
-*   **Red de ancho métrico:** Con tensiones de 1500 V en corriente continua y un ancho de vía de 1 metro. La velocidad oscila entre 50 y 100 km/h. Estas vías, frecuentemente ubicadas en orografías complejas como la cornisa cantábrica, pueden transportar tanto personas como mercancías.
+**7.2. Gestión de Ferrocarriles en España**
 
-En presencia de **catenaria**, es fundamental que los bomberos soliciten el **corte de la electricidad** para eliminar riesgos, verificando que no haya tensión y derivando a tierra la instalación mediante pértigas aisladas. Un aspecto crítico es que la tensión de las catenarias es tan elevada que puede electrocutar incluso sin contacto directo, debido a la formación de arcos voltaicos. Por lo tanto, el personal de mantenimiento ferroviario debe ser el encargado de realizar estas operaciones, y no se debe trabajar a menos de 100 cm de cualquier elemento de alta tensión.
+Actualmente, el Estado tiene competencia exclusiva en materia de ferrocarriles y transporte terrestre que atraviesen el territorio de varias comunidades autónomas. Esta competencia se extiende al régimen general de comunicaciones y a las obras públicas de interés general o aquellas que afecten a más de una comunidad autónoma.
 
-### Información sobre la Mercancía Transportada
+Las comunidades autónomas, por su parte, pueden gestionar los ferrocarriles con un itinerario completamente dentro de su territorio, bajo las mismas condiciones de transporte.
 
-Para cualquier intervención en trenes de mercancías, es vital acceder a la **carta de porte**, un documento que detalla el contrato de transporte ferroviario y proporciona información esencial sobre la carga. Este documento puede ser impreso o telemático y debe incluir:
+Las entidades gestoras de la red ferroviaria a nivel nacional son:
+*   **Adif (Administrador de Infraestructuras Ferroviarias de España):** Una entidad pública empresarial dependiente del Ministerio de Fomento. Su objetivo es construir y gestionar la explotación de líneas de ferrocarril. Adif asumió la infraestructura de la antigua Red Nacional de los Ferrocarriles Españoles (RNFE) y de FEVE, siendo propietaria de la mayoría de las líneas férreas de España. Actualmente, administra 13.945 kilómetros de vías y 1.566 estaciones.
+*   **Renfe Operadora:** Una entidad pública empresarial adscrita al Ministerio de Fomento, cuya misión es ofrecer servicios de transporte de viajeros y mercancías. Opera bajo principios de seguridad, calidad, eficiencia, rentabilidad e innovación, con vocación de servicio público.
 
-*   **Datos de las partes:** Nombre, apellidos, domicilio, N.I.F./C.I.F., teléfono, fax y correo electrónico del remitente y consignatario, así como los datos de la empresa transportista (Renfe - Operadora).
-*   **Detalles del transporte:** Estación de destino, fecha de expedición, lugar y fecha prevista de entrega de la mercancía.
-*   **Información de la carga:** Características detalladas de la mercancía, incluyendo si es **mercancía peligrosa**, en cuyo caso se especificarán su naturaleza exacta, datos conforme al **RID** (Reglamento europeo sobre el transporte internacional de mercancías peligrosas por ferrocarril), incompatibilidades, condiciones de transporte y precauciones. El remitente o consignatario es responsable de probar el conocimiento del peligro si esta información no consta.
-*   **Medidas de la carga:** Peso bruto y volumen de los bultos (por separado si hay mercancías de varias clases, y volumen en metros cúbicos para mercancías voluminosas de menos de 150 Kg/m³). También se registra el peso de tasación para calcular el precio del transporte.
-*   **Personal adicional:** Nombre, apellidos y D.N.I. de personas ajenas que acompañen el transporte (animales, automóviles, material ferroviario).
-*   **Identificación del material rodante:** Número de matrícula o código alfanumérico y número de serie del vagón/vagones/contenedores, junto con su peso.
-*   **Condición de la mercancía:** Estado de la mercancía o su embalaje, con indicación de averías o incidencias.
-*   **Vagones descubiertos:** Si el transporte se realiza en vagones descubiertos, esta información debe constar en la Declaración-Carta de porte y en el talón duplicado.
-*   **Seguros:** Detalles de seguros y afianzamientos mercantiles que cubran daños o pérdidas.
-*   **Representación:** Si la declaración no la suscribe el remitente, se indicará el nombre del mandatario, su firma y D.N.I.
-*   **Precintos:** Existencia y número de precintos.
-*   **Otras circunstancias:** Cualquier otra información relevante para el transporte.
+La siguiente tabla detalla las entidades gestoras de ferrocarril en las comunidades autónomas:
 
-La gestión de mercancías peligrosas en la red española sigue las directrices del RID, el Real Decreto 412/2001 y la Instrucción General IG 43. Estas normativas imponen **restricciones de tráfico** importantes, como la prohibición de circular por líneas que atraviesen poblaciones si existe una circunvalación, y la no programación de paradas en estaciones de núcleos habitados o en túneles de más de 100 metros.
+| Comunidad Autónoma      | Entidades Gestoras                                                                                                                              |
+| :---------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- |
+| País Vasco              | ETS (Gestor de Infraestructuras Ferroviarias de Euskadi), Euskotren (Ferrocarriles Vascos)                                                    |
+| Comunidad Valenciana    | GTP (Gestor de la Red de Transporte y de Puertos de la Generalitat Valenciana), FGV                                                          |
+| Cataluña                | IFERCAT (Gestor de las Infraestructuras Ferroviarias de Cataluña), FGC (Ferrocarriles de la Generalitat de Catalunya)                           |
+| Baleares                | SFM Serveis Ferroviaris de Mallorca                                                                                                             |
 
-### Planificación y Prioridades de Actuación
+**3. Conceptos Ferroviarios**
 
-La **valoración inicial** de un siniestro ferroviario es el punto de partida para establecer el plan de acción, que debe ser **dinámico** y adaptarse a la evolución de la emergencia. Los **objetivos prioritarios** incluyen la **seguridad de los intervinientes**, el **rescate de víctimas** y la **protección del entorno**. En este sentido, es fundamental evaluar los riesgos inherentes, la disponibilidad de recursos humanos y materiales, y el tipo de intervención necesaria.
+**3.1. Infraestructura**
 
-Para el **control de riesgos inminentes**, especialmente la **electrocución**, se deben seguir cinco normas de seguridad esenciales para desconectar la electricidad:
-1.  **Cortar las fuentes de alimentación** (seccionadores e interruptores).
-2.  **Evitar la realimentación** (candados, llaves).
-3.  **Comprobar el corte de tensión** con pértigas aisladas.
-4.  **Derivar a tierra la instalación** en cortocircuito (grapa de carril y mordaza de cable de contacto).
-5.  **Señalizar la zona de trabajo**.
+La infraestructura se define como el conjunto de obras necesarias para construir la explanación o plataforma y su geometría. Los espacios sobre los que se asientan las vías incluyen numerosas obras de defensa, como muros de contención, sostenimientos, drenajes y saneamientos.
+*   **Obras de tierra:** Trabajos de explanación para nivelar las vías.
+*   **Obras de fábrica:** Trabajos para superar obstáculos naturales como viaductos, puentes, pasos a distinto nivel y túneles.
 
-En cuanto al **arrollamiento**, una medida básica de protección es realizar un "Shunt de vía", un circuito eléctrico o electrónico que indica la presencia de un convoy en un tramo de vía, activando señales e impidiendo el acceso de otros trenes, lo que protege a los equipos de trabajo.
+**3.2. Superestructura (Vías más Instalaciones)**
 
-Finalmente, la decisión entre **rescate, evacuación o confinamiento** de los pasajeros dependerá de la gravedad del accidente. En situaciones leves, se puede optar por confinar a los pasajeros y proceder al rescate. Sin embargo, en casos graves, la evacuación inmediata es la opción prioritaria para salvaguardar la vida de las víctimas atrapadas.
+La superestructura abarca las vías propiamente dichas y el conjunto de elementos e instalaciones necesarios para la circulación segura y eficiente de los trenes.
+
+**3.2.1. Vía**
+
+La vía y sus componentes son el elemento fundamental de la superestructura.
+
+**a) Carril**
+Es una barra de acero laminado con una sección superior más ancha en forma de seta. Su función principal es guiar los trenes y, en ocasiones, servir de retorno para los circuitos eléctricos de la catenaria y las señales. Su peso por metro lineal y su longitud varían, pudiendo alcanzar hasta 288 metros. Se distingue en tres partes:
+*   **Cabeza:** Parte superior, sirve como superficie de rodadura.
+*   **Patín:** Base del carril, sujeta las traviesas.
+*   **Alma:** Parte central, la zona más delgada, conecta la cabeza y el patín.
+
+Los carriles se unen mediante soldadura para formar una barra continua, compensando la dilatación con juntas de dilatación.
+*   **Traviesas:** Barras anchas de diversos materiales (madera, hormigón armado, etc.) instaladas transversalmente a la vía. Sostienen el carril y lo unen al balasto.
+*   **Balasto:** Elemento granular de silíceo que soporta las traviesas. Reduce y distribuye los esfuerzos del tren sobre las vías, evita el desplazamiento y protege la plataforma.
+*   **Tirafondos y placas de asiento:** Elementos que fijan el carril a la traviesa, con formas diversas según el tipo de traviesa.
+
+**b) Ancho de la vía**
+El ancho de vía puede variar según el tren y el territorio. En España, se usa el ancho europeo (1.435 mm) y el ancho ibérico o español (1.668 mm). Además, existe el ancho métrico (1.000 mm), usado en zonas de difícil acceso, como áreas mineras, por su practicidad.
+
+**3.2.2. Aparatos de la Vía**
+
+**a) Agujas**
+Son sistemas que permiten desdoblar los carriles mediante piezas móviles llamadas agujas. Constan de dos elementos:
+*   **Corazón:** Parte fija que conecta las dos vías.
+*   **Espadín:** Parte móvil que permite el cambio de vía.
+
+**b) Cambios de Agujas**
+Los cambios de aguja se accionan mediante tres procedimientos para seleccionar la vía de circulación:
+*   **Eléctrico:** Accionamiento a distancia desde estaciones o Centros de Control de Tráfico (CTC).
+*   **Mecánico:** Accionamiento desde la estación mediante un cable de acero.
+*   **Manual:** Accionamiento a pie de vía. Un indicador de posición de aguja muestra si el cambio está en vía directa o desviada.
+
+**3.2.3. Señales**
+Son dispositivos que transmiten mensajes desde la vía, estaciones y trenes, siguiendo un código de sonidos, colores y formas del Reglamento General de Circulación. Las señales más comunes son:
+*   **Semafóricas:** Se accionan mecánicamente mediante un cable de acero.
+*   **Luminosas:** Se accionan eléctricamente desde la estación o el CTC, con un aspecto similar a los semáforos automovilísticos.
+*   **Portátiles:** Las puede emplear el personal responsable de regular el tráfico.
+*   **De los trenes:** Son las señales que se muestran en la cabeza y cola del tren.
+*   **De limitación de velocidad:** Indican órdenes permanentes (fondo blanco) o temporales (fondo amarillo).
+
+**3.2.4. Electrificación**
+Para que los trenes eléctricos puedan circular, se necesita un sistema que conduzca electricidad a las vías.
+La primera electrificación mundial fue realizada por Werner von Siemens en Alemania. La energía se captaba mediante un patín en un tercer carril electrificado en el centro de la vía. Este sistema presentaba el problema de los desvíos, resolviéndose al sacar el tercer carril de la vía y situarlo fuera de ella, ofreciendo dos alternativas: "por arriba" y "por abajo".
+
+**a) El tercer carril. La solución "por abajo"**
+Se instala un tercer carril electrificado al lado de la vía. Los trenes lo captaban mediante un patín o frotador lateral. Esta solución se aplicó en metros como los de Berlín y Múnich, y en líneas de Gran Bretaña y Nueva York. Su principal inconveniente es que el carril electrificado es accesible, lo que puede provocar electrocución si una persona, animal u objeto entra en contacto simultáneo con el carril y el suelo. Con medidas de seguridad adecuadas, es un sistema válido.
+
+**b) La línea aérea de contacto. La solución "por arriba"**
+Es el sistema más común para electrificar ferrocarriles. Consiste en cables electrificados instalados a una altura determinada sobre la vía, de los que los trenes toman la energía. Se denomina catenaria o línea aérea de contacto.
+Catenaria es el nombre de la curva que forma un cable suspendido entre dos puntos. Las primeras catenarias ferroviarias tenían un solo cable colgando de varios postes. Se usó a menudo en tranvías y ferrocarriles económicos.
+Existen dos sistemas de captación de electricidad desde la catenaria:
+*   **Trole:** Un poste rematado en una rueda metálica que gira bajo el cable y capta la corriente. Utilizado en tranvías y trolebuses.
+*   **Pantógrafo:** Elemento del motor que capta la corriente. Es peligroso. Es un mecanismo articulado con varillas conectadas al cable, que se mueven respecto a un punto fijo. Las varillas sujetan un patín que se desliza bajo la catenaria. Se ubica en el techo de la unidad tractora y regula su altura automáticamente para conectar con la catenaria, independientemente de la altura del cable aéreo.
+
+**3.2.5. Instalaciones que forman parte del sistema de electrificación**
+
+**a) Subestación**
+Las subestaciones eléctricas suministran potencia a una serie de puestos de rectificación eléctrica distribuidos a lo largo de la vía. La cantidad de puestos depende de los kilómetros de la ruta y de la potencia requerida por la locomotora. Suelen ubicarse cada 20 km en líneas de baja tensión (convencionales) y cada 50 km en líneas de alta tensión.
+Su función es transformar (y a menudo rectificar) la corriente de las suministradoras (30.000-40.000 voltios) y transportarla al tendido eléctrico a través de un conductor auxiliar llamado feeder.
+
+**b) Estados Eléctricos de la Catenaria**
+*   **Energizado:** Todos los elementos conectados al polo positivo de la salida del rectificador.
+*   **Masa:** Parte de la instalación conectada directa o indirectamente a tierra.
+*   **Negativo:** Parte de la instalación conectada al polo negativo del rectificador.
+*   **Neutro:** Partes de la instalación totalmente aisladas que no establecen contacto eléctrico con ninguno de los polos activos.
+
+**c) Columna de Electrificación**
+Los elementos que integran cada columna de electrificación son:
+*   **Conjunto de Soporte (sin tensión):**
+    *   **Postes:** Soportes verticales (metálicos o de hormigón) que montan los equipos.
+    *   **Ménsula:** Soporte metálico que se une al poste y sostiene la catenaria.
+    *   **Tirante:** Elemento que une los postes y las ménsulas, facilita el roce mecánico del sistema.
+    *   **Aislador de suspensión:** Pieza de porcelana o vidrio que aísla eléctricamente.
+*   **Conjunto de Atirantado (con tensión):**
+    *   **Hilo de contacto o catenaria:** Cable del que el pantógrafo toma la corriente eléctrica.
+    *   **Brazo de atirantado:** Unión entre el cable de contacto y el soporte. Permite la oscilación de la catenaria para que el pantógrafo mantenga contacto uniforme y el desgaste sea homogéneo.
+    *   **Aislador de atirantado:** Aísla eléctricamente el conjunto de atirantado de la ménsula y el poste.

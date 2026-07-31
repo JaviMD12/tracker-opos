@@ -1,60 +1,175 @@
-# Medidas de Prevención y Control de Infecciones y Enfermedades Transmisibles en Emergencias
+### Prevención y Apoyo Psicológico: Capítulo 4
 
-La gestión efectiva de emergencias y la asistencia a pacientes requieren la implementación rigurosa de protocolos de **limpieza, desinfección y esterilización** de equipos y superficies, así como la comprensión de las **enfermedades transmisibles** y las **medidas de autoprotección** del personal. Estos procedimientos son cruciales para prevenir la propagación de microorganismos patógenos y salvaguardar la salud tanto de los pacientes como de los intervinientes.
+#### 2.2. Medidas Preventivas Antes de Usar
+Antes de utilizar cualquier producto químico, es esencial identificar el contaminante y aplicar las precauciones pertinentes. Esto implica:
+*   Consultar el etiquetado y las fichas de seguridad del producto.
+*   Adherirse a las recomendaciones especificadas en las fichas de seguridad.
 
-## Limpieza, Desinfección y Esterilización del Material Sanitario
+##### 2.2.1. Etiquetado de los Productos Químicos
+Todo envase de producto químico debe llevar un etiquetado visible conforme a la normativa, el cual debe incluir:
+*   **Nombre de la sustancia.**
+*   **Nombre, dirección y teléfono del fabricante.**
+*   **Símbolos e indicaciones de peligro normalizadas.**
+*   **Frases R:** Describen y complementan los riesgos. Su redacción está normalizada.
+    *   R1: Explosivo en estado seco.
+    *   R2: Riesgo de explosión por choque, fricción, fuego u otras fuentes de ignición.
+*   **Frases S:** Establecen medidas preventivas para la manipulación y uso del producto.
+    *   S12: No cerrar el recipiente herméticamente.
+    *   S24: Evitar el contacto con la piel.
+*   **Número de registro de la sustancia en la UE.**
 
-El **saneamiento** del material sanitario es un proceso escalonado y fundamental. La **limpieza**, definida como la eliminación de residuos orgánicos e inorgánicos de una superficie, es siempre el paso inicial e indispensable para una descontaminación eficaz. Aunque reduce la carga microbiana, la limpieza por sí sola no garantiza la esterilización ni la desinfección. No obstante, desinfectar antes de limpiar es una práctica ineficaz que incrementa los costes. Un material puede estar desinfectado sin estar estéril, pero todo material estéril se considera desinfectado.
+##### 2.2.2. Fichas de Datos de Seguridad
+Las Fichas de Datos de Seguridad (FDS) complementan la información del etiquetado de los productos con detalles más exhaustivos, incluyendo sus componentes peligrosos. Permiten identificar riesgos y establecer medidas preventivas. Una FDS debe contener:
+*   Composición.
+*   Identificación de los peligros.
+*   Primeros auxilios.
+*   Medidas de lucha contra incendios.
+*   Medidas en caso de vertido accidental.
+*   Manipulación y almacenamiento.
+*   Propiedades físico-químicas.
+*   Estabilidad-reactividad.
+*   Información toxicológica.
+*   Consideraciones relativas a la eliminación.
+*   Información relativa al transporte.
+*   Otra información relevante.
 
-En este contexto, la **sepsis** representa la respuesta inflamatoria sistémica del organismo a una infección, mientras que la **asepsia** se refiere a la ausencia total de microorganismos patógenos. La **antisepsia**, por su parte, es el método para eliminar microorganismos en la piel y las mucosas.
+#### 2.3. Medidas Preventivas Generales
+*   No almacenar los productos con los envases abiertos.
+*   Disponer de todas las FDS.
+*   Seguir las recomendaciones de las FDS.
+*   Comprobar los etiquetados de los envases.
+*   Considerar las características de peligrosidad y las incompatibilidades de los productos, tanto en su uso como en su almacenamiento.
+*   No almacenar sustancias incompatibles.
+*   Realizar un inventario de los productos, clasificándolos e identificándolos.
+*   Mantener un registro actualizado de los productos almacenados.
+*   Considerar la caducidad de los productos.
+*   Limitar el tiempo de exposición.
+*   Disponer de equipos de protección individual.
+*   En situaciones de vertido, actuar con rapidez y consultar la FDS.
 
-El material sanitario se clasifica de diversas maneras para determinar el método de saneamiento adecuado. Según su **utilización**, puede ser **fungible o desechable**, usándose una sola vez (como catéteres o jeringas), o **reutilizable**, que requiere limpieza, desinfección y esterilización tras cada uso (como laringoscopios o termómetros). Atendiendo a su **peligrosidad**, el material se divide en:
-*   **No crítico**: entra en contacto con la piel intacta, no con mucosas. Requiere desinfección de bajo o intermedio nivel, como fonendoscopios o desfibriladores.
-*   **Semi-crítico**: entra en contacto con mucosas, pero no con tejidos vasculares o estériles. Necesita desinfección de alto nivel, por ejemplo, sistemas de suero o sondas.
-*   **Crítico**: entra en contacto con tejidos estériles o el sistema vascular. Requiere esterilización, como endoscopios o instrumental quirúrgico.
+### Riesgos Biológicos y su Prevención
 
-Para la **limpieza del material**, se emplean fundamentalmente agua y detergentes. El agua debe ser de calidad, preferiblemente blanda y con pH neutro, y el aclarado final con agua destilada. Los **detergentes** son sustancias químicas que, disueltas en agua, forman una solución detergente. Su eficacia depende de la dosis, el tiempo de inmersión y la temperatura, y deben poseer cualidades como poder detergente (para desincrustar), humectante (para facilitar el contacto con la superficie) y solubilizante (para disolver la suciedad). Los detergentes se pueden clasificar, por su composición y finalidad, en:
-*   **Surfactantes**: disminuyen la tensión superficial del agua y disuelven grasas.
-*   **Alcalinos**: facilitan la eliminación de grasas.
-*   **Biocidas**: contienen sustancias que potencian la desinfección.
-*   **Enzimáticos**: descomponen proteínas y residuos orgánicos.
+Los riesgos biológicos se refieren a la exposición a agentes que pueden causar enfermedades infecciosas o ser transmitidas. Los agentes biológicos son seres vivos (de origen animal o vegetal) o sustancias derivadas presentes en el lugar de trabajo, capaces de provocar efectos negativos en la salud de los trabajadores.
 
-Las **fases de limpieza** incluyen el prelavado (agua abundante a menos de 35°C para arrastrar materia orgánica), el lavado (agua templada y detergente), el aclarado (agua fría y destilada para eliminar restos) y el secado (paños o aire caliente, vital para evitar el desarrollo microbiano). Los **métodos de limpieza** pueden ser:
-*   **Por inmersión**: el material se sumerge en solución detergente y se aclara.
-*   **En seco**: se frota el material con un paño humedecido en detergente, seguido de aclarado con paño limpio y seco, o en spray.
-*   **Mecánica**: mediante lavadoras o lavado por ultrasonidos, donde ondas de alta frecuencia desprenden materia orgánica.
+#### 3.1. Clasificación
+Los agentes biológicos se clasifican en grupos según su peligrosidad, basándose en la combinación de factores de riesgo:
 
-La **desinfección** busca destruir organismos patógenos (no esporas). Un desinfectante ideal debe ser de **amplio espectro**, **estable**, **fácilmente soluble**, de **rápida y permanente acción**, **no tóxico**, **no irritante**, **no corrosivo**, eficaz a bajas concentraciones, económico y biodegradable. La aplicación puede ser por inmersión, loción o aerosoles.
-Los desinfectantes se clasifican por su **acción** (bactericidas, fungicidas, viricidas que destruyen microorganismos; bacteriostáticos, fungistáticos, virustáticos que inhiben su crecimiento) y por el **tipo de microorganismo** que destruyen (bajo nivel, intermedio, alto nivel).
+*   **Grupo 1:**
+    *   Probabilidad de que causen enfermedades en el hombre: Poco probable.
+*   **Grupo 2:**
+    *   Probabilidad de que causen enfermedades en el hombre: Puede causar enfermedad, puede suponer un peligro para los trabajadores.
+    *   Probabilidad de que la infección se propague: Es poco probable que se propague a la colectividad.
+    *   Existen mecanismos preventivos o tratamiento eficaz.
+    *   Ejemplos: Cándida, salmonelosis.
+*   **Grupo 3:**
+    *   Probabilidad de que causen enfermedades en el hombre: Puede causar una enfermedad grave en el hombre, presenta un serio peligro para los trabajadores.
+    *   Probabilidad de que la infección se propague: Hay riesgo que se propague a la colectividad.
+    *   Existen mecanismos preventivos o tratamiento eficaz.
+    *   Ejemplos: Tuberculosis, gripe A.
+*   **Grupo 4:**
+    *   Probabilidad de que causen enfermedades en el hombre: Causan una enfermedad grave en el hombre, presentan un serio peligro para los trabajadores.
+    *   Probabilidad de que la infección se propague: Existen muchas posibilidades que se propague a la colectividad.
+    *   Existencia o no de tratamiento para la enfermedad: No existen mecanismos preventivos o tratamiento eficaz.
+    *   Ejemplo: Ébola.
 
-Los **métodos de desinfección** se dividen en:
-*   **Físicos**:
-    *   **Térmica (calor húmedo)**: agua a 65-95°C, sin exceder los 100°C (pasteurización).
-    *   **Radiación ultravioleta**: efectiva solo en superficies expuestas directamente; no penetra la materia.
-    *   **Cubeta de ultrasonidos**: para material delicado, con solución adecuada.
-*   **Químicos**:
-    *   **Alcoholes (etílico e isopropílico al 70%)**: desinfectantes de potencia intermedia, acción inmediata pero escasa duración, deshidratan y desnaturalizan proteínas. Usados como antisépticos cutáneos.
-    *   **Compuestos yodados**: derivados del yodo, desinfectantes de nivel medio, alteran proteínas y ácidos nucleicos. Rápidos, pero se inactivan con materia orgánica y corroen metales.
-    *   **Derivados del amonio cuaternario (cloruro de benzalconio)**: tensioactivos con acción bacteriana limitada, usados en limpieza.
-    *   **Biguanidas (clorhexidina)**: desinfectante y antiséptico de nivel intermedio, altera la membrana bacteriana. Rápido y duradero (hasta 6 horas). Se inactiva con aguas duras y jabones.
-    *   **Oxidantes (peróxido de hidrógeno)**: agua oxigenada, desinfectante de nivel intermedio (alto nivel en altas concentraciones). Desnaturaliza proteínas y enzimas. Acción corta, irrita piel y mucosas.
-    *   **Derivados del cloro (hipoclorito sódico)**: lejía, amplio espectro, desinfectante de nivel medio. Corrosivo, tóxico.
-    *   **Aldehídos (glutaraldehído y formaldehído)**: desinfectantes de alto nivel, alteran proteínas y ácidos nucleicos. Irritantes y tóxicos.
+En las ambulancias, la exposición a riesgos biológicos ocurre principalmente por:
+*   Vía aérea.
+*   Vía cutáneo-mucosa: Salpicaduras de sangre u otros fluidos corporales, pinchazos, mordeduras, cortes, etc.
 
-Los **procedimientos de limpieza y desinfección** deben seguir normas generales, como usar EPIs, lavarse las manos, uso de guantes, clasificación del material, limpieza húmeda (sin barrer), ventilación, uso de paños desechables y soluciones acuosas con detergente enzimático y lejía. Para la **camilla y tabla espinal**, se retira la sábana, se lava la superficie con solución detergente, se aclara y se aplica desinfectante, retirando o no según el tipo. El **material y equipos** se lavan y desinfectan con el producto adecuado y se secan. Los **criterios de verificación y acondicionamiento** incluyen preparar soluciones según fabricante, seguir protocolos de limpieza, realizar limpieza exterior periódica y eliminar residuos. Es vital mantener un registro de componentes y revisiones para asegurar la calidad.
+#### 3.2. Medidas Preventivas
+*   Evaluar los riesgos biológicos en el entorno laboral y planificar las acciones preventivas correspondientes.
+*   Señalizar los riesgos biológicos.
+*   Realizar una gestión adecuada de los residuos sanitarios (Grupos II, III y IV).
+*   Proporcionar formación e información a los trabajadores sobre estos riesgos.
+*   Implementar limpieza y desinfección exhaustiva de la ambulancia y de su equipamiento.
 
-## Enfermedades Transmisibles Relevantes en Emergencias
+##### 3.2.1. Precauciones Universales
+Estas precauciones constituyen una estrategia fundamental para prevenir la transmisión de microorganismos infecciosos. Se basan en considerar la sangre y otros fluidos corporales como potencialmente peligrosos e infecciosos. Es importante que el personal esté informado y comprenda la razón de estas precauciones.
 
-El personal sanitario se expone a diversas **enfermedades infecciosas** durante su labor. Las más significativas son la Hepatitis B y C, la Tuberculosis y el VIH.
+a) **Vacunaciones:** El personal sanitario está expuesto a múltiples riesgos biológicos (bacterias, virus, hongos) y debe contar con vacunas de prevención, como las de hepatitis B, varicela y tétanos.
 
-### Enfermedades Bacterianas
+b) **Normas de higiene personal:**
+*   Cubrir heridas y lesiones con apósitos impermeables.
+*   Evitar el contacto directo con pacientes si las heridas no pueden cubrirse.
+*   Lavarse las manos antes y después de cada jornada, y antes y después de cada procedimiento.
+*   No comer, beber ni fumar en el área de trabajo.
 
-*   La **meningitis meningocócica** es una grave infección bacteriana que afecta las membranas que cubren el cerebro y la médula espinal. Puede causar daños cerebrales severos y, si no se trata, es mortal en el 50% de los casos. Causada por bacterias como *Neisseria meningitidis*, se transmite de persona a persona a través de gotículas de secreciones respiratorias y faríngeas, pudiendo generar epidemias.
-*   La **tuberculosis**, provocada por la bacteria *Mycobacterium tuberculosis* o bacilo de Koch, afecta principalmente a los pulmones y puede ser fatal sin tratamiento.
-*   La **neumonía**, o pulmonía, es una infección viral que inflama las vías respiratorias (nariz, garganta, bronquios) y, ocasionalmente, los pulmones, por el desarrollo de microorganismos en los alvéolos. Se transmite por vía aérea, a través de la tos o los estornudos.
+c) **Elementos de protección barrera:** Se refiere a los equipos de protección individual, que son obligatorios al realizar actividades que impliquen contacto directo con sangre u otros fluidos corporales. Se incluyen:
+*   **Guantes:** Su uso es obligatorio en situaciones como:
+    *   Cuando el personal sanitario tenga heridas, lesiones o cortes.
+    *   Al realizar procedimientos invasivos.
+    *   Al entrar en contacto con piel y mucosas.
+    *   Al entrar en contacto con fluidos corporales.
+*   **Mascarillas:** Se emplearán cuando se prevean salpicaduras de sangre u otros fluidos, o con pacientes infecciosos.
+*   **Batas:** Se usarán en situaciones donde pueda haber contacto con sangre u otros fluidos y afectar la vestimenta del trabajador.
 
-### Enfermedades Víricas
+d) **Cuidado con objetos punzantes y cortantes:**
+*   Tomar precauciones durante la manipulación de este tipo de material, tanto antes como durante y después de su uso.
+*   Depositar los objetos punzantes y cortantes en contenedores especiales para su eliminación.
 
-*   Las **hepatitis B y C** son infecciones virales del hígado que causan inflamación. La **hepatitis B** se transmite por contacto sexual con una persona infectada, transfusiones de sangre contaminada, uso de agujas compartidas o de madre a hijo durante el embarazo, parto o lactancia. Los síntomas incluyen fiebre, ictericia (color amarillento de piel y ojos), náuseas, fatiga e inflamación hepática, pudiendo derivar en insuficiencia hepática, cirrosis o cáncer. Existe una vacuna eficaz para la Hepatitis B, a diferencia de la Hepatitis C.
-*   El **Virus de la Inmunodeficiencia Humana (VIH)**, perteneciente al grupo de los retrovirus, provoca el **Síndrome de Inmunodeficiencia Adquirida (SIDA)**. Este virus debilita el sistema inmunitario al destruir los linfocitos T4, células cruciales para la defensa. Aunque no hay vacuna, existe medicación efectiva. La transmisión se produce por contacto directo: relaciones sexuales, transfusiones de sangre, uso de agujas compartidas y de madre a hijo. En el ámbito extrahospitalario, el contagio puede ocurrir por cortes o pinchazos accidentales. Los síntomas varían con el estadio de la infección, pudiendo ser asintomáticos inicialmente y progresar a fatiga, malestar general, pérdida de peso, náuseas, fiebre, y, sin tratamiento, a infecciones respiratorias o digestivas.
-*   La **gripe** es una infección vírica que se transmite por vía aérea (tos, estornudos) y afecta principalmente a la nariz, la garganta, los bronquios y, en ocasiones, los pulmones, propagándose rápidamente en epidemias estacionales.
+e) **Desinfección y esterilización correcta de instrumental y superficies:**
+*   Limpiar y desinfectar las superficies potencialmente contaminadas.
+*   El producto de desinfección debe tener un amplio espectro de actividad, ser estable y de acción rápida e irreversible.
+*   Aplicar la técnica adecuada de desinfección o esterilización según el material o la superficie.
+*   Antes de desinfectar y esterilizar, realizar una limpieza exhaustiva.
+*   Consultar la FDS de cada desinfectante (ya que algunos son tóxicos para humanos) para aplicar las medidas preventivas adecuadas.
+*   Seguir las instrucciones del fabricante.
+
+### Parte 3. Urgencias Médicas: Capítulo 3
+
+#### 1. Enfermedades Bacterianas
+
+##### 1.1. Meningitis
+La meningitis meningocócica es una grave infección bacteriana que afecta las membranas que envuelven el cerebro y la médula espinal. Puede causar daño cerebral significativo y tiene una tasa de mortalidad del 50% en casos no tratados. Existen diversas bacterias causantes de meningitis, siendo *Neisseria meningitidis* una de ellas, capaz de generar grandes epidemias. La transmisión de la bacteria se produce entre personas mediante gotículas de secreciones respiratorias o de la garganta.
+
+##### 1.2. Tuberculosis
+La tuberculosis, o bacilo de Koch, es una enfermedad causada por la bacteria *Mycobacterium tuberculosis*. Estas bacterias generalmente afectan los pulmones. Sin un tratamiento adecuado, la tuberculosis puede ser fatal.
+
+##### 1.3. Neumonía
+La neumonía, o pulmonía, es una infección del tracto respiratorio donde microorganismos se desarrollan en el interior de los alvéolos, provocando inflamación y daño pulmonar. El contagio es por vía aérea, a través de la tos o estornudos, y tiende a propagarse rápidamente en epidemias estacionales.
+
+#### 2. Enfermedades Víricas
+
+##### 2.1. Hepatitis B y C
+La hepatitis B y C son infecciones virales que causan inflamación del hígado.
+La infección por hepatitis B puede transmitirse a través de:
+
+| Mecanismo de Transmisión del Virus de la Hepatitis B |
+| :---------------------------------------------------- |
+| Sangre y derivados orgánicos infectados              |
+| Transfusiones sanguíneas                             |
+| Agujas o jeringuillas compartidas                     |
+| Contacto sexual con una persona infectada            |
+| Tatuajes o acupuntura                                |
+| Contacto directo en situaciones de asistencia médica |
+| Agujas compartidas durante el consumo de drogas     |
+| Compartir objetos personales (cepillo de dientes, cuchillas de afeitar) con una persona infectada |
+
+Las vías de transmisión que no propagan la infección por hepatitis B son:
+*   Besos.
+*   Estornudos y tos.
+*   Hablar.
+
+Además, la transmisión de la hepatitis B puede ocurrir de la madre al bebé durante el parto (vía placentaria) si la madre está infectada.
+
+**Comparativa de Hepatitis B y C**
+
+| Patología    | Vacuna | Síntomas                                                | Complicaciones                                |
+| :----------- | :----- | :------------------------------------------------------ | :-------------------------------------------- |
+| HEPATITIS B  | Sí     | Fiebre, Ictericia (color amarillento), Náuseas, Fatiga, Inflamación del hígado | Insuficiencia hepática, Cirrosis hepática, Cáncer |
+| HEPATITIS C  | No     |                                                         |                                               |
+
+##### 2.2. VIH (Virus de la Inmunodeficiencia Humana)
+El Virus de la Inmunodeficiencia Humana (VIH) es el agente causal del Síndrome de Inmunodeficiencia Adquirida (SIDA). Este retrovirus ataca el sistema inmunológico, debilitando las defensas del organismo al destruir los linfocitos T4, células cruciales para la inmunidad. Actualmente no existe una vacuna, pero sí una medicación eficaz.
+
+El mecanismo de transmisión del VIH es por contacto directo:
+*   **Vía parenteral (sangre):** Transfusiones, uso de agujas o jeringuillas compartidas.
+*   **Contacto sexual:** A través del semen y las secreciones vaginales.
+*   **Vía placentaria (madre a hijo):** Durante el embarazo, el parto o la lactancia.
+
+En el ámbito extrahospitalario, el contagio suele ocurrir por cortes o pinchazos accidentales y por vía parenteral.
+
+Los síntomas de la infección por VIH varían según el estadio. Las fases iniciales pueden ser asintomáticas, pero a medida que el sistema inmunitario se debilita, pueden aparecer otros signos como cansancio, malestar generalizado, pérdida de peso, náuseas y fiebre. En ausencia de tratamiento, son comunes las infecciones respiratorias (neumonía) y digestivas (diarreas).
+
+##### 2.3. Gripe
+La gripe es una infección vírica de transmisión aérea, que afecta principalmente la nariz, la garganta, los bronquios y, en ocasiones, los pulmones. El virus se propaga fácilmente entre personas a través de microgotas y pequeñas partículas expulsadas al toser o estornudar, causando frecuentemente epidemias estacionales.

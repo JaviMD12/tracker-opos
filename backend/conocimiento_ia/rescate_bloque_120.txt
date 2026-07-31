@@ -1,69 +1,106 @@
-# Búsqueda y Rescate en Grandes Áreas: Caracterización y Técnicas de Intervención
+## Temario de Oposiciones de Bomberos y Emergencias: Rescate y Salvamento
 
-La gestión de emergencias que involucran la búsqueda y rescate de personas en grandes áreas requiere una aproximación sistemática y coordinada. Estas operaciones se desarrollan con el objetivo principal de localizar y salvaguardar la vida de individuos desaparecidos o extraviados en entornos complejos, que van desde zonas boscosas y montañosas hasta áreas urbanas densas y medios acuáticos. La eficacia de estas intervenciones depende fundamentalmente de la capacidad de los servicios de emergencia para recopilar información, delimitar zonas de actuación, desplegar recursos especializados y aplicar tácticas de búsqueda apropiadas.
+### PARTE 7: Rescate y Búsqueda en Grandes Áreas
 
-## Clasificación de Desapariciones
+#### Capítulo 5: Casos Prácticos
 
-En el contexto de la búsqueda y rescate, es crucial distinguir entre dos categorías principales de personas no localizadas, ya que cada una exige una estrategia de intervención diferente:
+##### 2. Aviso de Senderistas Desaparecidos en un Bosque
 
-*   Las personas **perdidas** son aquellas que, aunque desconocen su ubicación, mantienen algún tipo de contacto, generalmente telefónico, con los servicios de rescate o con un alertante. Esta conexión permite un intercambio de información que facilita su localización y guía.
-*   Por otro lado, las personas **desaparecidas** son aquellas de las que no se tiene noticia ni contacto, lo que implica un proceso de investigación más complejo para determinar su paradero y la existencia o no de una situación de riesgo vital.
+**a) Planteamiento de la Intervención**
 
-La distinción entre estos dos escenarios es vital, ya que la intervención en un caso de desaparición implica un despliegue operativo técnico y humano de gran envergadura, a menudo sin una evidencia inicial de peligro, lo que subraya la importancia de un protocolo de búsqueda sistemática y organizada.
+El 10 de agosto, a las 21:30 horas, se recibió en el parque de bomberos una alerta del 112. La Guardia Civil solicitó colaboración tras la denuncia del encargado de un camping en el término municipal de Orea, Guadalajara. Dos familias alojadas en el camping salieron por la mañana a realizar una ruta senderista y no habían regresado. Llevaban únicamente bocadillos, ya que tenían comida reservada en el camping. A las 17:30 horas, al no tener noticias y no poder localizarlos por teléfono móvil, la Guardia Civil realizó una inspección inicial de la zona. Varias horas después, sin resultados, la Guardia Civil avisó al 112 para extender la búsqueda a otros servicios. El cabo jefe de dotación (J0) fue notificado y contactó con el 112 para ampliar la información, siendo puesto en contacto con el encargado del camping.
 
-## Determinación del Área de Búsqueda
+**I. Recopilación de Información**
 
-La fase inicial y más crítica de cualquier operación de búsqueda es la determinación precisa del **área de búsqueda**. Esta área se define como la superficie geográfica donde se presume la posible localización de la persona desaparecida, basándose en los datos disponibles sobre la víctima, sus últimos movimientos y las características del terreno. Esta delimitación inicial puede ser modificada o ampliada a medida que surjan nuevos indicios.
+*   **Información previa:** Las familias llevaban 10 horas desaparecidas desde su salida del camping en Orea, en una ruta senderista. El paisaje predominante era serranía con abundante masa forestal.
+*   **Información obtenida de la entrevista con el personal del camping:**
+    *   **Composición de las familias:** Dos parejas de adultos y tres niños de 10, 8 y 5 años. Uno de los niños padecía asma.
+    *   **Vestimenta:** Ropa ligera, pantalón corto y camiseta.
+    *   **Equipo:** Mochilas con contenido desconocido, a excepción de bocadillos.
+    *   **Ruta:** Habían consultado varias rutas de senderismo y se creía que se dirigían hacia el río de la Hoz Seca.
+    *   **Contacto telefónico:** Intentaron llamar, pero los teléfonos daban “apagado o fuera de cobertura”.
+    *   **Descripción de la zona por el alertante:** Boscosa, orografía complicada, climatología extrema, con una gran amplitud térmica entre el día y la noche.
+    *   **Condiciones meteorológicas actuales:** Tiempo anticiclónico, agradable (aproximadamente 23º C). Se preveía un descenso de la temperatura durante la noche.
+    *   **Participación de familiares:** Varios familiares se habían desplazado al lugar y se encontraban realizando la búsqueda.
+    *   **Historial de desapariciones:** No existían registros previos de desapariciones en la zona.
+*   **Confección de la ficha de búsqueda:** Se completó a las 12:40 horas.
 
-Existen varios **métodos para delimitar el área de búsqueda**, cada uno con sus propias características y aplicaciones:
+**b) Valoración de la Situación**
 
-1.  **Método Teórico:** Este enfoque se basa en la **última localización conocida (ULC)** de la persona. A partir de la ULC, se estima el avance máximo que la persona podría haber realizado en línea recta, considerando su edad y capacidades físicas durante el tiempo transcurrido desde su desaparición. Esta distancia se utiliza como radio para trazar una circunferencia en el mapa alrededor de la ULC, definiendo así el área inicial de búsqueda, sin tener en cuenta las particularidades orográficas del entorno.
-2.  **Método Estadístico:** Este método emplea patrones de comportamiento esperados de personas desaparecidas, derivados de análisis estadísticos de casos anteriores con perfiles similares (edad, condición física, perfil psicológico). Permite estimar distancias de alejamiento desde la ULC con diferentes grados de probabilidad (D50, D75, D99), lo que ayuda a priorizar sectores de búsqueda con mayor potencial de hallazgo. Por ejemplo, en el caso de un niño de 6 años, la distancia máxima esperada de alejamiento (D99) podría ser de 2,7 km, mientras que para un adulto de 18 años o más, esta distancia podría extenderse hasta los 24 km, si bien la presencia de niños puede reducir este valor.
-3.  **Método Subjetivo:** En situaciones donde la precisión de la ULC es incierta, el director de la búsqueda establece el área y los sectores basándose en su experiencia, conocimiento del terreno y los datos del caso.
-4.  **Método de Mattson:** Este método combina el enfoque subjetivo con una variable de probabilidad. El área se subdivide en sectores, y a cada uno se le asigna un porcentaje de probabilidad de hallazgo por parte de los miembros del equipo de intervención. La suma de estos porcentajes debe ser del 100%, y el porcentaje medio resultante para cada sector establece la prioridad.
-5.  **Método Combinado:** Para maximizar la eficacia, se pueden integrar varios métodos. Por ejemplo, se puede iniciar con el método estadístico para definir los perímetros D50, D75 y D99, y luego incorporar elementos de otros métodos para refinar la búsqueda.
+**I. Establecimiento del Área de Búsqueda**
 
-### Indicios y Rastros en la Búsqueda
+Se utilizó un plano a escala 1:25.000 de la zona y las estadísticas de hallazgos para perfiles similares. El Punto de Última Localización Conocida (ULC) se estableció donde se encontró la mochila.
+*   **Distancia máxima de búsqueda según estadísticas (radio):**
+    *   Para niños menores de 5 años (D99): 2,7 km.
+    *   Para adultos: 24 km.
+    *   Se estimó una distancia menor para los adultos debido a la presencia de los niños.
+*   **Hipótesis de área de búsqueda adoptadas:**
+    *   D99: 4,4 km (correspondiente al D75 de adultos).
+    *   D75: 3,5 km (correspondiente al D75 de niños de 7 a 12 años).
 
-La persona extraviada deja señales en el entorno que pueden ser cruciales para su localización. Estos **rastros o indicios** se clasifican en:
+**II. Primera Sectorización**
 
-1.  **Indicios Físicos:** Son huellas evidentes en el terreno. Pueden ser:
-    *   **Voluntarios:** Aquellos que la víctima deja intencionadamente, como piedras apiladas o mensajes escritos, confiando en ser buscada.
-    *   **Involuntarios:** Huellas de calzado, ramas rotas, mechones de pelo, o hierba aplastada, generadas por la actividad normal del movimiento. La visibilidad y persistencia de estos indicios varían según el tipo de terreno (húmedo, arenoso, etc.) y las condiciones meteorológicas. Es fundamental distinguir las huellas de la víctima de las de los rescatadores o animales.
-2.  **Indicios Químicos:** Corresponden a rastros de olor corporal (sudor, aliento, orina, etc.). Los perros de búsqueda son entrenados para detectar estas partículas químicas que el viento transporta.
-3.  **Indicios Sociales o Tecnológicos:** Se derivan de testimonios de testigos (**antrópicos**), obtenidos mediante interrogatorio activo o pasivo, o de datos generados por el uso de tecnologías como la telefonía móvil, redes sociales, cajeros automáticos o cámaras de seguridad pública. Los programas de localización de teléfonos móviles y las aplicaciones de geolocalización son herramientas muy útiles para determinar la ubicación del usuario con gran precisión, siempre que el terminal tenga cobertura de datos o haya sido configurado previamente.
+Una vez localizada y calculada el área de búsqueda en el plano, el Jefe de Operaciones (J0) realizó una primera sectorización para una búsqueda probabilística a lo largo de los caminos que rodeaban el camping hasta el punto D99. Se empleó el programa BaseCamp para:
+*   **Posicionar el plano:** Ubicar el área de búsqueda, con apoyo de Emercarto o mapas topográficos para extraer coordenadas precisas.
+*   **Creación de "tracks":** Dibujar el perímetro del sector de búsqueda punto a punto con el botón izquierdo del ratón, y cerrarlo con el derecho.
+*   **Ventana de "track":** Modificar el nombre y color de la línea. Visualizar la distancia del recorrido y la superficie del sector creado.
+*   **Numeración de sectores:** Identificar los sectores con la inicial “P” (probabilística) seguida de un número que indica el orden de prioridad.
+*   **Envío de información:** Los sectores diseñados se enviaron por correo electrónico al parque de bomberos. El Cabo Jefe de Dotación (CJD) los descargó e introdujo en dos dispositivos GPS de su base, partiendo con el vehículo Bomba Rural Pesada (BRP) y el Todo Terreno (TT).
+*   **Colaboración con Guardia Civil:** El mismo gráfico se envió a la Guardia Civil, quienes cotejaron sus registros de búsqueda. Se determinó que, si no existía certeza absoluta de rastreo en cada camino, se volvería a realizar la operación.
 
-Un método de búsqueda adicional es la localización de "**trampas de ruta**", que consiste en identificar trayectos lógicos o lugares de paso obligado (puentes, vados, crestas, refugios) donde es probable encontrar indicios del sujeto.
+**c) Intervención**
 
-## Estrategias y Fases de Intervención en Búsqueda de Personas
+**I. Primera Búsqueda Probabilística (Fase 1)**
 
-Una intervención de búsqueda se estructura en distintas fases para garantizar la eficiencia y seguridad de la operación.
+Mientras la dotación se desplazaba a la zona de intervención, se llevó a cabo una segunda sectorización y la planificación de la búsqueda sistemática para el día siguiente. La Guardia Civil informó de despliegues rápidos en todos los caminos, con tres parejas en vehículos todo terreno, de las cuales solo dos estarían disponibles para esa noche.
 
-### Movilización y Recopilación de Información
+**Decisiones para la noche y organización del día siguiente:**
+*   **Acotación de caminos:** Se colocaron balizas en la salida del punto D99.
+*   **Búsqueda sistemática:** Se rastrearon los sectores P1 a P11, cubriendo la pista y 30 metros a cada lado. Se utilizaron recursos del parque receptor, Guardia Civil y un vehículo de voluntarios (un bombero, dos familiares, el alcalde y un empleado del camping).
+*   **Reparto de sectores por vehículo:**
+    *   Vehículo 1: Sectores P1, P4 y P6.
+    *   Vehículo 2: Sectores P2, P10 y P11.
+    *   Vehículo 3: Sectores P3, P7 y P9.
+    *   Vehículo 4: Sectores P8 y P5.
+*   **Acciones al final del área de búsqueda:** Al llegar al final de cada camino, se colocó una cinta de balizar de la Guardia Civil o Bomberos, debidamente señalizada. Si era posible, se dejó una copia de la ficha de búsqueda en un lugar visible, solicitando a los desaparecidos que esperaran allí y dejando agua o alimentos (barritas energéticas).
 
-La movilización comienza con la **recepción del aviso**, generalmente a través de un centro de coordinación de emergencias. En esta etapa, se recopila toda la información posible: tipo de siniestro, localización (coordenadas, descripción), número y estado de personas afectadas, bienes en peligro y otros riesgos. Es esencial verificar el Último Lugar Conocido (ULC) y solicitar la presencia de medios sanitarios y fuerzas del orden.
+**II. Segunda Sectorización**
 
-Tras la recepción del aviso, se procede a la **movilización al siniestro**. El jefe de dotación comunica el aviso al jefe de guardia, quien confirma o modifica el tren de salida y coordina con el telemando de la compañía para obtener datos actualizados del siniestro. Se movilizan refuerzos internos y externos si son necesarios. Al llegar al lugar, se establece un punto de encuentro con el personal de mantenimiento o el alertante para confirmar la información y preparar el material de rescate, que incluirá herramientas, material de altura (cuerda semiestática y dinámica), y equipo para la víctima (camilla, casco, botiquín).
+A las 13:45, llegaron los Bomberos 3 y 4 de Azuqueca con equipo de búsqueda y montaron el Puesto de Mando Avanzado (PMA). A las 13:55, el J0 llegó y realizó un reconocimiento rápido de la zona. A las 14:20, se procedió a la sectorización para la búsqueda sistemática en Fase 2, considerando las siguientes hipótesis y prioridades:
+*   **Hipótesis delictiva:** Se investigaba la posibilidad de una desaparición por acto delictivo por parte de las Fuerzas del Orden. El Cuerpo de Bomberos se centró en la opción de rescate por desaparición accidental.
+*   **Hipótesis iniciales:** Las hipótesis planteadas inicialmente no se descartaron, por lo que los equipos de búsqueda probabilística se mantuvieron hasta finalizar los sectores planificados.
+*   **Personal adicional:** Si se conseguía personal adicional, se podrían formar 5 o 6 equipos de búsqueda sistemática en el pinar, considerado área prioritaria, en un radio de 3,5 kilómetros desde el ULC (D75), conforme al protocolo de búsqueda sistemática en Fase 2.
+*   **Ubicación de los primeros sectores:** Se situaron al norte del camino forestal de Barbatona a Sigüenza. Se diseñaron en BaseCamp sectores de aproximadamente 50 hectáreas, con la posibilidad de subdividirlos o unirlos según la maniobra.
 
-### Valoración y Planificación de la Búsqueda
+**III. Planificación y Movilización de Medios**
 
-La **valoración inicial del entorno y del siniestro** es continua y dinámica, adaptándose a los cambios en el escenario. Se analizan factores como el tipo de fondo, la temperatura del agua, la profundidad, la distancia a la orilla, las corrientes, el tiempo transcurrido bajo el agua para los accidentados, las condiciones meteorológicas, la visibilidad y el tráfico marítimo.
+Se contaba con capacidad para gestionar entre 5 y 6 equipos, lo que implicaba movilizar entre 25 y 54 personas, además de los bomberos.
+*   **Personal disponible:** La Guardia Civil y la Policía Local solo podían aportar personal para la búsqueda probabilística.
+*   **Monitores:** Informaron que los que ya habían liberado de sus tareas de cuidado en el camping estaban buscando, y que un grupo de jóvenes y más adultos podían incorporarse a la búsqueda.
+*   **Familiares:** La familia podía aportar 8 personas.
+*   **Ayuntamiento de Sigüenza:** El alcalde envió 6 personas y realizó una convocatoria ciudadana para el día siguiente. Se solicitó ampliar la convocatoria al delegado de Protección Civil de la JCCM para preparar personal de ONGs.
+*   **Convocatoria en Barbatona (16:00 horas):**
+    *   1 cabo y 5 Bomberos.
+    *   14 jóvenes de un campamento cercano.
+    *   6 empleados del Ayuntamiento.
+    *   8 familiares de la niña.
+    *   3 miembros del Servicio de Salud.
+*   **Conformación de equipos (total 37 personas):** Se decidió trabajar con cuatro equipos, dos de 8 personas y dos de 9. En los equipos de 8, dos bomberos participarían. Los 3 sanitarios permanecieron en el PMA como grupo sanitario.
 
-El **plan de acción** se elabora considerando estos factores, con un objetivo claro y definido para cada inmersión, que puede incluir la localización o elevación de víctimas, y la atención sanitaria si es necesaria. Se establece una zonificación de la zona de trabajo en caliente, templada y fría, y se señaliza adecuadamente para garantizar la seguridad de los intervinientes. Además, se controlan riesgos inminentes como vertidos, inestabilidad de estructuras o embarcaciones.
+**IV. Primera Búsqueda Sistemática (Fase 2)**
 
-### Ejecución de la Búsqueda
+A las 16:00 horas, se realizó la recepción del personal participante, se entregó material, se dieron instrucciones y se procedió a la salida para rastrear cada uno de los sectores.
 
-La ejecución se realiza con equipos de buceadores de fondo y de apoyo en superficie. Los buceadores utilizan **patrones de búsqueda** específicos:
+**d) Fin de la Intervención**
 
-*   **Búsqueda por barrido**: Realizada desde la orilla o un embarcadero, el buceador traza desplazamientos recorriendo el espacio marcado entre dos cabos de referencia. El cabo guía se mantiene tenso y la comunicación entre buceador y orilla es constante.
-*   **Búsqueda en paralelo**: Ideal para zonas amplias y libres de obstáculos cerca de la orilla. El buceador y el encargado del cabo se mueven paralelamente, marcando una franja a recorrer.
-*   **Búsqueda circular**: La más sencilla para zonas pequeñas, sin grandes desniveles ni corrientes fuertes. Se gira sobre un cabo anclado a una boya (ULC) utilizando un cabo guía. Los círculos se van abriendo progresivamente hasta un máximo de treinta metros de diámetro, manteniendo el cabo tenso y apoyándose en una sirga de un metro en condiciones de baja visibilidad.
-*   **Búsqueda con planeador**: Una embarcación arrastra un planeador submarino manejado por un buceador, que utiliza timones para ascender o descender y evitar obstáculos. Requiere al menos dos buceadores y una visibilidad mínima de nueve metros.
+**I. Localización de Víctima y Fin de Búsqueda**
 
-Durante la inmersión, las **comunicaciones** son esenciales. Las señales de buceo son obligatorias y comunes a nivel mundial, aunque pueden variar regionalmente. Se distinguen señales con visibilidad (manos), en buceo nocturno (linternas) y con visibilidad nula (tirones de cuerda). Es fundamental que todos los buceadores las conozcan y las repitan para confirmar su recepción.
+A las 16:45, a través de la policía local que participaba en la búsqueda probabilística, se recibió información en el PMA: la niña perdida había sido hallada. Estaba bien, había llegado a Sigüenza por carretera y entró en una gasolinera a pedir auxilio. Se había quedado rezagada y, al verse sola, decidió regresar por la orilla de la carretera.
 
-### Finalización de la Intervención y Tareas Post-Rescate
+Se trasladó a Sigüenza a uno de los familiares para confirmar y reconocer la identidad de la niña. Una vez confirmada, se informó a todos los participantes y se declaró el fin de la búsqueda. Se verificó el regreso de todos y la limpieza del entorno del PMA.
 
-Una vez concluida la búsqueda, ya sea por localización de la víctima o agotamiento de hipótesis, se procede a la **desmovilización** y **restitución a la normalidad**. Esto incluye recoger el equipo, analizar la operación, informar a los familiares y, si es necesario, transferir la víctima a los servicios sanitarios. La documentación generada durante el rescate (informes, tracks de GPS, fichas de filiación) se archiva para elaborar estadísticas y revisar los protocolos de actuación.
+Una vez que todo el personal y voluntarios abandonaron la zona, se desmovilizó el Grupo Sanitario y todas las dotaciones de Bomberos. La dotación del Parque de Molina fue la primera en salir, seguida por la de refuerzo, y la última fue la de la zona de actuación (siempre que no se produjera un aviso).
 
-En caso de que la búsqueda se prolongue sin resultados positivos y se agoten las hipótesis iniciales, el mando operativo puede declarar el fin de la búsqueda o prorrogar la fase de búsqueda sistemática, movilizando recursos adicionales si es necesario. Es crucial que la información se gestione de manera continua y se reevalúe constantemente para adaptar el plan de acción a las nuevas circunstancias.
+**II. Trabajos Post Intervención**
+
+En los respectivos parques, cada dotación elaboró su parte de intervención, incluyendo horas de salida y llegada al parque, y las actividades realizadas. El jefe de guardia elaboró el parte de intervención general, integrando todas las actuaciones e incidencias. La documentación física de la búsqueda se traspasó al archivo de búsquedas.

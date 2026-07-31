@@ -1,5 +1,5 @@
-import openai
 from fastapi import APIRouter, Depends, HTTPException
+from google.genai.errors import APIError
 from sqlalchemy.orm import Session
 
 from app.database import get_db
@@ -29,7 +29,7 @@ def analizar_plaza(
             titulo_plaza=convocatoria.titulo_plaza,
             requisitos_minimos=convocatoria.requisitos_minimos or "No especificados",
         )
-    except openai.OpenAIError as exc:
+    except APIError as exc:
         raise HTTPException(
             status_code=502,
             detail=f"El tutor IA no esta disponible ahora mismo: {exc}",

@@ -1,11 +1,76 @@
-## Estructuras Básicas y Materiales de Edificación: Una Perspectiva para Opositores a Bombero
+## Temario de Oposiciones de Bomberos y Emergencias: Edificaciones
 
-La comprensión de la **edificación** y sus componentes es fundamental para la actuación en emergencias. La Real Academia Española define edificación como una construcción fija, elaborada con materiales resistentes, destinada a la habitación humana u otros usos. Para los servicios de bomberos, esto implica un conocimiento básico tanto de las características de diseño (normativa) como de la ejecución (sistemas constructivos y materiales) de los edificios donde se intervendrá.
+### PARTE 1: EDIFICACIONES
 
-### I. Conceptos Físicos Aplicados a la Edificación
+#### Capítulo 1. Caracterización
 
-El comportamiento de una edificación bajo carga se rige por principios físicos esenciales:
+##### 10. Patología en la Edificación
 
-#### 1. Fuerza
-La **fuerza** es una magnitud vectorial que esquematiza las interacciones entre cuerpos, representando la acción que uno sufre o ejerce sobre otro. Se calcula como el producto de la masa por la aceleración (F = m · a). Sus atributos clave son el módulo (magnitud), la dirección, el sentido y el punto de aplicación. En el Sistema Internacional (SI), la fuerza se cuantifica en **Newtons (N)**, equivalentes a kg·m/s².
-Las leyes de Newton rigen las fuerzas en la mecánica. La **Primera Ley de Newton**, o principio de inercia, establece que un cuerpo mantiene su estado de reposo o movimiento uniforme y rectilíneo a menos que actúe una fuerza externa. La **Segunda Ley de Newton** indica que la suma de fuerzas sobre un cuerpo es
+###### 10.2. Tipos de Patologías
+
+**10.2.1. Patologías por Causas Constructivas**
+
+Las lesiones no accidentales en edificaciones se originan por la interacción de tres factores principales: el agua, el terreno y las propiedades de los elementos constructivos (geometría, rigidez, materiales). La patología relacionada con el agua se aborda de forma independiente, mientras que las del terreno y las propiedades constructivas se analizan conjuntamente.
+
+**a) Agua**
+
+Las “humedades” representan una patología significativa, definida como la presencia de agua no deseada en los materiales o en niveles superiores al equilibrio hídrico ambiental. Los materiales buscan naturalmente este equilibrio mediante mecanismos de intercambio de agua (captación o cesión):
+
+*   **Relacionados con agua líquida:** Succión y absorción.
+*   **Relacionados con vapor de agua:** Adsorción, difusión y evaporación.
+
+Las humedades impactan la durabilidad de los elementos constructivos (corrosión, disgregación, pudrición) y pueden generar o agravar procesos patológicos.
+
+**Tipos de Humedades por Origen:**
+
+*   **Humedades de origen natural:**
+    *   **Procedentes del terreno:**
+        *   **Humedad capilar:** Agua del terreno asciende por la red de capilares en muros y tabiques de sótanos y plantas bajas. Su altura, tamaño y forma dependen de la naturaleza del material (porcentaje de capilares) y la presión atmosférica. Es común en edificaciones antiguas, con una relación directa entre la antigüedad y los efectos de la humedad, debido a la porosidad de los materiales.
+        *   **Humedad freática:** Asociada a cambios hidráulicos del terreno (ej. lluvias intensas) que elevan el nivel freático, causando humedades graves en el interior de edificaciones sin impermeabilización adecuada.
+        *   **Distinción capilares vs. freáticas:** Las humedades freáticas afectan elementos constructivos en cerramientos de plantas bajo rasante, mientras que las capilares afectan elementos en contacto con el terreno, tanto bajo rasante como en cerramientos exteriores e interiores.
+    *   **Ambientales:**
+        *   **Humedad de filtración:** Producida por fenómenos meteorológicos (lluvia, nieve) sobre cubiertas. Se manifiesta inicialmente como manchas de humedad en techos y partes altas de paramentos verticales, con otras manifestaciones secundarias. Se difunden por capilaridad, pero descienden por gravedad.
+        *   **Humedad de condensación:** Causada por el cambio de estado del vapor de agua en el aire, que se produce sobre superficies interiores (condensación superficial) o dentro de paramentos (condensación intersticial). La temperatura de condensación (punto de rocío) es clave. La condensación ocurre en puntos fríos (ventanas, juntas, cámaras de aire) debido al aumento de vapor de agua o descenso de temperatura.
+
+*   **Humedades de origen antrópico:**
+    *   **De obra:** El agua usada en la fase de construcción debe evaporarse hasta alcanzar la humedad de equilibrio, lo que puede llevar periodos prolongados.
+    *   **Accidentales:** Producidas por fallos o roturas de conductos de agua (calefacción, saneamiento, sanitario) empotrados en muros, tabiques, falsos techos o enterrados. Si no se reparan, el agua penetra y se extiende por capilaridad, dificultando la observación directa y el mantenimiento.
+
+**b) Terreno y Calidad de los Elementos Constructivos**
+
+La combinación de factores del terreno y la calidad constructiva del edificio genera la categoría más amplia e importante de patologías. El problema se reduce a una variación sustancial en la distribución de cargas y tensiones, que produce desequilibrios y puede llevar al colapso si los elementos constructivos no pueden absorberlos.
+
+Según el esfuerzo tensional o movimiento provocado, se distinguen cinco tipologías de patologías:
+
+*   **Adaptación o encaje:**
+    *   **Definición:** Lesiones generadas tras la construcción o rehabilitación por acoplamiento de macizos o asiento relativo entre materiales, o adaptación del plano de asiento.
+    *   **Causas:** Acoplamiento de macizos, asiento relativo entre materiales, adaptación del plano de asiento.
+    *   **Tipologías de lesiones por adaptación:**
+        *   **Lesiones por encaje:** Asentamiento relativo entre materiales de un mismo elemento constructivo. Los dos casos más comunes son:
+            *   **Muros de carga:** Mortero excesivo en muros de fábrica.
+            *   **Rehabilitaciones:** Conexión incorrecta entre elementos antiguos y nuevos.
+        *   **Lesiones por asiento inicial de terreno:** Adaptación de terrenos blandos tras la finalización de la obra o por sobrecarga durante su vida útil.
+
+*   **Cedimiento o hundimiento:**
+    *   **Definición:** Lesiones en la edificación por construcción inicial o rehabilitación, causadas por el descenso de la cimentación o deformación excesiva del terreno.
+    *   **Causas:**
+        *   **Flechas excesivas en elementos horizontales** que soportan uno vertical (vigas, forjados), como fallos por flexión, cortante o punzonamiento.
+        *   **Descenso de cimentación por hundimiento o deformación excesiva del terreno, debido a:**
+            *   Mala elección del terreno de cimentación.
+            *   Fallos de proyecto en la elección del plano de asiento o cálculo de la cimentación.
+            *   Fallos en la ejecución de la obra.
+            *   Cambios imprevistos en las características del suelo (ej. rotura de colector, excavaciones cercanas).
+            *   Aumento de cargas de servicio.
+        *   **Suelos expansivos/arcillas expansivas:** Terrenos arcillosos con montmorillonita y vermiculita que cambian de volumen por variaciones de humedad (retracciones por desecación, hinchamientos por adición de agua). Un terreno expansivo es peligroso si le falta agua. La expansividad es mayor en la capa más alta, disminuyendo con la profundidad. En España, las arcillas expansivas debajo de -2.50 m no suelen ser un problema. La carga inferior a la presión de hinchamiento y construcción en época seca puede causar hinchazón y elevación de la edificación en época de lluvia, con grietas que se reducen en sequía. Un movimiento diferencial significativo entre el centro y el borde del edificio puede causar ruina.
+            *   **Grietas verticales e inclinadas:** La alternancia de arrufos (hinchazones) y quebrantos (hundimientos) según la estación genera movimientos en la construcción, produciendo grietas verticales e inclinadas.
+            *   **Nudos estructurales:** Los nudos rígidos (empotramientos) son especialmente susceptibles en arcillas expansivas debido al asiento diferencial de la cimentación.
+            *   **Manifestaciones de deformaciones por hundimiento de un apoyo:** Generan momentos (compresión, tracción) y grietas en la parte baja del apoyo que cede y en la parte alta del opuesto (por tracción o insuficiencia de armadura), o grietas en la parte alta del apoyo que cede y en la parte baja del opuesto (por compresión o insuficiencia de sección de hormigón).
+
+**III. Aplastamiento**
+
+*   **Definición:** Reducción de los materiales a partículas mínimas, perdiendo cohesión y propiedades mecánicas, causada por el exceso de compresión admisible en elementos estructurales verticales.
+*   **Fases diferenciadas:**
+    1.  **Disgregación de morteros:**
+        *   **Causas:** Exceso de carga, morteros defectuosos, empleo de materiales de derribo, factores climáticos adversos, vejez.
+    2.  **Rotura de materiales pétreos o cerámicos:**
+        *   **Causas:** Rotura simultánea o posterior a la disgregación del mortero, rotura sin disgregación previa, deficiencias en la estructura mural, cochura insuficiente.

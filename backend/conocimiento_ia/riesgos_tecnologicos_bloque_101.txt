@@ -1,64 +1,204 @@
-## Evaluación de Patologías Estructurales y Técnicas de Intervención para Bomberos
+### Caracterización del Riesgo Eléctrico y sus Efectos Biológicos
 
-La intervención en situaciones de emergencia que afectan a edificaciones colapsadas o en riesgo requiere un conocimiento profundo de las patologías estructurales y las técnicas de estabilización, así como de las herramientas y normativas aplicables. Los cuerpos de bomberos deben estar preparados para identificar riesgos, evaluar el estado de las estructuras y aplicar soluciones eficaces para garantizar la seguridad de las víctimas e intervinientes.
+**Página 423**
 
-### I. Patologías Estructurales en Edificaciones
+La respuesta del organismo humano a la electricidad se ve influenciada por una serie de factores, como las condiciones fisiológicas de la piel (su grosor y dureza), la tensión y presión del contacto, la superficie de contacto, el recorrido de la corriente a través del cuerpo y el estado fisiológico general del individuo.
 
-Las patologías que pueden afectar a una edificación se clasifican generalmente en aquellas vinculadas al terreno y la calidad constructiva, y las causadas por accidentes como sismos o incendios.
+La piel actúa como un aislante natural frente al entorno, ofreciendo una resistencia específica al paso de la corriente eléctrica. Los tejidos internos del cuerpo, como la dermis y la epidermis, son malos conductores y se comportan como un condensador. La resistencia de la piel es superior ante la corriente continua (CC) en comparación con la corriente alterna (CA). Si se eliminan los valores extremos o anómalos, la resistencia cutánea en condiciones normales varía entre 1.000 y 100.000 ohmios.
 
-#### A. Patologías Asociadas al Terreno y la Calidad Constructiva
+A modo de referencia, la resistencia media del cuerpo humano a una frecuencia de 50 Hz se estima en:
+*   1.600 ohmios en un ambiente seco.
+*   800 ohmios en un ambiente húmedo.
+*   200 ohmios si el cuerpo está sumergido en agua.
 
-Estas patologías se manifiestan como fisuras y grietas resultantes de procesos de **adaptación o encaje**, **cedimiento o hundimiento**, o **problemas relacionados con el terreno**.
-Las **fisuras por adaptación o encaje** suelen aparecer en los puntos más débiles de los cerramientos, como los huecos de puertas y ventanas, esquinas, o enjarjes de muros. Generalmente, surgen poco después de la construcción y no progresan una vez que la estructura se ha estabilizado, lo que significa que rara vez requieren una intervención urgente por parte de los bomberos.
+Para los bomberos, las condiciones de trabajo suelen ser extremas, con una resistencia corporal a menudo inferior a 1.000 ohmios debido a la sudoración inducida por el Equipo de Protección Individual (EPI). La presión en el punto de contacto también influye negativamente en la resistencia. En baja tensión (BT), un contacto puntiforme genera una alta densidad de corriente en la piel; si la resistencia cutánea falla debido a quemaduras, solo queda la resistencia de los tejidos internos.
 
-Por otro lado, el **cedimiento o hundimiento** del terreno genera grietas debido a una alteración en la distribución de las cargas. En el caso de **estructuras adinteladas**, como muros de carga sobre cimentaciones corridas, se observan grietas parabólicas; estas pueden ser primarias, ubicadas en la parte superior del muro, o secundarias, conocidas como grietas homólogas. La flecha de estas grietas puede alcanzar un tercio de la luz, mientras que la luz depende directamente de la longitud del primer plano de asiento. En muros sin huecos, las grietas parabólicas tienen su vértice en la zona de mayor cedimiento, y en muros con huecos, se concentran alrededor de estos vanos. Para **estructuras reticuladas**, compuestas por pilares sobre zapatas aisladas, las grietas suelen ser rectilíneas y sinuosas, con una tendencia vertical, más anchas en la parte superior y que nacen a una altura específica sobre la línea de tierra; en este tipo de estructuras, los huecos de las fachadas, al ser los puntos más débiles, son donde las grietas se originan y se ensanchan. Según la zona de cedimiento, se distingue el **arrufo**, si es central, y el **quebranto**, si es lateral, siendo parcial si afecta a una esquina o total si abarca todas. Las grietas por quebrantos en las esquinas pueden ser horizontales cerca del suelo o tener una forma de "S" estilizada.
+Según la Ley de Ohm, con una tensión de 220 V y una resistencia corporal de 1.000 ohmios en un ambiente húmedo, la intensidad que circularía por el cuerpo sería de 22 mA, un valor considerablemente superior al umbral de seguridad de 30 mA. Esto implica un riesgo muy alto de accidente con peligro de muerte.
 
-Las **arcillas expansivas** constituyen otro problema del terreno, ya que sus variaciones de volumen debidas a la humedad pueden causar hundimientos, hinchazones y empujes horizontales. Esto se manifiesta con grietas verticales e inclinadas, y los nudos estructurales rígidos (empotramientos) resultan particularmente vulnerables al asiento diferencial. Asimismo, los **problemas en las raíces** de los árboles, provocados por acciones humanas como obras o excavaciones, o por causas naturales como hongos o sequías, pueden comprometer la estabilidad estructural, evidenciándose por una copa poco vigorosa o ramas muertas en el árbol. El crecimiento de las raíces puede generar empujes de compresión que abren grietas longitudinales escalonadas en los muros cercanos a la cimentación, mientras que la deshidratación del terreno puede reducir su volumen, causando cedimientos que se manifiestan como grietas parabólicas invertidas.
+El cuadro de Dalziel (Iberdrola, 2007) ilustra los efectos que la corriente puede producir en el organismo en función de la resistencia para diversas tensiones. Esta tabla, aunque general, revela que la resistencia a la electricidad varía entre individuos. Las personas enfermas, con lesiones cutáneas o con debilidad constitucional, presentan una resistencia disminuida. Incluso individuos sanos pueden ser vulnerables si están hambrientos, con sueño, sedientos, fatigados o preocupados. La misma corriente que no causó daño en una situación puede ser mortal en otra.
 
-#### B. Patologías por Causas Accidentales
+**4.3. Tensión de Seguridad**
 
-Entre las patologías más críticas se encuentran las causadas por **sismos** e **incendios**, que pueden generar daños extensos y repentinos en las estructuras.
+La tensión de seguridad (UL) se define como el valor por debajo del cual no existe peligro para las personas. La Norma Española UNE 20460 establece los siguientes límites para corriente alterna, según las condiciones del entorno:
+*   50 V para locales secos.
+*   25 V para locales húmedos.
+*   12 V para locales mojados o trabajos exteriores.
 
-1.  **Sismos y sus Efectos en Edificaciones**
-    Los terremotos, comúnmente originados por la ruptura de fallas geológicas, o secundariamente por fricción de placas tectónicas, procesos volcánicos e incluso actividades humanas, liberan energía en forma de ondas sísmicas que se propagan, provocando efectos diversos en el terreno y las edificaciones.
-    En el **terreno**, un sismo puede causar **desplazamientos de tierras**, donde un estrato se desliza sobre otro, y **licuefacción del terreno**, un fenómeno en el que suelos granulares no cohesivos se comportan como líquidos. Los síntomas de licuefacción incluyen la pérdida de verticalidad de la edificación, el afloramiento de fango y lodo en forma de "volcanes", y a nivel microscópico, se produce un distanciamiento y desplazamiento libre de partículas del suelo. Macroscópicamente, esto se traduce en la salida de agua y fango, compactación de la arena y asentamientos o deslizamientos del suelo.
+Aplicando la Ley de Ohm con un umbral de seguridad de 30 mA:
+*   En un local seco (resistencia de 2.500 ohmios), la tensión de seguridad calculada es V = 2500 Ω * 0,03 A = 75 V.
+*   En un local húmedo (resistencia de 1.000 ohmios), la tensión de seguridad calculada es V = 1000 Ω * 0,03 A = 30 V.
 
-    En las **edificaciones**, el comportamiento frente a un sismo está influenciado por la **geometría**, la **rigidez** y los **materiales constructivos**. La geometría del edificio es crucial; por ejemplo, la distribución del **centro de masas** y la **simetría y regularidad** de la estructura afectan directamente su respuesta a las fuerzas sísmicas, siendo los retranqueos de fachada puntos de especial vulnerabilidad. La **rigidez** también es un factor determinante, donde fenómenos como el **"pilar corto"** (concentración de tensiones en pilares parcialmente coartados) y el **"piso blando"** (plantas diáfanas que pierden rigidez) pueden provocar fallos localizados. El **fenómeno aplauso**, característico en edificaciones adosadas de diferentes alturas, puede generar fuertes cortantes y cizallamiento en los pilares.
+Esto demuestra que, con tensiones inferiores a 50 V en seco y 25 V en húmedo, el margen de seguridad es considerable.
 
-    Respecto a los **materiales**, el **adobe y tapial**, al ser pesados y con poca trabazón, son vulnerables a las sacudidas horizontales. Las **estructuras de fábrica** son sensibles a esfuerzos de cortante y flexión, aunque las fábricas confinadas pueden ofrecer una buena solución. El **hormigón armado**, si bien resiste bien a compresión, es débil a tracción y a la deformación diferencial por calor, lo que puede causar el colapso de forjados. El **acero**, material elástico, presenta grandes deformaciones y su rigidez depende críticamente de sus uniones, pudiendo fallar por fractura, pandeo o rotura de tornillos. La **madera**, con su bajo peso y alta flexibilidad, suele generar menos daños, aunque muros inadecuados, conexiones precarias y vicios ocultos (como la carcoma) pueden comprometer su resistencia.
+**4.4. Frecuencia y Forma de la Corriente**
 
-2.  **Incendios y su Impacto en la Integridad Estructural**
-    Los incendios afectan a los materiales constructivos de diversas maneras, comprometiendo la estabilidad y la seguridad de la edificación.
-    El **acero**, aunque no es combustible, es un material peligroso en incendios debido a su alta conductividad térmica y rápida pérdida de resistencia a temperaturas elevadas. A partir de los 500°C, su resistencia disminuye drásticamente, llegando al punto crítico de colapso a los 538°C, con colapsos que pueden ocurrir entre 10 y 20 minutos en un incendio real. Las estructuras isostáticas de acero son particularmente sensibles a la dilatación térmica, mientras que en las hiperestáticas se pueden formar rótulas plásticas que, aunque no causan un desplome inmediato, inutilizan el elemento. Además, el posterior enfriamiento puede causar rupturas en las conexiones.
+La Norma UNE 20572 (partes 1 y 2, basada en la CEI 479) aborda los efectos de la corriente en función de su frecuencia. Para corriente alterna con frecuencias superiores a 100 Hz, el riesgo de fibrilación ventricular disminuye al aumentar la frecuencia, mientras que el riesgo de quemaduras aumenta. Las condiciones de protección contra contactos indirectos se consideran similares para 400 Hz que para 50 o 60 Hz. Aunque el umbral de disparo diferencial aumenta con la frecuencia, el peligro de la corriente disminuye. La norma define un factor de frecuencia que relaciona la corriente a una frecuencia "f" con la corriente a 50/60 Hz.
 
-    El **hormigón**, con su alta masa y baja conductividad térmica, requiere una gran carga de fuego para aumentar su temperatura y no contribuye a la propagación del incendio. Sin embargo, su resistencia mecánica disminuye con el calor: a 300°C empieza a perder resistencia, a 500°C pierde la mitad y a 600°C, los áridos se expanden y el material se vuelve frágil, llevando a la disgregación de la grava y deshidratación del cemento a 1000°C. Los cambios de color en la masa del hormigón son indicadores de la temperatura alcanzada: gris hasta 300°C, rojizo hasta 600°C y amarillento a más de 900°C. La patología del **fallo termohidráulico (spalling)** implica el desprendimiento explosivo de capas de hormigón debido a la presión del vapor de agua interna. El hormigón pretensado y postesado es más vulnerable que el armado, ya que sus armaduras de menor diámetro pierden rápidamente tensión y resistencia.
+**Página 424**
 
-    Las **estructuras de fábrica** poseen una alta masa e inercia térmica, lo que las hace resistentes al fuego, pero una dilatación diferencial entre sus caras expuestas y no expuestas puede provocar su desplome hacia la cara fría. La **madera**, a pesar de ser combustible, presenta una resistencia al fuego que puede aumentar inicialmente debido a la pérdida de humedad, aunque su resistencia total disminuye por carbonización, a razón de 1 cm cada 15 minutos. Su bajo peso y flexibilidad la hacen menos propensa a colapsos catastróficos que el acero o el hormigón, pero sus vicios ocultos y uniones metálicas la hacen vulnerable.
+Para una misma sensación fisiológica, la corriente alterna (CA) con una frecuencia de 50/60 Hz produce el daño máximo. Por ejemplo, la intensidad de tetanización, que es de 10 mA a 50 Hz, asciende a 90 mA en corriente continua (CC) y a 80 mA a 5 kHz. En el rango de 1 a 100 kHz, el umbral de percepción aumenta aproximadamente de 10 mA a 100 mA en valor eficaz.
 
-    Para la **protección contra incendios**, se busca evitar el desplome estructural y la propagación del fuego mediante sistemas como el recubrimiento con **paneles ignífugos** (cartón yeso), **pinturas intumescentes** que se expanden a altas temperaturas, y **protección sólida** con hormigón en masa. Se utilizan **morteros** (con aditivos de perlita o vermiculita) y **filmes o mantas** (fibra cerámica o lana de roca) para perfiles metálicos. Además, existen **sistemas complementarios** como estructuras externas, recubrimientos de albañilería y pantallas. En las instalaciones, se aplican **cortafuegos lineales** en bandejas de cables, **almohadillas y collarines intumescentes** para sellar pasos de cables y tuberías, y conductos de ventilación incombustibles con rejillas y compuertas cortafuegos.
+**Efectos de la Corriente Continua**
+La corriente continua se considera menos peligrosa que la alterna. Es más fácil soltar un objeto en tensión continua. El umbral de fibrilación ventricular es significativamente más elevado para CC.
 
-### II. Evaluación de la Seguridad en la Edificación
+**Efectos de Corrientes con Formas de Onda Especiales**
+El avance de la electrónica de control ha posibilitado la creación de corrientes con formas de onda compuestas por una componente alterna y una continua. Los efectos de estas corrientes en el cuerpo humano son intermedios entre los de la corriente alterna y la continua.
 
-La seguridad de un edificio se define por su capacidad para soportar cargas y mantener su estabilidad durante su vida útil, establecida en 50 años por el Código Técnico de la Edificación (CTE DB SE). Las edificaciones construidas bajo normativa vigente suelen ser seguras, mientras que las antiguas o sin norma pueden carecer de referencias de diseño.
-En una intervención de bomberos, la estabilidad se clasifica en tres escalafones:
-1.  **Estado de confianza:** No se observan riesgos.
-2.  **Estado de precariedad:** Existen deficiencias que disminuyen las garantías de seguridad pero no suponen un peligro inmediato.
-3.  **Estado de peligro o ruina:** La estructura no puede soportar las acciones permanentes o variables, lo que puede llevar al colapso y derrumbe.
+**Efectos de las Corrientes Impulsivas**
+Las descargas de condensadores pueden generar corrientes impulsivas, que pueden entrañar ciertos peligros para las personas en caso de fallo de aislamiento. El factor principal que puede inducir fibrilación ventricular es la cantidad de electricidad (It) o energía (I²t) para duraciones de choque inferiores a 10 ms. El umbral del dolor depende de la carga y el valor de cresta del impulso, situándose generalmente entre 50 y 100 x 10^6 A²s. Cuando la frecuencia supera los 1.000 Hz, los umbrales de acción de la corriente aumentan, y solo se produce un efecto térmico, sin percepción dolorosa por parte del paciente, lo cual es aprovechado en aplicaciones médicas.
 
-La **ruina** se define como el estado de seguridad en el que un edificio es inútil o inhabitable debido a graves patologías. El marco legal incluye la Ley 38/1999 de Ordenación de la Edificación, el Código Civil (Art. 1591) y la jurisprudencia del Tribunal Supremo.
-Las **tipologías de ruina** abarcan:
-*   **Ruina funcional:** El edificio es inservible para su destino, aunque su estabilidad no esté comprometida (STS 30-1-1997).
-*   **Ruina constructiva:**
-    *   **Potencial o incipiente:** Primeros vicios que, de no corregirse, podrían evolucionar a daños graves, sin afectar aún la estabilidad (STS 18-12-1999).
-    *   **Vicios graves o propiamente dicha:** Impiden el uso y habitabilidad, con altos costes de reparación y necesidad de precauciones especiales (apeos, desalojo) (STS 8-5-1998).
-    *   **Física o inminente:** Colapso inminente, con reparación antieconómica o imposible, requiriendo desalojo y demolición inmediata. Puede ocurrir súbitamente por causas externas como demoliciones colindantes o socavones (STS 25-1-2000).
-*   **Ruina económica:** El coste de reparación supera el 50% del valor actual del edificio sin contar el suelo.
-*   **Ruina técnica:** La consolidación es inviable o la reconstrucción requiere más de un tercio de los elementos fundamentales.
+**4.4.1. Tiempo de Contacto**
+Los efectos de la corriente son, por lo general, cuatro veces menos peligrosos con respecto a la corriente alterna de 50 Hz, manteniendo la misma tensión e intensidad. Con tensiones e intensidades muy bajas (pero superiores al umbral de no soltar, establecido en 10 mA), pueden generarse contracciones musculares en el organismo, sin pérdida de control muscular, con diversas consecuencias debido al tiempo de contacto. Investigaciones han demostrado que se requiere al menos un segundo de contacto para que se produzca una fibrilación ventricular.
 
-Los **síntomas de ruina** incluyen:
-*   **Primarios:** Grietas y fisuras.
-*   **Secundarios:** Deformaciones (pandeos, deflexiones, abombamientos, desplomes), disgregación de morteros, descascarillado de materiales, empujes, separación de elementos estructurales y descuadre de huecos.
+**4.4.2. Trayectoria Interna**
+La corriente siempre busca la trayectoria de menor resistencia en su paso. Dentro del cuerpo humano, puede seguir diferentes caminos dependiendo de las resistencias internas, la humedad y otros factores. Las vías que presentan mayor riesgo son aquellas que entran en contacto con órganos vitales como el corazón, los pulmones o el cerebro.
 
-### III. Aperturas Forzadas en Emergencias
+Las direcciones de las corrientes con mayor peligro potencial son:
+*   De la mano derecha a la izquierda.
+*   De la mano izquierda a la derecha.
+*   De la cabeza a las manos.
+*   De la cabeza a los pies.
 
-Las aperturas forzadas en emergencias de bomberos se realizan principalmente en viviendas, pero también en industrias, almacenes o garajes, siempre bajo estrictos criterios de legalidad y seguridad
+Otro factor relevante es el contacto entre la mano y el conductor eléctrico. Si el contacto se realiza con la palma de la mano, la tetanización muscular puede impedir soltar el conductor. Por ello, en intervenciones en espacios de baja visibilidad, se recomienda palpar con el dorso de la mano.
+
+En resumen, a altas tensiones, las quemaduras eléctricas suelen ser graves. A tensiones inferiores a 2.000 V, la fibrilación ventricular es el efecto predominante.
+
+**5. Normativa**
+
+El Ministerio de Industria y Energía, en colaboración con las compañías suministradoras, establece las normativas que regulan las instalaciones y máquinas eléctricas. Estas normas buscan unificar criterios de construcción, rentabilidad, seguridad, fiabilidad y calidad de los suministros energéticos. Entre las normas y reglamentos clave se incluyen:
+*   Reglamento Electrotécnico de Baja Tensión (REBT): Real Decreto 842/2002, de 2 de agosto.
+*   Reglamento de Líneas de Alta Tensión.
+*   Reglamento de Centrales Eléctricas, Subestaciones y Centros de Transformación.
+*   Ley de Acometidas Eléctricas.
+*   Ley de Verificaciones Eléctricas.
+*   Normativa de las diferentes compañías eléctricas (Iberdrola, Endesa, etc.).
+*   Recomendaciones UNESA para equipos eléctricos.
+*   Normas UNE-EN.
+*   Reglamentación municipal.
+
+**5.1. Reglamento Electrotécnico de Baja Tensión**
+
+El Reglamento Electrotécnico de Baja Tensión (REBT), en su artículo 1, define las condiciones técnicas y garantías que deben cumplir las instalaciones eléctricas conectadas a una fuente de suministro dentro de los límites de baja tensión. Sus objetivos son:
+a) Garantizar la seguridad de personas y bienes.
+b) Asegurar el funcionamiento correcto de las instalaciones y prevenir perturbaciones en otras instalaciones y servicios.
+c) Contribuir a la fiabilidad técnica y a la eficiencia económica de las instalaciones.
+
+**Página 425**
+
+El Reglamento Electrotécnico de Baja Tensión (REBT), en su Artículo 2, establece que se aplica a las instalaciones de distribución de energía eléctrica, a las generadoras para autoconsumo y a las receptoras, dentro de los límites de tensión nominal de ≤1.000 V en corriente alterna y ≤1.500 V en corriente continua.
+
+Este Reglamento se aplica a:
+*   Nuevas instalaciones, así como a sus modificaciones y ampliaciones.
+*   Instalaciones existentes antes de su entrada en vigor que sean objeto de modificaciones o reparaciones importantes.
+*   Instalaciones cuyo estado, situación o características impliquen un riesgo grave para personas o bienes, o causen perturbaciones significativas en el funcionamiento normal de otras instalaciones, según el juicio del Órgano Competente de la Comunidad Autónoma.
+*   En lo referente al régimen de inspecciones, se aplicarán los criterios técnicos de la reglamentación con la que se aprobaron.
+
+El REBT NO se aplica a:
+*   Instalaciones y equipos de uso exclusivo en minas, material de tracción, automóviles, aeronaves, sistemas de comunicación y usos militares.
+*   Instalaciones y equipos sujetos a reglamentación específica.
+
+Se aplican prescripciones específicas para instalaciones y equipos de "muy baja tensión" (<50 V en CA y ≤75 V en CC), siempre que su fuente de energía sea autónoma o sean completamente independientes de las redes de baja tensión con valores superiores a los límites fijados.
+
+**Tabla 6. Clasificación de las Tensiones (REBT, 2002)**
+*   **Muy baja tensión:**
+    *   CA: ≤50V
+    *   CC: ≤75V
+*   **Tensión usual:**
+    *   CA: 50 < Un ≤500 V
+    *   CC: 75 < Un ≤750 V
+*   **Tensión especial:**
+    *   CA: 500 < Un ≤1.000 V
+    *   CC: 750 < Un ≤ 1.500 V
+
+Las tensiones nominales comunes en las redes de distribución de corriente alterna son:
+*   230 V entre fases para redes trifásicas de tres conductores.
+*   230 V entre fase y neutro, y 400 V entre fases para redes trifásicas de cuatro conductores.
+
+En las redes de distribución, las instalaciones se definen según la tensión entre fase y tierra o entre dos conductores de fase (Artículo 8).
+
+Las instalaciones de alumbrado exterior deben cumplir condiciones específicas según su situación de intemperie y el riesgo de fácil acceso (Artículo 9). Los tipos de suministro (Artículo 10) se clasifican en:
+a) **Suministros normales:** la energía es suministrada por una empresa a un único punto de entrega por la potencia total contratada.
+b) **Suministros complementarios o de seguridad:** complementan el suministro normal para garantizar su continuidad, pudiendo provenir de la misma empresa o de dos diferentes.
+    *   **Suministro de socorro:** 15% de la potencia contratada para el suministro normal.
+    *   **Suministro de reserva:** 25% de la potencia contratada para el suministro normal, destinado a mantener un servicio restringido de elementos indispensables.
+    *   **Suministro duplicado:** > 50% de la potencia contratada para el suministro normal.
+
+La acometida (parte de la instalación que conecta la red de distribución con la caja general de protección) es responsabilidad de la empresa suministradora, incluyendo su inspección y verificación final (Artículo 15).
+
+Las instalaciones de enlace (que unen la caja general de protección con las instalaciones interiores o receptoras del usuario) constan de los siguientes elementos:
+*   **Caja General de Protección (CGP):** aloja los elementos de protección de las líneas generales de alimentación y marca el inicio de la propiedad del usuario.
+*   **Línea General de Alimentación (LGA):** conecta la CGP con las derivaciones individuales.
+*   **Elementos para la ubicación de contadores.**
+*   **Derivación individual:** parte de la LGA y abarca hasta el cuadro de mando y protección (CMP).
+*   **Caja para interruptor de control de potencia (ICP):** un dispositivo unipolar de corte automático precintado por la compañía, que salta si el consumo excede lo contratado. Se rearma manualmente.
+*   **Interruptor General Automático (IGA):** protege la derivación individual frente a sobrecargas y cortocircuitos. Se rearma manualmente.
+*   **Interruptor Diferencial (ID):** sistema de seguridad que actúa en caso de derivación a tierra (fuga de corriente). Salta si un conductor en tensión toca una carcasa metálica o una persona y la corriente se escapa a tierra. Para funcionar, debe existir una conexión a tierra en la vivienda y una corriente de fuga superior a la sensibilidad del diferencial (normalmente 30 mA).
+*   **Pequeños Interruptores Automáticos (PIA):** de protección magnetotérmica y corte monofásico bipolar (fase y neutro) o omnipolar en trifásica. Protegen los circuitos de la vivienda frente a sobrecargas y cortocircuitos.
+
+Las compañías suministradoras facilitan los valores máximos previsibles de potencias o corrientes de cortocircuito en sus redes de distribución para que los proyectistas los utilicen en sus cálculos. El REBT también establece las responsabilidades, las normas de referencia, los procedimientos para accidentes, infracciones y sanciones.
+
+**Página 426**
+
+**5.2. Otras Fuentes de Reglamentación**
+
+El **Reglamento de Líneas Aéreas de Alta Tensión** especifica las características de las líneas de corriente alterna trifásica a 50 Hz con tensiones nominales eficaces ≥1.000 V. Clasifica estas líneas en tres categorías y define las directrices y documentos necesarios para sus proyectos, elementos (conductores, aisladores, etc.), cálculos mecánicos y eléctricos, prescripciones especiales, derivaciones, seccionamiento y protecciones.
+
+El **Reglamento de Centrales, Subestaciones y Centros de Transformación** establece las condiciones técnicas y garantías de seguridad para este tipo de instalaciones.
+
+La **Asociación Española de la Industria Eléctrica (UNESA)**, que agrupa a Iberdrola, Endesa, Unión Fenosa e Hidroeléctrica del Cantábrico, colabora con las administraciones públicas en la elaboración de estudios y propuestas normativas. Estas propuestas, que se convierten en normas internas de las compañías, establecen los requisitos para las instalaciones eléctricas (documentación, requisitos técnicos) y definen los procedimientos de inspección y reparación de sus líneas. El objetivo es estandarizar las instalaciones y equipos eléctricos para asegurar la fiabilidad, seguridad y reducir costes.
+
+**Tabla 7. Índice de las Instrucciones Técnicas Complementarias (ITC-BT)**
+
+El Reglamento Electrotécnico de Baja Tensión se complementa con diversas Instrucciones Técnicas Complementarias (ITC-BT) que regulan aspectos específicos de las instalaciones eléctricas:
+
+*   **ITC-BT-01:** Terminología.
+*   **ITC-BT-02:** Normas de referencia en el Reglamento Electrotécnico para Baja Tensión.
+*   **ITC-BT-03:** Instaladores autorizados.
+*   **ITC-BT-04:** Documentación y puesta en servicio de las instalaciones.
+*   **ITC-BT-05:** Verificaciones e inspecciones.
+*   **ITC-BT-06:** Redes aéreas para distribución en baja tensión.
+*   **ITC-BT-07:** Redes subterráneas para distribución en baja tensión.
+*   **ITC-BT-08:** Sistema de conexión del neutro y de las masas en redes de distribución de energía eléctrica.
+*   **ITC-BT-09:** Instalaciones de alumbrado exterior.
+*   **ITC-BT-10:** Previsión de cargas para suministros en baja tensión.
+*   **ITC-BT-11:** Redes de distribución de energía eléctrica. Acometidas.
+*   **ITC-BT-12:** Instalaciones de enlace. Esquemas.
+*   **ITC-BT-13:** Instalaciones de enlace. Cajas generales de protección.
+*   **ITC-BT-14:** Instalaciones de enlace. Línea general de alimentación.
+*   **ITC-BT-15:** Instalaciones de enlace. Derivaciones individuales.
+*   **ITC-BT-16:** Instalaciones de enlace. Contadores: ubicación y sistemas de instalación.
+*   **ITC-BT-17:** Instalaciones de enlace. Dispositivos generales e individuales de mando y protección. Interruptor de control de potencia (ICP).
+*   **ITC-BT-18:** Instalaciones de puesta a tierra.
+*   **ITC-BT-19:** Instalaciones interiores o receptoras. Prescripciones generales.
+*   **ITC-BT-20:** Instalaciones interiores o receptoras. Sistemas de instalación.
+*   **ITC-BT-21:** Instalaciones interiores o receptoras. Tubos y canales protectoras.
+*   **ITC-BT-22:** Instalaciones interiores o receptoras. Protección contra sobreintensidades.
+*   **ITC-BT-23:** Instalaciones interiores o receptoras. Protección contra sobretensiones.
+*   **ITC-BT-24:** Instalaciones interiores o receptoras. Protección contra los contactos directos e indirectos.
+*   **ITC-BT-25:** Instalaciones interiores en viviendas. Número de circuitos y características.
+*   **ITC-BT-26:** Instalaciones interiores en viviendas. Prescripciones generales de instalación.
+*   **ITC-BT-27:** Instalaciones interiores en viviendas. Locales que contienen una bañera o ducha.
+*   **ITC-BT-28:** Instalaciones en locales de pública concurrencia.
+*   **ITC-BT-29:** Prescripciones particulares para las instalaciones eléctricas de los locales con riesgo de incendio o explosión.
+*   **ITC-BT-30:** Instalaciones en locales de características especiales.
+*   **ITC-BT-31:** Instalaciones con fines especiales. Piscinas y fuentes.
+*   **ITC-BT-32:** Instalaciones con fines especiales. Máquinas de elevación y transporte.
+*   **ITC-BT-33:** Instalaciones con fines especiales. Instalaciones provisionales y temporales de obras.
+*   **ITC-BT-34:** Instalaciones con fines especiales. Ferias y stands.
+*   **ITC-BT-35:** Instalaciones con fines especiales. Establecimientos agrícolas y hortícolas.
+*   **ITC-BT-36:** Instalaciones a muy baja tensión.
+*   **ITC-BT-37:** Instalaciones a tensiones especiales.
+*   **ITC-BT-38:** Instalaciones con fines especiales. Requisitos particulares para la instalación eléctrica en quirófanos y salas de intervención.
+*   **ITC-BT-39:** Instalaciones con fines especiales. Cercas eléctricas para ganado.
+*   **ITC-BT-40:** Instalaciones generadoras de baja tensión.
+*   **ITC-BT-41:** Instalaciones eléctricas en caravanas y parques de caravanas.
+*   **ITC-BT-42:** Instalaciones eléctricas en puertos y marinas para barcos de recreo.
+*   **ITC-BT-43:** Instalación de receptores. Prescripciones generales.
+*   **ITC-BT-44:** Instalación de receptores. Receptores para alumbrado.
+*   **ITC-BT-45:** Instalación de receptores. Aparatos de caldeo.
+*   **ITC-BT-46:** Instalación de receptores. Cables y folios radiantes en viviendas.
+*   **ITC-BT-47:** Instalación de receptores. Motores.
+*   **ITC-BT-48:** Instalación de receptores. Transformadores y autotransformadores. Reactancias y rectificadores. Condensadores.
+*   **ITC-BT-49:** Instalaciones eléctricas en muebles.
+*   **ITC-BT-50:** Instalaciones eléctricas en locales que contienen radiadores para saunas.
+*   **ITC-BT-51:** Instalaciones de sistemas de automatización, gestión técnica de la energía y seguridad para viviendas y edificios.

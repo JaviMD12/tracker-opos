@@ -1,86 +1,150 @@
-# Caracterización General de Ascensores y Sistemas de Elevación
+## Conceptos Fundamentales en NRBQ: La Materia y sus Propiedades
 
-Los ascensores o elevadores son sistemas de movilidad vertical concebida para el transporte de personas o bienes entre diferentes niveles de una estructura, integrando componentes mecánicos, eléctricos y electrónicos. La cabina, elemento fundamental de estos sistemas, se desplaza a lo largo de guías, manteniendo una inclinación que no excede los 15 grados respecto a la horizontal.
+### 2.1. La Materia y sus Constituyentes
 
-## Marco Normativo y Seguridad en Ascensores
+La materia es todo aquello que nos rodea y ocupa un espacio, poseyendo masa y volumen. Para su estudio, se analiza desde sus componentes más pequeños.
 
-La regulación de los ascensores, así como las operaciones de rescate, se rige por la normativa europea EN 81-28:2003. Esta norma establece que las empresas de mantenimiento deben garantizar un servicio técnico en un plazo máximo de 24 horas para resolver averías. Asimismo, prohíbe el acceso a las llaves de emergencia a personal no autorizado, dada la alta probabilidad de caídas por el hueco del ascensor.
+#### 2.1.1. Átomos e Isótopos
 
-En el contexto de emergencias, los servicios de bomberos están habilitados para intervenir en situaciones de riesgo inminente para la vida o la salud (principio de "estado de necesidad"), así como en interés público, superando las restricciones del Código Penal español relativas al allanamiento de morada. Es fundamental la coordinación con las Fuerzas del Orden para asegurar la legalidad de la intervención, verificando la ausencia de condiciones delictivas y garantizando la custodia de la propiedad.
+El átomo, la unidad más pequeña de un elemento químico que mantiene sus propiedades, tiene masa y volumen, aunque es invisible. Su composición incluye:
 
-La seguridad de las puertas frente a intentos de efracción se evalúa mediante normativas como la UNE EN 1627:2011 y la UNE 85160:2013. La primera clasifica la resistencia de puertas, ventanas, fachadas, rejas y persianas ante ataques estáticos, dinámicos y manuales básicos. Por su parte, la UNE 85160:2013 es más exhaustiva, abarcando ensayos con herramientas más sofisticadas, mayores tiempos de resistencia y hasta la acción simultánea de dos atacantes.
+*   **El núcleo**: Es el centro del átomo y su parte más diminuta. Contiene protones (partículas con carga positiva) y neutrones (partículas sin carga eléctrica), ambos con masa. El número de protones define el **número atómico (Z)**, y la suma de protones y neutrones es el **número másico (A)**.
+*   **La corteza**: Es la capa externa donde orbitan los electrones (partículas con carga negativa). La masa de un electrón es 2000 veces menor que la de un protón o neutrón.
 
-### Clasificación de Puertas por Seguridad
+Un átomo eléctricamente neutro tiene igual número de protones que de electrones. Si este equilibrio cambia, adquiere carga eléctrica (positiva si pierde electrones, negativa si gana). Los **isótopos** son átomos del mismo elemento (mismo Z) con diferente número de neutrones (diferente A). Los núcleos inestables, con exceso o defecto de neutrones, se desintegran emitiendo radiaciones.
 
-Las puertas se clasifican según su resistencia a la efracción:
-*   Las **puertas sencillas de seguridad**, o simplemente "de seguridad", son comunes en viviendas y, ocasionalmente, en interiores. Fabricadas con madera, metal o PVC, a menudo incorporan perfiles horizontales y verticales de refuerzo para evitar la palanca. Su cerradura incluye bombillos de seguridad que resisten el ganzuado.
-*   Las **puertas blindadas** son empleadas como acceso principal en empresas, establecimientos públicos y, cada vez más, en viviendas. Se caracterizan por tener una chapa de acero de aproximadamente 2 mm de grosor en ambas caras, recubriendo una estructura de madera o aleaciones. Están diseñadas para resistir fuego, humo, gases y calor. Sus cerraduras suelen ser complejas, con múltiples puntos de bloqueo en el marco (superior, inferior, lateral y bisagras) y cilindros resistentes a taladros y ganzúas, con llaves específicas.
-*   Las **puertas acorazadas** ofrecen el nivel de seguridad más elevado y se destinan a la protección de bienes de alto valor en museos, edificios oficiales o residencias. Su construcción integra barras de acero y hormigón especial, con refuerzos internos denominados "rigidizadores". El mecanismo de cierre está incrustado en el marco, utilizando pestillos oblongos, redondeados o rectangulares que sellan la puerta en sus cuatro costados. Las bisagras están reforzadas para resistir cortes y palancas, y pueden incorporar sistemas de combinación avanzados (mecánicos, electrónicos, digitales). Estas puertas cumplen con los grados de resistencia 3, 4 o 5 de la norma UNE 1627:2011.
+### 2.1.2. Moléculas, Elementos y Compuestos Químicos
 
-## Tipos de Ascensores
+Las **moléculas** son agrupaciones de átomos con propiedades físico-químicas específicas. Pueden ser de un solo tipo de átomo (como el oxígeno, O₂, o el ozono, O₃) o de varios (como el agua, H₂O).
 
-Los ascensores se pueden clasificar en función de su sistema de funcionamiento y su uso específico.
+*   Los **elementos químicos** están compuestos por un solo tipo de átomo (ej., oxígeno O, hidrógeno H).
+*   Los **compuestos químicos** están formados por átomos de diferentes tipos (ej., H₂O, CO₂).
 
-### Ascensores Eléctricos o de Adherencia
-Estos ascensores, alimentados por corriente eléctrica, utilizan un motor y un mecanismo de tracción por adherencia. Los cables de acero (o cintas planas en modelos más modernos) se anclan a la parte superior de la cabina, pasan por una polea motriz y se conectan a un contrapeso. La adherencia entre los cables y la polea, generada por el peso de la cabina y el contrapeso, permite el movimiento vertical sin deslizamiento.
+### 2.2. Estados de Agregación y Cambios de Estado
 
-Dentro de los ascensores eléctricos, se distinguen:
-*   **Con engranajes (con grupo reductor):** Incorporan un motor eléctrico de baja potencia que acciona un engranaje reductor de tornillo sin fin y una rueda dentada, moviendo la polea. Alcanzan velocidades bajas, entre 0,1 y 1,75 m/s, y se emplean en montacargas industriales o para transporte de vehículos.
-*   **Sin engranajes (sin grupo reductor):** Un motor se conecta directamente al eje de una polea ranurada de gran diámetro, permitiendo velocidades más altas, entre 2 y 10 m/s. Son comunes en edificios de gran altura para el transporte de pasajeros.
+La materia se presenta en tres estados fundamentales: sólido, líquido y gaseoso. El estado depende de la presión y temperatura ambientales. Se utilizan valores de referencia: 20°C y 1 atmósfera de presión.
 
-### Ascensores Hidráulicos
-Estos ascensores operan mediante la impulsión de un fluido a presión hacia un pistón, el cual transfiere el movimiento a la cabina. Son preferidos en lugares donde el control del ruido y la optimización del espacio son críticos, operando a bajas velocidades (0,1 a 1,75 m/s).
+#### 2.2.1. Sólidos
 
-Sus tipologías incluyen:
-*   **Impulsión directa o tracción directa 1:1:** El pistón se conecta directamente a la cabina, moviéndola 1 cm por cada 1 cm de recorrido del pistón. Requieren un foso profundo para alojar el pistón.
-*   **Impulsión directa lateral:** El pistón se sitúa en el fondo del foso y se conecta a la parte superior de la cabina. Adecuados para cargas moderadas y recorridos cortos.
-*   **Impulsión diferencial o tracción indirecta 2:1:** Un sistema de cables y una polea duplican el recorrido de la cabina, moviéndola 2 cm por cada 1 cm de recorrido del pistón. El pistón se instala lateralmente, eliminando la necesidad de un foso profundo.
-*   **Doble impulsión directa e indirecta lateral:** Utilizados en montacargas industriales para grandes cargas y recorridos cortos.
+Las partículas en los sólidos están fuertemente unidas, lo que les confiere forma y volumen constantes. Al aumentar la temperatura, sus partículas adquieren mayor movimiento. Por ejemplo, los cubitos de hielo a -10°C muestran moléculas fuertemente cohesionadas.
 
-### Tipos de Ascensores por Uso
-Además de los sistemas de funcionamiento, los ascensores se adaptan a distintas necesidades:
-*   **Ascensores de emergencia o para uso exclusivo de bomberos:** Obligatorios en edificios con alturas de evacuación superiores a 28 m (15 m en hospitales). Deben tener una capacidad mínima de 630 kg, una superficie de cabina de al menos 1,40 m² y un ancho de paso mínimo de 0,80 m. Cuentan con un sistema de llamada prioritaria para bomberos, dos fuentes de alimentación eléctrica independientes (con autonomía de una hora a plena carga) y la posibilidad de accionamiento desde la cabina. El hueco debe ser un sector de incendio independiente, con acceso desde una escalera igualmente sectorizada. Aquellos ascensores no aptos para evacuación deben señalizarse con "No utilizar en caso de incendio".
-*   **Ascensores panorámicos:** Similares a los convencionales, pero con un hueco no protegido contra incendios.
-*   **Ascensores de doble cabina:** Compuestos por dos cabinas superpuestas, una para pisos impares y otra para pares. Optimizan el espacio en grandes edificios y minas.
-*   **Ascensores inclinados:** Diseñados para facilitar el acceso a zonas de difícil comunicación, con un funcionamiento análogo a los convencionales pero en posición inclinada.
-*   **Ascensores unifamiliares:** Instalados en viviendas privadas, sin diferencias significativas con los convencionales.
-*   **Ascensores para minusválidos:** Diseñados con características especiales en cuanto a luz, dimensiones, parada a nivel y ubicación del sistema de control para facilitar su uso.
-*   **Ascensores industriales y montacargas:** Destinados a la actividad industrial, capaces de soportar grandes cargas durante extensas horas de funcionamiento.
+#### 2.2.2. Líquidos
 
-## Componentes Comunes de un Ascensor
+Los líquidos mantienen un volumen constante, pero sus fuerzas de atracción son menores que en sólidos, lo que les permite adaptarse a la forma del recipiente. Al recibir energía y aumentar la temperatura, sus partículas incrementan su movimiento.
 
-Un ascensor está compuesto principalmente por el cuarto de máquinas, el recinto o hueco, y el foso, cada uno con elementos específicos.
+#### 2.2.3. Gases
 
-### Cuarto de Máquinas
-Es el espacio donde se aloja el mecanismo de tracción, ya sea el grupo tractor (en ascensores eléctricos) o la unidad hidráulica (en hidráulicos). La ubicación de este cuarto varía:
-*   **En modelos con cuarto de máquinas físico:** Puede estar en la parte superior del hueco (más cómodo para el operario en ascensores de adherencia), en la parte inferior (añadiendo carga estructural al edificio) o contiguo al hueco (típico de ascensores hidráulicos).
-*   **En ascensores modernos sin cuarto de máquinas:** La maquinaria y el sistema de maniobra se ubican en la parte superior del hueco, cerca de la última puerta de planta (ascensores eléctricos), o en la parte inferior del foso (ascensores hidráulicos).
+Las fuerzas de atracción entre las moléculas de los gases son muy débiles, permitiendo que estas se expandan y muevan libremente. Los gases tienen forma y volumen variables, que aumentan con la temperatura.
 
-Los elementos principales del cuarto de máquinas son:
-*   **Motor-reductor:** Grupo motor acoplado a un reductor de velocidad. Se utilizan motores de corriente alterna, con una o dos velocidades, y actualmente variadores de frecuencia.
-*   **Polea motriz:** Garantiza la adherencia con los cables de acero para mover la cabina sin deslizamiento, independientemente de la carga.
-*   **Volante:** Responsable del movimiento normal del ascensor y de las maniobras de rescate manuales sin corriente eléctrica.
-*   **Freno:** Situado en el eje motor, bloquea el ascensor en reposo o durante emergencias. Funciona con electroimanes para liberarse en operación normal y se bloquea manualmente en rescates sin corriente.
-*   **Limitador de velocidad:** Detiene la cabina mediante un paracaídas o sistema de acuñamiento si se excede la velocidad límite. Incluye un contacto eléctrico que detiene el motor. Está compuesto por dos poleas (una en el cuarto de máquinas y otra en el foso) y un cable de acero independiente de los cables de tracción, que se conecta al sistema de acuñamiento de la cabina.
-*   **Cuadro de maniobras:** Contiene los componentes eléctricos y electrónicos que controlan el funcionamiento del ascensor. Maneja tensiones de 230 V a 400 V, requiriendo precauciones de aislamiento.
-*   **Cuadros de distribución de corriente:** Albergan los elementos de protección (fusibles) contra cortocircuitos y derivaciones. Su ubicación es crucial para cortar la energía.
+#### 2.2.4. Cambios de Estado
 
-### Recinto o Hueco
-Es el espacio vertical por donde se desplazan la cabina y el contrapeso. Sus elementos esenciales son:
-*   **Cabina:** Recinto diseñado para el transporte de pasajeros.
-*   **Puertas de acceso:** Se dividen en puertas de planta y puertas de cabina. Pueden ser batientes o telescópicas automáticas, con mecanismos de seguridad que aseguran su cierre cuando la cabina no está a nivel.
+A presión constante, un cambio de estado ocurre a una temperatura específica para cada sustancia, con absorción o cesión de calor.
 
-### Foso
-Es la parte inferior del hueco, ubicada por debajo del nivel de la última parada. Debe tener un suelo liso y nivelado, e impermeabilizado para evitar filtraciones de agua. Su profundidad debe ser suficiente para garantizar un espacio libre de al menos medio metro cuando la cabina comprime totalmente los amortiguadores.
-*   **Amortiguadores:** Dispositivos que frenan la cabina en caso de fallo de los mecanismos de parada o de rebase de final de carrera, minimizando el impacto.
+Los **cambios progresivos** (por aporte de energía) son:
 
-### Elementos Relacionados con la Emergencia
-Para una intervención segura, es fundamental conocer:
-*   **Instrucciones de rescate:** Manuales específicos del fabricante, obligatorios en el cuarto de máquinas o cuadro de maniobras.
-*   **Pulsador de bomberos:** Normalmente presente en ascensores de emergencia. Activa un microrruptor que detiene el ascensor en el siguiente piso si sube, o en la planta principal si baja, y anula llamadas exteriores, permitiendo solo las interiores.
-*   **Caja de llaves de emergencia:** Contiene las llaves del cuarto de máquinas o de las puertas de planta, esenciales para el acceso controlado.
-*   **Faldones de cabina:** Chapas bajo la puerta de cabina que cubren el hueco del foso cuando el ascensor está entre pisos. Fijos o telescópicos, con una longitud total de 750 mm (fija de al menos 200 mm). Deben incluir un cartel de seguridad advirtiendo de la necesidad de su extensión completa antes de sacar pasajeros.
-*   **Alumbrado de emergencia:** Obligatorio en cabina, funciona ante fallos de corriente, alimentado por un automático o diferencial independiente.
-*   **Tele-alarma / Servicio 24 horas:** Sistema de comunicación exterior desde la cabina, obligatorio en España desde 1999, que conecta con un servicio de asistencia 24 horas.
+*   **Fusión**: Transformación de sólido a líquido por absorción de calor a la temperatura de fusión. En la mayoría de sustancias, el volumen aumenta, excepto en agua, hierro y bismuto. La presión puede influir: en sustancias que se dilatan al fundirse, la temperatura de fusión aumenta con la presión; en sustancias que se contraen, disminuye.
+*   **Vaporización (o evaporación)**: Paso de líquido a gas. Es un proceso progresivo donde la presión de vapor es la presión a la que las fases líquida y gaseosa están en equilibrio. Esta presión depende de la sustancia y temperatura, no de la cantidad de líquido o vapor.
+*   **Ebullición**: Vaporización que afecta a toda la masa del líquido, con formación de burbujas internas, a una temperatura específica llamada punto de ebullición. El punto de ebullición del agua es 100°C a 101 KPa. A mayor presión, mayor punto de ebullición.
+*   **Sublimación**: Transformación de sólido a gas sin pasar por la fase líquida, poco frecuente en condiciones ordinarias y reproducible en laboratorio.
 
-Estos sistemas y elementos garantizan el transporte seguro de personas y bienes, así como la respuesta eficaz ante cualquier emergencia.
+Los **procesos regresivos** (por enfriamiento) son:
+
+*   **Solidificación**: Paso de líquido a sólido, por cesión de calor, a la misma temperatura de fusión.
+*   **Condensación**: Paso de gas a líquido, invirtiendo las condiciones de vaporización. La **licuación** es un tipo de condensación que ocurre por aumento de presión.
+*   **Sublimación regresiva**: Paso de gas a sólido sin pasar por la fase líquida.
+
+### 2.2.5. Diagrama de Fases
+
+Representa los estados (sólido, líquido, gaseoso) de una sustancia en función de la presión y temperatura. Un punto clave es el **punto triple**, donde coexisten los tres estados. El **punto crítico** es la temperatura máxima por encima de la cual la sustancia solo puede existir como gas, independientemente de la presión.
+
+**Diferencias entre agua y dióxido de carbono**: El CO₂ no funde; se sublima a -78°C, a diferencia del agua que pasa por los tres estados en condiciones normales. Esto explica por qué el hielo flota sobre el agua, mientras que el CO₂ sólido (hielo seco) se sublima directamente.
+
+### 2.3. Propiedades Físicas
+
+Las propiedades físicas describen características de la materia sin alterar su composición.
+
+#### 2.3.1. Densidad y Densidad Relativa
+
+La **densidad (ρ)** es la cantidad de masa contenida en un volumen determinado. Se expresa en unidades de masa por volumen (ej. kg/m³, g/cm³). Es una magnitud escalar.
+*   Densidad del hierro: 8700 kg/m³.
+*   Densidad del agua: 1000 kg/m³.
+*   Densidad del oro: 19300 kg/m³.
+
+La densidad de los sólidos es constante, pero en líquidos y gases varía con las condiciones (temperatura, presión).
+
+La **densidad relativa (ρr)** es la relación adimensional entre la densidad de una sustancia y la de una sustancia de referencia.
+*   Referencia para líquidos y sólidos: agua destilada a 1 atm y 4°C (1000 kg/m³ o 1 kg/dm³).
+*   Referencia para gases: aire atmosférico a 1 atm y 0°C.
+
+**Ejemplos**:
+*   Alcohol: densidad relativa líquida 0.78 (flota en agua), gaseosa 1.60 (más denso que el aire, se acumula en zonas bajas).
+*   Gasolina: densidad relativa líquida 0.8, gaseosa 4.00 (cuatro veces más densa que el aire, se acumula en el suelo).
+
+#### 2.3.2. Presión de Vapor
+
+La **presión de vapor** es la presión a la que las fases líquida y gaseosa de una sustancia están en equilibrio a una temperatura dada. Aumenta exponencialmente con la temperatura. Los líquidos volátiles tienen una presión de vapor más alta y un punto de ebullición más bajo.
+
+**Ejemplos de presión de vapor**:
+*   Gasóleo: 3 mmHg.
+*   Alcohol etílico: 43 mmHg.
+*   Gasolina: 171 mmHg.
+
+#### 2.3.3. Solubilidad
+
+La **solubilidad** es la capacidad de una sustancia de disolverse en otra. Aumenta con la temperatura para sólidos y disminuye para gases. La solubilidad de un gas en un líquido es proporcional a la presión del gas. Las sustancias polares se disuelven en disolventes polares (hidrosolubles o hidrófilas), mientras que las no polares no (hidrófobas).
+
+**Clasificación por solubilidad (g de sustancia / 100 g agua)**:
+*   Muy soluble: 10-99% (ej. amoníaco, 51 g).
+*   Media soluble: 1-10% (ej. butano, 3.15 g).
+*   Poco soluble: 0-1% (ej. cloro, 0.70 g).
+
+#### 2.3.4. Viscosidad
+
+La **viscosidad** es la resistencia de un gas o líquido a fluir, medida en Poise. Varía inversamente con la temperatura.
+
+**Viscosidad de sustancias comunes**:
+*   Acetona: 0.306 cP.
+*   Agua: 0.894 cP.
+*   Mercurio: 1.526 cP.
+
+Los líquidos muy viscosos se extienden lentamente, facilitando el control de derrames. Los poco viscosos se dispersan rápidamente.
+
+#### 2.3.5. Conductividad Eléctrica
+
+La **conductividad eléctrica** es la capacidad de una sustancia para permitir el paso de corriente, influenciada por la estructura molecular y la temperatura. En líquidos (disoluciones), depende de la presencia de sales.
+
+**Conductividad de materiales**:
+*   Agua desionizada: 5.5 x 10⁻⁶ S·m⁻¹.
+*   Agua potable: 0.0005 a 0.05 S·m⁻¹.
+*   Agua de mar: 5 S·m⁻¹.
+*   Vidrio (aislante): 10⁻¹⁰ a 10⁻¹⁴ S·m⁻¹.
+*   Cobre (buen conductor): 5.96 x 10⁷ S·m⁻¹.
+
+La **resistividad** es lo opuesto a la conductividad. Las sustancias poco conductoras acumulan carga eléctrica estática. Las **descargas electrostáticas** son peligrosas con sustancias inflamables, combustibles o explosivas, ya que una simple chispa puede iniciar la ignición. La electricidad estática se produce por la transferencia de electrones entre superficies en contacto y separación. Depende del material, propiedades físicas/eléctricas, temperatura, humedad, presión y velocidad de separación. La baja humedad invernal aumenta la carga estática.
+
+### 2.4. Propiedades Químicas
+
+Las propiedades químicas se observan cuando una sustancia se transforma en otra, proceso generalmente irreversible (reacciones químicas). La tabla periódica clasifica 105 elementos en 18 grupos y períodos.
+
+**Propiedades químicas relevantes para bomberos**: reactividad, índice de pH, oxidación, reducción y poder calorífico.
+
+#### 2.4.1. El Factor pH
+
+El **factor pH** mide la concentración de iones de hidrógeno en una escala de 0 a 14. Un pH de 7 es neutro. Valores por debajo de 7 son ácidos, y por encima de 7 son bases (alcalinas). Se mide con papel tornasol o medidores electrónicos.
+
+##### a) Ácidos
+Cuando se disuelven en agua, los ácidos aumentan la concentración de iones H⁺. Los halógenos (grupo VII) y ciertos elementos del grupo VI, al combinarse con hidrógeno, forman compuestos ácidos.
+
+**Propiedades de los ácidos**:
+*   Cambian el color del papel tornasol de azul a rojo.
+*   Son corrosivos.
+*   Pueden causar quemaduras en la piel.
+*   Conducen bien la electricidad en disoluciones acuosas.
+*   Reaccionan con metales activos, formando sal e hidrógeno.
+*   Reaccionan con bases, formando sal y agua.
+*   Reaccionan con óxidos metálicos, formando sal y agua.
+*   Pueden detectarse por el olfato.
+
+La fortaleza de un ácido se refiere a su grado de disociación en agua. Los **ácidos fuertes** tienen un pH entre 0 y 3 (ej., ácido clorhídrico HCl, ácido perclórico HClO₄, ácido sulfúrico H₂SO₄). Los **ácidos débiles** tienen un pH entre 5 y 7.
+
+No debe confundirse un ácido fuerte con un ácido concentrado. Un **ácido concentrado** es una sustancia con su máxima concentración en agua, en estado casi puro.

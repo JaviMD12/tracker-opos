@@ -1,103 +1,236 @@
-# Buceo en Aguas Contaminadas y Técnicas de Descompresión para Bomberos
+El presente documento detalla las responsabilidades fundamentales, el equipo requerido y los procedimientos de seguridad en operaciones subacuáticas, abarcando desde las normas de seguridad en inmersión hasta las técnicas de rescate en entornos contaminados y la gestión de la descompresión.
 
-## Buceo en Aguas Contaminadas
+### Parte 4. Rescate Subacuático: Caracterización
 
-### Características y Riesgos
-El buceo en aguas contaminadas se refiere a la inmersión en entornos donde la presencia de sustancias químicas, biológicas o radiactctivas implica un riesgo para la salud del buceador. El grado de contaminación puede ser evidente, como en el caso de vertidos industriales o aguas de alcantarillado, o no evidente, como en fugas de tuberías o restos sumergidos en naufragios, donde la contaminación tiende a acumularse. Los contaminantes pueden ser de naturaleza **biológica**, como bacterias, protozoos y virus; **derivados del petróleo**, incluyendo crudo, fueloil, gasolina y diésel; o **materiales peligrosos**, categorizados en diversas clases: explosivos (Clase 1, p. ej., nitroglicerina), gases comprimidos o licuados (Clase 2), líquidos inflamables como hidrocarburos o alcohol (Clase 3), sustancias sólidas inflamables (Clase 4), agentes oxidantes (Clase 5, p. ej., halógenos) y sustancias venenosas (Clase 6, p. ej., bromo, monóxido de carbono). La exposición a estos contaminantes conlleva riesgos potenciales para la salud del buceador, afectando la misión y el desarrollo de las operaciones, con efectos que pueden manifestarse de forma aguda o crónica. Es crucial reconocer que las mucosas y la piel son las principales vías de entrada para infecciones y microorganismos.
+#### 4.4. Buceo en Aguas Contaminadas
 
-### Equipamiento Específico
-Dado el riesgo inherente, no existe un equipo que proteja contra *todos* los contaminantes, por lo que la elección se basa en el riesgo previsto, el tipo de trabajo y la urgencia. El equipo debe incluir sistemas respiratorios y vestimenta de protección física. Es fundamental que el buceador auxiliar utilice un nivel de protección similar al del buceador principal, ya que el personal de apoyo en superficie también está expuesto a riesgos. El equipo de buceo convencional, con máscaras de media cara y boquillas, no ofrece protección adecuada, pues la boca del buceador queda en contacto directo con el agua contaminada, posibilitando la entrada de patógenos al sistema respiratorio y circulatorio.
+##### 4.4.1. Características del Buceo en Aguas Contaminadas
 
-Para estas condiciones, se recomienda un **casco de buceo** con una válvula de exhaustación cuádruple para minimizar el reflujo de agua. Los **umbilicales** y **narguiles** de suministro de aire de superficie, fabricados con nitrilo y recubrimiento de neopreno, son resistentes a muchos productos químicos. Los **trajes secos**, de volumen variable o constante, son los más idóneos para operaciones en aguas contaminadas, preferiblemente de una sola pieza para minimizar puntos de entrada. Los trajes vulcanizados proporcionan una excelente protección contra peligros microbiológicos y químicos.
+Se define como **agua contaminada** aquella que contiene elementos químicos, biológicos o sustancias radiactivas que representan un riesgo para la salud del buceador. Aunque cierto nivel de contaminación es común globalmente, la preocupación se intensifica en acumulaciones de agua natural como lagos, ríos o puertos, especialmente cerca de grandes poblaciones o naufragios, donde los contaminantes pueden ser:
+*   **Biológicos**: Bacterias, protozoos y virus.
+*   **Derivados del petróleo**: Petróleo crudo, fueloil, gasolina, diésel.
+*   **Materiales peligrosos**:
+    *   Clase 1: Explosivos (nitroglicerina).
+    *   Clase 2: Gases (comprimidos, líquidos).
+    *   Clase 3: Líquidos inflamables (hidrocarburos y alcohol).
+    *   Clase 4: Sustancias sólidas inflamables.
+    *   Clase 5: Agentes oxidantes (halógenos).
+    *   Clase 6: Sustancias venenosas (bromo, monóxido de carbono).
 
-### Uso de Equipos de Respiración Autónoma (ERA) en Entorno Subacuático
-En situaciones de extrema necesidad y ante la ausencia de equipos de buceo convencionales, los equipos de respiración autónoma (ERA), como los modelos PA90 Plus, PSS5000 y PASMicro, pueden ser empleados en el ámbito subacuático. No obstante, su uso requiere que el personal esté familiarizado con las técnicas y equipos de buceo convencional, y deben considerarse varios aspectos críticos.
+Estos contaminantes representan un riesgo potencial para la salud de los buceadores y afectan la misión y el desarrollo de las operaciones. Los efectos pueden ser agudos (inmediatos) o crónicos (años después), como en el caso de sustancias cancerígenas.
 
-Los ERA no proporcionan un control de flotabilidad intrínseco, ya que no están diseñados para operar con elementos de flotabilidad bajo el agua. Por consiguiente, el buceador debe utilizar un cabo o un elemento estructural fijo para un descenso y ascenso controlados. La maniobra de Valsalva, esencial para compensar las presiones, se dificulta al requerir la retirada de la máscara, que cubre gran parte de la cara. Además, estos equipos operan en presión positiva, lo que provoca una salida continua de aire que puede mermar la visibilidad. La máscara empleada debe ser tipo pulpos, ya que el sistema Supra restringe la maniobrabilidad, y los visores curvos pueden distorsionar la visión subacuática.
+##### 4.4.2. Equipo para Buceo en Aguas Contaminadas
 
-Es crucial extremar las medidas de seguridad, dado que los ERA no incorporan un pulmón automático de reserva, a diferencia de los equipos de buceo convencionales. Los elementos de control de presión, ya sean analógicos o digitales (como el "bodyguard"), limitan la profundidad de trabajo; se pueden usar hasta 3 metros con dos dispositivos o hasta 10 metros con un analógico. Es imperativo no exceder los límites de reserva de aire establecidos.
+No existe una configuración única de equipo que proteja contra todos los contaminantes. La elección del equipo depende del riesgo, el equipo disponible, el tipo de trabajo y la urgencia de la misión. El sistema de equipamiento debe incluir protección respiratoria y vestimenta física. El buceador auxiliar debe contar con un nivel de protección similar al del buceador principal, y el personal de apoyo en superficie experimenta el mismo riesgo.
 
-### Empleo de Herramientas de Corte Subacuáticas
-En operaciones de corte bajo el agua, las herramientas hidráulicas son las más adecuadas debido a su naturaleza submarina. Estas ofrecen ventajas significativas sobre las herramientas neumáticas, ya que su funcionamiento se basa en la transmisión de energía a un fluido, donde un motor hidráulico convierte esta energía en trabajo mecánico.
+Las membranas mucosas y la piel son las principales vías de entrada de microorganismos. No se deben realizar inmersiones con equipo de buceo convencional en aguas contaminadas, ya que no proporciona protección adecuada y expone al buceador a infecciones por inhalación y contacto.
 
-El corte subacuático comparte similitudes con el corte en superficie, aunque el entorno acuático introduce limitaciones adicionales, como corrientes, bajas temperaturas, escasa visibilidad e inestabilidad del medio. Las herramientas de extricación, según sus especificaciones, pueden operar a profundidades de entre 7 y 10 metros. El éxito y la velocidad de la operación dependen directamente de las condiciones ambientales.
+El equipo específico incluye:
+*   **Casco de buceo**: Equipado con una válvula de exhaustación cuádruple para reducir el reflujo de agua.
+*   **Umbilicales o narguiles estándar**: De nitrilo con cubierta exterior de neopreno, resistentes a muchos productos químicos.
+*   **Trajes secos**: De volumen variable o constante, son los más apropiados para operaciones en aguas contaminadas, ya que aseguran la estanqueidad necesaria para la seguridad del buceador. El traje seco de una pieza es el preferido para minimizar penetraciones. Los trajes vulcanizados ofrecen gran protección contra peligros microbiológicos y químicos.
 
-En cuanto a la seguridad, la prioridad recae en el personal y la protección del material. Solo personal adiestrado debe manejar estas herramientas. Tras su uso, es indispensable limpiar, secar y lubricar las herramientas que hayan estado expuestas al agua dulce a presión.
+##### 5. Técnicas de Utilización del Equipo ERA
 
-## Técnicas de Elevación de Cargas en Entornos Subacuáticos
+Los equipos de protección respiratoria autónoma (ERA), como el PA90 Plus, PSS5000 y PASMicro de Dräger, pueden utilizarse en el ámbito subacuático en situaciones de extrema necesidad si no se dispone de equipo de buceo. El personal que los utilice debe estar familiarizado con el buceo convencional y considerar:
+*   **Control de flotabilidad nulo**: No pueden usar elementos de flotabilidad bajo el agua. Se requiere un cabo o elemento estructural para descenso y ascenso controlado.
+*   **Maniobra de Valsalva dificultada**: El procedimiento implica retirar la máscara, que cubre toda la cara.
+*   **Presión positiva continua**: El aire sale continuamente, dificultando la visibilidad.
 
-### Globos de Elevación y Procedimientos
-La elevación de objetos en operaciones subacuáticas puede ser compleja. Se dispone de diversas técnicas, tales como el uso de grúas flotantes o terrestres, globos de elevación, o sistemas de arrastre con tractel o cabrestante. La elección óptima es siempre la técnica más simple. Es preferible extraer la carga del fondo con una grúa o tractel que con globos de elevación, si bien a menudo se combinan varias técnicas.
+La máscara para equipos ERA debe ser de pulpos, ya que el sistema Supra del casco dificulta la maniobrabilidad. El efecto óptico del visor curvo distorsiona la visión bajo el agua. Estos equipos no poseen pulmoautomático de reserva, a diferencia de los equipos de buceo convencionales, por lo que se debe extremar la seguridad. Los elementos de control de presión pueden ser analógicos o digitales (bodyguard), condicionando la profundidad de trabajo. Se pueden usar dos hasta 3 metros de profundidad, y el analógico hasta 10 metros. Es obligatorio no sobrepasar los límites de reserva de aire.
 
-El **globo de elevación** es una herramienta fundamental, disponible en versiones abiertas o cerradas. Consiste en una campana de material impermeable dotada de dispositivos de amarre en su extremo inferior. La fuerza se transmite al objeto mediante bandas con anillas, donde se enganchan los grilletes o mosquetones. En la parte superior, posee una válvula de achique para el vaciado, la cual se asirá para su traslado al fondo. Los globos se llenan con aire utilizando un regulador auxiliar, botellas con latiguillos o narguiles desde superficie. Es crucial que el llenado sea simultáneo en todos los globos para evitar movimientos diferenciales de la carga. El momento más crítico es cuando el objeto empieza a desprenderse del fondo; idealmente, se busca una flotabilidad y equilibrio neutros, para luego aplicar un ligero empuje manual que lo eleve a la superficie.
+**Consideraciones de seguridad al usar equipos ERA en medio acuático**: Se debe aumentar la seguridad y tener en cuenta los aspectos mencionados previamente.
 
-### Planificación de la Inmersión para Elevación
-Para garantizar una elevación segura y efectiva, el procedimiento consta de cuatro fases:
-1.  **Planificación de la inmersión:** El mando debe evaluar el tiempo estimado en el fondo, la profundidad, el tipo de fondo, la temperatura del agua y la capacidad de elevación con los globos disponibles.
-2.  **Zonificación de la zona de trabajo:** Se debe señalizar la zona con banderas o luces adecuadas. Es necesario fondear un "muerto" cerca de la carga a elevar para demarcar el área de trabajo y facilitar el descenso. Antes de la inmersión, se revisa el equipo y se verifica la disponibilidad del personal y material necesario.
-3.  **Reunión previa:** El mando y los buceadores deben explicar el plan de acción, definiendo claramente el objetivo de la operación, que incluye el marcado, la elevación y el desplazamiento de la carga a la superficie.
-4.  **Inmersión:** Se desciende siguiendo un cabo guía. Se coloca un cabo que conecte la superficie con la carga. Los globos se unen de forma equilibrada a la carga, se inflan hasta alcanzar la posición vertical y se comprueban los anclajes. Se mantiene comunicación con la superficie para la próxima elevación y se verifica que la zona esté libre. Los globos se llenan y la carga se eleva, evitando que el buceador la acompañe o se coloque debajo de ella.
+#### 6. Técnicas de Utilización de Herramientas de Corte
 
-### Ejecución de la Elevación y Trabajo en Superficie
-Una vez completada la inmersión, se procede al **trabajo en superficie**. La carga se recupera utilizando el cabo guía. El buceador de seguridad debe inspeccionar visualmente los anclajes de los globos. Posteriormente, la carga se sube o se desplaza hasta la orilla o la embarcación. Si la carga es retirada y existe riesgo de que se hunda nuevamente, se recomienda el uso de un bidón o un objeto similar para mantenerla a flote. Finalmente, se recoge todo el material y se realiza un **briefing** de la intervención para evaluar el proceso.
+Para operaciones de corte subacuático, las **herramientas hidráulicas** son las más adecuadas debido a sus ventajas sobre las neumáticas. Se basan en la transmisión de energía mediante un fluido, que un motor hidráulico en la herramienta transforma en trabajo mecánico.
 
-## Comunicaciones en el Buceo de Rescate
+El **corte subacuático** es similar al corte en superficie, pero el entorno impone más limitaciones al operador. Las herramientas de extricación permiten operar a diferentes profundidades (generalmente entre **7 y 10 metros**).
 
-### Importancia y Tipos de Señales
-Las comunicaciones en el buceo de rescate son esenciales para el entendimiento entre los buceadores, dada la dificultad de la comunicación oral bajo el agua. Es imperativo que todos los buceadores conozcan y dominen las señales antes de cualquier inmersión. Aunque la mayoría de las señales son universales, pueden existir variaciones regionales, por lo que una revisión previa es recomendable. Las comunicaciones se dividen en tres categorías principales: señales con visibilidad, señales en buceo nocturno y señales en aguas con visibilidad limitada o nula.
+El éxito y la velocidad de la operación dependen de las condiciones de trabajo, como corrientes, bajas temperaturas, poca visibilidad e inestabilidad.
+*   **Seguridad**: El personal debe estar adiestrado.
+*   **Post-intervención**: Tras el trabajo, todas las herramientas expuestas al agua deben limpiarse con agua dulce a presión, secarse y engrasarse.
 
-### Señales en Condiciones de Baja o Nula Visibilidad
-En **buceo nocturno**, se emplean las mismas señales visuales que en condiciones de visibilidad, pero la eficacia depende de iluminar la mano del compañero con una linterna.
+#### 7. Técnicas de Elevación de Cargas
 
-Para **aguas con visibilidad limitada**, como en entornos con partículas en suspensión o limo en el fondo, se requiere una técnica de comunicación adaptada. En estas condiciones, la visibilidad con linterna es reducida. Las señales se realizan mediante tirones en el cabo o golpeteos, y deben ser repetidas por el receptor para su confirmación. Si una señal no se entiende, el receptor responde con un tirón para solicitar su repetición. Si se da la señal de salida, el acompañante no la repite, sino que cobra rápidamente el cabo del buceador.
+La elevación de objetos en operaciones subacuáticas es compleja. Las técnicas incluyen grúas flotantes, grúas terrestres, globos de elevación, arrastre con tractel y arrastre con cabrestante. La técnica más sencilla es siempre preferible. Si es posible, extraer la carga con grúa o tractel es mejor que usar globos. A veces, se requieren técnicas combinadas.
 
-Las señales por **tirones** en situaciones de visibilidad nula son las siguientes:
-*   Un (1) tirón indica "Atención", "¿Están bien?" o "Estoy bien".
-*   Dos (2) tirones significan "Arriar" o descenso.
-*   Tres (3) tirones denotan "Izar" o ascenso.
-*   Cuatro (4) tirones indican "Salida".
-*   Cinco (5) tirones para "Envía un cabo".
-*   Seis (6) tirones para "Peligro de enredo" o "Estoy enredado".
-*   Siete (7) tirones para "Auxilio".
+El **factor de seguridad** es primordial; la operación debe suspenderse si la seguridad no está garantizada. La herramienta principal es el **globo de elevación**, que puede ser abierto o cerrado. Consiste en una campana impermeable con un sistema de amarre al objeto, usando bandas reformadas que terminan en anillas con grilletes o mosquetones. Posee una válvula de achique en la parte superior, manejada con un tiraflector para vaciar el globo. La válvula se debe asir para el traslado al fondo. La carga se fija a los globos mediante vagas con anillas y grilletes o mosquetones.
 
-Las señales que combinan **repique y tirones** son:
-*   Un (1) repique y un (1) tirón: "Avanzar".
-*   Un (1) repique y dos (2) tirones: "Girar a la derecha".
-*   Un (1) repique y tres (3) tirones: "Giro de 180º".
-*   Un (1) repique y cuatro (4) tirones: "Girar a la izquierda".
+El llenado de los globos se realiza al recibir la señal del jefe de equipo, utilizando el regulador auxiliar, botellas con latiguillos o narguiles. El llenado debe ser simultáneo para evitar movimientos diferenciales. No debe usarse el aire de las botellas de respiración. El control del ascenso se ve afectado por la posición y altura de los globos. El momento más delicado es cuando el objeto empieza a arrancar del fondo, buscando flotabilidad y equilibrio neutros para un ligero empuje manual a superficie.
 
-Finalmente, otras señales por **repique** son:
-*   Un (1) repique: "Cobrar o seguir del cabo".
-*   Cuatro (4) repiques: "Abocar o acercar el cabo guía".
+El procedimiento para una elevación segura y efectiva consta de cuatro pasos:
+1.  **Planificación de la inmersión**: El mando valora el tiempo en el fondo, la profundidad, el tipo de fondo, la temperatura del agua y la capacidad de elevación con los globos disponibles.
+2.  **Zonificación de la zona de trabajo**: El equipo señaliza la zona con banderas o luces, fondea un muerto cerca de la carga a elevar (que marca la zona de trabajo y permite el descenso), revisa el equipo y material necesario.
+3.  **Reunión previa**: El mando y los buceadores explican el plan de trabajo y definen el objetivo (marcar, elevar y desplazar a superficie).
 
-El uso excesivo de la linterna en el buceo nocturno puede generar situaciones no deseadas, por lo que debe emplearse con prudencia.
+#### 8. Comunicaciones
 
-## Técnicas de Descompresión para el Buceador de Rescate
+Las **señales de buceo** se crearon para mejorar el entendimiento entre buceadores y superar la dificultad de la comunicación oral bajo el agua. Es obligatorio conocer estas señales antes de una inmersión. Aunque son comunes a nivel mundial, pueden variar regionalmente.
 
-### Objetivos y Herramientas para la Descompresión
-El objetivo principal de las técnicas de descompresión es asegurar la eliminación gradual del nitrógeno absorbido por los tejidos del organismo durante la inmersión, en función de la profundidad y el tiempo en el fondo. Es crucial evitar superar los valores críticos de sobresaturación de nitrógeno para prevenir la enfermedad descompresiva. Para ello, las herramientas principales son el ordenador de buceo y las tablas de descompresión, complementadas con un cronómetro y un profundímetro.
+Existen tres tipos de comunicaciones en buceo:
+*   **Con visibilidad**: Se utilizan señales manuales. Las linternas o focos (Imagen 30) son esenciales.
+    *   **Señales con linterna (Imagen 39)**:
+        *   **Pregunta/OK**: Desplazamiento del haz.
+        *   **Estoy bien**: Movimiento de barrido.
+        *   **No estoy bien/Problemas**: Sacudir linterna.
+        *   **Quiero subir**: Movimiento hacia arriba.
+        *   **Quiero bajar**: Movimiento hacia abajo.
+        *   **Giro de 360º**: Giro completo.
+        *   **Parar/Esperar**: Haz estático.
+    *   El uso excesivo de la luz puede crear situaciones indeseables; se recomienda usarla con prudencia.
 
-Los **ordenadores de buceo** ofrecen un ajuste más preciso a las condiciones particulares de cada buceador y del entorno, monitorizando la inmersión en tiempo real y generando un plan de buceo instantáneo que permite extender el tiempo en el fondo. Sin embargo, su uso puede inducir una falsa sensación de seguridad, llevando a apurar los límites.
+*   **Señales en buceo nocturno**: Son las mismas que con visibilidad, pero se usan linternas para hacerlas visibles. Es importante iluminar la mano del compañero.
 
-Por otro lado, las **tablas de descompresión** no dependen de dispositivos electrónicos y facilitan una comprensión más profunda del comportamiento del organismo. Son imprescindibles para la prevención de la enfermedad descompresiva y rigen la actividad del buceador en cualquier tipo de inmersión.
+*   **Señales especiales para el buceo en aguas con visibilidad limitada o nula**: Durante el buceo diurno en estas condiciones (partículas en suspensión, limo en el fondo), la comunicación requiere una técnica diferente. Se usan señales específicas debido a que la visión con linterna no mejora significativamente la visibilidad.
+    *   **Señales para el buceo con visibilidad limitada (Imagen 40)**:
+        *   **Alto, detenerse**: Mano abierta, palma hacia adelante.
+        *   **Cortar, la línea debe cortarse**: Mano con índice y pulgar formando una "C" sobre la línea.
+        *   **Enrollar, recoger la línea**: Movimiento circular de la mano.
+        *   **Atorado**: Mano en el puño.
+        *   **Hacer amarre**: Movimiento de la mano hacia el anclaje.
 
-### Recomendaciones de Seguridad para la Inmersión y Descompresión
-Toda inmersión debe ser planificada meticulosamente. En inmersiones a distintos niveles, la planificación debe priorizar la profundidad mayor a la menor. Las recomendaciones de seguridad incluyen:
-*   **Ascenso y descenso:** Evitar ascensos o salidas rápidas a superficie para recibir instrucciones o herramientas, ya que esto aumenta el riesgo de enfermedad descompresiva. La velocidad de descenso no debe superar los 24 metros por minuto, mientras que la de ascenso, hasta la primera parada o la superficie, debe ser de 9 metros por minuto, con variaciones aceptables de 3 m/min.
-*   **Condiciones del buceador:** No realizar inmersiones si las condiciones psicofísicas del buceador no son adecuadas. En trabajos difíciles (con estrés, gran esfuerzo o aguas frías), el riesgo de enfermedad descompresiva aumenta, por lo que se debe aumentar el tiempo en el fondo como medida preventiva.
-*   **Paradas de descompresión:** En inmersiones que requieran paradas de descompresión, se debe desplegar un cabo de descenso que las señale y, si es necesario, dote de aire. Los tiempos de las paradas se cuentan desde la llegada hasta que se deja cada parada. El tiempo entre paradas debe ser de 1 minuto.
-*   **Observación y exposición post-inmersión:** Se debe observar al buceador durante los 30 minutos posteriores a la llegada a superficie, ya que los síntomas de la enfermedad descompresiva pueden aparecer hasta seis horas después. Asimismo, se debe evitar exponerse a situaciones que disminuyan la presión ambiental tras la inmersión, como subir una montaña o viajar en avión.
-*   **Accidentes:** En caso de accidente, las consecuencias dependen de las acciones del equipo. Es fundamental disponer de un equipo de oxigenación completo (tanque de oxígeno, mascarilla, regulador, bolsa reservorio) y un botiquín de emergencia.
-*   **Cámara hiperbárica:** Es recomendable contactar con una cámara hiperbárica a menos de dos horas del lugar de inmersión. Su activación requiere la presencia previa de un camarista y un médico con conocimientos de medicina hiperbárica.
+#### 8.4. Señales de Visibilidad Nula
 
-### Tablas de Descompresión: Uso y Clasificación
-En España, la **Dirección General de la Marina Mercante** es la entidad encargada de editar las tablas de descompresión reglamentarias, siendo cualquier otro tipo de tabla, no autorizado, inválido. Estas tablas son imprescindibles para la prevención de la enfermedad descompresiva y rigen la actividad de buceo en cualquier tipo de inmersión. Aunque los programas de enseñanza para títulos de buceo deben incluir formación sobre el manejo de estas tablas, su exactitud no está garantizada para la planificación de buceos reales, sino que están destinadas a buceadores certificados.
+Las señales entre buceadores o con la superficie en visibilidad nula o imposible de usar linterna son fundamentales.
 
-El **Manual de Buceo Autónomo del Centro de Buceo de la Armada Española** clasifica las tablas de descompresión en varios tipos:
-*   **Tabla I:** Tiempos límite sin descompresión y grupos de inmersión sucesiva con aire.
-*   **Tabla II:** Tiempos de nitrógeno residual (TNR) para inmersiones sucesivas con aire.
-*   **Tabla III:** Descompresión normal con aire.
-*   **Tabla IV:** Profundidad teórica para inmersiones en altitud y profundidad real de las paradas de descompresión en altitud.
-*   **Tabla V:** Grupos de inmersión sucesiva correspondientes al ascenso inicial a altitud.
-*   **Tabla VI:** Intervalo en superficie exigido antes de ascender a altitud después de bucear.
-*   **Tabla VII:** Tiempos límite sin descompresión y grupos de inmersión sucesiva para inmersiones con aire en aguas poco profundas.
+**Tabla 3. Señales para Situaciones de Visibilidad Nula**
+
+| Señal                               | Tirones/Repiques |
+| :---------------------------------- | :--------------- |
+| Atención / ¿Están bien? / Estoy bien | 1 tirón          |
+| Arriar                              | 2 tirones        |
+| Izar                                | 3 tirones        |
+| Salida                              | 4 tirones        |
+| Envía un cabo                       | 5 tirones        |
+| Peligro de enredo / Estoy enredado  | 6 tirones        |
+| Auxilio                             | 7 tirones        |
+| Avanzar                             | 1 repique y 1 tirón |
+| Girar a la derecha                  | 1 repique y 2 tirones |
+| Giro de 180º                        | 1 repique y 3 tirones |
+| Girar a la izquierda                | 1 repique y 4 tirones |
+| Cobrar o seguir del cabo            | 1 repique        |
+| Abocar o acercar el cabo guía       | 4 repiques       |
+
+*   **Repetición**: Todas las señales deben ser repetidas por el buceador que las recibe. Si no se entiende una señal, se responde con un tirón para que se repita.
+*   **Señal de salida**: Cuando el buceador da la señal de salida, el acompañante no la repite; en su lugar, cobra rápidamente del buceador, iniciando la orden o devolviendo la señal al siguiente buceador.
+
+#### 9. Técnicas de Descompresión
+
+##### 9.1. Objetivos
+
+Al realizar una inmersión con aire, los tejidos del organismo absorben nitrógeno según la profundidad y el tiempo en el fondo. Este nitrógeno disuelto debe eliminarse gradualmente durante el ascenso, con paradas de descompresión cada 3 metros, para evitar superar valores críticos de sobresaturación.
+
+Si se superan estos valores, existe riesgo de **enfermedad descompresiva**. Para minimizar este riesgo, se usan dos herramientas: el ordenador de buceo y las tablas de descompresión (con cronómetro y profundímetro).
+
+La planificación de la descompresión se realiza actualmente con sistemas electrónicos (ordenadores), que permiten un ajuste más preciso a las condiciones del sujeto y del medio. Aunque aumentan la sensación de seguridad, conllevan el riesgo de apurar los límites. Los ordenadores de buceo monitorizan la inmersión en tiempo real, generando un plan instantáneo que aumenta el tiempo de fondo en comparación con el perfil rectangular de las tablas.
+
+pI will now rewrite the provided content from pages 243-246, ensuring originality, exhaustiveness, correct reading order, and proper formatting.
+
+### Parte 4. Rescate Subacuático: Caracterización
+
+#### 4.4. Buceo en Aguas Contaminadas
+
+##### 4.4.1. Características del Buceo en Aguas Contaminadas
+
+Las **aguas contaminadas** se definen como aquellas que contienen productos químicos, biológicos o sustancias radiactivas, representando un riesgo para la salud del buceador. Aunque cierto grado de contaminación es inherente a los entornos acuáticos a nivel global, la preocupación se intensifica en grandes masas de agua como lagos, ríos o puertos, especialmente en áreas densamente pobladas o donde existen restos de naufragios que acumulan contaminantes.
+
+Los contaminantes pueden clasificarse en:
+*   **Biológicos**: Bacterias, protozoos y virus.
+*   **Derivados del petróleo**: Petróleo crudo, fueloil, gasolina, diésel, entre otros.
+*   **Materiales peligrosos**:
+    *   Clase 1: Explosivos (ej., nitroglicerina).
+    *   Clase 2: Gases (comprimidos, líquidos).
+    *   Clase 3: Líquidos inflamables (hidrocarburos y alcohol).
+    *   Clase 4: Sustancias sólidas inflamables.
+    *   Clase 5: Agentes oxidantes (ej., halógenos).
+    *   Clase 6: Sustancias venenosas (ej., bromo, monóxido de carbono).
+
+La exposición a estos contaminantes conlleva riesgos potenciales para la salud de los buceadores, impactando negativamente en la misión y el desarrollo de las operaciones. Los efectos pueden ser agudos (inmediatos) o crónicos (manifestándose años después), como en el caso de la exposición a sustancias cancerígenas.
+
+##### 4.4.2. Equipo para Buceo en Aguas Contaminadas
+
+No existe una configuración de equipo o material que garantice una protección completa contra todos los contaminantes. El nivel de protección se determina en función del riesgo previsto, el equipo disponible, el tipo de trabajo y la urgencia. El equipamiento debe incluir un sistema respiratorio y vestimenta de protección física. El buceador de apoyo en superficie debe estar equipado con un nivel de protección similar al del buceador.
+
+Las mucosas y la piel son las principales vías de entrada para microorganismos e infecciones. No se deben realizar inmersiones en aguas contaminadas con equipos de buceo convencionales (máscaras de media cara y boquillas sobre la boca), ya que no proporcionan protección adecuada y exponen al buceador a la inhalación de contaminantes y a infecciones sanguíneas.
+
+El equipo específico incluye:
+*   **Casco de buceo**: Equipado con una válvula de exhaustación cuádruple para reducir la probabilidad de reflujo de agua.
+*   **Umbilicales o narguiles**: Los estándar de suministro de aire son de nitrilo con cubierta de neopreno, razonablemente resistentes a muchos productos químicos.
+*   **Trajes secos**: Ya sean de volumen variable o constante, son los más apropiados para operaciones en aguas contaminadas, ya que proporcionan la estanqueidad necesaria. El traje seco de una pieza es el preferido para minimizar penetraciones. Los trajes vulcanizados ofrecen alta protección por periodos prolongados contra riesgos microbiológicos y químicos.
+
+#### 5. Técnicas de Utilización del Equipo ERA (Equipo de Respiración Autónoma)
+
+Los equipos ERA (como PA90 Plus, PSS5000 y PASMicro de Dräger) pueden utilizarse en el ámbito subacuático en situaciones de extrema necesidad, cuando no se dispone de equipos de buceo específicos. El personal que los emplee debe estar familiarizado con las técnicas de buceo convencionales y considerar:
+*   **Nulo control de flotabilidad**: Al no poder usar elementos de flotabilidad bajo el agua, se requiere una cuerda o un elemento estructural para un descenso y ascenso totalmente controlados.
+*   **Dificultad en la maniobra de Valsalva**: El procedimiento requiere retirar la máscara, lo que dificulta la compensación.
+*   **Salida continua de aire**: La presión positiva de estos equipos conlleva una salida constante de aire, lo que puede dificultar la visión.
+
+La máscara utilizada con equipos ERA debe ser de pulpos, ya que el casco del sistema Supra dificulta la maniobrabilidad. Además, el efecto óptico del visor curvo distorsiona la visión bajo el agua. Estos equipos no incluyen un pulmón automático de reserva, a diferencia de los equipos de buceo convencionales, por lo que se debe extremar la seguridad. Los elementos de control de presión pueden ser analógicos o digitales (bodyguard), condicionando la profundidad de trabajo. Se pueden usar dos hasta 3 metros de profundidad, mientras que el analógico puede ser utilizado hasta 10 metros. Es obligatorio no sobrepasar los límites de reserva de aire.
+
+**Consideraciones de seguridad**: Es fundamental aumentar la seguridad y aplicar las precauciones mencionadas al utilizar equipos ERA en entornos subacuáticos.
+
+#### 6. Técnicas de Utilización de Herramientas de Corte
+
+Para operaciones de corte subacuático, las **herramientas hidráulicas** son las más adecuadas debido a sus ventajas sobre las neumáticas. Su funcionamiento se basa en la transmisión de energía a un fluido, que un motor hidráulico en la herramienta transforma en trabajo mecánico.
+
+El **corte subacuático** es similar al corte en superficie, pero el medio ambiente impone limitaciones adicionales al operador. Las herramientas de extricación, según las especificaciones del fabricante, permiten operar a diferentes distancias de profundidad (generalmente entre **7 y 10 metros**).
+
+El éxito y la velocidad de la operación dependen directamente de las condiciones de trabajo, como corrientes, bajas temperaturas, poca visibilidad e inestabilidad, que dificultan la tarea.
+*   **Seguridad**: Solo personal adiestrado debe participar en estas operaciones.
+*   **Post-intervención**: Una vez finalizado el trabajo, toda herramienta expuesta al agua debe limpiarse con agua dulce a presión, secarse y engrasarse.
+
+#### 7. Técnicas de Elevación de Cargas
+
+La elevación de objetos en operaciones subacuáticas puede ser complicada. Las técnicas disponibles incluyen grúas flotantes, grúas terrestres, globos de elevación, arrastre con tractel y arrastre con cabrestante. La técnica más simple es siempre la preferida. Si es posible, extraer la carga del fondo con una grúa o un tractel es más eficaz que utilizar globos de elevación. En ocasiones, puede ser necesario combinar varias técnicas para lograr el objetivo.
+
+El **factor de seguridad** es primordial; la operación debe suspenderse si la seguridad no está garantizada. La herramienta principal es el **globo de elevación**, disponible en versiones abiertas o cerradas. Consiste en una campana de material impermeable cuyo extremo inferior está dotado de dispositivos de amarre al objeto. La fuerza se transmite al objeto mediante bandas reformadas que terminan en anillas, donde se enganchan grilletes o mosquetones. Los globos suelen tener una válvula de achique en la parte superior, que se maneja mediante un tiraflector para vaciar el globo. Esta válvula debe asirse para el traslado del globo al fondo. La carga se fija a los globos mediante vagas provistas de anillas, donde se aseguran los grilletes o mosquetones.
+
+El llenado de los globos se realiza a la señal del jefe de equipo, utilizando el regulador auxiliar, botellas con latiguillos o narguiles para suministrar aire desde la superficie. El llenado debe ser simultáneo en todos los globos para evitar movimientos diferenciales que puedan causar accidentes. No se debe suministrar aire desde las botellas de respiración del buceador ni utilizar el regulador auxiliar si este puede engancharse y tirar del buceador. El control del ascenso del objeto depende de la posición y altura de los globos.
+
+El momento más delicado es cuando el objeto comienza a arrancarse del fondo. Lo ideal es conseguir flotabilidad y equilibrio neutros para luego, mediante un ligero empuje manual, elevar el objeto a la superficie.
+
+El procedimiento para una elevación segura y efectiva consta de cuatro pasos:
+1.  **Planificación de la inmersión**: El mando debe evaluar los siguientes aspectos: tiempo posible en el fondo, profundidad, tipo de fondo, temperatura del agua y capacidad de elevación con los globos disponibles.
+2.  **Zonificación de la zona de trabajo**: El equipo debe señalizar la zona con banderas o luces, fondear un "muerto" (lastre) cercano a la carga a elevar (que marca la zona de trabajo y permite el descenso), revisar el equipo y el equipo personal, y disponer del material necesario para el trabajo.
+3.  **Reunión previa**: El mando y los buceadores deben explicar el plan de trabajo y definir el objetivo (marcar, elevar y desplazar la carga a la superficie).
+    *   **Detalle de la carga**: Especificar la carga a elevar y sus posibles puntos de anclaje.
+    *   **Código de comunicación**: Definir el código de comunicación entre la superficie y el fondo.
+4.  **Inmersión**:
+    *   **Descenso**: Realizar el descenso por un cabo guía.
+    *   **Cabo de superficie a carga**: Colocar el cabo que une la superficie con la carga.
+    *   **Globos de elevación**: Unir los globos de forma equilibrada, inflarlos hasta que la carga adopte su posición vertical y comprobar los anclajes.
+    *   **Comunicación**: Comunicar a la superficie la próxima elevación.
+    *   **Zona de elevación**: Comprobar que la zona está libre de obstáculos para la elevación.
+    *   **Llenado y elevación**: Llenar los globos y elevar la carga. El buceador no debe acompañar la carga ni colocarse debajo de ella.
+5.  **Trabajo en superficie**:
+    *   **Recuperación**: Recuperar la carga desde la superficie utilizando el cabo guía.
+    *   **Inspección**: Realizar una inspección visual de los anclajes por parte del buceador de seguridad.
+    *   **Desplazamiento**: Mover la carga a la embarcación o a la orilla. Utilizar un bidón o un objeto similar para evitar que se hunda de nuevo.
+6.  **Recogida de material y reunión post-intervención**: Recoger el material y realizar una reunión informativa tras la intervención.
+
+#### 8. Comunicaciones
+
+Las **señales de buceo** se desarrollaron para facilitar el entendimiento entre buceadores, superando la dificultad de la comunicación oral bajo el agua. Es obligatorio conocer estas señales antes de una inmersión. Aunque la mayoría son comunes a nivel mundial, algunas variaciones regionales pueden existir, por lo que es recomendable revisarlas antes de la inmersión.
+
+La comunicación en buceo se clasifica en tres tipos:
+*   **Señales con visibilidad**: Se realizan con las manos y, en ocasiones, con linternas.
+    *   Las **señales con linterna (Imagen 39)** se utilizan de la siguiente manera:
+        *   **Pregunta/OK**: Desplazar el haz de luz.
+        *   **Estoy bien**: Movimiento de barrido.
+        *   **No estoy bien/Problemas**: Sacudir la linterna.
+        *   **Quiero subir**: Movimiento hacia arriba.
+        *   **Quiero bajar**: Movimiento hacia abajo.
+        *   **Giro de 360º**: Giro completo.
+        *   **Parar/Esperar**: Mantener el haz estático.
+    *   El uso excesivo de la luz puede generar situaciones no deseadas; se recomienda prudencia.
+
+*   **Señales en buceo nocturno**: Son las mismas que en buceo con visibilidad, pero es necesario usar linternas para hacerlas visibles, iluminando la mano del compañero.
+
+*   **Señales especiales para el buceo en aguas con visibilidad limitada o nula**: En estas condiciones (presencia de partículas en suspensión, limo en el fondo), la comunicación requiere técnicas específicas ya que la linterna no mejora significativamente la visibilidad.
+    *   Las **señales para el buceo con visibilidad limitada (Imagen 40)** son:
+        *   **Alto, detenerse**: Mano abierta, palma hacia adelante.
+        *   **Cortar, la línea debe cortarse**: Mano con índice y pulgar formando una "C" sobre la línea.
+        *   **Enrollar, recoger la línea**: Movimiento circular de la mano.
+        *   **Atorado**: Mano en el puño.
+        *   **Hacer amarre**: Movimiento de la mano hacia el anclaje.

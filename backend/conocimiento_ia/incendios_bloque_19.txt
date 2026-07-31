@@ -1,83 +1,126 @@
-# Caracterización y Fenómenos de Incendios en Interiores
+## Temario de Oposiciones de Bomberos y Emergencias: Incendios de Interior y Vegetación
 
-El estudio de los incendios en espacios interiores reviste una importancia capital para la intervención eficaz de los cuerpos de bomberos, dado que su dinámica se ve influenciada por múltiples factores relacionados con el combustible, el recinto y la ventilación. Comprender la evolución y los fenómenos asociados a estos incendios es fundamental para garantizar la seguridad de los intervinientes y optimizar las estrategias de extinción y rescate.
+### PARTE 3: INCENDIOS DE INTERIOR. VENTILACIÓN DE INCENDIOS
 
-## Fases de Desarrollo de un Incendio de Interior
+#### Capítulo 1. Caracterización
 
-Un incendio en un espacio interior limitado, sin una transferencia libre de calor o intercambio de fluidos con el exterior, atraviesa tres fases principales:
+**1.5. Fenómeno del Flashover**
 
-1.  **Fase de Crecimiento:** Se inicia en el foco de ignición, donde el calor se transmite por radiación a los combustibles circundantes, y por convección a través de una columna de gases calientes ascendentes hacia las zonas superiores del recinto. Durante este periodo, la potencia del incendio es limitada y su crecimiento es lento, requiriendo energía para iniciar la pirólisis de los compuestos orgánicos y liberar gases combustibles. La temperatura aumenta de forma exponencial a medida que el incendio cobra magnitud, y los gases de combustión se acumulan en estratos superiores, con una densidad disminuida debido al aumento de temperatura. Esto genera flotabilidad y una expansión de los gases por todo el recinto, aunque en las etapas iniciales este efecto tiene poca trascendencia.
+En el ámbito de la intervención en incendios interiores, las condiciones de seguridad varían drásticamente entre incendios limitados por el combustible (ILC) e incendios limitados por la ventilación (ILV).
 
-2.  **Fase de Pleno Desarrollo:** Esta etapa se caracteriza por una concentración decreciente de oxígeno en el interior del recinto, lo cual es consecuencia del consumo generalizado de oxígeno por el colchón de gases de incendio. La potencia del fuego, la tasa de combustión y el tiempo de desarrollo del incendio, así como las dimensiones del habitáculo, son factores determinantes en esta fase. La temperatura interior depende de la potencia del incendio (energía liberada por unidad de tiempo) y de las pérdidas de calor del recinto. En este periodo, la potencia del incendio ya no está limitada por el combustible, sino por la disponibilidad de oxígeno en el recinto. En un incendio confinado o con ventilación insuficiente, donde el consumo de oxígeno excede el aporte exterior, la concentración de oxígeno disminuye rápidamente, generando una gran cantidad de productos de combustión incompleta, como carbonillas y gases tóxicos (por ejemplo, monóxido de carbono, cianuro de hidrógeno).
+A continuación, se presenta una comparación de las características clave entre un ILC y un ILV:
 
-3.  **Fase de Decaimiento:** Con el tiempo, la temperatura del recinto desciende y el incendio disminuye su potencia. Esto puede ocurrir de forma natural por el agotamiento del combustible o, si hay falta de ventilación, porque la potencia del incendio no es suficiente para compensar las pérdidas de calor al entorno.
+| Característica                        | ILC                                                      | ILV                                                                      |
+| :------------------------------------ | :------------------------------------------------------- | :----------------------------------------------------------------------- |
+| **Entorno para progresión interior** | Relativamente seguro                                     | Especialmente peligroso con dificultades específicas                     |
+| **Visibilidad**                       | Buena                                                    | Nula. Las operaciones interiores son lentas y complejas                  |
+| **Estrato de aire fresco**            | Presente en zonas bajas                                  | Ausente; atmósfera no respirable sin equipo autónomo (ERA)              |
+| **Atmósfera**                         | No combustible                                           | Combustible, con temperaturas generalizadas elevadas                    |
+| **Concentración de gases tóxicos**    | Relativamente baja (CO, HCN, etc.)                       | Alta (CO, HCN, etc.)                                                     |
+| **Combustión**                        | Completa                                                 | Colchón de gases inflamables con abundantes productos de combustión incompleta |
+| **Localización del foco**             | Fácil                                                    | Difícil                                                                  |
 
-## Fenómenos de Desarrollo Rápido
+El *flashover* se define como la fase transitoria en el desarrollo de un incendio de interior donde las superficies expuestas a la radiación térmica alcanzan su temperatura de ignición de manera casi simultánea, extendiendo el incendio rápidamente por todo el espacio disponible del recinto. Esta definición se encuentra en la norma NFPA 921, sección 3.3.78, año 2008.
 
-Existen fenómenos críticos que pueden manifestarse durante la evolución de un incendio interior:
+Para que un *flashover* ocurra, deben darse las siguientes circunstancias:
+*   **Carga de combustible**: Debe ser suficiente para generar una capa de gases cuya radiación permita que las superficies expuestas alcancen su temperatura de ignición.
+*   **Proporción de oxígeno**: Debe ser la adecuada para que la mezcla de gases se encuentre dentro de su rango de inflamabilidad. Esto se logra con una ventilación suficiente o si el recinto incendiado es lo bastante amplio como para asegurar el aporte de oxígeno necesario.
 
-### Flashover
+Durante la fase de *flashover*, se produce un aumento brusco y localizado de la potencia del incendio, una ligera sobrepresión y una elevada radiación térmica que intensifican el riesgo para los bomberos presentes en el interior. Por ello, las operaciones de avance interior y el control de la ventilación deben enfocarse en evitar el *flashover* mientras haya personal dentro.
 
-El **Flashover** es una fase transitoria de rápido desarrollo en un incendio de interior, donde todas las superficies expuestas a la radiación térmica alcanzan simultáneamente su temperatura de ignición. Esto provoca una propagación rápida y generalizada del fuego por todo el compartimento.
+Existen diversas estrategias para prevenir o mitigar el *flashover*:
+*   Limitar o reducir el suministro de aire al incendio.
+*   Disminuir la temperatura de la capa de gases de incendio para reducir su inflamabilidad.
+*   Diluir la capa de gases con vapor de agua para llevarla fuera de su rango de inflamabilidad.
+*   Efectuar un barrido de los gases de incendio para su expulsión del recinto mediante ventilación forzada, procurando no generar turbulencias excesivas que mezclen los gases de incendio con el aire.
 
-Para que se produzca un flashover, deben confluir varias condiciones: una carga de combustible suficiente para generar una capa de gases calientes cuya radiación pueda inflamar las superficies expuestas, y una proporción adecuada de oxígeno que mantenga la mezcla de gases dentro de su rango de inflamabilidad. Esto último se logra con una ventilación suficiente o en recintos lo bastante amplios para asegurar el aporte de oxígeno.
+**Indicadores de Flashover:**
+Aunque no son señales inequívocas, los siguientes indicadores pueden anteceder a un *flashover*:
+*   El incendio está cerca de finalizar su fase de crecimiento.
+*   Se observa una capa de gases densa y muy oscura en el incendio.
+*   Temperaturas elevadas en el recinto, con superficies expuestas a la radiación mostrando signos claros de pirólisis.
+*   Existe un aporte de oxígeno, indicando un incendio ventilado.
+*   A pesar de la ventilación, el plano neutro desciende casi al nivel del suelo.
+*   Aparición de "lenguas de gases inflamados" (*rollover*) en la capa de gases del incendio.
 
-Durante un flashover, se observa un pico puntual en la potencia del incendio, una ligera sobrepresión y un elevado nivel de radiación térmica, lo que intensifica significativamente el riesgo para los bomberos en el interior.
+**1.6. Incendios Infraventilados**
 
-Los indicadores de un flashover inminente incluyen:
-*   Un incendio que se acerca al final de su fase de crecimiento.
-*   Una capa de gases densa, muy oscura y caliente.
-*   Temperaturas elevadas en el recinto y superficies que muestran signos claros de pirólisis.
-*   La presencia de una ventilación que indica un suministro de oxígeno.
-*   El descenso del plano neutro casi al nivel del suelo, a pesar de la ventilación.
-*   La aparición de "lenguas de fuego" o *rollover* dentro de la capa de gases calientes.
+Un incendio infraventilado es un incendio de interior que alcanza el estado limitado por la ventilación sin haber pasado por una etapa de *flashover* (según el recuadro de la página 94).
 
-Las estrategias de intervención para prevenir el flashover con personal en el interior buscan limitar o reducir el aporte de aire al incendio, disminuir la temperatura de la capa de gases calientes, diluir los gases con vapor de agua para sacarlos del rango de inflamabilidad, o realizar un "barrido" mediante ventilación forzada para expulsar los gases sin crear turbulencias excesivas.
+Estos incendios son característicos de recintos confinados o con ventilación muy restringida, donde el aporte de oxígeno es escaso y el incendio consume el oxígeno disponible durante su fase de desarrollo. En la mayoría de los casos, el confinamiento es la causa de un incendio infraventilado.
 
-### Incendios Infraventilados y Flashover Inducido por la Ventilación
+En ausencia de un flujo de aire constante, el plano neutro desciende hasta el nivel del suelo, eliminando la estratificación de gases típica de los incendios con ventilación. Operativamente, esto es crítico, ya que la visibilidad interior es prácticamente nula y se pierde la capa de aire fresco que podría favorecer la supervivencia de las víctimas.
 
-Los **incendios infraventilados** son característicos de recintos confinados o con ventilación muy limitada, donde el oxígeno se agota rápidamente durante la fase de desarrollo, impidiendo que el fuego alcance un flashover. En estos escenarios, la ausencia de un flujo de aire continuo provoca que el plano neutro descienda hasta el nivel del suelo, resultando en visibilidad nula y la desaparición de la capa de aire fresco. La capa de gases calientes, saturada de combustible no quemado, presenta un alto potencial de crecimiento si se le aporta oxígeno.
+La "fracción de combustible" se define como la proporción de combustible disponible en la capa de gases. Antes del *flashover*, esta capa contiene productos de combustión completa (derivados del incendio limitado por el combustible), gases de pirólisis y una fracción de productos de combustión incompleta que aumentan a medida que disminuye la concentración de oxígeno. La fracción de combustible está compuesta por los gases de pirólisis y los productos de combustión incompleta.
 
-Un **flashover inducido por la ventilación** es un flashover que se produce en un incendio infraventilado debido a una apertura de ventilación repentina. Este aporte de oxígeno permite que la elevada concentración de combustible disponible en la capa de gases entre en su rango de inflamabilidad, provocando un rápido aumento de la temperatura y el desarrollo del flashover.
+En un incendio infraventilado, la elevada fracción de combustible conlleva un gran potencial de crecimiento al exponerse a la ventilación.
 
-Los experimentos indican que este fenómeno puede ocurrir en aproximadamente dos minutos tras la apertura de la ventilación en viviendas con mobiliario moderno. La intervención en incendios infraventilados debe priorizar el control de la ventilación desde el inicio de la progresión interior, para evitar un flashover inducido.
+Los incendios infraventilados son frecuentes en el contexto actual, dadas las edificaciones con alto aislamiento térmico y el uso de combustibles sintéticos que demandan una gran cantidad de oxígeno para su combustión. Por ello, son el escenario más común al llegar a un siniestro.
 
-### Backdraft
+**1.7. Flashover Inducido por la Ventilación**
 
-El **backdraft** es una deflagración que ocurre en un espacio confinado y con déficit de oxígeno (incendio infraventilado) cuando un aporte súbito de aire fresco reintroduce el oxígeno necesario para la combustión de los productos incompletos. A diferencia del flashover inducido por la ventilación, donde el aumento de potencia es gradual, en el backdraft la potencia se incrementa repentinamente debido a una deflagración explosiva. Este fenómeno implica un aumento abrupto de la presión y una onda destructiva.
+El *flashover* inducido por la ventilación es un *flashover* que se produce como resultado de la ventilación aplicada a un incendio infraventilado (según el recuadro de la página 94).
 
-Los indicadores del backdraft incluyen:
+En incendios infraventilados (aquellos limitados por la ventilación que no han sufrido un *flashover*), la apertura de cualquier hueco de ventilación provoca que el incendio recupere su potencia, ya que el oxígeno aportado permite que la gran cantidad de combustible disponible entre en su rango de inflamabilidad. Esto causa un aumento de temperatura que puede desencadenar un *flashover* en el recinto.
+
+En incendios infraventilados, al llegar el servicio de bomberos y al iniciar la progresión interior, es crucial prestar especial atención al control de la ventilación. Una ventilación inadecuada puede generar un *flashover* inducido por la ventilación mientras los efectivos están dentro del recinto.
+
+Experimentos de *Underwriters Laboratories* en viviendas a escala real con mobiliario moderno han demostrado que el *flashover* inducido por la ventilación puede ocurrir en aproximadamente dos minutos desde la apertura de la ventilación.
+
+Además de los indicadores clásicos de *flashover*, la formación creciente de flujos de entrada y salida de gases es característica desde el momento de la apertura. El flujo inicial, a menudo laminar, evoluciona hacia flujos de mayor velocidad y turbulencia a medida que el incendio recupera su potencia y se acerca al *flashover* inducido por la ventilación.
+
+**Recomendación de Intervención para *Flashover* Inducido por la Ventilación:**
+Una ventilación incorrecta puede provocar un *flashover* inducido. Por lo tanto, en incendios infraventilados, las tácticas de intervención deben ser similares a las empleadas en situaciones de *flashover*, y al inicio de la progresión, se debe priorizar el control de la ventilación.
+
+**1.8. Backdraft**
+
+Un *backdraft* es una deflagración que ocurre debido al aporte súbito de aire a un incendio confinado en el que hay productos de combustión incompleta por falta de oxígeno (según la norma NFPA 921, sección 3.3.14, año 2008).
+
+De forma similar al *flashover* inducido por la ventilación, un *backdraft* también se origina en un escenario de incendio infraventilado (ILV) que, sin haber pasado por un estado de *flashover*, contiene una alta fracción de combustible en su capa de gases. La diferencia principal es que, mientras que en el *flashover* inducido por la ventilación el aumento de potencia del incendio es gradual, en un *backdraft* el aumento de potencia es repentino y es consecuencia directa de una deflagración.
+
+**Mecanismo del *Backdraft***
+Al producirse una apertura en el recinto incendiado, una corriente de aire fresco (*corriente de gravedad*) penetra y se extiende por las zonas bajas. Por encima de esta, un flujo de gases calientes se dirige hacia la salida. La fricción entre ambos flujos genera turbulencias y zonas de mezcla. Inicialmente, estas zonas de mezcla afectan solo la proximidad de la salida de gases, pero gradualmente se desplazan hacia el fondo del recinto hasta alcanzar una fuente de ignición, iniciando la deflagración de la mezcla.
+
+Para que ocurra un *backdraft*, se requiere una fracción de combustible muy elevada en el recinto (>15% según algunos autores). El combustible del *backdraft* se compone de un volumen abundante de productos de pirólisis (resultado de combustibles ricos y altas temperaturas durante un tiempo prolongado) junto con productos de combustión incompleta.
+
+Existe una concepción errónea que vincula el *backdraft* únicamente a la concentración de monóxido de carbono (CO) en el recinto. Anteriormente, se pensaba que reducir la temperatura por debajo del punto de ignición del CO (609ºC) evitaría el fenómeno. Sin embargo, estudios posteriores han demostrado que las concentraciones de CO en los incendios rara vez superan el 5%, mientras que el límite inferior de inflamabilidad del CO es del 12%.
+
+**Indicadores de *Backdraft***
+El desencadenamiento de un *backdraft* puede ser precedido por varios indicadores, aunque ninguno de ellos es una señal inequívoca:
 *   Incendio infraventilado en un recinto confinado.
-*   Pulsaciones del fuego que hacen que el recinto parezca "respirar".
-*   Una capa de gases densa con tonalidades anaranjadas o amarillentas en el exterior.
-*   Silbidos que pueden producirse a través de rendijas.
+*   Pulsaciones dentro del recinto, donde las presiones internas alternan entre negativas y positivas en periodos cortos, haciendo que el incendio parezca "respirar y exhalar".
+*   Presencia de una capa de gases de incendio densa con tonos anaranjados y amarillentos en el exterior.
 
-Las estrategias operativas frente a un backdraft se centran en evitarlo a toda costa, ya que es extremadamente peligroso. Incluyen la apertura de ventilación en cubierta para evitar la corriente de gravedad, la limitación del aporte de aire hasta que el incendio decaiga y la reducción de la temperatura mediante ataque indirecto con agua. Si un backdraft es inminente, el personal debe permanecer en una posición defensiva y segura en el exterior.
+**Consecuencias y Prevención del *Backdraft***
+Un *backdraft* provoca un aumento súbito de la potencia del incendio, asociado a una onda de presión que puede causar daños materiales significativos y, en la mayoría de los casos, consecuencias trágicas para el personal en el interior. Por tanto, es una situación que debe evitarse a toda costa.
 
-### Explosión de Humo
+Las estrategias operativas para evitar el *backdraft* incluyen:
+*   **Apertura de un hueco de ventilación en cubierta**: Esta opción no permite la entrada de una corriente de gravedad, lo que impide una mezcla efectiva de gases de incendio y aire. Si bien puede ser útil en estructuras ligeras de madera, no es viable en construcciones con forjados.
+*   **Limitación o reducción del aporte de aire y espera a que el incendio decaiga**: A medida que la temperatura en el interior del recinto desciende, la inflamabilidad de la capa de gases y el riesgo de *backdraft* disminuyen.
 
-La **explosión de humo** es una deflagración que se produce cuando una fuente de ignición enciende una mezcla de gases de incendio y aire que se ha acumulado en un espacio oculto y ya se encuentra dentro de su rango de inflamabilidad. A diferencia del backdraft, no es el aporte repentino de oxígeno lo que provoca la deflagración, sino la presencia de una fuente de ignición en una atmósfera preexistente y ya inflamable.
+Las estrategias operativas para evitar el *backdraft* (continuación):
+*   **Reducción de la temperatura interior mediante ataque indirecto**: Utilizando agua desde la puerta de acceso o aperturas practicables que puedan cerrarse.
+*   **Posicionamiento defensivo del personal**: Si un *backdraft* es inminente, la prioridad es garantizar la seguridad del personal, que debe ubicarse en el exterior en una posición defensiva.
 
-Los indicadores de una posible explosión de humo son:
-*   Humo caliente, no excesivamente denso, en espacios confinados fuera de la zona principal del incendio.
-*   Una mezcla homogénea de gases de incendio y aire.
+**1.9. Explosión de Humo**
 
-La intervención debe enfocarse en evitar cualquier fuente de ignición, reducir la temperatura de la mezcla de gases mediante ataque indirecto con agua y ventilar para expulsar la mezcla de gases.
+La explosión de humo es una deflagración que ocurre debido a la presencia de una fuente de ignición en una mezcla de gases de incendio y aire que se encuentra dentro de su rango de inflamabilidad (según el recuadro de la página 96).
 
-## Influencia del Combustible en el Comportamiento del Incendio
+Durante un incendio, los gases de combustión pueden desplazarse a espacios ocultos sin fuentes de ignición, donde se mezclan con el aire. Estas mezclas pueden variar significativamente en su proporción combustible/comburente y temperatura. Si la mezcla alcanza su punto de inflamabilidad (temperatura y concentración dentro del rango de inflamabilidad), cualquier fuente de ignición puede desencadenar una deflagración, generando una onda expansiva con importantes daños materiales. Comúnmente, esto ocurre al activar circuitos eléctricos o por contacto con elementos incandescentes.
 
-El combustible juega un papel crucial en el desarrollo y comportamiento de los incendios, afectando la potencia, la opacidad de los gases y la composición de los productos de combustión.
+A diferencia del *backdraft*, el detonante de la deflagración en una explosión de humo no es el acceso de ventilación, sino la presencia de una fuente de ignición en una mezcla preexistente que ya está en su rango de inflamabilidad.
 
-### Poder Calorífico y Carga de Combustible
+**Indicadores de Explosión de Humo:**
+Aunque no son señales inequívocas, los siguientes indicadores pueden anticipar una explosión de gases:
+*   Humo caliente, no excesivamente denso, en un espacio confinado fuera de la zona del incendio.
+*   Presencia de una mezcla homogénea de gases de incendio y aire.
 
-El **poder calorífico** (Hc) de un combustible, que representa la energía química contenida en él, es directamente proporcional a la potencia del incendio. Este valor se expresa comúnmente en kilojulios por kilogramo (kJ/kg) o megajulios por kilogramo (MJ/kg). La potencia del incendio (Q) para fuegos limitados por el combustible (ILC) se calcula como el producto de la tasa de combustión (mc) y el poder calorífico (Hc). Para fuegos limitados por la ventilación (ILV), la potencia se puede aproximar utilizando la Ecuación de Kawagoe: Q = k * Hc * A * sqrt(h), donde 'k' es una constante (0.092), 'A' es el área de la apertura de ventilación y 'h' es la altura de dicha apertura. Además, la Regla de Thornton establece que la combustión de compuestos orgánicos libera aproximadamente 13.1 kJ/g de oxígeno consumido.
+**Intervención en caso de Explosión de Humo:**
+La intervención debe enfocarse en:
+*   Evitar cualquier tipo de fuente de ignición.
+*   Reducir la temperatura de la mezcla mediante ataque indirecto desde alguna apertura.
+*   Ventilar y expulsar la mezcla de gases del interior del recinto.
 
-La **carga de combustible** (Cc) se define como la cantidad de energía de los combustibles por unidad de superficie, expresada en kJ/m². Este factor influye decisivamente en la duración del incendio. Incendios con cargas de combustible bajas podrían no alcanzar un estado limitado por la ventilación, ya que el oxígeno disponible sería suficiente para consumir todo el combustible.
+**2. Influencia del Combustible**
 
-### Otros Factores Relacionados con el Combustible
-
-Otros factores clave incluyen la **tasa de pirólisis** (tp), que mide la masa de combustible que se piroliza por unidad de tiempo y superficie, indicando la volatilidad de los compuestos inflamables en estado sólido. Asimismo, la **tasa de combustión** (mc) es la velocidad a la que el combustible se consume. Estos factores, junto con la distribución del combustible y las características del recinto, determinan la velocidad de desarrollo del incendio. Los combustibles que requieren una gran energía de activación, por ejemplo, tienden a generar incendios de desarrollo lento.
-
-### Combustibles Tradicionales vs. Modernos
-
-La proliferación de materiales sintéticos en el mobiliario actual ha transformado la dinámica de los incendios de interior. Los plásticos y materiales sintéticos poseen un poder calorífico muy superior y curvas de desarrollo más rápidas en comparación con los combustibles tradicionales, como la madera y las fibras vegetales. Esto, sumado al aumento de mobiliario, distribuciones en planta abierta, mayores superficies y un aislamiento térmico superior en las construcciones, conduce a incendios más violentos. Estudios han demostrado que los combustibles modernos aceleran la llegada al estado de incendio limitado por la ventilación, facilitan la pirólisis y requieren menor energía de activación.
+El combustible influye de manera significativa en el desarrollo y comportamiento de los incendios. En incendios limitados por el combustible, las propiedades del combustible, su distribución y continuidad, son factores cruciales que determinan la potencia, el desarrollo, la opacidad de los gases de incendio, la composición de los productos de combustión y la respuesta a la ventilación. En incendios limitados por la ventilación, si la carga mínima de combustible necesaria para alcanzar este estado está presente, la distribución o continuidad del combustible no tendrán un efecto significativo en el incendio.

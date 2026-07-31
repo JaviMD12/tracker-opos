@@ -1,70 +1,101 @@
-# Caracterización de Vehículos en Operaciones de Rescate
+## Temario de Oposiciones: Rescate y Salvamento
 
-La comprensión detallada de los vehículos modernos, sus sistemas de seguridad y sus fuentes de energía motriz es fundamental para los equipos de rescate. La evolución del diseño automotriz ha introducido complejidades que requieren un conocimiento técnico avanzado para garantizar la seguridad de los intervinientes y optimizar el rescate de las víctimas.
+### Parte 5: Rescate en Accidentes de Tráfico
 
-## Sistemas de Propulsión Alternativos
+#### Capítulo 1: Caracterización
 
-El parque automovilístico actual incluye una creciente variedad de vehículos que emplean fuentes de energía motriz alternativas a los combustibles fósiles tradicionales, motivado por la búsqueda de mayor eficiencia y menor impacto ambiental.
+**3. Fuentes de Energía Motriz**
 
-### Vehículos Propulsados por Gas: GLP y GNC
+Actualmente, el sector automotriz incorpora cada vez más fuentes de energía alternativas. Las limitaciones de estos combustibles son cada vez menores y sus prestaciones se equiparan a las de los combustibles fósiles.
 
-Los vehículos que utilizan gases como combustible han experimentado un aumento constante en su consumo, ofreciendo un ahorro significativo (entre 40% y 45% respecto a la gasolina). La red de suministro de **Gas Licuado de Petróleo (GLP)** ha crecido notablemente en España, haciéndolo más accesible que el **Gas Natural Comprimido (GNC)** para usuarios particulares.
+En los últimos años, el uso de vehículos diésel ha aumentado y se espera que esta tendencia continúe, sumándose a la introducción de vehículos híbridos, eléctricos y de hidrógeno. En España, de un parque de 30 millones de vehículos, 40.000 utilizan sistemas de propulsión alternativos (incluyendo gases), una tendencia creciente por motivos económicos y medioambientales.
 
-Las diferencias clave entre estos combustibles radican en su composición y estado físico: el GNC se compone principalmente de metano y se almacena en estado gaseoso a muy altas presiones (aproximadamente 200 bar o 2.900 psi), lo que requiere tanques robustos. Por su parte, el GLP es una mezcla de butano y propano que se almacena en estado líquido a presiones mucho más bajas (entre 6 y 7 bares), permitiendo el uso de tanques más ligeros. En cuanto a la seguridad en caso de escape, el GNC es más ligero que el aire y tiende a disiparse hacia arriba, mientras que el GLP es más denso y tiende a acumularse en el suelo. Ambos sistemas cuentan con una instalación diseñada para resistir colisiones, incendios y caídas, evitando que el gas penetre en el habitáculo.
+En el caso de vehículos pesados, que tradicionalmente han usado gasoil, también se observa una tendencia hacia la adopción de combustibles renovables.
 
-Los vehículos a gas incorporan **válvulas de cierre de seguridad de gas**, que interrumpen el circuito eléctrico en caso de motor parado o activación de un sensor de choque, y **válvulas de cierre mecánicas** para mantenimiento o fallos de hermeticidad. Un **cortocircuito fusible** se activa ante temperaturas elevadas (superiores a 110°C), liberando gas de forma controlada a través de un **limitador de caudal** para reducir el flujo en caso de caída brusca de presión. Las **caperuzas de goma** protegen válvulas y accesorios, dirigiendo cualquier escape al exterior. La identificación del tipo de combustible se realiza a menudo mediante inscripciones como "CNG" o por la ubicación de las bocas de llenado y tanques. En autobuses de GNC, los tanques y una ranura de ventilación suelen ubicarse en el techo.
+**3.1. Alimentación por Gasolina y Gasoil**
 
-### Vehículos Eléctricos e Híbridos
+Los motores térmicos de combustión interna se clasifican en dos tipos según el combustible:
+*   **Motores de explosión**: Utilizan gasolina, gas o alcohol.
+*   **Motores diésel**: Funcionan exclusivamente con gasoil.
 
-Estos vehículos utilizan la electricidad como fuente de energía, siendo los **eléctricos puros** menos comunes que los **híbridos**. Los eléctricos destacan por su eficiencia, cero emisiones, silencio y bajo coste de repostaje, aunque presentan limitaciones en autonomía y precio, siendo ideales para entornos urbanos.
+Ambos tipos de motores comparten principios de funcionamiento y mecanismos fundamentales. Sin embargo, para aplicaciones que requieren gran potencia (como locomotoras, barcos o generadores eléctricos), se emplean exclusivamente motores de combustión interna o diésel.
+*   Los motores de explosión pueden funcionar con gasolina, gas natural comprimido, gas licuado de petróleo o hidrógeno.
+*   Los motores diésel pueden operar con petrodiésel o biodiésel, aunque este último muestra un rendimiento menos fiable en algunos tipos.
 
-Los vehículos híbridos combinan un motor de combustión con uno o más motores eléctricos. Pueden funcionar en **paralelo** (donde el motor eléctrico impulsa el vehículo hasta cierta velocidad, y luego interviene el motor de combustión, o este último recarga las baterías y el sistema regenera energía al frenar) o en **serie** (donde el motor térmico solo genera electricidad para alimentar el motor eléctrico). La identificación visual suele incluir las palabras "Hybrid" o la letra "h" en el modelo.
+En el transporte de pasajeros, la propulsión tradicional con gasolina o diésel sigue siendo la más común, predominando el gasoil. Este combustible genera menos dudas en cuanto a seguridad contra incendios.
 
-Los **componentes de alto voltaje** en estos vehículos, que pueden operar con tensiones de hasta 650V, incluyen:
-*   **Motor térmico**: Puede funcionar con gasolina, diésel, gas o biocombustibles, y se caracteriza por su bajo cubicaje y alto par.
-*   **Motor eléctrico**: Uno o varios, con transmisión directa a las ruedas, ofreciendo un par elevado a bajas revoluciones y un funcionamiento casi silencioso.
-*   **Generador**: Recupera energía de frenadas, retenciones y aceleraciones.
-*   **Baterías**: Generalmente de plomo-ácido, níquel-hidruro metálico (NiMh), níquel-cadmio (NiCd) o iones de litio. Suelen ser pesadas, con sistemas de refrigeración y ubicadas en la parte trasera del vehículo o en el techo en el caso de vehículos de pasajeros.
-*   **Sistema de gestión**: Un ordenador con múltiples sensores que optimiza la combinación de motores.
+Los depósitos de combustible en estos vehículos suelen integrarse en la zona de equipajes o bajo los asientos delanteros, requiriendo precauciones especiales durante las intervenciones de emergencia.
 
-### Vehículos de Hidrógeno (FHCV)
+**3.2. Alimentación por Gas Licuado de Petróleo (GLP) y Gas Natural Comprimido (GNC)**
 
-Estos vehículos, también conocidos como **Fuel Cell Hybrid Vehicle**, ofrecen alta eficiencia y emiten solo vapor de agua. Pueden quemar hidrógeno comprimido a muy alta presión y baja temperatura, o generar hidrógeno a partir de alcoholes, siendo el uso de **pilas de combustible** la opción más común para generar electricidad a partir de hidrógeno y oxígeno. Los componentes de seguridad incluyen la pila de combustible y las botellas de gas a presión, generalmente ubicadas en el techo. Su identificación exterior incluye rótulos como "FCHV", "F-CELL" o "HYDROGEN", junto con indicadores de presión.
+El consumo de GLP y GNC en España ha experimentado un crecimiento constante en los últimos años, según datos del Ministerio de Industria, Energía y Turismo. Estos combustibles, además de ser menos contaminantes, ofrecen un ahorro del 40-45% en comparación con la gasolina debido a su menor coste. Se estima que en España, aproximadamente 20.000 vehículos (principalmente taxis, autobuses urbanos, camiones de basura y flotas empresariales) utilizan gas, con un número creciente de vehículos particulares.
 
-## Elementos de Seguridad en Vehículos
+Las diferencias entre GNC y GLP son:
+*   **Composición**: El GNC se compone de un 90% de metano, mientras que el GLP (autogas) es una mezcla de butano y propano.
+*   **Disponibilidad**: La red de estaciones de servicio con GLP ha crecido; en 2013, Repsol reportó casi 200 estaciones. En España, el GLP es más común para vehículos particulares que el GNC.
+*   **Estado del combustible**: El GNC es gaseoso, mientras que el GLP es líquido.
+*   **Poder calorífico**: El GNC tiene un poder calorífico similar a la gasolina, pero el GLP ofrece más.
+*   **Presión de almacenamiento**: Este es el factor diferenciador más importante para la seguridad del vehículo.
+    *   Un tanque de GNC almacena gas a altas presiones (aproximadamente 200 bar o 2.900 psi) para obtener la energía necesaria y mantener la autonomía.
+    *   El GLP se puede almacenar a presiones más bajas (entre 6 y 7 bares), permitiendo tanques de acero más delgados, ligeros y económicos.
+*   **Escape de gas**: El GNC es más ligero que el aire y tiende a elevarse en la atmósfera. En caso de explosión, es más peligroso debido a la alta presión. El GLP, al ser más pesado, tiende a caer al suelo y es más seguro.
 
-Los sistemas de seguridad se clasifican en **activa, pasiva y terciaria**, diseñados para prevenir accidentes, minimizar daños y facilitar el rescate.
+A pesar de estas diferencias, la instalación de gas en vehículos con motor de gasolina es similar, realizada por talleres autorizados. Los depósitos, canalizaciones y uniones roscadas son muy resistentes a colisiones e incendios. En caso de fuga, el gas no penetra en el habitáculo.
 
-### Seguridad Activa
+El llenado del depósito de gas se realiza a través de un empalme detrás de la tapa del depósito, lo que permite identificar el tipo de combustible en una primera evaluación.
 
-La **seguridad activa** busca prevenir el accidente antes de que ocurra, e incluye elementos como sistemas de iluminación, frenos (ABS, ASR, ESP), dirección asistida y control de estabilidad. Aunque estos sistemas no suelen afectar directamente al rescatador, es crucial considerar el "control energético" del vehículo, que implica la llave de arranque, el paro automático y la desconexión de la batería de 12V y la de alto voltaje, si existe. Es posible que los vehículos modernos cuenten con una segunda batería, la cual también debe ser desconectada para reducir riesgos.
+**3.3. Vehículos Eléctricos e Híbridos**
 
-Los **neumáticos** son los cuatro puntos de apoyo que transmiten la adherencia y fricción con la carretera. Pueden ser **tubetype** (con cámara), **tubeless** (sin cámara, más comunes) o **semi-neumáticos** (para vehículos pequeños). En tractores agrícolas, pueden lastrarse con líquido (agua y anticongelante hasta el 75%) para aumentar la tracción, y el 25% restante se infla con aire.
+Los vehículos que emplean electricidad como fuente de energía incluyen los eléctricos puros (menos comunes) y los híbridos (más extendidos).
 
-La **suspensión** une las ruedas al bastidor, suavizando irregularidades y mejorando la estabilidad. Los sistemas pueden ser **McPherson** (común en turismos, con muelle y amortiguador), **hidractiva** (esferas de gas y líquido a alta presión) o **neumática** (en vehículos pesados, autobuses y camiones, usando aire comprimido y válvulas reguladoras).
+**Vehículos eléctricos**:
+*   **Ventajas**: Más eficientes, cero emisiones, silenciosos, conducción suave (similar a un coche automático), respuesta rápida del motor, bajo coste de recarga.
+*   **Inconvenientes**: Más caros, menor autonomía, no aptos para todos los usos, requieren punto de recarga en garaje. Ideales para ciudad, no para viajes largos.
 
-Los **frenos** transforman la energía cinética en calor para detener el vehículo, manteniendo la dirección. Han evolucionado desde tambores a discos y sistemas autoventilados, integrando tecnologías como ABS, ASR y ESP. Los vehículos pesados usan **frenos neumáticos** activados por pistones de aire comprimido.
+**Vehículos híbridos**:
+*   Pueden tener dos configuraciones básicas según su funcionamiento:
+    *   **Paralelo**: Tanto el motor eléctrico como el térmico pueden impulsar las ruedas.
+    *   **Serie**: El motor térmico solo se utiliza para generar electricidad.
+*   Las prestaciones varían entre configuraciones y en función de si se circula por ciudad o carretera.
 
-Entre las innovaciones en seguridad activa se encuentran los **faros inteligentes** de xenón, el **ordenador de a bordo** y el **sistema de paro y arranque automático** (común en urbanos, con riesgos potenciales si se presiona el acelerador tras un accidente). Otras innovaciones incluyen cámaras en retrovisores, detectores de distancia y sensores de luminosidad/lluvia.
+En un funcionamiento híbrido paralelo típico, el motor eléctrico impulsa el vehículo hasta unos 60 km/h; a partir de esa velocidad, se activa el motor de combustión interna. A diferencia de los vehículos eléctricos puros, los híbridos no requieren enchufarse a fuentes externas, ya que incorporan un generador que recarga las baterías. Algunos modelos incluyen "frenos regenerativos" para recargar las baterías.
 
-### Seguridad Pasiva
+Los fabricantes de vehículos híbridos y eléctricos incluyen elementos de identificación externa, como la palabra "Hybrid" o la letra "h" en el modelo, para distinguirlos. Por ejemplo, Lexus incorpora una "h" al final del modelo (ej. CT200h).
 
-La **seguridad pasiva** se activa automáticamente tras la pérdida de control del vehículo y la colisión, con el objetivo de reducir las fuerzas y aceleraciones que afectan a los ocupantes.
-Los **elementos estructurales** incluyen:
-*   La **carrocería**, diseñada para resistir impactos y deformarse de manera controlada. Las piezas estructurales tienen un espesor mayor (1.2-2.5 mm) que las cosméticas (0.6-0.8 mm). La **célula de seguridad** o habitáculo es rígida y reforzada con anillos (transversales como A, B, C, D) y pilares (que soportan grandes cargas longitudinales y transversales).
-*   La **chapa del salpicadero**, que impide la entrada de elementos mecánicos al habitáculo en colisiones frontales.
-*   El **túnel central**, que actúa como espina dorsal, reforzando la rigidez y resistencia.
-*   El **suelo del habitáculo**, el elemento más rígido de la carrocería, que soporta esfuerzos de flexión.
-*   Los **estribos bajo las puertas**, que protegen lateralmente a los ocupantes.
-*   Las **puertas**, diseñadas para un cierre perfecto con pilares y montantes, y barras de protección laterales.
-*   El **techo**, a menudo reforzado con traviesas y cerchas centrales.
+Dentro de los vehículos híbridos "paralelos", se distinguen dos arquitecturas: una con generador independiente para cargar las baterías y otra que usa el motor eléctrico también como generador.
+*   **Con generador independiente**: Tiene más componentes, siendo más pesado y caro (generador, convertidor de corriente alterna a continua, transmisión entre motor térmico y generador). Sin embargo, el generador es más eficiente cuando funciona solo.
+*   **Usando el motor eléctrico como generador**: Reduce el número de componentes pero puede disminuir el rendimiento.
 
-La **parte frontal** del vehículo se deforma progresivamente para absorber la energía del impacto, canalizando las deformaciones y utilizando largueros y traviesas con puntos fusibles. Los sistemas **Procon-ten** desplazan el motor hacia abajo y atrás, la columna de dirección se empotra y los cinturones de seguridad se tensan automáticamente. El **capó** se refuerza para canalizar deformaciones y evitar la penetración al habitáculo.
+La configuración "paralelo-serie" combina las ventajas de ambos sistemas y es la más utilizada por fabricantes como Toyota en su modelo Prius.
 
-Los **refuerzos laterales del suelo** aumentan la seguridad del habitáculo, y los **refuerzos interiores de puertas (SIPS)**, junto con las barras de protección, mitigan los daños en impactos laterales. En el techo, los **refuerzos** evitan que se hunda, y en descapotables, los **arcos de seguridad (ROPS)** se activan automáticamente.
+Estos vehículos cuentan con componentes de **alto voltaje** (hasta 650 V), aunque la denominación "alto voltaje" o "alta tensión" no se corresponde con la definición para instalaciones.
 
-Los **cristales** (lunas templadas y laminadas) están diseñados para astillarse sin producir fragmentos peligrosos o para mantener la visión, y las **ventanas de emergencia** en autobuses facilitan la evacuación. Los **cinturones de seguridad** (abdominales, torácicos, mixtos, de arnés, integrados) retienen a los ocupantes, complementados por **pretensores** que eliminan holguras al inicio del impacto (mecánicos o pirotécnicos). Los **airbags** (frontales, laterales, de cortina, de rodilla, en la banqueta, para peatones, inteligentes) se inflan instantáneamente para amortiguar el impacto, y el sistema **SRS** (Supplemental Restraint System) controla su activación.
+**4. Elementos de Seguridad en los Vehículos**
 
-### Seguridad Terciaria
+**4.1. Conceptos de Seguridad Activa, Pasiva y Terciaria**
 
-La **seguridad terciaria** incluye sistemas que facilitan el rescate, como el **desbloqueo automático del cierre centralizado** en caso de accidente, las **luces intermitentes de advertencia** (que indican alimentación activa) y el sistema **eCall**, que realiza llamadas automáticas de emergencia, proporcionando la localización y datos relevantes del accidente para acelerar la llegada de los servicios. Las **hojas de rescate**, proporcionadas por los fabricantes, contienen información vital sobre el vehículo para los equipos de rescate.
+La mayoría de accidentes con víctimas y, por tanto, rescates, ocurren en turismos. Por ello, la exposición se centra en los sistemas de seguridad de estos vehículos, aunque se mencionan elementos de vehículos pesados y especiales.
+
+Los sistemas de seguridad se diseñan para prevenir, neutralizar y minimizar los daños a los ocupantes en caso de accidente, y se clasifican en tres grupos:
+*   **Seguridad primaria o activa**: Orientada a prevenir el accidente antes de que ocurra (ej. iluminación, frenos, dirección asistida, control de estabilidad y tracción).
+*   **Seguridad secundaria o pasiva**: Reduce los efectos del accidente en el momento en que sucede.
+*   **Seguridad terciaria**: Aplicada después del accidente por los servicios de emergencia (policía, sanitarios, bomberos).
+
+**4.2. Seguridad Activa**
+
+Los elementos de seguridad activa, por lo general, no afectan directamente al rescatador, ya que dejan de funcionar al producirse el accidente. Sin embargo, algunos pueden representar un riesgo adicional.
+
+Los sistemas de seguridad han evolucionado gracias a la electrónica. Los vehículos modernos incorporan iluminación de xenón (alto voltaje), tarjetas de arranque por radiofrecuencia, mandos a distancia, elementos automatizados, apertura electrónica de maletero/capó, reposacabezas con regulación electrónica y sistemas de confort con movimiento automático de asiento y volante. Todos estos elementos deben considerarse en una intervención.
+
+El "control energético" del vehículo es un avance importante que influye en el rescate. Este control se centra en la llave o tarjeta de arranque, el paro automático y la desconexión de la batería. Es fundamental localizar y desconectar la batería para reducir riesgos, considerando la posible existencia de una segunda batería. El cese del suministro energético afecta la seguridad de intervinientes y víctimas, ya que impacta en los sistemas de seguridad pasiva.
+
+**4.2.2. Neumáticos**
+
+La capacidad de agarre y sujeción del vehículo a la carretera se logra a través de los cuatro puntos de apoyo que son los neumáticos. Su función principal es proporcionar la adherencia y fricción adecuadas con el pavimento para el arranque, frenado y conducción.
+
+Los neumáticos tienen hilos de refuerzo y se clasifican según su orientación en diagonales o radiales, siendo estos últimos los más comunes en vehículos modernos.
+
+Otra clasificación es por el uso de cámara:
+*   **Tubetype (TT)**: Con cámara y llanta específica. Usados en todoterrenos, vehículos agrícolas, motocicletas y vehículos pesados (autobuses, camiones).
+*   **Tubeless (TL)**: Sin cámara, con aros de acero internos (talón) para evitar la pérdida de aire. Requieren una llanta especial. Utilizados en la mayoría de vehículos.
+*   **Semi-neumáticos**: Fabricados solo con goma, sin cámara. Usados en vehículos pequeños (carros, coches de pedales).

@@ -1,139 +1,62 @@
-# Patologías en la Edificación por Causas Accidentales y Comportamiento de Materiales Estructurales
+## TEMARIO: RIESGOS TECNOLÓGICOS Y ASISTENCIAS TÉCNICAS
 
-La estabilidad de las edificaciones puede verse comprometida por diversas patologías, algunas de las cuales son de origen accidental y revisten especial gravedad para la intervención de los servicios de emergencia. Entre estas causas accidentales, los sismos y los incendios destacan por su capacidad de generar daños estructurales severos.
+### PARTE 1: EDIFICACIONES
+#### CAPÍTULO 2. TÉCNICAS DE ESTABILIZACIÓN DE SISTEMAS CONSTRUCTIVOS Y TERRENOS
 
-## Patologías por Causas Sísmicas
+**2. Técnicas de Estabilización**
 
-Un **sismo**, también denominado terremoto, se define como una sacudida brusca y transitoria de la corteza terrestre, resultado de la liberación repentina de energía acumulada que se propaga en forma de ondas sísmicas. El punto de origen de un terremoto en el interior de la Tierra se conoce como **hipocentro**, mientras que el punto directamente superior en la superficie terrestre se denomina **epicentro**. Los terremotos suelen ser causados por la ruptura de fallas geológicas, aunque también pueden ser desencadenados por procesos volcánicos o actividades humanas como grandes embalses, el _fracking_ o detonaciones nucleares, categorizándose entonces como **sismos inducidos**.
+Las técnicas de estabilización de elementos materiales en equilibrio precario o con riesgo inminente de colapso persiguen varios objetivos:
+*   Evitar riesgos para la vida humana.
+*   Permitir el desalojo seguro de los ocupantes.
+*   Prevenir el efecto dominó que pueda afectar a edificaciones adyacentes.
+*   Corregir la causa de la inestabilidad.
 
-Las consecuencias de un sismo pueden ser muy variadas, incluyendo desplazamientos de la corteza terrestre, corrimientos de tierra, tsunamis o actividad volcánica. La energía liberada se mide mediante escalas como la **Escala de Richter** (que cuantifica la magnitud en números decimales, con un crecimiento exponencial, donde una magnitud 4 es 100 veces mayor que una magnitud 2, y es efectiva hasta 400 km de profundidad) y la **Escala Macroseísmica de Mercalli-Cancani-Sieberg (MSK)** (que evalúa la intensidad en números romanos del I al XII, basándose en los efectos destructivos sobre edificaciones, alteraciones del terreno y afectación a la población). En particular, un sismo con foco bajo el mar puede generar un **tsunami**, caracterizado por un rápido movimiento vertical, grandes desplazamientos de masas de agua y olas de grandes dimensiones.
+Las estructuras auxiliares se dividen en:
+*   **Entibaciones:** Sistemas para estabilizar estructuras subterráneas.
+*   **Apeos:** Estabilizaciones sobre la rasante del terreno.
+*   **Saneamientos y Demoliciones:** Derribo de elementos inestables o peligrosos que no pueden estabilizarse.
 
-La transmisión de la energía sísmica se produce a través de ondas que se propagan tanto en el interior de la Tierra como en su superficie. Se distinguen las **ondas internas**, que incluyen las **ondas Longitudinales o Primarias (P)**, que se propagan en la misma dirección que la vibración de las partículas a velocidades de 8-12 km/s a través de líquidos y sólidos, y las **ondas Transversales o Secundarias (S)**, que se propagan perpendicularmente a la vibración de las partículas a velocidades de 4-8 km/s, pero solo a través de sólidos. Además, existen las **ondas superficiales**, resultantes de la interacción de las ondas P y S, que son más lentas (2.7-3 km/s) pero de mayor amplitud y duración, lo que las hace más destructivas. Dentro de estas últimas se identifican las **ondas Rayleigh** (con trayectoria elíptica retrógrada) y las **ondas Love** (similares a las S, pero en la superficie terrestre y perpendiculares a la dirección de propagación).
+**2.1. Entibaciones**
 
-Diversos factores influyen en la dinámica y los efectos de un sismo. Entre los **factores primarios** se encuentran la magnitud del sismo, la profundidad del hipocentro y el tipo de suelo (dureza, espesor y contenido de agua). Por otra parte, los **factores secundarios** incluyen la adecuación de las cimentaciones al terreno, la separación entre edificios (cuya ausencia puede provocar el "fenómeno aplauso") y la presencia de riesgos de incendio por la rotura de conducciones de gas o cortocircuitos eléctricos.
+La ejecución de construcciones e infraestructuras implica una alteración del terreno, ya sea por rellenos o excavaciones. Las excavaciones comprometen significativamente la estabilidad del terreno al retirar material, lo que modifica la estructura de sus capas y su equilibrio estático, provocando empujes activos. Si el terreno no tiene suficiente resistencia, se vuelve inestable y se desliza hacia la excavación.
 
-### Efectos del Sismo sobre el Terreno y Edificaciones
+Los trabajos en zanjas suelen causar accidentes graves o mortales debido a desprendimientos de tierra. Por ello, es crucial adoptar medidas que garanticen la seguridad tanto de las posibles víctimas como de los intervinientes.
 
-Sobre el terreno, los efectos más notables se producen en suelos poco firmes, saturados de agua, blandos o en zonas de deslizamiento. El **deslizamiento de tierras** ocurre cuando un estrato se mueve sobre otro inferior, facilitado por la saturación de agua y la pendiente. La **licuefacción** es un fenómeno por el cual suelos granulares no cohesivos se comportan como líquidos pesados, manifestándose con la emergencia de agua y fango en la superficie, compactación de granos de arena, reducción de volumen, y consecuentes asentamientos o corrimientos. Los síntomas incluyen la pérdida de verticalidad de la edificación, seccionamiento entre estructuras aéreas y subterráneas, y la aparición de "volcanes de lodo" o fango.
+Dado que cada tipo de terreno posee un ángulo de rozamiento/reposo y un comportamiento distintos, se deben establecer pautas de intervención. Si el ángulo de rozamiento teórico del terreno es mayor que el del talud, el desnivel se considera estable y no requiere protección. Si es menor, se debe ejecutar una entibación.
 
-En cuanto a las edificaciones, su comportamiento frente a un sismo depende de su **geometría**, **rigidez** y **materiales**. La distribución de masas y la regularidad o simetría de la planta son cruciales; las edificaciones asimétricas o con grandes variaciones de masa pueden sufrir deformaciones diferenciales. La rigidez de la estructura es fundamental, y variaciones en esta pueden dar lugar a patologías como el **efecto de columna corta** (un muro restringe la deformación de una columna, concentrando tensiones no previstas) o el **efecto de piso blando** (plantas diáfanas en edificios con el resto de plantas compartimentadas, lo que las hace vulnerables). El **fenómeno aplauso** se refiere al impacto entre edificios adyacentes de diferentes alturas durante un sismo, donde la estructura más pequeña puede dañar las columnas de la más alta.
+La entibación es el apeo del terreno que presenta riesgo de desplazamiento por inestabilidad natural o inducida por desmonte, vaciados, zanjas, pozos o galerías. Generalmente, se utiliza cuando no es posible mantener un talud natural. Este recurso es valioso para los cuerpos de bomberos para estabilizar terrenos con riesgo de colapso y afectación a edificaciones, así como para rescatar víctimas sepultadas.
 
-## Comportamiento de Materiales Estructurales ante el Fuego
+En la entibación, considerando la posición y el trabajo de sus piezas, se distinguen tres elementos:
+*   **Travesaños, largueros o velas:** Piezas verticales que recogen las tensiones del terreno mediante esfuerzos de flexión. Se adosan a las paredes de la zanja.
+*   **Tablas o cabeceros:** Piezas horizontales que pueden estar en contacto directo con el terreno o recoger las cargas de los largueros para transmitirlas a los codales.
+*   **Codales:** Piezas horizontales que trabajan a compresión y contrarrestan los empujes del terreno de ambos paramentos verticales de la zanja.
 
-Las patologías por causas accidentales también abarcan el comportamiento de los materiales estructurales frente a un **incendio**, lo que es crítico para los bomberos.
+**2.1.1. Tipología**
 
-### Acero Estructural en Incendio
+Los cuerpos de bomberos se enfrentan con mayor frecuencia a zanjas y pozos.
 
-El acero, aunque incombustible y no contribuyente a la propagación del incendio, presenta una alta conductividad térmica y se dilata significativamente con el calor. Esta dilatación puede generar fuertes empujes en la estructura, capaces de provocar colapsos. Además, el acero pierde su resistencia de forma muy rápida a temperaturas elevadas: a 300ºC comienza la pérdida de resistencia, entre 500-600ºC pierde hasta dos tercios, y entre 600-700ºC un tercio, llegando al "punto crítico" a 538ºC, donde la estructura colapsa al no poder soportar la carga de diseño. Por lo tanto, el acero es considerado uno de los materiales estructurales más peligrosos en un incendio, ya que puede conducir a un colapso súbito y temprano (entre 5 y 20 minutos en un incendio real a partir de 500ºC). Es fundamental refrigerar las estructuras de acero y evitar enfriamientos bruscos si ya están a alta temperatura, para prevenir daños adicionales.
+**a) Entibaciones en zanjas:**
+*   **Geometría:** Generalmente, toda entibación debe replicar el intradós del terreno a soportar. En zanjas, esto implica reproducir formas paralelepipédicas generadas por excavadoras. Se ejecutan dos superficies paralelas en contacto con los paramentos verticales del terreno, conectadas por elementos acodalados perpendiculares que contrarrestan los empujes activos de ambos frentes.
+*   **Rigidez:** En zanjas, si los esfuerzos del terreno son muy grandes o los codales de gran longitud, pueden surgir esfuerzos de pandeo que comprometan la estabilidad. Para aumentar la rigidez, se deben disponer tornapuntas inclinadas entre el cabecero y el codal.
 
-### Hormigón Armado en Incendio
+**2.1.2. Profundidades de entibado**
 
-El hormigón, un material pétreo, tiene una alta masa y densidad, lo que requiere una gran cantidad de calor para aumentar su temperatura. Posee una baja conductividad térmica, lo que reduce la zona de influencia del calor. Su coeficiente de dilatación es bajo, similar al del acero (1,17x10⁻⁵ ºC⁻¹ frente a 1,2x10⁻⁵ ºC⁻¹), y no es combustible (M0 o A1), por lo que no contribuye al inicio ni a la propagación del incendio.
+Históricamente, los bomberos españoles se han basado en las prescripciones de la NTP 278 del INSH/NTE-ADZ para determinar el tipo de entibación según la profundidad y el tipo de terreno. Esta norma considera peligrosa cualquier excavación que, en terrenos corrientes, supere 0.80 m de profundidad, o 1.30 m en terrenos consistentes, ya que a esas profundidades una persona podría quedar oprimida.
 
-Sin embargo, el hormigón armado también pierde resistencia con el aumento de la temperatura. A 300ºC comienza esta pérdida, a 500ºC se reduce al 50% de su resistencia inicial, y a 600ºC los áridos sufren una fuerte expansión, volviéndolo frágil. A 1000ºC, la grava se disgrega y el cemento se deshidrata, mientras las armaduras de acero ya han fallado a temperaturas menores. La pérdida de resistencia del hormigón se acompaña de cambios de coloración: gris original hasta 200-300ºC, rojizos (rosa a rojo) entre 300-600ºC (afectación importante pero sana), segundo gris con partículas rojas entre 600-900ºC (pérdida muy importante) y ante o amarillo pálido a partir de 900ºC (resistencia nula).
+Es esencial un estudio previo del terreno para conocer su estabilidad. Se considera peligrosa cualquier excavación cuya pendiente supere su talud natural.
+*   **Profundidad de entibado:** La norma establece que la entibación debe iniciarse a partir de 1.30 m. En emergencias, si una persona queda completamente cubierta (alrededor de 1.50 m), se debe entibar, y previamente realizar un hueco para respiración.
+*   **Tipo de terreno:**
+    *   **Gravas y arenas (no cohesivos):** Siempre se debe entibar.
+    *   **Arcillas (terrenos cohesivos):** Entibar automáticamente cuando la zanja o pozo esté cerca de una vía pública, cimentación u otro elemento cuya solicitación pueda causar su derrumbe. Esto ocurre si la cavidad está a una distancia inferior a dos veces su profundidad.
 
-El fallo del hormigón armado en incendio se atribuye a procesos termohidromecánicos. Específicamente, el **fallo termomecánico** se produce por la pérdida de adherencia entre el acero y el hormigón debido a la diferente velocidad de dilatación de ambos materiales. Por otro lado, el **fallo termohidráulico o _spalling_** ocurre por el desprendimiento explosivo de capas de hormigón. Este fenómeno es causado por el aumento de la presión interna del vapor de agua retenido en los poros del hormigón cuando este se calienta rápidamente, exponiendo las armaduras al fuego. La geometría de los elementos de hormigón, a menudo rectangulares, propicia una menor exposición a la carga térmica, haciendo que el factor de forma sea menos determinante que en el acero.
+**2.1.3. Precauciones**
 
-### Hormigones Pretensados y Postesados en Incendio
-
-Estos hormigones, utilizados en elementos prefabricados, se comportan peor que el hormigón armado convencional. El uso de alambres de acero en lugar de armaduras, junto con su menor diámetro, acelera el colapso. La pérdida de resistencia es más acusada, afectando especialmente a la tracción y flexión. Las armaduras pretensadas se deforman rápidamente, liberando la tensión adquirida durante la fabricación y reduciendo significativamente la capacidad estructural. Se estima que, cuando el hormigón pierde un 35% de su resistencia, el acero pretensado pierde entre el 60-70% de su capacidad portante. En el caso del hormigón postesado, la situación es aún más crítica si las armaduras no tienen protección específica contra el fuego y están embebidas en vainas.
-
-### Fábrica en Incendio
-
-Las estructuras de fábrica (muros de ladrillo, mampostería) presentan una alta masa e inercia térmica, lo que les confiere una buena resistencia al fuego y un calentamiento lento. Su baja conductividad térmica limita la afección al área directamente expuesta. Sin embargo, una diferencia de temperaturas entre las caras expuestas y no expuestas puede causar combamiento del muro y cargas excéntricas. Los elementos pétreos naturales pueden sufrir roturas de aristas y deformaciones por grandes cargas térmicas prolongadas. La resistencia al fuego es alta en muros macizos de piedra o ladrillo de baja huecosidad, pero media a baja en muros de hormigón o ladrillo de alta huecosidad. Las estructuras de fábrica son generalmente isostáticas, lo que facilita su control y evolución en un incendio. No obstante, si varios forjados se hunden, existe riesgo de desplome de muros por falta de arriostramiento.
-
-### Madera en Incendio
-
-La madera tiene baja masa y densidad, por lo que no requiere gran carga térmica para aumentar su temperatura, aunque su humedad puede retrasar este incremento. Su conductividad térmica y coeficiente de dilatación son bajos, lo que significa que el calor no se propaga fácilmente a zonas alejadas y no genera tensiones adicionales por alargamientos excesivos. La madera es combustible y contribuye a la carga térmica del incendio.
-
-A diferencia de otros materiales, la madera no pierde resistencia frente al fuego sino que la gana inicialmente al disminuir su humedad. Sin embargo, sufre una reducción de resistencia total por **carbonización** de la sección, estimándose una pérdida de 1 cm cada 15 minutos. Para evaluar el daño, se compara la sección calcinada con las no quemadas o se mide la pérdida de sección útil. Las estructuras de madera, por su bajo peso y alta flexibilidad, generan daños menos peligrosos en sismos, pero son vulnerables en incendios debido a la inadecuada resistencia de muros en plantas bajas (por garajes o grandes aberturas), conexiones precarias entre cimentación y entrepisos, presencia de insectos xilófagos, pudriciones y humedad. El fallo estructural se produce por carbonización de la sección resistente.
-
-## Normativa y Protección contra Incendios
-
-La normativa básica de protección contra incendios en España es el **Código Técnico de la Edificación (CTE DB SI)**, complementado por el Real Decreto 842/2013, que clasifica los productos y elementos constructivos según sus propiedades de **reacción al fuego** y **resistencia al fuego**.
-
-La **resistencia al fuego** se refiere a la capacidad de un material para evitar el avance y propagación del fuego y sus productos (estanqueidad, estabilidad y aislamiento térmico). Se clasifica con las siglas **REI/W (t)-MCS…** seguidas de un número que indica el tiempo en minutos.
-
-La **reacción al fuego** evalúa la combustibilidad de un material y su contribución al incendio. La norma UNE EN 13501-1 clasifica los materiales en 51 clases, basadas en tres parámetros:
-1.  **Potencial energético:** Clases A1, A2, B (incombustibles o poco combustibles, sin _flashover_), C, D, E (combustibles, peligrosos, con _flashover_ en corto tiempo: C > 10 min, D 2-10 min, E < 2 min), y F (sin determinar).
-2.  **Producción de humo (s):** s1 (baja), s2 (media), s3 (elevada).
-3.  **Caída de gotas o partículas inflamadas (d):** d0 (no caída en 600s), d1 (caída > 10s en 600s), d2 (resto de casos).
-
-Esta clasificación es fundamental para evaluar el comportamiento de los materiales en un incendio y tomar decisiones de seguridad adecuadas.
-
-## Impacto como Causa Accidental
-
-El **impacto** se define como el choque violento de un cuerpo sobre una edificación, generando una fuerza brusca. Se excluyen los impactos premeditados. Los valores de cálculo normativos para impactos de vehículos (hasta 30 kN) son 50 kN en dirección paralela a la vía y 25 kN en dirección perpendicular. Para carretillas elevadoras, la fuerza de impacto es cinco veces su peso máximo autorizado.
-
-La magnitud del impacto y sus consecuencias dependen de la masa y velocidad del cuerpo, su capacidad de deformación y amortiguación, y las características del elemento impactado. El impacto puede causar el colapso inmediato de la edificación, siendo un riesgo significativo en intervenciones de bomberos, especialmente en estructuras prefabricadas con fijaciones débiles como grapas y tacos. En caso de incendio, la estabilidad del acero en estos sistemas es precaria, llevando a un rápido colapso.
-
-## Evaluación de la Seguridad en la Edificación y el Estado de Ruina
-
-La **seguridad de un edificio** se considera garantizada cuando es capaz de soportar las cargas y acciones previsibles durante su vida útil, conforme a la normativa. Sin embargo, las edificaciones más antiguas o construidas sin norma pueden carecer de esta garantía. Para evaluar la estabilidad en una intervención de emergencia, se establecen varias categorías:
-*   **Estado de confianza:** Sin riesgo aparente.
-*   **Estado de precariedad:** Carencias que reducen la seguridad, pero sin peligro inmediato.
-*   **Estado de peligro/ruina:** La estructura no soporta las acciones permanentes o variables, pudiendo llevar al colapso.
-
-El **estado de ruina** se define como la condición de una edificación afectada por graves patologías que comprometen su estabilidad o habitabilidad. Se distinguen varios tipos de ruina:
-*   **Ruina funcional:** La edificación es inútil para su destino, aunque no afecte a su estabilidad.
-*   **Ruina constructiva:**
-    *   **Potencial o incipiente:** Vicios constructivos iniciales con potencial de evolución a graves daños.
-    *   **Propiamente dicha o física inminente:** Deficiencias que abocan al colapso inmediato o derrumbamiento, haciendo la reparación antieconómica.
-*   **Ruina económica:** El coste de reparación supera el 50% del valor actual del edificio.
-*   **Ruina técnica:** La consolidación no es posible, requiriendo reconstrucción de más de un tercio de sus elementos fundamentales.
-
-Los síntomas de ruina incluyen **grietas y fisuras** (manifestaciones de lesiones, evaluadas por forma, posición, amplitud y estado), **deformaciones** (pandeos, deflexiones, abombamientos), **disgregación de morteros** y descascarillado de materiales, empujes y descuadre de huecos. Las fisuras son superficiales (amplitud < 1 mm), mientras que las grietas son discontinuidades materiales que interrumpen la transmisión de esfuerzos. Un proceso patológico no accidental suele manifestarse inicialmente como fisuras, que pueden evolucionar a grietas si no se corrige la causa.
-
-### Grietas por Causas Mecánicas en Pilares y Vigas
-
-En pilares, las grietas pueden ser causadas por:
-*   **Aplastamiento:** Exceso de carga, hormigón o armadura deficiente. Se manifiesta como reducción local del espesor, con grietas finas en caras opuestas o esquinas.
-*   **Desagregación:** Ataque químico del hormigón.
-*   **Tracción:** Asiento del cimiento, excavación cercana, movimiento de pilar por falta de vigas centradoras. Grietas horizontales en el soporte.
-*   **Cortante:** Hormigón o armadura transversal deficiente, fuertes momentos en pilares rígidos, deslizamiento de la cimentación. Fisuras inclinadas (45-60°) en dos caras y horizontales en las otras dos.
-*   **Flexión:** Hormigón o armadura deficiente, aumento de momento por asiento, anclaje incorrecto. Fisura fina horizontal en cabeza o pie del pilar.
-*   **Pandeo:** Sección o armadura insuficiente, exceso de carga en pilares esbeltos. Grietas horizontales en una cara del pilar.
-
-En vigas, las grietas pueden ser causadas por:
-*   **Aplastamiento:** Exceso de carga, hormigón deficiente, sección pequeña con mucha armadura.
-*   **Flexión:** Sobrecarga excesiva, sección insuficiente, armadura metálica insuficiente o mal colocada, luz mayor a la de cálculo. Grietas en zonas traccionadas.
-*   **Cortante:** Armadura transversal insuficiente o cercos de menor diámetro/separación, hormigón deficiente. Fisuras inclinadas (45-75°).
-*   **Torsión:** Armadura (longitudinal y transversal) insuficiente o cercos sin soldar. Grietas inclinadas en el contorno.
-*   **Punzonamiento:** Escaso espesor de forjado, armadura insuficiente, hormigón de menor resistencia. Grietas concéntricas al pilar.
-
-### Grietas por Fenómenos Higrotérmicos en Hormigón
-
-Los cambios de volumen en el hormigón, como el **asentamiento plástico** (reducción de volumen por descenso de partículas gruesas y evaporación de agua) y la **retracción plástica o afogarado** (contracción por desprendimiento de calor y enfriamiento, que causa fisuras de 0,2-0,4 mm), ocurren antes del fraguado. Tras el fraguado, la **retracción hidráulica** se debe a la pérdida de agua de cristalización, produciendo fisuras estrechas (<0,02 mm) de ancho constante.
-
-Estos fenómenos pueden generar grietas en pilares (por mal curado, exposición solar), vigas (en barras y estribos por exceso de agua o recubrimientos deficientes) y muros (en coronación por excesiva longitud o falta de juntas).
-
-### Patologías por Causas Químicas
-
-En las fábricas, las **eflorescencias** (pátina blanquecina por cristalización de sales) causan picaduras y disgregaciones. En el acero, la **corrosión electroquímica** es un problema lento pero destructivo. En el hormigón armado, la corrosión puede ser causada por **gases atmosféricos** (ácido carbónico y sulfúrico) o por **agua** (pura, ácida, selenitosa o de mar que disuelve cal). La **carbonatación** del hormigón reduce su pH, eliminando la protección alcalina de las armaduras y favoreciendo su corrosión. La **aluminosis** (_fiebre del hormigón_), causada por cemento aluminoso, provoca pérdida de resistencia y porosidad en el hormigón, afectando a la estabilidad del edificio, siendo común entre 1960 y 1970 en ambientes húmedos y contaminados.
-
-### Síntomas Secundarios o Complementarios
-
-Las patologías se manifiestan a través de síntomas como la **disgregación de morteros y descascarillado** (pérdida de capacidad mecánica, común en muros antiguos), **desplomes y bombeos** (pérdida de verticalidad o curvatura por sección insuficiente o sobrecargas), **empujes** (fuerzas laterales que causan desplomes o rotaciones), **separación de macizos** (por materiales con distinto coeficiente de dilatación o malas trabazones), y **descuadre de huecos** (dificultad para abrir/cerrar puertas/ventanas por deformación). El **sonido a percusión** puede indicar obra defectuosa o disgregación de morteros.
-
-## Elementos de Protección Individual (EPI) en Incidentes NRBQ
-
-En las intervenciones NRBQ (Nuclear, Radiológico, Biológico, Químico), la elección de los EPI es fundamental y se basa en la normativa europea **UNE EN-340** (requisitos generales) e **ISO 13688:2013** (marcado de trajes), así como el Real Decreto 1407/92.
-
-Los EPI se clasifican en tres categorías según el riesgo:
-*   **Nivel I:** Protección mínima, para riesgos menores.
-*   **Nivel II:** Protección media, como equipos de protección contra salpicaduras químicas (material resistente a químicos, impide absorción de líquidos inflamables).
-*   **Nivel III:** Protección compleja, para riesgos elevados (trajes estancos a gases, encapsulados, con ventilación y presión positiva).
-
-Los **trajes de protección química** se clasifican del tipo 1 al 6 según la resistencia a la permeación (paso de sustancia a nivel molecular) y penetración (paso físico a través de cremalleras, costuras).
-*   **Tipo 1 y 2 (Gases y Vapores):** Trajes herméticos (Tipo 1) o no herméticos (Tipo 2) con suministro de aire. El Tipo 1 incluye ERA interno (clase A) o externo (clase B), o presión positiva con mangueras (clase C).
-*   **Tipo 3 y 4 (Líquidos):** Protegen contra líquidos a presión (Tipo 3) o pulverizados/salpicaduras (Tipo 4).
-*   **Tipo 5 (Partículas Sólidas en Suspensión):** Para partículas finas.
-*   **Tipo 6 (Pulverización Ligera de Líquidos):** Para salpicaduras.
-
-El **marcado de trajes** incluye el marcado CE, número de organismo de control, pictograma de protección química, norma aplicable y otras indicaciones (tallas, instrucciones de lavado). Para las **materias radiactivas**, se emplean protecciones específicas como lentes y delantales plomados o protectores de bismuto. Los materiales de blindaje se comparan por su equivalencia protectora, siendo el plomo el más eficaz, seguido del hormigón baritado, hormigón y ladrillo macizo.
-
-## Aparatos de Detección y Medida en NRBQ
-
-Para una intervención NRBQ eficaz, es crucial el uso de equipos de detección y medida, entre los que se incluyen:
-*   **Explosímetros:** Miden la concentración de gases y vapores inflamables, calibrados con un gas patrón (metano). La lectura debe multiplicarse por un factor de corrección.
-*   **Tubos colorimétricos:** Viales con preparación química que cambia de color al reaccionar con la sustancia a medir. Indican la concentración en ppm o porcentaje en volumen.
+Al ejecutar un apeo, se deben seguir las siguientes prescripciones de seguridad al trabajar bajo la cota del terreno:
+*   Identificar las características del terreno.
+*   Asegurar y examinar las instalaciones subterráneas (agua, líneas de alta tensión, gas u otros peligros).
+*   No penetrar en alcantarillados, pozos o aljibes sin comprobar la atmósfera interior o con equipos de respiración.
+*   No utilizar motores de explosión en excavaciones estrechas o profundas, y verificar los gases de escape si es necesario.
+*   No almacenar materiales ni arena en el borde de la excavación.
+*   Siempre que sea posible, colocar una escalera como vía de escape.
+*   Asegurar que los paneles queden verticales y los codales trabajen a 90º respecto al panel para evitar esfuerzos verticales.
+*   Tener en cuenta que a mayor profundidad de la zanja, mayor presión se ejercerá sobre los codales en la parte más baja.

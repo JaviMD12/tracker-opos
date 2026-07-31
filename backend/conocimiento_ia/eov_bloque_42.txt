@@ -1,60 +1,189 @@
-# Herramientas para Apeos, Arrastre y Elevación en Operaciones de Bomberos
+## Temario de Equipos Operativos y Herramientas de Intervención para Bomberos
 
-Las operaciones de bomberos y emergencias a menudo requieren la estabilización, movimiento o recuperación de objetos y estructuras. Para ello, se emplean diversas herramientas de apeo, arrastre y elevación, diseñadas para afrontar riesgos derivados de incendios, accidentes, colapsos estructurales o salvamentos. La elección de estas herramientas depende de factores como la ubicación de la intervención, el tiempo disponible y la resistencia requerida.
+### Capítulo 10: Herramientas para Apeos
 
-## I. Herramientas para Apeos
+#### 1. Características Generales de las Herramientas para Apeos
 
-Las herramientas de apeo son fundamentales para asegurar estructuras dañadas, facilitar la evacuación y el desalojo, o permitir reparaciones y demoliciones. Estos elementos deben ser resistentes, estables y de montaje rápido, garantizando la seguridad del personal y de los ocupantes.
+En diversas ocasiones, es necesario realizar apeos de emergencia en edificaciones dañadas. El objetivo de estas acciones es permitir la evacuación de personas, desalojar bienes, y estabilizar la estructura para su reparación o demolición posterior. Los apeos buscan asegurar las ruinas de edificios cuyos daños pueden deberse a causas naturales (como movimientos sísmicos, degradación de materiales) o a actividades humanas (como obras cercanas, explosiones, incendios).
 
-### 1. Tablones de Madera
+Para que un apeo sea eficaz, debe ser resistente, estable, rápido y sencillo de montar, garantizando la seguridad de las personas en el edificio. Los materiales seleccionados para los apeos dependen de la zona de intervención, el tiempo disponible y la resistencia requerida.
 
-Los tablones son piezas de madera maciza, generalmente con forma de prisma cuadrangular, de gran longitud y sección. Su función principal es auxiliar en el apuntalamiento de elementos estructurales deteriorados. Para evitar deformaciones, no deben utilizarse de forma aislada, sino en grupos de dos o tres. Las partes de un tablón incluyen la **testa** (canto de los extremos), la **cara** (superficie longitudinal) y el **canto** (borde lateral), definiendo su ancho y grosor.
+Los materiales comunes incluyen:
+*   **Madera**: Utilizada para apeos de menor escala y de carácter urgente, con montaje rápido. El tablón es el componente básico del apuntalamiento. Su resistencia a la compresión es de 70 Hg/cm² (hectogramos por centímetro cuadrado) para madera de pino. La resistencia disminuye a medida que aumenta su longitud, según la relación de esbeltez \(Ce = L/D\), donde L es el largo del tablón y D es el lado más pequeño del tablón.
+*   **Hierro**: Empleado para apeos de gran altura, ofreciendo mayor resistencia, estabilidad y durabilidad. Se presenta en tres modalidades:
+    *   *Perfiles de acero*: Facilitan apeos más sencillos, con piezas pre-preparadas en taller.
+    *   *Tubos de acero con uniones articuladas*: Permiten apeos de fachadas completas con grandes luces. Son de montaje rápido y bajo peso.
+    *   *Puntales telescópicos*: Elementos provisionales para apuntalamiento o uso en estructuras colapsadas. Son clave para el posicionamiento de sopandas. Su resistencia se basa en el cizallamiento del pasador que fija su altura.
+*   **Cerámicos**: Usados para el cierre de huecos (ladrillo). Son estables y económicos, aunque menos habituales.
 
-La clasificación de los tablones se realiza según su especie y calidad, con categorías como **ME-1** y **ME-2** (Madera Estructural), así como la clase **MEG** para vigas de grandes escuadrías. También se considera su contenido de humedad al momento de la clasificación, distinguiendo entre madera **húmeda** (WET GRADED) y **seca** (DRY GRADED). La normativa española **UNE 56544** rige esta clasificación por resistencia, complementada por **UNE EN 14081-1** para especificaciones técnicas.
+Los tipos de apeo se clasifican según:
+*   **Ubicación**: Cimientos, Muros, Pilares, Techos, Arcos y Bóvedas.
+*   **Tipo de Obra**: Reparaciones, restauraciones, consolidaciones, reformas, aperturas de huecos, ampliaciones, demoliciones, ruinas.
+*   **Posición**: Verticales, Horizontales, Inclinados.
 
-En cuanto a su uso, los tablones se emplean como durmientes longitudinales en forjados, tornapuntas en muros (fijados con bridas) y en la solidificación de muros mediante varillas y ranas. Es crucial que el personal use equipos de protección individual (EPI) como casco, guantes y botas, y sea precavido con golpes o aplastamientos que puedan deformar el material. El mantenimiento incluye la revisión regular para detectar roturas o deformaciones, así como la limpieza con agua, jabón y cepillo, transportándolos en soportes cilíndricos de nylon.
+#### 2. Equipos para Apeos
 
-### 2. Puntales Metálicos Telescópicos
+##### 2.1. Tablones
 
-Los puntales telescópicos son elementos provisionales de acero regulables, diseñados para trabajar a compresión. Se utilizan en apuntalamientos hasta que se instalan estructuras definitivas, y son esenciales en estructuras colapsadas. Constan de dos tubos deslizables telescópicamente, uno interior de menor diámetro y uno exterior de mayor diámetro con un extremo roscado. El ajuste de la longitud se realiza con un pasador que fija la altura aproximada, y un collar roscado permite un ajuste fino de la tensión. Las placas de asiento en ambos extremos aseguran una distribución perpendicular de la carga.
+###### 2.1.1. Especificaciones
 
-Estos puntales se clasifican por su resistencia nominal y longitud de extensión máxima, que varía entre 1 y 6 metros, y para alturas mayores se recurre a estructuras tipo cimbra. La capacidad de carga específica depende de factores como el diámetro, el espesor de los tubos y la altura de montaje, y sus valores se establecen bajo condiciones de trabajo ideales, a menudo difíciles de replicar en la práctica. La normativa **UNE-EN 1065:1999** regula estos puntales.
+Los tablones son piezas de madera de gran longitud y sección transversal, con forma de prisma cuadrangular. Funcionan como elementos auxiliares para estructuras dañadas. Se recomienda utilizarlos en grupos de dos o tres para evitar deformaciones.
 
-Se emplean en el sostenimiento de encofrados horizontales, apuntalamientos oblicuos de muros y entibaciones en zanjas. Durante su uso, se debe asegurar el asiento de las bases y un correcto aplomo, ajustando la altura fina con el husillo para aplicar la carga. Los riesgos incluyen derrumbes, caída de puntales, golpes y atrapamientos. Por tanto, es obligatorio el uso de EPI como casco, guantes y botas. El mantenimiento implica revisiones visuales de roscados, pasadores, tuercas y la estructura general para detectar deformaciones o corrosión, reemplazando piezas dañadas con repuestos originales. Se transportan en furgones de apeos y deben mantenerse limpios de grasa y suciedad.
+Sus partes son: testa (canto de los extremos), cara y canto. El ancho corresponde a la longitud transversal y el grueso a la medida del canto.
+Se clasifican por especie y calidad, existiendo las calidades ME-1 y ME-2 (Madera Estructural) y una clase MEG para vigas de grandes escuadrías.
+También se clasifican por el contenido de humedad: Madera Húmeda (WET GRADED) y Madera Seca (DRY GRADED).
 
-### 3. Ranas y Tensores de Ranas
+###### 2.1.2. Normativa
 
-Las ranas y sus tensores son utensilios utilizados en encofrados y, específicamente en apeos, para la solidificación de muros. Crean un conjunto robusto al unir tablones. El sistema se compone de ranas (piezas tensoras con placa rectangular), tensores de ranas (para varillas de encofrado con una carga de rotura de 3500 kg) y varillas (de 6 a 10 mm). Estos elementos deben estar homologados y cumplir con la normativa vigente.
+La norma española de clasificación es la UNE 56544, que asigna una clase resistente a cada combinación de especie y calidad. Las especificaciones se basan en las normas UNE EN 14081-1 y UNE 56544 (maderas nacionales).
 
-Para su uso, los tablones se colocan a ambos lados del muro, insertando una rana en un cajeado del tablón trasero y asegurándola con un gato carpintero. La otra rana se sitúa en el tablón delantero, uniendo ambas con una varilla. Las ranas se disponen a 50 cm de distancia a lo largo del muro y se tensionan con el tensor. El personal debe usar guantes, calzado y casco, y tener precaución para evitar deformaciones por golpes. El mantenimiento requiere la revisión del estado general, la lubricación del tensor y la limpieza regular, almacenándolos en furgones de apeos.
+###### 2.1.3. Uso y Seguridad
 
-## II. Herramientas de Arrastre y Elevación
+Los tablones se emplean como durmientes longitudinales en forjados, tornapuntas en muros con bridas y para solidificar muros con varillas y ranas.
+Durante su uso, es fundamental que el personal utilice EPI como casco, guantes, botas y cualquier otro equipo necesario según la intervención.
+Es importante evitar golpes o aplastamientos para prevenir deformaciones.
 
-Estas herramientas son esenciales para desplazar, mover o fijar objetos, así como para la recuperación de cargas, siempre cumpliendo con las normativas europeas aplicables.
+###### 2.1.4. Mantenimiento
 
-### 1. Cables de Acero y Tensores
+Es crucial verificar el estado de la madera para detectar grietas o deformaciones significativas que requieran su sustitución.
+Se transportan en vehículos específicos, como furgones de apeos y apuntalamientos, asegurándose de que estén libres de suciedad, grasas o humedad.
 
-Los elementos de arrastre y elevación incluyen **cables de acero**, **tensores de cable** y **sujetacables**.
+##### 2.2. Puntales Metálicos Telescópicos
 
-*   **Cable de acero**: Es una estructura flexible compuesta por hilos de acero o hierro enrollados helicoidalmente, formando torones que a su vez pueden enrollarse alrededor de un alma, creando cables de cordones múltiples. Se caracterizan por su resistencia y flexibilidad. Bajo tracción, su diámetro disminuye y su longitud aumenta. La resistencia a la rotura varía según la calidad del acero, la sección de los alambres y su estado de conservación. Las partes de un cable son el **torón**, el **alambre** y el **alma**. La normativa **UNE-EN 12385** regula los cables de acero.
+###### 2.2.1. Especificaciones
 
-*   **Tensor del cable de acero**: Este elemento, fabricado en acero forjado galvanizado, permite ajustar la tensión de un cable de forma sencilla para transmitir cargas, atirantar o sustentar estructuras. Sus terminales suelen llevar un tratamiento adicional para mejorar el rendimiento. La norma **DIN 1480** lo regula.
+Son elementos resistentes de acero, compuestos por pletinas base en los extremos y dos cilindros de distinta sección, donde el menor se aloja dentro del mayor. Se despliegan telescópicamente para aumentar la longitud. Se fijan mediante un pasador y se ajustan finamente con un husillo (tornillo sin fin) incorporado.
 
-*   **Sujetacables**: Se utilizan para unir cables y confeccionar gazas o bucles. Están fabricados por fundición, con un cuerpo que tiene muescas específicas para el diámetro del cable, asegurando un agarre sin deslizamiento con dos tuercas métricas. Presentan alta resistencia a la corrosión gracias a su acabado galvanizado. Se rigen por las normas **EN 13411-5** y **DIN 741**.
+Se utilizan como elementos sustentantes auxiliares en apeos de edificaciones y suelen estar pintados con tratamiento anticorrosión.
 
-El **uso y seguridad** de estos elementos requieren que el tensor trabaje en línea recta para una tracción correcta. El cable puede enhebrarse por uno o ambos cáncamos del tensor, ajustando la tensión manualmente y asegurando las tuercas. Es fundamental que el número de sujetacables y su diámetro sean los recomendados para evitar daños o deslizamientos. Nunca deben utilizarse para elevación de personas o cargas suspendidas. El uso de EPI como guantes y casco es obligatorio, y se debe evitar el roce de cables tensados con obstáculos.
+Las partes principales de un puntal telescópico regulable de acero son:
+*   Placa de asiento: Se fija perpendicularmente al eje en cada extremo de los tubos interior y exterior.
+*   Tubo exterior: De mayor diámetro, con un extremo roscado.
+*   Tubo interior: De menor diámetro, con agujeros para el ajuste aproximado de la longitud. Se desliza dentro del tubo exterior.
+*   Dispositivo de ajuste de la longitud: Compuesto por un prisionero (perno, espiga o pasador), una tuerca de ajuste y agujeros en ambos tubos (exterior e interior). El prisionero se inserta a través de los agujeros del tubo interior, indicando la longitud aproximada.
+*   Fuerza de ajuste: Dispone de una empuñadura y una cara que soporta el prisionero para sostener el pasador o el mecanismo de recuperación rápida, y permite ajustes finos de altura.
 
-El **mantenimiento** diario incluye la revisión visual de cables, tensores y sujetacables para detectar deformaciones, rotura de hilos u otros signos de deterioro. Es esencial limpiarlos y lubricarlos adecuadamente.
+Se clasifican según su resistencia característica nominal y su longitud de extensión máxima, que varía entre 1 y 6 metros. Para alturas mayores, se emplean estructuras tipo cimbra.
+La capacidad de carga depende del diámetro, espesor de los tubos y altura de montaje. Los valores de capacidad de carga de los fabricantes se establecen para condiciones ideales, como puntales telescópicos sin desplome, con fijaciones que simulan piezas articuladas en los extremos y cargas axiales perfectamente centradas.
 
-### 2. Otros Elementos Auxiliares
+###### 2.2.2. Normativa
 
-Diversos elementos complementan las herramientas de apeo y arrastre:
+La normativa aplicable es la UNE-EN 1065:1999, que regula los puntales telescópicos regulables de acero, incluyendo sus especificaciones de producto, diseño y evaluación mediante cálculos y ensayos.
 
-*   **Escantillón**: Consiste en tubos de acero telescópicos con palomillas de apriete, utilizado para tomar dimensiones e inclinaciones de corte. Permite determinar la longitud necesaria de los apeos y la reducción de las piezas de madera.
-*   **Gato carpintero**: Herramienta metálica con dos brazos de aprisionamiento (uno fijo y uno móvil) y un husillo roscado para ajuste fino. Se usa para sujetar piezas que se van a cortar o pegar, siendo útil en los servicios de bomberos.
-*   **Borriqueta**: Útil de madera o metálico con bisagras y presillas que, al desplegarse, forma una estructura de apoyo. Se emplea en pares para sostener riostras y tablones, facilitando trabajos de medición, corte y ajuste.
-*   **Nivel**: Instrumento de medición con un tubo transparente, líquido y una burbuja de aire. Indica la horizontalidad o verticalidad de un elemento cuando la burbuja se centra entre dos marcas.
-*   **Cinta métrica**: Cinta milimetrada enrollada en un tambor con una manivela, utilizada para medidas de mayor longitud.
-*   **Flexómetro**: Similar a la cinta métrica, pero con una cinta delgada de 2 a 8 metros en un estuche, con resorte y freno, para medir longitudes.
+###### 2.2.3. Uso y Seguridad
 
-Estas herramientas, aunque más sencillas, son esenciales para la precisión y eficiencia en las intervenciones, contribuyendo a la seguridad general en la manipulación y montaje de estructuras temporales.
+Los puntales se utilizan en diversas situaciones, como el soporte de encofrados horizontales dañados, apuntalamiento oblicuo de muros y entibaciones en zanjas.
+Para su uso, el puntal se coloca asentando ambas bases (superior e inferior). El tubo de menor diámetro se desliza por el interior del mayor, fijando la altura con el pasador. La tuerca roscada con asas permite el ajuste fino de la altura y la aplicación de carga.
+En cuanto a la seguridad, es necesario utilizar EPI adecuados: casco, guantes y botas.
+Los riesgos principales, según la Nota Técnica de Prevención 719 (2006), incluyen:
+*   **Derrumbe de la estructura superior**: Causado por carga excesiva, desplazamiento horizontal o uso inadecuado.
+*   **Puntales mal aplomados o mal montados**: Pueden llevar a la caída de la estructura superior.
+*   **Caída de puntales**: Durante las operaciones de carga, descarga o almacenamiento.
+*   **Golpes por objetos**: Durante el montaje o desmontaje.
+*   **Manos atrapadas**: Durante la descarga del puntal, o por la tuerca del puntal.
+*   **Sobreesfuerzos**: Durante la manipulación manual de los puntales.
+
+###### 2.2.4. Mantenimiento
+
+La revisión de los puntales debe ser realizada por el bombero y, si es necesario, por el fabricante. Antes del montaje, se debe verificar el estado de las roscas, pasadores, tuercas y dispositivos de seguridad para asegurar que no haya deformaciones, rasgados, corrosión profunda o piezas faltantes. No se deben utilizar piezas no originales.
+Los puntales telescópicos se transportan generalmente en el furgón de apeos y apuntalamientos.
+Para su limpieza, se debe mantener un buen estado general, libre de grasas o suciedad.
+
+##### 2.3. Ranas y Tensor de Ranas
+
+###### 2.3.1. Especificaciones
+
+Es un utensilio empleado principalmente en encofrados y, para apeos, en muros. Permite formar un conjunto más robusto si la parte posterior del muro a apearse es accesible.
+Se compone de tres elementos: ranas, tensor de ranas y varilla.
+
+Las especificaciones incluyen:
+*   Rana tensora: Con sierra de placa rectangular.
+*   Tensor para varilla de encofrado: Soporta una carga de rotura de 3.500 kg.
+*   Compatibilidad: Válido para varillas de 6 a 10 mm.
+
+##### 2.3.2. Normativa
+
+Estos elementos deben estar homologados y cumplir la normativa vigente aplicable.
+
+##### 2.3.3. Uso y Seguridad
+
+Para su uso en muros con acceso posterior, se colocan tablones a ambos lados del muro. En el tablón trasero, se realiza un cajeado de 100x50 mm para alojar una rana. Con un gato carpintero, se sujeta el conjunto y se taladra. Se coloca otra rana en el tablón delantero y una varilla pasante de 6-10 mm entre ellas, separadas unos 50 cm a lo largo del muro. Finalmente, se procede al tensado con el tensor de ranas.
+Para la seguridad en el trabajo, es imprescindible utilizar EPI como guantes, calzado y casco, según el tipo de intervención.
+Es importante evitar golpes o aplastamientos que puedan deformar los elementos.
+
+##### 2.3.4. Mantenimiento
+
+La revisión debe ser realizada por el bombero y el fabricante, verificando el buen estado general, la ausencia de deformaciones o corrosión, y el correcto engrasado del tensor.
+El tensor de ranas se ubica en el furgón de apeos y apuntalamientos para su transporte.
+Para su limpieza, debe mantenerse libre de suciedad que pueda afectar sus piezas.
+
+##### 2.4. Tensores y Cables de Acero
+
+###### 2.4.1. Especificaciones
+
+Este apartado describe el cable de acero, el tensor de cable de acero, las eslingas y los sujetacables.
+
+a) **Cable de acero**: Es un cable mecánico compuesto por varios alambres de acero o hilos de hierro enrollados helicoidalmente en una o más capas, generalmente alrededor de un alambre central, formando cables espirales que a su vez pueden estar enrollados helicoidalmente alrededor de un núcleo o alma, creando cables de cordones múltiples.
+
+Las características del cable de acero incluyen:
+*   Disminución del diámetro y aumento de longitud debido a los esfuerzos que soporta.
+*   Composiciones variadas según la disposición de alambres y cordones (notación A x B + C, donde A es el número de cordones, B el de alambres por cordón y C el de almas textiles).
+*   Almas de acero para máxima resistencia.
+*   Alambres y cordones preformados para adoptar una forma helicoidal.
+*   Resistencia a la rotura variable según la calidad del acero, sección de los alambres y estado de conservación.
+Las partes de un cable son el torón, el alambre y el alma.
+
+b) **Tensor del cable de acero**: Permite ajustar la tensión del cable en apeos de forma sencilla, transmitiendo cargas y sustentando estructuras colapsadas.
+Está fabricado en acero forjado galvanizado por inmersión en caliente, con terminales tratados para mejorar su rendimiento. Una mayor sección transversal resulta en una mayor carga de trabajo. Se encuentran tensores con rosca izquierda y rosca derecha en cada extremo. Los tipos de terminales pueden ser gancho-gancho, horquilla-horquilla o gancho-horquilla.
+
+###### 2.4.2. Normativa
+
+La normativa aplicable a los cables de acero es la UNE-EN 12385 (Cables de acero. Seguridad. Parte 1: Requisitos generales), fabricados según DIN 3055 y DIN 3060, o sus equivalentes ISO 2408 e ISO 2020.
+Los tensores están regulados por la norma DIN 1480.
+Los sujetacables suelen cumplir las normas EN 13411-5 y DIN 741.
+
+###### 2.4.3. Uso y Seguridad
+
+a) **Uso del tensor de cable**:
+*   Debe trabajar en línea recta o tracción para un correcto funcionamiento.
+*   El cable puede enhebrarse en uno o ambos cáncamos (según la instalación).
+*   La tensión se logra girando el cuerpo del tensor. Se recomienda usar tuercas para evitar que se suelte.
+*   Un cáncamo tiene rosca izquierda y el otro rosca derecha.
+*   La elección del tensor depende del diámetro del cable, el diámetro del ojal y la carga a soportar.
+*   No debe usarse en trabajos de elevación ni con cargas suspendidas.
+*   El fabricante suele marcar el cuerpo con la métrica "L" (left-rosca izquierda).
+
+b) **Uso del sujetacables**:
+*   Se enhebra el cable a unir y se aprietan las tuercas firmemente para evitar deslizamientos.
+*   Se debe usar el número de sujetacables recomendado por el fabricante.
+*   La elección del sujetacables depende del diámetro del cable; una abrazadera pequeña puede dañarlo por aplastamiento, mientras que una grande puede no aplicar suficiente presión.
+*   No debe usarse en trabajos de elevación ni con cargas suspendidas.
+
+c) **Seguridad**:
+*   Es imprescindible utilizar EPI como guantes y casco.
+*   Evitar que un cable en tensión roce obstáculos.
+*   Seguir todas las precauciones mencionadas para el uso de tensores y sujetacables.
+
+###### 2.4.4. Mantenimiento
+
+Es fundamental mantener el cable limpio y engrasado. Se debe revisar diariamente para detectar signos de deterioro (deformación, rotura de hilos).
+Las roscas del cuerpo y terminales del tensor deben verificarse para detectar daños o desgaste.
+Los sujetacables deben inspeccionarse periódicamente para asegurar su buen estado.
+Para el transporte, se guardan en la bolsa con el material de altura y la llave correspondiente, dentro de cajas en el vehículo. Deben mantenerse limpios y sin óxido.
+
+##### 2.5. Otros Elementos
+
+a) **Escantillón**: Herramienta de acero con tubos telescópicos y palomillas de apriete para evitar deslizamientos.
+Se utiliza para tomar las dimensiones de piezas o la inclinación de un corte, especialmente en lugares de difícil acceso. Al medir piezas verticales, se deben reducir dos grosores de tablón (sopanda y durmiente) más uno o dos centímetros para el acuñado.
+Los cortes deben evitar uniones que disminuyan la sección de la madera, como los cortes en ángulo o de cruce.
+
+b) **Gato carpintero**: Herramienta metálica de varios tamaños, compuesta por dos brazos de aprisionamiento (uno fijo y uno móvil) y un espárrago roscado con mango de madera o metal para el ajuste final.
+Se utiliza para sujetar piezas que se van a cortar o pegar.
+
+c) **Borriqueta**: Útil de madera o metal con dos bisagras y presillas. Al desplegarse, adquiere una forma específica. Se usa en parejas para apoyar riostras y tablones, facilitando trabajos de medición, corte y ajuste.
+
+d) **Nivel**: Instrumento de medición con soporte metálico y un tubito transparente con líquido y una burbuja de aire entre dos marcas. Indica la horizontalidad o verticalidad de un elemento cuando la burbuja está centrada.
+
+e) **Cinta métrica**: Cinta milimétrica alojada en un tambor con manivela manual para enrollar. Se usa para medir distancias largas.
+
+f) **Flexómetro**: Instrumento de medición con una cinta metálica delgada, de 2 a 8 metros, en una carcasa de plástico o metal. Posee un resorte interior y un freno. Muestra medidas en centímetros y milímetros, a veces también en pulgadas.

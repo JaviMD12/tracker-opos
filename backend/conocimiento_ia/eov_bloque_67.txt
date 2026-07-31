@@ -1,48 +1,81 @@
-# Normativa y Equipamiento en Vehículos de Bomberos
+La estandarización y normalización de los vehículos de bomberos se rige por la norma europea EN 1846, la cual aborda los vehículos contra incendios y de servicios auxiliares en tres partes:
+*   EN 1846-1: "Nomenclatura y designación" (Octubre de 1998).
+*   EN 1846-2: "Requisitos comunes. Seguridad y prestaciones" (Febrero de 2003).
+*   EN 1846-3: "Equipos instalados de manera fija. Requisitos relativos a la seguridad y a las prestaciones" (Septiembre de 2003).
 
-La intervención de los servicios de extinción de incendios y salvamento requiere de una flota de vehículos y equipos altamente especializados y regulados por estrictas normativas, tanto a nivel europeo como nacional. La **norma europea EN 1846** es el marco principal que rige la construcción y el equipamiento de estos vehículos, dividiéndose en tres partes fundamentales: la primera aborda la nomenclatura y designación, la segunda establece los requisitos comunes de seguridad y prestaciones, y la tercera se centra en el equipamiento fijo.
+La construcción de estos vehículos se adapta a las necesidades de cada servicio, siendo los propios cuerpos de bomberos quienes establecen los pliegos de condiciones técnicas y administrativas para su adquisición. La normativa EN 1846 establece los requisitos para la homologación de la construcción vehicular.
 
-## Clasificación de Vehículos de Bomberos
+**1. Nomenclatura y Designación**
 
-Los vehículos de bomberos se diseñan y construyen adaptándose a las necesidades específicas de cada servicio, y su homologación se rige por la norma EN 1846. Esta norma permite categorizarlos en función de su **masa total cargada (MTC)**, distinguiendo entre vehículos ligeros (con una MTC de 2 a 7,5 toneladas), medios (entre 7,5 y 14 toneladas) y pesados (más de 14 toneladas).
+La norma proporciona un sistema común de designación para definir, clasificar, categorizar y codificar los diferentes tipos de vehículos contra incendios y salvamento. Este sistema incluye un código alfanumérico que sirve de referencia para las solicitudes de oferta y detalla las características principales del vehículo, como la masa, categoría de uso, número de plazas, capacidad de tanque de agua, prestaciones de la bomba y equipos complementarios.
 
-Adicionalmente, se clasifican según su **capacidad de tránsito** en tres categorías:
-*   **Categoría 1 (Urbano):** Destinados a operar en infraestructuras viarias convencionales.
-*   **Categoría 2 (Rural):** Aptos para circular por todo tipo de carreteras y terrenos ligeramente irregulares.
-*   **Categoría 3 (Todo terreno):** Diseñados para transitar por cualquier tipo de vía y terrenos no acondicionados.
+La clasificación de vehículos contra incendios y salvamento según su masa total cargada (MTC) es:
+*   **Ligero:** MTC entre 2 y 7,5 toneladas.
+*   **Medio:** MTC entre 7,5 y 14 toneladas.
+*   **Pesado:** MTC superior a 14 toneladas.
 
-Asimismo, la norma establece una clasificación por su **aplicación principal**, organizándolos en nueve grupos y cuatro subgrupos, que incluyen desde autobombas y vehículos especiales de extinción (Grupo 1) hasta camiones con equipos elevadores (Grupo 2, como autoescalas giratorias o plataformas hidráulicas), furgones de salvamento (Grupo 3), ambulancias de servicio (Grupo 4), vehículos de control de daños (Grupo 5), camiones de mando y control (Grupo 6), vehículos de transporte de personal (Grupo 7), vehículos de logística (Grupo 8) y otros vehículos motorizados especializados, como los destinados a intervenciones en aeronaves o trenes (Grupo 9). Cabe destacar que los vehículos de transporte de personal con MTC inferior a 2 toneladas, embarcaciones, aeronaves, trenes y ambulancias están excluidos de la EN 1846-2, ya que poseen normativas específicas (por ejemplo, la EN 1789 para ambulancias).
+Las categorías de vehículos contra incendios se establecen según dos criterios:
 
-## Requisitos de Seguridad y Prestaciones Comunes
+a) **Capacidad de paso:**
+*   **Categoría 1 (urbano):** Vehículos para uso en vías asfaltadas convencionales.
+*   **Categoría 2 (rural):** Vehículos capaces de operar en todo tipo de carreteras y terrenos poco accidentados.
+*   **Categoría 3 (todo terreno):** Vehículos aptos para circular en todo tipo de carreteras y terrenos no acondicionados.
 
-La **norma EN 1846-2** detalla los requisitos esenciales de seguridad y prestaciones que deben cumplir estos vehículos. Para los vehículos con equipos elevadores, se aplican normativas específicas como la EN 1777 para plataformas hidráulicas y las EN 14043 y EN 14044 para escaleras giratorias automáticas y semiautomáticas, respectivamente. Es fundamental que los fabricantes analicen y cumplan con los peligros asociados al uso, conducción y operaciones rutinarias del vehículo, proporcionando manuales de instrucciones y formación adecuada a los usuarios.
+b) **Principal aplicación (9 grupos, 4 subgrupos):**
+*   **Grupo 1:** Camiones contra incendios y salvamento.
+    *   Subgrupo 1.1: Autobombas.
+    *   Subgrupo 1.2: Camiones contra incendios especiales.
+*   **Grupo 2:** Camiones con equipo elevador.
+    *   Subgrupo 2.1: Con escala giratoria.
+    *   Subgrupo 2.2: Con plataforma hidráulica (con brazo telescópico).
+*   **Grupo 3:** Furgón de salvamento.
+*   **Grupo 4:** Ambulancia de servicio contra incendios.
+*   **Grupo 5:** Furgón de control de daños.
+*   **Grupo 6:** Camión de control y puesto de mando.
+*   **Grupo 7:** Vehículo de transporte de personal.
+*   **Grupo 8:** Vehículo de logística.
+*   **Grupo 9:** Otros vehículos motorizados especializados (intervenciones en aeronaves, ferroviarias, etc.).
 
-Los aspectos cubiertos por esta normativa son variados y exhaustivos, abarcando desde la **estabilidad estática y dinámica** (especialmente durante el frenado) hasta la configuración del **motor, frenos, carga por eje, neumáticos, carrocería y cabina**. También se regulan los **accesos** a los vehículos y equipos, la resistencia de los techos, la disposición de los compartimentos, el **equipamiento eléctrico** (baterías, iluminación, niveles de ruido), las **dimensiones geométricas** (ángulos de ataque, de rampa, distancia al suelo), la organización de la cabina (distribución de volúmenes, espacio para equipos de respiración, asientos, puertas), la sujeción de material en compartimentos, y los tratamientos de construcción, resistencia a la corrosión y acabados superficiales.
+Ejemplos de denominación de vehículos contra incendios (según el Gobierno Vasco, 2011, vol. 4):
+*   **Camión contra incendios y de salvamento:** Un vehículo de motor de categoría "medio (M)" y clasificación "urbano" (1), con 6 plazas sentadas, 800 litros de agua, una bomba de 10 bar/2000 l/min, y un generador eléctrico (código 1). La nomenclatura sería EN 1846/1 M 1 6 800 10/2000 1.
+*   **Camión con equipo elevador:** Una escala giratoria según EN 1846-1, con un vehículo motorizado de categoría "medio (M)" y clasificación "urbano" (1), 3 plazas sentadas, alcance operativo de 30 m/10 m, equipada con bomba y cesta (código 1). La nomenclatura sería EN 1846/1 M 1 3 30/10 1 1.
 
-A modo de ejemplo, un **camión autobomba** de masa media (M), categoría urbana (1), con capacidad para 6 personas, depósito de agua de 800 litros, una bomba con prestaciones de 10 bar y 2000 l/min, y un generador eléctrico complementario, se designaría como EN 1846/1 M 1 6 800 10/2000 1. De forma similar, una **autoescala giratoria** con las mismas especificaciones de masa y categoría, capacidad para 3 personas, un alcance operativo de 30 metros de altura y 10 metros de extensión, equipada con bomba y cesta, se designaría como EN 1846/1 M 1 3 30/10 1 1.
+**2. Requisitos Comunes. Seguridad y Prestaciones**
 
-## Equipamiento Fijo en Vehículos
+La norma EN 1846-2 establece los requisitos de seguridad y prestaciones esenciales para vehículos contra incendios y servicios auxiliares, basándose en directivas europeas.
 
-La **norma EN 1846-3** aborda los requisitos de seguridad y prestaciones para los equipos permanentes e integrados en los vehículos de bomberos. Esta sección es crucial para asegurar que todo el material a bordo, desde las bombas hasta los sistemas de comunicación, funcione de manera óptima y segura.
+**Excepciones a la norma:**
+*   Vehículos de bomberos para transporte de personal o con una masa total en carga no superior a 2 toneladas, si no requieren modificaciones importantes.
+*   Embarcaciones, aeronaves y trenes, que tienen normativas específicas.
+*   Ambulancias, reguladas por la norma EN 1789.
 
-Entre los equipos fijos más relevantes se incluyen las **instalaciones de agua**, que comprenden la bomba principal, el tanque de agua, las conexiones de aspiración e impulsión, la instalación hidráulica y los instrumentos de control. Asimismo, se regulan las **instalaciones de aditivos**, que constan de la bomba de aditivo, el tanque, sus conexiones de aspiración e impulsión, la instalación hidráulica correspondiente y los instrumentos de control específicos. Además, se consideran elementos como los monitores y los soportes para equipos. Los generadores eléctricos instalados de forma permanente, aunque son equipos fijos, se rigen por otras secciones de la normativa.
+Para los camiones con equipo elevador, este estándar aplica al chasis, cabina y equipos comunes. Los aparatos de altura específicos se rigen por:
+*   EN 1777:1994 para plataformas hidráulicas.
+*   EN 14043:2000 para escaleras giratorias automáticas.
+*   EN 14044 para escaleras giratorias semiautomáticas.
 
-## Legislación de Tráfico para Vehículos Prioritarios
+La norma EN 1846-2 detalla los peligros significativos relacionados con el uso, la conducción y las operaciones rutinarias. Los diseñadores y fabricantes del vehículo son los responsables de analizar y cumplir la norma, si bien los bomberos deben conocer los riesgos para prevenir accidentes.
 
-El **Reglamento General de Circulación** establece el marco legal para la circulación de vehículos prioritarios, definiéndolos en su artículo 68.2 como aquellos vehículos de policía, extinción de incendios, protección civil, salvamento y asistencia sanitaria (públicos o privados) que circulan en servicio urgente y utilizan simultáneamente señales ópticas y acústicas especiales.
+También se establecen métodos de verificación, información para el usuario y documentación obligatoria (manual de instrucciones, marcas, placas de advertencia).
 
-Estos vehículos deben respetar la normativa de tráfico, aunque se les permite **flexibilizar ciertas limitaciones** en el cumplimiento de su misión urgente. Esto incluye la prioridad de paso, la capacidad de superar límites de velocidad, circular en sentido contrario por el arcén en autopistas o autovías, y no usar el cinturón de seguridad o transceptores durante la conducción. Sin embargo, es imperativo que el conductor actúe con diligencia, prudencia y control, evitando la conducción negligente o temeraria.
+**Aspectos del vehículo abordados por esta norma:**
+*   Estabilidad estática y dinámica, incluyendo durante el frenado.
+*   Motor, frenos, carga por eje, neumáticos, carrocería, cabina, protección de la dotación, depósito de combustible, enganche de remolque, suspensión.
+*   Acceso a los vehículos y equipos, resistencia del techo, y compartimentos de equipos.
+*   Equipamiento eléctrico, baterías, iluminación, y niveles de ruido.
+*   Dimensiones geométricas de los vehículos, incluyendo ángulo de ataque, de rampa y distancia al suelo.
+*   Cabina: distribución de volúmenes, ubicación de equipos de respiración autónoma, plazas sentadas y puertas.
+*   Compartimentos de material: fijación de equipos, instrumentos de maniobra y control, y dispositivos de comunicación.
+*   Construcción, resistencia a la corrosión y tratamientos de superficie.
 
-### Señalización y Prioridad
+**3. Equipos Instalados de Manera Fija. Requisitos Relativos a la Seguridad y a las Prestaciones**
 
-La **señal óptica especial V1**, identificativa de los vehículos de bomberos, junto con la sirena, confiere prioridad. La decisión de activar la sirena es del conductor, quien debe valorar la distancia al incidente, su importancia, la hora del día (evitando el uso nocturno innecesario) y la proximidad a zonas sensibles como hospitales. La sirena, no obstante, no otorga preferencia absoluta, sino que solicita el paso, y su uso excesivo puede reducir su efectividad. La instalación de estos sistemas de señalización requiere autorización de la autoridad competente. Además, se ha previsto que, a partir de 2015, la señal luminosa de todos los vehículos prioritarios sea de color azul.
+La norma EN 1846-3 se refiere a los equipos permanentes y opcionales instalados en los vehículos de bomberos. Establece prescripciones para minimizar los peligros intrínsecos, los que surgen durante la puesta en marcha, la utilización y las verificaciones rutinarias. También define la información que el fabricante debe proporcionar sobre el uso, seguridad, instrucciones y mantenimiento de todos los equipos del vehículo, tanto en la documentación adjunta como en el propio vehículo.
 
-Al hacer uso de las señales, los conductores de vehículos prioritarios tienen **preferencia de paso**, pero deben ejercerla con moderación y proporcionalidad, prestando especial atención a situaciones de riesgo como la presencia de peatones, ciclistas, intersecciones, pasos de cebra no regulados, mercados, zonas escolares, animales, edificios con acceso inmediato a la vía, autobuses parados, vehículos inmovilizados, superficies deslizantes, pasos a nivel, rotondas, intersecciones sin prioridad, zonas de visibilidad reducida o estrechamientos, deslumbramientos, o condiciones climáticas adversas (niebla densa, lluvia intensa, nieve, humo). Las órdenes de los agentes de tráfico prevalecen siempre.
+**Estos equipos incluyen:**
+*   **Instalaciones de agua:** bomba de agua instalada, tanque de agua, conexiones de aspiración e impulsión, instalación hidráulica de agua, instrumentos de uso y control, sistema de devanadera (carrete de pronto socorro).
+*   **Instalaciones de aditivos:** bomba de aditivo instalada, tanque de aditivo, conexiones de aspiración e impulsión de aditivo, instalación hidráulica de aditivo, instrumentos de uso y control para aditivo.
+*   **Monitor.**
+*   **Soportes de equipos.**
 
-### Responsabilidades del Conductor
-
-Todo conductor de un vehículo prioritario debe poseer el **permiso de circulación** adecuado. La responsabilidad por infracciones recae en el conductor, aunque el titular del vehículo es responsable de la documentación y el estado de mantenimiento. El conductor tiene la obligación de comunicar cualquier circunstancia que pueda afectar su aptitud para la conducción (por ejemplo, medicación incompatible, pérdida de puntos del carné).
-
-En cuanto a **drogas y alcohol**, la normativa prohíbe circular con una tasa de alcohol en sangre superior a 0,5 gramos por litro o en aire espirado superior a 0,25 miligramos por litro. Estos límites se reducen a 0,3 g/l y 0,15 mg/l, respectivamente, para conductores de vehículos de mercancías de más de 3.500 kg, transporte de viajeros con más de 9 plazas, servicio público, escolar, de menores, mercancías peligrosas, servicios de urgencia o transportes especiales, así como para conductores noveles durante sus dos primeros años. Además, está terminantemente prohibido conducir bajo los efectos de psicotrópicos, estimulantes o cualquier sustancia que altere las capacidades físicas o mentales.
-
-Los demás usuarios de la vía, al percibir las señales de un vehículo prioritario, están obligados a facilitar su paso, generalmente apartándose a la derecha o deteniéndose si es necesario. Es crucial que los conductores de vehículos prioritarios se aseguren de que su presencia ha sido percibida a tiempo por el resto de usuarios, dado que el ruido ambiental y las distracciones pueden mermar la eficacia de las señales de emergencia.
+Los generadores eléctricos montados permanentemente se tratan en otra sección de la norma.

@@ -1,47 +1,166 @@
-# Técnicas de Progresión Vertical en Rescate
+## Parte 1: Rescate en Altura - Técnicas de Intervención
 
-Las operaciones de rescate en altura y en entornos verticales exigen un dominio exhaustivo de las técnicas de progresión con cuerdas, que incluyen tanto el descenso como el ascenso de cargas y personal. Estas maniobras son fundamentales para garantizar la seguridad y eficiencia en cualquier intervención.
+### 2. Los Polipastos
 
-## Descenso de Cargas
+#### 2.1. Definición y utilidades de los polipastos
 
-El descenso de cargas abarca la evacuación de víctimas, camillas o materiales, y generalmente se prefiere sobre el ascenso debido a la asistencia de la gravedad, lo que implica un menor consumo de recursos y personal. Se pueden aplicar diversas metodologías para controlar el descenso:
+Los polipastos constituyen sistemas que combinan poleas fijas y móviles con una cuerda anclada en un punto fijo. Su función principal es reducir el esfuerzo necesario para mover una carga manualmente. La relación entre la fuerza aplicada (E) y el peso de la carga (R) se denomina Ventaja Mecánica (VM).
 
-### Control desde Arriba
-Este método, conocido por su comodidad y facilidad de control, es ideal en situaciones donde se dispone de un punto superior de acceso. Permite detener la carga con precisión y se beneficia del uso de desviadores o reenvíos para optimizar la trayectoria. No obstante, es crucial prestar atención a los posibles puntos de fricción de la cuerda con elementos del entorno.
+Son particularmente útiles para las siguientes maniobras:
+*   Elevación de materiales.
+*   Operaciones de rescate.
+*   Otras aplicaciones como tensado de tirolinas o remolque de vehículos con cabrestantes.
 
-La implementación de esta técnica requiere la instalación de un **Sistema de Anclaje de Seguridad (SAS)** robusto y dimensionado para soportar las cargas esperadas. En el anclaje central de este sistema, se coloca un freno de alta capacidad, como un descensor tipo ID. Si es necesario, un bombero acompaña y guía la carga durante el descenso. Para cargas particularmente pesadas, la técnica de frenado puede ser reforzada mediante la intervención de dos operadores y el uso de un nudo dinámico en el mosquetón de frenado, aunque un frenado excesivo puede volverse problemático en situaciones menos críticas. Adicionalmente, se instala un SAS independiente para la línea de seguridad, garantizando la redundancia del sistema.
+La selección de un polipasto depende de factores como:
+*   La altura vertical a cubrir.
+*   La cantidad de cuerda disponible.
+*   El número de poleas: un mayor número de poleas móviles incrementa la desmultiplicación de la fuerza. Por ejemplo, una polea reduce el esfuerzo a la mitad, dos poleas a un tercio, y así sucesivamente.
+*   El número de personal disponible para la tracción (a mayor personal, menor desmultiplicación necesaria).
+*   El peso de la carga a elevar (a mayor peso, mayor desmultiplicación requerida).
+*   La velocidad del sistema (mayor desmultiplicación implica menor velocidad).
+*   La calidad de los anclajes de seguridad (SAS), ya que una mayor desmultiplicación reduce la carga sobre los anclajes.
 
-### Método STEF (Sistema Técnico de Equilibrado Fácil)
-El método STEF se enfoca en facilitar el equilibrio de la camilla, permitiendo transiciones fluidas entre la posición horizontal y vertical. El sistema de PETZL® es un ejemplo de aplicación simple y segura.
+#### 2.2. Componentes de los polipastos
 
-Para su configuración, se instala un polifreno (como pro-traxion o mini-traxion) en las cintas de los pies de la camilla, conectado a una cuerda auxiliar de unos 10 metros que, a su vez, se ancla a una placa de reparto. Al desbloquear el gatillo del polifreno, la camilla puede pivotar a la posición vertical; luego, se bloquea y se recupera la cuerda para reestablecer la posición horizontal. Una alternativa para simplificar la manipulación es colocar una polea en las cintas de los pies y el mini-traxion en la placa de reparto. Durante esta maniobra, el rescatador principal se asegura a una cuerda auxiliar con un GRIGRI, regulando su altura con un puño y pedaleta. La tracción de la cuerda auxiliar B es la que permite cambiar la posición de la camilla de vertical a horizontal.
+Los polipastos están formados por poleas fijas y móviles, consideradas palancas de primera y segunda clase respectivamente. También pueden incluir frenos o bloqueadores, conocidos como polifrenos. A continuación, se describen estos elementos.
 
-### Control desde Abajo
-Esta técnica exige una vigilancia constante para evitar rozamientos de la cuerda. Requiere el doble de longitud de cuerda que el control desde arriba, y el reenvío superior debe ser de máxima calidad debido al **efecto polea**, que puede sobrecargar significativamente el anclaje.
+##### 2.2.1. Polea fija
 
-El montaje implica la instalación de dos SAS: uno superior para el reenvío y otro inferior para el sistema de frenado. La cuerda de seguridad también debe replicar esta configuración con SAS duplicados. El guiado puede realizarse desde abajo mediante la indicación de un "viento" o a través de una cinta con mosquetón conectada a la cuerda del reenvío.
+Funciona como una palanca de primera clase, donde el punto de apoyo (eje de la polea) se sitúa entre el empuje y la resistencia. Dada la forma circular de la roldana, la distancia desde el punto de apoyo al punto donde la cuerda deja la roldana hacia la resistencia (AR) es igual a la distancia desde el punto de apoyo al punto donde la cuerda se dirige al esfuerzo (AE). Esto resulta en una ventaja mecánica de 1:1. Por lo tanto, para levantar una resistencia de 100 kg (R=100 kg), se requiere un esfuerzo de 100 kg (E=100 kg).
 
-## Izado de Cargas
+##### 2.2.2. Polea móvil
 
-El izado de cargas, ya sean materiales, víctimas o camillas, es inherentemente más complejo y costoso que el descenso, demandando más material y personal.
+Opera como una palanca de segunda clase, donde el punto de apoyo se encuentra en el borde de la roldana, bajo el punto de unión de la cuerda al anclaje. El brazo de palanca de resistencia (AR) se extiende desde el punto de apoyo hasta el eje de la roldana (donde está la carga), mientras que el brazo de palanca de esfuerzo (AE) se extiende desde el punto de apoyo hasta donde se aplica la fuerza para elevar la carga. El brazo AE tiene el doble de longitud que el brazo AR, lo que confiere una ventaja mecánica de 2:1. Así, para levantar una carga de 100 kg (R = 100 kg), la fuerza requerida es de 50 kg (E = 50 kg).
 
-Durante su montaje, es esencial instalar un polifreno en la cuerda de tracción para evitar el retroceso de la carga. El **sistema de tracción (polipasto)** debe seleccionarse en función del peso a elevar, el personal disponible, el número de poleas y la longitud de cuerda. En situaciones que involucren personas, se debe montar una cuerda de seguro independiente sobre un SAS distinto. Además, la utilización de desviadores es crucial para prevenir rozamientos y daños en la cuerda.
+##### 2.2.3. Polifreno
 
-## Descenso por Cuerda (Rápel)
+Consiste en una polea combinada con un freno. La polea actúa como reenvío, permitiendo al bombero izar cargas considerables usando el peso de su cuerpo. El bloqueador (o freno) evita el retroceso de la carga al cesar el izado. En el mercado existen poleas con bloqueador integrado, como el PRO-TRAXION y mini-traxion, que simplifican el montaje de sistemas antirretorno en polipastos. El diseño del PRO-TRAXION incluye un orificio superior para la conexión al anclaje con un mosquetón, y un orificio inferior para conectar otra polea. Permite insertar y retirar la cuerda sin desenganchar la polea.
 
-El rápel es la técnica más habitual y aconsejada para el descenso por cuerda. Requiere el uso de un descensor que, para uso profesional, debe contar con alta capacidad de frenado, un sistema antipánico y capacidad de bloqueo.
+Es posible configurar polipastos con un sistema desembragable de ascenso-descenso, utilizando un descensor como el ID. Esto es útil para maniobras que requieren revertir el sentido rápidamente. Sin embargo, este sistema no es una polea pura y tiene una pérdida de ventaja mecánica de aproximadamente el 10%.
 
-El procedimiento inicia con la instalación de un **anclaje** seguro y robusto, como un pilar o una viga, y se protegen las aristas que puedan dañar la cuerda. Un extremo de la cuerda se ancla, asegurando el final con un nudo de tope y verificando que la cuerda alcance el punto deseado. La cuerda se pasa por el descensor, fijado al arnés, dejando la cuerda inactiva libre. Es fundamental tensionar el aparato para confirmar su bloqueo y, durante el descenso, sujetar la cuerda inactiva y manipular la empuñadura del descensor de forma progresiva. Si el descensor no bloquea correctamente o la cuerda se atasca, se debe revisar la dirección de instalación. Es crucial descender suavemente para evitar sobrecargas en los anclajes y sobrecalentamiento del descensor, utilizando siempre mosquetones de seguridad y garantizando el aseguramiento de la progresión.
+#### 2.3. Tipos de polipastos
 
-## Ascenso por Cuerda
+Las diferentes combinaciones de elementos, especialmente el número de poleas móviles, determinan el grado de desmultiplicación del polipasto. Un polipasto combina las ventajas de las poleas fijas y móviles, reduciendo el esfuerzo y mejorando la dirección de tiro.
 
-El ascenso por cuerda es una técnica complementaria al rápel, indispensable para una autonomía completa en el medio vertical, y se considera una maniobra muy segura si se ejecuta correctamente.
+La desmultiplicación teórica (por ejemplo, 2:1, 3:1) se basa en condiciones ideales sin rozamiento en el eje de la polea, entre la polea y la cuerda, o dinamismo de la cuerda. Los valores reales obtenidos en laboratorio son ligeramente inferiores (ej. 1,8 en lugar de 2).
 
-### Ascenso por Recorridos Verticales Cortos
-Para tramos cortos, se emplea un descensor autoblocante y un puño bloqueador. Este sistema permite una fácil transición entre el ascenso y el descenso.
-La secuencia operativa implica pasar la cuerda por el descensor anclado al arnés, para luego fijar el puño bloqueador por encima del descensor con un cabo de anclaje adecuado y un pedal. Una vez suspendido del descensor, se sube el puño con el pie en el pedal, estirando el brazo, y simultáneamente se recupera cuerda con el descensor para mantenerse colgado. La patada sobre el pedal debe ser lo más vertical posible para maximizar la fuerza de la pierna. Esta acción se repite hasta alcanzar el objetivo. Si es conveniente, la cuerda del descensor puede reenviarse al puño bloqueador para facilitar su recuperación.
+La ilustración (Imagen 46, no proporcionada para transcripción) ofrece datos sobre el uso de polipastos, incluyendo:
+*   Ahorro de fuerza para elevar una carga de 100 kg según la disposición de las poleas.
+*   Carga de rotura de la cuerda al pasar por la leva del polifreno.
+*   Carga máxima de trabajo (limitada por las poleas).
+*   Carga en el punto de anclaje, considerando el efecto polea y rozamientos.
+*   Eficiencias o ventajas mecánicas.
+*   Fuerza teórica (sin rozamientos).
+*   Fuerza real (afectada por diámetro de poleas, rozamientos y pesos).
+*   Longitud de cuerda estirada (relación entre longitud de cuerda recorrida y peso elevado).
 
-### Ascenso por Recorridos Verticales Largos
-Para ascensiones prolongadas, se utilizan un puño bloqueador y un bloqueador ventral (croll), alternando la suspensión entre ambos. El croll se posiciona en la anilla de la cintura del arnés integral y se fija a la anilla del pecho, asegurando una tensión adecuada para optimizar la progresión. El puño se coloca por encima, anclado al arnés con un cabo de anclaje largo.
+##### 2.3.1. Polipastos simples
 
-La secuencia de ascenso comienza subiendo el puño con el pie en el pedal, estirando el brazo al máximo. Luego, tirando de las manos sobre el puño y empujando la pierna en el pedal, se eleva el croll. Finalmente, el rescatador se sienta sobre el arnés, apoyándose en el bloqueador ventral, repitiendo el proceso hasta llegar al destino.
+Obtienen su ventaja mecánica de la suma de las poleas móviles que actúan sobre la carga. Para calcular la ventaja mecánica de un polipasto simple, se cuentan las cuerdas que soportan la carga. Por ejemplo, en la tabla mencionada (no proporcionada), la desmultiplicación aumenta de 1:1 a 2:1, 3:1, y 4:1.
+
+Según la ventaja mecánica, existen diversos tipos de polipastos simples:
+
+###### a) Polipasto 2:1
+
+Con una polea móvil sobre la carga, se obtiene una desmultiplicación de la mitad.
+La fórmula es **F = P / 2**, donde F es la fuerza ejercida y P es el peso.
+Esto es válido si las cuerdas están paralelas (ángulo de 0º). Con ángulos mayores, la ganancia de fuerza disminuye:
+*   0º = P/2
+*   30º = P/1.7
+*   45º = P/1.4
+*   60º = P
+
+### 3. Descensos y ascensos con cuerdas
+
+#### 3.1. Descenso de cargas
+
+Se emplea para el descenso de cualquier elemento, incluyendo accidentados, camillas o evacuaciones. El descenso es preferible al izado por su comodidad, su menor requerimiento de material y personal, y por trabajar a favor de la gravedad.
+
+Existen tres modos principales para el descenso de cargas:
+*   Control de la carga desde arriba.
+*   Método STEF.
+*   Control de la carga desde abajo.
+
+##### 3.1.1. Control desde arriba
+
+Es un método muy práctico para lugares con buen acceso superior y permite un ascenso posterior adecuado. Sus características son:
+*   Facilidad de control y detención.
+*   Posibilidad de usar desviadores o reenvíos.
+*   Necesidad de prestar atención a posibles rozamientos de la cuerda con elementos.
+
+Para su montaje, se procede de la siguiente manera:
+1.  Instalar un Sistema de Anclaje de Seguridad (SAS) que sea proporcional a las cargas de trabajo.
+2.  En el punto central de anclaje del SAS, se instala un freno con buena capacidad de frenado, como un ID.
+3.  Si es posible, el bombero que acompaña la carga la guiará. Si no, se instalarán líneas de viento para dirigir el descenso.
+4.  Se instalará otro SAS para la línea de seguridad, bajo las mismas condiciones que el SAS de tracción.
+5.  En descensos con cargas elevadas, se puede mejorar el frenado mediante la manipulación por dos operadores y el uso de un nudo dinámico en el mosquetón de frenado (Imagen 52).
+6.  En situaciones menos críticas, donde un frenado excesivo podría ser un problema, se recomienda la técnica para mejorar el frenado (Imagen 53).
+
+##### 3.1.2. Método STEF
+
+Sus siglas significan **Sistema Técnico de Equilibrado Fácil**. Este procedimiento permite equilibrar la camilla para cambiar su posición de horizontal a vertical y viceversa. Aunque existen varios métodos, el sistema comercializado por PETZL® es notable por su simplicidad y seguridad, permitiendo cambiar la posición de la camilla y conectar/desconectar un mosquetón.
+
+Para aplicar el sistema STEF, se sigue este proceso:
+1.  Se coloca un polifreno (pro-traxión o mini-traxión) en la unión de las cintas rápidas (fast) de los pies de la camilla, usando una cuerda auxiliar de unos 10 metros anclada a la placa de reparto y pasada por el polifreno.
+2.  Se desbloquea el gatillo de la pro-traxión y se pasa la camilla a posición vertical. Una vez hecho, se bloquea el gatillo y se recupera la cuerda para colocar la camilla en posición horizontal.
+3.  Otra opción es colocar una polea en las cintas de los pies de la camilla y la mini-traxión en la placa de reparto, lo que facilita la manipulación del gatillo del polifreno.
+
+Un rescatador se asegura con un GRIGRI a la cuerda auxiliar A, anclada a la placa de anclaje, para ajustar su altura con respecto a la camilla usando un puño con pedaleta. Para cambiar la camilla de posición vertical (inicio de salida) a horizontal, se tira de la cuerda auxiliar B (Imagen 55).
+
+##### 3.1.3. Control desde abajo
+
+Si se opta por controlar la carga desde abajo, es crucial asegurarse de que la cuerda no sufra rozamientos. Este método requiere el doble de cuerda que el control desde arriba, y el reenvío superior debe ser de alta calidad debido a la sobrecarga por el efecto polea.
+
+Para su montaje, se procede de la siguiente manera:
+1.  Se montan dos SAS: uno superior para el reenvío y otro inferior para el sistema de frenado.
+2.  La cuerda de seguridad puede instalarse en las mismas condiciones, duplicando los SAS.
+3.  El guiado se puede realizar desde abajo (viento) o colocando una cinta con mosquetón en la cuerda de reenvío (Imagen 56).
+
+#### 3.2. Izado de cargas
+
+El izado de cargas puede realizarse para cualquier tipo de carga. Sin embargo, es una operación más costosa que el descenso, ya que exige más material y personal, dependiendo del peso a elevar.
+
+Las consideraciones para su montaje incluyen:
+*   Instalar un polifreno en la cuerda de tracción para evitar el retroceso de la carga.
+*   Emplear un sistema de tracción (polipasto) que sea adecuado al peso, personal, número de poleas y cuerda disponible.
+*   Siempre que se icen personas, víctimas o camillas, se montará una cuerda de seguridad independiente sobre un SAS.
+*   Utilizar desviadores para evitar rozamientos en el izado directo de cargas.
+
+#### 3.3. Descenso por cuerda
+
+La técnica más común y recomendada es el rápel, que consiste en descender por una cuerda utilizando un descensor.
+
+Existen varios tipos de descensores (ocho, stop, ID, etc.). Para uso profesional, es preferible un descensor con buena capacidad de frenado, sistema antipánico y bloqueo, especialmente si se desciende acompañado de una víctima. El Petzl ID cumple con estos requisitos.
+
+El procedimiento para utilizar el descensor es el siguiente:
+1.  El anclaje debe ser robusto y ofrecer suficientes garantías de resistencia (ej., pilar, viga, árbol grande). Es fundamental proteger las aristas y otros elementos que puedan dañar los componentes de la cadena de seguridad (cinta, cuerda, mosquetón).
+2.  Un extremo de la cuerda se ancla, y se hace un nudo de seguridad al final de la misma. Es crucial verificar que la cuerda alcance el punto de destino.
+3.  La cuerda se pasa por el descensor (Imagen 58, pasos 1 y 2) y el descensor se fija al arnés. La cuerda restante será la inactiva.
+4.  Es importante aplicar tensión al aparato para comprobar su bloqueo (Imagen 58, paso 3).
+5.  A continuación, se sujeta la cuerda inactiva con una mano y se acciona la empuñadura del descensor para deslizar la cuerda. Se debe verificar que al soltar la empuñadura, el descensor bloquea la cuerda (Imagen 58, paso 4).
+6.  Si el descensor no bloquea o no se puede descender por bloqueo de la cuerda, se debe revisar el sentido de instalación de la cuerda.
+7.  Si el aparato tiene función de bloqueo antipánico, se debe comprobar su correcto funcionamiento aplicando tensión y tirando con fuerza de la empuñadura. Si funciona, bloqueará la cuerda.
+
+Al descender, es importante tomar precauciones:
+*   Deslizarse suavemente.
+*   Evitar saltos, ya que duplican o triplican la carga sobre el anclaje, pudiendo sobrecargarlo.
+*   Descender lentamente, especialmente en recorridos largos, para evitar sobrecalentar el descensor y quemar la cuerda.
+*   Utilizar mosquetones de seguridad en los descensores.
+*   Siempre realizar el rápel asegurado.
+
+#### 3.4. Ascenso por cuerda
+
+El ascenso por cuerda es una técnica complementaria al rápel, esencial para la autonomía completa en las cuerdas y la desenvoltura en el medio vertical. Es una técnica muy segura.
+
+Existen diversas técnicas de ascenso:
+*   **Ascenso por recorridos verticales cortos:** con descensor autoblocante y puño bloqueador.
+*   **Ascenso por recorridos verticales largos:** con puño bloqueador y bloqueador ventral.
+
+##### 3.4.1. Ascenso por recorridos verticales cortos
+
+Se utiliza un descensor autoblocante (preferiblemente ID, GRIGRI, stop u otros) y un puño bloqueador. La principal ventaja es la facilidad para cambiar de ascenso a descenso, ya que el bloqueador está montado en la cuerda.
+
+Para su montaje, se sigue este procedimiento:
+1.  Se pasa la cuerda por el descensor unido al arnés.
+2.  Mediante un cabo de anclaje de longitud adecuada, se une el puño al arnés y se coloca en la cuerda por encima del descensor, junto al pedal.
+3.  Se recupera la cuerda hasta quedar suspendidos del descensor.

@@ -1,14 +1,155 @@
-En el ámbito de la ingeniería civil y las emergencias, el **acero** se erige como un material fundamental en la construcción, siendo una aleación de hierro y carbono con un porcentaje de este último que oscila entre el 0.03% y el 2% en peso, si bien los valores más comunes se sitúan entre el 0.2% y el 0.3%.
+El temario de oposiciones de bomberos y emergencias, basado en texto extraído de PDFs, aborda a continuación la caracterización y técnicas de intervención con materiales y estructuras, con un enfoque riguroso y técnico.
 
-Este metal presenta unas **características físicas y mecánicas** destacadas. En cuanto a su fabricación, a diferencia de la fundición, que se moldea, el acero se forja mediante presión o impacto, lo que le confiere una elevada resistencia. Su densidad es considerable, aproximadamente 7850 kilogramos por metro cúbico, lo que lo hace más denso que el hormigón, por ejemplo, y significativamente más pesado que el aluminio, cuya densidad ronda los 2700 kilogramos por metro cúbico. Esta alta densidad no obsta para que el acero sea ampliamente utilizado en diversos sectores industriales debido a sus sobresalientes ventajas estructurales.
+### III. Acero Estructural y Aceros Especiales
 
-Por otro lado, el acero posee una **alta conductividad eléctrica y térmica**, lo que implica que puede transmitir el calor con facilidad, una propiedad crucial en escenarios de incendio. Además, su **coeficiente de dilatación térmica** es de 1.2 x 10⁻⁵ ºC⁻¹, un valor casi idéntico al del hormigón, que se sitúa en 1.17 x 10⁻⁵ ºC⁻¹. Esta similitud es aprovechada en la ingeniería al combinar ambos materiales para crear el hormigón armado, supliendo las deficiencias del hormigón a tracción. Mecánicamente, el acero exhibe una **alta resistencia a la compresión y a la tracción**, lo que lo hace versátil para elementos constructivos individuales o como parte de estructuras mixtas. No obstante, la **corrosión** es un problema significativo para el acero, lo que requiere la aplicación de diversos sistemas de protección superficial, como el cincado, galvanizado, cromado, niquelado o pavonado, o el uso de aleaciones específicas como el acero inoxidable (con cromo) o el acero Corten (con cobre, cromo y níquel).
+**III.1.4. Productos Planos de Acero Recubiertos Orgánicamente (Prelacados)**
+Se refiere a los productos planos de acero que han sido recubiertos con capas orgánicas de forma continua, es decir, prelacados.
 
-Las **tipologías de acero** en la construcción son variadas, destacando el acero estructural, el acero de armar y el acero para pretensados.
-El **acero estructural**, que se obtiene laminado en caliente, se utiliza para conformar perfiles, barras y chapas en elementos constructivos. Su nomenclatura, conforme a la norma UNE EN 10027-1, se designa con la letra "S" (Steel), seguida de un número que indica el límite elástico mínimo en megapascales (N/mm²), complementado por símbolos adicionales que definen sus características. Por ejemplo, existen clases resistentes como S235, S275, S355 y S450 MPa. Los símbolos adicionales especifican el grado de soldabilidad y resiliencia, como JR para construcción ordinaria, J0 para alta soldabilidad y J2 para exigencias específicas de resistencia y soldabilidad. Según su proceso de fabricación, las Euronormas clasifican los productos de acero en laminados en caliente, productos huecos para la construcción (con acabados en caliente o conformados en frío) y perfiles de sección abierta (laminados en frío y perfilados). Los perfiles de sección abierta más comunes incluyen secciones en L, U, C, Z y Omega. En cuanto a los perfiles laminados en caliente, se distinguen el IPN e IPE, donde el IPE, con su ala de espesor constante, ha reemplazado al IPN, cuyo espesor de ala disminuye al alejarse del alma. Estos perfiles en "I", con un canto mayor que el ala, son ideales para resistir esfuerzos de flexión en vigas. Por otro lado, los perfiles en "H", como HEA, HEB y HEM, con igual canto y ala, requieren más material para la misma resistencia a flexión, pero ofrecen excelente resistencia longitudinal y transversal, siendo preferibles para pilares, con el HEB como el más utilizado. Los perfiles en "U", como UPE y UPN, se emplean en vigas de menor entidad. Ejemplos prácticos de su aplicación incluyen el uso de perfiles IPE/IPN en pilares de cimentación de carteles publicitarios para soportar cargas variables como el viento, o perfiles HEB en vigas de aperturas de forjados para resistir esfuerzos verticales y evitar deformaciones horizontales. Además, existen productos planos de acero recubiertos con materias orgánicas (prelacados) para proporcionar propiedades como brillo, dureza o resistencia a ataques químicos.
+**III.1.5. Otros Productos**
+Esta sección engloba otros productos de acero no categorizados en los puntos anteriores.
 
-El **acero de armar** se refiere a los productos fabricados en caliente para armaduras pasivas del hormigón, mallas electrosoldadas y armaduras soldadas en celosía, regulados por la norma UNE EN 10080. Se comercializa en barras rectas o rollos de acero corrugado soldable con diámetros que van desde 6 mm hasta 40 mm. Su nomenclatura, B 400/500 S/SD, indica que es acero en barras con una clase resistente de 400/500 MPa y propiedades de soldabilidad (S) o soldabilidad y ductilidad (SD). La identificación de su fabricante se realiza mediante un código basado en el engrosamiento de las corrugas, que incluye un inicio con una corruga eliminada, el código del país (por ejemplo, España es el 7) y el fabricante o marca.
+**III.1.6. Acero Laminado en Caliente (Chapas y Perfiles)**
+Los aceros laminados en caliente se fabrican a partir de las clases de acero resistente previamente definidas y se encuentran disponibles en una extensa variedad de perfiles y chapas.
 
-Finalmente, el **acero para pretensados** se utiliza en la fabricación de armaduras activas. Su nomenclatura, como Y1570, Y1670, Y1770 o Y1860, indica su clase resistente en megapascales, refiriéndose a la carga de rotura. Los coeficientes de seguridad para este acero son del 70% de la carga de rotura para acciones estáticas y del 40% para acciones dinámicas. Los productos comerciales incluyen alambres (sección maciza, lisos o grafilados), cordones (alambres arrollados helicoidalmente) y cables (diversos cordones alrededor de un alma textil, metálica o mixta). Un cable se designa por la notación C x A + N, donde C es el número de cordones, A el número de alambres por cordón y N el número de almas textiles. Por ejemplo, un cable Φ10mm -> 6 x 19 +1 posee 6 cordones de 19 alambres con alma textil, con una resistencia nominal de 55.3 kN, soportando cargas estáticas de hasta 40.0 kN y cargas dinámicas de hasta 20.0 kN.
+*   **Perfiles Comunes:**
+    *   IPN
+    *   IPE
+    *   HEB (base)
+    *   HEA (ligero)
+    *   HEM (pesado)
+    *   UPN (U normal)
+    *   UPE (U europeo)
+    *   U (U comercial)
+    *   L (lados iguales)
+    *   LD (lados desiguales)
+    *   T
+    *   Redondo
+    *   Cuadrado
+    *   Rectangular
+    *   Hexagonal
 
-Las **uniones entre los elementos de acero** pueden realizarse mediante roblonado/remachado, tornillos o soldadura. El roblonado/remachado, que implica el uso de roblones cilíndricos introducidos en caliente, se asemeja estructuralmente a una articulación y ha sido limitado desde 1970. Los tornillos, empleados para uniones en frío, se clasifican en ordinarios, con un diámetro de agujero 1 mm mayor que el vástago, y calibrados, con diámetros ajustados, más adecuados para nudos rígidos. La resistencia mecánica de los tornillos se define por un código X.Y (EN ISO 898-1), donde X es la tensión de rotura en N/mm² y Y el porcentaje de la carga de rotura que representa el límite elástico; por ejemplo, un tornillo clase 8.8 tiene una carga de rotura de 800 N/mm² y un límite elástico del 80%. La soldadura, por su parte, une materiales mediante fusión o presión, con o sin aportación de material.
+*   **Chapas:**
+    *   **Chapas medias:** Tienen un espesor (e) comprendido entre 3 mm y 4.75 mm.
+    *   **Chapas gruesas:** Presentan un espesor (e) superior a 4.75 mm.
+
+*   **Perfiles más utilizados:**
+    *   **Perfiles “I” (IPN e IPE):** Su geometría, caracterizada por un canto (altura del alma) mayor que el ancho de su ala, les confiere una resistencia superior a los esfuerzos de flexión, siendo los más empleados en la construcción de vigas. La distinción entre IPE e IPN radica en que el espesor del ala del IPN disminuye a medida que se aleja del alma, mientras que en el IPE permanece constante. Esta diferencia ha provocado que el perfil IPN caiga en desuso, ya que el IPE requiere menos material para una misma sección resistente. El perfil IPN también es conocido como "Doble T".
+    *   **Perfiles “H” (HEA/HEB/HEM):** Su diseño, con el mismo canto que el ala, implica un mayor consumo de material y un coste superior para lograr la misma resistencia a flexión que un perfil "I". No obstante, los perfiles "H" ofrecen una excelente resistencia tanto en sentido longitudinal como transversal, lo que los hace más adecuados para su uso como pilares. El perfil HEB es el más común de esta categoría.
+    *   **Perfiles “U” (UPE e UPN):** Se emplean en la fabricación de vigas de menor envergadura o en la creación de otros elementos constructivos metálicos, como vigas o pilares. La diferencia entre UPE y UPN es análoga a la de los perfiles IPE-IPN.
+    *   **Otros perfiles:** Existe una amplia oferta comercial de perfiles auxiliares, destacando los modelos en forma de L, LD (lados desiguales) y T.
+
+**III.1.7. Productos Huecos para la Construcción**
+Se distinguen por su acabado:
+
+*   **a) Acabados en Caliente:** Incluyen perfiles huecos estructurales de sección transversal constante, con un espesor igual o superior a 2 mm, conformados en caliente, con o sin tratamiento térmico posterior. Ambos tipos se utilizan en estructuras y están disponibles en secciones circulares, cuadradas, rectangulares o elípticas.
+*   **b) Conformados en Frío:** Comprenden perfiles huecos estructurales soldados, conformados en frío y sin tratamiento térmico posterior, con un espesor igual o superior a 2 mm. Poseen sección transversal constante y se emplean igualmente en la construcción de estructuras. Están disponibles en secciones circulares, cuadradas o rectangulares.
+
+**III.1.8. Perfiles de Sección Abierta Conformados en Frío y Perfilados**
+Estos perfiles tienen una sección constante y diversas formas, obtenidas por conformado en frío de chapas planas laminadas en caliente o en frío. Su uso principal es en la construcción de estructuras, siendo las secciones más frecuentes las de L, U, C, Z y Omega.
+
+**III.1.9. Productos Planos de Acero Recubiertos en Continuo de Materias Orgánicas (Prelacados)**
+Constituyen una gama de revestimientos orgánicos (como poliéster, poliuretano, resina PVDF o epoxi) que se aplican sobre metales pre-pintados. Su desarrollo busca proporcionar propiedades mejoradas como brillo, dureza o resistencia a ataques químicos.
+
+### III.2. Acero de Armar
+
+**Definición:** Engloba los productos de acero fabricados en caliente, destinados a conformar armaduras pasivas de hormigón armado, mallas electrosoldadas y armaduras básicas soldadas en celosía.
+
+**Marco Legal:** La normativa UNE EN 10080 rige este tipo de productos.
+
+**Productos Comerciales:** Incluyen barras rectas o rollos de acero corrugado soldable.
+
+**Diámetros:** Disponibles en 6, 8, 10, 12, 14, 16, 20, 25, 32 y 40 mm.
+
+**Nomenclatura (B 400/500 S/SD):**
+
+*   **B:** Indica que es acero en barras.
+*   **Clase Resistente (Límite Elástico):** Especifica una resistencia de 400/500 MPA (N/mm²).
+*   **Propiedades:**
+    *   **S:** Soldable.
+    *   **SD:** Soldable y Dúctil.
+
+**Características Geométricas:**
+La identificación del acero para hormigón armado se basa en la disposición de las corrugaciones:
+
+*   **B 400 S:** Presenta corrugaciones con la misma inclinación, pero una separación distinta entre los sectores.
+*   **B 400 SD:** Las corrugaciones tienen la misma inclinación y separación en ambos sectores.
+*   **B 500 S:** Las corrugaciones mantienen la misma inclinación, pero uno de los sectores incluye series de dos corrugaciones.
+*   **B 500 SD:** Ambos sectores poseen series de dos corrugaciones con diferente inclinación y la misma separación.
+
+**Identificación del Fabricante por Engrosamiento de Corrugas:**
+Similar a las características del acero en su fabricación, existe un código continuo que permite la trazabilidad del acero, incluyendo el país de origen y el fabricante.
+
+*   **Inicio:** Marcado que señala el principio del código de identificación del acero, con una corruga donde las adyacentes han sido eliminadas.
+*   **País:** Cada país tiene un número asignado de corrugas para su identificación. Para España, el código es el 7.
+*   **Fabricante y Marca Comercial:** Código que identifica al fabricante. Si el código es superior a 9, la identificación se realiza mediante dos grupos de corrugas separados por una omitida, donde el primer grupo representa las decenas y el segundo las unidades.
+
+### III.3. Acero para Pretensados
+
+**Definición:** Esta categoría engloba los productos de acero aptos para la fabricación de armaduras activas.
+
+**Nomenclatura del Acero:** Y1570, Y1670, Y1770, Y1860.
+
+*   **Y:** Indica que es acero para pretensados.
+*   **Clase Resistente (Carga de Rotura):** Especifica cargas de rotura de 1570/1570/1770/1860 MPA (N/mm²).
+*   **Coeficientes de Seguridad:** Para este manual, los límites admisibles de trabajo se establecen en el 70% de la carga de rotura para acciones estáticas y en el 40% para acciones dinámicas.
+
+**Productos Comerciales Destacados:**
+
+*   **Alambre:** Elemento de acero con sección maciza, liso o grafilado (este último mejora la adherencia con el hormigón), suministrado habitualmente en rollo.
+*   **Cordón:** Producto compuesto por varios alambres enrollados helicoidalmente alrededor de un eje ideal, manteniendo el mismo paso y sentido de torsión. Se diferencia por el número de alambres, el diámetro nominal y el tipo de enrollado.
+*   **Cable:** Elemento estructural de acero compuesto por múltiples cordones metálicos dispuestos helicoidalmente alrededor de un alma (textil, metálica o mixta), funcionando como una unidad cohesionada.
+
+**Nomenclatura para la Composición de un Cable:** Se expresa de forma abreviada como C x A + N.
+
+*   **C:** Número de cordones.
+*   **A:** Número de alambres en cada cordón. Si los cordones son, a su vez, otros cables, el dígito "A" se reemplaza por una notación entre paréntesis que indica su composición.
+*   **N:** Número de almas textiles. Si el alma del cable no es textil, el dígito "N" se sustituye por una notación entre paréntesis que indica la composición de dicha alma.
+
+**Ejemplo de Cable de Acero para Estabilizaciones Estructurales (Φ10mm -> 6 x 19 +1):**
+
+*   **Denominación:** Se trata de un cable con alma textil, compuesto por 6 cordones, cada uno con 19 alambres.
+*   **Resistencia:** La resistencia nominal se determina según el diámetro, aplicando los coeficientes de seguridad necesarios:
+    *   **Cargas estáticas (70% del límite de rotura):** 0.7 x 55.3 KN = 38.71 KN, lo que se aproxima a 40.0 KN.
+    *   **Cargas dinámicas (40% del límite de rotura):** 0.4 x 55.3 KN = 22.12 KN, lo que se aproxima a 20.0 KN.
+
+**Tabla 14. Cargas de Rotura en Cable de Acero según Diámetro**
+
+| ø (mm) | Peso (kg/m) | Carga de rotura mín (kg) |
+|:-------|:------------|:------------------------|
+| 3      | 0.0311      | 498                     |
+| 4      | 0.0554      | 885                     |
+| 5      | 0.0865      | 1.380                   |
+| 6      | 0.1250      | 1.990                   |
+| 7      | 0.1700      | 2.710                   |
+| 8      | 0.2210      | 3.540                   |
+| 9      | 0.2800      | 4.480                   |
+| 10     | 0.3460      | 5.530                   |
+| 11     | 0.4190      | 6.690                   |
+| 12     | 0.4980      | 7.970                   |
+| 13     | 0.5850      | 9.350                   |
+| 14     | 0.6780      | 10.800                  |
+| 16     | 0.8860      | 14.200                  |
+| 18     | 1.1200      | 17.900                  |
+| 20     | 1.3800      | 22.100                  |
+| 22     | 1.6700      | 26.800                  |
+| 24     | 1.9900      | 31.900                  |
+
+**5.2.3. Uniones**
+En la construcción de grandes estructuras, la tendencia es a racionalizar el uso del acero, empleando perfiles compuestos a partir de productos siderúrgicos básicos. Los sistemas de unión más comunes son el roblonado, el atornillado y la soldadura.
+
+*   **I. Roblonado/Remachado:** Este método une piezas mediante roblones cilíndricos o troncocónicos introducidos en caliente, donde una cabeza ya está formada y la otra se forja durante la colocación. Técnicamente, es similar a un remachado, y estructuralmente, a una articulación. Su uso actual es limitado, habiendo sido reemplazado por uniones atornilladas desde 1970.
+*   **II. Tornillos:** Las uniones metálicas en frío se realizan con piezas compuestas por un vástago roscado con cabeza hexagonal, al que se acopla una tuerca. Su función es apretar los dos elementos a conectar.
+    *   **Tipos de Tornillos:**
+        *   **Ordinarios T / Calibrados TC:** En los tornillos ordinarios, el diámetro del agujero de las piezas es 1 mm mayor que el del vástago. En los calibrados, los diámetros están ajustados. Estructuralmente, los calibrados son más recomendables para uniones rígidas.
+        *   **Alta Resistencia TR:** Utilizados en uniones donde el esfuerzo de rozamiento entre los materiales a unir supera las solicitaciones de las piezas. El apriete (par de apriete) debe ser el especificado en el proyecto, requiriendo el uso de llaves dinamométricas.
+
+    *   **Características Mecánicas de los Tornillos:** La calidad de los tornillos se define por su resistencia mecánica, según la norma EN ISO 898-1, mediante un código "X.Y".
+        *   El número a la izquierda ("X") indica la tensión de rotura en N/mm².
+        *   El número a la derecha ("Y") indica el porcentaje de la carga de rotura en el que se encuentra el límite elástico.
+
+        **Ejemplo:** Un tornillo de clase 8.8 tiene una carga de rotura mínima de 800 N/mm² y su límite elástico se sitúa en el 80% (640 N/mm²).
+        Esta norma estandariza varias clases de resistencia, las cuales deben estar convenientemente estampadas en las cabezas de los tornillos por los fabricantes: 4.6, 5.6, 5.8, 6.8, 8.8, 10.9 y 12.9.
+
+*   **Soldadura:** Proceso de unión de dos materiales que puede realizarse:
+    *   **Sin aportación de material:** Por fusión (calor) o por presión (presión + calor).
+    *   **Con aportación de material:** De forma ordinaria o autógena (aleación).

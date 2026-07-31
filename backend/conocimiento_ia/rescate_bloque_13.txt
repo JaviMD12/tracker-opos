@@ -1,35 +1,125 @@
-## Rescate en Altura, Espacios Confinados, Ríos y Grandes Áreas: Tácticas y Consideraciones Operativas
+A continuación, se presenta un temario técnico detallado sobre rescate y salvamento en diversas situaciones de emergencia, manteniendo la exhaustividad de la información original y adaptando el estilo a un formato riguroso y técnico.
 
-En las operaciones de rescate, la capacidad de adaptación y el dominio de técnicas especializadas son fundamentales para los equipos de emergencia. Este módulo profundiza en las particularidades y procedimientos asociados al rescate en altura, en espacios confinados, en terraplenes y taludes, mediante tirolinas, en entornos acuáticos como ríos e inundaciones, así como en grandes áreas de búsqueda, detallando las consideraciones esenciales y tácticas de intervención.
+### Rescate bajo cota 0
 
-### Rescate en Espacios Confinados y Bajo Cota Cero
+#### 4.1. Peligros en espacios confinados
 
-Los **espacios confinados**, como los pozos, presentan desafíos significativos debido a su difícil acceso, la ausencia de ventilación natural y la consecuente formación de atmósferas peligrosas. No están concebidos para la permanencia prolongada de personas, lo que subraya la necesidad de una intervención especializada.
+Los pozos se clasifican como espacios confinados, caracterizados por su difícil acceso y la ausencia de ventilación natural. No están diseñados para una permanencia continua, lo que implica la posibilidad de atmósferas peligrosas.
+Los riesgos asociados a estos entornos se clasifican en:
 
-Los **peligros asociados** a estos entornos son diversos. En primer lugar, se encuentran los **peligros físicos y mecánicos**, que incluyen la inestabilidad estructural del espacio, la caída de objetos desde el exterior o desde el interior, y la posibilidad de golpes con las propias estructuras. En segundo lugar, los **riesgos químicos** abarcan la contaminación por absorción, donde agentes externos se filtran al espacio, o por adsorción, donde los contaminantes quedan adheridos a las superficies. Además, pueden producirse reacciones químicas peligrosas o combustiones lentas, como la oxidación, que consumen oxígeno y generan gases tóxicos. Finalmente, los **peligros atmosféricos** son cruciales: la falta de oxígeno (por debajo del 21%) puede ser mortal en pocos minutos, mientras que un exceso lo convierte en un ambiente comburente, aumentando el riesgo de incendio. La presencia de gases combustibles (identificados por su Límite Inferior de Explosividad, LEL) o gases tóxicos (medidos en partes por millón, ppm) que pueden ser mortales en concentraciones bajas, exige el uso de medidores de gases.
+*   **Peligros físicos y mecánicos**: Incluyen la inestabilidad estructural (por ejemplo, en un pozo en construcción), la caída de objetos desde el interior o el exterior, y los impactos contra las estructuras del propio espacio.
+*   **Peligros químicos**: Se relacionan con la contaminación por absorción, donde el contaminante externo ingresa al espacio (ej. filtración en el pozo), o por adsorción, donde el contaminante se adhiere a las superficies internas. También pueden surgir de reacciones químicas entre agentes y elementos del espacio, o de procesos de combustión (como la oxidación lenta) que consumen oxígeno y generan gases tóxicos.
+*   **Peligros atmosféricos**: Provienen de deficiencias o excesos de oxígeno, así como de la presencia de gases tóxicos o combustibles. Un nivel de oxígeno inferior al 21% es mortal en minutos, mientras que un exceso lo convierte en un ambiente comburente que facilita incendios. Es crucial utilizar medidores de gases para controlar el porcentaje de oxígeno y el LEL (límite inferior de explosividad) en presencia de gases combustibles. La detección de gases tóxicos en partes por millón (ppm) es vital, ya que pueden ser letales rápidamente, requiriendo sensores específicos.
 
-El **rescate en pozos** tiene como objetivo principal la evacuación de una víctima, idealmente consciente y acompañada por un socorrista. Las **técnicas de referencia** incluyen el descenso y izado de cargas, el control desde la superficie, el uso de reenvíos y desviadores, y la implementación de polipastos. La **estrategia** implica el montaje de un trípode y un polipasto; si el pozo es demasiado ancho para un trípode, se debe improvisar un punto de anclaje elevado y seguro.
+#### 4.2. Rescate en pozos
 
-La **ejecución** de un rescate en pozo sigue un protocolo riguroso. El bombero 2 (BB2) y el mando aseguran el lugar y montan el trípode, si es posible. El bombero 1 (BB1) se equipa con arnés anticaídas, equipo de protección respiratoria (EPR), radiotransmisor, explosímetro, linterna y un dispositivo de evacuación (triángulo o camilla, según el espacio). Si el trípode no es viable, BB2 y el mando buscarán un Sistema de Anclaje de Seguridad (SAS) vertical alternativo. El Bombero Conductor Mecánico (BCM) prepara cuerdas y material de tracción y seguridad, y el mando mide los gases. BB1 desciende con un polipasto 2:1 (con polea Protraxion desbloqueada). Al llegar a la víctima, la apareja al dispositivo de evacuación y se ancla a una polea móvil para el descenso, comunicando su preparación para el ascenso. Posteriormente, BB2 y BCM configuran un polipasto 6:1 para el izado (con Protraxion bloqueada). Una vez se da la orden de ascenso, el rescatador y la víctima son izados hasta el SAS. Para trasladar a la víctima al otro lado del pozo, se revierte el sistema de ascenso a descenso.
+El objetivo principal es rescatar a una víctima que ha caído en un pozo, con el apoyo de un socorrista.
+Las técnicas de referencia incluyen el descenso e izado de cargas, el control desde arriba, los reenvíos y los polipastos.
+Las indicaciones para este tipo de rescate sugieren el montaje de un trípode y un polipasto. Si el ancho del pozo impide el uso del trípode, será necesario improvisar un punto de anclaje elevado y seguro, lo que añade complejidad a la operación.
 
-Las **medidas de seguridad** son cruciales. Es imperativo usar EPR y explosímetro si se desconoce el entorno. Se debe prestar máxima atención a los bordes del pozo para evitar caídas de objetos o personas, balizando la zona. Al usar un trípode, se trabaja dentro del triángulo formado por sus patas, ya que traccionar desde fuera podría desequilibrarlo. El bombero a cargo de la cuerda de seguro debe estar autoasegurado, y la víctima siempre debe llevar casco.
+**Ejecución del rescate**:
 
-El **rescate de cadáveres en pozos** prioriza la rapidez y la mínima exposición al peligro para los rescatadores. La ejecución implica calcular la distancia al fondo, preparar las cuerdas con nudos de seno a la distancia estimada para el anclaje del BB1, quien desciende y asegura el cadáver a un elemento de evacuación. Una vez asegurado, se comunica la disponibilidad para el izado, extrayendo primero al compañero y luego al cadáver. Es más eficiente izar la carga tirando de la mitad de su peso mediante técnicas adecuadas. Las medidas de seguridad son idénticas a las de los rescates de personas vivas, enfatizando el uso de EPI y la balización.
+1.  El bombero 2 (BB2) y el mando aseguran la zona y preparan el trípode, fijando sus patas.
+2.  El bombero 1 (BB1) prepara el equipo personal: arnés anticaídas, Equipo de Protección Respiratoria (EPR), radiotransmisor, linterna y triángulo de evacuación o camilla.
+3.  Si el trípode no es viable debido al ancho del pozo, el BB2 y el Mando buscarán alternativas para instalar un Sistema de Anclajes de Seguridad (SAS) en vertical, como una autoescalera en modo grúa o una escalera de corredera entre dos camiones.
+4.  El Bombero Conductor Mecánico (BCM) prepara las cuerdas y el material necesario para la tracción y el seguro.
+5.  El mando realiza una medición de gases para identificar posibles peligros.
+6.  El BB1 desciende al pozo utilizando una configuración de polipasto 2:1 para descenso, con una polea protraxion desbloqueada.
+7.  Una vez junto a la víctima, el BB1 la apareja al triángulo de evacuación (dada la limitación de espacio en pozos estrechos para camillas). La víctima se ancla a la polea móvil con una cinta rápida y el BB1 comunica su disposición para el ascenso.
+8.  El BB2 y el BCM configuran el sistema de izado y seguro, utilizando un polipasto 6:1 para ascenso y bloqueando la polea protraxion para el izado.
+9.  Se procede al izado coordinado de la víctima y el rescatador hasta el SAS.
+10. Para recoger a la víctima y transferirla, el sistema de ascenso a descenso se revierte.
 
-### Rescate en Terraplenes y Taludes
+#### 4.3. Rescate de cadáveres en pozos
 
-El rescate en **terraplenes y taludes** presenta desafíos particulares, ya que se realiza en ángulos que impiden el avance a pie. Requiere el uso de sistemas de tracción y aseguramiento específicos para el transporte de camillas. La morfología del terreno o las condiciones climáticas pueden aumentar la peligrosidad.
+En la recuperación de cadáveres, la prioridad es la seguridad del personal, evitando riesgos innecesarios. La intervención debe ser rápida para minimizar la exposición a peligros.
 
-Existen diferencias notables respecto al rescate vertical. En terraplenes, el peso de la camilla recae principalmente sobre el suelo o los rescatadores, a diferencia del rescate vertical, donde la cuerda soporta la carga. Además, se requiere un mínimo de tres bomberos para acompañar la camilla, en contraste con uno o dos en rescate vertical. La cuerda, en este contexto, es un elemento utilizado por los bomberos para su propia progresión, no para sustentar la camilla por tracción.
+**Procedimiento:**
 
-La **evacuación en terraplén mediante camilla** tiene como objetivo rescatar a una víctima inmovilizada en una pendiente. Las **técnicas de referencia** incluyen el izado de cargas, el uso de polipastos, reenvíos y desviadores, y el descenso con cuerdas. Está indicada en lugares con fuertes pendientes, como taludes de carretera, riberas de ríos o acantilados, donde no es posible el acceso a pie ni un rescate vertical tradicional.
+1.  Calcular la distancia hasta el fondo del pozo.
+2.  En las puntas de las cuerdas de trabajo y seguro, se realizan dos nudos por seno a la distancia calculada y el BB1 rescatador se ancla a ellos.
+3.  Una vez abajo, el BB1 introduce el cadáver en el elemento más adecuado (triángulo con tirantes o atalaje) y ata las puntas de las cuerdas libres, comunicando que está listo para el izado.
+4.  El izado se realiza primero con el compañero y luego con el cadáver. El izado de la mitad del peso es más eficiente.
 
-La **ejecución** comienza con la localización de la víctima. El BB2 y el mando establecen dos Sistemas de Anclaje de Seguridad (SAS) sobredimensionados para tracción (cuerda semiestática) y seguridad (cuerda dinámica) en el punto de evacuación. El BB1 desciende hacia la víctima por una línea independiente, alejado de la vertical para evitar la caída de materiales, llevando un botiquín. Un segundo rescatador baja con la camilla, un casco para la víctima y material de estabilización. Simultáneamente, el resto de los rescatadores y el mando montan el sistema de evacuación. Un tercer rescatador desciende, apareja a la víctima (ya en la camilla) al sistema de evacuación y se asegura a la cuerda de seguridad. El mando, desde una posición con visibilidad, coordina la maniobra. La cuerda de tracción es accionada por el personal, utilizando un polipasto 5:1 que puede ser operado por 2-3 personas, ajustando la desmultiplicación según la pendiente y el rozamiento. La maniobra finaliza cuando la víctima es evacuada a una zona segura.
+**Medidas de seguridad:**
 
-Entre las **medidas de seguridad** se incluye evitar roces de la cuerda mediante desviadores, asegurar siempre al menos dos SAS y verificar todos los sistemas antes de la operación. Es fundamental prestar atención a la caída de objetos y que la víctima lleve casco.
+*   **Conocimiento del lugar**: Si el lugar es desconocido, es imprescindible el uso de Equipo de Protección Respiratoria (EPR) y explosímetro.
+*   **Bordes del pozo**: Prestar atención a los bordes del pozo para evitar la caída de objetos o personas. La zona debe balizarse y extremar las precauciones.
+*   **Uso del trípode**: Trabajar dentro del triángulo formado por sus patas; traccionar desde fuera puede desequilibrar el aparato.
+*   **Seguridad del asegurador**: El bombero que maneja la cuerda de seguro debe estar debidamente autoasegurado.
+*   **Casco**: La víctima debe llevar casco.
 
-### Rescate por Tirolina
+### 5. Rescate en terraplenes y taludes
 
-El **rescate por tirolina** permite el transporte de víctimas y material a través de obstáculos como depresiones, agujeros o entre edificios.
+#### 5.1. Peculiaridades del rescate en terraplenes y taludes
 
-Para la **evacuación por tirolina con camilla**, ya sea con o sin acompañamiento, las **técnicas de referencia** se basan en el manejo de tirolinas, el correcto anclaje con una distribución de fuerzas adecuada según el ángulo, y el uso de reenvíos y desviadores. La **ejecución** comienza con el BB2 y el mando localizando y montando dos SAS, uno para la cuerda de soporte (semiestática) y otro para la cuerda de seguridad (dinámica sobre la de soporte), fijando sus extremos. Otro bombero instala dos SAS adicionales en el lado opuesto para tensar la tirolina. Es crucial que los SAS estén sobredimensionados para soportar la sobrecarga. El tensado se realiza según el método seleccionado. Las poleas fixe/rescue se colocan en la cuerda de seguro, ancladas a la cabecera y pies de la camilla, mientras que las poleas tándem se instalan en la cuerda de soporte, unidas a las primeras mediante mosquet
+Este tipo de rescate se aplica en terrenos con pendientes no transitables a pie. Requiere el uso de sistemas de tracción y aseguramiento específicos para el tránsito de camillas en taludes. El trabajo en taludes es inherentemente peligroso debido a la morfología del terreno y las condiciones climáticas.
+
+Las diferencias con el rescate vertical son notables:
+
+*   **Distribución del peso**: En taludes, el peso de la camilla recae principalmente sobre el suelo o los rescatadores, mientras que en un rescate vertical, la cuerda soporta la carga.
+*   **Número de bomberos**: En taludes, se requieren al menos tres bomberos acompañando la camilla, en contraste con uno o dos en rescates verticales.
+*   **Función de la cuerda**: En taludes, la cuerda es el medio que utilizan los bomberos para remontar, a diferencia del rescate vertical donde la camilla asciende por tracción sobre la cuerda.
+
+#### 5.2. Evacuación en terraplén mediante camilla
+
+**a) Objetivo**: Evacuar a una víctima en camilla desde un terraplén inclinado, acompañada por varios socorristas.
+
+**b) Técnicas de referencia**: Incluyen el izado de cargas, el uso de polipastos, reenvíos y desviadores, y el descenso por cuerdas.
+
+**c) Indicaciones**: Aplicable en una amplia gama de lugares con pendientes, como taludes de carreteras, terraplenes fluviales, acantilados, planos industriales inclinados y pendientes con nieve. Se utiliza cuando el acceso a pie o el rescate vertical con camilla suspendida no son posibles.
+
+**d) Ejecución**:
+
+1.  **Localización**: Se localiza a la víctima en la zona de actuación.
+2.  **Montaje SAS**: El BB2 y el mando instalan dos SAS (uno para cuerda semiestática de soporte y otro para cuerda dinámica de seguro, situado por encima del soporte) en el punto de evacuación. Estos SAS deben estar fuera de la zona de pendiente y sobredimensionados para soportar la sobrecarga del rescate.
+3.  **Descenso inicial**: El BB1 desciende hasta la víctima por una línea independiente, manteniéndose alejado de la vertical para evitar la caída de materiales. Transporta un botiquín para la valoración sanitaria inicial.
+4.  **Segundo rescatador**: Baja con la camilla, un casco para la víctima y el material necesario para la estabilización.
+5.  **Montaje simultáneo**: El resto de rescatadores y el mando configuran el sistema de evacuación (SAS, cuerda de seguro, tracción y polipasto).
+6.  **Unión del rescatador 3**: El rescatador 3 desciende hasta la víctima, que ya estará en la camilla. Ancla la placa organizadora con cuerdas y cintas rápidas a los rescatadores 1 y 2, y se ancla a la parte posterior de la camilla con un cabo de anclaje, asegurado por el tramo sobrante de la cuerda de seguro.
+7.  **Coordinación del mando**: El mando se posiciona en un lugar con visibilidad clara de los rescatadores y la víctima para coordinar la maniobra de tracción.
+8.  **Inicio de la tracción**: Una vez comprobado el correcto montaje del sistema y recibido el "OK", el mando ordena la tracción, supervisando el desarrollo y asegurando que la cuerda de seguro se recoja adecuadamente.
+9.  **Coordinación del equipo**: La coordinación entre todos los miembros del equipo es esencial y se mantiene bajo la supervisión del mando.
+10. **Personal de tracción**: La cuerda de tracción será accionada preferentemente por personal propio, pero, si es necesario, puede ser asistida por personal externo (Guardia Civil, Protección Civil, Sanitarios).
+11. **Sistema de tracción**: Por defecto, se utiliza un polipasto 5:1, accionado por 2 o 3 personas. La desmultiplicación se ajustará según la pendiente, el rozamiento y el número de personas involucradas.
+12. **Finalización**: La maniobra concluye cuando la víctima es evacuada a una zona segura.
+
+**e) Medidas de seguridad**:
+
+*   **Protección de cuerdas**: Evitar roces en la cuerda utilizando desviadores y/o trenes de rodillos.
+*   **Anclajes**: Instalar siempre al menos dos puntos de SAS.
+*   **Verificación**: Comprobar la instalación de todos los sistemas antes de iniciar la operación.
+*   **Caída de objetos**: Prestar especial atención a la caída de objetos para evitar golpear a la víctima o al rescatador.
+*   **Casco**: La víctima debe llevar casco.
+
+### 6. Rescate por tirolina
+
+#### 6.1. Evacuación por tirolina con camilla (con y sin acompañamiento)
+
+**a) Objetivo**: Transportar una víctima mediante una tirolina.
+
+**b) Técnicas de referencia**: Se basan en el uso de tirolinas, anclajes (localización, puntos de anclaje SAS, reparto de esfuerzos según ángulo), reenvíos y desviadores.
+
+**c) Indicaciones**: Las tirolinas se utilizan para superar obstáculos como depresiones, agujeros, o para el transporte entre edificios.
+
+**d) Ejecución**:
+
+1.  **Montaje inicial**: El BB2 y el mando localizan y montan dos SAS (uno para la cuerda semiestática de soporte y otro para la cuerda dinámica de seguro, colocada encima de la de soporte), fijando los extremos de las cuerdas a los SAS.
+2.  **SAS en extremo opuesto**: Otro bombero localiza y monta otros dos SAS en el lado opuesto de la tirolina, donde se realizará el tensado.
+3.  **Sobredimensionamiento**: Los SAS deben estar sobredimensionados para soportar la sobrecarga prevista durante el rescate.
+4.  **Tensado de la tirolina**: Se tensa la tirolina siguiendo el método elegido.
+5.  **Posicionamiento de poleas**: Se colocan poleas fixe/rescue sobre la cuerda de seguro (ancladas a la cabecera y a los pies de la camilla, o en el punto central de esta). Estas poleas se anclan con mosquetón o cinta a las poleas tándem sobre la cuerda de soporte.
+6.  **Preparación de la víctima**: El BB1 apareja al herido a la camilla. Si se requiere acompañamiento, se anclará de la misma manera que en la evacuación por descenso con camilla (utilizando una placa de reparto y una cuerda larga de al menos 5 metros con un GRIGRI para mayor autonomía).
+7.  **Coordinación del mando**: El mando se coloca en una posición que permita una visión clara tanto del rescatador y la víctima (si la hay) como del personal encargado de la tracción y retención.
+8.  **Remonte o descenso**: Si es necesario remontar la carga por una tirolina con pendiente ascendente (por ejemplo, al sacar un herido de un barranco), se instala un polipasto en la cuerda de tracción para facilitar la operación.
+9.  **Frenado**: Si la tirolina tiene una pendiente descendente pronunciada, se instala un sistema de frenado (ID o GRIGRI) en la cuerda de retención.
+10. **Verificación y orden**: Una vez que el sistema está montado y se ha recibido el "OK", el mando ordena el accionamiento de la tracción o la retención, controlando el desarrollo de la operación.
+11. **Finalización del trayecto**: Para el usuario en la tirolina, se añade un mosquetón de frenado al punto de anclaje del ID. Se acciona la empuñadura en modo "descenso" y se sujeta el cabo de frenado para controlar la velocidad y depositar suavemente a la víctima en el suelo.
+12. **Superación de obstáculos**: Para izar la carga hasta las poleas y superar obstáculos como balcones o ventanas, se utiliza un polifreno.
+
+**e) Medidas de seguridad**:
+
+*   **SAS**: Los SAS de seguro y soporte deben ser independientes y de gran resistencia. Los mosquetones utilizados serán de acero sobredimensionado.
+*   **Fiabilidad**: La fiabilidad de las cuerdas (soporte y seguro) debe ser absoluta.
+*   **Roce**: Al cargar la tirolina con personas (bomberos o víctimas) una vez tensada, se debe verificar que no haya roces con ningún obstáculo. Si los hay, se solucionará el problema reubicando la tirolina.
+*   **Tracción y retención**: La tracción y retención deben realizarse desde la carga, ya que si se hacen desde las poleas, un frenado brusco repercutirá en la carga por inercia.

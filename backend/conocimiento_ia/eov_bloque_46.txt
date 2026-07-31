@@ -1,107 +1,70 @@
-# Equipos de Protección Individual y Herramientas para Intervenciones con Riesgo Eléctrico y NRBQ
+## PARTE 1: HERRAMIENTAS Y EQUIPOS OPERATIVOS
 
-La gestión de emergencias exige una dotación de equipos operativos y herramientas de intervención que garanticen la seguridad del personal y la eficacia en las operaciones. Esto incluye tanto equipos de protección individual (EPI) especializados para riesgos eléctricos y NRBQ (Nuclear, Radiológico, Biológico y Químico) como herramientas específicas para diversas situaciones.
+### Capítulo 11: Riesgos NRBQ
 
-## Equipos de Protección Individual (EPI)
+#### 2.3. Cojines
 
-Los EPI son dispositivos o medios diseñados para proteger a las personas de riesgos que puedan amenazar su salud y seguridad. Se rigen por directivas europeas, como la 89/686/CEE y la 89/656/CEE, traspuestas a la legislación española por los Reales Decretos 1407/1992 y 773/1997, respectivamente. Estas normativas establecen exigencias mínimas de seguridad, requisitos de fabricación, especificaciones técnicas y condiciones de uso. Los empleadores tienen la obligación de proporcionar equipos adecuados y asegurar su correcta utilización, mantenimiento y formación.
+##### 2.3.3. Uso y seguridad
 
-La normalización, coordinada por el Comité Europeo de Normalización (CEN) a través de AENOR en España, define normas específicas para cada tipo de EPI, como la certificación CE. Los requisitos generales para cualquier EPI incluyen la ergonomía, grados de protección adecuados al riesgo (evitando inconvenientes en el uso), inocuidad de materiales (sin riesgos ni molestias), y comodidad y eficacia (adaptación morfológica, ligereza, solidez y compatibilidad con otros EPI). Además, se exigen folletos informativos del fabricante con detalles de almacenamiento, uso, limpieza, mantenimiento, caducidad y rendimientos.
+El anclaje de un cojín se realiza mediante una eslinga o dispositivo análogo para asegurar su fijación. Esta medida es vital en depósitos presurizados, previniendo que un posible incremento de la presión interna pueda desalojar el cojín.
 
-Los EPI se clasifican en tres categorías según la gravedad del riesgo:
-*   **Categoría I**: Riesgos leves (ej. cortes superficiales, radiación solar). Requieren autocertificación del fabricante y documentación técnica.
-*   **Categoría II**: Riesgos medios no mortales o con lesiones irreversibles (ej. protección auditiva). Exigen documentación técnica, examen CE por organismo independiente y ensayos armonizados, culminando en la declaración de conformidad y el marcado CE.
-*   **Categoría III**: Riesgos mortales o daños graves e irreversibles (ej. protección respiratoria). Además de lo anterior, el fabricante debe someter la producción a un control de calidad o sistema de garantía CE.
+**a) Cojines hermetizadores:**
+La alimentación de aire se efectúa con una bomba de pie. Para la instalación, se pasan las correas de extensión y las tensoras por las ranuras del cojín. Se ubica el cojín en el lado opuesto del depósito, rodeándolo y dejando caer las cinchas y el cojín para que abracen el tanque, asegurando que las correas queden paralelas y sin torsiones. Una vez tensadas ligeramente las cinchas, se procede a inflar el cojín. La despresurización se lleva a cabo mediante un vástago.
 
-Es crucial no adquirir ni utilizar ningún EPI sin el marcado CE y su folleto informativo correspondiente.
+**b) Tapones de obturación de tuberías:**
+Estos elementos se introducen en las tuberías de forma manual o con una pértiga, especialmente en casos de acceso complicado. El inflado se realiza manualmente con una botella de aire comprimido. Para retirarlos, se tira de un cable o cuerda atada a las anillas de la válvula.
 
-## Equipos NRBQ (Nuclear, Radiológico, Biológico y Químico)
+**c) Bandas neumáticas:**
+Para su colocación, se instala el sistema de eslingas dentro de la camisa que sujeta la banda, evitando que esta se abra bajo presión. La banda se sitúa sobre la tubería para protegerla de posibles salidas de líquido a presión. El inflado se efectúa después de envolver y tensar la banda con las eslingas.
 
-Las intervenciones con riesgos NRBQ requieren un equipamiento riguroso para la protección del personal. Las actuaciones principales en este ámbito son el taponamiento de fugas de sustancias peligrosas y la limpieza o descontaminación de medios.
+##### 2.3.4. Precauciones
 
-### Trajes de Protección NRBQ
-Existen diferentes niveles de trajes de protección NRBQ, cada uno con especificaciones y normativas específicas:
+Es fundamental tener en cuenta las siguientes precauciones:
+*   Se debe tener cuidado con los bordes afilados o puntiagudos de las grietas a sellar, ya que podrían dañar los cojines.
+*   En los cojines de obturación solo se debe usar aire comprimido, excluyendo gases inflamables o agresivos.
+*   Siempre se deben utilizar con la ropa de protección adecuada.
+*   Es necesario comprobar previamente la resistencia del cojín a la sustancia que se pretende contener.
+*   Se debe considerar la normativa relativa al manejo de líquidos peligrosos.
 
-*   **Traje de Protección de Nivel II (Antisalpicaduras)**: Diseñado para proteger contra salpicaduras de líquidos o sólidos peligrosos, no estanco a gases. Utilizado en incidentes con mercancías peligrosas líquidas inflamables/corrosivas o para tareas de descontaminación. Protege contra partículas ultrafinas, ácidos inorgánicos concentrados y soluciones alcalinas. El equipo completo incluye el traje (ej. modelo Tychem ® C/M EN463), guantes NBQ y botas NBQ integradas, guantes de algodón natural y de látex/nitrilo, equipo de respiración autónomo (ERA) completo, válvulas PT 120 y PSS-ASV, cinta americana química, casco F1 y emisora/linterna. La normativa principal es EN 463:1995.
+##### 2.3.5. Mantenimiento
 
-    La **colocación** debe ser meticulosa: inspección visual previa, colocación de emisora, introducción de piernas en el traje y botas selladas con cinta americana, colocación de guantes de algodón y luego de látex sellados, introducción de la mano derecha en el traje, colocación del casco y máscara, y finalmente el capuz con la mano izquierda y cierre de cremallera. Los guantes deben ir *debajo* del traje.
-    Para la **retirada**, se debe contar con un supervisor equipado con protección ocular y guantes de látex/nitrilo. Se introducen los pies en una bolsa de plástico, se retira el traje enrollándolo hacia fuera y abajo, se quita la máscara y guantes, y finalmente las botas. Todo el material desechable se introduce en una bolsa y se numera.
-    El **mantenimiento** implica la verificación de todas las partes, almacenamiento en bolsa cerrada en un área NRBQ, sin lavado, secado ni planchado. Vida útil de 5 años.
+El mantenimiento de los cojines y sus accesorios requiere:
+*   Una revisión periódica de su estado.
+*   Si es necesario, sustituir la envoltura protectora contra ácidos.
+*   La limpieza se realizará con lejía y se secarán a temperatura ambiente.
+*   Se almacenarán en el carro o vehículo NRBQ, dentro de su maletín correspondiente.
 
-*   **Traje de Protección de Nivel III**: Trajes estancos a gases, líquidos y sólidos altamente tóxicos. Aportan protección química, bacteriológica y electrostática. Mantienen presión positiva en el interior para evitar la entrada de sustancias tóxicas en caso de rotura. Cuentan con un visor panorámico integral y antiempañamiento. Las botas y guantes están integrados. Funcionan en temperaturas de -30°C a 60°C. La normativa es EN 963-2:2002.
+#### 2.4. Balsa o piscina de contención
 
-### Cojines NRBQ para Fugas
-Estos cojines neumáticos son bolsas de alta resistencia diseñadas para detener o reducir fugas de sustancias. Son eficaces con líquidos, pero más complejos con gases a presión. Se inflan con una bomba de pie con válvula de seguridad y manómetro, y algunos modelos incluyen anillos giratorios para la sujeción de atalajes.
+##### 2.4.1. Especificaciones
 
-*   **Minicojines tapafugas**: Ideales para sellar rápidamente fugas en barriles, bidones y tuberías. Tienen diámetros de 10 a 90 cm, cierres de velcro sin metal y se inflan a 1,5 bares.
-*   **Cojines hermetizadores para obturación de tuberías y bocas de alcantarilla**: De diseño cilíndrico, soportan una presión de inflado de 2,5 bares y una contrapresión elevada. Resisten temperaturas de -55°C a 90°C y son resistentes a químicos. Se usan para diámetros de 30 a 80 cm.
+Este equipo consiste en una piscina neumática diseñada para el almacenamiento temporal o la contención de líquidos peligrosos, como los utilizados para limpieza y desinfección, con el fin de proteger el medio ambiente.
 
-Su **uso** requiere asegurarlos con eslingas para evitar el desplazamiento por la presión. Las **precauciones** incluyen evitar bordes agudos, usar solo aire comprimido (no gases inflamables), llevar ropa de protección y verificar la resistencia a la sustancia. El **mantenimiento** implica revisiones periódicas, reemplazo de la envoltura protectora y limpieza con lejías y secado a temperatura ambiente, almacenándolos en un carro o maletín NBQ.
+Para la limpieza y descontaminación, también se emplea una **ducha de gran caudal**. Sus características son:
+*   Estructura: Fabricada en acero, plegable.
+*   Componentes: Incluye varios difusores a diferentes alturas.
+*   Conexión de agua: Racor Barcelona de 25 mm.
+*   Montaje: Rápido.
+*   Caudal: 50 litros por minuto.
 
-### Balsas o Piscinas de Contención
-Son estructuras neumáticas utilizadas para el almacenamiento temporal o la contención de líquidos peligrosos, como los de limpieza y desinfección. Cuentan con una estructura de acero plegable, difusores a diferentes alturas, una toma de agua de 25 mm con racor Barcelona, y una capacidad de caudal de 50 l/m. Para su **uso**, se despliegan completamente, se conectan a un suministro de aire (bomba manual o botella de aire comprimido con regulador) y se inflan hasta la presión adecuada, asegurando que la válvula de seguridad funcione correctamente. Son operadas por dos bomberos con el traje de protección adecuado. El **mantenimiento** incluye la verificación de su estado, la limpieza con productos específicos diluidos en agua y el almacenamiento en el remolque o vehículo NBQ.
+##### 2.4.2. Normativa
 
-### Otros Elementos de Intervención NRBQ
-*   **Sepiolita**: Mineral molido que se emplea para absorber líquidos derramados y delimitar zonas.
-*   **Conos de nailon y madera**: Utilizados para taponar fugas simples en grietas o agujeros.
-*   **Zorkil**: Líquido concentrado para desinfección biológica, aplicado al 5% con un tiempo de espera de 15 minutos. Puede usarse con pulverizador o mochila forestal.
-*   **Lejía**: Se emplea diluida al 0,5% para desinfección.
-*   **Pulverizador**: Para localizar fugas de gas con agua jabonosa o aplicar desinfectantes.
-*   **Lonas**: Para delimitar zonas de trabajo y colocar herramientas.
-*   **Láminas de plástico fino**: Para aislar zonas con riesgo biológico.
-*   **Rollos de bolsas de basura**: Para introducir trajes usados y otros materiales contaminados, aislando los residuos.
-*   **Cinta americana resistente a productos químicos**: Principalmente para sellar trajes de intervención en muñecas y tobillos.
-*   **Ducha de descontaminación**: Ubicada dentro de la balsa de contención, sirve para limpiar el material contaminado.
+Estos elementos se rigen por la Instrucción Técnica Complementaria ITC MIE-APQ 7, relativa al “Almacenamiento de líquidos peligrosos”.
 
-## Equipos de Protección Individual para Trabajos con Tensión Eléctrica
+##### 2.4.3. Uso y seguridad
 
-Los trabajos en proximidad o con tensión eléctrica, ya sean de baja o alta tensión, requieren herramientas y EPI específicos para prevenir descargas eléctricas. Estos equipos deben ser aislados o aislantes, con resistencia eléctrica superior a la tensión de trabajo.
+Para su uso, la balsa debe desplegarse completamente, conectar la manguera de suministro de aire e inflarse con una bomba manual o con una botella de aire comprimido equipada con manómetro reductor. Una vez inflada a la presión correcta, estará lista. Incorpora una válvula de seguridad que previene el sobreinflado. Su manejo requiere de dos bomberos, equipados con el traje de protección apropiado para el producto a manipular.
 
-### Herramientas Aisladas y Aislantes
-Las herramientas para trabajos con riesgo eléctrico se clasifican en:
-*   **Herramientas aisladas**: Fabricadas en metal y recubiertas parcial o totalmente con material aislante.
-*   **Herramientas aislantes**: Principalmente de material aislante, con posibles inserciones conductoras de refuerzo, pero sin partes metálicas accesibles para evitar cortocircuitos.
+##### 2.4.4. Mantenimiento
 
-Deben cumplir la normativa internacional IEC/EN 60 900 y llevar el marcado visible con la tensión (1.000 V IEC/EN 60-900), nombre del fabricante, referencia y año de fabricación.
+El mantenimiento de la balsa o piscina de contención implica:
+*   Verificar que se encuentre en su ubicación asignada (remolque o vehículo NBQ) y que no presente cortes ni degradaciones.
+*   Realizar una limpieza con productos específicos diluidos en agua (lejía, amoniaco, Zorkil, entre otros) después de cada uso.
 
-### Conceptos Clave en Electricidad
-*   **Corriente Continua (CC)**: Flujo de corriente eléctrica en un único sentido.
-*   **Corriente Alterna (CA)**: Flujo de corriente eléctrica que invierte periódicamente su sentido.
-*   **Voltio (V)**: Unidad de potencial eléctrico o tensión.
-*   **Amperio (A)**: Unidad de intensidad de corriente eléctrica.
-*   **Ohmio (Ω)**: Unidad de resistencia eléctrica o continuidad de un circuito.
+#### 2.5. Otros elementos de intervención
 
-### Guantes Dieléctricos
-Estos EPI protegen las manos de descargas eléctricas. Se fabrican en caucho natural y deben tener propiedades como resistencia a la tracción (≥ 16 MPa), elongación (≤ 600%), resistencia a la perforación (≥ 18 N/mm), y resistencia a bajas temperaturas (-25 ± 3°C) y a la propagación de llamas (10 segundos).
+Otros equipos utilizados en este tipo de operaciones incluyen:
 
-Se clasifican por **clase** (00, 0, 1, 2, 3, 4) según la tensión máxima de trabajo (desde 500 V hasta 36.000 V) y por **categoría** (A, H, Z, R, C) indicando resistencia a ácidos, aceites, ozono, y bajas temperaturas. Son EPI de categoría III, regulados por UNE-EN 60903:2003 e IEC 60903:2002.
-
-Su **uso** es exclusivo para tareas eléctricas y, para trabajos de alta tensión, se recomienda combinarlos con otros elementos de seguridad. Es fundamental usarlos siempre con guantes de piel externos para protección mecánica o, en su defecto, con guantes finos ignífugos. Se deben revisar periódicamente (cada 30-90 días) visualmente y mediante pruebas dieléctricas, y deben almacenarse en bolsas impermeables de nylon, protegidos del calor, la humedad y entre 10°C y 21°C. La limpieza se realiza con agua y jabón, evitando disolventes.
-
-### Pértigas Aislantes
-Son tubos de material aislante, a menudo de varias secciones, con empuñadura. Pueden ser de salvamento (con útiles para rescate) o de verificación de tensión (con detectores ópticos/acústicos para 10-30 kV). Las partes incluyen un indicador, una marca límite, el elemento aislante, guardamanos, mango, electrodo de contacto y conductor de tierra. Se clasifican en clases I a IV según la tensión máxima de trabajo (hasta 66 kV).
-
-La **normativa** incluye UNE-EN 60855:1998, UNE-EN 61243-1:2006, UNE-EN 61236:2012, UNE-EN 60832:1998, UNE 21 731 191, UNE 21 706 90 y UNE-EN 60743:2002. Su **uso** requiere que sean adecuadas a la tensión de trabajo y no exceder la distancia de seguridad. El **mantenimiento** implica inspección visual diaria, protección contra calor/químicos, limpieza con silicona si se usan en condiciones húmedas, y transporte en fundas para evitar daños.
-
-### Cizalla Aislante
-Esta herramienta de corte manual cuenta con dos brazos aislados y cuchillas de acero. Sirve para cortar cables de hasta 25 mm de diámetro. Los mangos son de tubo de poliéster reforzado con fibra de vidrio, con una longitud de 50 mm y un diámetro de 32 mm, ofreciendo una tensión de aislamiento de 25 kV. Se regula por la norma UNE EN 60900. Su **uso** está indicado para seccionar conductores eléctricos y debe realizarse en combinación con otras herramientas aislantes, evitando cortar dos cables a la vez o materiales férricos. Para su **mantenimiento**, se inspeccionan las cuchillas, empuñadura y mangos, manteniéndola limpia, seca y almacenada en un lugar seguro.
-
-### Banquetas Aislantes para Trabajos en Tensión
-Son plataformas que proporcionan aislamiento a los operarios respecto a tierra. Están fabricadas con polipropileno copolímero de alto impacto, con una superficie rugosa y antideslizante, y conteras de goma en las patas para mayor adherencia. Se clasifican en Tipo A (interior) y Tipo B (exterior) y por la tensión máxima que pueden aislar (de 20 kV a 66 kV). La normativa aplicable es UNE 204001.
-
-Su **uso** es fundamental en trabajos con tensión y en el rescate de personas electrocutadas. Es importante protegerlas del sol excesivo, grasas y aceites (que las vuelven conductoras), y no usarlas si presentan poros, fisuras o incrustaciones. El **mantenimiento** incluye limpieza, verificación de la rigidez estructural y el estado de las superficies, almacenamiento en lugares secos y estuches protectores, y revisiones periódicas.
-
-### Alfombrilla Aislante
-Es una alfombrilla de material aislante con superficie antideslizante, fabricada generalmente de caucho o goma sintética. Su propósito es proporcionar aislamiento eléctrico al trabajador en operaciones con riesgo eléctrico. Para su **uso**, es esencial revisar visualmente su estado, evitando la exposición al sol, grasas o aceites. El **mantenimiento** se basa en revisiones regulares, almacenamiento en lugares secos y protegidos, y limpieza con un paño húmedo.
-
-### Alicates Aislados
-Los alicates son herramientas manuales aisladas con material termoplástico, diseñadas para trabajos de baja tensión (hasta 1000 V). Permiten sujetar, doblar o cortar. Sus partes incluyen caucho exterior e interior aislante y un protector homogéneo.
-
-Se distinguen varios tipos según su forma y aplicación:
-*   **Alicates planos**: Boca cuadrada y estriada, brazos ligeramente curvados. Uso general.
-*   **Alicates redondos**: Puntas cónicas. Para electricidad y bisutería.
-*   **Alicates de corte**: Puntas de corte de acero templado. Para cortar diversos materiales.
-*   **Alicates combinados (universales)**: Puntas con secciones diferenciadas para cortar y sujetar.
-*   **Alicates de punta acodada**: Puntas dobladas para acceso a zonas difíciles.
-
-Se rigen por la norma EN 60900. Su **uso** es en trabajos de baja tensión, sin utilizarlos como martillo, para cortar chapa, ni con materiales excesivamente duros. El **mantenimiento** implica revisar la funda protectora, mantener las mordazas y el mango en buen estado, engrasar frecuentemente el pasador
+**a) Sepiolita:**
+*   Material: Mineral molido.
+*   Función: Absorber líquidos derramados y contener su avance en determinadas zonas.

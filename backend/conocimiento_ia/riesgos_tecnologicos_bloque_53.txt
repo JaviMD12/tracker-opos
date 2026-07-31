@@ -1,94 +1,134 @@
-## Elementos Constructivos de las Edificaciones y Patologías Asociadas
+### Técnicas de Estabilización de Sistemas Constructivos y Terrenos
 
-La comprensión de la **arquitectura** como arte y técnica de proyectar y diseñar edificios, estructuras y espacios, junto con la **construcción** como el conjunto de procedimientos para levantar elementos, es fundamental para entender la **edificación** como una construcción fija de materiales resistentes, destinada a usos humanos. Dado que los cuerpos de bomberos actúan frecuentemente en edificaciones, es crucial un conocimiento básico de sus características, normativas y sistemas constructivos.
+#### 2. Técnicas de Estabilización
 
-### Conceptos Fundamentales de la Física Aplicados a la Edificación
+La estabilización de elementos estructurales en situaciones de equilibrio inestable o riesgo de colapso tiene varios objetivos principales:
+*   Evitar riesgos para la vida humana.
+*   Garantizar la evacuación segura de los ocupantes.
+*   Prevenir el efecto dominó que pueda afectar a edificaciones adyacentes.
+*   Corregir la causa original de la inestabilidad.
 
-En el análisis de las edificaciones, varios principios físicos son clave:
+Las estructuras auxiliares se dividen en:
+*   **Entibaciones**: para la estabilización de estructuras bajo el nivel del terreno.
+*   **Apeos**: para la estabilización de estructuras por encima del nivel del terreno.
+*   **Demoliciones**: se realizan cuando la estabilización es imposible y el elemento representa un peligro potencial, procediendo a su derribo.
 
-*   **Fuerza:** Magnitud vectorial que describe la interacción entre cuerpos. Se calcula como el producto de la masa por la aceleración (F = m · a). Sus atributos son módulo, dirección, sentido y punto de aplicación. En el Sistema Internacional (SI) se mide en Newtons (N), equivalentes a (Kg m/s²). Las **Leyes de Newton** rigen la mecánica de las fuerzas:
-    *   La **Primera Ley (Principio de Inercia)** establece que un cuerpo permanece en reposo o movimiento uniforme a menos que una fuerza externa actúe sobre él.
-    *   La **Segunda Ley** indica que la suma de las fuerzas sobre un cuerpo es igual al producto de su masa por la aceleración resultante, con el desplazamiento en la dirección de esta última.
-    *   La **Tercera Ley (Principio de Acción y Reacción)** postula que dos cuerpos que interactúan ejercen fuerzas iguales y opuestas en la misma dirección. El equilibrio se mantiene si toda fuerza de acción es contrarrestada por una reacción igual y opuesta.
-*   **Composición de fuerzas:** Las fuerzas, al ser magnitudes vectoriales, pueden sumarse, restarse o multiplicarse para generar nuevas fuerzas resultantes.
-*   **Par de fuerzas y momentos:** Un par de fuerzas consiste en dos fuerzas paralelas de igual intensidad y sentidos opuestos. Su **momento** es una magnitud vectorial que indica la capacidad de cambiar el estado de rotación de un cuerpo, calculada como el producto de la fuerza por la distancia perpendicular entre ellas (brazo del par). Se cuantifica en Newtons por metro (N·m). Los momentos pueden ser positivos (giro horario) o negativos (giro antihorario). El punto de aplicación es crucial, ya que a mayor brazo de palanca, mayor momento o esfuerzo para equilibrar. El **equilibrio del par** se produce cuando las fuerzas se alinean, anulando el brazo de palanca y el momento; un giro libre siempre resulta en un momento nulo. El principio de la palanca se deriva de esto: Potencia P · Brazo de potencia dp = Resistencia R · Brazo de resistencia dr.
-*   **Estática y equilibrio estático:** La estática es la rama de la mecánica que estudia las cargas (fuerzas, pares/momentos) y el equilibrio de fuerzas en sistemas estáticos. El **equilibrio estático** se define como un estado de fuerzas donde no hay movimientos relativos de los elementos. Las cargas de una estructura generan empujes (fuerzas) y giros (momentos), que deben ser contrarrestados por reacciones iguales y opuestas, resultando en una suma nula de fuerzas y momentos (∑F=0; ∑M=0).
-*   **Centro de gravedad:** Es el punto donde se puede considerar concentrado el peso de un cuerpo, permitiendo que este permanezca en equilibrio si se apoya en dicho punto. No necesariamente es un punto material. Para un equilibrio estable sobre una base plana, la vertical que pasa por el centro de gravedad debe caer dentro de la base de apoyo. Si el cuerpo se aleja ligeramente, un momento restaurador puede devolverlo a la posición inicial; si se aleja demasiado, el cuerpo rota a una nueva posición de equilibrio.
-*   **Elasticidad:** Capacidad de los materiales para deformarse reversiblemente bajo fuerzas externas y recuperar su forma original al eliminarse estas fuerzas. Es la base de la mecánica de sólidos.
-*   **Plasticidad:** Comportamiento de los materiales donde las deformaciones son permanentes e irrecuperables, generalmente asociadas a esfuerzos que superan el límite elástico, con pérdida de sección y resistencia.
-*   **Ley de Hooke:** Establece que la tensión (σ) sufrida por un cuerpo sólido es directamente proporcional a su elasticidad (E) y a la deformación (ε) efectiva (σ = E · ε). El **Módulo de Elasticidad Longitudinal o Módulo de Young (E)** es esencial para evaluar el comportamiento y deformación de materiales. Materiales con mayor módulo de elasticidad sufren menores tensiones a igualdad de deformación. Por ejemplo, la madera se deforma significativamente en la dirección de la fibra, el hierro fundido se deforma el doble que el acero, y el hormigón puede deformarse hasta diez veces más que el acero.
+##### 2.1. Entibaciones
 
-### Factores Asociados al Comportamiento Térmico de los Materiales
+La ejecución de obras o instalaciones que implican rellenos o excavaciones modifica la estabilidad del terreno. Las excavaciones, al retirar material, alteran la estructura de las capas del terreno y su equilibrio estático, provocando empujes activos. Si el terreno no posee resistencia suficiente, el talud se vuelve inestable y la tierra se desliza hacia la excavación.
 
-En escenarios con variaciones térmicas intensas, como incendios, es crucial considerar:
+Los accidentes graves o mortales por desprendimiento de tierras en zanjas son frecuentes. Por ello, es crucial adoptar medidas que aseguren la seguridad de las víctimas y de los intervinientes. Cada tipo de terreno presenta un ángulo de rozamiento o reposo distinto, lo que requiere pautas de intervención específicas. Si el ángulo de rozamiento teórico es mayor que el del talud, el desnivel es estable y no necesita protección; si es menor, se debe entibar.
 
-*   **Coeficiente de conductividad térmica (λ):** Cuantifica la capacidad de un material para conducir calor (W/m·ºC o W/m·K). Valores bajos indican mayor capacidad aislante. Por ejemplo, el hierro conduce mejor el calor que el acero; el corcho, la fibra de vidrio y el poliuretano son buenos aislantes.
-*   **Coeficiente de dilatación térmica (α):** Mide la dilatación lineal por cada grado de aumento de temperatura y por cada metro lineal. Por ejemplo, el acero tiene un coeficiente de 0,000012 ºC⁻¹, similar al del hormigón. Una viga de hormigón armado de 10 metros que pase de 20ºC a 400ºC sufrirá una dilatación lineal de 5,76 cm, generando empujes laterales que pueden colapsar la estructura.
+La **entibación** es un apeo provisional del terreno que presenta riesgo de desplazamiento debido a inestabilidad natural o inducida por desmontes, vaciados, zanjas o galerías. Los sistemas de entibación se usan generalmente cuando no es posible mantener un talud natural. Este recurso es valioso para los bomberos para estabilizar terrenos con riesgo de colapso, proteger edificaciones y rescatar víctimas sepultadas.
 
-### Acciones en la Edificación
+Considerando la posición y la función de las piezas de entibación, se distinguen tres componentes:
+*   **Travesaños, largueros o velas**: piezas verticales que recogen tensiones del terreno mediante flexión, adosadas a las paredes de la zanja.
+*   **Tablas o cabeceros**: piezas horizontales que pueden estar en contacto directo con el terreno o recoger cargas de los largueros para transmitirlas a los codales.
+*   **Codales**: piezas horizontales que trabajan a compresión y contrarrestan los empujes del terreno en ambos paramentos verticales de la zanja.
 
-Según el Código Técnico de la Edificación (CTE DB SE AE), las fuerzas o cargas en un edificio se clasifican en:
+###### 2.1.1. Tipología
 
-*   **Acciones permanentes:** Cargas constantes a lo largo de la vida útil del edificio.
-    *   **Peso propio:** Incluye el peso de todos los materiales y elementos constructivos (estructura, cerramientos, tabiquería, acabados, instalaciones). Se determina por las dimensiones de los elementos y el peso de sus materiales. Valores de referencia del CTE se usan para materiales como cal (13 kN/m³), yeso (15 kN/m³), cemento (16 kN/m³), mortero de cemento (19-23 kN/m³), hormigón (24+1 kN/m³ si es armado), acero (77-78.5 kN/m³), adobe (16 kN/m³), ladrillo cerámico (12-15 kN/m³), bloque hormigón (13-16 kN/m³), piedra natural (24-28 kN/m³; basalto 30 kN/m³) y madera (3.5-5.0 kN/m³). Para elementos constructivos, el peso aparente varía: cubiertas (1.0-2.5 kN/m²), forjados (2.0-5.0 kN/m²), solados (0.5-1.5 kN/m²), cerramientos exteriores (7.0 kN/m para h=3m) y particiones interiores (3.0-5.0 kN/m para h=3m; 1 kN/m² valor medio en viviendas).
-    *   **Pretensado:** Esfuerzos debidos al tensado de barras de acero y compresión del hormigón. No es un valor de referencia para bomberos, solo se verifica su existencia para problemas de estabilidad.
-    *   **Acciones del terreno:** Esfuerzos transmitidos por el terreno (peso, empujes, hundimientos). Se estiman según el CTE DB-SE-C, considerando el tipo de suelo (arcillas, gravas, arenas) y su altura. Los empujes del terreno varían con la profundidad: 1m (arcilla 5 kN/m², grava/arena 3,3 kN/m²), 2m (arcilla 10 kN/m², grava/arena 6,6 kN/m²), 3m (arcilla 15 kN/m², grava/arena 10 kN/m²).
-*   **Acciones variables:** Cargas que pueden variar en magnitud y en el tiempo.
-    *   **Sobrecarga de uso:** Peso debido al uso del edificio (comercial, vivienda, residencial). Puede ser uniforme (kN/m²) o concentrada (kN). El CTE DB SE AE establece valores comunes: acceso restringido (viviendas, hospitales, hoteles) 2 kN/m² uniforme y 2 kN concentrada; cubiertas sin uso público 1 kN/m² uniforme y 2 kN concentrada; acceso público (comercial, aglomeración) 5 kN/m² uniforme y 7 kN concentrada; acceso vehículos ligeros (aparcamiento) 2 kN/m² uniforme y 20 kN concentrada.
-    *   **Acciones sobre barandillas y elementos divisorios:** Fuerza horizontal uniforme. El CTE estipula resistencias mínimas entre 1-3 kN/m. Para bomberos, se consideran resistencias máximas de 0.5 kN/m.
-    *   **Viento:** Presiones y succiones que dependen de la forma, altura, pendiente de cubierta y zona geográfica. Se puede adoptar un valor simplificado de 0.5 kN/m² en España.
-    *   **Acciones térmicas:** Deformaciones y cambios geométricos por variaciones de temperatura exterior (clima, orientación, exposición, materiales, calefacción/aislamiento). Conducen a esfuerzos y tensiones. En hormigón o acero, pueden no considerarse si hay juntas de dilatación cada 40m. Una viga de hormigón armado de 10 m, al pasar de 20°C a 400°C en un incendio, se dilatará 5,76 cm, generando empujes que pueden colapsar la estructura.
-    *   **Nieve:** Sobrecarga por acumulación de nieve en cubiertas, considerando zona climática e inclinación. En cubiertas planas a menos de 1000m de altitud, se considera una carga de 1.0 kN/m².
-*   **Acciones accidentales:** Cargas por riesgos naturales o antrópicos.
-    *   **Sismo:** Respuesta del edificio a movimientos sísmicos. Se rige por la norma sismorresistente (NCSR-02 / RD 997/2002). Sismos con aceleración > 0,04g se consideran peligrosos.
-    *   **Incendio:** Los edificios deben resistir incendios por un tiempo mínimo. El CTE-DB SI establece parámetros según uso y tamaño del edificio.
-    *   **Impacto:** Acciones por impacto accidental (excluyendo premeditados). Si lo exige la normativa municipal, los valores de cálculo de impacto de vehículos hasta 30 kN son: 50 kN (paralela a la vía) y 25 kN (perpendicular), no simultáneos.
+Los cuerpos de bomberos se enfrentan con mayor frecuencia a zanjas y pozos.
 
-### Esfuerzos y Tensiones
+**a) Entibaciones en zanjas:**
+*   **Geometría**: Una entibación debe replicar el intradós del terreno a soportar. En zanjas, esto implica dos superficies paralelas en contacto con los paramentos verticales del terreno, conectadas por codales perpendiculares que contrarrestan los empujes activos.
+*   **Rigidez**: Si la longitud y resistencia de los codales (tablones de madera, puntales metálicos) son insuficientes, pueden surgir esfuerzos de pandeo, comprometiendo la estabilidad. Para grandes esfuerzos o codales largos, se deben incorporar tornapuntas inclinadas entre el cabecero y el codal para aumentar la rigidez.
 
-Los elementos estructurales sufren **esfuerzos** o **conjuntos de esfuerzos** que se manifiestan como **tensiones internas**. La **tensión** es la fuerza por unidad de área que resulta de acciones puntuales, lineales o superficiales que transmiten la carga a través del material hasta el terreno de cimentación. Se mide en N/mm² (1 N/mm² = 1 Kg/cm² = 1 MPa).
+**b) Entibaciones en pozos:**
+*   **Geometría**: Similar a las zanjas, busca reproducir el intradós de la cavidad para estabilizar el terreno y, si es necesario, crear un hueco de acceso o supervivencia.
+*   **Rigidez**: Debido a las reducidas dimensiones de los pozos, el pandeo en los codales es improbable. Sin embargo, para asegurar la rigidez de la estructura auxiliar, los codales deben colocarse solapados.
+*   **Tipología**: Las entibaciones ordinarias se basan en "tableros de encofrado" y "anillos", pero son lentas de ejecutar y los cuerpos de bomberos suelen centrarse en tablones de madera y/o puntales metálicos.
 
-Se distinguen varios tipos de tensiones:
+**Ejecución:**
+Los pasos para realizar una entibación son:
+1.  **Colocación de tablones**: Insertar clavos a unos 40 cm en los tablones, enfrentados, para sujetar los puntales. Dejar que el tablón sobresalga unos 20 cm del pozo a modo de rodapié.
+2.  **Posicionamiento de puntales**: Una vez colocados los tablones en el pozo (sujetos por clavos), insertar los puntales en los clavos, uno frente a otro, evitando el acopio excesivo de personal alrededor del pozo.
+3.  **Formación de cruz**: Realizar la misma operación perpendicularmente con otros dos tablones formando una cruz con los puntales.
+4.  **Descenso seguro**: Continuar colocando puntales en los tablones mientras se desciende con seguridad por el pozo.
 
-*   **Según coeficientes de seguridad:**
-    *   **Tensión de rotura:** Tensión máxima que un material puede soportar en laboratorio (sin coeficientes de seguridad).
-    *   **Tensión de trabajo:** Umbral máximo de tensión para que una estructura opere con seguridad (ponderada por coeficientes de seguridad). Suele ser 70-80% del límite elástico.
-*   **Según la naturaleza del esfuerzo:**
-    *   **Esfuerzos simples:**
-        *   **Compresión:** Las partículas del material tienden a reducir su distancia, el material se "aprieta" bajo fuerzas opuestas hacia el interior. Común en pilares, soportes, muros, puntales.
-        *   **Tracción:** Las partículas del material tienden a separarse, el material se "estira" bajo fuerzas opuestas hacia el exterior. Común en tirantes.
-        *   **Cortante/Cortadura/Cizalladura:** Las partículas del material se deslizan con movimiento relativo bajo dos fuerzas paralelas no coincidentes y de sentidos opuestos. Se produce en encuentros de vigas con pilares.
-    *   **Esfuerzos compuestos:** Combinaciones de los anteriores.
-        *   **Flexión (o flexión pura):** Esfuerzo en piezas longitudinales por carga transversal. En vigas biapoyadas, la parte inferior sufre tracción y la superior compresión. En voladizos, se invierte. Es característico de elementos horizontales como carreras, jácenas, vigas y sopandas.
-        *   **Pandeo (o flexión compuesta):** Deformación en elementos largos y delgados por fuerzas de compresión en dirección de su directriz. Ejemplo: tirante a compresión.
-        *   **Torsión:** Esfuerzo por fuerza circular sobre una pieza. Ejemplo: voladizos.
+###### 2.1.2. Profundidades de entibado
 
-En un conjunto estructural, los esfuerzos varían según la posición de las cargas y los elementos. Gráficamente, las tensiones de compresión y tracción se representan con **líneas isostáticas** (puntos de igual tensión), cuya ubicación depende de los nudos estructurales. Los **diagramas de cortantes** muestran la variación de la fuerza cortante vertical a lo largo del eje del elemento, con valores máximos en la **fibra neutra** (línea donde no hay esfuerzos de flexión) y decreciendo hacia las caras exteriores. Los **diagramas de momentos flectores** representan la variación del momento flector, indicando la deformación estructural.
+La normativa de referencia para los bomberos españoles, según NTP 278 del INSH/NTE-ADZ, establece el tipo de entibación en función de la profundidad y el tipo de terreno. Se considera peligrosa toda excavación con una profundidad de 0,80 m en terrenos corrientes o 1,30 m en terrenos consistentes, ya que a esas profundidades el tórax de una persona podría quedar oprimido por un desprendimiento.
 
-### Materiales de Construcción
+Es necesario un estudio previo del terreno para conocer su estabilidad. Se considera peligroso cualquier talud con pendiente superior a su ángulo natural.
+*   **Profundidad de entibado**: La norma exige entibar a partir de 1,30 m. Sin embargo, en emergencias, se debe iniciar la entibación cuando una persona quede completamente cubierta (alrededor de 1,50 m). Previamente, se debe crear un hueco para la respiración y, si la liberación no es directa, proceder a entibar.
+*   **Tipos de terreno**:
+    *   **Gravas y arenas (terrenos no cohesivos)**: Siempre se debe entibar.
+    *   **Arcillas (terrenos cohesivos)**: Entibar automáticamente cuando la zanja o pozo estén cerca de un vial, cimentación u otro elemento cuya solicitación pueda causar su derrumbe. Esto ocurre si la cavidad está a una distancia inferior a dos veces su profundidad.
 
-Los **materiales de construcción** son materias primas transformadas mediante técnicas constructivas para formar elementos de edificación. Su **disponibilidad** (ej. áridos, arcilla) es crucial.
+###### 2.1.3. Precauciones
 
-*   **Comportamiento mecánico:** Los materiales se clasifican en:
-    *   **Materiales tenaces:** Absorben energía antes de fracturarse, alta ductilidad (deformabilidad). Resisten bien a compresión y tracción (ej. madera, acero).
-    *   **Materiales frágiles:** Tienen buen comportamiento a compresión pero malo a tracción, no soportan flexiones. Son de "carácter másico" (ej. piedra, ladrillo).
+Al ejecutar un apeo bajo la cota del terreno, se deben observar las siguientes medidas de seguridad:
+*   Identificar las características del terreno.
+*   Asegurarse y examinar las instalaciones subterráneas (agua, líneas de alta tensión, gas).
+*   No acceder a pozos o aljibes sin comprobar la atmósfera interior o sin equipos de respiración.
+*   No usar motores de explosión en excavaciones estrechas o profundas; si es necesario, verificar los gases de escape.
+*   No almacenar materiales ni arena en el borde de la excavación.
+*   Siempre que sea posible, usar una escalera como vía de escape.
+*   Asegurarse de que los paneles queden en vertical y los codales trabajen en un ángulo de 90º respecto al panel para evitar esfuerzos verticales en los codales.
+*   Cuanto más profunda sea la zanja, mayor presión ejercerá sobre los codales en la parte más baja.
 
-#### Materiales Pétreos
+**Tabla 28. Tipo de entibación (para una profundidad de corte en metros)**
 
-Estos materiales se clasifican según su origen, naturaleza, fabricación y ejecución.
+| Tipo de terreno       | Solicitación | Tipo de corte   | ≤ 1,30    | 1,30-2,00        | 2,00-2,50        | ≥ 2,50           |
+|-----------------------|--------------|-----------------|-----------|------------------|------------------|------------------|
+| **Coherente (Arcillas)** | Ninguna      | Zanja, Pozo     | No necesita | Ligera, Semicuajada | Cuajada          | Cuajada          |
+|                       | Vial         | Zanja, Pozo     | Ligera, Semicuajada | Semicuajada, Cuajada | Cuajada          | Cuajada          |
+|                       | Cimentación  | Cualquiera      | Cuajada   | Cuajada          | Cuajada          | Cuajada          |
+| **Suelto (Gravas y arenas)** | Cualquiera   | Cualquiera      | Cuajada   | Cuajada          | Cuajada          | Cuajada          |
 
-**Pétreos Naturales:** Extraídos directamente de la naturaleza, mantienen su estructura frente al agua por periodos superiores a la vida útil de un edificio. Son apreciados por su resistencia y durabilidad, aunque su alto coste, poca plasticidad y fragilidad han relegado su uso estructural a favor de materiales artificiales, usándose hoy principalmente como materia prima (cementos) o acabados.
+*Fuente: ONGD Bomberos Unidos Sin Fronteras*
 
-*   **Rocas Ígneas:** Formadas por solidificación de magma.
-    *   **Intrusivas, plutónicas o magmáticas:** Solidificación lenta en el interior terrestre. Muy densas y resistentes (ej. granito, usado en cimentaciones, muros de carga, pavimentación).
-    *   **Extrusivas, volcánicas o eruptivas:** Solidificación rápida en superficie. Menos densas y resistentes, más oscuras (ej. basalto, uso similar al granito).
-*   **Rocas Sedimentarias:** Resultado de sedimentación sobre rocas preexistentes, con procesos físicos y químicos que las consolidan. Son importantes en construcción.
-    *   **Dentríticas:** Por alteración física de otras rocas. Se subdividen en sueltas (gravas, arenas, limos) y compactas (conglomerados, arenisca, lutita).
-        *   **Gravas:** Fragmentos de roca triturada, usados en mampostería, pavimentos, hormigones. Tamaños de 2.0-60.0 mm.
-        *   **Arenas:** Esenciales en morteros y hormigones. Tamaños de 0.06-2.00 mm.
-        *   **Limos:** Tamaños de 0.002-0.060 mm.
-    *   **No dentríticas:** De origen químico, por cristalización de sustancias disueltas y consolidación (ej. arcilla, caliza, yeso).
-        *   **Arcillas:** Composición microscópica que propicia gran almacenamiento de agua y plasticidad. Usada en ladrillos (adobe) y cerámicos. Tamaños < 0.002 mm.
-*   **Rocas Metamórficas:** Transformación de rocas ígneas y sedimentarias por presión y temperatura, cambiando su composición y estructura. Factores: altas temperaturas (150-800ºC, rompen enlaces atómicos), presión (litostática por peso, confinante por fluidos, dirigida/tectónica por esfuerzo), reacciones químicas (cambios de textura, estructura exfoliable, pérdida de agua/carbono). Baja resistencia y exfoliabilidad limitan su uso a revestimientos. La "serie pelítica" (Arcilla > Pizarra > Esquisto > Micacita > Gneis > Migmatita) muestra rocas sucesivamente más resistentes y compactas.
+#### 2. Apeos estandarizados del CEIS Guadalajara
 
-**Pétreos Artificiales
+Este anexo proporciona tablas para calcular los pesos de materiales y elementos constructivos según el CTE DB SE AE, así como apeos estandarizados del CEIS Guadalajara.
+
+##### 1. Pesos de materiales, productos y elementos constructivos según el CTE DB SE AE
+
+**Tabla 1. Peso específico aparente de materiales de construcción**
+
+| Material de albañilería          | Peso Específico Aparente (kN/m³) | Material de albañilería (cont.) | Peso Específico Aparente (kN/m³) |
+|----------------------------------|----------------------------------|--------------------------------|----------------------------------|
+| Arenisca                         | 21,0 a 27,0                      | Granito                        | 27,0 a 30,0                      |
+| Terracota compacta               | 21,0 a 27,0                      | Basalto                        | 27,0 a 31,0                      |
+| Calizas compactas, mármoles      | 28,0                             | Sienita, diorita, pórfido      | 28,0                             |
+| Diorita, gneis                   | 30,0                             |                                |                                  |
+| **Fábricas**                     |                                  | **Madera**                     |                                  |
+| Bloque hueco de yeso             | 10,0                             | Aserrada, tipos C14 a C40      | 3,5 a 5,0                        |
+| Ladrillo cerámico hueco          | 12,0                             | Laminada encolada              | 3,7 a 4,4                        |
+| Bloque hueco de cemento          | 13,0 a 16,0                      | Tablero ligero                 | 4,0                              |
+| Ladrillo cerámico macizo         | 18,0                             | Tablero contrachapado          | 5,0                              |
+| Ladrillo cerámico perforado      | 15,0                             | Tablero cartón gris            | 8,0                              |
+| Ladrillo silicocalcáreo           | 20,0                             | Tablero de fibras              | 8,0 a 10,0                       |
+| Aglomerado con cemento           | 12,0                             |                                |                                  |
+| **Mampostería con mortero**      |                                  | **Metales**                    |                                  |
+| de arenisca                      | 24,0                             | Aluminio                       | 27,0                             |
+| de caliza compacta               | 26,0                             | Zinc                           | 71,0 a 72,0                      |
+| de granito                       | 26,0                             | Hierro colado                  | 71,0 a 72,5                      |
+| de basalto                       | 27,0                             | Estaño                         | 74,0                             |
+| Hierro forjado                   | 76,0                             | Acero                          | 77,0 a 78,5                      |
+| Latón                            | 83,0 a 85,0                      | Bronce                         | 83,0 a 85,0                      |
+| Cobre                            | 87,0 a 89,0                      | Plomo                          | 112,0 a 114,0                    |
+| **Sillería**                     |                                  | **Plásticos y orgánicos**      |                                  |
+| de arenisca o caliza porosas     | 24,0                             | Poliestireno expandido         | 0,3                              |
+| de arenisca                      | 26,0                             | Lámina acrílica                | 12,0                             |
+| de caliza compacta o mármol      | 28,0                             | Linóleo en plancha             | 12,0                             |
+| de granito                       | 28,0                             | Caucho en plancha              | 17,0                             |
+| de basalto                       | 30,0                             | Mástico en plancha             | 21,0                             |
+| **Hormigones y morteros**        |                                  | **Otros**                      |                                  |
+| Hormigón ligero                  | 9,0 a 20,0                       | Papel                          | 11,0                             |
+| Mortero de cal                   | 12,0 a 18,0                      | Adobe                          | 16,0                             |
+| Mortero de yeso                  | 12,0 a 28,0                      | Baldosa cerámica               | 18,0                             |
+| Mortero de cemento y cal         | 18,0 a 20,0                      | Baldosa de gres                | 19,0                             |
+| Mortero de cemento               | 19,0 a 23,0                      | Asfalto                        | 24,0                             |
+| Hormigón normal (1)              | 24,0                             | Vidrio                         | 25,0                             |
+| Hormigón pesado                  | > 28,0                           | Pizarra                        | 29,0                             |
+
+*(1) En hormigón armado con armados usuales o fresco, aumenta 1 kN/m³.*
+
+**Tabla 2. Peso por unidad de superficie de elementos de cobertura**
+
+| Materiales y elementos                | Peso (kN/m²) | Materiales y elementos (cont.)         | Peso (kN/m²) |
+|-------------------------------------|--------------|--------------------------------------|--------------|
+| Aislante (lana de vidrio o roca) por cada 10 mm de espesor | 0,02         | Vidriera (incluida la carpintería) vidrio normal, 5 mm espesor | 0,25         |
+| Hoja de plástico armada, 1,2 mm     | 0,02
