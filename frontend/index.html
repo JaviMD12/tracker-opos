@@ -221,98 +221,70 @@
         </div>
       </section>
 
-      <!-- ===== Acondicionamiento Fisico Estrategico (teaser gratuito) ===== -->
-      <!-- Version ligera y gratuita: detecta la prueba mas floja del ultimo
-           registro y devuelve una rutina orientativa predeterminada (fija,
-           no generada por IA). La version real -- "Entrenamiento Especifico",
-           IA-personalizada segun el historial completo -- vive solo en la
-           Zona Premium (ver #entrenamiento-contenido) y es justo lo que el
-           modal de pago promete como beneficio exclusivo; esta seccion no
-           debe sustituirla ni duplicar ese contenido. -->
-      <section class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6">
-        <div class="flex items-center gap-3 mb-4">
-          <div class="icon-badge">
-            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" />
-            </svg>
-          </div>
-          <div>
-            <h3 class="font-semibold text-white text-lg">Acondicionamiento Fisico Estrategico</h3>
-            <p class="text-xs text-gray-500">Tu prueba mas floja ahora mismo, con una rutina orientativa</p>
-          </div>
-        </div>
+      <!-- ===== Acondicionamiento Fisico Estrategico (contenido real, trasladado desde la Zona Premium) ===== -->
+      <div class="space-y-6">
+        <h3 class="text-lg font-bold text-white">Acondicionamiento Fisico Estrategico</h3>
 
-        <p id="acondicionamiento-vacio" class="text-sm text-gray-500">
-          Registra tu primera marca fisica mas abajo para descubrir tu punto debil y ver tu rutina.
-        </p>
-
-        <div id="acondicionamiento-contenido" class="hidden space-y-4">
-          <p class="text-sm text-gray-300">
-            Tu prueba mas floja ahora mismo: <span class="font-semibold text-amber-400" id="acondicionamiento-prueba">--</span>
+        <section class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6">
+          <h3 class="font-semibold text-white mb-1">Evolucion de la Nota Global Oposicion</h3>
+          <p class="text-xs text-gray-500 mb-4">Combinada 50% fisica / 50% teorica, sobre 10</p>
+          <div class="relative" style="height: 280px;">
+            <canvas id="grafica-evolucion"></canvas>
+          </div>
+          <p id="grafica-vacia" class="text-sm text-gray-500 mt-3 hidden">
+            Registra tus primeras marcas fisicas para visualizar tu evolucion.
           </p>
-          <ul id="acondicionamiento-lista" class="list-disc list-inside text-sm text-gray-400 space-y-1"></ul>
+        </section>
 
-          <!-- ===== Upsell: banner contextual justo debajo de la rutina (solo Free) ===== -->
-          <div id="banner-upsell-entrenamiento" class="hidden mt-2 rounded-2xl border border-amber-500/30 bg-gradient-to-br from-amber-500/10 to-orange-600/5 p-5">
-            <div class="flex flex-col sm:flex-row sm:items-center gap-4">
-              <div class="flex items-start gap-3 flex-1">
-                <div class="icon-badge flex-shrink-0">
-                  <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" />
-                  </svg>
-                </div>
-                <p class="text-sm text-gray-200">
-                  <span class="font-semibold text-white">¿Estás estancado en tus marcas?</span>
-                  ¿Quieres llevar tu entrenamiento al siguiente nivel y asegurar tu nota? Deja que nuestra
-                  IA adapte tu carga de trabajo a tu progreso real y evita lesiones.
-                </p>
-              </div>
-              <button type="button" id="btn-banner-upsell-entrenamiento" class="btn-plan-ia flex-shrink-0 w-full sm:w-auto sm:px-6 sm:mt-0 font-sans flex items-center justify-center gap-1.5 flex-wrap">
-                <span>Desbloquear Premium por</span>
-                <span class="text-lg font-bold">9,99&euro;</span><span class="text-sm font-normal opacity-75">/mes</span>
-              </button>
+        <section class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 lg:p-8">
+          <div class="flex items-center gap-3 mb-6">
+            <div class="icon-badge">
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" />
+              </svg>
+            </div>
+            <div>
+              <h3 class="font-semibold text-white text-lg">Entrenamiento Especifico</h3>
+              <p class="text-xs text-gray-500">Programa basado en evidencia para tu punto mas debil</p>
             </div>
           </div>
-        </div>
-      </section>
+          <div id="entrenamiento-contenido" class="text-sm text-gray-400">Cargando analisis...</div>
+        </section>
 
-      <!-- ===== Alto Rendimiento Teorico (teaser gratuito) ===== -->
-      <!-- Version resumida y gratuita, 4 tarjetas fijas sin llamada al
-           backend. La libreria completa (contenido real de
-           TECNICAS_ESTUDIO_PRO via /api/pro/teorica) sigue solo en la Zona
-           Premium, ver #tecnicas-estudio-contenido. -->
-      <section class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6">
-        <div class="flex items-center gap-3 mb-4">
-          <div class="icon-badge">
-            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M12 6.25C10.5 5 8.4 4.5 6 4.5c-.83 0-1.63.08-2.4.24A1 1 0 003 5.72v12.06a1 1 0 001.2.98c.7-.15 1.44-.22 2.2-.22 2.1 0 4.02.55 5.6 1.7m0-14.01c1.5-1.25 3.6-1.75 6-1.75.83 0 1.63.08 2.4.24a1 1 0 01.6.98v12.06a1 1 0 01-1.2.98 11 11 0 00-2.2-.22c-2.1 0-4.02.55-5.6 1.7m0-14.01v14.01" />
-            </svg>
-          </div>
-          <div>
-            <h3 class="font-semibold text-white text-lg">Alto Rendimiento Teorico</h3>
-            <p class="text-xs text-gray-500">4 tecnicas de estudio con respaldo en neurociencia cognitiva</p>
+        <!-- ===== Upsell: banner contextual justo debajo del Acondicionamiento Fisico ===== -->
+        <div id="banner-upsell-entrenamiento" class="rounded-2xl border border-amber-500/30 bg-gradient-to-br from-amber-500/10 to-orange-600/5 p-5">
+          <div class="flex flex-col sm:flex-row sm:items-center gap-4">
+            <div class="flex items-start gap-3 flex-1">
+              <div class="icon-badge flex-shrink-0">
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" />
+                </svg>
+              </div>
+              <p class="text-sm text-gray-200">
+                <span class="font-semibold text-white">¿Estás estancado en tus marcas?</span>
+                ¿Quieres llevar tu entrenamiento al siguiente nivel y asegurar tu nota? Deja que nuestra
+                IA adapte tu carga de trabajo a tu progreso real y evita lesiones.
+              </p>
+            </div>
+            <button type="button" id="btn-banner-upsell-entrenamiento" class="btn-plan-ia flex-shrink-0 w-full sm:w-auto sm:px-6 sm:mt-0 font-sans flex items-center justify-center gap-1.5 flex-wrap">
+              <span>Desbloquear Premium por</span>
+              <span class="text-lg font-bold">9,99&euro;</span><span class="text-sm font-normal opacity-75">/mes</span>
+            </button>
           </div>
         </div>
+      </div>
 
-        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-          <div class="bg-gray-900/50 border border-gray-700 rounded-xl p-4">
-            <p class="font-semibold text-white text-sm mb-1">Recuerdo Activo</p>
-            <p class="text-xs text-gray-400">Recupera la informacion de memoria sin mirar el apunte: fija mas que releer.</p>
-          </div>
-          <div class="bg-gray-900/50 border border-gray-700 rounded-xl p-4">
-            <p class="font-semibold text-white text-sm mb-1">Repeticion Espaciada</p>
-            <p class="text-xs text-gray-400">Repasa justo antes de olvidar: espacia los repasos en vez de agruparlos.</p>
-          </div>
-          <div class="bg-gray-900/50 border border-gray-700 rounded-xl p-4">
-            <p class="font-semibold text-white text-sm mb-1">Tecnica Feynman</p>
-            <p class="text-xs text-gray-400">Explica el tema en voz alta con tus palabras: donde te trabas, ahi esta el hueco.</p>
-          </div>
-          <div class="bg-gray-900/50 border border-gray-700 rounded-xl p-4">
-            <p class="font-semibold text-white text-sm mb-1">Practica Intercalada</p>
-            <p class="text-xs text-gray-400">Alterna temas distintos en la misma sesion en vez de bloques largos de uno solo.</p>
-          </div>
+      <!-- ===== Alto Rendimiento Teorico (contenido real, trasladado desde la Zona Premium) ===== -->
+      <div class="space-y-6">
+        <h3 class="text-lg font-bold text-white">Alto Rendimiento Teorico</h3>
+        <p class="text-sm text-gray-500 -mt-4">
+          Tecnicas de estudio con respaldo en neurociencia cognitiva, aplicadas directamente al temario de oposicion.
+        </p>
+
+        <div id="tecnicas-estudio-contenido" class="grid grid-cols-1 xl:grid-cols-2 gap-6 text-sm text-gray-400">
+          Cargando tecnicas de estudio...
         </div>
-      </section>
+      </div>
 
       <!-- ===== Upsell: Teaser "Cristal Empañado" del Tablon de Plazas (solo Free) ===== -->
       <!-- Vista previa real de la tarjeta de convocatoria, desenfocada y no
@@ -732,59 +704,18 @@
         <!-- ============ SUB-VISTA: DASHBOARD / INICIO ============ -->
         <div id="premium-view-inicio" class="premium-subview flex-1 min-h-0 overflow-y-auto max-w-6xl mx-auto w-full p-4 sm:p-6 lg:p-8 space-y-6">
 
-          <!-- ===== 1. Acondicionamiento Fisico Estrategico ===== -->
-          <div class="space-y-6">
-            <div class="flex items-center gap-3">
-              <span class="seccion-numero">1</span>
-              <h3 class="text-lg font-bold text-white">Acondicionamiento Fisico Estrategico</h3>
-            </div>
+          <!-- Acondicionamiento Fisico Estrategico y Alto Rendimiento Teorico
+               se trasladaron al Dashboard gratuito (ver view-dashboard):
+               ninguno de los dos endpoints que los alimentan
+               (/api/pro/entrenamiento, /api/pro/teorica) esta protegido por
+               is_pro en el backend, asi que la Zona Premium real es solo el
+               Tablon de Plazas (si protegido, ver /api/convocatorias), el
+               Tutor IA y los Simulacros. -->
 
-            <section class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6">
-              <h3 class="font-semibold text-white mb-1">Evolucion de la Nota Global Oposicion</h3>
-              <p class="text-xs text-gray-500 mb-4">Combinada 50% fisica / 50% teorica, sobre 10</p>
-              <div class="relative" style="height: 280px;">
-                <canvas id="grafica-evolucion"></canvas>
-              </div>
-              <p id="grafica-vacia" class="text-sm text-gray-500 mt-3 hidden">
-                Registra tus primeras marcas fisicas para visualizar tu evolucion.
-              </p>
-            </section>
-
-            <section class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 lg:p-8">
-              <div class="flex items-center gap-3 mb-6">
-                <div class="icon-badge">
-                  <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" />
-                  </svg>
-                </div>
-                <div>
-                  <h3 class="font-semibold text-white text-lg">Entrenamiento Especifico</h3>
-                  <p class="text-xs text-gray-500">Programa basado en evidencia para tu punto mas debil</p>
-                </div>
-              </div>
-              <div id="entrenamiento-contenido" class="text-sm text-gray-400">Cargando analisis...</div>
-            </section>
-          </div>
-
-          <!-- ===== 2. Alto Rendimiento Teorico ===== -->
-          <div class="space-y-6">
-            <div class="flex items-center gap-3">
-              <span class="seccion-numero">2</span>
-              <h3 class="text-lg font-bold text-white">Alto Rendimiento Teorico</h3>
-            </div>
-            <p class="text-sm text-gray-500 -mt-4 ml-11">
-              Tecnicas de estudio con respaldo en neurociencia cognitiva, aplicadas directamente al temario de oposicion.
-            </p>
-
-            <div id="tecnicas-estudio-contenido" class="grid grid-cols-1 xl:grid-cols-2 gap-6 text-sm text-gray-400">
-              Cargando tecnicas de estudio...
-            </div>
-          </div>
-
-          <!-- ===== 3. Tablon de Plazas en Tiempo Real ===== -->
+          <!-- ===== Tablon de Plazas en Tiempo Real ===== -->
           <div id="tour-tablon" class="space-y-6">
             <div class="flex items-center gap-3">
-              <span class="seccion-numero">3</span>
+              <span class="seccion-numero">1</span>
               <h3 class="text-lg font-bold text-white">Tablon de Plazas en Tiempo Real</h3>
             </div>
             <p class="text-sm text-gray-500 -mt-4 ml-11">
@@ -939,7 +870,6 @@
         <li class="flex items-center gap-2.5"><span class="text-amber-400">✓</span> Tutor Inteligente 24/7 para dudas legislativas y técnicas</li>
         <li class="flex items-center gap-2.5"><span class="text-amber-400">✓</span> Generador de Simulacros ilimitados y adaptados</li>
         <li class="flex items-center gap-2.5"><span class="text-amber-400">✓</span> Tablón de Plazas en tiempo real</li>
-        <li class="flex items-center gap-2.5"><span class="text-amber-400">✓</span> Entrenamientos físicos personalizados dinámicamente según tus marcas</li>
       </ul>
 
       <button type="button" id="btn-modal-actualizar-premium" class="btn-primary w-full mt-7 font-sans flex items-center justify-center gap-1.5 flex-wrap">

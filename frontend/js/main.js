@@ -47,6 +47,7 @@ function mostrarApp() {
   appShellEl.classList.remove("hidden");
   mostrarEstadoPremium();
   cargarDashboardGlobal();
+  cargarAcondicionamientoDashboard();
   cargarHeatmap();
   procesarRetornoDePago();
 }
@@ -247,56 +248,6 @@ const recomendacionBox = document.getElementById("recomendacion");
 const notaGlobalEl = document.getElementById("nota-global");
 const ultimaFechaEl = document.getElementById("ultima-fecha");
 
-// ---------- Acondicionamiento Fisico Estrategico (teaser gratuito) ----------
-// Rutina fija y generica por prueba, NO generada por IA: la version real
-// personalizada (RUTINAS_PRO) vive solo en la Zona Premium via
-// /api/pro/entrenamiento. Esta rutina orientativa es deliberadamente basica,
-// es el gancho gratuito, no el producto de pago.
-const NOMBRE_PRUEBA_TEASER = {
-  dominadas: "Dominadas",
-  sprint_100m: "Sprint 100m",
-  carrera_1500m: "Carrera 1500m",
-  natacion_100m: "Natacion 100m",
-};
-const RUTINA_TEASER_GRATIS = {
-  dominadas: [
-    "3 series de remo invertido hasta el fallo tecnico",
-    "Dead hangs de 20-30s para fuerza de agarre",
-    "Negativas controladas de dominada, 4-6s de bajada",
-  ],
-  sprint_100m: [
-    "4-6 sprints de 30m a maxima intensidad",
-    "Skipping y tecnica de carrera, 3 series de 20m",
-    "Cuestas cortas explosivas, 6-8 repeticiones",
-  ],
-  carrera_1500m: [
-    "2-3 series de 400m a ritmo objetivo de carrera",
-    "Rodaje continuo suave, 20-25 min",
-    "Series de 200m con recuperacion activa",
-  ],
-  natacion_100m: [
-    "8x25m a ritmo de competicion con descanso corto",
-    "Trabajo de tecnica de brazada, 15 min",
-    "200m continuos a ritmo moderado",
-  ],
-};
-const acondicionamientoVacioEl = document.getElementById("acondicionamiento-vacio");
-const acondicionamientoContenidoEl = document.getElementById("acondicionamiento-contenido");
-const acondicionamientoPruebaEl = document.getElementById("acondicionamiento-prueba");
-const acondicionamientoListaEl = document.getElementById("acondicionamiento-lista");
-
-function pintarAcondicionamientoTeaser(claveRecomendada) {
-  if (!claveRecomendada || !RUTINA_TEASER_GRATIS[claveRecomendada]) return;
-  acondicionamientoVacioEl?.classList.add("hidden");
-  acondicionamientoContenidoEl?.classList.remove("hidden");
-  if (acondicionamientoPruebaEl) acondicionamientoPruebaEl.textContent = NOMBRE_PRUEBA_TEASER[claveRecomendada];
-  if (acondicionamientoListaEl) {
-    acondicionamientoListaEl.innerHTML = RUTINA_TEASER_GRATIS[claveRecomendada]
-      .map((ejercicio) => `<li>${ejercicio}</li>`)
-      .join("");
-  }
-}
-
 const formTeorica = document.getElementById("form-teorica");
 const resultadoTeoricaBox = document.getElementById("resultado-teorica");
 const notaTeoricaResultadoEl = document.getElementById("nota-teorica-resultado");
@@ -419,6 +370,7 @@ function mostrarEstadoPremium() {
   // sentido para quien ya es Pro -- se ocultan aqui, en el mismo sitio que
   // decide el resto del estado premium, para no tener dos fuentes de verdad.
   teaserTablonBox?.classList.toggle("hidden", desbloqueado);
+  bannerUpsellEntrenamiento?.classList.toggle("hidden", desbloqueado);
 }
 
 async function iniciarCheckoutStripe(boton) {
@@ -493,6 +445,28 @@ btnModalActualizarPremium?.addEventListener("click", () =>
 );
 
 btnBannerUpsellEntrenamiento?.addEventListener("click", () => activarVista("premium"));
+
+// ---------- CTA "profundiza con el Plan Pro" bajo contenido gratuito ----------
+// Se inserta bajo la rutina de Entrenamiento Especifico y bajo las Tecnicas
+// de Estudio (ver cargarEntrenamientoEspecifico/cargarTecnicasEstudio): no
+// promete una version "superior" de ese mismo contenido -ya es la version
+// completa, unica, gratuita desde que se traslado fuera de Premium- sino
+// que dirige al Tutor IA real de Plan Pro, que si puede profundizar y
+// personalizarlo por chat (ver su mensaje de bienvenida: "Preguntame sobre
+// tus rutinas de entrenamiento o tus tecnicas de estudio").
+function htmlCtaProfundizarPremium(mensaje) {
+  return `
+    <div class="mt-6 pt-5 border-t border-gray-700/60">
+      <p class="text-sm text-gray-400">${mensaje}</p>
+      <button type="button" class="btn-plan-ia mt-3 btn-cta-profundizar-premium">Ver Plan Pro</button>
+    </div>`;
+}
+
+document.addEventListener("click", (evento) => {
+  if (evento.target.closest(".btn-cta-profundizar-premium")) {
+    activarVista("premium");
+  }
+});
 
 // ---------- Plan Pro: Portal de Cliente de Stripe (gestion de suscripcion) ----------
 const btnGestionarSuscripcion = document.getElementById("btn-gestionar-suscripcion");
@@ -730,6 +704,10 @@ async function cargarEntrenamientoEspecifico() {
 
       <p class="text-xs font-semibold uppercase tracking-wide text-gray-500 mb-2">Bibliografia</p>
       <div class="space-y-2">${bibliografia}</div>
+
+      ${htmlCtaProfundizarPremium(
+        "¿Quieres algo más personalizado y profundo? En el Plan Pro, nuestro Tutor IA 24/7 ajusta esta rutina a tu progreso real y resuelve tus dudas al momento."
+      )}
     `;
   } catch (err) {
     console.error("No se pudo cargar el entrenamiento especifico", err);
@@ -771,7 +749,9 @@ async function cargarTecnicasEstudio() {
           </div>
         </article>`;
       })
-      .join("");
+      .join("") + `<div class="xl:col-span-2">${htmlCtaProfundizarPremium(
+        "¿Quieres profundizar más en estas técnicas? En el Plan Pro, nuestro Tutor IA 24/7 te ayuda a aplicarlas a tu temario concreto, tema a tema."
+      )}</div>`;
   } catch (err) {
     console.error("No se pudieron cargar las tecnicas de estudio", err);
     contenedor.innerHTML = `<p class="text-gray-500">No se pudo conectar con el backend.</p>`;
@@ -876,10 +856,21 @@ async function cargarTablonConvocatorias() {
   }
 }
 
-function cargarZonaPremium() {
+// Acondicionamiento Fisico Estrategico (grafica + Entrenamiento Especifico)
+// y Alto Rendimiento Teorico viven en el Dashboard gratuito: sus endpoints
+// (/api/dashboard/evolucion, /api/pro/entrenamiento, /api/pro/teorica) solo
+// exigen sesion iniciada, no is_pro, asi que se cargan para cualquier
+// usuario logueado en cuanto arranca la app (ver mostrarApp()).
+function cargarAcondicionamientoDashboard() {
   cargarGraficaEvolucion();
   cargarEntrenamientoEspecifico();
   cargarTecnicasEstudio();
+}
+
+// Acondicionamiento Fisico Estrategico y Alto Rendimiento Teorico viven en
+// el Dashboard gratuito (ver cargarAcondicionamientoDashboard); la Zona
+// Premium real, protegida por is_pro en el backend, es solo el Tablon.
+function cargarZonaPremium() {
   cargarTablonConvocatorias();
 }
 
@@ -1130,7 +1121,6 @@ function pintarResultado(data) {
   if (data.recomendacion) {
     recomendacionBox.textContent = data.recomendacion.mensaje;
     recomendacionBox.classList.remove("hidden");
-    pintarAcondicionamientoTeaser(data.recomendacion.prueba_recomendada);
   } else {
     recomendacionBox.textContent = "Ya tienes 10 puntos en todas las pruebas.";
   }
@@ -1197,6 +1187,11 @@ form.addEventListener("submit", async (event) => {
     const data = await res.json();
     pintarResultado(data);
     cargarDashboardGlobal();
+    // Refresca la rutina y la grafica con el nuevo punto debil / registro,
+    // en vez de esperar a la proxima carga de la app (ver
+    // cargarAcondicionamientoDashboard()).
+    cargarEntrenamientoEspecifico();
+    cargarGraficaEvolucion();
   } catch (err) {
     console.error(err);
     alert("No se pudo conectar con el backend.");
