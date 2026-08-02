@@ -372,7 +372,10 @@ function mostrarEstadoPremium() {
 }
 
 async function iniciarCheckoutStripe(boton) {
-  const textoOriginal = boton.textContent;
+  // innerHTML, no textContent: varios de estos botones llevan spans anidados
+  // para destacar el precio (9,99 grande + /mes sutil) y textContent los
+  // aplanaria a texto plano al restaurar tras un error.
+  const htmlOriginal = boton.innerHTML;
   boton.disabled = true;
   boton.textContent = "Redirigiendo a pago seguro...";
 
@@ -383,7 +386,7 @@ async function iniciarCheckoutStripe(boton) {
     if (!res.ok) {
       mostrarToast(data.detail ?? "No se pudo iniciar el pago.", "error");
       boton.disabled = false;
-      boton.textContent = textoOriginal;
+      boton.innerHTML = htmlOriginal;
       return;
     }
 
@@ -392,7 +395,7 @@ async function iniciarCheckoutStripe(boton) {
     console.error("No se pudo iniciar el checkout de Stripe", err);
     mostrarToast("No se pudo conectar con el backend de pagos.", "error");
     boton.disabled = false;
-    boton.textContent = textoOriginal;
+    boton.innerHTML = htmlOriginal;
   }
 }
 
