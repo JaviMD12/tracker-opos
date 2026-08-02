@@ -173,9 +173,58 @@
     <!-- ============ VISTA: DASHBOARD ANALITICO ============ -->
     <main id="view-dashboard" class="view flex-1 min-h-0 overflow-y-auto max-w-6xl mx-auto w-full p-6 lg:p-8 space-y-8">
 
-      <!-- Registrar marca del dia: arriba del todo, porque Acondicionamiento
-           Fisico Estrategico y la grafica de evolucion dependen de que haya
-           al menos un registro para mostrar algo mas que un estado vacio. -->
+      <!-- Analista Estrategico Global -->
+      <section class="relative rounded-2xl overflow-hidden border border-gray-800 shadow-xl">
+        <div class="absolute inset-0">
+          <img src="https://images.unsplash.com/photo-1634468413956-831adf9d5a06?q=80&w=1600&auto=format&fit=crop"
+               alt="Bombero entrenando frente al fuego" class="w-full h-full object-cover opacity-50" />
+          <div class="absolute inset-0 bg-gradient-to-r from-gray-950/95 via-gray-950/80 to-gray-950/30"></div>
+        </div>
+
+        <div class="relative z-10 p-6 lg:p-8">
+          <p class="text-xs font-semibold uppercase tracking-widest text-amber-400 mb-1">Analista Estrategico Global</p>
+
+          <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-6">
+            <div>
+              <div class="text-5xl font-bold bg-gradient-to-r from-orange-400 to-amber-300 bg-clip-text text-transparent" id="dashboard-nota-total">--</div>
+              <p class="text-gray-400 text-sm mt-1">Nota Total Oposicion (sobre 10)</p>
+            </div>
+
+            <div class="flex gap-8">
+              <div class="min-w-[140px]">
+                <div class="flex items-center justify-between text-sm mb-1.5">
+                  <span class="text-gray-400">Fisica</span>
+                  <span class="font-semibold text-white" id="dashboard-nota-fisica">--</span>
+                </div>
+                <div class="h-1.5 bg-gray-800 rounded-full overflow-hidden">
+                  <div id="barra-fisica" class="h-full bg-gradient-to-r from-orange-600 to-amber-400 rounded-full transition-all" style="width: 0%"></div>
+                </div>
+              </div>
+              <div class="min-w-[140px]">
+                <div class="flex items-center justify-between text-sm mb-1.5">
+                  <span class="text-gray-400">Teorica</span>
+                  <span class="font-semibold text-white" id="dashboard-nota-teorica">--</span>
+                </div>
+                <div class="h-1.5 bg-gray-800 rounded-full overflow-hidden">
+                  <div id="barra-teorica" class="h-full bg-gradient-to-r from-orange-600 to-amber-400 rounded-full transition-all" style="width: 0%"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="mt-6 flex items-start gap-3 bg-black/30 border border-amber-500/20 rounded-xl p-4 text-sm text-gray-200">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-amber-400 flex-shrink-0 mt-0.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M13 2 3 14h7l-1 8 11-14h-7l1-6z" />
+            </svg>
+            <span id="dashboard-veredicto">Cargando veredicto del entrenador...</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Registrar marca del dia: justo debajo del veredicto general, porque
+           Acondicionamiento Fisico Estrategico y la grafica de evolucion
+           dependen de que haya al menos un registro para mostrar algo mas
+           que un estado vacio. -->
       <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
         <!-- Formularios -->
         <section class="md:col-span-2 bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6">
@@ -292,54 +341,6 @@
           <p class="text-sm text-gray-500 mt-6" id="ultima-fecha"></p>
         </aside>
       </div>
-
-      <!-- Analista Estrategico Global -->
-      <section class="relative rounded-2xl overflow-hidden border border-gray-800 shadow-xl">
-        <div class="absolute inset-0">
-          <img src="https://images.unsplash.com/photo-1634468413956-831adf9d5a06?q=80&w=1600&auto=format&fit=crop"
-               alt="Bombero entrenando frente al fuego" class="w-full h-full object-cover opacity-50" />
-          <div class="absolute inset-0 bg-gradient-to-r from-gray-950/95 via-gray-950/80 to-gray-950/30"></div>
-        </div>
-
-        <div class="relative z-10 p-6 lg:p-8">
-          <p class="text-xs font-semibold uppercase tracking-widest text-amber-400 mb-1">Analista Estrategico Global</p>
-
-          <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-6">
-            <div>
-              <div class="text-5xl font-bold bg-gradient-to-r from-orange-400 to-amber-300 bg-clip-text text-transparent" id="dashboard-nota-total">--</div>
-              <p class="text-gray-400 text-sm mt-1">Nota Total Oposicion (sobre 10)</p>
-            </div>
-
-            <div class="flex gap-8">
-              <div class="min-w-[140px]">
-                <div class="flex items-center justify-between text-sm mb-1.5">
-                  <span class="text-gray-400">Fisica</span>
-                  <span class="font-semibold text-white" id="dashboard-nota-fisica">--</span>
-                </div>
-                <div class="h-1.5 bg-gray-800 rounded-full overflow-hidden">
-                  <div id="barra-fisica" class="h-full bg-gradient-to-r from-orange-600 to-amber-400 rounded-full transition-all" style="width: 0%"></div>
-                </div>
-              </div>
-              <div class="min-w-[140px]">
-                <div class="flex items-center justify-between text-sm mb-1.5">
-                  <span class="text-gray-400">Teorica</span>
-                  <span class="font-semibold text-white" id="dashboard-nota-teorica">--</span>
-                </div>
-                <div class="h-1.5 bg-gray-800 rounded-full overflow-hidden">
-                  <div id="barra-teorica" class="h-full bg-gradient-to-r from-orange-600 to-amber-400 rounded-full transition-all" style="width: 0%"></div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="mt-6 flex items-start gap-3 bg-black/30 border border-amber-500/20 rounded-xl p-4 text-sm text-gray-200">
-            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-amber-400 flex-shrink-0 mt-0.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M13 2 3 14h7l-1 8 11-14h-7l1-6z" />
-            </svg>
-            <span id="dashboard-veredicto">Cargando veredicto del entrenador...</span>
-          </div>
-        </div>
-      </section>
 
       <!-- ===== Acondicionamiento Fisico Estrategico (contenido real, trasladado desde la Zona Premium) ===== -->
       <div class="space-y-6">
