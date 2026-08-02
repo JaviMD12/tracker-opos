@@ -318,6 +318,7 @@ const premiumSubviews = {
   inicio: document.getElementById("premium-view-inicio"),
   tutor: document.getElementById("premium-view-tutor"),
   simulacros: document.getElementById("premium-view-simulacros"),
+  enfoque: document.getElementById("premium-view-enfoque"),
 };
 
 function activarVistaPremium(nombre) {
@@ -1448,7 +1449,7 @@ btnNuevoSimulacro.addEventListener("click", () => {
   simulacroConfigBox.classList.remove("hidden");
 });
 
-// ---------- Modo Enfoque (Pomodoro a pantalla completa) ----------
+// ---------- Modo Enfoque (Pomodoro, apartado de la Zona Premium) ----------
 let timerInterval;
 let tiempoRestante = 25 * 60; // 25 minutos en segundos
 let timerCorriendo = false;
@@ -1461,20 +1462,7 @@ let cicloActualEsTrabajo = true;
 // Sonido de alarma al terminar la sesion de enfoque, cargado en memoria de antemano.
 const sonidoAlarma = new Audio("https://cdn.pixabay.com/audio/2021/08/04/audio_0625c1539c.mp3");
 
-const pantallaEnfoque = document.getElementById("pantalla-enfoque");
 const timerDisplay = document.getElementById("timer-display");
-
-// Interruptores de pantalla
-document.getElementById("btn-activar-enfoque").addEventListener("click", () => {
-  document.body.classList.add("modo-enfoque-activo");
-  pantallaEnfoque.classList.remove("hidden");
-});
-
-document.getElementById("btn-desactivar-enfoque").addEventListener("click", () => {
-  document.body.classList.remove("modo-enfoque-activo");
-  pantallaEnfoque.classList.add("hidden");
-  pausarTimer();
-});
 
 // Logica del temporizador
 function actualizarDisplayTimer() {

@@ -779,37 +779,15 @@ table td, table th {
   color: #fde68a; /* amber-200 */
 }
 
-/* Estado oculto general (reforzado con !important: el modo enfoque debe
-   ganar siempre, sin depender del orden de las utilidades de Tailwind CDN). */
+/* Estado oculto general (reforzado con !important, sin depender del orden
+   de las utilidades de Tailwind CDN). */
 .hidden {
   display: none !important;
 }
 
-/* Cuando el modo enfoque esta activo, limpiamos el fondo */
-body.modo-enfoque-activo {
-  background-color: #000000 !important;
-  color: #ffffff !important;
-  overflow: hidden; /* Evita scrolls innecesarios */
-}
-
-/* Ocultar el resto de la aplicacion (barras laterales, menus, etc.) */
-body.modo-enfoque-activo > *:not(#pantalla-enfoque) {
-  display: none !important;
-}
-
-/* Contenedor principal de enfoque centrado */
-#pantalla-enfoque {
-  position: fixed;
-  inset: 0;
-  z-index: 200;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  width: 100vw;
-  background-color: #000000;
-}
-
+/* Modo Enfoque: apartado de la Zona Premium, no un overlay a pantalla
+   completa -- por eso no necesita fondo/posicionamiento propios, hereda el
+   del resto de subvistas premium. */
 .contenedor-pomodoro {
   text-align: center;
 }
@@ -825,7 +803,7 @@ body.modo-enfoque-activo > *:not(#pantalla-enfoque) {
 }
 
 /* Botones discretos que no distraigan */
-.controles-timer button, .btn-salir {
+.controles-timer button {
   background: none;
   border: 1px solid #333333;
   color: #888888;
@@ -837,18 +815,10 @@ body.modo-enfoque-activo > *:not(#pantalla-enfoque) {
   transition: all 0.2s ease;
 }
 
-.controles-timer button:hover, .btn-salir:hover {
+.controles-timer button:hover {
   border-color: #ffffff;
   color: #ffffff;
   background-color: #111111;
-}
-
-.btn-salir {
-  margin-top: 5rem;
-  display: block;
-  width: 100%;
-  font-size: 0.9rem;
-  border-color: #222222;
 }
 
 @media (max-width: 480px) {
