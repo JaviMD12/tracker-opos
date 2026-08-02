@@ -289,14 +289,50 @@ function activarVista(nombre) {
     el.classList.toggle("hidden", nombreVista !== nombre);
   });
 
-  if (nombre === "premium" && proEstaDesbloqueado()) {
-    cargarZonaPremium();
-    verificarTourPremium();
+  if (nombre === "premium") {
+    // Siempre se entra por "Inicio": evita que alguien reabra la Zona
+    // Premium y se encuentre a media conversacion del chat o a mitad de un
+    // simulacro de una visita anterior sin contexto.
+    activarVistaPremium("inicio");
+    if (proEstaDesbloqueado()) {
+      cargarZonaPremium();
+      verificarTourPremium();
+    }
   }
 }
 
 navButtons.forEach((btn) => {
   btn.addEventListener("click", () => activarVista(btn.dataset.view));
+});
+
+// ---------- Zona Premium: sub-navegacion (Inicio / Tutor IA / Simulacros) ----------
+// Un segundo nivel de pestañas, solo dentro de la Zona Premium: antes las tres
+// herramientas (grafica+entrenamiento+tecnicas+tablon, chat del Tutor IA,
+// Simulacros) vivian apiladas en una unica pagina larga. Cada una es ahora su
+// propia sub-vista con scroll independiente (ver #premium-view-* en
+// index.html); el Tutor IA en particular necesita ser la unica vista visible
+// para poder ocupar toda la altura disponible estilo chat real.
+const premiumTabButtons = document.querySelectorAll(".premium-tab-btn");
+const premiumSubviews = {
+  inicio: document.getElementById("premium-view-inicio"),
+  tutor: document.getElementById("premium-view-tutor"),
+  simulacros: document.getElementById("premium-view-simulacros"),
+};
+
+function activarVistaPremium(nombre) {
+  premiumTabButtons.forEach((btn) => {
+    btn.classList.toggle("active", btn.dataset.premiumView === nombre);
+  });
+  Object.entries(premiumSubviews).forEach(([nombreVista, el]) => {
+    el.classList.toggle("hidden", nombreVista !== nombre);
+  });
+  if (nombre === "tutor") {
+    chatInput?.focus();
+  }
+}
+
+premiumTabButtons.forEach((btn) => {
+  btn.addEventListener("click", () => activarVistaPremium(btn.dataset.premiumView));
 });
 
 // ---------- Zona Premium: muro de pago (simulado) ----------
@@ -754,14 +790,17 @@ function cargarZonaPremium() {
 const PASOS_TOUR_PREMIUM = [
   {
     selector: "#tour-tablon",
+    vista: "inicio",
     texto: "El radar activado. Filtramos el ruido y te mostramos solo plazas reales de emergencias. Usa la IA para analizar los requisitos en segundos.",
   },
   {
     selector: "#tour-tutor",
+    vista: "tutor",
     texto: "Tu sargento 24/7. Pregúntale dudas técnicas sobre el CTE, hidráulica o legislación. Nunca duerme.",
   },
   {
     selector: "#tour-simulacros",
+    vista: "simulacros",
     texto: "Fuego real. Genera exámenes tipo test a medida basados en el temario oficial para blindar tus conocimientos.",
   },
 ];
@@ -799,6 +838,12 @@ function pintarPasoTour(indice) {
   limpiarResaltadoTour();
 
   const paso = PASOS_TOUR_PREMIUM[indice];
+  // Cada paso vive en su propia sub-vista de la Zona Premium (Inicio / Tutor
+  // IA / Simulacros), ocultas entre si -- hay que activar la que corresponda
+  // antes de buscar/resaltar el elemento, o querySelector encontraria un nodo
+  // con display:none (getBoundingClientRect devolveria un rectangulo vacio).
+  activarVistaPremium(paso.vista);
+
   const elemento = document.querySelector(paso.selector);
   if (!elemento) {
     avanzarTour();

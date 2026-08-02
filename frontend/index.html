@@ -112,7 +112,12 @@
   </div>
 
   <!-- ============ APP (tras iniciar sesion) ============ -->
-  <div id="app-shell" class="hidden lg:flex min-h-screen">
+  <!-- Shell de altura fija al viewport (h-dvh, no min-h-screen): asi el
+       contenido de cada vista hace scroll dentro de si mismo en vez de la
+       pagina entera, que es lo que permite que el Tutor IA se comporte como
+       un chat real (input fijo abajo, historial con su propio scroll) sin
+       perder la navegacion/sidebar de pantalla. -->
+  <div id="app-shell" class="hidden flex flex-col lg:flex-row h-dvh overflow-hidden">
 
   <!-- Sidebar / nav principal -->
   <aside class="lg:w-72 lg:min-h-screen bg-gray-900 border-b lg:border-b-0 lg:border-r border-gray-800 flex-shrink-0">
@@ -164,9 +169,9 @@
     </nav>
   </aside>
 
-  <div class="flex-1 min-w-0">
+  <div class="flex-1 min-w-0 flex flex-col min-h-0 overflow-hidden">
     <!-- ============ VISTA: DASHBOARD ANALITICO ============ -->
-    <main id="view-dashboard" class="view max-w-6xl mx-auto p-6 lg:p-8 space-y-8">
+    <main id="view-dashboard" class="view flex-1 min-h-0 overflow-y-auto max-w-6xl mx-auto w-full p-6 lg:p-8 space-y-8">
 
       <!-- Analista Estrategico Global -->
       <section class="relative rounded-2xl overflow-hidden border border-gray-800 shadow-xl">
@@ -368,7 +373,7 @@
     </main>
 
     <!-- ============ VISTA: GUIA DEL OPOSITOR ============ -->
-    <main id="view-guia" class="view hidden max-w-6xl mx-auto p-6 lg:p-8 space-y-6">
+    <main id="view-guia" class="view hidden flex-1 min-h-0 overflow-y-auto max-w-6xl mx-auto w-full p-6 lg:p-8 space-y-6">
       <section class="relative rounded-2xl overflow-hidden border border-gray-800 shadow-xl">
         <div class="absolute inset-0">
           <img src="https://images.unsplash.com/photo-1576707995936-a6cffe26ef7b?q=80&w=1600&auto=format&fit=crop"
@@ -514,132 +519,170 @@
     </main>
 
     <!-- ============ VISTA: ZONA PREMIUM ============ -->
-    <main id="view-premium" class="view hidden max-w-6xl mx-auto p-6 lg:p-8 space-y-6">
+    <main id="view-premium" class="view hidden flex-1 min-h-0 overflow-hidden flex flex-col">
 
       <!-- Estado bloqueado: un unico cartel de venta (upsell) para toda la Zona Premium -->
-      <section id="premium-locked" class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-10 text-center max-w-xl mx-auto">
-        <div class="w-16 h-16 mx-auto rounded-2xl bg-gradient-to-br from-orange-600 to-amber-500 flex items-center justify-center shadow-lg shadow-orange-900/40 mb-5">
-          <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
-            <rect x="5" y="11" width="14" height="9" rx="2" stroke-linecap="round" stroke-linejoin="round" />
-            <path stroke-linecap="round" stroke-linejoin="round" d="M8 11V7a4 4 0 118 0v4" />
-          </svg>
+      <section id="premium-locked" class="flex-1 min-h-0 overflow-y-auto p-6 lg:p-8">
+        <div class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-10 text-center max-w-xl mx-auto">
+          <div class="w-16 h-16 mx-auto rounded-2xl bg-gradient-to-br from-orange-600 to-amber-500 flex items-center justify-center shadow-lg shadow-orange-900/40 mb-5">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+              <rect x="5" y="11" width="14" height="9" rx="2" stroke-linecap="round" stroke-linejoin="round" />
+              <path stroke-linecap="round" stroke-linejoin="round" d="M8 11V7a4 4 0 118 0v4" />
+            </svg>
+          </div>
+          <h2 class="text-xl font-bold text-white">Zona Premium: analitica avanzada, IA y convocatorias en tiempo real</h2>
+          <p class="text-gray-400 text-sm mt-2 max-w-md mx-auto">
+            Desbloquea el Tablon de Plazas automatizado, el Tutor IA 24/7, Simulacros tipo test generados por
+            IA y tu evolucion grafica con entrenamiento a medida.
+          </p>
+
+          <ul class="text-left text-sm text-gray-300 mt-6 space-y-2 max-w-sm mx-auto">
+            <li class="flex items-center gap-2"><span class="text-amber-400">✓</span> Tablon de Plazas en tiempo real (BOE/BOJA)</li>
+            <li class="flex items-center gap-2"><span class="text-amber-400">✓</span> Tutor Inteligente 24/7</li>
+            <li class="flex items-center gap-2"><span class="text-amber-400">✓</span> Simulacros tipo test generados por IA</li>
+            <li class="flex items-center gap-2"><span class="text-amber-400">✓</span> Evolucion grafica y entrenamiento especifico</li>
+          </ul>
+
+          <button type="button" id="btn-desbloquear" class="btn-primary mt-7 px-8">
+            Desbloquear por 9,99&euro;
+          </button>
         </div>
-        <h2 class="text-xl font-bold text-white">Zona Premium: analitica avanzada, IA y convocatorias en tiempo real</h2>
-        <p class="text-gray-400 text-sm mt-2 max-w-md mx-auto">
-          Desbloquea el Tablon de Plazas automatizado, el Tutor IA 24/7, Simulacros tipo test generados por
-          IA y tu evolucion grafica con entrenamiento a medida.
-        </p>
-
-        <ul class="text-left text-sm text-gray-300 mt-6 space-y-2 max-w-sm mx-auto">
-          <li class="flex items-center gap-2"><span class="text-amber-400">✓</span> Tablon de Plazas en tiempo real (BOE/BOJA)</li>
-          <li class="flex items-center gap-2"><span class="text-amber-400">✓</span> Tutor Inteligente 24/7</li>
-          <li class="flex items-center gap-2"><span class="text-amber-400">✓</span> Simulacros tipo test generados por IA</li>
-          <li class="flex items-center gap-2"><span class="text-amber-400">✓</span> Evolucion grafica y entrenamiento especifico</li>
-        </ul>
-
-        <button type="button" id="btn-desbloquear" class="btn-primary mt-7 px-8">
-          Desbloquear por 9,99&euro;
-        </button>
       </section>
 
       <!-- Estado desbloqueado: todos los modulos premium listos para usar -->
-      <div id="premium-unlocked" class="hidden space-y-6">
-        <div class="flex items-center justify-between">
-          <div>
-            <h2 class="text-xl font-bold text-white">Zona Premium</h2>
-            <p class="text-gray-500 text-sm">Analitica avanzada, IA y convocatorias en tiempo real</p>
+      <div id="premium-unlocked" class="hidden flex-1 min-h-0 overflow-hidden flex flex-col">
+
+        <!-- Cabecera fija: titulo + suscripcion + sub-navegacion por pestañas -->
+        <div class="flex-shrink-0 border-b border-gray-800 px-4 sm:px-6 lg:px-8 pt-5">
+          <div class="flex items-center justify-between gap-3 mb-4 flex-wrap">
+            <div>
+              <h2 class="text-xl font-bold text-white">Zona Premium</h2>
+              <p class="text-gray-500 text-sm">Analitica avanzada, IA y convocatorias en tiempo real</p>
+            </div>
+            <div class="flex items-center gap-3">
+              <button type="button" id="btn-gestionar-suscripcion"
+                      class="text-xs font-medium text-gray-400 hover:text-amber-400 border border-gray-700 hover:border-amber-500/40 rounded-full px-3 py-1.5 transition">
+                ⚙️ Gestionar Suscripción
+              </button>
+              <span class="text-xs font-semibold uppercase tracking-wide bg-amber-500/10 text-amber-400 border border-amber-500/30 rounded-full px-3 py-1">
+                Activo
+              </span>
+            </div>
           </div>
-          <div class="flex items-center gap-3">
-            <button type="button" id="btn-gestionar-suscripcion"
-                    class="text-xs font-medium text-gray-400 hover:text-amber-400 border border-gray-700 hover:border-amber-500/40 rounded-full px-3 py-1.5 transition">
-              ⚙️ Gestionar Suscripción
+
+          <!-- Sub-navegacion de la Zona Premium: Inicio / Tutor IA / Simulacros -->
+          <nav class="flex gap-1 overflow-x-auto -mb-px">
+            <button type="button" data-premium-view="inicio"
+                    class="premium-tab-btn active flex items-center gap-2 px-4 py-2.5 text-sm font-medium whitespace-nowrap">
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M3 3v18h18" />
+                <path stroke-linecap="round" stroke-linejoin="round" d="M7 15l4-5 3 3 5-7" />
+              </svg>
+              Dashboard / Inicio
             </button>
-            <span class="text-xs font-semibold uppercase tracking-wide bg-amber-500/10 text-amber-400 border border-amber-500/30 rounded-full px-3 py-1">
-              Activo
-            </span>
+            <button type="button" data-premium-view="tutor"
+                    class="premium-tab-btn flex items-center gap-2 px-4 py-2.5 text-sm font-medium whitespace-nowrap">
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M8 10h.01M12 10h.01M16 10h.01M21 12a9 9 0 1 1-4.06-7.516L21 3l-1.06 4.484A8.96 8.96 0 0 1 21 12Z" />
+              </svg>
+              Tutor Inteligente 24/7
+            </button>
+            <button type="button" data-premium-view="simulacros"
+                    class="premium-tab-btn flex items-center gap-2 px-4 py-2.5 text-sm font-medium whitespace-nowrap">
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
+              </svg>
+              Simulacros
+            </button>
+          </nav>
+        </div>
+
+        <!-- ============ SUB-VISTA: DASHBOARD / INICIO ============ -->
+        <div id="premium-view-inicio" class="premium-subview flex-1 min-h-0 overflow-y-auto max-w-6xl mx-auto w-full p-4 sm:p-6 lg:p-8 space-y-6">
+
+          <!-- ===== 1. Acondicionamiento Fisico Estrategico ===== -->
+          <div class="space-y-6">
+            <div class="flex items-center gap-3">
+              <span class="seccion-numero">1</span>
+              <h3 class="text-lg font-bold text-white">Acondicionamiento Fisico Estrategico</h3>
+            </div>
+
+            <section class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6">
+              <h3 class="font-semibold text-white mb-1">Evolucion de la Nota Global Oposicion</h3>
+              <p class="text-xs text-gray-500 mb-4">Combinada 50% fisica / 50% teorica, sobre 10</p>
+              <div class="relative" style="height: 280px;">
+                <canvas id="grafica-evolucion"></canvas>
+              </div>
+              <p id="grafica-vacia" class="text-sm text-gray-500 mt-3 hidden">
+                Registra tus primeras marcas fisicas para visualizar tu evolucion.
+              </p>
+            </section>
+
+            <section class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 lg:p-8">
+              <div class="flex items-center gap-3 mb-6">
+                <div class="icon-badge">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" />
+                  </svg>
+                </div>
+                <div>
+                  <h3 class="font-semibold text-white text-lg">Entrenamiento Especifico</h3>
+                  <p class="text-xs text-gray-500">Programa basado en evidencia para tu punto mas debil</p>
+                </div>
+              </div>
+              <div id="entrenamiento-contenido" class="text-sm text-gray-400">Cargando analisis...</div>
+            </section>
+          </div>
+
+          <!-- ===== 2. Alto Rendimiento Teorico ===== -->
+          <div class="space-y-6">
+            <div class="flex items-center gap-3">
+              <span class="seccion-numero">2</span>
+              <h3 class="text-lg font-bold text-white">Alto Rendimiento Teorico</h3>
+            </div>
+            <p class="text-sm text-gray-500 -mt-4 ml-11">
+              Tecnicas de estudio con respaldo en neurociencia cognitiva, aplicadas directamente al temario de oposicion.
+            </p>
+
+            <div id="tecnicas-estudio-contenido" class="grid grid-cols-1 xl:grid-cols-2 gap-6 text-sm text-gray-400">
+              Cargando tecnicas de estudio...
+            </div>
+          </div>
+
+          <!-- ===== 3. Tablon de Plazas en Tiempo Real ===== -->
+          <div id="tour-tablon" class="space-y-6">
+            <div class="flex items-center gap-3">
+              <span class="seccion-numero">3</span>
+              <h3 class="text-lg font-bold text-white">Tablon de Plazas en Tiempo Real</h3>
+            </div>
+            <p class="text-sm text-gray-500 -mt-4 ml-11">
+              Convocatorias de BOE/BOJA para bombero/emergencias, detectadas automaticamente.
+            </p>
+
+            <div id="tablon-convocatorias-contenido" class="grid grid-cols-1 lg:grid-cols-2 gap-4 text-sm text-gray-400">
+              Cargando convocatorias...
+            </div>
           </div>
         </div>
 
-        <!-- ===== 1. Acondicionamiento Fisico Estrategico ===== -->
-        <div class="space-y-6">
-          <div class="flex items-center gap-3">
-            <span class="seccion-numero">1</span>
-            <h3 class="text-lg font-bold text-white">Acondicionamiento Fisico Estrategico</h3>
-          </div>
-
-          <section class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6">
-            <h3 class="font-semibold text-white mb-1">Evolucion de la Nota Global Oposicion</h3>
-            <p class="text-xs text-gray-500 mb-4">Combinada 50% fisica / 50% teorica, sobre 10</p>
-            <div class="relative" style="height: 280px;">
-              <canvas id="grafica-evolucion"></canvas>
-            </div>
-            <p id="grafica-vacia" class="text-sm text-gray-500 mt-3 hidden">
-              Registra tus primeras marcas fisicas para visualizar tu evolucion.
-            </p>
-          </section>
-
-          <section class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 lg:p-8">
-            <div class="flex items-center gap-3 mb-6">
+        <!-- ============ SUB-VISTA: TUTOR INTELIGENTE 24/7 (estilo chat, altura completa) ============ -->
+        <div id="premium-view-tutor" class="premium-subview hidden flex-1 min-h-0 flex flex-col">
+          <div id="tour-tutor" class="flex-1 min-h-0 flex flex-col max-w-4xl mx-auto w-full px-3 sm:px-6 pt-4">
+            <div class="flex items-center gap-3 mb-3 flex-shrink-0">
               <div class="icon-badge">
                 <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
-                  <path stroke-linecap="round" stroke-linejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" />
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M8 10h.01M12 10h.01M16 10h.01M21 12a9 9 0 1 1-4.06-7.516L21 3l-1.06 4.484A8.96 8.96 0 0 1 21 12Z" />
                 </svg>
               </div>
               <div>
-                <h3 class="font-semibold text-white text-lg">Entrenamiento Especifico</h3>
-                <p class="text-xs text-gray-500">Programa basado en evidencia para tu punto mas debil</p>
+                <h3 class="text-lg font-bold text-white">Tutor Inteligente 24/7</h3>
+                <p class="text-xs text-gray-500">Pregunta sobre tus rutinas de entrenamiento o tus tecnicas de estudio</p>
               </div>
             </div>
-            <div id="entrenamiento-contenido" class="text-sm text-gray-400">Cargando analisis...</div>
-          </section>
-        </div>
 
-        <!-- ===== 2. Alto Rendimiento Teorico ===== -->
-        <div class="space-y-6">
-          <div class="flex items-center gap-3">
-            <span class="seccion-numero">2</span>
-            <h3 class="text-lg font-bold text-white">Alto Rendimiento Teorico</h3>
-          </div>
-          <p class="text-sm text-gray-500 -mt-4 ml-11">
-            Tecnicas de estudio con respaldo en neurociencia cognitiva, aplicadas directamente al temario de oposicion.
-          </p>
-
-          <div id="tecnicas-estudio-contenido" class="grid grid-cols-1 xl:grid-cols-2 gap-6 text-sm text-gray-400">
-            Cargando tecnicas de estudio...
-          </div>
-        </div>
-
-        <!-- ===== 3. Tablon de Plazas en Tiempo Real ===== -->
-        <div id="tour-tablon" class="space-y-6">
-          <div class="flex items-center gap-3">
-            <span class="seccion-numero">3</span>
-            <h3 class="text-lg font-bold text-white">Tablon de Plazas en Tiempo Real</h3>
-          </div>
-          <p class="text-sm text-gray-500 -mt-4 ml-11">
-            Convocatorias de BOE/BOJA para bombero/emergencias, detectadas automaticamente.
-          </p>
-
-          <div id="tablon-convocatorias-contenido" class="grid grid-cols-1 lg:grid-cols-2 gap-4 text-sm text-gray-400">
-            Cargando convocatorias...
-          </div>
-        </div>
-
-        <!-- ===== Tutor Inteligente 24/7 (RAG) ===== -->
-        <div id="tour-tutor" class="space-y-4">
-          <div class="flex items-center gap-3">
-            <div class="icon-badge">
-              <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
-                <path stroke-linecap="round" stroke-linejoin="round" d="M8 10h.01M12 10h.01M16 10h.01M21 12a9 9 0 1 1-4.06-7.516L21 3l-1.06 4.484A8.96 8.96 0 0 1 21 12Z" />
-              </svg>
-            </div>
-            <div>
-              <h3 class="text-lg font-bold text-white">Tutor Inteligente 24/7</h3>
-              <p class="text-xs text-gray-500">Pregunta sobre tus rutinas de entrenamiento o tus tecnicas de estudio</p>
-            </div>
-          </div>
-
-          <section class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-4 lg:p-5">
-            <div id="chat-mensajes" class="chat-mensajes">
+            <!-- Historial: unico elemento que crece y hace scroll; el input queda
+                 siempre fijo debajo (flex-shrink-0), como en un chat real. -->
+            <div id="chat-mensajes" class="chat-mensajes flex-1 min-h-0">
               <div class="chat-bubble chat-bubble-ia">
                 <span class="chat-avatar">&#128657;</span>
                 <div class="chat-texto">
@@ -648,67 +691,68 @@
                 </div>
               </div>
             </div>
-            <form id="form-chat" class="chat-input-row">
+            <form id="form-chat" class="chat-input-row flex-shrink-0 pb-4">
               <input type="text" id="chat-input" class="field flex-1" placeholder="Ej: ¿como mejoro mis dominadas?" autocomplete="off" />
               <button type="submit" class="btn-primary chat-enviar">Enviar</button>
             </form>
-          </section>
+          </div>
         </div>
 
-        <!-- ===== 5. Simulacros ===== -->
-        <div id="tour-simulacros" class="space-y-6">
-          <div class="flex items-center gap-3">
-            <span class="seccion-numero">4</span>
-            <h3 class="text-lg font-bold text-white">Simulacros</h3>
-          </div>
-          <p class="text-sm text-gray-500 -mt-4 ml-11">
-            Examenes tipo test generados a partir del temario oficial.
-          </p>
-
-          <!-- Paso 1: Configuracion -->
-          <section id="simulacro-config" class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 lg:p-8">
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-              <div>
-                <label class="block text-sm font-medium mb-1 text-gray-300" for="simulacro-tema">Tema</label>
-                <select id="simulacro-tema" class="field">
-                  <option value="Legislacion">Legislacion</option>
-                  <option value="General">General</option>
-                  <option value="Rescate">Rescate</option>
-                  <option value="Sanitario">Sanitario</option>
-                  <option value="Incendio">Incendio</option>
-                  <option value="Equipos de Intervencion">Equipos de Intervencion</option>
-                </select>
-              </div>
-              <div>
-                <label class="block text-sm font-medium mb-1 text-gray-300" for="simulacro-num-preguntas">Numero de preguntas</label>
-                <select id="simulacro-num-preguntas" class="field">
-                  <option value="5">5</option>
-                  <option value="10" selected>10</option>
-                  <option value="20">20</option>
-                </select>
-              </div>
+        <!-- ============ SUB-VISTA: SIMULACROS (centrada, sin distracciones) ============ -->
+        <div id="premium-view-simulacros" class="premium-subview hidden flex-1 min-h-0 overflow-y-auto">
+          <div id="tour-simulacros" class="max-w-2xl mx-auto w-full p-4 sm:p-6 lg:p-10 space-y-6">
+            <div class="text-center space-y-1.5">
+              <h3 class="text-xl font-bold text-white">Simulacros</h3>
+              <p class="text-sm text-gray-500">
+                Examenes tipo test generados a partir del temario oficial.
+              </p>
             </div>
-            <button type="button" id="btn-generar-simulacro" class="btn-primary w-full">
-              Generar Simulacro
-            </button>
-          </section>
 
-          <!-- Paso 2 y 3: Test y correccion -->
-          <section id="simulacro-test" class="hidden bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 lg:p-8">
-            <div id="simulacro-preguntas" class="space-y-6"></div>
-
-            <button type="button" id="btn-corregir-simulacro" class="btn-primary w-full mt-6">
-              Corregir Examen
-            </button>
-
-            <div id="simulacro-resultado" class="hidden mt-6 text-center">
-              <p class="text-sm text-gray-400">Tu nota</p>
-              <div class="text-5xl font-bold bg-gradient-to-r from-orange-400 to-amber-300 bg-clip-text text-transparent" id="simulacro-nota">--</div>
-              <button type="button" id="btn-nuevo-simulacro" class="text-xs text-gray-500 hover:text-amber-400 underline underline-offset-2 transition mt-4">
-                Generar otro simulacro
+            <!-- Paso 1: Configuracion -->
+            <section id="simulacro-config" class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 lg:p-8">
+              <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+                <div>
+                  <label class="block text-sm font-medium mb-1 text-gray-300" for="simulacro-tema">Tema</label>
+                  <select id="simulacro-tema" class="field">
+                    <option value="Legislacion">Legislacion</option>
+                    <option value="General">General</option>
+                    <option value="Rescate">Rescate</option>
+                    <option value="Sanitario">Sanitario</option>
+                    <option value="Incendio">Incendio</option>
+                    <option value="Equipos de Intervencion">Equipos de Intervencion</option>
+                  </select>
+                </div>
+                <div>
+                  <label class="block text-sm font-medium mb-1 text-gray-300" for="simulacro-num-preguntas">Numero de preguntas</label>
+                  <select id="simulacro-num-preguntas" class="field">
+                    <option value="5">5</option>
+                    <option value="10" selected>10</option>
+                    <option value="20">20</option>
+                  </select>
+                </div>
+              </div>
+              <button type="button" id="btn-generar-simulacro" class="btn-primary w-full">
+                Generar Simulacro
               </button>
-            </div>
-          </section>
+            </section>
+
+            <!-- Paso 2 y 3: Test y correccion -->
+            <section id="simulacro-test" class="hidden bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 lg:p-8">
+              <div id="simulacro-preguntas" class="space-y-6"></div>
+
+              <button type="button" id="btn-corregir-simulacro" class="btn-primary w-full mt-6">
+                Corregir Examen
+              </button>
+
+              <div id="simulacro-resultado" class="hidden mt-6 text-center">
+                <p class="text-sm text-gray-400">Tu nota</p>
+                <div class="text-5xl font-bold bg-gradient-to-r from-orange-400 to-amber-300 bg-clip-text text-transparent" id="simulacro-nota">--</div>
+                <button type="button" id="btn-nuevo-simulacro" class="text-xs text-gray-500 hover:text-amber-400 underline underline-offset-2 transition mt-4">
+                  Generar otro simulacro
+                </button>
+              </div>
+            </section>
+          </div>
         </div>
       </div>
     </main>
