@@ -365,6 +365,10 @@ function mostrarEstadoPremium() {
   const desbloqueado = proEstaDesbloqueado();
   premiumLockedBox.classList.toggle("hidden", desbloqueado);
   premiumUnlockedBox.classList.toggle("hidden", !desbloqueado);
+  // Los ganchos de upsell del Dashboard gratuito (teaser + banner) no tienen
+  // sentido para quien ya es Pro -- se ocultan aqui, en el mismo sitio que
+  // decide el resto del estado premium, para no tener dos fuentes de verdad.
+  teaserTablonBox?.classList.toggle("hidden", desbloqueado);
 }
 
 async function iniciarCheckoutStripe(boton) {
@@ -393,6 +397,49 @@ async function iniciarCheckoutStripe(boton) {
 }
 
 btnDesbloquear.addEventListener("click", () => iniciarCheckoutStripe(btnDesbloquear));
+
+// ---------- Upsell Free -> Premium (Dashboard gratuito) ----------
+// Tres ganchos de conversion sobre el Dashboard free: el teaser "cristal
+// empañado" del tablon (abre el modal), el modal en si (CTA con checkout
+// directo, reutilizando iniciarCheckoutStripe) y el banner contextual tras
+// el resultado del entreno fisico (navega a la Zona Premium real). Los tres
+// se ocultan para quien ya es Pro, ver mostrarEstadoPremium().
+const teaserTablonBox = document.getElementById("teaser-tablon");
+const btnTeaserTablon = document.getElementById("btn-teaser-tablon");
+const modalPaywall = document.getElementById("modal-paywall");
+const btnCerrarModalPaywall = document.getElementById("btn-cerrar-modal-paywall");
+const btnModalActualizarPremium = document.getElementById("btn-modal-actualizar-premium");
+const bannerUpsellEntrenamiento = document.getElementById("banner-upsell-entrenamiento");
+const btnBannerUpsellEntrenamiento = document.getElementById("btn-banner-upsell-entrenamiento");
+
+function abrirModalPaywall() {
+  modalPaywall.classList.remove("hidden");
+  // La clase que dispara la transicion se añade un frame despues de quitar
+  // "hidden" (mismo patron que los toasts, ver mostrarToast()): si se
+  // añadiera en el mismo tick, el navegador podria fusionar ambos cambios
+  // de estilo en un unico frame y la transicion no se veria, apareceria de
+  // golpe.
+  requestAnimationFrame(() => modalPaywall.classList.add("show"));
+}
+
+function cerrarModalPaywall() {
+  modalPaywall.classList.remove("show");
+  setTimeout(() => modalPaywall.classList.add("hidden"), 200);
+}
+
+btnTeaserTablon?.addEventListener("click", abrirModalPaywall);
+btnCerrarModalPaywall?.addEventListener("click", cerrarModalPaywall);
+document.getElementById("modal-paywall-backdrop")?.addEventListener("click", cerrarModalPaywall);
+document.addEventListener("keydown", (evento) => {
+  if (evento.key === "Escape" && !modalPaywall.classList.contains("hidden")) {
+    cerrarModalPaywall();
+  }
+});
+btnModalActualizarPremium?.addEventListener("click", () =>
+  iniciarCheckoutStripe(btnModalActualizarPremium)
+);
+
+btnBannerUpsellEntrenamiento?.addEventListener("click", () => activarVista("premium"));
 
 // ---------- Plan Pro: Portal de Cliente de Stripe (gestion de suscripcion) ----------
 const btnGestionarSuscripcion = document.getElementById("btn-gestionar-suscripcion");
@@ -1037,6 +1084,8 @@ function pintarResultado(data) {
   resultadoBox.classList.remove("hidden");
   notaGlobalEl.textContent = `${data.nota_global.toFixed(2)} / 10`;
   ultimaFechaEl.textContent = `Registrado el ${data.marca.fecha}`;
+
+  bannerUpsellEntrenamiento?.classList.toggle("hidden", proEstaDesbloqueado());
 }
 
 function pintarResultadoTeorica(data) {

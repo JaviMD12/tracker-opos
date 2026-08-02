@@ -410,6 +410,39 @@ table td, table th {
   line-height: 1.5;
 }
 
+/* ---------- Upsell Free -> Premium (teaser, modal, banner contextual) ---------- */
+/* Candado del teaser "cristal empañado": un pulso lento y sutil para que el
+   ojo lo detecte sin ser una animacion agresiva/intrusiva. */
+#btn-teaser-tablon > div:first-child {
+  animation: teaser-candado-pulso 2.6s ease-in-out infinite;
+}
+@keyframes teaser-candado-pulso {
+  0%, 100% {
+    box-shadow: 0 4px 14px rgba(234, 88, 12, 0.35);
+  }
+  50% {
+    box-shadow: 0 4px 22px rgba(234, 88, 12, 0.6), 0 0 0 6px rgba(245, 158, 11, 0.08);
+  }
+}
+
+/* Modal de conversion: mismo patron de transicion que los toasts (.show
+   añadida un frame despues de quitar .hidden, ver abrirModalPaywall() en
+   main.js) para que la apertura/cierre sea un fundido suave, no un salto. */
+#modal-paywall {
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+#modal-paywall.show {
+  opacity: 1;
+}
+.modal-paywall-panel {
+  transform: scale(0.95);
+  transition: transform 0.2s ease;
+}
+#modal-paywall.show .modal-paywall-panel {
+  transform: scale(1);
+}
+
 /* Boton secundario "Generar Plan de Estudio IA": tactico pero distinto del
    boton de pago (btn-primary) - borde naranja, fondo transparente. */
 .btn-plan-ia {

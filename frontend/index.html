@@ -221,6 +221,44 @@
         </div>
       </section>
 
+      <!-- ===== Upsell: Teaser "Cristal Empañado" del Tablon de Plazas (solo Free) ===== -->
+      <!-- Vista previa real de la tarjeta de convocatoria, desenfocada y no
+           interactiva (pointer-events-none + aria-hidden), con un candado
+           encima como unico elemento clicable. Al pulsar, abre el modal de
+           conversion (#modal-paywall) en vez de navegar directamente, para
+           no sacar al usuario del dashboard de un tirón. -->
+      <section id="teaser-tablon" class="relative rounded-2xl border border-gray-700 shadow-lg overflow-hidden">
+        <div class="p-6 blur-[3px] select-none pointer-events-none opacity-60" aria-hidden="true">
+          <h3 class="font-semibold text-white mb-4">Tablon de Plazas en Tiempo Real</h3>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div class="convocatoria-card">
+              <p class="convocatoria-titulo">Veinticuatro plazas de Bombero Conductor</p>
+              <p class="convocatoria-meta">Boletín Oficial de la Provincia de Huelva</p>
+              <span class="convocatoria-plazo">⏳ 12 días restantes</span>
+            </div>
+            <div class="convocatoria-card">
+              <p class="convocatoria-titulo">Siete plazas de Subinspector/a</p>
+              <p class="convocatoria-meta">Boletín Oficial de la Provincia de Granada</p>
+              <span class="convocatoria-plazo">⏳ 6 días restantes</span>
+            </div>
+          </div>
+        </div>
+
+        <button type="button" id="btn-teaser-tablon"
+                class="absolute inset-0 flex flex-col items-center justify-center gap-2.5 bg-gray-950/55 hover:bg-gray-950/70 transition text-center px-6 py-8">
+          <div class="w-12 h-12 rounded-2xl bg-gradient-to-br from-orange-600 to-amber-500 flex items-center justify-center shadow-lg shadow-orange-900/40">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+              <rect x="5" y="11" width="14" height="9" rx="2" stroke-linecap="round" stroke-linejoin="round" />
+              <path stroke-linecap="round" stroke-linejoin="round" d="M8 11V7a4 4 0 118 0v4" />
+            </svg>
+          </div>
+          <p class="text-white font-semibold">Tablon de Plazas en Tiempo Real</p>
+          <p class="text-gray-300 text-sm max-w-xs">
+            Convocatorias reales de BOE/BOJA para bombero/emergencias, detectadas automáticamente. Exclusivo Plan Pro.
+          </p>
+        </button>
+      </section>
+
       <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
         <!-- Formularios -->
         <section class="md:col-span-2 bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6">
@@ -290,6 +328,28 @@
                 <tbody id="tabla-detalle" class="text-gray-200"></tbody>
               </table>
               <div id="recomendacion" class="mt-4 rounded-lg bg-amber-500/10 border border-amber-500/30 text-amber-300 text-sm p-3"></div>
+
+              <!-- ===== Upsell: banner contextual tras el resultado (solo Free) ===== -->
+              <!-- Oculto por defecto; se revela junto con #resultado, ver
+                   pintarResultado() en main.js. -->
+              <div id="banner-upsell-entrenamiento" class="hidden mt-6 rounded-2xl border border-amber-500/30 bg-gradient-to-br from-amber-500/10 to-orange-600/5 p-5">
+                <div class="flex flex-col sm:flex-row sm:items-center gap-4">
+                  <div class="flex items-start gap-3 flex-1">
+                    <div class="icon-badge flex-shrink-0">
+                      <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" />
+                      </svg>
+                    </div>
+                    <p class="text-sm text-gray-200">
+                      <span class="font-semibold text-white">¿Estancado en tus marcas?</span>
+                      Deja que nuestra IA adapte tu entrenamiento a tu nivel actual.
+                    </p>
+                  </div>
+                  <button type="button" id="btn-banner-upsell-entrenamiento" class="btn-plan-ia flex-shrink-0 w-full sm:w-auto sm:px-6 sm:mt-0">
+                    Ver Plan Pro
+                  </button>
+                </div>
+              </div>
             </div>
           </div>
 
@@ -774,6 +834,45 @@
         <button type="button" id="btn-timer-descanso">Descanso (5 min)</button>
       </div>
       <button type="button" id="btn-desactivar-enfoque" class="btn-salir">Salir del Modo Enfoque</button>
+    </div>
+  </div>
+
+  <!-- ============ MODAL DE CONVERSION (Paywall) ============ -->
+  <!-- Hijo directo de <body>: se abre desde cualquier vista (hoy solo desde
+       el teaser del tablon en el Dashboard, ver #btn-teaser-tablon). El CTA
+       reutiliza iniciarCheckoutStripe(), el mismo checkout real que usa la
+       Zona Premium -- un solo clic, sin navegar antes a otra pantalla. -->
+  <div id="modal-paywall" class="hidden fixed inset-0 z-[250] flex items-center justify-center p-4">
+    <div id="modal-paywall-backdrop" class="absolute inset-0 bg-black/70 backdrop-blur-sm"></div>
+    <div class="modal-paywall-panel relative bg-gray-900 border border-gray-700 rounded-2xl shadow-2xl max-w-md w-full p-8 text-center">
+      <button type="button" id="btn-cerrar-modal-paywall" aria-label="Cerrar"
+              class="absolute top-4 right-4 text-gray-500 hover:text-white transition">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
+        </svg>
+      </button>
+
+      <div class="w-14 h-14 mx-auto rounded-2xl bg-gradient-to-br from-orange-600 to-amber-500 flex items-center justify-center shadow-lg shadow-orange-900/40 mb-5">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-7 h-7 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M13 2 3 14h7l-1 8 11-14h-7l1-6z" />
+        </svg>
+      </div>
+
+      <h2 class="text-xl font-bold text-white">Alcanza tu máximo rendimiento</h2>
+      <p class="text-gray-400 text-sm mt-2">
+        Desbloquea las herramientas que marcan la diferencia en tu preparación.
+      </p>
+
+      <ul class="text-left text-sm text-gray-300 mt-6 space-y-3 max-w-xs mx-auto">
+        <li class="flex items-center gap-2.5"><span class="text-amber-400">✓</span> Tutor IA 24/7</li>
+        <li class="flex items-center gap-2.5"><span class="text-amber-400">✓</span> Simulacros ilimitados</li>
+        <li class="flex items-center gap-2.5"><span class="text-amber-400">✓</span> Tablón en vivo</li>
+      </ul>
+
+      <button type="button" id="btn-modal-actualizar-premium" class="btn-primary w-full mt-7">
+        Actualizar a Premium
+      </button>
+      <p class="text-xs text-gray-500 mt-3">Pago único, cancela cuando quieras.</p>
     </div>
   </div>
 
