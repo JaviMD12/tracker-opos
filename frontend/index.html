@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Tracker Analitico de Oposiciones</title>
+  <title>Tracker Analítico de Oposiciones</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
   <!-- Tutor IA: marked.js convierte el Markdown de la respuesta a HTML; DOMPurify
@@ -46,7 +46,7 @@
 
       <div id="auth-tabs" class="flex gap-2 mb-6">
         <button type="button" data-auth-tab="login" class="auth-tab-btn tab-btn active px-4 py-2 rounded-lg text-sm font-medium transition flex-1">
-          Iniciar sesion
+          Iniciar sesión
         </button>
         <button type="button" data-auth-tab="registro" class="auth-tab-btn tab-btn px-4 py-2 rounded-lg text-sm font-medium transition flex-1">
           Crear cuenta
@@ -75,7 +75,7 @@
           <input type="email" id="registro-email" required class="field" autocomplete="username" />
         </div>
         <div>
-          <label class="block text-sm font-medium mb-1 text-gray-300" for="registro-password">Contraseña (minimo 8 caracteres)</label>
+          <label class="block text-sm font-medium mb-1 text-gray-300" for="registro-password">Contraseña (mínimo 8 caracteres)</label>
           <input type="password" id="registro-password" minlength="8" required class="field" autocomplete="new-password" />
         </div>
         <p id="registro-error" class="text-sm text-red-400 hidden"></p>
@@ -92,9 +92,9 @@
           <input type="email" id="olvido-email" required class="field" autocomplete="username" />
         </div>
         <p id="olvido-mensaje" class="text-sm text-gray-300 hidden"></p>
-        <button type="submit" class="btn-primary w-full">Enviar enlace de recuperacion</button>
+        <button type="submit" class="btn-primary w-full">Enviar enlace de recuperación</button>
         <button type="button" id="link-volver-login" class="text-xs text-gray-400 hover:text-amber-400 underline underline-offset-2 transition">
-          Volver a iniciar sesion
+          Volver a iniciar sesión
         </button>
       </form>
 
@@ -102,7 +102,7 @@
       <form id="form-reset" class="auth-panel space-y-4 hidden">
         <p class="text-sm text-gray-400">Escribe tu nueva contraseña.</p>
         <div>
-          <label class="block text-sm font-medium mb-1 text-gray-300" for="reset-password">Nueva contraseña (minimo 8 caracteres)</label>
+          <label class="block text-sm font-medium mb-1 text-gray-300" for="reset-password">Nueva contraseña (mínimo 8 caracteres)</label>
           <input type="password" id="reset-password" minlength="8" required class="field" autocomplete="new-password" />
         </div>
         <p id="reset-error" class="text-sm text-red-400 hidden"></p>
@@ -137,14 +137,14 @@
           <path stroke-linecap="round" stroke-linejoin="round" d="M3 3v18h18" />
           <path stroke-linecap="round" stroke-linejoin="round" d="M7 15l4-5 3 3 5-7" />
         </svg>
-        <span>Dashboard Analitico</span>
+        <span>Dashboard Analítico</span>
       </button>
       <button type="button" data-view="guia"
               class="nav-view-btn flex items-center gap-3 w-full px-4 py-3 rounded-xl text-sm font-medium transition">
         <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
           <path stroke-linecap="round" stroke-linejoin="round" d="M12 6.25C10.5 5 8.4 4.5 6 4.5c-.83 0-1.63.08-2.4.24A1 1 0 0 0 3 5.72v12.06a1 1 0 0 0 1.2.98c.7-.15 1.44-.22 2.2-.22 2.1 0 4.02.55 5.6 1.7m0-14.01c1.5-1.25 3.6-1.75 6-1.75.83 0 1.63.08 2.4.24a1 1 0 0 1 .6.98v12.06a1 1 0 0 1-1.2.98 11 11 0 0 0-2.2-.22c-2.1 0-4.02.55-5.6 1.7m0-14.01v14.01" />
         </svg>
-        <span>Guia del Opositor</span>
+        <span>Guía del Opositor</span>
       </button>
       <button type="button" data-view="premium"
               class="nav-view-btn flex items-center gap-3 w-full px-4 py-3 rounded-xl text-sm font-medium transition">
@@ -158,7 +158,7 @@
         <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
           <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 9V5.25A2.25 2.25 0 0013.5 3h-6a2.25 2.25 0 00-2.25 2.25v13.5A2.25 2.25 0 007.5 21h6a2.25 2.25 0 002.25-2.25V15M18 12H8.25m9.75 0-3-3m3 3-3 3" />
         </svg>
-        <span>Cerrar sesion</span>
+        <span>Cerrar sesión</span>
       </button>
     </nav>
   </aside>
@@ -176,18 +176,18 @@
         </div>
 
         <div class="relative z-10 p-6 lg:p-8">
-          <p class="text-xs font-semibold uppercase tracking-widest text-amber-400 mb-1">Analista Estrategico Global</p>
+          <p class="text-xs font-semibold uppercase tracking-widest text-amber-400 mb-1">Analista Estratégico Global</p>
 
           <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-6">
             <div>
               <div class="text-5xl font-bold bg-gradient-to-r from-orange-400 to-amber-300 bg-clip-text text-transparent" id="dashboard-nota-total">--</div>
-              <p class="text-gray-400 text-sm mt-1">Nota Total Oposicion (sobre 10)</p>
+              <p class="text-gray-400 text-sm mt-1">Nota Total Oposición (sobre 10)</p>
             </div>
 
             <div class="flex gap-8">
               <div class="min-w-[140px]">
                 <div class="flex items-center justify-between text-sm mb-1.5">
-                  <span class="text-gray-400">Fisica</span>
+                  <span class="text-gray-400">Física</span>
                   <span class="font-semibold text-white" id="dashboard-nota-fisica">--</span>
                 </div>
                 <div class="h-1.5 bg-gray-800 rounded-full overflow-hidden">
@@ -196,7 +196,7 @@
               </div>
               <div class="min-w-[140px]">
                 <div class="flex items-center justify-between text-sm mb-1.5">
-                  <span class="text-gray-400">Teorica</span>
+                  <span class="text-gray-400">Teórica</span>
                   <span class="font-semibold text-white" id="dashboard-nota-teorica">--</span>
                 </div>
                 <div class="h-1.5 bg-gray-800 rounded-full overflow-hidden">
@@ -226,17 +226,17 @@
           <div class="flex gap-2 mb-6">
             <button type="button" data-tab="fisico"
                     class="tab-btn active px-4 py-2 rounded-lg text-sm font-medium transition">
-              Fisico
+              Físico
             </button>
             <button type="button" data-tab="teorico"
                     class="tab-btn px-4 py-2 rounded-lg text-sm font-medium transition">
-              Simulacro Teorico
+              Simulacro Teórico
             </button>
           </div>
 
           <!-- Panel Fisico -->
           <div id="panel-fisico" class="tab-panel">
-            <h2 class="text-lg font-semibold mb-4 text-white">Registrar marca del dia</h2>
+            <h2 class="text-lg font-semibold mb-4 text-white">Registrar marca del día</h2>
             <form id="form-marca" class="space-y-5">
               <div>
                 <label class="block text-sm font-medium mb-1 text-gray-300" for="fecha">Fecha</label>
@@ -263,7 +263,7 @@
               </fieldset>
 
               <fieldset>
-                <legend class="block text-sm font-medium mb-1 text-gray-300">Natacion 100m</legend>
+                <legend class="block text-sm font-medium mb-1 text-gray-300">Natación 100m</legend>
                 <div class="flex gap-3">
                   <input type="number" id="natacion_min" min="0" step="1" required placeholder="min" class="field w-1/2" />
                   <input type="number" id="natacion_seg" min="0" max="59" step="1" required placeholder="seg" class="field w-1/2" />
@@ -276,7 +276,7 @@
             </form>
 
             <div id="resultado" class="mt-6 hidden">
-              <h3 class="font-semibold mb-2 text-white">Puntuacion detallada</h3>
+              <h3 class="font-semibold mb-2 text-white">Puntuación detallada</h3>
               <table class="w-full text-sm border-collapse">
                 <thead>
                   <tr class="text-left border-b border-gray-700 text-gray-400">
@@ -293,7 +293,7 @@
 
           <!-- Panel Teorico -->
           <div id="panel-teorico" class="tab-panel hidden">
-            <h2 class="text-lg font-semibold mb-4 text-white">Registrar simulacro teorico</h2>
+            <h2 class="text-lg font-semibold mb-4 text-white">Registrar simulacro teórico</h2>
             <form id="form-teorica" class="space-y-5">
               <div>
                 <label class="block text-sm font-medium mb-1 text-gray-300" for="teorica-fecha">Fecha</label>
@@ -329,8 +329,8 @@
 
         <!-- Panel lateral -->
         <aside class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 h-fit">
-          <h2 class="text-lg font-semibold mb-2 text-white">Nota Global Fisica</h2>
-          <p class="text-xs text-gray-500 mb-4">Ultimo registro (sobre 10)</p>
+          <h2 class="text-lg font-semibold mb-2 text-white">Nota Global Física</h2>
+          <p class="text-xs text-gray-500 mb-4">Último registro (sobre 10)</p>
           <div class="text-5xl font-bold bg-gradient-to-r from-orange-400 to-amber-300 bg-clip-text text-transparent" id="nota-global">--</div>
           <p class="text-sm text-gray-500 mt-6" id="ultima-fecha"></p>
         </aside>
@@ -338,16 +338,16 @@
 
       <!-- ===== Acondicionamiento Fisico Estrategico (contenido real, trasladado desde la Zona Premium) ===== -->
       <div class="space-y-6">
-        <h3 class="text-lg font-bold text-white">Acondicionamiento Fisico Estrategico</h3>
+        <h3 class="text-lg font-bold text-white">Acondicionamiento Físico Estratégico</h3>
 
         <section class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6">
-          <h3 class="font-semibold text-white mb-1">Evolucion de la Nota Global Oposicion</h3>
-          <p class="text-xs text-gray-500 mb-4">Combinada 50% fisica / 50% teorica, sobre 10</p>
+          <h3 class="font-semibold text-white mb-1">Evolución de la Nota Global Oposición</h3>
+          <p class="text-xs text-gray-500 mb-4">Combinada 50% física / 50% teórica, sobre 10</p>
           <div class="relative" style="height: 280px;">
             <canvas id="grafica-evolucion"></canvas>
           </div>
           <p id="grafica-vacia" class="text-sm text-gray-500 mt-3 hidden">
-            Registra tus primeras marcas fisicas para visualizar tu evolucion.
+            Registra tus primeras marcas físicas para visualizar tu evolución.
           </p>
         </section>
 
@@ -360,10 +360,10 @@
             </div>
             <div>
               <h3 class="font-semibold text-white text-lg">Entrenamiento Especifico</h3>
-              <p class="text-xs text-gray-500">Programa basado en evidencia para tu punto mas debil</p>
+              <p class="text-xs text-gray-500">Programa basado en evidencia para tu punto más débil</p>
             </div>
           </div>
-          <div id="entrenamiento-contenido" class="text-sm text-gray-400">Cargando analisis...</div>
+          <div id="entrenamiento-contenido" class="text-sm text-gray-400">Cargando análisis...</div>
         </section>
 
         <!-- ===== Upsell: banner contextual justo debajo del Acondicionamiento Fisico ===== -->
@@ -391,13 +391,13 @@
 
       <!-- ===== Alto Rendimiento Teorico (contenido real, trasladado desde la Zona Premium) ===== -->
       <div class="space-y-6">
-        <h3 class="text-lg font-bold text-white">Alto Rendimiento Teorico</h3>
+        <h3 class="text-lg font-bold text-white">Alto Rendimiento Teórico</h3>
         <p class="text-sm text-gray-500 -mt-4">
-          Tecnicas de estudio con respaldo en neurociencia cognitiva, aplicadas directamente al temario de oposicion.
+          Técnicas de estudio con respaldo en neurociencia cognitiva, aplicadas directamente al temario de oposición.
         </p>
 
         <div id="tecnicas-estudio-contenido" class="grid grid-cols-1 xl:grid-cols-2 gap-6 text-sm text-gray-400">
-          Cargando tecnicas de estudio...
+          Cargando técnicas de estudio...
         </div>
       </div>
 
@@ -444,7 +444,7 @@
         <div class="flex items-center justify-between mb-4 flex-wrap gap-2">
           <div>
             <h2 class="text-lg font-semibold text-white">Racha de Actividad</h2>
-            <p class="text-xs text-gray-500">Marcas fisicas y sesiones de estudio de los ultimos 60 dias</p>
+            <p class="text-xs text-gray-500">Marcas físicas y sesiones de estudio de los últimos 60 días</p>
           </div>
           <div class="flex items-center gap-1.5 text-xs text-gray-500">
             <span>Menos</span>
@@ -482,10 +482,10 @@
           <div class="absolute inset-0 bg-gradient-to-t from-gray-950 via-gray-950/80 to-gray-950/25"></div>
         </div>
         <div class="relative z-10 p-6 lg:p-8">
-          <h2 class="text-2xl font-bold text-white">Guia del Opositor</h2>
+          <h2 class="text-2xl font-bold text-white">Guía del Opositor</h2>
           <p class="text-gray-300 text-sm mt-2 max-w-2xl">
-            Todo lo que necesitas saber antes de tu primera convocatoria: requisitos, permisos y donde
-            encontrar el temario oficial. Empieza aqui si es tu primera vez.
+            Todo lo que necesitas saber antes de tu primera convocatoria: requisitos, permisos y dónde
+            encontrar el temario oficial. Empieza aquí si es tu primera vez.
           </p>
         </div>
       </section>
@@ -503,33 +503,33 @@
                 <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
               </svg>
             </div>
-            <h3 class="font-semibold text-lg text-white">Requisitos Minimos</h3>
+            <h3 class="font-semibold text-lg text-white">Requisitos Mínimos</h3>
           </div>
 
           <div class="space-y-3">
             <div class="req-block">
               <p class="req-label">Nacionalidad</p>
-              <p class="req-text">Tener la nacionalidad espanola.</p>
+              <p class="req-text">Tener la nacionalidad española.</p>
             </div>
             <div class="req-block">
               <p class="req-label">Edad</p>
-              <p class="req-text">Tener 16 años cumplidos y no haber cumplido la edad maxima de jubilacion forzosa.</p>
+              <p class="req-text">Tener 16 años cumplidos y no haber cumplido la edad máxima de jubilación forzosa.</p>
             </div>
             <div class="req-block">
-              <p class="req-label">Titulacion academica</p>
+              <p class="req-label">Titulación académica</p>
               <p class="req-text">
-                Depende de la categoria: Bombero/a y Jefe/a de Dotacion piden el Tecnico en Emergencias y
-                Proteccion Civil (o el Tecnico Superior en Coordinacion de Emergencias y Proteccion Civil,
-                que tambien vale); Subinspector/a e Inspector/a piden directamente el Tecnico Superior;
-                Oficial pide Grado/Diplomatura/Ingenieria Tecnica; Intendente pide Grado/Licenciatura/Ingenieria.
+                Depende de la categoría: Bombero/a y Jefe/a de Dotación piden el Técnico en Emergencias y
+                Protección Civil (o el Técnico Superior en Coordinación de Emergencias y Protección Civil,
+                que también vale); Subinspector/a e Inspector/a piden directamente el Técnico Superior;
+                Oficial pide Grado/Diplomatura/Ingeniería Técnica; Intendente pide Grado/Licenciatura/Ingeniería.
               </p>
             </div>
             <div class="req-block">
               <p class="req-label">Otros requisitos</p>
               <p class="req-text">
-                Capacidad funcional para las tareas del puesto, no haber sido separado/a de una Administracion
-                Publica por via disciplinaria ni estar inhabilitado/a, y estar en posesion de los permisos de
-                conduccion que exija cada convocatoria (ver tarjeta siguiente).
+                Capacidad funcional para las tareas del puesto, no haber sido separado/a de una Administración
+                Pública por vía disciplinaria ni estar inhabilitado/a, y estar en posesión de los permisos de
+                conducción que exija cada convocatoria (ver tarjeta siguiente).
               </p>
             </div>
           </div>
@@ -561,31 +561,31 @@
           </div>
 
           <p class="text-sm text-gray-400">
-            El Decreto 36/2025 no fija un carne unico: su articulo 19.g exige estar en posesion de los permisos
-            o licencias de conduccion de los vehiculos (o embarcaciones) que tenga el servicio, segun se detalle
-            en las bases de cada convocatoria. Esquema habitual segun el tipo de vehiculo:
+            El Decreto 36/2025 no fija un carné único: su artículo 19.g exige estar en posesión de los permisos
+            o licencias de conducción de los vehículos (o embarcaciones) que tenga el servicio, según se detalle
+            en las bases de cada convocatoria. Esquema habitual según el tipo de vehículo:
           </p>
 
           <div class="space-y-3">
             <div class="license-row">
               <span class="license-badge">B</span>
               <div class="text-sm">
-                <p class="font-medium text-white">Turismo / vehiculo ligero</p>
-                <p class="text-gray-400">Vehiculos de intervencion ligeros y de mando. Suele ser el minimo de acceso.</p>
+                <p class="font-medium text-white">Turismo / vehículo ligero</p>
+                <p class="text-gray-400">Vehículos de intervención ligeros y de mando. Suele ser el mínimo de acceso.</p>
               </div>
             </div>
             <div class="license-row">
               <span class="license-badge">C</span>
               <div class="text-sm">
-                <p class="font-medium text-white">Camion rigido</p>
-                <p class="text-gray-400">Habilita para conducir autobombas y vehiculos pesados de intervencion.</p>
+                <p class="font-medium text-white">Camión rígido</p>
+                <p class="text-gray-400">Habilita para conducir autobombas y vehículos pesados de intervención.</p>
               </div>
             </div>
             <div class="license-row">
               <span class="license-badge">C+E</span>
               <div class="text-sm">
-                <p class="font-medium text-white">Camion con remolque / articulado</p>
-                <p class="text-gray-400">Necesario para autoescalas, nodrizas y vehiculos con remolque de gran tonelaje.</p>
+                <p class="font-medium text-white">Camión con remolque / articulado</p>
+                <p class="text-gray-400">Necesario para autoescalas, nodrizas y vehículos con remolque de gran tonelaje.</p>
               </div>
             </div>
           </div>
@@ -609,44 +609,44 @@
           </div>
 
           <p class="text-xs text-gray-500">
-            Anexo I del Decreto 36/2025, categoria Bombero/a, agrupado por bloques. El resto de categorias
-            (Jefe/a de Dotacion, Subinspector/a, Inspector/a, Oficial, Intendente) tienen un temario analogo en
+            Anexo I del Decreto 36/2025, categoría Bombero/a, agrupado por bloques. El resto de categorías
+            (Jefe/a de Dotación, Subinspector/a, Inspector/a, Oficial, Intendente) tienen un temario análogo en
             el mismo anexo.
           </p>
 
           <div class="space-y-3">
             <div class="req-block">
-              <p class="req-label">Legislacion y organizacion</p>
-              <p class="req-text">Constitucion, Estatuto de Autonomia, Bases del Regimen Local, Autonomia Local
-                de Andalucia, PRL (Ley 31/1995), Estatuto Basico del Empleado Publico, Funcion Publica de
-                Andalucia, igualdad de genero, geografia de riesgos de Andalucia, organizacion de los SPEIS,
-                Ley 2/2002 de Gestion de Emergencias.</p>
+              <p class="req-label">Legislación y organización</p>
+              <p class="req-text">Constitución, Estatuto de Autonomía, Bases del Régimen Local, Autonomía Local
+                de Andalucía, PRL (Ley 31/1995), Estatuto Básico del Empleado Público, Función Pública de
+                Andalucía, igualdad de género, geografía de riesgos de Andalucía, organización de los SPEIS,
+                Ley 2/2002 de Gestión de Emergencias.</p>
             </div>
             <div class="req-block">
-              <p class="req-label">Equipos de intervencion</p>
-              <p class="req-text">Cartografia y sistemas de medida, hidraulica y bombas contraincendios,
-                comunicaciones, vehiculos de emergencia, equipamiento operativo (corte, elevacion, motosierra),
-                EPI y proteccion respiratoria, normativa de PRL de equipos de trabajo.</p>
+              <p class="req-label">Equipos de intervención</p>
+              <p class="req-text">Cartografía y sistemas de medida, hidráulica y bombas contraincendios,
+                comunicaciones, vehículos de emergencia, equipamiento operativo (corte, elevación, motosierra),
+                EPI y protección respiratoria, normativa de PRL de equipos de trabajo.</p>
             </div>
             <div class="req-block">
               <p class="req-label">Incendio</p>
-              <p class="req-text">Quimica y fisica del fuego, mecanismos y agentes de extincion, incendios de
-                interior, industriales y en tuneles, ventilacion de incendios, Plan INFOCA (incendios forestales).</p>
+              <p class="req-text">Química y física del fuego, mecanismos y agentes de extinción, incendios de
+                interior, industriales y en tuneles, ventilación de incendios, Plan INFOCA (incendios forestales).</p>
             </div>
             <div class="req-block">
               <p class="req-label">Rescate</p>
-              <p class="req-text">Rescates en altura, accidentes de trafico y excarcelacion, rescates en agua y
-                con animales, liberacion en ascensores, estructuras colapsadas y desescombro.</p>
+              <p class="req-text">Rescates en altura, accidentes de tráfico y excarcelación, rescates en agua y
+                con animales, liberación en ascensores, estructuras colapsadas y desescombro.</p>
             </div>
             <div class="req-block">
               <p class="req-label">Sanitario</p>
-              <p class="req-text">Soporte vital basico y RCP, atencion al politraumatizado y TRIAGE, psicologia
-                de emergencias y primeros auxilios psicologicos.</p>
+              <p class="req-text">Soporte vital básico y RCP, atención al politraumatizado y TRIAGE, psicología
+                de emergencias y primeros auxilios psicológicos.</p>
             </div>
             <div class="req-block">
-              <p class="req-label">Edificacion y riesgos especiales</p>
-              <p class="req-text">Construccion y patologia de edificios, Codigo Tecnico de la Edificacion (DBSI),
-                riesgo electrico, materias peligrosas, riesgo radiologico, instalaciones de gases combustibles.</p>
+              <p class="req-label">Edificación y riesgos especiales</p>
+              <p class="req-text">Construcción y patología de edificios, Código Técnico de la Edificación (DBSI),
+                riesgo eléctrico, materias peligrosas, riesgo radiológico, instalaciones de gases combustibles.</p>
             </div>
           </div>
 
@@ -683,7 +683,7 @@
               <span>
                 <span class="font-semibold text-white">Tutor Inteligente 24/7 de Alto Rendimiento:</span>
                 entrenado exclusivamente con temario oficial de bomberos, responde estrictamente a contenido
-                de la oposicion con resoluciones tecnicas y pautas respaldadas por evidencia cientifica.
+                de la oposición con resoluciones técnicas y pautas respaldadas por evidencia científica.
               </span>
             </li>
             <li class="flex items-center gap-2"><span class="text-amber-400">✓</span> Simulacros de examen</li>
@@ -769,7 +769,7 @@
               <h3 class="text-lg font-bold text-white">Tablon de Plazas en Tiempo Real</h3>
             </div>
             <p class="text-sm text-gray-500 -mt-4 ml-11">
-              Convocatorias de BOE/BOJA para bombero/emergencias, detectadas automaticamente.
+              Convocatorias de BOE/BOJA para bombero/emergencias, detectadas automáticamente.
             </p>
 
             <div id="tablon-convocatorias-contenido" class="grid grid-cols-1 lg:grid-cols-2 gap-4 text-sm text-gray-400">
@@ -789,7 +789,7 @@
               </div>
               <div>
                 <h3 class="text-lg font-bold text-white">Tutor Inteligente 24/7</h3>
-                <p class="text-xs text-gray-500">Pregunta sobre tus rutinas de entrenamiento o tus tecnicas de estudio</p>
+                <p class="text-xs text-gray-500">Pregunta sobre tus rutinas de entrenamiento o tus técnicas de estudio</p>
               </div>
             </div>
 
@@ -799,13 +799,13 @@
               <div class="chat-bubble chat-bubble-ia">
                 <span class="chat-avatar">&#128657;</span>
                 <div class="chat-texto">
-                  Hola, soy tu tutor del Plan Pro. Preguntame sobre tus rutinas de entrenamiento o
-                  tus tecnicas de estudio, solo puedo asesorarte sobre ese contenido.
+                  Hola, soy tu tutor del Plan Pro. Pregúntame sobre tus rutinas de entrenamiento o
+                  tus técnicas de estudio, solo puedo asesorarte sobre ese contenido.
                 </div>
               </div>
             </div>
             <form id="form-chat" class="chat-input-row flex-shrink-0 pb-4">
-              <input type="text" id="chat-input" class="field flex-1" placeholder="Ej: ¿como mejoro mis dominadas?" autocomplete="off" />
+              <input type="text" id="chat-input" class="field flex-1" placeholder="Ej: ¿cómo mejoro mis dominadas?" autocomplete="off" />
               <button type="submit" class="btn-primary chat-enviar">Enviar</button>
             </form>
           </div>
@@ -824,16 +824,16 @@
                 <div>
                   <label class="block text-sm font-medium mb-1 text-gray-300" for="simulacro-tema">Tema</label>
                   <select id="simulacro-tema" class="field">
-                    <option value="Legislacion">Legislacion</option>
+                    <option value="Legislacion">Legislación</option>
                     <option value="General">General</option>
                     <option value="Rescate">Rescate</option>
                     <option value="Sanitario">Sanitario</option>
                     <option value="Incendio">Incendio</option>
-                    <option value="Equipos de Intervencion">Equipos de Intervencion</option>
+                    <option value="Equipos de Intervencion">Equipos de Intervención</option>
                   </select>
                 </div>
                 <div>
-                  <label class="block text-sm font-medium mb-1 text-gray-300" for="simulacro-num-preguntas">Numero de preguntas</label>
+                  <label class="block text-sm font-medium mb-1 text-gray-300" for="simulacro-num-preguntas">Número de preguntas</label>
                   <select id="simulacro-num-preguntas" class="field">
                     <option value="5">5</option>
                     <option value="10" selected>10</option>

@@ -32,7 +32,7 @@ async function fetchAutenticado(url, options = {}) {
   if (res.status === 401) {
     borrarToken();
     mostrarAuthGate();
-    mostrarToast("Tu sesion ha caducado. Inicia sesion de nuevo.", "error");
+    mostrarToast("Tu sesión ha caducado. Inicia sesión de nuevo.", "error");
   }
   return res;
 }
@@ -108,7 +108,7 @@ formLogin.addEventListener("submit", async (event) => {
     const data = await res.json();
 
     if (!res.ok) {
-      loginErrorEl.textContent = data.detail ?? "No se pudo iniciar sesion.";
+      loginErrorEl.textContent = data.detail ?? "No se pudo iniciar sesión.";
       loginErrorEl.classList.remove("hidden");
       return;
     }
@@ -159,7 +159,7 @@ formRegistro.addEventListener("submit", async (event) => {
     const dataLogin = await resLogin.json();
 
     if (!resLogin.ok) {
-      registroErrorEl.textContent = "Cuenta creada. Inicia sesion manualmente.";
+      registroErrorEl.textContent = "Cuenta creada. Inicia sesión manualmente.";
       registroErrorEl.classList.remove("hidden");
       return;
     }
@@ -233,7 +233,7 @@ formReset.addEventListener("submit", async (event) => {
 
     resetTokenActual = null;
     mostrarPanelAuth("login");
-    mostrarToast("Contraseña actualizada. Ya puedes iniciar sesion.", "success");
+    mostrarToast("Contraseña actualizada. Ya puedes iniciar sesión.", "success");
   } catch (err) {
     console.error("Error en reset-password", err);
     resetErrorEl.textContent = "No se pudo conectar con el backend.";
@@ -482,7 +482,7 @@ async function iniciarPortalStripe(boton) {
     const data = await res.json();
 
     if (!res.ok) {
-      mostrarToast(data.detail ?? "No se pudo abrir el portal de suscripcion.", "error");
+      mostrarToast(data.detail ?? "No se pudo abrir el portal de suscripción.", "error");
       boton.disabled = false;
       boton.textContent = textoOriginal;
       return;
@@ -529,7 +529,7 @@ function procesarRetornoDePago() {
   if (pago === "exito") {
     desbloquearPremium();
     activarVista("premium");
-    mostrarToast("¡Bienvenido a la Zona Premium! Ya tienes acceso a todos los modulos.", "success");
+    mostrarToast("¡Bienvenido a la Zona Premium! Ya tienes acceso a todos los módulos.", "success");
   } else if (pago === "cancelado") {
     mostrarToast("El pago no se ha completado. Puedes intentarlo de nuevo cuando quieras.", "error");
   }
@@ -560,7 +560,7 @@ async function cargarGraficaEvolucion() {
   try {
     const res = await fetchAutenticado("/api/dashboard/evolucion");
     if (!res.ok) {
-      mostrarEstadoVacioGrafica("No se pudo cargar tu evolucion ahora mismo. Intentalo de nuevo en unos minutos.");
+      mostrarEstadoVacioGrafica("No se pudo cargar tu evolución ahora mismo. Inténtalo de nuevo en unos minutos.");
       return;
     }
 
@@ -568,7 +568,7 @@ async function cargarGraficaEvolucion() {
     const puntos = data.puntos || [];
 
     if (puntos.length === 0) {
-      mostrarEstadoVacioGrafica("Registra tus primeras marcas fisicas para visualizar tu evolucion.");
+      mostrarEstadoVacioGrafica("Registra tus primeras marcas físicas para visualizar tu evolución.");
       return;
     }
 
@@ -591,7 +591,7 @@ async function cargarGraficaEvolucion() {
         labels: etiquetas,
         datasets: [
           {
-            label: "Nota Global Oposicion",
+            label: "Nota Global Oposición",
             data: valores,
             borderColor: "#f59e0b",
             backgroundColor: "rgba(245, 158, 11, 0.15)",
@@ -690,7 +690,7 @@ async function cargarEntrenamientoEspecifico() {
     contenedor.innerHTML = `
       <div class="mb-5 inline-flex items-center gap-2 bg-amber-500/10 border border-amber-500/30 text-amber-300 text-xs rounded-full px-3 py-1.5">
         <svg xmlns="http://www.w3.org/2000/svg" class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M12 9v3.75m9-.75a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-8.99 3.75h.008v.008h-.008v-.008Z"/></svg>
-        Punto debil detectado: ${data.nombre} (${data.puntos_actuales.toFixed(2)} / 10)
+        Punto débil detectado: ${data.nombre} (${data.puntos_actuales.toFixed(2)} / 10)
       </div>
 
       <h4 class="text-white font-bold text-xl mb-3 leading-snug">${rutina.titulo}</h4>
@@ -772,7 +772,7 @@ function pintarConvocatorias(convocatorias) {
       const textoPlazo = cerrado
         ? "Plazo cerrado"
         : c.dias_restantes != null
-        ? `Quedan ${c.dias_restantes} dias`
+        ? `Quedan ${c.dias_restantes} días`
         : "Plazo no especificado";
 
       return `
@@ -840,7 +840,7 @@ async function cargarTablonConvocatorias() {
       // lo contrario. No se pinta ninguna capa/CTA de bloqueo sobre las plazas
       // (ver Bug 1 del refactor de UI): solo un aviso de texto, sin duplicar el
       // muro de pago que ya vive en la Zona Premium.
-      tablonContenido.innerHTML = `<p class="text-gray-500">No se pudo verificar tu Plan Pro para el Tablon. Si acabas de pagar, recarga la pagina en unos segundos.</p>`;
+      tablonContenido.innerHTML = `<p class="text-gray-500">No se pudo verificar tu Plan Pro para el Tablón. Si acabas de pagar, recarga la página en unos segundos.</p>`;
       return;
     }
 
@@ -1492,7 +1492,7 @@ function iniciarTimer() {
       // A diferencia de alert() (que bloquea el hilo y podria cortar el
       // audio), mostrarToast() no bloquea nada, asi que no hace falta
       // ningun setTimeout para dar margen a que el audio empiece a sonar.
-      mostrarToast("¡Sesion de enfoque terminada! Tomate un descanso.", "success");
+      mostrarToast("¡Sesión de enfoque terminada! Tómate un descanso.", "success");
 
       if (cicloActualEsTrabajo) {
         guardarSesionEstudio(duracionCicloActualMinutos);
@@ -1562,7 +1562,7 @@ function procesarParametrosDeAcceso() {
   if (tokenGoogle) {
     guardarToken(tokenGoogle);
     mostrarApp();
-    mostrarToast("Sesion iniciada con Google.", "success");
+    mostrarToast("Sesión iniciada con Google.", "success");
     return true;
   }
 

@@ -1,13 +1,13 @@
-"""Catalogo de rutinas del Plan Pro, una por cada prueba fisica.
+"""Catalogo de rutinas del Plan Pro, una por cada prueba física.
 
-Contenido estructural de referencia: los textos y la bibliografia son
+Contenido estructural de referencia: los textos y la bibliografía son
 placeholders razonables (basados en literatura real de fuerza y
 acondicionamiento) pensados para validar el flujo Free -> Pro. Antes de
-publicar en produccion deben revisarse por un preparador fisico. Los textos
+publicar en produccion deben revisarse por un preparador físico. Los textos
 llevaban marcadores sueltos tipo "[cite: 1135]" (residuo de una generacion
 con IA sobre un documento fuente, nunca resueltos a citas reales) que se
-quitaron en limpieza -- si se añade contenido nuevo aqui, poner directamente
-la referencia real en "bibliografia" en vez de un marcador placeholder.
+quitaron en limpieza -- si se añade contenido nuevo aquí, poner directamente
+la referencia real en "bibliografía" en vez de un marcador placeholder.
 """
 
 RUTINAS_PRO = {
@@ -130,9 +130,9 @@ TECNICAS_ESTUDIO_PRO = {
     "recuerdo_activo": {
         "nombre": "Recuerdo Activo (Active Recall)",
         "concepto_cientifico": (
-            "Recuperar informacion desde la memoria fortalece la huella mnesica mucho mas "
+            "Recuperar información desde la memoria fortalece la huella mnésica mucho más "
             "que releer o subrayar (efecto de testeo o 'testing effect'). Es el esfuerzo de "
-            "recuperacion, no la exposicion pasiva al texto, lo que consolida el aprendizaje "
+            "recuperación, no la exposición pasiva al texto, lo que consolida el aprendizaje "
             "a largo plazo."
         ),
         "paso_a_paso": [
@@ -142,31 +142,31 @@ TECNICAS_ESTUDIO_PRO = {
             "Repite el ejercicio solo sobre esos huecos, no sobre todo el tema otra vez.",
         ],
         "ejemplo_aplicado": (
-            "Tras leer el tema de la Ley de Gestion de Emergencias de Andalucia, cierra el PDF "
-            "y escribe en una hoja en blanco todos los plazos y organos competentes que "
+            "Tras leer el tema de la Ley de Gestión de Emergencias de Andalucía, cierra el PDF "
+            "y escribe en una hoja en blanco todos los plazos y órganos competentes que "
             "recuerdes (por ejemplo, quien declara la emergencia y en que plazo se activa el "
-            "Plan Territorial). Corrige despues con el texto legal y repite solo los plazos "
+            "Plan Territorial). Corrige después con el texto legal y repite solo los plazos "
             "que fallaste."
         ),
     },
     "repeticion_espaciada": {
         "nombre": "Repeticion Espaciada (Spaced Repetition)",
         "concepto_cientifico": (
-            "La curva del olvido de Ebbinghaus muestra que la informacion se pierde rapido "
+            "La curva del olvido de Ebbinghaus muestra que la información se pierde rapido "
             "tras el primer estudio. Repasar justo antes de olvidarla, en intervalos "
             "crecientes, consolida la memoria a largo plazo con mucho menos tiempo total que "
             "repasar todo por igual."
         ),
         "paso_a_paso": [
             "Programa el primer repaso de un tema a las 24 horas de estudiarlo.",
-            "Si lo recuerdas bien, dobla el intervalo hasta el siguiente repaso (3 dias, 7 dias, 15 dias...).",
-            "Si fallas un repaso, vuelve a un intervalo corto (1 dia) solo para ese contenido.",
-            "Usa un sistema de tarjetas (fisico o app) para no depender de la memoria para saber que toca repasar.",
+            "Si lo recuerdas bien, dobla el intervalo hasta el siguiente repaso (3 días, 7 días, 15 días...).",
+            "Si fallas un repaso, vuelve a un intervalo corto (1 día) solo para ese contenido.",
+            "Usa un sistema de tarjetas (físico o app) para no depender de la memoria para saber que toca repasar.",
         ],
         "ejemplo_aplicado": (
-            "Crea una tarjeta por cada parametro hidraulico clave (caudal, presion, perdida de "
-            "carga por friccion). Repasalas a las 24h, luego a los 3 y a los 7 dias; los "
-            "parametros que confundas mas (por ejemplo, la formula de Hazen-Williams) vuelven "
+            "Crea una tarjeta por cada parámetro hidráulico clave (caudal, presión, perdida de "
+            "carga por fricción). Repásalas a las 24h, luego a los 3 y a los 7 días; los "
+            "parámetros que confundas más (por ejemplo, la fórmula de Hazen-Williams) vuelven "
             "a intervalo corto hasta que los domines."
         ),
     },
@@ -174,42 +174,42 @@ TECNICAS_ESTUDIO_PRO = {
         "nombre": "Técnica Feynman",
         "concepto_cientifico": (
             "Explicar un concepto con palabras sencillas, como si se enseñara a alguien sin "
-            "conocimientos previos, obliga a detectar las lagunas de comprension que pasan "
-            "desapercibidas cuando solo reconoces el concepto al leerlo (ilusion de "
+            "conocimientos previos, obliga a detectar las lagunas de comprensión que pasan "
+            "desapercibidas cuando solo reconoces el concepto al leerlo (ilusión de "
             "competencia)."
         ),
         "paso_a_paso": [
-            "Elige un concepto y escribe su explicacion como si se la contaras a alguien de 12 años.",
-            "Evita la jerga tecnica; si la usas, tienes que explicarla tambien en palabras simples.",
+            "Elige un concepto y escribe su explicación como si se la contaras a alguien de 12 años.",
+            "Evita la jerga técnica; si la usas, tienes que explicarla también en palabras simples.",
             "Cuando te atasques o uses una palabra que no sabes justificar, marca ese punto como laguna.",
-            "Vuelve al material original solo para cerrar esa laguna, y reescribe la explicacion.",
+            "Vuelve al material original solo para cerrar esa laguna, y reescribe la explicación.",
         ],
         "ejemplo_aplicado": (
             "Intenta explicar por que el agua apaga un incendio de clase A sin usar la palabra "
             "'refrigeracion': tendras que describir que el agua absorbe calor al evaporarse y "
             "baja la temperatura del combustible por debajo del punto de ignicion. Si no "
-            "consigues explicarlo sin el termino tecnico, es que aun no dominas el concepto de "
-            "transmision de calor."
+            "consigues explicarlo sin el término técnico, es que aún no dominas el concepto de "
+            "transmisión de calor."
         ),
     },
     "practica_intercalada": {
         "nombre": "Práctica Intercalada (Interleaving)",
         "concepto_cientifico": (
-            "Alternar distintos tipos de contenido en una misma sesion, en vez de practicar en "
+            "Alternar distintos tipos de contenido en una misma sesión, en vez de practicar en "
             "bloques del mismo tema, obliga al cerebro a identificar que estrategia aplicar en "
-            "cada caso. Esto mejora la capacidad de discriminacion y la transferencia a "
-            "examenes con preguntas mezcladas."
+            "cada caso. Esto mejora la capacidad de discriminación y la transferencia a "
+            "exámenes con preguntas mezcladas."
         ),
         "paso_a_paso": [
-            "Divide la sesion de estudio en bloques cortos de temas distintos (legislacion, fisica del fuego, primeros auxilios...).",
+            "Divide la sesión de estudio en bloques cortos de temas distintos (legislacion, física del fuego, primeros auxilios...).",
             "Alterna entre ellos cada 20-30 minutos en vez de agotar un tema entero antes de pasar al siguiente.",
             "Al hacer tests, mezcla preguntas de varios temas en vez de encadenar 20 preguntas del mismo bloque.",
-            "Acepta que la sesion se sienta 'menos fluida': esa dificultad deseable es la que genera el aprendizaje real.",
+            "Acepta que la sesión se sienta 'menos fluida': esa dificultad deseable es la que genera el aprendizaje real.",
         ],
         "ejemplo_aplicado": (
-            "En una sesion de 90 minutos, dedica 30 min a plazos de la Ley de Gestion de "
-            "Emergencias de Andalucia, 30 min a calculo de perdida de carga en mangueras y 30 "
-            "min a fases del fuego. Esto entrena la misma habilidad que necesitaras en el "
+            "En una sesión de 90 minutos, dedica 30 min a plazos de la Ley de Gestión de "
+            "Emergencias de Andalucía, 30 min a cálculo de perdida de carga en mangueras y 30 "
+            "min a fases del fuego. Esto entrena la misma habilidad que necesitarás en el "
             "examen real: reconocer de que tema es cada pregunta sin que vengan ordenadas por "
             "bloques."
         ),

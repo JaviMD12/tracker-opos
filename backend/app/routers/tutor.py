@@ -32,7 +32,7 @@ def analizar_plaza(
     except APIError as exc:
         raise HTTPException(
             status_code=502,
-            detail=f"El tutor IA no esta disponible ahora mismo: {exc}",
+            detail=f"El tutor IA no está disponible ahora mismo: {exc}",
         ) from exc
 
     return {"plan_estudio_md": plan_estudio_md}

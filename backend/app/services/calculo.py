@@ -21,7 +21,7 @@ PRUEBAS: dict[str, Prueba] = {
     "dominadas": Prueba("dominadas", "Dominadas", 12, 30, invertido=False, unidad="reps"),
     "sprint_100m": Prueba("sprint_100m", "Sprint 100m lisos", 14.50, 12.20, invertido=True, unidad="s"),
     "carrera_1500m": Prueba("carrera_1500m", "Carrera 1500m", 366, 272, invertido=True, unidad="s"),
-    "natacion_100m": Prueba("natacion_100m", "Natacion 100m", 110, 78, invertido=True, unidad="s"),
+    "natacion_100m": Prueba("natacion_100m", "Natación 100m", 110, 78, invertido=True, unidad="s"),
 }
 
 
@@ -119,7 +119,7 @@ def _calcular_recomendacion(valores: dict, detalle: dict) -> dict | None:
     return {
         "prueba_recomendada": mejor["clave"],
         "mensaje": (
-            f"La prueba mas 'barata' para subir tu nota es {mejor['nombre']}: "
+            f"La prueba más 'barata' para subir tu nota es {mejor['nombre']}: "
             f"solo necesitas mejorar {mejor['unidades_para_subir_1_punto']} {mejor['unidad']} "
             f"para ganar 1 punto entero."
         ),

@@ -28,7 +28,7 @@ def entrenamiento_especifico(
     if ultima_marca is None:
         raise HTTPException(
             status_code=404,
-            detail="Registra al menos una marca fisica para generar tu entrenamiento especifico.",
+            detail="Registra al menos una marca física para generar tu entrenamiento específico.",
         )
 
     resultado = calcular_puntuacion_completa(

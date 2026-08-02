@@ -81,7 +81,7 @@ async def google_callback(request: Request, db: Session = Depends(get_db)):
     userinfo = token.get("userinfo")
     email = userinfo.get("email") if userinfo else None
     if not email:
-        raise HTTPException(status_code=400, detail="Google no devolvio un email valido")
+        raise HTTPException(status_code=400, detail="Google no devolvió un email válido")
 
     usuario = db.query(Usuario).filter(Usuario.email == email).first()
     if usuario is None:
@@ -145,13 +145,13 @@ def reset_password(payload: ResetPasswordIn, db: Session = Depends(get_db)):
     email = verificar_token_reset(payload.token)
     if email is None:
         raise HTTPException(
-            status_code=400, detail="El enlace de recuperacion no es valido o ha caducado"
+            status_code=400, detail="El enlace de recuperación no es válido o ha caducado"
         )
 
     usuario = db.query(Usuario).filter(Usuario.email == email).first()
     if usuario is None:
         raise HTTPException(
-            status_code=400, detail="El enlace de recuperacion no es valido o ha caducado"
+            status_code=400, detail="El enlace de recuperación no es válido o ha caducado"
         )
 
     usuario.hashed_password = get_password_hash(payload.nueva_password)

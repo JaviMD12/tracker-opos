@@ -62,7 +62,7 @@ def dashboard_global(
             nota_fisica=None,
             nota_teorica=None,
             nota_global_combinada=None,
-            veredicto="Registra al menos un entreno fisico y un simulacro teorico para ver tu analisis global.",
+            veredicto="Registra al menos un entreno físico y un simulacro teórico para ver tu análisis global.",
         )
 
     if nota_fisica is None:
@@ -70,7 +70,7 @@ def dashboard_global(
             nota_fisica=None,
             nota_teorica=nota_teorica,
             nota_global_combinada=None,
-            veredicto="Te falta registrar una marca fisica para calcular el veredicto del entrenador.",
+            veredicto="Te falta registrar una marca física para calcular el veredicto del entrenador.",
         )
 
     if nota_teorica is None:
@@ -78,7 +78,7 @@ def dashboard_global(
             nota_fisica=nota_fisica,
             nota_teorica=None,
             nota_global_combinada=None,
-            veredicto="Te falta registrar un simulacro teorico para calcular el veredicto del entrenador.",
+            veredicto="Te falta registrar un simulacro teórico para calcular el veredicto del entrenador.",
         )
 
     nota_global_combinada = round(
@@ -88,9 +88,9 @@ def dashboard_global(
     if nota_teorica["porcentaje"] < nota_fisica["porcentaje"]:
         veredicto = "Margen de mejora mayor en temario. Prioriza el estudio esta semana."
     elif nota_fisica["porcentaje"] < nota_teorica["porcentaje"]:
-        veredicto = "Temario solido. Toca apretar en la pista y el lastre."
+        veredicto = "Temario sólido. Toca apretar en la pista y el lastre."
     else:
-        veredicto = "Fisico y temario van en equilibrio. Manten el ritmo en ambos frentes."
+        veredicto = "Físico y temario van en equilibrio. Mantén el ritmo en ambos frentes."
 
     return DashboardGlobal(
         nota_fisica=nota_fisica,

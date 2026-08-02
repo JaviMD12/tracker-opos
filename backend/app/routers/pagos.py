@@ -78,7 +78,7 @@ async def webhook_stripe(request: Request, db: Session = Depends(get_db)):
         stripe.Webhook.construct_event(payload, firma, STRIPE_WEBHOOK_SECRET)
         evento = json.loads(payload)
     except (ValueError, stripe.SignatureVerificationError) as exc:
-        raise HTTPException(status_code=400, detail="Webhook de Stripe invalido") from exc
+        raise HTTPException(status_code=400, detail="Webhook de Stripe inválido") from exc
 
     if evento.get("type") == "checkout.session.completed":
         sesion = evento.get("data", {}).get("object", {})

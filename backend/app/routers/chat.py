@@ -20,7 +20,7 @@ def chat_tutor(payload: ChatMensaje, current_user: Usuario = Depends(get_current
     except APIError as exc:
         raise HTTPException(
             status_code=502,
-            detail=f"El tutor IA no esta disponible ahora mismo: {exc}",
+            detail=f"El tutor IA no está disponible ahora mismo: {exc}",
         ) from exc
 
     return {"respuesta": respuesta}
