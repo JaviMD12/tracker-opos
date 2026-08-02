@@ -173,6 +173,126 @@
     <!-- ============ VISTA: DASHBOARD ANALITICO ============ -->
     <main id="view-dashboard" class="view flex-1 min-h-0 overflow-y-auto max-w-6xl mx-auto w-full p-6 lg:p-8 space-y-8">
 
+      <!-- Registrar marca del dia: arriba del todo, porque Acondicionamiento
+           Fisico Estrategico y la grafica de evolucion dependen de que haya
+           al menos un registro para mostrar algo mas que un estado vacio. -->
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <!-- Formularios -->
+        <section class="md:col-span-2 bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6">
+          <!-- Tabs -->
+          <div class="flex gap-2 mb-6">
+            <button type="button" data-tab="fisico"
+                    class="tab-btn active px-4 py-2 rounded-lg text-sm font-medium transition">
+              Fisico
+            </button>
+            <button type="button" data-tab="teorico"
+                    class="tab-btn px-4 py-2 rounded-lg text-sm font-medium transition">
+              Simulacro Teorico
+            </button>
+          </div>
+
+          <!-- Panel Fisico -->
+          <div id="panel-fisico" class="tab-panel">
+            <h2 class="text-lg font-semibold mb-4 text-white">Registrar marca del dia</h2>
+            <form id="form-marca" class="space-y-5">
+              <div>
+                <label class="block text-sm font-medium mb-1 text-gray-300" for="fecha">Fecha</label>
+                <input type="date" id="fecha" name="fecha" class="field" />
+              </div>
+
+              <div>
+                <label class="block text-sm font-medium mb-1 text-gray-300" for="dominadas">Dominadas (repeticiones)</label>
+                <input type="number" id="dominadas" name="dominadas" min="0" step="1" required class="field" />
+              </div>
+
+              <div>
+                <label class="block text-sm font-medium mb-1 text-gray-300" for="sprint">Sprint 100m lisos (segundos)</label>
+                <input type="number" id="sprint" name="sprint_100m" min="0" step="0.01" required
+                       placeholder="ej. 13.45" class="field" />
+              </div>
+
+              <fieldset>
+                <legend class="block text-sm font-medium mb-1 text-gray-300">Carrera 1500m</legend>
+                <div class="flex gap-3">
+                  <input type="number" id="carrera_min" min="0" step="1" required placeholder="min" class="field w-1/2" />
+                  <input type="number" id="carrera_seg" min="0" max="59" step="1" required placeholder="seg" class="field w-1/2" />
+                </div>
+              </fieldset>
+
+              <fieldset>
+                <legend class="block text-sm font-medium mb-1 text-gray-300">Natacion 100m</legend>
+                <div class="flex gap-3">
+                  <input type="number" id="natacion_min" min="0" step="1" required placeholder="min" class="field w-1/2" />
+                  <input type="number" id="natacion_seg" min="0" max="59" step="1" required placeholder="seg" class="field w-1/2" />
+                </div>
+              </fieldset>
+
+              <button type="submit" class="btn-primary w-full">
+                Guardar y calcular
+              </button>
+            </form>
+
+            <div id="resultado" class="mt-6 hidden">
+              <h3 class="font-semibold mb-2 text-white">Puntuacion detallada</h3>
+              <table class="w-full text-sm border-collapse">
+                <thead>
+                  <tr class="text-left border-b border-gray-700 text-gray-400">
+                    <th class="py-1.5 font-medium">Prueba</th>
+                    <th class="py-1.5 font-medium">Marca</th>
+                    <th class="py-1.5 font-medium">Puntos</th>
+                  </tr>
+                </thead>
+                <tbody id="tabla-detalle" class="text-gray-200"></tbody>
+              </table>
+              <div id="recomendacion" class="mt-4 rounded-lg bg-amber-500/10 border border-amber-500/30 text-amber-300 text-sm p-3"></div>
+            </div>
+          </div>
+
+          <!-- Panel Teorico -->
+          <div id="panel-teorico" class="tab-panel hidden">
+            <h2 class="text-lg font-semibold mb-4 text-white">Registrar simulacro teorico</h2>
+            <form id="form-teorica" class="space-y-5">
+              <div>
+                <label class="block text-sm font-medium mb-1 text-gray-300" for="teorica-fecha">Fecha</label>
+                <input type="date" id="teorica-fecha" name="fecha" class="field" />
+              </div>
+
+              <div>
+                <label class="block text-sm font-medium mb-1 text-gray-300" for="aciertos">Aciertos</label>
+                <input type="number" id="aciertos" min="0" step="1" required class="field" />
+              </div>
+
+              <div>
+                <label class="block text-sm font-medium mb-1 text-gray-300" for="fallos">Fallos</label>
+                <input type="number" id="fallos" min="0" step="1" required class="field" />
+              </div>
+
+              <div>
+                <label class="block text-sm font-medium mb-1 text-gray-300" for="blancos">Blancos</label>
+                <input type="number" id="blancos" min="0" step="1" required class="field" />
+              </div>
+
+              <button type="submit" class="btn-primary w-full">
+                Guardar simulacro
+              </button>
+            </form>
+
+            <div id="resultado-teorica" class="mt-6 hidden">
+              <p class="text-sm text-gray-400">Nota del simulacro (sobre 10)</p>
+              <div class="text-4xl font-bold bg-gradient-to-r from-orange-400 to-amber-300 bg-clip-text text-transparent" id="nota-teorica-resultado">--</div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Panel lateral -->
+        <aside class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 h-fit">
+          <h2 class="text-lg font-semibold mb-2 text-white">Nota Global Fisica</h2>
+          <p class="text-xs text-gray-500 mb-4">Ultimo registro (sobre 10)</p>
+          <div class="text-5xl font-bold bg-gradient-to-r from-orange-400 to-amber-300 bg-clip-text text-transparent" id="nota-global">--</div>
+          <p class="text-sm text-gray-500 mt-6" id="ultima-fecha"></p>
+        </aside>
+      </div>
+
       <!-- Analista Estrategico Global -->
       <section class="relative rounded-2xl overflow-hidden border border-gray-800 shadow-xl">
         <div class="absolute inset-0">
@@ -323,123 +443,6 @@
           </p>
         </button>
       </section>
-
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-        <!-- Formularios -->
-        <section class="md:col-span-2 bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6">
-          <!-- Tabs -->
-          <div class="flex gap-2 mb-6">
-            <button type="button" data-tab="fisico"
-                    class="tab-btn active px-4 py-2 rounded-lg text-sm font-medium transition">
-              Fisico
-            </button>
-            <button type="button" data-tab="teorico"
-                    class="tab-btn px-4 py-2 rounded-lg text-sm font-medium transition">
-              Simulacro Teorico
-            </button>
-          </div>
-
-          <!-- Panel Fisico -->
-          <div id="panel-fisico" class="tab-panel">
-            <h2 class="text-lg font-semibold mb-4 text-white">Registrar marca del dia</h2>
-            <form id="form-marca" class="space-y-5">
-              <div>
-                <label class="block text-sm font-medium mb-1 text-gray-300" for="fecha">Fecha</label>
-                <input type="date" id="fecha" name="fecha" class="field" />
-              </div>
-
-              <div>
-                <label class="block text-sm font-medium mb-1 text-gray-300" for="dominadas">Dominadas (repeticiones)</label>
-                <input type="number" id="dominadas" name="dominadas" min="0" step="1" required class="field" />
-              </div>
-
-              <div>
-                <label class="block text-sm font-medium mb-1 text-gray-300" for="sprint">Sprint 100m lisos (segundos)</label>
-                <input type="number" id="sprint" name="sprint_100m" min="0" step="0.01" required
-                       placeholder="ej. 13.45" class="field" />
-              </div>
-
-              <fieldset>
-                <legend class="block text-sm font-medium mb-1 text-gray-300">Carrera 1500m</legend>
-                <div class="flex gap-3">
-                  <input type="number" id="carrera_min" min="0" step="1" required placeholder="min" class="field w-1/2" />
-                  <input type="number" id="carrera_seg" min="0" max="59" step="1" required placeholder="seg" class="field w-1/2" />
-                </div>
-              </fieldset>
-
-              <fieldset>
-                <legend class="block text-sm font-medium mb-1 text-gray-300">Natacion 100m</legend>
-                <div class="flex gap-3">
-                  <input type="number" id="natacion_min" min="0" step="1" required placeholder="min" class="field w-1/2" />
-                  <input type="number" id="natacion_seg" min="0" max="59" step="1" required placeholder="seg" class="field w-1/2" />
-                </div>
-              </fieldset>
-
-              <button type="submit" class="btn-primary w-full">
-                Guardar y calcular
-              </button>
-            </form>
-
-            <div id="resultado" class="mt-6 hidden">
-              <h3 class="font-semibold mb-2 text-white">Puntuacion detallada</h3>
-              <table class="w-full text-sm border-collapse">
-                <thead>
-                  <tr class="text-left border-b border-gray-700 text-gray-400">
-                    <th class="py-1.5 font-medium">Prueba</th>
-                    <th class="py-1.5 font-medium">Marca</th>
-                    <th class="py-1.5 font-medium">Puntos</th>
-                  </tr>
-                </thead>
-                <tbody id="tabla-detalle" class="text-gray-200"></tbody>
-              </table>
-              <div id="recomendacion" class="mt-4 rounded-lg bg-amber-500/10 border border-amber-500/30 text-amber-300 text-sm p-3"></div>
-            </div>
-          </div>
-
-          <!-- Panel Teorico -->
-          <div id="panel-teorico" class="tab-panel hidden">
-            <h2 class="text-lg font-semibold mb-4 text-white">Registrar simulacro teorico</h2>
-            <form id="form-teorica" class="space-y-5">
-              <div>
-                <label class="block text-sm font-medium mb-1 text-gray-300" for="teorica-fecha">Fecha</label>
-                <input type="date" id="teorica-fecha" name="fecha" class="field" />
-              </div>
-
-              <div>
-                <label class="block text-sm font-medium mb-1 text-gray-300" for="aciertos">Aciertos</label>
-                <input type="number" id="aciertos" min="0" step="1" required class="field" />
-              </div>
-
-              <div>
-                <label class="block text-sm font-medium mb-1 text-gray-300" for="fallos">Fallos</label>
-                <input type="number" id="fallos" min="0" step="1" required class="field" />
-              </div>
-
-              <div>
-                <label class="block text-sm font-medium mb-1 text-gray-300" for="blancos">Blancos</label>
-                <input type="number" id="blancos" min="0" step="1" required class="field" />
-              </div>
-
-              <button type="submit" class="btn-primary w-full">
-                Guardar simulacro
-              </button>
-            </form>
-
-            <div id="resultado-teorica" class="mt-6 hidden">
-              <p class="text-sm text-gray-400">Nota del simulacro (sobre 10)</p>
-              <div class="text-4xl font-bold bg-gradient-to-r from-orange-400 to-amber-300 bg-clip-text text-transparent" id="nota-teorica-resultado">--</div>
-            </div>
-          </div>
-        </section>
-
-        <!-- Panel lateral -->
-        <aside class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 h-fit">
-          <h2 class="text-lg font-semibold mb-2 text-white">Nota Global Fisica</h2>
-          <p class="text-xs text-gray-500 mb-4">Ultimo registro (sobre 10)</p>
-          <div class="text-5xl font-bold bg-gradient-to-r from-orange-400 to-amber-300 bg-clip-text text-transparent" id="nota-global">--</div>
-          <p class="text-sm text-gray-500 mt-6" id="ultima-fecha"></p>
-        </aside>
-      </div>
 
       <!-- Racha de Actividad (Heatmap estilo GitHub) -->
       <section class="bg-slate-800 border border-slate-700 rounded-2xl shadow-lg p-6">
@@ -635,7 +638,7 @@
           </div>
           <h2 class="text-xl font-bold text-white">Zona Premium: analitica avanzada, IA y convocatorias en tiempo real</h2>
           <p class="text-gray-400 text-sm mt-2 max-w-md mx-auto">
-            Desbloquea el Tablon de Plazas automatizado, el Tutor IA 24/7, Simulacros tipo test generados por
+            Desbloquea el Tablon de Plazas automatizado, el Tutor Inteligente 24/7, Simulacros tipo test generados por
             IA y tu evolucion grafica con entrenamiento a medida.
           </p>
 
@@ -682,7 +685,7 @@
                 <path stroke-linecap="round" stroke-linejoin="round" d="M3 3v18h18" />
                 <path stroke-linecap="round" stroke-linejoin="round" d="M7 15l4-5 3 3 5-7" />
               </svg>
-              Dashboard / Inicio
+              Tablón de Plazas en Tiempo Real
             </button>
             <button type="button" data-premium-view="tutor"
                     class="premium-tab-btn flex items-center gap-2 px-4 py-2.5 text-sm font-medium whitespace-nowrap">
@@ -701,7 +704,7 @@
           </nav>
         </div>
 
-        <!-- ============ SUB-VISTA: DASHBOARD / INICIO ============ -->
+        <!-- ============ SUB-VISTA: TABLON DE PLAZAS EN TIEMPO REAL ============ -->
         <div id="premium-view-inicio" class="premium-subview flex-1 min-h-0 overflow-y-auto max-w-6xl mx-auto w-full p-4 sm:p-6 lg:p-8 space-y-6">
 
           <!-- Acondicionamiento Fisico Estrategico y Alto Rendimiento Teorico

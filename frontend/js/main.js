@@ -706,7 +706,7 @@ async function cargarEntrenamientoEspecifico() {
       <div class="space-y-2">${bibliografia}</div>
 
       ${htmlCtaProfundizarPremium(
-        "¿Quieres algo más personalizado y profundo? En el Plan Pro, nuestro Tutor IA 24/7 ajusta esta rutina a tu progreso real y resuelve tus dudas al momento."
+        "¿Quieres algo más personalizado y profundo? En el Plan Pro, nuestro Tutor Inteligente 24/7 ajusta esta rutina a tu progreso real y resuelve tus dudas al momento."
       )}
     `;
   } catch (err) {
@@ -750,7 +750,7 @@ async function cargarTecnicasEstudio() {
         </article>`;
       })
       .join("") + `<div class="xl:col-span-2">${htmlCtaProfundizarPremium(
-        "¿Quieres profundizar más en estas técnicas? En el Plan Pro, nuestro Tutor IA 24/7 te ayuda a aplicarlas a tu temario concreto, tema a tema."
+        "¿Quieres profundizar más en estas técnicas? En el Plan Pro, nuestro Tutor Inteligente 24/7 te ayuda a aplicarlas a tu temario concreto, tema a tema."
       )}</div>`;
   } catch (err) {
     console.error("No se pudieron cargar las tecnicas de estudio", err);
