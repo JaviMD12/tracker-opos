@@ -1,33 +1,38 @@
 ← [handover.md](../../handover.md)
 
-# 7. Deuda técnica y pendientes (leer antes de desplegar)
+# 7. Deuda técnica y pendientes (leer antes de tocar producción)
 
-Ordenado por impacto. 🔴 crítico, 🟠 importante, 🟡 menor.
+Ordenado por impacto. 🔴 crítico, 🟠 importante, 🟡 menor, ✅ resuelto en esta sesión (se deja el punto para que quede constancia de que ya no aplica).
 
-1. **🔴 `DOMINIO_APP = "http://localhost:8000"` hardcodeado** en `routers/auth.py` y `routers/pagos.py`. Se usa para el redirect de Google OAuth, el link de recuperación de contraseña y las `success_url`/`cancel_url` de Stripe. Se romperá en cuanto se despliegue en Render. Sacarlo a variable de entorno antes de desplegar.
+1. ✅ **`DOMINIO_APP` hardcodeado — resuelto.** Ya se lee de `os.environ.get("DOMINIO_APP", "https://opotracker.tech")` en `auth.py` y `pagos.py`, con el dominio real como fallback. Confirmado en código, no solo de oídas.
 
-2. **🔴 Credenciales reales sueltas en la raíz del repo, sin `.gitignore`:**
-   - `backend/Internal Database URL.txt` — URL real de Postgres de Render con usuario/contraseña en texto plano.
-   - `client_secret_190520933732-....json` (raíz del proyecto) — **credenciales reales de OAuth de Google Cloud** (client ID + secret), en un archivo JSON que probablemente descargaste tú mismo desde Google Cloud Console. Ninguno de los dos está cubierto por `.gitignore` (que solo tiene `.env`, `*.db*`, `__pycache__/`, `*.pyc`, y ahora `backend/chroma_db_data/`). Si se hace `git add -A` sin mirar, ambos quedarían expuestos en el historial. Recomendación: mover ambos fuera del repo o añadirlos al `.gitignore` y regenerarlos si ya se llegaron a commitear alguna vez.
+2. **🔴 Credenciales reales sueltas en la raíz del repo, sin `.gitignore` — SIGUE sin resolver, verificado de nuevo en esta sesión:**
+   - `backend/Internal Database URL.txt` — sigue existiendo y sigue trackeado en git (`git ls-files` lo confirma). Puede que ya ni sea la URL correcta (la producción real ahora es un VPS de Hostinger, no la Postgres que sea que describiera ese archivo), pero el archivo sigue expuesto en el historial igualmente.
+   - `client_secret_190520933732-....json` (raíz del proyecto) — **credenciales reales de OAuth de Google Cloud**, confirmado que sigue existiendo, sin `.gitignore`, y **trackeado en git** (`git ls-files` lo confirma explícitamente esta sesión). Recomendación sigue siendo: moverlo fuera del repo o añadirlo al `.gitignore` y regenerar las credenciales si se considera comprometido (ya está en el historial de git, borrarlo del working tree no lo borra del historial).
 
-3. **🟠 Nunca desplegado de verdad en Render.** La rama Postgres de `database.py` solo está verificada a nivel de motor (dialecto, reescritura de `postgres://`), sin conexión real — este entorno de desarrollo no tiene Postgres accesible.
+3. ✅ **"Nunca desplegado de verdad" — resuelto, pero en Hostinger, no en Render.** El proyecto está desplegado en un VPS real (`187.55.229.111`, dominio `https://opotracker.tech`), con Postgres real en producción (confirmado `engine.dialect.name == "postgresql"`), servicio systemd `tracker-opos.service`, y se ha verificado repetidamente funcionando (RAG, banco de preguntas, scraper, checkout de Stripe). Si en algún documento viejo se sigue mencionando "Render" como destino de despliegue, está desactualizado — el proyecto nunca llegó a desplegarse en Render, se desplegó en Hostinger.
 
-4. **🟠 Login con Google nunca completado en navegador real** (solo verificado estructuralmente).
+4. **🟠 Login con Google sigue sin probarse en navegador real de extremo a extremo** en esta sesión (no se tocó). Solo verificado estructuralmente en sesiones anteriores.
 
-5. **🟠 Checkout de Stripe nunca completado con tarjeta real** — el webhook (ver [02-autenticacion-y-pagos.md](02-autenticacion-y-pagos.md)) sí está verificado, pero con eventos firmados a mano, no con un pago real de Stripe.
+5. ✅ **Checkout de Stripe — resuelto, verificado de extremo a extremo con un pago real de prueba** (modo test, tarjeta `4242 4242 4242 4242`) contra producción real. Ver [02-autenticacion-y-pagos.md](02-autenticacion-y-pagos.md) para el detalle, incluido el hallazgo de que Stripe presenta un hCaptcha invisible al detectar automatización en el envío del pago (el paso final de "Pagar" necesita una interacción humana real, no se puede automatizar de principio a fin).
+   - **Nuevo pendiente menor derivado de esto**: el Portal de Cliente de Stripe (`POST /api/pagos/portal`) sigue sin probarse de extremo a extremo, aunque ya hay un `stripe_customer_id` real generado (de una cuenta de test ya eliminada).
 
-6. **🟠 `WEBHOOK_RECUPERACION_URL` apunta a webhook.site** — no envía emails reales. Sustituir antes de que la recuperación de contraseña funcione de cara al usuario final.
+6. **🟠 `WEBHOOK_RECUPERACION_URL` apunta a webhook.site** — no envía emails reales. No se tocó esta sesión. Sustituir antes de que la recuperación de contraseña funcione de cara al usuario final.
 
-7. **🟠 Cron del scraper (APScheduler) y multi-worker.** Ver [05-tablon-convocatorias-scraper.md](05-tablon-convocatorias-scraper.md) — con `gunicorn -w N` en Render, el job se dispararía N veces a las 03:00. El `UniqueConstraint` de `Convocatoria.url_origen` evita duplicados en BD pero no evita el trabajo/coste redundante.
+7. **🟠 Cron del scraper (APScheduler) y multi-worker.** No se tocó esta sesión (el foco fue la calidad de los datos que produce, ver [05-tablon-convocatorias-scraper.md](05-tablon-convocatorias-scraper.md)). Con varios workers, cada uno crearía su propio scheduler y el job se dispararía N veces a esa hora — el `UniqueConstraint` de `Convocatoria.url_origen` evita duplicados en BD pero no evita el trabajo/coste redundante.
 
-8. **🟡 Sin Alembic / migraciones incrementales.** Cada cambio de esquema no trivial implica borrar/recrear la BD (ya pasó varias veces esta ronda de sesiones: `Workout`, `SesionEstudio`, `Convocatoria`, `ResultadoSimulacro` se añadieron así). Aceptable en desarrollo, peligroso en cuanto haya usuarios reales en producción.
+8. **🟡 Sin Alembic / migraciones incrementales.** No se tocó esta sesión. Cada cambio de esquema no trivial sigue implicando borrar/recrear la BD. Aceptable en desarrollo, peligroso en cuanto haya usuarios reales en producción — y ya hay usuarios/pagos reales de prueba pasando por el VPS, así que este riesgo es cada vez más real.
 
-9. **🟡 `bcrypt==4.0.1` fijado explícitamente** — `passlib` 1.7.4 rompe con `bcrypt>=4.1` (`AttributeError: module 'bcrypt' has no attribute '__about__'`). Si se actualiza sin querer, es esto.
+9. **🟡 `bcrypt==4.0.1` fijado explícitamente** — sin cambios esta sesión.
 
-10. **🟡 `chroma_db_data/` no viaja con el repo** (gitignored, ~120MB). Un `git clone` limpio necesitará 1-2 minutos en la primera petición al Tutor IA/Simulacros para reconstruir el índice — ver [04-tutor-ia-y-rag.md](04-tutor-ia-y-rag.md). Considerar si en producción conviene pre-generar el índice como parte del build/deploy en vez de dejarlo para la primera petición real de un usuario.
+10. **🟡 `chroma_db_data/` no viaja con el repo** (gitignored, ~120MB) — sin cambios esta sesión, salvo que ahora también hay que tenerlo en cuenta en el VPS, no solo en local: si se hace un despliegue nuevo desde cero ahí, la primera petición al Tutor IA/Simulacros tardará 1-2 minutos reconstruyendo el índice. **Nuevo matiz importante**: reconstruirlo en local y en el VPS **a la vez** agota la cuota de embeddings de Gemini (es por minuto, no diaria) — ya pasó una vez esta sesión. Hacerlo siempre en serie.
 
-11. **🟡 `Workout` inactivo en BD.** Modelo y endpoint completos pero sin ninguna UI que los llame — ver [03-rendimiento-fisico-teorico-gamificacion.md](03-rendimiento-fisico-teorico-gamificacion.md). No es un bug, es una reversión deliberada; decidir en algún momento si se retoma o se elimina.
+11. **🟡 `Workout` inactivo en BD.** Sin cambios esta sesión.
 
-12. **🟡 Filtro del scraper de convocatorias puede dejar pasar plazas no-bombero** cuando una resolución conjunta menciona varias categorías — ver [05-tablon-convocatorias-scraper.md](05-tablon-convocatorias-scraper.md).
+12. **🟡 Filtro del scraper de convocatorias puede dejar pasar plazas no-bombero** cuando una resolución conjunta menciona varias categorías. Sin cambios esta sesión (se corrigieron bugs de fechas/excepciones, no el filtro de palabras clave).
 
-13. **🟡 Quirk del entorno de desarrollo**: el preview tool de Claude Code a veces reinicia el servidor a mitad de una petición larga (RAG/embeddings), lo que puede producir un 500 en logs que en realidad es solo una recarga del `--reload` de uvicorn interrumpiendo, no un bug del código. Si se ve un traceback raro con números de línea que no cuadran, sospechar de esto antes que del código.
+13. **🟡 Deduplicación del scraper solo por `url_origen` exacto (nuevo, encontrado en el audit de esta sesión).** Una "corrección de errores" republicada bajo otra URL para la misma plaza real crearía una fila duplicada. No es un crash ni corrompe datos, es una cuestión de calidad de datos — no corregido, requeriría matching difuso por título+organismo.
+
+14. **🟡 Quirk del entorno de desarrollo (confirmado que sigue pasando)**: el preview tool de Claude Code en esta máquina a veces resuelve el `launch.json` de otro proyecto no relacionado (`inversiones web`) en el puerto 8000 en vez del de `tracker-oposiciones`. Si pasa, arrancar el backend manualmente en otro puerto (`python -m uvicorn app.main:app --host 127.0.0.1 --port <libre>`) y navegar ahí directamente — no perder tiempo depurando el puerto 8000.
+
+15. ✅ **`docs/handover/` estaba desactualizada — resuelta con esta misma sincronización** (esto que estás leyendo). Si en el futuro se vuelve a notar que estos documentos no cuadran con el código real, es que alguna sesión hizo cambios grandes sin sincronizar esta carpeta — pedir explícitamente "sincroniza docs/handover con lo de hoy" al final de una sesión con cambios importantes.

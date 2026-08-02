@@ -23,8 +23,12 @@ stripe listen --forward-to localhost:5001/api/pagos/webhook
 y copiar el secreto que imprime a `.env`.
 
 ### ⚠️ Lo que NO activa `is_pro` de verdad
-- El botón **"Simular pago" (dev)** solo hace `localStorage.setItem(...)` — nunca toca el backend, nunca llama al webhook. Sirve solo para ver la UI desbloqueada visualmente, **no** para probar la protección real.
-- Para probar de verdad la gating de Plan Pro (Tablón, Tutor IA, Simulacros), hay que completar un checkout real (`stripe listen` + tarjeta de test `4242 4242 4242 4242`) o firmar un evento de prueba a mano contra `/api/pagos/webhook`.
+- El botón **"Simular pago" (dev)**, si sigue existiendo en alguna vista, solo hace `localStorage.setItem(...)` — nunca toca el backend, nunca llama al webhook. Sirve solo para ver la UI desbloqueada visualmente, **no** para probar la protección real.
+- Para probar de verdad la gating de Plan Pro (Tablón, Tutor IA, Simulacros), hay que completar un checkout real o firmar un evento de prueba a mano contra `/api/pagos/webhook`.
+
+### ✅ Checkout de Stripe verificado de extremo a extremo (primera vez en el proyecto)
+Contra producción real (`https://opotracker.tech`, Stripe en **modo test**, `sk_test_...` confirmado antes de tocar nada): botón "Desbloquear" → sesión real de Stripe Checkout → tarjeta de prueba `4242 4242 4242 4242` → **Stripe cargó un hCaptcha invisible al detectar automatización** en el envío del pago (Claude se detuvo ahí a propósito, sin intentar sortearlo — las reglas de seguridad lo prohíben explícitamente incluso en modo test) → el usuario completó el último clic de "Pagar" él mismo → confirmado en la base de datos de producción: `is_pro=True` y `stripe_customer_id` correctamente guardados por el webhook. **Conclusión operativa**: cualquier prueba automatizada de un checkout completo de Stripe va a chocar con este mismo hCaptcha — el paso final de "Pagar" siempre va a necesitar una interacción humana real, no asumir que se puede automatizar de principio a fin.
+- El Portal de Cliente de Stripe (`POST /api/pagos/portal`) **sigue sin probarse** de extremo a extremo, aunque ya se generó un `stripe_customer_id` real durante esta prueba (de una cuenta de test ya eliminada).
 
 ### El patrón de seguridad en cascada, ya aplicado a: Tablón, Tutor IA (plan de estudio), Simulacros
 Todos siguen el mismo patrón:

@@ -14,6 +14,12 @@ En una sesión se construyó un formulario dinámico (Fuerza/Carrera/Natación) 
 
 Si en una sesión futura alguien pregunta "¿por qué hay un modelo Workout que no se usa?", esta es la razón — no es un olvido, es una reversión deliberada.
 
+## Contenido de `RUTINAS_PRO` limpiado (marcadores `[cite: N]`)
+`backend/app/services/rutinas.py` (contenido de "Entrenamiento Específico" del Plan Pro) tenía marcadores sueltos tipo `[cite: 1135]` en `descripcion_cientifica`, `detalle` y `bibliografia` — residuo de una generación con IA sobre un documento fuente, nunca resueltos a citas reales. Se quitaron todos con un regex (`\s*\[cite:[^\]]*\]` → `""`), verificando que no quedara puntuación rota. Si se añade contenido nuevo a `RUTINAS_PRO`/`TECNICAS_ESTUDIO_PRO`, poner directamente la referencia real en `bibliografia` en vez de un marcador placeholder.
+
+## Banner de upsell contextual (Dashboard gratuito)
+Bajo el resultado del formulario de marca física (`#resultado` en `index.html`), hay un banner oculto por defecto (`#banner-upsell-entrenamiento`) que se revela junto con el resultado (`pintarResultado()` en `main.js`) **solo si el usuario no es Pro** (`proEstaDesbloqueado()`). Su CTA navega a la Zona Premium real (`activarVista("premium")`), no simula nada — ver [09-zona-premium-y-upsell.md](09-zona-premium-y-upsell.md) para los otros dos componentes de conversión hermanos (teaser del tablón + modal).
+
 ## Heatmap de actividad (real, ya no mockeado)
 - `GET /api/actividad/heatmap` (`backend/app/routers/actividad.py`): últimos 60 días, suma por día de `MarcaFisica` + `SesionEstudio` del usuario. Devuelve `[{"date": "YYYY-MM-DD", "intensity": N}, ...]`.
 - Frontend: sección "Racha de Actividad" en el Dashboard (`#heatmap-container`, `.heatmap-cell`), ya existía con datos mock de una sesión anterior — se conectó al endpoint real en vez de duplicar un segundo widget. 3 niveles visuales: vacío `#1E293B`, tenue (1), brillante `#F97316` (2+).
