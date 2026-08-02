@@ -9,12 +9,15 @@ load_dotenv(Path(__file__).resolve().parent.parent / ".env")
 
 from apscheduler.schedulers.background import BackgroundScheduler  # noqa: E402
 from apscheduler.triggers.cron import CronTrigger  # noqa: E402
-from fastapi import FastAPI  # noqa: E402
+from fastapi import FastAPI, Request  # noqa: E402
+from fastapi.responses import JSONResponse  # noqa: E402
 from fastapi.staticfiles import StaticFiles  # noqa: E402
+from slowapi.errors import RateLimitExceeded  # noqa: E402
 from sqlalchemy import inspect, text  # noqa: E402
 from starlette.middleware.sessions import SessionMiddleware  # noqa: E402
 
 from app.database import Base, SessionLocal, engine  # noqa: E402
+from app.services.rate_limit import limiter  # noqa: E402
 from app.models.convocatoria import Convocatoria  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.marca import MarcaFisica  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.pregunta_test import PreguntaTest  # noqa: F401,E402 (registra el modelo en Base)
@@ -100,6 +103,23 @@ app.add_middleware(
     same_site="lax",
     https_only=True,
 )
+
+# Rate limiting (slowapi): app.state.limiter es donde el decorador
+# @limiter.limit(...) de cada ruta busca la instancia compartida. El handler
+# personalizado sustituye el 429 generico de slowapi por el mensaje en
+# español que espera el frontend (ver mostrarToast() en el chat del Tutor IA).
+app.state.limiter = limiter
+
+
+@app.exception_handler(RateLimitExceeded)
+async def manejador_limite_excedido(request: Request, exc: RateLimitExceeded) -> JSONResponse:
+    return JSONResponse(
+        status_code=429,
+        content={
+            "detail": "Has alcanzado el límite de consultas por hora. Tómate un descanso y vuelve en un rato."
+        },
+    )
+
 
 app.include_router(actividad.router)
 app.include_router(auth.router)
