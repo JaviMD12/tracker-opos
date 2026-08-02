@@ -247,6 +247,56 @@ const recomendacionBox = document.getElementById("recomendacion");
 const notaGlobalEl = document.getElementById("nota-global");
 const ultimaFechaEl = document.getElementById("ultima-fecha");
 
+// ---------- Acondicionamiento Fisico Estrategico (teaser gratuito) ----------
+// Rutina fija y generica por prueba, NO generada por IA: la version real
+// personalizada (RUTINAS_PRO) vive solo en la Zona Premium via
+// /api/pro/entrenamiento. Esta rutina orientativa es deliberadamente basica,
+// es el gancho gratuito, no el producto de pago.
+const NOMBRE_PRUEBA_TEASER = {
+  dominadas: "Dominadas",
+  sprint_100m: "Sprint 100m",
+  carrera_1500m: "Carrera 1500m",
+  natacion_100m: "Natacion 100m",
+};
+const RUTINA_TEASER_GRATIS = {
+  dominadas: [
+    "3 series de remo invertido hasta el fallo tecnico",
+    "Dead hangs de 20-30s para fuerza de agarre",
+    "Negativas controladas de dominada, 4-6s de bajada",
+  ],
+  sprint_100m: [
+    "4-6 sprints de 30m a maxima intensidad",
+    "Skipping y tecnica de carrera, 3 series de 20m",
+    "Cuestas cortas explosivas, 6-8 repeticiones",
+  ],
+  carrera_1500m: [
+    "2-3 series de 400m a ritmo objetivo de carrera",
+    "Rodaje continuo suave, 20-25 min",
+    "Series de 200m con recuperacion activa",
+  ],
+  natacion_100m: [
+    "8x25m a ritmo de competicion con descanso corto",
+    "Trabajo de tecnica de brazada, 15 min",
+    "200m continuos a ritmo moderado",
+  ],
+};
+const acondicionamientoVacioEl = document.getElementById("acondicionamiento-vacio");
+const acondicionamientoContenidoEl = document.getElementById("acondicionamiento-contenido");
+const acondicionamientoPruebaEl = document.getElementById("acondicionamiento-prueba");
+const acondicionamientoListaEl = document.getElementById("acondicionamiento-lista");
+
+function pintarAcondicionamientoTeaser(claveRecomendada) {
+  if (!claveRecomendada || !RUTINA_TEASER_GRATIS[claveRecomendada]) return;
+  acondicionamientoVacioEl?.classList.add("hidden");
+  acondicionamientoContenidoEl?.classList.remove("hidden");
+  if (acondicionamientoPruebaEl) acondicionamientoPruebaEl.textContent = NOMBRE_PRUEBA_TEASER[claveRecomendada];
+  if (acondicionamientoListaEl) {
+    acondicionamientoListaEl.innerHTML = RUTINA_TEASER_GRATIS[claveRecomendada]
+      .map((ejercicio) => `<li>${ejercicio}</li>`)
+      .join("");
+  }
+}
+
 const formTeorica = document.getElementById("form-teorica");
 const resultadoTeoricaBox = document.getElementById("resultado-teorica");
 const notaTeoricaResultadoEl = document.getElementById("nota-teorica-resultado");
@@ -1080,6 +1130,7 @@ function pintarResultado(data) {
   if (data.recomendacion) {
     recomendacionBox.textContent = data.recomendacion.mensaje;
     recomendacionBox.classList.remove("hidden");
+    pintarAcondicionamientoTeaser(data.recomendacion.prueba_recomendada);
   } else {
     recomendacionBox.textContent = "Ya tienes 10 puntos en todas las pruebas.";
   }
