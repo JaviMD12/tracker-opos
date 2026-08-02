@@ -492,6 +492,10 @@
 
       <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
         <!-- Card: Requisitos Minimos -->
+        <!-- Contenido actualizado segun el Decreto 36/2025, de 11 de febrero
+             (BOJA num. 32, 17-feb-2025), art. 19 -- normativa autonomica de
+             Andalucia que regula el acceso a los SPEIS (sustituye a un
+             esquema anterior basado en una convocatoria concreta). -->
         <article class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 space-y-4">
           <div class="flex items-center gap-3">
             <div class="icon-badge">
@@ -504,18 +508,37 @@
 
           <div class="space-y-3">
             <div class="req-block">
+              <p class="req-label">Nacionalidad</p>
+              <p class="req-text">Tener la nacionalidad espanola.</p>
+            </div>
+            <div class="req-block">
               <p class="req-label">Edad</p>
-              <p class="req-text">Tener 16 años cumplidos y no exceder la edad maxima de jubilacion forzosa.</p>
+              <p class="req-text">Tener 16 años cumplidos y no haber cumplido la edad maxima de jubilacion forzosa.</p>
             </div>
             <div class="req-block">
               <p class="req-label">Titulacion academica</p>
-              <p class="req-text">Titulo de Bachiller o Tecnico o equivalente (ej. Grado Medio en Emergencias y Proteccion Civil).</p>
+              <p class="req-text">
+                Depende de la categoria: Bombero/a y Jefe/a de Dotacion piden el Tecnico en Emergencias y
+                Proteccion Civil (o el Tecnico Superior en Coordinacion de Emergencias y Proteccion Civil,
+                que tambien vale); Subinspector/a e Inspector/a piden directamente el Tecnico Superior;
+                Oficial pide Grado/Diplomatura/Ingenieria Tecnica; Intendente pide Grado/Licenciatura/Ingenieria.
+              </p>
             </div>
             <div class="req-block">
-              <p class="req-label">Acreditaciones especificas</p>
-              <p class="req-text">Licencia Basica de Navegacion y Titulacion de nivel basico en Prevencion de Riesgos Laborales (minimo 50 horas).</p>
+              <p class="req-label">Otros requisitos</p>
+              <p class="req-text">
+                Capacidad funcional para las tareas del puesto, no haber sido separado/a de una Administracion
+                Publica por via disciplinaria ni estar inhabilitado/a, y estar en posesion de los permisos de
+                conduccion que exija cada convocatoria (ver tarjeta siguiente).
+              </p>
             </div>
           </div>
+
+          <p class="text-xs text-gray-500">
+            Fuente: <a href="https://www.juntadeandalucia.es/eboja" target="_blank" rel="noopener" class="link-boe">Decreto 36/2025</a>,
+            de 11 de febrero (BOJA nº 32, 17 de febrero de 2025), artículo 19. Verifica siempre las bases
+            especificas de tu convocatoria, que pueden concretar requisitos adicionales.
+          </p>
         </article>
 
         <!-- Card: Permisos de Conducir -->
@@ -538,8 +561,9 @@
           </div>
 
           <p class="text-sm text-gray-400">
-            Esquema habitual de carnets exigidos para plazas de bombero conductor (varia segun el parque y la
-            convocatoria):
+            El Decreto 36/2025 no fija un carne unico: su articulo 19.g exige estar en posesion de los permisos
+            o licencias de conduccion de los vehiculos (o embarcaciones) que tenga el servicio, segun se detalle
+            en las bases de cada convocatoria. Esquema habitual segun el tipo de vehiculo:
           </p>
 
           <div class="space-y-3">
@@ -567,7 +591,13 @@
           </div>
         </article>
 
-        <!-- Card: Fuentes del Temario -->
+        <!-- Card: Temario Oficial -->
+        <!-- Anexo I del Decreto 36/2025 (categoria Bombero/a), agrupado en
+             bloques tematicos alineados con las categorias de Simulacros
+             (Legislacion/Equipos de Intervencion/Incendio/Rescate/Sanitario)
+             para que el opositor conecte ambas secciones de la app. Las
+             demas categorias (Jefe de Dotacion, Subinspector/a, Inspector/a,
+             Oficial, Intendente) tienen temarios analogos en el mismo anexo. -->
         <article class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 space-y-4">
           <div class="flex items-center gap-3">
             <div class="icon-badge">
@@ -575,46 +605,55 @@
                 <path stroke-linecap="round" stroke-linejoin="round" d="M12 6.25C10.5 5 8.4 4.5 6 4.5c-.83 0-1.63.08-2.4.24A1 1 0 003 5.72v12.06a1 1 0 001.2.98c.7-.15 1.44-.22 2.2-.22 2.1 0 4.02.55 5.6 1.7m0-14.01c1.5-1.25 3.6-1.75 6-1.75.83 0 1.63.08 2.4.24a1 1 0 01.6.98v12.06a1 1 0 01-1.2.98 11 11 0 00-2.2-.22c-2.1 0-4.02.55-5.6 1.7m0-14.01v14.01" />
               </svg>
             </div>
-            <h3 class="font-semibold text-lg text-white">Fuentes del Temario</h3>
+            <h3 class="font-semibold text-lg text-white">Temario Oficial</h3>
           </div>
 
-          <div>
-            <p class="text-xs font-semibold uppercase tracking-wide text-gray-500 mb-2">Legislacion (BOE, dominio publico)</p>
-            <ul class="space-y-2 text-sm">
-              <li>
-                <a href="https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229" target="_blank" rel="noopener" class="link-boe">
-                  Constitucion Espanola
-                </a>
-              </li>
-              <li>
-                <a href="https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392" target="_blank" rel="noopener" class="link-boe">
-                  Ley 7/1985, Bases del Regimen Local
-                </a>
-              </li>
-              <li>
-                <a href="https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292" target="_blank" rel="noopener" class="link-boe">
-                  Ley 31/1995, Prevencion de Riesgos Laborales
-                </a>
-              </li>
-              <li>
-                <a href="https://www.boe.es/legislacion/" target="_blank" rel="noopener" class="link-boe">
-                  Buscador de legislacion consolidada (BOE)
-                </a>
-              </li>
-            </ul>
-            <p class="text-xs text-gray-500 mt-1">Verifica siempre la version consolidada vigente en boe.es.</p>
+          <p class="text-xs text-gray-500">
+            Anexo I del Decreto 36/2025, categoria Bombero/a, agrupado por bloques. El resto de categorias
+            (Jefe/a de Dotacion, Subinspector/a, Inspector/a, Oficial, Intendente) tienen un temario analogo en
+            el mismo anexo.
+          </p>
+
+          <div class="space-y-3">
+            <div class="req-block">
+              <p class="req-label">Legislacion y organizacion</p>
+              <p class="req-text">Constitucion, Estatuto de Autonomia, Bases del Regimen Local, Autonomia Local
+                de Andalucia, PRL (Ley 31/1995), Estatuto Basico del Empleado Publico, Funcion Publica de
+                Andalucia, igualdad de genero, geografia de riesgos de Andalucia, organizacion de los SPEIS,
+                Ley 2/2002 de Gestion de Emergencias.</p>
+            </div>
+            <div class="req-block">
+              <p class="req-label">Equipos de intervencion</p>
+              <p class="req-text">Cartografia y sistemas de medida, hidraulica y bombas contraincendios,
+                comunicaciones, vehiculos de emergencia, equipamiento operativo (corte, elevacion, motosierra),
+                EPI y proteccion respiratoria, normativa de PRL de equipos de trabajo.</p>
+            </div>
+            <div class="req-block">
+              <p class="req-label">Incendio</p>
+              <p class="req-text">Quimica y fisica del fuego, mecanismos y agentes de extincion, incendios de
+                interior, industriales y en tuneles, ventilacion de incendios, Plan INFOCA (incendios forestales).</p>
+            </div>
+            <div class="req-block">
+              <p class="req-label">Rescate</p>
+              <p class="req-text">Rescates en altura, accidentes de trafico y excarcelacion, rescates en agua y
+                con animales, liberacion en ascensores, estructuras colapsadas y desescombro.</p>
+            </div>
+            <div class="req-block">
+              <p class="req-label">Sanitario</p>
+              <p class="req-text">Soporte vital basico y RCP, atencion al politraumatizado y TRIAGE, psicologia
+                de emergencias y primeros auxilios psicologicos.</p>
+            </div>
+            <div class="req-block">
+              <p class="req-label">Edificacion y riesgos especiales</p>
+              <p class="req-text">Construccion y patologia de edificios, Codigo Tecnico de la Edificacion (DBSI),
+                riesgo electrico, materias peligrosas, riesgo radiologico, instalaciones de gases combustibles.</p>
+            </div>
           </div>
 
-          <div>
-            <p class="text-xs font-semibold uppercase tracking-wide text-gray-500 mb-2">Bibliografia de referencia (temas tecnicos)</p>
-            <ul class="space-y-1.5 text-sm text-gray-400 list-disc list-inside">
-              <li>Manuales de fundamentos de extincion de incendios (quimica y fisica del fuego)</li>
-              <li>Manuales de hidraulica aplicada a la extincion (caudales, presiones, perdida de carga)</li>
-              <li>Manuales de construccion e instalaciones (comportamiento del fuego en edificios)</li>
-              <li>Temarios especificos de academias de preparacion (CEP, MAD, Ediciones Rodio u otras)</li>
-            </ul>
-            <p class="text-xs text-gray-500 mt-1">Contrasta siempre con el temario oficial de tu convocatoria.</p>
-          </div>
+          <p class="text-xs text-gray-500 mt-1">
+            + 5 temas especificos que determina cada SPEIS convocante (estructura y procedimientos propios de
+            ese servicio) -- estos varian por convocatoria y no estan en el decreto.
+          </p>
         </article>
       </div>
     </main>
