@@ -66,11 +66,16 @@ SYSTEM_PROMPT = (
     "(excluyen sabados y domingos) o dias naturales (todos los dias) segun el "
     "propio texto -- si no lo especifica explicitamente, usa \"naturales\". "
     'El campo "fecha_publicacion_boletin" es la fecha REAL en la que el '
-    'boletin oficial publico esta resolucion -- busca frases como "BOE num. '
-    'X, de D de mes de AAAA" o "Resolucion de D de mes de AAAA" en el propio '
-    'texto -- en formato "AAAA-MM-DD". Es la fecha que el documento declara '
-    'como su publicacion oficial, no una fecha de hoy ni una que tengas que '
-    'inferir. Si no aparece explicitamente en el texto, devuelve null. '
+    'boletin oficial publico esta resolucion, en formato "AAAA-MM-DD". '
+    'Busca especificamente una frase tipo "Publicado en: BOE num. X, de D de '
+    'mes de AAAA" (o equivalente en BOJA/BOP) -- esa es la fecha de '
+    'PUBLICACION, la que cuenta para calcular el plazo. NO confundas esto '
+    'con la fecha de la "Resolucion de D de mes de AAAA" que suele aparecer '
+    'tambien: esa es cuando se FIRMO el acto administrativo, normalmente '
+    'unos dias ANTES de publicarse, y no es la fecha que abre el plazo. Si '
+    'no aparece explicitamente la fecha de publicacion en el texto, '
+    'devuelve null -- no la infieras ni uses la fecha de la resolucion como '
+    'sustituto. '
     'Si el texto no menciona explícitamente una convocatoria de empleo u '
     'oposición, devuelve exactamente {"error": "no es convocatoria"}.'
 )
@@ -130,10 +135,18 @@ def _obtener_texto_completo(url: str) -> str | None:
         return None
 
     soup = BeautifulSoup(respuesta.text, "html.parser")
-    fragmentos = [
-        el.get_text(strip=True) for el in soup.find_all(["p", "dd", "dt"])
-    ]
+    # Los metadatos (<dd>/<dt>) van primero, antes que los <p> del cuerpo:
+    # en paginas muy largas (anexos, requisitos extensos) el recorte a
+    # CARACTERES_MAXIMOS_TEXTO_COMPLETO podria cortar el texto antes de
+    # llegar a la fecha real de publicacion si fuera al final. Los <dd>/<dt>
+    # de una ficha de metadatos son un bloque corto, asi que anteponerlos no
+    # les quita espacio de forma apreciable al cuerpo real de la resolucion.
+    metadatos = [el.get_text(strip=True) for el in soup.find_all(["dd", "dt"])]
+    parrafos = [el.get_text(strip=True) for el in soup.find_all("p")]
+    fragmentos = metadatos + parrafos
     texto_completo = "\n".join(fragmento for fragmento in fragmentos if fragmento)
+    if not texto_completo:
+        print(f"[scraper_boletines] '{url}' no tiene texto en <p>/<dd>/<dt>, se usara el resumen del RSS.")
     return texto_completo[:CARACTERES_MAXIMOS_TEXTO_COMPLETO]
 
 
@@ -152,12 +165,17 @@ def _extraer_datos_convocatoria(texto: str) -> dict | None:
     )
     datos = json.loads(respuesta.content)
 
-    if "error" in datos:
+    # response_mime_type="application/json" solo garantiza JSON sintacticamente
+    # valido, no que tenga forma de objeto -- Gemini podria en teoria devolver
+    # una lista, un numero o null. Sin este chequeo, "error" in datos revienta
+    # con TypeError si datos es None, y el resto del pipeline revienta con
+    # AttributeError al llamar datos.get(...) si es una lista o un string.
+    if not isinstance(datos, dict) or "error" in datos:
         return None
     return datos
 
 
-def _fecha_publicacion_entrada(entrada) -> datetime:
+def _fecha_publicacion_entrada(entrada) -> datetime | None:
     """Fecha real de publicacion de la entrada del feed (BOE trae
     'published_parsed', BOJA solo 'updated_parsed') -- no la fecha en la que
     el scraper la procesa. El cron corre una vez al dia (ver main.py), asi
@@ -165,10 +183,22 @@ def _fecha_publicacion_entrada(entrada) -> datetime:
     desde el momento del scraping en vez de desde la publicacion real hacia
     que la convocatoria pareciera durar mas de lo que dura de verdad, y se
     quedara en el tablon dias despues de haber vencido.
+
+    Devuelve None (no "ahora") cuando el feed no trae ninguna fecha. Asumir
+    "ahora" como publicacion siempre calcula un fecha_limite en el futuro
+    por construccion (hoy + plazo_dias siempre es "mañana" o mas tarde),
+    lo que anularia por completo la red de seguridad de
+    ejecutar_scraping_boletines() (que solo descarta plazos YA vencidos):
+    una convocatoria realmente antigua sin metadatos de fecha se colaria
+    disfrazada de recien publicada, exactamente el bug que se acaba de
+    corregir para el caso de Huelva, pero por una via distinta. El llamador
+    decide que hacer si tampoco hay fecha extraida del texto (ver
+    _parsear_fecha_boletin): lo correcto es descartar la entrada, no
+    adivinar.
     """
     parsed = entrada.get("published_parsed") or entrada.get("updated_parsed")
     if parsed is None:
-        return datetime.now(timezone.utc)
+        return None
     # feedparser normaliza *_parsed a UTC independientemente del offset
     # original del feed.
     return datetime(*parsed[:6], tzinfo=timezone.utc)
@@ -202,6 +232,36 @@ def _parsear_fecha_boletin(valor) -> datetime | None:
     if fecha > ahora + timedelta(days=1) or fecha < ahora - timedelta(days=3 * 365):
         return None
     return fecha
+
+
+def _normalizar_plazo_dias(valor) -> int | None:
+    """Normaliza "plazo_dias" a un entero positivo o None.
+
+    El prompt pide un int, pero Gemini a veces lo devuelve como float
+    (20.0) o como string numerico ("20"). Antes se rechazaba con un
+    isinstance(x, int) estricto, y eso tenia un efecto en cascada peor de lo
+    que parece: plazo_dias_valido=None hacia que fecha_limite_calculada
+    tambien quedara en None, y la red de seguridad de plazos vencidos (ver
+    ejecutar_scraping_boletines) solo actua cuando fecha_limite_calculada
+    es verdadero -- asi que una convocatoria YA vencida con un plazo_dias
+    mal tipado se colaba sin fecha_limite en vez de descartarse.
+
+    bool se excluye a proposito: en Python bool es subclase de int, y
+    "plazo_dias": true pasaria isinstance(x, int) sin ser un plazo real.
+    """
+    if isinstance(valor, bool):
+        return None
+    if isinstance(valor, int):
+        return valor if valor > 0 else None
+    if isinstance(valor, float) and valor.is_integer():
+        return int(valor) if valor > 0 else None
+    if isinstance(valor, str):
+        try:
+            entero = int(valor.strip())
+        except ValueError:
+            return None
+        return entero if entero > 0 else None
+    return None
 
 
 def _dias_habiles_a_naturales(dias_habiles: int, fecha_inicio: datetime) -> int:
@@ -257,64 +317,113 @@ def ejecutar_scraping_boletines() -> None:
             if datos is None:
                 continue
 
-            plazo_dias = datos.get("plazo_dias")
-            plazo_dias_valido = (
-                plazo_dias if isinstance(plazo_dias, int) and plazo_dias > 0 else None
-            )
+            # Todo lo demas (validacion de campos, calculo de fechas, guardado
+            # en BD) va dentro de este try/except Exception como red de
+            # seguridad final: antes, cualquier excepcion no prevista aqui
+            # (un IntegrityError de carrera entre workers de gunicorn -- cada
+            # uno corre su propio scheduler, ver app/main.py --, o cualquier
+            # otra cosa no anticipada) abortaba ejecutar_scraping_boletines()
+            # entero. Y como la fila nunca llegaba a comprometerse, ni
+            # siquiera quedaba deduplicada por url_origen, asi que la misma
+            # entrada podia volver a reventar la ejecucion del dia siguiente,
+            # bloqueando indefinidamente todo lo que viniera despues en el
+            # feed. Esto es lo que el docstring del modulo ya prometia
+            # ("nunca se relanzan") pero no cumplia mas alla de la llamada al
+            # LLM.
+            try:
+                titulo_plaza = datos.get("titulo_plaza")
+                organismo_localidad = datos.get("organismo_localidad")
+                # .get(clave, "") solo usa el default si falta la clave; si
+                # Gemini la incluye con JSON null, .get devuelve None, y
+                # str(None) guardaria el texto literal "None" como titulo o
+                # organismo -- una fila con pinta valida pero mal.
+                # titulo_plaza/organismo_localidad son NOT NULL en el modelo
+                # (ver app/models/convocatoria.py), asi que si no son un
+                # string real se descarta la entrada en vez de guardar un
+                # placeholder.
+                if not isinstance(titulo_plaza, str) or not titulo_plaza.strip():
+                    print(f"[scraper_boletines] '{url_origen}' descartada: sin titulo_plaza valido.")
+                    continue
+                if not isinstance(organismo_localidad, str) or not organismo_localidad.strip():
+                    print(f"[scraper_boletines] '{url_origen}' descartada: sin organismo_localidad valido.")
+                    continue
 
-            # fecha_limite se calcula una sola vez aqui, a partir de la fecha
-            # REAL de publicacion en el boletin, para que el conteo de dias
-            # restantes sea real y vaya bajando dia a dia (ver
-            # Convocatoria.dias_restantes) en vez de sobreestimar cuanto
-            # plazo queda. Se prioriza la fecha que el propio texto declara
-            # (_parsear_fecha_boletin) sobre los metadatos del RSS
-            # (_fecha_publicacion_entrada), que pueden ir muy por delante de
-            # la publicacion real -- ver el docstring de _parsear_fecha_boletin.
-            fecha_publicacion_real = _parsear_fecha_boletin(
-                datos.get("fecha_publicacion_boletin")
-            ) or _fecha_publicacion_entrada(entrada)
+                plazo_dias_valido = _normalizar_plazo_dias(datos.get("plazo_dias"))
 
-            dias_naturales_equivalentes = None
-            if plazo_dias_valido:
-                if datos.get("plazo_tipo") == "habiles":
-                    dias_naturales_equivalentes = _dias_habiles_a_naturales(
-                        plazo_dias_valido, fecha_publicacion_real
+                # fecha_limite se calcula una sola vez aqui, a partir de la fecha
+                # REAL de publicacion en el boletin, para que el conteo de dias
+                # restantes sea real y vaya bajando dia a dia (ver
+                # Convocatoria.dias_restantes) en vez de sobreestimar cuanto
+                # plazo queda. Se prioriza la fecha que el propio texto declara
+                # (_parsear_fecha_boletin) sobre los metadatos del RSS
+                # (_fecha_publicacion_entrada), que pueden ir muy por delante de
+                # la publicacion real -- ver el docstring de _parsear_fecha_boletin.
+                fecha_publicacion_real = _parsear_fecha_boletin(
+                    datos.get("fecha_publicacion_boletin")
+                ) or _fecha_publicacion_entrada(entrada)
+
+                # Si ninguna de las dos fuentes dio una fecha fiable, no hay
+                # base real para calcular un plazo -- mejor descartar la
+                # entrada que asumir "ahora" (ver docstring de
+                # _fecha_publicacion_entrada: eso fue justo lo que hizo que
+                # una convocatoria vencida pareciera vigente).
+                if fecha_publicacion_real is None:
+                    print(
+                        f"[scraper_boletines] '{url_origen}' descartada: no se pudo "
+                        "determinar una fecha de publicacion fiable (ni en el "
+                        "texto ni en los metadatos del RSS)."
                     )
-                else:
-                    dias_naturales_equivalentes = plazo_dias_valido
+                    continue
 
-            fecha_limite_calculada = (
-                fecha_publicacion_real + timedelta(days=dias_naturales_equivalentes)
-                if dias_naturales_equivalentes
-                else None
-            )
+                dias_naturales_equivalentes = None
+                if plazo_dias_valido:
+                    if datos.get("plazo_tipo") == "habiles":
+                        dias_naturales_equivalentes = _dias_habiles_a_naturales(
+                            plazo_dias_valido, fecha_publicacion_real
+                        )
+                    else:
+                        dias_naturales_equivalentes = plazo_dias_valido
 
-            # Red de seguridad: si con la mejor fecha de publicacion
-            # disponible el plazo ya vencio, no tiene sentido mostrarle al
-            # usuario una convocatoria en la que ya no puede presentar
-            # solicitud -- se descarta aqui en vez de guardarla y confiar en
-            # el filtro de lectura de GET /api/convocatorias (ver
-            # routers/convocatorias.py), que solo protege el listado pero
-            # deja la fila muerta acumulandose en la tabla.
-            if fecha_limite_calculada and fecha_limite_calculada < datetime.now(timezone.utc):
-                print(
-                    f"[scraper_boletines] '{url_origen}' descartada: el plazo "
-                    f"ya vencio ({fecha_limite_calculada.date()})."
+                fecha_limite_calculada = (
+                    fecha_publicacion_real + timedelta(days=dias_naturales_equivalentes)
+                    if dias_naturales_equivalentes
+                    else None
                 )
-                continue
 
-            convocatoria = Convocatoria(
-                titulo_plaza=str(datos.get("titulo_plaza", ""))[:500],
-                organismo_localidad=str(datos.get("organismo_localidad", ""))[:500],
-                plazo_dias=plazo_dias_valido,
-                fecha_publicacion=fecha_publicacion_real,
-                fecha_limite=fecha_limite_calculada,
-                requisitos_minimos=datos.get("requisitos_minimos"),
-                url_origen=url_origen,
-            )
-            db.add(convocatoria)
-            db.commit()
-            nuevas += 1
+                # Red de seguridad: si con la mejor fecha de publicacion
+                # disponible el plazo ya vencio, no tiene sentido mostrarle al
+                # usuario una convocatoria en la que ya no puede presentar
+                # solicitud -- se descarta aqui en vez de guardarla y confiar en
+                # el filtro de lectura de GET /api/convocatorias (ver
+                # routers/convocatorias.py), que solo protege el listado pero
+                # deja la fila muerta acumulandose en la tabla.
+                if fecha_limite_calculada and fecha_limite_calculada < datetime.now(timezone.utc):
+                    print(
+                        f"[scraper_boletines] '{url_origen}' descartada: el plazo "
+                        f"ya vencio ({fecha_limite_calculada.date()})."
+                    )
+                    continue
+
+                requisitos_minimos = datos.get("requisitos_minimos")
+                if not isinstance(requisitos_minimos, str):
+                    requisitos_minimos = None
+
+                convocatoria = Convocatoria(
+                    titulo_plaza=titulo_plaza.strip()[:500],
+                    organismo_localidad=organismo_localidad.strip()[:500],
+                    plazo_dias=plazo_dias_valido,
+                    fecha_publicacion=fecha_publicacion_real,
+                    fecha_limite=fecha_limite_calculada,
+                    requisitos_minimos=requisitos_minimos,
+                    url_origen=url_origen,
+                )
+                db.add(convocatoria)
+                db.commit()
+                nuevas += 1
+            except Exception as exc:
+                db.rollback()
+                print(f"[scraper_boletines] Error inesperado procesando '{url_origen}': {exc}")
+                continue
 
         print(
             f"[scraper_boletines] Ejecucion completada: {nuevas} convocatorias "
