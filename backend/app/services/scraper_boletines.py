@@ -60,10 +60,17 @@ SYSTEM_PROMPT = (
     "Eres un extractor de datos de boletines oficiales españoles. Analiza este "
     "texto y devuelve ÚNICAMENTE un JSON válido con esta estructura exacta: "
     '{"titulo_plaza": string, "organismo_localidad": string, "plazo_dias": int, '
-    '"plazo_tipo": "habiles" | "naturales", "requisitos_minimos": string}. '
+    '"plazo_tipo": "habiles" | "naturales", "requisitos_minimos": string, '
+    '"fecha_publicacion_boletin": string | null}. '
     'El campo "plazo_tipo" indica si el plazo esta expresado en dias habiles '
     "(excluyen sabados y domingos) o dias naturales (todos los dias) segun el "
     "propio texto -- si no lo especifica explicitamente, usa \"naturales\". "
+    'El campo "fecha_publicacion_boletin" es la fecha REAL en la que el '
+    'boletin oficial publico esta resolucion -- busca frases como "BOE num. '
+    'X, de D de mes de AAAA" o "Resolucion de D de mes de AAAA" en el propio '
+    'texto -- en formato "AAAA-MM-DD". Es la fecha que el documento declara '
+    'como su publicacion oficial, no una fecha de hoy ni una que tengas que '
+    'inferir. Si no aparece explicitamente en el texto, devuelve null. '
     'Si el texto no menciona explícitamente una convocatoria de empleo u '
     'oposición, devuelve exactamente {"error": "no es convocatoria"}.'
 )
@@ -98,13 +105,20 @@ def _obtener_entradas_filtradas() -> list:
 
 
 def _obtener_texto_completo(url: str) -> str | None:
-    """Descarga la pagina de la noticia y concatena el texto de todos sus
-    <p>, recortado a CARACTERES_MAXIMOS_TEXTO_COMPLETO.
+    """Descarga la pagina de la noticia y concatena el texto de sus <p>,
+    <dd> y <dt>, recortado a CARACTERES_MAXIMOS_TEXTO_COMPLETO.
 
     El RSS solo trae un resumen de una o dos frases, sin plazos ni
     requisitos; esos datos viven en el cuerpo de la resolucion completa.
-    Devuelve None si la descarga falla (red caida, pagina movida...), para
-    que el llamador pueda decidir un texto de respaldo en vez de abortar.
+    <dd>/<dt> se añadieron porque el BOE (y otros boletines con el mismo
+    patron) publican su ficha de metadatos -- "Publicado en: BOE num. 127,
+    de 25 de mayo de 2026..." -- en una lista de definicion, no en un <p>;
+    sin esto, _extraer_datos_convocatoria() nunca veia la fecha real de
+    publicacion en el texto (solo <p> no la contenia), y el calculo de
+    fecha_limite quedaba a merced de los metadatos del RSS (ver
+    _parsear_fecha_boletin). Devuelve None si la descarga falla (red caida,
+    pagina movida...), para que el llamador pueda decidir un texto de
+    respaldo en vez de abortar.
     """
     try:
         respuesta = requests.get(
@@ -116,8 +130,10 @@ def _obtener_texto_completo(url: str) -> str | None:
         return None
 
     soup = BeautifulSoup(respuesta.text, "html.parser")
-    parrafos = [p.get_text(strip=True) for p in soup.find_all("p")]
-    texto_completo = "\n".join(parrafo for parrafo in parrafos if parrafo)
+    fragmentos = [
+        el.get_text(strip=True) for el in soup.find_all(["p", "dd", "dt"])
+    ]
+    texto_completo = "\n".join(fragmento for fragmento in fragmentos if fragmento)
     return texto_completo[:CARACTERES_MAXIMOS_TEXTO_COMPLETO]
 
 
@@ -156,6 +172,36 @@ def _fecha_publicacion_entrada(entrada) -> datetime:
     # feedparser normaliza *_parsed a UTC independientemente del offset
     # original del feed.
     return datetime(*parsed[:6], tzinfo=timezone.utc)
+
+
+def _parsear_fecha_boletin(valor) -> datetime | None:
+    """Fecha de publicacion que el modelo extrajo directamente del texto de
+    la resolucion (ver "fecha_publicacion_boletin" en SYSTEM_PROMPT), con
+    comprobaciones de sensatez antes de confiar en ella.
+
+    Es mas fiable que _fecha_publicacion_entrada() (metadatos del RSS): el
+    texto oficial declara su propia fecha de publicacion (p.ej. "BOE num.
+    127, de 25 de mayo de 2026"), mientras que el campo "updated_parsed" del
+    RSS a veces refleja cuando el feed toco/reactivo la entrada, no cuando se
+    publico de verdad -- eso fue justo lo que causo que una convocatoria de
+    bomberos de Huelva con plazo de solicitudes cerrado desde junio
+    apareciera en el tablon con un plazo limite calculado para agosto (la
+    fecha del RSS estaba casi dos meses por delante de la fecha real del
+    BOE). Devuelve None (y el llamador cae de vuelta al RSS) si el valor no
+    es parseable, es futuro, o es tan antiguo que huele a alucinacion del
+    modelo en vez de una fecha real leida del texto.
+    """
+    if not valor or not isinstance(valor, str):
+        return None
+    try:
+        fecha = datetime.strptime(valor, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    except ValueError:
+        return None
+
+    ahora = datetime.now(timezone.utc)
+    if fecha > ahora + timedelta(days=1) or fecha < ahora - timedelta(days=3 * 365):
+        return None
+    return fecha
 
 
 def _dias_habiles_a_naturales(dias_habiles: int, fecha_inicio: datetime) -> int:
@@ -217,13 +263,16 @@ def ejecutar_scraping_boletines() -> None:
             )
 
             # fecha_limite se calcula una sola vez aqui, a partir de la fecha
-            # REAL de publicacion en el boletin (no de "ahora", el momento en
-            # que el cron diario procesa la entrada -- puede ir hasta 24h por
-            # detras de la publicacion real), para que el conteo de dias
+            # REAL de publicacion en el boletin, para que el conteo de dias
             # restantes sea real y vaya bajando dia a dia (ver
             # Convocatoria.dias_restantes) en vez de sobreestimar cuanto
-            # plazo queda.
-            fecha_publicacion_real = _fecha_publicacion_entrada(entrada)
+            # plazo queda. Se prioriza la fecha que el propio texto declara
+            # (_parsear_fecha_boletin) sobre los metadatos del RSS
+            # (_fecha_publicacion_entrada), que pueden ir muy por delante de
+            # la publicacion real -- ver el docstring de _parsear_fecha_boletin.
+            fecha_publicacion_real = _parsear_fecha_boletin(
+                datos.get("fecha_publicacion_boletin")
+            ) or _fecha_publicacion_entrada(entrada)
 
             dias_naturales_equivalentes = None
             if plazo_dias_valido:
@@ -234,16 +283,32 @@ def ejecutar_scraping_boletines() -> None:
                 else:
                     dias_naturales_equivalentes = plazo_dias_valido
 
+            fecha_limite_calculada = (
+                fecha_publicacion_real + timedelta(days=dias_naturales_equivalentes)
+                if dias_naturales_equivalentes
+                else None
+            )
+
+            # Red de seguridad: si con la mejor fecha de publicacion
+            # disponible el plazo ya vencio, no tiene sentido mostrarle al
+            # usuario una convocatoria en la que ya no puede presentar
+            # solicitud -- se descarta aqui en vez de guardarla y confiar en
+            # el filtro de lectura de GET /api/convocatorias (ver
+            # routers/convocatorias.py), que solo protege el listado pero
+            # deja la fila muerta acumulandose en la tabla.
+            if fecha_limite_calculada and fecha_limite_calculada < datetime.now(timezone.utc):
+                print(
+                    f"[scraper_boletines] '{url_origen}' descartada: el plazo "
+                    f"ya vencio ({fecha_limite_calculada.date()})."
+                )
+                continue
+
             convocatoria = Convocatoria(
                 titulo_plaza=str(datos.get("titulo_plaza", ""))[:500],
                 organismo_localidad=str(datos.get("organismo_localidad", ""))[:500],
                 plazo_dias=plazo_dias_valido,
                 fecha_publicacion=fecha_publicacion_real,
-                fecha_limite=(
-                    fecha_publicacion_real + timedelta(days=dias_naturales_equivalentes)
-                    if dias_naturales_equivalentes
-                    else None
-                ),
+                fecha_limite=fecha_limite_calculada,
                 requisitos_minimos=datos.get("requisitos_minimos"),
                 url_origen=url_origen,
             )
