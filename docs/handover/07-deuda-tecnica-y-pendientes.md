@@ -2,7 +2,9 @@
 
 # 7. Deuda técnica y pendientes (leer antes de tocar producción)
 
-Ordenado por impacto. 🔴 crítico, 🟠 importante, 🟡 menor, ✅ resuelto en esta sesión (se deja el punto para que quede constancia de que ya no aplica).
+Ordenado por impacto. 🔴 crítico, 🟠 importante, 🟡 menor, ✅ resuelto (se deja el punto para que quede constancia de que ya no aplica).
+
+0. **🔴 Nuevo, sin resolver (2026-08-08): el índice local de Chroma está incompleto/roto tras chocar con la cuota de embeddings de Gemini.** Al reconstruir `chroma_db_data/` tras añadir el BOJA25-032-00076 (Decreto 36/2025) a `conocimiento/`, `Chroma.from_documents()` reventó dos veces con `google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED` (límite `EmbedContentRequestsPerMinutePerProjectPerModel-PaidTier2`, 5000/min) antes de terminar los 38 documentos — la carga se hace de golpe, sin backoff ni reintento por lotes. `_indice_persistido_existe()` solo comprueba que la carpeta no esté vacía, así que un índice parcial se sirve como si estuviera completo, sin error visible: el Tutor IA/Simulacros tendrían lagunas silenciosas sobre los documentos que faltan. Detalle completo en [04-tutor-ia-y-rag.md](04-tutor-ia-y-rag.md). **No tocar el índice del VPS hasta resolver esto en local** (nunca reconstruir en los dos sitios a la vez, la cuota es por minuto). Arreglo real pendiente: trocear la reconstrucción en lotes con pausas, no solo reintentar sin más a ver si esta vez no choca con la cuota.
 
 1. ✅ **`DOMINIO_APP` hardcodeado — resuelto.** Ya se lee de `os.environ.get("DOMINIO_APP", "https://opotracker.tech")` en `auth.py` y `pagos.py`, con el dominio real como fallback. Confirmado en código, no solo de oídas.
 
@@ -35,4 +37,8 @@ Ordenado por impacto. 🔴 crítico, 🟠 importante, 🟡 menor, ✅ resuelto e
 
 14. **🟡 Quirk del entorno de desarrollo (confirmado que sigue pasando)**: el preview tool de Claude Code en esta máquina a veces resuelve el `launch.json` de otro proyecto no relacionado (`inversiones web`) en el puerto 8000 en vez del de `tracker-oposiciones`. Si pasa, arrancar el backend manualmente en otro puerto (`python -m uvicorn app.main:app --host 127.0.0.1 --port <libre>`) y navegar ahí directamente — no perder tiempo depurando el puerto 8000.
 
-15. ✅ **`docs/handover/` estaba desactualizada — resuelta con esta misma sincronización** (esto que estás leyendo). Si en el futuro se vuelve a notar que estos documentos no cuadran con el código real, es que alguna sesión hizo cambios grandes sin sincronizar esta carpeta — pedir explícitamente "sincroniza docs/handover con lo de hoy" al final de una sesión con cambios importantes.
+15. ✅ **`docs/handover/` estaba desactualizada tras 14 commits (2026-08-02 tarde/noche → 2026-08-08) — resuelta con esta sincronización.** Cambios cubiertos: rate limiting en el Tutor IA (slowapi, ver [04](04-tutor-ia-y-rag.md)), Acondicionamiento Físico/Alto Rendimiento Teórico movidos de Premium al Dashboard gratuito, Modo Enfoque movido del sidebar a Premium, varios renombrados de copy, reescritura de la Guía del Opositor con el Decreto 36/2025, corrección de tildes en todo el texto visible, y el BOJA25-032-00076 añadido a `conocimiento/`. Si en el futuro se vuelve a notar que estos documentos no cuadran con el código real, es que alguna sesión hizo cambios grandes sin sincronizar esta carpeta — pedir explícitamente "sincroniza docs/handover con lo de hoy" al final de una sesión con cambios importantes.
+
+16. ✅ **Tildes faltantes en el texto visible — resuelto (`a4f78d1`, 2026-08-02).** Frontend y varios mensajes del backend (veredictos, `HTTPException.detail`, contenido de rutinas/técnicas) llevaban tiempo sin tildes. Se dejaron intactos a propósito los identificadores que no deben llevar tilde (ids, clases CSS, claves de diccionario/JSON, los `value=` de Simulacros que el backend espera sin acentuar).
+
+17. ✅ **Rate limiting del Tutor IA — resuelto (`7708a12`, 2026-08-02).** Ver [04-tutor-ia-y-rag.md](04-tutor-ia-y-rag.md) para el detalle (60 peticiones/hora por usuario, fallback a IP). Nota: solo protege `/api/pro/chat`, no `routers/tutor.py` ni los scripts offline de generación del banco.

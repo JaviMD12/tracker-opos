@@ -51,7 +51,7 @@ python purgar_preguntas.py           # vacia toda la tabla preguntas_test antes 
 **600 preguntas (100 × 6 temas)**, generadas y verificadas tanto en local (SQLite) como en producción (VPS, Postgres) al cierre de esta sesión.
 
 ## Frontend
-Vista "Simulacros" dentro de la Zona Premium (tras el rediseño de pestañas de esta sesión — antes vivía apilada en la misma página que el resto de Plan Pro, ver [09-zona-premium-y-upsell.md](09-zona-premium-y-upsell.md)). Diseño centrado (`max-w-2xl`), sin distracciones.
+Vista "Simulacros" dentro de la Zona Premium (tras el rediseño de pestañas de esta sesión — antes vivía apilada en la misma página que el resto de Plan Pro, ver [09-zona-premium-y-upsell.md](09-zona-premium-y-upsell.md)). Diseño centrado (`max-w-2xl`), sin distracciones. **Actualizado 2026-08-08**: el copy visible se corrigió dos veces — se quitó la descripción "Exámenes tipo test generados a partir del temario oficial" que sonaba a generación en vivo por convocatoria (`8c5dc8a`), y "Simulacros tipo test generados por IA" pasó a "Simulacros de examen" en el cartel de venta de Premium (`f000ca9`) — en ambos casos para no contradecir que el banco es fijo (600 preguntas precargadas), no generado al vuelo. Sin cambios en el mecanismo real descrito arriba.
 
 Flujo en 3 pasos, sin cambios en esta sesión:
 1. **Config**: selects de tema (los 6 nuevos) y nº de preguntas (5/10/20).

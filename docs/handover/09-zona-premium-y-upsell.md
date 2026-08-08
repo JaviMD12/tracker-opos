@@ -2,16 +2,15 @@
 
 # 9. Zona Premium (rediseño de navegación) y componentes de upsell Free→Premium
 
-Archivo nuevo — todo lo de aquí es de la sesión del 2026-08-02. Antes de esto, la Zona Premium era una única página larga con todo apilado (gráfica, entrenamiento, técnicas de estudio, tablón, chat, simulacros) y el Dashboard gratuito no tenía ningún gancho de conversión hacia el Plan Pro.
+Rediseño de pestañas original de la sesión del 2026-08-02. **Actualizado el 2026-08-08**: una tanda de 11 commits posteriores (`f3454a1`..`f000ca9`) sacó Acondicionamiento Físico y Alto Rendimiento Teórico de Premium por completo (ahora viven gratis en el Dashboard, ver [03](03-rendimiento-fisico-teorico-gamificacion.md)) y añadió el Modo Enfoque como 4ª pestaña — la Zona Premium de pago real quedó reducida a **Tablón de Plazas + Tutor Inteligente 24/7 + Simulacros + Modo Enfoque**. Antes de la sesión del 2026-08-02, la Zona Premium era una única página larga con todo apilado y el Dashboard gratuito no tenía ningún gancho de conversión hacia el Plan Pro.
 
-## Rediseño de la Zona Premium: de página larga a 3 sub-vistas con pestañas
-A petición explícita del usuario (rol "Frontend Senior UX/UI"), la Zona Premium (`#view-premium` en `frontend/index.html`) se dividió en 3 sub-vistas con su propia sub-navegación por pestañas:
+## De página larga a 4 sub-vistas con pestañas (hoy: Tablón / Tutor / Simulacros / Modo Enfoque)
+La Zona Premium (`#view-premium` en `frontend/index.html`) tiene 4 sub-vistas con su propia sub-navegación por pestañas (`.premium-tab-btn` + `data-premium-view`, función `activarVistaPremium(nombre)` en `main.js`):
 
-- **`#premium-view-inicio`**: lo que antes era toda la página — gráfica de evolución, Entrenamiento Específico, Técnicas de Estudio, Tablón de Plazas. Sin filtro de scroll propio más allá del normal.
-- **`#premium-view-tutor`**: el chat del Tutor IA, ahora a **pantalla completa estilo chat real** (ChatGPT-like): el historial de mensajes crece para ocupar toda la altura disponible, y el input queda **realmente fijo abajo** (no solo `position: sticky`, que es poco fiable combinado con scroll de página).
-- **`#premium-view-simulacros`**: la config/test/corrección de Simulacros, en una vista centrada (`max-w-2xl`) sin distracciones.
-
-Sub-navegación: `.premium-tab-btn` + `data-premium-view` en cada botón, función `activarVistaPremium(nombre)` en `main.js` (análoga a la `activarVista()` ya existente para Dashboard/Guía/Premium, pero anidada un nivel más adentro).
+- **`#premium-view-inicio`** (`data-premium-view="inicio"`, pestaña rotulada **"Tablón de Plazas en Tiempo Real"**, no "Inicio" — renombrada en `ade3978` porque es lo único que queda ahí desde que Acondicionamiento Físico/Alto Rendimiento Teórico se mudaron al Dashboard gratuito en `2cb3072`). El id de la sub-vista en el HTML sigue siendo `premium-view-inicio`/`data-premium-view="inicio"` internamente — solo cambió el rótulo visible, no lo confundas con una sub-vista nueva.
+- **`#premium-view-tutor`**: el chat del Tutor IA (rotulado **"Tutor Inteligente 24/7"** en el texto visible, ver más abajo), a pantalla completa estilo chat real: historial crece para ocupar toda la altura, input fijo abajo de verdad (no `position: sticky`).
+- **`#premium-view-simulacros`**: config/test/corrección de Simulacros, vista centrada (`max-w-2xl`).
+- **`#premium-view-enfoque`** (nueva, `7d8c096`): el Pomodoro/Modo Enfoque, ver sección dedicada más abajo.
 
 ### Cambio estructural clave: el shell pasó de scroll de página a altura fija (`h-dvh`)
 Para que el input del chat quede fijo de verdad, **todo `#app-shell` cambió de `min-h-screen` (scroll de página normal) a `h-dvh overflow-hidden`**, con cada vista principal (`view-dashboard`, `view-guia`, `view-premium`) siendo `flex-1 min-h-0 overflow-y-auto` — cada una hace scroll dentro de sí misma, no la página entera. Esto afecta a las 3 vistas principales, no solo a la Zona Premium, aunque solo el Tutor IA necesitaba realmente el cambio (las otras dos simplemente pasaron de "scroll de `<body>`" a "scroll de su propio contenedor", visualmente idéntico para el usuario).
@@ -19,23 +18,41 @@ Para que el input del chat quede fijo de verdad, **todo `#app-shell` cambió de 
 **Si en el futuro algo se ve raro con el scroll** (contenido cortado, doble scrollbar, etc.), sospechar primero de esta cadena de `flex`/`min-h-0`/`overflow-y-auto` antes de asumir que es un bug de contenido.
 
 ### Tour guiado de onboarding, adaptado
-`PASOS_TOUR_PREMIUM` (`main.js`) ahora tiene un campo `vista` por paso (`inicio`/`tutor`/`simulacros`), y `pintarPasoTour()` llama a `activarVistaPremium(paso.vista)` **antes** de buscar/resaltar el elemento — antes todo era visible a la vez en la misma página, ahora cada paso vive en una sub-vista oculta hasta que se activa (buscar un elemento con `display:none` da un `getBoundingClientRect()` vacío).
+`PASOS_TOUR_PREMIUM` (`main.js`) tiene un campo `vista` por paso, y `pintarPasoTour()` llama a `activarVistaPremium(paso.vista)` **antes** de buscar/resaltar el elemento — cada paso vive en una sub-vista oculta hasta que se activa (buscar un elemento con `display:none` da un `getBoundingClientRect()` vacío). **Sigue teniendo solo 3 pasos** (`#tour-tablon`/inicio, `#tour-tutor`/tutor, `#tour-simulacros`/simulacros) — la 4ª pestaña **Modo Enfoque no se añadió al tour** cuando se creó en `7d8c096`, no es un bug, simplemente no se ha hecho todavía.
 
 ### Verificado en 3 breakpoints
 Desktop (1280×720/1024×768), tablet (768×1024) y móvil (375×812): sin scroll de página en ningún caso, chat con input pegado al borde inferior real del viewport en los tres, tour completo hasta el registro en backend (`tour_premium_completado`).
 
-## 3 componentes de upsell Free → Premium (CRO)
-A petición explícita del usuario (rol "Frontend Senior CRO/UX"), integrados de verdad en el **Dashboard gratuito** (`#view-dashboard`), no solo como snippets sueltos:
+## Acondicionamiento Físico y Alto Rendimiento Teórico salieron de Premium (sesión 2026-08-02 tarde/noche, commits `df19353`→`2cb3072`)
+Estas dos secciones **ya no están en la Zona Premium en absoluto** — se movieron al Dashboard gratuito, contenido real completo (no un teaser), porque sus endpoints (`/api/pro/entrenamiento`, `/api/pro/teorica`) **nunca estuvieron protegidos por `is_pro` en el backend**: la Zona Premium solo reflejaba una restricción que no existía realmente del lado del servidor. Detalle completo (incluida la breve etapa intermedia de "teaser gratuito" que existió solo entre `df19353` y `2cb3072`) en [03-rendimiento-fisico-teorico-gamificacion.md](03-rendimiento-fisico-teorico-gamificacion.md).
 
-1. **Teaser "cristal empañado"** (`#teaser-tablon`, justo después del héroe "Analista Estratégico Global"): vista previa real de tarjetas de convocatoria, con `blur-[3px]` + `pointer-events-none` + `aria-hidden`, y un candado centrado (`#btn-teaser-tablon`) como único elemento clicable. Al pulsarlo, **abre el modal de conversión** (no navega directamente).
-2. **Modal de conversión** (`#modal-paywall`, hijo directo de `<body>` para poder abrirse desde cualquier vista): título "Alcanza tu máximo rendimiento", 3 beneficios (Tutor IA 24/7, Simulacros ilimitados, Tablón en vivo), y un CTA (`#btn-modal-actualizar-premium`) que **reutiliza `iniciarCheckoutStripe()`** — checkout real de un solo clic, no una navegación intermedia a otra pantalla. Cierre por botón, backdrop, o tecla Escape (`cerrarModalPaywall()`). Transición de apertura con el mismo patrón `.show` (añadida un frame después de quitar `.hidden`, vía `requestAnimationFrame`) que ya usaban los toasts — consistente con el resto del código.
-3. **Banner contextual** (`#banner-upsell-entrenamiento`, dentro de `#panel-fisico`, justo tras `#resultado`): oculto por defecto, se revela junto con el resultado del formulario de marca física (`pintarResultado()` en `main.js`) **solo si el usuario no es Pro**. Texto "¿Estancado en tus marcas?..." + CTA (`.btn-plan-ia`, clase ya existente reutilizada) que navega a la Zona Premium real (`activarVista("premium")`).
+Consecuencias en esta zona:
+- La pestaña que antes se llamaba "Dashboard / Inicio" de Premium se **renombró a "Tablón de Plazas en Tiempo Real"** (`ade3978`) porque es lo único real que queda ahí — el id/atributo interno sigue siendo `premium-view-inicio`/`data-premium-view="inicio"`, no cambió, solo el rótulo visible.
+- El modal de pago y el cartel de venta de Premium (`#premium-locked`) **ya no prometen "evolución gráfica y entrenamiento específico"** como beneficio exclusivo — se corrigió en `0e54ff2` porque se habían quedado desactualizados tras `2cb3072` (seguían vendiendo algo que ya era gratis). Beneficios de pago reales listados hoy: Tablón de Plazas, Tutor Inteligente 24/7, Simulacros, Modo Enfoque.
+- Bajo la rutina de Entrenamiento Específico y bajo las Técnicas de Estudio (ambas ya gratuitas) hay un **CTA "profundiza con el Plan Pro"** (`htmlCtaProfundizarPremium()` en `main.js`, clase `.btn-cta-profundizar-premium`) que no promete una versión superior de ese mismo contenido —ya es la versión completa y gratuita— sino que dirige al Tutor IA real de pago, la única vía que sigue ofreciendo personalización más profunda.
+
+## Modo Enfoque: de overlay del sidebar a 4ª pestaña de Premium (`7d8c096`)
+El Pomodoro dejó de ser un overlay a pantalla completa activado desde un botón del sidebar (`btn-activar-enfoque`, `#pantalla-enfoque`, clase `body.modo-enfoque-activo`) y pasó a ser `#premium-view-enfoque` (`data-premium-view="enfoque"`), una sub-vista más de Premium que reutiliza el mismo mecanismo de pestañas (`activarVistaPremium`). Se eliminaron el botón "Activar Modo Enfoque" del lateral, el botón "Salir del Modo Enfoque" (cambiar de pestaña cumple esa función ahora) y el CSS muerto del overlay. **Nota**: esto significa que el Modo Enfoque, que antes era accesible sin ser Pro (vivía en el sidebar, fuera de cualquier gating), **ahora vive dentro de la Zona Premium** — comprobar si esto es una restricción deliberada nueva o un efecto colateral no buscado del traslado si alguna vez se pregunta por qué el Pomodoro dejó de estar disponible para usuarios Free.
+
+## Renombrados de copy (varios commits, `ade3978`→`f000ca9`)
+- "Tutor IA" → **"Tutor Inteligente 24/7"** en todo el texto visible que quedaba (pestaña, cartel de venta, cabecera de Premium desbloqueada, CTAs de profundización) — se hizo en varias pasadas porque quedaban restos sin renombrar de una limpieza anterior.
+- "Simulacros tipo test generados por IA" → **"Simulacros de examen"**, y se quitó del todo la descripción "Exámenes tipo test generados a partir del temario oficial" (`8c5dc8a`) — sonaba a generación en vivo por convocatoria cuando el banco es fijo (600 preguntas precargadas, ver [06](06-simulacros-ia.md)).
+- El copy del Tutor en el modal de paywall y en el cartel de venta de Premium se reforzó con lenguaje de autoridad ("entrenado exclusivamente con temario oficial", respaldo científico) en vez de la descripción genérica anterior ("dudas legislativas y técnicas") — `ca1ee7a` y `f000ca9`.
+
+## 3 componentes de upsell Free → Premium (CRO), copy unificado en `f3454a1`
+Integrados de verdad en el **Dashboard gratuito** (`#view-dashboard`):
+
+1. **Teaser "cristal empañado"** (`#teaser-tablon`, hoy justo después de Alto Rendimiento Teórico, tras el traslado de esas dos secciones — ya no está "justo después del héroe"): vista previa real de tarjetas de convocatoria, `blur-[3px]` + `pointer-events-none` + `aria-hidden`, candado centrado (`#btn-teaser-tablon`) como único elemento clicable, que **abre el modal de conversión**.
+2. **Modal de conversión** (`#modal-paywall`, hijo directo de `<body>`): título "Alcanza tu máximo rendimiento", CTA (`#btn-modal-actualizar-premium`) que **reutiliza `iniciarCheckoutStripe()`**. Cierre por botón, backdrop, o Escape (`cerrarModalPaywall()`). El beneficio de "entrenamientos personalizados" se quitó del modal en `2cb3072` (ya no es exclusivo) y luego se corrigió el pie que decía por error "Pago único" siendo una suscripción mensual (`f3454a1`).
+3. **Banner contextual** (`#banner-upsell-entrenamiento`): **ya no vive justo tras `#resultado` del formulario de marca** — se movió justo debajo de la sección de Acondicionamiento Físico Estratégico (dentro del Dashboard gratuito, tras `2cb3072`), y ahora se muestra/oculta según `is_pro` desde `mostrarEstadoPremium()` en vez de solo tras pintar un resultado nuevo.
+
+Los tres CTAs de precio quedaron unificados al mismo texto **"Desbloquear Premium por 9,99€/mes"** con el precio destacado tipográficamente (clases estándar de Tailwind: `text-2xl font-bold` / `text-sm opacity-75`, `f3454a1`/`df19353`).
 
 ### Gating: invisibles para quien ya es Pro
-Los tres se ocultan automáticamente para usuarios premium — la comprobación vive en el mismo sitio que decide el resto del estado premium (`mostrarEstadoPremium()`), para no tener una segunda fuente de verdad sobre "es Pro o no".
+Los tres se ocultan automáticamente para usuarios premium — la comprobación vive en `mostrarEstadoPremium()`, para no tener una segunda fuente de verdad sobre "es Pro o no".
 
-### Verificado
-Apertura/cierre del modal (backdrop, botón, Escape — comprobado con `dispatchEvent` directo, ya que la simulación de teclado del entorno de pruebas no siempre llega a una pestaña sin foco visual real), visibilidad condicionada al estado premium (oculto tras simular `is_pro=True`), navegación del banner a Zona Premium, responsivo en desktop y móvil.
+## Reordenación del Dashboard gratuito (commits `ade3978`, `d954968`)
+Orden final de arriba a abajo: **Analista Estratégico Global** (nota/veredicto, vuelto a colocar arriba en `d954968`) → **Registrar marca del día** (formulario) → **Acondicionamiento Físico Estratégico** (real, con el banner de upsell justo debajo) → **Alto Rendimiento Teórico** (real) → **teaser del Tablón**. La razón del orden: Acondicionamiento Físico y la gráfica de evolución dependen de que exista al menos un registro de marca, así que el formulario tiene que ir antes.
 
 ## Checkout de Stripe probado de extremo a extremo (relacionado, detalle completo en [02](02-autenticacion-y-pagos.md))
 El CTA del modal de conversión es el mismo botón que se usó para verificar el checkout real por primera vez en el proyecto — ver [02-autenticacion-y-pagos.md](02-autenticacion-y-pagos.md) para el hallazgo del hCaptcha invisible de Stripe y por qué el paso final de "Pagar" no se puede automatizar de principio a fin.

@@ -11,6 +11,7 @@
 - **LangChain 1.x** + `langchain-google-genai` + `google-genai` + `langchain-chroma` + `langchain-community` + `chromadb` + `pypdf` — motor RAG del Tutor IA (ver [04-tutor-ia-y-rag.md](04-tutor-ia-y-rag.md)). **Ya no hay `langchain-openai`, `openai` ni `tiktoken`** — el proyecto migró de OpenAI a Gemini por completo (chat, embeddings, scraper), ver más abajo.
 - **feedparser** + **requests** + **beautifulsoup4** — scraper de boletines oficiales (ver [05-tablon-convocatorias-scraper.md](05-tablon-convocatorias-scraper.md)).
 - **APScheduler** — cron del scraper.
+- **slowapi** (`app/services/rate_limit.py`, añadido 2026-08-02) — rate limiting en `POST /api/pro/chat` (60 peticiones/hora, clave por usuario vía claim `sub` del JWT con fallback a IP) para blindar la cuota de Gemini frente a abuso. Ver [04-tutor-ia-y-rag.md](04-tutor-ia-y-rag.md).
 - **Gemini** (Google AI Studio, `GOOGLE_API_KEY`): `gemini-2.5-flash` (chat/generación) + `models/gemini-embedding-001` (embeddings). **Ojo con el nombre exacto del modelo de embeddings**: `text-embedding-004` ya no existe para esta API/clave (404), y `gemini-embedding-1.0` a secas tampoco es el identificador correcto — es `models/gemini-embedding-001`.
 
 ## Frontend
@@ -72,7 +73,8 @@ backend/
     │   ├── calculo.py                          # motor de puntuacion fisico/teorico
     │   ├── rutinas.py                           # RUTINAS_PRO y TECNICAS_ESTUDIO_PRO (estaticos)
     │   ├── ai_tutor.py                          # RAG: vectorstore, chat, plan de estudio, simulacros
-    │   └── scraper_boletines.py                  # scraper BOE/BOJA + deep scraping + IA
+    │   ├── scraper_boletines.py                  # scraper BOE/BOJA + deep scraping + IA
+    │   └── rate_limit.py                          # limiter de slowapi (import aislado para evitar ciclo main.py<->chat.py)
     └── conocimiento/                              # ~20 PDFs/TXT de temario real + convocatorias
 ```
 

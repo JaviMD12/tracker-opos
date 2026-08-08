@@ -1,6 +1,6 @@
 # Handover — Tracker Analítico de Oposiciones
 
-**Fecha del corte:** 2026-08-02
+**Fecha del corte:** 2026-08-08 (sincronizado sobre el corte original del 2026-08-02 + 14 commits posteriores)
 **Propósito:** punto de entrada único para retomar el proyecto en una sesión nueva sin contexto previo. Sustituye a los antiguos `HANDOVER.md`, `handover_v2.md` y `handover_v3.md` (su contenido está absorbido y actualizado en la estructura de abajo) — si ves alguno de esos tres archivos sueltos en la raíz del repo, son restos de sesiones anteriores, este documento es el que manda.
 
 **Cómo usar este documento:** este archivo es solo el índice. El detalle real vive en `docs/handover/`, dividido por subsistema para que cada sesión pueda cargar solo lo que necesita en vez de un único archivo gigante. Cada archivo enlaza de vuelta aquí arriba y a los demás archivos relacionados — sigue los links en vez de buscar todo en un solo sitio.
@@ -17,7 +17,7 @@
 
 ## Resumen en una frase
 
-SaaS FastAPI + SQLite (local) / Postgres (producción real en VPS) + frontend Vanilla JS para opositores a bombero/emergencias (foco Huelva/Andalucía): auth multitenant con `is_pro` activado por un **webhook real de Stripe** (verificado con un pago de prueba completo de extremo a extremo), dashboard gratuito de rendimiento físico/teórico con heatmap real y **3 componentes de upsell hacia Premium**, y una Zona Premium rediseñada en pestañas (Dashboard/Inicio, Tutor IA a pantalla completa, Simulacros) con **Tutor IA en Gemini + RAG persistido en disco**, **Tablón de Convocatorias scrapeado de BOE/BOJA** (con un bug real de fechas encontrado y corregido, más un blindaje general contra excepciones), y un **banco de 600 preguntas de Simulacro generadas con RAG acotado por tema** — todo protegido de verdad por 403 en el backend, no solo por UI.
+SaaS FastAPI + SQLite (local) / Postgres (producción real en VPS) + frontend Vanilla JS para opositores a bombero/emergencias (foco Huelva/Andalucía): auth multitenant con `is_pro` activado por un **webhook real de Stripe** (verificado con un pago de prueba completo de extremo a extremo), dashboard gratuito de rendimiento físico/teórico (con contenido real de entrenamiento/técnicas de estudio, ya no solo un teaser, más heatmap y **3 componentes de upsell hacia Premium**), y una Zona Premium en 4 pestañas — Tablón de Plazas, Tutor Inteligente 24/7 a pantalla completa, Simulacros y Modo Enfoque — con **Tutor IA en Gemini + RAG persistido en disco** (rate-limited a 60 peticiones/hora), **Tablón de Convocatorias scrapeado de BOE/BOJA** (con un bug real de fechas encontrado y corregido, más un blindaje general contra excepciones), y un **banco de 600 preguntas de Simulacro generadas con RAG acotado por tema** — todo protegido de verdad por 403 en el backend, no solo por UI.
 
 ## Índice
 
@@ -25,20 +25,21 @@ SaaS FastAPI + SQLite (local) / Postgres (producción real en VPS) + frontend Va
 |---|---|
 | [01-stack-y-arquitectura.md](docs/handover/01-stack-y-arquitectura.md) | Stack (Gemini, no OpenAI), estructura de carpetas, **infraestructura real del VPS y flujo de despliegue** |
 | [02-autenticacion-y-pagos.md](docs/handover/02-autenticacion-y-pagos.md) | Auth multitenant, `is_pro` vía webhook real de Stripe, **checkout verificado de extremo a extremo (con el hallazgo del hCaptcha de Stripe)** |
-| [03-rendimiento-fisico-teorico-gamificacion.md](docs/handover/03-rendimiento-fisico-teorico-gamificacion.md) | MarcaFisica/SimulacroTeorico, `Workout` inactivo, heatmap real, Pomodoro, **limpieza de contenido y banner de upsell** |
-| [04-tutor-ia-y-rag.md](docs/handover/04-tutor-ia-y-rag.md) | RAG compartido — **migrado a Gemini**, base de conocimiento ampliada (30+ documentos), **metadata `archivo` nueva para filtrado por tema** |
+| [03-rendimiento-fisico-teorico-gamificacion.md](docs/handover/03-rendimiento-fisico-teorico-gamificacion.md) | MarcaFisica/SimulacroTeorico, `Workout` inactivo, heatmap real, Pomodoro, **Acondicionamiento Físico/Alto Rendimiento Teórico ahora gratis en el Dashboard (ya no Premium)** |
+| [04-tutor-ia-y-rag.md](docs/handover/04-tutor-ia-y-rag.md) | RAG compartido — migrado a Gemini, 38 documentos indexados, metadata `archivo` para filtrado por tema, **rate limiting nuevo, y ⚠️ índice local incompleto por cuota agotada** |
 | [05-tablon-convocatorias-scraper.md](docs/handover/05-tablon-convocatorias-scraper.md) | Scraper BOE/BOJA — **bug real de fechas encontrado/corregido + blindaje general (excepciones, validación de tipos, red de seguridad)** |
-| [06-simulacros-ia.md](docs/handover/06-simulacros-ia.md) | **Reescrito**: banco precargado (no generación en vivo), ahora con **RAG real acotado por tema**, nueva taxonomía de 6 temas, 600 preguntas generadas |
-| [07-deuda-tecnica-y-pendientes.md](docs/handover/07-deuda-tecnica-y-pendientes.md) | **Leer antes de tocar producción** — bloqueantes ordenados por impacto, varios ya resueltos, algunos nuevos añadidos |
+| [06-simulacros-ia.md](docs/handover/06-simulacros-ia.md) | Banco precargado (no generación en vivo), RAG real acotado por tema, 6 temas, 600 preguntas generadas, **copy corregido (ya no "generado por IA")** |
+| [07-deuda-tecnica-y-pendientes.md](docs/handover/07-deuda-tecnica-y-pendientes.md) | **Leer antes de tocar producción** — bloqueantes ordenados por impacto, incluye el índice de Chroma incompleto (nuevo, crítico) |
 | [08-convenciones-de-codigo.md](docs/handover/08-convenciones-de-codigo.md) | Reglas de estilo/estructura + convenciones nuevas de despliegue/Gemini/cuotas |
-| [09-zona-premium-y-upsell.md](docs/handover/09-zona-premium-y-upsell.md) | **Nuevo**: rediseño de la Zona Premium en pestañas (shell `h-dvh`, chat a pantalla completa) + 3 componentes de upsell Free→Premium |
+| [09-zona-premium-y-upsell.md](docs/handover/09-zona-premium-y-upsell.md) | Zona Premium en **4 pestañas** (Tablón/Tutor/Simulacros/**Modo Enfoque**, nuevo), 3 componentes de upsell con copy unificado, Acondicionamiento Físico salió de Premium |
 
 ## Los bloqueantes más urgentes ahora mismo
 
-1. 🔴 **Credenciales reales sin `.gitignore` en la raíz del repo** (`backend/Internal Database URL.txt`, `client_secret_...json`) — **verificado que siguen ahí y siguen trackeadas en git** esta sesión. Sigue siendo el pendiente más crítico, sin resolver. Detalle en [07](docs/handover/07-deuda-tecnica-y-pendientes.md).
-2. 🟠 Login con Google sigue sin probarse en navegador real de extremo a extremo.
-3. 🟠 Portal de Cliente de Stripe (`POST /api/pagos/portal`) sin probar de extremo a extremo (aunque ya se generó un `stripe_customer_id` real durante la prueba de checkout).
-4. 🟠 `WEBHOOK_RECUPERACION_URL` sigue apuntando a webhook.site (no envía emails reales).
+1. 🔴 **Credenciales reales sin `.gitignore` en la raíz del repo** (`backend/Internal Database URL.txt`, `client_secret_...json`) — siguen ahí y siguen trackeadas en git, sin resolver.
+2. 🔴 **Nuevo (2026-08-08): el índice local de Chroma está incompleto** — la reconstrucción tras añadir el BOJA25-032-00076 chocó dos veces con la cuota de embeddings de Gemini (429 RESOURCE_EXHAUSTED) y quedó a medias, sin que la app lo detecte (`_indice_persistido_existe()` solo mira si la carpeta no está vacía). Detalle y arreglo pendiente en [07](docs/handover/07-deuda-tecnica-y-pendientes.md) y [04](docs/handover/04-tutor-ia-y-rag.md). **No reconstruir en el VPS hasta resolver esto en local.**
+3. 🟠 Login con Google sigue sin probarse en navegador real de extremo a extremo.
+4. 🟠 Portal de Cliente de Stripe (`POST /api/pagos/portal`) sin probar de extremo a extremo (aunque ya se generó un `stripe_customer_id` real durante la prueba de checkout).
+5. 🟠 `WEBHOOK_RECUPERACION_URL` sigue apuntando a webhook.site (no envía emails reales).
 
 Ya **no** son bloqueantes (resueltos, con verificación real, no solo "debería funcionar"): `DOMINIO_APP` hardcodeado, despliegue nunca hecho, checkout de Stripe nunca completado con tarjeta real. Detalle completo, incluidos los pendientes menores, en [07](docs/handover/07-deuda-tecnica-y-pendientes.md).
 
