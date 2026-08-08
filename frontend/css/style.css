@@ -1,6 +1,8 @@
 /* Ajustes puntuales que Tailwind (via CDN) no cubre */
 :root {
-  --brand-gradient: var(--brand-gradient);
+  --brand-gradient: linear-gradient(135deg, #ea580c, #f59e0b);
+  --bg-card: #121212;
+  --accent: #f97316;
 }
 
 table td, table th {
@@ -16,9 +18,11 @@ table td, table th {
   color: #f3f4f6; /* gray-100 */
 }
 .nav-view-btn.active {
-  background: var(--brand-gradient); /* orange-600 -> amber-500 */
+  background: var(--brand-gradient);
   color: #ffffff;
-  box-shadow: 0 4px 14px rgba(234, 88, 12, 0.35);
+  /* Sombra de contacto + un resplandor ambiental mas ancho y suave
+     alrededor, para un acento activo con mas presencia. */
+  box-shadow: 0 4px 14px rgba(234, 88, 12, 0.35), 0 0 28px 2px rgba(249, 115, 22, 0.25);
 }
 
 /* ---------- Tabs internos (Fisico / Simulacro Teorico) ---------- */
@@ -57,21 +61,29 @@ table td, table th {
 /* ---------- Inputs de formulario ---------- */
 .field {
   width: 100%;
-  background-color: #111827; /* gray-900 */
-  border: 1px solid #374151; /* gray-700 */
+  background-color: #1f1f1f;
+  border: 1px solid rgba(255, 255, 255, 0.1);
   color: #f3f4f6; /* gray-100 */
-  border-radius: 0.5rem;
-  padding: 0.55rem 0.75rem;
+  border-radius: 0.6rem;
+  padding: 0.6rem 0.85rem;
   font-size: 0.925rem;
-  transition: border-color 0.15s, box-shadow 0.15s;
+  /* color-scheme:dark hace que el icono nativo del <input type="date">
+     se pinte en blanco en vez del negro por defecto -- practicamente
+     invisible sobre un fondo oscuro sin esto. */
+  color-scheme: dark;
+  transition: border-color 0.15s, box-shadow 0.15s, background-color 0.15s;
+}
+.field:hover {
+  border-color: rgba(255, 255, 255, 0.18);
 }
 .field::placeholder {
-  color: #6b7280; /* gray-500 */
+  color: #7a7a7a;
 }
 .field:focus {
   outline: none;
-  border-color: #f59e0b; /* amber-500 */
-  box-shadow: 0 0 0 3px rgba(245, 158, 11, 0.25);
+  border-color: var(--accent);
+  background-color: #232323;
+  box-shadow: 0 0 0 3px rgba(249, 115, 22, 0.2);
 }
 
 /* ---------- Boton principal (submit) ---------- */
@@ -81,13 +93,15 @@ table td, table th {
   font-weight: 600;
   padding: 0.65rem 1rem;
   border-radius: 0.6rem;
-  box-shadow: 0 8px 20px rgba(234, 88, 12, 0.25);
-  transition: filter 0.15s, transform 0.1s;
+  /* Sombra de caida + un filo interior claro arriba, para un relieve
+     sutil de boton "premium" en vez de una superficie plana. */
+  box-shadow: 0 8px 20px rgba(234, 88, 12, 0.25), inset 0 1px 0 rgba(255, 255, 255, 0.18);
+  transition: filter 0.15s, transform 0.1s, box-shadow 0.15s;
 }
 .btn-primary:hover {
   filter: brightness(1.08);
   transform: translateY(-2px);
-  box-shadow: 0 12px 28px rgba(234, 88, 12, 0.4);
+  box-shadow: 0 12px 28px rgba(234, 88, 12, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.18);
 }
 .btn-primary:active {
   transform: translateY(1px);
@@ -903,4 +917,114 @@ table td, table th {
 .btn-google:hover {
   transform: translateY(-1px);
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.35);
+}
+
+/* ---------- Dashboard: tarjetas "premium" (Analista Estrategico Global,
+   formulario de registro, Nota Global Fisica) ---------- */
+.premium-card {
+  background-color: var(--bg-card);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+/* Imagen de fondo como textura muy sutil, fusionada con el color de la
+   tarjeta via mix-blend-mode, en vez de un overlay de gradiente encima
+   de la foto a tamano completo. */
+.textura-imagen {
+  opacity: 0.16;
+  filter: grayscale(70%) contrast(1.05);
+  mix-blend-mode: luminosity;
+  pointer-events: none;
+}
+
+/* ---------- Pestañas del formulario de registro (Fisico / Simulacro
+   Teorico): integradas en la tarjeta con subrayado, no pastillas sueltas
+   flotando encima. Se reutiliza .tab-btn para el listener de JS
+   (querySelectorAll(".tab-btn")), esta clase solo cambia el aspecto. ---------- */
+.tab-btn.dashboard-tab-btn {
+  background: none;
+  color: #9ca3af;
+  padding: 0.65rem 0.25rem;
+  margin-right: 1.5rem;
+  border-radius: 0;
+  border-bottom: 2px solid transparent;
+}
+.tab-btn.dashboard-tab-btn:hover {
+  background: none;
+  color: #e5e7eb;
+}
+.tab-btn.dashboard-tab-btn.active {
+  background: none;
+  color: var(--accent);
+  box-shadow: none;
+  border-bottom-color: var(--accent);
+}
+
+/* ---------- Medidor circular (sustituye las barras lineales de
+   Fisica/Teorica y el numero suelto de Nota Global Fisica) ---------- */
+.metric-module {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.metric-titulo {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #9ca3af;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.6rem;
+}
+.metric-caption {
+  font-size: 0.8rem;
+  color: #9ca3af;
+  margin-top: 0.6rem;
+}
+
+.gauge-circular {
+  position: relative;
+  width: 110px;
+  height: 110px;
+}
+.gauge-circular-lg {
+  width: 140px;
+  height: 140px;
+}
+.gauge-circular svg {
+  width: 100%;
+  height: 100%;
+  transform: rotate(-90deg); /* el trazo empieza arriba, no a las 3 en punto */
+}
+.gauge-track {
+  fill: none;
+  stroke: rgba(255, 255, 255, 0.07);
+  stroke-width: 10;
+}
+.gauge-progress {
+  fill: none;
+  stroke: var(--accent);
+  stroke-width: 10;
+  stroke-linecap: round;
+  /* Circunferencia de un circulo r=52: 2*PI*52 ~= 326.73. dashoffset al
+     mismo valor = 0% de trazo visible; el JS lo reduce segun el
+     porcentaje real (ver actualizarGaugeCircular() en main.js). */
+  stroke-dasharray: 326.73;
+  stroke-dashoffset: 326.73;
+  transition: stroke-dashoffset 0.6s ease;
+  filter: drop-shadow(0 0 6px rgba(249, 115, 22, 0.45));
+}
+.gauge-label {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gauge-value {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+.gauge-value-lg {
+  font-size: 1.5rem;
+  white-space: nowrap;
 }

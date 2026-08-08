@@ -256,8 +256,21 @@ const dashboardNotaTotalEl = document.getElementById("dashboard-nota-total");
 const dashboardNotaFisicaEl = document.getElementById("dashboard-nota-fisica");
 const dashboardNotaTeoricaEl = document.getElementById("dashboard-nota-teorica");
 const dashboardVeredictoEl = document.getElementById("dashboard-veredicto");
-const barraFisicaEl = document.getElementById("barra-fisica");
-const barraTeoricaEl = document.getElementById("barra-teorica");
+const gaugeFisicaProgressEl = document.getElementById("gauge-fisica-progress");
+const gaugeFisicaValorEl = document.getElementById("gauge-fisica-valor");
+const gaugeTeoricaProgressEl = document.getElementById("gauge-teorica-progress");
+const gaugeTeoricaValorEl = document.getElementById("gauge-teorica-valor");
+const gaugeNotaGlobalProgressEl = document.getElementById("gauge-notaglobal-progress");
+
+// Circunferencia de un circulo r=52 (ver .gauge-progress en style.css):
+// 2 * PI * 52 ~= 326.73. offset = circunferencia entero es 0% de trazo
+// visible; restarle el porcentaje real revela el arco correspondiente.
+const GAUGE_CIRCUNFERENCIA = 326.73;
+function actualizarGaugeCircular(circuloEl, porcentaje) {
+  if (!circuloEl) return;
+  const clamped = Math.max(0, Math.min(1, porcentaje || 0));
+  circuloEl.style.strokeDashoffset = String(GAUGE_CIRCUNFERENCIA * (1 - clamped));
+}
 
 const tabButtons = document.querySelectorAll(".tab-btn");
 const tabPanels = {
@@ -1129,6 +1142,7 @@ function pintarResultado(data) {
   resultadoBox.classList.remove("hidden");
   notaGlobalEl.textContent = `${data.nota_global.toFixed(2)} / 10`;
   ultimaFechaEl.textContent = `Registrado el ${data.marca.fecha}`;
+  actualizarGaugeCircular(gaugeNotaGlobalProgressEl, data.nota_global / 10);
 
   bannerUpsellEntrenamiento?.classList.toggle("hidden", proEstaDesbloqueado());
 }
@@ -1154,8 +1168,10 @@ async function cargarDashboardGlobal() {
       : "Sin datos";
     dashboardVeredictoEl.textContent = data.veredicto;
 
-    barraFisicaEl.style.width = data.nota_fisica ? `${data.nota_fisica.porcentaje * 100}%` : "0%";
-    barraTeoricaEl.style.width = data.nota_teorica ? `${data.nota_teorica.porcentaje * 100}%` : "0%";
+    gaugeFisicaValorEl.textContent = data.nota_fisica ? data.nota_fisica.valor.toFixed(2) : "--";
+    gaugeTeoricaValorEl.textContent = data.nota_teorica ? data.nota_teorica.valor.toFixed(2) : "--";
+    actualizarGaugeCircular(gaugeFisicaProgressEl, data.nota_fisica?.porcentaje);
+    actualizarGaugeCircular(gaugeTeoricaProgressEl, data.nota_teorica?.porcentaje);
   } catch (err) {
     console.error("No se pudo cargar el dashboard global", err);
   }
