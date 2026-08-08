@@ -1,4 +1,8 @@
 /* Ajustes puntuales que Tailwind (via CDN) no cubre */
+:root {
+  --brand-gradient: var(--brand-gradient);
+}
+
 table td, table th {
   padding-right: 0.75rem;
 }
@@ -12,7 +16,7 @@ table td, table th {
   color: #f3f4f6; /* gray-100 */
 }
 .nav-view-btn.active {
-  background: linear-gradient(to right, #ea580c, #f59e0b); /* orange-600 -> amber-500 */
+  background: var(--brand-gradient); /* orange-600 -> amber-500 */
   color: #ffffff;
   box-shadow: 0 4px 14px rgba(234, 88, 12, 0.35);
 }
@@ -26,7 +30,7 @@ table td, table th {
   color: #e5e7eb; /* gray-200 */
 }
 .tab-btn.active {
-  background: linear-gradient(to right, #ea580c, #f59e0b);
+  background: var(--brand-gradient);
   color: #ffffff;
   box-shadow: 0 4px 14px rgba(234, 88, 12, 0.3);
 }
@@ -72,7 +76,7 @@ table td, table th {
 
 /* ---------- Boton principal (submit) ---------- */
 .btn-primary {
-  background: linear-gradient(to right, #ea580c, #f59e0b);
+  background: var(--brand-gradient);
   color: #ffffff;
   font-weight: 600;
   padding: 0.65rem 1rem;
@@ -82,6 +86,8 @@ table td, table th {
 }
 .btn-primary:hover {
   filter: brightness(1.08);
+  transform: translateY(-2px);
+  box-shadow: 0 12px 28px rgba(234, 88, 12, 0.4);
 }
 .btn-primary:active {
   transform: translateY(1px);
@@ -141,7 +147,7 @@ table td, table th {
   font-size: 0.7rem;
   font-weight: 700;
   color: #ffffff;
-  background: linear-gradient(135deg, #ea580c, #f59e0b);
+  background: var(--brand-gradient);
 }
 
 .link-boe {
@@ -245,7 +251,7 @@ table td, table th {
   width: 2.25rem;
   height: 2.25rem;
   border-radius: 9999px;
-  background: linear-gradient(135deg, #ea580c, #f59e0b);
+  background: var(--brand-gradient);
   color: #ffffff;
   font-weight: 700;
   font-size: 0.85rem;
@@ -347,7 +353,7 @@ table td, table th {
   font-weight: 700;
   font-size: 0.85rem;
   color: #ffffff;
-  background: linear-gradient(135deg, #ea580c, #f59e0b);
+  background: var(--brand-gradient);
   box-shadow: 0 4px 12px rgba(234, 88, 12, 0.35);
 }
 
@@ -664,7 +670,7 @@ table td, table th {
   border-top-left-radius: 0.2rem;
 }
 .chat-bubble-usuario .chat-texto {
-  background: linear-gradient(135deg, #ea580c, #f59e0b);
+  background: var(--brand-gradient);
   color: #ffffff;
   border-top-right-radius: 0.2rem;
 }
@@ -825,4 +831,76 @@ table td, table th {
   #timer-display {
     font-size: 4.5rem;
   }
+}
+
+/* ---------- Pantalla de acceso (login/registro) ---------- */
+/* Resplandor ambiental sutil detras del panel de formulario: dos manchas
+   de luz muy difuminadas (naranja de marca + azul frio de contraste), no
+   interactivas, para dar profundidad al fondo plano sin distraer de los
+   forms. */
+#auth-gate {
+  position: relative;
+  overflow: hidden;
+  background-color: #030712; /* gray-950 */
+}
+/* No se usa la clase .hidden de Tailwind aqui: style.css la define con
+   !important (ver mas abajo), lo que pisaria cualquier lg:flex y rompería
+   el panel de imagen en desktop. Visibilidad propia, sin colisionar. */
+.auth-image-panel {
+  display: none;
+}
+@media (min-width: 1024px) {
+  .auth-image-panel {
+    display: flex;
+  }
+}
+#auth-gate::before,
+#auth-gate::after {
+  content: "";
+  position: absolute;
+  width: 45rem;
+  height: 45rem;
+  border-radius: 9999px;
+  filter: blur(120px);
+  pointer-events: none;
+  z-index: 0;
+}
+#auth-gate::before {
+  background: rgba(234, 88, 12, 0.18);
+  top: -15rem;
+  right: -10rem;
+}
+#auth-gate::after {
+  background: rgba(59, 130, 246, 0.12); /* azul frio, contraste con el naranja */
+  bottom: -15rem;
+  left: -10rem;
+}
+
+/* Entrada suave de la card de login/registro, en vez de aparecer de golpe */
+@keyframes auth-card-entrada {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.auth-card-entrada {
+  position: relative;
+  z-index: 1;
+  animation: auth-card-entrada 0.5s ease-out;
+}
+
+/* Boton "Continuar con Google": integrado con el resto del look oscuro/glow
+   en vez de un pill blanco plano sin sombra ni borde. */
+.btn-google {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+  transition: transform 0.15s, box-shadow 0.15s, background-color 0.15s;
+}
+.btn-google:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.35);
 }

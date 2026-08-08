@@ -15,8 +15,28 @@
 <body class="bg-gray-950 text-gray-100 min-h-screen">
 
   <!-- ============ PANTALLA DE ACCESO (Login / Registro) ============ -->
-  <div id="auth-gate" class="min-h-screen w-full flex items-center justify-center p-6">
-    <div class="w-full max-w-sm bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-8">
+  <div id="auth-gate" class="min-h-screen w-full flex">
+    <!-- Panel de marca: solo desktop, reutiliza la misma imagen que el Dashboard -->
+    <div class="auth-image-panel lg:w-1/2 relative overflow-hidden">
+      <img src="https://images.unsplash.com/photo-1634468413956-831adf9d5a06?q=80&w=1600&auto=format&fit=crop"
+           alt="Bombero entrenando frente al fuego" class="absolute inset-0 w-full h-full object-cover" />
+      <div class="absolute inset-0 bg-gradient-to-t from-gray-950 via-gray-950/70 to-gray-950/20"></div>
+      <div class="relative z-10 flex flex-col justify-end p-12">
+        <div class="w-12 h-12 rounded-xl overflow-hidden mb-6 shadow-lg shadow-orange-900/40">
+          <img src="img/logo.png" alt="Tracker Oposiciones" class="w-full h-full object-cover" />
+        </div>
+        <h2 class="text-3xl font-bold text-white leading-tight mb-3">
+          Prepara tu plaza de<br />bombero con datos, no con intuición.
+        </h2>
+        <p class="text-gray-300 text-sm max-w-md">
+          Rendimiento físico y teórico, convocatorias reales de BOE/BOJA y un tutor con IA entrenado en tu temario.
+        </p>
+      </div>
+    </div>
+
+    <!-- Panel de formulario -->
+    <div class="w-full lg:w-1/2 flex items-center justify-center p-6">
+    <div class="w-full max-w-sm bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-8 auth-card-entrada">
       <div class="flex items-center gap-3 mb-6">
         <div class="w-9 h-9 rounded-lg overflow-hidden flex-shrink-0 shadow-lg shadow-orange-900/40">
           <img src="img/logo.png" alt="Tracker Oposiciones" class="w-full h-full object-cover" />
@@ -28,7 +48,7 @@
       </div>
 
       <a href="/api/auth/google/login"
-         class="w-full flex items-center justify-center gap-2 bg-white text-gray-800 font-medium rounded-lg py-2.5 text-sm hover:bg-gray-100 transition mb-4">
+         class="btn-google w-full flex items-center justify-center gap-2 bg-white text-gray-800 font-medium rounded-lg py-2.5 text-sm hover:bg-gray-100 transition mb-4">
         <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" viewBox="0 0 24 24">
           <path fill="#4285F4" d="M23.52 12.27c0-.85-.08-1.67-.22-2.45H12v4.64h6.47a5.53 5.53 0 0 1-2.4 3.63v3h3.88c2.27-2.09 3.57-5.17 3.57-8.82Z"/>
           <path fill="#34A853" d="M12 24c3.24 0 5.96-1.07 7.95-2.91l-3.88-3c-1.08.72-2.46 1.15-4.07 1.15-3.13 0-5.78-2.11-6.73-4.96H1.27v3.09A12 12 0 0 0 12 24Z"/>
@@ -108,6 +128,7 @@
         <p id="reset-error" class="text-sm text-red-400 hidden"></p>
         <button type="submit" class="btn-primary w-full">Guardar nueva contraseña</button>
       </form>
+    </div>
     </div>
   </div>
 
