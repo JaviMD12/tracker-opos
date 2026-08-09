@@ -361,48 +361,6 @@ const premiumSubviews = {
   enfoque: document.getElementById("premium-view-enfoque"),
 };
 
-// ---------- Diagnostico temporal (solo con ?debug=1 en la URL) ----------
-// Caja fija abajo con medidas reales del dispositivo. Se actualiza sola en
-// cada resize del visualViewport (eso es exactamente cuando el teclado de
-// iOS abre/cierra), asi que captura el "antes" y el "despues" sin que haga
-// falta re-tocar nada. De quitar en cuanto se localice el bug real.
-function actualizarDiagnosticoMovil() {
-  if (!new URLSearchParams(window.location.search).has("debug")) return;
-  const medir = (sel) => {
-    const el = document.querySelector(sel);
-    if (!el) return `${sel}: NO ENCONTRADO`;
-    const r = el.getBoundingClientRect();
-    const cs = getComputedStyle(el);
-    return `${sel}: top=${Math.round(r.top)} w=${Math.round(r.width)} h=${Math.round(r.height)} disp=${cs.display} fs=${cs.fontSize}`;
-  };
-  const datos = ["aside", "#premium-view-tutor", "#chat-mensajes", ".chat-input-row", "#chat-input"].map(medir);
-  const vv = window.visualViewport;
-  datos.push(
-    `innerW=${window.innerWidth} innerH=${window.innerHeight} scrollW=${document.documentElement.scrollWidth}`,
-    `vvW=${vv ? Math.round(vv.width) : "n/a"} vvH=${vv ? Math.round(vv.height) : "n/a"} vvScale=${vv ? vv.scale.toFixed(2) : "n/a"} vvOffsetTop=${vv ? Math.round(vv.offsetTop) : "n/a"}`,
-    `scrollY=${Math.round(window.scrollY)} bodyScrollTop=${Math.round(document.body.scrollTop)} htmlScrollTop=${Math.round(document.documentElement.scrollTop)}`,
-    `activeElement=${document.activeElement ? document.activeElement.id || document.activeElement.tagName : "ninguno"}`
-  );
-
-  let caja = document.getElementById("caja-diagnostico-movil");
-  if (!caja) {
-    caja = document.createElement("div");
-    caja.id = "caja-diagnostico-movil";
-    caja.style.cssText =
-      "position:fixed;bottom:0;left:0;right:0;z-index:9999;background:#000;color:#0f0;font-size:9px;font-family:monospace;padding:8px;white-space:pre-wrap;max-height:45vh;overflow-y:auto;";
-    document.body.appendChild(caja);
-  }
-  caja.textContent = datos.join("\n");
-}
-if (window.visualViewport) {
-  window.visualViewport.addEventListener("resize", actualizarDiagnosticoMovil);
-}
-// Nota: no se usa la variable "chatInput" aqui a proposito -- se declara
-// mas abajo en el archivo (seccion Tutor IA) y esta parte del script se
-// ejecuta antes de llegar a esa linea (temporal dead zone de "const").
-document.getElementById("chat-input")?.addEventListener("focus", () => setTimeout(actualizarDiagnosticoMovil, 400));
-document.getElementById("chat-input")?.addEventListener("blur", () => setTimeout(actualizarDiagnosticoMovil, 400));
-
 function activarVistaPremium(nombre) {
   premiumTabButtons.forEach((btn) => {
     btn.classList.toggle("active", btn.dataset.premiumView === nombre);
@@ -411,7 +369,6 @@ function activarVistaPremium(nombre) {
     el.classList.toggle("hidden", nombreVista !== nombre);
   });
   if (nombre === "tutor") {
-    setTimeout(actualizarDiagnosticoMovil, 300);
     chatInput?.focus();
   }
 }
