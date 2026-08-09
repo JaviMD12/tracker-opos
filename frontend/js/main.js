@@ -319,6 +319,32 @@ navButtons.forEach((btn) => {
   btn.addEventListener("click", () => activarVista(btn.dataset.view));
 });
 
+// ---------- Menu movil (hamburguesa) ----------
+// Por debajo de lg, #sidebar-nav esta oculto por defecto (clase "hidden" en
+// index.html) porque los 4 botones del sidebar no caben como fila
+// horizontal. Este boton lo despliega como un desplegable a pantalla
+// completa bajo la cabecera; en lg+ no hace nada (lg:flex del propio nav ya
+// lo mantiene siempre visible, este botón esta oculto ahi con "lg:hidden").
+const btnMenuMovil = document.getElementById("btn-menu-movil");
+const sidebarNav = document.getElementById("sidebar-nav");
+
+function cerrarMenuMovil() {
+  sidebarNav.classList.add("hidden");
+  btnMenuMovil?.setAttribute("aria-expanded", "false");
+}
+
+btnMenuMovil?.addEventListener("click", () => {
+  const seVaAAbrir = sidebarNav.classList.contains("hidden");
+  sidebarNav.classList.toggle("hidden");
+  btnMenuMovil.setAttribute("aria-expanded", String(seVaAAbrir));
+});
+
+// Elegir cualquier opcion (incluido "Cerrar sesion") cierra el menu: sin
+// esto, en movil el desplegable se quedaria abierto tapando la vista nueva.
+sidebarNav?.addEventListener("click", (event) => {
+  if (event.target.closest("button")) cerrarMenuMovil();
+});
+
 // ---------- Zona Premium: sub-navegacion (Inicio / Tutor IA / Simulacros) ----------
 // Un segundo nivel de pestañas, solo dentro de la Zona Premium: antes las tres
 // herramientas (grafica+entrenamiento+tecnicas+tablon, chat del Tutor IA,

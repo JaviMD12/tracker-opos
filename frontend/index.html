@@ -161,16 +161,32 @@
 
   <!-- Sidebar / nav principal -->
   <aside class="lg:w-72 lg:min-h-screen bg-gray-900 border-b lg:border-b-0 lg:border-r border-gray-800 flex-shrink-0">
-    <div class="px-6 py-5 border-b border-gray-800 flex items-center gap-3">
-      <div class="w-9 h-9 rounded-lg overflow-hidden flex-shrink-0 shadow-lg shadow-orange-900/40">
-        <img src="img/logo.png" alt="Tracker Oposiciones" class="w-full h-full object-cover" />
+    <div class="px-6 py-5 border-b border-gray-800 flex items-center justify-between gap-3">
+      <div class="flex items-center gap-3 min-w-0">
+        <div class="w-9 h-9 rounded-lg overflow-hidden flex-shrink-0 shadow-lg shadow-orange-900/40">
+          <img src="img/logo.png" alt="Tracker Oposiciones" class="w-full h-full object-cover" />
+        </div>
+        <div class="min-w-0">
+          <h1 class="text-sm font-semibold leading-tight text-white">Tracker Oposiciones</h1>
+          <p class="text-gray-500 text-xs mt-0.5">Bombero / cuerpos operativos</p>
+        </div>
       </div>
-      <div>
-        <h1 class="text-sm font-semibold leading-tight text-white">Tracker Oposiciones</h1>
-        <p class="text-gray-500 text-xs mt-0.5">Bombero / cuerpos operativos</p>
-      </div>
+      <!-- Boton hamburguesa: por debajo de lg, los 4 botones del menu
+           (Dashboard/Guia/Premium/Cerrar sesion) no caben como fila
+           horizontal -- se salian de la pantalla (Zona Premium y Cerrar
+           sesion quedaban fuera del viewport, intocables). En lg+ el sidebar
+           vuelve a ser siempre visible y este boton se oculta del todo. -->
+      <button type="button" id="btn-menu-movil" aria-label="Abrir menú" aria-expanded="false" aria-controls="sidebar-nav"
+              class="lg:hidden flex-shrink-0 w-11 h-11 flex items-center justify-center rounded-lg border border-gray-700 text-gray-300 hover:text-white hover:border-gray-600 transition">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5M3.75 17.25h16.5" />
+        </svg>
+      </button>
     </div>
-    <nav class="p-3 flex lg:flex-col gap-1">
+    <!-- Cerrado por defecto en movil (hidden); lg:flex lo fuerza siempre
+         visible en escritorio pase lo que pase con la clase "hidden" (el
+         boton de arriba nunca la toca por encima de lg). -->
+    <nav id="sidebar-nav" class="hidden lg:flex p-3 lg:flex-col gap-1">
       <button type="button" data-view="dashboard"
               class="nav-view-btn active flex items-center gap-3 w-full px-4 py-3 rounded-xl text-sm font-medium transition">
         <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
@@ -985,7 +1001,7 @@
     <div id="modal-paywall-backdrop" class="absolute inset-0 bg-black/70 backdrop-blur-sm"></div>
     <div class="modal-paywall-panel relative bg-gray-900 border border-gray-700 rounded-2xl shadow-2xl max-w-md w-full p-8 text-center">
       <button type="button" id="btn-cerrar-modal-paywall" aria-label="Cerrar"
-              class="absolute top-4 right-4 text-gray-500 hover:text-white transition">
+              class="absolute top-2 right-2 p-3 text-gray-500 hover:text-white transition">
         <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
           <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
         </svg>
