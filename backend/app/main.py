@@ -1,3 +1,4 @@
+import os
 from datetime import timedelta
 from pathlib import Path
 
@@ -10,10 +11,12 @@ load_dotenv(Path(__file__).resolve().parent.parent / ".env")
 from apscheduler.schedulers.background import BackgroundScheduler  # noqa: E402
 from apscheduler.triggers.cron import CronTrigger  # noqa: E402
 from fastapi import FastAPI, Request  # noqa: E402
+from fastapi.middleware.cors import CORSMiddleware  # noqa: E402
 from fastapi.responses import JSONResponse  # noqa: E402
 from fastapi.staticfiles import StaticFiles  # noqa: E402
 from slowapi.errors import RateLimitExceeded  # noqa: E402
 from sqlalchemy import inspect, text  # noqa: E402
+from starlette.middleware.base import BaseHTTPMiddleware  # noqa: E402
 from starlette.middleware.sessions import SessionMiddleware  # noqa: E402
 
 from app.database import Base, SessionLocal, engine  # noqa: E402
@@ -89,6 +92,48 @@ _backfill_fecha_limite_convocatorias()
 
 app = FastAPI(title="Tracker Analitico de Oposiciones")
 
+# CORS: reusa DOMINIO_APP (mismo patron que auth.py/pagos.py) en vez de una
+# variable nueva. El frontend se sirve desde este mismo FastAPI (StaticFiles
+# mas abajo), asi que las llamadas normales ya son same-origin; esto es
+# defensa explicita para que ninguna otra web pueda leer las respuestas de la
+# API desde el navegador de un usuario. Nunca "*" junto con
+# allow_credentials=True -- los navegadores lo rechazan directamente por
+# spec, y aqui hace falta True porque el login con Google usa la cookie de
+# SessionMiddleware de abajo.
+DOMINIO_APP = os.environ.get("DOMINIO_APP", "https://opotracker.tech")
+# .rstrip("/"): DOMINIO_APP se usa en otros sitios (auth.py, pagos.py) con
+# una barra final incluida via f"{DOMINIO_APP}/?..." -- pero un origen CORS
+# nunca lleva barra final ("https://x.com/" no matchea nunca el Origin real
+# que manda el navegador, que siempre es "https://x.com"). Bug real
+# encontrado en pruebas locales: con la barra puesta, ninguna peticion
+# cross-origin recibia jamas el header Access-Control-Allow-Origin.
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[DOMINIO_APP.rstrip("/")],
+    allow_credentials=True,
+    allow_methods=["GET", "POST", "PUT", "DELETE"],
+    allow_headers=["Authorization", "Content-Type"],
+)
+
+# Limite de tamano de peticion (defensa en profundidad): nginx ya corta esto
+# antes de que llegue a Python de verdad (client_max_body_size en el VPS),
+# pero esta capa cubre el caso de correr detras de otro proxy sin ese limite,
+# o si nginx se reconfigura mal algun dia. Solo mira Content-Length -- no
+# protege contra un body chunked que mienta esa cabecera, para eso nginx es
+# quien de verdad corta la conexion a nivel de red.
+MAX_BODY_BYTES = 2 * 1024 * 1024  # 2MB, generoso para chat/formularios
+
+
+class LimiteTamanoBody(BaseHTTPMiddleware):
+    async def dispatch(self, request: Request, call_next):
+        content_length = request.headers.get("content-length")
+        if content_length and int(content_length) > MAX_BODY_BYTES:
+            return JSONResponse(status_code=413, content={"detail": "Petición demasiado grande."})
+        return await call_next(request)
+
+
+app.add_middleware(LimiteTamanoBody)
+
 # Requerido por Authlib para guardar el state/nonce del login con Google entre
 # la redireccion a accounts.google.com y la vuelta a /api/auth/google/callback.
 # https_only=True: en produccion siempre se sirve por HTTPS (detras del
@@ -160,6 +205,21 @@ def iniciar_scheduler_boletines():
 @app.on_event("shutdown")
 def detener_scheduler_boletines():
     scheduler.shutdown(wait=False)
+
+
+@app.middleware("http")
+async def cabeceras_seguridad(request: Request, call_next):
+    response = await call_next(request)
+    response.headers["X-Content-Type-Options"] = "nosniff"
+    response.headers["X-Frame-Options"] = "DENY"
+    response.headers["Referrer-Policy"] = "strict-origin-when-cross-origin"
+    response.headers["Permissions-Policy"] = "geolocation=(), microphone=(), camera=()"
+    # HSTS solo tiene sentido porque SIEMPRE se sirve por HTTPS (detras de
+    # nginx en el VPS) -- si esto se ejecutara alguna vez solo en HTTP puro
+    # (dev local sin proxy), la cabecera no hace nada malo, el navegador
+    # simplemente la ignora fuera de HTTPS.
+    response.headers["Strict-Transport-Security"] = "max-age=63072000; includeSubDomains"
+    return response
 
 
 @app.middleware("http")

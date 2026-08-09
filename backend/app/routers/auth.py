@@ -12,6 +12,7 @@ from sqlalchemy.orm import Session
 from app.database import get_db
 from app.models.usuario import Usuario
 from app.schemas import Token, UsuarioCreate, UsuarioOut
+from app.services.rate_limit import limiter
 from app.services.security import (
     create_access_token,
     generar_token_reset,
@@ -28,7 +29,8 @@ WEBHOOK_RECUPERACION_URL = os.environ.get("WEBHOOK_RECUPERACION_URL")
 
 
 @router.post("/registro", response_model=UsuarioOut, status_code=status.HTTP_201_CREATED)
-def registrar_usuario(payload: UsuarioCreate, db: Session = Depends(get_db)):
+@limiter.limit("10/hour")
+def registrar_usuario(request: Request, payload: UsuarioCreate, db: Session = Depends(get_db)):
     ya_existe = db.query(Usuario).filter(Usuario.email == payload.email).first()
     if ya_existe is not None:
         raise HTTPException(status_code=400, detail="Ya existe un usuario con ese email")
@@ -44,7 +46,10 @@ def registrar_usuario(payload: UsuarioCreate, db: Session = Depends(get_db)):
 
 
 @router.post("/login", response_model=Token)
-def login(form_data: OAuth2PasswordRequestForm = Depends(), db: Session = Depends(get_db)):
+@limiter.limit("10/minute")
+def login(
+    request: Request, form_data: OAuth2PasswordRequestForm = Depends(), db: Session = Depends(get_db)
+):
     usuario = db.query(Usuario).filter(Usuario.email == form_data.username).first()
     if usuario is None or not verify_password(form_data.password, usuario.hashed_password):
         raise HTTPException(
@@ -118,7 +123,8 @@ MENSAJE_GENERICO_OLVIDO = (
 
 
 @router.post("/olvido-password")
-async def olvido_password(payload: OlvidoPasswordIn, db: Session = Depends(get_db)):
+@limiter.limit("5/hour")
+async def olvido_password(request: Request, payload: OlvidoPasswordIn, db: Session = Depends(get_db)):
     """Siempre responde con el mismo mensaje generico, exista o no el email,
     para no revelar que cuentas estan registradas (enumeration attack)."""
     usuario = db.query(Usuario).filter(Usuario.email == payload.email).first()

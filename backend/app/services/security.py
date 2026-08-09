@@ -21,6 +21,11 @@ from app.database import get_db
 from app.models.usuario import Usuario
 
 SECRET_KEY = os.environ.get("SECRET_KEY")
+if not SECRET_KEY or len(SECRET_KEY) < 32:
+    raise RuntimeError(
+        "SECRET_KEY no esta definida o es demasiado corta (minimo 32 caracteres). "
+        'Genera una con: python -c "import secrets; print(secrets.token_urlsafe(48))"'
+    )
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 60 * 24 * 7  # 1 semana
 
@@ -71,8 +76,8 @@ def verify_password(password_plano: str, password_hasheada: str) -> bool:
 
 def create_access_token(data: dict) -> str:
     datos = data.copy()
-    expira = datetime.now(timezone.utc) + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)
-    datos.update({"exp": expira})
+    ahora = datetime.now(timezone.utc)
+    datos.update({"exp": ahora + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES), "iat": ahora})
     return jwt.encode(datos, SECRET_KEY, algorithm=ALGORITHM)
 
 
