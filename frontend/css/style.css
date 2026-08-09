@@ -66,7 +66,13 @@ table td, table th {
   color: #f3f4f6; /* gray-100 */
   border-radius: 0.6rem;
   padding: 0.6rem 0.85rem;
-  font-size: 0.925rem;
+  /* 16px en vez de los 0.925rem (~14.8px) de antes: por debajo de 16px,
+     iOS Safari hace zoom automatico de toda la pagina al enfocar el campo
+     -- bug real diagnosticado con datos reales de un iPhone (innerWidth
+     363 vs scrollWidth 393 tras tocar el input del chat), el zoom se
+     queda "pegado" tras cerrar el teclado y descuadra toda la pantalla.
+     16px es el minimo que evita el zoom en WebKit/iOS. */
+  font-size: 16px;
   /* color-scheme:dark hace que el icono nativo del <input type="date">
      se pinte en blanco en vez del negro por defecto -- practicamente
      invisible sobre un fondo oscuro sin esto. */
