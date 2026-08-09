@@ -361,6 +361,43 @@ const premiumSubviews = {
   enfoque: document.getElementById("premium-view-enfoque"),
 };
 
+// ---------- Diagnostico temporal (solo con ?debug=1 en la URL) ----------
+// Caja fija abajo con medidas reales del dispositivo, para diagnosticar un
+// bug de layout reportado en Safari/iOS que no se reproduce en Chromium
+// (el navegador de pruebas). De quitar en cuanto se localice el bug real.
+function mostrarDiagnosticoMovil() {
+  if (!new URLSearchParams(window.location.search).has("debug")) return;
+  const medir = (sel) => {
+    const el = document.querySelector(sel);
+    if (!el) return `${sel}: NO ENCONTRADO`;
+    const r = el.getBoundingClientRect();
+    const cs = getComputedStyle(el);
+    return `${sel}: top=${Math.round(r.top)} left=${Math.round(r.left)} w=${Math.round(r.width)} h=${Math.round(r.height)} display=${cs.display}`;
+  };
+  const datos = [
+    "aside",
+    "#sidebar-nav",
+    "#premium-view-tutor",
+    "#tour-tutor",
+    "#chat-mensajes",
+    ".chat-input-row",
+    "#btn-menu-movil",
+  ].map(medir);
+  datos.push(
+    `innerW=${window.innerWidth} innerH=${window.innerHeight} scrollW=${document.documentElement.scrollWidth} vvW=${window.visualViewport ? Math.round(window.visualViewport.width) : "n/a"}`
+  );
+
+  let caja = document.getElementById("caja-diagnostico-movil");
+  if (!caja) {
+    caja = document.createElement("div");
+    caja.id = "caja-diagnostico-movil";
+    caja.style.cssText =
+      "position:fixed;bottom:0;left:0;right:0;z-index:9999;background:#000;color:#0f0;font-size:9px;font-family:monospace;padding:8px;white-space:pre-wrap;max-height:45vh;overflow-y:auto;";
+    document.body.appendChild(caja);
+  }
+  caja.textContent = datos.join("\n");
+}
+
 function activarVistaPremium(nombre) {
   premiumTabButtons.forEach((btn) => {
     btn.classList.toggle("active", btn.dataset.premiumView === nombre);
@@ -370,6 +407,7 @@ function activarVistaPremium(nombre) {
   });
   if (nombre === "tutor") {
     chatInput?.focus();
+    setTimeout(mostrarDiagnosticoMovil, 300);
   }
 }
 
