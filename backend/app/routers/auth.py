@@ -1,9 +1,11 @@
 import os
 import secrets
+import smtplib
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
 
-import httpx
 from authlib.integrations.starlette_client import OAuthError
-from fastapi import APIRouter, Depends, HTTPException, Request, status
+from fastapi import APIRouter, BackgroundTasks, Depends, HTTPException, Request, status
 from fastapi.responses import RedirectResponse
 from fastapi.security import OAuth2PasswordRequestForm
 from pydantic import BaseModel, Field
@@ -25,7 +27,6 @@ from app.services.security import (
 router = APIRouter(prefix="/api/auth", tags=["auth"])
 
 DOMINIO_APP = os.environ.get("DOMINIO_APP", "https://opotracker.tech")
-WEBHOOK_RECUPERACION_URL = os.environ.get("WEBHOOK_RECUPERACION_URL")
 
 
 @router.post("/registro", response_model=UsuarioOut, status_code=status.HTTP_201_CREATED)
@@ -105,7 +106,7 @@ async def google_callback(request: Request, db: Session = Depends(get_db)):
     return RedirectResponse(url=f"{DOMINIO_APP}/?token={access_token}")
 
 
-# ---------- Recuperacion de contraseña (webhook) ----------
+# ---------- Recuperacion de contraseña (email real via Gmail SMTP) ----------
 
 
 class OlvidoPasswordIn(BaseModel):
@@ -122,26 +123,87 @@ MENSAJE_GENERICO_OLVIDO = (
 )
 
 
+def _enviar_email_recuperacion(destinatario: str, link: str) -> None:
+    """Se ejecuta en un BackgroundTask, ya con la respuesta HTTP enviada al
+    usuario -- mismo patron que routers/contacto.py::_enviar_email_sugerencia,
+    reusando las mismas variables SMTP_* del .env (antes esto usaba un
+    webhook generico que apuntaba a webhook.site y no mandaba nada real).
+    Si falla, no hay forma de avisar al usuario sin romper la proteccion
+    anti-enumeracion (el mensaje de la ruta ya se envio y es siempre
+    generico); el fallo solo queda en el log del servidor."""
+    smtp_server = os.environ.get("SMTP_SERVER")
+    smtp_port = os.environ.get("SMTP_PORT")
+    smtp_user = os.environ.get("SMTP_USER")
+    smtp_password = os.environ.get("SMTP_PASSWORD")
+
+    if not all([smtp_server, smtp_port, smtp_user, smtp_password]):
+        print("[olvido-password] SMTP no configurado en .env, no se envia el email de recuperacion.")
+        return
+
+    correo = MIMEMultipart("alternative")
+    correo["From"] = smtp_user
+    correo["To"] = destinatario
+    correo["Subject"] = "Recupera tu contraseña - Tracker Oposiciones"
+
+    texto_plano = (
+        "Has solicitado recuperar tu contraseña en Tracker Oposiciones.\n\n"
+        f"Abre este enlace para elegir una nueva (caduca en 15 minutos):\n{link}\n\n"
+        "Si no has sido tú, ignora este correo: tu contraseña actual sigue funcionando."
+    )
+    # Estilo alineado con el acento naranja/ambar de la app (ver
+    # frontend/css/style.css, --brand-gradient) para que el correo no
+    # parezca ajeno al resto del producto.
+    html = f"""\
+    <div style="font-family: Arial, sans-serif; background-color: #0f172a; padding: 32px; color: #e5e7eb;">
+      <div style="max-width: 480px; margin: 0 auto; background-color: #1e293b; border-radius: 16px; padding: 32px; border: 1px solid #334155;">
+        <h1 style="color: #ffffff; font-size: 20px; margin: 0 0 16px;">Tracker Oposiciones</h1>
+        <p style="font-size: 14px; line-height: 1.6; margin: 0 0 20px;">
+          Has solicitado recuperar tu contraseña. Pulsa el siguiente botón para elegir una nueva
+          &mdash; el enlace caduca en <strong>15 minutos</strong>.
+        </p>
+        <a href="{link}"
+           style="display: inline-block; background: linear-gradient(135deg, #F97316, #F59E0B);
+                  color: #ffffff; text-decoration: none; font-weight: 600; padding: 12px 24px;
+                  border-radius: 8px; font-size: 14px;">
+          Restablecer contraseña
+        </a>
+        <p style="font-size: 12px; color: #94a3b8; margin: 24px 0 0;">
+          Si no has sido tú, ignora este correo: tu contraseña actual sigue funcionando.
+        </p>
+      </div>
+    </div>
+    """
+    correo.attach(MIMEText(texto_plano, "plain", "utf-8"))
+    correo.attach(MIMEText(html, "html", "utf-8"))
+
+    try:
+        with smtplib.SMTP(smtp_server, int(smtp_port), timeout=10) as server:
+            server.starttls()
+            server.login(smtp_user, smtp_password)
+            server.send_message(correo)
+    except (smtplib.SMTPException, OSError, ValueError) as exc:
+        print(f"[olvido-password] fallo enviando el email de recuperacion: {exc}")
+
+
 @router.post("/olvido-password")
 @limiter.limit("5/hour")
-async def olvido_password(request: Request, payload: OlvidoPasswordIn, db: Session = Depends(get_db)):
+async def olvido_password(
+    request: Request,
+    payload: OlvidoPasswordIn,
+    background_tasks: BackgroundTasks,
+    db: Session = Depends(get_db),
+):
     """Siempre responde con el mismo mensaje generico, exista o no el email,
-    para no revelar que cuentas estan registradas (enumeration attack)."""
+    para no revelar que cuentas estan registradas (enumeration attack). El
+    envio real va en un BackgroundTask (tras devolver la respuesta) para que
+    la latencia de SMTP nunca sea observable comparando "email existe" vs
+    "no existe"."""
     usuario = db.query(Usuario).filter(Usuario.email == payload.email).first()
 
-    if usuario is not None and WEBHOOK_RECUPERACION_URL:
+    if usuario is not None:
         token_reset = generar_token_reset(usuario.email)
         link = f"{DOMINIO_APP}/?reset_token={token_reset}"
-        try:
-            async with httpx.AsyncClient(timeout=10) as client:
-                await client.post(
-                    WEBHOOK_RECUPERACION_URL,
-                    json={"email": usuario.email, "link": link},
-                )
-        except httpx.HTTPError as exc:
-            # No se revela el fallo al usuario (mismo mensaje generico), pero
-            # queda constancia en el log del servidor para depurar el webhook.
-            print(f"[olvido-password] fallo el webhook de recuperacion: {exc}")
+        background_tasks.add_task(_enviar_email_recuperacion, usuario.email, link)
 
     return {"mensaje": MENSAJE_GENERICO_OLVIDO}
 
