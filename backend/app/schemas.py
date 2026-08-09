@@ -118,6 +118,7 @@ class ResultadoSimulacroCreate(BaseModel):
 
 
 class SugerenciaCreate(BaseModel):
+    asunto: str = Field(min_length=1, max_length=150)
     mensaje: str = Field(min_length=1, max_length=2000)
 
 

@@ -1284,13 +1284,19 @@ async function cargarHeatmap() {
 }
 
 // ---------- Sugerencias / Contacto ----------
+// Mismo formulario sirve de canal de soporte: el backend decide el trato
+// segun is_pro (reenvio prioritario al admin si es Premium, autorespuesta
+// automatica si es gratuito) -- el frontend no necesita saber cual de los
+// dos es, solo manda asunto+mensaje.
 const formSugerencia = document.getElementById("form-sugerencia");
+const sugerenciaAsuntoEl = document.getElementById("sugerencia-asunto");
 const sugerenciaTextoEl = document.getElementById("sugerencia-texto");
 
 formSugerencia.addEventListener("submit", async (event) => {
   event.preventDefault();
+  const asunto = sugerenciaAsuntoEl.value.trim();
   const mensaje = sugerenciaTextoEl.value.trim();
-  if (!mensaje) return;
+  if (!asunto || !mensaje) return;
 
   const boton = formSugerencia.querySelector('button[type="submit"]');
   const textoOriginal = boton.textContent;
@@ -1301,7 +1307,7 @@ formSugerencia.addEventListener("submit", async (event) => {
     const res = await fetchAutenticado("/api/contacto/enviar", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ mensaje }),
+      body: JSON.stringify({ asunto, mensaje }),
     });
     const data = await res.json();
 
@@ -1310,6 +1316,7 @@ formSugerencia.addEventListener("submit", async (event) => {
       return;
     }
 
+    sugerenciaAsuntoEl.value = "";
     sugerenciaTextoEl.value = "";
     mostrarToast("¡Gracias! Tu sugerencia se ha enviado correctamente.", "success");
   } catch (err) {
