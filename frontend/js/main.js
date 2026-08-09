@@ -1076,6 +1076,15 @@ function quitarEscribiendo() {
   document.getElementById("chat-escribiendo")?.remove();
 }
 
+document.querySelectorAll(".chat-sugerencia-card").forEach((tarjeta) => {
+  tarjeta.addEventListener("click", () => {
+    const prompt = tarjeta.dataset.prompt;
+    if (!prompt || !chatInput) return;
+    chatInput.value = prompt;
+    formChat?.requestSubmit();
+  });
+});
+
 if (formChat) {
   formChat.addEventListener("submit", async (event) => {
     event.preventDefault();
