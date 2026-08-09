@@ -26,22 +26,21 @@ SaaS FastAPI + SQLite (local) / Postgres (producción real en VPS) + frontend Va
 | [01-stack-y-arquitectura.md](docs/handover/01-stack-y-arquitectura.md) | Stack (Gemini, no OpenAI), estructura de carpetas, **infraestructura real del VPS y flujo de despliegue** |
 | [02-autenticacion-y-pagos.md](docs/handover/02-autenticacion-y-pagos.md) | Auth multitenant, `is_pro` vía webhook real de Stripe, **checkout verificado de extremo a extremo (con el hallazgo del hCaptcha de Stripe)** |
 | [03-rendimiento-fisico-teorico-gamificacion.md](docs/handover/03-rendimiento-fisico-teorico-gamificacion.md) | MarcaFisica/SimulacroTeorico, `Workout` inactivo, heatmap real, Pomodoro, **Acondicionamiento Físico/Alto Rendimiento Teórico ahora gratis en el Dashboard (ya no Premium)** |
-| [04-tutor-ia-y-rag.md](docs/handover/04-tutor-ia-y-rag.md) | RAG compartido — migrado a Gemini, 38 documentos indexados, metadata `archivo` para filtrado por tema, **rate limiting nuevo, y ⚠️ índice local incompleto por cuota agotada** |
+| [04-tutor-ia-y-rag.md](docs/handover/04-tutor-ia-y-rag.md) | RAG compartido — migrado a Gemini, 38 documentos indexados (14.599 fragmentos, verificado en local y VPS), metadata `archivo` para filtrado por tema, rate limiting nuevo |
 | [05-tablon-convocatorias-scraper.md](docs/handover/05-tablon-convocatorias-scraper.md) | Scraper BOE/BOJA — **bug real de fechas encontrado/corregido + blindaje general (excepciones, validación de tipos, red de seguridad)** |
 | [06-simulacros-ia.md](docs/handover/06-simulacros-ia.md) | Banco precargado (no generación en vivo), RAG real acotado por tema, 6 temas, 600 preguntas generadas, **copy corregido (ya no "generado por IA")** |
-| [07-deuda-tecnica-y-pendientes.md](docs/handover/07-deuda-tecnica-y-pendientes.md) | **Leer antes de tocar producción** — bloqueantes ordenados por impacto, incluye el índice de Chroma incompleto (nuevo, crítico) |
+| [07-deuda-tecnica-y-pendientes.md](docs/handover/07-deuda-tecnica-y-pendientes.md) | **Leer antes de tocar producción** — bloqueantes ordenados por impacto |
 | [08-convenciones-de-codigo.md](docs/handover/08-convenciones-de-codigo.md) | Reglas de estilo/estructura + convenciones nuevas de despliegue/Gemini/cuotas |
 | [09-zona-premium-y-upsell.md](docs/handover/09-zona-premium-y-upsell.md) | Zona Premium en **4 pestañas** (Tablón/Tutor/Simulacros/**Modo Enfoque**, nuevo), 3 componentes de upsell con copy unificado, Acondicionamiento Físico salió de Premium |
 
 ## Los bloqueantes más urgentes ahora mismo
 
 1. 🔴 **Credenciales reales sin `.gitignore` en la raíz del repo** (`backend/Internal Database URL.txt`, `client_secret_...json`) — siguen ahí y siguen trackeadas en git, sin resolver.
-2. 🔴 **Nuevo (2026-08-08): el índice local de Chroma está incompleto** — la reconstrucción tras añadir el BOJA25-032-00076 chocó dos veces con la cuota de embeddings de Gemini (429 RESOURCE_EXHAUSTED) y quedó a medias, sin que la app lo detecte (`_indice_persistido_existe()` solo mira si la carpeta no está vacía). Detalle y arreglo pendiente en [07](docs/handover/07-deuda-tecnica-y-pendientes.md) y [04](docs/handover/04-tutor-ia-y-rag.md). **No reconstruir en el VPS hasta resolver esto en local.**
-3. 🟠 Login con Google sigue sin probarse en navegador real de extremo a extremo.
-4. 🟠 Portal de Cliente de Stripe (`POST /api/pagos/portal`) sin probar de extremo a extremo (aunque ya se generó un `stripe_customer_id` real durante la prueba de checkout).
-5. 🟠 `WEBHOOK_RECUPERACION_URL` sigue apuntando a webhook.site (no envía emails reales).
+2. 🟠 Login con Google sigue sin probarse en navegador real de extremo a extremo.
+3. 🟠 Portal de Cliente de Stripe (`POST /api/pagos/portal`) sin probar de extremo a extremo (aunque ya se generó un `stripe_customer_id` real durante la prueba de checkout).
+4. 🟠 `WEBHOOK_RECUPERACION_URL` sigue apuntando a webhook.site (no envía emails reales).
 
-Ya **no** son bloqueantes (resueltos, con verificación real, no solo "debería funcionar"): `DOMINIO_APP` hardcodeado, despliegue nunca hecho, checkout de Stripe nunca completado con tarjeta real. Detalle completo, incluidos los pendientes menores, en [07](docs/handover/07-deuda-tecnica-y-pendientes.md).
+Ya **no** son bloqueantes (resueltos, con verificación real, no solo "debería funcionar"): `DOMINIO_APP` hardcodeado, despliegue nunca hecho, checkout de Stripe nunca completado con tarjeta real, y el índice de Chroma que se quedó a medias el 2026-08-08 tras chocar con la cuota de Gemini (reconstruido y verificado en local y VPS el 2026-08-09, 14.599 fragmentos/38 documentos en ambos). Detalle completo, incluidos los pendientes menores, en [07](docs/handover/07-deuda-tecnica-y-pendientes.md).
 
 ## Qué está verificado end-to-end (no solo "debería funcionar")
 
