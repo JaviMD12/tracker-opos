@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends, HTTPException, Request
 from google.genai.errors import APIError
 from sqlalchemy.orm import Session
 
@@ -6,13 +6,16 @@ from app.database import get_db
 from app.models.convocatoria import Convocatoria
 from app.models.usuario import Usuario
 from app.services.ai_tutor import generar_plan_estudio_convocatoria
+from app.services.rate_limit import limiter
 from app.services.security import get_current_user
 
 router = APIRouter(prefix="/api/tutor", tags=["tutor"])
 
 
 @router.post("/analizar-plaza/{convocatoria_id}")
+@limiter.limit("60/hour")
 def analizar_plaza(
+    request: Request,
     convocatoria_id: int,
     db: Session = Depends(get_db),
     current_user: Usuario = Depends(get_current_user),
