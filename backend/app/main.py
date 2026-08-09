@@ -207,6 +207,48 @@ def detener_scheduler_boletines():
     scheduler.shutdown(wait=False)
 
 
+# Content-Security-Policy: calculada a mano revisando exactamente que carga
+# el frontend hoy (index.html, main.js, style.css), no copiada de una
+# plantilla generica -- una CSP demasiado estricta rompe la web en silencio
+# (la petencion bloqueada no lanza una excepcion en JS, solo un aviso en la
+# consola del navegador que nadie ve en produccion). Inventario real:
+# - script-src: cdn.tailwindcss.com, cdn.jsdelivr.net (Chart.js/marked/
+#   DOMPurify), plausible.io. Sin bloques <script> inline en index.html,
+#   asi que NO hace falta 'unsafe-inline' aqui.
+# - style-src: Tailwind CDN inyecta un <style> con las clases compiladas en
+#   tiempo real en el propio navegador -- eso es intrinsecamente "inline" y
+#   distinto en cada carga, asi que no se puede fijar con un hash. 'unsafe-
+#   inline' aqui es el precio real de usar el CDN de Tailwind en vez de un
+#   build compilado; migrar a un build quitaria esta necesidad, pero es un
+#   cambio de arquitectura aparte, no algo para colar dentro de esto.
+# - img-src: fotos de Unsplash (hero del login, texturas de las tarjetas),
+#   mas data: (iconos nativos de <input type=date>/<select> que Tailwind
+#   pinta como data-URI).
+# - connect-src: 'self' para las llamadas a /api/*, mas plausible.io porque
+#   su propio script manda sus eventos de analitica ahi -- una peticion que
+#   dispara SU codigo pero que sigue corriendo dentro de nuestra pagina, y
+#   por tanto sujeta a nuestra CSP igualmente.
+# - media-src: cdn.pixabay.com -- el sonido de la alarma del Pomodoro
+#   (new Audio(...) en main.js), facil de pasar por alto si solo se mira
+#   index.html.
+# - object-src 'none', base-uri 'self', frame-ancestors 'none': sin plugins,
+#   sin <base> dinamico, sin necesidad de que nadie empotre esto en un
+#   <iframe> (complementa a X-Frame-Options: DENY de arriba).
+CSP = (
+    "default-src 'self'; "
+    "script-src 'self' https://cdn.tailwindcss.com https://cdn.jsdelivr.net https://plausible.io; "
+    "style-src 'self' 'unsafe-inline'; "
+    "img-src 'self' data: https://images.unsplash.com; "
+    "font-src 'self'; "
+    "connect-src 'self' https://plausible.io; "
+    "media-src https://cdn.pixabay.com; "
+    "object-src 'none'; "
+    "base-uri 'self'; "
+    "form-action 'self'; "
+    "frame-ancestors 'none'"
+)
+
+
 @app.middleware("http")
 async def cabeceras_seguridad(request: Request, call_next):
     response = await call_next(request)
@@ -214,6 +256,7 @@ async def cabeceras_seguridad(request: Request, call_next):
     response.headers["X-Frame-Options"] = "DENY"
     response.headers["Referrer-Policy"] = "strict-origin-when-cross-origin"
     response.headers["Permissions-Policy"] = "geolocation=(), microphone=(), camera=()"
+    response.headers["Content-Security-Policy"] = CSP
     # HSTS solo tiene sentido porque SIEMPRE se sirve por HTTPS (detras de
     # nginx en el VPS) -- si esto se ejecutara alguna vez solo en HTTP puro
     # (dev local sin proxy), la cabecera no hace nada malo, el navegador
