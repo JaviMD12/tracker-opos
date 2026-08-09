@@ -62,7 +62,7 @@ def dashboard_global(
             nota_fisica=None,
             nota_teorica=None,
             nota_global_combinada=None,
-            veredicto="Registra al menos un entreno físico y un simulacro teórico para ver tu análisis global.",
+            veredicto="Rellena el formulario de abajo con tu primera marca física y tu primer simulacro teórico: en menos de un minuto tienes tu primera nota.",
         )
 
     if nota_fisica is None:

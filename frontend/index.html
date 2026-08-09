@@ -4,6 +4,10 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Tracker Analítico de Oposiciones</title>
+  <meta name="description" content="Prepara tu oposición de bombero con datos reales: rendimiento físico y teórico, convocatorias BOE/BOJA en tiempo real y un tutor con IA entrenado en tu temario. Empieza gratis." />
+  <meta property="og:title" content="Tracker Oposiciones — Bombero" />
+  <meta property="og:description" content="Rendimiento físico y teórico, convocatorias reales de BOE/BOJA y un tutor con IA entrenado en tu temario. Empieza gratis." />
+  <meta property="og:type" content="website" />
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
   <!-- Tutor IA: marked.js convierte el Markdown de la respuesta a HTML; DOMPurify
@@ -46,6 +50,15 @@
           <p class="text-gray-500 text-xs mt-0.5">Accede a tu cuenta para continuar</p>
         </div>
       </div>
+
+      <!-- Version corta de la propuesta de valor: el panel de la izquierda
+           (auth-image-panel) esta oculto por CSS por debajo de 1024px (ver
+           style.css), asi que sin esto un visitante en movil no ve ningun
+           motivo para registrarse, solo un formulario de login pelado. -->
+      <p class="text-gray-400 text-xs leading-relaxed mb-5">
+        Rendimiento físico/teórico y convocatorias reales de BOE/BOJA para tu oposición de bombero.
+        Empieza gratis.
+      </p>
 
       <a href="/api/auth/google/login"
          class="btn-google w-full flex items-center justify-center gap-2 bg-white text-gray-800 font-medium rounded-lg py-2.5 text-sm hover:bg-gray-100 transition mb-4">
@@ -100,6 +113,7 @@
         </div>
         <p id="registro-error" class="text-sm text-red-400 hidden"></p>
         <button type="submit" class="btn-primary w-full">Crear cuenta y entrar</button>
+        <p class="text-center text-xs text-gray-500">Gratis para empezar · Premium desde 9,99&euro;/mes</p>
       </form>
 
       <!-- Recuperar contraseña: paso 1, pedir el email -->
@@ -237,6 +251,12 @@
             </svg>
             <span id="dashboard-veredicto">Cargando veredicto del entrenador...</span>
           </div>
+
+          <!-- Conecta el mensaje de estado vacio con el formulario de abajo:
+               antes habia que hacer scroll a ciegas, ahora hay un enlace directo. -->
+          <a href="#registrar-marca" class="inline-flex items-center gap-1 mt-4 text-sm font-medium text-amber-400 hover:text-amber-300 transition">
+            Registrar mi primera marca &#8595;
+          </a>
         </div>
       </section>
 
@@ -244,7 +264,7 @@
            Acondicionamiento Fisico Estrategico y la grafica de evolucion
            dependen de que haya al menos un registro para mostrar algo mas
            que un estado vacio. -->
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div id="registrar-marca" class="grid grid-cols-1 md:grid-cols-3 gap-6">
         <!-- Formularios -->
         <section class="premium-card md:col-span-2 rounded-3xl shadow-lg overflow-hidden">
           <!-- Tabs: integradas en la propia tarjeta, no flotantes encima -->
