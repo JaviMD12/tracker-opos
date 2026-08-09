@@ -320,22 +320,23 @@ navButtons.forEach((btn) => {
 });
 
 // ---------- Menu movil (hamburguesa) ----------
-// Por debajo de lg, #sidebar-nav esta oculto por defecto (clase "hidden" en
-// index.html) porque los 4 botones del sidebar no caben como fila
+// Por debajo de lg, #sidebar-nav esta oculto por defecto (ver #sidebar-nav
+// en style.css) porque los 4 botones del sidebar no caben como fila
 // horizontal. Este boton lo despliega como un desplegable a pantalla
-// completa bajo la cabecera; en lg+ no hace nada (lg:flex del propio nav ya
-// lo mantiene siempre visible, este botón esta oculto ahi con "lg:hidden").
+// completa bajo la cabecera anadiendo "menu-movil-abierto"; en lg+ el CSS
+// lo mantiene siempre visible pase lo que pase con esta clase, y el propio
+// boton esta oculto ahi con "lg:hidden".
 const btnMenuMovil = document.getElementById("btn-menu-movil");
 const sidebarNav = document.getElementById("sidebar-nav");
 
 function cerrarMenuMovil() {
-  sidebarNav.classList.add("hidden");
+  sidebarNav.classList.remove("menu-movil-abierto");
   btnMenuMovil?.setAttribute("aria-expanded", "false");
 }
 
 btnMenuMovil?.addEventListener("click", () => {
-  const seVaAAbrir = sidebarNav.classList.contains("hidden");
-  sidebarNav.classList.toggle("hidden");
+  const seVaAAbrir = !sidebarNav.classList.contains("menu-movil-abierto");
+  sidebarNav.classList.toggle("menu-movil-abierto");
   btnMenuMovil.setAttribute("aria-expanded", String(seVaAAbrir));
 });
 

@@ -913,6 +913,27 @@ table td, table th {
     display: flex;
   }
 }
+
+/* Menu movil del sidebar (#sidebar-nav): oculto por defecto por debajo de
+   lg, el boton hamburguesa lo despliega via JS añadiendo esta clase; en
+   lg+ siempre visible en columna, pase lo que pase con la clase. Mismo
+   patron que .auth-image-panel de arriba -- CSS propio explicito en vez de
+   encadenar "hidden lg:flex" de Tailwind: el CDN "Play" de Tailwind no
+   garantiza que la variante responsive gane el cascade sobre la utilidad
+   base "hidden" (bug real detectado: en escritorio el menu se quedaba
+   invisible del todo, "hidden" ganaba incluso a 1794px de ancho). */
+#sidebar-nav {
+  display: none;
+  flex-direction: column;
+}
+#sidebar-nav.menu-movil-abierto {
+  display: flex;
+}
+@media (min-width: 1024px) {
+  #sidebar-nav {
+    display: flex;
+  }
+}
 #auth-gate::before,
 #auth-gate::after {
   content: "";
