@@ -1,9 +1,13 @@
+import csv
+import io
 import os
+import secrets
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-from fastapi import APIRouter, BackgroundTasks, Depends, Request
+from fastapi import APIRouter, BackgroundTasks, Depends, HTTPException, Request
+from fastapi.responses import StreamingResponse
 from sqlalchemy.orm import Session
 
 from app.database import get_db
@@ -73,3 +77,32 @@ def unirse_a_waitlist(
 
     background_tasks.add_task(_enviar_email_confirmacion_waitlist, payload.email)
     return {"mensaje": "Te has apuntado a la lista de espera."}
+
+
+@router.get("/export.csv")
+@limiter.limit("20/hour")
+def exportar_waitlist_csv(request: Request, token: str, db: Session = Depends(get_db)):
+    """Descarga directa del CSV, protegida por un token compartido en vez de
+    login (no hay concepto de "admin" en Usuario, y anadir uno para un unico
+    endpoint seria mas complejidad de la que hace falta aqui). El token vive
+    en ADMIN_EXPORT_TOKEN (.env), generado aparte (ver instrucciones), nunca
+    hardcodeado. secrets.compare_digest evita que una comparacion == normal
+    filtre el token por timing attack."""
+    token_real = os.environ.get("ADMIN_EXPORT_TOKEN")
+    if not token_real or not secrets.compare_digest(token, token_real):
+        raise HTTPException(status_code=403, detail="Token invalido")
+
+    filas = db.query(Waitlist).order_by(Waitlist.fecha_registro).all()
+
+    buffer = io.StringIO()
+    writer = csv.writer(buffer)
+    writer.writerow(["email", "fecha_registro"])
+    for fila in filas:
+        writer.writerow([fila.email, fila.fecha_registro])
+    buffer.seek(0)
+
+    return StreamingResponse(
+        buffer,
+        media_type="text/csv",
+        headers={"Content-Disposition": "attachment; filename=waitlist.csv"},
+    )
