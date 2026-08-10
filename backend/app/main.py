@@ -28,6 +28,7 @@ from app.models.resultado_simulacro import ResultadoSimulacro  # noqa: F401,E402
 from app.models.sesion_estudio import SesionEstudio  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.simulacro import SimulacroTeorico  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.usuario import Usuario  # noqa: F401,E402 (registra el modelo en Base)
+from app.models.waitlist import Waitlist  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.workout import Workout  # noqa: F401,E402 (registra el modelo en Base)
 from app.routers import (  # noqa: E402
     actividad,
@@ -43,6 +44,7 @@ from app.routers import (  # noqa: E402
     teorica,
     tutor,
     usuarios,
+    waitlist,
     workouts,
 )
 from app.services.scraper_boletines import ejecutar_scraping_boletines  # noqa: E402
@@ -180,6 +182,7 @@ app.include_router(convocatorias.router)
 app.include_router(tutor.router)
 app.include_router(simulacros.router)
 app.include_router(usuarios.router)
+app.include_router(waitlist.router)
 
 # Cron del scraper de boletines (BOE/BOJA): se ejecuta a las 03:00 (hora de
 # Madrid) para no competir por recursos con el trafico normal de la app.

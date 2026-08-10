@@ -122,6 +122,10 @@ class SugerenciaCreate(BaseModel):
     mensaje: str = Field(min_length=1, max_length=2000)
 
 
+class WaitlistCreate(BaseModel):
+    email: str = Field(min_length=3, max_length=255)
+
+
 class HeatmapDia(BaseModel):
     date: str
     intensity: int

@@ -19,10 +19,22 @@ STRIPE_WEBHOOK_SECRET = os.environ.get("STRIPE_WEBHOOK_SECRET")
 DOMINIO_APP = os.environ.get("DOMINIO_APP", "https://opotracker.tech")
 PRECIO_PLAN_PRO_CENTIMOS = 999  # 9,99 EUR
 
+# Interruptor temporal: con ENABLE_STRIPE=false en el .env, /checkout no crea
+# ninguna sesion real de Stripe -- devuelve {"stripe_habilitado": false} y el
+# frontend abre el modal de lista de espera en su lugar (ver
+# iniciarCheckoutStripe() en main.js). Para volver al checkout real de
+# Stripe, basta con quitar la variable del .env o ponerla a "true" y
+# reiniciar el servicio -- ningun otro cambio de codigo hace falta, los
+# botones de "Desbloquear Premium" siguen llamando a este mismo endpoint.
+ENABLE_STRIPE = os.environ.get("ENABLE_STRIPE", "true").lower() != "false"
+
 
 @router.post("/checkout")
 def crear_sesion_checkout(current_user: Usuario = Depends(get_current_user)):
     """Crea una sesion de Stripe Checkout (modo pago unico) para el Plan Pro."""
+    if not ENABLE_STRIPE:
+        return {"stripe_habilitado": False}
+
     try:
         session = stripe.checkout.Session.create(
             mode="payment",
@@ -55,7 +67,7 @@ def crear_sesion_checkout(current_user: Usuario = Depends(get_current_user)):
             detail=f"No se pudo iniciar el pago con Stripe: {exc.user_message or str(exc)}",
         ) from exc
 
-    return {"session_id": session.id, "url": session.url}
+    return {"stripe_habilitado": True, "session_id": session.id, "url": session.url}
 
 
 @router.post("/webhook")

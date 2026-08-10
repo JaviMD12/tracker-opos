@@ -433,6 +433,17 @@ async function iniciarCheckoutStripe(boton) {
       return;
     }
 
+    boton.disabled = false;
+    boton.innerHTML = htmlOriginal;
+
+    // ENABLE_STRIPE=false en el backend (ver routers/pagos.py): el checkout
+    // real esta pausado, se abre la lista de espera en su lugar en vez de
+    // redirigir a Stripe.
+    if (data.stripe_habilitado === false) {
+      abrirModalWaitlist();
+      return;
+    }
+
     window.location.href = data.url;
   } catch (err) {
     console.error("No se pudo iniciar el checkout de Stripe", err);
@@ -484,6 +495,74 @@ document.addEventListener("keydown", (evento) => {
 btnModalActualizarPremium?.addEventListener("click", () =>
   iniciarCheckoutStripe(btnModalActualizarPremium)
 );
+
+// ---------- Lista de espera (checkout de Stripe pausado, ENABLE_STRIPE=false) ----------
+// Se abre desde iniciarCheckoutStripe() de arriba cuando el backend responde
+// {"stripe_habilitado": false} -- ningun boton llama a esto directamente.
+const modalWaitlist = document.getElementById("modal-waitlist");
+const btnCerrarModalWaitlist = document.getElementById("btn-cerrar-modal-waitlist");
+const formWaitlist = document.getElementById("form-waitlist");
+const waitlistEmailEl = document.getElementById("waitlist-email");
+const waitlistErrorEl = document.getElementById("waitlist-error");
+
+function abrirModalWaitlist() {
+  modalWaitlist.classList.remove("hidden");
+  requestAnimationFrame(() => modalWaitlist.classList.add("show"));
+}
+
+function cerrarModalWaitlist() {
+  modalWaitlist.classList.remove("show");
+  setTimeout(() => modalWaitlist.classList.add("hidden"), 200);
+}
+
+btnCerrarModalWaitlist?.addEventListener("click", cerrarModalWaitlist);
+document.getElementById("modal-waitlist-backdrop")?.addEventListener("click", cerrarModalWaitlist);
+document.addEventListener("keydown", (evento) => {
+  if (evento.key === "Escape" && !modalWaitlist.classList.contains("hidden")) {
+    cerrarModalWaitlist();
+  }
+});
+
+formWaitlist?.addEventListener("submit", async (event) => {
+  event.preventDefault();
+  waitlistErrorEl.classList.add("hidden");
+
+  const boton = formWaitlist.querySelector('button[type="submit"]');
+  const textoOriginal = boton.textContent;
+  boton.disabled = true;
+  boton.textContent = "Enviando...";
+
+  try {
+    // Sin fetchAutenticado a proposito: apuntarse a la lista de espera no
+    // exige sesion iniciada (ver POST /api/waitlist en el backend).
+    const res = await fetch("/api/waitlist", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ email: waitlistEmailEl.value.trim() }),
+    });
+    const data = await res.json();
+
+    if (!res.ok) {
+      const detalle = Array.isArray(data.detail)
+        ? data.detail.map((d) => d.msg).join(", ")
+        : data.detail ?? "No se pudo completar el registro.";
+      waitlistErrorEl.textContent = detalle;
+      waitlistErrorEl.classList.remove("hidden");
+      return;
+    }
+
+    formWaitlist.reset();
+    cerrarModalWaitlist();
+    mostrarToast("¡Apuntado! Revisa tu email para la confirmación.", "success");
+  } catch (err) {
+    console.error("No se pudo unir a la lista de espera", err);
+    waitlistErrorEl.textContent = "No se pudo conectar con el backend.";
+    waitlistErrorEl.classList.remove("hidden");
+  } finally {
+    boton.disabled = false;
+    boton.textContent = textoOriginal;
+  }
+});
 
 btnBannerUpsellEntrenamiento?.addEventListener("click", () => activarVista("premium"));
 
