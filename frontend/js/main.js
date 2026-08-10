@@ -566,28 +566,6 @@ formWaitlist?.addEventListener("submit", async (event) => {
 
 btnBannerUpsellEntrenamiento?.addEventListener("click", () => activarVista("premium"));
 
-// ---------- CTA "profundiza con el Plan Pro" bajo contenido gratuito ----------
-// Se inserta bajo la rutina de Entrenamiento Especifico y bajo las Tecnicas
-// de Estudio (ver cargarEntrenamientoEspecifico/cargarTecnicasEstudio): no
-// promete una version "superior" de ese mismo contenido -ya es la version
-// completa, unica, gratuita desde que se traslado fuera de Premium- sino
-// que dirige al Tutor IA real de Plan Pro, que si puede profundizar y
-// personalizarlo por chat (ver su mensaje de bienvenida: "Preguntame sobre
-// tus rutinas de entrenamiento o tus tecnicas de estudio").
-function htmlCtaProfundizarPremium(mensaje) {
-  return `
-    <div class="mt-6 pt-5 border-t border-gray-700/60">
-      <p class="text-sm text-gray-400">${mensaje}</p>
-      <button type="button" class="btn-plan-ia mt-3 btn-cta-profundizar-premium">Ver Plan Pro</button>
-    </div>`;
-}
-
-document.addEventListener("click", (evento) => {
-  if (evento.target.closest(".btn-cta-profundizar-premium")) {
-    activarVista("premium");
-  }
-});
-
 // ---------- Plan Pro: Portal de Cliente de Stripe (gestion de suscripcion) ----------
 const btnGestionarSuscripcion = document.getElementById("btn-gestionar-suscripcion");
 
@@ -824,10 +802,6 @@ async function cargarEntrenamientoEspecifico() {
 
       <p class="text-xs font-semibold uppercase tracking-wide text-gray-500 mb-2">Bibliografia</p>
       <div class="space-y-2">${bibliografia}</div>
-
-      ${htmlCtaProfundizarPremium(
-        "¿Quieres algo más personalizado y profundo? En el Plan Pro, nuestro Tutor Inteligente 24/7 ajusta esta rutina a tu progreso real y resuelve tus dudas al momento."
-      )}
     `;
   } catch (err) {
     console.error("No se pudo cargar el entrenamiento especifico", err);
@@ -869,9 +843,7 @@ async function cargarTecnicasEstudio() {
           </div>
         </article>`;
       })
-      .join("") + `<div class="xl:col-span-2">${htmlCtaProfundizarPremium(
-        "¿Quieres profundizar más en estas técnicas? En el Plan Pro, nuestro Tutor Inteligente 24/7 te ayuda a aplicarlas a tu temario concreto, tema a tema."
-      )}</div>`;
+      .join("");
   } catch (err) {
     console.error("No se pudieron cargar las tecnicas de estudio", err);
     contenedor.innerHTML = `<p class="text-gray-500">No se pudo conectar con el backend.</p>`;
