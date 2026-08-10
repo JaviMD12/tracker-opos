@@ -395,20 +395,18 @@
           </div>
         </section>
 
-        <!-- Panel lateral -->
-        <aside class="premium-card rounded-3xl shadow-lg p-6 h-fit text-center">
-          <h2 class="text-lg font-semibold mb-1 text-white">Nota Global Física</h2>
-          <p class="text-xs text-gray-500 mb-5">Último registro (sobre 10)</p>
-          <div class="gauge-circular gauge-circular-lg mx-auto">
-            <svg viewBox="0 0 120 120">
-              <circle class="gauge-track" cx="60" cy="60" r="52" />
-              <circle class="gauge-progress" id="gauge-notaglobal-progress" cx="60" cy="60" r="52" />
-            </svg>
-            <div class="gauge-label">
-              <span class="gauge-value gauge-value-lg" id="nota-global">--</span>
-            </div>
+        <!-- Panel lateral: records personales, no la nota del ultimo registro
+             (eso ya se ve en el Analista Estrategico Global de arriba y en
+             la Puntuacion detallada de la izquierda -- esto es informacion
+             nueva que antes no se mostraba en ningun sitio). Usa
+             GET /api/marcas/historial, un endpoint que ya existia en el
+             backend pero el frontend nunca llamaba. -->
+        <aside class="premium-card rounded-3xl shadow-lg p-6 h-fit">
+          <h2 class="text-lg font-semibold mb-1 text-white">Tus Mejores Marcas</h2>
+          <p class="text-xs text-gray-500 mb-5">Tu récord personal en cada prueba</p>
+          <div id="mejores-marcas-contenido" class="space-y-1">
+            <p class="text-sm text-gray-500">Registra tu primera marca para ver aquí tus récords.</p>
           </div>
-          <p class="text-sm text-gray-500 mt-6" id="ultima-fecha"></p>
         </aside>
       </div>
 

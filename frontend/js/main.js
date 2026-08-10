@@ -49,6 +49,7 @@ function mostrarApp() {
   cargarDashboardGlobal();
   cargarAcondicionamientoDashboard();
   cargarHeatmap();
+  cargarMejoresMarcas();
   procesarRetornoDePago();
 }
 
@@ -245,8 +246,6 @@ const form = document.getElementById("form-marca");
 const resultadoBox = document.getElementById("resultado");
 const tablaDetalle = document.getElementById("tabla-detalle");
 const recomendacionBox = document.getElementById("recomendacion");
-const notaGlobalEl = document.getElementById("nota-global");
-const ultimaFechaEl = document.getElementById("ultima-fecha");
 
 const formTeorica = document.getElementById("form-teorica");
 const resultadoTeoricaBox = document.getElementById("resultado-teorica");
@@ -260,7 +259,6 @@ const gaugeFisicaProgressEl = document.getElementById("gauge-fisica-progress");
 const gaugeFisicaValorEl = document.getElementById("gauge-fisica-valor");
 const gaugeTeoricaProgressEl = document.getElementById("gauge-teorica-progress");
 const gaugeTeoricaValorEl = document.getElementById("gauge-teorica-valor");
-const gaugeNotaGlobalProgressEl = document.getElementById("gauge-notaglobal-progress");
 
 // Circunferencia de un circulo r=52 (ver .gauge-progress en style.css):
 // 2 * PI * 52 ~= 326.73. offset = circunferencia entero es 0% de trazo
@@ -1218,11 +1216,55 @@ function pintarResultado(data) {
   }
 
   resultadoBox.classList.remove("hidden");
-  notaGlobalEl.textContent = `${data.nota_global.toFixed(2)} / 10`;
-  ultimaFechaEl.textContent = `Registrado el ${data.marca.fecha}`;
-  actualizarGaugeCircular(gaugeNotaGlobalProgressEl, data.nota_global / 10);
 
   bannerUpsellEntrenamiento?.classList.toggle("hidden", proEstaDesbloqueado());
+}
+
+// ---------- Tus Mejores Marcas (records personales) ----------
+// GET /api/marcas/historial ya existia en el backend (devuelve todo el
+// historial de marcas del usuario) pero el frontend nunca lo llamaba --
+// el resto del Dashboard solo muestra el ultimo registro, nunca el mejor
+// historico. dominadas: mas alto mejor; el resto (segundos): mas bajo mejor
+// (mismo criterio que PRUEBAS en backend/app/services/calculo.py).
+const mejoresMarcasContenidoEl = document.getElementById("mejores-marcas-contenido");
+
+function formatearSegundos(totalSegundos) {
+  const min = Math.floor(totalSegundos / 60);
+  const seg = totalSegundos % 60;
+  return min > 0 ? `${min}m ${seg}s` : `${seg}s`;
+}
+
+async function cargarMejoresMarcas() {
+  if (!mejoresMarcasContenidoEl) return;
+  try {
+    const res = await fetchAutenticado("/api/marcas/historial");
+    if (!res.ok) return;
+    const historial = await res.json();
+
+    if (historial.length === 0) {
+      mejoresMarcasContenidoEl.innerHTML = `<p class="text-sm text-gray-500">Registra tu primera marca para ver aquí tus récords.</p>`;
+      return;
+    }
+
+    const filas = [
+      { etiqueta: "Dominadas", valor: `${Math.max(...historial.map((m) => m.dominadas))} reps` },
+      { etiqueta: "Sprint 100m", valor: `${Math.min(...historial.map((m) => m.sprint_100m)).toFixed(2)} s` },
+      { etiqueta: "Carrera 1500m", valor: formatearSegundos(Math.min(...historial.map((m) => m.carrera_1500m))) },
+      { etiqueta: "Natación 100m", valor: formatearSegundos(Math.min(...historial.map((m) => m.natacion_100m))) },
+    ];
+
+    mejoresMarcasContenidoEl.innerHTML = filas
+      .map(
+        (fila) => `
+        <div class="flex items-center justify-between gap-3 py-2.5 border-b border-white/5 last:border-0">
+          <span class="text-sm text-gray-300">${fila.etiqueta}</span>
+          <span class="text-sm font-bold text-amber-400">${fila.valor}</span>
+        </div>`
+      )
+      .join("");
+  } catch (err) {
+    console.error("No se pudieron cargar las mejores marcas", err);
+  }
 }
 
 function pintarResultadoTeorica(data) {
@@ -1287,6 +1329,7 @@ form.addEventListener("submit", async (event) => {
     // cargarAcondicionamientoDashboard()).
     cargarEntrenamientoEspecifico();
     cargarGraficaEvolucion();
+    cargarMejoresMarcas();
   } catch (err) {
     console.error(err);
     alert("No se pudo conectar con el backend.");
