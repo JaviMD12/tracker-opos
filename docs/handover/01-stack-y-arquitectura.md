@@ -11,13 +11,15 @@
 - **LangChain 1.x** + `langchain-google-genai` + `google-genai` + `langchain-chroma` + `langchain-community` + `chromadb` + `pypdf` — motor RAG del Tutor IA (ver [04-tutor-ia-y-rag.md](04-tutor-ia-y-rag.md)). **Ya no hay `langchain-openai`, `openai` ni `tiktoken`** — el proyecto migró de OpenAI a Gemini por completo (chat, embeddings, scraper), ver más abajo.
 - **feedparser** + **requests** + **beautifulsoup4** — scraper de boletines oficiales (ver [05-tablon-convocatorias-scraper.md](05-tablon-convocatorias-scraper.md)).
 - **APScheduler** — cron del scraper.
-- **slowapi** (`app/services/rate_limit.py`, añadido 2026-08-02) — rate limiting en `POST /api/pro/chat` (60 peticiones/hora, clave por usuario vía claim `sub` del JWT con fallback a IP) para blindar la cuota de Gemini frente a abuso. Ver [04-tutor-ia-y-rag.md](04-tutor-ia-y-rag.md).
+- **slowapi** (`app/services/rate_limit.py`, añadido 2026-08-02) — rate limiting en `POST /api/pro/chat` (60 peticiones/hora, clave por usuario vía claim `sub` del JWT con fallback a IP) para blindar la cuota de Gemini frente a abuso. **Ampliado (2026-08-10)** al resto de rutas sensibles: `POST /api/tutor/analizar-plaza/{id}` (60/hora, misma clave), `POST /api/auth/login` (10/min), `/registro` (10/hora), `/olvido-password` (5/hora) y `POST /api/waitlist` (5/hora) + `.../export.csv` (20/hora). Ver [04-tutor-ia-y-rag.md](04-tutor-ia-y-rag.md) y [02-autenticacion-y-pagos.md](02-autenticacion-y-pagos.md).
 - **Gemini** (Google AI Studio, `GOOGLE_API_KEY`): `gemini-2.5-flash` (chat/generación) + `models/gemini-embedding-001` (embeddings). **Ojo con el nombre exacto del modelo de embeddings**: `text-embedding-004` ya no existe para esta API/clave (404), y `gemini-embedding-1.0` a secas tampoco es el identificador correcto — es `models/gemini-embedding-001`.
+- **Auditoría de seguridad completa (2026-08-10, `app/main.py`)**: `CORSMiddleware` restringido a `DOMINIO_APP` (nunca `"*"`, con `.rstrip("/")` — bug real encontrado: `DOMINIO_APP` lleva barra final en su otro uso y un origen CORS nunca la lleva, sin el strip el navegador jamás recibía `Access-Control-Allow-Origin` ni para el dominio real); `SECRET_KEY` ahora falla al arrancar si no existe o mide menos de 32 caracteres (`services/security.py`); límite de payload de 2MB (`LimiteTamanoBody`, `Content-Length`, defensa en profundidad sobre el `client_max_body_size` de nginx); cabeceras `X-Content-Type-Options`/`X-Frame-Options`/`Referrer-Policy`/`Permissions-Policy`/`Strict-Transport-Security` y una `Content-Security-Policy` calculada a mano revisando qué carga de verdad el frontend (no una plantilla genérica — encontró que la alarma del Pomodoro carga un MP3 de `cdn.pixabay.com`, que Plausible necesita `connect-src` además de `script-src`, y que Tailwind CDN obliga a `style-src 'unsafe-inline'` por inyectar su `<style>` compilado en el propio navegador).
 
 ## Frontend
 - HTML + JavaScript vanilla (`frontend/js/main.js`, un único archivo sin build step, sin módulos ES).
-- **Tailwind CSS** vía CDN + `frontend/css/style.css` para todo lo que Tailwind CDN no cubre.
+- **Tailwind CSS** vía CDN + `frontend/css/style.css` para todo lo que Tailwind CDN no cubre. **Ojo (2026-08-10)**: el CDN "Play" de Tailwind **no garantiza** que una variante responsive (`lg:flex`) gane el cascade sobre una utilidad base (`hidden`) en el mismo elemento — a diferencia del build normal de Tailwind. Bug real: el menú móvil del sidebar (`hidden lg:flex`) dejaba el sidebar completo invisible en escritorio. Ver [08-convenciones-de-codigo.md](08-convenciones-de-codigo.md).
 - **Chart.js 4.4.4** (evolución de nota), **marked.js 12.0.2** + **DOMPurify 3.1.6** (Markdown del Tutor IA / plan de estudio, siempre sanitizado antes de `innerHTML`).
+- **Plausible** (`plausible.io/js/script.js`, añadido 2026-08-09) — analítica de visitas sin cookies. Requiere dar de alta `opotracker.tech` en el dashboard de Plausible; sin eso el script carga pero no hay ningún sitio registrado que reciba los datos.
 - Diseño dark mode, acento gradiente naranja→ámbar (`#F97316`/`#0F172A`/`#1E293B`).
 
 ## Infraestructura — **ya desplegado en producción real**, no es solo un plan
@@ -67,7 +69,10 @@ backend/
     │   ├── actividad.py                   # /api/actividad/heatmap y /sesion-estudio
     │   ├── convocatorias.py                # /api/convocatorias (Tablon Premium)
     │   ├── tutor.py                         # /api/tutor/analizar-plaza/{id} (plan de estudio IA)
-    │   └── simulacros.py                     # /api/simulacros/generar y /guardar
+    │   ├── simulacros.py                     # /api/simulacros/generar y /guardar
+    │   ├── contacto.py                        # /api/contacto/enviar (soporte/sugerencias, trato Premium/Gratuito distinto)
+    │   ├── usuarios.py                         # /api/usuarios/me
+    │   └── waitlist.py                          # /api/waitlist + /export.csv (nuevo 2026-08-10, ver 02-autenticacion-y-pagos.md)
     ├── services/
     │   ├── security.py                        # JWT, bcrypt, Authlib, tokens de reset
     │   ├── calculo.py                          # motor de puntuacion fisico/teorico
@@ -77,6 +82,8 @@ backend/
     │   └── rate_limit.py                          # limiter de slowapi (import aislado para evitar ciclo main.py<->chat.py)
     └── conocimiento/                              # ~20 PDFs/TXT de temario real + convocatorias
 ```
+
+Modelo nuevo: **`models/waitlist.py`** (`Waitlist`: email único + fecha_registro, sin FK a `Usuario` a propósito — no exige cuenta para apuntarse). Ver [02-autenticacion-y-pagos.md](02-autenticacion-y-pagos.md).
 
 No listados arriba pero relevantes, en la raíz de `backend/`: **`generar_banco.py`** (genera preguntas del Simulacro con RAG, un tema a la vez, interactivo) y **`generar_banco_completo.py`** (idem pero los 6 temas de una sola vez, no interactivo — es el comando a correr tras ampliar `conocimiento/`, ver [06-simulacros-ia.md](06-simulacros-ia.md)) y **`purgar_preguntas.py`** (vacía la tabla `preguntas_test` antes de regenerar). Todos requieren `GOOGLE_API_KEY` en el `.env` del entorno donde se ejecuten (cargan su propio `load_dotenv()`, no dependen de que la app esté arrancada).
 
