@@ -119,7 +119,7 @@ class ResetPasswordIn(BaseModel):
 
 
 MENSAJE_GENERICO_OLVIDO = (
-    "Si el email existe en nuestro sistema, recibiras un enlace de recuperacion en breve."
+    "Si el email existe en nuestro sistema, recibirás un enlace de recuperación en breve."
 )
 
 

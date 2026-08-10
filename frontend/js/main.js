@@ -198,7 +198,7 @@ formOlvido.addEventListener("submit", async (event) => {
     });
     const data = await res.json();
     olvidoMensajeEl.textContent =
-      data.mensaje ?? "Si el email existe en nuestro sistema, recibiras un enlace en breve.";
+      data.mensaje ?? "Si el email existe en nuestro sistema, recibirás un enlace en breve.";
     olvidoMensajeEl.classList.remove("hidden");
   } catch (err) {
     console.error("Error en olvido-password", err);
@@ -720,7 +720,7 @@ async function cargarGraficaEvolucion() {
     });
   } catch (err) {
     console.error("No se pudo cargar la evolucion", err);
-    mostrarEstadoVacioGrafica("No se pudo cargar tu evolucion ahora mismo. Intentalo de nuevo en unos minutos.");
+    mostrarEstadoVacioGrafica("No se pudo cargar tu evolución ahora mismo. Inténtalo de nuevo en unos minutos.");
   }
 }
 
@@ -1180,7 +1180,7 @@ if (formChat) {
     } catch (err) {
       console.error("No se pudo contactar al tutor IA", err);
       quitarEscribiendo();
-      pintarBurbujaChat("No se pudo conectar con el tutor. Intentalo de nuevo.", "ia");
+      pintarBurbujaChat("No se pudo conectar con el tutor. Inténtalo de nuevo.", "ia");
     } finally {
       chatInput.disabled = false;
       chatInput.focus();

@@ -90,7 +90,7 @@ def exportar_waitlist_csv(request: Request, token: str, db: Session = Depends(ge
     filtre el token por timing attack."""
     token_real = os.environ.get("ADMIN_EXPORT_TOKEN")
     if not token_real or not secrets.compare_digest(token, token_real):
-        raise HTTPException(status_code=403, detail="Token invalido")
+        raise HTTPException(status_code=403, detail="Token inválido")
 
     filas = db.query(Waitlist).order_by(Waitlist.fecha_registro).all()
 
