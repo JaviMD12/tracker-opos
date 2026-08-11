@@ -26,6 +26,7 @@ backend/generar_banco.py), para que la respuesta al frontend sea una consulta
 SQL en vez de una llamada a Gemini en cada peticion.
 """
 
+import re
 from pathlib import Path
 
 from langchain_chroma import Chroma
@@ -48,7 +49,7 @@ from app.services.rutinas import RUTINAS_PRO, TECNICAS_ESTUDIO_PRO
 
 MODELO_CHAT = "gemini-2.5-flash"
 MODELO_EMBEDDINGS = "models/gemini-embedding-001"
-FRAGMENTOS_A_RECUPERAR = 4
+FRAGMENTOS_A_RECUPERAR = 10
 CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 200
 
@@ -146,6 +147,118 @@ def _sanear_texto_unicode(texto: str) -> str:
     return texto.encode("utf-8", errors="ignore").decode("utf-8")
 
 
+def _quitar_cabeceras_repetidas(documentos: list[Document]) -> None:
+    """Quita, en el sitio, las lineas que se repiten identicas en la mayoria
+    de "paginas" de un mismo archivo (cabeceras/pies de pagina tipo
+    "PROCEDIMIENTO OPERATIVO ... Pagina X de 21 ..." que un PDF paginado
+    repite en cada pagina).
+
+    Sin esto, esas lineas cortas y repetidas comparten mucho vocabulario con
+    el titulo/tema del propio documento, asi que la busqueda semantica las
+    recupera antes que el contenido real (tablas, listados especificos) y
+    los primeros resultados quedan copados de cabeceras vacias de contenido.
+    Bug real encontrado con TEMA-36-PROCEDIMIENTOS-DE-TRENES-DE-SALIDA: una
+    pregunta legitima sobre el Parque BC-2 (que si esta en el documento)
+    recuperaba solo cabeceras de pagina repetidas, nunca la tabla de
+    vehiculos de ese parque.
+
+    Los TXT (un unico Document por archivo, sin paginacion) nunca disparan
+    esto: el umbral exige al menos 3 "paginas" del mismo archivo.
+
+    Las cabeceras/pies con numero de pagina ("Pagina 5 de 21...") no son
+    identicas byte a byte entre paginas -- se comparan normalizando primero
+    los digitos (\\d+ -> #), pero se eliminan las lineas originales, no la
+    version normalizada."""
+    por_archivo: dict[str, list[Document]] = {}
+    for documento in documentos:
+        por_archivo.setdefault(documento.metadata["archivo"], []).append(documento)
+
+    for paginas in por_archivo.values():
+        if len(paginas) < 3:
+            continue
+
+        conteo_normalizadas: dict[str, int] = {}
+        for pagina in paginas:
+            normalizadas_de_esta_pagina = {
+                re.sub(r"\d+", "#", linea.strip())
+                for linea in pagina.page_content.split("\n")
+                if linea.strip()
+            }
+            for normalizada in normalizadas_de_esta_pagina:
+                conteo_normalizadas[normalizada] = conteo_normalizadas.get(normalizada, 0) + 1
+
+        umbral = max(3, len(paginas) * 0.5)
+        normalizadas_repetidas = {
+            normalizada for normalizada, veces in conteo_normalizadas.items()
+            if veces >= umbral and len(normalizada) <= 200
+        }
+        if not normalizadas_repetidas:
+            continue
+
+        for pagina in paginas:
+            pagina.page_content = "\n".join(
+                linea for linea in pagina.page_content.split("\n")
+                if re.sub(r"\d+", "#", linea.strip()) not in normalizadas_repetidas
+            )
+
+
+_PATRON_MARCADOR_PARQUE = re.compile(r"^PARQUE\b.*\bBC-\d+\b")
+
+
+def _marcar_paginas_con_parque_actual(documentos: list[Document]) -> None:
+    """Anota en la metadata de cada "pagina" (clave 'parque_actual') la
+    ultima etiqueta de parque ("PARQUE MOVIL DE BC-2", "PARQUE DE LA SIERRA
+    ORIENTAL, BC-2"...) vista en paginas anteriores del mismo archivo,
+    mientras no aparezca una etiqueta nueva. No toca el contenido todavia
+    -- eso lo hace _propagar_marcador_a_fragmentos(), DESPUES de trocear
+    (ver su docstring para el motivo).
+
+    Solo dispara en lineas que EMPIEZAN por "PARQUE" en mayusculas exactas
+    (no cualquier mencion de "BC-N" en mitad de una frase, como las
+    referencias cruzadas de TEMA-35 tipo "...a la que acude BC-9", ni un
+    salto de linea de pypdf a mitad de frase en minusculas -- caso real
+    encontrado en TEMA-34: "parque BC-2, se denomina FP-2." es la
+    continuacion de una oracion, no una cabecera de seccion) y en archivos
+    de al menos 2 "paginas" -- los TXT (una sola pagina) nunca lo disparan."""
+    por_archivo: dict[str, list[Document]] = {}
+    for documento in documentos:
+        por_archivo.setdefault(documento.metadata["archivo"], []).append(documento)
+
+    for paginas in por_archivo.values():
+        if len(paginas) < 2:
+            continue
+        paginas_en_orden = sorted(paginas, key=lambda d: d.metadata.get("page", 0))
+
+        marcador_actual = None
+        for pagina in paginas_en_orden:
+            for linea in pagina.page_content.split("\n"):
+                linea_limpia = linea.strip()
+                if len(linea_limpia) <= 80 and _PATRON_MARCADOR_PARQUE.match(linea_limpia):
+                    marcador_actual = linea_limpia
+            if marcador_actual:
+                pagina.metadata["parque_actual"] = marcador_actual
+
+
+def _propagar_marcador_a_fragmentos(fragmentos: list[Document]) -> None:
+    """Antepone, en el sitio, la etiqueta de parque guardada en
+    metadata['parque_actual'] (ver _marcar_paginas_con_parque_actual) al
+    contenido de cada FRAGMENTO ya troceado que no la mencione ya.
+
+    Hacerlo tras trocear -- no antes, sobre la pagina completa -- importa:
+    una pagina de ~2000 caracteres se puede partir en 2-3 fragmentos de
+    1000, y si la etiqueta solo se antepusiera una vez a la pagina entera,
+    solo el primer fragmento resultante la conservaria, los demas la
+    perderian en el troceo igual que sin el fix. Bug real (TEMA-36): con la
+    etiqueta puesta solo a nivel de pagina, una pregunta sobre el Parque
+    BC-2 seguia recuperando el fragmento de OTRO parque (BC-1) en vez del de
+    BC-2, porque la etiqueta quedaba diluida en un fragmento de pagina
+    completa en vez de presente en cada fragmento pequeño."""
+    for fragmento in fragmentos:
+        marcador = fragmento.metadata.get("parque_actual")
+        if marcador and marcador not in fragmento.page_content:
+            fragmento.page_content = f"[{marcador}]\n" + fragmento.page_content
+
+
 def _cargar_documentos_conocimiento() -> list[Document]:
     """Escanea backend/app/conocimiento/ y carga todos los PDF y TXT que encuentre."""
     documentos: list[Document] = []
@@ -169,6 +282,9 @@ def _cargar_documentos_conocimiento() -> list[Document]:
         # cada tema recupere por pura similitud semantica fragmentos de
         # documentos que no le corresponden.
         documento.metadata["archivo"] = Path(documento.metadata["source"]).name
+
+    _quitar_cabeceras_repetidas(documentos)
+    _marcar_paginas_con_parque_actual(documentos)
 
     return documentos
 
@@ -210,6 +326,7 @@ def _obtener_vectorstore() -> Chroma:
         chunk_size=CHUNK_SIZE, chunk_overlap=CHUNK_OVERLAP
     )
     fragmentos = splitter.split_documents(documentos)
+    _propagar_marcador_a_fragmentos(fragmentos)
     _vectorstore = Chroma.from_documents(
         fragmentos,
         embeddings,
