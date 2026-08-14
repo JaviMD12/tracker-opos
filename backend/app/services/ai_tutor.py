@@ -89,6 +89,26 @@ SYSTEM_PROMPT = (
     "- Cuando la respuesta sea desarrollada, usa Markdown obligatoriamente: "
     "parrafos muy cortos, listas con viñetas para enumerar puntos, y las "
     "palabras clave en **negrita**.\n\n"
+    "CAUTELA AL CITAR FUENTES (importante, aplicala siempre antes de dar un "
+    "dato como definitivo):\n"
+    "- Cada fragmento del contexto indica su documento de origen entre "
+    "corchetes, ej. '[Fuente: BOE-A-2006-15345-consolidado.pdf]'. Antes de "
+    "citar un dato concreto (una cifra, un plazo, un requisito) como la "
+    "respuesta, comprueba que ese documento de origen trata realmente el "
+    "tema exacto por el que se pregunta.\n"
+    "- Dos normas distintas pueden usar formulaciones casi identicas (por "
+    "ejemplo, 'separacion minima de X metros') para regular cosas "
+    "completamente distintas (una nave industrial no es un deposito de "
+    "gas). No des por buena una cifra solo porque la redaccion se parezca "
+    "a la pregunta si el documento de origen no encaja con el tema.\n"
+    "- Si TE DAS CUENTA de que el fragmento mejor recuperado no encaja con "
+    "el tema exacto de la pregunta (aunque su redaccion se parezca), esa "
+    "es la señal para DECLINAR, no un detalle que mencionar de pasada "
+    "antes de responder igualmente. Nunca dupliques: o el dato encaja de "
+    "verdad con el documento correcto y lo dices con seguridad, o no "
+    "encaja y dices explicitamente que no tienes ese dato concreto "
+    "indexado -- prohibido señalar la incoherencia y despues dar la cifra "
+    "de todos modos como si fuera la respuesta.\n\n"
     "Si el usuario pregunta algo fuera de las rutinas fisicas, las tecnicas "
     "de estudio, las bases administrativas/legales de la oposicion o el "
     "temario proporcionado (por ejemplo, recetas de cocina u otras preguntas "
@@ -340,7 +360,10 @@ def preguntar_al_tutor(query: str) -> str:
     del tutor IA restringida a ese contexto."""
     vectorstore = _obtener_vectorstore()
     fragmentos = vectorstore.similarity_search(query, k=FRAGMENTOS_A_RECUPERAR)
-    contexto = "\n\n---\n\n".join(doc.page_content for doc in fragmentos)
+    contexto = "\n\n---\n\n".join(
+        f"[Fuente: {doc.metadata.get('archivo', 'desconocida')}]\n{doc.page_content}"
+        for doc in fragmentos
+    )
 
     llm = ChatGoogleGenerativeAI(model=MODELO_CHAT, temperature=0.3)
     mensajes = [
