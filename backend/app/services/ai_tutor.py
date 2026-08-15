@@ -139,7 +139,10 @@ def _construir_documentos_diccionarios() -> list[Document]:
             f"Bibliografia: {rutina['bibliografia']}"
         )
         documentos.append(
-            Document(page_content=texto, metadata={"tipo": "rutina_fisica", "prueba": clave})
+            Document(
+                page_content=texto,
+                metadata={"tipo": "rutina_fisica", "prueba": clave, "archivo": "RUTINAS_PRO"},
+            )
         )
 
     for clave, tecnica in TECNICAS_ESTUDIO_PRO.items():
@@ -151,7 +154,10 @@ def _construir_documentos_diccionarios() -> list[Document]:
             f"Ejemplo aplicado al temario: {tecnica['ejemplo_aplicado']}"
         )
         documentos.append(
-            Document(page_content=texto, metadata={"tipo": "tecnica_estudio", "clave": clave})
+            Document(
+                page_content=texto,
+                metadata={"tipo": "tecnica_estudio", "clave": clave, "archivo": "TECNICAS_ESTUDIO_PRO"},
+            )
         )
 
     return documentos
