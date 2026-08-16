@@ -30,6 +30,7 @@ import re
 from pathlib import Path
 
 import openpyxl
+import pdfplumber
 from docx import Document as DocxDocument
 from docx.oxml.table import CT_Tbl
 from docx.oxml.text.paragraph import CT_P
@@ -55,7 +56,7 @@ from app.services.rutinas import RUTINAS_PRO, TECNICAS_ESTUDIO_PRO
 
 MODELO_CHAT = "gemini-2.5-flash"
 MODELO_EMBEDDINGS = "models/gemini-embedding-001"
-FRAGMENTOS_A_RECUPERAR = 10
+FRAGMENTOS_A_RECUPERAR = 15
 CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 200
 
@@ -84,11 +85,48 @@ SYSTEM_PROMPT = (
     "documentos (incluida la convocatoria oficial y sus bases legales) del "
     "Plan Pro del usuario. No uses conocimiento general ni inventes datos que "
     "no esten en ese contexto.\n\n"
+    "REGLAS DE ORO (blindaje anti-alucinacion, aplicalas siempre antes de "
+    "responder, con prioridad sobre el resto de instrucciones):\n"
+    "1. FUENTE UNICA: responde unicamente en base a la normativa oficial y "
+    "el temario aportados en tu contexto. Antes de declinar nada, revisa "
+    "TODO el contexto recuperado en busca de contenido relacionado "
+    "(formulas, principios, procedimientos, tablas, valores aproximados) "
+    "que si permita responder de forma util, aunque no incluya literalmente "
+    "la cifra exacta pedida -- usa siempre primero lo que si esta "
+    "respaldado. Solo si, tras revisar el contexto completo, un dato "
+    "exacto concreto (una cifra, un articulo, un plazo) sigue sin estar "
+    "respaldado, NO lo estimes, deduzcas ni inventes -- para ESE dato "
+    "concreto (no para toda la respuesta) responde textualmente 'Dato no "
+    "especificado en la normativa base', combinandolo con la informacion "
+    "relacionada que si tengas.\n"
+    "2. ANTI-COMPLACENCIA: si el usuario formula su pregunta dando por "
+    "buena una cifra, un dato o un supuesto erroneo (una premisa falsa), "
+    "no se lo valides ni lo dejes pasar de forma implicita -- corrigele la "
+    "premisa de forma inmediata y directa, con el dato correcto si lo "
+    "tienes en el contexto, ANTES de continuar con el resto de la "
+    "respuesta.\n"
+    "3. CITA OBLIGATORIA Y PERTINENTE: en toda respuesta de caracter "
+    "tecnico o normativo, justifica el dato citando el articulo, la "
+    "ley/norma o la tabla de referencia concretos de donde sale -- nunca "
+    "des una cifra o un requisito tecnico sin decir de que documento/"
+    "articulo procede. Pero la cita tiene que ser real y pertinente: NUNCA "
+    "cites un articulo, ley o tabla solo porque aparecio en la busqueda si "
+    "su contenido no trata realmente el tema exacto de la pregunta -- ni "
+    "siquiera a modo de ejemplo o para ilustrar de pasada que 'esto no lo "
+    "regula' (mencionar un articulo irrelevante sigue siendo una cita "
+    "irrelevante). Si no hay ninguna cita pertinente que dar, esa es la "
+    "señal para declinar segun la regla 1, no para citar la opcion menos "
+    "mala disponible.\n\n"
     "REGLA DE LONGITUD (estricta, aplicala siempre antes de responder):\n"
     "- Si la pregunta pide un dato concreto y cerrado (un plazo, una fecha, "
     "un requisito puntual de una ley, una cifra, un limite...), responde "
-    "UNICAMENTE con ese dato en una sola frase directa. Nada de "
-    "introducciones, contexto previo ni justificaciones añadidas.\n"
+    "con ese dato en una frase directa, sin introducciones ni contexto "
+    "previo. Si el contexto vincula ese mismo dato a una condicion o "
+    "excepcion explicita (un umbral distinto segun el uso del edificio, "
+    "una salvedad normativa concreta), incluyela en esa misma frase -- "
+    "omitir una condicion que cambia la respuesta no es ser conciso, es "
+    "dar un dato incompleto. Nada de justificaciones añadidas que no "
+    "cambien el dato en si.\n"
     "- Da una respuesta larga y desarrollada SOLO si el usuario la pide de "
     "forma explicita (por ejemplo: 'explicame', 'resume', 'cuentame mas', "
     "'desarrolla', 'por que', 'en detalle').\n"
@@ -109,12 +147,12 @@ SYSTEM_PROMPT = (
     "a la pregunta si el documento de origen no encaja con el tema.\n"
     "- Si TE DAS CUENTA de que el fragmento mejor recuperado no encaja con "
     "el tema exacto de la pregunta (aunque su redaccion se parezca), esa "
-    "es la señal para DECLINAR, no un detalle que mencionar de pasada "
-    "antes de responder igualmente. Nunca dupliques: o el dato encaja de "
-    "verdad con el documento correcto y lo dices con seguridad, o no "
-    "encaja y dices explicitamente que no tienes ese dato concreto "
-    "indexado -- prohibido señalar la incoherencia y despues dar la cifra "
-    "de todos modos como si fuera la respuesta.\n"
+    "es la señal para DECLINAR (regla 1, 'Dato no especificado en la "
+    "normativa base'), no un detalle que mencionar de pasada antes de "
+    "responder igualmente. Nunca dupliques: o el dato encaja de verdad con "
+    "el documento correcto y lo dices con seguridad, o no encaja y lo "
+    "declinas explicitamente -- prohibido señalar la incoherencia y "
+    "despues dar la cifra de todos modos como si fuera la respuesta.\n"
     "- Antes de citar, comprueba tambien que la CATEGORIA del documento de "
     "origen encaja con la CATEGORIA de la pregunta, no solo el vocabulario "
     "concreto. Un decreto o ley sobre acceso, organizacion o personal (por "
@@ -385,12 +423,70 @@ def _cargar_documentos_xlsx() -> list[Document]:
     return documentos
 
 
+def _tabla_a_markdown(tabla: list[list]) -> str:
+    """Convierte una tabla extraida por pdfplumber (lista de filas, cada fila
+    una lista de celdas) a una tabla Markdown (formato pipe). Necesario
+    porque PyPDFDirectoryLoader (pypdf) no entiende la estructura de una
+    tabla: solo extrae el texto en el orden en que aparece en el PDF, asi
+    que una tabla de varias columnas se aplana a una lista lineal de
+    numeros sin ninguna separacion visual entre filas/columnas. Bug real
+    verificado (2026-08-16): con ese volcado plano, el tutor confundio la
+    columna de 200 l/min con la de 1000 l/min en una tabla de perdida de
+    carga de mangueras y dio una cifra incorrecta con total seguridad. Una
+    tabla Markdown, en cambio, preserva la posicion de cada valor de forma
+    explicita fila a fila."""
+    filas = [
+        [str(celda).strip() if celda is not None else "" for celda in fila]
+        for fila in tabla
+        if any(celda not in (None, "") for celda in fila)
+    ]
+    if len(filas) < 2 or len(filas[0]) < 2:
+        return ""
+
+    cabecera = filas[0]
+    ancho = len(cabecera)
+    lineas = [
+        "| " + " | ".join(cabecera) + " |",
+        "| " + " | ".join(["---"] * ancho) + " |",
+    ]
+    for fila in filas[1:]:
+        fila = (fila + [""] * ancho)[:ancho]
+        lineas.append("| " + " | ".join(fila) + " |")
+    return "\n".join(lineas)
+
+
+def _extraer_tablas_pdf(ruta: Path) -> list[Document]:
+    """Extrae las tablas reales (con estructura de filas/columnas, via
+    pdfplumber) de un PDF y las devuelve como Document adicionales en
+    formato Markdown. Complementa, no sustituye, el texto plano que ya
+    carga PyPDFDirectoryLoader para el mismo archivo -- asi no se toca la
+    extraccion de texto ya verificada (cabeceras repetidas, marcador de
+    parque en TEMA-36, etc.), solo se añade una version sin ambiguedad de
+    cada tabla junto a ella."""
+    documentos = []
+    with pdfplumber.open(str(ruta)) as pdf:
+        for numero_pagina, pagina in enumerate(pdf.pages):
+            for tabla in pagina.extract_tables():
+                markdown = _tabla_a_markdown(tabla)
+                if markdown:
+                    documentos.append(
+                        Document(
+                            page_content=f"Tabla (pagina {numero_pagina + 1}):\n{markdown}",
+                            metadata={"source": str(ruta), "page": numero_pagina},
+                        )
+                    )
+    return documentos
+
+
 def _cargar_documentos_conocimiento() -> list[Document]:
     """Escanea backend/app/conocimiento/ y carga todos los PDF, TXT, DOCX y
     XLSX que encuentre."""
     documentos: list[Document] = []
 
     documentos.extend(PyPDFDirectoryLoader(str(CARPETA_CONOCIMIENTO)).load())
+
+    for ruta_pdf in sorted(CARPETA_CONOCIMIENTO.glob("*.pdf")):
+        documentos.extend(_extraer_tablas_pdf(ruta_pdf))
 
     cargador_txt = DirectoryLoader(
         str(CARPETA_CONOCIMIENTO),
