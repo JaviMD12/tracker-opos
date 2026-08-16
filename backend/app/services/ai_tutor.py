@@ -29,6 +29,12 @@ SQL en vez de una llamada a Gemini en cada peticion.
 import re
 from pathlib import Path
 
+import openpyxl
+from docx import Document as DocxDocument
+from docx.oxml.table import CT_Tbl
+from docx.oxml.text.paragraph import CT_P
+from docx.table import Table as DocxTable
+from docx.text.paragraph import Paragraph as DocxParagraph
 from langchain_chroma import Chroma
 from langchain_community.document_loaders import (
     DirectoryLoader,
@@ -108,7 +114,17 @@ SYSTEM_PROMPT = (
     "verdad con el documento correcto y lo dices con seguridad, o no "
     "encaja y dices explicitamente que no tienes ese dato concreto "
     "indexado -- prohibido señalar la incoherencia y despues dar la cifra "
-    "de todos modos como si fuera la respuesta.\n\n"
+    "de todos modos como si fuera la respuesta.\n"
+    "- Antes de citar, comprueba tambien que la CATEGORIA del documento de "
+    "origen encaja con la CATEGORIA de la pregunta, no solo el vocabulario "
+    "concreto. Un decreto o ley sobre acceso, organizacion o personal (por "
+    "ejemplo, el Decreto 36/2025 de acceso a los SPEIS) casi nunca es la "
+    "fuente correcta de un concepto tecnico de hidraulica, fisica o "
+    "ingenieria (por ejemplo, el golpe de ariete) aunque ese termino "
+    "aparezca mencionado de pasada en un indice o un temario dentro del "
+    "documento -- una mencion de pasada no es una explicacion del "
+    "concepto. Si la categoria del documento no encaja con la categoria de "
+    "la pregunta, trata el fragmento como ruido y declina en vez de citarlo.\n\n"
     "Si el usuario pregunta algo fuera de las rutinas fisicas, las tecnicas "
     "de estudio, las bases administrativas/legales de la oposicion o el "
     "temario proporcionado (por ejemplo, recetas de cocina u otras preguntas "
@@ -285,8 +301,93 @@ def _propagar_marcador_a_fragmentos(fragmentos: list[Document]) -> None:
             fragmento.page_content = f"[{marcador}]\n" + fragmento.page_content
 
 
+def _iterar_bloques_docx(documento_docx):
+    """Recorre el cuerpo de un .docx en orden real de aparicion, devolviendo
+    parrafos y tablas intercalados tal como los veria un lector humano.
+    python-docx no ofrece esto de serie: `documento.paragraphs` y
+    `documento.tables` son dos listas separadas que pierden el orden y no
+    dicen que tabla iba entre que parrafos -- hay que iterar
+    `documento.element.body` directamente y distinguir cada hijo por su tag
+    XML (`CT_P` = parrafo, `CT_Tbl` = tabla)."""
+    for hijo in documento_docx.element.body.iterchildren():
+        if isinstance(hijo, CT_P):
+            yield DocxParagraph(hijo, documento_docx)
+        elif isinstance(hijo, CT_Tbl):
+            yield DocxTable(hijo, documento_docx)
+
+
+def _texto_de_tabla_docx(tabla: DocxTable) -> str:
+    """Aplana una tabla de Word a texto: una linea por fila, celdas unidas
+    con ' | '. Sin esto, el contenido de las tablas (frecuente en los
+    documentos de referencia de parques/riesgos que deposita el usuario) se
+    perderia por completo -- `documento.paragraphs` no incluye texto de
+    dentro de tablas."""
+    lineas = []
+    for fila in tabla.rows:
+        celdas = [celda.text.strip() for celda in fila.cells]
+        if any(celdas):
+            lineas.append(" | ".join(celdas))
+    return "\n".join(lineas)
+
+
+def _cargar_documentos_docx() -> list[Document]:
+    """Carga cada .docx de conocimiento/ como un unico Document (sin
+    paginacion, igual que los TXT), preservando parrafos y tablas en orden.
+    Sin este loader, cualquier .docx depositado en conocimiento/ se ignoraba
+    en silencio -- ya paso de verdad con varios documentos reales del
+    usuario (preguntas de repaso, contenido de la provincia de Huelva, base
+    de conocimiento de parques de bomberos con 20 tablas)."""
+    documentos = []
+    for ruta in sorted(CARPETA_CONOCIMIENTO.glob("*.docx")):
+        doc = DocxDocument(str(ruta))
+        partes = []
+        for bloque in _iterar_bloques_docx(doc):
+            if isinstance(bloque, DocxParagraph):
+                if bloque.text.strip():
+                    partes.append(bloque.text)
+            else:
+                texto_tabla = _texto_de_tabla_docx(bloque)
+                if texto_tabla:
+                    partes.append(texto_tabla)
+        texto = "\n".join(partes)
+        if texto.strip():
+            documentos.append(Document(page_content=texto, metadata={"source": str(ruta)}))
+    return documentos
+
+
+def _cargar_documentos_xlsx() -> list[Document]:
+    """Carga cada .xlsx de conocimiento/ como un Document por hoja, uniendo
+    las celdas no vacias de cada fila con ' | '. No asume una estructura de
+    columnas fija: las hojas reales de este proyecto no siguen todas el
+    mismo layout (ej. GENTILICIOS.xlsx repite pares municipio/gentilicio en
+    columnas A-B, C-D y E-F de la misma fila, y su Hoja2 tiene datos de
+    superficie en vez de gentilicio en la columna B -- error del propio
+    archivo fuente, no de este loader). `data_only=True` para leer valores
+    calculados de formulas en vez de la formula en si; `read_only=True`
+    porque solo se necesita lectura, evita cargar estilos innecesarios."""
+    documentos = []
+    for ruta in sorted(CARPETA_CONOCIMIENTO.glob("*.xlsx")):
+        libro = openpyxl.load_workbook(str(ruta), data_only=True, read_only=True)
+        for hoja in libro.worksheets:
+            lineas = []
+            for fila in hoja.iter_rows(values_only=True):
+                celdas = [str(valor).strip() for valor in fila if valor not in (None, "")]
+                if celdas:
+                    lineas.append(" | ".join(celdas))
+            texto = "\n".join(lineas)
+            if texto.strip():
+                documentos.append(
+                    Document(
+                        page_content=f"{ruta.stem} - {hoja.title}\n{texto}",
+                        metadata={"source": str(ruta)},
+                    )
+                )
+    return documentos
+
+
 def _cargar_documentos_conocimiento() -> list[Document]:
-    """Escanea backend/app/conocimiento/ y carga todos los PDF y TXT que encuentre."""
+    """Escanea backend/app/conocimiento/ y carga todos los PDF, TXT, DOCX y
+    XLSX que encuentre."""
     documentos: list[Document] = []
 
     documentos.extend(PyPDFDirectoryLoader(str(CARPETA_CONOCIMIENTO)).load())
@@ -299,6 +400,9 @@ def _cargar_documentos_conocimiento() -> list[Document]:
         silent_errors=True,
     )
     documentos.extend(cargador_txt.load())
+
+    documentos.extend(_cargar_documentos_docx())
+    documentos.extend(_cargar_documentos_xlsx())
 
     for documento in documentos:
         documento.page_content = _sanear_texto_unicode(documento.page_content)
