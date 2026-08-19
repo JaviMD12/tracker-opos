@@ -2,6 +2,7 @@ import os
 import sys
 import json
 import requests
+from datetime import datetime, timezone
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -96,6 +97,13 @@ def crear_post(channel_id: str, texto: str, due_at: str | None = None):
         print(json.dumps(datos["post"], indent=2, ensure_ascii=False))
 
 
+def _fecha_local_a_iso_utc(fecha_hora_str: str) -> str:
+    """Convierte 'YYYY-MM-DD HH:MM' (hora local del sistema) a ISO 8601 UTC,
+    el formato que exige dueAt en la mutation createPost."""
+    dt_local = datetime.strptime(fecha_hora_str, "%Y-%m-%d %H:%M").astimezone()
+    return dt_local.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.000Z")
+
+
 if __name__ == "__main__":
     if len(sys.argv) > 1 and sys.argv[1] == "listar":
         listar_perfiles()
@@ -103,9 +111,18 @@ if __name__ == "__main__":
         # Uso: python buffer_tool.py publicar <channel_id> "<texto>" [due_at_iso8601]
         due_at = sys.argv[4] if len(sys.argv) > 4 else None
         crear_post(sys.argv[2], sys.argv[3], due_at)
+    elif len(sys.argv) > 4 and sys.argv[1] == "programar":
+        # Uso: python buffer_tool.py programar <channel_id> "<texto>" 'YYYY-MM-DD HH:MM'
+        try:
+            due_at = _fecha_local_a_iso_utc(sys.argv[4])
+        except ValueError:
+            print("Formato de fecha invalido. Usa: 'YYYY-MM-DD HH:MM' (hora local)")
+            sys.exit(1)
+        crear_post(sys.argv[2], sys.argv[3], due_at)
     else:
         print(
             "Uso:\n"
             "  python buffer_tool.py listar\n"
-            "  python buffer_tool.py publicar <channel_id> '<texto>' [due_at_iso8601]"
+            "  python buffer_tool.py publicar <channel_id> '<texto>' [due_at_iso8601]\n"
+            "  python buffer_tool.py programar <channel_id> '<texto>' 'YYYY-MM-DD HH:MM'"
         )
