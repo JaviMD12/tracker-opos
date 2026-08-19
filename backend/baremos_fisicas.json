@@ -1,0 +1,70 @@
+{
+  "_fuente": "Anuncio_356176_BOP-80_2026.pdf, ANEXO-3, Decreto 36/2025 de 11 de febrero (acceso por turno libre, categoría Bombero/a) -- Consorcio Provincial contra Incendios y Salvamentos de Huelva, paginas 35-37",
+  "_nota_control_calidad": "Las 3 tablas de tiempo (velocidad, resistencia, natacion) tienen tramos con notacion '>X\" / Y\"' en el PDF original. Interpretado como rango (X, Y] -- estrictamente mayor que X, hasta Y inclusive. Interpretacion confirmada por el usuario (2026-08-18) tras revisar el PDF original.",
+  "ejercicio_1_dominadas": {
+    "descripcion": "Flexiones en barra (dominadas), suspension pura, minimo 12 para superar la prueba",
+    "unidad": "repeticiones (a mas repeticiones, mas puntos)",
+    "mujeres": {"5": 12, "6": 14, "7": 18, "8": 21, "9": 23, "10": 25},
+    "hombres": {"5": 12, "6": 16, "7": 20, "8": 24, "9": 26, "10": 30}
+  },
+  "ejercicio_2_velocidad_100m": {
+    "descripcion": "Carrera de velocidad 100 metros",
+    "unidad": "segundos (a menos tiempo, mas puntos)",
+    "mujeres": {
+      "10": "<=12,80\"",
+      "9": ">12,80\" y <=13,10\"",
+      "8": ">13,10\" y <=13,40\"",
+      "7": ">13,40\" y <=14,00\"",
+      "6": ">14,00\" y <=14,20\"",
+      "5": ">14,20\" y <=14,50\""
+    },
+    "hombres": {
+      "10": "<=12,20\"",
+      "9": ">12,20\" y <=12,50\"",
+      "8": ">12,50\" y <=13,20\"",
+      "7": ">13,20\" y <=13,50\"",
+      "6": ">13,50\" y <=14,20\"",
+      "5": ">14,20\" y <=14,50\""
+    }
+  },
+  "ejercicio_3_resistencia_1500m": {
+    "descripcion": "Carrera de resistencia 1.500 metros",
+    "unidad": "minutos'segundos\" (a menos tiempo, mas puntos)",
+    "mujeres": {
+      "10": "<=5'00,00\"",
+      "9": ">5'00,00\" y <=5'08,00\"",
+      "8": ">5'08,00\" y <=5'16,00\"",
+      "7": ">5'16,00\" y <=5'25,00\"",
+      "6": ">5'25,00\" y <=5'42,00\"",
+      "5": ">5'42,00\" y <=6'06,00\""
+    },
+    "hombres": {
+      "10": "<=4'32,00\"",
+      "9": ">4'32,00\" y <=4'40,00\"",
+      "8": ">4'40,00\" y <=4'48,00\"",
+      "7": ">4'48,00\" y <=5'05\"",
+      "6": ">5'05\" y <=5'42,00\"",
+      "5": ">5'42,00\" y <=6'06,00\""
+    }
+  },
+  "ejercicio_4_natacion_100m": {
+    "descripcion": "Natacion 100 metros estilo libre",
+    "unidad": "minutos'segundos\" (a menos tiempo, mas puntos)",
+    "mujeres": {
+      "10": "<=1'20\"",
+      "9": ">1'20\" y <=1'23\"",
+      "8": ">1'23\" y <=1'27\"",
+      "7": ">1'27\" y <=1'32\"",
+      "6": ">1'32\" y <=1'40\"",
+      "5": ">1'40\" y <=1'50\""
+    },
+    "hombres": {
+      "10": "<=1'18\"",
+      "9": ">1'18\" y <=1'21\"",
+      "8": ">1'21\" y <=1'25\"",
+      "7": ">1'25\" y <=1'30\"",
+      "6": ">1'30\" y <=1'40\"",
+      "5": ">1'40\" y <=1'50\""
+    }
+  }
+}
