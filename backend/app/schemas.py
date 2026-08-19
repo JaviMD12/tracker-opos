@@ -26,6 +26,9 @@ class Token(BaseModel):
 
 class MarcaFisicaCreate(BaseModel):
     fecha: date | None = Field(default=None, description="Si se omite, se usa la fecha de hoy")
+    sexo: Literal["hombre", "mujer"] = Field(
+        description="El baremo oficial fija marcas distintas por sexo; obligatorio, sin valor por defecto"
+    )
     dominadas: int = Field(ge=0, description="Repeticiones")
     sprint_100m: float = Field(gt=0, description="Segundos")
     carrera_1500m: int = Field(gt=0, description="Segundos totales")
@@ -37,6 +40,7 @@ class MarcaFisicaOut(BaseModel):
 
     id: int
     fecha: date
+    sexo: str
     dominadas: int
     sprint_100m: float
     carrera_1500m: int
@@ -45,6 +49,16 @@ class MarcaFisicaOut(BaseModel):
 
 class MarcaFisicaCalculada(BaseModel):
     marca: MarcaFisicaOut
+    detalle: dict
+    nota_global: float
+    recomendacion: dict | None
+
+
+class PuntuacionPreview(BaseModel):
+    """Igual que MarcaFisicaCalculada pero sin el campo 'marca' -- se usa
+    para recalcular en vivo (ej. al cambiar el selector de sexo) sin crear
+    una fila nueva en marcas_fisicas."""
+
     detalle: dict
     nota_global: float
     recomendacion: dict | None

@@ -6,7 +6,7 @@ from sqlalchemy.orm import Session
 from app.database import get_db
 from app.models.marca import MarcaFisica
 from app.models.usuario import Usuario
-from app.schemas import MarcaFisicaCreate, MarcaFisicaCalculada, MarcaFisicaOut
+from app.schemas import MarcaFisicaCreate, MarcaFisicaCalculada, MarcaFisicaOut, PuntuacionPreview
 from app.services.calculo import calcular_puntuacion_completa
 from app.services.security import get_current_user
 
@@ -22,6 +22,7 @@ def crear_marca(
     marca = MarcaFisica(
         fecha=marca_in.fecha or date.today(),
         usuario_id=current_user.id,
+        sexo=marca_in.sexo,
         dominadas=marca_in.dominadas,
         sprint_100m=marca_in.sprint_100m,
         carrera_1500m=marca_in.carrera_1500m,
@@ -36,10 +37,33 @@ def crear_marca(
         sprint_100m=marca.sprint_100m,
         carrera_1500m=marca.carrera_1500m,
         natacion_100m=marca.natacion_100m,
+        sexo=marca.sexo,
     )
 
     return MarcaFisicaCalculada(
         marca=MarcaFisicaOut.model_validate(marca),
+        detalle=resultado["detalle"],
+        nota_global=resultado["nota_global"],
+        recomendacion=resultado["recomendacion"],
+    )
+
+
+@router.post("/preview", response_model=PuntuacionPreview)
+def preview_puntuacion(
+    marca_in: MarcaFisicaCreate,
+    current_user: Usuario = Depends(get_current_user),
+):
+    """Recalcula la puntuacion sin guardar nada en BD -- para que el
+    Dashboard reaccione al instante al cambiar el selector de sexo (u
+    otro campo) antes de que el usuario decida registrar la marca."""
+    resultado = calcular_puntuacion_completa(
+        dominadas=marca_in.dominadas,
+        sprint_100m=marca_in.sprint_100m,
+        carrera_1500m=marca_in.carrera_1500m,
+        natacion_100m=marca_in.natacion_100m,
+        sexo=marca_in.sexo,
+    )
+    return PuntuacionPreview(
         detalle=resultado["detalle"],
         nota_global=resultado["nota_global"],
         recomendacion=resultado["recomendacion"],

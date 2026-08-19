@@ -66,6 +66,7 @@ def _asegurar_columna(tabla: str, columna: str, tipo_sql: str) -> None:
 _asegurar_columna("usuarios", "stripe_customer_id", "VARCHAR")
 _asegurar_columna("usuarios", "tour_premium_completado", "BOOLEAN NOT NULL DEFAULT false")
 _asegurar_columna("convocatorias", "fecha_limite", "TIMESTAMP")
+_asegurar_columna("marcas_fisicas", "sexo", "VARCHAR(10) NOT NULL DEFAULT 'hombre'")
 
 
 def _backfill_fecha_limite_convocatorias() -> None:

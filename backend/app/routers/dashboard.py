@@ -40,6 +40,7 @@ def dashboard_global(
             sprint_100m=ultima_marca.sprint_100m,
             carrera_1500m=ultima_marca.carrera_1500m,
             natacion_100m=ultima_marca.natacion_100m,
+            sexo=ultima_marca.sexo,
         )
         nota_fisica = {
             "valor": resultado["nota_global"],
@@ -142,6 +143,7 @@ def dashboard_evolucion(
                 sprint_100m=marca.sprint_100m,
                 carrera_1500m=marca.carrera_1500m,
                 natacion_100m=marca.natacion_100m,
+                sexo=marca.sexo,
             )
             last_fisica_valor = resultado["nota_global"]
             last_fisica_pct = last_fisica_valor / NOTA_FISICA_MAXIMA

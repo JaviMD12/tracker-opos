@@ -36,6 +36,7 @@ def entrenamiento_especifico(
         sprint_100m=ultima_marca.sprint_100m,
         carrera_1500m=ultima_marca.carrera_1500m,
         natacion_100m=ultima_marca.natacion_100m,
+        sexo=ultima_marca.sexo,
     )
 
     detalle = resultado["detalle"]

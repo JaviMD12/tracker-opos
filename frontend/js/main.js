@@ -247,6 +247,66 @@ const resultadoBox = document.getElementById("resultado");
 const tablaDetalle = document.getElementById("tabla-detalle");
 const recomendacionBox = document.getElementById("recomendacion");
 
+// ---------- Selector Hombre/Mujer: el baremo oficial (BOP Huelva 80/2026)
+// fija marcas distintas por sexo, ver backend/baremos_fisicas.json y
+// app/services/calculo.py. Cambiar el selector recalcula la puntuacion al
+// instante contra /api/marcas/preview (sin guardar nada en BD) para que el
+// usuario vea el efecto real antes de decidir registrar la marca. ----------
+const sexoBotones = document.querySelectorAll(".sexo-btn");
+const sexoInput = document.getElementById("sexo");
+
+function leerCamposNumericosMarca() {
+  const dominadas = Number(document.getElementById("dominadas").value);
+  const sprint_100m = Number(document.getElementById("sprint").value);
+  const carrera_1500m = minSegAsegundos("carrera_min", "carrera_seg");
+  const natacion_100m = minSegAsegundos("natacion_min", "natacion_seg");
+
+  // Los mismos limites que exige el backend (Field(gt=0)/(ge=0)): si algo
+  // todavia esta vacio o en 0, no hay una marca real que recalcular.
+  if (!(dominadas >= 0) || !(sprint_100m > 0) || !(carrera_1500m > 0) || !(natacion_100m > 0)) {
+    return null;
+  }
+  return { dominadas, sprint_100m, carrera_1500m, natacion_100m };
+}
+
+let recalculoEnCurso = null;
+async function recalcularVistaPrevia() {
+  const campos = leerCamposNumericosMarca();
+  if (!campos) return;
+
+  // Evita pisar una respuesta mas vieja si el usuario teclea rapido y
+  // dispara varias llamadas solapadas (ultima peticion lanzada = la que
+  // manda, aunque no sea la ultima en responder).
+  const idPeticion = Symbol();
+  recalculoEnCurso = idPeticion;
+
+  try {
+    const res = await fetchAutenticado("/api/marcas/preview", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ sexo: sexoInput.value, ...campos }),
+    });
+    if (recalculoEnCurso !== idPeticion) return; // llego una respuesta obsoleta
+    if (!res.ok) return;
+    const data = await res.json();
+    pintarResultado(data);
+  } catch (err) {
+    console.error("No se pudo recalcular la vista previa", err);
+  }
+}
+
+sexoBotones.forEach((btn) => {
+  btn.addEventListener("click", () => {
+    sexoBotones.forEach((b) => b.classList.toggle("active", b === btn));
+    sexoInput.value = btn.dataset.sexo;
+    recalcularVistaPrevia();
+  });
+});
+
+["dominadas", "sprint", "carrera_min", "carrera_seg", "natacion_min", "natacion_seg"].forEach((id) => {
+  document.getElementById(id)?.addEventListener("input", recalcularVistaPrevia);
+});
+
 const formTeorica = document.getElementById("form-teorica");
 const resultadoTeoricaBox = document.getElementById("resultado-teorica");
 const notaTeoricaResultadoEl = document.getElementById("nota-teorica-resultado");
@@ -1203,7 +1263,7 @@ function pintarResultado(data) {
     fila.innerHTML = `
       <td class="py-1">${prueba.nombre}</td>
       <td class="py-1">${prueba.valor} ${prueba.unidad}</td>
-      <td class="py-1 font-semibold">${prueba.puntos.toFixed(2)}</td>
+      <td class="py-1 font-semibold">${prueba.puntos}</td>
     `;
     tablaDetalle.appendChild(fila);
   }
@@ -1302,6 +1362,7 @@ form.addEventListener("submit", async (event) => {
 
   const payload = {
     fecha: document.getElementById("fecha").value || null,
+    sexo: sexoInput.value,
     dominadas: Number(document.getElementById("dominadas").value),
     sprint_100m: Number(document.getElementById("sprint").value),
     carrera_1500m: minSegAsegundos("carrera_min", "carrera_seg"),

@@ -311,6 +311,16 @@
               </div>
 
               <div>
+                <span class="block text-sm font-medium mb-1 text-gray-300">Sexo</span>
+                <p class="text-xs text-gray-500 mb-2">El baremo oficial (BOP Huelva 80/2026) fija marcas distintas por sexo.</p>
+                <div class="flex gap-2" id="selector-sexo" role="radiogroup" aria-label="Sexo">
+                  <button type="button" data-sexo="hombre" class="sexo-btn active flex-1">Hombre</button>
+                  <button type="button" data-sexo="mujer" class="sexo-btn flex-1">Mujer</button>
+                </div>
+                <input type="hidden" id="sexo" name="sexo" value="hombre" required />
+              </div>
+
+              <div>
                 <label class="block text-sm font-medium mb-1 text-gray-300" for="dominadas">Dominadas (repeticiones)</label>
                 <input type="number" id="dominadas" name="dominadas" min="0" step="1" required class="field" />
               </div>
@@ -732,6 +742,25 @@
           </p>
         </article>
       </div>
+
+      <!-- Aviso legal: baremo de pruebas fisicas usado en Registrar Marca / Dashboard.
+           Especifico de la convocatoria del Consorcio Provincial de Huelva, no una
+           tabla generica -- avisar de esto evita que el usuario asuma que aplica a
+           cualquier convocatoria de bombero. -->
+      <section class="bg-amber-950/30 border border-amber-800/40 rounded-2xl p-5 flex items-start gap-3">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-amber-400 flex-shrink-0 mt-0.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M12 9v4m0 4h.01M10.29 3.86l-8.18 14.18A2 2 0 003.82 21h16.36a2 2 0 001.71-2.96L13.71 3.86a2 2 0 00-3.42 0z" />
+        </svg>
+        <p class="text-xs text-amber-200/90">
+          <span class="font-semibold text-amber-300">Aviso legal sobre el baremo de pruebas físicas:</span>
+          las tablas de puntuación (Registrar Marca / Dashboard) corresponden al
+          <a href="https://www.diphuelva.es/export/sites/dph/consorcio/.galleries/documentos/Anuncio_356176_BOP-80_2026.pdf" target="_blank" rel="noopener" class="link-boe">Anexo 3 del Decreto 36/2025</a>,
+          publicado en el <strong>BOP de Huelva nº 80/2026</strong> (Consorcio Provincial contra Incendios y
+          Salvamentos de Huelva). Son las marcas oficiales de esa convocatoria concreta, con tablas separadas
+          para hombres y mujeres — otras provincias o convocatorias pueden fijar marcas distintas. Verifica
+          siempre las bases específicas de tu propia convocatoria.
+        </p>
+      </section>
     </main>
 
     <!-- ============ VISTA: ZONA PREMIUM ============ -->
