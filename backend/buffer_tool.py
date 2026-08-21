@@ -75,11 +75,19 @@ def listar_perfiles():
     print(json.dumps(resultado, indent=2, ensure_ascii=False))
 
 
-def crear_post(channel_id: str, texto: str, due_at: str | None = None):
+def crear_post(
+    channel_id: str,
+    texto: str,
+    due_at: str | None = None,
+    hilo: list[str] | None = None,
+):
     """Programa una publicacion en Buffer. Sin due_at, se añade al proximo
     hueco libre de la cola de publicacion (mode: addToQueue) -- no se
     publica de inmediato. Con due_at (ISO 8601, UTC), se programa a esa
-    hora exacta (mode: customScheduled)."""
+    hora exacta (mode: customScheduled). Con hilo (lista de textos), el
+    primer tuit se publica y cada texto adicional se encadena como
+    respuesta automatica al anterior (thread real de X, no una mencion
+    manual) -- solo soportado en canales de Twitter."""
     entrada = {
         "text": texto,
         "channelId": channel_id,
@@ -88,6 +96,10 @@ def crear_post(channel_id: str, texto: str, due_at: str | None = None):
     }
     if due_at:
         entrada["dueAt"] = due_at
+    if hilo:
+        entrada["metadata"] = {
+            "twitter": {"thread": [{"text": t, "assets": []} for t in hilo]}
+        }
 
     datos = _graphql(MUTATION_CREAR_POST, {"input": entrada})["createPost"]
     if "message" in datos:
@@ -119,10 +131,20 @@ if __name__ == "__main__":
             print("Formato de fecha invalido. Usa: 'YYYY-MM-DD HH:MM' (hora local)")
             sys.exit(1)
         crear_post(sys.argv[2], sys.argv[3], due_at)
+    elif len(sys.argv) > 5 and sys.argv[1] == "programar_hilo":
+        # Uso: python buffer_tool.py programar_hilo <channel_id> 'YYYY-MM-DD HH:MM' "<tuit1>" "<tuit2>" [...]
+        try:
+            due_at = _fecha_local_a_iso_utc(sys.argv[3])
+        except ValueError:
+            print("Formato de fecha invalido. Usa: 'YYYY-MM-DD HH:MM' (hora local)")
+            sys.exit(1)
+        textos = sys.argv[4:]
+        crear_post(sys.argv[2], textos[0], due_at, hilo=textos[1:])
     else:
         print(
             "Uso:\n"
             "  python buffer_tool.py listar\n"
             "  python buffer_tool.py publicar <channel_id> '<texto>' [due_at_iso8601]\n"
-            "  python buffer_tool.py programar <channel_id> '<texto>' 'YYYY-MM-DD HH:MM'"
+            "  python buffer_tool.py programar <channel_id> '<texto>' 'YYYY-MM-DD HH:MM'\n"
+            "  python buffer_tool.py programar_hilo <channel_id> 'YYYY-MM-DD HH:MM' '<tuit1>' '<tuit2>' [...]"
         )
