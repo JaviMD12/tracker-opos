@@ -88,4 +88,6 @@ Modelo nuevo: **`models/waitlist.py`** (`Waitlist`: email único + fecha_registr
 
 No listados arriba pero relevantes, en la raíz de `backend/`: **`generar_banco.py`** (genera preguntas del Simulacro con RAG, un tema a la vez, interactivo) y **`generar_banco_completo.py`** (idem pero los 6 temas de una sola vez, no interactivo — es el comando a correr tras ampliar `conocimiento/`, ver [06-simulacros-ia.md](06-simulacros-ia.md)) y **`purgar_preguntas.py`** (vacía la tabla `preguntas_test` antes de regenerar). Todos requieren `GOOGLE_API_KEY` en el `.env` del entorno donde se ejecuten (cargan su propio `load_dotenv()`, no dependen de que la app esté arrancada).
 
+**`buffer_tool.py`** (marketing, no forma parte de la app en sí): programa tuits/hilos reales en la cuenta de X `opotracker` vía la API GraphQL de Buffer (`api.buffer.com`, requiere `BUFFER_ACCESS_TOKEN` en `.env`). Comandos: `listar` (canales), `publicar`/`programar` (un tuit suelto) y `programar_hilo` (tuit + réplicas encadenadas como hilo real, vía `metadata.twitter.thread`). Ver el punto 36 de [07-deuda-tecnica-y-pendientes.md](07-deuda-tecnica-y-pendientes.md) para el histórico de hilos ya programados.
+
 Ver [02](02-autenticacion-y-pagos.md) a [07](07-deuda-tecnica-y-pendientes.md) para el detalle de cada subsistema.
