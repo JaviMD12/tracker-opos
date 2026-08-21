@@ -17,19 +17,22 @@ Generar preguntas con Gemini en cada `POST /api/simulacros/generar` era lento (v
 ## Generación del banco — `backend/generar_banco.py` / `generar_banco_completo.py`
 **Cambio de esta sesión: ahora usa RAG real contra `conocimiento/`**, no el conocimiento general de Gemini sin anclar. Cada lote recupera 8 fragmentos del mismo vectorstore que el Tutor IA (`ai_tutor.py::_obtener_vectorstore()`) para el tema+enfoque de ese lote, y se le pide al modelo que base las preguntas **únicamente** en ese contexto — verificado con ejemplos reales donde la pregunta y la justificación citan literalmente el contenido del PDF fuente.
 
-### Taxonomía de temas — cambiada esta sesión
+### Taxonomía de temas — 7 temas desde el 2026-08-21 (antes 6)
 De `Legislacion / Hidraulica / Fuego` a:
 
 | Tema | Documentos que lo alimentan (RAG) |
 |---|---|
-| Legislacion | Constitución (BOE-A-1978), RD Instalaciones Térmicas (BOE-A-2007), RD seguridad incendios industriales (BOE-A-2025), Estatutos CPBH (TEMA-37), Anuncio convocatoria (BOP-80) |
+| Legislacion | Constitución (BOE-A-1978), RD Instalaciones Térmicas (BOE-A-2007), RD seguridad incendios industriales (BOE-A-2025), Estatutos CPBH (TEMA-37), Anuncio convocatoria (BOP-80), **+15 leyes/decretos añadidos el 2026-08-21** (Bases del Régimen Local, PRL, Gestión de Emergencias en Andalucía, Estatuto de Autonomía de Andalucía, TREBEP, Ley 39/2015, Ley 40/2015, Sistema Nacional de Protección Civil, Decreto 36/2025, TEMA-34 organización del Consorcio, entre otras — ver detalle abajo) |
 | General | **Sin filtro** — todo `conocimiento/` (excepción deliberada) |
 | Rescate | `rescate.pdf` |
 | Sanitario | `sanitario.pdf` |
-| Incendio | `incendios.pdf`, `DBSI.pdf`, TEMA-33 (GLP), `riesgos_tecnologicos.pdf` |
-| Equipos de Intervencion | `eov.pdf`, `mandos.pdf`, TEMA-10, TEMA-36, TEMA-38 |
+| Incendio | `incendios.pdf`, `DBSI.pdf`, TEMA-33 (GLP), `riesgos_tecnologicos.pdf`, **+RD 919/2006 (combustibles gaseosos) y RD 513/2017 RIPCI (2026-08-21)** |
+| Equipos de Intervencion | `eov.pdf`, `mandos.pdf`, TEMA-10, TEMA-36, TEMA-38, **+tabla de pérdida de carga en mangueras (2026-08-21)** |
+| **Provincia** (nueva, 2026-08-21) | Cartografía/historia/cultura de la **provincia de Huelva**: pedanías, ermitas, aguas, litoral, polígonos industriales, gentilicios, "pueblo a pueblo", TEMA-35 (ámbito operativo del Consorcio), bancos de trivial/preguntas ya existentes en `conocimiento/`. Ver [10-flashcards-y-provincia.md](10-flashcards-y-provincia.md) para el detalle completo de la auditoría. |
 
-Reflejado en el `<select id="simulacro-tema">` de `frontend/index.html` y en `TEMA_A_ARCHIVOS` dentro de `generar_banco.py` (única fuente de verdad del mapa, editable ahí si se reclasifica algo).
+Reflejado en los `<select id="simulacro-tema">`/`<select id="flashcard-tema">` de `frontend/index.html` y en `TEMA_A_ARCHIVOS` dentro de `generar_banco.py` (única fuente de verdad del mapa, compartida ahora también por `generar_flashcards.py` — editable en un solo sitio si se reclasifica algo).
+
+**Auditoría de cobertura (2026-08-21)**: se comparó `TEMA_A_ARCHIVOS` contra el contenido real de `conocimiento/` (84 archivos) y se encontraron 68 huérfanos — documentos añadidos en sesiones anteriores que solo eran alcanzables vía `General` sin filtro, nunca usados para generación específica de un tema. Cada uno se identificó leyendo su contenido real con `pdfplumber`/`python-docx` (nunca solo por el nombre del archivo) antes de mapearlo. La mayoría de los huérfanos restantes (CTE genérico, unidades de medida, artículos de rendimiento físico/técnicas de estudio) se dejaron deliberadamente sin mapear a un tema — son contenido transversal o de otro subsistema (Dashboard de rendimiento físico/teórico, no Simulacros/Flashcards), y forzarlos habría sido sobre-clasificación. Ver [10-flashcards-y-provincia.md](10-flashcards-y-provincia.md) para la lista completa.
 
 ### Filtrado RAG por tema (`TEMA_A_ARCHIVOS`)
 Antes, el RAG de cada tema buscaba por pura similitud semántica en **todo** el corpus — "Legislación" acababa recuperando fragmentos de los códigos técnicos de edificación (CTE) por parecido de vocabulario, no por ser realmente legislación. Ahora cada tema (salvo `General`) restringe la búsqueda a una lista de archivos concretos, comparando la metadata `archivo` que `ai_tutor.py` añade a cada chunk indexado (ver [04-tutor-ia-y-rag.md](04-tutor-ia-y-rag.md)) vía `filter={"archivo": {"$in": [...]}}` de Chroma.
@@ -48,7 +51,7 @@ python purgar_preguntas.py           # vacia toda la tabla preguntas_test antes 
 `generar_banco_completo.py` es **idempotente**: si un tema ya tiene la cantidad objetivo o más, se omite; si tiene menos, solo genera lo que falta (reutiliza `generar_y_guardar_lotes()`).
 
 ### Estado actual de los datos
-**600 preguntas (100 × 6 temas)**, generadas y verificadas tanto en local (SQLite) como en producción (VPS, Postgres) al cierre de esta sesión.
+**700 preguntas (100 × 7 temas, incluida Provincia)** generadas y verificadas en local (SQLite) el 2026-08-21. **🟠 Sin desplegar al VPS todavía** — producción sigue en 600 (6 temas), sin la categoría Provincia ni las leyes nuevas de Legislacion/Incendio/Equipos de Intervencion. Ver punto correspondiente en [07-deuda-tecnica-y-pendientes.md](07-deuda-tecnica-y-pendientes.md).
 
 ## Frontend
 Vista "Simulacros" dentro de la Zona Premium (tras el rediseño de pestañas de esta sesión — antes vivía apilada en la misma página que el resto de Plan Pro, ver [09-zona-premium-y-upsell.md](09-zona-premium-y-upsell.md)). Diseño centrado (`max-w-2xl`), sin distracciones. **Actualizado 2026-08-08**: el copy visible se corrigió dos veces — se quitó la descripción "Exámenes tipo test generados a partir del temario oficial" que sonaba a generación en vivo por convocatoria (`8c5dc8a`), y "Simulacros tipo test generados por IA" pasó a "Simulacros de examen" en el cartel de venta de Premium (`f000ca9`) — en ambos casos para no contradecir que el banco es fijo (600 preguntas precargadas), no generado al vuelo. Sin cambios en el mecanismo real descrito arriba.

@@ -46,7 +46,7 @@ backend/
 ├── Internal Database URL.txt     # ⚠️ URL real de Postgres en texto plano, ver 07-deuda-tecnica-y-pendientes.md
 ├── chroma_db_data/                # índice de Chroma persistido (gitignored, ~120MB)
 └── app/
-    ├── main.py                    # crea la app, monta 10 routers, cron APScheduler, StaticFiles
+    ├── main.py                    # crea la app, monta 16 routers, cron APScheduler, StaticFiles
     ├── database.py                # engine condicional SQLite/Postgres
     ├── schemas.py                 # todos los Pydantic, un solo archivo
     ├── models/                    # PAQUETE, no un models.py plano (ver 08-convenciones-de-codigo.md)
@@ -57,7 +57,9 @@ backend/
     │   ├── sesion_estudio.py        # SesionEstudio (Pomodoro → heatmap)
     │   ├── convocatoria.py          # Convocatoria (Tablon Premium, scraper BOE/BOJA)
     │   ├── resultado_simulacro.py   # ResultadoSimulacro (notas de los examenes IA)
-    │   └── pregunta_test.py         # PreguntaTest: banco precargado del Simulacro (ver 06-simulacros-ia.md), NO se genera en vivo por peticion
+    │   ├── pregunta_test.py         # PreguntaTest: banco precargado del Simulacro (ver 06-simulacros-ia.md), NO se genera en vivo por peticion
+    │   ├── flashcard.py              # Flashcard: banco precargado de tarjetas Q/A (ver 10-flashcards-y-provincia.md)
+    │   └── progreso_flashcard.py     # ProgresoFlashcard: intervalo_dias/facilidad/fecha_proximo_repaso por usuario (SRS)
     ├── routers/
     │   ├── auth.py                  # registro, login, google, olvido/reset password
     │   ├── marcas.py                 # POST/GET /api/marcas
@@ -71,6 +73,7 @@ backend/
     │   ├── convocatorias.py                # /api/convocatorias (Tablon Premium)
     │   ├── tutor.py                         # /api/tutor/analizar-plaza/{id} (plan de estudio IA)
     │   ├── simulacros.py                     # /api/simulacros/generar y /guardar
+    │   ├── flashcards.py                      # /api/flashcards/due y /review (ver 10-flashcards-y-provincia.md)
     │   ├── contacto.py                        # /api/contacto/enviar (soporte/sugerencias, trato Premium/Gratuito distinto)
     │   ├── usuarios.py                         # /api/usuarios/me
     │   └── waitlist.py                          # /api/waitlist + /export.csv (nuevo 2026-08-10, ver 02-autenticacion-y-pagos.md)
@@ -80,13 +83,14 @@ backend/
     │   ├── rutinas.py                           # RUTINAS_PRO y TECNICAS_ESTUDIO_PRO (estaticos)
     │   ├── ai_tutor.py                          # RAG: vectorstore, chat, plan de estudio, simulacros
     │   ├── scraper_boletines.py                  # scraper BOE/BOJA + deep scraping + IA
-    │   └── rate_limit.py                          # limiter de slowapi (import aislado para evitar ciclo main.py<->chat.py)
-    └── conocimiento/                              # ~20 PDFs/TXT de temario real + convocatorias
+    │   ├── rate_limit.py                          # limiter de slowapi (import aislado para evitar ciclo main.py<->chat.py)
+    │   └── srs.py                                  # algoritmo de repeticion espaciada (SM-2 simplificado) de Flashcards
+    └── conocimiento/                              # 73 archivos reales (.pdf/.docx/.xlsx/.txt) de temario, convocatorias y contenido de la provincia de Huelva -- conteo verificado el 2026-08-21 tras eliminar 11 duplicados, ver 10-flashcards-y-provincia.md
 ```
 
 Modelo nuevo: **`models/waitlist.py`** (`Waitlist`: email único + fecha_registro, sin FK a `Usuario` a propósito — no exige cuenta para apuntarse). Ver [02-autenticacion-y-pagos.md](02-autenticacion-y-pagos.md).
 
-No listados arriba pero relevantes, en la raíz de `backend/`: **`generar_banco.py`** (genera preguntas del Simulacro con RAG, un tema a la vez, interactivo) y **`generar_banco_completo.py`** (idem pero los 6 temas de una sola vez, no interactivo — es el comando a correr tras ampliar `conocimiento/`, ver [06-simulacros-ia.md](06-simulacros-ia.md)) y **`purgar_preguntas.py`** (vacía la tabla `preguntas_test` antes de regenerar). Todos requieren `GOOGLE_API_KEY` en el `.env` del entorno donde se ejecuten (cargan su propio `load_dotenv()`, no dependen de que la app esté arrancada).
+No listados arriba pero relevantes, en la raíz de `backend/`: **`generar_banco.py`** (genera preguntas del Simulacro con RAG, un tema a la vez, interactivo) y **`generar_banco_completo.py`** (idem pero los 7 temas de una sola vez, no interactivo — es el comando a correr tras ampliar `conocimiento/`, ver [06-simulacros-ia.md](06-simulacros-ia.md)) y **`purgar_preguntas.py`** (vacía la tabla `preguntas_test` antes de regenerar). Todos requieren `GOOGLE_API_KEY` en el `.env` del entorno donde se ejecuten (cargan su propio `load_dotenv()`, no dependen de que la app esté arrancada). **`generar_flashcards.py`** (nuevo, 2026-08-21): mismo patrón que `generar_banco_completo.py` pero para la tabla `flashcards` — reutiliza `TEMA_A_ARCHIVOS`/`TEMAS_CONOCIDOS`/`ENFOQUES_ROTATORIOS` de `generar_banco.py`, ver [10-flashcards-y-provincia.md](10-flashcards-y-provincia.md).
 
 **`buffer_tool.py`** (marketing, no forma parte de la app en sí): programa tuits/hilos reales en la cuenta de X `opotracker` vía la API GraphQL de Buffer (`api.buffer.com`, requiere `BUFFER_ACCESS_TOKEN` en `.env`). Comandos: `listar` (canales), `publicar`/`programar` (un tuit suelto) y `programar_hilo` (tuit + réplicas encadenadas como hilo real, vía `metadata.twitter.thread`). Ver el punto 36 de [07-deuda-tecnica-y-pendientes.md](07-deuda-tecnica-y-pendientes.md) para el histórico de hilos ya programados.
 

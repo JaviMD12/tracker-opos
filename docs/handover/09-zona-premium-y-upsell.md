@@ -4,6 +4,8 @@
 
 Rediseño de pestañas original de la sesión del 2026-08-02. **Actualizado el 2026-08-08**: una tanda de 11 commits posteriores (`f3454a1`..`f000ca9`) sacó Acondicionamiento Físico y Alto Rendimiento Teórico de Premium por completo (ahora viven gratis en el Dashboard, ver [03](03-rendimiento-fisico-teorico-gamificacion.md)) y añadió el Modo Enfoque como 4ª pestaña — la Zona Premium de pago real quedó reducida a **Tablón de Plazas + Tutor Inteligente 24/7 + Simulacros + Modo Enfoque**. Antes de la sesión del 2026-08-02, la Zona Premium era una única página larga con todo apilado y el Dashboard gratuito no tenía ningún gancho de conversión hacia el Plan Pro.
 
+> **Actualizado el 2026-08-21**: se añadió una **5ª pestaña, Flashcards** (`#premium-view-flashcards`, `data-premium-view="flashcards"`), mismo patrón `premium-tab-btn`/`premium-subview` descrito abajo — no se tocó el mecanismo de navegación en sí, solo se sumó una entrada más al mapa `premiumSubviews` de `main.js`. Sigue **sin añadirse a `PASOS_TOUR_PREMIUM`** (mismo caso que el Modo Enfoque, ver más abajo). Todo el resto de esta página (4 sub-vistas, tour de 3 pasos) sigue describiendo el estado antes de este cambio salvo donde se indique lo contrario — ver [10-flashcards-y-provincia.md](10-flashcards-y-provincia.md) para el detalle completo del módulo nuevo.
+
 ## De página larga a 4 sub-vistas con pestañas (hoy: Tablón / Tutor / Simulacros / Modo Enfoque)
 La Zona Premium (`#view-premium` en `frontend/index.html`) tiene 4 sub-vistas con su propia sub-navegación por pestañas (`.premium-tab-btn` + `data-premium-view`, función `activarVistaPremium(nombre)` en `main.js`):
 
