@@ -416,6 +416,7 @@ const premiumSubviews = {
   inicio: document.getElementById("premium-view-inicio"),
   tutor: document.getElementById("premium-view-tutor"),
   simulacros: document.getElementById("premium-view-simulacros"),
+  flashcards: document.getElementById("premium-view-flashcards"),
   enfoque: document.getElementById("premium-view-enfoque"),
 };
 
@@ -1653,6 +1654,108 @@ btnNuevoSimulacro.addEventListener("click", () => {
   btnCorregirSimulacro.classList.remove("hidden");
   simulacroConfigBox.classList.remove("hidden");
 });
+
+// ---------- Flashcards (repeticion espaciada estilo Anki, Zona Premium) ----------
+const flashcardTemaSelect = document.getElementById("flashcard-tema");
+const btnEmpezarFlashcards = document.getElementById("btn-empezar-flashcards");
+const flashcardConfigBox = document.getElementById("flashcard-config");
+const flashcardSesionBox = document.getElementById("flashcard-sesion");
+const flashcardVacioBox = document.getElementById("flashcard-vacio");
+const flashcardProgresoEl = document.getElementById("flashcard-progreso");
+const flashcardEl = document.getElementById("flashcard");
+const flashcardPreguntaEl = document.getElementById("flashcard-pregunta");
+const flashcardRespuestaEl = document.getElementById("flashcard-respuesta");
+const flashcardBotonesRespuesta = document.getElementById("flashcard-botones-respuesta");
+const btnNuevaSesionFlashcards = document.getElementById("btn-nueva-sesion-flashcards");
+
+// Cola de tarjetas pendientes de la sesion en curso, guardada en memoria:
+// avanzar de tarjeta no necesita otra llamada al backend hasta que se acaba.
+let colaFlashcards = [];
+let indiceFlashcardActual = 0;
+
+function pintarFlashcardActual() {
+  const tarjeta = colaFlashcards[indiceFlashcardActual];
+  flashcardEl.classList.remove("volteada");
+  flashcardBotonesRespuesta.classList.add("hidden");
+  flashcardPreguntaEl.textContent = tarjeta.pregunta;
+  flashcardRespuestaEl.textContent = tarjeta.respuesta;
+  flashcardProgresoEl.textContent = `${indiceFlashcardActual + 1} / ${colaFlashcards.length}`;
+}
+
+function mostrarPasoFlashcards(paso) {
+  flashcardConfigBox.classList.toggle("hidden", paso !== "config");
+  flashcardSesionBox.classList.toggle("hidden", paso !== "sesion");
+  flashcardVacioBox.classList.toggle("hidden", paso !== "vacio");
+}
+
+btnEmpezarFlashcards.addEventListener("click", async () => {
+  const tema = flashcardTemaSelect.value;
+  const textoOriginal = btnEmpezarFlashcards.textContent;
+
+  btnEmpezarFlashcards.disabled = true;
+  btnEmpezarFlashcards.textContent = "Cargando...";
+
+  try {
+    const res = await fetchAutenticado(`/api/flashcards/due?tema=${encodeURIComponent(tema)}`);
+    const data = await res.json();
+
+    if (!res.ok) {
+      mostrarToast(data.detail ?? "No se pudieron cargar las flashcards.", "error");
+      return;
+    }
+
+    if (!data.flashcards.length) {
+      mostrarPasoFlashcards("vacio");
+      return;
+    }
+
+    colaFlashcards = data.flashcards;
+    indiceFlashcardActual = 0;
+    pintarFlashcardActual();
+    mostrarPasoFlashcards("sesion");
+  } catch (err) {
+    console.error("No se pudieron cargar las flashcards", err);
+    mostrarToast("No se pudo conectar con el backend.", "error");
+  } finally {
+    btnEmpezarFlashcards.disabled = false;
+    btnEmpezarFlashcards.textContent = textoOriginal;
+  }
+});
+
+flashcardEl.addEventListener("click", () => {
+  if (flashcardEl.classList.contains("volteada")) return;
+  flashcardEl.classList.add("volteada");
+  flashcardBotonesRespuesta.classList.remove("hidden");
+});
+
+async function responderFlashcard(resultado) {
+  const tarjeta = colaFlashcards[indiceFlashcardActual];
+
+  // Guardado silencioso: el usuario ya esta viendo la siguiente tarjeta, un
+  // fallo de red aqui no debe interrumpirle la sesion de repaso.
+  try {
+    await fetchAutenticado("/api/flashcards/review", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ flashcard_id: tarjeta.id, resultado }),
+    });
+  } catch (err) {
+    console.error("No se pudo guardar el repaso de la flashcard", err);
+  }
+
+  indiceFlashcardActual++;
+  if (indiceFlashcardActual >= colaFlashcards.length) {
+    mostrarPasoFlashcards("vacio");
+    return;
+  }
+  pintarFlashcardActual();
+}
+
+document.getElementById("btn-flashcard-facil").addEventListener("click", () => responderFlashcard(1));
+document.getElementById("btn-flashcard-medio").addEventListener("click", () => responderFlashcard(2));
+document.getElementById("btn-flashcard-dificil").addEventListener("click", () => responderFlashcard(3));
+
+btnNuevaSesionFlashcards.addEventListener("click", () => mostrarPasoFlashcards("config"));
 
 // ---------- Modo Enfoque (Pomodoro, apartado de la Zona Premium) ----------
 let timerInterval;

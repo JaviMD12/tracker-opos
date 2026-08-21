@@ -50,6 +50,7 @@ TEMAS_CONOCIDOS = [
     "Sanitario",
     "Incendio",
     "Equipos de Intervencion",
+    "Provincia",
 ]
 
 # Se rota un enfoque distinto por lote (ver generar_preguntas_openai) para
@@ -104,6 +105,27 @@ TEMA_A_ARCHIVOS: dict[str, list[str] | None] = {
         "BOE-A-2025-7190-consolidado.pdf",
         "TEMA-37.-ESTATUTOS-DEL-CPBH.pdf",
         "Anuncio_356176_BOP-80_2026.pdf",
+        # Añadidos en la auditoria de 2026-08-21: estaban en conocimiento/
+        # desde antes, pero solo eran alcanzables via "General" (sin filtro)
+        # -- generar_banco.py nunca los usaba especificamente para preguntas
+        # de Legislacion. Identificados uno a uno con pdfplumber/python-docx
+        # antes de mapearlos, no solo por el nombre del archivo (ver el patron
+        # ya establecido en docs/handover/08-convenciones-de-codigo.md).
+        "BOE-A-1985-151-consolidado.pdf",  # Ley 53/1984, Incompatibilidades del personal al servicio de las AAPP
+        "BOE-A-1985-5392-consolidado.pdf",  # Ley 7/1985, Reguladora de las Bases del Regimen Local
+        "BOE-A-1995-24292-consolidado.pdf",  # Ley 31/1995, Prevencion de Riesgos Laborales
+        "BOE-A-2002-24156-consolidado.pdf",  # Ley 2/2002, Gestion de Emergencias en Andalucia
+        "BOE-A-2007-5825-consolidado.pdf",  # Estatuto de Autonomia para Andalucia
+        "BOE-A-2008-2492-consolidado.pdf",  # Ley 12/2007, igualdad de genero en Andalucia
+        "BOE-A-2008-2493-consolidado.pdf",  # Ley 13/2007, prevencion y proteccion contra la violencia de genero
+        "BOE-A-2010-11491-consolidado.pdf",  # Ley 5/2010, autonomia local de Andalucia
+        "BOE-A-2015-10565-consolidado.pdf",  # Ley 39/2015, Procedimiento Administrativo Comun
+        "BOE-A-2015-10566-consolidado.pdf",  # Ley 40/2015, Regimen Juridico del Sector Publico
+        "BOE-A-2015-11719-consolidado.pdf",  # RD Legislativo 5/2015, Estatuto Basico del Empleado Publico (TREBEP)
+        "BOE-A-2015-7730-consolidado.pdf",  # Ley 17/2015, Sistema Nacional de Proteccion Civil
+        "BOE-A-2023-16066-consolidado.pdf",  # Ley 5/2023, Funcion Publica de Andalucia
+        "BOJA25-032-00076-2032-01_00315641.pdf",  # Decreto 36/2025, acceso/promocion del personal de bomberos
+        "TEMA-34-ORGANIZACION-DEL-CONSORCIO-DE-BOMBEROS-DE-HUELVA.pdf",
     ],
     "General": None,
     "Rescate": ["rescate.pdf"],
@@ -113,6 +135,9 @@ TEMA_A_ARCHIVOS: dict[str, list[str] | None] = {
         "DBSI.pdf",
         "TEMA-33-INSTALACIONES-GLP-EMERGENCIAS-GLP-MEDICION-ATEX.pdf",
         "riesgos_tecnologicos.pdf",
+        # Auditoria 2026-08-21, mismo motivo que en Legislacion.
+        "BOE-A-2006-15345-consolidado.pdf",  # RD 919/2006, combustibles gaseosos (motiva TEMA-33/riesgos_tecnologicos)
+        "BOE-A-2017-6606-consolidado.pdf",  # RD 513/2017, Reglamento de Instalaciones de Proteccion contra Incendios
     ],
     "Equipos de Intervencion": [
         "eov.pdf",
@@ -120,6 +145,41 @@ TEMA_A_ARCHIVOS: dict[str, list[str] | None] = {
         "TEMA-10.-Equipos-de-Proteccion-Individual.pdf",
         "TEMA-36-PROCEDIMIENTOS-DE-TRENES-DE-SALIDA-SEGUN-TIPO-DE-SERVICIO.pdf",
         "TEMA-38-PO15-DE-USO-DE-EPI-VESTUARIO-Y-UNIFORMIDAD.pdf",
+        # Auditoria 2026-08-21: tabla real usada para el fix de pdfplumber
+        # (ver docs/handover/04-tutor-ia-y-rag.md), nunca se habia mapeado a
+        # un tema especifico.
+        "Tablas de pérdida de carga en mangueras de bomberos.pdf",
+    ],
+    # Categoria nueva (2026-08-21), a peticion del usuario: cartografia,
+    # historia y cultura general de la provincia de Huelva -- distinto de
+    # "Legislacion" (leyes) o "General" (todo el corpus sin filtrar). Se
+    # excluyen deliberadamente los Anexos 2/3 del PTEAnd (geografia de
+    # ANDALUCIA completa, no de la provincia) y las fichas tecnicas de
+    # unidades de medida/CTE (contenido generico, no especifico de Huelva) --
+    # esos se quedan solo en "General", sin forzarlos aqui.
+    "Provincia": [
+        # "2018_modelo_hitos_km_0.pdf" y "ReddeCarreterasdeAndalucia_Diciembre2024_0.pdf"
+        # se probaron aqui y se descartaron (2026-08-21): pese al nombre, son
+        # datos de TODA Andalucia (verificado con pdfplumber, ej. km de Red
+        # Provincial de Cadiz/Cordoba), y colaban flashcards de otras
+        # provincias en la categoria "Provincia de Huelva". Se quedan solo en
+        # "General", sin filtro de tema.
+        "251 PREGUNTAS DE LA PROVINCIA.docx",
+        "AGUAS DE HUELVA.docx",
+        "Base_Conocimiento_Bomberos_Huelva_por_Parque.docx",
+        "CARRETERAS POR PUNTOS KM.pdf",
+        "Documento.docx",
+        "ERMITAS DE LA PROVINCIA DE HUELVA.docx",
+        "GENTILICIOS.xlsx",
+        "HUELVA LA LUZ.docx",
+        "LITORAL ONUBENSE.docx",
+        "MIS PREGUNTAS 2.docx",
+        "PEDANIAS.docx",
+        "POLÍGONOS INDUSTRIALES.docx",
+        "PUEBLO A PUEBLO.docx",
+        "TEMA-35-AMBITO-DE-ACTUACION-DE-LOS-PARQUES-DEL-CONSORCIOok.pdf",
+        "TRIVIAL.docx",
+        "mapa carreteras huelva.pdf",  # verificado: "MAPA PROVINCIAL... RED DE CARRETERAS DE LA PROVINCIA DE HUELVA"
     ],
 }
 

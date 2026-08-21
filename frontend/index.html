@@ -846,6 +846,14 @@
               </svg>
               Simulacros
             </button>
+            <button type="button" data-premium-view="flashcards"
+                    class="premium-tab-btn flex items-center gap-2 px-4 py-2.5 text-sm font-medium whitespace-nowrap">
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M4 6.5A2.5 2.5 0 0 1 6.5 4H18a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6.5A2.5 2.5 0 0 1 4 17.5v-11Z" />
+                <path stroke-linecap="round" stroke-linejoin="round" d="M4 6.5A2.5 2.5 0 0 1 6.5 4H18a2 2 0 0 1 2 2M4 17.5A2.5 2.5 0 0 0 6.5 20H18a2 2 0 0 0 2-2" />
+              </svg>
+              Flashcards
+            </button>
             <button type="button" data-premium-view="enfoque"
                     class="premium-tab-btn flex items-center gap-2 px-4 py-2.5 text-sm font-medium whitespace-nowrap">
               <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
@@ -933,6 +941,7 @@
                     <option value="Sanitario">Sanitario</option>
                     <option value="Incendio">Incendio</option>
                     <option value="Equipos de Intervencion">Equipos de Intervención</option>
+                  <option value="Provincia">Provincia</option>
                   </select>
                 </div>
                 <div>
@@ -964,6 +973,72 @@
                   Generar otro simulacro
                 </button>
               </div>
+            </section>
+          </div>
+        </div>
+
+        <!-- ============ SUB-VISTA: FLASHCARDS (repeticion espaciada, estilo Anki) ============ -->
+        <div id="premium-view-flashcards" class="premium-subview hidden flex-1 min-h-0 overflow-y-auto">
+          <div class="max-w-2xl mx-auto w-full p-4 sm:p-6 lg:p-10 space-y-6">
+            <div class="text-center space-y-1.5">
+              <h3 class="text-xl font-bold text-white">Flashcards</h3>
+              <p class="text-sm text-gray-500">Repaso con repetición espaciada: cada tarjeta vuelve justo antes de que se te olvide.</p>
+            </div>
+
+            <!-- Paso 1: eleccion de tema -->
+            <section id="flashcard-config" class="bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-6 lg:p-8">
+              <div class="mb-6">
+                <label class="block text-sm font-medium mb-1 text-gray-300" for="flashcard-tema">Tema</label>
+                <select id="flashcard-tema" class="field">
+                  <option value="Legislacion">Legislación</option>
+                  <option value="General">General</option>
+                  <option value="Rescate">Rescate</option>
+                  <option value="Sanitario">Sanitario</option>
+                  <option value="Incendio">Incendio</option>
+                  <option value="Equipos de Intervencion">Equipos de Intervención</option>
+                  <option value="Provincia">Provincia</option>
+                </select>
+              </div>
+              <button type="button" id="btn-empezar-flashcards" class="btn-primary w-full">
+                Empezar repaso
+              </button>
+            </section>
+
+            <!-- Paso 2: sesion de repaso -->
+            <section id="flashcard-sesion" class="hidden space-y-5">
+              <p id="flashcard-progreso" class="text-center text-xs font-medium text-gray-500 tracking-wide">-- / --</p>
+
+              <div id="flashcard-escenario" class="flashcard-escenario">
+                <div id="flashcard" class="flashcard">
+                  <div class="flashcard-cara flashcard-cara-frontal">
+                    <p id="flashcard-pregunta" class="flashcard-texto"></p>
+                    <span class="flashcard-pista">Toca la tarjeta para ver la respuesta</span>
+                  </div>
+                  <div class="flashcard-cara flashcard-cara-trasera">
+                    <p id="flashcard-respuesta" class="flashcard-texto"></p>
+                  </div>
+                </div>
+              </div>
+
+              <div id="flashcard-botones-respuesta" class="hidden flashcard-botones-respuesta">
+                <button type="button" id="btn-flashcard-dificil" class="btn-flashcard-dificil">Difícil</button>
+                <button type="button" id="btn-flashcard-medio" class="btn-flashcard-medio">Medio</button>
+                <button type="button" id="btn-flashcard-facil" class="btn-flashcard-facil">Fácil</button>
+              </div>
+            </section>
+
+            <!-- Paso 3: sin tarjetas pendientes (al vaciar la cola, o si no habia ninguna) -->
+            <section id="flashcard-vacio" class="hidden text-center bg-gray-800/60 border border-gray-700 rounded-2xl shadow-lg p-8 space-y-3">
+              <div class="icon-badge mx-auto">
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" />
+                </svg>
+              </div>
+              <h4 class="text-lg font-bold text-white">Sin tarjetas pendientes</h4>
+              <p class="text-sm text-gray-500">Has repasado todo lo que tocaba hoy en este tema. Vuelve mañana o prueba otro tema.</p>
+              <button type="button" id="btn-nueva-sesion-flashcards" class="text-xs text-gray-500 hover:text-amber-400 underline underline-offset-2 transition mt-2">
+                Elegir otro tema
+              </button>
             </section>
           </div>
         </div>

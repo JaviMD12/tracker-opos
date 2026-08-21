@@ -630,6 +630,87 @@ table td, table th {
   line-height: 1.5;
 }
 
+/* ---------- Plan Pro: Flashcards (repeticion espaciada, estilo Anki) ---------- */
+.flashcard-escenario {
+  /* La perspectiva vive en el contenedor, no en la tarjeta: asi el flip 3D
+     tiene punto de fuga (profundidad real) en vez de un simple stretch. */
+  perspective: 1400px;
+}
+.flashcard {
+  position: relative;
+  width: 100%;
+  min-height: 280px;
+  cursor: pointer;
+  transform-style: preserve-3d;
+  transition: transform 0.55s cubic-bezier(0.4, 0.15, 0.2, 1);
+}
+.flashcard.volteada {
+  transform: rotateY(180deg);
+}
+.flashcard-cara {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  text-align: center;
+  padding: 2rem 1.75rem;
+  border-radius: 1rem;
+  /* Sin esto ambas caras se veen a la vez superpuestas durante el giro. */
+  backface-visibility: hidden;
+  background-color: #1a1a1a;
+  border: 1px solid #374151; /* gray-700 */
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+}
+.flashcard-cara-trasera {
+  transform: rotateY(180deg);
+  background: linear-gradient(160deg, rgba(234, 88, 12, 0.16), rgba(17, 17, 17, 0.94));
+  border-color: rgba(245, 158, 11, 0.35);
+}
+.flashcard-texto {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #f3f4f6; /* gray-100 */
+  line-height: 1.55;
+}
+.flashcard-pista {
+  font-size: 0.75rem;
+  color: #6b7280; /* gray-500 */
+}
+.flashcard-botones-respuesta {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.6rem;
+}
+.flashcard-botones-respuesta button {
+  padding: 0.7rem 0.5rem;
+  border-radius: 0.6rem;
+  font-weight: 600;
+  font-size: 0.85rem;
+  transition: transform 0.1s, filter 0.15s;
+}
+.flashcard-botones-respuesta button:hover {
+  transform: translateY(-2px);
+  filter: brightness(1.1);
+}
+#btn-flashcard-facil {
+  background: rgba(34, 197, 94, 0.15);
+  border: 1px solid rgba(34, 197, 94, 0.4);
+  color: #4ade80; /* green-400 */
+}
+#btn-flashcard-medio {
+  background: rgba(245, 158, 11, 0.15);
+  border: 1px solid rgba(245, 158, 11, 0.4);
+  color: #fbbf24; /* amber-400 */
+}
+#btn-flashcard-dificil {
+  background: rgba(239, 68, 68, 0.15);
+  border: 1px solid rgba(239, 68, 68, 0.4);
+  color: #f87171; /* red-400 */
+}
+
 /* ---------- Plan Pro: Tutor Inteligente (chat RAG) ---------- */
 .chat-mensajes {
   display: flex;

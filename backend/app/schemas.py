@@ -131,6 +131,11 @@ class ResultadoSimulacroCreate(BaseModel):
     total_preguntas: int = Field(gt=0)
 
 
+class FlashcardReviewIn(BaseModel):
+    flashcard_id: int
+    resultado: int = Field(ge=1, le=3)  # 1=Facil, 2=Medio, 3=Dificil
+
+
 class SugerenciaCreate(BaseModel):
     asunto: str = Field(min_length=1, max_length=150)
     mensaje: str = Field(min_length=1, max_length=2000)

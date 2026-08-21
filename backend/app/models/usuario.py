@@ -31,3 +31,6 @@ class Usuario(Base):
     resultados_simulacro = relationship(
         "ResultadoSimulacro", back_populates="usuario", cascade="all, delete-orphan"
     )
+    progreso_flashcards = relationship(
+        "ProgresoFlashcard", back_populates="usuario", cascade="all, delete-orphan"
+    )

@@ -22,8 +22,10 @@ from starlette.middleware.sessions import SessionMiddleware  # noqa: E402
 from app.database import Base, SessionLocal, engine  # noqa: E402
 from app.services.rate_limit import limiter  # noqa: E402
 from app.models.convocatoria import Convocatoria  # noqa: F401,E402 (registra el modelo en Base)
+from app.models.flashcard import Flashcard  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.marca import MarcaFisica  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.pregunta_test import PreguntaTest  # noqa: F401,E402 (registra el modelo en Base)
+from app.models.progreso_flashcard import ProgresoFlashcard  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.resultado_simulacro import ResultadoSimulacro  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.sesion_estudio import SesionEstudio  # noqa: F401,E402 (registra el modelo en Base)
 from app.models.simulacro import SimulacroTeorico  # noqa: F401,E402 (registra el modelo en Base)
@@ -37,6 +39,7 @@ from app.routers import (  # noqa: E402
     contacto,
     convocatorias,
     dashboard,
+    flashcards,
     marcas,
     pagos,
     pro,
@@ -182,6 +185,7 @@ app.include_router(workouts.router)
 app.include_router(convocatorias.router)
 app.include_router(tutor.router)
 app.include_router(simulacros.router)
+app.include_router(flashcards.router)
 app.include_router(usuarios.router)
 app.include_router(waitlist.router)
 
