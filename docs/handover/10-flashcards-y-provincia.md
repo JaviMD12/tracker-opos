@@ -38,7 +38,7 @@ cd backend
 python generar_flashcards.py [cantidad_por_tema]   # no interactivo, todos los temas, 30 por defecto, idempotente
 ```
 
-**Estado actual: 210 flashcards (30 × 7 temas)** generadas y verificadas en local el 2026-08-21. **🟠 Sin desplegar al VPS.**
+**Estado actual: 2100 flashcards (300 × 7 temas)**, igual en local y en producción (subido de 30 a 300 por tema el 2026-08-22, a petición explícita del usuario — ver "Ronda de volumen" más abajo). ✅ Desplegado y verificado en el VPS.
 
 ## Frontend
 
@@ -73,3 +73,17 @@ Pasos reales ejecutados por SSH (par de claves ed25519 efímero de la sesión, a
 5. Verificado con consultas reales contra la Postgres de producción: conteos exactos y una muestra de contenido de Provincia en ambas tablas, todo específico de Huelva.
 
 **No hizo falta** `systemctl restart` de nuevo (las tablas ya existían desde el primer reinicio que hizo el usuario) ni tocar código — solo datos.
+
+## Ronda de volumen (mismo día, 2026-08-22)
+
+A petición explícita del usuario ("sigue generando... hasta que tenga un número indecente"): se subió el objetivo de **30→300 flashcards/tema** y de **100-200→500 preguntas de Simulacro/tema**, ejecutado primero en local y despues en producción (en ese orden, para no competir por la cuota de Gemini). Resultado final, igual en ambos entornos:
+
+- **2100 flashcards** (300 × 7 temas).
+- **3500 preguntas de Simulacro** (500 × 7 temas) — el VPS partía de 200/tema (más alto que el objetivo de referencia de 100 usado en rondas anteriores), así que quedó igualado con local en vez de quedarse corto.
+
+**Patrón real encontrado al generar en volumen alto**: con la lista de "no repitas esto" ya con cientos de enunciados, Gemini falla ocasionalmente con un JSON mal formado a mitad de lote (`json.JSONDecodeError`) — el script ya lo maneja por diseño (conserva lo guardado, para ese tema y sigue con el siguiente), pero eso deja algunos temas por debajo del objetivo en la primera pasada:
+
+- Local: Sanitario se quedó en 214/500 (tema de un único documento, `sanitario.pdf`) — resuelto **relanzando el mismo comando** (idempotente, solo rellena el hueco).
+- VPS: Equipos de Intervencion y Provincia se quedaron cortos igual — Equipos de Intervencion necesitó **tres relanzamientos** (304→304→327→500) para completarse del todo, con incrementos pequeños en cada intento. Esto confirma que **no es un límite real de contenido** (el mismo tema sí llegó a 500 a la primera en local con el mismo corpus) sino variabilidad normal de Gemini generando JSON largo — si se repite, seguir relanzando sin miedo, no hace falta cambiar nada en el código.
+
+Limpieza: los scripts de reintento (`retry_flashcards_vps*.sh`, `retry_banco_vps*.sh`) y sus logs eran archivos temporales subidos a `/root/` en el VPS por `scp`, **no viven en el repo** — se borraron del VPS al terminar. Si hace falta repetir este patrón en el futuro, el wrapper de reintento (bucle de 4 intentos, limpia `chroma_db_data/` parcial con `shutil.rmtree()` si aplica, espera 90s entre intentos) está documentado en la sección de despliegue de arriba y es trivial de recrear.
